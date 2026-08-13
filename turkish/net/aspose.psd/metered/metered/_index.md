@@ -1,23 +1,24 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PSD for .NET API Referansı
-description: Metered inşaatçı. Default_Constructor
+title: "Metered.Metered"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Metered yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/metered/metered/
 ---
+{{< psd/tize >}}
 ## Metered constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public Metered()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Metered](../)
-* ad alanı [Aspose.PSD](../../metered/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

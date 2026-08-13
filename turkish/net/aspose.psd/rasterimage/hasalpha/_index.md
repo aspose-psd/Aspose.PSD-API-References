@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Bu örneğin alfaya sahip olup olmadığını gösteren bir değer alır.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Bu örneğin alfa içerip içermediğini gösteren bir değeri alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-Bu örneğin alfaya sahip olup olmadığını gösteren bir değer alır.
+Bu örneğin alfa içerip içermediğini gösteren bir değeri alır.
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnekte alfa varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek alfa içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

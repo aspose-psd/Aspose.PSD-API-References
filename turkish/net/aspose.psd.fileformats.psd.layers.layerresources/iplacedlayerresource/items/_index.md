@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.Items
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. Çözgü öğelerini alır veya ayarlar.
+title: "IPlacedLayerResource.Items"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. Çarpıtma öğelerini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Items property
 
-Çözgü öğelerini alır veya ayarlar.
+Bükme öğelerini alır veya ayarlar.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çözgü öğeleri.
+Çarpıtma öğeleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../ostypestructure/)
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

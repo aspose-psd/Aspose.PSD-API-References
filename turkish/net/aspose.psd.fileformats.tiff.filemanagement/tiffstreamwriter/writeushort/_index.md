@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteUShort
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa tek bir işaretsiz kısa değer yazar.
+title: "TiffStreamWriter.WriteUShort"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akışa tek bir işaretsiz kısa değer yazar."
 type: docs
 weight: 220
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShort method
 
 Akışa tek bir işaretsiz kısa değer yazar.
@@ -14,14 +15,14 @@ Akışa tek bir işaretsiz kısa değer yazar.
 public void WriteUShort(ushort data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | UInt16 | Yazılacak değer. |
+| veri | UInt16 | Yazılacak değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

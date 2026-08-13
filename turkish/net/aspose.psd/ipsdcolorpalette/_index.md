@@ -1,33 +1,34 @@
 ---
-title: Interface IPsdColorPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IPsdColorPalette arayüz. Geçen renk paleti
+title: "Arayüz IPsdColorPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IPsdColorPalette arayüzü. pasd renk paleti"
 type: docs
-weight: 4550
+weight: 5050
 url: /tr/net/aspose.psd/ipsdcolorpalette/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette interface
 
-Geçen renk paleti
+pasd renk paleti
 
 ```csharp
 public interface IPsdColorPalette : IColorPalette
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Saydam rengin var olup olmadığını gösteren bir değer alır. |
+| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Şeffaf rengin var olup olmadığını gösteren bir değer alır. |
 | [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Ham renk paleti giriş verilerini alır. |
 | [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Ham renk paleti giriş sayısını alır. |
 | [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Şeffaf rengi alır. |
-| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Saydam rengin indeksini alır. |
+| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Şeffaf rengin indeksini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../icolorpalette/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

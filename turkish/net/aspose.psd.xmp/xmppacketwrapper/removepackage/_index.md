@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper yöntem. XMP paketini kaldırır.
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper yöntemi. XMP paketini kaldırır."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
 XMP paketini kaldırır.
@@ -14,15 +15,15 @@ XMP paketini kaldırır.
 public void RemovePackage(XmpPackage package)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| package | XmpPackage | paket. |
+| paket | XmpPackage | Paket. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

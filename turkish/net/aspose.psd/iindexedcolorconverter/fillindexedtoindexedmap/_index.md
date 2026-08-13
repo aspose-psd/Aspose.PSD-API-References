@@ -1,31 +1,32 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.PSD for .NET API Referansı
-description: IIndexedColorConverter yöntem. Dizine alınmış görüntüden dizine alınmış görüntü dönüştürme haritasını doldurur.
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IIndexedColorConverter yöntemi. İndeksli görüntüden indeksli görüntüye dönüşüm haritasını doldurur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-Dizine alınmış görüntüden dizine alınmış görüntü dönüştürme haritasını doldurur.
+İndeksli görüntü dönüşüm haritasını doldurur.
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
     PixelDataFormat destFormat)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| map | Byte[] | Dönüşüm haritası. |
-| sourceFormat | PixelDataFormat | Kaynak biçimi. |
-| destFormat | PixelDataFormat | Hedef biçimi. |
+| harita | Byte[] | Dönüşüm haritası. |
+| sourceFormat | PixelDataFormat | Kaynak format. |
+| destFormat | PixelDataFormat | Hedef format. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* ad alanı [Aspose.PSD](../../iindexedcolorconverter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

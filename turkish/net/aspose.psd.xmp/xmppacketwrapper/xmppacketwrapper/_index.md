@@ -1,48 +1,49 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper inşaatçı. Yeni bir örneğini başlatır.XmpPacketWrapper sınıf.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper yapıcı. XmpPacketWrapper sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpPacketWrapper`](../) sınıf.
+Yeni bir örnek oluşturur [`XmpPacketWrapper`](../) sınıfının.
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| header | XmpHeaderPi | İşleme talimatının XMP başlığı. |
-| trailer | XmpTrailerPi | İşleme talimatının XMP fragmanı. |
-| xmpMeta | XmpMeta | XMP meta verileri. |
+| başlık | XmpHeaderPi | İşlem talimatının XMP başlığı. |
+| son ek | XmpTrailerPi | İşlem talimatının XMP son eki. |
+| xmpMeta | XmpMeta | XMP meta verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpPacketWrapper`](../) sınıf.
+Yeni bir örnek oluşturur [`XmpPacketWrapper`](../) sınıfının.
 
 ```csharp
 public XmpPacketWrapper()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

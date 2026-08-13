@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.License sınıf. Bileşeni lisanslamak için yöntemler sağlar.
+title: "Sınıf License"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.License sınıfı. Bileşeni lisanslamak için yöntemler sağlar."
 type: docs
-weight: 5050
+weight: 5570
 url: /tr/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Bileşeni lisanslamak için yöntemler sağlar.
@@ -14,22 +15,22 @@ Bileşeni lisanslamak için yöntemler sağlar.
 public class License
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [License](license/)() | Bu sınıfın yeni bir örneğini başlatır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Bileşeni lisanslar. |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Bileşeni lisanslar. |
 
-### Örnekler
+## Örnekler
 
-Bu örnekte, bileşenini içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin katıştırılmış kaynakları.
+Bu örnekte, bileşeni içeren klasörde, çağıran derlemeyi içeren klasörde, giriş derlemesinin klasöründe ve ardından çağıran derlemenin gömülü kaynaklarında MyLicense.lic adlı bir lisans dosyası bulunmaya çalışılacaktır.
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

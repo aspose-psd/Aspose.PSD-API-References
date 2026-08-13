@@ -1,12 +1,13 @@
 ---
-title: TimeLine.AFSt
-second_title: Aspose.PSD for .NET API Referansı
-description: TimeLine mülk. AFSt değerini alır veya ayarlar.
+title: "Timeline.AFSt"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Timeline özelliği. AFSt değerini alır veya ayarlar"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/timeline/afst/
 ---
-## TimeLine.AFSt property
+{{< psd/tize >}}
+## Timeline.AFSt property
 
 AFSt değerini alır veya ayarlar.
 
@@ -14,10 +15,10 @@ AFSt değerini alır veya ayarlar.
 public int AFSt { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* class [TimeLine](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* toplantı [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

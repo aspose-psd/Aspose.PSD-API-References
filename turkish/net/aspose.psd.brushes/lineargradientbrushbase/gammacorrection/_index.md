@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearGradientBrushBase mülk. Bunun için gama düzeltmesinin etkinleştirilip etkinleştirilmediğini gösteren bir değer alır veya ayarlarLinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearGradientBrushBase özelliği. Bu LinearGradientBrushBase için gama düzeltmesinin etkin olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-Bunun için gama düzeltmesinin etkinleştirilip etkinleştirilmediğini gösteren bir değer alır veya ayarlar[`LinearGradientBrushBase`](../) .
+Bu [`LinearGradientBrushBase`](../) için gama düzeltmesinin etkin olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun için gama düzeltmesi etkinleştirildiyse değer doğrudur.[`LinearGradientBrushBase`](../); Aksi takdirde, yanlış.
+Bu [`LinearGradientBrushBase`](../) için gama düzeltmesi etkinse değer true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrushBase](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

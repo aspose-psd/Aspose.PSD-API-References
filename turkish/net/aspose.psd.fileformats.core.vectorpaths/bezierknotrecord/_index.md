@@ -1,40 +1,41 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord sınıf. Bezier Düğüm Kayıt Sınıfı
+title: "Sınıf BezierKnotRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord sınıfı. Kaynak üzerinden Bezier düğüm verilerini okuma/yazma için kullanılan Bezier Knot Record sınıfı"
 type: docs
-weight: 1330
+weight: 1340
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Bezier Düğüm Kayıt Sınıfı
+Bezier Düğüm Kayıt Sınıfı, kaynaktan Bezier düğüm verilerini okuma/yazma için kullanılır.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Yeni bir örneğini başlatır.`BezierKnotRecord` sınıf. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`BezierKnotRecord` sınıf. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | `BezierKnotRecord` sınıfının yeni bir örneğini başlatır. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | `BezierKnotRecord` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Bu örneğin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Bu örneğin açık olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Bu örneğin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Bu örneğin bağlı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | Bu örneğin açık olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | Yol noktalarını alır veya ayarlar. |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Puanları alır veya ayarlar. |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Noktaları alır veya ayarlar. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Türü alır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VmskResource kaynak yükleme desteğini göstermektedir. Yolların düzenlenmesi nasıl çalışır?
+Aşağıdaki örnek, VmskResource kaynağının yüklenmesinin desteğini gösterir. Yolların düzenlenmesinin nasıl çalıştığı.
 
 ```csharp
 [C#]
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // Yol doldurma kuralı herhangi bir ek bilgi içermez
+        // Yol doldurma kuralı ek bilgi içermez
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -76,7 +77,7 @@ public void TestPsdNet106()
         {
             throw new Exception("VmskResource paths were read wrong");
         }
-        // düzenleme
+        // Düzenleme
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-Aşağıdaki örnek, VsmsResource kaynak yükleme desteğini göstermektedir. Yolların düzenlenmesi nasıl çalışır?
+Aşağıdaki örnek, VsmsResource kaynağının yüklenmesini desteklediğini gösterir. Yolların düzenlenmesinin nasıl çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Yol doldurma kuralı herhangi bir ek bilgi içermez
+        // Yol doldurma kuralı ek bilgi içermez
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -157,7 +158,7 @@ public void TestPsdNet140()
             throw new Exception("VsmsResource paths were read wrong");
         }
 
-        // düzenleme
+        // Düzenleme
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

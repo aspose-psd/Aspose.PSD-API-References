@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.Xmp.Types
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı üç temel kategoride XMP özelliklerinin değerlerini temsil eden sınıflar içerir temel türler karmaşık ve türetilmiş türler.
+title: "Aspose.PSD.Xmp.Types"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, XMP özelliklerinin değerlerini üç temel kategori olan temel tipler, karmaşık tipler ve türetilmiş tiplerde temsil eden sınıfları içerir."
 type: docs
-weight: 600
+weight: 640
 url: /tr/net/aspose.psd.xmp.types/
 ---
-Ad alanı, üç temel kategoride XMP özelliklerinin değerlerini temsil eden sınıflar içerir: temel türler, karmaşık ve türetilmiş türler.
+{{< psd/tize >}}
+Namespace, XMP özellik değerlerini üç temel kategori içinde temsil eden sınıfları içerir: temel tipler, karmaşık ve türetilmiş tipler.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [XmpTypeBase](./xmptypebase/) | Temel XMP türü için temel sınıfı temsil eder. |
+| [XmpTypeBase](./xmptypebase/) | Temel XMP tipi için temel sınıfı temsil eder. |
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IXmpType](./ixmptype/) | XMP türü için temel arayüz. |
+| [IXmpType](./ixmptype/) | XMP tipi için temel arayüz. |
 
 

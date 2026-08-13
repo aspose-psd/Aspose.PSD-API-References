@@ -1,32 +1,33 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Aspose.PSD for .NET API Referansı
-description: PenExtensions yöntem. dönüştürürPen içinPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PenExtensions yöntemi. Pen'i Pen'e dönüştürür."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-dönüştürür[`Pen`](../../../aspose.psd/pen/) içinPen .
+[`Pen`](../../../aspose.psd/pen/) öğesini Pen'e dönüştürür.
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | bu[`Pen`](../../../aspose.psd/pen/) dönüştürmek. |
+| pen | Pen | Dönüştürülecek [`Pen`](../../../aspose.psd/pen/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşPen.
+Dönüştürülmüş Pen.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../penextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Ölçüm modunu alır veya ayarlar.
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Ölçüm modunu alır veya ayarlar"
 type: docs
 weight: 810
 url: /tr/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
 Ölçüm modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.exif/exifdata/meteringmode/
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçüm modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

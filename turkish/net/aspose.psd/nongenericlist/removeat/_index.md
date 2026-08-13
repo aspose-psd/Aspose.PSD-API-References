@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList yöntem. kaldırırIList belirtilen dizindeki öğe.
+title: "NonGenericList.RemoveAt"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yöntemi. Belirtilen indeksteki IList öğesini kaldırır"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/nongenericlist/removeat/
 ---
+{{< psd/tize >}}
 ## NonGenericList.RemoveAt method
 
-kaldırırIList belirtilen dizindeki öğe.
+Belirtilen indeksteki IList öğesini kaldırır.
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | Kaldırılacak öğenin sıfır tabanlı dizini. |
+| index | Int32 | Kaldırılacak öğenin sıfır tabanlı indeksi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

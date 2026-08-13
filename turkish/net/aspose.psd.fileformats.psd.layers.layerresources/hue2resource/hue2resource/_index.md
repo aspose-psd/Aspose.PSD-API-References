@@ -1,49 +1,50 @@
 ---
-title: Hue2Resource.Hue2Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource inşaatçı. Yeni bir örneğini başlatır.Hue2Resource sınıf.
+title: "Hue2Resource.Hue2Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource yapıcı. Hue2Resource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource() {#constructor}
 
-Yeni bir örneğini başlatır.[`Hue2Resource`](../) sınıf.
+[`Hue2Resource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Hue2Resource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`Hue2Resource`](../) sınıf.
+[`Hue2Resource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public Hue2Resource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Hue2 Kaynak verileri |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Hue2 Kaynak verisi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

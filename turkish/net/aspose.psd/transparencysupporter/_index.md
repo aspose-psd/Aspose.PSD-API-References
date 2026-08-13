@@ -1,11 +1,12 @@
 ---
-title: Class TransparencySupporter
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.TransparencySupporter sınıf. Şeffaflığı destekleyen nesne.
+title: "Sınıf TransparencySupporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.TransparencySupporter sınıfı. Şeffaflığı destekleyen nesne"
 type: docs
-weight: 5710
+weight: 6240
 url: /tr/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
 Şeffaflığı destekleyen nesne.
@@ -14,21 +15,21 @@ url: /tr/net/aspose.psd/transparencysupporter/
 public class TransparencySupporter
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TransparencySupporter](transparencysupporter/)() | Default_Constructor |
+| [TransparencySupporter](transparencysupporter/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Nesnenin opaklığını alır veya ayarlar. Değer 0 ile 1 arasında olmalıdır. 0 değeri, nesnenin tamamen görünür olduğu, 1 değeri ise nesnenin tamamen opak olduğu anlamına gelir. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Nesnenin opaklığını alır veya ayarlar. Değer 0 ile 1 arasında olmalıdır. 0 değeri nesnenin tamamen görünür olduğunu, 1 değeri nesnenin tamamen opak olduğunu gösterir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

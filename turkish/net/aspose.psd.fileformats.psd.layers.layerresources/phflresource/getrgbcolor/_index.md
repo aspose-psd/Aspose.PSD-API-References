@@ -1,11 +1,12 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResource yöntem. RGBnin rengini alır.
+title: "PhflResource.GetRgbColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResource yöntemi. RGB rengini alır"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
 RGB'nin rengini alır.
@@ -14,15 +15,15 @@ RGB'nin rengini alır.
 public abstract Color GetRgbColor()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 RGB Rengi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

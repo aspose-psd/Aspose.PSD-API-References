@@ -1,53 +1,54 @@
 ---
-title: Class LclrResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource sınıf. Class LclrResource. Bu kaynak katmanlar listesindeki katmanın rengi hakkında bilgi içerir PS. Sadece
+title: "Sınıf LclrResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource sınıfı. Sınıf LclrResource. Bu kaynak, PS katman listesindeki katmanın rengi hakkında bilgi içerir. Sadece"
 type: docs
-weight: 2620
+weight: 2930
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Class LclrResource. Bu kaynak, katmanlar listesindeki katmanın rengi hakkında bilgi içerir: PS. Sadece
+Sınıf LclrResource. Bu kaynak, katmanların listesinde PS olan katmanın rengi hakkında bilgi içerir. Sadece
 
 ```csharp
 public class LclrResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | Yeni bir örneğini başlatır.`LclrResource` sınıf. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | Yeni bir örneğini başlatır.`LclrResource` sınıf. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Yeni bir örneğini başlatır.`LclrResource` sınıf. |
+| [LclrResource](lclrresource/#constructor)() | `LclrResource` sınıfının yeni bir örneğini başlatır. |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | `LclrResource` sınıfının yeni bir örneğini başlatır. |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | `LclrResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Katmanın rengini alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de (Sayfa rengi ayarı) Sheet Color Highlight'ı nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD'de Sayfa Renk Vurgusunu (Sayfa renk ayarı) nasıl değiştirebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ Aşağıdaki örnek, Aspose.PSD'de (Sayfa rengi ayarı) Sheet Color Highlight'ı
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dosyada katmanların vurgulama renkleri bu sıradadır.
+// Dosyada katmanların vurgulama renkleri bu sıradadır
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Katman Sayfası Rengi, katmanları görsel olarak vurgulamak için kullanılır. 
-// Örneğin, PSD'de bazı katmanları güncelleyebilir ve ardından dikkat çekmek istediğiniz katmanı renklendirerek vurgulayabilirsiniz.
+// Katman Sayfa Rengi, katmanları görsel olarak vurgulamak için kullanılır.
+// Örneğin, PSD'de bazı katmanları güncelleyebilir ve ardından dikkat çekmek istediğiniz katmanı renk ile vurgulayabilirsiniz.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -77,7 +78,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Renkler ters çevrilmeli
+    // Renkler ters çevrilmelidir
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl kaynağı her zaman psd dosyası kaynak listesinde bulunur.
+            // lcrl kaynağı her zaman psd dosya kaynak listesinde bulunur.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Stil sayfası renklerinin tersi. Katman rengi vurgulamasının ayarlanması.
+                // Stil sayfası renklerinin ters çevrilmesi. Katman renk vurgusunun ayarlanması.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -109,10 +110,10 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

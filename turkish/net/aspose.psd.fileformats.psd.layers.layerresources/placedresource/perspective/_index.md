@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Perspective
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasına yerleştirilen katmanın perspektif değerini alır veya ayarlar.
+title: "PlacedResource.Perspective"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki perspektif değerini alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Perspective property
 
-PSD dosyasına yerleştirilen katmanın perspektif değerini alır veya ayarlar.
+PSD dosyasındaki yerleştirilmiş katmanın perspektif değerini alır veya ayarlar.
 
 ```csharp
 public double Perspective { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın perspektif değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

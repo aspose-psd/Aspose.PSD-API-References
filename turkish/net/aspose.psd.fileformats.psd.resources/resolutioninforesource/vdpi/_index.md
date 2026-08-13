@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionInfoResource mülk. Dikey DPI.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionInfoResource özelliği. Dikey DPI"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
 Dikey DPI.
@@ -14,15 +15,15 @@ Dikey DPI.
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dikey dpi.
+Dikey DPI.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

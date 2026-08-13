@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Kaynağın son değiştirilme tarihini ekler.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Kaynağın son değiştirilme tarihini ekler"
 type: docs
-weight: 80
+weight: 100
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
 Kaynağın son değiştirilme tarihini ekler.
@@ -14,15 +15,15 @@ Kaynağın son değiştirilme tarihini ekler.
 public void SetModifyDate(DateTime modifiedDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | modifiedDate | DateTime | Son değiştirilme tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Kaynağın son değiştirilme tarihini ekler.
 public void SetModifyDate(string modifiedDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | modifiedDate | String | Son değiştirilme tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix mülk. Bunun öğelerini temsil eden bir kayan noktalı değerler dizisi alır.Matrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix özelliği. Bu Matrix'in elemanlarını temsil eden kayan nokta değerlerinden oluşan bir dizi alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-Bunun öğelerini temsil eden bir kayan noktalı değerler dizisi alır.[`Matrix`](../) .
+Bu [`Matrix`](../) elemanlarını temsil eden kayan nokta değerlerinden oluşan bir dizi alır.
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun öğelerini temsil eden bir kayan nokta değerleri dizisi[`Matrix`](../).
+Bu [`Matrix`](../) elemanlarını temsil eden kayan nokta değerlerinden oluşan bir dizi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

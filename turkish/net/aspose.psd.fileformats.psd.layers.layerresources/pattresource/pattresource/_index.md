@@ -1,45 +1,46 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResource inşaatçı. Yeni bir örneğini başlatır.PattResource sınıf.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResource yapıcı. PattResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`PattResource`](../) sınıf.
+[`PattResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PattResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PattResource`](../) sınıf.
+[`PattResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | Int32 | Kaynak türü anahtarı. |
-| patterns | PattResourceData[] | Kalıp verileri. |
+| anahtar | Int32 | Kaynak türü anahtarı. |
+| desenler | PattResourceData[] | Desen verileri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

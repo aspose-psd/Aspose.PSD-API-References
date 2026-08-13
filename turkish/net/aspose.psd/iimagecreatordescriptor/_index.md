@@ -1,30 +1,31 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageCreatorDescriptor arayüz. Oluşturucu özelliklerini belirten görüntü oluşturucu tanımlayıcısı. Oluşturucu tanımlayıcısı her bir görüntü oluşturucu örneğini bellekte içerme gerekliliğini ve çoklu okuma sorunlarını aşmak için kullanılır.
+title: "Arayüz IImageCreatorDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageCreatorDescriptor arayüzü. Oluşturucu özelliklerini belirten görüntü oluşturucu tanımlayıcısı. Oluşturucu tanımlayıcı, her görüntü oluşturucu örneğinin bellekte tutulması ve çok iş parçacıklı sorunların gerekliliğini aşmak için kullanılır."
 type: docs
-weight: 4410
+weight: 4910
 url: /tr/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-Oluşturucu özelliklerini belirten görüntü oluşturucu tanımlayıcısı. Oluşturucu tanımlayıcısı, her bir görüntü oluşturucu örneğini bellekte içerme gerekliliğini ve çoklu okuma sorunlarını aşmak için kullanılır.
+Oluşturucu özelliklerini belirten görüntü oluşturucu tanımlayıcısı. Oluşturucu tanımlayıcısı, her görüntü oluşturucu örneğinin bellekte tutulması gerekliliğini ve çok iş parçacıklı sorunları aşmak için kullanılır.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Görüntü oluşturucunun aşağıdakileri kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirler:*imageOptions* . |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Görüntü oluşturucunun *imageOptions* kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirler. |
 | [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Yeni bir oluşturucu örneği oluşturur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

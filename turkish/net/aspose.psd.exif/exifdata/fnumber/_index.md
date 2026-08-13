@@ -1,28 +1,29 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. F sayısını alır veya ayarlar.
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. F numarasını alır veya ayarlar"
 type: docs
 weight: 280
 url: /tr/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-F sayısını alır veya ayarlar.
+F-numarasını alır veya ayarlar.
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 F-numarası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

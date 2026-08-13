@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraLabel
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Kamera etiketini ayarlar.
+title: "XmpDynamicMediaPackage.SetCameraLabel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Kamera etiketini ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameralabel/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraLabel method
 
 Kamera etiketini ayarlar.
@@ -14,14 +15,14 @@ Kamera etiketini ayarlar.
 public void SetCameraLabel(string cameraLabel)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | cameraLabel | String | Kamera etiketi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

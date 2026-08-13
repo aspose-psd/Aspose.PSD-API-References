@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın soluk olup olmadığını belirten bir değer alır veya ayarlar. Katmanda bulunan bağlantılı görüntülerin ve bitmap görüntülerinin yoğunluğunu azaltır.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın karartılıp karartılmadığını gösteren bir değeri alır veya ayarlar. Katmanda bulunan bağlı görüntülerin ve bitmap görüntülerin yoğunluğunu azaltır."
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Bu katmanın soluk olup olmadığını belirten bir değer alır veya ayarlar. Katmanda bulunan bağlantılı görüntülerin ve bitmap görüntülerinin yoğunluğunu azaltır.
+Bu katmanın karartılıp karartılmadığını gösteren bir değeri alır veya ayarlar. Katmanda bulunan bağlı görüntülerin ve bitmap görüntülerin yoğunluğunu azaltır.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman soluk ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu katman karartılmışsa; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientOverlayEffect mülk. Karışım modunu alır veya ayarlar.
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientOverlayEffect özelliği. Harmanlama modunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
 Karışım modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Karışım modunu alır veya ayarlar.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

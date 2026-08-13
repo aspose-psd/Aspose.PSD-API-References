@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Satır sayısını alır.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Satır sayısını alır"
 type: docs
-weight: 130
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
-Satır sayısını alır.
+satır sayısını alır.
 
 ```csharp
 public short LineCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Satır sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

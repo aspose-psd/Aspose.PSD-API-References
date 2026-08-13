@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepDenominator
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Çerçeve adım paydasını alır veya ayarlar.
+title: "SmartObjectResource.FrameStepDenominator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Çerçeve adımının paydasını alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepDenominator property
 
-Çerçeve adım paydasını alır veya ayarlar.
+Alır veya ayarlar çerçeve adımının paydasını.
 
 ```csharp
 public int FrameStepDenominator { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çerçeve adım paydası.
+Çerçeve adımının paydası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

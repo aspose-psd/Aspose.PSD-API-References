@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSelectionIdsResource mülk. Katman kimliklerini alır veya ayarlar.
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSelectionIdsResource özelliği. Katman kimliklerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
 Katman kimliklerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Katman kimliklerini alır veya ayarlar.
 public int[] LayerIds { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman kimlikleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSelectionIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

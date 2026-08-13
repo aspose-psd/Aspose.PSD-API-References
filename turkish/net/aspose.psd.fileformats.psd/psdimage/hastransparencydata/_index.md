@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Katman verilerini belirtirken ilk alfa kanalının birleştirilmiş sonuç için saydamlık verilerini içerip içermediğini gösteren bir değer alır veya ayarlar.
+title: "PsdImage.HasTransparencyData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Katman verileri belirtildiğinde birleştirilmiş sonuç için ilk alfa kanalının şeffaflık verilerini içerip içermediğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-Katman verilerini belirtirken ilk alfa kanalının birleştirilmiş sonuç için saydamlık verilerini içerip içermediğini gösteren bir değer alır veya ayarlar.
+Katman verileri belirtildiğinde birleştirilmiş sonuç için ilk alfa kanalının şeffaflık verisi içerip içermediğini gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ilk alfa kanalı, katman verilerini belirtirken birleştirilmiş sonuç için saydamlık verilerini içeriyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer katman verileri belirtildiğinde birleştirilmiş sonuç için ilk alfa kanalı şeffaflık verilerini içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

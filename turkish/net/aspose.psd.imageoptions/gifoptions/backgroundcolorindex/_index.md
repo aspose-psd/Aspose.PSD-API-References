@@ -1,11 +1,12 @@
 ---
-title: GifOptions.BackgroundColorIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. GIF arka plan renk indeksini alır veya ayarlar.
+title: "GifOptions.BackgroundColorIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. GIF arka plan renk indeksini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/gifoptions/backgroundcolorindex/
 ---
+{{< psd/tize >}}
 ## GifOptions.BackgroundColorIndex property
 
 GIF arka plan renk indeksini alır veya ayarlar.
@@ -14,14 +15,14 @@ GIF arka plan renk indeksini alır veya ayarlar.
 public byte BackgroundColorIndex { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GIF arka plan rengi dizini.
+GIF arka plan renk indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

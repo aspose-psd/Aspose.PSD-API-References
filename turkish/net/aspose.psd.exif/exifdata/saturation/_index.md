@@ -1,11 +1,12 @@
 ---
-title: ExifData.Saturation
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Doygunluğu alır veya ayarlar.
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Doygunluğu alır veya ayarlar"
 type: docs
 weight: 890
 url: /tr/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
 Doygunluğu alır veya ayarlar.
@@ -14,15 +15,15 @@ Doygunluğu alır veya ayarlar.
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Doygunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

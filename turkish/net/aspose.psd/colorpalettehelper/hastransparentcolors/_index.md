@@ -1,38 +1,39 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. Belirtilen paletin şeffaf renklere sahip olup olmadığını belirler.
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper metodu. Belirtilen paletin şeffaf renk içerip içermediğini belirler."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
-Belirtilen paletin şeffaf renklere sahip olup olmadığını belirler.
+Belirtilen paletin şeffaf renkleri olup olmadığını belirler.
 
 ```csharp
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| palette | IColorPalette | palet. |
+| palet | IColorPalette | Palet. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` belirtilen palet şeffaf renklere sahipse; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen palet şeffaf renk içeriyorsa; aksi takdirde `false`.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *palette* boş. |
+| ArgumentNullException | *palette* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

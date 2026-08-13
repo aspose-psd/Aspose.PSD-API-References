@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape yöntem. Belirtilen dönüşümü şekle uygular.
+title: "RectangleProjectedShape.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape yöntemi. Belirtilen dönüşümü şekle uygular"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Transform method
 
 Belirtilen dönüşümü şekle uygular.
@@ -14,15 +15,15 @@ Belirtilen dönüşümü şekle uygular.
 public override void Transform(Matrix transform)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transform | Matrix | Uygulanacak dönüşüm. |
+| dönüşüm | Matrix | Uygulanacak dönüşüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

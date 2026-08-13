@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdOptions mülk. Dosya biçimi sürümünü alır veya ayarlar. PSD veya PSB. olabilir
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdOptions özelliği. Dosya formatı sürümünü alır veya ayarlar. PSD veya PSB olabilir"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-Dosya biçimi sürümünü alır veya ayarlar. PSD veya PSB. olabilir
+Dosya formatı sürümünü alır veya ayarlar. PSD veya PSB olabilir.
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dosya biçimi sürümü.
+Dosya formatı sürümü.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, PSD dosyasını PSB'ye ve tersini dönüştürme yeteneğini gösterir.
+Aşağıdaki örnek, PSD dosyasını PSB'ye ve tersine dönüştürme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../psdoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUByte
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa tek baytlık bir değer yazar.
+title: "TiffStreamWriter.WriteUByte"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma tek bir bayt değeri yazar"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeubyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUByte method
 
-Akışa tek baytlık bir değer yazar.
+Akışa tek bir bayt değeri yazar.
 
 ```csharp
 public void WriteUByte(byte data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte | Yazılacak değer. |
+| veri | Byte | Yazılacak değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum ExifExposureMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifExposureMode Sıralama. exif pozlama modu numaralandırması.
+title: "Enum ExifExposureMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode enum. exif pozlama modu enum"
 type: docs
-weight: 830
+weight: 840
 url: /tr/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-exif pozlama modu numaralandırması.
+exif pozlama modu sayımı.
 
 ```csharp
 public enum ExifExposureMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Auto | `0` | Otomatik poz. |
+| Auto | `0` | Otomatik pozlama. |
 | Manual | `1` | Manuel pozlama. |
-| AutoBracket | `2` | Otomatik parantez. |
+| AutoBracket | `2` | Otomatik braket. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

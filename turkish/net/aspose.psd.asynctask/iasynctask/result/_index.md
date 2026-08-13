@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTask mülk. Bu görevin sonucunu alır.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTask özelliği. Bu görevin sonucunu alır."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 Bu görevin sonucunu alır.
@@ -14,14 +15,14 @@ Bu görevin sonucunu alır.
 public object Result { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Bu görevin sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

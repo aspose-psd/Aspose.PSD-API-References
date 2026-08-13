@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Gölgeler Macenta Yeşil Dengesini alır veya ayarlar.
+title: "BlncResource.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Shadows Magenta Green Balance değerini alır veya ayarlar"
 type: docs
-weight: 130
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsMagentaGreenBalance property
 
-Gölgeler Macenta Yeşil Dengesini alır veya ayarlar.
+Gölgelerin Magenta Yeşil Dengesini alır veya ayarlar.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Gölgeler Macenta Yeşil Dengesi.
+Gölge Magenta Yeşil Dengesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

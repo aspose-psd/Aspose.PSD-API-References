@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.AddPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper yöntem. Paketi ekler.
+title: "XmpPacketWrapper.AddPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper metodu. Paketi ekler"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.AddPackage method
 
 Paketi ekler.
@@ -14,15 +15,15 @@ Paketi ekler.
 public void AddPackage(XmpPackage package)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| package | XmpPackage | paket. |
+| paket | XmpPackage | Paket. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

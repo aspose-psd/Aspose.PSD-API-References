@@ -1,38 +1,39 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunun olup olmadığını test ederRegion belirtilen çizim yüzeyinde boş bir iç kısım var.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region metodu. Bu Region'ın belirtilen çizim yüzeyinde boş bir iç bölgesi olup olmadığını test eder."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Bunun olup olmadığını test eder[`Region`](../) belirtilen çizim yüzeyinde boş bir iç kısım var.
+Bu [`Region`](../) öğesinin belirtilen çizim yüzeyinde boş bir iç bölgesi olup olmadığını test eder.
 
 ```csharp
 public bool IsEmpty(Graphics g)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) bir çizim yüzeyini temsil eder. |
+| g | Graphics | Bir [`Graphics`](../../graphics/) nesnesi, çizim yüzeyini temsil eder. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bunun içi ise true[`Region`](../) ilişkili dönüşüm olduğunda boştur.*g* uygulanır; aksi takdirde, false.
+Bu [`Region`](../) iç bölgesi, *g* ile ilişkili dönüşüm uygulandığında boş ise true; aksi takdirde false.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *g* null. |
+| ArgumentNullException | *g* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

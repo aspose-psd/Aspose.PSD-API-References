@@ -1,23 +1,24 @@
 ---
-title: HatchBrush.HatchBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: HatchBrush inşaatçı. Default_Constructor
+title: "HatchBrush.HatchBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HatchBrush yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.brushes/hatchbrush/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public HatchBrush()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [HatchBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../hatchbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

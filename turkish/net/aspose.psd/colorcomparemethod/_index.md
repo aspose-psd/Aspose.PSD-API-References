@@ -1,28 +1,29 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorCompareMethod Sıralama. En yakın komşuya ayarlamak için renk karşılaştırma yöntemi
+title: "Enum ColorCompareMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorCompareMethod enum. En yakın komşuya ayarlamak için renk karşılaştırma yöntemi."
 type: docs
 weight: 330
 url: /tr/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-En yakın komşuya ayarlamak için renk karşılaştırma yöntemi
+En yakın komşuya ayarlamak için renk karşılaştırma yöntemi.
 
 ```csharp
 public enum ColorCompareMethod
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Euclidian | `0` | Öklid yöntemi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

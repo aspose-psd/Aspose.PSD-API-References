@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UniqueId
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD görüntüsündeki veya akıllı nesne yerleştirilmiş katmanın genel benzersiz tanımlayıcısını alır veya ayarlar.
+title: "IPlacedLayerResource.UniqueId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. PSD görüntüsündeki akıllı nesne yerleştirilen katmanın küresel benzersiz tanımlayıcısını alır veya ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UniqueId property
 
-PSD görüntüsündeki veya akıllı nesne yerleştirilmiş katmanın genel benzersiz tanımlayıcısını alır veya ayarlar.
+PSD görüntüsündeki yerleştirilmiş akıllı nesne katmanının küresel benzersiz tanımlayıcısını alır veya ayarlar.
 
 ```csharp
 public Guid UniqueId { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın benzersiz tanımlayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource alan. Tip aracı bilgi anahtarı.
+title: "ExpaResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource alanı. Tür aracı bilgi anahtarı"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ExpaResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

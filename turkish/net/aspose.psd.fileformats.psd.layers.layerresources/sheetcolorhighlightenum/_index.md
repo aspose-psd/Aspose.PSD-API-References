@@ -1,35 +1,36 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum Sıralama. Sayfa rengi ayarının olası renkleri. PS deki katmanlar listesindeki katmanın UI dekoratif rengidir.
+title: "SheetColorHighlightEnum enum'ı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum enum. Sayfa renk ayarının olası renkleri. PS'deki katman listesinde katmanın UI dekoratif rengi."
 type: docs
-weight: 2970
+weight: 3320
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Sayfa rengi ayarının olası renkleri. PS 'deki katmanlar listesindeki katmanın UI dekoratif rengidir.
+Sayfa renk ayarının olası renkleri. PS'deki katmanların listesinde katmanın UI süsleme rengi.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| NoColor | `0` | Renk belirtilmemiş. |
+| NoColor | `0` | Renk belirtilmemiştir. |
 | Red | `1` | Kırmızı renk. |
 | Orange | `2` | Turuncu renk. |
 | Yellow | `3` | Sarı renk. |
 | Green | `4` | Yeşil renk. |
 | Blue | `5` | Mavi renk. |
-| Violet | `6` | Menekşe rengi. |
+| Violet | `6` | Mor renk. |
 | Gray | `7` | Gri renk. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de (Sayfa rengi ayarı) Sheet Color Highlight'ı nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD'de Sayfa Renk Vurgusunu (Sayfa renk ayarı) nasıl değiştirebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ Aşağıdaki örnek, Aspose.PSD'de (Sayfa rengi ayarı) Sheet Color Highlight'ı
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dosyada katmanların vurgulama renkleri bu sıradadır.
+// Dosyada katmanların vurgulama renkleri bu sıradadır
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Katman Sayfası Rengi, katmanları görsel olarak vurgulamak için kullanılır. 
-// Örneğin, PSD'de bazı katmanları güncelleyebilir ve ardından dikkat çekmek istediğiniz katmanı renklendirerek vurgulayabilirsiniz.
+// Katman Sayfa Rengi, katmanları görsel olarak vurgulamak için kullanılır.
+// Örneğin, PSD'de bazı katmanları güncelleyebilir ve ardından dikkat çekmek istediğiniz katmanı renk ile vurgulayabilirsiniz.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Renkler ters çevrilmeli
+    // Renkler ters çevrilmelidir
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl kaynağı her zaman psd dosyası kaynak listesinde bulunur.
+            // lcrl kaynağı her zaman psd dosya kaynak listesinde bulunur.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Stil sayfası renklerinin tersi. Katman rengi vurgulamasının ayarlanması.
+                // Stil sayfası renklerinin ters çevrilmesi. Katman renk vurgusunun ayarlanması.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

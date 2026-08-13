@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Orientation
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Yönü alır veya ayarlar.
+title: "TiffOptions.Orientation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Yönlendirmeyi alır veya ayarlar"
 type: docs
-weight: 280
+weight: 290
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
-Yönü alır veya ayarlar.
+Yönlendirmeyi alır veya ayarlar.
 
 ```csharp
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yönlendirme.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

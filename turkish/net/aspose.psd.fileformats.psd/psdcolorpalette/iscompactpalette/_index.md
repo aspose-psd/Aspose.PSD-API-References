@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.IsCompactPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette mülk. Paletin kompakt olup olmadığını gösteren bir değer alır.
+title: "PsdColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette özelliği. Paletin sıkıştırılmış olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.IsCompactPalette property
 
-Paletin kompakt olup olmadığını gösteren bir değer alır.
+Paletin sıkıştırılmış olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` kompakt ise palet; aksi takdirde,`YANLIŞ`.
+`true` eğer palet sıkıştırılmışsa; aksi takdirde `false`.
 
-### Notlar
+## Açıklamalar
 
-Kompakt palet, görüntünün mümkünse yalnızca belirtilen palet girişlerini içereceği veya başka bir deyişle görüntünün daha kompakt olacağı ve daha az yer kaplayacağı anlamına gelir; aksi takdirde 2^BitsPerPixel girişi olur ve görüntü olası tüm palet girişleri için daha fazla yer ayırır . Bu değerin doğru olarak ayarlanması ve palet girişlerinin değiştirilmesi, veri hareketi oluşabileceğinden performans düşüşüne neden olabilir, bu nedenle dikkatli kullanın.
+Kompakt palet, görüntünün mümkünse yalnızca belirtilen palet girişlerini içereceği anlamına gelir; başka bir deyişle görüntü daha kompakt olur ve daha az yer kaplar. Aksi takdirde 2^BitsPerPixel giriş olur ve görüntü tüm olası palet girişleri için daha fazla yer ayırır. Bu değeri true olarak ayarlamak ve palet girişlerini değiştirmek, veri hareketi olabileceği için performans kaybına neden olabilir; bu yüzden dikkatli kullanın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

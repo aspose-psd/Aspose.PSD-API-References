@@ -1,27 +1,28 @@
 ---
-title: TextShape.HasSegments
-second_title: Aspose.PSD for .NET API Referansı
-description: TextShape mülk. Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+title: "TextShape.HasSegments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextShape özelliği. Şeklin segmentleri olup olmadığını gösteren bir değer döndürür"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.shapes/textshape/hassegments/
 ---
+{{< psd/tize >}}
 ## TextShape.HasSegments property
 
-Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+Şeklin segmentlere sahip olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` şeklin bölümleri varsa; aksi takdirde,`YANLIŞ`.
+`True` eğer şekil segment içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../textshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.BinarizeOtsu
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Bir görüntünün Otsu eşikleme ile ikileştirilmesi
+title: "RasterCachedImage.BinarizeOtsu"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage metodu. Otsu eşikleme ile bir görüntünün ikilileştirilmesi"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/rastercachedimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.BinarizeOtsu method
 
-Bir görüntünün Otsu eşikleme ile ikileştirilmesi
+Otsu eşikleme ile bir görüntünün ikilileştirilmesi
 
 ```csharp
 public override void BinarizeOtsu()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

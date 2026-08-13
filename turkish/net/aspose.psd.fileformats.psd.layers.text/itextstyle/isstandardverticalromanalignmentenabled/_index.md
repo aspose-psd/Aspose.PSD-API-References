@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Standart dikey Roma hizalamasını alır veya ayarlar. Bu BaselineDirection kaynak değerini temel alır yalnızca metin yönüVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Standart dikey Roma hizalamasını alır veya ayarlar. Bu, BaselineDirection kaynağı değerine dayanır ve yalnızca metin yönelimi Dikey olduğunda uygulanır"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Standart dikey Roma hizalamasını alır veya ayarlar. Bu, BaselineDirection kaynak değerini temel alır, yalnızca metin yönüVertical .
+Standart dikey Roman hizalamasını alır veya ayarlar. Bu, BaselineDirection kaynak değerine dayanır ve yalnızca metin yönelimi Dikey olduğunda uygulanır.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni IsStandardVerticalRomanAlignmentEnabled özelliğinin desteğini gösterir.
 
@@ -22,7 +23,7 @@ Aşağıdaki kod, yeni IsStandardVerticalRomanAlignmentEnabled özelliğinin des
 [C#]
 
 // Aşağıdaki kod, yeni IsStandardVerticalRomanAlignmentEnabled özelliğini düzenleme yeteneğini gösterir.
-// Bu, şu anda işlemeyi etkilemez, yalnızca özellik değerini düzenlemenize izin verir.
+// Bu şu anda renderlemeyi etkilemez, ancak yalnızca özelliğin değerini düzenlemenize izin verir.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

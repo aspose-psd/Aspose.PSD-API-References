@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor mülk. Bunun macenta bileşen değerini alırColoryapı.
+title: "CmykColor.M"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor özelliği. Bu Color yapısının magenta bileşen değerini alır."
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-Bunun macenta bileşen değerini alır[`Color`](../../color/)yapı.
+Bu [`Color`](../../color/) yapısının magenta bileşen değerini alır.
 
 ```csharp
 public byte M { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun macenta bileşen değeri[`Color`](../../color/) .
+Bu [`Color`](../../color/) yapısının magenta bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

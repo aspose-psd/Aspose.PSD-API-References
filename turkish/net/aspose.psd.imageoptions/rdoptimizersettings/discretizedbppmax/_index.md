@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. Değerlendirme için maksimum R değerini alır.
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings property. Maksimum R değerini değerlendirmek için alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-Değerlendirme için maksimum R değerini alır.
+Alır dikkate alınacak maksimum R değerini.
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dikkate alınacak maksimum R değeri.
+Değerlendirme için maksimum R değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

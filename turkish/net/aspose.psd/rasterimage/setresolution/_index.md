@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Bunun için çözünürlüğü ayarlarRasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Bu RasterImage için çözünürlüğü ayarlar"
 type: docs
-weight: 570
+weight: 590
 url: /tr/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-Bunun için çözünürlüğü ayarlar[`RasterImage`](../) .
+Bu [`RasterImage`](../) için çözünürlüğü ayarlar.
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dpiX | Double | İnç başına nokta cinsinden yatay çözünürlük,[`RasterImage`](../). |
-| dpiY | Double | İnç başına nokta cinsinden dikey çözünürlük,[`RasterImage`](../). |
+| dpiX | Double | [`RasterImage`](../) nesnesinin inç başına nokta cinsinden yatay çözünürlüğü. |
+| dpiY | Double | [`RasterImage`](../) nesnesinin inç başına nokta cinsinden dikey çözünürlüğü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

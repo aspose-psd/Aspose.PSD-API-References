@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Piksel cinsinden bulanıklık değerini alır.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Bulanıklık değerini piksel cinsinden alır"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-Piksel cinsinden bulanıklık değerini alır.
+Bulanıklık değerini piksel olarak alır.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Boyut.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

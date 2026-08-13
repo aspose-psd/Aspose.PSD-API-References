@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: IVectorPathData mülk. Sürümü alır veya ayarlar.
+title: "IVectorPathData.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IVectorPathData özelliği. Sürümü alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,21 +15,21 @@ Sürümü alır veya ayarlar.
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Kırpma işleminin doğru çalışması için PsdImage.ImageResources içindeki 'WorkingPathResource' kaynağının desteğini gösterir.
+Bu örnek, 'WorkingPathResource' kaynağının PsdImage.ImageResources içinde Crop işleminin doğru çalışması için desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Resmi kırpın ve kaydedin.
+// Görüntüyü kırp ve kaydet.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Kayıtlı görüntüyü yükleyin ve değişiklikleri kontrol edin.
+// Kaydedilmiş görüntüyü yükle ve değişiklikleri kontrol et.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource kaynağını arayın.
+    // WorkingPathResource kaynağını ara.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IVectorPathData](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

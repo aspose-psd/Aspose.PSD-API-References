@@ -1,31 +1,32 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData yöntem. EXIF verilerini seri hale getirir. Etiketlerin değerlerini ve içeriklerini yazar. En çok etkileyen boyut etiketi Küçük resim etiketi içerikleridir.
+title: "JpegExifData.SerializeExifData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData metodu. EXIF verilerini serileştirir. Etiket değerlerini ve içeriklerini yazar. En çok boyutu etkileyen etiket, Küçük Resim etiketinin içeriğidir"
 type: docs
 weight: 270
 url: /tr/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-EXIF verilerini seri hale getirir. Etiketlerin değerlerini ve içeriklerini yazar. En çok etkileyen boyut etiketi, Küçük resim etiketi içerikleridir.
+EXIF verilerini serileştirir. Etiket değerlerini ve içeriklerini yazar. En çok etkileyen boyut etiketi Küçük resim etiketi içeriğidir.
 
 ```csharp
 public byte[] SerializeExifData()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Serileştirilmiş EXIF verileri.
 
-### Notlar
+## Açıklamalar
 
-Doğru jpeg görüntüsünün üretilmesi için genel segment boyutunun MaxExifSegmentSize bayttan küçük veya eşit olması gerekir. İpucu: Çok büyük EXIF bölümü boyutunuz olması durumunda küçük resim boyutunu küçültmeyi veya sıkıştırmasını değiştirmeyi deneyin.
+Doğru jpeg görüntüsü üretmek için toplam segment boyutu MaxExifSegmentSize baytına eşit ya da daha küçük olmalıdır. İpucu: EXIF bölümü çok büyükse küçük resim boyutunu azaltmayı veya sıkıştırmasını değiştirmeyi deneyin.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

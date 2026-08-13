@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSectionResource mülk. Katman kaynak anahtarını alır.
+title: "LayerSectionResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSectionResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

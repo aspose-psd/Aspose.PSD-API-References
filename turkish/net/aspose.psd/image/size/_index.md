@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Görüntü boyutunu alır.
+title: "Image.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Görüntünün boyutunu alır"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 Görüntü boyutunu alır.
@@ -14,15 +15,15 @@ Görüntü boyutunu alır.
 public Size Size { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

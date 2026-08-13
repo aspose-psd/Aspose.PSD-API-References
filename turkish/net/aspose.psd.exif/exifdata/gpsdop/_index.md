@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDOP
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS DOPu veri kesinlik derecesi alır veya ayarlar.
+title: "ExifData.GPSDOP"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS DOP veri doğruluk derecesini alır veya ayarlar"
 type: docs
 weight: 490
 url: /tr/net/aspose.psd.exif/exifdata/gpsdop/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDOP property
 
-GPS DOP'u (veri kesinlik derecesi) alır veya ayarlar.
+GPS DOP (veri kesinlik derecesi) değerini alır veya ayarlar.
 
 ```csharp
 public TiffRational GPSDOP { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS DOP (veri kesinlik derecesi).
+GPS DOP (veri doğruluk derecesi).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

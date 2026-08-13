@@ -1,11 +1,12 @@
 ---
-title: ExifData.SensingMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Algılama yöntemini alır veya ayarlar.
+title: "ExifData.SensingMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Algılama yöntemini alır veya ayarlar"
 type: docs
 weight: 920
 url: /tr/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
 Algılama yöntemini alır veya ayarlar.
@@ -14,15 +15,15 @@ Algılama yöntemini alır veya ayarlar.
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Algılama yöntemi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

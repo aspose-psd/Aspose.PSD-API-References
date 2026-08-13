@@ -1,30 +1,31 @@
 ---
-title: Class ImageLoadException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageLoadException sınıf. Görüntü yükleme istisnası. Görüntü yükleme sırasında oluşur.
+title: "ImageLoadException sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageLoadException sınıfı. Görüntü yükleme istisnası. Görüntü yüklenirken oluşur"
 type: docs
 weight: 620
 url: /tr/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-Görüntü yükleme istisnası. Görüntü yükleme sırasında oluşur.
+Görüntü yükleme istisnası. Görüntü yükleme sırasında ortaya çıkar.
 
 ```csharp
 public class ImageLoadException : ImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Yeni bir örneğini başlatır.`ImageLoadException` sınıf. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`ImageLoadException` sınıf. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | `ImageLoadException` sınıfının yeni bir örneğini başlatır. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | `ImageLoadException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageException](../imageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

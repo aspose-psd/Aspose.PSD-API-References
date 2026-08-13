@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili sürümünü alır veya ayarlar.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi stili sürümünü alır veya ayarlar"
 type: docs
-weight: 220
+weight: 200
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-Kontur stili sürümünü alır veya ayarlar.
+Çizgi stili sürümünü alır veya ayarlar.
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

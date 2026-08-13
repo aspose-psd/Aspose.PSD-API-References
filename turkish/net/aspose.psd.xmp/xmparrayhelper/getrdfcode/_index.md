@@ -1,38 +1,39 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpArrayHelper yöntem. Belirli bir RDF kodunu alırXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpArrayHelper yöntemi. Belirli XmpArrayType için RDF kodunu alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Belirli bir RDF kodunu alır[`XmpArrayType`](../../xmparraytype/) .
+Belirli [`XmpArrayType`](../../xmparraytype/) için RDF kodunu alır.
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | xmpArrayType | XmpArrayType | XMP dizisinin türü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirli için RDF kodunu döndürür[`XmpArrayType`](../../xmparraytype/).
+Belirli [`XmpArrayType`](../../xmparraytype/) için RDF kodunu döndürür.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Geçersiz numaralandırma bağımsız değişkeni istisnası |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Geçersiz enum argüman istisnası |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

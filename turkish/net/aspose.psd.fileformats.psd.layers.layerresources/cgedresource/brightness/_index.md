@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Brightness
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Parlaklığı alır veya ayarlar.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Parlaklığı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
 Parlaklığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Parlaklığı alır veya ayarlar.
 public int Brightness { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Parlaklık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpHeaderPi inşaatçı. Yeni bir örneğini başlatır.XmpHeaderPi sınıf.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpHeaderPi yapıcı. XmpHeaderPi sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpHeaderPi`](../) sınıf.
+[`XmpHeaderPi`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpHeaderPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpHeaderPi`](../) sınıf.
+[`XmpHeaderPi`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | String | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpHeaderPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

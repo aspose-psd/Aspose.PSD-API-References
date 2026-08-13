@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Aspose.PSD for .NET API Referansı
-description: DeconvolutionFilterOptions mülk. Bu örneğin kısmen yüklenip yüklenmediğini gösteren bir değer alır.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DeconvolutionFilterOptions özelliği. Bu örneğin kısmen yüklendiğini gösteren bir değeri alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-Bu örneğin kısmen yüklenip yüklenmediğini gösteren bir değer alır.
+Bu örneğin kısmen yüklendiğini belirten bir değeri alır.
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek kısmen yüklenmişse; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek kısmen yüklendiyse; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DeconvolutionFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

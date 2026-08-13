@@ -1,11 +1,12 @@
 ---
-title: AiHeader.Title
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Başlığı alır veya ayarlar.
+title: "AiHeader.Title"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Başlığı alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
 Başlığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Başlığı alır veya ayarlar.
 public string Title { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubjectArea
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Konu alanını alır veya ayarlar.
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Konu alanını alır veya ayarlar"
 type: docs
 weight: 990
 url: /tr/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
 Konu alanını alır veya ayarlar.
@@ -14,14 +15,14 @@ Konu alanını alır veya ayarlar.
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Konu alanı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

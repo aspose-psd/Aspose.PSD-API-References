@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı XMP özelliklerinin temel tür değerlerini temsil eden sınıflar içerir.
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, XMP özelliklerinin temel tip değerlerini temsil eden sınıfları içerir"
 type: docs
-weight: 610
+weight: 650
 url: /tr/net/aspose.psd.xmp.types.basic/
 ---
-Ad alanı, XMP özelliklerinin temel tür değerlerini temsil eden sınıflar içerir.
+{{< psd/tize >}}
+Namespace, XMP özelliklerinin temel tip değerlerini temsil eden sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [XmpBoolean](./xmpboolean/) | XMP Boole temel türünü temsil eder. |
-| [XmpDate](./xmpdate/) | XMP paketindeki Tarihi temsil eder. |
-| [XmpInteger](./xmpinteger/) | XMP Tamsayı temel türünü temsil eder. |
-| [XmpReal](./xmpreal/) | XMP Gerçekliğini Temsil Eder. |
-| [XmpText](./xmptext/) | XMP Metni temel türünü temsil eder. |
+| [XmpBoolean](./xmpboolean/) | XMP Boolean temel tipini temsil eder. |
+| [XmpDate](./xmpdate/) | XMP paketindeki tarihi temsil eder. |
+| [XmpInteger](./xmpinteger/) | XMP Integer temel tipini temsil eder. |
+| [XmpReal](./xmpreal/) | XMP Real'i temsil eder. |
+| [XmpText](./xmptext/) | XMP Text temel tipini temsil eder. |
 
 

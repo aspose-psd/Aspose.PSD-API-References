@@ -1,28 +1,29 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: IRasterImageRawDataLoader mülk. Geçerli ham veri ayarlarını alır. Bu ayarları kullanırken verilerin dönüştürme olmadan yüklendiğini unutmayın.
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IRasterImageRawDataLoader özelliği. Mevcut ham veri ayarlarını alır. Bu ayarları kullanırken verinin dönüşüm olmadan yüklendiğini unutmayın"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
-Geçerli ham veri ayarlarını alır. Bu ayarları kullanırken, verilerin dönüştürme olmadan yüklendiğini unutmayın.
+Mevcut ham veri ayarlarını alır. Bu ayarları kullanırken verinin dönüşüm olmadan yüklendiğini unutmayın.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Geçerli ham veri ayarları.
+Mevcut ham veri ayarları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* ad alanı [Aspose.PSD](../../irasterimagerawdataloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

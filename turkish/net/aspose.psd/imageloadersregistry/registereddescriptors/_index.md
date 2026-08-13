@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry mülk. Kayıtlı tanımlayıcıları alır.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry özelliği. Kayıtlı tanımlayıcıları alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
 Kayıtlı tanımlayıcıları alır.
@@ -14,15 +15,15 @@ Kayıtlı tanımlayıcıları alır.
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayıtlı tanımlayıcılar.
+Kaydedilen tanımlayıcılar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

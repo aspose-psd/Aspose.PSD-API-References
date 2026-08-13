@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl mülk. En doğru kenarlığı alır veya ayarlar.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl özelliği. En sağ kenarı alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
-En doğru kenarlığı alır veya ayarlar.
+En sağ kenarı alır veya ayarlar.
 
 ```csharp
 public short MostRightBorder { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-En sağdaki kenarlık.
+En sağ kenar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

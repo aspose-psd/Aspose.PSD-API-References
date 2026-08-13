@@ -1,28 +1,29 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.PaletteHelper.AdjustPalette sınıf. Renk paleti ayarı class
+title: "Sınıf AdjustPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette sınıfı. Renk paleti ayarlama sınıfı"
 type: docs
-weight: 5180
+weight: 5700
 url: /tr/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-Renk paleti ayarı class
+Renk paleti ayarlama sınıfı
 
 ```csharp
 public class AdjustPalette
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AdjustPalette](adjustpalette/)() | Default_Constructor |
+| [AdjustPalette](adjustpalette/)() | Varsayılan yapıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

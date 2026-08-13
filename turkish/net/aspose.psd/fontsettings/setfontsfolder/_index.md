@@ -1,27 +1,28 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Bu kısayolSetFontsFolders yalnızca bir yazı tipi dizini ayarlamak için. Yazı tipleri klasöründe hiçbir kontrol yapılmadı.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Bu, yalnızca bir yazı tipi dizini ayarlamak için SetFontsFolders kısayoludur. Yazı tipi klasöründe hiçbir kontrol yapılmaz."
 type: docs
-weight: 120
+weight: 140
 url: /tr/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-Bu kısayol[`SetFontsFolders`](../setfontsfolders/) yalnızca bir yazı tipi dizini ayarlamak için. Yazı tipleri klasöründe hiçbir kontrol yapılmadı.
+Bu, yalnızca bir yazı tipi dizini ayarlamak için [`SetFontsFolders`](../setfontsfolders/) kısayoludur. Yazı tipi klasöründe hiçbir kontrol yapılmaz.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontFolder | String | Yazı tipi klasörü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

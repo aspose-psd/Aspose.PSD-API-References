@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Bir görüntünün gama düzeltmesi.
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Bir görüntünün gama düzeltmesi"
 type: docs
-weight: 460
+weight: 520
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Bir görüntünün gama düzeltmesi.
@@ -14,15 +15,15 @@ Bir görüntünün gama düzeltmesi.
 public override void AdjustGamma(float gamma)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gamma | Single | Kırmızı, yeşil ve mavi kanal katsayısı için gama |
+| gama | Single | Kırmızı, yeşil ve mavi kanallar için gama katsayısı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Bir görüntünün gama düzeltmesi.
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gammaRed | Single | Kırmızı kanal katsayısı için gama |
-| gammaGreen | Single | Yeşil kanal katsayısı için gama |
-| gammaBlue | Single | Mavi kanal katsayısı için gama |
+| gammaRed | Single | Kırmızı kanal için gama katsayısı |
+| gammaGreen | Single | Yeşil kanal için gama katsayısı |
+| gammaBlue | Single | Mavi kanal için gama katsayısı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

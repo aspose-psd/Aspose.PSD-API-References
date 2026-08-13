@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD for .NET API Referansı
-description: FileStreamContainer mülk. Akışın açıkça oluşturulup oluşturulmadığını gösteren bir değer alır.
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileStreamContainer özelliği. Akışın açıkça oluşturulup oluşturulmadığını gösteren bir değeri alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
-Akışın açıkça oluşturulup oluşturulmadığını gösteren bir değer alır.
+Akışın açıkça oluşturulup oluşturulmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsCreated { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` akış açıkça oluşturulmuşsa; aksi takdirde,`YANLIŞ` .
+`true` eğer akış açıkça oluşturulmuşsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileStreamContainer](../)
-* ad alanı [Aspose.PSD](../../filestreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

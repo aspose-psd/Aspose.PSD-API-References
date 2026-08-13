@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.HasTransparentColor
-second_title: Aspose.PSD for .NET API Referansı
-description: IPsdColorPalette mülk. Saydam rengin var olup olmadığını gösteren bir değer alır.
+title: "IPsdColorPalette.HasTransparentColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPsdColorPalette özelliği. Şeffaf rengin var olup olmadığını gösteren bir değeri alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/ipsdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.HasTransparentColor property
 
-Saydam rengin var olup olmadığını gösteren bir değer alır.
+Şeffaf rengin var olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool HasTransparentColor { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` şeffaf renk varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer şeffaf renk mevcutsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPsdColorPalette](../)
-* ad alanı [Aspose.PSD](../../ipsdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BlncResource.BlncResource
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource inşaatçı. Yeni bir örneğini başlatır.BlncResource sınıf.
+title: "BlncResource.BlncResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource yapıcı. BlncResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource constructor
 
-Yeni bir örneğini başlatır.[`BlncResource`](../) sınıf.
+[`BlncResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BlncResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

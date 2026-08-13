@@ -1,27 +1,28 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. GIFin fragmanı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. GIF'in trailer içerip içermediğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
-GIF'in fragmanı olup olmadığını gösteren bir değer alır veya ayarlar.
+GIF'in trailer (kuyruk) içerip içermediğini gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool HasTrailer { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` GIF'in fragmanı varsa; aksi takdirde,`YANLIŞ` .
+`true` GIF trailer içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

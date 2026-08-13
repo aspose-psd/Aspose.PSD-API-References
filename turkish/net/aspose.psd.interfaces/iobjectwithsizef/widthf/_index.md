@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.WidthF
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithSizeF mülk. Nesne genişliğini inç cinsinden alır.
+title: "IObjectWithSizeF.WidthF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithSizeF özelliği. Nesnenin genişliğini inç cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.interfaces/iobjectwithsizef/widthf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.WidthF property
 
-Nesne genişliğini inç cinsinden alır.
+Nesnenin genişliğini inç cinsinden alır.
 
 ```csharp
 public float WidthF { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İnç cinsinden nesne genişliği.
+Nesnenin genişliği, inç cinsinden.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IObjectWithSizeF](../)
-* ad alanı [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

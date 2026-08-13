@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın önizleme olup olmadığını belirten bir değer alır veya ayarlar. Katmanda bulunan resmi ana hatlar yerine renkli olarak görüntüler.
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın önizleme olup olmadığını belirten bir değeri alır veya ayarlar. Katmanda bulunan sanat eserlerini kontur yerine renkle gösterir"
 type: docs
-weight: 70
+weight: 90
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Bu katmanın önizleme olup olmadığını belirten bir değer alır veya ayarlar. Katmanda bulunan resmi ana hatlar yerine renkli olarak görüntüler.
+Bu katmanın önizleme olup olmadığını gösteren bir değeri alır veya ayarlar. Katmanda bulunan sanat eserini hatlar yerine renkli olarak gösterir.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman önizleme ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu katman önizleme ise; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

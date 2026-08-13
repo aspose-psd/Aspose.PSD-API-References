@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: Aspose.PSD for .NET API Referansı
-description: MultiPageOptions mülk. Dışa aktarma alanını alır veya ayarlar.
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MultiPageOptions özelliği. Dışa aktarma alanını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
 Dışa aktarma alanını alır veya ayarlar.
@@ -14,15 +15,15 @@ Dışa aktarma alanını alır veya ayarlar.
 public Rectangle ExportArea { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dışa aktarma alanı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

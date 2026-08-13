@@ -1,11 +1,12 @@
 ---
-title: Time.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: Time mülk. Belirtilen ölçekte zaman değerini alır veya ayarlar.
+title: "Time.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Time özelliği. Belirtilen ölçek içinde zaman değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
 Belirtilen ölçekte zaman değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Belirtilen ölçekte zaman değerini alır veya ayarlar.
 public int Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Belirtilen ölçekteki zaman değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Time](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

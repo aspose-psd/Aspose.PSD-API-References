@@ -1,38 +1,39 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager sınıf. Piksellerin haritasını yöneten Eğri Ayarlama Katmanı Yöneticisi
+title: "Sınıf CurvesDiscreteManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager sınıfı. Piksel haritasını manipüle eden Eğriler Ayar Katmanı yöneticisi"
 type: docs
-weight: 2420
+weight: 2680
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-Piksellerin haritasını yöneten Eğri Ayarlama Katmanı Yöneticisi
+Eğriler Ayarlama Katmanı yöneticisi, piksel haritasını manipüle eder
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Maksimum kanal sayısını alır. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Azami kanal sayısını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Konumdaki değeri alır. |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Konumda varsayılan değere ayarlar. |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Konumdaki değeri ayarlar. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Pozisyondaki değeri alır. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Pozisyonda varsayılan değere ayarlar. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Pozisyondaki değeri ayarlar. |
 | [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Tüm kanalın değerini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesManager](../curvesmanager/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

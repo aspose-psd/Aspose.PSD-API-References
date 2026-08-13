@@ -1,28 +1,29 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Açıklık değerini alır veya ayarlar.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Diyafram değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-Açıklık değerini alır veya ayarlar.
+Diyafram değerini alır veya ayarlar.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Açıklık değeri.
+Diyafram değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

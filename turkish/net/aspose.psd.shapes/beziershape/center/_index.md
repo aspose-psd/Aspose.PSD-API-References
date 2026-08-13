@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Center
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierShape mülk. Şeklin merkezini alır.
+title: "BezierShape.Center"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierShape özelliği. Şeklin merkezini alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapes/beziershape/center/
 ---
+{{< psd/tize >}}
 ## BezierShape.Center property
 
 Şeklin merkezini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/beziershape/center/
 public override PointF Center { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeklin merkezi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../beziershape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

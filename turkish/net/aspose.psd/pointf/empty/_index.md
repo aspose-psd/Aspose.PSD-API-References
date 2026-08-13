@@ -1,23 +1,24 @@
 ---
-title: PointF.Empty
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF mülk. Yeni bir örneğini alırPointF sahip olan yapıX VeY değerler sıfıra ayarlandı.
+title: "PointF.Empty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF özelliği. X ve Y değerleri sıfıra ayarlanmış yeni bir PointF yapısı örneği alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-Yeni bir örneğini alır[`PointF`](../) sahip olan yapı[`X`](../x/) Ve[`Y`](../y/) değerler sıfıra ayarlandı.
+[`X`](../x/) ve [`Y`](../y/) değerleri sıfıra ayarlanmış yeni bir [`PointF`](../) yapısı örneği alır.
 
 ```csharp
 public static PointF Empty { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

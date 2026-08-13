@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. İki olup olmadığını test ederRectangle yapılar konum veya boyut bakımından farklılık gösterir.
+title: "Rectangle.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. İki Rectangle yapısının konum veya boyut açısından farklı olup olmadığını test eder."
 type: docs
 weight: 300
 url: /tr/net/aspose.psd/rectangle/op_inequality/
 ---
+{{< psd/tize >}}
 ## Rectangle Inequality operator
 
-İki olup olmadığını test eder[`Rectangle`](../) yapılar konum veya boyut bakımından farklılık gösterir.
+İki [`Rectangle`](../) yapısının konum veya boyut açısından farklı olup olmadığını test eder.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| left | Rectangle | bu[`Rectangle`](../) eşitsizlik operatörünün solundaki yapı. |
-| right | Rectangle | bu[`Rectangle`](../) eşitsizlik operatörünün sağındaki yapı. |
+| left | Rectangle | Eşitsizlik operatörünün solunda bulunan [`Rectangle`](../) yapısı. |
+| right | Rectangle | Eşitsizlik operatörünün sağında bulunan [`Rectangle`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu operatör, herhangi biri varsa true değerini döndürür.[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) veya[`Height`](../height/) ikisinin özellikleri[`Rectangle`](../) yapılar eşit değildir; Aksi takdirde yanlış.
+Bu operatör, iki [`Rectangle`](../) yapısının [`X`](../x/), [`Y`](../y/), [`Width`](../width/) veya [`Height`](../height/) özelliklerinden herhangi biri eşit değilse true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PsdImage.BinarizeOtsu
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Bir görüntünün Otsu eşikleme ile ikileştirilmesi
+title: "PsdImage.BinarizeOtsu"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Otsu eşikleme ile bir görüntünün ikilileştirilmesi"
 type: docs
-weight: 490
+weight: 550
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeOtsu method
 
-Bir görüntünün Otsu eşikleme ile ikileştirilmesi
+Otsu eşikleme ile bir görüntünün ikilileştirilmesi
 
 ```csharp
 public override void BinarizeOtsu()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

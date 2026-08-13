@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader mülk. Hatalı veri işlemede akışa okuma veya yazma istisnaların atılıp atılmadığını gösteren bir değer alır veya ayarlar.
+title: "TiffStreamReader.ThrowExceptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader özelliği. Yanlış veri işleme, okuma veya akışa yazma sırasında istisnaların atılıp atılmayacağını gösteren bir değeri alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ThrowExceptions property
 
-Hatalı veri işlemede (akışa okuma veya yazma) istisnaların atılıp atılmadığını gösteren bir değer alır veya ayarlar.
+Yanlış veri işleme (akışa okuma veya yazma) sırasında istisnaların atılıp atılmayacağını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool ThrowExceptions { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` yanlış veri işlemede istisnalar atılırsa; aksi takdirde, hata koşulları sessizce yoksayılır.
+`true` eğer istisnalar yanlış veri işleme sırasında atılırsa; aksi takdirde, hata koşulları sessizce yok sayılır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

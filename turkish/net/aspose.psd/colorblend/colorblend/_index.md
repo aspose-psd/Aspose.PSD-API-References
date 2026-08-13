@@ -1,43 +1,44 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBlend inşaatçı. Yeni bir örneğini başlatır.ColorBlend sınıf.
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBlend yapıcı. ColorBlend sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-Yeni bir örneğini başlatır.[`ColorBlend`](../) sınıf.
+[`ColorBlend`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorBlend()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBlend](../)
-* ad alanı [Aspose.PSD](../../colorblend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ColorBlend`](../) belirtilen sayıda renk ve konuma sahip sınıf.
+Belirtilen renk ve konum sayısıyla [`ColorBlend`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| count | Int32 | Buradaki renklerin sayısı ve konumları[`ColorBlend`](../). |
+| count | Int32 | Bu [`ColorBlend`](../) içindeki renk ve konum sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBlend](../)
-* ad alanı [Aspose.PSD](../../colorblend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IIndexedColorConverter arayüz. Dizinlenmiş görüntü formatları için renk dönüştürücü.
+title: "Arayüz IIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IIndexedColorConverter arayüzü. İndeksli görüntü formatları için renk dönüştürücü"
 type: docs
-weight: 4470
+weight: 4970
 url: /tr/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-Dizinlenmiş görüntü formatları için renk dönüştürücü.
+Dizinli görüntü formatları için renk dönüştürücüsü.
 
 ```csharp
 public interface IIndexedColorConverter
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Dizine alınmış görüntüden dizine alınmış görüntü dönüştürme haritasını doldurur. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | İndeksli görüntü dönüşüm haritasını doldurur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

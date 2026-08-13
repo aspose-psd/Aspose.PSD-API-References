@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Bunun sol üst köşesinin x koordinatını alır veya ayarlarRectangleyapı.
+title: "Rectangle.X"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının sol üst köşesinin x koordinatını alır veya ayarlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-Bunun sol üst köşesinin x koordinatını alır veya ayarlar[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının sol üst köşesinin x koordinatını alır veya ayarlar.
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun sol üst köşesinin x koordinatı[`Rectangle`](../) yapı.
+Bu [`Rectangle`](../) yapısının sol üst köşesinin x koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

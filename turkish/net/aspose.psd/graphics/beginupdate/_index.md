@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Aşağıdaki grafik işlemlerinin önbelleğe alınmasını başlatır. Daha sonra uygulanan grafik efektleri hemen uygulanmaz bunun yerine EndUpdate tüm efektlerin bir kerede uygulanmasına neden olur.
+title: "Graphics.BeginUpdate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Aşağıdaki grafik işlemlerinin önbelleğe alınmasını başlatır. Sonrasında uygulanan grafik etkileri hemen uygulanmaz; bunun yerine EndUpdate, tüm etkileri bir kerede uygulamayı sağlar."
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-Aşağıdaki grafik işlemlerinin önbelleğe alınmasını başlatır. Daha sonra uygulanan grafik efektleri hemen uygulanmaz, bunun yerine EndUpdate tüm efektlerin bir kerede uygulanmasına neden olur.
+Aşağıdaki grafik işlemlerinin önbelleğe alınmasını başlatır. Sonradan uygulanan grafik efektleri hemen uygulanmaz, bunun yerine EndUpdate tüm efektlerin bir kerede uygulanmasını sağlar.
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### Notlar
+## Açıklamalar
 
-EndUpdate'in çağrılmaması durumunda BeginUpdate çağrıldıktan sonraki etkilerin uygulanmayacağını unutmayın.
+BeginUpdate çağrıldıktan sonra etkilerin, EndUpdate çağrılmazsa uygulanmayacağını unutmayın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

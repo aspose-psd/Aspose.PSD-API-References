@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: QuickMaskInformationResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "QuickMaskInformationResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "QuickMaskInformationResource özelliği. Kaynak veri boyutunu bayt cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [QuickMaskInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

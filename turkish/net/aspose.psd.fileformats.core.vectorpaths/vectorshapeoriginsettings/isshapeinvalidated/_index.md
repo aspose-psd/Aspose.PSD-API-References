@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Şeklin geçersiz olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Şeklin geçersiz olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-Şeklin geçersiz olup olmadığını gösteren bir değer alır veya ayarlar.
+Şeklin geçersiz olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VectorImage.SizeF
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorImage mülk. Nesne boyutunu inç cinsinden alır.
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorImage özelliği. Nesnenin boyutunu inç cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
-Nesne boyutunu inç cinsinden alır.
+Nesnenin boyutunu inç cinsinden alır.
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İnç cinsinden nesne boyutu.
+Nesnenin boyutu, inç cinsinden.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* ad alanı [Aspose.PSD](../../vectorimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

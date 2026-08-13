@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType mülk. Mono ses kanalını alır.
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType özelliği. Mono ses kanalını alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 Mono ses kanalını alır.
@@ -14,14 +15,14 @@ Mono ses kanalını alır.
 public static AudioChannelType Mono { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mono ses kanalı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

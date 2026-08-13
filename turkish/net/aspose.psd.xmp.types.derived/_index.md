@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Types.Derived
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı XMP özelliklerinin türetilmiş tür değerlerini temsil eden sınıfları içerir.
+title: "Aspose.PSD.Xmp.Types.Derived"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, XMP özelliklerinin türetilmiş tip değerlerini temsil eden sınıfları içerir."
 type: docs
-weight: 700
+weight: 740
 url: /tr/net/aspose.psd.xmp.types.derived/
 ---
-Ad alanı, XMP özelliklerinin türetilmiş tür değerlerini temsil eden sınıfları içerir.
+{{< psd/tize >}}
+Namespace, XMP özelliklerinin türetilmiş tip değerlerini temsil eden sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [Rational](./rational/) | XMP Rational'ı temsil eder. |
-| [RenditionClass](./renditionclass/) | XMP Yorumunu Temsil Eder. |
-| [XmpAgentName](./xmpagentname/) | Temsilci adını, Yazılım organizasyonunu vb. temsil eder. |
-| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Değerler sözlüğünden bir değeri temsil eder. |
-| [XmpGuid](./xmpguid/) | XMP global benzersiz tanımlayıcısını temsil eder. |
+| [RenditionClass](./renditionclass/) | XMP Rendition'ı temsil eder. |
+| [XmpAgentName](./xmpagentname/) | Temsilci adı, Yazılım organizasyonu vb. temsil eder. |
+| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Değer sözlüğünden bir değeri temsil eder. |
+| [XmpGuid](./xmpguid/) | XMP küresel benzersiz tanımlayıcısını temsil eder. |
 | [XmpLocale](./xmplocale/) | Dil kodunu temsil eder. |
-| [XmpMimeType](./xmpmimetype/) | MIME türünü temsil eder. |
+| [XmpMimeType](./xmpmimetype/) | MIME tipini temsil eder. |
 
 

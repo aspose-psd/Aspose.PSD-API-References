@@ -1,26 +1,28 @@
 ---
-title: PathStructure.Prefix
-second_title: Aspose.PSD for .NET API Referansı
-description: PathStructure mülk. Yol önekini alır veya ayarlar.
+title: "PathStructure.Prefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathStructure özelliği. TypeTool yol biçimi için eski yol önekini alır veya ayarlar."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
-Yol önekini alır veya ayarlar.
+Eski yol önekini alır veya ayarlar (TypeTool yol formatı için).
 
 ```csharp
+[Obsolete("Prefix is kept for compatibility and is ignored during save. PathStructure always writes the txtu payload signature when Path is changed.")]
 public string Prefix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tam yol.
+Yol öneki.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, PathStructure yapısına sahip dosya yükleme yeteneğini gösterir.
+Aşağıdaki kod, PathStructure yapısıyla dosya yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -34,10 +36,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

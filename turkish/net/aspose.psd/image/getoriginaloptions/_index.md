@@ -1,28 +1,29 @@
 ---
-title: Image.GetOriginalOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Orijinal dosya ayarlarına göre seçenekleri alır. Bu orijinal görüntünün bit derinliğini ve diğer parametrelerini değiştirmeden tutmak için yardımcı olabilir. Örneğin piksel başına 1 bit olacak şekilde siyahbeyaz bir PNG görüntüsü yüklersek ve ardından the kullanarak kaydedinSave yöntemiyle piksel başına 8 bitlik çıktı PNG görüntüsü üretilir. Bundan kaçınmak ve PNG görüntüsünü piksel başına 1 bit ile kaydetmek için karşılık gelen kaydetme seçeneklerini almak için bu yöntemi kullanın ve onları öğesiniSaveikinci parametre olarak yöntem.
+title: "Image.GetOriginalOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Orijinal dosya ayarlarına dayalı seçenekleri alır. Bu, orijinal görüntünün bit derinliği ve diğer parametrelerinin değişmemesini sağlamada yardımcı olabilir. Örneğin, 1 bit/piksel bir siyah-beyaz PNG görüntüsü yüklerseniz ve ardından Save yöntemiyle kaydederseniz, çıktı PNG görüntüsü 8 bit/piksel olarak üretilir. Bunu önlemek ve PNG görüntüsünü 1 bit/piksel olarak kaydetmek için bu yöntemi kullanarak ilgili kaydetme seçeneklerini alın ve ikinci parametre olarak Save yöntemine geçirin."
 type: docs
-weight: 180
+weight: 190
 url: /tr/net/aspose.psd/image/getoriginaloptions/
 ---
+{{< psd/tize >}}
 ## Image.GetOriginalOptions method
 
-Orijinal dosya ayarlarına göre seçenekleri alır. Bu, orijinal görüntünün bit derinliğini ve diğer parametrelerini değiştirmeden tutmak için yardımcı olabilir. Örneğin, piksel başına 1 bit olacak şekilde siyah-beyaz bir PNG görüntüsü yüklersek ve ardından the kullanarak kaydedin[`Save`](../../datastreamsupporter/save/) yöntemiyle, piksel başına 8 bitlik çıktı PNG görüntüsü üretilir. Bundan kaçınmak ve PNG görüntüsünü piksel başına 1 bit ile kaydetmek için, karşılık gelen kaydetme seçeneklerini almak için bu yöntemi kullanın ve onları öğesini[`Save`](../save/)ikinci parametre olarak yöntem.
+Orijinal dosya ayarlarına dayalı seçenekleri alır. Bu, orijinal görüntünün bit derinliği ve diğer parametrelerinin değişmemesini sağlamada yardımcı olabilir. Örneğin, 1 bit/piksel bir siyah-beyaz PNG görüntüsü yüklerseniz ve ardından [`Save`](../../datastreamsupporter/save/) yöntemiyle kaydederseniz, çıktı PNG görüntüsü 8-bit/piksel olarak üretilir. Bunu önlemek ve PNG görüntüsünü 1-bit/piksel olarak kaydetmek için bu yöntemi kullanarak ilgili kaydetme seçeneklerini alın ve ikinci parametre olarak [`Save`](../save/) yöntemine geçirin.
 
 ```csharp
 public virtual ImageOptionsBase GetOriginalOptions()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Orijinal dosya ayarlarına dayalı seçenekler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

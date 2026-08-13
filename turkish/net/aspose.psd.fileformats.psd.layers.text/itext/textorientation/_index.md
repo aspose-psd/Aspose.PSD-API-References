@@ -1,26 +1,27 @@
 ---
-title: IText.TextOrientation
-second_title: Aspose.PSD for .NET API Referansı
-description: IText mülk. Metin yönünü alır veya ayarlar.
+title: "IText.TextOrientation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IText özelliği. Metin yönelimini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 ---
+{{< psd/tize >}}
 ## IText.TextOrientation property
 
-Metin yönünü alır veya ayarlar.
+Metin yönelimini alır veya ayarlar.
 
 ```csharp
 public TextOrientation TextOrientation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Metin yönü.
+Metin yönelimi.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yeni TextOrientation özelliğini düzenleme yeteneğini gösterir. Bu, şu anda işlemeyi etkilemez, ancak yalnızca özellik değerini düzenlemenize izin verir.
+Aşağıdaki kod, yeni TextOrientation özelliğini düzenleme yeteneğini gösterir. Bu şu anda renderlamayı etkilemez, ancak yalnızca özellik değerini düzenlemenize izin verir.
 
 ```csharp
 [C#]
@@ -60,11 +61,11 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TextOrientation](../../../aspose.psd.fileformats.psd/textorientation/)
 * interface [IText](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

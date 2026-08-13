@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddColorPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings yöntem. Renk noktasını ekler.
+title: "GradientFillSettings.AddColorPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings yöntemi. Renk noktasını ekler."
 type: docs
-weight: 150
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddColorPoint method
 
 Renk noktasını ekler.
@@ -14,15 +15,15 @@ Renk noktasını ekler.
 public GradientColorPoint AddColorPoint()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Oluşturulan renk noktası
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientColorPoint](../../gradientcolorpoint/)
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

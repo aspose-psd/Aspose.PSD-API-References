@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.UnregisterOpener
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerResourcesRegistry yöntem. Açıcının kaydını siler.
+title: "LayerResourcesRegistry.UnregisterOpener"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerResourcesRegistry yöntemi. Açıcıyı kayıttan çıkarır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.UnregisterOpener method
 
-Açıcının kaydını siler.
+Açıcı kaydını siler.
 
 ```csharp
 public static void UnregisterOpener(ILayerResourceLoader openerDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | Kaydı iptal etmek için açıcı tanımlayıcısı. |
+| openerDescriptor | ILayerResourceLoader | Kayıttan çıkarılacak açıcı tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

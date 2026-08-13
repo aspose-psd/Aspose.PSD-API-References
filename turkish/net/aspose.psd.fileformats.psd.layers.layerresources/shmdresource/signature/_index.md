@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: ShmdResource mülk. İmzayı alır.
+title: "ShmdResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShmdResource özelliği. İmzayı alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signa
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

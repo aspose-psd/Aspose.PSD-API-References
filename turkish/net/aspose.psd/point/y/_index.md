@@ -1,23 +1,24 @@
 ---
-title: Point.Y
-second_title: Aspose.PSD for .NET API Referansı
-description: Point mülk. Bunun y koordinatını alır veya ayarlarPoint .
+title: "Point.Y"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point özelliği. Bu Point'in y koordinatını alır veya ayarlar."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/point/y/
 ---
+{{< psd/tize >}}
 ## Point.Y property
 
-Bunun y koordinatını alır veya ayarlar[`Point`](../) .
+Bu [`Point`](../) nesnesinin y-koordinatını alır veya ayarlar.
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

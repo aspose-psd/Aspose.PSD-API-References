@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.PsnrMax
-second_title: Aspose.PSD for .NET API Referansı
-description: RdOptimizerSettings mülk. PSNR maksimum beklenen değerini alır.
+title: "RdOptimizerSettings.PsnrMax"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RdOptimizerSettings property. PSNR beklenen maksimum değerini alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.PsnrMax property
 
-PSNR maksimum beklenen değerini alır.
+Alır PSNR beklenen maksimum değerini.
 
 ```csharp
 public int PsnrMax { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Maksimum maksimum piksel değeri.
+Azami maksimum piksel değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmykMixerChannel.Black
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykMixerChannel mülk. Siyahı alır veya ayarlar.
+title: "CmykMixerChannel.Black"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykMixerChannel özelliği. Siyahı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Black property
 
 Siyahı alır veya ayarlar.
@@ -14,14 +15,14 @@ Siyahı alır veya ayarlar.
 public short Black { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Siyah.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykMixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

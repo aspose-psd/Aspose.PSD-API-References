@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamSource mülk. Konteyner atıldığında akışın atılması gerekip gerekmediğini gösteren bir değer alır.
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamSource özelliği. Akışın, kapsayıcı atıldığında her zaman atılıp atılmayacağını gösteren bir değer alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-Konteyner atıldığında akışın atılması gerekip gerekmediğini gösteren bir değer alır.
+Akışın, kapsayıcı atıldığında atılıp atılmayacağını gösteren bir değeri alır.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` akıntının bertaraf edilmesi gerekiyorsa; aksi takdirde,`YANLIŞ`.
+`true` eğer akış atılacaksa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamSource](../)
-* ad alanı [Aspose.PSD.Sources](../../streamsource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

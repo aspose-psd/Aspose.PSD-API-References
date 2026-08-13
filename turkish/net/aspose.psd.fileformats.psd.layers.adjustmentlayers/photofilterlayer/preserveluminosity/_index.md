@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoFilterLayer mülk. Parlaklığı koru. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoFilterLayer özelliği. Parlaklığı koruyup korumadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-[Parlaklığı koru]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Parlaklığın korunup korunmadığını gösteren bir değeri alır veya ayarlar [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [parlaklığı koru]; aksi takdirde,`YANLIŞ` .
+`true` eğer [preserve luminosity]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoFilterLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

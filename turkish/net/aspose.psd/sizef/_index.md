@@ -1,56 +1,57 @@
 ---
-title: Struct SizeF
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.SizeF yapı. Tipik olarak bir dikdörtgenin genişliği ve yüksekliği olan sıralı bir kayan noktalı sayı çifti depolar.
+title: "Yapı SizeF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.SizeF yapısı. Genellikle bir dikdörtgenin genişliği ve yüksekliği olan sıralı bir kayan nokta sayı çifti saklar."
 type: docs
-weight: 5560
+weight: 6090
 url: /tr/net/aspose.psd/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF structure
 
-Tipik olarak bir dikdörtgenin genişliği ve yüksekliği olan sıralı bir kayan noktalı sayı çifti depolar.
+Genellikle bir dikdörtgenin genişliği ve yüksekliği olan, sıralı bir kayan nokta sayısı çiftini depolar.
 
 ```csharp
 public struct SizeF
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | Yeni bir örneğini başlatır.`SizeF` belirtilen yapı[`PointF`](../pointf/) . |
-| [SizeF](sizef/#constructor_1)(SizeF) | Yeni bir örneğini başlatır.`SizeF` belirtilen yapı`SizeF` . |
-| [SizeF](sizef/#constructor_2)(float, float) | Yeni bir örneğini başlatır.`SizeF` belirtilen boyutlardan yapı. |
+| [SizeF](sizef/#constructor)(PointF) | Belirtilen [`PointF`](../pointf/) üzerinden yeni bir `SizeF` yapısı örneği başlatır. |
+| [SizeF](sizef/#constructor_1)(SizeF) | Belirtilen `SizeF` üzerinden yeni bir `SizeF` yapısı örneği başlatır. |
+| [SizeF](sizef/#constructor_2)(float, float) | Belirtilen boyutlardan `SizeF` yapısının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty/) { get; } | Yeni bir örneğini alır`SizeF` sahip olan yapı[`Width`](./width/) Ve[`Height`](./height/) değerler sıfıra ayarlandı. |
-| [Height](../../aspose.psd/sizef/height/) { get; set; } | Bunun dikey bileşenini alır veya ayarlar`SizeF` . |
-| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | Bunun olup olmadığını gösteren bir değer alır.`SizeF` sıfır genişliğe ve yüksekliğe sahiptir. |
-| [Width](../../aspose.psd/sizef/width/) { get; set; } | Bunun yatay bileşenini alır veya ayarlar`SizeF` . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | `SizeF` yapısının, [`Width`](./width/) ve [`Height`](./height/) değerleri sıfıra ayarlanmış yeni bir örneğini alır. |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | Bu `SizeF` nesnesinin dikey bileşenini alır veya ayarlar. |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | Bu `SizeF` nesnesinin sıfır genişlik ve yüksekliğe sahip olup olmadığını gösteren bir değeri alır. |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | Bu `SizeF` nesnesinin yatay bileşenini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | Birinin genişliğini ve yüksekliğini ekler`SizeF` diğerinin genişliğine ve yüksekliğine yapı`SizeF`yapı. |
-| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | Birinin genişliğini ve yüksekliğini çıkarır`SizeF` diğerinin genişliğinden ve yüksekliğinden yapı`SizeF`yapı. |
-| override [Equals](../../aspose.psd/sizef/equals/)(object) | Belirtilen nesnenin bir nesne olup olmadığını test eder.`SizeF` bununla aynı boyutlara sahip`SizeF` . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | Bunun için bir karma kod döndürür[`Size`](../size/)yapı. |
-| [ToPointF](../../aspose.psd/sizef/topointf/)() | dönüştürür`SizeF` bir[`PointF`](../pointf/) . |
-| [ToSize](../../aspose.psd/sizef/tosize/)() | dönüştürür`SizeF` bir[`Size`](../size/) kesik boyut değerlerine sahip yapı. |
-| override [ToString](../../aspose.psd/sizef/tostring/)() | Bunu temsil eden insanlar tarafından okunabilir bir dize oluşturur.`SizeF` . |
-| [operator +](../../aspose.psd/sizef/op_addition/) | Birinin genişliğini ve yüksekliğini ekler`SizeF` diğerinin genişliğine ve yüksekliğine yapı`SizeF`yapı. |
-| [operator ==](../../aspose.psd/sizef/op_equality/) | İki olup olmadığını test eder`SizeF` yapılar eşittir. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit/) | Belirtileni dönüştürür`SizeF` bir[`PointF`](../pointf/) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality/) | İki olup olmadığını test eder`SizeF` yapılar farklıdır. |
-| [operator -](../../aspose.psd/sizef/op_subtraction/) | Birinin genişliğini ve yüksekliğini çıkarır`SizeF` diğerinin genişliğinden ve yüksekliğinden yapı`SizeF`yapı. |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | Bir `SizeF` yapısının genişlik ve yüksekliğini, başka bir `SizeF` yapısının genişlik ve yüksekliğine ekler. |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | Bir `SizeF` yapısının genişlik ve yüksekliğini, başka bir `SizeF` yapısının genişlik ve yüksekliğinden çıkarır. |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | Belirtilen nesnenin bu `SizeF` ile aynı boyutlara sahip bir `SizeF` olup olmadığını test eder. |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | Bu [`Size`](../size/) yapısı için bir karma kodu döndürür. |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | `SizeF` değerini bir [`PointF`](../pointf/) değerine dönüştürür. |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | `SizeF` değerini, kesilmiş boyut değerlerine sahip bir [`Size`](../size/) yapısına dönüştürür. |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | Bu `SizeF` nesnesini temsil eden insan tarafından okunabilir bir dize oluşturur. |
+| [operator +](../../aspose.psd/sizef/op_addition/) | Bir `SizeF` yapısının genişlik ve yüksekliğini, başka bir `SizeF` yapısının genişlik ve yüksekliğine ekler. |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | İki `SizeF` yapısının eşit olup olmadığını test eder. |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | Belirtilen `SizeF` değerini bir [`PointF`](../pointf/) değerine dönüştürür. |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | İki `SizeF` yapısının farklı olup olmadığını test eder. |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | Bir `SizeF` yapısının genişlik ve yüksekliğini, başka bir `SizeF` yapısının genişlik ve yüksekliğinden çıkarır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

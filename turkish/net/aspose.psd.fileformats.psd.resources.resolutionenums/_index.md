@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Psd kaynakları çözüm birimlerini işler
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, PSD kaynak çözünürlük birimlerini yönetir."
 type: docs
-weight: 360
+weight: 400
 url: /tr/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-Ad alanı, Psd kaynakları çözüm birimlerini işler
+{{< psd/tize >}}
+Bu ad alanı, PSD kaynak çözünürlük birimlerini yönetir.
 
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | resolutionInfo fiziksel birimi enum |
-| [ResolutionUnit](./resolutionunit/) | Çözünürlük bilgisi çözünürlük birimi |
+| [PhysicalUnit](./physicalunit/) | Bu resoulutionInfo fiziksel birim enum |
+| [ResolutionUnit](./resolutionunit/) | Bu resolution info çözünürlük birimi |
 
 

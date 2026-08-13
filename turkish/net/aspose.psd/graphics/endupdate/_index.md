@@ -1,23 +1,24 @@
 ---
-title: Graphics.EndUpdate
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. BeginUpdate çağrıldıktan sonra başlatılan grafik işlemlerinin önbelleğe alınmasını bitirir. Bu yöntem çağrılırken önceki grafik işlemleri bir kerede uygulanacaktır.
+title: "Graphics.EndUpdate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. BeginUpdate çağrıldıktan sonra başlatılan grafik işlemlerinin önbelleğe alınmasını sonlandırır. Önceki grafik işlemleri bu yöntem çağrıldığında bir kerede uygulanır."
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/aspose.psd/graphics/endupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.EndUpdate method
 
-BeginUpdate çağrıldıktan sonra başlatılan grafik işlemlerinin önbelleğe alınmasını bitirir. Bu yöntem çağrılırken önceki grafik işlemleri bir kerede uygulanacaktır.
+BeginUpdate çağrıldıktan sonra başlatılan grafik işlemlerinin önbelleğe alınması tamamlanır. Önceki grafik işlemleri bu yöntem çağrıldığında bir kerede uygulanır.
 
 ```csharp
 public void EndUpdate()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

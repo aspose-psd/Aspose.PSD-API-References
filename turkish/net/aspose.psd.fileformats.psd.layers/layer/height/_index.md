@@ -1,27 +1,28 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Görüntü yüksekliğini alır.
+title: "Layer.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Görüntü yüksekliğini alır"
 type: docs
-weight: 160
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
-Görüntü yüksekliğini alır.
+Resmin yüksekliğini alır.
 
 ```csharp
 public override int Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD dosyasına yerleştirilen katmanın dönüşüm matrisini alır veya ayarlar.
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD dosyasındaki dönüşüm matrisini alır veya ayarlar"
 type: docs
-weight: 170
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-PSD dosyasına yerleştirilen katmanın dönüşüm matrisini alır veya ayarlar.
+Yerleştirilen katmanın PSD dosyasındaki dönüşüm matrisini alır veya ayarlar.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın dönüşüm matrisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

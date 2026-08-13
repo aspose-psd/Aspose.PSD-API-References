@@ -1,29 +1,30 @@
 ---
-title: PattResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResource yöntem. Kaynak bloğu verilerini kaydeder.
+title: "PattResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResource yöntemi. Kaynak blok verilerini kaydeder"
 type: docs
-weight: 70
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
+{{< psd/tize >}}
 ## PattResource.Save method
 
-Kaynak bloğu verilerini kaydeder.
+Kaynak blok verisini kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

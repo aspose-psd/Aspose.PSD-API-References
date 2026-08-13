@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource mülk. Taşma payının genişliğini alır veya ayarlar.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource özelliği. Kanat genişliğini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Taşma payının genişliğini alır veya ayarlar.
+Taşma genişliğini alır veya ayarlar.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Taşma payının genişliği.
+Kanat genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

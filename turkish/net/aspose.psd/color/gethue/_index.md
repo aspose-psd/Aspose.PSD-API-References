@@ -1,27 +1,28 @@
 ---
-title: Color.GetHue
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Bunun için tondoygunlukparlaklık HSB ton değerini derece cinsinden alırColoryapı.
+title: "Color.GetHue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Bu Color yapısı için hue‑saturation‑brightness (HSB) ton değerini derece cinsinden alır."
 type: docs
 weight: 1570
 url: /tr/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-Bunun için ton-doygunluk-parlaklık (HSB) ton değerini derece cinsinden alır[`Color`](../)yapı.
+Bu [`Color`](../) yapısı için hue‑saturation‑brightness (HSB) ton değerini derece cinsinden alır.
 
 ```csharp
 public float GetHue()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun derece cinsinden tonu[`Color`](../). Renk tonu, HSB renk uzayında 0,0 ile 360,0 arasında derece cinsinden ölçülür.
+Bu [`Color`](../) ton değeri, derece cinsinden. Ton, HSB renk uzayında 0.0 ile 360.0 arasında derece olarak ölçülür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

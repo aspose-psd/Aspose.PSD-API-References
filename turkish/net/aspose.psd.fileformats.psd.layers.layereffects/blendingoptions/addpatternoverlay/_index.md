@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. Model yerleşimini ekler.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. Desen kaplamasını ekler"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-Model yerleşimini ekler.
+Desen kaplamasını ekler.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`PatternOverlayEffect`](../../patternoverlayeffect/) nesne
+Oluşturulan [`PatternOverlayEffect`](../../patternoverlayeffect/) nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

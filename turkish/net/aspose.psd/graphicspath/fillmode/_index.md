@@ -1,32 +1,33 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath mülk. Alır veya ayarlarFillMode Bu sistemdeki şekillerin içlerinin nasıl olduğunu belirleyen numaralandırmaGraphicsPath dolu.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath özelliği. Bu GraphicsPath içindeki şekillerin iç kısımlarının nasıl doldurulacağını belirleyen bir FillMode numaralandırmasını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Alır veya ayarlar[`FillMode`](../../fillmode/) Bu sistemdeki şekillerin içlerinin nasıl olduğunu belirleyen numaralandırma[`GraphicsPath`](../) dolu.
+Bu [`GraphicsPath`](../) içindeki şekillerin iç kısımlarının nasıl doldurulacağını belirleyen bir [`FillMode`](../../fillmode/) numaralandırmasını alır veya ayarlar.
 
 ```csharp
 public FillMode FillMode { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bir[`FillMode`](../../fillmode/) şekillerin içlerinin nasıl olduğunu belirten numaralandırma[`GraphicsPath`](../) dolu.
+Bu [`GraphicsPath`](../) içindeki şekillerin iç kısımlarının nasıl doldurulacağını belirten bir [`FillMode`](../../fillmode/) numaralandırması.
 
-### Mülk değeri
+### Property Value
 
-Doldurma modu.
+Dolgu modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

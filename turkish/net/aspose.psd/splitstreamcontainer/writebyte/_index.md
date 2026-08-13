@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.WriteByte
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
+title: "SplitStreamContainer.WriteByte"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ileri alır"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/splitstreamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.WriteByte method
 
-Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
+Akıştaki mevcut konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
 
 ```csharp
 public override void WriteByte(byte value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Byte | Akışa yazılacak bayt. |
+| değer | Byte | Akışa yazılacak bayt. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

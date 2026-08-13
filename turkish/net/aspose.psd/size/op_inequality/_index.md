@@ -1,32 +1,33 @@
 ---
-title: Size.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: Size yöntem. İki olup olmadığını test ederSize yapılar farklıdır.
+title: "Size.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size yöntemi. İki Size yapısının farklı olup olmadığını test eder."
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/size/op_inequality/
 ---
+{{< psd/tize >}}
 ## Size Inequality operator
 
-İki olup olmadığını test eder[`Size`](../) yapılar farklıdır.
+İki [`Size`](../) yapısının farklı olup olmadığını test eder.
 
 ```csharp
 public static bool operator !=(Size size1, Size size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | Size | bu[`Size`](../) eşitsizlik operatörünün solundaki yapı. |
-| size2 | Size | bu[`Size`](../) eşitsizlik operatörünün sağındaki yapı. |
+| size1 | Size | Eşitsizlik operatörünün solundaki [`Size`](../) yapısı. |
+| size2 | Size | Eşitsizlik operatörünün sağındaki [`Size`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*size1* Ve*size2* genişlik veya yükseklik bakımından farklılık gösterir; yanlış ise*size1* Ve*size2* eşittir.
+Genişlik veya yükseklikte farklılık varsa *size1* ve *size2* için doğru; *size1* ve *size2* eşitse yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

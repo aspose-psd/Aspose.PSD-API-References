@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpGuid inşaatçı. Yeni bir örneğini başlatır.XmpGuid sınıf.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpGuid yapıcı. Yeni bir XmpGuid sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpGuid`](../) sınıf.
+Yeni bir [`XmpGuid`](../) sınıfı örneğini başlatır.
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | değer boş. |
-| ArgumentException | Geçersiz kılavuz değeri;değer |
+| ArgumentNullException | değer null. |
+| ArgumentException | Geçersiz guid değeri;value |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpGuid](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpGuid`](../) sınıf.
+Yeni bir [`XmpGuid`](../) sınıfı örneğini başlatır.
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | Guid | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpGuid](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

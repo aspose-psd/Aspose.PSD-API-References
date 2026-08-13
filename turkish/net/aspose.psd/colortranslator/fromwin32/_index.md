@@ -1,32 +1,33 @@
 ---
-title: ColorTranslator.FromWin32
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorTranslator yöntem. HTML renginden renk alır.
+title: "ColorTranslator.FromWin32"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorTranslator yöntemi. Rengi HTML renginden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/colortranslator/fromwin32/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromWin32 method
 
-HTML renginden renk alır.
+Rengi HTML renginden alır.
 
 ```csharp
 public static Color FromWin32(int win32Color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | win32Color | Int32 | Win32 rengi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* ad alanı [Aspose.PSD](../../colortranslator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

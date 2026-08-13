@@ -1,11 +1,12 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution Sıralama. Gürültü filtresinin dağılımı.
+title: "NoiseDistribution enumı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. Gürültü filtresinin dağılımı"
 type: docs
-weight: 3440
+weight: 3870
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
 Gürültü filtresinin dağılımı.
@@ -14,16 +15,16 @@ Gürültü filtresinin dağılımı.
 public enum NoiseDistribution
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Uniform | `0` | Eşit gürültü dağılımı. |
+| Uniform | `0` | Tekdüze gürültü dağılımı. |
 | Gaussian | `1` | Gauss gürültü dağılımı. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -93,9 +94,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

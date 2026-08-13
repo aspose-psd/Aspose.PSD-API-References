@@ -1,32 +1,33 @@
 ---
-title: SizeF.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Birinin genişliğini ve yüksekliğini eklerSizeF diğerinin genişliğine ve yüksekliğine yapıSizeFyapı.
+title: "SizeF.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bir SizeF yapısının genişlik ve yüksekliğini başka bir SizeF yapısının genişlik ve yüksekliğine ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/sizef/add/
 ---
+{{< psd/tize >}}
 ## SizeF.Add method
 
-Birinin genişliğini ve yüksekliğini ekler[`SizeF`](../) diğerinin genişliğine ve yüksekliğine yapı[`SizeF`](../)yapı.
+Bir [`SizeF`](../) yapısının genişlik ve yüksekliğini başka bir [`SizeF`](../) yapısının genişlik ve yüksekliğine ekler.
 
 ```csharp
 public static SizeF Add(SizeF size1, SizeF size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | SizeF | İlk[`SizeF`](../) eklemek. |
-| size2 | SizeF | İkinci[`SizeF`](../) eklemek. |
+| size1 | SizeF | Eklenecek ilk [`SizeF`](../). |
+| size2 | SizeF | Eklenecek ikinci [`SizeF`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`SizeF`](../) toplama işleminin sonucu olan yapı.
+Toplama işleminin sonucu olan bir [`SizeF`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

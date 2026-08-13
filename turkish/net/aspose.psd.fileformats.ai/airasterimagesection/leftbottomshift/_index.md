@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Sol alt kaydırmayı alır.
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Sol alt kaydırmayı alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
 Sol alt kaydırmayı alır.
@@ -14,14 +15,14 @@ Sol alt kaydırmayı alır.
 public double LeftBottomShift { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sol alt kaydırma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

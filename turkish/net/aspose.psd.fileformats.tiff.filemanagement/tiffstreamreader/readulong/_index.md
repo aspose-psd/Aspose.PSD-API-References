@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan işaretsiz tamsayı değerini okuyun.
+title: "TiffStreamReader.ReadULong"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan işaretsiz tam sayı değerini okur."
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULong method
 
-Akıştan işaretsiz tamsayı değerini okuyun.
+Akıştan işaretsiz tam sayı değeri okur.
 
 ```csharp
 public uint ReadULong(long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
+| konum | Int64 | Okunacak konum. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İşaretsiz bir tamsayı değeri.
+Bir işaretsiz tam sayı değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

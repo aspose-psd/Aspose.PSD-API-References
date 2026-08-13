@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin comp değerini alır veya ayarlar. Akıllı Nesnelerde katman kompozisyonları
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin comp değerini alır veya ayarlar. Akıllı Nesnelerde Katman kompozisyonları"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin comp değerini alır veya ayarlar. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+PSD dosyasındaki akıllı nesne katman verisinin comp değerini alır veya ayarlar. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Comp değeri, yoksa -1'dir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

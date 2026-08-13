@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Raster görüntünün adını alır.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Raster görüntünün adını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 Raster görüntünün adını alır.
@@ -14,14 +15,14 @@ Raster görüntünün adını alır.
 public string Name { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Raster görüntünün adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

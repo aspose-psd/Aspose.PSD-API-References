@@ -1,23 +1,24 @@
 ---
-title: PlacedResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. Yerleştirilmiş kaynak imzasını alır.
+title: "PlacedResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen kaynağın imzasını alır"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Signature property
 
-Yerleştirilmiş kaynak imzasını alır.
+Yerleştirilen kaynak imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: NvrtResource mülk. PSD sürümünü alır.
+title: "NvrtResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NvrtResource özelliği. PSD sürümünü alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/
 ---
+{{< psd/tize >}}
 ## NvrtResource.PsdVersion property
 
 PSD sürümünü alır.
@@ -14,10 +15,10 @@ PSD sürümünü alır.
 public override int PsdVersion { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NvrtResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

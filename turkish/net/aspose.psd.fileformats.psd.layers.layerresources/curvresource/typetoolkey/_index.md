@@ -1,11 +1,12 @@
 ---
-title: CurvResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource alan. Tip aracı bilgi anahtarı.
+title: "CurvResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 100
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CurvResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "ColorantCmyk.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

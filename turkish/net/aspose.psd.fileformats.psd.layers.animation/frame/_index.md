@@ -1,37 +1,38 @@
 ---
-title: Class Frame
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame sınıf. Zaman çizelgesi çerçeve öğesi seçenekleri.
+title: "Sınıf Frame"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame sınıfı. Zaman çizelgesi çerçeve öğesinin seçenekleri"
 type: docs
-weight: 1840
+weight: 1940
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/frame/
 ---
+{{< psd/tize >}}
 ## Frame class
 
-Zaman çizelgesi çerçeve öğesi seçenekleri.
+Zaman çizelgesi çerçeve öğesinin seçenekleri.
 
 ```csharp
 public sealed class Frame
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Frame](frame/)(TimeLine) | Yeni bir örneğini başlatır.`Frame` sınıf. |
+| [Frame](frame/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | Çerçeve gecikme değerini centa-saniye cinsinden alır veya ayarlar. Örneğin, 1 saniyede 100 centa-saniye içerir. |
-| [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | frame. 'nin elden çıkarma yöntemini alır veya ayarlar |
+| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | Çerçeve gecikme değerini centi-saniyeler cinsinden alır veya ayarlar. Örneğin, 1 saniye 100 centi-saniye içerir. |
+| [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | Çerçevenin imha yöntemini alır veya ayarlar. |
 | [Id](../../aspose.psd.fileformats.psd.layers.animation/frame/id/) { get; set; } | Çerçeve kimliğini alır veya ayarlar. |
-| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; } | Gets ot, frame. 'nin katman durumlarını ayarlar. |
+| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; set; } | Çerçevenin katman durumlarını alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-TimeLine sınıfı, kare gecikmesini değiştirmek veya belirli bir karede katman durumunu düzenlemek gibi, PsdImage'ın zaman çizelgesini işlemek için üst düzey bir yetenek sağlar.
+Timeline sınıfı, PsdImage zaman çizelgesini, çerçeve gecikmesini değiştirme veya belirli bir çerçevede katman durumunu düzenleme gibi yüksek seviyeli bir yetenek sağlar.
 
 ```csharp
 [C#]
@@ -41,40 +42,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Çerçeve 1'in elden çıkarma yöntemini değiştir
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Çerçeve 1'in dispose yöntemini değiştir.
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Çerçeve 2'nin gecikmesini değiştir
-    timeLine.Frames[1].Delay = 15;
+    // Çerçeve 2'nin gecikmesini değiştir.
+    timeline.Frames[1].Delay = 15;
 
-    // 2. karedeki 'Katman 1'in opaklığını değiştir
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Çerçeve 2'de 'Layer 1' opaklığını değiştir.
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'Katman 1'i 3. karede sol alt köşeye taşı
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // 'Layer 1'i çerçeve 3'te sol-alt köşeye taşı.
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Yeni çerçeve ekler
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Yeni çerçeve ekler.
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // 4. karede "Katman 1"in blendMode'unu değiştir
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Çerçeve 4'te 'Layer 1' katmanının blendMode'unu değiştir
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Değişiklikleri tekrar PsdImage örneğine uygula
-    timeLine.ApplyTo(psdImage);
+    // Değişiklikleri PsdImage örneğine geri uygula
     psdImage.Save(outputPsd);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Spread
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Yoğunluğu yüzde olarak alır veya ayarlar.
+title: "DropShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Yoğunluğu yüzde olarak alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Spread property
 
 Yoğunluğu yüzde olarak alır veya ayarlar.
@@ -14,14 +15,14 @@ Yoğunluğu yüzde olarak alır veya ayarlar.
 public int Spread { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Forma.
+Yayılım.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

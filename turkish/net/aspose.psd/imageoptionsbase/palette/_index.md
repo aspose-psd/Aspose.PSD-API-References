@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageOptionsBase mülk. Renk paletini alır veya ayarlar.
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageOptionsBase özelliği. Renk paletini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
 Renk paletini alır veya ayarlar.
@@ -14,15 +15,11 @@ Renk paletini alır veya ayarlar.
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### Mülk değeri
-
-Renk paleti.
-
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* ad alanı [Aspose.PSD](../../imageoptionsbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

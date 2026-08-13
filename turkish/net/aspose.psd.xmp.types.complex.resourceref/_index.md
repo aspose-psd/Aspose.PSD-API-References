@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceRef
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bir kaynağa çok parçalı başvuru olan sınıfı içerir. Önceki sürümleri yorumlamaların orijinallerini türetilmiş belgelerin orijinallerini vb. belirtmek için kullanılır.
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, bir kaynağa çok bölümlü referans olan sınıfı içerir. Önceki sürümleri, türev belgeler için orijinal rendisyonları ve benzerlerini belirtmek için kullanılır."
 type: docs
-weight: 670
+weight: 710
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/
 ---
-Ad alanı, bir kaynağa çok parçalı başvuru olan sınıfı içerir. Önceki sürümleri, yorumlamaların orijinallerini, türetilmiş belgelerin orijinallerini vb. belirtmek için kullanılır.
+{{< psd/tize >}}
+Namespace, bir kaynağa çok parçalı referans olan sınıfı içerir. Önceki sürümleri, rendisyonların orijinallerini, türetilmiş belgelerin orijinallerini vb. göstermek için kullanılır.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ResourceRef](./resourceref/) | Önceki sürümleri, yorumlamaların orijinallerini, türetilmiş belgelerin orijinallerini vb. belirtmek için kullanılır. |
+| [ResourceRef](./resourceref/) | Önceki sürümleri, rendisyonların orijinallerini, türev belgeler için orijinalleri ve benzerlerini belirtmek için kullanılır. |
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Maksimum örnek değerini alır veya ayarlar.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Azami örnek değerini alır veya ayarlar"
 type: docs
-weight: 260
+weight: 270
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
 Maksimum örnek değerini alır veya ayarlar.
@@ -14,21 +15,21 @@ Maksimum örnek değerini alır veya ayarlar.
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Maksimum örnek değeri.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel sayısı başına örnek sayısına karşılık gelmelidir. |
+| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel başına örnek sayısına karşılık gelmelidir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

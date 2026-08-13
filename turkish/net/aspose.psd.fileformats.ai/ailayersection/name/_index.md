@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Katman adını alır veya ayarlar. Katmanlar panelinde göründüğü şekliyle öğenin adını belirtir.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Katman adını alır veya ayarlar. Öğenin Katmanlar panelinde göründüğü adı belirtir"
 type: docs
-weight: 110
+weight: 130
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Katman adını alır veya ayarlar. Katmanlar panelinde göründüğü şekliyle öğenin adını belirtir.
+Katman adını alır veya ayarlar. Öğenin Katmanlar panelinde göründüğü adı belirtir.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman adı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

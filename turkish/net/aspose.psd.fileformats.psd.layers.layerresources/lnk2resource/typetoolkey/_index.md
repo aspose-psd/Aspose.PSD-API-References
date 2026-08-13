@@ -1,11 +1,12 @@
 ---
-title: Lnk2Resource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: Lnk2Resource alan. Tip aracı bilgi anahtarı.
+title: "Lnk2Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lnk2Resource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lnk2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

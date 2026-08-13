@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdOptions mülk. psd sıkıştırma yöntemini alır veya ayarlar.
+title: "PsdOptions.CompressionMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdOptions özelliği. psd sıkıştırma yöntemini alır veya ayarlar"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-psd sıkıştırma yöntemini alır veya ayarlar.
+PSD sıkıştırma yöntemini alır veya ayarlar.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sıkıştırma yöntemi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../psdoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

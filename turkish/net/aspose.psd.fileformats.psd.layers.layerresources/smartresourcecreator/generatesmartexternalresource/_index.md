@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartResourceCreator yöntem. Harici akıllı nesne kaynağını oluşturur.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartResourceCreator yöntemi. Dış akıllı nesne kaynağını oluşturur"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
 Harici akıllı nesne kaynağını oluşturur.
@@ -14,15 +15,15 @@ Harici akıllı nesne kaynağını oluşturur.
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-oluşturulan[`SoLeResource`](../../soleresource/) misal.
+Oluşturulan [`SoLeResource`](../../soleresource/) örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

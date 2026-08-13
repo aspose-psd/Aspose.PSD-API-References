@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. dönüştürürSizeF birSize kesik boyut değerlerine sahip yapı.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bir SizeF'yi kesirli değerleri atılmış bir Size yapısına dönüştürür."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-dönüştürür[`SizeF`](../) bir[`Size`](../../size/) kesik boyut değerlerine sahip yapı.
+Bir [`SizeF`](../) değerini kesirli değerleri atılmış bir [`Size`](../../size/) yapısına dönüştürür.
 
 ```csharp
 public Size ToSize()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bir döndürür[`Size`](../../size/) yapı.
+Bir [`Size`](../../size/) yapısı döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

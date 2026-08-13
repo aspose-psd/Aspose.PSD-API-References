@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalLayerMaskInfo mülk. Genel katman opaklığını alır veya ayarlar. 0  şeffaf 100  opak.
+title: "GlobalLayerMaskInfo.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalLayerMaskInfo özelliği. Global katmanların opaklığını alır veya ayarlar. 0  şeffaf 100  opak"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Opacity property
 
-Genel katman opaklığını alır veya ayarlar. 0 = şeffaf, 100 = opak.
+Küresel katmanların opaklığını alır veya ayarlar. 0 = şeffaf, 100 = opak.
 
 ```csharp
 public short Opacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Genel katman opaklığı.
+Global katmanların opaklığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalLayerMaskInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

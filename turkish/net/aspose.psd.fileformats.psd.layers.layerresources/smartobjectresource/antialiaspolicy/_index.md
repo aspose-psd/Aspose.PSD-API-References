@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.AntiAliasPolicy
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD görüntüsündeki akıllı nesne katmanı verilerinin kenar yumuşatma politikasını alır veya ayarlar.
+title: "SmartObjectResource.AntiAliasPolicy"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD görüntüsündeki akıllı nesne katman verisinin anti alias politikasını alır veya ayarlar."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.AntiAliasPolicy property
 
-PSD görüntüsündeki akıllı nesne katmanı verilerinin kenar yumuşatma politikasını alır veya ayarlar.
+PSD görüntüsündeki akıllı nesne katman verisinin anti-alias politikasını alır veya ayarlar.
 
 ```csharp
 public override int AntiAliasPolicy { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Akıllı nesne katmanı verilerinin kenar yumuşatma politikası.
+Akıllı nesne katman verisinin anti alias politikası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

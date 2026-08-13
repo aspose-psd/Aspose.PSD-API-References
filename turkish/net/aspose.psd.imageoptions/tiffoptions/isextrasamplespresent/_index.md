@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Ekstra örneklerin mevcut olup olmadığını gösteren bir değer alır.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Ek örneklerin mevcut olup olmadığını gösteren bir değer alır"
 type: docs
-weight: 230
+weight: 240
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-Ekstra örneklerin mevcut olup olmadığını gösteren bir değer alır.
+Ek örneklerin mevcut olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` fazla numune varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer ek örnekler mevcutsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

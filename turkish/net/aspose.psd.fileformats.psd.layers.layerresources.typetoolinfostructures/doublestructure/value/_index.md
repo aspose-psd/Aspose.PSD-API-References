@@ -1,27 +1,28 @@
 ---
-title: DoubleStructure.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: DoubleStructure mülk. Çift değeri alır veya ayarlar.
+title: "DoubleStructure.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DoubleStructure özelliği. Double değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Value property
 
-Çift değeri alır veya ayarlar.
+Double değerini alır veya ayarlar.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çift değer.
+Double değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DoubleStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

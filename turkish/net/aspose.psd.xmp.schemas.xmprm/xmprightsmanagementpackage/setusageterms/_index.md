@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRightsManagementPackage yöntem. Kullanım koşullarını ayarlar.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRightsManagementPackage yöntemi. Kullanım koşullarını ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
 Kullanım koşullarını ayarlar.
@@ -14,21 +15,21 @@ Kullanım koşullarını ayarlar.
 public void SetUsageTerms(LangAlt usageTerms)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | usageTerms | LangAlt | Kullanım koşulları. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | kullanım koşulları |
+| ArgumentNullException | usageTerms |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBalanceAdjustmentLayer mülk. Gölgeler Sarı Mavi Dengesini alır veya ayarlar.
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBalanceAdjustmentLayer özelliği. Shadows YellowBlue Balance değerini alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
-Gölgeler Sarı Mavi Dengesini alır veya ayarlar.
+Gölgelerin Sarı Mavi Dengesini alır veya ayarlar.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Gölgeler Sarı Mavi Dengesi.
+Shadows Yellow Blue Balance.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Gölgeler Sarı Mavi Dengesi -100 ila +100 aralığında olmalıdır. |
+| ArgumentOutOfRangeException | Shadows Yellow Blue Balance -100 ile +100 arasında olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, ColorBalanceAdjustmentLayer için desteği gösterir.
+Aşağıdaki kod, ColorBalanceAdjustmentLayer desteğini gösterir.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

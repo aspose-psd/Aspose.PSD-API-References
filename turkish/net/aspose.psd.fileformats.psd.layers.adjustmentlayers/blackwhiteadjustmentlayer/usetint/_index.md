@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD for .NET API Referansı
-description: BlackWhiteAdjustmentLayer mülk. renk tonunun kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlackWhiteAdjustmentLayer özelliği. Ton renginin kullanılıp kullanılmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-[renk tonu]'nun kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+Bir değeri alır veya ayarlar; bu değer [tint color] kullanılıp kullanılmadığını gösterir.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` kullanılıyorsa [renk tonu]; aksi takdirde,`YANLIŞ` .
+`true` eğer kullanılmışsa [tint color]; aksi takdirde, `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de siyah beyaz ayarlama katmanı özelliklerini nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde siyah beyaz ayar katmanı özelliklerini nasıl manipüle edebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

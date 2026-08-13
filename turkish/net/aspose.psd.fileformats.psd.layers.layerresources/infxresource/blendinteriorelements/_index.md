@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: Aspose.PSD for .NET API Referansı
-description: InfxResource mülk. iç öğeleri harmanla. olup olmadığını belirten bir değer alır veya ayarlar.
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InfxResource özelliği. İç elemanları harmanlayıp harmanlamadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-[iç öğeleri harmanla]. olup olmadığını belirten bir değer alır veya ayarlar.
+Bu [blend interior elements] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [iç elemanları harmanla]; aksi takdirde,`YANLIŞ` .
+`true` eğer [blend interior elements]; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InfxResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.HotkeyPrefix Sıralama. Metinle ilgili kısayol tuşu önekleri için görüntü tipini belirtir.
+title: "Enum HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.HotkeyPrefix enum. Metinle ilgili kısayol ön eklerinin görüntülenme türünü belirtir."
 type: docs
-weight: 4350
+weight: 4850
 url: /tr/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-Metinle ilgili kısayol tuşu önekleri için görüntü tipini belirtir.
+Metinle ilgili kısayol ön eklerinin görüntülenme türünü belirtir.
 
 ```csharp
 public enum HotkeyPrefix
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| None | `0` | Kısayol tuşu öneki yok. |
-| Show | `1` | Kısayol tuşu önekini görüntüleyin. |
-| Hide | `2` | Kısayol tuşu önekini gösterme. |
+| None | `0` | Kısayol ön eki yok. |
+| Show | `1` | Kısayol ön ekini göster. |
+| Hide | `2` | Kısayol ön ekini gösterme. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

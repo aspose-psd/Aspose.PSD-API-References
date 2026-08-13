@@ -1,31 +1,32 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper yöntem. Paketin xmp sarıcıda olup olmadığını belirler.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper metodu. Paketin xmp sarmalayıcı içinde mevcut olup olmadığını belirler"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Paketin xmp sarıcıda olup olmadığını belirler.
+Paketin xmp sarmalayıcı içinde mevcut olup olmadığını belirler.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| namespaceUri | String | Paket şeması uri. |
+| namespaceUri | String | Paket şema uri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-XMP sarıcısında belirtilen ad alanı Uri'sine sahip paket varsa true değerini döndürür.
+Belirtilen ad alanı Uri'sine sahip paket XMP sarmalayıcı içinde mevcutsa true döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

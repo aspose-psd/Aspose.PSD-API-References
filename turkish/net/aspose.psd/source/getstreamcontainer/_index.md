@@ -1,11 +1,12 @@
 ---
-title: Source.GetStreamContainer
-second_title: Aspose.PSD for .NET API Referansı
-description: Source yöntem. Akış kapsayıcısını alır.
+title: "Source.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Source yöntemi. Akış konteynerini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/source/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## Source.GetStreamContainer method
 
 Akış kapsayıcısını alır.
@@ -14,19 +15,19 @@ Akış kapsayıcısını alır.
 public abstract StreamContainer GetStreamContainer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-akış kabı.
+akış kapsayıcısı.
 
-### Notlar
+## Açıklamalar
 
-Dikkatle kullanın. Aldıktan sonra akış kapsayıcısını atmanız gerekecektir.
+Dikkatli kullanın. Alımdan sonra akış kapsayıcısını atmanız gerekecek.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* ad alanı [Aspose.PSD](../../source/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Şunu alır veya ayarlarBrush bunun özelliklerini belirleyenPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen'in özelliklerini belirleyen Brush'ı alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Şunu alır veya ayarlar:`Brush` bunun özelliklerini belirleyen[`Pen`](../) .
+Bu [`Pen`](../) özelliklerini belirleyen `Brush`'ı alır veya ayarlar.
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A`Brush` bunun özelliklerini belirleyen[`Pen`](../).
+Bu [`Pen`](../) özelliklerini belirleyen bir `Brush`.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`Brush` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `Brush` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

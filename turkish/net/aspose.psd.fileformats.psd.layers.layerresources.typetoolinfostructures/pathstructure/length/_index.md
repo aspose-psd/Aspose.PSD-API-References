@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: PathStructure mülk. Şunu alırOSTypeStructure bayt cinsinden uzunluk.
+title: "PathStructure.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathStructure özelliği. OSTypeStructure uzunluğunu bayt olarak alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/
 ---
+{{< psd/tize >}}
 ## PathStructure.Length property
 
-Şunu alır:[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk.
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, PathStructure yapısına sahip dosya yükleme yeteneğini gösterir.
+Aşağıdaki kod, PathStructure yapısıyla dosya yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

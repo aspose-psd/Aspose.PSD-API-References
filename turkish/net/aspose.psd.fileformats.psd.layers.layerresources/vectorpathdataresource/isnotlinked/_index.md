@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsNotLinked
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorPathDataResource mülk. Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "VectorPathDataResource.IsNotLinked"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorPathDataResource özelliği. Bu örneğin bağlı olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsNotLinked property
 
-Bu örneğin bağlantılı olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin bağlanmamış olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsNotLinked { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek bağlantılı değilse; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek bağlı değilse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathDataResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

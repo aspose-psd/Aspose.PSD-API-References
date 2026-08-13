@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleOpacity
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili opaklığını 0100 alır veya ayarlar.
+title: "VstkResource.StrokeStyleOpacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi stili opaklığını (0100) alır veya ayarlar"
 type: docs
-weight: 180
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-Kontur stili opaklığını (%0-100) alır veya ayarlar.
+Stroke style opaklığını (0-100%) alır veya ayarlar.
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

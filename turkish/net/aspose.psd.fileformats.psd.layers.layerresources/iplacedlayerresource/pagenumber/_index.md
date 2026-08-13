@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PageNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD dosyasına yerleştirilen katmanın sayfa numarasını alır veya ayarlar.
+title: "IPlacedLayerResource.PageNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. Yerleştirilen katmanın PSD dosyasındaki sayfa numarasını alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PageNumber property
 
-PSD dosyasına yerleştirilen katmanın sayfa numarasını alır veya ayarlar.
+PSD dosyasındaki yerleştirilmiş katmanın sayfa numarasını alır veya ayarlar.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın sayfa numarası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

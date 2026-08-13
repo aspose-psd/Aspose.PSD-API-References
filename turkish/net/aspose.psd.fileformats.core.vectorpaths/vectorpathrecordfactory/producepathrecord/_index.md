@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorPathRecordFactory yöntem. Yol kaydını üretir.
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorPathRecordFactory yöntemi. Yol kaydını üretir"
 type: docs
-weight: 20
+weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
 Yol kaydını üretir.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kayıt verileri. |
+| veri | Byte[] | Kayıt verisi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-oluşturuldu[`VectorPathRecord`](../../vectorpathrecord/)
+Oluşturuldu [`VectorPathRecord`](../../vectorpathrecord/).
 
-### istisnalar
-
-| istisna | şart |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
-
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

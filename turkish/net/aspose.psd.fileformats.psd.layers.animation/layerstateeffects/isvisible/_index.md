@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.IsVisible
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerStateEffects mülk. Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+title: "LayerStateEffects.IsVisible"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerStateEffects özelliği. Bu örneğin görünür olup olmadığını belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/isvisible/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.IsVisible property
 
-Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar.
+Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek görünüyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek görünürse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerStateEffects](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

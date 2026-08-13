@@ -1,11 +1,12 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Şablon kutusunu alır veya ayarlar.
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Şablon kutusunu alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
 Şablon kutusunu alır veya ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 public RectangleF TemplateBox { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şablon kutusu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

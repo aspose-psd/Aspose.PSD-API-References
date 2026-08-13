@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Yazım aracı sürümünü alır veya ayarlar.
+title: "TypeToolInfo6Resource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Tip aracı sürümünü alır veya ayarlar"
 type: docs
-weight: 160
+weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Version property
 
-Yazım aracı sürümünü alır veya ayarlar.
+Tip aracı sürümünü alır veya ayarlar.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yazım aracı sürümü.
+Tip aracı sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

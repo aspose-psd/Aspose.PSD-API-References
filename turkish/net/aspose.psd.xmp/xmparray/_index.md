@@ -1,44 +1,45 @@
 ---
-title: Class XmpArray
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.XmpArray sınıf. Xmp Dizisini Temsil EderXmpPackage . YAPILACAKLAR Dizi karmaşık veriler içerebilir.
+title: "Sınıf XmpArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.XmpArray sınıfı. XmpPackage içinde Xmp Dizisini temsil eder. TODO Dizi karmaşık veri içerebilir"
 type: docs
-weight: 6210
+weight: 6740
 url: /tr/net/aspose.psd.xmp/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray class
 
-Xmp Dizisini Temsil Eder[`XmpPackage`](../xmppackage/) . YAPILACAKLAR: Dizi karmaşık veriler içerebilir.
+[`XmpPackage`](../xmppackage/) içinde Xmp Dizisini temsil eder. TODO: Dizi karmaşık veri içerebilir.
 
 ```csharp
 public class XmpArray : IXmlValue
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpArray](xmparray/#constructor)(XmpArrayType) | Yeni bir örneğini başlatır.`XmpArray` sınıf. |
-| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | Yeni bir örneğini başlatır.`XmpArray` sınıf. |
+| [XmpArray](xmparray/#constructor)(XmpArrayType) | `XmpArray` sınıfının yeni bir örneğini başlatır. |
+| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | `XmpArray` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | İçindeki değer dizisini alır`XmpArray` . |
+| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | `XmpArray` içinde değerler dizisini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | Yeni öğe ekler. |
-| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | XMP değerini XML gösterimine dönüştürür. |
-| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | a döndürürString bu örneği temsil eder. |
+| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | XMP değerini XML temsiline dönüştürür. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IXmlValue](../ixmlvalue/)
-* ad alanı [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

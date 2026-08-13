@@ -1,39 +1,40 @@
 ---
-title: DescriptorStructure.DescriptorStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: DescriptorStructure inşaatçı. Yeni bir örneğini başlatır.DescriptorStructure sınıf.
+title: "DescriptorStructure.DescriptorStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DescriptorStructure yapıcı. DescriptorStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure constructor
 
-Yeni bir örneğini başlatır.[`DescriptorStructure`](../) sınıf.
+[`DescriptorStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 | classID | ClassID | Sınıf tanımlayıcısı. |
 | className | String | Sınıfın adı. |
-| structures | OSTypeStructure[] | yapılar. |
+| yapılar | OSTypeStructure[] | Yapılar. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | sınıf kimliği boş |
+| ArgumentNullException | classID null |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

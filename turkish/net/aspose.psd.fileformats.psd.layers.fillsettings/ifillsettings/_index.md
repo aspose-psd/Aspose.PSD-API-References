@@ -1,28 +1,29 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings arayüz. Dolgu ayarları için temel arayüz
+title: "Arayüz IFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings arayüz. Doldurma ayarları için temel arayüz"
 type: docs
-weight: 2000
+weight: 2120
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
-Dolgu ayarları için temel arayüz
+Doldurma ayarları için temel arayüz
 
 ```csharp
 public interface IFillSettings
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Dolgu türünü alır. |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | Doldurmanın türünü alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

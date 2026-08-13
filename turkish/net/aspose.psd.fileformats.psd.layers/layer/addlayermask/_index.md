@@ -1,34 +1,35 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. Geçerli katmana maske ekler.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yöntemi. Maskeyi mevcut katmana ekler"
 type: docs
-weight: 330
+weight: 340
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-Geçerli katmana maske ekler.
+Maskeyi mevcut katmana ekler.
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | layerMask | LayerMaskData | Katman maskesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Tam katman maskesi ayarı için henüz desteklenmiyor, lütfen LayerMaskDataShort kullanın |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Tam katman maskesi henüz ayarlama için desteklenmiyor, lütfen LayerMaskDataShort kullanın |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

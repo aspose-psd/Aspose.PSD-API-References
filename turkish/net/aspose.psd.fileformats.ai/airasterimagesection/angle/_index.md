@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Açıyı alır.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Açıyı alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
 Açıyı alır.
@@ -14,14 +15,14 @@ Açıyı alır.
 public double Angle { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

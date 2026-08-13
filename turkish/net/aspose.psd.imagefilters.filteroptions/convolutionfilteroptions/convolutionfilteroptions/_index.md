@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: ConvolutionFilterOptions inşaatçı. Yeni bir örneğini başlatır.ConvolutionFilterOptions sınıf.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ConvolutionFilterOptions yapıcı. ConvolutionFilterOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-Yeni bir örneğini başlatır.[`ConvolutionFilterOptions`](../) sınıf.
+[`ConvolutionFilterOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ConvolutionFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

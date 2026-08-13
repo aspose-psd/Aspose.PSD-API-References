@@ -1,11 +1,12 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits Sıralama. jfif yoğunluk birimleri.
+title: "Enum JfifDensityUnits"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits enum. jfif yoğunluk birimleri"
 type: docs
-weight: 1480
+weight: 1490
 url: /tr/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
 jfif yoğunluk birimleri.
@@ -14,17 +15,17 @@ jfif yoğunluk birimleri.
 public enum JfifDensityUnits : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | NoUnits | `0` | Birim yok. |
-| PixelsPerInch | `1` | İnç başına piksel sayısı. |
-| PixelsPerCm | `2` | cm başına piksel. |
+| PixelsPerInch | `1` | İnç başına piksel. |
+| PixelsPerCm | `2` | Santimetre başına piksel. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

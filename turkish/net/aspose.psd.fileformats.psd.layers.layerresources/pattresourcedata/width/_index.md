@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResourceData mülk. Genişliği alır.
+title: "PattResourceData.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResourceData özelliği. Genişliği alır."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
 Genişliği alır.
@@ -14,14 +15,14 @@ Genişliği alır.
 public short Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Genişlik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResourceData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

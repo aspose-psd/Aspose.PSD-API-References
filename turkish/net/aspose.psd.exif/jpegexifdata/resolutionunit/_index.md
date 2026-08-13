@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Çözünürlük birimini alır veya ayarlar.
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Çözünürlük birimini alır veya ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
 Çözünürlük birimini alır veya ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Çözünürlük birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

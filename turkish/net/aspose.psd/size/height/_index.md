@@ -1,23 +1,24 @@
 ---
-title: Size.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Size mülk. Bunun dikey bileşenini alır veya ayarlarSize .
+title: "Size.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Size özelliği. Bu Size'ın dikey bileşenini alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-Bunun dikey bileşenini alır veya ayarlar[`Size`](../) .
+Bu [`Size`](../) yapısının dikey bileşenini alır veya ayarlar.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../)
-* ad alanı [Aspose.PSD](../../size/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

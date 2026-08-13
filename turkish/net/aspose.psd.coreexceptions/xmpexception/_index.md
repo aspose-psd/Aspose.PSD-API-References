@@ -1,31 +1,32 @@
 ---
-title: Class XmpException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.XmpException sınıf. XMP geçersiz bir yapıya sahip olduğunda atılan istisna.
+title: "XmpException sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.XmpException sınıfı. XMP geçersiz yapıya sahip olduğunda atılan istisna"
 type: docs
 weight: 690
 url: /tr/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-XMP geçersiz bir yapıya sahip olduğunda atılan istisna.
+XMP geçersiz yapıya sahip olduğunda atılan istisna.
 
 ```csharp
 public class XmpException : FrameworkException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | Yeni bir örneğini başlatır.`XmpException` sınıf. |
-| [XmpException](xmpexception/#constructor_1)(string) | Yeni bir örneğini başlatır.`XmpException` sınıf. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Yeni bir örneğini başlatır.`XmpException` sınıf. |
+| [XmpException](xmpexception/#constructor)() | `XmpException` sınıfının yeni bir örneğini başlatır. |
+| [XmpException](xmpexception/#constructor_1)(string) | `XmpException` sınıfının yeni bir örneğini başlatır. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | `XmpException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FrameworkException](../frameworkexception/)
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

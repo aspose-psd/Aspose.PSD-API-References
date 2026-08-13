@@ -1,48 +1,49 @@
 ---
-title: Class ColorantLab
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab sınıf. LAB Renklendiriciyi Temsil Eder.
+title: "Class ColorantLab"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantLab class. LAB Renk Maddesini temsil eder"
 type: docs
-weight: 6030
+weight: 6560
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab class
 
-LAB Renklendiriciyi Temsil Eder.
+LAB Colorant'ı temsil eder.
 
 ```csharp
 public sealed class ColorantLab : ColorantBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ColorantLab](colorantlab/#constructor)() | Yeni bir örneğini başlatır.`ColorantLab` sınıf. |
-| [ColorantLab](colorantlab/#constructor_1)(int, int, float) | Yeni bir örneğini başlatır.`ColorantLab` sınıf. |
+| [ColorantLab](colorantlab/#constructor)() | `ColorantLab` sınıfının yeni bir örneğini başlatır. |
+| [ColorantLab](colorantlab/#constructor_1)(int, int, float) | `ColorantLab` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [A](../../aspose.psd.xmp.types.complex.colorant/colorantlab/a/) { get; set; } | A bileşenini alır veya ayarlar. |
 | [B](../../aspose.psd.xmp.types.complex.colorant/colorantlab/b/) { get; set; } | B bileşenini alır veya ayarlar. |
-| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Rengin türünü alır veya ayarlar. |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Renk tipini alır veya ayarlar. |
 | [L](../../aspose.psd.xmp.types.complex.colorant/colorantlab/l/) { get; set; } | L bileşenini alır veya ayarlar. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Alır[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sini alır. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Alır [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ön eki alır. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Renk örneğinin adını alır veya ayarlar. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Örnek kartın adını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [MaxA](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/) | Maksimum A bileşen değeri |
 | const [MaxB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/maxb/) | Maksimum A bileşen değeri |
@@ -51,10 +52,10 @@ public sealed class ColorantLab : ColorantBase
 | const [MinB](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minb/) | Minimum B bileşen değeri |
 | const [MinL](../../aspose.psd.xmp.types.complex.colorant/colorantlab/minl/) | Minimum L bileşen değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantBase](../colorantbase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

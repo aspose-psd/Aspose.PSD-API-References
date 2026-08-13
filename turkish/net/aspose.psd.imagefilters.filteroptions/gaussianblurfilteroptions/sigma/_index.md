@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussianBlurFilterOptions mülk. Sigmayı alır veya ayarlar.
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussianBlurFilterOptions özelliği. sigma değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-Sigmayı alır veya ayarlar.
+Sigma değerini alır veya ayarlar.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sigma.
+sigma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussianBlurFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

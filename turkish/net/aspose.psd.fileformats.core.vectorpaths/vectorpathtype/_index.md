@@ -1,36 +1,37 @@
 ---
-title: Enum VectorPathType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType Sıralama. PSD Biçim Spesifikasyonuna göre Vektör Yolu Türü
+title: "Enum VectorPathType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType enum. PSD Format Specification'a göre Vektör Yol Tipi"
 type: docs
-weight: 1420
+weight: 1430
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-PSD Biçim Spesifikasyonuna göre Vektör Yolu Türü
+PSD Format Özelliğine göre Vektör Yol Türü
 
 ```csharp
 public enum VectorPathType : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | Kapalı alt yol uzunluğu kaydı |
-| ClosedSubpathBezierKnotLinked | `1` | Kapalı alt yol bezier düğümü bağlantılı |
-| ClosedSubpathBezierKnotUnlinked | `2` | Kapalı alt yol bezier düğümü unlinked |
-| OpenSubpathLengthRecord | `3` | Açık alt yol uzunluğu kaydı |
-| OpenSubpathBezierKnotLinked | `4` | Açık alt yol bezier düğümü linked |
-| OpenSubpathBezierKnotUnlinked | `5` | Açık alt yol bezier düğümü unlinked |
-| PathFillRuleRecord | `6` | Yol doldurma kuralı record |
+| ClosedSubpathLengthRecord | `0` | Kapanmış alt yol uzunluk kaydı |
+| ClosedSubpathBezierKnotLinked | `1` | Kapanmış alt yol bezier düğümü bağlı |
+| ClosedSubpathBezierKnotUnlinked | `2` | Kapanmış alt yol bezier düğümü bağlı değil |
+| OpenSubpathLengthRecord | `3` | Açık alt yol uzunluk kaydı |
+| OpenSubpathBezierKnotLinked | `4` | Açık alt yol Bezier düğümü bağlandı |
+| OpenSubpathBezierKnotUnlinked | `5` | Açık alt yol Bezier düğümü bağlanmadı |
+| PathFillRuleRecord | `6` | Yol doldurma kuralı kaydı |
 | ClipboardRecord | `7` | Pano kaydı |
-| InitialFillRuleRecord | `8` | İlk doldurma kuralı record |
+| InitialFillRuleRecord | `8` | İlk doldurma kuralı kaydı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

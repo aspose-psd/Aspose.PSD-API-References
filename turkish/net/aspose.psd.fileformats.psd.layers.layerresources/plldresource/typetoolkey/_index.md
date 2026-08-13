@@ -1,11 +1,12 @@
 ---
-title: PlLdResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: PlLdResource alan. Tip aracı bilgi anahtarı.
+title: "PlLdResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlLdResource alanı. Tür aracı bilgi anahtarı"
 type: docs
-weight: 60
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PlLdResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

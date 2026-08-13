@@ -1,11 +1,12 @@
 ---
-title: Enum StringAlignment
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.StringAlignment Sıralama. Bir metin dizesinin yerleşim dikdörtgenine göre hizalamasını belirtir.
+title: "Enum StringAlignment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.StringAlignment enum. Bir metin dizesinin düzen dikdörtgenine göre hizalamasını belirtir"
 type: docs
-weight: 5650
+weight: 6180
 url: /tr/net/aspose.psd/stringalignment/
 ---
+{{< psd/tize >}}
 ## StringAlignment enumeration
 
 Bir metin dizesinin yerleşim dikdörtgenine göre hizalamasını belirtir.
@@ -14,17 +15,17 @@ Bir metin dizesinin yerleşim dikdörtgenine göre hizalamasını belirtir.
 public enum StringAlignment
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Near | `0` | Mizanpaja yakın hizalanacak metni belirtir. Soldan sağa bir düzende, yakın konum soldadır. Sağdan sola bir düzende, yakın konum sağdır. |
-| Center | `1` | Metnin düzen dikdörtgeninin ortasına hizalanacağını belirtir. |
-| Far | `2` | Metnin, düzen dikdörtgeninin başlangıç konumundan uzağa hizalandığını belirtir. Soldan sağa bir düzende, uzak konum sağdadır. Sağdan sola bir düzende, uzak konum left. |
+| Near | `0` | Metnin yerleşime yakın hizalanmasını belirtir. Soldan sağa yerleşimde, yakın konum soldur. Sağdan sola yerleşimde, yakın konum sağdır. |
+| Center | `1` | Metnin yerleşim dikdörtgeninin ortasında hizalanmasını belirtir. |
+| Far | `2` | Metnin yerleşim dikdörtgeninin orijinal konumundan uzakta hizalanmasını belirtir. Soldan sağa yerleşimde, uzak konum sağdır. Sağdan sola yerleşimde, uzak konum soldur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

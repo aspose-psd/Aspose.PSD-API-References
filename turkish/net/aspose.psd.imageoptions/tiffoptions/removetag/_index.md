@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions yöntem. Etiketi kaldırır.
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions yöntemi. Etiketi kaldırır"
 type: docs
-weight: 740
+weight: 750
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 Etiketi kaldırır.
@@ -14,19 +15,19 @@ Etiketi kaldırır.
 public bool RemoveTag(TiffTags tag)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tag | TiffTags | Kaldırılacak etiket. |
+| etiket | TiffTags | Kaldırılacak etiket. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-başarılı bir şekilde kaldırıldıysa doğrudur
+başarıyla kaldırıldıysa true
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

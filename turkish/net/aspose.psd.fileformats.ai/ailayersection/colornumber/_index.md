@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Renk numarasını alır veya ayarlar. 1 Red Green Blue özelliklerinden gelen özel renk değeridir. Katmanın renk ayarını belirtir.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Renk numarasını alır veya ayarlar. 1, Kırmızı Yeşil Mavi özelliklerinden gelen özel renk değeridir. Katmanın renk ayarını belirtir."
 type: docs
-weight: 20
+weight: 30
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Renk numarasını alır veya ayarlar. -1, Red, Green, Blue özelliklerinden gelen özel renk değeridir. Katmanın renk ayarını belirtir.
+Renk numarasını alır veya ayarlar. -1, Kırmızı, Yeşil, Mavi özelliklerinden gelen özel renk değeridir. Katmanın renk ayarını belirtir.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk numarası.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

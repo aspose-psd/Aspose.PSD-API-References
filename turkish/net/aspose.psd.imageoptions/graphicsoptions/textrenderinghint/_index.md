@@ -1,24 +1,25 @@
 ---
-title: GraphicsOptions.TextRenderingHint
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsOptions mülk. Metin işleme ipucunu alır veya ayarlar.
+title: "GraphicsOptions.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsOptions özelliği. Metin renderleme ipucunu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/graphicsoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.TextRenderingHint property
 
-Metin işleme ipucunu alır veya ayarlar.
+Metin renderleme ipucunu alır veya ayarlar.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [GraphicsOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

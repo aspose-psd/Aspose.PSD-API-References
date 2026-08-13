@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PointType
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Noktanın türünü alır veya ayarlar.
+title: "IPatternFillSettings.PointType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Noktanın tipini alır veya ayarlar"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PointType property
 
-Noktanın türünü alır veya ayarlar.
+Noktanın tipini alır veya ayarlar.
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Noktanın türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

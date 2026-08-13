@@ -1,66 +1,67 @@
 ---
-title: GraphicsPath.Flatten
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Bu yoldaki her bir eğriyi bir bağlı çizgi parçaları dizisine dönüştürür.
+title: "GraphicsPath.Flatten"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Bu yoldaki her eğriyi birbirine bağlı çizgi segmentlerinden oluşan bir diziye dönüştürür"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/graphicspath/flatten/
 ---
+{{< psd/tize >}}
 ## Flatten() {#flatten}
 
-Bu yoldaki her bir eğriyi bir bağlı çizgi parçaları dizisine dönüştürür.
+Bu yoldaki her eğriyi birbirine bağlı çizgi segmentlerinden oluşan bir diziye dönüştürür.
 
 ```csharp
 public void Flatten()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix) {#flatten_1}
 
-Belirtilen dönüşümü uygular ve ardından bu eğrideki her eğriyi dönüştürür[`GraphicsPath`](../) bağlı çizgi segmentleri dizisine.
+Belirtilen dönüşümü uygular ve ardından bu [`GraphicsPath`](../) içindeki her eğriyi birbirine bağlı çizgi segmentlerinden oluşan bir diziye dönüştürür.
 
 ```csharp
 public void Flatten(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | A[`Matrix`](../../matrix/) bunu dönüştürmek için[`GraphicsPath`](../) düzleşmeden önce. |
+| matrix | Matrix | Bu [`GraphicsPath`](../) düzleştirilmeden önce dönüştürmek için bir [`Matrix`](../../matrix/) |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix, float) {#flatten_2}
 
-Buradaki her eğriyi dönüştürür[`GraphicsPath`](../) bağlı çizgi segmentleri dizisine.
+Bu [`GraphicsPath`](../) içindeki her eğriyi birbirine bağlı çizgi segmentlerinden oluşan bir diziye dönüştürür.
 
 ```csharp
 public void Flatten(Matrix matrix, float flatness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | A[`Matrix`](../../matrix/) bunu dönüştürmek için[`GraphicsPath`](../) düzleşmeden önce. |
-| flatness | Single | Eğri ile düzleştirilmiş yaklaşımı arasında izin verilen maksimum hatayı belirtir. 0,25 değeri varsayılandır. Düzlük değerinin düşürülmesi, yaklaşımdaki çizgi parçalarının sayısını artıracaktır. |
+| matrix | Matrix | Bu [`GraphicsPath`](../) düzleştirilmeden önce dönüştürmek için bir [`Matrix`](../../matrix/) |
+| düzlük | Single | Eğri ile düzleştirilmiş yaklaşımı arasındaki izin verilen maksimum hatayı belirtir. Varsayılan değer 0.25'tir. Düzlük değerini azaltmak, yaklaşımda kullanılan çizgi segmenti sayısını artırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

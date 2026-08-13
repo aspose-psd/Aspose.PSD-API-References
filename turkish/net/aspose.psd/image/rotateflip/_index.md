@@ -1,34 +1,35 @@
 ---
-title: Image.RotateFlip
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntüyü döndürür çevirir veya döndürür ve çevirir.
+title: "Image.RotateFlip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Görüntüyü döndürür, çevirir veya döndürüp çevirir."
 type: docs
-weight: 220
+weight: 230
 url: /tr/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
-Görüntüyü döndürür, çevirir veya döndürür ve çevirir.
+Görüntüyü döndürür, çevirir veya döndürüp çevirir.
 
 ```csharp
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | rotateFlipType | RotateFlipType | Döndürme çevirme türü. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, bir görüntü üzerinde Döndürme işleminin kullanımını gösterir. Örnek, bazı disk konumlarından mevcut bir görüntü dosyasını yükler ve Enum Aspose.PSD.RotateFlipType değerine göre görüntü üzerinde Döndürme işlemini gerçekleştirir
+Bu örnek, bir görüntü üzerinde Döndürme işleminin kullanımını gösterir. Örnek, bir disk konumundan mevcut bir görüntü dosyasını yükler ve görüntüyü Aspose.PSD.RotateFlipType enum değerine göre Döndürme işlemini uygular.
 
 ```csharp
 [C#]
 
-//image sınıfının bir örneğini oluşturun ve onu File path yoluyla mevcut bir image dosyasıyla başlatın
+//Image sınıfının bir örneğini oluşturun ve dosya yolu aracılığıyla mevcut bir görüntü dosyasıyla başlatın.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //Görüntüyü X ekseni etrafında 180 derece döndürün
+    //Görüntüyü X ekseni etrafında 180 derece döndürün.
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
     // tüm değişiklikleri kaydet.
@@ -36,11 +37,11 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

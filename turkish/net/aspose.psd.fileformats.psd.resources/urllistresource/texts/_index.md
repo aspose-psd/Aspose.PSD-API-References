@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Texts
-second_title: Aspose.PSD for .NET API Referansı
-description: UrlListResource mülk. Metinleri alır veya ayarlar.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UrlListResource özelliği. Metinleri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
 Metinleri alır veya ayarlar.
@@ -14,14 +15,14 @@ Metinleri alır veya ayarlar.
 public string[] Texts { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Metinler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UrlListResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class PattResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource sınıf. Sınıf PattResource. data modeline sahip kaynak
+title: "Sınıf PattResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource sınıfı. Sınıf PattResource. Desen verileri içeren kaynak"
 type: docs
-weight: 2870
+weight: 3220
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource class
 
-Sınıf PattResource. data modeline sahip kaynak
+Sınıf PattResource. Desen verileri içeren kaynak
 
 ```csharp
 public class PattResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PattResource](pattresource/#constructor)() | Yeni bir örneğini başlatır.`PattResource` sınıf. |
-| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Yeni bir örneğini başlatır.`PattResource` sınıf. |
+| [PattResource](pattresource/#constructor)() | Yeni bir `PattResource` sınıfı örneğini başlatır. |
+| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Yeni bir `PattResource` sınıfı örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Model verilerini alır veya ayarlar; |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Desen verilerini alır veya ayarlar; |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | Kaynak bloğu verilerini kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | Kaynak blok verisini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | 8 bit için 'Patt' tipi araç bilgisi anahtarı. |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | 16 bit için 'Pat2' tipi araç bilgisi anahtarı. |
-| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | 32 bit için 'Pat3' tipi araç bilgi anahtarı. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | 8-bit için 'Patt' türü araç bilgi anahtarı. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | 16-bit için 'Pat2' türü araç bilgi anahtarı. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | 32-bit için 'Pat3' türü araç bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

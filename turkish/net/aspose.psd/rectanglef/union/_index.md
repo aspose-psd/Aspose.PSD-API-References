@@ -1,32 +1,33 @@
 ---
-title: RectangleF.Union
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Bir birleşim oluşturan iki dikdörtgenin ikisini de içerebilen mümkün olan en küçük üçüncü dikdörtgeni oluşturur.
+title: "RectangleF.Union"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Birleşim oluşturan iki dikdörtgeni içerebilecek en küçük mümkün üçüncü dikdörtgeni oluşturur."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
-Bir birleşim oluşturan iki dikdörtgenin ikisini de içerebilen mümkün olan en küçük üçüncü dikdörtgeni oluşturur.
+Birleşim oluşturan iki dikdörtgeni de içerebilecek en küçük üçüncü dikdörtgeni oluşturur.
 
 ```csharp
 public static RectangleF Union(RectangleF a, RectangleF b)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| a | RectangleF | Birleşecek ilk dikdörtgen. |
-| b | RectangleF | Birleşme için ikinci bir dikdörtgen. |
+| a | RectangleF | Birleştirilecek ilk dikdörtgen. |
+| b | RectangleF | Birleştirilecek ikinci dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bir üçüncü[`RectangleF`](../) birleşimi oluşturan iki dikdörtgenin her ikisini de içeren yapı.
+Birleşimi oluşturan iki dikdörtgeni içeren üçüncü bir [`RectangleF`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: RasterImage.HasTransparentColor
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Görüntünün şeffaf renge sahip olup olmadığını gösteren bir değer alır.
+title: "RasterImage.HasTransparentColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Görüntünün şeffaf renk içerip içermediğini gösteren bir değer alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/rasterimage/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasTransparentColor property
 
-Görüntünün şeffaf renge sahip olup olmadığını gösteren bir değer alır.
+Resmin şeffaf renge sahip olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public virtual bool HasTransparentColor { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

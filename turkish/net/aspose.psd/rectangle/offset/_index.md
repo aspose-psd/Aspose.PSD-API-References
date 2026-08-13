@@ -1,11 +1,12 @@
 ---
-title: Rectangle.Offset
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
+title: "Rectangle.Offset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Bu dikdörtgenin konumunu belirtilen miktarda ayarlar."
 type: docs
 weight: 270
 url: /tr/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
 Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
@@ -14,16 +15,16 @@ Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
 public void Offset(Point pos)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pos | Point | Konumu dengeleyecek tutar. |
+| pos | Point | Konumu kaydırmak için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,15 +36,15 @@ Bu dikdörtgenin konumunu belirtilen miktarda ayarlar.
 public void Offset(int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | x | Int32 | Yatay ofset. |
-| y | Int32 | Dikey ofset. |
+| y | Int32 | Dikey offset. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

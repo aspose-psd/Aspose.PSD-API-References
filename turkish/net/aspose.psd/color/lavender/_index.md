@@ -1,27 +1,28 @@
 ---
-title: Color.Lavender
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Sistem tanımlı bir renk alır.
+title: "Color.Lavender"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Sistem tanımlı bir rengi alır"
 type: docs
 weight: 610
 url: /tr/net/aspose.psd/color/lavender/
 ---
+{{< psd/tize >}}
 ## Color.Lavender property
 
-Sistem tanımlı bir renk alır.
+Sistem tarafından tanımlanmış bir rengi alır.
 
 ```csharp
 public static Color Lavender { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`Color`](../) sistem tanımlı bir rengi temsil eder.
+Sistem tanımlı bir rengi temsil eden bir [`Color`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

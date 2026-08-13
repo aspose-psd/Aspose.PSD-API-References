@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: Aspose.PSD for .NET API Referansı
-description: FilterEffectMaskData mülk. Sayfa maskesini alır.
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FilterEffectMaskData özelliği. Sayfa maskesini alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
 Sayfa maskesini alır.
@@ -14,11 +15,11 @@ Sayfa maskesini alır.
 public ChannelInformation SheetMask { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

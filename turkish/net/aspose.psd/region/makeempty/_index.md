@@ -1,23 +1,24 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu başlatırRegion boş bir iç mekana.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı boş bir iç bölgeye başlatır"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-Bunu başlatır[`Region`](../) boş bir iç mekana.
+Bu [`Region`](../) öğesini boş bir iç bölgeye başlatır.
 
 ```csharp
 public void MakeEmpty()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

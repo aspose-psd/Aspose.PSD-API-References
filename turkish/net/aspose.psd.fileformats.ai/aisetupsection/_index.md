@@ -1,29 +1,30 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection sınıf. Ai biçimi Kurulum Bölümü
+title: "Sınıf AiSetupSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection sınıf. Ai formatı Kurulum Bölümü"
 type: docs
-weight: 1300
+weight: 1310
 url: /tr/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
-Ai biçimi Kurulum Bölümü
+Ai formatı Kurulum Bölümü
 
 ```csharp
 public sealed class AiSetupSection : AiSection
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Dizi verilerini alır. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Dize verisini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiSection](../aisection/)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

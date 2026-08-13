@@ -1,35 +1,36 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode Sıralama. içinde renk modunu temsil ederPhotoshopPackage .
+title: "Enum ColorMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode enum. PhotoshopPackage içinde renk modunu temsil eder"
 type: docs
-weight: 5800
+weight: 6330
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-içinde renk modunu temsil eder[`PhotoshopPackage`](../photoshoppackage/) .
+[`PhotoshopPackage`](../photoshoppackage/) içinde renk modunu temsil eder.
 
 ```csharp
 public enum ColorMode : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Bitmap | `0` | Bitmap renk modu. |
-| GrayScale | `1` | Gri tonlamalı renk modu. |
-| IndexedColor | `2` | Dizine alınan renk. |
-| Rgb | `3` | RGB rengi. |
+| GrayScale | `1` | Gri ölçek renk modu. |
+| IndexedColor | `2` | İndeksli renk. |
+| Rgb | `3` | RGB renk. |
 | Cmyk | `4` | CMYK renk modu. |
-| MultiChannel | `7` | Çok kanallı renkli. |
-| Duotone | `8` | Çift tonlu renk. |
-| LabColor | `9` | LAB rengi. |
+| MultiChannel | `7` | Çok kanallı renk. |
+| Duotone | `8` | İkili ton renk. |
+| LabColor | `9` | LAB renk. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

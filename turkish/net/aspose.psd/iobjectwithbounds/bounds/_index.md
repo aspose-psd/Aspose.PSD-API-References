@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithBounds mülk. Nesne sınırlarını alır.
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithBounds özelliği. Nesnenin sınırlarını alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
-Nesne sınırlarını alır.
+Nesnenin sınırlarını alır.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesne sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../iobjectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

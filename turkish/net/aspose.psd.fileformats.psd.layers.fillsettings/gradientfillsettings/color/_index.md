@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Rengi alır veya ayarlar.
+title: "GradientFillSettings.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Rengi alır veya ayarlar"
 type: docs
-weight: 40
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/color/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Color property
 
 Rengi alır veya ayarlar.
@@ -14,15 +15,15 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

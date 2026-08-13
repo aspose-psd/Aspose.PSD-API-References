@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsOriginBoxCornersPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Bu örneğin kaynak kutu köşeleri özelliğine sahip olup olmadığını gösteren bir değer alır.
+title: "VectorShapeOriginSettings.IsOriginBoxCornersPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Bu örneğin orijinal kutu köşeleri özelliğine sahip olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginBoxCornersPresent property
 
-Bu örneğin kaynak kutu köşeleri özelliğine sahip olup olmadığını gösteren bir değer alır.
+Bu örneğin orijin kutusu köşeleri özelliğine sahip olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsOriginBoxCornersPresent { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek, başlangıç kutusu köşeleri özelliğine sahipse; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek orijinal kutu köşeleri özelliğine sahipse; aksi takdirde, `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, vektör yolları içeren bir şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
+Aşağıdaki kod, vektör yolları içeren şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

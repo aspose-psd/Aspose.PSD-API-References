@@ -1,27 +1,28 @@
 ---
-title: AiDataSection.GetData
-second_title: Aspose.PSD for .NET API Referansı
-description: AiDataSection yöntem. Dizi verilerini alır.
+title: "AiDataSection.GetData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiDataSection metodu. String verisini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
-Dizi verilerini alır.
+Dize verisini alır.
 
 ```csharp
 public string GetData()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bölümün dize verileri
+Bölümün string verisi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiDataSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

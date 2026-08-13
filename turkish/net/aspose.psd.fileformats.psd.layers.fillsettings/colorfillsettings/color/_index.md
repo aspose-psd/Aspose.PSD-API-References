@@ -1,11 +1,12 @@
 ---
-title: ColorFillSettings.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorFillSettings mülk. Rengi alır veya ayarlar.
+title: "ColorFillSettings.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorFillSettings özelliği. Rengi alır veya ayarlar"
 type: docs
-weight: 10
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.Color property
 
 Rengi alır veya ayarlar.
@@ -14,15 +15,15 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

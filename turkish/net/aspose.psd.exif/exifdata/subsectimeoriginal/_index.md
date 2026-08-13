@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. DateTimeOriginal etiketi için saniyelerin kesirlerini alır veya ayarlar.
+title: "ExifData.SubsecTimeOriginal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. DateTimeOriginal etiketi için saniyenin kesirlerini alır veya ayarlar"
 type: docs
 weight: 1050
 url: /tr/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeOriginal property
 
-DateTimeOriginal etiketi için saniyelerin kesirlerini alır veya ayarlar.
+DateTimeOriginal etiketi için saniyenin kesirlerini alır veya ayarlar.
 
 ```csharp
 public string SubsecTimeOriginal { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 DateTimeOriginal etiketi için saniyenin kesirleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

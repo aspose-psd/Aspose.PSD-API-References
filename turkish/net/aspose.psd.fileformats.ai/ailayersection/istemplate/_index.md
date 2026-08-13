@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın şablon katmanı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın şablon katman olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 100
+weight: 120
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Bu katmanın şablon katmanı olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu katmanın şablon katmanı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman bir şablon ise; aksi takdirde,`YANLIŞ` .
+`true` bu katman bir şablon ise; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

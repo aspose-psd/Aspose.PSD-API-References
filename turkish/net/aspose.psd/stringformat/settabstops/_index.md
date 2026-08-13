@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat yöntem. Bunun için sekme duraklarını ayarlarStringFormat nesne.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat yöntemi. Bu StringFormat nesnesi için sekme duraklarını ayarlar."
 type: docs
-weight: 140
+weight: 170
 url: /tr/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Bunun için sekme duraklarını ayarlar[`StringFormat`](../) nesne.
+Bu [`StringFormat`](../) nesnesi için sekme duraklarını ayarlar.
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| firstTabOffset | Single | Bir metin satırının başlangıcı ile ilk sekme durağı arasındaki boşluk sayısı. |
-| tabStops | Single[] | tarafından belirtilen birimlerde sekme durakları arasındaki mesafe dizisi[`PageUnit`](../../graphics/pageunit/) mülk. |
+| firstTabOffset | Single | Bir metin satırının başlangıcı ile ilk sekme durakları arasındaki boşluk sayısı. |
+| tabStops | Single[] | [`PageUnit`](../../graphics/pageunit/) özelliği tarafından belirtilen birimlerde sekme durakları arasındaki mesafelerin bir dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FileStandard
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. TIFF dosya standardını alır veya ayarlar.
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. TIFF dosya standardını alır veya ayarlar"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
 TIFF dosya standardını alır veya ayarlar.
@@ -14,15 +15,15 @@ TIFF dosya standardını alır veya ayarlar.
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 TIFF dosya standardı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

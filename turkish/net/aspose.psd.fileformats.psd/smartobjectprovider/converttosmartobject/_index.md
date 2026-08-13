@@ -1,70 +1,71 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectProvider yöntem. Katmanları katıştırılmış bir akıllı nesneye dönüştürür.
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectProvider yöntemi. Katmanları gömülü bir akıllı nesneye dönüştürür"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
-Katmanları katıştırılmış bir akıllı nesneye dönüştürür.
+Katmanları gömülü bir akıllı nesneye dönüştürür.
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | layerNumbers | Int32[] | Katman numaraları. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturulan[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) örnek.
+Oluşturulan [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) örneği.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Dönüştürülecek katman yok. veya Katman numarası aralığın dışında. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Dönüştürülecek katman yok. veya Katman numarası aralık dışında. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ConvertToSmartObject(Layer[]) {#converttosmartobject}
 
-Katmanları katıştırılmış bir akıllı nesneye dönüştürür.
+Katmanları gömülü bir akıllı nesneye dönüştürür.
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layers | Layer[] | katmanlar |
+| katmanlar | Layer[] | Katmanlar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturulan[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) örnek.
+Oluşturulan [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) örneği.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Dönüştürülecek katman yok. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

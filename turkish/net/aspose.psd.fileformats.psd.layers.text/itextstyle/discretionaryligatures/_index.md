@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Özellikle betik yazı tiplerinde harfleri bağlamak için kullanılan isteğe bağlı bitişik harfler.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Özellikle el yazısı yazı tiplerinde harfleri bağlamak için kullanılan isteğe bağlı ligatürler"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-Özellikle betik yazı tiplerinde harfleri bağlamak için kullanılan isteğe bağlı bitişik harfler.
+Özellikle el yazısı yazı tiplerinde harfleri birleştirmek için kullanılan isteğe bağlı ligatürler.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

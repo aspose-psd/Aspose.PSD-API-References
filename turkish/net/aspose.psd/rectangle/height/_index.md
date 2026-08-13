@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Bunun yüksekliğini alır veya ayarlarRectangleyapı.
+title: "Rectangle.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının yüksekliğini alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/rectangle/height/
 ---
+{{< psd/tize >}}
 ## Rectangle.Height property
 
-Bunun yüksekliğini alır veya ayarlar[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının yüksekliğini alır veya ayarlar.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun yüksekliği[`Rectangle`](../) yapı.
+Bu [`Rectangle`](../) yapısının yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Aspose.PSD for .NET API Referansı
-description: HueSaturationLayer mülk. Tonu alır veya ayarlar.
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HueSaturationLayer özelliği. Tonu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
-Tonu alır veya ayarlar.
+Renk tonunu alır veya ayarlar.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk tonu.
+Ton.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Ton -180 ile +180 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Ton -180 ile +180 arasında olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [HueSaturationLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

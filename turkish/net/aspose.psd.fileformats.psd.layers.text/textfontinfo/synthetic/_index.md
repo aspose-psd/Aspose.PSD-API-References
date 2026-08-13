@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Synthetic
-second_title: Aspose.PSD for .NET API Referansı
-description: TextFontInfo mülk. Bunun olup olmadığını gösteren bir değer alır.FontInformation sentetiktir.
+title: "TextFontInfo.Synthetic"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextFontInfo özelliği. Bu FontInformation'ın sentetik olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Synthetic property
 
-Bunun olup olmadığını gösteren bir değer alır.FontInformation sentetiktir.
+Bu FontInformation'ın sentetik olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool Synthetic { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` sentetik ise; aksi takdirde,`YANLIŞ` .
+`true` ise sentetik; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

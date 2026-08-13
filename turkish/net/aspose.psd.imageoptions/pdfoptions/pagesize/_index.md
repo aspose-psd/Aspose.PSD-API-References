@@ -1,11 +1,12 @@
 ---
-title: PdfOptions.PageSize
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfOptions mülk. Sayfanın boyutunu alır veya ayarlar.
+title: "PdfOptions.PageSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfOptions özelliği. Sayfanın boyutunu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/pdfoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PageSize property
 
 Sayfanın boyutunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Sayfanın boyutunu alır veya ayarlar.
 public SizeF PageSize { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayfanın boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [PdfOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

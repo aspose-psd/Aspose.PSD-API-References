@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.BitsPixel
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Bit pikselini alır veya ayarlar.
+title: "ThumbnailResource.BitsPixel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Bit pikselini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.BitsPixel property
 
 Bit pikselini alır veya ayarlar.
@@ -14,14 +15,14 @@ Bit pikselini alır veya ayarlar.
 public short BitsPixel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Küçük resim bit pikseli.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

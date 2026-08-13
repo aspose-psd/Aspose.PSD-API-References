@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD for .NET API Referansı
-description: ClipboardRecord mülk. Çözünürlüğü alır veya ayarlar.
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClipboardRecord özelliği. Çözünürlüğü alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
 Çözünürlüğü alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 public float Resolution { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Çözünürlük.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClipboardRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

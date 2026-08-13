@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Bu veri türünün içerdiği değeri alır veya ayarlar.
+title: "TiffDataType.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Bu veri tipinin içerdiği değeri alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/value/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Value property
 
-Bu veri türünün içerdiği değeri alır veya ayarlar.
+Bu veri tipinin içerdiği değeri alır veya ayarlar.
 
 ```csharp
 public abstract object Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer alan. Katman başlığı boyutu.
+title: "Layer.LayerHeaderSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer alanı. Katman başlık boyutu"
 type: docs
-weight: 400
+weight: 420
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
-Katman başlığı boyutu.
+Katman başlık boyutu.
 
 ```csharp
 public const int LayerHeaderSize;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

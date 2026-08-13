@@ -1,24 +1,25 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: HatchBrush mülk. Bu fırçanın tarama stilini alır veya ayarlar.
+title: "HatchBrush.HatchStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HatchBrush özelliği. Bu fırçanın tarama stilini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-Bu fırçanın tarama stilini alır veya ayarlar.
+Bu fırçanın hatch stilini alır veya ayarlar.
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../hatchbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

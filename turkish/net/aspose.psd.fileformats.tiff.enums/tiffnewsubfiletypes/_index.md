@@ -1,32 +1,33 @@
 ---
-title: Enum TiffNewSubFileTypes
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes Sıralama. Tiff yeni alt dosya türü enum.
+title: "Enum TiffNewSubFileTypes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. tiff yeni alt dosya türü enumu"
 type: docs
-weight: 4100
+weight: 4600
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
+{{< psd/tize >}}
 ## TiffNewSubFileTypes enumeration
 
-Tiff yeni alt dosya türü enum.
+TIFF yeni alt dosya tipi enum'ı.
 
 ```csharp
 public enum TiffNewSubFileTypes : uint
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | FileTypeDefault | `0` | Varsayılan dosya türü. |
-| FileTypeReducedImage | `1` | Küçültülmüş görüntü dosya türü. |
+| FileTypeReducedImage | `1` | Azaltılmış görüntü dosya türü. |
 | FileTypePage | `2` | Sayfa dosya türü. |
 | FileTypeMask | `4` | Maske dosya türü. |
 | FileTypeLast | `5` | Son dosya türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

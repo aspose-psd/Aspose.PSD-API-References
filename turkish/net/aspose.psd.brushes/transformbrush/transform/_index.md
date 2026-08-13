@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: TransformBrush mülk. Bir kopya alır veya ayarlarMatrix bunun için yerel bir geometrik dönüşümü tanımlayanTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransformBrush özelliği. Bu TransformBrush için yerel geometrik dönüşüm tanımlayan bir kopya Matrix alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-Bir kopya alır veya ayarlar[`Matrix`](../../../aspose.psd/matrix/) bunun için yerel bir geometrik dönüşümü tanımlayan[`TransformBrush`](../) .
+Bu [`TransformBrush`](../) için yerel geometrik dönüşüm tanımlayan bir kopya [`Matrix`](../../../aspose.psd/matrix/) alır veya ayarlar.
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Kopyası[`Matrix`](../../../aspose.psd/matrix/) yalnızca bununla çizilen dolgular için geçerli olan bir geometrik dönüşümü tanımlayan[`TransformBrush`](../).
+Bu [`TransformBrush`](../) ile çizilen doldurmalar için yalnızca geçerli olan bir geometrik dönüşüm tanımlayan [`Matrix`](../../../aspose.psd/matrix/) kopyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../transformbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

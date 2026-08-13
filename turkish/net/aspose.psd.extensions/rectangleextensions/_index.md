@@ -1,30 +1,31 @@
 ---
-title: Class RectangleExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.RectangleExtensions sınıf. Şunun için uzantı yöntemleri içerirRectangle .
+title: "Sınıf RectangleExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.RectangleExtensions sınıfı. Rectangle için uzantı yöntemlerini içerir."
 type: docs
-weight: 1160
+weight: 1170
 url: /tr/net/aspose.psd.extensions/rectangleextensions/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions class
 
-Şunun için uzantı yöntemleri içerir:[`Rectangle`](../../aspose.psd/rectangle/) .
+[`Rectangle`](../../aspose.psd/rectangle/) için uzantı yöntemlerini içerir.
 
 ```csharp
 public static class RectangleExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | dönüştürür[`Rectangle`](../../aspose.psd/rectangle/) içinRectangle . |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | dönüştürür[`RectangleF`](../../aspose.psd/rectanglef/) içinRectangle . |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | [`Rectangle`](../../aspose.psd/rectangle/) öğesini Rectangle'a dönüştürür. |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | [`RectangleF`](../../aspose.psd/rectanglef/) nesnesini Rectangle'a dönüştürür. |
 | static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | İki dikdörtgeni birleştirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

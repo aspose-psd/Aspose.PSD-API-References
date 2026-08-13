@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Action
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceEvent mülk. Eylemi alır veya ayarlar.
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceEvent özelliği. Eylemi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
 Eylemi alır veya ayarlar.
@@ -14,18 +15,18 @@ Eylemi alır veya ayarlar.
 public string Action { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Eylem.
 
-### Örnekler
+## Örnekler
 
-Tanımlanan değerler şunlardır: dönüştürülür, kopyalanır, oluşturulur, kırpılır, düzenlenir, filtrelenir, biçimlendirilir, version_updated, yazdırılır, yayınlanır, yönetilir, üretilir, yeniden boyutlandırılır, kaydedilir. Yeni değerler geçmiş zamanda fiiller olmalıdır.
+Tanımlı değerler şunlardır: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. Yeni değerler geçmiş zaman kipinde fiil olmalıdır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceEvent](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

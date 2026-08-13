@@ -1,11 +1,12 @@
 ---
-title: Cache.MaxDiskSpaceForCache
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache mülk. Önbellek için kullanılabilir maksimum disk alanını alır veya ayarlar. Belirtilen değer megabayt sayısıdır.
+title: "Cache.MaxDiskSpaceForCache"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache özelliği. Önbellek için kullanılabilir maksimum disk alanını alır veya ayarlar. Belirtilen değer megabayt sayısıdır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/cache/maxdiskspaceforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxDiskSpaceForCache property
 
 Önbellek için kullanılabilir maksimum disk alanını alır veya ayarlar. Belirtilen değer megabayt sayısıdır.
@@ -14,18 +15,18 @@ url: /tr/net/aspose.psd/cache/maxdiskspaceforcache/
 public static int MaxDiskSpaceForCache { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Önbellek için kullanılabilir maksimum disk alanı.
 
-### Notlar
+## Açıklamalar
 
-0 değeri, kullanılabilir tüm belleği tüketir ve üst sınır işlevi görmez.
+0 değeri tüm kullanılabilir belleği tüketir ve üst sınır olmadığını gösterir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

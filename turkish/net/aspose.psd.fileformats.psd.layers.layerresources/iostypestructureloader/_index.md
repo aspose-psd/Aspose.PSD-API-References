@@ -1,29 +1,30 @@
 ---
-title: Interface IOSTypeStructureLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader arayüz. OSTypeStructure kaynak yükleyici.
+title: "IOSTypeStructureLoader arayüzü"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader arayüzü. OSTypeStructure kaynak yükleyicisi."
 type: docs
-weight: 2520
+weight: 2790
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader interface
 
-[`OSTypeStructure`](../ostypestructure/) kaynak yükleyici.
+Bu [`OSTypeStructure`](../ostypestructure/) kaynağı yükleyicisi.
 
 ```csharp
 public interface IOSTypeStructureLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | olup olmadığını belirler[`OSTypeStructure`](../ostypestructure/) kaynak belirtilenden yüklenebilir[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | [`OSTypeStructure`](../ostypestructure/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | [`OSTypeStructure`](../ostypestructure/) kaynağının belirtilen [`StreamContainer`](../../aspose.psd/streamcontainer/) üzerinden yüklenip yüklenemeyeceğini belirler. |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | [`OSTypeStructure`](../ostypestructure/) yükler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

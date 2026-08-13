@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearThreshold
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için eşik değerini temizler.
+title: "ImageAttributes.ClearThreshold"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için eşik değerini temizler"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/imageattributes/clearthreshold/
 ---
+{{< psd/tize >}}
 ## ClearThreshold() {#clearthreshold}
 
 Varsayılan kategori için eşik değerini temizler.
@@ -14,31 +15,31 @@ Varsayılan kategori için eşik değerini temizler.
 public void ClearThreshold()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearThreshold(ColorAdjustType) {#clearthreshold_1}
 
-Belirli bir kategori için eşik değerini temizler.
+Belirtilen kategori için eşik değerini temizler.
 
 ```csharp
 public void ClearThreshold(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) bu, eşiğin temizlendiği kategoriyi belirtir. |
+| type | ColorAdjustType | Eşik değerinin temizlendiği kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

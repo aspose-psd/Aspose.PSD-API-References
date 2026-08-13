@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Etkin katmanı alır veya ayarlar.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Aktif katmanı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
 Etkin katmanı alır veya ayarlar.
@@ -14,22 +15,22 @@ Etkin katmanı alır veya ayarlar.
 public Layer ActiveLayer { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Etkin katman.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Görüntüde aktif katman ve katman yoktur. |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Etkin katman, başka bir görüntüye ait olduğu için ayarlanamıyor. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Görüntüde etkin katman ve katman yok. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Etkin katman başka bir görüntüye ait olduğu için ayarlanamaz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: ColorBlend.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBlend yöntem. Belirtilen nesnenin birColorBlend sınıf ve buna eşdeğerdirColorBlend sınıf.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBlend yöntemi. Belirtilen nesnenin bir ColorBlend sınıfı olup olmadığını ve bu ColorBlend sınıfına eşdeğer olup olmadığını test eder"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-Belirtilen nesnenin bir[`ColorBlend`](../) sınıf ve buna eşdeğerdir[`ColorBlend`](../) sınıf.
+Belirtilen nesnenin bir [`ColorBlend`](../) sınıfı olup bu [`ColorBlend`](../) sınıfına eşdeğer olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | Test edilecek nesne. |
+| obj | Nesne | Test edilecek nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*obj* bir[`ColorBlend`](../) buna eşdeğer sınıf[`ColorBlend`](../) sınıf; Aksi takdirde, yanlış.
+*obj* bir [`ColorBlend`](../) sınıfı olup bu [`ColorBlend`](../) sınıfına eşdeğer ise doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBlend](../)
-* ad alanı [Aspose.PSD](../../colorblend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

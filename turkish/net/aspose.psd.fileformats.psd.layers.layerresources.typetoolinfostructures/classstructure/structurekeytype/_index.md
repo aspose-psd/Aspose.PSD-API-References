@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.StructureKeyType
-second_title: Aspose.PSD for .NET API Referansı
-description: ClassStructure alan. Yapı anahtarını tanımlar.
+title: "ClassStructure.StructureKeyType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClassStructure alanı. Yapı anahtarını tanımlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeytype/
 ---
+{{< psd/tize >}}
 ## ClassStructure.StructureKeyType field
 
 Yapı anahtarını tanımlar.
@@ -14,10 +15,10 @@ Yapı anahtarını tanımlar.
 public const int StructureKeyType;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

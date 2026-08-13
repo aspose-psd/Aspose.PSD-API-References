@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.TransparentColor
-second_title: Aspose.PSD for .NET API Referansı
-description: IPsdColorPalette mülk. Şeffaf rengi alır.
+title: "IPsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPsdColorPalette özelliği. Şeffaf rengi alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/ipsdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentColor property
 
 Şeffaf rengi alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd/ipsdcolorpalette/transparentcolor/
 public Color TransparentColor { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeffaf renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * interface [IPsdColorPalette](../)
-* ad alanı [Aspose.PSD](../../ipsdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

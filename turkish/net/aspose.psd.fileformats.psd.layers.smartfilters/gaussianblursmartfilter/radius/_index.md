@@ -1,22 +1,23 @@
 ---
-title: GaussianBlurSmartFilter.Radius
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussianBlurSmartFilter mülk. Gauss akıllı filtresinin yarıçapını alır veya ayarlar.
+title: "GaussianBlurSmartFilter.Radius"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussianBlurSmartFilter özelliği. gaussian akıllı filtrenin yarıçapını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Radius property
 
-Gauss akıllı filtresinin yarıçapını alır veya ayarlar.
+Gaussian akıllı filtrenin yarıçapını alır veya ayarlar.
 
 ```csharp
 public double Radius { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussianBlurSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ITextParagraph.IsEqual
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextParagraph yöntem. Belirtilen paragrafın eşit olup olmadığını belirler.
+title: "ITextParagraph.IsEqual"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextParagraph yöntemi. Belirtilen paragrafın eşit olup olmadığını belirler"
 type: docs
 weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/
 ---
+{{< psd/tize >}}
 ## ITextParagraph.IsEqual method
 
 Belirtilen paragrafın eşit olup olmadığını belirler.
@@ -14,17 +15,17 @@ Belirtilen paragrafın eşit olup olmadığını belirler.
 public bool IsEqual(ITextParagraph paragraph)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| paragraph | ITextParagraph | Paragraf. |
+| paragraf | ITextParagraph | Paragraf. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` belirtilen paragraf eşit ise; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen paragraf eşitse; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, düzenleme metin bölümlerini ve bunların metin stilini gösterir.
+Aşağıdaki kod örneği, metin bölümlerinin ve bunların metin stilinin düzenlenmesini gösterir.
 
 ```csharp
 [C#]
@@ -47,7 +48,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Her bölümün metni kontrol ediliyor
+            // Her bölümün metnini kontrol etme
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -56,8 +57,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Paragraf verilerini kontrol etme
-            // Paragrafların farklı gerekçeleri var
+            // Paragrafların verilerini kontrol etme
+            // Paragraflar farklı hizalamaya sahiptir
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -67,7 +68,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Birinci ve ikinci paragrafın diğer tüm özellikleri eşittir
+            // İlk ve ikinci paragrafın diğer tüm özellikleri eşittir
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -91,7 +92,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -107,7 +108,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Stil verilerini kontrol etme
-            // Stillerin renkleri ve yazı tipi boyutları farklıdır
+            // Stiller farklı renk ve yazı tipi boyutuna sahiptir
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Kaldırılan metin bölümleri örneği
+            // Metin bölümlerini kaldırma örneği
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -155,17 +156,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Bölümler için paragraf ve stil düzenleme örneği
-            // Sağa yaslamayı ayarla
+            // Sağ hizalamayı ayarla
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Her stil için farklı renkler. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Her stil için farklı renkler. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Farklı yazı tipi. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Farklı yazı tipi. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -180,10 +181,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextParagraph](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextparagraph/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

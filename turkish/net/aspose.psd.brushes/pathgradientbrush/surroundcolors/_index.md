@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrush mülk. Bu yoldaki noktalara karşılık gelen bir renk dizisini alır veya ayarlar.PathGradientBrush doldurur.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrush özelliği. Bu PathGradientBrush'un doldurduğu yol üzerindeki noktalara karşılık gelen renklerin bir dizisini alır veya ayarlar"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Bu yoldaki noktalara karşılık gelen bir renk dizisini alır veya ayarlar.[`PathGradientBrush`](../) doldurur.
+Bu [`PathGradientBrush`](../) tarafından doldurulan yol üzerindeki noktalara karşılık gelen renklerin bir dizisini alır veya ayarlar.
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bir dizi[`Color`](../../../aspose.psd/color/) yoldaki her noktayla ilişkili renkleri temsil eden yapılar[`PathGradientBrush`](../) doldurur.
+Bu [`PathGradientBrush`](../) tarafından doldurulan yol üzerindeki her nokta ile ilişkili renkleri temsil eden bir dizi [`Color`](../../../aspose.psd/color/) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

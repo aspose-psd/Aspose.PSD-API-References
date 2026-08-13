@@ -1,11 +1,12 @@
 ---
-title: Class ObjectWithBounds
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ObjectWithBounds sınıf. Sınırları olan nesne.
+title: "Sınıf ObjectWithBounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ObjectWithBounds sınıfı. Sınırları olan nesne."
 type: docs
-weight: 5160
+weight: 5680
 url: /tr/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
 Sınırları olan nesne.
@@ -14,23 +15,23 @@ Sınırları olan nesne.
 public abstract class ObjectWithBounds
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Nesnenin sınırlarını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | Nesnenin sınırlarını alır. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | Nesnenin sınırlarını alır. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | Belirtilen dönüşümü şekle uygular. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

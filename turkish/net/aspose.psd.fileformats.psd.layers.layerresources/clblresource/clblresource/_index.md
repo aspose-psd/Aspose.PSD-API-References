@@ -1,69 +1,70 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD for .NET API Referansı
-description: ClblResource inşaatçı. Yeni bir örneğini başlatır.ClblResource sınıf.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClblResource yapıcı. ClblResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-Yeni bir örneğini başlatır.[`ClblResource`](../) sınıf.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| blendClippedElements | Boolean | olarak ayarlanmışsa`doğru` [kırpılan öğeleri karıştırın]. |
-
-### Ayrıca bakınız
-
-* class [ClblResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* toplantı [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`ClblResource`](../) sınıf.
+[`ClblResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ClblResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClblResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+[`ClblResource`](../) sınıfının yeni bir örneğini başlatır.
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| blendClippedElements | Boolean | eğer `true` olarak ayarlanırsa [karıştırılmış kırpılmış öğeler]. |
+
+### Ayrıca Bakınız
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`ClblResource`](../) class. Özel veya bilinmeyen değerle
+[`ClblResource`](../) sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen bir değerle
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynak verileri. |
+| veri | Byte[] | Kaynak veri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Geçersiz clbl Kaynak değeri |
+| ArgumentException | Geçersiz clbl Resource değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClblResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

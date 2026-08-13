@@ -1,11 +1,12 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings mülk. Yazı tipinin varsayılan adını alır veya ayarlar.
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings özelliği. Yazı tipinin varsayılan adını alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
 Yazı tipinin varsayılan adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Yazı tipinin varsayılan adını alır veya ayarlar.
 public static string DefaultFontName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipinin varsayılan adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

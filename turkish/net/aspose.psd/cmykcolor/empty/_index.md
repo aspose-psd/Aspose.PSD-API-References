@@ -1,11 +1,12 @@
 ---
-title: CmykColor.Empty
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor mülk. Boş olanı alır.
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor özelliği. Boş değeri alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
 Boş olanı alır.
@@ -14,10 +15,10 @@ Boş olanı alır.
 public static CmykColor Empty { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

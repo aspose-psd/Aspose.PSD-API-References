@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.ContainsKey
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Belirtilen anahtarın key. içerip içermediğini belirler.
+title: "XmpPackage.ContainsKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Belirtilen anahtarın anahtar içerip içermediğini belirler"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp/xmppackage/containskey/
 ---
+{{< psd/tize >}}
 ## XmpPackage.ContainsKey method
 
-Belirtilen anahtarın key. içerip içermediğini belirler.
+Belirtilen anahtarın anahtar içerip içermediğini belirler.
 
 ```csharp
 public virtual bool ContainsKey(string key)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Kontrol edilecek anahtar. |
+| anahtar | String | Kontrol edilecek anahtar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen anahtar, anahtar içeriyorsa true döndürür.
+Belirtilen anahtar anahtar içeriyorsa true döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

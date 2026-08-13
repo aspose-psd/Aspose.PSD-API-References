@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Başlangıç yarıçapı dikdörtgenini alır veya ayarlar.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Kaynak yarıçap dikdörtgenini alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-Başlangıç yarıçapı dikdörtgenini alır veya ayarlar.
+origin radii rectangle'ı alır veya ayarlar.
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Başlangıç yarıçapı dikdörtgeni.
+Kaynak yarıçap dikdörtgeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

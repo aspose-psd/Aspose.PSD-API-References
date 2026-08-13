@@ -1,23 +1,24 @@
 ---
-title: TypeToolLineInfo.TypeToolLineInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolLineInfo inşaatçı. Default_Constructor
+title: "TypeToolLineInfo.TypeToolLineInfo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolLineInfo yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public TypeToolLineInfo()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolLineInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

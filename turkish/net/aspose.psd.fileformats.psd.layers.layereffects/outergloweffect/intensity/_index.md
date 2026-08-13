@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Intensity
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Açıyı derece cinsinden alır veya ayarlar.
+title: "OuterGlowEffect.Intensity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Açıyı derece cinsinden alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Intensity property
 
 Açıyı derece cinsinden alır veya ayarlar.
@@ -14,11 +15,11 @@ Açıyı derece cinsinden alır veya ayarlar.
 public int Intensity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açı.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

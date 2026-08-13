@@ -1,28 +1,29 @@
 ---
-title: PsdImage.CmykColorProfile
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. CMYK PSD görüntüleri için CMYK renk profilini alır veya ayarlar. Doğru renk dönüşümü için RgbColorProfile ile birlikte olmalıdır.
+title: "PsdImage.CmykColorProfile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. CMYK PSD görüntüleri için CMYK renk profilini alır veya ayarlar. Doğru renk dönüşümü için RgbColorProfile ile eşleşmelidir"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.CmykColorProfile property
 
-CMYK PSD görüntüleri için CMYK renk profilini alır veya ayarlar. Doğru renk dönüşümü için RgbColorProfile ile birlikte olmalıdır.
+CMYK PSD görüntüleri için CMYK renk profilini alır veya ayarlar. Doğru renk dönüşümü için RgbColorProfile ile eşleşmelidir.
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 CMYK renk profili.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

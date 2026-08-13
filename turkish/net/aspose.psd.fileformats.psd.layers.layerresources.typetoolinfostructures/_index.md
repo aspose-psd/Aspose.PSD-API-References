@@ -1,40 +1,42 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PSD dosya biçimi türü araç kaynak varlıklarını içerir.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, PSD dosya formatı türü araç kaynağı varlıklarını içerir"
 type: docs
-weight: 300
+weight: 320
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
-Ad alanı, PSD dosya biçimi türü araç kaynak varlıklarını içerir.
+{{< psd/tize >}}
+Bu ad alanı, PSD dosya formatı tip araç kaynak varlıklarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [AliasStructure](./aliasstructure/) | Diğer ad yapısı. |
-| [BooleanStructure](./booleanstructure/) | Boole yapısı. |
+| [AliasStructure](./aliasstructure/) | Alias yapısı. |
+| [BooleanStructure](./booleanstructure/) | Boolean yapısı. |
 | [ClassStructure](./classstructure/) | Sınıf yapısı. |
 | [DescriptorStructure](./descriptorstructure/) | Tanımlayıcı yapısı |
-| [DoubleStructure](./doublestructure/) | Çift yapı. |
+| [DoubleStructure](./doublestructure/) | Double yapısı. |
 | [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | Numaralandırılmış tanımlayıcı yapısı. |
-| [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | Numaralandırılmış başvuru yapısı. |
-| [IntegerStructure](./integerstructure/) | Tamsayı yapısı. |
+| [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | Numaralandırılmış referans yapısı. |
+| [IntegerStructure](./integerstructure/) | Integer yapısı. |
 | [ListStructure](./liststructure/) | Liste yapısı. |
-| [ObjectArrayStructure](./objectarraystructure/) | Genellikle tutan ObjectArrayStructure sınıfını tanımlar[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. PlLd Resource ve SoLd Resource. gibi PSD dosya kaynaklarında kullanılır. |
+| [NameStructure](./namestructure/) | Name yapısı (anahtar: 0x6E616D65, ASCII'de "name" olarak yazılır) bir katman, yol veya ayar gibi bir öğenin adını temsil eden Unicode veya Pascal tarzı bir dizeyi depolamak için kullanılan basit bir yapıdır. |
+| [ObjectArrayStructure](./objectarraystructure/) | ObjectArrayStructure sınıfını tanımlar; genellikle [`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) dizisini tutar. PSD dosya kaynaklarında, örneğin PlLd Resource ve SoLd Resource'da kullanılır. |
 | [OffsetStructure](./offsetstructure/) | Ofset yapısı. |
 | [PathStructure](./pathstructure/) | Yol yapısı. |
 | [PropertyStructure](./propertystructure/) | Özellik yapısı. |
-| [RawDataStructure](./rawdatastructure/) | Ham veri yapısı. |
-| [ReferenceStructure](./referencestructure/) | Başvuru yapısı. |
-| [StringStructure](./stringstructure/) | Dizi yapısı. |
-| [UnitArrayStructure](./unitarraystructure/) | Tutan UnitArrayStructure sınıfını tanımlarDouble değerler dizisi ve ölçü birimi. PSD dosya kaynaklarında, genellikle tarafından kullanılır.[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) . |
+| [RawDataStructure](./rawdatastructure/) | Raw veri yapısı. |
+| [ReferenceStructure](./referencestructure/) | Referans yapısı. |
+| [StringStructure](./stringstructure/) | Dize yapısı. |
+| [UnitArrayStructure](./unitarraystructure/) | Double değerler dizisini ve ölçü birimini tutan UnitArrayStructure sınıfını tanımlar. PSD dosya kaynaklarında kullanılır, genellikle [`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) tarafından. |
 | [UnitStructure](./unitstructure/) | Birim yapısı. |
 | [UnknownStructure](./unknownstructure/) | Bilinmeyen yapı. |
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [UnitTypes](./unittypes/) | Birim türleri. |
+| [UnitTypes](./unittypes/) | Birim tipleri. |
 
 

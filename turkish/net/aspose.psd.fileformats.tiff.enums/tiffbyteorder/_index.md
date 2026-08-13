@@ -1,29 +1,30 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder Sıralama. tiff image için bayt sırası
+title: "Enum TiffByteOrder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. tiff görüntüsü için bayt sırası"
 type: docs
-weight: 4040
+weight: 4540
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
-tiff image için bayt sırası
+TIFF görüntüsü için bayt sırası
 
 ```csharp
 public enum TiffByteOrder
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | BigEndian | `19789` | Büyük endian bayt sırası (Motorola). |
 | LittleEndian | `18761` | Küçük endian bayt sırası (Intel). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

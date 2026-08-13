@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Angle
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Açıyı derece cinsinden alır veya ayarlar.
+title: "DropShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Açıyı derece cinsinden alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Angle property
 
 Açıyı derece cinsinden alır veya ayarlar.
@@ -14,11 +15,11 @@ Açıyı derece cinsinden alır veya ayarlar.
 public int Angle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açı.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, DropShadowEffect'in Opacity özelliğinin kullanımını gösterir.
 
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Opaklık = 20 ile Örnek
+    // Opacity = 20 ile örnek
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Opaklık = 20 ile Örnek0
+    // Opacity = 200 ile örnek
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

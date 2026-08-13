@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpText inşaatçı. Yeni bir örneğini başlatır.XmpText sınıf.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpText yapıcı. XmpText sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Yeni bir örneğini başlatır.[`XmpText`](../) sınıf.
+[`XmpText`](../) sınıfının yeni bir örneğini başlatır
 
 ```csharp
 public XmpText(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpText](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

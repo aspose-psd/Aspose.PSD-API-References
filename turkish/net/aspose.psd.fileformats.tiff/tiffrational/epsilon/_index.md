@@ -1,23 +1,24 @@
 ---
-title: TiffRational.Epsilon
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffRational alan. Kesir hesaplaması için epsilon
+title: "TiffRational.Epsilon"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffRational alanı. Kesir hesaplaması için epsilon"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffRational.Epsilon field
 
-Kesir hesaplaması için epsilon
+Kesir hesabı için epsilon
 
 ```csharp
 public const double Epsilon;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

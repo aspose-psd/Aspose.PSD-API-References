@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen çizgilerin başında kullanılan büyük harf stilini alır veya ayarlar.Pen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen çizgilerin başlangıcında kullanılan kap stilini alır veya ayarlar."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-Bununla çizilen çizgilerin başında kullanılan büyük harf stilini alır veya ayarlar.[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen çizgilerin başlangıcında kullanılan kap stilini alır veya ayarlar.
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Biri[`LineCap`](../../linecap/) bununla çizilen çizgilerin başında kullanılan başlık stilini temsil eden değerler[`Pen`](../).
+Bu [`Pen`](../) ile çizilen çizgilerin başlangıcında kullanılan kap stilini temsil eden [`LineCap`](../../linecap/) değerlerinden biri.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`StartCap` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `StartCap` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

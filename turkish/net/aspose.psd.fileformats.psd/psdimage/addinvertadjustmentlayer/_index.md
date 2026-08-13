@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Bir ters ayarlama katmanı ekler.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Tersine çevirme ayar katmanı ekler"
 type: docs
-weight: 360
+weight: 380
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-Bir ters ayarlama katmanı ekler.
+Ters çevirme ayar katmanını ekler.
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturulan ters katman
+Oluşturulan tersine çevirme katmanı
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, InvertAdjustmentLayer desteğini ve InvertAdjustmentLayer'ın nasıl ekleneceğini gösterir.
+Aşağıdaki kod, InvertAdjustmentLayer desteğini ve InvertAdjustmentLayer eklemeyi gösterir.
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

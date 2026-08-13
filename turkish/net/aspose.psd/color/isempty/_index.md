@@ -1,27 +1,28 @@
 ---
-title: Color.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Bunun olup olmadığını gösteren bir değer alır.Color yapı başlatılmamış.
+title: "Color.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Bu Color yapısının başlatılmamış olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 1490
 url: /tr/net/aspose.psd/color/isempty/
 ---
+{{< psd/tize >}}
 ## Color.IsEmpty property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Color`](../) yapı başlatılmamış.
+Bu [`Color`](../) yapısının başlatılmamış olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bu özellik, bu renk başlatılmamışsa true değerini döndürür; Aksi takdirde, yanlış.
+Bu özellik, renk başlatılmamışsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

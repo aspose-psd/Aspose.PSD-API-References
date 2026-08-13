@@ -1,23 +1,24 @@
 ---
-title: IOrderedShape.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: IOrderedShape yöntem. Bu şekil için noktaların sırasını tersine çevirir.
+title: "IOrderedShape.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IOrderedShape yöntemi. Bu şeklin nokta sırasını tersine çevirir."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/iorderedshape/reverse/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.Reverse method
 
-Bu şekil için noktaların sırasını tersine çevirir.
+Bu şekil için nokta sırasını tersine çevirir.
 
 ```csharp
 public void Reverse()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IOrderedShape](../)
-* ad alanı [Aspose.PSD](../../iorderedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

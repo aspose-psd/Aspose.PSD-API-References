@@ -1,26 +1,27 @@
 ---
-title: BorderInformationResource.MinimalVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: BorderInformationResource mülk. Gereken minimum PSD sürümünü alır.
+title: "BorderInformationResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BorderInformationResource özelliği. Gerekli minimum PSD sürümünü alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.MinimalVersion property
 
-Gereken minimum PSD sürümünü alır.
+Gerekli minimum PSD sürümünü alır.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Minimum PSD sürümü.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, BorderInformationResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, BorderInformationResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BorderInformationResource'u güncelle
+    // güncelle BorderInformationResource
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -49,10 +50,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BorderInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

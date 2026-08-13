@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa bir dizi işaretsiz rasyonel değer yazar.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma bir dizi işaretsiz rasyonel değerler yazar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
 Akışa bir dizi işaretsiz rasyonel değer yazar.
@@ -14,15 +15,15 @@ Akışa bir dizi işaretsiz rasyonel değer yazar.
 public void WriteRationalArray(TiffRational[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | TiffRational[] | Yazılacak dizi. |
+| veri | TiffRational[] | Yazılacak dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

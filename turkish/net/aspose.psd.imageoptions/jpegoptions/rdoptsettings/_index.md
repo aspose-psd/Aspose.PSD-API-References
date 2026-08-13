@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. RD iyileştirici ayarlarını alır veya ayarlar.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. RD optimizasyon ayarlarını alır veya ayarlar"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-RD iyileştirici ayarlarını alır veya ayarlar.
+RD optimizasyon ayarlarını alır veya ayarlar.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-RD iyileştirici ayarları.
+RD optimizasyon ayarları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

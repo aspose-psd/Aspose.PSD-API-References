@@ -1,65 +1,66 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. tarafından belirtilen bir dizi dikdörtgenin içini doldurur.Rectangle yapılar.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Rectangle yapılarıyla belirtilen bir dizi dikdörtgenin içini doldurur."
 type: docs
-weight: 400
+weight: 410
 url: /tr/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-tarafından belirtilen bir dizi dikdörtgenin içini doldurur.[`Rectangle`](../../rectangle/) yapılar.
+Bir dizi dikdörtgenin içini, [`Rectangle`](../../rectangle/) yapılarıyla belirtilen şekilde doldurur.
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| rects | Rectangle[] | dizisi[`Rectangle`](../../rectangle/) doldurulacak dikdörtgenleri temsil eden yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| rects | Rectangle[] | Doldurulacak dikdörtgenleri temsil eden [`Rectangle`](../../rectangle/) yapılarını içeren dizi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* boş veya*rects* boş. |
+| ArgumentNullException | *brush* null veya *rects* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-tarafından belirtilen bir dizi dikdörtgenin içini doldurur.[`RectangleF`](../../rectanglef/) yapılar.
+Belirtilen [`RectangleF`](../../rectanglef/) yapılarıyla tanımlanan bir dizi dikdörtgenin içini doldurur.
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| rects | RectangleF[] | dizisi[`Rectangle`](../../rectangle/) doldurulacak dikdörtgenleri temsil eden yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| rects | RectangleF[] | Doldurulacak dikdörtgenleri temsil eden [`Rectangle`](../../rectangle/) yapılarını içeren dizi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* boş veya*rects* boş. |
+| ArgumentNullException | *brush* null veya *rects* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

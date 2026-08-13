@@ -1,36 +1,37 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection sınıf. Yapay Zeka Raster Görüntü Bölümü
+title: "AiRasterImageSection sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection sınıfı. AI Raster Görüntü Bölümü"
 type: docs
-weight: 1280
+weight: 1290
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-Yapay Zeka Raster Görüntü Bölümü
+AI Raster Görüntü Bölümü
 
 ```csharp
 public sealed class AiRasterImageSection
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Açıyı alır. |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Yüksekliği alır. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Görüntü dikdörtgenini alır. |
 | [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Sol alt kaydırmayı alır. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Raster görüntünün adını alır. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Ofset X'i alır. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | X ofsetini alır. |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Y ofsetini alır. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int color piksel dizisini alır. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int renk piksel dizisini alır. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Genişliği alır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Raster Görüntü ayarlarının AI Format Dosyalarında nasıl yükleneceğini gösterir.
+Aşağıdaki kod, AI Format Dosyalarındaki Raster Görüntü ayarlarının nasıl yükleneceğini gösterir.
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

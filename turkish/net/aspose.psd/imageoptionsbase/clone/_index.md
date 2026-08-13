@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageOptionsBase yöntem. Bu örneği klonlar.
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageOptionsBase yöntemi. Bu örneği klonlar."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
 Bu örneği klonlar.
@@ -14,14 +15,14 @@ Bu örneği klonlar.
 public virtual ImageOptionsBase Clone()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örneğin sığ bir kopyasını döndürür
+Bu örneğin yüzeysel bir kopyasını döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../)
-* ad alanı [Aspose.PSD](../../imageoptionsbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Sayfa numarası etiketini alır veya ayarlar.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Sayfa numarası etiketini alır veya ayarlar"
 type: docs
-weight: 300
+weight: 310
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
 Sayfa numarası etiketini alır veya ayarlar.
@@ -14,21 +15,21 @@ Sayfa numarası etiketini alır veya ayarlar.
 public ushort[] PageNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sayfa numarası etiketi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentOutOfRangeException | value;Dizide 2 değer bekleniyor: SayfaNumarası[0] sayfa numarası ve SayfaNumarası[1] belgedeki toplam sayfa sayısıdır. |
+| ArgumentOutOfRangeException | değer;Dizide 2 değer bekleniyor: PageNumber[0] sayfa numarasıdır ve PageNumber[1] belgedeki toplam sayfa sayısıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

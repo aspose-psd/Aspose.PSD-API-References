@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. bir alırICollection anahtarlarını içeren nesneIDictionary nesne.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. IDictionary nesnesinin anahtarlarını içeren bir ICollection nesnesi alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-bir alırICollection anahtarlarını içeren nesneIDictionary nesne.
+IDictionary nesnesinin anahtarlarını içeren bir ICollection nesnesi alır.
 
 ```csharp
 public ICollection Keys { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-BirICollection anahtarlarını içeren nesneIDictionary nesne.
+IDictionary nesnesinin anahtarlarını içeren bir ICollection nesnesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

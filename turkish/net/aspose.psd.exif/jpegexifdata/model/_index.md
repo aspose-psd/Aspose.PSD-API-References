@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Model
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Modeli alır veya ayarlar.
+title: "JpegExifData.Model"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Modeli alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
 Modeli alır veya ayarlar.
@@ -14,14 +15,14 @@ Modeli alır veya ayarlar.
 public string Model { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Model.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Aspose.PSD for .NET API Referansı
-description: HueSaturationLayer mülk. Açıklığı alır veya ayarlar.
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HueSaturationLayer özelliği. Açıklığı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
 Açıklığı alır veya ayarlar.
@@ -14,20 +15,20 @@ Açıklığı alır veya ayarlar.
 public short Lightness { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Hafiflik.
+Açıklık.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Hafiflik -100 ile +100 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Açıklık -100 ile +100 arasında olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [HueSaturationLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

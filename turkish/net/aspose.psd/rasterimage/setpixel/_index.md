@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Belirtilen konum için bir görüntü pikseli ayarlar.
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Belirtilen konum için bir görüntü pikseli ayarlar"
 type: docs
-weight: 560
+weight: 580
 url: /tr/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
 Belirtilen konum için bir görüntü pikseli ayarlar.
@@ -14,17 +15,17 @@ Belirtilen konum için bir görüntü pikseli ayarlar.
 public void SetPixel(int x, int y, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| x | Int32 | Piksel x konumu. |
-| y | Int32 | Piksel y konumu. |
-| color | Color | Belirtilen konum için piksel rengi. |
+| x | Int32 | Pikselin x konumu. |
+| y | Int32 | Pikselin y konumu. |
+| renk | Renk | Belirtilen konumdaki piksel rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

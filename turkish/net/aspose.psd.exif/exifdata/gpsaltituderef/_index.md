@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Referans yükseklik olarak kullanılan GPS yüksekliğini alır veya ayarlar.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Referans yüksekliği olarak kullanılan GPS yüksekliğini alır veya ayarlar"
 type: docs
 weight: 370
 url: /tr/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-Referans yükseklik olarak kullanılan GPS yüksekliğini alır veya ayarlar.
+Referans yüksekliği olarak kullanılan GPS yüksekliğini alır veya ayarlar.
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Referans yükseklik olarak kullanılan GPS yüksekliği.
+Referans yüksekliği olarak kullanılan GPS yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

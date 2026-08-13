@@ -1,35 +1,36 @@
 ---
-title: Class ColorMap
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorMap sınıf. Renkleri dönüştürmek için bir harita tanımlar. Çeşitli yöntemlerImageAttributes sınıfı bir dizi renk eşleme tablosu kullanarak görüntü renklerini ayarlar.ColorMap yapılar. Kalıtsal değil.
+title: "ColorMap Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorMap sınıfı. Renkleri dönüştürmek için bir harita tanımlar. ImageAttributes sınıfının birkaç yöntemi, bir colorremap tablosu (ColorMap yapılarını içeren bir dizi) kullanarak görüntü renklerini ayarlar. Kalıtılamaz."
 type: docs
 weight: 340
 url: /tr/net/aspose.psd/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap class
 
-Renkleri dönüştürmek için bir harita tanımlar. Çeşitli yöntemler[`ImageAttributes`](../imageattributes/) sınıfı, bir dizi renk eşleme tablosu kullanarak görüntü renklerini ayarlar.`ColorMap` yapılar. Kalıtsal değil.
+Renkleri dönüştürmek için bir harita tanımlar. [`ImageAttributes`](../imageattributes/) sınıfının birkaç yöntemi, bir renk yeniden eşleme tablosu (bir dizi `ColorMap` yapısı) kullanarak görüntü renklerini ayarlar. Kalıtılamaz.
 
 ```csharp
 public sealed class ColorMap
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ColorMap](colormap/)() | Default_Constructor |
+| [ColorMap](colormap/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Yeniyi alır veya ayarlar[`Color`](../color/) dönüştürülecek yapı. |
-| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Mevcut olanı alır veya ayarlar[`Color`](../color/) dönüştürülecek yapı. |
+| [NewColor](../../aspose.psd/colormap/newcolor/) { get; set; } | Yeni [`Color`](../color/) yapısını, dönüştürülecek olanı alır veya ayarlar. |
+| [OldColor](../../aspose.psd/colormap/oldcolor/) { get; set; } | Mevcut [`Color`](../color/) yapısını, dönüştürülecek olanı alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

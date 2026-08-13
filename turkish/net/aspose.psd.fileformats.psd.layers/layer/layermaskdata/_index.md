@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman maskesi verilerini alır veya ayarlar.
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman maske verisini alır veya ayarlar"
 type: docs
-weight: 220
+weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-Katman maskesi verilerini alır veya ayarlar.
+Katman maske verisini alır veya ayarlar.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman maskesi verileri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Renk modunu ayarlar.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Renk modunu ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
 Renk modunu ayarlar.
@@ -14,15 +15,15 @@ Renk modunu ayarlar.
 public void SetColorMode(ColorMode colorMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | colorMode | ColorMode | Renk modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

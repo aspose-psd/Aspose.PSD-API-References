@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Compression
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Sıkıştırmayı alır veya ayarlar.
+title: "JpegExifData.Compression"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Sıkıştırmayı alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
 Sıkıştırmayı alır veya ayarlar.
@@ -14,14 +15,14 @@ Sıkıştırmayı alır veya ayarlar.
 public ushort Compression { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sıkıştırma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

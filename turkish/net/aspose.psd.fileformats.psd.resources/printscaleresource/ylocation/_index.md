@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintScaleResource mülk. y konumunu alır veya ayarlar.
+title: "PrintScaleResource.YLocation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintScaleResource özelliği. y konumunu alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
 y konumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ y konumunu alır veya ayarlar.
 public float YLocation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-y konumu.
+Y konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintScaleResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

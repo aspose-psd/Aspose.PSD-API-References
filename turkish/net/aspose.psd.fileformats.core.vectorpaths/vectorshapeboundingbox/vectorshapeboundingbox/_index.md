@@ -1,23 +1,24 @@
 ---
-title: VectorShapeBoundingBox.VectorShapeBoundingBox
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeBoundingBox inşaatçı. Default_Constructor
+title: "VectorShapeBoundingBox.VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeBoundingBox yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public VectorShapeBoundingBox()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeBoundingBox](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode Sıralama. exif ölçüm modu numaralandırması.
+title: "Enum ExifMeteringMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode enum. exif metering mode enum"
 type: docs
-weight: 900
+weight: 910
 url: /tr/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-exif ölçüm modu numaralandırması.
+exif ölçüm modu sayımı.
 
 ```csharp
 public enum ExifMeteringMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Unknown | `0` | Tanımsız mod |
 | Average | `1` | Ortalama ölçüm |
 | Centerweightedaverage | `2` | Merkez ağırlıklı ortalama. |
-| Spot | `3` | Spot ölçüm |
+| Spot | `3` | Nokta ölçümü |
 | MultiSpot | `4` | Çok noktalı ölçüm |
 | MultiSegment | `5` | Çok segmentli ölçüm. |
 | Partial | `6` | Kısmi ölçüm. |
 | Other | `255` | Diğer modlar için. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

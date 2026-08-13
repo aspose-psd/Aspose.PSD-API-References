@@ -1,31 +1,32 @@
 ---
-title: SizeF.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Belirtilen nesnenin bir nesne olup olmadığını test eder.SizeF bununla aynı boyutlara sahipSizeF .
+title: "SizeF.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Belirtilen nesnenin bu SizeF ile aynı boyutlara sahip bir SizeF olup olmadığını test eder."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/sizef/equals/
 ---
+{{< psd/tize >}}
 ## SizeF.Equals method
 
-Belirtilen nesnenin bir nesne olup olmadığını test eder.[`SizeF`](../) bununla aynı boyutlara sahip[`SizeF`](../) .
+Belirtilen nesnenin bu [`SizeF`](../) ile aynı boyutlara sahip bir [`SizeF`](../) olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject test etmek |
+| obj | Nesne | Test edilecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem şu durumlarda true değerini döndürür:*obj* bir[`SizeF`](../) ve bununla aynı genişliğe ve yüksekliğe sahip[`SizeF`](../); Aksi takdirde, yanlış.
+Bu yöntem, *obj* bir [`SizeF`](../) ise ve bu [`SizeF`](../) ile aynı genişlik ve yüksekliğe sahipse true; aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

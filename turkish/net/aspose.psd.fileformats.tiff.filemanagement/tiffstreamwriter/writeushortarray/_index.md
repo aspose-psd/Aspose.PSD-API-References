@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShortArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa bir dizi işaretsiz kısa değer yazar.
+title: "TiffStreamWriter.WriteUShortArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akışa işaretsiz kısa değerlerinden oluşan bir dizi yazar."
 type: docs
 weight: 230
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShortArray method
 
-Akışa bir dizi işaretsiz kısa değer yazar.
+Akışa işaretsiz kısa değerler dizisi yazar.
 
 ```csharp
 public void WriteUShortArray(ushort[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | UInt16[] | Yazılacak dizi. |
+| veri | UInt16[] | Yazılacak dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

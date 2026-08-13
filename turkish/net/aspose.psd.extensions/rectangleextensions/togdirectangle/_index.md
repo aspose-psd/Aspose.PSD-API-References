@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleExtensions yöntem. dönüştürürRectangle içinRectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleExtensions yöntemi. Rectangle'ı Rectangle'a dönüştürür."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-dönüştürür[`Rectangle`](../../../aspose.psd/rectangle/) içinRectangle .
+[`Rectangle`](../../../aspose.psd/rectangle/) öğesini Rectangle'a dönüştürür.
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Dönüştürülecek dikdörtgen. |
+| dikdörtgen | Rectangle | Dönüştürülecek dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşRectangle.
+Dönüştürülmüş Dikdörtgen.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../rectangleextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-dönüştürür[`RectangleF`](../../../aspose.psd/rectanglef/) içinRectangle .
+[`RectangleF`](../../../aspose.psd/rectanglef/) öğesini Dikdörtgen'e dönüştürür.
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | Dönüştürülecek dikdörtgen. |
+| dikdörtgen | RectangleF | Dönüştürülecek dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dönüştürülmüşRectangleF.
+Dönüştürülmüş RectangleF.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../rectangleextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

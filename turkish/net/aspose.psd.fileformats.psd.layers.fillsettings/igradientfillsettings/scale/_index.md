@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: IGradientFillSettings mülk. Ölçeği alır veya ayarlar.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IGradientFillSettings özelliği. Normalleştirilmiş degrade ölçeğini yüzde olarak alır veya ayarlar"
 type: docs
-weight: 100
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Ölçeği alır veya ayarlar.
+Yüzde olarak **normalized** gradyan ölçeğini alır veya ayarlar.
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçek.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, FillLayer'ı degradeyle ölçeklendirmek için Scale özelliğinin nasıl kullanılacağını gösterir.
+Aşağıdaki örnek, Scale özelliğini kullanarak FillLayer'ı degrade ile ölçeklendirmeyi gösterir.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // bir dolgu katmanı elde ediyoruz
+    // fill layer alınıyor
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,18 +44,18 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // ölçek değerini güncelle
+    // scale değerini güncelle
     settings.Scale = 200;
-    fillLayer.Update(); // Piksel verilerini günceller
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

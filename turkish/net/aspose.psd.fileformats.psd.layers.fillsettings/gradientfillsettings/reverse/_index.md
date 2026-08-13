@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.GradientFillSettings ters.
+title: "GradientFillSettings.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Bu GradientFillSettings'in ters olup olmadığını gösteren bir değeri alır veya ayarlar."
 type: docs
-weight: 110
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Reverse property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`GradientFillSettings`](../) ters.
+Bu [`GradientFillSettings`](../) nesnesinin ters olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ters ise; aksi takdirde,`YANLIŞ` .
+`true` ise ters; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

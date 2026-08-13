@@ -1,11 +1,12 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Yüksekliği orantılı olarak yeniden boyutlandırır.
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Yüksekliği orantılı olarak yeniden boyutlandırır"
 type: docs
-weight: 200
+weight: 210
 url: /tr/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
 Yüksekliği orantılı olarak yeniden boyutlandırır.
@@ -14,15 +15,15 @@ Yüksekliği orantılı olarak yeniden boyutlandırır.
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newHeight | Int32 | Yeni yükseklik. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Yüksekliği orantılı olarak yeniden boyutlandırır.
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newHeight | Int32 | Yeni yükseklik. |
-| resizeType | ResizeType | Yeniden boyutlandırma türü. |
+| resizeType | ResizeType | Yeniden boyutlandırmanın türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Yüksekliği orantılı olarak yeniden boyutlandırır.
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newHeight | Int32 | Yeni yükseklik. |
-| settings | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
+| ayarlar | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

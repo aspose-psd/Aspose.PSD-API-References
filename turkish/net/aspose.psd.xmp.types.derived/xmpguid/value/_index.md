@@ -1,11 +1,12 @@
 ---
-title: XmpGuid.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpGuid mülk. Değeri alır veya ayarlar.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpGuid özelliği. Değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
 Değeri alır veya ayarlar.
@@ -14,14 +15,14 @@ Değeri alır veya ayarlar.
 public Guid Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpGuid](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

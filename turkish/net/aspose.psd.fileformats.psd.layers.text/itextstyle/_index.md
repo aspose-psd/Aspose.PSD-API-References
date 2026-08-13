@@ -1,67 +1,68 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle arayüz. Metin Stili ile çalışacak arayüz
+title: "Arayüz ITextStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle arayüzü. Metin Stiliyle çalışmak için arayüz"
 type: docs
-weight: 3540
+weight: 3990
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-Metin Stili ile çalışacak arayüz
+Metin Stili ile çalışmak için arayüz
 
 ```csharp
 public interface ITextStyle
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Otomatik karakter aralığını alır veya ayarlar. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | [otomatik yönlendirme]. olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Temel kayma. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Harfleri birbirine bağlamak için kullanılan bağlamsal alternatifler. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Özellikle betik yazı tiplerinde harfleri bağlamak için kullanılan isteğe bağlı bitişik harfler. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Sahte kalın özelliği etkinleştirir veya etkinleştirir. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Sahte kalın özelliği etkinleştirir veya etkinleştirir. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Dolgunun rengini alır veya ayarlar. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Yazı tipi temeli. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Yazı tipi büyük harfler. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Otomatik kerning'i alır veya ayarlar. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Otomatik [automatic leading] gösteren bir değeri alır veya ayarlar. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Taban çizgisi kayması. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Harfleri birleştirmek için kullanılan bağlamsal alternatifler. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Özellikle el yazısı yazı tiplerinde harfleri birleştirmek için kullanılan isteğe bağlı ligatürler. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Sahte kalın etkinleştirilmiş durumunu alır veya ayarlar. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Sahte kalın etkinleştirilmiş durumunu alır veya ayarlar. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Dolgu rengini alır veya ayarlar. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Yazı tipi taban çizgisi. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Yazı tipi büyük harfleri. |
 | [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Yazı tipi indeksini alır. |
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Yazı tipi adını alır veya ayarlar. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Yazı tipinin boyutunu alır veya ayarlar. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Kesirler sembolleri özel glyph. ile değiştirilebilir |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | [Hintçe sayılar]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Yazı tipi boyutunu alır veya ayarlar. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Kesir sembolleri özel glif ile değiştirilebilir. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Hindi [hindi numbers] gösteren bir değeri alır veya ayarlar. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Yatay ölçek. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Standart dikey Roma hizalamasını alır veya ayarlar. Bu, BaselineDirection kaynak değerini temel alır, yalnızca metin yönüVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Karakter aralığını alır veya ayarlar. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Standart dikey Roman hizalamasını alır veya ayarlar. Bu, BaselineDirection kaynak değerine dayanır ve yalnızca metin yönelimi Dikey olduğunda uygulanır. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Kerning'i alır veya ayarlar. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Dil indeksini alır. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Satır aralığını alır veya ayarlar. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Kesintisiz değeri ayarlar. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Harfleri birbirine bağlamak için kullanılan standart bağlamsal bitişik harfler. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | [üstü çizili]. olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Konturun rengini alır veya ayarlar. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Leading'i alır veya ayarlar. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Kesintisiz değerini alır veya ayarlar. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Harfleri birleştirmek için kullanılan standart bağlamsal ligatürler. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Üstü çizili [strikethrough] olduğunu gösteren bir değeri alır veya ayarlar. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Çizgi rengini alır veya ayarlar. |
 | [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | İzlemeyi alır veya ayarlar. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | [altı çizili]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Alır veya ayarlar, [underline] olup olmadığını gösteren bir değer. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Dikey ölçek. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Belirtilen stili uygular. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Belirtilen stilin eşit olup olmadığını belirler. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de tek bir metin katmanında farklı stilleri nasıl oluşturabileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde bir metin katmanında farklı stilleri nasıl renderleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // "E=mc" metin stilini düzenle
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // "2\r" metin stilini düzenle
-    newPortions[2].Style.FauxBold = true; // "Kalın" metin stilini düzenle
-    newPortions[3].Style.FauxItalic = true; // "İtalik\r" metin stilini düzenle
-    newPortions[3].Style.BaselineShift = -25; // "İtalik\r" metin stilini düzenle
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // "Küçük harfli metin" metin stilini düzenle
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, metin katmanındaki herhangi bir metin bölümü için yazı tipi boyutunun nasıl alınacağını gösterir.
+Aşağıdaki kod, metin katmanındaki herhangi bir metin bölümü için yazı tipi boyutunu nasıl alacağınızı gösterir.
 
 ```csharp
 [C#]
 
-// Yanlış Font boyutu çıkartıldı 
+// Yanlış Yazı Tipi boyutu çıkarıldı
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -114,19 +115,19 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Eski API (İlk paragraf yazı tipi kullanılarak)
+    // Eski API (İlk paragraf yazı tipini kullanarak)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Temel yazı tipi boyutunu kontrol etme
+    // Temel yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Gerçek yazı tipi boyutunu kontrol etme
+    // Gerçek yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -137,13 +138,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Taban kısmı yazı tipi boyutunun kontrol edilmesi
+    // Temel bölüm yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Gerçek kısım yazı tipi boyutunu kontrol etme
+    // Gerçek bölüm yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Aşağıdaki kod örneği, düzenleme metin bölümlerini ve bunların metin stilini gösterir.
+Aşağıdaki kod örneği, metin bölümlerinin ve bunların metin stilinin düzenlenmesini gösterir.
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Her bölümün metni kontrol ediliyor
+            // Her bölümün metnini kontrol etme
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -183,8 +184,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Paragraf verilerini kontrol etme
-            // Paragrafların farklı gerekçeleri var
+            // Paragrafların verilerini kontrol etme
+            // Paragraflar farklı hizalamaya sahiptir
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -194,7 +195,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Birinci ve ikinci paragrafın diğer tüm özellikleri eşittir
+            // İlk ve ikinci paragrafın diğer tüm özellikleri eşittir
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -234,7 +235,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Stil verilerini kontrol etme
-            // Stillerin renkleri ve yazı tipi boyutları farklıdır
+            // Stiller farklı renk ve yazı tipi boyutuna sahiptir
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -270,7 +271,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Kaldırılan metin bölümleri örneği
+            // Metin bölümlerini kaldırma örneği
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -282,17 +283,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Bölümler için paragraf ve stil düzenleme örneği
-            // Sağa yaslamayı ayarla
+            // Sağ hizalamayı ayarla
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Her stil için farklı renkler. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Her stil için farklı renkler. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Farklı yazı tipi. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Farklı yazı tipi. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Aspose.PSD for .NET API Referansı
-description: MultiPageOptions mülk. Modu alır veya ayarlar.
+title: "MultiPageOptions.Mode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MultiPageOptions özelliği. Modu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
 Modu alır veya ayarlar.
@@ -14,15 +15,15 @@ Modu alır veya ayarlar.
 public MultiPageMode Mode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mod.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

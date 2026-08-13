@@ -1,55 +1,56 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı PSD dosya biçimi kaynak varlıklarını içerir.
+title: "Aspose.PSD.FileFormats.Psd.Resources"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, PSD dosya formatı kaynak varlıklarını içerir."
 type: docs
-weight: 350
+weight: 380
 url: /tr/net/aspose.psd.fileformats.psd.resources/
 ---
-Ad alanı, PSD dosya biçimi kaynak varlıklarını içerir.
+{{< psd/tize >}}
+Bu ad alanı, PSD dosya formatı kaynak varlıklarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [AnimatedDataSectionResource](./animateddatasectionresource/) | Animasyonlu Veri Bölümü Eklentisi kaynağı. |
-| [BackgroundColorResource](./backgroundcolorresource/) | Görüntü yazdırma ayarlarının sınır bilgilerini içeren kaynak. |
-| [BorderInformationResource](./borderinformationresource/) | Görüntü yazdırma ayarlarının sınır bilgilerini içeren kaynak. |
-| [CaptionDigestResource](./captiondigestresource/) | Altyazı Özeti kaynak |
+| [BackgroundColorResource](./backgroundcolorresource/) | Görüntü yazdırma ayarlarının kenar bilgilerini içeren kaynak. |
+| [BorderInformationResource](./borderinformationresource/) | Görüntü yazdırma ayarlarının kenar bilgilerini içeren kaynak. |
+| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest kaynağı |
 | [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Yarı tonlama kaynağı |
 | [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Renk aktarım kaynağı |
-| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Belgeye Özgü Kimlikler source |
-| [FixedPointDecimal](./fixedpointdecimal/) | 16 bit tamsayı ve 16 bit kesir ile sabit noktalı ondalık. |
-| [GlobalAltitudeResource](./globalaltituderesource/) | Küresel rakım kaynağı |
-| [GlobalAngleResource](./globalangleresource/) | Genel açı kaynağı |
-| [GridAndGuidesResouce](./gridandguidesresouce/) | Izgarayı temsil eder ve kaynağa kılavuzluk eder. |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Belgeye Özel Id'ler kaynağı |
+| [FixedPointDecimal](./fixedpointdecimal/) | 16 bit tam sayı ve 16 bit kesirli sabit noktalı ondalık. |
+| [GlobalAltitudeResource](./globalaltituderesource/) | Global irtifa kaynağı |
+| [GlobalAngleResource](./globalangleresource/) | Global açı kaynağı |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | Izgara ve kılavuzlar kaynağını temsil eder. |
 | [GuideResource](./guideresource/) | Kılavuz kaynak bloğu. |
 | [IccProfileResource](./iccprofileresource/) | ICC profil kaynağını temsil eder. |
-| [IccUntaggedResource](./iccuntaggedresource/) | Icc etiketlenmemiş kaynak |
-| [LayerGroupInformationResource](./layergroupinformationresource/) | Katman grubu bilgisi kaynak |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Katman grupları etkinleştirildiresource |
-| [LayerSelectionIdsResource](./layerselectionidsresource/) | Katman seçimi kimlikleri kaynak |
-| [LayerStateInformationResource](./layerstateinformationresource/) | Katman durumu bilgisi kaynak |
-| [PixelAspectRatioResource](./pixelaspectratioresource/) | Piksel boyut oranı kaynak |
-| [PrintFlagsResource](./printflagsresource/) | Bayrakları yazdırın kaynak |
-| [PrintScaleResource](./printscaleresource/) | Baskı Ölçeği kaynak |
-| [QuickMaskInformationResource](./quickmaskinformationresource/) | Hızlı maske bilgisi source |
-| [ResolutionInfoResource](./resolutioninforesource/) | Çözünürlük bilgisi source |
-| [Thumbnail4Resource](./thumbnail4resource/) | psd 4.0. için küçük resim kaynağını temsil eder |
+| [IccUntaggedResource](./iccuntaggedresource/) | Icc etiketsiz kaynak |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | Katman grup bilgisi kaynağı |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Katman grupları etkin kaynağı |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | Katman seçim id'leri kaynağı |
+| [LayerStateInformationResource](./layerstateinformationresource/) | Katman durumu bilgisi kaynağı |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Piksel en‑boy oranı kaynağı |
+| [PrintFlagsResource](./printflagsresource/) | Yazdırma bayrakları kaynağı |
+| [PrintScaleResource](./printscaleresource/) | Yazdırma Ölçeği kaynağı |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | Hızlı maske bilgi kaynağı |
+| [ResolutionInfoResource](./resolutioninforesource/) | Çözünürlük bilgi kaynağı |
+| [Thumbnail4Resource](./thumbnail4resource/) | psd 4.0 için küçük resim kaynağını temsil eder. |
 | [ThumbnailResource](./thumbnailresource/) | Küçük resim kaynak bloğu. |
-| [TransparencyIndexResource](./transparencyindexresource/) | Şeffaflık dizini kaynak bloğu. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode alfa adları kaynak |
+| [TransparencyIndexResource](./transparencyindexresource/) | Şeffaflık indeksi kaynak bloğu. |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode alfa adları kaynağı |
 | [UnknownResource](./unknownresource/) | Bilinmeyen kaynak. Bir kaynak bloğu tanınmadığında bu kaynak bloğu oluşturulur. |
-| [UrlListResource](./urllistresource/) | URL listesi kaynağı |
-| [VersionInfoResource](./versioninforesource/) | Sürüm Bilgisi source |
+| [UrlListResource](./urllistresource/) | URL liste kaynağı |
+| [VersionInfoResource](./versioninforesource/) | Sürüm Bilgi kaynağı |
 | [WatermarkResource](./watermarkresource/) | Filigran kaynağı |
 | [WorkingPathResource](./workingpathresource/) | Çalışma yolu kaynağı. |
-| [XmpResource](./xmpresource/) | XMP meta veri kaynağını temsil eder. |
-## numaralandırma
+| [XmpResource](./xmpresource/) | XMP meta verisi kaynağını temsil eder. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
 | [GuideDirection](./guidedirection/) | Kılavuz yönü. |
-| [ThumbnailFormat](./thumbnailformat/) | Küçük resim veri biçimini belirtir. |
+| [ThumbnailFormat](./thumbnailformat/) | Küçük resim veri formatını belirtir. |
 
 

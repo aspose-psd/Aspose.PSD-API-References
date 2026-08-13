@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Subtraction
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. a çevirirPointF verilen bir negatif tarafındanSize .
+title: "PointF.op_Subtraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. Verilen bir Size'ın negatifine göre bir PointF'i çevirir."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/pointf/op_subtraction/
 ---
+{{< psd/tize >}}
 ## operator - {#op_subtraction}
 
-a çevirir[`PointF`](../) verilen bir negatif tarafından[`Size`](../../size/) .
+Verilen bir [`Size`](../../size/) değerinin negatifine göre bir [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF operator -(PointF point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../) tercüme etmek. |
-| size | Size | A[`Size`](../../size/)x- ve y-koordinatlarından çıkarılacak sayıları belirtir.*point*. |
+| point | PointF | Çevrilecek bir [`PointF`](../). |
+| size | Size | *point*'in x ve y koordinatlarından çıkarılacak sayıları belirten bir [`Size`](../../size/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-çevrilmiş[`PointF`](../).
+Çevrilen [`PointF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator - {#op_subtraction_1}
 
-a çevirir[`PointF`](../) belirli bir negatif tarafından[`SizeF`](../../sizef/) .
+Belirtilen bir [`SizeF`](../../sizef/) değerinin negatifine göre bir [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF operator -(PointF point, SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../) tercüme etmek. |
-| size | SizeF | bu[`SizeF`](../../sizef/) koordinatlarından çıkarılacak sayıları belirtir.*point*. |
+| point | PointF | Çevrilecek [`PointF`](../). |
+| size | SizeF | *point*'in koordinatlarından çıkarılacak sayıları belirten [`SizeF`](../../sizef/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-çevrilmiş[`PointF`](../).
+Çevrilen [`PointF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Yeni bir örneğini alırRectangle sahip olan yapıX Y Width VeHeight değerler sıfıra ayarlandı.
+title: "Rectangle.Empty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. X, Y, Width ve Height değerleri sıfıra ayarlanmış yeni bir Rectangle yapısı örneği alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/rectangle/empty/
 ---
+{{< psd/tize >}}
 ## Rectangle.Empty property
 
-Yeni bir örneğini alır[`Rectangle`](../) sahip olan yapı[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) Ve[`Height`](../height/) değerler sıfıra ayarlandı.
+[`X`](../x/), [`Y`](../y/), [`Width`](../width/) ve [`Height`](../height/) değerleri sıfıra ayarlanmış yeni bir [`Rectangle`](../) yapısı örneği alır.
 
 ```csharp
 public static Rectangle Empty { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

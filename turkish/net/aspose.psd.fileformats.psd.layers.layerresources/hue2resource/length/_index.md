@@ -1,23 +1,24 @@
 ---
-title: Hue2Resource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Bayt cinsinden katman kaynak uzunluğunu alır.
+title: "Hue2Resource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 50
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Length property
 
-Bayt cinsinden katman kaynak uzunluğunu alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

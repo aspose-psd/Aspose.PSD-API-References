@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD for .NET API Referansı
-description: KnkoResource mülk. iç öğeleri harmanla. olup olmadığını belirten bir değer alır veya ayarlar.
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "KnkoResource özelliği. İç elemanları harmanlayıp harmanlamadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-[iç öğeleri harmanla]. olup olmadığını belirten bir değer alır veya ayarlar.
+Bu [blend interior elements] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [iç elemanları harmanla]; aksi takdirde,`YANLIŞ` .
+`true` eğer [blend interior elements]; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

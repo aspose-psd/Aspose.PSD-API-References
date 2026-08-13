@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.XPTitle
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar.
+title: "TiffOptions.XPTitle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Windows Explorer tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar"
 type: docs
-weight: 640
+weight: 650
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPTitle property
 
 Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar.
@@ -14,14 +15,14 @@ Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ay
 public string XPTitle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Windows Gezgini tarafından kullanılan görüntü hakkında bilgi. `XPTitle` Windows Gezgini tarafından yoksayılırsa[`ImageDescription`](../imagedescription/) etiketi var.
+Windows Explorer tarafından kullanılan görüntü hakkında bilgi. Windows Explorer, [`ImageDescription`](../imagedescription/) etiketi mevcutsa `XPTitle` öğesini yok sayar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

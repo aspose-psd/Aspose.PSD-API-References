@@ -1,11 +1,12 @@
 ---
-title: Enum CompressionMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.CompressionMethod Sıralama. Görüntü verileri için kullanılan sıkıştırma yöntemini tanımlar.
+title: "Enum CompressionMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.CompressionMethod enum. Görüntü verileri için kullanılan sıkıştırma yöntemini tanımlar."
 type: docs
-weight: 1620
+weight: 1630
 url: /tr/net/aspose.psd.fileformats.psd/compressionmethod/
 ---
+{{< psd/tize >}}
 ## CompressionMethod enumeration
 
 Görüntü verileri için kullanılan sıkıştırma yöntemini tanımlar.
@@ -14,18 +15,18 @@ Görüntü verileri için kullanılan sıkıştırma yöntemini tanımlar.
 public enum CompressionMethod : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Raw | `0` | Sıkıştırma yok. Görüntü verileri, RGBA düzlemsel düzeninde ham bayt olarak depolanır. Bu, önce tüm R verilerinin yazıldığı, ardından tüm G verilerinin, ardından tüm B ve son olarak tüm A verilerinin yazıldığı anlamına gelir. |
-| RLE | `1` | RLE sıkıştırılmış görüntü verileri, iki baytlık bir değer olarak depolanan her sayısıyla tüm tarama satırları (satırlar * kanallar) için bayt sayımlarıyla başlar. RLE sıkıştırılmış verileri, her bir tarama satırı ayrı ayrı sıkıştırılarak takip eder. RLE sıkıştırması, Macintosh ROM rutini PackBits ve TIFF standardı tarafından kullanılan sıkıştırma algoritmasının aynısıdır. |
-| ZipWithoutPrediction | `2` | Tahminsiz ZIP. |
+| Raw | `0` | Sıkıştırma yok. Görüntü verileri RGBA düzlemsel sırada ham baytlar olarak depolanır. Bu, önce tüm R verisinin, ardından tüm G, sonra tüm B ve sonunda tüm A verisinin yazıldığı anlamına gelir. |
+| RLE | `1` | RLE sıkıştırılmış görüntü verileri, tüm tarama satırları (satırlar * kanallar) için bayt sayılarıyla başlar; her sayı iki baytlık bir değer olarak saklanır. RLE sıkıştırılmış veri ardından gelir ve her tarama satırı ayrı ayrı sıkıştırılır. RLE sıkıştırması, Macintosh ROM rutini PackBits ve TIFF standardı tarafından kullanılan aynı sıkıştırma algoritmasıdır. |
+| ZipWithoutPrediction | `2` | Tahmin olmadan ZIP. |
 | ZipWithPrediction | `3` | Tahminli ZIP. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

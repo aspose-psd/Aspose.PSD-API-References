@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage alan. Varsayılan PSD sürümü.
+title: "PsdImage.DefaultVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage alanı. Varsayılan PSD sürümü"
 type: docs
-weight: 620
+weight: 690
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 Varsayılan PSD sürümü.
@@ -14,10 +15,10 @@ Varsayılan PSD sürümü.
 public const int DefaultVersion;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

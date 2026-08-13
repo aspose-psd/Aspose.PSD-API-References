@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: PlLdResource mülk. Bayt cinsinden PlLd kaynak uzunluğunu alır.
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlLdResource özelliği. PlLd kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 20
+weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-Bayt cinsinden PlLd kaynak uzunluğunu alır.
+PlLd kaynağının uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

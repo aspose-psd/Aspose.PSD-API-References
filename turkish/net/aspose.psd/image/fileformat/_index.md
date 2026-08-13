@@ -1,24 +1,25 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. dosya formatı değerini alır
+title: "Image.FileFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Dosya biçimi değerini alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-dosya formatı değerini alır
+Dosya formatının değerini alır
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

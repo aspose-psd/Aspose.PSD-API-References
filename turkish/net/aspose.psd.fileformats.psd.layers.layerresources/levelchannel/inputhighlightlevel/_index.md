@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevelChannel mülk. Giriş vurgu seviyesini alır veya ayarlar.
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevelChannel özelliği. Giriş vurgulama seviyesini alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
-Giriş vurgu seviyesini alır veya ayarlar.
+Giriş vurgulama seviyesini alır veya ayarlar.
 
 ```csharp
 public short InputHighlightLevel { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Giriş vurgu düzeyi.
+Giriş vurgulama seviyesi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Giriş Vurgu Düzeyi yalnızca " + (this.InputShadowLevel + 2) + " ila 255 aralığında ayarlanabilir |
+| ArgumentOutOfRangeException | Giriş Vurgulama Seviyesi yalnızca " + (this.InputShadowLevel + 2) + " ile 255 arasında ayarlanabilir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

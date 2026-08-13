@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: StrokeEffect mülk. Opaklığı alır veya ayarlar.
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StrokeEffect özelliği. Opaklığı alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
 Opaklığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Opaklığı alır veya ayarlar.
 public byte Opacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Opaklık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StrokeEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

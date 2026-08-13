@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun em boyutunu alırFont tarafından belirtilen birimlerde ölçülür.Unit özellik.
+title: "Font.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un, Unit özelliği tarafından belirtilen birimlerde ölçülen em boyutunu alır."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-Bunun em boyutunu alır[`Font`](../) tarafından belirtilen birimlerde ölçülür.[`Unit`](../unit/) özellik.
+Bu [`Font`](../) öğesinin, [`Unit`](../unit/) özelliği tarafından belirtilen birimlerde ölçülen em-boyutunu alır.
 
 ```csharp
 public float Size { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun em boyutu[`Font`](../).
+Bu [`Font`](../) öğesinin em-boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

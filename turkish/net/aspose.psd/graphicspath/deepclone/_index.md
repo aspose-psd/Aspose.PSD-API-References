@@ -1,27 +1,28 @@
 ---
-title: GraphicsPath.DeepClone
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Bu grafik yolunun derin bir klonunu gerçekleştirir.
+title: "GraphicsPath.DeepClone"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Bu grafik yolunun derin bir kopyasını oluşturur."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/graphicspath/deepclone/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.DeepClone method
 
-Bu grafik yolunun derin bir klonunu gerçekleştirir.
+Bu grafik yolunun derin bir kopyasını oluşturur.
 
 ```csharp
 public GraphicsPath DeepClone()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Grafik yolunun derin bir klonu.
+Grafik yolunun derin bir kopyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

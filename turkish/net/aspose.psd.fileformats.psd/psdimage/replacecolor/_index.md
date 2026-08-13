@@ -1,29 +1,30 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. İzin verilen farkla bir rengi diğerine değiştirir ve düzgün kenarları korumak için orijinal alfa değerini korur.
+title: "PsdImage.ReplaceColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Bir rengi başka bir renkle, izin verilen farkla değiştirir ve pürüzsüz kenarları korumak için orijinal alfa değerini korur"
 type: docs
-weight: 570
+weight: 630
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-İzin verilen farkla bir rengi diğerine değiştirir ve düzgün kenarları korumak için orijinal alfa değerini korur.
+İzin verilen farkla bir rengi başka bir renk ile değiştirir ve düzgün kenarları korumak için orijinal alfa değerini korur.
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | oldColorArgb | Int32 | Değiştirilecek eski renk ARGB değeri. |
-| oldColorDiff | Byte | Değiştirilen renk tonunu genişletebilmek için eski renkteki farka izin verildi. |
-| newColorArgb | Int32 | Eski rengi değiştirmek için yeni renk ARGB değeri. |
+| oldColorDiff | Byte | Eski renkte izin verilen farkla değiştirilen renk tonunu genişletebilmek için. |
+| newColorArgb | Int32 | Yeni renk ARGB değeri eski rengi değiştirmek için. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

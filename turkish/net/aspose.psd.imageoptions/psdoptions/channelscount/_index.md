@@ -1,11 +1,12 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdOptions mülk. Renk kanalı sayısını alır veya ayarlar.
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdOptions özelliği. Renk kanalı sayısını alır veya ayarlar"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
 Renk kanalı sayısını alır veya ayarlar.
@@ -14,14 +15,14 @@ Renk kanalı sayısını alır veya ayarlar.
 public short ChannelsCount { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk kanalları sayılır.
+Renk kanalı sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../psdoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

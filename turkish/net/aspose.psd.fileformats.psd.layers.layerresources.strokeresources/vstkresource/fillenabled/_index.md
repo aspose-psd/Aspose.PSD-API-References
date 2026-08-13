@@ -1,23 +1,24 @@
 ---
-title: VstkResource.FillEnabled
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur dolgusunun etkin olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "VstkResource.FillEnabled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Stroke dolgusunun etkin olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.FillEnabled property
 
-Kontur dolgusunun etkin olup olmadığını gösteren bir değer alır veya ayarlar.
+Stroke doldurmasının etkin olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool FillEnabled { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

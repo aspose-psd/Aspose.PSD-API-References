@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: BezierShape mülk. Şekil segmentlerini alır.
+title: "BezierShape.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BezierShape özelliği. Şekil segmentlerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.shapes/beziershape/segments/
 ---
+{{< psd/tize >}}
 ## BezierShape.Segments property
 
 Şekil segmentlerini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/beziershape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../beziershape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

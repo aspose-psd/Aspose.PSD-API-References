@@ -1,28 +1,29 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffImageException mülk. Tiff seçenekleri hatası alır.
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffImageException özelliği. Tiff seçenek hatasını alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
-Tiff seçenekleri hatası alır.
+tiff seçenekleri hatasını alır.
 
 ```csharp
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tiff seçenekleri hatası.
+Tiff seçenek hatası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ChannelInformation.CompressionMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: ChannelInformation mülk. Sıkıştırma yöntemini alır veya ayarlar.
+title: "ChannelInformation.CompressionMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ChannelInformation özelliği. Sıkıştırma yöntemini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.CompressionMethod property
 
 Sıkıştırma yöntemini alır veya ayarlar.
@@ -14,15 +15,15 @@ Sıkıştırma yöntemini alır veya ayarlar.
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sıkıştırma yöntemi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

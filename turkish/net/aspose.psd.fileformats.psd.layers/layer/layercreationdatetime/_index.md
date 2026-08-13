@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman oluşturma tarihi saatini alır veya ayarlar.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katmanın oluşturulma tarih ve saatini alır veya ayarlar"
 type: docs
-weight: 200
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-Katman oluşturma tarihi saatini alır veya ayarlar.
+Katman oluşturma tarih ve saatini alır veya ayarlar.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katmanın oluşturulma tarihi saat. DateTime oluşturma hakkında veri yoksa, önce Unix Time'ı döndürür epoch
+Katmanın oluşturulma tarih ve saati. Oluşturulma DateTime'ı hakkında veri yoksa Unix Zamanı ilk epoch değerini döndürür
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

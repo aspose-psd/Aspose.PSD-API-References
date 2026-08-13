@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk ayarlama matrisini temizler.
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk ayarlama matrisini temizler."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-Varsayılan kategori için renk ayarlama matrisini temizler.
+Varsayılan kategori için renk‑ayar matrisini temizler.
 
 ```csharp
 public void ClearColorMatrix()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-Belirli bir kategori için renk ayarlama matrisini temizler.
+Belirtilen kategori için renk‑ayar matrisini temizler.
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk ayarlama matrisinin temizlendiği kategoriyi belirtir. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) öğesi, renk ayarlama matrisinin temizlendiği kategoriyi belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

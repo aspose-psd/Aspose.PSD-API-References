@@ -1,28 +1,29 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType Sıralama. Satır Birleştirme türü.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Çizgi Birleştirme türü"
 type: docs
-weight: 3050
+weight: 3410
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-Satır Birleştirme türü.
+Çizgi birleşim türü.
 
 ```csharp
 public enum LineJoinType : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| BevelJoin | `0` | Eğim birleştirme türü. |
-| RoundJoin | `1` | Yuvarlak birleştirme türü. |
-| MiterJoin | `2` | Gönye birleştirme türü. |
+| BevelJoin | `0` | Eğimli birleştirme türü. |
+| RoundJoin | `1` | Rounnd birleştirme türü. |
+| MiterJoin | `2` | Köşe birleştirme türü. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, VstkResource kaynağının desteğini gösterir.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

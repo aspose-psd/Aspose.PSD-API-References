@@ -1,11 +1,12 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Rakam değiştirme için kullanılacak yöntemi alır veya ayarlar.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Rakam ikamesi için kullanılacak yöntemi alır veya ayarlar."
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
 Rakam değiştirme için kullanılacak yöntemi alır veya ayarlar.
@@ -14,19 +15,19 @@ Rakam değiştirme için kullanılacak yöntemi alır veya ayarlar.
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`StringDigitSubstitute`](../../stringdigitsubstitute/) Geçerli yazı tipi tarafından desteklenmedikleri için görüntülenemeyen bir dizedeki karakterlerin nasıl değiştirileceğini belirten numaralandırma değeri.
+Geçerli yazı tipinde desteklenmediği için görüntülenemeyen bir dizedeki karakterlerin nasıl değiştirileceğini belirten bir [`StringDigitSubstitute`](../../stringdigitsubstitute/) enum değeridir.
 
-### Notlar
+## Açıklamalar
 
-Ayarlayıcı, kullanılmayan SetDigitSubstitution yöntemi için tanıtıldı.
+SetDigitSubstitution adlı eski yöntem için ayarlayıcı (setter) tanıtıldı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

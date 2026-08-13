@@ -1,27 +1,28 @@
 ---
-title: XmpMeta.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMeta yöntem. Bu örnek için bir karma kod döndürür.
+title: "XmpMeta.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMeta yöntemi. Bu örnek için bir karma kodu döndürür"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp/xmpmeta/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetHashCode method
 
-Bu örnek için bir karma kod döndürür.
+Bu örnek için bir hash kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun bir karma kodu.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

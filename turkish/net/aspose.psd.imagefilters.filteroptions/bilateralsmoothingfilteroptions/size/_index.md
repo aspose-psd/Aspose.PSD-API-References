@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: BilateralSmoothingFilterOptions mülk. Çekirdeğin boyutunu alır veya ayarlar.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BilateralSmoothingFilterOptions özelliği. Çekirdeğin boyutunu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
 Çekirdeğin boyutunu alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptio
 public int Size { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Çekirdeğin boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BilateralSmoothingFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

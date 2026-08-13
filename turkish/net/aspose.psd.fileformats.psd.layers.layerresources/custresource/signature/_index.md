@@ -1,11 +1,12 @@
 ---
-title: CustResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: CustResource mülk. İmzayı alır.
+title: "CustResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustResource özelliği. İmzayı alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/
 ---
+{{< psd/tize >}}
 ## CustResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signa
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

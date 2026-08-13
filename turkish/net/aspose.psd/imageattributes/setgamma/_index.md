@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için gama değerini ayarlar.
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için gama değerini ayarlar"
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
 Varsayılan kategori için gama değerini ayarlar.
@@ -14,36 +15,36 @@ Varsayılan kategori için gama değerini ayarlar.
 public void SetGamma(float gamma)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gamma | Single | Gama düzeltme değeri. |
+| gama | Single | Gama düzeltme değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetGamma(float, ColorAdjustType) {#setgamma_1}
 
-Belirli bir kategori için gama değerini ayarlar.
+Belirtilen kategori için gama değerini ayarlar.
 
 ```csharp
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gamma | Single | Gama düzeltme değeri. |
-| type | ColorAdjustType | bir elemanı[`ColorAdjustType`](../../coloradjusttype/) gama değerinin ayarlandığı kategoriyi belirten numaralandırma. |
+| gama | Single | Gama düzeltme değeri. |
+| type | ColorAdjustType | Gama değerinin ayarlandığı kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) enum öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

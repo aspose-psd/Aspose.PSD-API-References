@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. 64bit ARGB pikselleri yükler.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. 64 bit ARGB piksellerini yükler"
 type: docs
 weight: 360
 url: /tr/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-64-bit ARGB pikselleri yükler.
+64-bit ARGB piksellerini yükler.
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksellerin yükleneceği dikdörtgen. |
+| dikdörtgen | Rectangle | Piksellerin yükleneceği dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen 64 bit ARGB piksel dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

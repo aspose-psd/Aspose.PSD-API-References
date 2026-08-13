@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Model verilerini alır veya ayarlar.
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Desen verilerini alır"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Model verilerini alır veya ayarlar.
+Desen verilerini alır.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Model verileri.
+Desen verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

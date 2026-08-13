@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.RawEntries
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette mülk. Ham renk paleti giriş verilerini alır.
+title: "PsdColorPalette.RawEntries"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette özelliği. Ham renk paleti giriş verilerini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntries property
 
 Ham renk paleti giriş verilerini alır.
@@ -14,14 +15,14 @@ Ham renk paleti giriş verilerini alır.
 public byte[] RawEntries { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ham renk paleti giriş verileri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

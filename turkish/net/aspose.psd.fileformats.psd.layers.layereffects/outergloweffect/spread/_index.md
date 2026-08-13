@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Yoğunluğu yüzde olarak alır veya ayarlar.
+title: "OuterGlowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Yoğunluğu yüzde olarak alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
 Yoğunluğu yüzde olarak alır veya ayarlar.
@@ -14,11 +15,11 @@ Yoğunluğu yüzde olarak alır veya ayarlar.
 public int Spread { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Forma.
+Yayılım.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

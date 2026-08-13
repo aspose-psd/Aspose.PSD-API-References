@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: VogkResource mülk. Katman kaynak anahtarını alır.
+title: "VogkResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VogkResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VogkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Katmanları birleştirir.
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Katmanları birleştirir"
 type: docs
-weight: 560
+weight: 620
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
 Katmanları birleştirir.
@@ -14,20 +15,20 @@ Katmanları birleştirir.
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bottomLayer | Layer | Alt katman. |
-| topLayer | Layer | Üst katman. |
+| bottomLayer | Katman | Alt katman. |
+| topLayer | Katman | Üst katman. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Birleştirmeden sonra alt katman
+Birleştirmeden sonraki alt katman
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

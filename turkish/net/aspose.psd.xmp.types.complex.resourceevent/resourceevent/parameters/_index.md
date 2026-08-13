@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Parameters
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceEvent mülk. Eylemin ek açıklamasını alır veya ayarlar.
+title: "ResourceEvent.Parameters"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceEvent özelliği. Eylemin ek açıklamasını alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Parameters property
 
 Eylemin ek açıklamasını alır veya ayarlar.
@@ -14,14 +15,14 @@ Eylemin ek açıklamasını alır veya ayarlar.
 public string Parameters { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Eylemin ek açıklaması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceEvent](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

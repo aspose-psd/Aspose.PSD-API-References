@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Aspose.PSD for .NET API Referansı
-description: BlackWhiteAdjustmentLayer mülk. Siyah beyaz önceden ayarlanmış tür değerini alır veya ayarlar.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlackWhiteAdjustmentLayer özelliği. Siyah ve beyaz ön ayar türü değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Siyah beyaz önceden ayarlanmış tür değerini alır veya ayarlar.
+Siyah ve Beyaz ön ayar tür değerini alır veya ayarlar.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Siyah beyaz önceden ayarlanmış tür değeri.
+Siyah ve beyaz ön ayar türü değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de siyah beyaz ayarlama katmanı özelliklerini nasıl değiştirebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde siyah beyaz ayar katmanı özelliklerini nasıl manipüle edebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

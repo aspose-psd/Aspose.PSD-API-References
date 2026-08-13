@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Aspose.PSD for .NET API Referansı
-description: InterruptMonitor mülk. Her iş parçacığı için benzersiz olan InterruptMonitor örneğini alır veya ayarlar.
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InterruptMonitor özelliği. Her iş parçacığı için benzersiz olan InterruptMonitor örneğini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.ThreadLocalInstance property
 
 Her iş parçacığı için benzersiz olan InterruptMonitor örneğini alır veya ayarlar.
@@ -14,10 +15,10 @@ Her iş parçacığı için benzersiz olan InterruptMonitor örneğini alır vey
 public static InterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InterruptMonitor](../)
-* ad alanı [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

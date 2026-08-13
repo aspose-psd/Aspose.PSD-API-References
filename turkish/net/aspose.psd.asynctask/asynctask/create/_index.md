@@ -1,59 +1,60 @@
 ---
-title: AsyncTask.Create
-second_title: Aspose.PSD for .NET API Referansı
-description: AsyncTask yöntem. Eşzamansız görevi sonuçsuz oluşturur.
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AsyncTask yöntemi. Sonuç olmadan asenkron görevi oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
-Eşzamansız görevi sonuçsuz oluşturur.
+Herhangi bir sonuç olmadan asenkron görevi oluşturur.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | taskAction | AsyncTaskAction | Görev eylemi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Eşzamansız görev
+Asenkron görev
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../asynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-Eşzamansız görevi genel tür sonucuyla oluşturur.
+Genel tip sonuçlu asenkron görevi oluşturur.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | taskFunc | AsyncTaskFunc | Görev işlevi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Eşzamansız görev
+Asenkron görev
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../asynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

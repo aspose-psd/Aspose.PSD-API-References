@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectArrayStructure inşaatçı. Yeni bir örneğini başlatır.ObjectArrayStructure sınıf.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectArrayStructure yapıcı. ObjectArrayStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ObjectArrayStructure`](../) sınıf.
+[`ObjectArrayStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | String | Anahtarın adı. |
 | classIdName | String | Sınıf tanımlayıcısının adı. |
-| structures | OSTypeStructure[] | yapılar. |
+| yapılar | OSTypeStructure[] | Yapılar. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -74,39 +75,39 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Yeni bir örneğini başlatır.[`ObjectArrayStructure`](../) sınıf.
+[`ObjectArrayStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | Int32 | tamsayı anahtarı. |
+| anahtar | Int32 | Tam sayı anahtarı. |
 | keyName | ClassID | Anahtar adı. |
 | classID | ClassID | Sınıf tanımlayıcısı. |
 | className | String | Sınıfın adı. |
-| structures | OSTypeStructure[] | yapılar. |
+| yapılar | OSTypeStructure[] | Yapılar. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | sınıf kimliği boş |
+| ArgumentNullException | classID null |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

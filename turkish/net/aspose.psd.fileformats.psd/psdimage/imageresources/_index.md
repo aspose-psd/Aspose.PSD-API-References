@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. PSD görüntü kaynaklarını alır veya ayarlar.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. PSD görüntü kaynaklarını alır veya ayarlar"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
 PSD görüntü kaynaklarını alır veya ayarlar.
@@ -14,15 +15,15 @@ PSD görüntü kaynaklarını alır veya ayarlar.
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 PSD görüntü kaynakları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

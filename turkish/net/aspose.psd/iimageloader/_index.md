@@ -1,28 +1,29 @@
 ---
-title: Interface IImageLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageLoader arayüz. Resim yükleyici.
+title: "Arayüz IImageLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageLoader arayüz. Görüntü yükleyicisi"
 type: docs
-weight: 4450
+weight: 4950
 url: /tr/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-Resim yükleyici.
+Görüntü yükleyici.
 
 ```csharp
 public interface IImageLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | İle yeni bir resim açar*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Yeni bir görüntüyü *loadOptions* ile açar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

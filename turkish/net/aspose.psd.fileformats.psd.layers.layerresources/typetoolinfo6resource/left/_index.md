@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfo6Resource mülk. Sol konumu alır veya ayarlar.
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfo6Resource özelliği. Sol konumu alır veya ayarlar"
 type: docs
-weight: 80
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
 Sol konumu alır veya ayarlar.
@@ -14,14 +15,14 @@ Sol konumu alır veya ayarlar.
 public int Left { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sol konum.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfo6Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

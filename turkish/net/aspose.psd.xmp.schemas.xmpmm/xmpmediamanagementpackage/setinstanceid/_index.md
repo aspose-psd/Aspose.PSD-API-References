@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMediaManagementPackage yöntem. Örnek kimliğini ayarlar.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMediaManagementPackage yöntemi. Örnek kimliğini ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
 Örnek kimliğini ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstancei
 public void SetInstanceId(Guid guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | Guid | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetInstanceId(Guid guid)
 public void SetInstanceId(string guid)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | guid | String | Benzersiz tanımlayıcı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

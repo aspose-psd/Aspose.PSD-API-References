@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTask yöntem. Bu görevi çalıştırır.
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTask yöntemi. Bu görevi çalıştırır."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 Bu görevi çalıştırır.
@@ -14,11 +15,11 @@ Bu görevi çalıştırır.
 public void RunAsync()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ Bu görevi çalıştırır.
 public void RunAsync(ThreadPriority priority)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| priority | ThreadPriority | İş parçacığı önceliği. |
+| öncelik | ThreadPriority | İş parçacığı önceliği. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LayerGroup.IsOpen
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroup mülk. Alır veya ayarlar klasörü açılır olarak ayarlanırsadoğru grup başlangıçta açık durumda aksi takdirde küçültülmüş durumda olacaktır.
+title: "LayerGroup.IsOpen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroup özelliği. Klasörün açık olup olmadığını alır veya ayarlar; true olarak ayarlanırsa grup başlangıçta açık durumda olur, aksi takdirde küçültülmüş durumda olur."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/layergroup/isopen/
 ---
+{{< psd/tize >}}
 ## LayerGroup.IsOpen property
 
-Alır veya ayarlar klasörü açılır olarak ayarlanırsa`doğru` grup başlangıçta açık durumda, aksi takdirde küçültülmüş durumda olacaktır.
+Klasörün açık olup olmadığını alır veya ayarlar; `true` olarak ayarlanırsa grup başlangıçta açık durumda olur, aksi takdirde küçültülmüş durumda.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, IsOpen özelliği kullanılarak LayerGroup'un (Klasör) nasıl açılıp kapatılacağını gösterir.
+Aşağıdaki kod, IsOpen özelliğini kullanarak LayerGroup (Klasör) nasıl açıp kapatılacağını gösterir.
 
 ```csharp
 [C#]
@@ -46,10 +47,10 @@ using (var image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroup](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

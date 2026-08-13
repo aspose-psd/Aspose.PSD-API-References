@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList mülk. Öğeyi belirtilen dizinde alır veya ayarlar.
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList özelliği. Belirtilen indeksteki öğeyi alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-Öğeyi belirtilen dizinde alır veya ayarlar.
+Belirtilen indeksteki öğeyi alır veya ayarlar.
 
 ```csharp
 public object this[int index] { get; set; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| index | İçerik. |
+| index | İndeks. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantLab yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "ColorantLab.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantLab yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantLab.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantLab](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

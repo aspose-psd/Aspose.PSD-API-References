@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun yüz adını alırFont .
+title: "Font.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un yüz adını alır."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Bunun yüz adını alır[`Font`](../) .
+Bu [`Font`](../) öğesinin yüz adını alır.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bunun yüz adının dize temsili[`Font`](../).
+Bu [`Font`](../) öğesinin yüz adının dize temsili.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

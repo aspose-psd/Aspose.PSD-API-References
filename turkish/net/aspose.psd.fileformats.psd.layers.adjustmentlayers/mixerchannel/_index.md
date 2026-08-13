@@ -1,34 +1,35 @@
 ---
-title: Class MixerChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel sınıf. Mikser Kanalı. Kanal ham verileri için sarmalayıcıdır. MixrResource de kullanılır
+title: "Sınıf MixerChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel sınıf. MixerChannel. Kanal ham verileri için sarmalayıcısı. MixrResource içinde kullanılır."
 type: docs
-weight: 1780
+weight: 1850
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
-Mikser Kanalı. Kanal ham verileri için sarmalayıcıdır. MixrResource 'de kullanılır
+MixerChannel. Kanal ham verileri için bir sarmalayıcıdır. MixrResource içinde kullanılır.
 
 ```csharp
 public abstract class MixerChannel
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Channel. sabitini alır veya ayarlar. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Kanalın sabitini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Ham verileri alır. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Ham veriyi alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

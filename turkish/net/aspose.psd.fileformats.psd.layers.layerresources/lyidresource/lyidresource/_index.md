@@ -1,53 +1,54 @@
 ---
-title: LyidResource.LyidResource
-second_title: Aspose.PSD for .NET API Referansı
-description: LyidResource inşaatçı. Yeni bir örneğini başlatır.LyidResource sınıf.
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LyidResource yapıcı. LyidResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LyidResource`](../) sınıf.
+[`LyidResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LyidResource(int id)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | id | Int32 | Katmanın tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LyidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-Yeni bir örneğini başlatır.[`LyidResource`](../) class. Özel veya bilinmeyen değerle
+[`LyidResource`](../) sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen değerle
 
 ```csharp
 public LyidResource(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bytes | Byte[] | Baytlar. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz lyid Kaynak değeri |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz lyid Resource değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LyidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResourceVersion3 mülk. Renk uzayını alır.
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResourceVersion3 özelliği. Renk uzayını alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
 Renk uzayını alır.
@@ -14,14 +15,14 @@ Renk uzayını alır.
 public short ColorSpace { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk alanı.
+Renk uzayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResourceVersion3](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

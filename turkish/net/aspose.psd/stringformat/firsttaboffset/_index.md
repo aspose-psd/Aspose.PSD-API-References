@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Bir metin satırının başı ile ilk sekme durağı arasındaki boşluk sayısını alır.
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Bir metin satırının başlangıcı ile ilk sekme durağı arasındaki boşluk sayısını alır."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-Bir metin satırının başı ile ilk sekme durağı arasındaki boşluk sayısını alır.
+Bir metin satırının başlangıcı ile ilk sekme durağı arasındaki boşluk sayısını alır.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İlk sekme ofseti.
 
-### Notlar
+## Açıklamalar
 
-Özellik, kaldırılan yöntem GetTabStops için tanıtıldı.
+Bu özellik, kaldırılan GetTabStops yöntemi için tanıtıldı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

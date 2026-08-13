@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. tarafından belirtilen birimlerde sekme durakları arasındaki mesafelerin bir dizisini alır.PageUnit özellik.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. PageUnit özelliği tarafından belirtilen birimlerde sekme durakları arasındaki mesafelerin bir dizisini alır."
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-tarafından belirtilen birimlerde sekme durakları arasındaki mesafelerin bir dizisini alır.[`PageUnit`](../../graphics/pageunit/) özellik.
+[`PageUnit`](../../graphics/pageunit/) özelliği tarafından belirtilen birimlerde sekme durakları arasındaki mesafelerin bir dizisini alır.
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sekme durur.
+Sekme durakları.
 
-### Notlar
+## Açıklamalar
 
-Özellik, kaldırılan yöntem GetTabStops için tanıtıldı.
+Bu özellik, kaldırılan GetTabStops yöntemi için tanıtıldı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

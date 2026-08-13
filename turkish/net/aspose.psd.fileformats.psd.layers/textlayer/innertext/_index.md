@@ -1,27 +1,28 @@
 ---
-title: TextLayer.InnerText
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer mülk. Layer metninin metnini alır
+title: "TextLayer.InnerText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer özelliği. Katmanın metnini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/innertext/
 ---
+{{< psd/tize >}}
 ## TextLayer.InnerText property
 
-Layer metninin metnini alır
+Katmanın metnini alır
 
 ```csharp
 public string InnerText { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Metin.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

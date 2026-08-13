@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: PtFlResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "PtFlResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PtFlResource özelliği. katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PtFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

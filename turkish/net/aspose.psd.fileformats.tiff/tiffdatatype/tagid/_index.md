@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Etiket kimliğini alır.
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Etiket kimliğini alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
 Etiket kimliğini alır.
@@ -14,15 +15,15 @@ Etiket kimliğini alır.
 public TiffTags TagId { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Etiket kimliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

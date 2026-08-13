@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Pozlama önyargı değerini alır veya ayarlar.
+title: "ExifData.ExposureBiasValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Pozlama sapma değerini alır veya ayarlar"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
-Pozlama önyargı değerini alır veya ayarlar.
+Pozlama sapma değerini alır veya ayarlar.
 
 ```csharp
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Pozlama önyargı değeri.
+Pozlama sapması değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

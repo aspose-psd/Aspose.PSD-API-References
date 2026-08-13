@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Creator
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Yaratıcıyı alır veya ayarlar.
+title: "AiHeader.Creator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Oluşturucuyu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/creator/
 ---
+{{< psd/tize >}}
 ## AiHeader.Creator property
 
-Yaratıcıyı alır veya ayarlar.
+Oluşturucuyu alır veya ayarlar.
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yaratıcı.
+Oluşturucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

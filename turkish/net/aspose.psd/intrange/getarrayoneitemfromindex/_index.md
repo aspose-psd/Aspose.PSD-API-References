@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: IntRange yöntem. Belirtilen index den bir öğe dizisi döndürür
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IntRange yöntemi. Belirtilen indeksden tek öğelik bir dizi döndürür"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Belirtilen index 'den bir öğe dizisi döndürür
+Belirtilen indeksten tek öğelik bir dizi döndürür.
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | index | Int32 | Aralık indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dizisiInt32
+Int32 dizisi
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Dizin aralığın dışında |
+| ArgumentException | İndeks aralık dışında |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IntRange](../)
-* ad alanı [Aspose.PSD](../../intrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

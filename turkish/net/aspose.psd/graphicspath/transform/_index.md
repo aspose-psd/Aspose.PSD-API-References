@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Belirtilen dönüşümü şekle uygular.
+title: "GraphicsPath.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Belirtilen dönüşümü şekle uygular."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/graphicspath/transform/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Transform method
 
 Belirtilen dönüşümü şekle uygular.
@@ -14,15 +15,15 @@ Belirtilen dönüşümü şekle uygular.
 public override void Transform(Matrix transform)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transform | Matrix | Uygulanacak dönüşüm. |
+| dönüşüm | Matrix | Uygulanacak dönüşüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

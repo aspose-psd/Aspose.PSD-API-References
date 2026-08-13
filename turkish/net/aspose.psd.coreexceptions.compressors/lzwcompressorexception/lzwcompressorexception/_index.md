@@ -1,48 +1,49 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: Aspose.PSD for .NET API Referansı
-description: LzwCompressorException inşaatçı. Yeni bir örneğini başlatır.LzwCompressorException sınıf.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LzwCompressorException yapıcı. LzwCompressorException sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`LzwCompressorException`](../) sınıf.
+[`LzwCompressorException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LzwCompressorException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LzwCompressorException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LzwCompressorException`](../) sınıf.
+[`LzwCompressorException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LzwCompressorException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

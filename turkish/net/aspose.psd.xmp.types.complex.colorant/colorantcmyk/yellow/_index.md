@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Yellow
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk mülk. Sarı bileşen değerini alır veya ayarlar.
+title: "ColorantCmyk.Yellow"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk özelliği. Sarı bileşen değerini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Yellow property
 
 Sarı bileşen değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Sarı bileşen değerini alır veya ayarlar.
 public float Yellow { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sarı bileşen değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

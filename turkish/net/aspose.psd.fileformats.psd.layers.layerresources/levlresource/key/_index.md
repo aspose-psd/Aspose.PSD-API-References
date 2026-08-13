@@ -1,23 +1,24 @@
 ---
-title: LevlResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: LevlResource mülk. Katman kaynak anahtarını alır.
+title: "LevlResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevlResource özelliği. Katman kaynağı anahtarını alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/
 ---
+{{< psd/tize >}}
 ## LevlResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

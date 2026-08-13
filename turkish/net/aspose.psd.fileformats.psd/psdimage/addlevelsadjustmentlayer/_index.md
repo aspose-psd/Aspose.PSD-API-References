@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Düzeyler ayarlama katmanını ekler.
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage metodu. Levels ayar katmanını ekler"
 type: docs
-weight: 390
+weight: 410
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
-Düzeyler ayarlama katmanını ekler.
+Seviye ayar katmanını ekler.
 
 ```csharp
 public LevelsLayer AddLevelsAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulan Düzeyler katmanı
+Yeni oluşturulmuş bir Levels katmanı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Öğe sayısını alır.
+title: "TiffDataType.Count"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Eleman sayısını alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Count property
 
-Öğe sayısını alır.
+Eleman sayısını alır.
 
 ```csharp
 public abstract uint Count { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öğe sayısı.
+Eleman sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

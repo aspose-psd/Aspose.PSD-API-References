@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtileni dönüştürürPointF birPoint yuvarlayarak nesnePoint değerleri en yakın tamsayıya.
+title: "Point.Round"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen PointF'yi, Point değerlerini en yakın tam sayıya yuvarlayarak bir Point nesnesine dönüştürür."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-Belirtileni dönüştürür[`PointF`](../../pointf/) bir[`Point`](../) yuvarlayarak nesne[`Point`](../) değerleri en yakın tamsayıya.
+Belirtilen [`PointF`](../../pointf/) nesnesini, [`Point`](../) değerlerini en yakın tam sayıya yuvarlayarak bir [`Point`](../) nesnesine dönüştürür.
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../../pointf/) dönüştürmek. |
+| point | PointF | Dönüştürülecek [`PointF`](../../pointf/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Point`](../) bu yönteme dönüşür.
+Bu yöntemin dönüştürdüğü [`Point`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

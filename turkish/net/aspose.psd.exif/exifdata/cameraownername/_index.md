@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Kamera sahibi adını alır veya ayarlar
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Kamera sahibinin adını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-Kamera sahibi adını alır veya ayarlar
+Kamera sahibinin adını alır veya ayarlar
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kamera sahibinin adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

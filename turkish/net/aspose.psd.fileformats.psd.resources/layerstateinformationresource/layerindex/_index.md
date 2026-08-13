@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerStateInformationResource mülk. Katmanın dizinini alır veya ayarlar.
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerStateInformationResource özelliği. Katmanın indeksini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-Katmanın dizinini alır veya ayarlar.
+Katmanın indeksini alır veya ayarlar.
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katmanın dizini.
+Katmanın indeksi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerStateInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

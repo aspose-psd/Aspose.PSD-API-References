@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Hedef noktaya olan mesafeyi ifade etmek için kullanılan GPS birimini alır veya ayarlar.
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Hedef noktaya olan mesafeyi ifade etmek için kullanılan GPS birimini alır veya ayarlar"
 type: docs
 weight: 430
 url: /tr/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
 Hedef noktaya olan mesafeyi ifade etmek için kullanılan GPS birimini alır veya ayarlar.
@@ -14,14 +15,14 @@ Hedef noktaya olan mesafeyi ifade etmek için kullanılan GPS birimini alır vey
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Varış noktasına olan mesafeyi ifade etmek için kullanılan GPS birimi.
+Hedef noktaya olan mesafeyi ifade etmek için kullanılan GPS birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

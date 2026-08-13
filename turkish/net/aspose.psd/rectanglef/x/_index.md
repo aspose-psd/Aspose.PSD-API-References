@@ -1,27 +1,28 @@
 ---
-title: RectangleF.X
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Bunun sol üst köşesinin x koordinatını alır veya ayarlarRectangleFyapı.
+title: "RectangleF.X"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF yapısının sol üst köşesinin x koordinatını alır veya ayarlar"
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/rectanglef/x/
 ---
+{{< psd/tize >}}
 ## RectangleF.X property
 
-Bunun sol üst köşesinin x koordinatını alır veya ayarlar[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısının sol üst köşesinin x-koordinatını alır veya ayarlar.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun sol üst köşesinin x koordinatı[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının sol üst köşesinin x-koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

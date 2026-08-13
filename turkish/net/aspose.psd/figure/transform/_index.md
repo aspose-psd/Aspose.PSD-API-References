@@ -1,11 +1,12 @@
 ---
-title: Figure.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure yöntem. Belirtilen dönüşümü şekle uygular.
+title: "Figure.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure yöntemi. Belirtilen dönüşümü şekle uygular."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/figure/transform/
 ---
+{{< psd/tize >}}
 ## Figure.Transform method
 
 Belirtilen dönüşümü şekle uygular.
@@ -14,15 +15,15 @@ Belirtilen dönüşümü şekle uygular.
 public override void Transform(Matrix transform)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transform | Matrix | Uygulanacak dönüşüm. |
+| dönüşüm | Matrix | Uygulanacak dönüşüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

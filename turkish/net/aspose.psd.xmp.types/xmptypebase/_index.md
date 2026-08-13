@@ -1,29 +1,30 @@
 ---
-title: Class XmpTypeBase
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.XmpTypeBase sınıf. Temel XMP türü için temel sınıfı temsil eder.
+title: "XmpTypeBase sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.XmpTypeBase sınıfı. Temel XMP türü için temel sınıfı temsil eder"
 type: docs
-weight: 6200
+weight: 6730
 url: /tr/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
-Temel XMP türü için temel sınıfı temsil eder.
+Temel XMP tipi için temel sınıfı temsil eder.
 
 ```csharp
 public abstract class XmpTypeBase : IXmpType
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IXmpType](../ixmptype/)
-* ad alanı [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

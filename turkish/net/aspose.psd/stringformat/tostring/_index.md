@@ -1,27 +1,28 @@
 ---
-title: StringFormat.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat yöntem. Bunu dönüştürürStringFormat okunabilir bir dizeye itiraz.
+title: "StringFormat.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat yöntemi. Bu StringFormat nesnesini insan tarafından okunabilir bir dizeye dönüştürür."
 type: docs
-weight: 150
+weight: 180
 url: /tr/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-Bunu dönüştürür[`StringFormat`](../) okunabilir bir dizeye itiraz.
+Bu [`StringFormat`](../) nesnesini insan tarafından okunabilir bir dizeye dönüştürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun bir dize gösterimi[`StringFormat`](../) nesne.
+Bu [`StringFormat`](../) nesnesinin dize temsili.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

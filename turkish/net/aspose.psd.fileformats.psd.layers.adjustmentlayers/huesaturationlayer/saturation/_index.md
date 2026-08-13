@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Saturation
-second_title: Aspose.PSD for .NET API Referansı
-description: HueSaturationLayer mülk. Doygunluğu alır veya ayarlar.
+title: "HueSaturationLayer.Saturation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "HueSaturationLayer özelliği. Doygunluğu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/saturation/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Saturation property
 
 Doygunluğu alır veya ayarlar.
@@ -14,20 +15,20 @@ Doygunluğu alır veya ayarlar.
 public short Saturation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Doygunluk.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Doygunluk -100 ile +100 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Doygunluk -100 ile +100 arasında olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [HueSaturationLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor yöntem. Belirtilenin olup olmadığını belirler.Object  bu örneğe eşittir.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor metodu. Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir.
+Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject bu örnekle karşılaştırmak için. |
+| obj | Nesne | Bu örnek ile karşılaştırılacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen Nesne bu örnek ile eşitse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

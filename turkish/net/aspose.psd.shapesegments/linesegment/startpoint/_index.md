@@ -1,11 +1,12 @@
 ---
-title: LineSegment.StartPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: LineSegment mülk. Başlangıç noktasını alır.
+title: "LineSegment.StartPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LineSegment özelliği. Başlangıç noktasını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapesegments/linesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.StartPoint property
 
 Başlangıç noktasını alır.
@@ -14,15 +15,15 @@ Başlangıç noktasını alır.
 public override PointF StartPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Başlangıç noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* ad alanı [Aspose.PSD.ShapeSegments](../../linesegment/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Version.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: Version inşaatçı. Default_Constructor
+title: "Version.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Version yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/version/
 ---
+{{< psd/tize >}}
 ## Version constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public Version()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Version](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

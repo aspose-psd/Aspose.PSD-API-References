@@ -1,38 +1,39 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper yöntem. Paketi ad alanı URIsine göre alır.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper metodu. Paketi ad alanı URI'sine göre alır"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Paketi ad alanı URI'sine göre alır.
+Paket'i namespace URI'sine göre alır.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| namespaceUri | String | Paket şeması URI'si. |
+| namespaceUri | String | Paket şema URI'si. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirtilen ad alanı URI'si için XMP paketini döndürür.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | ad alanıUri |
+| ArgumentNullException | namespaceUri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

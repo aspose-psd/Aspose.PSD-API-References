@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Seek
-second_title: Aspose.PSD for .NET API Referansı
-description: SplitStreamContainer yöntem. Geçerli akış içindeki konumu ayarlar.
+title: "SplitStreamContainer.Seek"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SplitStreamContainer yöntemi. Geçerli akış içindeki konumu ayarlar."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/splitstreamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Seek method
 
 Geçerli akış içindeki konumu ayarlar.
@@ -14,20 +15,20 @@ Geçerli akış içindeki konumu ayarlar.
 public override long Seek(long offset, SeekOrigin origin)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| offset | Int64 | Göreceli bir bayt ofseti*origin* parametre. Bu değer, StreamContainer yapıcısında iletilen başlangıç akış konumundan sapmayı temsil eder. |
-| origin | SeekOrigin | türünde bir değerSeekOrigin yeni konumu elde etmek için kullanılan referans noktasını gösterir. |
+| offset | Int64 | *origin* parametresine göre bir bayt ofseti. Bu değer, StreamContainer yapıcısına geçirilen başlangıç akış konumundan ofseti temsil eder. |
+| origin | SeekOrigin | Yeni konumu elde etmek için kullanılan referans noktasını gösteren SeekOrigin tipinde bir değer. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Geçerli akış içindeki yeni konum.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [SplitStreamContainer](../)
-* ad alanı [Aspose.PSD](../../splitstreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

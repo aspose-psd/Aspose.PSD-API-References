@@ -1,35 +1,36 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions sınıf. Medyan filtre
+title: "MedianFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions sınıfı. Medyan filtre"
 type: docs
-weight: 4720
+weight: 5220
 url: /tr/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-Medyan filtre
+Orta değer filtresi
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Yeni bir örneğini başlatır.`MedianFilterOptions` sınıf. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | `MedianFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Boyutu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

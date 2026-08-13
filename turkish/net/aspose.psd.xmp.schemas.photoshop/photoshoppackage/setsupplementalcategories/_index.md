@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Ek kategorileri ayarlar.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Tamamlayıcı kategorileri ayarlar"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
 Ek kategorileri ayarlar.
@@ -14,14 +15,14 @@ Ek kategorileri ayarlar.
 public void SetSupplementalCategories(string[] supplementalCategories)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | supplementalCategories | String[] | Tamamlayıcı kategoriler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Katman maskesi maske verilerinin boyutunu alır.
+title: "LayerMaskData.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. Katman maskesi veri boyutunu alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
-Katman maskesi maske verilerinin boyutunu alır.
+Katman maskesi veri boyutunu alır.
 
 ```csharp
 public int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman maskesi maske verilerinin boyutu.
+Katman maskesi veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

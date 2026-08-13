@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage alan. Derecelendirme reddedildi değeri.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage alanı. Reddedilen derecelendirme değeri"
 type: docs
-weight: 120
+weight: 150
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-Derecelendirme reddedildi değeri.
+Derecelendirme reddedilen değeri.
 
 ```csharp
 public const int RatingRejected;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

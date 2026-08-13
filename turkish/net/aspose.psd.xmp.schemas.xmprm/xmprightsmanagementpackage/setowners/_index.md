@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRightsManagementPackage yöntem. Sahipleri ayarlar.
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRightsManagementPackage yöntemi. Sahipleri ayarlar."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
 Sahipleri ayarlar.
@@ -14,14 +15,14 @@ Sahipleri ayarlar.
 public void SetOwners(string[] owners)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | owners | String[] | Sahipler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRightsManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

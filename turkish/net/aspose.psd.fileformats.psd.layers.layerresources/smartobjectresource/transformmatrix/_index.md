@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.TransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin dönüşüm matrisini alır veya ayarlar.
+title: "SmartObjectResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin dönüşüm matrisini alır veya ayarlar"
 type: docs
-weight: 230
+weight: 210
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TransformMatrix property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin dönüşüm matrisini alır veya ayarlar.
+Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin dönüşüm matrisini.
 
 ```csharp
 public override double[] TransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Akıllı nesne katmanı verilerinin dönüşüm matrisi.
+Akıllı nesne katman verisinin dönüşüm matrisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.IsTemporal
-second_title: Aspose.PSD for .NET API Referansı
-description: FileCreateSource mülk. Dosyanın geçici olup olmayacağını gösteren bir değer alır.
+title: "FileCreateSource.IsTemporal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileCreateSource özelliği. Dosyanın geçici olup olmayacağını gösteren bir değer alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.sources/filecreatesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.IsTemporal property
 
-Dosyanın geçici olup olmayacağını gösteren bir değer alır.
+Dosyanın geçici olup olmayacağını gösteren bir değeri alır.
 
 ```csharp
 public override bool IsTemporal { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` dosya geçici olacaksa; aksi takdirde,`YANLIŞ`.
+`true` eğer dosya geçici olacaksa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileCreateSource](../)
-* ad alanı [Aspose.PSD.Sources](../../filecreatesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

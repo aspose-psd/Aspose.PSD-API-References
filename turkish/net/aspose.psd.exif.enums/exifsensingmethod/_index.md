@@ -1,34 +1,35 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod Sıralama. exif algılama yöntemi numaralandırması.
+title: "Enum ExifSensingMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod enum. exif sensing method enum"
 type: docs
-weight: 940
+weight: 950
 url: /tr/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-exif algılama yöntemi numaralandırması.
+exif algılama yöntemi sayımı.
 
 ```csharp
 public enum ExifSensingMethod
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Notdefined | `1` | Tanımlanmadı. |
-| OneChipColorArea | `2` | Tek çipli renk alanı. |
-| TwoChipColorArea | `3` | İki çipli renk alanı. |
-| ThreeChipColorArea | `4` | Üç çipli renk alanı. |
-| Colorsequentialarea | `5` | Renkli Sıralı alan. |
-| Trilinearsensor | `7` | Üç doğrusal sensör. |
+| Notdefined | `1` | Tanımlanmamış. |
+| OneChipColorArea | `2` | Tek çip renk alanı. |
+| TwoChipColorArea | `3` | İki çip renk alanı. |
+| ThreeChipColorArea | `4` | Üç çip renk alanı. |
+| Colorsequentialarea | `5` | Renk sıralı alan. |
+| Trilinearsensor | `7` | Trilinear sensör. |
 | Colorsequentiallinear | `8` | Renk sıralı lineer sensör. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

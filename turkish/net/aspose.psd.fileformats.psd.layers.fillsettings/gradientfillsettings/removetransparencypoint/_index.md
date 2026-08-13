@@ -1,28 +1,29 @@
 ---
-title: GradientFillSettings.RemoveTransparencyPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings yöntem. Saydamlık noktasını kaldırır.
+title: "GradientFillSettings.RemoveTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings metodu. Şeffaflık noktasını kaldırır"
 type: docs
-weight: 180
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveTransparencyPoint method
 
-Saydamlık noktasını kaldırır.
+Şeffaflık noktasını kaldırır.
 
 ```csharp
 public void RemoveTransparencyPoint(IGradientTransparencyPoint point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | IGradientTransparencyPoint | Nokta. |
+| nokta | IGradientTransparencyPoint | Nokta. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

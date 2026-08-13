@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpTrailerPi yöntem. Bu örnek için bir karma kod döndürür.
+title: "XmpTrailerPi.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpTrailerPi yöntemi. Bu örnek için bir hash kodu döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmptrailerpi/gethashcode/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.GetHashCode method
 
-Bu örnek için bir karma kod döndürür.
+Bu örnek için bir hash kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu örnek için karma algoritmalarda ve karma tablo gibi veri yapılarında kullanıma uygun bir karma kodu.
+Bu örnek için bir karma kodu, karma algoritmaları ve karma tablo gibi veri yapılarında kullanılmaya uygundur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

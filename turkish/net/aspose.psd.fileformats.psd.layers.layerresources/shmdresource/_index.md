@@ -1,11 +1,12 @@
 ---
-title: Class ShmdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource sınıf. Sınıf ShmdResource. Meta veri ayarları
+title: "Sınıf ShmdResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource sınıf. ShmdResource sınıf. Meta veri ayarları"
 type: docs
-weight: 2980
+weight: 3330
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource class
 
 Sınıf ShmdResource. Meta veri ayarları
@@ -14,42 +15,42 @@ Sınıf ShmdResource. Meta veri ayarları
 public class ShmdResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ShmdResource](shmdresource/#constructor)() | Yeni bir örneğini başlatır.`ShmdResource` sınıf. |
-| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`ShmdResource` sınıf. |
+| [ShmdResource](shmdresource/#constructor)() | Yeni bir `ShmdResource` sınıf örneği başlatır. |
+| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Yeni bir `ShmdResource` sınıf örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Katmanın oluşturulma süresini alır veya ayarlar. Katmanın oluşturulma zamanı belirtilmemişse, yeni DateTime(0) değerini döndürür. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature/) { get; } | İmzayı alır. |
-| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Shmd kaynağının alt kaynaklarını alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Katmanın oluşturulma zamanını alır veya ayarlar. Katman oluşturulma zamanı belirtilmemişse yeni DateTime(0) döndürür. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | shmd kaynağının alt kaynaklarını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Alt kaynak başlığı uzunluğu |
+| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Alt kaynak başlık uzunluğu |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

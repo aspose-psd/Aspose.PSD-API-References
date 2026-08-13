@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreatorsRegistry yöntem. Oluşturanın kaydını siler.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreatorsRegistry metodu. Oluşturucunun kaydını kaldırır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-Oluşturanın kaydını siler.
+Oluşturucunun kaydını kaldırır.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | creatorDescriptor | IImageCreatorDescriptor | Oluşturucu tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ad alanı [Aspose.PSD](../../imagecreatorsregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Aspose.PSD for .NET API Referansı
-description: FixedPointDecimal yöntem. Geçerli sabit noktalı ondalık sayıyı çifte dönüştürür.
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FixedPointDecimal yöntemi. Mevcut sabit noktalı ondalığı double'a dönüştürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-Geçerli sabit noktalı ondalık sayıyı çifte dönüştürür.
+Mevcut sabit noktalı ondalığı double türüne dönüştürür.
 
 ```csharp
 public double ToDouble()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dönüştürülen değer.
+Dönüştürülmüş değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FixedPointDecimal](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class BezierSegment
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ShapeSegments.BezierSegment sınıf. Bir noktadan bir sonraki noktaya giden ve iki kontrol noktası kullanan bezier segmenti.
+title: "Sınıf BezierSegment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ShapeSegments.BezierSegment sınıfı. Bir noktadan bir sonraki noktaya giden ve iki kontrol noktası kullanan bezier segmenti."
 type: docs
-weight: 5440
+weight: 5970
 url: /tr/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
 Bir noktadan bir sonraki noktaya giden ve iki kontrol noktası kullanan bezier segmenti.
@@ -14,25 +15,25 @@ Bir noktadan bir sonraki noktaya giden ve iki kontrol noktası kullanan bezier s
 public sealed class BezierSegment : LineSegment
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | Yeni bir örneğini başlatır.`BezierSegment` sınıf. |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | `BezierSegment` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Bitiş noktasını alır. |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Bezier spline'ın ilk kontrol noktasını alır. |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Bezier spline'ın ikinci kontrol noktasını alır. |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | Bir bezier spline'ının ilk kontrol noktasını alır. |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | Bir bezier spline'ının ikinci kontrol noktasını alır. |
 | override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Başlangıç noktasını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LineSegment](../linesegment/)
-* ad alanı [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

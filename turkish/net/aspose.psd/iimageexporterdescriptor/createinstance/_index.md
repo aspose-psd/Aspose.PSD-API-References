@@ -1,11 +1,12 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageExporterDescriptor yöntem. Yeni bir dışa aktarıcı örneği oluşturur.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageExporterDescriptor yöntemi. Yeni bir dışa aktarıcı örneği oluşturur"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
 Yeni bir dışa aktarıcı örneği oluşturur.
@@ -14,15 +15,15 @@ Yeni bir dışa aktarıcı örneği oluşturur.
 public IImageExporter CreateInstance()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni bir ihracatçı örneği.
+Yeni bir dışa aktarıcı örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimageexporterdescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

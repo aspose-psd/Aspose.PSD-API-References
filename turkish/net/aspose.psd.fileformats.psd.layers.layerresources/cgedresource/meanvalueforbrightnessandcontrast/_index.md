@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Parlaklık ve kontrast için ortalama değeri alır veya ayarlar.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Parlaklık ve kontrast için ortalama değeri alır veya ayarlar"
 type: docs
-weight: 80
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
 Parlaklık ve kontrast için ortalama değeri alır veya ayarlar.
@@ -14,14 +15,14 @@ Parlaklık ve kontrast için ortalama değeri alır veya ayarlar.
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Parlaklık ve kontrast için ortalama değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

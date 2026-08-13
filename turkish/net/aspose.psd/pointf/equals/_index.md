@@ -1,31 +1,32 @@
 ---
-title: PointF.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. Bunun olup olmadığını belirtirPointF belirtilenle aynı koordinatları içerirObject .
+title: "PointF.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. Bu PointF'nin belirtilen Nesne ile aynı koordinatları içerip içermediğini belirtir."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/pointf/equals/
 ---
+{{< psd/tize >}}
 ## PointF.Equals method
 
-Bunun olup olmadığını belirtir[`PointF`](../) belirtilenle aynı koordinatları içerirObject .
+Bu [`PointF`](../) yapısının belirtilen Nesne ile aynı koordinatları içerip içermediğini belirtir.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject test etmek |
+| obj | Nesne | Test edilecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem şu durumlarda true değerini döndürür:*obj* bir[`PointF`](../) ve bununla aynı koordinatlara sahip[`Point`](../../point/).
+Bu yöntem, *obj* bir [`PointF`](../) ise ve bu [`Point`](../../point/) ile aynı koordinatlara sahipse doğru döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

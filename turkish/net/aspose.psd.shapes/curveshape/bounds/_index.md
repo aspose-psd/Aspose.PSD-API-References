@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: CurveShape mülk. Nesnenin sınırlarını alır.
+title: "CurveShape.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurveShape özelliği. Nesnenin sınırlarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapes/curveshape/bounds/
 ---
+{{< psd/tize >}}
 ## CurveShape.Bounds property
 
 Nesnenin sınırlarını alır.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır.
 public override RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen kesik çizgiler için kullanılan stili alır veya ayarlarPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen kesikli çizgiler için kullanılan stili alır veya ayarlar."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-Bununla çizilen kesik çizgiler için kullanılan stili alır veya ayarlar[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen kesikli çizgiler için kullanılan stili alır veya ayarlar.
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A`DashStyle` bununla çizilen kesikli çizgiler için kullanılan stili temsil eden[`Pen`](../).
+Bu [`Pen`](../) ile çizilen kesikli çizgiler için kullanılan stili temsil eden bir `DashStyle`.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`DashStyle` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `DashStyle` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

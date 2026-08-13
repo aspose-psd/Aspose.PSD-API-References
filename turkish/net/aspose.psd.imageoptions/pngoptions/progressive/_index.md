@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD for .NET API Referansı
-description: PngOptions mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.PngOptions aşamalıdır.
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PngOptions özelliği. Bu PngOptions'ın ilerleyici olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`PngOptions`](../) aşamalıdır.
+Bu [`PngOptions`](../) ilerleyici olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ilerici ise; aksi takdirde,`YANLIŞ` .
+İlerleyici ise `true`; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

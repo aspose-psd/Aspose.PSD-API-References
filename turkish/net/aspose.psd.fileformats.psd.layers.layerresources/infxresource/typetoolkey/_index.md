@@ -1,11 +1,12 @@
 ---
-title: InfxResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: InfxResource alan. Tip aracı bilgi anahtarı.
+title: "InfxResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InfxResource alanı. Tür aracı bilgi anahtarı"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## InfxResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InfxResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

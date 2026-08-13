@@ -1,70 +1,71 @@
 ---
-title: ArcShape.ArcShape
-second_title: Aspose.PSD for .NET API Referansı
-description: ArcShape inşaatçı. Yeni bir örneğini başlatır.ArcShape sınıf.
+title: "ArcShape.ArcShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ArcShape yapıcı. Yeni bir ArcShape sınıfının bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/arcshape/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`ArcShape`](../) sınıf.
+Yeni bir [`ArcShape`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ArcShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ArcShape`](../) sınıf.
+Yeni bir [`ArcShape`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
 | startAngle | Single | Başlangıç açısı. |
 | sweepAngle | Single | Tarama açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float, bool) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`ArcShape`](../) sınıf.
+Yeni bir [`ArcShape`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool isClosed)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
 | startAngle | Single | Başlangıç açısı. |
 | sweepAngle | Single | Tarama açısı. |
-| isClosed | Boolean | olarak ayarlanırsa`doğru` ark kapalıdır. Kapalı yay aslında bir elipse dönüşür. |
+| isClosed | Boolean | Eğer `true` olarak ayarlanırsa yay kapalıdır. Kapalı yay aslında bir elipse haline gelir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

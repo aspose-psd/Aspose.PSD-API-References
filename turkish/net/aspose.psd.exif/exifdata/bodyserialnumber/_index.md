@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Kamera gövde seri numarasını alır veya ayarlar.
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Kamera gövde seri numarasını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-Kamera gövde seri numarasını alır veya ayarlar.
+Kamera gövdesi seri numarasını alır veya ayarlar.
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gövde seri numarası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

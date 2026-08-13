@@ -1,43 +1,44 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: PathFillRuleRecord inşaatçı. Yeni bir örneğini başlatır.PathFillRuleRecord sınıf.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathFillRuleRecord yapıcı. PathFillRuleRecord sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-Yeni bir örneğini başlatır.[`PathFillRuleRecord`](../) sınıf.
+Yeni bir [`PathFillRuleRecord`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public PathFillRuleRecord()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PathFillRuleRecord`](../) sınıf.
+Yeni bir [`PathFillRuleRecord`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kayıt verileri. |
+| veri | Byte[] | Kayıt verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

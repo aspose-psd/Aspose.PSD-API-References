@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. içinde bulunan öğelerin sayısını alırICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. ICollection içinde bulunan öğe sayısını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-içinde bulunan öğelerin sayısını alırICollection .
+ICollection içinde bulunan eleman sayısını alır.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-İçinde bulunan elementlerin sayısıICollection.
+ICollection içinde bulunan öğe sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

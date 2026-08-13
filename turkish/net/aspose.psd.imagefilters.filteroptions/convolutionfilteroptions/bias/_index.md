@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD for .NET API Referansı
-description: ConvolutionFilterOptions mülk. Sapmayı alır veya ayarlar.
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ConvolutionFilterOptions özelliği. bias değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
 Sapmayı alır veya ayarlar.
@@ -14,14 +15,14 @@ Sapmayı alır veya ayarlar.
 public int Bias { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sapma.
+bias.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ConvolutionFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

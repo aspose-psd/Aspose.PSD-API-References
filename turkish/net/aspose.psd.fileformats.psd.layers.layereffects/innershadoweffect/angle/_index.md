@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Açıyı derece cinsinden alır veya ayarlar.
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Açıyı derece cinsinden alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
 Açıyı derece cinsinden alır veya ayarlar.
@@ -14,14 +15,14 @@ Açıyı derece cinsinden alır veya ayarlar.
 public int Angle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

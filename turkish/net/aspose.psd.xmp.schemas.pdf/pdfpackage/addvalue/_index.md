@@ -1,34 +1,35 @@
 ---
-title: PdfPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfPackage yöntem. Dizi özelliğini ekler.
+title: "PdfPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfPackage yöntemi. Dize özelliği ekler."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PdfPackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | key;Pdf özelliği boş olamaz |
+| ArgumentNullException | key;Pdf özelliği null olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

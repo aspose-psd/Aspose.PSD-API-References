@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry mülk. Kayıtlı resim yükleme formatlarını alır.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry özelliği. Kayıtlı görüntü yükleme biçimlerini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-Kayıtlı resim yükleme formatlarını alır.
+Kayıtlı görüntü yükleme formatlarını alır.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayıtlı resim yükleme formatları.
+Kayıtlı görüntü yükleme biçimleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GifOptions.XmpData
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. XMP meta veri kapsayıcısını alır veya ayarlar.
+title: "GifOptions.XmpData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. XMP meta veri kapsayıcısını alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## GifOptions.XmpData property
 
 XMP meta veri kapsayıcısını alır veya ayarlar.
@@ -14,15 +15,15 @@ XMP meta veri kapsayıcısını alır veya ayarlar.
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-XMP veri kabı.
+XMP veri kapsayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

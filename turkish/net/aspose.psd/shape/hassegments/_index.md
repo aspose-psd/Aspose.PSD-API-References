@@ -1,27 +1,28 @@
 ---
-title: Shape.HasSegments
-second_title: Aspose.PSD for .NET API Referansı
-description: Shape mülk. Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+title: "Shape.HasSegments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Shape özelliği. Şeklin segmentlere sahip olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/shape/hassegments/
 ---
+{{< psd/tize >}}
 ## Shape.HasSegments property
 
-Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+Şeklin segmentlere sahip olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public abstract bool HasSegments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` şeklin bölümleri varsa; aksi takdirde,`YANLIŞ` .
+`True` eğer şekil segment içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Shape](../)
-* ad alanı [Aspose.PSD](../../shape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Ses kanalı türünü ayarlar.
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Ses kanal tipini ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
-Ses kanalı türünü ayarlar.
+Ses kanal türünü ayarlar.
 
 ```csharp
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| audioChannelType | AudioChannelType | Ses kanalı türü. |
+| audioChannelType | AudioChannelType | Ses kanal tipi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum AiFormatVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion Sıralama. Adobe Illustrator Sürümü
+title: "Enum AiFormatVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Ai.AiFormatVersion enum. Adobe Illustrator Sürümü"
 type: docs
-weight: 1240
+weight: 1250
 url: /tr/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
 Adobe Illustrator Sürümü
@@ -14,18 +15,21 @@ Adobe Illustrator Sürümü
 public enum AiFormatVersion
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| PsAdobe20 | `0` | PS-Adobe-2.0 Başlığı |
-| PsAdobe30 | `1` | PS-Adobe-3.0 Başlığı |
-| Pdf14 | `2` | PDF-1.4 Başlığı |
-| Pdf15 | `3` | PDF-1.5 Başlığı |
+| PsAdobeEpsf | `0` | PS-Adobe EPSF Başlığı |
+| PsAdobe20 | `1` | PS-Adobe-2.0 Başlığı |
+| PsAdobe30 | `2` | PS-Adobe-3.0 Başlığı |
+| Pdf14 | `3` | PDF-1.4 Başlığı |
+| Pdf15 | `4` | PDF-1.5 Başlığı |
+| Pdf16 | `5` | PDF-1.6 Başlığı |
+| Pdf17 | `6` | PDF-1.7 Başlığı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

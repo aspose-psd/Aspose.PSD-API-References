@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD for .NET API Referansı
-description: FileOpenSource inşaatçı. Yeni bir örneğini başlatır.FileOpenSource sınıf.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileOpenSource yapıcı. FileOpenSource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Yeni bir örneğini başlatır.[`FileOpenSource`](../) sınıf.
+[`FileOpenSource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Açılacak dosya yolu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileOpenSource](../)
-* ad alanı [Aspose.PSD.Sources](../../fileopensource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

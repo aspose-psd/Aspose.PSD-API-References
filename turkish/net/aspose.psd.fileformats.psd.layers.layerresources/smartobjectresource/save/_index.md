@@ -1,29 +1,30 @@
 ---
-title: SmartObjectResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource yöntem. Akıllı nesne kaynağını belirtilen akış kapsayıcısına kaydeder.
+title: "SmartObjectResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource metodu. Akıllı nesne kaynağını belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 260
+weight: 240
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Save method
 
-Akıllı nesne kaynağını belirtilen akış kapsayıcısına kaydeder.
+Kaydeder akıllı nesne kaynağını belirtilen akış konteynerine.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

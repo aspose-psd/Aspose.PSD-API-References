@@ -1,28 +1,29 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD for .NET API Referansı
-description: TextShape mülk. Metni çizmek için kullanılan yazı tipini alır veya ayarlar.
+title: "TextShape.Font"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextShape özelliği. Metni çizmek için kullanılan yazı tipini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
-Metni çizmek için kullanılan yazı tipini alır veya ayarlar.
+Metni çizmeye kullanılan yazı tipini alır veya ayarlar.
 
 ```csharp
 public Font Font { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Metni çizmek için kullanılan yazı tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../textshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

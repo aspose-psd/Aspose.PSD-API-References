@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.CacheData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Verileri önbelleğe alır ve temelden ek veri yüklemesi yapılmamasını sağlarDataStreamContainer .
+title: "RasterCachedImage.CacheData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage metodu. Verileri önbelleğe alır ve temel DataStreamContainer'dan ek veri yüklemesi yapılmayacağını garanti eder"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/rastercachedimage/cachedata/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.CacheData method
 
-Verileri önbelleğe alır ve temelden ek veri yüklemesi yapılmamasını sağlar[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) .
+Verileri önbelleğe alır ve temel [`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) üzerinden ek veri yüklemesi yapılmayacağını garanti eder.
 
 ```csharp
 public override void CacheData()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

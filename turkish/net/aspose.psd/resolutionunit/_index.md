@@ -1,30 +1,31 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ResolutionUnit Sıralama. Çözünürlük birimi numaralandırması.
+title: "Enum ResolutionUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ResolutionUnit enum. Çözünürlük birimi enum"
 type: docs
-weight: 5390
+weight: 5920
 url: /tr/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Çözünürlük birimi numaralandırması.
+Çözünürlük birimi enum'ı.
 
 ```csharp
 public enum ResolutionUnit : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `0` | Tanımsız birimler |
 | Inch | `1` | İnç birimleri |
 | Cm | `2` | Metrik santimetre birimleri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

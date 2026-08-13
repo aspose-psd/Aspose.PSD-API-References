@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternId
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResourceData mülk. Model tanımlayıcısını alır veya ayarlar.
+title: "PattResourceData.PatternId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResourceData özelliği. Desen tanımlayıcısını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternId property
 
-Model tanımlayıcısını alır veya ayarlar.
+Desen tanımlayıcısını alır veya ayarlar.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Desen tanımlayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResourceData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

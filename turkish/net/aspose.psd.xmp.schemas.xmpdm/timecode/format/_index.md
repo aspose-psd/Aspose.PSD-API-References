@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: Aspose.PSD for .NET API Referansı
-description: Timecode mülk. Kullanılan biçimi alır veya ayarlar.TimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Timecode özelliği. TimeValue içinde kullanılan formatı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-Kullanılan biçimi alır veya ayarlar.[`TimeValue`](../timevalue/) .
+[`TimeValue`](../timevalue/) içinde kullanılan formatı alır veya ayarlar.
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kullanılan biçim[`TimeValue`](../timevalue/) .
+[`TimeValue`](../timevalue/) içinde kullanılan format.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

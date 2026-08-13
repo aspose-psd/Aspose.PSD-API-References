@@ -1,52 +1,53 @@
 ---
-title: Class ColorPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorPalette sınıf. Bir renk paleti oluşturan bir renk dizisini tanımlar. Renkler 32 bit ARGB renkleridir. Kalıtsal değil.
+title: "Sınıf ColorPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorPalette sınıfı. Bir renk paletini oluşturan renk dizisini tanımlar. Renkler 32 bit ARGB renkleridir. Kalıtılamaz"
 type: docs
 weight: 370
 url: /tr/net/aspose.psd/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette class
 
-Bir renk paleti oluşturan bir renk dizisini tanımlar. Renkler 32 bit ARGB renkleridir. Kalıtsal değil.
+Bir renk paletini oluşturan renklerin bir dizisini tanımlar. Renkler 32-bit ARGB renkleridir. Kalıtılamaz.
 
 ```csharp
 public sealed class ColorPalette : IColorPalette
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ColorPalette](colorpalette/#constructor)(Color[]) | Yeni bir örneğini başlatır.`ColorPalette` class ve IsCompactPalette false. |
-| [ColorPalette](colorpalette/#constructor_2)(int[]) | Yeni bir örneğini başlatır.`ColorPalette` class ve IsCompactPalette false. |
-| [ColorPalette](colorpalette/#constructor_1)(Color[], bool) | Yeni bir örneğini başlatır.`ColorPalette` sınıf. |
-| [ColorPalette](colorpalette/#constructor_3)(int[], bool) | Yeni bir örneğini başlatır.`ColorPalette` sınıf. |
+| [ColorPalette](colorpalette/#constructor)(Color[]) | `ColorPalette` sınıfının yeni bir örneğini başlatır ve IsCompactPalette false'tur. |
+| [ColorPalette](colorpalette/#constructor_2)(int[]) | `ColorPalette` sınıfının yeni bir örneğini başlatır ve IsCompactPalette false'tur. |
+| [ColorPalette](colorpalette/#constructor_1)(Color[], bool) | `ColorPalette` sınıfının yeni bir örneğini başlatır. |
+| [ColorPalette](colorpalette/#constructor_3)(int[], bool) | `ColorPalette` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Argb32Entries](../../aspose.psd/colorpalette/argb32entries/) { get; } | 32-bit ARGB yapıları dizisi alır. |
-| [Entries](../../aspose.psd/colorpalette/entries/) { get; } | Bir dizi alır[`Color`](../color/) yapılar. |
+| [Argb32Entries](../../aspose.psd/colorpalette/argb32entries/) { get; } | 32 bit ARGB yapılarının bir dizisini alır. |
+| [Entries](../../aspose.psd/colorpalette/entries/) { get; } | [`Color`](../color/) yapıların bir dizisini alır. |
 | [EntriesCount](../../aspose.psd/colorpalette/entriescount/) { get; } | Giriş sayısını alır. |
-| [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette/) { get; } | Kompakt paletin kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar. |
+| [IsCompactPalette](../../aspose.psd/colorpalette/iscompactpalette/) { get; } | Kompakt paletin kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette)(IColorPalette) | Paleti kopyalar. |
 | static [CopyPalette](../../aspose.psd/colorpalette/copypalette/#copypalette_1)(IColorPalette, bool) | Paleti kopyalar. |
-| [GetArgb32Color](../../aspose.psd/colorpalette/getargb32color/)(int) | Dizine göre 32 bit ARGB palet rengini alır. |
-| [GetColor](../../aspose.psd/colorpalette/getcolor/)(int) | Palet rengini indekse göre alır. |
+| [GetArgb32Color](../../aspose.psd/colorpalette/getargb32color/)(int) | İndeks ile 32 bit ARGB palet rengini alır. |
+| [GetColor](../../aspose.psd/colorpalette/getcolor/)(int) | İndeks ile palet rengini alır. |
 | [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | En yakın rengin indeksini alır. |
 | [GetNearestColorIndex](../../aspose.psd/colorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | En yakın rengin indeksini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../icolorpalette/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

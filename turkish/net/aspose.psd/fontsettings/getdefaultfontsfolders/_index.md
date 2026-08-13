@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Varsayılan yazı tipi klasörlerini alır.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Varsayılan yazı tipi klasörlerini alır"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 Varsayılan yazı tipi klasörlerini alır.
@@ -14,14 +15,14 @@ Varsayılan yazı tipi klasörlerini alır.
 public static string[] GetDefaultFontsFolders()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Sistem klasörünü döndürür
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

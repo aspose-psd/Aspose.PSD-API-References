@@ -1,30 +1,31 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: Aspose.PSD for .NET API Referansı
-description: IRasterImagePixelLoader yöntem. Pikselleri kısmen yükler bloklar halinde.
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IRasterImagePixelLoader yöntemi. Pikselleri bloklar halinde kısmen yükler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-Pikselleri kısmen yükler (bloklar halinde).
+Pikselleri kısmen (bloklar halinde) yükler.
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksellerin yükleneceği dikdörtgen. |
+| dikdörtgen | Rectangle | Piksellerin yükleneceği dikdörtgen. |
 | partialPixelLoader | IPartialPixelLoader | Kısmi piksel yükleyici. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* ad alanı [Aspose.PSD](../../irasterimagepixelloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

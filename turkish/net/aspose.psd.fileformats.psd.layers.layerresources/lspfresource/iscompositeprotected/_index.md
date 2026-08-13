@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD for .NET API Referansı
-description: LspfResource mülk. Bu örneğin bileşik korumalı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LspfResource özelliği. Bu örneğin birleşik korumalı olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Bu örneğin bileşik korumalı olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin birleşik korumalı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek bileşik korumalıysa; aksi takdirde,`YANLIŞ` .
+`true` bu örnek birleşik korumalıysa; aksi takdirinde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LspfResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

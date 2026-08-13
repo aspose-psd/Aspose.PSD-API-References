@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bu belgenin işlenmesinde meydana gelen üst düzey bir olay olan sınıfı içerir.
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, bu belgenin işlenmesi sırasında meydana gelen yüksek seviyeli bir olayı temsil eden sınıfı içerir"
 type: docs
-weight: 660
+weight: 700
 url: /tr/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
-Ad alanı, bu belgenin işlenmesinde meydana gelen üst düzey bir olay olan sınıfı içerir.
+{{< psd/tize >}}
+Namespace, bu belgenin işlenmesi sırasında gerçekleşen yüksek seviyeli bir olayı temsil eden sınıfı içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ResourceEvent](./resourceevent/) | Çizilmiş bir nesne için boyutları içeren. |
+| [ResourceEvent](./resourceevent/) | Çizilmiş bir nesne için boyutları içerir. |
 
 

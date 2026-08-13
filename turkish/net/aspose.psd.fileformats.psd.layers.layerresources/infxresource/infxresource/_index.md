@@ -1,69 +1,70 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD for .NET API Referansı
-description: InfxResource inşaatçı. Yeni bir örneğini başlatır.InfxResource sınıf.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InfxResource constructor. InfxResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`InfxResource`](../) sınıf.
+[`InfxResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | olarak ayarlanmışsa`doğru` [iç elemanları karıştırın]. |
+| blendInteriorElements | Boolean | eğer `true` olarak ayarlanırsa [blend interior elements]. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InfxResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`InfxResource`](../) sınıf.
+[`InfxResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public InfxResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InfxResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`InfxResource`](../) class. Özel veya bilinmeyen değerle
+Yeni bir [`InfxResource`](../) sınıfı örneği başlatır. Özel veya bilinmeyen değer ile
 
 ```csharp
 public InfxResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynak verileri. |
+| veri | Byte[] | Kaynak veri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentException | Geçersiz infx Kaynak değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InfxResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

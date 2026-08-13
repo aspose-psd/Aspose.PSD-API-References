@@ -1,27 +1,28 @@
 ---
-title: LinkResource.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkResource mülk. Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değer alır.
+title: "LinkResource.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkResource özelliği. Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
-Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değer alır.
+Bu bağlantı kaynağı örneğinin boş olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu bağlantı kaynağı boşsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu bağlantı kaynağı boşsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

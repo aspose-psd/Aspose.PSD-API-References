@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SubFileType
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Bu alt dosyada bulunan veri türünün genel bir göstergesini alır veya ayarlar.
+title: "TiffOptions.SubFileType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Bu alt dosyada bulunan veri türünün genel bir göstergesini alır veya ayarlar"
 type: docs
-weight: 480
+weight: 490
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/subfiletype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SubFileType property
 
 Bu alt dosyada bulunan veri türünün genel bir göstergesini alır veya ayarlar.
@@ -14,15 +15,15 @@ Bu alt dosyada bulunan veri türünün genel bir göstergesini alır veya ayarla
 public TiffNewSubFileTypes SubFileType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bu alt dosyada bulunan veri türlerinin genel göstergesi.
+Bu alt dosyada bulunan veri türünün genel göstergesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffNewSubFileTypes](../../../aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

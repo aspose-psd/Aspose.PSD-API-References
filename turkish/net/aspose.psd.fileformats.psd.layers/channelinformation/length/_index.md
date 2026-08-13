@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: ChannelInformation mülk. Kanal uzunluğunu bayt cinsinden alır.
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ChannelInformation özelliği. Kanal uzunluğunu bayt cinsinden alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
 Kanal uzunluğunu bayt cinsinden alır.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Uzunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ChannelInformation](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

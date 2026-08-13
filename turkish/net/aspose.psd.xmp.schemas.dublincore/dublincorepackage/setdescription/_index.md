@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Açıklamayı ekler.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Açıklamayı ekler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Açıklamayı ekler.
@@ -14,15 +15,15 @@ Açıklamayı ekler.
 public void SetDescription(string desc)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| desc | String | Tanım. |
+| desc | String | Açıklama. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Açıklamayı ekler.
 public void SetDescription(LangAlt desc)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| desc | LangAlt | Tanım. |
+| desc | LangAlt | Açıklama. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

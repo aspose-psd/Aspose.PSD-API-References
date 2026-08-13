@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ExportContents
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectLayer yöntem. Katıştırılmış veya bağlantılı içerikleri bir dosyaya aktarır.
+title: "SmartObjectLayer.ExportContents"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectLayer yöntemi. Gömülü veya bağlantılı içerikleri bir dosyaya dışa aktarır"
 type: docs
-weight: 100
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/exportcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ExportContents method
 
-Katıştırılmış veya bağlantılı içerikleri bir dosyaya aktarır.
+Gömülü veya bağlı içerikleri bir dosyaya dışa aktarır.
 
 ```csharp
 public void ExportContents(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| filePath | String | Dışa aktarma dosyası yolu. |
+| filePath | String | Dışa aktarma dosya yolu. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Katıştırılmış Akıllı nesnelerin desteğini gösterir.
+Aşağıdaki kod, Gömülü Akıllı nesnelerin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, PSD dosyasındaki akıllı nesne katmanının nasıl değiştirileceğini ve akıllı nesne orijinal katıştırılmış içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir.
+// Bu örnek, PSD dosyasındaki akıllı nesne katmanını nasıl değiştireceğinizi ve akıllı nesnenin orijinal gömülü içeriğini dışa aktarma / güncelleme işlemini gösterir.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -65,7 +66,7 @@ foreach (FileFormat format in formats)
         // Gömülü akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
         smartObjectLayer.ExportContents(exportPath);
 
-        // Orijinal görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Orijinal görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Orijinal akıllı nesne görüntüsünü tersine çevirelim
+            // Orijinal akıllı nesne görüntüsünü ters çevirelim
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,21 +85,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Gömülü akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki gömülü akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Güncellenen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenen görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Denominator
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffRational mülk. Paydayı alır.
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffRational özelliği. Paydayı alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
-Paydayı alır.
+Payda değerini alır.
 
 ```csharp
 public uint Denominator { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Payda.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

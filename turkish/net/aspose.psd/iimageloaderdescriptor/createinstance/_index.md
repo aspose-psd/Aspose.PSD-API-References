@@ -1,11 +1,12 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageLoaderDescriptor yöntem. Yeni bir yükleyici örneği oluşturur.
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageLoaderDescriptor yöntemi. Yeni bir yükleyici örneği oluşturur"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
 Yeni bir yükleyici örneği oluşturur.
@@ -14,15 +15,15 @@ Yeni bir yükleyici örneği oluşturur.
 public IImageLoader CreateInstance()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yeni bir yükleyici örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimageloaderdescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

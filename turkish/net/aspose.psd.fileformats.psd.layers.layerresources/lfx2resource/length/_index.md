@@ -1,23 +1,24 @@
 ---
-title: Lfx2Resource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: Lfx2Resource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "Lfx2Resource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lfx2Resource özelliği. Katman kaynağının uzunluğunu bayt olarak alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lfx2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Time.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: Time yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "Time.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Time yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Time.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Time](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

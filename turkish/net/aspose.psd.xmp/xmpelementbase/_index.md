@@ -1,33 +1,34 @@
 ---
-title: Class XmpElementBase
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.XmpElementBase sınıf. Öznitelikleri içeren temel xmp öğesini temsil eder.
+title: "Sınıf XmpElementBase"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.XmpElementBase sınıfı. Temel xmp öğesini temsil eder ve öznitelikler içerir"
 type: docs
-weight: 6240
+weight: 6770
 url: /tr/net/aspose.psd.xmp/xmpelementbase/
 ---
+{{< psd/tize >}}
 ## XmpElementBase class
 
-Öznitelikleri içeren temel xmp öğesini temsil eder.
+Özellikleri içeren temel xmp öğesini temsil eder.
 
 ```csharp
 public abstract class XmpElementBase : IEquatable<XmpElementBase>
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute/)(string, string) | Özniteliği ekler. |
-| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | Tüm öznitelikleri kaldırır. |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals_1)(object) | Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir. |
-| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals)(XmpElementBase) | Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir. |
-| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | Özniteliği alır. |
-| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | Bu örnek için bir karma kod döndürür. |
+| virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute/)(string, string) | Özelliği ekler. |
+| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | Tüm özellikleri kaldırır. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals_1)(object) | Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler. |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals)(XmpElementBase) | Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir. |
+| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | Özelliği alır. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | Bu örnek için bir hash kodu döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,42 +1,43 @@
 ---
-title: Class Time
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time sınıf. Bir zaman değerinin saniye cinsinden gösterimi.
+title: "Sınıf Time"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.Time sınıfı. Saniyelerde bir zaman değerinin temsili"
 type: docs
-weight: 5880
+weight: 6410
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
-Bir zaman değerinin saniye cinsinden gösterimi.
+Saniye cinsinden bir zaman değerinin temsili.
 
 ```csharp
 public sealed class Time : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Time](time/)(Rational, int) | Yeni bir örneğini başlatır.`Time` sınıf. |
+| [Time](time/)(Rational, int) | `Time` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Zaman değeri için ölçeği alır veya ayarlar. |
 | [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Belirtilen ölçekte zaman değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

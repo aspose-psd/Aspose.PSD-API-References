@@ -1,11 +1,12 @@
 ---
-title: GradientTransparencyPoint.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientTransparencyPoint mülk. Rengi alır veya ayarlar.
+title: "GradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientTransparencyPoint özelliği. Rengi alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Opacity property
 
 Rengi alır veya ayarlar.
@@ -14,14 +15,14 @@ Rengi alır veya ayarlar.
 public double Opacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientTransparencyPoint](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

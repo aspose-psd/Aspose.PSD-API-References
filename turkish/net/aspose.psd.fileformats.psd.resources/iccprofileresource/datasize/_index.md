@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: IccProfileResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "IccProfileResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IccProfileResource özelliği. Kaynak veri boyutunu bayt cinsinden alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/iccprofileresource/datasize/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IccProfileResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Font
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bir belgede kullanılan yazı tipinin özelliklerini içeren yapıyı temsil eden sınıflar içerir.
+title: "Aspose.PSD.Xmp.Types.Complex.Font"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, bir belgede kullanılan bir yazı tipinin özelliklerini içeren yapıyı temsil eden sınıfları içerir."
 type: docs
-weight: 650
+weight: 690
 url: /tr/net/aspose.psd.xmp.types.complex.font/
 ---
-Ad alanı, bir belgede kullanılan yazı tipinin özelliklerini içeren yapıyı temsil eden sınıflar içerir.
+{{< psd/tize >}}
+Namespace, bir belgede kullanılan yazı tipinin özelliklerini içeren yapıyı temsil eden sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [Font](./font/) | XMP Yazı Tipini Temsil Eder. |
+| [Font](./font/) | XMP Font'ı temsil eder. |
 
 

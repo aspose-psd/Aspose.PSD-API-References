@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Png dosya formatı işlemeyi yönetir.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, Png dosya formatı işleme işlemlerini yönetir"
 type: docs
-weight: 190
+weight: 200
 url: /tr/net/aspose.psd.fileformats.png/
 ---
-Ad alanı, Png dosya formatı işlemeyi yönetir.
+{{< psd/tize >}}
+Bu ad alanı, PNG dosya formatı işleme işlemlerini yönetir.
 
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [PngColorType](./pngcolortype/) | PNG resim renk türünü temsil eder. |
-| [PngFilterType](./pngfiltertype/) | png filtre türü. |
+| [PngColorType](./pngcolortype/) | PNG görüntü renk tipini temsil eder. |
+| [PngFilterType](./pngfiltertype/) | png filtre tipi. |
 
 

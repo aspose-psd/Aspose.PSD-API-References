@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Örnek başına bitleri alır veya ayarlar.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Örnek başına bit sayısını alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-Örnek başına bitleri alır veya ayarlar.
+Örnek başına bit sayısını alır veya ayarlar.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Örnek başına bit değeri.
 
-### Notlar
+## Açıklamalar
 
-Bu değeri ayarlarken SamplesPerPixel değerini de dizi uzunluğuna ayarlayacağını unutmayın. Bu 2 özellik birbirine çok sıkı bir şekilde bağlıdır, bu nedenle yalnızca bir arada ayarlanabilir.
+Bu değeri ayarlarken, aynı zamanda SamplesPerPixel değerinin dizi uzunluğuna ayarlanacağını unutmayın. Bu iki özellik çok sıkı bir şekilde bağlanmıştır, bu yüzden yalnızca birlikte ayarlanabilir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

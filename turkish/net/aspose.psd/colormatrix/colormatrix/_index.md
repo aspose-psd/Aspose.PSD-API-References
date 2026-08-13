@@ -1,43 +1,44 @@
 ---
-title: ColorMatrix.ColorMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrix inşaatçı. Yeni bir örneğini başlatır.ColorMatrix sınıf.
+title: "ColorMatrix.ColorMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrix yapıcı. ColorMatrix sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/colormatrix/colormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix() {#constructor}
 
-Yeni bir örneğini başlatır.[`ColorMatrix`](../) sınıf.
+[`ColorMatrix`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorMatrix()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ColorMatrix`](../) belirtilen matristeki öğeleri kullanan sınıf*newColorMatrix* .
+Belirtilen *newColorMatrix* matrisindeki öğeleri kullanarak [`ColorMatrix`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| newColorMatrix | Single[][] | Yeni için elemanların değerleri[`ColorMatrix`](../). |
+| newColorMatrix | Single[][] | Yeni [`ColorMatrix`](../) için öğelerin değerleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

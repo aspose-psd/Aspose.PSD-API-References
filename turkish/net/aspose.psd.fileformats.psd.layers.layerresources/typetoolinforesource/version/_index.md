@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Sürümü alır veya ayarlar.
+title: "TypeToolInfoResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Sürümü alır veya ayarlar."
 type: docs
-weight: 250
+weight: 220
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public short Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCountry
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Ülkeyi ayarlar.
+title: "PhotoshopPackage.SetCountry"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Ülkeyi ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCountry method
 
 Ülkeyi ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 public void SetCountry(string country)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| country | String | Ülke. |
+| ülke | String | Ülke. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

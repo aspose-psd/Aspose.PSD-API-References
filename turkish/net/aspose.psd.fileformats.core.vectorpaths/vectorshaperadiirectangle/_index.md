@@ -1,43 +1,44 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle sınıf. Vektör şekli yarıçap dikdörtgeni tanımlar class
+title: "Sınıf VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle sınıfı. Vektör şekil yarıçapları dikdörtgen sınıfını tanımlar"
 type: docs
-weight: 1450
+weight: 1460
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Vektör şekli yarıçap dikdörtgeni tanımlar class
+Vektör şeklinin yarıçap dikdörtgen sınıfını tanımlar
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Default_Constructor |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Tabanı alır veya ayarlar. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Sağ alt köşeyi alır veya ayarlar. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Dörtlü sürüm birim değerini alır veya ayarlar. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Sol üst köşeyi alır veya ayarlar. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Sağ üst köşeyi alır veya ayarlar. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Altı alır veya ayarlar. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Alt sağı alır veya ayarlar. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Birim değer dörtgen sürümünü alır veya ayarlar. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Üst solu alır veya ayarlar. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Üst sağı alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, PSD görüntüsünü şekil katmanları ve vektör yollarıyla yüklemenin ve kaydetmenin doğru çalıştığını gösterir.
+Bu örnek, şekil katmanları ve vektör yolları içeren PSD görüntüsünün yüklenmesi ve kaydedilmesinin doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, PSD görüntüsünü şekil katmanları ve vektör yollarıyla yüklemenin ve kaydetmenin doğru çalıştığını gösterir.
+// Bu örnek, şekil katmanları ve vektör yolları içeren PSD görüntüsünün yüklenmesi ve kaydedilmesinin doğru çalıştığını gösterir.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

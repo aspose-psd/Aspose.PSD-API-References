@@ -1,23 +1,24 @@
 ---
-title: LinkDataSource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Bayt cinsinden bağlantı veri kaynağı uzunluğunu alır.
+title: "LinkDataSource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Bağlantı veri kaynağının uzunluğunu bayt cinsinden alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Length property
 
-Bayt cinsinden bağlantı veri kaynağı uzunluğunu alır.
+Bağlantı veri kaynağının uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public long Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

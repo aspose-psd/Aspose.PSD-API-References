@@ -1,30 +1,31 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint arayüz. Dolgu ayarları için temel arayüz
+title: "Arayüz IGradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint arayüzü. Doldurma ayarları için temel arayüz"
 type: docs
-weight: 2020
+weight: 2140
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
-Dolgu ayarları için temel arayüz
+Doldurma ayarları için temel arayüz
 
 ```csharp
 public interface IGradientTransparencyPoint
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Konumu alır veya ayarlar. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Medyan nokta konumunu alır veya ayarlar. |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | Konumu alır veya ayarlar. Değer aralığı 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | Orta nokta konumunu alır veya ayarlar. Değer aralığı 0-4096. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | Opaklığı alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

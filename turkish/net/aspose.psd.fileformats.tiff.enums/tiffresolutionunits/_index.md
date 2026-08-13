@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits Sıralama. Tiff Çözünürlük Birimi Enum
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff Çözünürlük Birimi Enum"
 type: docs
-weight: 4150
+weight: 4650
 url: /tr/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Tiff Çözünürlük Birimi Enum
+TIFF Çözünürlük Birimi Enum'ı
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `1` | Anlamlı birim yok. |
 | Inch | `2` | İngiliz sistemi. |
-| Centimeter | `3` | Metrik sistem. |
+| Centimeter | `3` | Metrik sistemi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

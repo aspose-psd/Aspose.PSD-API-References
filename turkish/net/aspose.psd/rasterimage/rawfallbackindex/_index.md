@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawFallbackIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Palet dizini sınırların dışında olduğunda kullanılacak geri dönüş dizinini alır veya ayarlar
+title: "RasterImage.RawFallbackIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Palet indeksi sınırların dışına çıktığında kullanılacak yedek indeksi alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/rasterimage/rawfallbackindex/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawFallbackIndex property
 
-Palet dizini sınırların dışında olduğunda kullanılacak geri dönüş dizinini alır veya ayarlar
+Palet indeksi sınırların dışına çıktığında kullanılacak yedek indeksi alır veya ayarlar
 
 ```csharp
 public int RawFallbackIndex { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Palet dizini sınırların dışında olduğunda kullanılacak geri dönüş dizini
+Palet indeksi sınırların dışına çıktığında kullanılacak yedek indeks.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

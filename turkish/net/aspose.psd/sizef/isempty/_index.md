@@ -1,27 +1,28 @@
 ---
-title: SizeF.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF mülk. Bunun olup olmadığını gösteren bir değer alır.SizeF sıfır genişliğe ve yüksekliğe sahiptir.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF özelliği. Bu SizeF'nin genişliği ve yüksekliği sıfır olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-Bunun olup olmadığını gösteren bir değer alır.[`SizeF`](../) sıfır genişliğe ve yüksekliğe sahiptir.
+Bu [`SizeF`](../)'nin genişliği ve yüksekliği sıfır olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu özellik, bu olduğunda true değerini döndürür.[`SizeF`](../) hem genişliği hem de yüksekliği sıfırdır; Aksi takdirde, yanlış.
+Bu özellik, bu [`SizeF`](../) genişlik ve yüksekliği sıfır olduğunda true döndürür; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

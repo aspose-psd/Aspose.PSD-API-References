@@ -1,11 +1,12 @@
 ---
-title: Font.FontName
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. PostScript yazı tipi adını alır veya ayarlar.
+title: "Font.FontName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. PostScript font adını alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
 PostScript yazı tipi adını alır veya ayarlar.
@@ -14,14 +15,14 @@ PostScript yazı tipi adını alır veya ayarlar.
 public string FontName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-PostScript yazı tipi adının adı.
+PostScript font adının adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

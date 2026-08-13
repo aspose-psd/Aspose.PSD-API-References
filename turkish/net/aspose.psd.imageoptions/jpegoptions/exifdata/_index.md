@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.ExifData
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Exif veri kapsayıcısını alın veya ayarlayın
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. exif veri konteynerini alır veya ayarlar"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-Exif veri kapsayıcısını alın veya ayarlayın
+Exif veri konteynerini al veya ayarla
 
 ```csharp
 public JpegExifData ExifData { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,52 +1,53 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImageResourceException inşaatçı. Yeni bir örneğini başlatır.PsdImageResourceException sınıf.
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImageResourceException yapıcı. PsdImageResourceException sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-Yeni bir örneğini başlatır.[`PsdImageResourceException`](../) sınıf.
+[`PsdImageResourceException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
-| resource | ResourceBlock | Kaynak. |
+| kaynak | ResourceBlock | Kaynak. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PsdImageResourceException`](../) sınıf.
+[`PsdImageResourceException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
-| resource | ResourceBlock | Kaynak. |
+| kaynak | ResourceBlock | Kaynak. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

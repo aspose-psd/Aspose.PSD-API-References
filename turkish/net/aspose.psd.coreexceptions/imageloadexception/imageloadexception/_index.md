@@ -1,48 +1,49 @@
 ---
-title: ImageLoadException.ImageLoadException
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadException inşaatçı. Yeni bir örneğini başlatır.ImageLoadException sınıf.
+title: "ImageLoadException.ImageLoadException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadException yapıcı. Yeni bir ImageLoadException sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/imageloadexception/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`ImageLoadException`](../) sınıf.
+Yeni bir [`ImageLoadException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageLoadException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageLoadException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageLoadException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ImageLoadException`](../) sınıf.
+Yeni bir [`ImageLoadException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageLoadException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageLoadException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imageloadexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

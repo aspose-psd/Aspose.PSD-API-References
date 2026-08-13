@@ -1,11 +1,12 @@
 ---
-title: Jpeg2000Options.Comments
-second_title: Aspose.PSD for .NET API Referansı
-description: Jpeg2000Options mülk. Jpeg yorum işaretçilerini alır veya ayarlar.
+title: "Jpeg2000Options.Comments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Jpeg2000Options özelliği. Jpeg yorum işaretçilerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/jpeg2000options/comments/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Comments property
 
 Jpeg yorum işaretçilerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Jpeg yorum işaretçilerini alır veya ayarlar.
 public string[] Comments { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Jpeg yorum işaretleri.
+Jpeg yorum işaretçileri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Jpeg2000Options](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

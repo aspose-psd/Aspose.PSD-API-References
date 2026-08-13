@@ -1,24 +1,25 @@
 ---
-title: PlacedResource.UniqueId
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD görüntüsüne yerleştirilen katmanın genel benzersiz tanımlayıcısını alır veya ayarlar.
+title: "PlacedResource.UniqueId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD görüntüsündeki küresel benzersiz tanımlayıcısını alır veya ayarlar"
 type: docs
-weight: 180
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UniqueId property
 
-PSD görüntüsüne yerleştirilen katmanın genel benzersiz tanımlayıcısını alır veya ayarlar.
+Yerleştirilen katmanın PSD görüntüsündeki küresel benzersiz tanımlayıcısını alır veya ayarlar.
 
 ```csharp
 public virtual Guid UniqueId { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın benzersiz tanımlayıcısı.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, PlLdResource kaynağının desteğini gösterir.
 
@@ -202,15 +203,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,7 +229,7 @@ Aşağıdaki kod, SoLdResource kaynağının desteğini gösterir.
 ```csharp
 [C#]
 
-// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerinin nasıl alınacağını veya ayarlanacağını gösterir.
+// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +463,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-                // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+                // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+                // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,18 +509,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Bu unique ID varsa referanslarda değiştirilmelidir.
+                // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -532,10 +533,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

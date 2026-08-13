@@ -1,34 +1,35 @@
 ---
-title: Pen.EndCap
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen çizgilerin sonunda kullanılan başlık stilini alır veya ayarlar.Pen .
+title: "Pen.EndCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen çizgilerin sonunda kullanılan kapak stilini alır veya ayarlar."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/pen/endcap/
 ---
+{{< psd/tize >}}
 ## Pen.EndCap property
 
-Bununla çizilen çizgilerin sonunda kullanılan başlık stilini alır veya ayarlar.[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen çizgilerin sonunda kullanılan kapak stilini alır veya ayarlar.
 
 ```csharp
 public LineCap EndCap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Biri[`LineCap`](../../linecap/) bununla çizilen çizgilerin sonunda kullanılan başlık stilini temsil eden değerler[`Pen`](../).
+Bu [`LineCap`](../../linecap/) değerlerinden biri, bu [`Pen`](../) ile çizilen çizgilerin sonunda kullanılan kapak stilini temsil eder.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`EndCap` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `EndCap` özelliği, [`Pen`](../) gibi değiştirilemez bir nesne üzerinde ayarlanır, örneğin [`Pen`](../) sınıfı tarafından döndürülenler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

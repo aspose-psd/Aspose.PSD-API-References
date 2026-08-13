@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Başlığı ayarlar.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Başlığı ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 Başlığı ayarlar.
@@ -14,14 +15,14 @@ Başlığı ayarlar.
 public void SetHeadline(string headline)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| headline | String | Başlık. |
+| başlık | String | Başlık. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

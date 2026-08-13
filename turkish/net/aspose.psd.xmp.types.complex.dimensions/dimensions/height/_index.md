@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: Dimensions mülk. Yüksekliği alır veya ayarlar.
+title: "Dimensions.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Dimensions özelliği. Yüksekliği alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
 Yüksekliği alır veya ayarlar.
@@ -14,20 +15,20 @@ Yüksekliği alır veya ayarlar.
 public float Height { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yükseklik.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | değer;Yükseklik sıfırdan az olamaz |
+| ArgumentOutOfRangeException | value;Yükseklik sıfırdan küçük olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

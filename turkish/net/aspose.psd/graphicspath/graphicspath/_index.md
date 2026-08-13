@@ -1,88 +1,89 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath inşaatçı. Yeni bir örneğini başlatır.GraphicsPath sınıf.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yapıcı. GraphicsPath sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-Yeni bir örneğini başlatır.[`GraphicsPath`](../) sınıf.
+[`GraphicsPath`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GraphicsPath()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`GraphicsPath`](../) sınıf.
+[`GraphicsPath`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| figures | Figure[] | Başlatılacak rakamlar. |
+| şekiller | Figure[] | Başlatılacak şekiller. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`GraphicsPath`](../) sınıf.
+[`GraphicsPath`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| figures | Figure[] | Başlatılacak rakamlar. |
-| fillMode | FillMode | Doldurma modu. |
+| şekiller | Figure[] | Başlatılacak şekiller. |
+| fillMode | FillMode | Dolgu modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`GraphicsPath`](../) sınıf.
+[`GraphicsPath`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fillMode | FillMode | Doldurma modu. |
+| fillMode | FillMode | Dolgu modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

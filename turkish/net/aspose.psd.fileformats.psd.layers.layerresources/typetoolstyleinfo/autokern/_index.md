@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Otomatik karakter aralığının açık veya kapalı olduğunu gösteren bir değer alır veya ayarlar.
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Auto kerning'in açık mı kapalı mı olduğunu gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
-Otomatik karakter aralığının açık veya kapalı olduğunu gösteren bir değer alır veya ayarlar.
+Otomatik karakter aralığının açık mı kapalı mı olduğunu gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool AutoKern { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` otomatik karakter aralığı açıksa; aksi takdirde,`YANLIŞ` .
+`true` eğer auto kerning açıksa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

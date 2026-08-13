@@ -1,11 +1,12 @@
 ---
-title: Image.Create
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Belirtilen oluşturma seçeneklerini kullanarak yeni bir görüntü oluşturur.
+title: "Image.Create"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image metodu. Belirtilen oluşturma seçeneklerini kullanarak yeni bir görüntü oluşturur"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/image/create/
 ---
+{{< psd/tize >}}
 ## Image.Create method
 
 Belirtilen oluşturma seçeneklerini kullanarak yeni bir görüntü oluşturur.
@@ -14,45 +15,45 @@ Belirtilen oluşturma seçeneklerini kullanarak yeni bir görüntü oluşturur.
 public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Görüntü seçenekleri. |
 | width | Int32 | Genişlik. |
 | height | Int32 | Yükseklik. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yeni oluşturulan görüntü.
 
-### Örnekler
+## Örnekler
 
-Bu örnek, PsdOptions örneğinin Source özelliği tarafından belirtildiği gibi bazı disk konumlarında yeni bir Görüntü dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için çeşitli özellikler ayarlanır. Özellikle bu durumda gerçek disk konumuna atıfta bulunan Source özelliği.
+Bu örnek, PsdOptions örneğinin Source özelliğiyle belirtilen bir disk konumunda yeni bir Image dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için birkaç özellik ayarlanır. Özellikle bu durumda gerçek disk konumunu belirten Source özelliği.
 
 ```csharp
 [C#]
 
-//PsdOptions'ın bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın
+//PsdOptions bir örneği oluşturun ve çeşitli özelliklerini ayarlayın.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Bir FileCreateSource örneği oluşturun ve bunu PsdOptions örneği için Kaynak olarak atayın
-//İkinci Boolean parametresi oluşturulacak dosyanın IsTemporal olup olmadığını belirler.
+//FileCreateSource bir örneği oluşturun ve bunu PsdOptions örneği için Source olarak atayın.
+//İkinci Boolean parametre, oluşturulacak dosyanın geçici (IsTemporal) olup olmadığını belirler.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Bir Image örneği oluşturun ve Create yöntemini çağırarak onu PsdOptions örneğiyle başlatın
+//Image bir örneği oluşturun ve Create metodunu çağırarak PsdOptions örneğiyle başlatın.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // biraz görüntü işleme yapalım
+    //biraz görüntü işleme yap
 
     // tüm değişiklikleri kaydet
     image.Save();
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

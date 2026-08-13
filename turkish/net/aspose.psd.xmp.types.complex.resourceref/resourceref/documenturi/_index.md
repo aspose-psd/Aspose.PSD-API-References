@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceRef mülk. Belge URIsini alır veya ayarlar.
+title: "ResourceRef.DocumentUri"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceRef özelliği. Belge URI'sını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
-Belge URI'sini alır veya ayarlar.
+Belge URI'sını alır veya ayarlar.
 
 ```csharp
 public string DocumentUri { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Belge URI.
+Belge URI'si.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceRef](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,46 +1,47 @@
 ---
-title: PieShape.PieShape
-second_title: Aspose.PSD for .NET API Referansı
-description: PieShape inşaatçı. Yeni bir örneğini başlatır.PieShape sınıf.
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PieShape yapıcı. PieShape sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`PieShape`](../) sınıf.
+[`PieShape`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PieShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PieShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../pieshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PieShape`](../) sınıf.
+[`PieShape`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
 | startAngle | Single | Başlangıç açısı. |
 | sweepAngle | Single | Tarama açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../pieshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

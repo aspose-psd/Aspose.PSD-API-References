@@ -1,28 +1,29 @@
 ---
-title: ColorRangeHsl.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl yöntem. Verileri belirtilen akış kapsayıcısına kaydeder.
+title: "ColorRangeHsl.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl yöntemi. Belirtilen akış konteynerine verileri kaydeder"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Save method
 
-Verileri belirtilen akış kapsayıcısına kaydeder.
+Verileri belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
+| streamContainer | StreamContainer | Akış konteyneri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

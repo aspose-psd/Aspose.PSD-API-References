@@ -1,75 +1,76 @@
 ---
-title: ImageAttributes.SetWrapMode
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Bir dokunun bir şekil boyunca veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan kaydırma modunu ayarlar. Doku doldurduğu şekilden daha küçük olduğunda bir şekli doldurmak için bir doku döşenir.
+title: "ImageAttributes.SetWrapMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Bir doku şekil boyunca veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan sarma modunu ayarlar. Doku, doldurduğu şekilden daha küçük olduğunda şekil boyunca döşenerek doldurulur."
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/imageattributes/setwrapmode/
 ---
+{{< psd/tize >}}
 ## SetWrapMode(WrapMode) {#setwrapmode}
 
-Bir dokunun bir şekil boyunca veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan kaydırma modunu ayarlar. Doku, doldurduğu şekilden daha küçük olduğunda, bir şekli doldurmak için bir doku döşenir.
+Bir dokunun bir şekil üzerinde veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan sarma modunu ayarlar. Doku, dolduracağı şekilden daha küçük olduğunda, şekli doldurmak için şekil üzerine döşenir.
 
 ```csharp
 public void SetWrapMode(WrapMode mode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| mode | WrapMode | bir unsuru[`WrapMode`](../../wrapmode/) bir alanı döşemek için bir görüntünün tekrarlanan kopyalarının nasıl kullanıldığını belirtir. |
+| mode | WrapMode | Bir alanın döşenmesinde bir görüntünün tekrar eden kopyalarının nasıl kullanılacağını belirten bir [`WrapMode`](../../wrapmode/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [WrapMode](../../wrapmode/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color) {#setwrapmode_1}
 
-Bir dokunun bir şekil boyunca veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan kaydırma modunu ve rengi ayarlar. Doku, doldurduğu şekilden daha küçük olduğunda, bir şekli doldurmak için bir doku döşenir.
+Bir dokunun bir şekil üzerinde veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan sarma modunu ve rengi ayarlar. Doku, dolduracağı şekilden daha küçük olduğunda, şekli doldurmak için şekil üzerine döşenir.
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| mode | WrapMode | bir unsuru[`WrapMode`](../../wrapmode/) bir alanı döşemek için bir görüntünün tekrarlanan kopyalarının nasıl kullanıldığını belirtir. |
-| color | Color | Bir[`ImageAttributes`](../) işlenmiş bir görüntünün dışındaki piksellerin rengini belirten nesne. Bu renk, mod parametresi olarak ayarlanırsa görünür.Clamp ve DrawImage'a iletilen kaynak dikdörtgen, görüntünün kendisinden daha büyüktür. |
+| mode | WrapMode | Bir alanın döşenmesinde bir görüntünün tekrar eden kopyalarının nasıl kullanılacağını belirten bir [`WrapMode`](../../wrapmode/) öğesi. |
+| color | Color | Bir [`ImageAttributes`](../) nesnesi, işlenmiş bir görüntünün dışındaki piksellerin rengini belirler. Bu renk, mod parametresi Clamp olarak ayarlandığında ve DrawImage'e geçirilen kaynak dikdörtgeni görüntünün kendisinden daha büyük olduğunda görünür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color, bool) {#setwrapmode_2}
 
-Bir dokunun bir şekil boyunca veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan kaydırma modunu ve rengi ayarlar. Doku, doldurduğu şekilden daha küçük olduğunda, bir şekli doldurmak için bir doku döşenir.
+Bir dokunun bir şekil üzerinde veya şekil sınırlarında nasıl döşeneceğine karar vermek için kullanılan sarma modunu ve rengi ayarlar. Doku, dolduracağı şekilden daha küçük olduğunda, şekli doldurmak için şekil üzerine döşenir.
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| mode | WrapMode | bir unsuru[`WrapMode`](../../wrapmode/) bir alanı döşemek için bir görüntünün tekrarlanan kopyalarının nasıl kullanıldığını belirtir. |
-| color | Color | İşlenmiş bir görüntünün dışındaki piksellerin rengini belirten bir renk nesnesi. Bu renk, mod parametresi olarak ayarlanırsa görünür.Clamp ve DrawImage'a iletilen kaynak dikdörtgen, görüntünün kendisinden daha büyüktür. |
-| clamp | Boolean | Bu parametrenin bir etkisi yoktur. Yanlış olarak ayarlayın. |
+| mode | WrapMode | Bir alanın döşenmesinde bir görüntünün tekrar eden kopyalarının nasıl kullanılacağını belirten bir [`WrapMode`](../../wrapmode/) öğesi. |
+| renk | Renk | İşlenmiş bir görüntünün dışındaki piksellerin rengini belirten bir renk nesnesi. Bu renk, mod parametresi Clamp olarak ayarlandığında ve DrawImage'e geçirilen kaynak dikdörtgeni görüntünün kendisinden daha büyük olduğunda görünür. |
+| clamp | Boolean | Bu parametrenin bir etkisi yoktur. False olarak ayarlayın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

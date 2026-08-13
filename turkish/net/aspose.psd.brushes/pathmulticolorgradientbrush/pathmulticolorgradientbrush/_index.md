@@ -1,116 +1,117 @@
 ---
-title: PathMulticolorGradientBrush.PathMulticolorGradientBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: PathMulticolorGradientBrush inşaatçı. Yeni bir örneğini başlatır.PathMulticolorGradientBrush belirtilen noktalara sahip sınıf.
+title: "PathMulticolorGradientBrush.PathMulticolorGradientBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathMulticolorGradientBrush yapıcı. Belirtilen noktalarla PathMulticolorGradientBrush sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.brushes/pathmulticolorgradientbrush/pathmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathMulticolorGradientBrush(PointF[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PathMulticolorGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`PathMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | bir dizi[`PointF`](../../../aspose.psd/pointf/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
+| points | PointF[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`PointF`](../../../aspose.psd/pointf/) yapıların bir dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`PathMulticolorGradientBrush`](../) belirtilen noktalar ve sarma modu ile sınıf.
+Belirtilen noktalar ve sarma modu ile [`PathMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | bir dizi[`PointF`](../../../aspose.psd/pointf/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) dolguların bununla nasıl çizildiğini belirtir[`PathMulticolorGradientBrush`](../) döşenir. |
+| points | PointF[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`PointF`](../../../aspose.psd/pointf/) yapıların bir dizisi. |
+| wrapMode | WrapMode | Bu [`PathMulticolorGradientBrush`](../) ile çizilen doldurmaların nasıl döşeneceğini belirten bir [`WrapMode`](../../../aspose.psd/wrapmode/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[]) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`PathMulticolorGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`PathMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | Point[] | bir dizi[`Point`](../../../aspose.psd/point/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
+| points | Point[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`Point`](../../../aspose.psd/point/) yapıların bir dizisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[], WrapMode) {#constructor_4}
 
-Yeni bir örneğini başlatır.[`PathMulticolorGradientBrush`](../) belirtilen noktalar ve sarma modu ile sınıf.
+Belirtilen noktalar ve sarma modu ile [`PathMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | Point[] | bir dizi[`Point`](../../../aspose.psd/point/) yolun köşelerini oluşturan noktaları temsil eden yapılar. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) dolguların bununla nasıl çizildiğini belirtir[`PathMulticolorGradientBrush`](../) döşenir. |
+| points | Point[] | Yolun köşe noktalarını oluşturan noktaları temsil eden [`Point`](../../../aspose.psd/point/) yapıların bir dizisi. |
+| wrapMode | WrapMode | Bu [`PathMulticolorGradientBrush`](../) ile çizilen doldurmaların nasıl döşeneceğini belirten bir [`WrapMode`](../../../aspose.psd/wrapmode/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(GraphicsPath) {#constructor}
 
-Yeni bir örneğini başlatır.[`PathMulticolorGradientBrush`](../) belirtilen yola sahip sınıf.
+Belirtilen yol ile [`PathMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PathMulticolorGradientBrush(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../../aspose.psd/graphicspath/) bu tarafından doldurulan alanı tanımlayan[`PathMulticolorGradientBrush`](../). |
+| path | GraphicsPath | Bu [`PathMulticolorGradientBrush`](../) tarafından doldurulan alanı tanımlayan [`GraphicsPath`](../../../aspose.psd/graphicspath/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

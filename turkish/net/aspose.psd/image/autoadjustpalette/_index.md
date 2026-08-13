@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Paletin otomatik olarak ayarlanıp ayarlanmadığını gösteren bir değer alır veya ayarlar.
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Otomatik palet ayarlamasının etkin olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-Paletin otomatik olarak ayarlanıp ayarlanmadığını gösteren bir değer alır veya ayarlar.
+Otomatik palet ayarlamasını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` otomatik ayarlama paletini etkinleştirirseniz; aksi takdirde,`YANLIŞ` .
+`true` eğer otomatik palet ayarlaması etkinleştirilmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: Class Jpeg2000CustomException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException sınıf. Jpeg2000 OpenJpeg kodu oluşturuldu istisna
+title: "Sınıf Jpeg2000CustomException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException sınıf. Jpeg2000 OpenJpeg kodu tarafından oluşturulan istisna"
 type: docs
-weight: 1550
+weight: 1560
 url: /tr/net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000CustomException class
 
-Jpeg2000 OpenJpeg kodu oluşturuldu istisna
+Jpeg2000 OpenJpeg kodu tarafından oluşturulan istisna
 
 ```csharp
 public class Jpeg2000CustomException : Exception
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

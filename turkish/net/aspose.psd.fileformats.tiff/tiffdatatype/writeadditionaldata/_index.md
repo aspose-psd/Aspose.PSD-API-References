@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType yöntem. Ek etiket verilerini yazar.
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType yöntemi. Ek etiket verilerini yazar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
 Ek etiket verilerini yazar.
@@ -14,19 +15,19 @@ Ek etiket verilerini yazar.
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | Veri akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yazılan gerçek bayt sayısı.
+Gerçek yazılan baytlar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

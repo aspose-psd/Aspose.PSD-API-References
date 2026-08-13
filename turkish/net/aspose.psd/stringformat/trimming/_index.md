@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Şunu alır veya ayarlarStringTrimming Bunun için numaralandırmaStringFormat nesne.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Bu StringFormat nesnesi için StringTrimming enum değerini alır veya ayarlar."
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Şunu alır veya ayarlar:[`StringTrimming`](../../stringtrimming/) Bunun için numaralandırma[`StringFormat`](../) nesne.
+Bu [`StringFormat`](../) nesnesi için [`StringTrimming`](../../stringtrimming/) enum değerini alır veya ayarlar.
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`StringTrimming`](../../stringtrimming/) bununla metnin nasıl çizildiğini gösteren numaralandırma[`StringFormat`](../) düzen dikdörtgeninin kenarlarını aştığında nesne kırpılır.
+Bu [`StringFormat`](../) nesnesiyle çizilen metnin, yerleşim dikdörtgeninin kenarlarını aştığında nasıl kırpılacağını belirten bir [`StringTrimming`](../../stringtrimming/) enum değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

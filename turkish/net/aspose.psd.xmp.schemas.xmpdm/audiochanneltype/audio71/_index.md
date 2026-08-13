@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio71
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType mülk. 7.1 ses kanalını alır.
+title: "AudioChannelType.Audio71"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType özelliği. 7.1 ses kanalını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio71 property
 
 7.1 ses kanalını alır.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/
 public static AudioChannelType Audio71 { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 7.1 ses kanalı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.OpenTypeFontsCache sınıf. Sistemde yüklü olan OpenType yazı tipleri için önbellek.
+title: "OpenTypeFontsCache Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.OpenTypeFontsCache sınıfı. Sistemde yüklü olan OpenType yazı tipleri için önbellek."
 type: docs
-weight: 5170
+weight: 5690
 url: /tr/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
 Sistemde yüklü olan OpenType yazı tipleri için önbellek.
@@ -14,15 +15,15 @@ Sistemde yüklü olan OpenType yazı tipleri için önbellek.
 public static class OpenTypeFontsCache
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.SetPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Görüntü paletini ayarlar.
+title: "Image.SetPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image method. Görüntü paletini ayarlar"
 type: docs
-weight: 240
+weight: 250
 url: /tr/net/aspose.psd/image/setpalette/
 ---
+{{< psd/tize >}}
 ## Image.SetPalette method
 
 Görüntü paletini ayarlar.
@@ -14,16 +15,16 @@ Görüntü paletini ayarlar.
 public abstract void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| palette | IColorPalette | Ayarlanacak palet. |
-| updateColors | Boolean | olarak ayarlanırsa`doğru` renkler yeni palete göre güncellenecek; aksi halde renk indeksleri değişmeden kalır. Bazı dizinlerde karşılık gelen palet girişi yoksa, değişmeyen dizinlerin yükleme sırasında görüntüyü çökertebileceğini unutmayın. |
+| palet | IColorPalette | Ayarlanacak palet. |
+| updateColors | Boolean | eğer `true` olarak ayarlanırsa renkler yeni palete göre güncellenecek; aksi takdirde renk indeksleri değişmeden kalır. Değişmeyen indekslerin, bazı indekslerin karşılık gelen palet girdileri olmaması durumunda görüntünün yüklenirken çökmesine neden olabileceğini unutmayın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

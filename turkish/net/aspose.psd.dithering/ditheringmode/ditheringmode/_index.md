@@ -1,23 +1,24 @@
 ---
-title: DitheringMode.DitheringMode
-second_title: Aspose.PSD for .NET API Referansı
-description: DitheringMode inşaatçı. Default_Constructor
+title: "DitheringMode.DitheringMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DitheringMode yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.dithering/ditheringmode/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public DitheringMode()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DitheringMode](../)
-* ad alanı [Aspose.PSD.Dithering](../../ditheringmode/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

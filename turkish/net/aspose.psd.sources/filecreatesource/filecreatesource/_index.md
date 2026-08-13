@@ -1,95 +1,96 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: Aspose.PSD for .NET API Referansı
-description: FileCreateSource inşaatçı. Yeni bir örneğini başlatır.FileCreateSource sınıf.
+title: "FileCreateSource.FileCreateSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileCreateSource yapıcı. FileCreateSource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`FileCreateSource`](../) sınıf.
+[`FileCreateSource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FileCreateSource(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Oluşturulacak dosya yolu. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, BmpOptions örneğinin Source özelliği tarafından belirtildiği gibi bazı disk konumlarında yeni bir Görüntü dosyası oluşturur. İkinci parametre FileCreateSource yapıcısına iletilmezse, varsayılan olarak oluşturulacak dosyanın IsTemporal özelliği True olarak ayarlanmıştır. IsTemporal, True olarak ayarlandığında, yürütmenin sonunda diske hiçbir dosya kaydedilmez.
+Bu örnek, BmpOptions örneğinin Source özelliğiyle belirtilen bir disk konumunda yeni bir Image dosyası oluşturur. FileCreateSource yapıcısına ikinci parametre verilmezse, varsayılan olarak oluşturulacak dosyanın IsTemporal özelliği True olarak ayarlanır. IsTemporal True olarak ayarlandığında, yürütmenin sonunda disk üzerine hiçbir dosya kaydedilmez.
 
 ```csharp
 [C#]
 
 string path = "C:\\temp\\image.psd";
     
-//PsdOptions'ın bir örneğini oluşturur ve çeşitli özelliklerini ayarlar
+//PsdOptions bir örnek oluşturur ve çeşitli özelliklerini ayarlar.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Bir FileCreateSource örneği oluşturun ve bunu PsdOptions örneği için Kaynak olarak atayın
-//İkinci parametre geçilmezse, dosyada varsayılan olarak IsTemporal True olarak ayarlanmıştır
+//FileCreateSource bir örneği oluşturun ve bunu PsdOptions örneği için Source olarak atayın.
+//İkinci parametre geçilmezse, dosya varsayılan olarak IsTemporal özelliği True olarak ayarlanır.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\output.bmp");
 
-//Görüntünün bir örneğini oluşturur 
+//Image sınıfının bir örneğini oluşturur 
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // biraz görüntü işleme yapalım
+    //biraz görüntü işleme yap
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileCreateSource](../)
-* ad alanı [Aspose.PSD.Sources](../../filecreatesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`FileCreateSource`](../) sınıf.
+[`FileCreateSource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Oluşturulacak dosya yolu. |
-| isTemporal | Boolean | olarak ayarlanırsa`doğru` oluşturulan dosya geçici olacaktır. |
+| isTemporal | Boolean | `true` olarak ayarlanırsa oluşturulan dosya geçici olacaktır. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, PsdOptions örneğinin Source özelliği tarafından belirtildiği gibi bazı disk konumlarında yeni bir Görüntü dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için çeşitli özellikler ayarlanır. Özellikle bu durumda gerçek disk konumuna atıfta bulunan Source özelliği.
+Bu örnek, PsdOptions örneğinin Source özelliğiyle belirtilen bir disk konumunda yeni bir Image dosyası oluşturur. Gerçek görüntüyü oluşturmadan önce PsdOptions örneği için birkaç özellik ayarlanır. Özellikle bu durumda gerçek disk konumunu belirten Source özelliği.
 
 ```csharp
 [C#]
 
-//PsdOptions'ın bir örneğini oluşturun ve çeşitli özelliklerini ayarlayın
+//PsdOptions bir örneği oluşturun ve çeşitli özelliklerini ayarlayın.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Bir FileCreateSource örneği oluşturun ve bunu PsdOptions örneği için Kaynak olarak atayın
-//İkinci Boolean parametresi oluşturulacak dosyanın IsTemporal olup olmadığını belirler.
+//FileCreateSource bir örneği oluşturun ve bunu PsdOptions örneği için Source olarak atayın.
+//İkinci Boolean parametre, oluşturulacak dosyanın geçici (IsTemporal) olup olmadığını belirler.
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Bir Image örneği oluşturun ve Create yöntemini çağırarak onu PsdOptions örneğiyle başlatın
+//Image bir örneği oluşturun ve Create metodunu çağırarak PsdOptions örneğiyle başlatın.
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // biraz görüntü işleme yapalım
+    //biraz görüntü işleme yap
 
     // tüm değişiklikleri kaydet
     image.Save();
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileCreateSource](../)
-* ad alanı [Aspose.PSD.Sources](../../filecreatesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

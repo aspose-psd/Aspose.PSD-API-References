@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.MinimalVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: TransparencyIndexResource mülk. Gereken minimum psd sürümünü alır.
+title: "TransparencyIndexResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransparencyIndexResource özelliği. Gereken minimum psd sürümünü alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.MinimalVersion property
 
-Gereken minimum psd sürümünü alır.
+Gerekli minimum psd sürümünü alır.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Minimum psd sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TransparencyIndexResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

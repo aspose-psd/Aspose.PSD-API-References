@@ -1,27 +1,28 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackageBaseCollection mülk. Koleksiyondaki öğelerin sayısını alır.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackageBaseCollection özelliği. Koleksiyondaki öğe sayısını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
-Koleksiyondaki öğelerin sayısını alır.
+Koleksiyondaki öğe sayısını alır.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Koleksiyondaki öğelerin sayısı.
+Koleksiyondaki öğe sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackageBaseCollection](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

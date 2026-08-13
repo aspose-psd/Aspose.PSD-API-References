@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD for .NET API Referansı
-description: AsyncTaskException inşaatçı. Yeni bir örneğini başlatır.AsyncTaskException sınıf.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AsyncTaskException yapıcı. AsyncTaskException sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Yeni bir örneğini başlatır.[`AsyncTaskException`](../) sınıf.
+[`AsyncTaskException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| message | String | Hatayı açıklayan mesaj. |
+| message | String | Hata açıklamasını içeren mesaj. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AsyncTaskException](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

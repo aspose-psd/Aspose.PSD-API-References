@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. PSD LnkE / Lnk2 kaynağındaki veri kaynağının sürümünü alır.
+title: "LinkDataSource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. PSD LnkE / Lnk2 kaynağındaki veri kaynağının sürümünü alır"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Version property
 
 PSD LnkE / Lnk2 kaynağındaki veri kaynağının sürümünü alır.
@@ -14,20 +15,20 @@ PSD LnkE / Lnk2 kaynağındaki veri kaynağının sürümünü alır.
 public int Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Life / LiFD bağlantı veri kaynağı sürüm numarası.
+LiFE / LiFD bağlantı veri kaynağı sürüm numarası.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sürüm özelliğine erişemezsiniz. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Version özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorMatrix.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMatrix mülk. Belirtilen satır ve sütundaki öğeyi alır veya ayarlar.ColorMatrix .
+title: "ColorMatrix.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMatrix özelliği. ColorMatrix içinde belirtilen satır ve sütundaki öğeyi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/colormatrix/item/
 ---
+{{< psd/tize >}}
 ## ColorMatrix indexer
 
-Belirtilen satır ve sütundaki öğeyi alır veya ayarlar.[`ColorMatrix`](../) .
+Bu [`ColorMatrix`](../) içinde belirtilen satır ve sütundaki öğeyi alır veya ayarlar.
 
 ```csharp
 public float this[int row, int column] { get; set; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| row | Satır numarası. |
-| column | Sütun numarası. |
+| satır | Satır numarası. |
+| sütun | Sütun numarası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirtilen satır ve sütundaki öğe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../)
-* ad alanı [Aspose.PSD](../../colormatrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

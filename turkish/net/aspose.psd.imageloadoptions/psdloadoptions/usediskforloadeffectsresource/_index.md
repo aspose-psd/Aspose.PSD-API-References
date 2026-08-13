@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdLoadOptions mülk. Yük efektleri kaynağı için disk kullan olup olmadığını gösteren bir değer alır veya ayarlar varsayılan olarak efekt kaynağını yüklemek için disk kullanılır ancak bu değer yanlış olarak ayarlanarak yeterliyse bellek kullanılabilir.
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdLoadOptions özelliği. Efekt kaynaklarını yüklemek için varsayılan olarak diskin kullanılıp kullanılmayacağını belirten bir değeri alır veya ayarlar; bu değer false olarak ayarlandığında yeterli bellek varsa bellek kullanılabilir."
 type: docs
-weight: 70
+weight: 90
 url: /tr/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-[Yük efektleri kaynağı için disk kullan] olup olmadığını gösteren bir değer alır veya ayarlar (varsayılan olarak efekt kaynağını yüklemek için disk kullanılır, ancak bu değer yanlış olarak ayarlanarak yeterliyse bellek kullanılabilir).
+[use disk for load effects resource] (varsayılan olarak efekt kaynağını yüklemek için disk kullanılır, ancak bu değer false olarak ayarlanırsa bellek yeterli olduğunda kullanılabilir) durumunu gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [yük efektleri kaynağı için diski kullanın]; aksi takdirde,`YANLIŞ` .
+`true` eğer [use disk for load effects resource]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdLoadOptions](../)
-* ad alanı [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

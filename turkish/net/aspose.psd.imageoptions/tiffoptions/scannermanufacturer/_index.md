@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Tarayıcı üreticisini alır veya ayarlar.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Tarayıcı üreticisini alır veya ayarlar"
 type: docs
-weight: 410
+weight: 420
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
 Tarayıcı üreticisini alır veya ayarlar.
@@ -14,14 +15,14 @@ Tarayıcı üreticisini alır veya ayarlar.
 public string ScannerManufacturer { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tarayıcı üreticisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

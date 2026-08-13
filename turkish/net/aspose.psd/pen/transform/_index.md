@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bunun için geometrik dönüşümün bir kopyasını alır veya ayarlarPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen için geometrik dönüşümün bir kopyasını alır veya ayarlar."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-Bunun için geometrik dönüşümün bir kopyasını alır veya ayarlar[`Pen`](../) .
+Bu [`Pen`](../) için geometrik dönüşümün bir kopyasını alır veya ayarlar.
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kopyası[`Matrix`](../../matrix/) bunun için geometrik dönüşümü temsil eden[`Pen`](../).
+Bu [`Pen`](../) için geometrik dönüşümü temsil eden [`Matrix`](../../matrix/) kopyası.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`Transform` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `Transform` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,36 +1,37 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ShapeSegments.LineSegment sınıf. Doğrudan belirli bir noktadan bir sonraki noktaya giden bir segmenti temsil eder.
+title: "Sınıf LineSegment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ShapeSegments.LineSegment sınıfı. Belirli bir noktadan bir sonraki noktaya doğrudan giden bir segmenti temsil eder."
 type: docs
-weight: 5450
+weight: 5980
 url: /tr/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-Doğrudan belirli bir noktadan bir sonraki noktaya giden bir segmenti temsil eder.
+Belirli bir noktadan bir sonraki noktaya doğrudan giden bir segmenti temsil eder.
 
 ```csharp
 public class LineSegment : ShapeSegment
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Yeni bir örneğini başlatır.`LineSegment` sınıf. |
+| [LineSegment](linesegment/)(PointF, PointF) | `LineSegment` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Bitiş noktasını alır. |
 | override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Başlangıç noktasını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* ad alanı [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

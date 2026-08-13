@@ -1,28 +1,29 @@
 ---
-title: Cache.CacheType
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache mülk. Kullanılan önbellek düzenini alır veya ayarlar.
+title: "Cache.CacheType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache özelliği. Kullanılan önbellek şemasını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
-Kullanılan önbellek düzenini alır veya ayarlar.
+Kullanılan önbellek şemasını alır veya ayarlar.
 
 ```csharp
 public static CacheType CacheType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kullanılan önbellek düzeni.
+Kullanılan önbellek şeması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

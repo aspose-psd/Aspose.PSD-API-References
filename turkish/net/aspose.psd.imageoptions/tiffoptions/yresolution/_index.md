@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. y çözünürlüğünü alır veya ayarlar.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Y çözünürlüğünü alır veya ayarlar"
 type: docs
-weight: 690
+weight: 700
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
 y çözünürlüğünü alır veya ayarlar.
@@ -14,15 +15,15 @@ y çözünürlüğünü alır veya ayarlar.
 public TiffRational Yresolution { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-y çözünürlüğü.
+Y çözünürlüğü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Belirtilen verileri yazar.
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Belirtilen veriyi yazar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
-Belirtilen verileri yazar.
+Belirtilen veriyi yazar.
 
 ```csharp
 public void Write(byte[] data, int offset, int dataLength)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Yazılacak veriler. |
+| veri | Byte[] | Yazılacak veri. |
 | offset | Int32 | Veri ofseti. |
-| dataLength | Int32 | Yazılacak verinin uzunluğu. |
+| dataLength | Int32 | Yazıcıya yazılacak verinin uzunluğu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[]) {#write}
 
-Belirtilen verileri yazar.
+Belirtilen veriyi yazar.
 
 ```csharp
 public void Write(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Yazılacak veriler. |
+| veri | Byte[] | Yazılacak veri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

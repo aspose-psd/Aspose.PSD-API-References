@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.ActionDate
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceEvent mülk. Eylem tarihini alır veya ayarlar.
+title: "ResourceEvent.ActionDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceEvent özelliği. İşlem tarihini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.ActionDate property
 
 Eylem tarihini alır veya ayarlar.
@@ -14,14 +15,14 @@ Eylem tarihini alır veya ayarlar.
 public DateTime ActionDate { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Eylem tarihi.
+İşlem tarihi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceEvent](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

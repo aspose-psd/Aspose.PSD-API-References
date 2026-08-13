@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Belirtilen sırada bu Matrise belirtilen nokta etrafında saat yönünde dönüş uygular.
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Belirtilen nokta etrafında saat yönünde bir dönüş uygular ve bu dönüşü belirtilen sırada bu Matrix'e uygular."
 type: docs
 weight: 150
 url: /tr/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-Belirtilen sırada bu Matrise belirtilen nokta etrafında saat yönünde dönüş uygular.
+Bu Matrix'e, belirtilen nokta etrafında saat yönünde döndürmeyi, belirtilen sırada uygular.
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Açı. |
-| point | PointF | Nokta. |
-| order | MatrixOrder | Emir. |
+| açı | Single | Açı. |
+| nokta | PointF | Nokta. |
+| order | MatrixOrder | Sıra. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-Bu Matrise, varsayılan (Başa Ekleme) sırayla, belirtilen nokta etrafında saat yönünde bir dönüş uygular.
+Bu Matrix'e, belirtilen nokta etrafında saat yönünde döndürmeyi, varsayılan (Prepend) sırada uygular.
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Açı. |
-| point | PointF | Nokta. |
+| açı | Single | Açı. |
+| nokta | PointF | Nokta. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

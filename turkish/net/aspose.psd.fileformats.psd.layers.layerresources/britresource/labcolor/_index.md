@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Aspose.PSD for .NET API Referansı
-description: BritResource mülk. laboratuvar rengi. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "BritResource.LabColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BritResource özelliği. Laboratuvar rengini gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 50
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-[laboratuvar rengi]. olup olmadığını gösteren bir değer alır veya ayarlar.
+[lab color] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [laboratuvar rengi]; aksi takdirde,`YANLIŞ` .
+`true` eğer [lab color]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BritResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

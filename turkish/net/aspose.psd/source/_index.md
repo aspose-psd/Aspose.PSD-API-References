@@ -1,28 +1,29 @@
 ---
-title: Class Source
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Source sınıf. Kaynak bir nesne kanalıyla ilgili tüm bilgileri içermek için kullanılır.
+title: "Sınıf Source"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Source sınıfı. Kaynak, bir nesne borusu için ilgili tüm bilgileri tutmak amacıyla kullanılır."
 type: docs
-weight: 5580
+weight: 6110
 url: /tr/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-Kaynak, bir nesne kanalıyla ilgili tüm bilgileri içermek için kullanılır.
+Kaynak, bir nesne borusu için tüm ilgili bilgileri içermek üzere kullanılır.
 
 ```csharp
 public abstract class Source
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Akış kapsayıcısını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

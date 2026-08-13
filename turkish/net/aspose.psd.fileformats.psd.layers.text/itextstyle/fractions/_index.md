@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Kesirler sembolleri özel glyph. ile değiştirilebilir
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Kesir sembolleri özel glif ile değiştirilebilir"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-Kesirler sembolleri özel glyph. ile değiştirilebilir
+Kesir sembolleri özel glif ile değiştirilebilir.
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

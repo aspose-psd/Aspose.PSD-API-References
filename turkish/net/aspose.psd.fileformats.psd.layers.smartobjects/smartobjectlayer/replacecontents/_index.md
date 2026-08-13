@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ReplaceContents
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectLayer yöntem. Akıllı nesne katmanına katıştırılmış akıllı nesne içeriğini değiştirir.
+title: "SmartObjectLayer.ReplaceContents"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectLayer yöntemi. Akıllı nesne katmanına gömülü akıllı nesne içeriklerini değiştirir"
 type: docs
-weight: 140
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
+{{< psd/tize >}}
 ## ReplaceContents(Image) {#replacecontents}
 
-Akıllı nesne katmanına katıştırılmış akıllı nesne içeriğini değiştirir.
+Akıllı nesne katmanına gömülü akıllı nesne içeriğini değiştirir.
 
 ```csharp
 public void ReplaceContents(Image image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Görüntü. |
+| görüntü | Image | Görüntü. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Katıştırılmış Akıllı nesnelerin desteğini gösterir.
+Aşağıdaki kod, Gömülü Akıllı nesnelerin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, PSD dosyasındaki akıllı nesne katmanının nasıl değiştirileceğini ve akıllı nesne orijinal katıştırılmış içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir.
+// Bu örnek, PSD dosyasındaki akıllı nesne katmanını nasıl değiştireceğinizi ve akıllı nesnenin orijinal gömülü içeriğini dışa aktarma / güncelleme işlemini gösterir.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -65,7 +66,7 @@ foreach (FileFormat format in formats)
         // Gömülü akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
         smartObjectLayer.ExportContents(exportPath);
 
-        // Orijinal görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Orijinal görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Orijinal akıllı nesne görüntüsünü tersine çevirelim
+            // Orijinal akıllı nesne görüntüsünü ters çevirelim
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,59 +85,59 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Gömülü akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki gömülü akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Güncellenen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenen görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(Image, ResolutionSetting) {#replacecontents_1}
 
-Akıllı nesne katmanına katıştırılmış akıllı nesne içeriğini değiştirir.
+Akıllı nesne katmanına gömülü akıllı nesne içeriğini değiştirir.
 
 ```csharp
 public void ReplaceContents(Image image, ResolutionSetting resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Görüntü. |
-| resolution | ResolutionSetting | Çözünürlük ayarları. Null ise görüntü çözünürlüğü kullanılacaktır. |
+| görüntü | Image | Görüntü. |
+| çözünürlük | ResolutionSetting | Çözünürlük ayarları. Null ise görüntü çözünürlüğü kullanılacaktır. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Yalnızca katıştırılmış akıllı nesnenin yerini alabilir. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Yalnızca gömülü akıllı nesne değiştirilebilir. |
 
-### Örnekler
+## Örnekler
 
-Bu örnek, yeni içerik dosyası farklı bir çözünürlüğe sahip olduğunda, replaceContents yönteminin doğru çalıştığını gösterir.
+Bu örnek, yeni içerik dosyasının farklı bir çözünürlüğe sahip olduğunda ReplaceContents yönteminin doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, yeni içerik dosyası farklı bir çözünürlüğe sahip olduğunda, replaceContents yönteminin doğru çalıştığını gösterir.
+// Bu örnek, yeni içerik dosyasının farklı bir çözünürlüğe sahip olduğunda ReplaceContents yönteminin doğru çalıştığını gösterir.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // orijinal PSD görüntüsü
-string newContentPath = baseFolder + "image.jpg"; // akıllı nesne için yeni içerik dosyası
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // çıktı PNG dosyası
-string psdOutputPath = outputFilePath + ".psd"; // çıkış PSD dosyası
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -154,43 +155,66 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-İçeriği bir dosyayla değiştirir. Daha sonra UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
+İçeriği bir dosyayla değiştirir. Sonrasında UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | linkedPath | String | Bağlantılı yol. |
-| resolution | ResolutionSetting | Çözünürlük ayarları. Null ise görüntü çözünürlüğü kullanılacaktır. |
+| çözünürlük | ResolutionSetting | Çözünürlük ayarları. Null ise görüntü çözünürlüğü kullanılacaktır. |
 
-### Örnekler
+### Ayrıca Bakınız
 
-Bu örnek, yeni içerik dosyası farklı bir çözünürlüğe sahip olduğunda, replaceContents yönteminin doğru çalıştığını gösterir.
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, ResolutionSetting, bool) {#replacecontents_4}
+
+İçeriği bir dosyayla değiştirir. Sonrasında UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
+
+```csharp
+public void ReplaceContents(string linkedPath, ResolutionSetting resolution, bool isReplaceOnlyThis)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| linkedPath | String | Bağlantılı yol. |
+| çözünürlük | ResolutionSetting | Çözünürlük ayarları. Null ise görüntü çözünürlüğü kullanılacaktır. |
+| isReplaceOnlyThis | Boolean | Bayrak, bu Akıllı Katmandan içeriği değiştirmeyi mi yoksa bu içeriğe sahip tüm Akıllı Katmanlarda değiştirmeyi mi gösterir |
+
+## Örnekler
+
+Bu örnek, yeni içerik dosyasının farklı bir çözünürlüğe sahip olduğunda ReplaceContents yönteminin doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, yeni içerik dosyası farklı bir çözünürlüğe sahip olduğunda, replaceContents yönteminin doğru çalıştığını gösterir.
+// Bu örnek, yeni içerik dosyasının farklı bir çözünürlüğe sahip olduğunda ReplaceContents yönteminin doğru çalıştığını gösterir.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // orijinal PSD görüntüsü
-string newContentPath = baseFolder + "image.jpg"; // akıllı nesne için yeni içerik dosyası
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // çıktı PNG dosyası
-string psdOutputPath = outputFilePath + ".psd"; // çıkış PSD dosyası
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -208,30 +232,123 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+Aşağıdaki kod, aynı kaynak referansına sahip birçok akıllı nesnede içeriğin değiştirilmesini desteklediğini gösterir.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Bu, aynı bağlantıya sahip tüm akıllı katmanlarda aynı bağlamı değiştirecektir.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Bu, aynı içeriği kullanan tüm SmartLayers'teki içeriği değiştirecektir.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Bu, yalnızca seçilen katmanın bağlamını değiştirecek, diğerlerini aynı bağlamda bırakacaktır.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Yalnızca seçilen SmartLayer'daki içeriği değiştirir.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+### Ayrıca Bakınız
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-İçeriği bir dosyayla değiştirir. Daha sonra UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
+İçeriği bir dosyayla değiştirir. Sonrasında UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
 
 ```csharp
 public void ReplaceContents(string linkedPath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | linkedPath | String | Bağlantılı yol. |
 
-### Örnekler
+### Ayrıca Bakınız
 
-Aşağıdaki kod, Bağlantılı Akıllı nesnelerin güncellenmesi desteğini gösterir.
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, bool) {#replacecontents_5}
+
+İçeriği bir dosyayla değiştirir. Sonrasında UpdateModifiedContent yöntemini çağırmaya gerek yoktur.
+
+```csharp
+public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| linkedPath | String | Bağlantılı yol. |
+| isReplaceOnlyThis | Boolean | Bayrak, bu Akıllı Katmandan içeriği değiştirmeyi mi yoksa bu içeriğe sahip tüm Akıllı Katmanlarda değiştirmeyi mi gösterir |
+
+## Örnekler
+
+Aşağıdaki kod, aynı kaynak referansına sahip birçok akıllı nesnede içeriğin değiştirilmesini desteklediğini gösterir.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Bu, aynı bağlantıya sahip tüm akıllı katmanlarda aynı bağlamı değiştirecektir.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Bu, aynı içeriği kullanan tüm SmartLayers'teki içeriği değiştirecektir.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Bu, yalnızca seçilen katmanın bağlamını değiştirecek, diğerlerini aynı bağlamda bırakacaktır.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Yalnızca seçilen SmartLayer'daki içeriği değiştirir.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+Aşağıdaki kod, Bağlı Akıllı nesnelerin güncellenmesini desteklediğini gösterir.
 
 ```csharp
 [C#]
@@ -264,7 +381,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, harici veya katıştırılmış akıllı nesne katmanının şu yöntemleri kullanarak nasıl güncelleneceğini gösterir:
+// Bu örnek, bu yöntemleri kullanarak harici veya gömülü akıllı nesne katmanını nasıl güncelleyeceğinizi gösterir:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -278,7 +395,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Bu örnek, PSD dosyasındaki akıllı nesne katmanının nasıl değiştirileceğini ve içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir.
+    // Bu örnek, PSD dosyasındaki akıllı nesne katmanını nasıl değiştireceğinizi ve içeriğini dışa aktararak / güncelleyerek göstermek için hazırlanmıştır.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -299,8 +416,8 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Harici akıllı nesne görüntüsünü PSD akıllı nesne katmanından yeni bir konuma aktaralım
-            // çünkü değiştireceğiz.
+            // Harici akıllı nesne görüntüsünü PSD akıllı nesne katmanından yeni bir konuma dışa aktaralım
+            // çünkü onu değiştireceğiz.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
@@ -316,18 +433,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // Değiştirilen içeriğin işlemeyi henüz etkileyip etkilemediğini kontrol edelim.
+        // Değiştirilmiş içeriğin henüz renderlamayı etkilemediğini kontrol edelim.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Güncellenen içeriğin işlemeyi etkileyip etkilemediğini ve psd görüntüsünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenmiş içeriğin renderlamayı etkileyip etkilemediğini ve PSD görüntüsünün doğru şekilde kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Bu örnek, ConvertToLinked yöntemini kullanarak katıştırılmış akıllı nesnenin harici bağlantılı içeriğe nasıl dönüştürüleceğini gösterir.
+// Bu örnek, gömülü akıllı nesneyi ConvertToLinked yöntemiyle harici bağlı içeriklere nasıl dönüştüreceğinizi gösterir.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -347,7 +464,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Bu, PSD dosyasındaki gömülü bir akıllı nesne katmanının harici bir katmana nasıl dönüştürüleceğini gösterir.
+    // Bu, PSD dosyasındaki gömülü akıllı nesne katmanını harici bir katmana nasıl dönüştüreceğinizi gösterir.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -368,7 +485,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Dönüştürülen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Dönüştürülen görüntünün doğru şekilde kaydedilip kaydedilmediğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -385,7 +502,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Bu örnek, EmbedLinked yöntemi kullanılarak bir harici akıllı nesne katmanının veya tüm bağlantılı katmanların PSD dosyasına nasıl gömüleceğini gösterir.
+// Bu örnek, EmbedLinked yöntemiyle PSD dosyasına bir harici akıllı nesne katmanını veya tüm bağlı katmanları nasıl gömeceğinizi gösterir.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -429,7 +546,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Dönüştürülen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Dönüştürülen görüntünün doğru şekilde kaydedilip kaydedilmediğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -446,8 +563,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Bu örnek, Adobe® Photoshop® harici akıllı nesne katmanının nasıl değiştirileceğini ve içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir
-// ExportContents ve replaceContents yöntemlerini kullanarak.
+// Bu örnek, Adobe® Photoshop® harici akıllı nesne katmanını nasıl değiştireceğinizi ve içeriğini dışa aktararak / güncelleyerek göstermek için hazırlanmıştır
+// ExportContents ve ReplaceContents yöntemlerini kullanarak.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -473,10 +590,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Bağlantılı akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
+        // Bağlı akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
         smartObjectLayer.ExportContents(exportPath);
 
-        // Orijinal görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Orijinal görüntünün doğru şekilde kaydedildiğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -484,21 +601,21 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Bağlantılı akıllı nesne görüntüsünü ters çevirelim
+            // Bağlı akıllı nesne görüntüsünü tersine çevirelim
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Bağlantılı akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki bağlı akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Güncellenen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenen görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Görüntüyü ters çevirir.
+// Görüntüyü tersine çevirir.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -512,7 +629,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Raster görüntüyü ters çevirir.
+// Raster görüntüyü tersine çevirir.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -526,7 +643,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// biçim uzantısını alır.
+// Biçim uzantısını alır.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -534,10 +651,10 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

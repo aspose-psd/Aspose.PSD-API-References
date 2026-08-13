@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorMap mülk. Mevcut olanı alır veya ayarlarColor dönüştürülecek yapı.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorMap özelliği. Dönüştürülecek mevcut Color yapısını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-Mevcut olanı alır veya ayarlar[`Color`](../../color/) dönüştürülecek yapı.
+Dönüştürülecek mevcut [`Color`](../../color/) yapısını alır veya ayarlar.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Var olan[`Color`](../../color/) dönüştürülecek yapı.
+Dönüştürülecek mevcut [`Color`](../../color/) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* ad alanı [Aspose.PSD](../../colormap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

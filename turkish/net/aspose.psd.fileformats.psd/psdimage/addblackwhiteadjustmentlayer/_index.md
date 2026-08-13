@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Siyah beyaz ayarlama katmanını ekler.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage metodu. Siyah beyaz ayar katmanını ekler"
 type: docs
-weight: 290
+weight: 300
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Siyah beyaz ayarlama katmanını ekler.
+Siyah beyaz ayar katmanını ekler.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Oluşturulan siyah beyaz ayar katmanı.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, çalışma zamanında Aspose.PSD'de siyah beyaz ayarlama katmanını nasıl ekleyebileceğinizi gösterir.
+Aşağıdaki örnek, Aspose.PSD içinde çalışma zamanında siyah beyaz ayar katmanını nasıl ekleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

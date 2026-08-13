@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: IPsdColorPalette mülk. Saydam rengin indeksini alır.
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPsdColorPalette özelliği. Şeffaf rengin dizinini alır."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
-Saydam rengin indeksini alır.
+Şeffaf rengin indeksini alır.
 
 ```csharp
 public short TransparentIndex { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Saydam rengin indeksi.
+Şeffaf rengin dizini.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPsdColorPalette](../)
-* ad alanı [Aspose.PSD](../../ipsdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class InfxResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource sınıf. Sınıf InfxResource. Bu kaynak kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+title: "Sınıf InfxResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource sınıfı. Sınıf InfxResource. Bu kaynak, kırpılmış öğenin karıştırılması hakkında bilgi içerir."
 type: docs
-weight: 2550
+weight: 2860
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource class
 
-Sınıf InfxResource. Bu kaynak, kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+Sınıf InfxResource. Bu kaynak, kırpılmış öğenin karıştırılması hakkında bilgi içerir.
 
 ```csharp
 public class InfxResource : BooleanResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InfxResource](infxresource/#constructor)() | Yeni bir örneğini başlatır.`InfxResource` sınıf. |
-| [InfxResource](infxresource/#constructor_1)(bool) | Yeni bir örneğini başlatır.`InfxResource` sınıf. |
-| [InfxResource](infxresource/#constructor_2)(byte[]) | Yeni bir örneğini başlatır.`InfxResource` class. Özel veya bilinmeyen değerle |
+| [InfxResource](infxresource/#constructor)() | `InfxResource` sınıfının yeni bir örneğini başlatır. |
+| [InfxResource](infxresource/#constructor_1)(bool) | `InfxResource` sınıfının yeni bir örneğini başlatır. |
+| [InfxResource](infxresource/#constructor_2)(byte[]) | `InfxResource` sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen bir değerle |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | [iç öğeleri harmanla]. olup olmadığını belirten bir değer alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | İmzayı alır. |
+| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | Bu [blend interior elements] olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

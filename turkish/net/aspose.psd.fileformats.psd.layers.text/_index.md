@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı metin katmanlarının verilerini işlemek için API içerir
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, metin katmanı verilerini manipüle etmek için API içerir."
 type: docs
-weight: 340
+weight: 360
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/
 ---
-Ad alanı, metin katmanlarının verilerini işlemek için API içerir
+{{< psd/tize >}}
+Bu ad alanı, metin katmanlarının verilerini manipüle etmek için API içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | Yazı tipi hakkındaki bilgileri temsil eder. Bu sınıf miras alınamaz. |
+| [TextFontInfo](./textfontinfo/) | Yazı tipi hakkında bilgiyi temsil eder. Bu sınıf kalıtılamaz. |
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [IText](./itext/) | Metin Katmanları için Metin Düzenleme Arayüzü |
+| [IText](./itext/) | Metin Katmanları için Metin Düzenleme arayüzü |
 | [ITextParagraph](./itextparagraph/) | Paragraf ile çalışmak için arayüz |
-| [ITextPortion](./itextportion/) | Metin bölümlerini işlemek için arayüz |
-| [ITextStyle](./itextstyle/) | Metin Stili ile çalışacak arayüz |
+| [ITextPortion](./itextportion/) | Metin bölümlerini manipüle etmek için arayüz |
+| [ITextStyle](./itextstyle/) | Metin Stili ile çalışmak için arayüz |
 
 

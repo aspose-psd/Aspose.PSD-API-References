@@ -1,27 +1,28 @@
 ---
-title: Version.ModifiedDate
-second_title: Aspose.PSD for .NET API Referansı
-description: Version mülk. Değiştirilen tarihi alır veya ayarlar.
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Version özelliği. Değiştirilme tarihini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
-Değiştirilen tarihi alır veya ayarlar.
+Değiştirilme tarihini alır veya ayarlar.
 
 ```csharp
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değiştirilme tarihi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Version](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

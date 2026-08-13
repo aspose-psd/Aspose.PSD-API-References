@@ -1,27 +1,28 @@
 ---
-title: Font.ChildFontFiles
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bileşik bir yazı tipi oluşturan yazı tipleri için dosya adları dizisini alır veya ayarlar.
+title: "Font.ChildFontFiles"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bileşik bir fontu oluşturan fontların dosya adı dizisini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
-Bileşik bir yazı tipi oluşturan yazı tipleri için dosya adları dizisini alır veya ayarlar.
+Bileşik bir yazı tipini oluşturan yazı tipleri için dosya adı dizisini alır veya ayarlar.
 
 ```csharp
 public string[] ChildFontFiles { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bileşik bir yazı tipi oluşturan yazı tipleri için dosya adları dizisi.
+Bileşik bir fontu oluşturan fontların dosya adı dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

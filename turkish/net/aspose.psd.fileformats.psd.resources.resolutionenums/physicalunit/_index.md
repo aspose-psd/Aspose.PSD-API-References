@@ -1,32 +1,33 @@
 ---
-title: Enum PhysicalUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit Sıralama. resolutionInfo fiziksel birimi enum
+title: "Enum PhysicalUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. Çözünürlük bilgisi fiziksel birim enum'ı"
 type: docs
-weight: 3860
+weight: 4360
 url: /tr/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-resolutionInfo fiziksel birimi enum
+Bu resoulutionInfo fiziksel birim enum
 
 ```csharp
 public enum PhysicalUnit
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Inches | `1` | inç |
-| Centimeters | `2` | Santimetre |
+| Inches | `1` | İnçler |
+| Centimeters | `2` | Santimetreler |
 | Points | `3` | Puanlar |
-| Picas | `4` | Pikas ünitesi |
+| Picas | `4` | Pika birimi |
 | Columns | `5` | Sütunlar |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

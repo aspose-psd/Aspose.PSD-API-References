@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Belirtilen sırada bu Matris için başlangıç noktası sıfır x ve y koordinatları etrafında açı parametresinde belirtilen miktarda saat yönünde döndürme uygular.
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Açısal parametrede belirtilen miktarda saat yönünde bir dönüş uygular; bu dönüş, orijinde (x ve y sıfır koordinatları) bu Matrix için belirtilen sırada gerçekleştirilir."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Belirtilen sırada bu Matris için başlangıç noktası (sıfır x ve y koordinatları) etrafında açı parametresinde belirtilen miktarda saat yönünde döndürme uygular.
+Bu Matrix için, açı parametresinde belirtilen miktarda saat yönünde döndürmeyi, orijinin (sıfır x ve y koordinatları) etrafında, belirtilen sırada uygular.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Döndürme açısı. |
+| açı | Single | Dönüş açısı. |
 | order | MatrixOrder | Matris sırası. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Bu Matris için başlangıç noktası (sıfır x ve y koordinatları) etrafında, varsayılan (Başa eklenen) sırada, açı parametresinde belirtilen miktarda saat yönünde döndürme uygular.
+Bu Matrix için, açı parametresinde belirtilen miktarda saat yönünde döndürmeyi, orijinin (sıfır x ve y koordinatları) etrafında, varsayılan (Prepend) sırada uygular.
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Döndürme açısı. |
+| açı | Single | Dönüş açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

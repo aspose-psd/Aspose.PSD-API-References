@@ -1,27 +1,28 @@
 ---
-title: Graphics.IsInBeginUpdateCall
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Grafiklerin BeginUpdate çağrı durumunda olup olmadığını gösteren bir değer alır.
+title: "Graphics.IsInBeginUpdateCall"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Grafiklerin BeginUpdate çağrı durumunda olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/graphics/isinbeginupdatecall/
 ---
+{{< psd/tize >}}
 ## Graphics.IsInBeginUpdateCall property
 
-Grafiklerin BeginUpdate çağrı durumunda olup olmadığını gösteren bir değer alır.
+Grafiğin BeginUpdate çağrı durumunda olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsInBeginUpdateCall { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` grafikler BeginUpdate çağrı durumundaysa; aksi takdirde,`YANLIŞ` .
+`True` eğer grafikler BeginUpdate çağrı durumunda ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RgbMixerChannel.Red
-second_title: Aspose.PSD for .NET API Referansı
-description: RgbMixerChannel mülk. Kırmızıyı alır veya ayarlar.
+title: "RgbMixerChannel.Red"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RgbMixerChannel özelliği. Kırmızıyı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Red property
 
 Kırmızıyı alır veya ayarlar.
@@ -14,14 +15,14 @@ Kırmızıyı alır veya ayarlar.
 public short Red { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-kırmızı.
+Kırmızı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RgbMixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TiffDataType.Id
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Etiket kimliği tamsayı gösterimini alır.
+title: "TiffDataType.Id"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Etiket kimliğinin tam sayı temsilini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-Etiket kimliği tamsayı gösterimini alır.
+Etiket kimliğinin tam sayı temsilini alır.
 
 ```csharp
 public ushort Id { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

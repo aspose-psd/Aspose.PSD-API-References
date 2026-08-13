@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IPartialRawDataLoader arayüz. Kısmi veri yükleyici.
+title: "Arayüz IPartialRawDataLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IPartialRawDataLoader arayüzü. Kısmi veri yükleyici"
 type: docs
-weight: 4540
+weight: 5040
 url: /tr/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-Kısmi veri yükleyici.
+Kısmi veri yükleyicisi.
 
 ```csharp
 public interface IPartialRawDataLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Yüklenen verileri işler. |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Yüklenen verileri işler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

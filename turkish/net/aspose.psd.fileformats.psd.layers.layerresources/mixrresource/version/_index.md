@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: MixrResource mülk. Sürümü alır veya ayarlar.
+title: "MixrResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixrResource özelliği. Version değerini alır veya ayarlar"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public short Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sürüm. Varsayılan değer 1 'dir.
+Version. Varsayılan değer 1'dir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

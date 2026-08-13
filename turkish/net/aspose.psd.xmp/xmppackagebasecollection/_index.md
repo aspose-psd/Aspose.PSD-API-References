@@ -1,46 +1,47 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection sınıf. koleksiyonunu temsil ederXmpPackage .
+title: "Sınıf XmpPackageBaseCollection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.XmpPackageBaseCollection sınıfı. XmpPackage koleksiyonunu temsil eder."
 type: docs
-weight: 6280
+weight: 6810
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-koleksiyonunu temsil eder[`XmpPackage`](../xmppackage/) .
+[`XmpPackage`](../xmppackage/) koleksiyonunu temsil eder.
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpPackageBaseCollection](xmppackagebasecollection/)() | Default_Constructor |
+| [XmpPackageBaseCollection](xmppackagebasecollection/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Koleksiyondaki öğelerin sayısını alır. |
+| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Koleksiyondaki öğe sayısını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | Yeni örneğini ekler[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Tümünü temizle[`XmpPackage`](../xmppackage/) koleksiyon içinde. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Koleksiyonda yinelenen bir numaralandırıcı döndürür. |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | Alır[`XmpPackage`](../xmppackage/) namespaceURI. adına göre |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | dizisini al[`XmpPackage`](../xmppackage/) . |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | [`XmpPackage`](../xmppackage/) yeni bir örnek ekler. |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Koleksiyon içindeki tüm [`XmpPackage`](../xmppackage/) öğelerini temizler. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Bir koleksiyon içinde yineleme yapan bir enumerator döndürür. |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | [`XmpPackage`](../xmppackage/) öğesini namespaceURI'sine göre alır. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | [`XmpPackage`](../xmppackage/) dizisini al. |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | Belirtilen XMP paketini kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../xmppackage/)
-* ad alanı [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

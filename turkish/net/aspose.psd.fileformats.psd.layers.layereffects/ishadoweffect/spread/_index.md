@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Spread
-second_title: Aspose.PSD for .NET API Referansı
-description: IShadowEffect mülk. Yoğunluğu yüzde olarak alır veya ayarlar.
+title: "IShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IShadowEffect property. Yoğunluğu yüzde olarak alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
 Yoğunluğu yüzde olarak alır veya ayarlar.
@@ -14,14 +15,14 @@ Yoğunluğu yüzde olarak alır veya ayarlar.
 public int Spread { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Forma.
+Yayılım.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

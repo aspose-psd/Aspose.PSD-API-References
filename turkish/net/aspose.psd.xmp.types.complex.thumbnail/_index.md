@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bir dosya için küçük resim olan sınıfı içerir.
+title: "Aspose.PSD.Xmp.Types.Complex.Thumbnail"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, bir dosya için küçük resim görüntüsü olan sınıfı içerir."
 type: docs
-weight: 680
+weight: 720
 url: /tr/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
-Ad alanı, bir dosya için küçük resim olan sınıfı içerir.
+{{< psd/tize >}}
+Namespace, bir dosya için küçük resim görüntüsü olan sınıfı içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [Thumbnail](./thumbnail/) | Bir dosya için küçük resim görüntüsünü temsil eder. |
 

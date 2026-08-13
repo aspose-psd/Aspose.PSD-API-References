@@ -1,27 +1,28 @@
 ---
-title: RectangleF.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Bunun için hash kodunu alırRectangleFyapı.
+title: "RectangleF.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Bu RectangleF yapısı için karma kodunu alır."
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/rectanglef/gethashcode/
 ---
+{{< psd/tize >}}
 ## RectangleF.GetHashCode method
 
-Bunun için hash kodunu alır[`RectangleF`](../)yapı.
+Bu [`RectangleF`](../) yapısı için karma kodunu alır.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun için hash kodu[`RectangleF`](../).
+Bu [`RectangleF`](../) için karma kodu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

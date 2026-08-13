@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Inequality
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. Belirtilen noktaların koordinatlarının eşit olup olmadığını belirler.
+title: "PointF.op_Inequality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. Belirtilen noktaların koordinatlarının eşit olmamasını belirler"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
-Belirtilen noktaların koordinatlarının eşit olup olmadığını belirler.
+Belirtilen noktaların koordinatlarının eşit olmadığını belirler.
 
 ```csharp
 public static bool operator !=(PointF point1, PointF point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | PointF | bir ilk[`PointF`](../) karşılaştırmak. |
-| point2 | PointF | Bir saniye[`PointF`](../) karşılaştırmak. |
+| point1 | PointF | Karşılaştırmak için birinci [`PointF`](../). |
+| point2 | PointF | Karşılaştırmak için ikinci [`PointF`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-belirtmek için doğru[`X`](../x/) Ve[`Y`](../y/) değerleri*point1* Ve*point2* eşit değildir; Aksi takdirde, yanlış.
+True, *point1* ve *point2*'nin [`X`](../x/) ve [`Y`](../y/) değerlerinin eşit olmamasını göstermek için; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

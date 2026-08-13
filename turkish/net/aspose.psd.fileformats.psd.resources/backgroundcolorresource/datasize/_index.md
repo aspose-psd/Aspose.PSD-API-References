@@ -1,26 +1,27 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: BackgroundColorResource mülk. Kaynak veri boyutunu bayt cinsinden alır.
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BackgroundColorResource özelliği. Kaynak veri boyutunu bayt cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
-Kaynak veri boyutunu bayt cinsinden alır.
+Kaynak veri boyutunu bayt olarak alır.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kaynak veri boyutu.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, BackgroundColorResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, BackgroundColorResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -41,17 +42,17 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BackgroundColorResource'u güncelle
+    // BackgroundColorResource güncelle
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BackgroundColorResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

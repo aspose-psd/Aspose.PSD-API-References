@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Görüntü için parlaklık ayarı.
+title: "RasterImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Görüntünün parlaklığını ayarlar."
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/rasterimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustBrightness method
 
-Görüntü için parlaklık ayarı.
+Görüntünün parlaklığını ayarlar.
 
 ```csharp
 public virtual void AdjustBrightness(int brightness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightness | Int32 | Parlaklık değeri. |
+| parlaklık | Int32 | Parlaklık değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

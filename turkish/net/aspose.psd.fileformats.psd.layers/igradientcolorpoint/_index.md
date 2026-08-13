@@ -1,30 +1,31 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint arayüz. Dolgu ayarları için temel arayüz
+title: "Arayüz IGradientColorPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint arayüzü. Doldurma ayarları için temel arayüz."
 type: docs
-weight: 2060
+weight: 2240
 url: /tr/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
-Dolgu ayarları için temel arayüz
+Doldurma ayarları için temel arayüz
 
 ```csharp
 public interface IGradientColorPoint
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Konumu alır veya ayarlar. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Medyan nokta konumunu alır veya ayarlar. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Ham rengi alır veya ayarlar. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Konumu alır veya ayarlar. Değer aralığı 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Orta nokta konumunu alır veya ayarlar. Değer aralığı 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Hamın rengini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

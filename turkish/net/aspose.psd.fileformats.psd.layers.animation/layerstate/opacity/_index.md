@@ -1,11 +1,12 @@
 ---
-title: LayerState.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerState mülk. Opaklık değerini alır veya ayarlar.
+title: "LayerState.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerState özelliği. Opaklık değerini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/
 ---
+{{< psd/tize >}}
 ## LayerState.Opacity property
 
 Opaklık değerini alır veya ayarlar.
@@ -14,10 +15,10 @@ Opaklık değerini alır veya ayarlar.
 public double Opacity { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerState](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

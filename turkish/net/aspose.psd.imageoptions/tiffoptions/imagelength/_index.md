@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageLength
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Görüntü uzunluğunu alır veya ayarlar.
+title: "TiffOptions.ImageLength"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Görüntü uzunluğunu alır veya ayarlar"
 type: docs
-weight: 200
+weight: 210
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/imagelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageLength property
 
 Görüntü uzunluğunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü uzunluğunu alır veya ayarlar.
 public uint ImageLength { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

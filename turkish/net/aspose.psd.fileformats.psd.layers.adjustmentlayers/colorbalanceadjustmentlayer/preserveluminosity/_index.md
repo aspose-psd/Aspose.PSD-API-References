@@ -1,26 +1,27 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBalanceAdjustmentLayer mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.BlncResource parlaklığı korur.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBalanceAdjustmentLayer özelliği. Bu BlncResource'un parlaklığı koruyup korumadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) parlaklığı korur.
+Bu [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) parlaklığı koruyup korumadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` parlaklığı koruyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer parlaklığı koruyorsa; aksi takdirde, `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, ColorBalanceAdjustmentLayer için desteği gösterir.
+Aşağıdaki kod, ColorBalanceAdjustmentLayer desteğini gösterir.
 
 ```csharp
 [C#]
@@ -51,10 +52,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. olup olmadığını test ederobj birRectanglebununla aynı konum ve büyüklükteki yapıRectangleyapı.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. obj'nin bu Rectangle yapısı ile aynı konuma ve boyuta sahip bir Rectangle yapısı olup olmadığını test eder."
 type: docs
 weight: 230
 url: /tr/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-olup olmadığını test eder*obj* bir[`Rectangle`](../)bununla aynı konum ve büyüklükteki yapı[`Rectangle`](../)yapı.
+*obj*'nin bu [`Rectangle`](../) yapısı ile aynı konuma ve boyuta sahip bir [`Rectangle`](../) yapısı olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject test etmek |
+| obj | Nesne | Test edilecek Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu yöntem şu durumlarda true değerini döndürür:*obj* bir[`Rectangle`](../) yapısı ve onun[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Ve[`Height`](../height/) özellikler, bunun karşılık gelen özelliklerine eşittir[`Rectangle`](../) yapı; Aksi takdirde, yanlış.
+Bu yöntem, *obj* bir [`Rectangle`](../) yapısı ise ve onun [`X`](../x/), [`Y`](../y/), [`Width`](../width/) ve [`Height`](../height/) özellikleri bu [`Rectangle`](../) yapısının ilgili özelliklerine eşit ise true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

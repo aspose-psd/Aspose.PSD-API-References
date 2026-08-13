@@ -1,33 +1,34 @@
 ---
-title: Enum EventType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ProgressManagement.EventType Sıralama. Bu sıralama görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olay türlerini açıklar
+title: "Enum EventType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ProgressManagement.EventType enum. Bu enum, görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olayı türlerini tanımlar"
 type: docs
-weight: 5290
+weight: 5820
 url: /tr/net/aspose.psd.progressmanagement/eventtype/
 ---
+{{< psd/tize >}}
 ## EventType enumeration
 
-Bu sıralama, görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olay türlerini açıklar
+Bu enum, görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olayı türlerini tanımlar
 
 ```csharp
 public enum EventType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| RelativeProgress | `0` | İşlemin geçerli aşamasının göreli ilerlemesi |
+| RelativeProgress | `0` | İşlem işleme aşamasının mevcut aşamasının göreceli ilerlemesi |
 | StageChange | `1` | İşlemin bir sonraki aşaması başladı |
-| Initialization | `2` | işlemin başlatılması |
+| Initialization | `2` | İşlemin başlatılması |
 | PreProcessing | `3` | Ön işleme |
 | Processing | `4` | İşleme |
-| Finalization | `5` | İşlemin sonuçlandırılması |
+| Finalization | `5` | İşlemin sonlandırılması |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelAspectRatioResource mülk. En boy oranını alır veya ayarlar.
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelAspectRatioResource özelliği. En boy oranını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
-En boy oranını alır veya ayarlar.
+En‑boy oranını alır veya ayarlar.
 
 ```csharp
 public double AspectRatio { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 En boy oranı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelAspectRatioResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

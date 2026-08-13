@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToPointF
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. dönüştürürSizeF birPointF .
+title: "SizeF.ToPointF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bir SizeF'yi bir PointF'ye dönüştürür"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/sizef/topointf/
 ---
+{{< psd/tize >}}
 ## SizeF.ToPointF method
 
-dönüştürür[`SizeF`](../) bir[`PointF`](../../pointf/) .
+Bir [`SizeF`](../) bir [`PointF`](../../pointf/) nesnesine dönüştürür.
 
 ```csharp
 public PointF ToPointF()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bir döndürür[`PointF`](../../pointf/) yapı.
+Bir [`PointF`](../../pointf/) yapısı döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

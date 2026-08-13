@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Görüntü için parlaklık ayarı.
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage yöntemi. Görüntünün parlaklığını ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
-Görüntü için parlaklık ayarı.
+Görüntünün parlaklığını ayarlar.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightness | Int32 | Parlaklık değeri. |
+| parlaklık | Int32 | Parlaklık değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

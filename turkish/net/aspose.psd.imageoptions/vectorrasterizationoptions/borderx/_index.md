@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorRasterizationOptions mülk. Kenarlığı alır veya ayarlar X.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorRasterizationOptions özelliği. Kenar X'i alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-Kenarlığı alır veya ayarlar X.
+Alır veya ayarlar kenar X'i.
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kenarlık X.
+Kenar X.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorRasterizationOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

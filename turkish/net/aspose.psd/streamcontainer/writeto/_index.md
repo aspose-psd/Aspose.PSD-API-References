@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer yöntem. İçerilen verileri bir başkasına kopyalarStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer yöntemi. İçerilen veriyi başka bir StreamContainer'a kopyalar"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-İçerilen verileri bir başkasına kopyalar[`StreamContainer`](../) .
+İçerilen veriyi başka bir [`StreamContainer`](../) kopyalar.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kopyalanacak akış kapsayıcısı. |
+| streamContainer | StreamContainer | Kopyalanacak akış konteyneri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-İçerilen verileri bir başkasına kopyalar[`StreamContainer`](../) .
+İçerilen veriyi başka bir [`StreamContainer`](../) kopyalar.
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kopyalanacak akış kapsayıcısı. |
-| length | Int64 | Bayt yazmak için sayılır. |
+| streamContainer | StreamContainer | Kopyalanacak akış konteyneri. |
+| uzunluk | Int64 | Yazılacak bayt sayısı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | Kopyalama işlemi tamamlanamıyor. Okunamıyor + sayı + bayt. |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | Kopyalama işlemi tamamlanamıyor. Okunamıyor + sayım + bayt. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleExtensions yöntem. İki dikdörtgeni birleştirir.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleExtensions yöntemi. İki dikdörtgeni birleştirir."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
 İki dikdörtgeni birleştirir.
@@ -14,20 +15,20 @@ url: /tr/net/aspose.psd.extensions/rectangleextensions/unionwith/
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | İlk dikdörtgen. |
+| dikdörtgen | RectangleF | İlk dikdörtgen. |
 | otherRectangle | RectangleF | İkinci dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Birleşim işlemi sonucu olarak yeni dikdörtgen
+Birleşim işlemi sonucu yeni dikdörtgen
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* ad alanı [Aspose.PSD.Extensions](../../rectangleextensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

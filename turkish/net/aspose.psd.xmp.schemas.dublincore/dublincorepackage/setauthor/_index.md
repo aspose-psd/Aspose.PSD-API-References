@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Yazarı ekler.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Yazar ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 Yazarı ekler.
@@ -14,15 +15,15 @@ Yazarı ekler.
 public void SetAuthor(string author)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| author | String | Yazar. |
+| yazar | String | Yazar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Yazarı ekler.
 public void SetAuthor(string[] author)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| author | String[] | Yazar. |
+| yazar | String[] | Yazar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

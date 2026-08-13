@@ -1,11 +1,12 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussWienerFilterOptions mülk. Yarıçapı alır veya ayarlar.
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussWienerFilterOptions özelliği. Yarıçapı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
 Yarıçapı alır veya ayarlar.
@@ -14,14 +15,14 @@ Yarıçapı alır veya ayarlar.
 public int Radius { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yarıçap.
+radius.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussWienerFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

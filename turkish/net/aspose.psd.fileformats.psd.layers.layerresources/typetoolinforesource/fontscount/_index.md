@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.FontsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Yazı tipi sayısını alır.
+title: "TypeToolInfoResource.FontsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Yazı tiplerinin sayısını alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontsCount property
 
-Yazı tipi sayısını alır.
+yazı tipleri sayısını alır.
 
 ```csharp
 public short FontsCount { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

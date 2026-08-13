@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTaskState yöntem. Eşzamansız görevin ilerlemesini ayarlar.
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTaskState yöntemi. Asenkron görevin ilerlemesini ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
-Eşzamansız görevin ilerlemesini ayarlar.
+Asenkron görevin ilerlemesini ayarlar.
 
 ```csharp
 public void SetProgress(int progressPercentage)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | progressPercentage | Int32 | İlerleme yüzdesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IAsyncTaskState](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

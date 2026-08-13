@@ -1,23 +1,24 @@
 ---
-title: XmpPackageBaseCollection.Clear
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackageBaseCollection yöntem. Tümünü temizleXmpPackage koleksiyon içinde.
+title: "XmpPackageBaseCollection.Clear"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackageBaseCollection yöntemi. Koleksiyon içindeki tüm XmpPackage'ları temizler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmppackagebasecollection/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Clear method
 
-Tümünü temizle[`XmpPackage`](../../xmppackage/) koleksiyon içinde.
+Koleksiyon içindeki tüm [`XmpPackage`](../../xmppackage/) öğelerini temizler.
 
 ```csharp
 public void Clear()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackageBaseCollection](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

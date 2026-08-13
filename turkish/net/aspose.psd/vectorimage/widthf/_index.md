@@ -1,27 +1,28 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorImage mülk. Nesne genişliğini inç cinsinden alır.
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorImage özelliği. Nesnenin genişliğini inç cinsinden alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
-Nesne genişliğini inç cinsinden alır.
+Nesnenin genişliğini inç cinsinden alır.
 
 ```csharp
 public virtual float WidthF { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İnç cinsinden nesne genişliği.
+Nesnenin genişliği, inç cinsinden.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorImage](../)
-* ad alanı [Aspose.PSD](../../vectorimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

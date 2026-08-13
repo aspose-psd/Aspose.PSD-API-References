@@ -1,27 +1,24 @@
 ---
-title: Lr32Resource.Lr32Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Lr32Resource inşaatçı. Yeni bir örneğini başlatır.Lr32Resource sınıf.
+title: "Lr32Resource.Lr32Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lr32Resource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource constructor
 
-Yeni bir örneğini başlatır.[`Lr32Resource`](../) sınıf.
+Varsayılan yapıcı.
 
 ```csharp
-public Lr32Resource(int length)
+public Lr32Resource()
 ```
 
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| length | Int32 | Uzunluk. |
-
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lr32Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

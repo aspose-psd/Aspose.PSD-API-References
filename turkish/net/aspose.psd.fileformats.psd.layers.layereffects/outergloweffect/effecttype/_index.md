@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Bir tür efekt alır type
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Etki türünün tipini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
-Bir tür efekt alır type
+Bir efekt türünü alır.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

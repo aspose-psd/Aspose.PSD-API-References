@@ -1,11 +1,12 @@
 ---
-title: InitialFillRuleRecord.Type
-second_title: Aspose.PSD for .NET API Referansı
-description: InitialFillRuleRecord mülk. Türü alır.
+title: "InitialFillRuleRecord.Type"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InitialFillRuleRecord özelliği. Türü alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord.Type property
 
 Türü alır.
@@ -14,15 +15,15 @@ Türü alır.
 public override VectorPathType Type { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [InitialFillRuleRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

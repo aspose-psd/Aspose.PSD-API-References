@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.FauxItalic
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Sahte kalın özelliği etkinleştirir veya etkinleştirir.
+title: "ITextStyle.FauxItalic"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Sahte kalınlık etkinliğini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxItalic property
 
-Sahte kalın özelliği etkinleştirir veya etkinleştirir.
+Sahte kalın etkinleştirilmiş durumunu alır veya ayarlar.
 
 ```csharp
 public bool FauxItalic { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

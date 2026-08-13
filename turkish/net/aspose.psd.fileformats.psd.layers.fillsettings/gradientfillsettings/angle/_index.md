@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Açıyı alır veya ayarlar.
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Açıyı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
 Açıyı alır veya ayarlar.
@@ -14,20 +15,20 @@ Açıyı alır veya ayarlar.
 public double Angle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Açı -180,0 ila 180,0 aralığında olmalıdır |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Açı -180.0 ile 180.0 arasında olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

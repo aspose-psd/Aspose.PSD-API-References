@@ -1,24 +1,25 @@
 ---
-title: AiImage.FileFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. dosya formatı değerini alır
+title: "AiImage.FileFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Dosya formatının değerini alır"
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/fileformat/
 ---
+{{< psd/tize >}}
 ## AiImage.FileFormat property
 
-dosya formatı değerini alır
+Dosya formatının değerini alır.
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

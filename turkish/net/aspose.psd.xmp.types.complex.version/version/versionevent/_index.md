@@ -1,28 +1,29 @@
 ---
-title: Version.VersionEvent
-second_title: Aspose.PSD for .NET API Referansı
-description: Version mülk. Şunu alır veya ayarlarResourceEvent .
+title: "Version.VersionEvent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Version özelliği. ResourceEvent'i alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/versionevent/
 ---
+{{< psd/tize >}}
 ## Version.VersionEvent property
 
-Şunu alır veya ayarlar:[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) .
+[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) öğesini alır veya ayarlar.
 
 ```csharp
 public ResourceEvent VersionEvent { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm olayı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

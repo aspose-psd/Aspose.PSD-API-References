@@ -1,11 +1,12 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrushBase mülk. Bu fırçanın üzerine inşa edildiği grafik yolunu alır.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrushBase özelliği. Bu fırçanın üzerine inşa edildiği grafik yolunu alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
 Bu fırçanın üzerine inşa edildiği grafik yolunu alır.
@@ -14,15 +15,15 @@ Bu fırçanın üzerine inşa edildiği grafik yolunu alır.
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Grafik yolu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

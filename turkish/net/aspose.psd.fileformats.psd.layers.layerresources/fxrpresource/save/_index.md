@@ -1,29 +1,30 @@
 ---
-title: FxrpResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource yöntem. Belirtilen akış kapsayıcısına kaydeder.
+title: "FxrpResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource yöntemi. Belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 80
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Save method
 
-Belirtilen akış kapsayıcısına kaydeder.
+Belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

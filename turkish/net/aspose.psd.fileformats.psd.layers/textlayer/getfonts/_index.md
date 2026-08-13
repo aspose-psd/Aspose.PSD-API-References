@@ -1,11 +1,12 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer yöntem. Metin katmanının yazı tipi kümesini alır.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer yöntemi. Metin katmanının yazı tipi kümesini alır"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
 Metin katmanının yazı tipi kümesini alır.
@@ -14,13 +15,13 @@ Metin katmanının yazı tipi kümesini alır.
 public TextFontInfo[] GetFonts()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Metin katmanının yazı tipleri kümesi.
+Metin katmanının yazı tipi kümesi.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Aspose.PSD'nin Metin Katmanı'nın satır içi biçimlendirme özelliklerini nasıl elde ettiğini gösterir.
+Aşağıdaki kod, Aspose.PSD'nin Metin Katmanı'nın satır içi biçimlendirme özelliklerini nasıl aldığını gösterir.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

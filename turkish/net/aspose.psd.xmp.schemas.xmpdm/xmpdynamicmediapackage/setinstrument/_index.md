@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetInstrument
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Aleti ayarlar.
+title: "XmpDynamicMediaPackage.SetInstrument"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Enstrümanı ayarlar"
 type: docs
 weight: 240
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetInstrument method
 
-Aleti ayarlar.
+Enstrümanı ayarlar.
 
 ```csharp
 public void SetInstrument(string instrument)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | instrument | String | Enstrüman. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

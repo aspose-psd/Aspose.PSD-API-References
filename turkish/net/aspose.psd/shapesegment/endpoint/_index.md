@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: ShapeSegment mülk. Bitiş noktasını alır.
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShapeSegment özelliği. Bitiş noktasını alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
 Bitiş noktasını alır.
@@ -14,15 +15,15 @@ Bitiş noktasını alır.
 public abstract PointF EndPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Bitiş noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* ad alanı [Aspose.PSD](../../shapesegment/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

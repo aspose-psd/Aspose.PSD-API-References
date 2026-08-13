@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.AlphaNames
-second_title: Aspose.PSD for .NET API Referansı
-description: UnicodeAlphaNamesResource mülk. Alfa adlarını alır veya ayarlar.
+title: "UnicodeAlphaNamesResource.AlphaNames"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnicodeAlphaNamesResource özelliği. alfa adlarını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.AlphaNames property
 
 Alfa adlarını alır veya ayarlar.
@@ -14,14 +15,14 @@ Alfa adlarını alır veya ayarlar.
 public string AlphaNames { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Alfa adları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnicodeAlphaNamesResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

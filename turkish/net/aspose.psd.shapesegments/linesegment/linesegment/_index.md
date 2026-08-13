@@ -1,29 +1,30 @@
 ---
-title: LineSegment.LineSegment
-second_title: Aspose.PSD for .NET API Referansı
-description: LineSegment inşaatçı. Yeni bir örneğini başlatır.LineSegment sınıf.
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LineSegment yapıcı. LineSegment sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-Yeni bir örneğini başlatır.[`LineSegment`](../) sınıf.
+[`LineSegment`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | startPoint | PointF | Başlangıç noktası. |
 | endPoint | PointF | Bitiş noktası. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* ad alanı [Aspose.PSD.ShapeSegments](../../linesegment/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

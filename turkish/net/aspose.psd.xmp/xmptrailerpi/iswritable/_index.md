@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpTrailerPi mülk. Bu örneğin yazılabilir olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpTrailerPi özelliği. Bu örneğin yazılabilir olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-Bu örneğin yazılabilir olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin yazılabilir olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek yazılabilir ise; aksi takdirde,`YANLIŞ` .
+`true` bu örnek yazılabilir ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

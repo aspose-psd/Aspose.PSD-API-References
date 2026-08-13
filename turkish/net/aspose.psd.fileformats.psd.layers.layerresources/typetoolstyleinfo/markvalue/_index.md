@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.MarkValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. İşaret değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.MarkValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. İşaret değerini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.MarkValue property
 
 İşaret değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public short MarkValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 İşaret değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: LspfResource alan. Tip aracı bilgi anahtarı 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LspfResource alanı. Tip aracı bilgi anahtarı 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı 1819504742
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı 1819504742
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LspfResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

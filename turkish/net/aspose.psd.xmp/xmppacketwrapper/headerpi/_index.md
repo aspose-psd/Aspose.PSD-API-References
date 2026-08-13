@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper mülk. Başlık işleme talimatını alır.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper özelliği. Başlık işlem talimatını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
 Başlık işleme talimatını alır.
@@ -14,15 +15,15 @@ Başlık işleme talimatını alır.
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Başlık işleme talimatı.
+Başlık işlem talimatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

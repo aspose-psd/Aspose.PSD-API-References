@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Görüntü genişliğini alır.
+title: "AiImage.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Görüntünün genişliğini alır"
 type: docs
-weight: 120
+weight: 140
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 Görüntü genişliğini alır.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır.
 public override int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

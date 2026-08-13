@@ -1,45 +1,46 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager sınıf. Eğrileri yöneten Eğri Ayarlama Katmanı Yöneticisi
+title: "Sınıf CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager sınıfı. Eğrileri manipüle eden Curves Adjustment Layer için yönetici"
 type: docs
-weight: 2410
+weight: 2670
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-Eğrileri yöneten Eğri Ayarlama Katmanı Yöneticisi
+Eğriler Ayarlama Katmanı yöneticisi, eğrileri manipüle eder
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Yeni bir örneğini başlatır.`CurvesContinuousManager` sınıf. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Yeni bir `CurvesContinuousManager` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Maksimum kanal sayısını alır. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Azami kanal sayısını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | Eğrinin noktasını ekler. |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Eğri noktasını index. ile alır |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Eğri noktası sayısını alır. |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Eğrinin noktasını kaldırır. |
-| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Eğrinin noktasını günceller. |
+| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | Eğri noktasını ekler. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Eğri noktasını indeksle alır. |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Eğri nokta sayısını alır. |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Eğri noktasını kaldırır. |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Eğri noktasını günceller. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesManager](../curvesmanager/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

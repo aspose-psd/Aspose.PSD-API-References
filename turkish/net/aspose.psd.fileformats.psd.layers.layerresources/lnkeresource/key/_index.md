@@ -1,11 +1,12 @@
 ---
-title: LnkeResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: LnkeResource mülk. Adobe Photoshop genel kaynak anahtarını alır.
+title: "LnkeResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LnkeResource özelliği. Adobe Photoshop genel kaynak anahtarını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/
 ---
+{{< psd/tize >}}
 ## LnkeResource.Key property
 
 Adobe® Photoshop® genel kaynak anahtarını alır.
@@ -14,10 +15,10 @@ Adobe® Photoshop® genel kaynak anahtarını alır.
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LnkeResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

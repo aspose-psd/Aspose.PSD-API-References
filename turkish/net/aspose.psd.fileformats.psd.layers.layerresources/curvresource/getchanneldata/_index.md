@@ -1,31 +1,32 @@
 ---
-title: CurvResource.GetChannelData
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource yöntem. Kanal verilerini alır.
+title: "CurvResource.GetChannelData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource yöntemi. Kanal verisini alır"
 type: docs
-weight: 70
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetChannelData method
 
-Kanal verilerini alır.
+Kanal verisini alır.
 
 ```csharp
 public byte[] GetChannelData(int channelIndex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-kanal verileri
+Kanal verisi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

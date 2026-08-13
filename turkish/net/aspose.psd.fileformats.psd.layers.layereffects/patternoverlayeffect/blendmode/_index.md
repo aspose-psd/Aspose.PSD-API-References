@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.BlendMode
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternOverlayEffect mülk. Karışım modunu alır veya ayarlar.
+title: "PatternOverlayEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternOverlayEffect özelliği. Karışım modunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.BlendMode property
 
 Karışım modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Karışım modunu alır veya ayarlar.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [PatternOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

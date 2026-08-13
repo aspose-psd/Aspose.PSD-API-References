@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Noise
-second_title: Aspose.PSD for .NET API Referansı
-description: IShadowEffect mülk. Gürültüyü alır veya ayarlar.
+title: "IShadowEffect.Noise"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IShadowEffect özelliği. Gürültüyü alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Noise property
 
 Gürültüyü alır veya ayarlar.
@@ -14,20 +15,20 @@ Gürültüyü alır veya ayarlar.
 public int Noise { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gürültü.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, 0 ila 100 aralığında yüzde olarak belirtilmelidir |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, yüzde olarak 0 ile 100 arasında belirtilmelidir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

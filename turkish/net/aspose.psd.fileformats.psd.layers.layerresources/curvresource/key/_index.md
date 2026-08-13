@@ -1,23 +1,24 @@
 ---
-title: CurvResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource mülk. Katman kaynak anahtarını alır.
+title: "CurvResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/key/
 ---
+{{< psd/tize >}}
 ## CurvResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

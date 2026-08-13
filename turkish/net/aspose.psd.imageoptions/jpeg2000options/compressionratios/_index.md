@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Aspose.PSD for .NET API Referansı
-description: Jpeg2000Options mülk. Dizi sıkıştırma oranını alır veya ayarlar. Ardışık katmanlar için farklı sıkıştırma oranları. Her kalite seviyesi için belirtilen oran istenen sıkıştırma faktörüdür. Azalan oranlar gerekir.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Jpeg2000Options özelliği. Sıkıştırma oranı dizisini alır veya ayarlar. Ardışık katmanlar için farklı sıkıştırma oranları. Her kalite seviyesi için belirtilen oran istenen sıkıştırma faktörüdür. Azalan oranlar gereklidir."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-Dizi sıkıştırma oranını alır veya ayarlar. Ardışık katmanlar için farklı sıkıştırma oranları. Her kalite seviyesi için belirtilen oran, istenen sıkıştırma faktörüdür. Azalan oranlar gerekir.
+Sıkıştırma oranı Array'ini alır veya ayarlar. Ardışık katmanlar için farklı sıkıştırma oranları. Her kalite seviyesi için belirtilen oran, istenen sıkıştırma faktörüdür. Azalan oranlar gereklidir.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sıkıştırma oranları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Jpeg2000Options](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

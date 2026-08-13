@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange Sıralama. exif özne mesafe aralığı enum.
+title: "Enum ExifSubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange enum. exif konu mesafe aralığı enumu"
 type: docs
-weight: 950
+weight: 960
 url: /tr/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif özne mesafe aralığı enum.
+exif nesne mesafe aralığı sayımı.
 
 ```csharp
 public enum ExifSubjectDistanceRange
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Unknown | `0` | Bilinmeyen nesne mesafesi range |
-| Macro | `1` | Makro aralığı |
-| CloseView | `2` | Görünümü kapat. |
-| DistantView | `3` | Uzak görünüm. |
+| Unknown | `0` | Bilinmeyen konu mesafe aralığı |
+| Macro | `1` | Makro aralık |
+| CloseView | `2` | Yakın görüş. |
+| DistantView | `3` | Uzak görüş. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

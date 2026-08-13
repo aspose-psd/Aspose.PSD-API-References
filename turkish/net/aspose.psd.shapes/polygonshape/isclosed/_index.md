@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-Şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar.
+Şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` şekil kapalı ise; aksi takdirde,`YANLIŞ`.
+`true` eğer şekil kapalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

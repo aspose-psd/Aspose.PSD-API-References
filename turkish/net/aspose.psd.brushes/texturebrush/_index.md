@@ -1,65 +1,66 @@
 ---
-title: Class TextureBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Brushes.TextureBrush sınıf. Her özellikTextureBrush sınıf birBrush bir şeklin içini doldurmak için bir görüntü kullanan nesne. Bu sınıf miras alınamaz.
+title: "Sınıf TextureBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Brushes.TextureBrush sınıfı. TextureBrush sınıfının her özelliği, bir şeklin içini doldurmak için bir görüntü kullanan bir Brush nesnesidir. Bu sınıf kalıtılamaz"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd.brushes/texturebrush/
 ---
+{{< psd/tize >}}
 ## TextureBrush class
 
-Her özellik`TextureBrush` sınıf bir[`Brush`](../../aspose.psd/brush/) bir şeklin içini doldurmak için bir görüntü kullanan nesne. Bu sınıf miras alınamaz.
+`TextureBrush` sınıfının her özelliği, bir şeklin içini doldurmak için bir görüntü kullanan bir [`Brush`](../../aspose.psd/brush/) nesnesidir. Bu sınıf kalıtılamaz.
 
 ```csharp
 public sealed class TextureBrush : TransformBrush
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TextureBrush](texturebrush/#constructor)(Image) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen image. kullanan sınıf |
-| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen görüntüyü ve sınırlayıcı dikdörtgeni kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen görüntüyü ve sınırlayıcı dikdörtgeni kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen görüntüyü ve sarma modunu kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen görüntüyü, sınırlayıcı dikdörtgeni ve görüntü niteliklerini kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Yeni bir örneğini başlatır.`TextureBrush` belirtilen görüntüyü, sınırlayıcı dikdörtgeni ve görüntü niteliklerini kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Yeni bir örneğini başlatır.`TextureBrush`belirtilen görüntüyü, sarma modunu ve sınırlayıcı dikdörtgeni kullanan sınıf. |
-| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Yeni bir örneğini başlatır.`TextureBrush`belirtilen görüntüyü, sarma modunu ve sınırlayıcı dikdörtgeni kullanan sınıf. |
+| [TextureBrush](texturebrush/#constructor)(Image) | Belirtilen görüntüyü kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Belirtilen görüntüyü ve sınırlayıcı dikdörtgeni kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Belirtilen görüntüyü ve sınırlayıcı dikdörtgeni kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Belirtilen görüntüyü ve sarma modunu kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Belirtilen görüntüyü, sınırlayıcı dikdörtgeni ve görüntü özniteliklerini kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Belirtilen görüntüyü, sınırlayıcı dikdörtgeni ve görüntü özniteliklerini kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Belirtilen görüntüyü, sarma modunu ve sınırlayıcı dikdörtgeni kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
+| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Belirtilen görüntüyü, sarma modunu ve sınırlayıcı dikdörtgeni kullanan `TextureBrush` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | Şunu alır:[`Image`](../../aspose.psd/image/) bununla ilişkili nesne`TextureBrush` nesne. |
-| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | Şunu alır:[`ImageAttributes`](./imageattributes/) bununla ilişkili`TextureBrush` . |
-| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | Şunu alır:[`Rectangle`](../../aspose.psd/rectangle/) bununla ilişkili`TextureBrush` . |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Dönüşümlerin herhangi bir şekilde değiştirilip değiştirilmediğini gösteren bir değer alır. Örneğin, dönüşüm matrisini ayarlamak veya , dönüşüm matrisini değiştiren yöntemlerden herhangi birini çağırmak. Özellik, GDI+. ile geriye dönük uyumluluk için sunulmuştur |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Fırça opaklığını alır veya ayarlar. Değer 0 ile 1 arasında olmalıdır. 0 değeri, fırçanın tamamen görünür olduğu, 1 değeri ise fırçanın tamamen opak olduğu anlamına gelir. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Bir kopya alır veya ayarlar[`Matrix`](../../aspose.psd/matrix/) bunun için yerel bir geometrik dönüşümü tanımlayan[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Alır veya ayarlar[`WrapMode`](../../aspose.psd/wrapmode/) bunun için sarma modunu gösteren numaralandırma[`TransformBrush`](../transformbrush/) . |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | `TextureBrush` nesnesiyle ilişkili [`Image`](../../aspose.psd/image/) nesnesini alır. |
+| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | `TextureBrush` ile ilişkili [`ImageAttributes`](./imageattributes/) nesnesini alır. |
+| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | `TextureBrush` ile ilişkili [`Rectangle`](../../aspose.psd/rectangle/) nesnesini alır. |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Dönüşümlerin bir şekilde değiştirildiğini gösteren bir değeri alır. Örneğin dönüşüm matrisini ayarlamak veya dönüşüm matrisini değiştiren herhangi bir yöntemi çağırmak. Bu özellik GDI+ ile geriye dönük uyumluluk sağlamak için eklenmiştir. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Fırça opaklığını alır veya ayarlar. Değer 0 ile 1 arasında olmalıdır. 0 değeri fırçanın tamamen görünür olduğu, 1 değeri ise fırçanın tamamen opak olduğu anlamına gelir. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Bu [`TransformBrush`](../transformbrush/) için yerel geometrik dönüşümü tanımlayan bir kopya [`Matrix`](../../aspose.psd/matrix/) alır veya ayarlar. |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Bu [`TransformBrush`](../transformbrush/) için sarmalama modunu gösteren bir [`WrapMode`](../../aspose.psd/wrapmode/) enum değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Geçerli olanın yeni bir derin klonunu oluşturur.[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | [`Matrix`](../../aspose.psd/matrix/) bunun yerel geometrik dönüşümünü temsil eden[`LinearGradientBrush`](../lineargradientbrush/) belirtilen tarafından[`Matrix`](../../aspose.psd/matrix/) belirtilenin başına ekleyerek[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | [`Matrix`](../../aspose.psd/matrix/) bunun yerel geometrik dönüşümünü temsil eden[`LinearGradientBrush`](../lineargradientbrush/) belirtilen tarafından[`Matrix`](../../aspose.psd/matrix/) belirtilen sırada. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | sıfırlar[`Transform`](../transformbrush/transform/) kimlik için özellik. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem, dönüşü transform. 'nin başına ekler |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Yerel geometrik dönüşümü, belirtilen sırada belirtilen miktarda döndürür. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Yerel geometrik dönüşümü belirtilen miktarlarda ölçekler. Bu yöntem, ölçeklendirme matrisini transform. 'nin başına ekler. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Yerel geometrik dönüşümü, belirtilen sırada belirtilen miktarlarda ölçekler. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Yerel geometrik dönüşümü belirtilen boyutlara çevirir. Bu yöntem, çeviriyi transform. 'nin başına ekler. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Yerel geometrik dönüşümü, belirtilen sırayla belirtilen boyutlara çevirir. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Mevcut [`Brush`](../../aspose.psd/brush/) nesnesinin yeni bir derin kopyasını oluşturur. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Bu [`LinearGradientBrush`](../lineargradientbrush/) nesnesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../aspose.psd/matrix/) değerini, belirtilen [`Matrix`](../../aspose.psd/matrix/) ile, belirtilen [`Matrix`](../../aspose.psd/matrix/) önüne ekleyerek çarpar. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Bu [`LinearGradientBrush`](../lineargradientbrush/) nesnesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../aspose.psd/matrix/) değerini, belirtilen sırada belirtilen [`Matrix`](../../aspose.psd/matrix/) ile çarpar. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | [`Transform`](../transformbrush/transform/) özelliğini birim haline sıfırlar. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem döndürmeyi dönüşümün önüne ekler. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Yerel geometrik dönüşümü belirtilen miktarda, belirtilen sırada döndürür. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Yerel geometrik dönüşümü belirtilen ölçeklerde büyütür. Bu yöntem ölçekleme matrisini dönüşümün önüne ekler. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Yerel geometrik dönüşümü belirtilen ölçeklerde, belirtilen sırada büyütür. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Yerel geometrik dönüşümü belirtilen boyutlarda kaydırır. Bu yöntem çevirimi dönüşümün önüne ekler. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Yerel geometrik dönüşümü belirtilen boyutlarda, belirtilen sırada kaydırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TransformBrush](../transformbrush/)
-* ad alanı [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

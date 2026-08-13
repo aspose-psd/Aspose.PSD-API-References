@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath mülk. Yol rakamlarını alır.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath özelliği. Yol şekillerini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Yol rakamlarını alır.
+Yol şekillerini alır.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yol figürleri.
+Yol şekilleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

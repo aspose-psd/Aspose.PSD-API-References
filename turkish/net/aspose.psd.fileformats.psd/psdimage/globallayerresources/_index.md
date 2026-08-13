@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GlobalLayerResources
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. Global katman kaynaklarını alır veya ayarlar.
+title: "PsdImage.GlobalLayerResources"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. Global katman kaynaklarını alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/globallayerresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerResources property
 
-Global katman kaynaklarını alır veya ayarlar.
+Genel katman kaynaklarını alır veya ayarlar.
 
 ```csharp
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Genel katman kaynakları.
+Global katman kaynakları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

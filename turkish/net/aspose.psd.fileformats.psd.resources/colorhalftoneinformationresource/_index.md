@@ -1,11 +1,12 @@
 ---
-title: Class ColorHalftoneInformationResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.ColorHalftoneInformationResource sınıf. Yarı tonlama kaynağı
+title: "ColorHalftoneInformationResource sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ColorHalftoneInformationResource sınıfı. Yarı tonlama kaynağı"
 type: docs
-weight: 3670
+weight: 4160
 url: /tr/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource class
 
 Yarı tonlama kaynağı
@@ -14,35 +15,35 @@ Yarı tonlama kaynağı
 public sealed class ColorHalftoneInformationResource : ResourceBlock
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ColorHalftoneInformationResource](colorhalftoneinformationresource/)() | Default_Constructor |
+| [ColorHalftoneInformationResource](colorhalftoneinformationresource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/datasize/) { get; } | Kaynak veri boyutunu bayt cinsinden alır. |
-| [HalftoneData](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/) { get; set; } | Yarım ton verilerini alır veya ayarlar. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/datasize/) { get; } | Kaynak veri boyutunu bayt olarak alır. |
+| [HalftoneData](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/) { get; set; } | Yarı ton verisini alır veya ayarlar. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Kaynak için benzersiz tanımlayıcıyı alır veya ayarlar. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/minimalversion/) { get; } | Gereken minimum PSD sürümünü alır. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Kaynak adını alır veya ayarlar. Boyutu çift yapmak için doldurulmuş Pascal dizesi (boş ad iki bayt 0'dan oluşur). |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/minimalversion/) { get; } | Gerekli minimum PSD sürümünü alır. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Kaynak adını alır veya ayarlar. Pascal dizesi, boyutu çift yapmak için doldurulur (null ad iki bayt 0'dan oluşur). |
 | [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Kaynak imzasını alır. Her zaman '8BIM' olmalıdır. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Verileri dahil olmak üzere kaynak bloğu boyutunu bayt cinsinden alır. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Veri dahil olmak üzere kaynak blok boyutunu bayt olarak alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Kaynak bloğunu belirtilen akışa kaydeder. |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Kaynak değerlerini doğrular. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

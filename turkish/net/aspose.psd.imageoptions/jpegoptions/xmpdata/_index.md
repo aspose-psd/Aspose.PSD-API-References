@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.XmpData
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. XMP meta veri kapsayıcısını alır veya ayarlar.
+title: "JpegOptions.XmpData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. XMP meta veri konteynerini alır veya ayarlar"
 type: docs
-weight: 210
+weight: 220
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.XmpData property
 
 XMP meta veri kapsayıcısını alır veya ayarlar.
@@ -14,15 +15,15 @@ XMP meta veri kapsayıcısını alır veya ayarlar.
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-XMP veri kabı.
+XMP veri kapsayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

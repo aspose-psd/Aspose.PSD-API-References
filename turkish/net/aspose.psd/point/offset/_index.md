@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Bunu çevirirPoint belirtilen tarafındanPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Bu Point'i belirtilen Point ile kaydırır."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Bunu çevirir[`Point`](../) belirtilen tarafından[`Point`](../) .
+Bu [`Point`](../) nesnesini belirtilen [`Point`](../) ile kaydırır.
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) bunu dengelemek için kullanılır[`Point`](../). |
+| point | Point | Bu [`Point`](../) nesnesini kaydırmak için kullanılan [`Point`](../). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Bunu çevirir[`Point`](../)belirtilen miktarda.
+Bu [`Point`](../) nesnesini belirtilen miktarda kaydırır.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dx | Int32 | x koordinatını dengeleyecek miktar. |
-| dy | Int32 | Y koordinatını dengeleyecek miktar. |
+| dx | Int32 | x koordinatını kaydırmak için miktar. |
+| dy | Int32 | Y koordinatını ofsetlemek için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

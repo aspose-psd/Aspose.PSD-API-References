@@ -1,49 +1,50 @@
 ---
-title: Pen.RotateTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen yöntem. Yerel geometrik dönüşümü belirtilen açı kadar döndürür. Bu yöntem dönüşü dönüşümün başına ekler.
+title: "Pen.RotateTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen yöntemi. Yerel geometrik dönüşümü belirtilen açıyla döndürür. Bu yöntem dönüşüme rotasyonu ön ekler."
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Yerel geometrik dönüşümü belirtilen açı kadar döndürür. Bu yöntem, dönüşü dönüşümün başına ekler.
+Yerel geometrik dönüşümü belirtilen açıyla döndürür. Bu yöntem dönüşüme rotasyonu ön ekler.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Dönme açısı. |
+| açı | Single | Dönüş açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Yerel geometrik dönüşümü belirtilen açıyla belirtilen sırayla döndürür.
+Yerel geometrik dönüşümü belirtilen açıyla belirtilen sırada döndürür.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Dönme açısı. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) bu, döndürme matrisinin sonuna mı yoksa başına mı ekleneceğini belirtir. |
+| açı | Single | Dönüş açısı. |
+| order | MatrixOrder | Bir [`MatrixOrder`](../../matrixorder/) döndürme matrisini ekleyecek mi yoksa ön ekleyecek mi belirten bir değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

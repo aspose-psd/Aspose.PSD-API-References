@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.SizeValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo mülk. Boyut değerini alır veya ayarlar.
+title: "TypeToolStyleInfo.SizeValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo özelliği. Boyut değerini alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.SizeValue property
 
 Boyut değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Boyut değerini alır veya ayarlar.
 public int SizeValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Boyut değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

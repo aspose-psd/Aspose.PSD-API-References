@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolFontInfo mülk. Uzunluğu alır.
+title: "TypeToolFontInfo.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolFontInfo özelliği. Uzunluğu alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Length property
 
 Uzunluğu alır.
@@ -14,14 +15,14 @@ Uzunluğu alır.
 public int Length { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Uzunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: FontSettings.UpdateFonts
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem FontSettings.SetFontsFolderfontsFolder yöntemini kullanan fontsFolder klasöründeki yazı tiplerinin veya FontSettings.Reset kullanan sıfırlama yazı tiplerinin PSD dosyalarını işlerken dikkate alınacağını garanti eder. PSD görüntüleri için FontSettings.SetFontsFolderfontsFolder veya FontSettings.Reset her çağrıldığında lütfen bu yöntemi kullanın. Bu Yöntemi çağırmadan yazı tiplerinin güncelleneceğinin garantisi yoktur.
+title: "FontSettings.UpdateFonts"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem, fontsFolder klasöründen yazı tiplerinin, FontSettings.SetFontsFolderfontsFolder yöntemi kullanılarak veya FontSettings.Reset ile yazı tipleri sıfırlandıktan sonra, PSD dosyaları işlenirken dikkate alınacağını garanti eder. Lütfen bu yöntemi, PSD görüntüleri için FontSettings.SetFontsFolderfontsFolder veya FontSettings.Reset çağrıldığında her seferinde kullanın. Bu yöntem çağrılmadan yazı tiplerinin güncelleneceği garantilenmez."
 type: docs
-weight: 140
+weight: 160
 url: /tr/net/aspose.psd/fontsettings/updatefonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.UpdateFonts method
 
-Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem, FontSettings.SetFontsFolder(fontsFolder) yöntemini kullanan fontsFolder klasöründeki yazı tiplerinin veya FontSettings.Reset() kullanan sıfırlama yazı tiplerinin PSD dosyalarını işlerken dikkate alınacağını garanti eder. PSD görüntüleri için FontSettings.SetFontsFolder(fontsFolder) veya FontSettings.Reset() her çağrıldığında lütfen bu yöntemi kullanın. Bu Yöntemi çağırmadan yazı tiplerinin güncelleneceğinin garantisi yoktur.
+Metin katmanları içeren PSD dosyaları için yazı tipi önbelleğini günceller. Bu yöntem, FontSettings.SetFontsFolder(fontsFolder) yöntemiyle fontsFolder klasöründen gelen yazı tiplerinin veya FontSettings.Reset() ile sıfırlandıktan sonra yazı tiplerinin PSD dosyaları işlenirken dikkate alınmasını garanti eder. Lütfen bu yöntemi, PSD görüntüleri için FontSettings.SetFontsFolder(fontsFolder) veya FontSettings.Reset() her çağrıldığında kullanın. Bu yöntem çağrılmadan yazı tiplerinin güncelleneceği garantilenmez.
 
 ```csharp
 public static void UpdateFonts()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

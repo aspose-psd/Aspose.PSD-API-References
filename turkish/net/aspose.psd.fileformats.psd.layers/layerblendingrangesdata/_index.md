@@ -1,11 +1,12 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData sınıf. Katman karıştırma aralıkları verileri.
+title: "Sınıf LayerBlendingRangesData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData sınıfı. Katman karıştırma aralıkları verileri"
 type: docs
-weight: 2090
+weight: 2280
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
 Katman karıştırma aralıkları verileri.
@@ -14,23 +15,23 @@ Katman karıştırma aralıkları verileri.
 public sealed class LayerBlendingRangesData
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LayerBlendingRangesData](layerblendingrangesdata/)() | Default_Constructor |
+| [LayerBlendingRangesData](layerblendingrangesdata/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Kanal karışım aralıklarını alır veya ayarlar. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Bileşik karışım aralıklarını alır veya ayarlar. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Katman karıştırma aralıkları verilerinin uzunluğunu bayt cinsinden alır. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Kanal karıştırma aralıklarını alır veya ayarlar. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Bileşik karıştırma aralıklarını alır veya ayarlar. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Katman karıştırma aralıkları verisinin uzunluğunu bayt cinsinden alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

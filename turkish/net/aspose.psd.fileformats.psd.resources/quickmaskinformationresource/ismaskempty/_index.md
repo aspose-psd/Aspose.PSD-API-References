@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.IsMaskEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: QuickMaskInformationResource mülk. Bu örneğin maske boş olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "QuickMaskInformationResource.IsMaskEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "QuickMaskInformationResource özelliği. Bu örnek maskenin boş olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.IsMaskEmpty property
 
-Bu örneğin maske boş olup olmadığını gösteren bir değer alır veya ayarlar.
+Bu örneğin maske boş olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsMaskEmpty { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek maske boşsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek maskenin boş ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [QuickMaskInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Alt katman konumunu alır veya ayarlar.
+title: "Layer.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Alt katman konumunu alır veya ayarlar"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/bottom/
 ---
+{{< psd/tize >}}
 ## Layer.Bottom property
 
-Alt katman konumunu alır veya ayarlar.
+Alt katmanın konumunu alır veya ayarlar.
 
 ```csharp
-public int Bottom { get; set; }
+public virtual int Bottom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Alt katman konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

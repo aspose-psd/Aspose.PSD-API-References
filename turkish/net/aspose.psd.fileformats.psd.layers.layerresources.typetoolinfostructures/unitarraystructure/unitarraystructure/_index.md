@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitArrayStructure inşaatçı. Yeni bir örneğini başlatır.UnitArrayStructure sınıf.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitArrayStructure yapıcı. UnitArrayStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-Yeni bir örneğini başlatır.[`UnitArrayStructure`](../) sınıf.
+[`UnitArrayStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtarın adı. |
-| unitType | UnitTypes | birimin türü. |
+| unitType | UnitTypes | Birim tipi. |
 | values | Double[] | Değerler. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | değerler boş olmamalıdır |
+| ArgumentNullException | values null olmamalıdır |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

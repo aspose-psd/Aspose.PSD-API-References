@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache yöntem. ayarlarCache ayarları varsayılanlara.
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache yöntemi. Cache ayarlarını varsayılanlara ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-ayarlar[`Cache`](../) ayarları varsayılanlara.
+[`Cache`](../) ayarlarını varsayılanlara ayarlar.
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: TransformBrush yöntem. sıfırlarTransform kimlik için özellik.
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransformBrush yöntemi. Transform özelliğini birim (identity) haline getirir."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-sıfırlar[`Transform`](../transform/) kimlik için özellik.
+[`Transform`](../transform/) özelliğini birim haline getirir.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TransformBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../transformbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

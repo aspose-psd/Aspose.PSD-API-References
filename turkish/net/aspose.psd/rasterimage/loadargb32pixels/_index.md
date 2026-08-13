@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb32Pixels
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. 32 bit ARGB pikselleri yükler.
+title: "RasterImage.LoadArgb32Pixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. 32 bit ARGB pikselleri yükler"
 type: docs
 weight: 350
 url: /tr/net/aspose.psd/rasterimage/loadargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb32Pixels method
 
-32 bit ARGB pikselleri yükler.
+32-bit ARGB piksellerini yükler.
 
 ```csharp
 public int[] LoadArgb32Pixels(Rectangle rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksellerin yükleneceği dikdörtgen. |
+| dikdörtgen | Rectangle | Piksellerin yükleneceği dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Yüklenen 32 bit ARGB piksel dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

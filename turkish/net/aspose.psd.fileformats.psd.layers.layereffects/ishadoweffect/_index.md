@@ -1,22 +1,23 @@
 ---
-title: Interface IShadowEffect
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect arayüz. Gölge Katmanı Efektleri için Arayüz
+title: "Arayüz IShadowEffect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect arayüzü. Gölge Katman Etkileri için arayüz"
 type: docs
-weight: 2150
+weight: 2340
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
+{{< psd/tize >}}
 ## IShadowEffect interface
 
-Gölge Katmanı Efektleri için Arayüz
+Gölge Katman Efektleri için Arayüz
 
 ```csharp
 public interface IShadowEffect : ILayerEffect
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/) { get; set; } | Açıyı derece cinsinden alır veya ayarlar. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/) { get; set; } | Rengi alır veya ayarlar. |
@@ -24,12 +25,12 @@ public interface IShadowEffect : ILayerEffect
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/) { get; set; } | Gürültüyü alır veya ayarlar. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/) { get; set; } | Bulanıklık değerini piksel cinsinden alır veya ayarlar. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/) { get; set; } | Yoğunluğu yüzde olarak alır veya ayarlar. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | [Bu açıyı tüm katman efektlerinde kullanıp kullanmayacağını] belirten bir değer alır veya ayarlar. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | Bu değerin [use this angle in all of the layer effects] gösterip göstermediğini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerEffect](../ilayereffect/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

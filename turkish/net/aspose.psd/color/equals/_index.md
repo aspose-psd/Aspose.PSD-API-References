@@ -1,31 +1,32 @@
 ---
-title: Color.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Belirtilen nesnenin birColor yapı ve buna eşdeğerdirColoryapı.
+title: "Color.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Belirtilen nesnenin bir Color yapısı olup olmadığını ve bu Color yapısıyla eşit olup olmadığını test eder."
 type: docs
 weight: 1540
 url: /tr/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-Belirtilen nesnenin bir[`Color`](../) yapı ve buna eşdeğerdir[`Color`](../)yapı.
+Belirtilen nesnenin bir [`Color`](../) yapısı olup olmadığını ve bu [`Color`](../) yapısıyla eşit olup olmadığını test eder.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | Test edilecek nesne. |
+| obj | Nesne | Test edilecek nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Doğru ise*obj* bir[`Color`](../) buna eşdeğer yapı[`Color`](../) yapı; Aksi takdirde, yanlış.
+Doğru, eğer *obj* bir [`Color`](../) yapısına eşdeğer bu [`Color`](../) yapısı ise; aksi takdirde, yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

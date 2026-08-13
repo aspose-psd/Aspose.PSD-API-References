@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. XMP meta verilerinin güncellenip güncellenmeyeceğini belirten bir değer alır veya ayarlar.
+title: "RasterImage.UpdateXmpData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. XMP meta verilerini güncelleme durumunu gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
-XMP meta verilerinin güncellenip güncellenmeyeceğini belirten bir değer alır veya ayarlar.
+XMP meta verilerini güncelleyip güncellemeyeceğini gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` XMP meta verilerini güncellerseniz; aksi takdirde,`YANLIŞ` .
+`true` XMP meta verileri güncelleniyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

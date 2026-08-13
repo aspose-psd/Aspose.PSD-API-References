@@ -1,28 +1,29 @@
 ---
-title: Class FileFormatExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.FileFormatExtensions sınıf. İçerirFileFormat uzantı yöntemleri.
+title: "Sınıf FileFormatExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.FileFormatExtensions sınıfı. FileFormat uzantı yöntemlerini içerir."
 type: docs
-weight: 1080
+weight: 1090
 url: /tr/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-İçerir[`FileFormat`](../../aspose.psd/fileformat/) uzantı yöntemleri.
+[`FileFormat`](../../aspose.psd/fileformat/) uzantı yöntemlerini içerir.
 
 ```csharp
 public static class FileFormatExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Tek dosya formatının tanımlanıp tanımlanmadığını belirler. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Tek bir dosya formatının tanımlı olup olmadığını belirler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

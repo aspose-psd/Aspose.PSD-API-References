@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLongitudeRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Hedef noktanın boylamının doğu mu yoksa batı boylamı mı olduğunu gösteren GPS değerini alır veya ayarlar.
+title: "ExifData.GPSDestLongitudeRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Hedef noktanın boylamının doğu mu batı mı olduğunu gösteren GPS değerini alır veya ayarlar"
 type: docs
 weight: 470
 url: /tr/net/aspose.psd.exif/exifdata/gpsdestlongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLongitudeRef property
 
-Hedef noktanın boylamının doğu mu yoksa batı boylamı mı olduğunu gösteren GPS değerini alır veya ayarlar.
+Hedef noktanın boylamının doğu mu yoksa batı mı olduğunu gösteren GPS değerini alır veya ayarlar.
 
 ```csharp
 public string GPSDestLongitudeRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Varış noktasının doğu boylamının mı yoksa batı boylamının mı olduğunu gösteren GPS değeri.
+GPS değeri, hedef noktanın boylamının doğu mu batı mı olduğunu gösterir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS rakımını alır veya ayarlar.
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS yüksekliğini alır veya ayarlar"
 type: docs
 weight: 360
 url: /tr/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
-GPS rakımını alır veya ayarlar.
+GPS yüksekliğini alır veya ayarlar.
 
 ```csharp
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS rakımı.
+GPS yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

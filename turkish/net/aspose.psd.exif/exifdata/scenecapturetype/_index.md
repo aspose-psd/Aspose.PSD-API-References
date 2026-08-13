@@ -1,28 +1,29 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Sahne yakalama türünü alır veya ayarlar.
+title: "ExifData.SceneCaptureType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Sahne yakalama türünü alır veya ayarlar"
 type: docs
 weight: 900
 url: /tr/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
-Sahne yakalama türünü alır veya ayarlar.
+Sahne yakalama tipini alır veya ayarlar.
 
 ```csharp
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sahne yakalama türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

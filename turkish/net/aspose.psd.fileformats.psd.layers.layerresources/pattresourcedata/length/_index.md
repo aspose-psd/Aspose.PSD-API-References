@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResourceData mülk. Modelin uzunluğunu alır.
+title: "PattResourceData.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResourceData özelliği. Desenin uzunluğunu alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
-Modelin uzunluğunu alır.
+Desenin uzunluğunu alır.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Desenin uzunluğu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResourceData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

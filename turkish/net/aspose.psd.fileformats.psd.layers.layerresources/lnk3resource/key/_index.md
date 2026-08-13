@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: Lnk3Resource mülk. Katman kaynak anahtarını alır.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lnk3Resource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, Lnk2Resource ve Lnk3Resource özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+Bu örnek, Lnk2Resource ve Lnk3Resource özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Bir akıllı nesnenin verilerini PSD dosyasında bir dosyaya kaydeder.
+// PSD dosyasındaki bir akıllı nesnenin verisini bir dosyaya kaydeder.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Akıllı nesne için yeni verileri PSD dosyasına yükler.
+// PSD dosyasındaki bir akıllı nesne için yeni veriyi yükler.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD görüntüsündeki PSD Lnk2 / Lnk3 Kaynağının ve onun liFD veri kaynaklarının özelliklerini alır ve ayarlar
+// PSD Lnk2 / Lnk3 Kaynağı ve onun liFD veri kaynaklarının PSD görüntüsündeki özelliklerini alır ve ayarlar
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Kanal başına 32 bit kaydetme henüz desteklenmiyor
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Bu örnek, kanal başına 8 bit için PSD Lnk2 Kaynağının ve onun liFD veri kaynaklarının özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, 8 bit kanal başına PSD Lnk2 Kaynağı ve onun liFD veri kaynaklarının özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Bu örnek, kanal başına 32 bit için PSD Lnk3 Kaynağının ve onun liFD veri kaynaklarının özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, 32 bit kanal başına PSD Lnk3 Kaynağı ve onun liFD veri kaynaklarının özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Bu örnek, kanal başına 16 bit için PSD Lnk2 Kaynağının ve onun liFD veri kaynaklarının özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+// Bu örnek, 16 bit kanal başına PSD Lnk2 Kaynağı ve onun liFD veri kaynaklarının özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lnk3Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

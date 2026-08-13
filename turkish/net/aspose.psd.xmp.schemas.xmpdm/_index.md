@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Adobe dinamik medya grubu tarafından kullanılan XMP ile ilgili yardımcı sınıfları sabitleri ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, Adobe dinamik medya grubu tarafından kullanılan XMP ile ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir"
 type: docs
-weight: 570
+weight: 610
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-Ad alanı, Adobe dinamik medya grubu tarafından kullanılan XMP ile ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, Adobe dinamik medya grubu tarafından kullanılan XMP ile ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [AudioChannelType](./audiochanneltype/) | Ses kanalı türünü temsil eder. |
-| [AudioSampleType](./audiosampletype/) | Ses örnek tipini temsil eder.[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [AudioSampleType](./audiosampletype/) | [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) içinde ses örnek türünü temsil eder. |
 | [ProjectLink](./projectlink/) | Projenin yolunu temsil eder. |
-| [Time](./time/) | Bir zaman değerinin saniye cinsinden gösterimi. |
+| [Time](./time/) | Saniye cinsinden bir zaman değerinin temsili. |
 | [Timecode](./timecode/) | Videodaki zaman kodu değerini temsil eder. |
-| [TimeFormat](./timeformat/) | saat biçimini temsil eder[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
-| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | XMP Dynamic Media ad alanını temsil eder. |
-## numaralandırma
+| [TimeFormat](./timeformat/) | [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) içinde zaman biçimini temsil eder. |
+| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | XMP Dinamik Medya ad alanını temsil eder. |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [ProjectType](./projecttype/) | proje türünü temsil eder[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) içinde proje türünü temsil eder. |
 
 

@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurFilterOptions.Radius
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussianBlurFilterOptions mülk. Yarıçapı alır veya ayarlar.
+title: "GaussianBlurFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussianBlurFilterOptions özelliği. radius değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Radius property
 
 Yarıçapı alır veya ayarlar.
@@ -14,14 +15,14 @@ Yarıçapı alır veya ayarlar.
 public int Radius { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yarıçap.
+radius.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussianBlurFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

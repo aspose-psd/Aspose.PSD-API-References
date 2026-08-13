@@ -1,28 +1,29 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Aspose.PSD for .NET API Referansı
-description: Hue2Resource mülk. Ton/Doygunluk Ayar Katmanı aralıklarını alır. PSdeki aralıklar aralık değiştirilirse adları değiştirebilir bu nedenle index ile çalışmalıyız
+title: "Hue2Resource.Ranges"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Hue2Resource özelliği. Hue/Saturation Ayar Katmanı'nın aralıklarını alır. PS'de aralık değiştirildiğinde adlar değişebilir, bu yüzden indeksle çalışmalıyız."
 type: docs
-weight: 80
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-Ton/Doygunluk Ayar Katmanı aralıklarını alır. PS'deki aralıklar, aralık değiştirilirse adları değiştirebilir, bu nedenle index ile çalışmalıyız
+Hue/Saturation Ayar Katmanı aralıklarını alır. PS'de aralık değiştirildiğinde adları değişebilir, bu yüzden indeksle çalışmalıyız.
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Aralıklar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

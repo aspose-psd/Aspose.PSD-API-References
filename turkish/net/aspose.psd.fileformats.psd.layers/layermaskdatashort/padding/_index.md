@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskDataShort mülk. Katman maskesi dolgusunu alır veya ayarlar.
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskDataShort özelliği. Katman maske dolgusunu alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
 Katman maskesi dolgusunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Katman maskesi dolgusunu alır veya ayarlar.
 public short Padding { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman maskesi dolgusu.
+Katman maske dolgusu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskDataShort](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

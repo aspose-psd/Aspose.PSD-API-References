@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Parlaklık/kontrast ayarlama katmanını ekler.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Parlaklık/kontrast ayar katmanını ekler"
 type: docs
-weight: 300
+weight: 310
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-Parlaklık/kontrast ayarlama katmanını ekler.
+Parlaklık/kontrast ayar katmanını ekler.
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brightness | Int32 | Parlaklık. |
-| contrast | Int32 | Kontrast. |
+| parlaklık | Int32 | Parlaklık. |
+| kontrast | Int32 | Kontrast. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Parlaklık/kontrast katmanı oluşturuldu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

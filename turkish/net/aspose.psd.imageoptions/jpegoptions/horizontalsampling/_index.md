@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegOptions mülk. Her bileşen için yatay alt örneklemeleri alır veya ayarlar.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegOptions özelliği. Her bileşen için yatay alt örneklemeleri alır veya ayarlar"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
 Her bileşen için yatay alt örneklemeleri alır veya ayarlar.
@@ -14,10 +15,10 @@ Her bileşen için yatay alt örneklemeleri alır veya ayarlar.
 public byte[] HorizontalSampling { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

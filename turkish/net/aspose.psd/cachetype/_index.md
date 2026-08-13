@@ -1,11 +1,12 @@
 ---
-title: Enum CacheType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CacheType Sıralama. Kullanılacak önbellek türünü belirtir.
+title: "Enum CacheType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CacheType enum. Kullanılacak önbellek türünü belirtir."
 type: docs
 weight: 250
 url: /tr/net/aspose.psd/cachetype/
 ---
+{{< psd/tize >}}
 ## CacheType enumeration
 
 Kullanılacak önbellek türünü belirtir.
@@ -14,17 +15,17 @@ Kullanılacak önbellek türünü belirtir.
 public enum CacheType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Auto | `0` | Otomatik önbellek türünü belirtir. Otomatik önbellek düzeni, önce bellek içi, sonra disk üzerinde önbelleğe almayı dener. |
+| Auto | `0` | Otomatik önbellek türünü belirtir. Otomatik önbellek şeması önce bellekte, ardından diskte önbelleklemeye çalışır. |
 | CacheOnDiskOnly | `1` | Yalnızca disk önbelleği. |
 | CacheInMemoryOnly | `2` | Yalnızca bellek içi önbellek. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: Aspose.PSD for .NET API Referansı
-description: AnimatedDataSectionStructure mülk. Animasyonlu veri bölümü yapılarını alır veya ayarlar.
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AnimatedDataSectionStructure özelliği. Animasyonlu veri bölüm yapısını alır veya ayarlar."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
-Animasyonlu veri bölümü yapılarını alır veya ayarlar.
+Animasyonlu veri bölüm yapısını alır veya ayarlar.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, animasyonlu verilerin zaman çizelgesi çerçevesindeki gecikme süresinin nasıl ayarlanacağını/güncelleneceğini gösterir.
+Aşağıdaki kod, animasyonlu verinin zaman çizelgesi çerçevesinde gecikme süresini ayarlama/güncelleme yöntemini gösterir.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1 saniyeye eşit olan 100 centi-saniye değerinde çerçeve gecikme kaydını oluşturur.
+            // 1 saniyeye eşit 100 santisaniye değerine sahip çerçeve gecikme kaydını oluşturur.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // zamanı santi saniye olarak ayarla.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

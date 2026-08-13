@@ -1,23 +1,24 @@
 ---
-title: UnitStructure.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitStructure mülk. Şunu alırOSTypeStructure bayt cinsinden uzunluk.
+title: "UnitStructure.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitStructure özelliği. OSTypeStructure uzunluğunu bayt cinsinden alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/length/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Length property
 
-Şunu alır:[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk.
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnitStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

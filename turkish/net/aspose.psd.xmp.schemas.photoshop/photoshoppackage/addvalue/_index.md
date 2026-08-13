@@ -1,34 +1,35 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Dizi özelliğini ekler.
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Dize özelliği ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | key;Photoshop özelliği boş olamaz |
+| ArgumentNullException | key;Photoshop özelliği null olamaz |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

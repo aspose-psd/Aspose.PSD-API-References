@@ -1,27 +1,28 @@
 ---
-title: XmpPacketWrapper.PackagesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper mülk. XMP yapısı içindeki paket miktarını alır.
+title: "XmpPacketWrapper.PackagesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper özelliği. XMP yapısı içindeki paket sayısını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/packagescount/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.PackagesCount property
 
-XMP yapısı içindeki paket miktarını alır.
+XMP yapısı içindeki paket sayısını alır.
 
 ```csharp
 public int PackagesCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-XMP yapısı içindeki paket miktarı.
+XMP yapısı içindeki paket sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk ayarını kapatır.
+title: "ImageAttributes.SetNoOp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk ayarlamasını kapatır."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
-Varsayılan kategori için renk ayarını kapatır.
+Varsayılan kategori için renk ayarlamayı kapatır.
 
 ```csharp
 public void SetNoOp()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetNoOp(ColorAdjustType) {#setnoop_1}
 
-Belirli bir kategori için renk ayarını kapatır.
+Belirtilen kategori için renk ayarlamayı kapatır.
 
 ```csharp
 public void SetNoOp(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk düzeltmenin kapatıldığı kategoriyi belirtir. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) öğesi, renk düzeltmesinin kapatıldığı kategoriyi belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

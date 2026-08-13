@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı ilerleme işleyicisini içerir class
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, ilerleme işleyici sınıflarını içerir"
 type: docs
-weight: 480
+weight: 520
 url: /tr/net/aspose.psd.progressmanagement/
 ---
-Ad alanı ilerleme işleyicisini içerir class
+{{< psd/tize >}}
+Namespace, ilerleme işleyici sınıflarını içerir
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Bu sınıf, son user 'ye dönüştürme ilerlemesini göstermek için harici uygulamada kullanılabilen görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerleme durumu hakkında bilgileri temsil eder. |
-## numaralandırma
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Bu sınıf, görüntü yükleme/kaydetme/dışa aktarma işlemlerinin ilerlemesi hakkında bilgi temsil eder ve dış uygulamalarda dönüşüm ilerlemesini son kullanıcıya göstermek için kullanılabilir |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [EventType](./eventtype/) | Bu sıralama, görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olay türlerini açıklar |
+| [EventType](./eventtype/) | Bu enum, görüntü işleme işlemleri sırasında meydana gelebilecek olası ilerleme olayı türlerini tanımlar |
 
 

@@ -1,28 +1,29 @@
 ---
-title: RectangleF.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF mülk. Bunun boyutunu alır veya ayarlarRectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF özelliği. Bu RectangleF'nin boyutunu alır veya ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-Bunun boyutunu alır veya ayarlar[`RectangleF`](../) .
+Bu [`RectangleF`](../) nesnesinin boyutunu alır veya ayarlar.
 
 ```csharp
 public SizeF Size { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`SizeF`](../../sizef/) bunun genişliğini ve yüksekliğini temsil eden[`RectangleF`](../) yapı.
+Bu [`RectangleF`](../) yapısının genişlik ve yüksekliğini temsil eden bir [`SizeF`](../../sizef/) nesnesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

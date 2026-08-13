@@ -1,14 +1,15 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.BuildVersionInfo sınıf. Geçerli derleme sürümü bilgilerini içerir.
+title: "BuildVersionInfo sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.BuildVersionInfo sınıfı. Mevcut yapı sürüm bilgilerini içerir"
 type: docs
 weight: 230
 url: /tr/net/aspose.psd/buildversioninfo/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo class
 
-Geçerli derleme sürümü bilgilerini içerir.
+Mevcut derleme sürüm bilgilerini içerir.
 
 ```csharp
 public static class BuildVersionInfo
@@ -16,18 +17,18 @@ public static class BuildVersionInfo
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static readonly [AssemblyVersion](../../aspose.psd/buildversioninfo/assemblyversion/) | Derleme sürümü. |
 | static readonly [FileVersion](../../aspose.psd/buildversioninfo/fileversion/) | Dosya sürümü. |
 | static readonly [Product](../../aspose.psd/buildversioninfo/product/) | Ürün başlığı. |
 | static readonly [ProductMajor](../../aspose.psd/buildversioninfo/productmajor/) | Ana ürün sürümü. |
-| static readonly [ProductMinor](../../aspose.psd/buildversioninfo/productminor/) | Küçük ürün sürümü. |
-| static readonly [ReleaseDate](../../aspose.psd/buildversioninfo/releasedate/) | Ürün çıkış tarihi. |
+| static readonly [ProductMinor](../../aspose.psd/buildversioninfo/productminor/) | Alt ürün sürümü. |
+| static readonly [ReleaseDate](../../aspose.psd/buildversioninfo/releasedate/) | Ürün yayın tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

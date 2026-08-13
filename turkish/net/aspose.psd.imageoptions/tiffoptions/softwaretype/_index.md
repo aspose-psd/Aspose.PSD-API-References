@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Yazılım türünü alır veya ayarlar.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Yazılım türünü alır veya ayarlar"
 type: docs
-weight: 450
+weight: 460
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
-Yazılım türünü alır veya ayarlar.
+Yazılım tipini alır veya ayarlar.
 
 ```csharp
 public string SoftwareType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazılım türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

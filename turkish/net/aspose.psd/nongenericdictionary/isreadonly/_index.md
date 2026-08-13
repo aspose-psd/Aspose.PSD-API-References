@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. olup olmadığını gösteren bir değer alır.IDictionary nesne salt okunurdur.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. IDictionary nesnesinin yalnızca okunur olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-olup olmadığını gösteren bir değer alır.IDictionary nesne salt okunurdur.
+IDictionary nesnesinin yalnızca okunur olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-doğru iseIDictionary nesne salt okunurdur; Aksi takdirde, yanlış.
+IDictionary nesnesi yalnızca okunur ise true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

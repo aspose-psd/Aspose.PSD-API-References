@@ -1,28 +1,29 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpElementBase yöntem. Özniteliği ekler.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpElementBase yöntemi. Özniteliği ekler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
-Özniteliği ekler.
+Özelliği ekler.
 
 ```csharp
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | attribute | String | Öznitelik. |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpElementBase](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpelementbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

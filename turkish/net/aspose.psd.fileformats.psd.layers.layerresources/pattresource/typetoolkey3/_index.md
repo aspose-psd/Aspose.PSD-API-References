@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey3
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResource alan. 32 bit için Pat3 tipi araç bilgi anahtarı.
+title: "PattResource.TypeToolKey3"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResource alanı. 32 bit için Pat3 tip aracı bilgi anahtarı"
 type: docs
-weight: 100
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey3 field
 
-32 bit için 'Pat3' tipi araç bilgi anahtarı.
+32-bit için 'Pat3' türü araç bilgi anahtarı.
 
 ```csharp
 public const int TypeToolKey3;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

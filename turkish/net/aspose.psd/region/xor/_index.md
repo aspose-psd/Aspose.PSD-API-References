@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu güncellerRegion sendikaya eksi belirtilen ile kendisinin kesişimiRectangleFyapı.
+title: "Region.Xor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı, belirtilen RectangleF yapısıyla kendi arasındaki kesişimin çıkarılmasıyla birleşime günceller"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Bunu günceller[`Region`](../) sendikaya eksi belirtilen ile kendisinin kesişimi[`RectangleF`](../../rectanglef/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`RectangleF`](../../rectanglef/) yapısının kesişiminin çıkarılmasıyla birleşime günceller.
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | bu[`RectangleF`](../../rectanglef/) bununla xor için yapı[`Region`](../). |
+| rect | RectangleF | Bu [`Region`](../) ile xor yapılacak [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Bunu günceller[`Region`](../) sendikaya eksi belirtilen ile kendisinin kesişimi[`Rectangle`](../../rectangle/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Rectangle`](../../rectangle/) yapısının kesişiminin çıkarılmasıyla birleşime günceller.
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) bununla xor için yapı[`Region`](../). |
+| rect | Rectangle | Bu [`Region`](../) ile xor yapılacak [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Bunu günceller[`Region`](../) sendikaya eksi belirtilen ile kendisinin kesişimi[`GraphicsPath`](../../graphicspath/) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`GraphicsPath`](../../graphicspath/) yapısının kesişiminin çıkarılmasıyla birleşime günceller.
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../graphicspath/) bununla xor yapmak[`Region`](../). |
+| path | GraphicsPath | Bu [`Region`](../) ile xor yapılacak [`GraphicsPath`](../../graphicspath/) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *path* null. |
+| ArgumentNullException | *path* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Bunu günceller[`Region`](../) sendikaya eksi belirtilen ile kendisinin kesişimi[`Region`](../) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Region`](../) yapısının kesişiminin çıkarılmasıyla birleşime günceller.
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) bununla xor yapmak[`Region`](../). |
+| region | Region | Bu [`Region`](../) ile xor yapılacak [`Region`](../) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *region* null. |
+| ArgumentNullException | *region* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

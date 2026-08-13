@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings yöntem. Renk noktasını ekler.
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings yöntemi. Renk noktasını ekler."
 type: docs
-weight: 160
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 Renk noktasını ekler.
@@ -14,15 +15,15 @@ Renk noktasını ekler.
 public GradientTransparencyPoint AddTransparencyPoint()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Şeffaflık noktası oluşturuldu
+Oluşturulan şeffaflık noktası
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

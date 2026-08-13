@@ -1,26 +1,27 @@
 ---
-title: PathStructure.Path
-second_title: Aspose.PSD for .NET API Referansı
-description: PathStructure mülk. Yolu alır veya ayarlar.
+title: "PathStructure.Path"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathStructure özelliği. TypeTool yol biçimi için yolu alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/
 ---
+{{< psd/tize >}}
 ## PathStructure.Path property
 
-Yolu alır veya ayarlar.
+Yolu alır veya ayarlar (TypeTool yol formatı için).
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tam yol.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, PathStructure yapısına sahip dosya yükleme yeteneğini gösterir.
+Aşağıdaki kod, PathStructure yapısıyla dosya yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -34,10 +35,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

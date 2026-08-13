@@ -1,28 +1,29 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection yöntem. Tarama görüntüsünü ekler.
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection yöntemi. Raster görüntüyü ekler"
 type: docs
-weight: 140
+weight: 160
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
-Tarama görüntüsünü ekler.
+Raster görüntüyü ekler.
 
 ```csharp
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rasterImage | AiRasterImageSection | Tarama görüntüsü. |
+| rasterImage | AiRasterImageSection | Raster görüntüsü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

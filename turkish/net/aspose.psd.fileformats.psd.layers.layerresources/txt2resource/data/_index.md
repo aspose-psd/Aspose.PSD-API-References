@@ -1,27 +1,28 @@
 ---
-title: Txt2Resource.Data
-second_title: Aspose.PSD for .NET API Referansı
-description: Txt2Resource mülk. Verileri alır veya ayarlar.
+title: "Txt2Resource.Data"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Txt2Resource özelliği. Veriyi alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Data property
 
-Verileri alır veya ayarlar.
+Veriyi alır veya ayarlar.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Veriler.
+Veri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Txt2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

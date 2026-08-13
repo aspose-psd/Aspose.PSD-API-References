@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: Aspose.PSD for .NET API Referansı
-description: TimeFormat mülk. Bırakma zaman kodunu alır2997.
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TimeFormat özelliği. drop timecode2997 değerini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-Bırakma zaman kodunu alır2997.
+Drop timecode2997 değerini alır.
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bırakma zaman kodu2997.
+drop timecode2997.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TimeFormat](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

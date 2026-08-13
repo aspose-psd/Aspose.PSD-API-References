@@ -1,27 +1,28 @@
 ---
-title: Layer.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. XMP biçiminde dizge içerdiği değeri döndürür.
+title: "Layer.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yöntemi. XMP formatında içerilen dize değerini döndürür"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Layer.GetXmpRepresentation method
 
-XMP biçiminde dizge içerdiği değeri döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

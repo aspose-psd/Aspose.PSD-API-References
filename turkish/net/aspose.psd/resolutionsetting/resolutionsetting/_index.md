@@ -1,44 +1,45 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionSetting inşaatçı. Yeni bir örneğini başlatır.ResolutionSetting sınıf.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionSetting yapıcı. ResolutionSetting sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-Yeni bir örneğini başlatır.[`ResolutionSetting`](../) sınıf.
+[`ResolutionSetting`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ResolutionSetting()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResolutionSetting](../)
-* ad alanı [Aspose.PSD](../../resolutionsetting/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ResolutionSetting`](../) sınıf.
+[`ResolutionSetting`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | horizontalResolution | Double | Yatay çözünürlük. |
 | verticalResolution | Double | Dikey çözünürlük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResolutionSetting](../)
-* ad alanı [Aspose.PSD](../../resolutionsetting/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

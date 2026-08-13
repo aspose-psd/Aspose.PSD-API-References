@@ -1,27 +1,28 @@
 ---
-title: LayerGroupsEnabledResource.IDs
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerGroupsEnabledResource mülk. Kimlikleri alır veya ayarlar ds.
+title: "LayerGroupsEnabledResource.IDs"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerGroupsEnabledResource özelliği. i ds'yi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.IDs property
 
-Kimlikleri alır veya ayarlar ds.
+Kimlikleri alır veya ayarlar.
 
 ```csharp
 public byte[] IDs { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kimlikler ds.
+Bu i ds.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerGroupsEnabledResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

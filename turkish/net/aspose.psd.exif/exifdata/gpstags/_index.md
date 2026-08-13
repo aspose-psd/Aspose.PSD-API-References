@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTags
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Yalnızca GPS bölümüne ait etiketleri alır veya ayarlar.
+title: "ExifData.GPSTags"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Sadece GPS bölümüne ait etiketleri alır veya ayarlar"
 type: docs
 weight: 630
 url: /tr/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-Yalnızca GPS bölümüne ait etiketleri alır veya ayarlar.
+Sadece GPS bölümüne ait etiketleri alır veya ayarlar.
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS etiketleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: MlstResource.MlstResource
-second_title: Aspose.PSD for .NET API Referansı
-description: MlstResource inşaatçı. Default_Constructor
+title: "MlstResource.MlstResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MlstResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public MlstResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MlstResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

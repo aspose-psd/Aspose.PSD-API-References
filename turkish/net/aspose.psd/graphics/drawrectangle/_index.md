@@ -1,109 +1,110 @@
 ---
-title: Graphics.DrawRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. tarafından belirtilen bir dikdörtgen çizer.RectangleFyapı.
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. RectangleF yapısı ile belirtilen bir dikdörtgen çizer"
 type: docs
-weight: 300
+weight: 310
 url: /tr/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-tarafından belirtilen bir dikdörtgen çizer.[`RectangleF`](../../rectanglef/)yapı.
+[`RectangleF`](../../rectanglef/) yapısı ile belirtilen bir dikdörtgen çizer.
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) dikdörtgenin rengini, genişliğini ve stilini belirler. |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/) çizilecek dikdörtgeni temsil eden yapı. |
+| pen | Pen | [`Pen`](../../pen/) nesnesi, dikdörtgenin rengini, genişliğini ve stilini belirler. |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) yapısı, çizilecek dikdörtgeni temsil eder. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* boş. |
+| ArgumentNullException | *pen* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-tarafından belirtilen bir dikdörtgen çizer.[`Rectangle`](../../rectangle/)yapı.
+[`Rectangle`](../../rectangle/) yapısı ile belirtilen bir dikdörtgen çizer.
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) dikdörtgenin rengini, genişliğini ve stilini belirler. |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/) çizilecek dikdörtgeni temsil eden yapı. |
+| pen | Pen | [`Pen`](../../pen/) nesnesi, dikdörtgenin rengini, genişliğini ve stilini belirler. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) yapısı, çizilecek dikdörtgeni temsil eder. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* boş. |
+| ArgumentNullException | *pen* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, float, float, float, float) {#drawrectangle_3}
 
-Koordinat çifti, genişlik ve yükseklik tarafından belirtilen bir dikdörtgen çizer.
+Bir koordinat çifti, bir genişlik ve bir yükseklik ile belirtilen bir dikdörtgen çizer.
 
 ```csharp
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/) dikdörtgenin rengini, genişliğini ve stilini belirler. |
+| pen | Pen | [`Pen`](../../pen/) nesnesi, dikdörtgenin rengini, genişliğini ve stilini belirler. |
 | x | Single | Çizilecek dikdörtgenin sol üst köşesinin x koordinatı. |
 | y | Single | Çizilecek dikdörtgenin sol üst köşesinin y koordinatı. |
 | width | Single | Çizilecek dikdörtgenin genişliği. |
 | height | Single | Çizilecek dikdörtgenin yüksekliği. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* boş. |
+| ArgumentNullException | *pen* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, int, int, int, int) {#drawrectangle_2}
 
-Koordinat çifti, genişlik ve yükseklik tarafından belirtilen bir dikdörtgen çizer.
+Bir koordinat çifti, bir genişlik ve bir yükseklik ile belirtilen bir dikdörtgen çizer.
 
 ```csharp
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) dikdörtgenin rengini, genişliğini ve stilini belirler. |
 | x | Int32 | Çizilecek dikdörtgenin sol üst köşesinin x koordinatı. |
@@ -111,17 +112,17 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 | width | Int32 | Çizilecek dikdörtgenin genişliği. |
 | height | Int32 | Çizilecek dikdörtgenin yüksekliği. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* boş. |
+| ArgumentNullException | *pen* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

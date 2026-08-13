@@ -1,48 +1,49 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImageException inşaatçı. Yeni bir örneğini başlatır.PsdImageException sınıf.
+title: "PsdImageException.PsdImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImageException yapıcısı. PsdImageException sınıfının yeni bir örneğini oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`PsdImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`PsdImageException`](../) sınıfının.
 
 ```csharp
 public PsdImageException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PsdImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`PsdImageException`](../) sınıfının.
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

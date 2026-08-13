@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Fotoğraf hassasiyetini alır veya ayarlar.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Fotoğrafik duyarlılığı alır veya ayarlar"
 type: docs
 weight: 830
 url: /tr/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-Fotoğraf hassasiyetini alır veya ayarlar.
+Fotoğraf duyarlılığını alır veya ayarlar.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Fotoğraf hassasiyeti.
+Fotoğrafik duyarlılık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

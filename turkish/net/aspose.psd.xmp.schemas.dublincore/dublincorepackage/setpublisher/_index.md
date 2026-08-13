@@ -1,53 +1,54 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD for .NET API Referansı
-description: DublinCorePackage yöntem. Yayıncıyı ekler.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DublinCorePackage yöntemi. Yayıncıyı ekler"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
-Yayıncıyı ekler.
+Yayımcısını ekler.
 
 ```csharp
 public void SetPublisher(string publisher)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | publisher | String | Yayıncı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetPublisher(string[]) {#setpublisher_1}
 
-Yayıncıyı ekler.
+Yayımcısını ekler.
 
 ```csharp
 public void SetPublisher(string[] publisher)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | publisher | String[] | Yayıncı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | Yayımcı |
+| ArgumentNullException | publisher |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DublinCorePackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

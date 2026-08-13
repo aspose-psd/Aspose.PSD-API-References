@@ -1,32 +1,33 @@
 ---
-title: IOSTypeStructureLoader.CanLoad
-second_title: Aspose.PSD for .NET API Referansı
-description: IOSTypeStructureLoader yöntem. olup olmadığını belirlerOSTypeStructure kaynak belirtilenden yüklenebilirStreamContainer .
+title: "IOSTypeStructureLoader.CanLoad"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IOSTypeStructureLoader yöntemi. OSTypeStructure kaynağının belirtilen StreamContainer'dan yüklenip yüklenemeyeceğini belirler."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.CanLoad method
 
-olup olmadığını belirler[`OSTypeStructure`](../../ostypestructure/) kaynak belirtilenden yüklenebilir[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Belirtilen [`StreamContainer`](../../../aspose.psd/streamcontainer/) üzerinden [`OSTypeStructure`](../../ostypestructure/) kaynağının yüklenip yüklenemeyeceğini belirler.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
+| streamContainer | StreamContainer | Akış konteyneri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer[`OSTypeStructure`](../../ostypestructure/) kaynak belirtilenden yüklenebilir[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen [`StreamContainer`](../../../aspose.psd/streamcontainer/) üzerinden [`OSTypeStructure`](../../ostypestructure/) kaynağı yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum PositioningTypes
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.PositioningTypes Sıralama. Grafik sahnesi için konumlandırma ve boyut türleri.
+title: "PositioningTypes enum'ı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.PositioningTypes enum. Grafik sahnesi için konumlandırma ve boyut türleri."
 type: docs
-weight: 4890
+weight: 5410
 url: /tr/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
 Grafik sahnesi için konumlandırma ve boyut türleri.
@@ -14,17 +15,17 @@ Grafik sahnesi için konumlandırma ve boyut türleri.
 public enum PositioningTypes
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| DefinedByDocument | `0` | Sayfadaki belge sayfası ayarları tarafından tanımlanan mutlak konumlandırma. |
-| DefinedByOptions | `1` | Sayfadaki seçenekler sayfası ayarları tarafından tanımlanan mutlak konumlandırma. |
-| Relative | `2` | Göreli konumlandırma ve boyut. Tüm grafik nesnelerinin sınırı tarafından belirlenir. |
+| DefinedByDocument | `0` | Belge sayfa ayarları tarafından tanımlanan sayfadaki mutlak konumlandırma. |
+| DefinedByOptions | `1` | Seçenekler sayfası ayarlarıyla tanımlanan sayfadaki mutlak konumlandırma. |
+| Relative | `2` | Göreceli konumlandırma ve boyut. Tüm grafik nesnelerinin sınırı tarafından belirlenir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorImage.HeightF
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorImage mülk. Nesne yüksekliğini inç olarak alır.
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorImage özelliği. Nesnenin yüksekliğini inç cinsinden alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
-Nesne yüksekliğini inç olarak alır.
+Nesnenin yüksekliğini inç cinsinden alır.
 
 ```csharp
 public virtual float HeightF { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İnç cinsinden nesne yüksekliği.
+Nesnenin yüksekliği, inç cinsinden.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorImage](../)
-* ad alanı [Aspose.PSD](../../vectorimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

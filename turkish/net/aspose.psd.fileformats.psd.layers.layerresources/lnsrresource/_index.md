@@ -1,11 +1,12 @@
 ---
-title: Class LnsrResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource sınıf. Sınıf lnsrResource.
+title: "Sınıf LnsrResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource sınıfı. LnsrResource sınıfı"
 type: docs
-weight: 2750
+weight: 3060
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource class
 
 Sınıf lnsrResource.
@@ -14,41 +15,41 @@ Sınıf lnsrResource.
 public class LnsrResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | Yeni bir örneğini başlatır.`LnsrResource` class. Özel veya bilinmeyen değerle |
-| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | Yeni bir örneğini başlatır.`LnsrResource` sınıf. |
+| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | `LnsrResource` sınıfının yeni bir örneğini başlatır. Özel veya bilinmeyen değerle |
+| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | `LnsrResource` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Ham verileri alır. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | İmzayı alır. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Karşılık gelen enum açıklanmışsa değeri LnsrResourceType olarak alır. Aksi takdirde Unknown döndürür |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Ham veriyi alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | İlgili enum tanımlıysa değeri LnsrResourceType olarak alır. Aksi takdirde Unknown döndürür. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

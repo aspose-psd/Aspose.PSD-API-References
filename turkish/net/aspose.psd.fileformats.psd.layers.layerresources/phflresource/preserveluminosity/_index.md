@@ -1,27 +1,28 @@
 ---
-title: PhflResource.PreserveLuminosity
-second_title: Aspose.PSD for .NET API Referansı
-description: PhflResource mülk. Parlaklığı koru. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "PhflResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhflResource özelliği. Parlaklığı koruyup korumadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhflResource.PreserveLuminosity property
 
-[Parlaklığı koru]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Parlaklığın korunup korunmadığını gösteren bir değeri alır veya ayarlar [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [parlaklığı koru]; aksi takdirde,`YANLIŞ` .
+`true` eğer [preserve luminosity]; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhflResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

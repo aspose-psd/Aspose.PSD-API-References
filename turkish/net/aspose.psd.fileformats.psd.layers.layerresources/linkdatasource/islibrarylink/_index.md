@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.IsLibraryLink
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkDataSource mülk. Bu PSD bağlantı veri kaynağının Adobe Photoshop СС Kitaplığı öğesine bağlanıp bağlanmadığını gösteren bir değer alır.
+title: "LinkDataSource.IsLibraryLink"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkDataSource özelliği. Bu PSD bağlantı veri kaynağının Adobe Photoshop СС Kütüphane öğesine bağlanıp bağlanmadığını gösteren bir değer alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.IsLibraryLink property
 
-Bu PSD bağlantı veri kaynağının Adobe® Photoshop® СС Kitaplığı öğesine bağlanıp bağlanmadığını gösteren bir değer alır.
+Bu PSD bağlantı veri kaynağının Adobe® Photoshop® СС Library öğesine bağlanıp bağlanmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsLibraryLink { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek bir Adobe® Photoshop® СС kitaplık bağlantısıysa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek bir Adobe® Photoshop® СС kütüphane bağlantısıysa; aksi takdirde `false`.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | IsLibraryLink özelliğine erişemezsiniz. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinkDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionEnd
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Seçim bitişini alır veya ayarlar.
+title: "TypeToolInfoResource.SelectionEnd"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Seçim sonunu alır veya ayarlar"
 type: docs
-weight: 180
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionend/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionEnd property
 
-Seçim bitişini alır veya ayarlar.
+seçim sonunu alır veya ayarlar.
 
 ```csharp
 public int SelectionEnd { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Seçim sonu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

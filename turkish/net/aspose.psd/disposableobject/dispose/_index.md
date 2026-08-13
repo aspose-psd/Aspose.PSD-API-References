@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD for .NET API Referansı
-description: DisposableObject yöntem. Geçerli örneği ortadan kaldırır.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DisposableObject yöntemi. Mevcut örneği yok eder"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Geçerli örneği ortadan kaldırır.
+Mevcut örneği serbest bırakır.
 
 ```csharp
 public void Dispose()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DisposableObject](../)
-* ad alanı [Aspose.PSD](../../disposableobject/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

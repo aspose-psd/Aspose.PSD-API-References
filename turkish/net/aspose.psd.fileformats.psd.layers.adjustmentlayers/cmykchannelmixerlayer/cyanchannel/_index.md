@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.CyanChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykChannelMixerLayer mülk. Mavi kanalı alır.
+title: "CmykChannelMixerLayer.CyanChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykChannelMixerLayer özelliği. Cam göbeği kanalı alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/cyanchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.CyanChannel property
 
-Mavi kanalı alır.
+Camgöbeği kanalı alır.
 
 ```csharp
 public CmykMixerChannel CyanChannel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Mavi kanal.
+Cam göbeği kanalı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

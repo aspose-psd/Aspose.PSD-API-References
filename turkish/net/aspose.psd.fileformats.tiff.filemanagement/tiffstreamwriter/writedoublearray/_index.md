@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteDoubleArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa bir çift değer dizisi yazar.
+title: "TiffStreamWriter.WriteDoubleArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma bir dizi double değeri yazar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDoubleArray method
 
-Akışa bir çift değer dizisi yazar.
+Akışa bir dizi double değer yazar.
 
 ```csharp
 public void WriteDoubleArray(double[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Double[] | Yazılacak dizi. |
+| veri | Double[] | Yazılacak dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

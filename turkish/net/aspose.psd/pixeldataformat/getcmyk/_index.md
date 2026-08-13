@@ -1,59 +1,60 @@
 ---
-title: PixelDataFormat.GetCmyk
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile CMYK rengini alır.
+title: "PixelDataFormat.GetCmyk"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Belirtilen örnek başına bit sayısı ile CMYK rengini alır"
 type: docs
 weight: 210
 url: /tr/net/aspose.psd/pixeldataformat/getcmyk/
 ---
+{{< psd/tize >}}
 ## GetCmyk(int) {#getcmyk}
 
-Örnek başına belirtilen sayıda bit ile CMYK rengini alır.
+Örnek başına belirtilen bit sayısıyla CMYK rengini alır.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerSample)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Örnek başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 CMYK rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCmyk(int, int, int, int) {#getcmyk_1}
 
-Örnek başına belirtilen sayıda bit ile CMYK rengini alır.
+Örnek başına belirtilen bit sayısıyla CMYK rengini alır.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
     int bitsPerYellowChannel, int bitsPerKeyChannel)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Cyan kanalı başına bit sayısı. |
-| bitsPerMagentaChannel | Int32 | Magenta kanalı başına bit sayısı. |
-| bitsPerYellowChannel | Int32 | Sarı kanal başına bit sayısı. |
-| bitsPerKeyChannel | Int32 | Anahtar kanalı başına bit sayısı. |
+| bitsPerCyanChannel | Int32 | Cyan kanal başına bit sayısı. |
+| bitsPerMagentaChannel | Int32 | Magenta kanal başına bit sayısı. |
+| bitsPerYellowChannel | Int32 | Yellow kanal başına bit sayısı. |
+| bitsPerKeyChannel | Int32 | Key kanal başına bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 CMYK rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

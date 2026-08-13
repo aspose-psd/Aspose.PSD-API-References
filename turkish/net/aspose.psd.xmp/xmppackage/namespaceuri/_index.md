@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage mülk. Ad alanı URIsini alır.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage özelliği. Ad alanı URI'sını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-Ad alanı URI'sini alır.
+Ad alanı URI'sını alır.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ad alanı URI.
+Namespace URI'si.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

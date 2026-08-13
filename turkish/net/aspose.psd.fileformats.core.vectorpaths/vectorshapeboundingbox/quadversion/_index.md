@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeBoundingBox mülk. Dörtlü sürüm birim değerini alır veya ayarlar.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeBoundingBox özelliği. Birim değer dörtgen sürümünü alır veya ayarlar"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-Dörtlü sürüm birim değerini alır veya ayarlar.
+Birim değer dörtgen sürümünü alır veya ayarlar.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dörtlü versiyon.
+Dörtgen sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeBoundingBox](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

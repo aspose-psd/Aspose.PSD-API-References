@@ -1,11 +1,12 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilterType Sıralama. Kullanılacak görüntü filtreleri
+title: "Enum ImageFilterType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilterType enum. Kullanılacak görüntü filtreleri"
 type: docs
-weight: 4640
+weight: 5140
 url: /tr/net/aspose.psd/imagefiltertype/
 ---
+{{< psd/tize >}}
 ## ImageFilterType enumeration
 
 Kullanılacak görüntü filtreleri
@@ -14,17 +15,17 @@ Kullanılacak görüntü filtreleri
 public enum ImageFilterType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| None | `0` | Hiçbir şey filtresi kullanılmadı |
+| None | `0` | Filtre kullanılmadı |
 | BigRectangular | `1` | Büyük dikdörtgen filtre |
 | SmallRectangular | `2` | Küçük dikdörtgen filtre |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

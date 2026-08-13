@@ -1,27 +1,28 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage mülk. Görüntü bileşenlerinin önceden çoğaltılması gerekip gerekmediğini belirten bir değer alır veya ayarlar.
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage özelliği. Görüntü bileşenlerinin önceden çarpılması gerekip gerekmediğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
-Görüntü bileşenlerinin önceden çoğaltılması gerekip gerekmediğini belirten bir değer alır veya ayarlar.
+Resim bileşenlerinin önceden çarpılmış olması gerekip gerekmediğini gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` görüntü bileşenlerinin önceden çoğaltılması gerekiyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer görüntü bileşenleri önceden çarpılmalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

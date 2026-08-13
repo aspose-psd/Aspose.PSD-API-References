@@ -1,24 +1,25 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: DataStreamSupporter yöntem. Nesnenin verilerini geçerli belleğe kaydeder.DataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DataStreamSupporter yöntemi. Nesnenin verisini mevcut DataStreamSupporter'a kaydeder."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Nesnenin verilerini geçerli belleğe kaydeder.[`DataStreamSupporter`](../) .
+Nesnenin verisini mevcut [`DataStreamSupporter`](../) içine kaydeder.
 
 ```csharp
 public virtual void Save()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Nesnenin verilerini belirtilen akışa kaydeder.
 public virtual void Save(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Nesnenin verilerinin kaydedileceği akış. |
+| stream | Stream | Nesnenin verilerini kaydetmek için akış. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -50,15 +51,15 @@ Nesnenin verilerini belirtilen dosya konumuna kaydeder.
 public void Save(string filePath)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| filePath | String | Nesnenin verilerinin kaydedileceği dosya yolu. |
+| filePath | String | Nesnenin verilerini kaydetmek için dosya yolu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -70,15 +71,15 @@ Nesnenin verilerini belirtilen dosya konumuna kaydeder.
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| filePath | String | Nesnenin verilerinin kaydedileceği dosya yolu. |
-| overWrite | Boolean | olarak ayarlanmışsa`doğru` üzerine dosya içeriğini yazın, aksi takdirde ekleme gerçekleşir. |
+| filePath | String | Nesnenin verilerini kaydetmek için dosya yolu. |
+| overWrite | Boolean | `true` olarak ayarlanırsa dosya içeriği üzerine yazar, aksi takdirde ekleme yapılır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DataStreamSupporter](../)
-* ad alanı [Aspose.PSD](../../datastreamsupporter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

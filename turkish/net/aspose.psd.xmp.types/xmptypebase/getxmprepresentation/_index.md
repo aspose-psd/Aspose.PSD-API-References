@@ -1,27 +1,28 @@
 ---
-title: XmpTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpTypeBase yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "XmpTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpTypeBase yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types/xmptypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public abstract string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../)
-* ad alanı [Aspose.PSD.Xmp.Types](../../xmptypebase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types](../../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../../)
 
 

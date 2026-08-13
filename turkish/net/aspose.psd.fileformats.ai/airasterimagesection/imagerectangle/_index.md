@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Görüntü dikdörtgenini alır.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Görüntü dikdörtgenini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 Görüntü dikdörtgenini alır.
@@ -14,15 +15,15 @@ Görüntü dikdörtgenini alır.
 public Rectangle ImageRectangle { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü dikdörtgeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageCreatorDescriptor yöntem. Görüntü oluşturucunun aşağıdakileri kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirlerimageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageCreatorDescriptor yöntemi. Görüntü oluşturucunun imageOptions kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirler."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-Görüntü oluşturucunun aşağıdakileri kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirler:*imageOptions* .
+Görüntü oluşturucunun *imageOptions* kullanarak yeni bir görüntü oluşturup oluşturamayacağını belirler.
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Görüntü seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`Doğru` bu tanımlayıcı tarafından oluşturulan görüntü yaratıcısı, belirtilenleri kullanarak görüntü verileri oluşturabilirse*imageOptions* ; aksi takdirde,`YANLIŞ` .
+`True` eğer bu tanımlayıcı tarafından oluşturulan görüntü oluşturucu, belirtilen *imageOptions* kullanarak görüntü verisi oluşturabiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimagecreatordescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

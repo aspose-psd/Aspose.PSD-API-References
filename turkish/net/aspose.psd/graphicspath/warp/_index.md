@@ -1,111 +1,112 @@
 ---
-title: GraphicsPath.Warp
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Buna bir dikdörtgen ve bir paralelkenar tarafından tanımlanan bir çarpıtma dönüşümü uygular.GraphicsPath .
+title: "GraphicsPath.Warp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Bir dikdörtgen ve paralelkenar tarafından tanımlanan bir bükülme dönüşümünü bu GraphicsPath'e uygular."
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/graphicspath/warp/
 ---
+{{< psd/tize >}}
 ## Warp(PointF[], RectangleF) {#warp}
 
-Buna bir dikdörtgen ve bir paralelkenar tarafından tanımlanan bir çarpıtma dönüşümü uygular.[`GraphicsPath`](../) .
+Bir dikdörtgen ve paralelkenar tarafından tanımlanan bir bükülme dönüşümünü bu [`GraphicsPath`](../) üzerine uygular.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| destPoints | PointF[] | bir dizi[`PointF`](../../pointf/) dikdörtgenin tanımladığı bir paralelkenarı tanımlayan yapılar*srcRect*dönüştürülür. Dizi, üç veya dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ alt köşesi ilk üç nokta tarafından belirtilir. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder.*destPoints*. |
+| destPoints | PointF[] | Bir dizi [`PointF`](../../pointf/) yapısı, *srcRect* tarafından tanımlanan dikdörtgenin dönüştürüleceği paralelkenarı tanımlar. Dizi üç ya da dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ‑alt köşesi ilk üç nokta ile ima edilir. |
+| srcRect | RectangleF | Bir [`RectangleF`](../../rectanglef/) nesnesi, *destPoints* tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix) {#warp_1}
 
-Buna bir dikdörtgen ve bir paralelkenar tarafından tanımlanan bir çarpıtma dönüşümü uygular.[`GraphicsPath`](../) .
+Bir dikdörtgen ve paralelkenar tarafından tanımlanan bir bükülme dönüşümünü bu [`GraphicsPath`](../) üzerine uygular.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| destPoints | PointF[] | bir dizi[`PointF`](../../pointf/) dikdörtgenin tanımladığı bir paralelkenarı tanımlayan yapılar*srcRect*dönüştürülür. Dizi, üç veya dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ alt köşesi ilk üç nokta tarafından belirtilir. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder.*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yola uygulanacak bir geometrik dönüşümü belirtir. |
+| destPoints | PointF[] | Bir dizi [`PointF`](../../pointf/) yapısı, *srcRect* tarafından tanımlanan dikdörtgenin dönüştürüleceği paralelkenarı tanımlar. Dizi üç ya da dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ‑alt köşesi ilk üç nokta ile ima edilir. |
+| srcRect | RectangleF | Bir [`RectangleF`](../../rectanglef/) nesnesi, *destPoints* tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder. |
+| matrix | Matrix | Bir [`Matrix`](../../matrix/) yapısı, yola uygulanacak geometrik dönüşümü belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode) {#warp_2}
 
-Buna bir dikdörtgen ve bir paralelkenar tarafından tanımlanan bir çarpıtma dönüşümü uygular.[`GraphicsPath`](../) .
+Bir dikdörtgen ve paralelkenar tarafından tanımlanan bir bükülme dönüşümünü bu [`GraphicsPath`](../) üzerine uygular.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| destPoints | PointF[] | bir dizi[`PointF`](../../pointf/) dikdörtgenin tanımladığı bir paralelkenarı tanımlayan yapılar*srcRect*dönüştürülür. Dizi, üç veya dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ alt köşesi ilk üç nokta tarafından belirtilir. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder.*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yola uygulanacak bir geometrik dönüşümü belirtir. |
-| warpMode | WarpMode | A[`WarpMode`](../../warpmode/) Bu çarpıtma işleminin perspektif mi yoksa çift doğrusal kip mi kullandığını belirten numaralandırma. |
+| destPoints | PointF[] | Bir dizi [`PointF`](../../pointf/) yapısı, *srcRect* tarafından tanımlanan dikdörtgenin dönüştürüleceği paralelkenarı tanımlar. Dizi üç ya da dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ‑alt köşesi ilk üç nokta ile ima edilir. |
+| srcRect | RectangleF | Bir [`RectangleF`](../../rectanglef/) nesnesi, *destPoints* tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder. |
+| matrix | Matrix | Bir [`Matrix`](../../matrix/) yapısı, yola uygulanacak geometrik dönüşümü belirtir. |
+| warpMode | WarpMode | Bu eğme işleminin perspektif mi yoksa ikili (bilinear) modda mı olduğunu belirten bir [`WarpMode`](../../warpmode/) sayımı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode, float) {#warp_3}
 
-Buna bir dikdörtgen ve bir paralelkenar tarafından tanımlanan bir çarpıtma dönüşümü uygular.[`GraphicsPath`](../) .
+Bir dikdörtgen ve paralelkenar tarafından tanımlanan bir bükülme dönüşümünü bu [`GraphicsPath`](../) üzerine uygular.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode, 
     float flatness)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| destPoints | PointF[] | bir dizi[`PointF`](../../pointf/) dikdörtgenin tanımladığı bir paralelkenarı tanımlayan yapılar*srcRect*dönüştürülür. Dizi, üç veya dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ alt köşesi ilk üç nokta tarafından belirtilir. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder.*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) yola uygulanacak bir geometrik dönüşümü belirtir. |
-| warpMode | WarpMode | A[`WarpMode`](../../warpmode/) Bu çarpıtma işleminin perspektif mi yoksa çift doğrusal kip mi kullandığını belirten numaralandırma. |
-| flatness | Single | Ortaya çıkan yolun ne kadar düz olduğunu belirten 0 ile 1 arasında bir değer. Daha fazla bilgi için bkz.[`Flatten`](../flatten/) yöntemler. |
+| destPoints | PointF[] | Bir dizi [`PointF`](../../pointf/) yapısı, *srcRect* tarafından tanımlanan dikdörtgenin dönüştürüleceği paralelkenarı tanımlar. Dizi üç ya da dört öğe içerebilir. Dizi üç öğe içeriyorsa, paralelkenarın sağ‑alt köşesi ilk üç nokta ile ima edilir. |
+| srcRect | RectangleF | Bir [`RectangleF`](../../rectanglef/) nesnesi, *destPoints* tarafından tanımlanan paralelkenara dönüştürülen dikdörtgeni temsil eder. |
+| matrix | Matrix | Bir [`Matrix`](../../matrix/) yapısı, yola uygulanacak geometrik dönüşümü belirtir. |
+| warpMode | WarpMode | Bu eğme işleminin perspektif mi yoksa ikili (bilinear) modda mı olduğunu belirten bir [`WarpMode`](../../warpmode/) sayımı. |
+| flatness | Single | 0 ile 1 arasında bir değer, ortaya çıkan yolun ne kadar düz olduğunu belirtir. Daha fazla bilgi için [`Flatten`](../flatten/) yöntemlerine bakın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

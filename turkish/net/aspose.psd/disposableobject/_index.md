@@ -1,40 +1,41 @@
 ---
-title: Class DisposableObject
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.DisposableObject sınıf. Tek kullanımlık nesneyi temsil eder.
+title: "Sınıf DisposableObject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.DisposableObject sınıfı. Atılabilir nesneyi temsil eder"
 type: docs
-weight: 750
+weight: 760
 url: /tr/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-Tek kullanımlık nesneyi temsil eder.
+Kullanım sonrası yok edilebilen nesneyi temsil eder.
 
 ```csharp
 public class DisposableObject : IDisposable
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | Default_Constructor |
+| [DisposableObject](disposableobject/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

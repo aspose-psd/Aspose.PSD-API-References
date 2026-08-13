@@ -1,11 +1,12 @@
 ---
-title: RgbMixerChannel.Blue
-second_title: Aspose.PSD for .NET API Referansı
-description: RgbMixerChannel mülk. Maviyi alır veya ayarlar.
+title: "RgbMixerChannel.Blue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RgbMixerChannel özelliği. Maviyi alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Blue property
 
 Maviyi alır veya ayarlar.
@@ -14,14 +15,14 @@ Maviyi alır veya ayarlar.
 public short Blue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Mavi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RgbMixerChannel](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

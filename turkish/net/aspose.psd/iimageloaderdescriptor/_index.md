@@ -1,30 +1,31 @@
 ---
-title: Interface IImageLoaderDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IImageLoaderDescriptor arayüz. Yükleyici özelliklerini belirten görüntü yükleyici tanımlayıcısı. Yükleyici tanımlayıcısı her bir görüntü yükleyici örneğini bellekte içerme gerekliliğini ve çoklu okuma sorunlarını aşmak için kullanılır.
+title: "Arayüz IImageLoaderDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IImageLoaderDescriptor arayüzü. Yükleyici özelliklerini belirten görüntü yükleyici tanımlayıcısı. Yükleyici tanımlayıcı, her görüntü yükleyici örneğinin bellekte tutulması ve çok iş parçacıklı sorunların gerekliliğini aşmak için kullanılır."
 type: docs
-weight: 4460
+weight: 4960
 url: /tr/net/aspose.psd/iimageloaderdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor interface
 
-Yükleyici özelliklerini belirten görüntü yükleyici tanımlayıcısı. Yükleyici tanımlayıcısı, her bir görüntü yükleyici örneğini bellekte içerme gerekliliğini ve çoklu okuma sorunlarını aşmak için kullanılır.
+Yükleyici özelliklerini belirten görüntü yükleyici tanımlayıcısı. Yükleyici tanımlayıcısı, her görüntü yükleyici örneğinin bellekte tutulması gerekliliğini ve çok iş parçacıklı sorunları aşmak için kullanılır.
 
 ```csharp
 public interface IImageLoaderDescriptor : IImageDescriptor
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | Görüntü yükleyicinin belirtilen akıştan ve isteğe bağlı olarak*loadOptions* . |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | Belirtilen akıştan yeni bir görüntüyü okuyup okuyamayacağını ve isteğe bağlı olarak *loadOptions* kullanıp kullanmayacağını belirler. |
 | [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | Yeni bir yükleyici örneği oluşturur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

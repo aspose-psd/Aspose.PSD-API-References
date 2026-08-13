@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBoolean inşaatçı. Yeni bir örneğini başlatır.XmpBoolean boole değerine dayalı sınıf.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBoolean yapıcı. Boolean değerine dayalı XmpBoolean sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpBoolean`](../) boole değerine dayalı sınıf.
+[`XmpBoolean`](../) sınıfının Boolean değerine dayalı yeni bir örneğini başlatır.
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Boolean | Boole değeri. İzin verilen değerler Doğru veya Yanlış'tır. |
+| değer | Boolean | Boolean değeri. İzin verilen değerler True veya False'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBoolean](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpBoolean`](../) varsayılan değeri olan sınıf.
+[`XmpBoolean`](../) sınıfının varsayılan değerle yeni bir örneğini başlatır.
 
 ```csharp
 public XmpBoolean()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBoolean](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`XmpBoolean`](../) sınıf.
+[`XmpBoolean`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentException | Geçersiz dize değeri; değer |
+| ArgumentException | Geçersiz string değeri;value |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBoolean](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

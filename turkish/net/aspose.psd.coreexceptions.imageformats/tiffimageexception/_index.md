@@ -1,38 +1,39 @@
 ---
-title: Class TiffImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException sınıf. Tiff resim istisnası
+title: "Sınıf TiffImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException sınıf. Tiff görüntü istisnası"
 type: docs
 weight: 610
 url: /tr/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException class
 
-Tiff resim istisnası
+Tiff görüntü istisnası
 
 ```csharp
 public class TiffImageException : ImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TiffImageException](tiffimageexception/#constructor_1)(string) | Yeni bir örneğini başlatır.`TiffImageException` sınıf. |
-| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Yeni bir örneğini başlatır.`TiffImageException` sınıf. |
-| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Yeni bir örneğini başlatır.`TiffImageException` sınıf. |
-| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Yeni bir örneğini başlatır.`TiffImageException` sınıf. |
+| [TiffImageException](tiffimageexception/#constructor_1)(string) | Yeni bir `TiffImageException` sınıfı örneği başlatır. |
+| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Yeni bir `TiffImageException` sınıfı örneği başlatır. |
+| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Yeni bir `TiffImageException` sınıfı örneği başlatır. |
+| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Yeni bir `TiffImageException` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | Tiff seçenekleri hatası alır. |
+| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | tiff seçenekleri hatasını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

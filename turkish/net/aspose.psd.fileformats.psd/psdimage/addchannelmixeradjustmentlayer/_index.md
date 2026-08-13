@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Kanal karıştırıcı ayar katmanını varsayılan parametrelerle ekler
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Varsayılan parametrelerle kanal mikseri ayar katmanını ekler"
 type: docs
-weight: 310
+weight: 320
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Kanal karıştırıcı ayar katmanını varsayılan parametrelerle ekler
+Varsayılan parametrelerle kanal mikseri ayar katmanını ekler
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Kanal Karıştırıcı Katmanı Eklendi
+Kanal Mikseri Katmanı Eklendi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

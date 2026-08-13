@@ -1,11 +1,12 @@
 ---
-title: BritResource.Contrast
-second_title: Aspose.PSD for .NET API Referansı
-description: BritResource mülk. Kontrastı alır veya ayarlar.
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BritResource özelliği. Kontrastı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
 Kontrastı alır veya ayarlar.
@@ -14,14 +15,14 @@ Kontrastı alır veya ayarlar.
 public short Contrast { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kontrast.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BritResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

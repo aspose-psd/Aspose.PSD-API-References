@@ -1,32 +1,33 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode Sıralama. jpeg resimler için renk modu.
+title: "Enum JpegCompressionColorMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode enum. JPEG görüntüleri için renk modu"
 type: docs
-weight: 1490
+weight: 1500
 url: /tr/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
-jpeg resimler için renk modu.
+jpeg görüntüler için renk modu.
 
 ```csharp
 public enum JpegCompressionColorMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Grayscale | `0` | Gri Tonlamalı görüntü. |
-| YCbCr | `1` | YCbCr görüntüsü, jpeg görüntüleri için standart seçenek. |
+| Grayscale | `0` | Gri tonlamalı görüntü. |
+| YCbCr | `1` | YCbCr görüntüsü, JPEG görüntüleri için standart seçenek. |
 | Cmyk | `2` | 4 bileşenli CMYK görüntüsü. |
-| Ycck | `3` | ycck renkli jpeg görüntüsü. Kaydetmek için icc profili gerekiyor. |
-| Rgb | `4` | RGB Renk modu. |
+| Ycck | `3` | YCCK renkli JPEG görüntüsü. Kaydetmek için ICC profili gerekir. |
+| Rgb | `4` | RGB renk modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

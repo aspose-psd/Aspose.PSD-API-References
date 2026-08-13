@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.ShapeSegments
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı şekilleri birleştiren farklı şekil segmentleri içerir.
+title: "Aspose.PSD.ShapeSegments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, şekilleri birleştiren farklı şekil segmentlerini içerir"
 type: docs
-weight: 500
+weight: 540
 url: /tr/net/aspose.psd.shapesegments/
 ---
-Ad alanı, şekilleri birleştiren farklı şekil segmentleri içerir.
+{{< psd/tize >}}
+Namespace, şekilleri birleştiren farklı şekil segmentlerini içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [BezierSegment](./beziersegment/) | Bir noktadan bir sonraki noktaya giden ve iki kontrol noktası kullanan bezier segmenti. |
-| [LineSegment](./linesegment/) | Doğrudan belirli bir noktadan bir sonraki noktaya giden bir segmenti temsil eder. |
+| [LineSegment](./linesegment/) | Belirli bir noktadan bir sonraki noktaya doğrudan giden bir segmenti temsil eder. |
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Resize
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer yöntem. Görüntüyü yeniden boyutlandırır. VarsayılanLeftTopToLeftTopkullanılır.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer yöntemi. Görüntüyü yeniden boyutlandırır. Varsayılan LeftTopToLeftTop kullanılır"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Görüntüyü yeniden boyutlandırır. VarsayılanLeftTopToLeftTopkullanılır.
+Görüntünün boyutunu değiştirir. Varsayılan LeftTopToLeftTop kullanılır.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 | newHeight | Int32 | Yeni yükseklik. |
-| resizeType | ResizeType | Yeniden boyutlandırma dönüşümünün türü[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Yeniden boyutlandırma dönüşümünün türü [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yeniden boyutlandırma mekanizmasını seçmek için parametreyle birlikte TextLayer.Resize işlevini gösterir.
+Aşağıdaki kod, yeniden boyutlandırma mekanizmasını seçmek için parametreyle TextLayer.Resize işlevini gösterir.
 
 ```csharp
 [C#]
@@ -38,11 +39,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Yeniden boyutlandırma işlevinin katmanı nasıl yeniden boyutlandıracağına ilişkin mekanizmayı ayarlar (varsayılan değer)
+    // Yeniden boyutlandırma işlevinin katmanı nasıl yeniden boyutlandıracağını belirleyen mekanizmayı ayarlar (varsayılan değer)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Burada kullanılan metin katmanı için yeni yeniden boyutlandırma mekanizması
-    // Sadece katman değil, metin katmanının dönüşüm matrisi de değişecek
+    // Metin katmanı için burada kullanılan yeni yeniden boyutlandırma mekanizması
+    // Sadece katman değil, aynı zamanda metin katmanının dönüşüm matrisi de değiştirilecektir
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -52,13 +53,13 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 {
     TextLayer txtLayer = (TextLayer)image.Layers[1];
 
-    // Delta'nın nedeni farklı varsayılan yazı tipi
+    // Delta'nın nedeni farklı varsayılan yazı tipidir.
     if (txtLayer.TransformMatrix[4] >= 65 
         && txtLayer.TransformMatrix[4] <= 67
         && txtLayer.TransformMatrix[5] >= 234
         && txtLayer.TransformMatrix[5] <= 237)
     {
-        // Her şey yolunda
+        // Her şey tamam
     }
     else
     {
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

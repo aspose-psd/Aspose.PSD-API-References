@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.ClassName
-second_title: Aspose.PSD for .NET API Referansı
-description: PropertyStructure mülk. Sınıf adını alır veya ayarlar.
+title: "PropertyStructure.ClassName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PropertyStructure özelliği. Sınıf adını alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classname/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.ClassName property
 
 Sınıf adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Sınıf adını alır veya ayarlar.
 public string ClassName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sınıf adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PropertyStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

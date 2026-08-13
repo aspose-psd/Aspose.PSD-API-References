@@ -1,28 +1,29 @@
 ---
-title: Class DataMissmatchError
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.DataMissmatchError sınıf. Veri uyuşmazlığı istisnası class
+title: "DataMissmatchError sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError sınıfı. Veri uyuşmazlığı istisna sınıfı"
 type: docs
 weight: 470
 url: /tr/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-Veri uyuşmazlığı istisnası class
+Veri uyuşmazlığı istisna sınıfı
 
 ```csharp
 public class DataMissmatchError : Exception
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | Yeni bir örneğini başlatır.`DataMissmatchError` sınıf. |
+| [DataMissmatchError](datamissmatcherror/)(string) | `DataMissmatchError` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

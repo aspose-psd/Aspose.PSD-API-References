@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Meta verileri son değiştirilme tarihini ekler.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Meta verinin son değiştirilme tarihini ekler"
 type: docs
-weight: 70
+weight: 90
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-Meta verileri son değiştirilme tarihini ekler.
+Meta verinin son değişiklik tarihini ekler.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | metadataDate | DateTime | Meta veri tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-Meta verileri son değiştirilme tarihini ekler.
+Meta verinin son değişiklik tarihini ekler.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | metadataDate | String | Meta veri tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

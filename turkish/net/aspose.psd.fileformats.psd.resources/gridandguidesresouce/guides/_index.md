@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD for .NET API Referansı
-description: GridAndGuidesResouce mülk. Kılavuzları alır veya ayarlar.
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GridAndGuidesResouce özelliği. Kılavuzları alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
 Kılavuzları alır veya ayarlar.
@@ -14,15 +15,15 @@ Kılavuzları alır veya ayarlar.
 public GuideResource[] Guides { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kılavuzlar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

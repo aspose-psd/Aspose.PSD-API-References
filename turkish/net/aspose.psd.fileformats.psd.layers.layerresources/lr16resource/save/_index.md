@@ -1,35 +1,36 @@
 ---
-title: Lr16Resource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: Lr16Resource yöntem. Katman kaydını kaydeder.
+title: "Lr16Resource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lr16Resource yöntemi. Katman kaydını kaydeder"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Save method
 
-Katman kaydını kaydeder.
+Kaydeder katman kaydını.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | Psd versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| NotImplementedException | 32 bit kanalların kaydedilmesi uygulanmadı |
+| NotImplementedException | 32 bit kanallarının kaydedilmesi uygulanmadı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lr16Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

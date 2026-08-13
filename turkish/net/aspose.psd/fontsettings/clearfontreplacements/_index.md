@@ -1,11 +1,12 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Tüm yazı tipi değişikliklerini temizler
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Tüm yazı tipi değişikliklerini temizler"
 type: docs
-weight: 20
+weight: 30
 url: /tr/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
 Tüm yazı tipi değişikliklerini temizler
@@ -14,9 +15,9 @@ Tüm yazı tipi değişikliklerini temizler
 public static void ClearFontReplacements()
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions sınıf. Gauss bulanıklığı
+title: "GaussianBlurFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions sınıfı. Gaussian bulanıklığı"
 type: docs
-weight: 4710
+weight: 5210
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
 Gauss bulanıklığı
@@ -14,26 +15,26 @@ Gauss bulanıklığı
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Yeni bir örneğini başlatır.`GaussianBlurFilterOptions` class. Varsayılan ayarlarla. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Yeni bir örneğini başlatır.`GaussianBlurFilterOptions` sınıf. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | `GaussianBlurFilterOptions` sınıfının yeni bir örneğini başlatır. Varsayılan ayarlarla. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | `GaussianBlurFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Sapmayı alır veya ayarlar. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Faktörü alır veya ayarlar. |
 | [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Yarıçapı alır veya ayarlar. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Sigmayı alır veya ayarlar. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Sigma değerini alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

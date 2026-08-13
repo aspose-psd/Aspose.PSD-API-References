@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.NonAffineTransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin afin olmayan dönüşüm matrisini alır veya ayarlar.
+title: "SmartObjectResource.NonAffineTransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin doğrusal olmayan dönüşüm matrisini alır veya ayarlar"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.NonAffineTransformMatrix property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin afin olmayan dönüşüm matrisini alır veya ayarlar.
+Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin affine olmayan dönüşüm matrisini.
 
 ```csharp
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Akıllı nesne katmanının afin olmayan dönüşüm matrisi.
+Akıllı nesne katmanının doğrusal olmayan dönüşüm matrisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

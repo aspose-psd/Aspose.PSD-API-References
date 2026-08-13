@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRightsManagementPackage yöntem. Sertifikayı ayarlar.
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRightsManagementPackage yöntemi. Sertifikayı ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
 Sertifikayı ayarlar.
@@ -14,14 +15,14 @@ Sertifikayı ayarlar.
 public void SetCertificate(string certificate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| certificate | String | Sertifika. |
+| sertifika | String | Sertifika. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRightsManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

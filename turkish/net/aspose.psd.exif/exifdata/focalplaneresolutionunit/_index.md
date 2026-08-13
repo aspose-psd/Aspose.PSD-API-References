@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Odak düzlemi çözünürlük birimini alır veya ayarlar.
+title: "ExifData.FocalPlaneResolutionUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Odak düzlemi çözünürlük birimini alır veya ayarlar"
 type: docs
 weight: 310
 url: /tr/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneResolutionUnit property
 
 Odak düzlemi çözünürlük birimini alır veya ayarlar.
@@ -14,15 +15,15 @@ Odak düzlemi çözünürlük birimini alır veya ayarlar.
 public ExifUnit FocalPlaneResolutionUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Odak düzlemi çözünürlük birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

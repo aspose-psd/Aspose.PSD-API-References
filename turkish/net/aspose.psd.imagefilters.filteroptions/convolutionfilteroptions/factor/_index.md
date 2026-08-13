@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Aspose.PSD for .NET API Referansı
-description: ConvolutionFilterOptions mülk. Faktörü alır veya ayarlar.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ConvolutionFilterOptions özelliği. factor değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
 Faktörü alır veya ayarlar.
@@ -14,14 +15,14 @@ Faktörü alır veya ayarlar.
 public double Factor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Faktör.
+factor.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ConvolutionFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

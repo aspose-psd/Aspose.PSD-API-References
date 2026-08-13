@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResource alan. 8 bit için Patt tipi araç bilgisi anahtarı.
+title: "PattResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResource alanı. 8 bit için Patt tip aracı bilgi anahtarı"
 type: docs
-weight: 80
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey field
 
-8 bit için 'Patt' tipi araç bilgisi anahtarı.
+8-bit için 'Patt' türü araç bilgi anahtarı.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteRational
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa tek bir rasyonel sayı değeri yazar.
+title: "TiffStreamWriter.WriteRational"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma tek bir rasyonel sayı değeri yazar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRational method
 
 Akışa tek bir rasyonel sayı değeri yazar.
@@ -14,15 +15,15 @@ Akışa tek bir rasyonel sayı değeri yazar.
 public void WriteRational(TiffRational data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | TiffRational | Yazılacak değer. |
+| veri | TiffRational | Yazılacak değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

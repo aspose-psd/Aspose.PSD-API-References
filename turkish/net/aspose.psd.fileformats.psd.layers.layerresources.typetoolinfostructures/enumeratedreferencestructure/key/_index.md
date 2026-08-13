@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: EnumeratedReferenceStructure mülk. Anahtarı alır.
+title: "EnumeratedReferenceStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "EnumeratedReferenceStructure özelliği. Anahtarı alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.Key property
 
 Anahtarı alır.
@@ -14,10 +15,10 @@ Anahtarı alır.
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [EnumeratedReferenceStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Yeni bir normal katman ekler.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Yeni bir normal katman ekler"
 type: docs
-weight: 410
+weight: 440
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Yeni bir normal katman ekler.
@@ -14,11 +15,11 @@ Yeni bir normal katman ekler.
 public Layer AddRegularLayer()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Normal katman oluşturuldu.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni oluşturulan normal katmanın PsdImage'a nasıl ekleneceğini gösterir.
 
@@ -58,19 +59,19 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
     layer2.Bottom = 175;
     layer2.SaveArgb32Pixels(rect2, data2);
 
-    // psd'yi kaydet
+    // PSD'yi kaydet
     im.Save(exportPath, new PsdOptions());
 
-    // png'yi kaydet
+    // PNG'yi kaydet
     im.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.FullPath
-second_title: Aspose.PSD for .NET API Referansı
-description: AliasStructure mülk. Tam yolu alır veya ayarlar.
+title: "AliasStructure.FullPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AliasStructure özelliği. Tam yolu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/
 ---
+{{< psd/tize >}}
 ## AliasStructure.FullPath property
 
 Tam yolu alır veya ayarlar.
@@ -14,14 +15,14 @@ Tam yolu alır veya ayarlar.
 public string FullPath { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tam yol.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AliasStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

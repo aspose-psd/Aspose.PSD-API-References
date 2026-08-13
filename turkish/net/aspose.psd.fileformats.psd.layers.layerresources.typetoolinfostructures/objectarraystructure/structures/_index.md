@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectArrayStructure mülk. Yapı dizisinin bir kopyasını alır veya ayarlar.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectArrayStructure özelliği. Yapıların bir dizisinin kopyasını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-Yapı dizisinin bir kopyasını alır veya ayarlar.
+Yapıların bir dizisinin kopyasını alır veya ayarlar.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Nesne dizisi yapısındaki alt yapılar.
+Nesne dizi yapısındaki alt yapılar.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ObAr ve UnFl imzalarının desteğini gösterir.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class KnkoResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource sınıf. Sınıfı KnkoResource. Bu kaynak kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+title: "Sınıf KnkoResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource sınıfı. Sınıf KnkoResource. Bu kaynak, kırpılmış öğenin karıştırılmasıyla ilgili bilgileri içerir."
 type: docs
-weight: 2570
+weight: 2880
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-Sınıfı KnkoResource. Bu kaynak, kırpılmış öğenin harmanlanması hakkında bilgi içerir.
+Sınıf KnkoResource. Bu kaynak, kırpılmış öğenin karıştırılması hakkında bilgi içerir.
 
 ```csharp
 public class KnkoResource : BooleanResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | Yeni bir örneğini başlatır.`KnkoResource` sınıf. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | Yeni bir örneğini başlatır.`KnkoResource` sınıf. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Yeni bir örneğini başlatır.`KnkoResource` class. Özel veya bilinmeyen değerle |
+| [KnkoResource](knkoresource/#constructor)() | Yeni bir `KnkoResource` sınıf örneğini başlatır. |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | Yeni bir `KnkoResource` sınıf örneğini başlatır. |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Yeni bir `KnkoResource` sınıf örneğini başlatır. Özel veya bilinmeyen bir değerle. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | [iç öğeleri harmanla]. olup olmadığını belirten bir değer alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Bu [blend interior elements] olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

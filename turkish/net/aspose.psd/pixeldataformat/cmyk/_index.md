@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat cam göbeği macenta sarı ve siyahın her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Camgöbeği, macenta, sarı ve siyah için her biri 8 bit olmak üzere piksel başına 32 bit olarak tanımlanan PixelDataFormat'ı alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Şunu alır:[`PixelDataFormat`](../) cam göbeği, macenta, sarı ve siyahın her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+`[`PixelDataFormat`](../)` piksel başına 32 bit, camgöbeği, macenta, sarı ve siyah için her biri 8 bit olarak tanımlanan sürümünü alır.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../) cam göbeği, macenta, sarı ve siyahın her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+Piksel başına 32 bit, camgöbeği, macenta, sarı ve siyah için her biri 8 bit olarak tanımlanan [`PixelDataFormat`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

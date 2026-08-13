@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: PtFlResource mülk. Katman kaynak imzasını alır.
+title: "PtFlResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PtFlResource özelliği. katman kaynağı imzasını alır"
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PtFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

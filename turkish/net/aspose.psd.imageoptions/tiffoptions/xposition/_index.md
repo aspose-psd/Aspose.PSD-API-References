@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Xposition
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. x konumunu alır veya ayarlar.
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. x konumunu alır veya ayarlar"
 type: docs
-weight: 620
+weight: 630
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
 x konumunu alır veya ayarlar.
@@ -14,15 +15,15 @@ x konumunu alır veya ayarlar.
 public TiffRational Xposition { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 x konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

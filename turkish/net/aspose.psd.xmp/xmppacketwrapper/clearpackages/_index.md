@@ -1,23 +1,24 @@
 ---
-title: XmpPacketWrapper.ClearPackages
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper yöntem. Tümünü kaldırırXmpPackage XMP. içinde
+title: "XmpPacketWrapper.ClearPackages"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper yöntemi. XMP içindeki tüm XmpPackage öğelerini kaldırır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/clearpackages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ClearPackages method
 
-Tümünü kaldırır[`XmpPackage`](../../xmppackage/) XMP. içinde
+XMP içindeki tüm [`XmpPackage`](../../xmppackage/) öğelerini kaldırır.
 
 ```csharp
 public void ClearPackages()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

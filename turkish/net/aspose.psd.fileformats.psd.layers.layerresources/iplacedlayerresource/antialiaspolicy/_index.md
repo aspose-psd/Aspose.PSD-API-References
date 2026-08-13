@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.AntiAliasPolicy
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD görüntüsündeki yerleştirilmiş katmanın kenar yumuşatma politikasını alır veya ayarlar.
+title: "IPlacedLayerResource.AntiAliasPolicy"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. PSD görüntüsündeki yerleştirilen katmanın anti-alias politikası alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.AntiAliasPolicy property
 
-PSD görüntüsündeki yerleştirilmiş katmanın kenar yumuşatma politikasını alır veya ayarlar.
+PSD görüntüsündeki yerleştirilmiş katmanın anti-alias politikalarını alır veya ayarlar.
 
 ```csharp
 public int AntiAliasPolicy { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katmanın kenar yumuşatma politikası.
+Yerleştirilen katmanın anti alias politikası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

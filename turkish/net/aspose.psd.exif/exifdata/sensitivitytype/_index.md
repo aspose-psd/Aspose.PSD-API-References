@@ -1,11 +1,12 @@
 ---
-title: ExifData.SensitivityType
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Duyarlılık türünü alır veya ayarlar.
+title: "ExifData.SensitivityType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Hassasiyet tipini alır veya ayarlar"
 type: docs
 weight: 930
 url: /tr/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
 Duyarlılık türünü alır veya ayarlar.
@@ -14,14 +15,14 @@ Duyarlılık türünü alır veya ayarlar.
 public ushort SensitivityType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Hassasiyet türü.
+Hassasiyetin türü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

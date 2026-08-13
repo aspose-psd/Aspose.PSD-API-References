@@ -1,27 +1,28 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. psd görüntüsünün düzleştirilmiş olup olmadığını gösteren bir değer alır.
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. PSD görüntüsünün düzleştirilip düzleştirilmediğini gösteren bir değeri alır"
 type: docs
 weight: 190
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
-psd görüntüsünün düzleştirilmiş olup olmadığını gösteren bir değer alır.
+PSD görüntüsünün düzleştirilip düzleştirilmediğini gösteren bir değeri alır.
 
 ```csharp
 public bool IsFlatten { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek düzleştirilirse; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek düzleştirilmişse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

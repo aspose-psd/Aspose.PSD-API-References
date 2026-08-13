@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskEnabled
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilters mülk. Akıllı filtrenin etkin maske durumunu alır.
+title: "SmartFilters.IsMaskEnabled"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilters özelliği. Akıllı filtrenin maske etkin durumunu alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskEnabled property
 
-Akıllı filtrenin etkin maske durumunu alır.
+Akıllı filtrenin maskesinin etkin olup olmadığını alır.
 
 ```csharp
 public bool IsMaskEnabled { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilters](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

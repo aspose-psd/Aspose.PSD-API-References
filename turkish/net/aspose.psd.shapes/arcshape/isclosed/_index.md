@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Aspose.PSD for .NET API Referansı
-description: ArcShape mülk. Sıralı şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktalarının bir anlamı yoktur.
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ArcShape özelliği. Sıralı şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı sıralı şekli işlerken başlangıç ve bitiş noktaları bir anlam taşımaz."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-Sıralı şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktalarının bir anlamı yoktur.
+Sıralı şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktaları bir anlam taşımaz.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` bu sıralı şekil kapalı ise; aksi takdirde,`YANLIŞ` .
+`True` bu sıralı şekil kapalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

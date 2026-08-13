@@ -1,91 +1,92 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffImageException inşaatçı. Yeni bir örneğini başlatır.TiffImageException sınıf.
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffImageException yapıcısı. TiffImageException sınıfının yeni bir örneğini oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`TiffImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`TiffImageException`](../) sınıfının.
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`TiffImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`TiffImageException`](../) sınıfının.
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`TiffImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`TiffImageException`](../) sınıfının.
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
-| error | TiffOptionsError | Hata. |
+| hata | TiffOptionsError | Hata. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-Yeni bir örneğini başlatır.[`TiffImageException`](../) sınıf.
+Yeni bir örnek oluşturur [`TiffImageException`](../) sınıfının.
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| error | TiffOptionsError | Hata. |
+| hata | TiffOptionsError | Hata. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

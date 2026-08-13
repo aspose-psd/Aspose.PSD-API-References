@@ -1,74 +1,75 @@
 ---
-title: Struct RectangleF
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.RectangleF yapı. Bir dikdörtgenin konumunu ve boyutunu temsil eden dört kayan noktalı sayı kümesini saklar.
+title: "Yapı RectangleF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.RectangleF yapısı. Bir dikdörtgenin konum ve boyutunu temsil eden dört kayan nokta sayısını saklar."
 type: docs
-weight: 5350
+weight: 5880
 url: /tr/net/aspose.psd/rectanglef/
 ---
+{{< psd/tize >}}
 ## RectangleF structure
 
-Bir dikdörtgenin konumunu ve boyutunu temsil eden dört kayan noktalı sayı kümesini saklar.
+Bir dikdörtgenin konumunu ve boyutunu temsil eden dört kayan nokta sayısından oluşan bir küme depolar.
 
 ```csharp
 public struct RectangleF
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RectangleF](rectanglef/#constructor)(PointF, SizeF) | Yeni bir örneğini başlatır.`RectangleF` belirtilen konum ve boyuta sahip yapı. |
-| [RectangleF](rectanglef/#constructor_1)(float, float, float, float) | Yeni bir örneğini başlatır.`RectangleF` belirtilen konum ve boyuta sahip yapı. |
+| [RectangleF](rectanglef/#constructor)(PointF, SizeF) | `RectangleF` yapısının belirtilen konum ve boyutla yeni bir örneğini başlatır. |
+| [RectangleF](rectanglef/#constructor_1)(float, float, float, float) | `RectangleF` yapısının belirtilen konum ve boyutla yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [Empty](../../aspose.psd/rectanglef/empty/) { get; } | Yeni bir örneğini alır`RectangleF` sahip olan yapı[`X`](./x/) ,[`Y`](./y/) ,[`Width`](./width/) Ve[`Height`](./height/) değerler sıfıra ayarlandı. |
-| [Bottom](../../aspose.psd/rectanglef/bottom/) { get; set; } | Toplamı olan y koordinatını alır veya ayarlar.[`Y`](./y/) Ve[`Height`](./height/) bunun`RectangleF`yapı. |
-| [Height](../../aspose.psd/rectanglef/height/) { get; set; } | Bunun yüksekliğini alır veya ayarlar`RectangleF`yapı. |
-| [IsEmpty](../../aspose.psd/rectanglef/isempty/) { get; } | olup olmadığını gösteren bir değer alır.[`Width`](./width/) veya[`Height`](./height/) bunun özelliği`RectangleF` sıfır değerine sahiptir. |
-| [Left](../../aspose.psd/rectanglef/left/) { get; set; } | Bunun sol kenarının x koordinatını alır veya ayarlar`RectangleF`yapı. |
-| [Location](../../aspose.psd/rectanglef/location/) { get; set; } | Bunun sol üst köşesinin koordinatlarını alır veya ayarlar.`RectangleF`yapı. |
-| [Right](../../aspose.psd/rectanglef/right/) { get; set; } | Toplamı olan x koordinatını alır veya ayarlar.[`X`](./x/) Ve[`Width`](./width/) bunun`RectangleF`yapı. |
-| [Size](../../aspose.psd/rectanglef/size/) { get; set; } | Bunun boyutunu alır veya ayarlar`RectangleF` . |
-| [Top](../../aspose.psd/rectanglef/top/) { get; set; } | Bunun üst kenarının y koordinatını alır veya ayarlar`RectangleF`yapı. |
-| [Width](../../aspose.psd/rectanglef/width/) { get; set; } | Bunun genişliğini alır veya ayarlar`RectangleF`yapı. |
-| [X](../../aspose.psd/rectanglef/x/) { get; set; } | Bunun sol üst köşesinin x koordinatını alır veya ayarlar`RectangleF`yapı. |
-| [Y](../../aspose.psd/rectanglef/y/) { get; set; } | Bunun sol üst köşesinin y koordinatını alır veya ayarlar`RectangleF`yapı. |
+| static [Empty](../../aspose.psd/rectanglef/empty/) { get; } | `RectangleF` yapısının [`X`](./x/), [`Y`](./y/), [`Width`](./width/) ve [`Height`](./height/) değerleri sıfır olarak ayarlanmış yeni bir örneğini alır. |
+| [Bottom](../../aspose.psd/rectanglef/bottom/) { get; set; } | Bu `RectangleF` yapısının [`Y`](./y/) ve [`Height`](./height/) toplamı olan y-koordinatını alır veya ayarlar. |
+| [Height](../../aspose.psd/rectanglef/height/) { get; set; } | Bu `RectangleF` yapısının yüksekliğini alır veya ayarlar. |
+| [IsEmpty](../../aspose.psd/rectanglef/isempty/) { get; } | Bu `RectangleF`'nin [`Width`](./width/) veya [`Height`](./height/) özelliğinin değeri sıfır olup olmadığını gösteren bir değer alır. |
+| [Left](../../aspose.psd/rectanglef/left/) { get; set; } | Bu `RectangleF` yapısının sol kenarının x-koordinatını alır veya ayarlar. |
+| [Location](../../aspose.psd/rectanglef/location/) { get; set; } | Bu `RectangleF` yapısının sol üst köşesinin koordinatlarını alır veya ayarlar. |
+| [Right](../../aspose.psd/rectanglef/right/) { get; set; } | Bu `RectangleF` yapısının [`X`](./x/) ve [`Width`](./width/) toplamı olan x-koordinatını alır veya ayarlar. |
+| [Size](../../aspose.psd/rectanglef/size/) { get; set; } | Bu `RectangleF`'nin boyutunu alır veya ayarlar. |
+| [Top](../../aspose.psd/rectanglef/top/) { get; set; } | Bu `RectangleF` yapısının üst kenarının y-koordinatını alır veya ayarlar. |
+| [Width](../../aspose.psd/rectanglef/width/) { get; set; } | Bu `RectangleF` yapısının genişliğini alır veya ayarlar. |
+| [X](../../aspose.psd/rectanglef/x/) { get; set; } | Bu `RectangleF` yapısının sol üst köşesinin x-koordinatını alır veya ayarlar. |
+| [Y](../../aspose.psd/rectanglef/y/) { get; set; } | Bu `RectangleF` yapısının sol üst köşesinin y-koordinatını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [FromLeftTopRightBottom](../../aspose.psd/rectanglef/fromlefttoprightbottom/)(float, float, float, float) | oluşturur`RectangleF` belirtilen konumlarda sol üst köşe ve sağ alt köşeye sahip yapı. |
-| static [FromPoints](../../aspose.psd/rectanglef/frompoints/)(PointF, PointF) | Yeni bir tane oluşturur[`Rectangle`](../rectangle/) belirtilen iki noktadan Yaratılanın iki köşesi[`Rectangle`](../rectangle/) geçene eşit olacak*point1* Ve*point2* . Bunlar tipik olarak zıt köşeler olacaktır. |
-| static [Inflate](../../aspose.psd/rectanglef/inflate/)(RectangleF, float, float) | Belirtilenin şişirilmiş bir kopyasını oluşturur ve döndürür`RectangleF`yapı. Kopya belirtilen miktarda şişirilir. Orijinal dikdörtgen değiştirilmeden kalır. |
-| static [Intersect](../../aspose.psd/rectanglef/intersect/)(RectangleF, RectangleF) | a döndürür`RectangleF` iki dikdörtgenin kesişimini temsil eden yapı. Kavşak yoksa ve boşsa`RectangleF` döndürülür. |
-| static [Union](../../aspose.psd/rectanglef/union/)(RectangleF, RectangleF) | Bir birleşim oluşturan iki dikdörtgenin ikisini de içerebilen mümkün olan en küçük üçüncü dikdörtgeni oluşturur. |
-| [Contains](../../aspose.psd/rectanglef/contains/#contains)(PointF) | Belirtilen noktanın bunun içinde olup olmadığını belirler.`RectangleF`yapı. |
-| [Contains](../../aspose.psd/rectanglef/contains/#contains_1)(RectangleF) | ile temsil edilen dikdörtgen bölgenin olup olmadığını belirler.*rect* tamamen bunun içinde yer alır`RectangleF`yapı. |
-| [Contains](../../aspose.psd/rectanglef/contains/#contains_2)(float, float) | Belirtilen noktanın bunun içinde olup olmadığını belirler.`RectangleF`yapı. |
-| override [Equals](../../aspose.psd/rectanglef/equals/)(object) | olup olmadığını test eder*obj* bir`RectangleF` bununla aynı konum ve boyutta`RectangleF` . |
-| override [GetHashCode](../../aspose.psd/rectanglef/gethashcode/)() | Bunun için hash kodunu alır`RectangleF`yapı. |
-| [Inflate](../../aspose.psd/rectanglef/inflate/#inflate)(SizeF) | Bunu şişirir`RectangleF`belirtilen miktarda. |
-| [Inflate](../../aspose.psd/rectanglef/inflate/#inflate_1)(float, float) | Bunu şişirir`RectangleF` belirtilen miktara göre yapı. |
-| [Intersect](../../aspose.psd/rectanglef/intersect/)(RectangleF) | Bunu değiştirir`RectangleF`kendisinin ve belirtilenin kesişim noktası olan yapı`RectangleF`yapı. |
-| [IntersectsWith](../../aspose.psd/rectanglef/intersectswith/)(RectangleF) | Bu dikdörtgenin şununla kesişip kesişmediğini belirler:*rect* . |
-| [Normalize](../../aspose.psd/rectanglef/normalize/)() | Dikdörtgenin genişliğini ve yüksekliğini pozitif, sol sağdan az ve üst kısım alttan küçük yaparak normalleştirir. |
+| static [FromLeftTopRightBottom](../../aspose.psd/rectanglef/fromlefttoprightbottom/)(float, float, float, float) | Belirtilen konumlardaki sol üst ve sağ alt köşelerle bir `RectangleF` yapısı oluşturur. |
+| static [FromPoints](../../aspose.psd/rectanglef/frompoints/)(PointF, PointF) | Belirtilen iki noktadan yeni bir [`Rectangle`](../rectangle/) oluşturur. Oluşturulan [`Rectangle`](../rectangle/) nin iki köşesi verilen *point1* ve *point2* değerlerine eşit olur. Bunlar genellikle karşıt köşelerdir. |
+| static [Inflate](../../aspose.psd/rectanglef/inflate/)(RectangleF, float, float) | Belirtilen `RectangleF` yapısının şişirilmiş bir kopyasını oluşturur ve döndürür. Kopya belirtilen miktarda şişirilir. Orijinal dikdörtgen değişmeden kalır. |
+| static [Intersect](../../aspose.psd/rectanglef/intersect/)(RectangleF, RectangleF) | İki dikdörtgenin kesişimini temsil eden bir `RectangleF` yapısı döndürür. Kesişim yoksa boş bir `RectangleF` döndürülür. |
+| static [Union](../../aspose.psd/rectanglef/union/)(RectangleF, RectangleF) | Birleşim oluşturan iki dikdörtgeni de içerebilecek en küçük üçüncü dikdörtgeni oluşturur. |
+| [Contains](../../aspose.psd/rectanglef/contains/#contains)(PointF) | Belirtilen noktanın bu `RectangleF` yapısı içinde olup olmadığını belirler. |
+| [Contains](../../aspose.psd/rectanglef/contains/#contains_1)(RectangleF) | *rect* tarafından temsil edilen dikdörtgen bölgenin tamamen bu `RectangleF` yapısı içinde olup olmadığını belirler. |
+| [Contains](../../aspose.psd/rectanglef/contains/#contains_2)(float, float) | Belirtilen noktanın bu `RectangleF` yapısı içinde olup olmadığını belirler. |
+| override [Equals](../../aspose.psd/rectanglef/equals/)(object) | *obj*'nin bu `RectangleF` ile aynı konuma ve boyuta sahip bir `RectangleF` olup olmadığını test eder. |
+| override [GetHashCode](../../aspose.psd/rectanglef/gethashcode/)() | Bu `RectangleF` yapısının hash kodunu alır. |
+| [Inflate](../../aspose.psd/rectanglef/inflate/#inflate)(SizeF) | Bu `RectangleF`'yi belirtilen miktarda şişirir. |
+| [Inflate](../../aspose.psd/rectanglef/inflate/#inflate_1)(float, float) | Bu `RectangleF` yapısını belirtilen miktarda şişirir. |
+| [Intersect](../../aspose.psd/rectanglef/intersect/)(RectangleF) | Bu `RectangleF` yapısını kendisi ile belirtilen `RectangleF` yapısının kesişimiyle değiştirir. |
+| [IntersectsWith](../../aspose.psd/rectanglef/intersectswith/)(RectangleF) | Bu dikdörtgenin *rect* ile kesişip kesişmediğini belirler. |
+| [Normalize](../../aspose.psd/rectanglef/normalize/)() | Dikdörtgeni genişliğini ve yüksekliğini pozitif yaparak, solun sağdan, üstün alttan küçük olmasını sağlayarak normalleştirir. |
 | [Offset](../../aspose.psd/rectanglef/offset/#offset)(PointF) | Bu dikdörtgenin konumunu belirtilen miktarda ayarlar. |
 | [Offset](../../aspose.psd/rectanglef/offset/#offset_1)(float, float) | Bu dikdörtgenin konumunu belirtilen miktarda ayarlar. |
-| override [ToString](../../aspose.psd/rectanglef/tostring/)() | Bunun özniteliklerini dönüştürür`RectangleF` okunabilir bir dizeye. |
-| [operator /](../../aspose.psd/rectanglef/op_division/) | /. operatörünü uygular |
-| [operator ==](../../aspose.psd/rectanglef/op_equality/) | İki olup olmadığını test eder`RectangleF` yapılar eşit konum ve boyuta sahiptir. |
-| [implicit operator](../../aspose.psd/rectanglef/op_implicit/) | Belirtileni dönüştürür[`Rectangle`](../rectangle/) bir yapı`RectangleF`yapı. |
-| [operator !=](../../aspose.psd/rectanglef/op_inequality/) | İki olup olmadığını test eder`RectangleF` yapılar konum veya boyut bakımından farklılık gösterir. |
-| [operator *](../../aspose.psd/rectanglef/op_multiply/) | *. operatörünü uygular |
+| override [ToString](../../aspose.psd/rectanglef/tostring/)() | `RectangleF` nesnesinin özelliklerini insan tarafından okunabilir bir dizeye dönüştürür. |
+| [operator /](../../aspose.psd/rectanglef/op_division/) | / operatörünü uygular. |
+| [operator ==](../../aspose.psd/rectanglef/op_equality/) | İki `RectangleF` yapısının konum ve boyutunun eşit olup olmadığını test eder. |
+| [implicit operator](../../aspose.psd/rectanglef/op_implicit/) | Belirtilen [`Rectangle`](../rectangle/) yapısını bir `RectangleF` yapısına dönüştürür. |
+| [operator !=](../../aspose.psd/rectanglef/op_inequality/) | İki `RectangleF` yapısının konum veya boyut açısından farklı olup olmadığını test eder. |
+| [operator *](../../aspose.psd/rectanglef/op_multiply/) | * operatörünü uygular. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Text
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katmanın metin içeriğini alır veya ayarlar.
+title: "Layer.Text"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katmanın metin içeriğini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
 Katmanın metin içeriğini alır veya ayarlar.
@@ -14,14 +15,14 @@ Katmanın metin içeriğini alır veya ayarlar.
 public string Text { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katmanın metin içeriği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

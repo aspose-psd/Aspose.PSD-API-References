@@ -1,31 +1,32 @@
 ---
-title: Cache.MaxMemoryForCache
-second_title: Aspose.PSD for .NET API Referansı
-description: Cache mülk. Bellekteki önbellek için kullanılabilir maksimum belleği alır veya ayarlar. Belirtilen değer megabayt sayısıdır.
+title: "Cache.MaxMemoryForCache"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Cache özelliği. Önbellek için kullanılabilir maksimum belleği (hafızada) alır veya ayarlar. Belirtilen değer megabayt sayısıdır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/cache/maxmemoryforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxMemoryForCache property
 
-Bellekteki önbellek için kullanılabilir maksimum belleği alır veya ayarlar. Belirtilen değer megabayt sayısıdır.
+Önbellek için kullanılabilir maksimum bellek miktarını alır veya ayarlar. Belirtilen değer megabayt sayısıdır.
 
 ```csharp
 public static int MaxMemoryForCache { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Önbellek için maksimum bellek.
 
-### Notlar
+## Açıklamalar
 
-0 değeri, kullanılabilir tüm belleği tüketir ve üst sınır işlevi görmez.
+0 değeri tüm kullanılabilir belleği tüketir ve üst sınır olmadığını gösterir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Cache](../)
-* ad alanı [Aspose.PSD](../../cache/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD for .NET API Referansı
-description: FillLayer yöntem. Dolgu Katmanı Piksel Verilerini gerçek değerlere göre güncellerIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FillLayer yöntemi. Doldurma katmanının piksel verilerini mevcut IFillSettings temelinde günceller"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Dolgu Katmanı Piksel Verilerini gerçek değerlere göre günceller[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Doldurma katmanının piksel verilerini mevcut [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) temelinde günceller.
 
 ```csharp
 public void Update()
 ```
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Bilinmeyen FillType türü |
+| ArgumentOutOfRangeException | Bilinmeyen bir FillType ile karşılaşıldığında fırlatılır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Dolgu katmanlarının desteğini gösterir: Renkli dolgu.
+Aşağıdaki kod, Fill katmanlarının desteğini gösterir: Renk doldurma.
 
 ```csharp
 [C#]
 
-// Dolgu katmanları için destek ekleyin: Renkli dolgu
+// Fill katmanlarının desteğini ekle: Renk doldurma
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Aşağıdaki kod, farklı türde degradelerle görüntüleri kaydeder ve Aspose.PSD'nin degradeyi nasıl çizeceğini gösterir.
+Aşağıdaki kod, farklı degrade tipleriyle görüntüler kaydeder ve Aspose.PSD'nin degradeyi nasıl çizdiğini gösterir.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Aşağıdaki kod, görüntüleri desen Dolgu Katmanı ile kaydeder ve Aspose.PSD'nin deseni nasıl işlediğini gösterir.
+Aşağıdaki kod, desen Doldurma Katmanı ile görüntüleri kaydeder ve Aspose.PSD'nin deseni nasıl işlediğini gösterir.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FillLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

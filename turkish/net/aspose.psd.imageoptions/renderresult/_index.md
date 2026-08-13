@@ -1,35 +1,36 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.RenderResult sınıf. rendering sonuçlarını içeren bilgileri temsil eder
+title: "Sınıf RenderResult"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.RenderResult sınıfı. İşleme sonuçlarıyla ilgili bilgileri temsil eder"
 type: docs
-weight: 4930
+weight: 5450
 url: /tr/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-rendering sonuçlarını içeren bilgileri temsil eder
+Renderleme sonuçlarıyla ilgili bilgileri temsil eder
 
 ```csharp
 public class RenderResult
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [RenderResult](renderresult/)() | Default_Constructor |
+| [RenderResult](renderresult/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Mesaj dizisini alır veya ayarlar |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | error kodunu alır veya ayarlar |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Dize mesajını alır veya ayarlar |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Hata kodunu alır veya ayarlar |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

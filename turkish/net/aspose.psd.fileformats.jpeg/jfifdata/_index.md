@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData sınıf. jfif segmenti.
+title: "Sınıf JFIFData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData sınıfı. jfif segmenti"
 type: docs
-weight: 1470
+weight: 1480
 url: /tr/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 jfif segmenti.
@@ -14,15 +15,15 @@ jfif segmenti.
 public sealed class JFIFData
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Yeni bir örneğini başlatır.`JFIFData` sınıf. |
+| [JFIFData](jfifdata/)() | `JFIFData` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Yoğunluk birimlerini alır veya ayarlar. |
 | [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Küçük resmi alır veya ayarlar. |
@@ -30,9 +31,9 @@ public sealed class JFIFData
 | [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | x yoğunluğunu alır veya ayarlar. |
 | [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | y yoğunluğunu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: ColorPalette.IsCompactPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPalette mülk. Kompakt paletin kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+title: "ColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPalette özelliği. Kompakt paletin kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/colorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette.IsCompactPalette property
 
-Kompakt paletin kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+Kompakt paletin kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` kompakt palet kullanılıyorsa; aksi takdirde,`YANLIŞ`.
+`true` eğer kompakt palet kullanılırsa; aksi takdirde `false`.
 
-### Notlar
+## Açıklamalar
 
-Kompakt palet, görüntünün mümkünse yalnızca belirtilen palet girişlerini içereceği veya başka bir deyişle görüntünün daha kompakt olacağı ve daha az yer kaplayacağı anlamına gelir; Bu değeri true olarak ayarlamak ve palet girişlerini değiştirmek, veri hareketi oluşabileceğinden performans düşüşüne neden olabilir, bu yüzden dikkatli kullanın.
+Kompakt palet, görüntünün mümkünse yalnızca belirtilen palet girişlerini içereceği anlamına gelir; başka bir deyişle görüntü daha kompakt olur ve daha az yer kaplar. Aksi takdirde 2^BitsPerPixel giriş olur ve görüntü tüm olası palet girişleri için daha fazla yer ayırır. Bu değeri true olarak ayarlamak ve palet girişlerini değiştirmek, veri hareketi olabileceği için performans kaybına neden olabilir; bu yüzden dikkatli kullanın.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

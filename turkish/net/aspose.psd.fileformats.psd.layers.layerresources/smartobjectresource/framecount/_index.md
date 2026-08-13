@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameCount
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. PSD dosyasındaki akıllı nesne katmanı verilerinin çerçeve sayısını alır veya ayarlar.
+title: "SmartObjectResource.FrameCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. PSD dosyasındaki akıllı nesne katman verisinin çerçeve sayısını alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameCount property
 
-PSD dosyasındaki akıllı nesne katmanı verilerinin çerçeve sayısını alır veya ayarlar.
+Alır veya ayarlar PSD dosyasındaki akıllı nesne katman verisinin çerçeve sayısını.
 
 ```csharp
 public int FrameCount { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katman bilgisinin çerçeve sayısı.
+Yerleştirilmiş katman bilgilerinin çerçeve sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

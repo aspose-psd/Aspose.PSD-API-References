@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.VerticalScale
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Dikey ölçek.
+title: "ITextStyle.VerticalScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Dikey ölçek"
 type: docs
 weight: 270
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.VerticalScale property
 
 Dikey ölçek.
@@ -14,7 +15,7 @@ Dikey ölçek.
 public double VerticalScale { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

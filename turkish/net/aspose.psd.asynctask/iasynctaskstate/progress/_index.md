@@ -1,28 +1,29 @@
 ---
-title: IAsyncTaskState.Progress
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTaskState mülk. Eşzamansız görevin ilerleme durumunu alır.
+title: "IAsyncTaskState.Progress"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTaskState özelliği. Asenkron görevin ilerlemesini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.asynctask/iasynctaskstate/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.Progress property
 
-Eşzamansız görevin ilerleme durumunu alır.
+Asenkron görevin ilerlemesini alır.
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Eşzamansız görevin ilerlemesi.
+Asenkron görevin ilerlemesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

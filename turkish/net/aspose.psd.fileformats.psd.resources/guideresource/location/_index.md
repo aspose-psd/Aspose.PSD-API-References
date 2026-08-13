@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Aspose.PSD for .NET API Referansı
-description: GuideResource mülk. Kılavuzun konumunu belge koordinatlarında alır veya ayarlar.
+title: "GuideResource.Location"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GuideResource özelliği. Kılavuzun belge koordinatlarında konumunu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Kılavuzun konumunu belge koordinatlarında alır veya ayarlar.
+Kılavuzun belge koordinatlarındaki konumunu alır veya ayarlar.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kılavuz konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GuideResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

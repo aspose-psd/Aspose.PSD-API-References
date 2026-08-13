@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.SetProgressCallback
-second_title: Aspose.PSD for .NET API Referansı
-description: IAsyncTask yöntem. İlerleme geri çağırma temsilcisini ayarlar.
+title: "IAsyncTask.SetProgressCallback"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IAsyncTask yöntemi. İlerleme geri çağırma temsilcisini ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetProgressCallback method
 
 İlerleme geri çağırma temsilcisini ayarlar.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 public void SetProgressCallback(ProgressCallback progressCallback)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| progressCallback | ProgressCallback | İlerleme geri araması. |
+| progressCallback | ProgressCallback | İlerleme geri çağırma. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* ad alanı [Aspose.PSD.AsyncTask](../../iasynctask/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

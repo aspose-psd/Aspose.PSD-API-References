@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Yazı tipi yüzünü alır veya ayarlar.
+title: "Font.FontFace"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Yazı tipi yüzünü alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-Yazı tipi yüzünü alır veya ayarlar.
+Yazı tipi yüzeyini alır veya ayarlar.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazı tipi yüzü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

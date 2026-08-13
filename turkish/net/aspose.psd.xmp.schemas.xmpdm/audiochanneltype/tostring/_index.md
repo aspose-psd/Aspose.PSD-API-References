@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioChannelType yöntem. a döndürürString bu örneği temsil eder.
+title: "AudioChannelType.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioChannelType yöntemi. Bu örneği temsil eden bir String döndürür"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioChannelType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

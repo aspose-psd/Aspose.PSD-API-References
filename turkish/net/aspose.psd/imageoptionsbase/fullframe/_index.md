@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageOptionsBase mülk. tam çerçeve. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageOptionsBase özelliği. Tam çerçeve olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-[tam çerçeve]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Tam çerçeve olup olduğunu gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` [tam çerçeve] ise; aksi takdirde,`YANLIŞ` .
+`true` eğer [full frame] ise; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../)
-* ad alanı [Aspose.PSD](../../imageoptionsbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

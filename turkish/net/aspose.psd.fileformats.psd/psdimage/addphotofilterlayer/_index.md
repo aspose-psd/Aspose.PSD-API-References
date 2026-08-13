@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. PhotoFilter katmanını ekler.
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. PhotoFilter katmanını ekler"
 type: docs
-weight: 400
+weight: 420
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-PhotoFilter katmanını ekler.
+FotoFiltre katmanını ekler.
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | Color | Renk. |
+| renk | Renk | Renk. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-PhotoFilter Katmanı Oluşturuldu
+Oluşturulan PhotoFilter Katmanı
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

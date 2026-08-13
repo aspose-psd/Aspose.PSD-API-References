@@ -1,48 +1,49 @@
 ---
-title: Class CustomLineCap
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CustomLineCap sınıf. Kullanıcı tanımlı özel bir satırı kapsüller cap.
+title: "Sınıf CustomLineCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CustomLineCap sınıfı. Özel bir kullanıcı tanımlı çizgi ucu kapsüller."
 type: docs
-weight: 700
+weight: 710
 url: /tr/net/aspose.psd/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap class
 
-Kullanıcı tanımlı özel bir satırı kapsüller cap.
+Özel kullanıcı tanımlı bir çizgi ucu kapsüller.
 
 ```csharp
 public class CustomLineCap
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Yeni bir örneğini başlatır.`CustomLineCap` belirtilen anahat ve fill. ile sınıf |
-| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Yeni bir örneğini başlatır.`CustomLineCap` belirtilen mevcut sınıftan[`LineCap`](../linecap/) belirtilen anahat ve fill. ile numaralandırma |
-| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Yeni bir örneğini başlatır.`CustomLineCap` belirtilen mevcut sınıftan[`LineCap`](../linecap/)belirtilen anahat, dolgu ve ek ile numaralandırma. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | `CustomLineCap` sınıfının belirtilen dış hat ve dolgu ile yeni bir örneğini başlatır. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Belirtilen mevcut [`LineCap`](../linecap/) enum'undan `CustomLineCap` sınıfının yeni bir örneğini, belirtilen dış hat ve dolgu ile başlatır. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Belirtilen mevcut [`LineCap`](../linecap/) enum'undan `CustomLineCap` sınıfının yeni bir örneğini, belirtilen dış hat, dolgu ve iç boşluk ile başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Şunu alır veya ayarlar:[`LineCap`](../linecap/) bunun hangi numaralandırma`CustomLineCap` tabanlı. |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Sınır ile çizgi arasındaki mesafeyi alır veya ayarlar. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Özel cap. için dolguyu tanımlayan nesneyi alır veya ayarlar. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Şunu alır veya ayarlar:[`LineJoin`](../linejoin/) bunu oluşturan satırların nasıl olduğunu belirleyen numaralandırma`CustomLineCap`nesne birleştirilir. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Özel sınırın ana hatlarını tanımlayan nesneyi alır veya ayarlar. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Bunun ölçeklendirileceği miktarı alır veya ayarlar`CustomLineCap` genişliğine göre sınıf nesnesiPen nesne. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Bu `CustomLineCap`'in temel alındığı [`LineCap`](../linecap/) enum'ını alır veya ayarlar. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Kap ile çizgi arasındaki mesafeyi alır veya ayarlar. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Özel kap için dolguyu tanımlayan nesneyi alır veya ayarlar. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Bu `CustomLineCap` nesnesini oluşturan çizgilerin nasıl birleştirileceğini belirleyen [`LineJoin`](../linejoin/) enum'ını alır veya ayarlar. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Özel kapın dış hattını tanımlayan nesneyi alır veya ayarlar. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Bu `CustomLineCap` sınıfı nesnesini, Pen nesnesinin genişliğine göre ölçeklendirme miktarını alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Bu özel sınırı oluşturan satırları başlatmak ve bitirmek için kullanılan büyük harfleri alır. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Bu özel sınırı oluşturan satırları başlatmak ve bitirmek için kullanılan büyük harfleri ayarlar. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Bu özel kapa oluşan çizgileri başlatmak ve sonlandırmak için kullanılan kapları alır. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Bu özel kapa oluşan çizgileri başlatmak ve sonlandırmak için kullanılan kapları ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

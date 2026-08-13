@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Piksel formatını alır.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Piksel biçimini alır."
 type: docs
 weight: 340
 url: /tr/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 Piksel formatını alır.
@@ -14,15 +15,15 @@ Piksel formatını alır.
 public PixelFormat PixelFormat { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Piksel formatı.
+Piksel biçimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

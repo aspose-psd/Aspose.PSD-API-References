@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı bellek yönetimi rutinlerini içerir.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, bellek yönetimi rutinlerini içerir."
 type: docs
-weight: 450
+weight: 490
 url: /tr/net/aspose.psd.memorymanagement/
 ---
-Ad alanı, bellek yönetimi rutinlerini içerir.
+{{< psd/tize >}}
+Bu ad alanı, bellek yönetimi rutinlerini içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [Configuration](./configuration/) | Bellek yönetimi genel yapılandırması |
 

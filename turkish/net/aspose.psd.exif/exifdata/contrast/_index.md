@@ -1,11 +1,12 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Kontrastı alır veya ayarlar.
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Kontrastı alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
 Kontrastı alır veya ayarlar.
@@ -14,15 +15,15 @@ Kontrastı alır veya ayarlar.
 public ExifContrast Contrast { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kontrast.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

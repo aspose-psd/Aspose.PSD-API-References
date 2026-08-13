@@ -1,42 +1,43 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal sınıf. XMP Gerçekliğini Temsil Eder.
+title: "Sınıf XmpReal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpReal sınıfı. XMP Gerçek sayıyı temsil eder"
 type: docs
-weight: 5970
+weight: 6500
 url: /tr/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-XMP Gerçekliğini Temsil Eder.
+XMP Real'i temsil eder.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Yeni bir örneğini başlatır.`XmpReal` sınıf. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Yeni bir örneğini başlatır.`XmpReal` sınıf. |
+| [XmpReal](xmpreal/#constructor)(float) | Yeni bir `XmpReal` sınıfı örneği başlatır. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Yeni bir `XmpReal` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Değişken değeri alır veya ayarlar. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Değeri (float) alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter inşaatçı. Yeni bir örneğini başlatır.TiffStreamWriter sınıf.
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yapıcı. TiffStreamWriter sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-Yeni bir örneğini başlatır.[`TiffStreamWriter`](../) sınıf.
+[`TiffStreamWriter`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| writer | StreamContainer | Akış yazarı. |
+| writer | StreamContainer | Akış yazıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

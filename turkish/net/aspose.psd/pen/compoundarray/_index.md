@@ -1,33 +1,34 @@
 ---
-title: Pen.CompoundArray
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bileşik kalemi belirten bir dizi değer alır veya ayarlar. Bileşik kalem paralel çizgilerden ve boşluklardan oluşan bileşik bir çizgi çizer.
+title: "Pen.CompoundArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bir bileşik kalemi belirten değerler dizisini alır veya ayarlar. Bir bileşik kalem, paralel çizgiler ve boşluklardan oluşan bir bileşik çizgi çizer."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/pen/compoundarray/
 ---
+{{< psd/tize >}}
 ## Pen.CompoundArray property
 
-Bileşik kalemi belirten bir dizi değer alır veya ayarlar. Bileşik kalem, paralel çizgilerden ve boşluklardan oluşan bileşik bir çizgi çizer.
+Bir bileşik kalemi belirten değerler dizisini alır veya ayarlar. Bileşik kalem, paralel çizgiler ve boşluklardan oluşan bir bileşik çizgi çizer.
 
 ```csharp
 public float[] CompoundArray { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bileşik diziyi belirten gerçek sayılar dizisi. Dizideki öğeler artan sırada olmalı, 0'dan küçük ve 1'den büyük olmamalıdır.
+Bileşik diziyi belirten gerçek sayıların bir dizisi. Dizideki öğeler artan sırada olmalı, 0'dan küçük olmamalı ve 1'den büyük olmamalıdır.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`CompoundArray` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `CompoundArray` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

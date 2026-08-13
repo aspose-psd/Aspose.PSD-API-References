@@ -1,43 +1,44 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Aspose.PSD for .NET API Referansı
-description: ClipboardRecord inşaatçı. Yeni bir örneğini başlatır.ClipboardRecord sınıf.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClipboardRecord yapıcı. ClipboardRecord sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-Yeni bir örneğini başlatır.[`ClipboardRecord`](../) sınıf.
+Yeni bir [`ClipboardRecord`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClipboardRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ClipboardRecord`](../) sınıf.
+Yeni bir [`ClipboardRecord`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kayıt verileri. |
+| veri | Byte[] | Kayıt verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClipboardRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

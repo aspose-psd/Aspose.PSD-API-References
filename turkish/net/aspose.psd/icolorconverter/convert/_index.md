@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD for .NET API Referansı
-description: IColorConverter yöntem. Aktarılan verileri çıktı biçimine dönüştürür.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IColorConverter yöntemi. Geçilen verileri çıktı formatına dönüştürür"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Aktarılan verileri çıktı biçimine dönüştürür.
+Geçilen verileri çıktı formatına dönüştürür.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| sourceFormat | PixelDataFormat | Kaynak biçimi. |
-| data | Byte[] | Kaynak veri. |
-| offset | Int32 | Veri kopyalamanın başlaması gereken bayt cinsinden uzaklık. |
+| sourceFormat | PixelDataFormat | Kaynak format. |
+| veri | Byte[] | Kaynak veri. |
+| offset | Int32 | Veri kopyalamanın başlaması gereken bayt cinsinden ofset. |
 | bitStart | Int32 | Bit başlangıcı. Bu değerin bayt hizalı bir değer olmadığını, bunun yerine kopyalamanın başlaması gereken gerçek bit olduğunu unutmayın. |
-| samplesCount | Int32 | Numuneler sayılır. |
+| samplesCount | Int32 | Örnek sayısı. |
 | linesCount | Int32 | Satır sayısı. |
-| destFormat | PixelDataFormat | Hedef biçimi. |
-| outputData | Byte[] | Çıkış verileri. |
-| outputOffset | Int32 | Veri kopyalamanın başlaması gereken çıkış ofseti. |
+| destFormat | PixelDataFormat | Hedef format. |
+| outputData | Byte[] | Çıktı verisi. |
+| outputOffset | Int32 | Veri kopyalamanın başlaması gereken çıktı ofseti. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Dönüştürülen bayt sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* ad alanı [Aspose.PSD](../../icolorconverter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

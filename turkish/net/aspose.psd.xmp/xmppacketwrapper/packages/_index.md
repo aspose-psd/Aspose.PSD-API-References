@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPacketWrapper mülk. dizisini alırXmpPackage XMP. içinde
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPacketWrapper özelliği. XMP içinde XmpPackage dizisini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-dizisini alır[`XmpPackage`](../../xmppackage/) XMP. içinde
+XMP içinde [`XmpPackage`](../../xmppackage/) dizisini alır.
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-dizisi[`XmpPackage`](../../xmppackage/) XMP. içinde
+XMP içinde [`XmpPackage`](../../xmppackage/) dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

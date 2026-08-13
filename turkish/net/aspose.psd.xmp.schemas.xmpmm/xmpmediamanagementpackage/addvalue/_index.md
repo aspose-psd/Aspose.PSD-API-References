@@ -1,28 +1,29 @@
 ---
-title: XmpMediaManagementPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMediaManagementPackage yöntem. Dizi özelliğini ekler.
+title: "XmpMediaManagementPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMediaManagementPackage yöntemi. Dize özelliği ekler"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.AddValue method
 
-Dizi özelliğini ekler.
+Dize özelliği ekler.
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Dize değeri. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Dize değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMediaManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. UTCye Koordineli Evrensel Zaman göre GPS karakter dizisi kayıt tarih ve saat bilgilerini alır veya ayarlar.
+title: "ExifData.GPSDateStamp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. UTC (Eşgüdümlü Evrensel Zaman) ile ilgili tarih ve saat bilgilerini kaydeden GPS karakter dizesini alır veya ayarlar"
 type: docs
 weight: 390
 url: /tr/net/aspose.psd.exif/exifdata/gpsdatestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDateStamp property
 
-UTC'ye (Koordineli Evrensel Zaman) göre GPS karakter dizisi kayıt tarih ve saat bilgilerini alır veya ayarlar.
+UTC'ye (Eşgüdümlü Evrensel Zaman) göre GPS karakter dizesi kayıt tarih ve saat bilgilerini alır veya ayarlar.
 
 ```csharp
 public string GPSDateStamp { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-UTC'ye (Koordineli Evrensel Zaman) göre tarih ve saat bilgilerini kaydeden GPS karakter dizisi.
+UTC (Eşgüdümlü Evrensel Zaman) ile ilgili tarih ve saat bilgilerini kaydeden GPS karakter dizesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

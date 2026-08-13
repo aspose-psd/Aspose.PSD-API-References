@@ -1,27 +1,28 @@
 ---
-title: ILayerEffect.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: ILayerEffect mülk. Opaklığı alır veya ayarlar burada 255  100
+title: "ILayerEffect.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ILayerEffect property. Opaklığı alır veya ayarlar; 255 = %100"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.Opacity property
 
-Opaklığı alır veya ayarlar, burada 255 = %100
+Opaklığı alır veya ayarlar; burada 255 = %100.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Opaklık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

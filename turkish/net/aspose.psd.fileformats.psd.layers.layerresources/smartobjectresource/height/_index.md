@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectResource mülk. Yüksekliği alır veya ayarlar.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectResource özelliği. Yüksekliği alır veya ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
 Yüksekliği alır veya ayarlar.
@@ -14,14 +15,14 @@ Yüksekliği alır veya ayarlar.
 public double Height { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yükseklik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

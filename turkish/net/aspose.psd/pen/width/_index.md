@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bunun genişliğini alır veya ayarlarPen  çizim için kullanılan Graphics nesnesinin birimlerinde.
+title: "Pen.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen'in genişliğini, çizim için kullanılan Graphics nesnesinin birimlerinde alır veya ayarlar"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-Bunun genişliğini alır veya ayarlar[`Pen`](../) , çizim için kullanılan Graphics nesnesinin birimlerinde.
+Bu [`Pen`](../)'in genişliğini, çizim için kullanılan Graphics nesnesinin birimlerinde alır veya ayarlar.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bunun genişliği[`Pen`](../).
+Bu [`Pen`](../)'in genişliği.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`Width` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `Width` özelliği, [`Pen`](../) gibi değiştirilemez bir nesne üzerinde ayarlanır, örneğin [`Pen`](../) sınıfı tarafından döndürülenler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

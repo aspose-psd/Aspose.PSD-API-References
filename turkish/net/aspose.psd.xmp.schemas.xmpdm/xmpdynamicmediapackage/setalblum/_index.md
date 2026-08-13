@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Albümü ayarlar.
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Albümü ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
-Albümü ayarlar.
+Alblumu ayarlar.
 
 ```csharp
 public void SetAlblum(string album)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| album | String | Albüm. |
+| albüm | String | Albüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

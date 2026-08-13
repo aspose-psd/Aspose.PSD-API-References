@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Aspose.PSD for .NET API Referansı
-description: TextureBrush mülk. Şunu alırRectangle bununla ilişkiliTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextureBrush özelliği. Bu TextureBrush ile ilişkili Rectangle'ı alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-Şunu alır:[`Rectangle`](../../../aspose.psd/rectangle/) bununla ilişkili[`TextureBrush`](../) .
+Bu [`TextureBrush`](../) ile ilişkili [`Rectangle`](../../../aspose.psd/rectangle/) öğesini alır.
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bu[`Rectangle`](../../../aspose.psd/rectangle/).
+Bu [`Rectangle`](../../../aspose.psd/rectangle/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../texturebrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

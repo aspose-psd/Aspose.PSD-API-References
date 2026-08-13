@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage alan. Maksimum derecelendirme değeri.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage alanı. Derecelendirme maksimum değeri"
 type: docs
-weight: 100
+weight: 130
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-Maksimum derecelendirme değeri.
+Derecelendirme maksimum değeri.
 
 ```csharp
 public const int RatingMax;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

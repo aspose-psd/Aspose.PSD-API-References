@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. tarafından belirtilen bir dizi nokta tarafından tanımlanan bir çokgenin içini doldurur.PointF yapılar veAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. PointF yapılarıyla belirtilen bir dizi nokta tarafından tanımlanan çokgenin içini Alternate ile doldurur."
 type: docs
-weight: 380
+weight: 390
 url: /tr/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-tarafından belirtilen bir dizi nokta tarafından tanımlanan bir çokgenin içini doldurur.[`PointF`](../../pointf/) yapılar veAlternate .
+Bir dizi [`PointF`](../../pointf/) yapısı ile belirtilen noktalar tarafından tanımlanan çokgenin içini Alternate ile doldurur.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) doldurulacak çokgenin köşelerini temsil eden yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | PointF[] | Doldurulacak çokgenin köşelerini temsil eden [`PointF`](../../pointf/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-tarafından belirtilen bir dizi nokta tarafından tanımlanan bir çokgenin içini doldurur.[`PointF`](../../pointf/) belirtilen dolgu modunu kullanan yapılar.
+Belirtilen doldurma modu kullanılarak, bir dizi [`PointF`](../../pointf/) yapısı ile belirtilen noktalar tarafından tanımlanan çokgenin içini doldurur.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) doldurulacak çokgenin köşelerini temsil eden yapılar. |
-| fillMode | FillMode | Üyesi[`FillMode`](../../fillmode/) dolgu stilini belirleyen numaralandırma. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | PointF[] | Doldurulacak çokgenin köşelerini temsil eden [`PointF`](../../pointf/) yapılarının dizisi. |
+| fillMode | FillMode | `[`FillMode`](../../fillmode/)` enum'ının doldurma stilini belirleyen üyesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-tarafından belirtilen bir dizi nokta tarafından tanımlanan bir çokgenin içini doldurur.[`Point`](../../point/) yapılar veAlternate .
+Bir dizi [`Point`](../../point/) yapısı ile belirtilen noktalar tarafından tanımlanan çokgenin içini Alternate ile doldurur.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) doldurulacak çokgenin köşelerini temsil eden yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | Point[] | Doldurulacak çokgenin köşelerini temsil eden [`Point`](../../point/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-tarafından belirtilen bir dizi nokta tarafından tanımlanan bir çokgenin içini doldurur.[`Point`](../../point/) belirtilen dolgu modunu kullanan yapılar.
+Belirtilen doldurma modu kullanılarak, bir dizi [`Point`](../../point/) yapısı ile belirtilen noktalar tarafından tanımlanan çokgenin içini doldurur.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) doldurulacak çokgenin köşelerini temsil eden yapılar. |
-| fillMode | FillMode | Üyesi[`FillMode`](../../fillmode/) dolgu stilini belirleyen numaralandırma. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | Point[] | Doldurulacak çokgenin köşelerini temsil eden [`Point`](../../point/) yapılarının dizisi. |
+| fillMode | FillMode | `[`FillMode`](../../fillmode/)` enum'ının doldurma stilini belirleyen üyesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

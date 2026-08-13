@@ -1,55 +1,56 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpTrailerPi yöntem. Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpTrailerPi yöntemi. Mevcut nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
-Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir.
+Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir.
 
 ```csharp
 public bool Equals(XmpTrailerPi other)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | other | XmpTrailerPi | Bu nesneyle karşılaştırılacak bir nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-geçerli nesne şuna eşitse doğrudur:*other* parametre; aksi takdirde, false.
+true, mevcut nesne *other* parametresine eşitse; aksi takdirde, false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir.
+Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject bu örnekle karşılaştırmak için. |
+| obj | Nesne | Bu örnek ile karşılaştırılacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen Nesne bu örnek ile eşitse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTrailerPi](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

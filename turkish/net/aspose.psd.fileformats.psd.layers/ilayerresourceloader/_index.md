@@ -1,11 +1,12 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader arayüz. Katman kaynak yükleyicisi.
+title: "ILayerResourceLoader arabirimi"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader arabirimi. Katman kaynağı yükleyicisi"
 type: docs
-weight: 2070
+weight: 2250
 url: /tr/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
 Katman kaynak yükleyicisi.
@@ -14,16 +15,16 @@ Katman kaynak yükleyicisi.
 public interface ILayerResourceLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Katman kaynağının belirtilen kaynaktan yüklenip yüklenemeyeceğini belirler.[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | [`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | Belirtilen [`StreamContainer`](../../aspose.psd/streamcontainer/) üzerinden katman kaynağının yüklenip yüklenemeyeceğini belirler. |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | Yükler [`LayerResource`](../layerresource/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

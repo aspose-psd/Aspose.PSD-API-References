@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics mülk. Bunun için geometrik dünya dönüşümünün bir kopyasını alır veya ayarlarGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics özelliği. Bu Graphics için geometrik dünya dönüşümünün bir kopyasını alır veya ayarlar"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-Bunun için geometrik dünya dönüşümünün bir kopyasını alır veya ayarlar[`Graphics`](../) .
+Bu [`Graphics`](../) için geometrik dünya dönüşümünün bir kopyasını alır veya ayarlar.
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bir kopyası[`Matrix`](../../matrix/) Bunun için geometrik dünya dönüşümünü temsil eden[`Graphics`](../) .
+Bu [`Graphics`](../) için geometrik dünya dönüşümünü temsil eden bir [`Matrix`](../../matrix/) kopyası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: SharpenFilterOptions.SharpenFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: SharpenFilterOptions inşaatçı. Yeni bir örneğini başlatır.SharpenFilterOptions sınıf.
+title: "SharpenFilterOptions.SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SharpenFilterOptions yapıcı. SharpenFilterOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions(int, double) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`SharpenFilterOptions`](../) sınıf.
+[`SharpenFilterOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public SharpenFilterOptions(int size, double sigma)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | Int32 | Çekirdeğin boyutu. |
+| boyut | Int32 | Çekirdeğin boyutu. |
 | sigma | Double | sigma. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SharpenFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SharpenFilterOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`SharpenFilterOptions`](../) class. Varsayılan ayarlarla.
+[`SharpenFilterOptions`](../) sınıfının yeni bir örneğini varsayılan ayarlarla başlatır.
 
 ```csharp
 public SharpenFilterOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SharpenFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesMagentaGreenBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Orta Tonlar Macenta Yeşil Dengesini alır veya ayarlar.
+title: "BlncResource.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Midtones Magenta Green Balance değerini alır veya ayarlar"
 type: docs
-weight: 80
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesMagentaGreenBalance property
 
-Orta Tonlar Macenta Yeşil Dengesini alır veya ayarlar.
+Orta tonların Magenta Yeşil Dengesini alır veya ayarlar.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Orta Tonlar Macenta Yeşil Dengesi.
+Midtones Magenta Green Balance.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

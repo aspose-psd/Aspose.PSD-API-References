@@ -1,48 +1,49 @@
 ---
-title: PathGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrush yöntem. Yolun merkezinden başlayarak yolun sınırına doğru renk değiştiren bir degrade fırçası oluşturur. Bir renkten diğerine geçiş çan şeklindeki bir eğriye dayalıdır.
+title: "PathGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrush yöntemi. Rengi, yolun merkezinden başlayarak yolun sınırına doğru değiştiren bir gradyan fırçası oluşturur. Bir renkten diğerine geçiş, çan şeklinde bir eğriye dayanır"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.brushes/pathgradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Yolun merkezinden başlayarak yolun sınırına doğru renk değiştiren bir degrade fırçası oluşturur. Bir renkten diğerine geçiş, çan şeklindeki bir eğriye dayalıdır.
+Yolun merkezinden başlayarak yolun sınırına doğru renk değiştiren bir gradient fırça oluşturur. Bir renkten diğerine geçiş çan şeklinde bir eğriye dayanır.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Yolun merkezinden yolun sınırına kadar herhangi bir radyal boyunca merkez rengin en yüksek yoğunluğunun nerede olacağını belirten, 0 ile 1 arasında bir değer. 1 değeri (varsayılan), en yüksek yoğunluğu yolun merkezine yerleştirir. |
+| odak | Single | 0 ile 1 arasında bir değer; yolun merkezinden yolun sınırına doğru herhangi bir radyal boyunca merkez renginin en yüksek yoğunlukta olacağı konumu belirler. 1 değeri (varsayılan) en yüksek yoğunluğu yolun merkezine yerleştirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Yolun merkezinden başlayarak yolun sınırına doğru renk değiştiren bir degrade fırçası oluşturur. Bir renkten diğerine geçiş, çan şeklindeki bir eğriye dayalıdır.
+Yolun merkezinden başlayarak yolun sınırına doğru renk değiştiren bir gradient fırça oluşturur. Bir renkten diğerine geçiş çan şeklinde bir eğriye dayanır.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Yolun merkezinden yolun sınırına kadar herhangi bir radyal boyunca merkez rengin en yüksek yoğunluğunun nerede olacağını belirten, 0 ile 1 arasında bir değer. 1 değeri (varsayılan), en yüksek yoğunluğu yolun merkezine yerleştirir. |
-| scale | Single | Sınır rengiyle karışan merkez rengin maksimum yoğunluğunu belirten 0 ile 1 arasında bir değer. 1 değeri, merkez rengin mümkün olan en yüksek yoğunluğuna neden olur ve varsayılan değerdir. |
+| odak | Single | 0 ile 1 arasında bir değer; yolun merkezinden yolun sınırına doğru herhangi bir radyal boyunca merkez renginin en yüksek yoğunlukta olacağı konumu belirler. 1 değeri (varsayılan) en yüksek yoğunluğu yolun merkezine yerleştirir. |
+| scale | Single | 0 ile 1 arasında bir değer; merkez renginin sınır rengiyle karıştığı maksimum yoğunluğu belirler. 1 değeri, merkez renginin mümkün olan en yüksek yoğunluğunu sağlar ve varsayılan değerdir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

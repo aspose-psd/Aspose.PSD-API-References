@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResourceData mülk. Yüksekliği alır.
+title: "PattResourceData.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResourceData özelliği. Yüksekliği alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
 Yüksekliği alır.
@@ -14,14 +15,14 @@ Yüksekliği alır.
 public short Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yükseklik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PattResourceData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

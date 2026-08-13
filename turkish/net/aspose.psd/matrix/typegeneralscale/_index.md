@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeGeneralScale
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Genel bir ölçek dikey vektörler arasındaki açıyı değiştirmeden vektörlerin uzunluğunu x ve y yönlerinde farklı miktarlarıyla çarpar. Bu bayrak biti TypeUniformScale bayrağıyla birbirini dışlar.
+title: "Matrix.TypeGeneralScale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix field. Genel bir ölçek, vektörlerin uzunluğunu x ve y yönlerinde farklı miktarlarda çarpar ve dik vektörler arasındaki açıyı değiştirmez. Bu bayrak biti, TypeUniformScale bayrağıyla karşılıklı olarak birbirini dışlar."
 type: docs
 weight: 220
 url: /tr/net/aspose.psd/matrix/typegeneralscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeGeneralScale field
 
-Genel bir ölçek, dikey vektörler arasındaki açıyı değiştirmeden, vektörlerin uzunluğunu x ve y yönlerinde farklı miktarlarıyla çarpar. Bu bayrak biti, TypeUniformScale bayrağıyla birbirini dışlar.
+Genel bir ölçek, dik vektörler arasındaki açıyı değiştirmeden, x ve y yönlerinde vektör uzunluklarını farklı miktarlarda çarpar. Bu bayrak biti, TypeUniformScale bayrağıyla karşılıklı olarak dışlayıcıdır.
 
 ```csharp
 public const int TypeGeneralScale;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

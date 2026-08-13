@@ -1,11 +1,12 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.CompressorException sınıf. Sıkıştırıcı istisnası.
+title: "Sınıf CompressorException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.CompressorException sınıfı. Sıkıştırıcı istisnası"
 type: docs
 weight: 430
 url: /tr/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
 Sıkıştırıcı istisnası.
@@ -14,17 +15,17 @@ Sıkıştırıcı istisnası.
 public class CompressorException : FrameworkException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | Yeni bir örneğini başlatır.`CompressorException` sınıf. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`CompressorException` sınıf. |
+| [CompressorException](compressorexception/#constructor)(string) | `CompressorException` sınıfının yeni bir örneğini başlatır. |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | `CompressorException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FrameworkException](../frameworkexception/)
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

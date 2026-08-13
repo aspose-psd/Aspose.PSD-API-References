@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. İyiyi ayarlar.
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. İyi değerini ayarlar"
 type: docs
 weight: 230
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
 İyiyi ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 public void SetGood(bool good)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| good | Boolean | olarak ayarlanmışsa`doğru` şut kalecidir. |
+| good | Boolean | eğer `true` olarak ayarlanırsa bir çekim saklanır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

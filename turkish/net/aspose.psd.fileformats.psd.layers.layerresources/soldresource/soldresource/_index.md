@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: SoLdResource inşaatçı. Yeni bir örneğini başlatır.SoLdResource class. Hazır bir örnek elde etmek için Items özelliğini ayarlamak veya InitializeItemsi çağırmak gerekir. Bu yapıcı tarafından kullanılmak üzere tasarlanmıştır.SmartResourceCreator ve birim içi testler. KullanımSmartResourceCreator SoLdResource sınıfları oluşturmak için.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SoLdResource yapıcı. SoLdResource sınıfının yeni bir örneğini başlatır. Hazır bir örnek elde etmek için Items özelliğini ayarlamak veya InitializeItems'i çağırmak gerekir. Bu yapıcı, SmartResourceCreator tarafından ve birim testlerinde kullanılmak üzere tasarlanmıştır. SoLdResource sınıflarını oluşturmak için SmartResourceCreator'ı kullanın."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`SoLdResource`](../) class. Hazır bir örnek elde etmek için Items özelliğini ayarlamak veya InitializeItems()'i çağırmak gerekir. Bu yapıcı tarafından kullanılmak üzere tasarlanmıştır.[`SmartResourceCreator`](../../smartresourcecreator/) ve birim içi testler. Kullanım[`SmartResourceCreator`](../../smartresourcecreator/) SoLdResource sınıfları oluşturmak için.
+[`SoLdResource`](../) sınıfının yeni bir örneğini başlatır. Hazır bir örnek elde etmek için Items özelliğini ayarlamak veya InitializeItems()'ı çağırmak gerekir. Bu yapıcı, [`SmartResourceCreator`](../../smartresourcecreator/) tarafından ve birim testlerinde kullanılmak üzere tasarlanmıştır. SoLdResource sınıflarını oluşturmak için [`SmartResourceCreator`](../../smartresourcecreator/) kullanın.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| uniqueId | Guid | Akıllı nesne katmanı verilerinin benzersiz tanımlayıcısı[`SoLdResource`](../). |
-| isCustom | Boolean | olarak ayarlanmışsa`doğru` [özel]. |
-| hasCompInfo | Boolean | olarak ayarlanmışsa`doğru` [bilgisayar bilgisine sahiptir]. |
+| uniqueId | Guid | [`SoLdResource`](../) akıllı nesne katman verisinin benzersiz tanımlayıcısı. |
+| isCustom | Boolean | `true` olarak ayarlanırsa [özel]. |
+| hasCompInfo | Boolean | `true` olarak ayarlanırsa [bileşen bilgisi var]. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, SoLdResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerinin nasıl alınacağını veya ayarlanacağını gösterir.
+// Bu örnek, PSD dosyasının akıllı nesne katmanı veri özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Bu değerler PlLdResource'da (belirtilen UniqueId ile) de değiştirilmelidir.
-                // ve bazılarının LinkDataSource'daki altı çizili akıllı nesneyle uyumlu olması gerekir
+                // Bu değerler ayrıca belirtilen UniqueId ile PlLdResource içinde değiştirilmelidir
+                // ve bunların bir kısmı LinkDataSource içindeki altındaki akıllı nesneyle uyumlu olmalıdır
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,18 +308,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Bu unique ID varsa referanslarda değiştirilmelidir.
+                // Bu benzersiz Id, varsa referanslarda değiştirilmelidir
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Bazı parametrelere dikkat edin: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir
-                ////kaynak.UOrder = 6;
-                ////kaynak.VOrder = 9;
+                // Bazı parametrelerle dikkatli olun: görüntü Adobe® Photoshop® tarafından okunamaz hale gelebilir.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Bunu değiştirmeyin, aksi takdirde serbest dönüşümü kullanamazsınız
-                // veya altı çizili akıllı nesneyi vektör türüne değiştirin
+                // Bunu değiştirmeyin aksi takdirde \n ücretsiz dönüşümü kullanamazsınız
+                // veya \n altındaki akıllı nesneyi vektör tipine değiştirin
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Bu benzersiz kimliğe sahip geçerli bir PlLdResource olmalıdır
+                // Bu benzersiz Id'ye sahip geçerli bir PlLdResource olmalıdır
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -331,26 +332,26 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`SoLdResource`](../) class. Bu varsayılan yapıcı, tarafından kullanılmak üzere tasarlanmıştır.SoLdResourceLoader . Kullanım[`SmartResourceCreator`](../../smartresourcecreator/) SoLdResource sınıfları oluşturmak için.
+[`SoLdResource`](../) sınıfının yeni bir örneğini başlatır. Bu varsayılan yapıcı, SoLdResourceLoader tarafından kullanılmak üzere tasarlanmıştır. SoLdResource sınıflarını oluşturmak için [`SmartResourceCreator`](../../smartresourcecreator/) kullanın.
 
 ```csharp
 public SoLdResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SoLdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

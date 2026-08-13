@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: ArcShape mülk. Başlangıç şekil noktasını alır.
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ArcShape özelliği. Başlangıç şekil noktasını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-Başlangıç şekil noktasını alır.
+Şeklin başlangıç noktasını alır.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Başlangıç şekli noktası.
+Şeklin başlangıç noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

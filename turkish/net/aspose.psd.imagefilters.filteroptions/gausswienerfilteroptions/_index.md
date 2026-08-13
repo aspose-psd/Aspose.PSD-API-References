@@ -1,41 +1,42 @@
 ---
-title: Class GaussWienerFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussWienerFilterOptions sınıf. Gauss Wiener Filtre Seçenekleri Deblur gauss
+title: "GaussWienerFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.GaussWienerFilterOptions sınıfı. Gauss Wiener Filter Options Deblur gauss"
 type: docs
-weight: 4700
+weight: 5200
 url: /tr/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions class
 
-Gauss Wiener Filtre Seçenekleri Deblur gauss
+Gauss Wiener Filtre Seçenekleri Bulanıklığı Giderme gauss
 
 ```csharp
 public class GaussWienerFilterOptions : DeconvolutionFilterOptions
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GaussWienerFilterOptions](gausswienerfilteroptions/#constructor)() | Yeni bir örneğini başlatır.`GaussWienerFilterOptions` class. Varsayılan ayarlarla. |
-| [GaussWienerFilterOptions](gausswienerfilteroptions/#constructor_1)(int, double) | Yeni bir örneğini başlatır.`GaussWienerFilterOptions` sınıf. |
+| [GaussWienerFilterOptions](gausswienerfilteroptions/#constructor)() | `GaussWienerFilterOptions` sınıfının yeni bir örneğini başlatır. Varsayılan ayarlarla. |
+| [GaussWienerFilterOptions](gausswienerfilteroptions/#constructor_1)(int, double) | `GaussWienerFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | Parlaklığı alır veya ayarlar. önerilen aralık 1 - 1.5 varsayılan değer = 1.15 |
-| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`DeconvolutionFilterOptions`](../deconvolutionfilteroptions/) gri tonlamalı. Gri tonlama moduna veya RGB moduna geri dön. |
-| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | Bu örneğin kısmen yüklenip yüklenmediğini gösteren bir değer alır. |
+| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | Parlaklığı alır veya ayarlar. önerilen aralık 1 - 1.5, varsayılan değer = 1.15 |
+| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | Bu [`DeconvolutionFilterOptions`](../deconvolutionfilteroptions/) öğesinin gri tonlamalı olup olmadığını belirten bir değeri alır veya ayarlar. Gri tonlama modu veya RGB modunu döndürür. |
+| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | Bu örneğin kısmen yüklendiğini belirten bir değeri alır. |
 | [Radius](../../aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/) { get; set; } | Yarıçapı alır veya ayarlar. |
-| [Smooth](../../aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/) { get; set; } | Pürüzsüzlüğü alır veya ayarlar. |
-| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | SNR'yi (sinyal-gürültü oranı) alır veya ayarlar önerilen aralık 0,002 - 0,009, varsayılan değer = 0,007 |
+| [Smooth](../../aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/) { get; set; } | Düzgünlüğü alır veya ayarlar. |
+| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | SNR (signal-to-noise ratio) önerilen aralığını alır veya ayarlar 0.002 - 0.009, varsayılan değer = 0.007 |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DeconvolutionFilterOptions](../deconvolutionfilteroptions/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

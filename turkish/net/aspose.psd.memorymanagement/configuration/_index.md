@@ -1,11 +1,12 @@
 ---
-title: Class Configuration
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.MemoryManagement.Configuration sınıf. Bellek yönetimi genel yapılandırması
+title: "Sınıf Configuration"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.MemoryManagement.Configuration sınıfı. Bellek yönetimi genel yapılandırması"
 type: docs
-weight: 5110
+weight: 5630
 url: /tr/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
 Bellek yönetimi genel yapılandırması
@@ -14,15 +15,15 @@ Bellek yönetimi genel yapılandırması
 public static class Configuration
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

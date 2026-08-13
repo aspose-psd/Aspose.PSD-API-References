@@ -1,43 +1,44 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD for .NET API Referansı
-description: ShmdResource inşaatçı. Yeni bir örneğini başlatır.ShmdResource sınıf.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ShmdResource yapıcı. ShmdResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`ShmdResource`](../) sınıf.
+`[`ShmdResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ShmdResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ShmdResource`](../) sınıf.
+`[`ShmdResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShmdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Enum CompositingQuality
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CompositingQuality Sıralama. Birleştirme sırasında kullanılacak kalite seviyesini belirtir.
+title: "Enum CompositingQuality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CompositingQuality enum. Birleştirme sırasında kullanılacak kalite seviyesini belirtir"
 type: docs
 weight: 420
 url: /tr/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-Birleştirme sırasında kullanılacak kalite seviyesini belirtir.
+Bileşim sırasında kullanılacak kalite seviyesini belirtir.
 
 ```csharp
 public enum CompositingQuality
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Invalid | `-1` | Geçersiz kalite. |
 | Default | `0` | Varsayılan kalite. |
 | HighSpeed | `1` | Yüksek hız, düşük kalite. |
-| HighQuality | `2` | Yüksek kaliteli, düşük hızlı birleştirme. |
+| HighQuality | `2` | Yüksek kalite, düşük hızlı birleştirme. |
 | GammaCorrected | `3` | Gama düzeltmesi kullanılır. |
-| AssumeLinear | `4` | Doğrusal değerler alın. |
+| AssumeLinear | `4` | Doğrusal değerler varsayılır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

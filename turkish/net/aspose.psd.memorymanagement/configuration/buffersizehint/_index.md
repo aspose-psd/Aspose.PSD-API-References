@@ -1,27 +1,28 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: Aspose.PSD for .NET API Referansı
-description: Configuration mülk. Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar.
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Configuration özelliği. Tüm iç tamponlar için tanımlanan maksimum izin verilen boyut olan tampon boyutu ipucunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
-Tüm dahili arabellekler için izin verilen maksimum boyutu tanımlayan arabellek boyutu ipucunu alır veya ayarlar.
+Tüm iç tamponlar için tanımlanan maksimum izin verilen boyutu belirten tampon boyutu ipucunu alır veya ayarlar.
 
 ```csharp
 public static int BufferSizeHint { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Megabayt cinsinden arabellek boyutu ipucu. Pozitif olmayan değer, dahili arabellekler için bellek sınırlaması olmadığı anlamına gelir
+Tampon boyutu ipucu, megabayt cinsindendir. Pozitif olmayan değer, iç tamponlar için bellek sınırlaması olmadığı anlamına gelir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Configuration](../)
-* ad alanı [Aspose.PSD.MemoryManagement](../../configuration/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

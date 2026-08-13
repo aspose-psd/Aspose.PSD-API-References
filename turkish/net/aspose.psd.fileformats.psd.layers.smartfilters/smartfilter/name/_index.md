@@ -1,11 +1,12 @@
 ---
-title: SmartFilter.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilter mülk. Akıllı filtre adını alır.
+title: "SmartFilter.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilter özelliği. Akıllı filtrenin adını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Name property
 
 Akıllı filtre adını alır.
@@ -14,9 +15,9 @@ Akıllı filtre adını alır.
 public abstract string Name { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

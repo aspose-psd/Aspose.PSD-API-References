@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteTag
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType yöntem. Etiket verilerini yazar.
+title: "TiffDataType.WriteTag"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType yöntemi. Etiket verisini yazar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteTag method
 
 Etiket verilerini yazar.
@@ -14,22 +15,22 @@ Etiket verilerini yazar.
 public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | Veri akışı. |
-| additionalDataOffset | Int64 | Ek verilerin yazılacağı uzaklık. |
+| additionalDataOffset | Int64 | Ek veri yazmak için ofset. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | + this.TagType + Mesaj için değerler yazılamıyor: + istisna.Message |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Değerleri yazma başarısız: + this.TagType + Mesaj : + exception.Message |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

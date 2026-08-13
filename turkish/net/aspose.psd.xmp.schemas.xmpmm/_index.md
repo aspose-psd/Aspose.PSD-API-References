@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpMm
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı öncelikle dijital varlık yönetimi DAM sistemleri tarafından kullanılan ilgili yardımcı sınıfları sabitleri ve yöntemleri içerir.
+title: "Aspose.PSD.Xmp.Schemas.XmpMm"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı, dijital varlık yönetimi DAM sistemleri tarafından öncelikle kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir."
 type: docs
-weight: 580
+weight: 620
 url: /tr/net/aspose.psd.xmp.schemas.xmpmm/
 ---
-Ad alanı, öncelikle dijital varlık yönetimi (DAM) sistemleri tarafından kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
+{{< psd/tize >}}
+Namespace, dijital varlık yönetimi (DAM) sistemleri tarafından öncelikle kullanılan ilgili yardımcı sınıfları, sabitleri ve yöntemleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | XMP Ortam Yönetimi ad alanını temsil eder. |
+| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | XMP Media Management ad alanını temsil eder. |
 
 

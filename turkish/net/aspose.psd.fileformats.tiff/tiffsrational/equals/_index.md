@@ -1,31 +1,32 @@
 ---
-title: TiffSRational.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffSRational yöntem. Belirtilenin olup olmadığını belirler.Object bu örneğe eşittir.
+title: "TiffSRational.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffSRational yöntemi. Belirtilen Object'in bu örnek ile eşit olup olmadığını belirler"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.tiff/tiffsrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Equals method
 
-Belirtilenin olup olmadığını belirler.Object bu örneğe eşittir.
+Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| obj | Object | buObject bu örnekle karşılaştırmak için. |
+| obj | Nesne | Bu örnek ile karşılaştırılacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen Nesne bu örnek ile eşitse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

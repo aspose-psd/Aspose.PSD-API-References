@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: FillLayer mülk. Dolgu ayarlarını alır.
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FillLayer özelliği. Doldurma ayarlarını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-Dolgu ayarlarını alır.
+Doldurma ayarlarını alır veya ayarlar.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Doldurma ayarları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

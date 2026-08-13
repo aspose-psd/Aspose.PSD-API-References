@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage yöntem. Kaynak oluşturma tarihini ekler.
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yöntemi. Kaynak oluşturulma tarihini ekler"
 type: docs
-weight: 30
+weight: 50
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
-Kaynak oluşturma tarihini ekler.
+Kaynak oluşturulma tarihini ekler.
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| createdDate | DateTime | Oluşturma tarihi. |
+| createdDate | DateTime | Oluşturulma tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetCreatedDate(string) {#setcreateddate_1}
 
-Kaynak oluşturma tarihini ekler.
+Kaynak oluşturulma tarihini ekler.
 
 ```csharp
 public void SetCreatedDate(string createdDate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| createdDate | String | Oluşturma tarihi. |
+| createdDate | String | Oluşturulma tarihi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

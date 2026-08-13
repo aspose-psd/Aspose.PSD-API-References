@@ -1,11 +1,12 @@
 ---
-title: StringStructure.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: StringStructure mülk. Değeri alır veya ayarlar.
+title: "StringStructure.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringStructure özelliği. Değeri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/value/
 ---
+{{< psd/tize >}}
 ## StringStructure.Value property
 
 Değeri alır veya ayarlar.
@@ -14,14 +15,14 @@ Değeri alır veya ayarlar.
 public string Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

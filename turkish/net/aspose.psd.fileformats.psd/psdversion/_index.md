@@ -1,29 +1,30 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.PsdVersion Sıralama. Dosya biçimi sürüm
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. Dosya formatı sürümü"
 type: docs
-weight: 3600
+weight: 4090
 url: /tr/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
-Dosya biçimi sürüm
+Dosya formatı sürümü
 
 ```csharp
 public enum PsdVersion : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Psd | `1` | Varsayılan PSD sürümü. |
 | Psb | `2` | PSB sürümü. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, PSD dosyasını PSB'ye ve tersini dönüştürme yeteneğini gösterir.
+Aşağıdaki örnek, PSD dosyasını PSB'ye ve tersine dönüştürme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -45,9 +46,9 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

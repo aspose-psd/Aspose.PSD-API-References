@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioSampleType mülk. Sıkıştırılmış ses örneğini temsil eder.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioSampleType özelliği. Sıkıştırılmış ses örneğini temsil eder"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
 Sıkıştırılmış ses örneğini temsil eder.
@@ -14,10 +15,10 @@ Sıkıştırılmış ses örneğini temsil eder.
 public static AudioSampleType Compressed { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioSampleType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

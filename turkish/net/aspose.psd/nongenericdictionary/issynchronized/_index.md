@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. dosyasına erişimin olup olmadığını gösteren bir değer alır.ICollection senkronize edilir iş parçacığı güvenli.
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. ICollection erişiminin eşzamanlı (thread safe) olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-dosyasına erişimin olup olmadığını gösteren bir değer alır.ICollection senkronize edilir (iş parçacığı güvenli).
+ICollection erişiminin senkronize (iş parçacığı güvenli) olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-true eğer erişimICollectionsenkronize edilir (thread safe); Aksi takdirde, yanlış.
+Erişim ICollection için eşzamanlı (thread safe) ise true; aksi takdirde false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

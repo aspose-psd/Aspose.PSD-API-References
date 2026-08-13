@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: VogkResource mülk. Sürümü alır veya ayarlar.
+title: "VogkResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VogkResource özelliği. Sürümü alır veya ayarlar"
 type: docs
-weight: 70
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/version/
 ---
+{{< psd/tize >}}
 ## VogkResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,13 +15,13 @@ Sürümü alır veya ayarlar.
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VogkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

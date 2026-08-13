@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.FillPath
-second_title: Aspose.PSD for .NET API Referansı
-description: CustomLineCap mülk. Özel cap. için dolguyu tanımlayan nesneyi alır veya ayarlar.
+title: "CustomLineCap.FillPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CustomLineCap özelliği. Özel kapak için dolguyu tanımlayan nesneyi alır veya ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
-Özel cap. için dolguyu tanımlayan nesneyi alır veya ayarlar.
+Özel kap için dolguyu tanımlayan nesneyi alır veya ayarlar.
 
 ```csharp
 public GraphicsPath FillPath { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Özel cap. için dolguyu tanımlayan nesne
+Özel kapak için dolguyu tanımlayan nesne.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* ad alanı [Aspose.PSD](../../customlinecap/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

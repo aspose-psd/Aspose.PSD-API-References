@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Color
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Rengi alır veya ayarlar.
+title: "InnerShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Rengi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Color property
 
 Rengi alır veya ayarlar.
@@ -14,15 +15,15 @@ Rengi alır veya ayarlar.
 public Color Color { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../../aspose.psd/color/)
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

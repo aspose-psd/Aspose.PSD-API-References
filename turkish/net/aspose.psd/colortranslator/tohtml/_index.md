@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorTranslator yöntem. Renkten HTML rengi oluşturur.
+title: "ColorTranslator.ToHtml"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorTranslator yöntemi. Renkten HTML rengi oluşturur"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/colortranslator/tohtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToHtml method
 
 Renkten HTML rengi oluşturur.
@@ -14,19 +15,19 @@ Renkten HTML rengi oluşturur.
 public static string ToHtml(Color c)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| c | Color | Renk sınıfı. |
+| c | Renk | Renk sınıfı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Html dize rengi.
+HTML dize rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* ad alanı [Aspose.PSD](../../colortranslator/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

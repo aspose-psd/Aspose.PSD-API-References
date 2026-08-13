@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: Aspose.PSD for .NET API Referansı
-description: TextShape yöntem. Belirtilen dönüşümü şekle uygular.
+title: "TextShape.Transform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextShape yöntemi. Belirtilen dönüşümü şekle uygular"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 Belirtilen dönüşümü şekle uygular.
@@ -14,15 +15,15 @@ Belirtilen dönüşümü şekle uygular.
 public override void Transform(Matrix transform)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| transform | Matrix | Uygulanacak dönüşüm. |
+| dönüşüm | Matrix | Uygulanacak dönüşüm. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../textshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

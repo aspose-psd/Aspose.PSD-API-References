@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Ham verileri kaydeder.
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage metodu. Ham veriyi kaydeder."
 type: docs
-weight: 530
+weight: 550
 url: /tr/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 Ham verileri kaydeder.
@@ -15,19 +16,19 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
     RawDataSettings rawDataSettings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Ham veriler. |
+| veri | Byte[] | Ham veri. |
 | dataOffset | Int32 | Başlangıç ham veri ofseti. |
-| rectangle | Rectangle | Ham veri dikdörtgeni. |
-| rawDataSettings | RawDataSettings | Verilerin içinde bulunduğu ham veri ayarları. |
+| dikdörtgen | Rectangle | Ham veri dikdörtgeni. |
+| rawDataSettings | RawDataSettings | Verinin bulunduğu ham veri ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

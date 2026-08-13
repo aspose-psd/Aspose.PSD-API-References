@@ -1,30 +1,37 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect sınıf. Desen Katmanı efekti
+title: "Sınıf PatternOverlayEffect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect sınıfı. Pattern Katman efekti"
 type: docs
-weight: 2180
+weight: 2380
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Desen Katmanı efekti
+Desen Katman efekti
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Karışım modunu alır veya ayarlar. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Bir tür efekt alır type |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını belirten bir değer alır veya ayarlar. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Bir efekt türünü alır. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Bu örneğin görünür olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Opaklığı alır veya ayarlar. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Ayarları alır veya ayarlar. |
 
-### Örnekler
+## Yöntemler
+
+| Ad | Açıklama |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Girdi katman piksel sınırlarına dayanarak efekt piksel sınırlarını hesaplar ve alır. |
+
+## Örnekler
 
 Aşağıdaki kod, desen kaplama efektinin desteğini gösterir.
 
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // Test düzenleme
+    // Düzenlemeyi test et
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -114,7 +121,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Düzenlemeden sonra dosyayı test edin
+// Düzenlemeden sonra test dosyası
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternOverlay = (PatternOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -141,7 +148,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Desen verilerini kontrol edin
+    // Desen verisini kontrol et
     AssertAreEqual(newPattern, resource.Patterns[1].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[1].Width, resource.Patterns[1].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[1].PatternId);
@@ -149,10 +156,10 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerEffect](../ilayereffect/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

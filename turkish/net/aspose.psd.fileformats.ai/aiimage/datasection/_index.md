@@ -1,11 +1,12 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Veri bölümünü alır.
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Veri bölümünü alır"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
 Veri bölümünü alır.
@@ -14,15 +15,15 @@ Veri bölümünü alır.
 public AiDataSection DataSection { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Veri bölümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

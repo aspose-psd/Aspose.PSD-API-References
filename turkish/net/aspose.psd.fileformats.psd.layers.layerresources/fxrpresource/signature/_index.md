@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: FxrpResource mülk. İmzayı alır.
+title: "FxrpResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FxrpResource özelliği. İmzayı alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signa
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FxrpResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

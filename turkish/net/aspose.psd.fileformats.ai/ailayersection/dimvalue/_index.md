@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Loş değerini yüzde olarak alır veya ayarlar. Katmanda bulunan bağlantılı görüntülerin ve bitmap görüntülerinin yoğunluğunu belirtilen yüzdeye düşürür.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Dim değerini yüzde olarak alır veya ayarlar. Katmanda bulunan bağlı görüntülerin ve bitmap görüntülerin yoğunluğunu belirtilen yüzdeye düşürür"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Loş değerini yüzde olarak alır veya ayarlar. Katmanda bulunan bağlantılı görüntülerin ve bitmap görüntülerinin yoğunluğunu belirtilen yüzdeye düşürür.
+Karartma değerini yüzde olarak alır veya ayarlar. Katmanda bulunan bağlı görüntülerin ve bitmap görüntülerin yoğunluğunu belirtilen yüzdeye düşürür.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yüzde olarak dim değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

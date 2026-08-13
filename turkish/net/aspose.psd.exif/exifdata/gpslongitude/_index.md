@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSLongitude
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS boylamını alır veya ayarlar.
+title: "ExifData.GPSLongitude"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS boylamını alır veya ayarlar"
 type: docs
 weight: 540
 url: /tr/net/aspose.psd.exif/exifdata/gpslongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitude property
 
 GPS boylamını alır veya ayarlar.
@@ -14,15 +15,15 @@ GPS boylamını alır veya ayarlar.
 public TiffRational[] GPSLongitude { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS boylamı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

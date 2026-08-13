@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSectionResource mülk. Alt türü alır veya ayarlar.
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSectionResource özelliği. Alt tipi alır veya ayarlar"
 type: docs
-weight: 80
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
-Alt türü alır veya ayarlar.
+Alt tipi alır veya ayarlar.
 
 ```csharp
 public LayerSectionSubtype Subtype { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

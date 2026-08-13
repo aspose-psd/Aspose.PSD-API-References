@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı XMP özelliklerinin karmaşık tür değerlerini temsil eden sınıflar içerir.
+title: "Aspose.PSD.Xmp.Types.Complex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, XMP özelliklerinin karmaşık tip değerlerini temsil eden sınıfları içerir"
 type: docs
-weight: 620
+weight: 660
 url: /tr/net/aspose.psd.xmp.types.complex/
 ---
-Ad alanı, XMP özelliklerinin karmaşık tür değerlerini temsil eden sınıflar içerir.
+{{< psd/tize >}}
+Namespace, XMP özelliklerinin karmaşık tip değerlerini temsil eden sınıfları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ComplexTypeBase](./complextypebase/) | XMP Karmaşık değer türü için temel soyutlamayı temsil eder. |
+| [ComplexTypeBase](./complextypebase/) | XMP Karmaşık değer tipi için temel soyutlamayı temsil eder. |
 
 

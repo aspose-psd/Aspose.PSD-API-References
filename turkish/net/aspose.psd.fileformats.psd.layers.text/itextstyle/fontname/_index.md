@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Yazı tipi adını alır veya ayarlar.
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Yazı tipi adını alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 Yazı tipi adını alır veya ayarlar.
@@ -14,9 +15,9 @@ Yazı tipi adını alır veya ayarlar.
 public string FontName { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, yazı tipi adını porsiyon stilinde değiştirme yeteneğini gösterir.
+Aşağıdaki kod, bir bölüm stilinde yazı tipi adını değiştirme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

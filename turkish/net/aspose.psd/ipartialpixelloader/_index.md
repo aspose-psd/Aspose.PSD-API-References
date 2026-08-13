@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IPartialPixelLoader arayüz. Kısmen yüklenen piksellere uygundur.
+title: "Arayüz IPartialPixelLoader"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IPartialPixelLoader arayüzü. Kısmen yüklenen piksellere uyar"
 type: docs
-weight: 4530
+weight: 5030
 url: /tr/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
 Kısmen yüklenen piksellere uygundur.
@@ -14,15 +15,15 @@ Kısmen yüklenen piksellere uygundur.
 public interface IPartialPixelLoader
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | Yüklenen pikselleri işler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

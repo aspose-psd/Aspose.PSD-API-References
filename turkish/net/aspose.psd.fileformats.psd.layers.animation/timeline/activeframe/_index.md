@@ -1,23 +1,24 @@
 ---
-title: TimeLine.ActiveFrame
-second_title: Aspose.PSD for .NET API Referansı
-description: TimeLine mülk. Aktif çerçeve indeksini alır veya ayarlar.
+title: "TimeLine.ActiveFrame"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TimeLine özelliği. Etkin çerçeve indeksini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/
 ---
+{{< psd/tize >}}
 ## TimeLine.ActiveFrame property
 
-Aktif çerçeve indeksini alır veya ayarlar.
+Etkin çerçeve indeksini alır veya ayarlar.
 
 ```csharp
 public int ActiveFrame { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TimeLine](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Sonlandırma bölümünü alır.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Sonlandırma bölümünü alır"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Sonlandırma bölümünü alır.
+Tamamlama bölümünü alır.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sonlandırma bölümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

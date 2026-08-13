@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.BlendMode
-second_title: Aspose.PSD for .NET API Referansı
-description: StrokeEffect mülk. Karışım modunu alır veya ayarlar.
+title: "StrokeEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StrokeEffect özelliği. Karışım modunu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.BlendMode property
 
 Karışım modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Karışım modunu alır veya ayarlar.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Karışım modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [StrokeEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

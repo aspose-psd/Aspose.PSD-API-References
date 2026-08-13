@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: TextLayer mülk. Dönüşüm matrisini alır veya ayarlar
+title: "TextLayer.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextLayer özelliği. Dönüşüm matrisini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TextLayer.TransformMatrix property
 
 Dönüşüm matrisini alır veya ayarlar
@@ -14,18 +15,18 @@ Dönüşüm matrisini alır veya ayarlar
 public double[] TransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dönüşüm matrisi
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, metin katmanındaki herhangi bir metin bölümü için yazı tipi boyutunun nasıl alınacağını gösterir.
+Aşağıdaki kod, metin katmanındaki herhangi bir metin bölümü için yazı tipi boyutunu nasıl alacağınızı gösterir.
 
 ```csharp
 [C#]
 
-// Yanlış Font boyutu çıkartıldı 
+// Yanlış Yazı Tipi boyutu çıkarıldı
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -33,19 +34,19 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Eski API (İlk paragraf yazı tipi kullanılarak)
+    // Eski API (İlk paragraf yazı tipini kullanarak)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Temel yazı tipi boyutunu kontrol etme
+    // Temel yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Gerçek yazı tipi boyutunu kontrol etme
+    // Gerçek yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -56,13 +57,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Taban kısmı yazı tipi boyutunun kontrol edilmesi
+    // Temel bölüm yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Gerçek kısım yazı tipi boyutunu kontrol etme
+    // Gerçek bölüm yazı tipi boyutu kontrol ediliyor
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -70,10 +71,10 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TextLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

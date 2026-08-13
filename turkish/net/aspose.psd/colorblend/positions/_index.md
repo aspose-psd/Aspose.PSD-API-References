@@ -1,27 +1,28 @@
 ---
-title: ColorBlend.Positions
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorBlend mülk. Bir gradyan çizgisi boyunca konumları alır veya ayarlar.
+title: "ColorBlend.Positions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorBlend özelliği. Bir gradyan çizgisi üzerindeki konumları alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
-Bir gradyan çizgisi boyunca konumları alır veya ayarlar.
+Geçiş çizgisi üzerindeki konumları alır veya ayarlar.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Degrade çizgisi boyunca mesafe yüzdelerini belirten bir değerler dizisi.
+Gradyan çizgisi boyunca mesafenin yüzde değerlerini belirten bir değer dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorBlend](../)
-* ad alanı [Aspose.PSD](../../colorblend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

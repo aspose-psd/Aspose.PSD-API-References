@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Aspose.PSD for .NET API Referansı
-description: StreamContainer yöntem. Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
+title: "StreamContainer.WriteByte"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StreamContainer yöntemi. Akıştaki mevcut konuma bir bayt yazar ve konumu bir bayt ileri alır"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
-Akıştaki geçerli konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
+Akıştaki mevcut konuma bir bayt yazar ve akış içindeki konumu bir bayt ilerletir.
 
 ```csharp
 public virtual void WriteByte(byte value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Byte | Akışa yazılacak bayt. |
+| değer | Byte | Akışa yazılacak bayt. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../)
-* ad alanı [Aspose.PSD](../../streamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

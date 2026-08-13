@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS alan bilgilerini alır veya ayarlar.
+title: "ExifData.GPSAreaInformation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS alan bilgilerini alır veya ayarlar"
 type: docs
 weight: 380
 url: /tr/net/aspose.psd.exif/exifdata/gpsareainformation/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAreaInformation property
 
-GPS alan bilgilerini alır veya ayarlar.
+GPS bölge bilgisini alır veya ayarlar.
 
 ```csharp
 public byte[] GPSAreaInformation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS alanı bilgisi.
+GPS alan bilgisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

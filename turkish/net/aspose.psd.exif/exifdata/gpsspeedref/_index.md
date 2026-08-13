@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS alıcısının hareket hızını ifade etmek için kullanılan birimi alır veya ayarlar.
+title: "ExifData.GPSSpeedRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS alıcısının hareket hızını ifade etmek için kullanılan birimi alır veya ayarlar"
 type: docs
 weight: 610
 url: /tr/net/aspose.psd.exif/exifdata/gpsspeedref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeedRef property
 
 GPS alıcısının hareket hızını ifade etmek için kullanılan birimi alır veya ayarlar.
@@ -14,14 +15,14 @@ GPS alıcısının hareket hızını ifade etmek için kullanılan birimi alır 
 public string GPSSpeedRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS alıcısının hareket hızını ifade etmek için kullanılan birim.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

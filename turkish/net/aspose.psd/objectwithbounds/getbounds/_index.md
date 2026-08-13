@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectWithBounds yöntem. Nesnenin sınırlarını alır.
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectWithBounds yöntemi. Nesnenin sınırlarını alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Nesnenin sınırlarını alır.
@@ -14,21 +15,21 @@ Nesnenin sınırlarını alır.
 public abstract RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | Sınırlardan önce uygulanacak matris hesaplanacaktır. |
+| matris | Matrix | Sınırlar hesaplanmadan önce uygulanacak matris. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tahmini nesnenin sınırları.
+Tahmin edilen nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../objectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ Nesnenin sınırlarını alır.
 public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | Sınırlardan önce uygulanacak matris hesaplanacaktır. |
-| pen | Pen | Nesne için kullanılacak kalem. Bu, nesnenin sınır boyutunu etkileyebilir. |
+| matris | Matrix | Sınırlar hesaplanmadan önce uygulanacak matris. |
+| kalem | Kalem | Nesne için kullanılacak kalem. Bu, nesnenin sınır boyutunu etkileyebilir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tahmini nesnenin sınırları.
+Tahmin edilen nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../objectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

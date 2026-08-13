@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.MultiplyTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: TransformBrush yöntem. Matrix bunun yerel geometrik dönüşümünü temsil edenLinearGradientBrush belirtilen tarafındanMatrix belirtilenin başına ekleyerekMatrix .
+title: "TransformBrush.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TransformBrush yöntemi. Bu LinearGradientBrush'in yerel geometrik dönüşümünü temsil eden Matrisi, belirtilen Matrisle çarpar ve belirtilen Matrisi ön ekleyerek uygular."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-[`Matrix`](../../../aspose.psd/matrix/) bunun yerel geometrik dönüşümünü temsil eden[`LinearGradientBrush`](../../lineargradientbrush/) belirtilen tarafından[`Matrix`](../../../aspose.psd/matrix/) belirtilenin başına ekleyerek[`Matrix`](../../../aspose.psd/matrix/) .
+Bu [`LinearGradientBrush`](../../lineargradientbrush/) öğesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../../aspose.psd/matrix/) öğesini, belirtilen [`Matrix`](../../../aspose.psd/matrix/) ile çarpar ve belirtilen [`Matrix`](../../../aspose.psd/matrix/) ön ekler.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../../aspose.psd/matrix/) geometrik dönüşümü çarpmak için. |
+| matrix | Matrix | Geometrik dönüşümü çarpmak için kullanılacak [`Matrix`](../../../aspose.psd/matrix/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../transformbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-[`Matrix`](../../../aspose.psd/matrix/) bunun yerel geometrik dönüşümünü temsil eden[`LinearGradientBrush`](../../lineargradientbrush/) belirtilen tarafından[`Matrix`](../../../aspose.psd/matrix/) belirtilen sırada.
+Bu [`LinearGradientBrush`](../../lineargradientbrush/) öğesinin yerel geometrik dönüşümünü temsil eden [`Matrix`](../../../aspose.psd/matrix/) öğesini, belirtilen [`Matrix`](../../../aspose.psd/matrix/) ile belirtilen sırada çarpar.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| matrix | Matrix | bu[`Matrix`](../../../aspose.psd/matrix/) geometrik dönüşümü çarpmak için. |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder/) bu, iki matrisin hangi sırayla çarpılacağını belirtir. |
+| matrix | Matrix | Geometrik dönüşümü çarpmak için kullanılacak [`Matrix`](../../../aspose.psd/matrix/). |
+| order | MatrixOrder | İki matrisin hangi sırayla çarpılacağını belirten bir [`MatrixOrder`](../../../aspose.psd/matrixorder/). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../transformbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.PatternFillSettingsbağlantılı.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings özelliği. Bu PatternFillSettings'in bağlantılı olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`PatternFillSettings`](../)bağlantılı.
+Bu [`PatternFillSettings`](../) bağlantılı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bağlı ise; aksi takdirde,`YANLIŞ` .
+`true` ise bağlantılı; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Dolgu Katmanı Kalıbı düzenleme desteğini gösterir.
+Aşağıdaki kod, Doldurma Katmanı Desen düzenlemesinin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // düzenleme 
+            // Düzenleme 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageResizeSettings inşaatçı. Default_Constructor
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageResizeSettings yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public ImageResizeSettings()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../)
-* ad alanı [Aspose.PSD](../../imageresizesettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

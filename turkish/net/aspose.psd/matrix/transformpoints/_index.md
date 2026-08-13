@@ -1,28 +1,29 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Bununla temsil edilen geometrik dönüşümü uygularMatrix belirli bir nokta dizisine.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix yöntemi. Bu Matrix tarafından temsil edilen geometrik dönüşümü belirtilen bir nokta dizisine uygular"
 type: docs
 weight: 180
 url: /tr/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Bununla temsil edilen geometrik dönüşümü uygular[`Matrix`](../) belirli bir nokta dizisine.
+Bu [`Matrix`](../) tarafından temsil edilen geometrik dönüşümü belirtilen bir nokta dizisine uygular.
 
 ```csharp
 public void TransformPoints(PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| points | PointF[] | Puanlar. |
+| noktalar | PointF[] | Noktalar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

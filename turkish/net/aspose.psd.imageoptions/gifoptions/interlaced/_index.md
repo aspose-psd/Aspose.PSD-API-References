@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. Görüntünün taramalı olması gerekiyorsa doğrudur.
+title: "GifOptions.Interlaced"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. Görüntünün taramalı olması gerekiyorsa doğru"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-Görüntünün taramalı olması gerekiyorsa doğrudur.
+True, görüntünün taramalı olması gerekiyorsa.
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

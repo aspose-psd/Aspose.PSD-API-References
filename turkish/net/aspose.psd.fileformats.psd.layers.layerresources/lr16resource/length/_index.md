@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: Lr16Resource mülk. Görüntünün PSD başlık sürümü için kaynak uzunluğunu alır.
+title: "Lr16Resource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Lr16Resource özelliği. Görüntünün PSD başlık sürümü için kaynak uzunluğunu alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Length property
 
-Görüntünün PSD başlık sürümü için kaynak uzunluğunu alır.
+Alır görüntünün PSD başlık sürümü için kaynak uzunluğunu.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Lr16Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

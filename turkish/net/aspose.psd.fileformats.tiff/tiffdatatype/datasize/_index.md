@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.DataSize
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataType mülk. Ek veri boyutunu bayt cinsinden alır 12 baytın etiket verilerini sığdırmak için yeterli olmaması durumunda.
+title: "TiffDataType.DataSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataType özelliği. Etiket verisinin sığması için 12 bayt yeterli olmadığında ek veri boyutunu bayt olarak alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.tiff/tiffdatatype/datasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DataSize property
 
-Ek veri boyutunu bayt cinsinden alır (12 baytın etiket verilerini sığdırmak için yeterli olmaması durumunda).
+Etiket verisini sığdırmak için 12 bayt yetersiz olduğunda ek veri boyutunu bayt olarak alır.
 
 ```csharp
 public abstract uint DataSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bayt cinsinden ek veri boyutu.
+Ek veri boyutu bayt cinsinden.
 
-### Notlar
+## Açıklamalar
 
-Bu tam bayt sayısıdır.
+Bu kesin bayt sayısıdır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

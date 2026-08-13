@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdColorPalette mülk. 32bit ARGB renklerinden oluşan bir dizi alır.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdColorPalette özelliği. 32 bit ARGB renklerinin bir dizisini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-32-bit ARGB renklerinden oluşan bir dizi alır.
+32-bit ARGB renklerinin bir dizisini alır.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunu oluşturan 32 bit ARGB yapısı dizisi[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Bu [`ColorPalette`](../../../aspose.psd/colorpalette/) öğesini oluşturan 32-bit ARGB yapısının dizisi.
 
-### Mülk değeri
+### Property Value
 
 Girişler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdColorPalette](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

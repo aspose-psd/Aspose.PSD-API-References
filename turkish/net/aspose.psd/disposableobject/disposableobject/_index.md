@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.PSD for .NET API Referansı
-description: DisposableObject inşaatçı. Default_Constructor
+title: "DisposableObject.DisposableObject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DisposableObject yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public DisposableObject()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DisposableObject](../)
-* ad alanı [Aspose.PSD](../../disposableobject/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

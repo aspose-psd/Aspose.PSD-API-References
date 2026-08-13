@@ -1,22 +1,23 @@
 ---
-title: Enum UnitTypes
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes Sıralama. Birim türleri.
+title: "Enum UnitTypes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitTypes enum. Birim tipleri"
 type: docs
-weight: 3290
+weight: 3680
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/
 ---
+{{< psd/tize >}}
 ## UnitTypes enumeration
 
-Birim türleri.
+Birim tipleri.
 
 ```csharp
 public enum UnitTypes
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Angle | `591490663` | Açı birimi. |
 | Density | `592606060` | Yoğunluk birimi. |
@@ -24,11 +25,12 @@ public enum UnitTypes
 | None | `592342629` | Tanımsız birim. |
 | Percent | `592474723` | Yüzde birimi. |
 | Pixels | `592476268` | Piksel birimi. |
-| Points | `592473716` | Puan birimi. |
+| Points | `592473716` | Nokta birimi. |
+| Millimeters | `592276589` | Milimetre birimi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

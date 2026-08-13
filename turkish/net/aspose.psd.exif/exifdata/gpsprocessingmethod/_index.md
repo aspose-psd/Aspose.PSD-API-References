@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Konum bulma için kullanılan yöntemin adını kaydeden GPS karakter dizisini alır veya ayarlar.
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Konum bulma için kullanılan yöntemin adını kaydeden GPS karakter dizisini alır veya ayarlar"
 type: docs
 weight: 580
 url: /tr/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
 Konum bulma için kullanılan yöntemin adını kaydeden GPS karakter dizisini alır veya ayarlar.
@@ -14,14 +15,14 @@ Konum bulma için kullanılan yöntemin adını kaydeden GPS karakter dizisini a
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Konum bulma için kullanılan yöntemin adını kaydeden GPS karakter dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

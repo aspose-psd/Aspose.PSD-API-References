@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Dikey ofseti alır veya ayarlar.
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource özelliği. Dikey ofseti alır veya ayarlar"
 type: docs
-weight: 180
+weight: 240
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
 Dikey ofseti alır veya ayarlar.
@@ -14,13 +15,13 @@ Dikey ofseti alır veya ayarlar.
 public double VerticalOffset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dikey uzaklık.
+Dikey offset.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, GdFlResource kaynak yükleme desteğini göstermektedir.
+Aşağıdaki örnek, GdFlResource kaynağı yüklemenin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -68,16 +69,16 @@ using (im)
                         throw new Exception("Gradient Transparency Points were read Wrong");
                     }
                     var colorPoints = resource.ColorPoints;
-                    if (colorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+                    if (colorPoints[0].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 64, 140) ||
                      colorPoints[0].Location != 0 ||
                      colorPoints[0].MedianPointLocation != 50 ||
-                     colorPoints[1].Color != Color.FromArgb(203, 0, 0) ||
+                     colorPoints[1].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 0, 0) ||
                      colorPoints[1].Location != 4096 ||
                      colorPoints[1].MedianPointLocation != 50)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // düzenleme
+                    // Düzenleme
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -90,7 +91,7 @@ using (im)
                     List<IGradientTransparencyPoint>(resource.TransparencyPoints);
                     newColorPoints.Add(new GradientColorPoint()
                     {
-                        Color = Color.Violet,
+                        RawColor = RawColorHelper.CreateArgb8BitColor(Color.Violet),
                         Location = 4096,
                         MedianPointLocation = 75
                     });
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

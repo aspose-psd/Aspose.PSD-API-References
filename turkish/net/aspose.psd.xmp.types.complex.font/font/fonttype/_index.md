@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Yazı tipi türünü alır veya ayarlar.
+title: "Font.FontType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Font tipini alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 Yazı tipi türünü alır veya ayarlar.
@@ -14,18 +15,18 @@ Yazı tipi türünü alır veya ayarlar.
 public string FontType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yazı tipi türü.
+Font tipi.
 
-### Örnekler
+## Örnekler
 
 TrueType, Type 1, Open Type vb.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

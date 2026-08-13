@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsValid
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. olup olmadığını gösteren bir değer alır.TiffOptions uygun şekilde yapılandırılmıştır. Hata nedenini bulmak için Validate yöntemini şu şekilde kullanın.
+title: "TiffOptions.IsValid"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. TiffOptions'ın doğru yapılandırılıp yapılandırılmadığını gösteren bir değer alır. Hata nedenini bulmak için Validate metodunu kullanın"
 type: docs
-weight: 250
+weight: 260
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsValid property
 
-olup olmadığını gösteren bir değer alır.[`TiffOptions`](../) uygun şekilde yapılandırılmıştır. Hata nedenini bulmak için Validate yöntemini şu şekilde kullanın.
+[`TiffOptions`](../) öğesinin doğru yapılandırılıp yapılandırılmadığını gösteren bir değer alır. Hata nedenini bulmak için Validate metodunu kullanın.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` TiffOptions düzgün yapılandırılmışsa; aksi takdirde,`YANLIŞ` .
+`true` eğer TiffOptions doğru yapılandırılmışsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

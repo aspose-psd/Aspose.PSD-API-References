@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.TotalSize
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Toplam veri boyutunu alır.
+title: "ThumbnailResource.TotalSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Toplam veri boyutunu alır"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/totalsize/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.TotalSize property
 
 Toplam veri boyutunu alır.
@@ -14,14 +15,14 @@ Toplam veri boyutunu alır.
 public int TotalSize { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Toplam veri boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

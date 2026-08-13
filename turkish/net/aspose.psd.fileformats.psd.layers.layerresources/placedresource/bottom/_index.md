@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. PSD görüntüsünde yerleştirilen katmanın alt konumunu alır veya ayarlar.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Yerleştirilen katmanın PSD görüntüsündeki alt konumunu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-PSD görüntüsünde yerleştirilen katmanın alt konumunu alır veya ayarlar.
+PSD görüntüsündeki yerleştirilmiş katmanın alt konumunu alır veya ayarlar.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yerleştirilen katmanın en alt konumu.
+Yerleştirilen katmanın alt konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

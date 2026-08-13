@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.TransformMatrix
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD dosyasına yerleştirilen katmanın dönüşüm matrisini alır veya ayarlar.
+title: "IPlacedLayerResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. Yerleştirilen katmanın PSD dosyasındaki dönüşüm matrisini alır veya ayarlar"
 type: docs
 weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.TransformMatrix property
 
-PSD dosyasına yerleştirilen katmanın dönüşüm matrisini alır veya ayarlar.
+Yerleştirilen katmanın PSD dosyasındaki dönüşüm matrisini alır veya ayarlar.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın dönüşüm matrisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

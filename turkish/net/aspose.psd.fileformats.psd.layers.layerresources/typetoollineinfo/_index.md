@@ -1,40 +1,41 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo sınıf. Tip araç satırı bilgisi.
+title: "TypeToolLineInfo sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo sınıfı. Tip aracı satır bilgisi"
 type: docs
-weight: 3310
+weight: 3700
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Tip araç satırı bilgisi.
+Yazı tipi aracı satır bilgisi.
 
 ```csharp
 public class TypeToolLineInfo
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | Default_Constructor |
+| [TypeToolLineInfo](typetoollineinfo/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Karakteri alır veya ayarlar. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | char değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | kaydeder`TypeToolLineInfo` bilgileri belirtilen akış kapsayıcısına. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Belirtilen akış konteynerine `TypeToolLineInfo` bilgisini kaydeder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorQuantizationMethod Sıralama. Renk niceleme yöntemleri
+title: "Enum ColorQuantizationMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorQuantizationMethod enum. Renk kuantizasyon yöntemleri"
 type: docs
 weight: 390
 url: /tr/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
-Renk niceleme yöntemleri
+Renk kantizasyon yöntemleri
 
 ```csharp
 public enum ColorQuantizationMethod
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| None | `0` | Hiçbir renk niceleme yöntemi kullanılmadı |
+| None | `0` | Hiçbir renk kuantizasyon yöntemi kullanılmaz |
 | Popularity | `1` | Popülerlik yöntemi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

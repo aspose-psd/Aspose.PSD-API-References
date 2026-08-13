@@ -1,59 +1,60 @@
 ---
-title: PointF.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. Belirli bir değeri çevirirPointF belirtilen tarafındanSize .
+title: "PointF.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. Belirtilen Size ile verilen bir PointF'yi çevirir."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Belirli bir değeri çevirir[`PointF`](../) belirtilen tarafından[`Size`](../../size/) .
+Belirtilen [`Size`](../../size/) ile verilen bir [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF Add(PointF point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../) tercüme etmek. |
-| size | Size | bu[`Size`](../../size/) koordinatlarına eklenecek sayıları belirtir.*point*. |
+| point | PointF | Çevrilecek [`PointF`](../). |
+| size | Size | Koordinatlarına *point* eklenmesi gereken sayıları belirten [`Size`](../../size/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-çevrilmiş[`PointF`](../).
+Çevrilen [`PointF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Belirli bir değeri çevirir[`PointF`](../) belirtilen tarafından[`SizeF`](../../sizef/) .
+Belirtilen [`SizeF`](../../sizef/) ile verilen bir [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../) tercüme etmek. |
-| size | SizeF | bu[`SizeF`](../../sizef/) koordinatlarına eklenecek sayıları belirtir.*point*. |
+| point | PointF | Çevrilecek [`PointF`](../). |
+| size | SizeF | Koordinatlarına *point* eklenmesi gereken sayıları belirten [`SizeF`](../../sizef/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-çevrilmiş[`PointF`](../).
+Çevrilen [`PointF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

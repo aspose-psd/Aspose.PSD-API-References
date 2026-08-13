@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.PageWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorRasterizationOptions mülk. Sayfa genişliğini alır veya ayarlar.
+title: "VectorRasterizationOptions.PageWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorRasterizationOptions özelliği. Sayfa genişliğini alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.imageoptions/vectorrasterizationoptions/pagewidth/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageWidth property
 
-Sayfa genişliğini alır veya ayarlar.
+Alır veya ayarlar sayfa genişliğini.
 
 ```csharp
 public float PageWidth { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorRasterizationOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

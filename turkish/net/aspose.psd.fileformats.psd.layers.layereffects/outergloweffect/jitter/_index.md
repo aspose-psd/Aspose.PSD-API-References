@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Jitter
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Gürültüyü alır veya ayarlar.
+title: "OuterGlowEffect.Jitter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Gürültüyü alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Jitter property
 
 Gürültüyü alır veya ayarlar.
@@ -14,17 +15,17 @@ Gürültüyü alır veya ayarlar.
 public int Jitter { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gürültü.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, 0 ila 100 aralığında yüzde olarak belirtilmelidir |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, yüzde olarak 0 ile 100 arasında belirtilmelidir |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -47,10 +48,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

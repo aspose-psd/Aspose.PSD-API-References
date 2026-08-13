@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için eşiği şeffaflık aralığı ayarlar.
+title: "ImageAttributes.SetThreshold"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için eşik şeffaflık aralığını ayarlar"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
-Varsayılan kategori için eşiği (şeffaflık aralığı) ayarlar.
+Varsayılan kategori için eşik (şeffaflık aralığı) ayarlar.
 
 ```csharp
 public void SetThreshold(float threshold)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| threshold | Single | Eşik değerini belirten gerçek bir sayı. |
+| eşik | Single | Eşik değerini belirten gerçek bir sayı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetThreshold(float, ColorAdjustType) {#setthreshold_1}
 
-Belirli bir kategori için eşiği (şeffaflık aralığı) ayarlar.
+Belirtilen kategori için eşik (şeffaflık aralığı) ayarlar.
 
 ```csharp
 public void SetThreshold(float threshold, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| threshold | Single | Maksimum veya minimum değere eşlenecek renkleri sıralamak için kesme noktası olarak kullanılan, 0,0 ile 1,0 arasında bir eşik değeri. |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk eşiğinin ayarlandığı kategoriyi belirtir. |
+| eşik | Single | 0.0 ile 1.0 arasında bir eşik değeri; bu değer, renkleri maksimum ya da minimum bir değere eşlenecek şekilde ayırmak için bir kırılma noktası olarak kullanılır. |
+| type | ColorAdjustType | Renk eşiğinin ayarlandığı kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

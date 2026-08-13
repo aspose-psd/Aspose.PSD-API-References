@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginShapeBBoxPresent
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Bu örneğin dikdörtgen özelliğine sahip olup olmadığını gösteren bir değer alır.
+title: "VectorShapeOriginSettings.IsOriginShapeBBoxPresent"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Bu örneğin dikdörtgen özelliğine sahip olup olmadığını gösteren bir değer alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginShapeBBoxPresent property
 
-Bu örneğin dikdörtgen özelliğine sahip olup olmadığını gösteren bir değer alır.
+Bu örneğin rectangle özelliğine sahip olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsOriginShapeBBoxPresent { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek, orijin şekli dikdörtgen özelliğine sahipse; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek kaynak şekil dikdörtgeni özelliğine sahipse; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

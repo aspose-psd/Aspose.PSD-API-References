@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.AddValue
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpPackage yöntem. Değeri ekler.
+title: "XmpPackage.AddValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpPackage yöntemi. Değeri ekler"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp/xmppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.AddValue method
 
 Değeri ekler.
@@ -14,21 +15,21 @@ Değeri ekler.
 public virtual void AddValue(string key, string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| key | String | Katma değerle tanımlanan anahtarın dize gösterimi. |
-| value | String | Eklenecek değer. |
+| anahtar | String | Eklenen değerle tanımlanan anahtarın dize temsili. |
+| değer | String | Eklenecek değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | anahtar boş. |
+| ArgumentNullException | anahtar null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

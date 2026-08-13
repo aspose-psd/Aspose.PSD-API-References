@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: ObjectWithBounds mülk. Nesnenin sınırlarını alır.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ObjectWithBounds özelliği. Nesnenin sınırlarını alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 Nesnenin sınırlarını alır.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır.
 public abstract RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../objectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.IsVisibleInGroup
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Bu örneğin grupta görünüp görünmediğini gösteren bir değer alır katman grupta değilse kök grup anlamına gelir.
+title: "Layer.IsVisibleInGroup"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Bu örneğin grup içinde görünür olup olmadığını gösteren bir değer alır. Katman grup içinde değilse, kök grup anlamına gelir."
 type: docs
-weight: 180
+weight: 190
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisibleInGroup property
 
-Bu örneğin grupta görünüp görünmediğini gösteren bir değer alır (katman grupta değilse, kök grup anlamına gelir).
+Bu örneğin grup içinde görünür olup olmadığını gösteren bir değeri alır (Katman grup içinde değilse kök grup anlamına gelir).
 
 ```csharp
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek grupta görünür durumdaysa; aksi takdirde,`YANLIŞ` .
+`true` bu örnek grup içinde görünürse; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

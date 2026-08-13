@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsContinuousManagerUsed
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesLayer mülk. Bu örneğin sürekli yönetici tarafından kullanıldığını gösteren bir değer alır veya ayarlar.
+title: "CurvesLayer.IsContinuousManagerUsed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesLayer özelliği. Bu örneğin sürekli yönetici kullanıp kullanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsContinuousManagerUsed property
 
-Bu örneğin sürekli yönetici tarafından kullanıldığını gösteren bir değer alır veya ayarlar.
+Bu örneğin sürekli yönetici kullanılıp kullanılmadığını belirten bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnek sürekli yönetici kullanılıyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek sürekli yönetici kullanıyorsa; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

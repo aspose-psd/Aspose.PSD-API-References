@@ -1,190 +1,191 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD for .NET API Referansı
-description: Font inşaatçı. Yeni bir başlatırFont belirtilen mevcut olanı kullananFont VeFontStyle numaralandırma.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font yapıcı. Belirtilen mevcut Font ve FontStyle enum'ını kullanan yeni bir Font başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/font/font/
 ---
+{{< psd/tize >}}
 ## Font(Font, FontStyle) {#constructor}
 
-Yeni bir başlatır[`Font`](../) belirtilen mevcut olanı kullanan[`Font`](../) Ve[`FontStyle`](../../fontstyle/) numaralandırma.
+Belirtilen mevcut [`Font`](../) ve [`FontStyle`](../../fontstyle/) enum'ını kullanan yeni bir [`Font`](../) başlatır.
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| prototype | Font | Var olan[`Font`](../) yenisini yaratmak için[`Font`](../). |
-| newStyle | FontStyle | bu[`FontStyle`](../../fontstyle/) yeni uygulamaya başvurmak[`Font`](../) . Birden çok değer[`FontStyle`](../../fontstyle/) numaralandırma OR işleci ile birleştirilebilir. |
+| prototype | Font | Yeni [`Font`](../) oluşturulacak mevcut [`Font`](../). |
+| newStyle | FontStyle | Yeni [`Font`](../) üzerine uygulanacak [`FontStyle`](../../fontstyle/). [`FontStyle`](../../fontstyle/) enum'ının birden fazla değeri OR operatörüyle birleştirilebilir. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *prototype* boş. |
+| ArgumentNullException | *prototype* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-Yeni bir başlatır[`Font`](../) belirli bir boyut kullanarak. Karakter seti şu şekilde ayarlanmıştır:Default , grafik birimiPoint , yazı tipi stiliRegular .
+Belirtilen bir boyut kullanarak yeni bir [`Font`](../) başlatır. Karakter kümesi Default, grafik birimi Point ve font stili Regular olarak ayarlanır.
 
 ```csharp
 public Font(string fontName, float emSize)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Bir dize temsili[`Font`](../) isim. |
-| emSize | Single | Yeni yazı tipinin punto cinsinden em boyutu. |
+| fontName | String | [`Font`](../) adının dize temsili. |
+| emSize | Single | Yeni yazı tipinin nokta cinsinden em-boyutu. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* 0'dan küçük veya eşittir, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
-| ArgumentNullException | *fontName* boş. |
+| ArgumentOutOfRangeException | *emSize* 0'a eşit ya da daha küçük, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
+| ArgumentNullException | *fontName* null değerindedir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-Yeni bir başlatır[`Font`](../) belirli bir boyut ve stil kullanarak. Karakter seti şu şekilde ayarlanmıştır:Default , grafik birimiPoint .
+Belirtilen boyut ve stil kullanılarak yeni bir [`Font`](../) başlatır. Karakter kümesi Default, grafik birimi Point olarak ayarlanır.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Bir dize temsili[`Font`](../) isim. |
-| emSize | Single | Yeni yazı tipinin punto cinsinden em boyutu. |
-| style | FontStyle | bu[`FontStyle`](../../fontstyle/) yeni yazı tipinin. |
+| fontName | String | [`Font`](../) adının dize temsili. |
+| emSize | Single | Yeni yazı tipinin nokta cinsinden em-boyutu. |
+| style | FontStyle | Yeni yazı tipinin [`FontStyle`](../../fontstyle/) değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* 0'dan küçük veya eşittir, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
-| ArgumentNullException | *fontName* boş. |
+| ArgumentOutOfRangeException | *emSize* 0'a eşit ya da daha küçük, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
+| ArgumentNullException | *fontName* null değerindedir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-Yeni bir başlatır[`Font`](../) belirli bir boyut ve birim kullanarak. Karakter seti şu şekilde ayarlanmıştır:Default stil şu şekilde ayarlanır:Regular .
+Belirtilen boyut ve birim kullanılarak yeni bir [`Font`](../) başlatır. Karakter kümesi Default, stil Regular olarak ayarlanır.
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Bir dize temsili[`Font`](../) isim. |
-| emSize | Single | tarafından belirtilen birimlerde yeni yazı tipinin em boyutu*unit* parametre. |
-| unit | GraphicsUnit | bu[`GraphicsUnit`](../../graphicsunit/) yeni yazı tipinin. |
+| fontName | String | [`Font`](../) adının dize temsili. |
+| emSize | Single | Yeni yazı tipinin *unit* parametresiyle belirtilen birimlerdeki em-boyutu. |
+| unit | GraphicsUnit | Yeni yazı tipinin [`GraphicsUnit`](../../graphicsunit/) değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* 0'dan küçük veya eşittir, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
-| ArgumentNullException | *fontName* boş. |
+| ArgumentOutOfRangeException | *emSize* 0'a eşit ya da daha küçük, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
+| ArgumentNullException | *fontName* null değerindedir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-Yeni bir başlatır[`Font`](../) belirtilen bir boyut, stil, birim ve karakter seti kullanarak.
+Belirtilen boyut, stil, birim ve karakter kümesi kullanılarak yeni bir [`Font`](../) başlatır.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
     CharacterSet characterSet)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Bir dize temsili[`Font`](../) isim. |
-| emSize | Single | tarafından belirtilen birimlerde yeni yazı tipinin em boyutu*unit* parametre. |
-| style | FontStyle | bu[`FontStyle`](../../fontstyle/) yeni yazı tipinin. |
-| unit | GraphicsUnit | bu[`GraphicsUnit`](../../graphicsunit/) yeni yazı tipinin. |
+| fontName | String | [`Font`](../) adının dize temsili. |
+| emSize | Single | Yeni yazı tipinin *unit* parametresiyle belirtilen birimlerdeki em-boyutu. |
+| style | FontStyle | Yeni yazı tipinin [`FontStyle`](../../fontstyle/) değeri. |
+| unit | GraphicsUnit | Yeni yazı tipinin [`GraphicsUnit`](../../graphicsunit/) değeri. |
 | characterSet | CharacterSet | Bu yazı tipi için kullanılacak bir karakter kümesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* 0'dan küçük veya eşittir, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
-| ArgumentNullException | *fontName* boş. |
+| ArgumentOutOfRangeException | *emSize* 0'a eşit ya da daha küçük, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
+| ArgumentNullException | *fontName* null değerindedir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Yeni bir başlatır[`Font`](../) belirtilen bir boyut, stil ve birim kullanarak.
+Belirtilen boyut, stil ve birim kullanılarak yeni bir [`Font`](../) başlatır.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| fontName | String | Bir dize temsili[`Font`](../) isim. |
-| emSize | Single | tarafından belirtilen birimlerde yeni yazı tipinin em boyutu*unit* parametre. |
-| style | FontStyle | bu[`FontStyle`](../../fontstyle/) yeni yazı tipinin. |
-| unit | GraphicsUnit | bu[`GraphicsUnit`](../../graphicsunit/) yeni yazı tipinin. |
+| fontName | String | [`Font`](../) adının dize temsili. |
+| emSize | Single | Yeni yazı tipinin *unit* parametresiyle belirtilen birimlerdeki em-boyutu. |
+| style | FontStyle | Yeni yazı tipinin [`FontStyle`](../../fontstyle/) değeri. |
+| unit | GraphicsUnit | Yeni yazı tipinin [`GraphicsUnit`](../../graphicsunit/) değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* 0'dan küçük veya eşittir, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
-| ArgumentNullException | *fontName* boş. |
+| ArgumentOutOfRangeException | *emSize* 0'a eşit ya da daha küçük, sonsuz olarak değerlendirilir veya geçerli bir sayı değildir. |
+| ArgumentNullException | *fontName* null değerindedir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

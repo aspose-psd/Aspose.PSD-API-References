@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD for .NET API Referansı
-description: TextShape mülk. Şeklin merkezini alır.
+title: "TextShape.Center"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextShape özelliği. Şeklin merkezini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 Şeklin merkezini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/textshape/center/
 public override PointF Center { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeklin merkezi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../textshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

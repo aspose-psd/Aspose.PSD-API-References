@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Type
-second_title: Aspose.PSD for .NET API Referansı
-description: ClipboardRecord mülk. Türü alır.
+title: "ClipboardRecord.Type"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClipboardRecord özelliği. Türü alır."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Type property
 
 Türü alır.
@@ -14,15 +15,15 @@ Türü alır.
 public override VectorPathType Type { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Tür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [ClipboardRecord](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

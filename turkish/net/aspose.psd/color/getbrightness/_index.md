@@ -1,27 +1,28 @@
 ---
-title: Color.GetBrightness
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Bunun için tondoygunlukparlaklık HSB parlaklık değerini alırColoryapı.
+title: "Color.GetBrightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Bu Color yapısı için hue-saturation-brightness (HSB) parlaklık değerini alır."
 type: docs
 weight: 1550
 url: /tr/net/aspose.psd/color/getbrightness/
 ---
+{{< psd/tize >}}
 ## Color.GetBrightness method
 
-Bunun için ton-doygunluk-parlaklık (HSB) parlaklık değerini alır[`Color`](../)yapı.
+Bu [`Color`](../) yapısı için hue-saturation-brightness (HSB) parlaklık değerini alır.
 
 ```csharp
 public float GetBrightness()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun parlaklığı[`Color`](../). Parlaklık 0,0 ile 1,0 arasında değişir; burada 0,0 siyahı ve 1,0 beyazı temsil eder.
+Bu [`Color`](../) parlaklığı. Parlaklık 0.0 ile 1.0 arasında değişir; 0.0 siyahı, 1.0 beyazı temsil eder.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

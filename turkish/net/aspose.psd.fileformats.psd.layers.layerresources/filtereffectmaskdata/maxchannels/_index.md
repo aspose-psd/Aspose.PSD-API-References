@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.MaxChannels
-second_title: Aspose.PSD for .NET API Referansı
-description: FilterEffectMaskData mülk. Maksimum kanal sayısını alır.
+title: "FilterEffectMaskData.MaxChannels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FilterEffectMaskData özelliği. Kanal sayısının maksimum değerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaxChannels property
 
-Maksimum kanal sayısını alır.
+Kanal sayısının maksimumunu alır.
 
 ```csharp
 public int MaxChannels { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterEffectMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

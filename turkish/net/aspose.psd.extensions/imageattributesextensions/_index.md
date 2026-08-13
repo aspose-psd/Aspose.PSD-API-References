@@ -1,28 +1,29 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.ImageAttributesExtensions sınıf. Şunun için uzantı yöntemleri içerirImageAttributes VeImageAttributes .
+title: "Sınıf ImageAttributesExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.ImageAttributesExtensions sınıfı. ImageAttributes ve ImageAttributes için uzantı yöntemlerini içerir."
 type: docs
-weight: 1110
+weight: 1120
 url: /tr/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-Şunun için uzantı yöntemleri içerir:[`ImageAttributes`](../../aspose.psd/imageattributes/) VeImageAttributes .
+[`ImageAttributes`](../../aspose.psd/imageattributes/) ve ImageAttributes için uzantı yöntemleri içerir.
 
 ```csharp
 public static class ImageAttributesExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | dönüştürür[`ImageAttributes`](../../aspose.psd/imageattributes/) içinImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | [`ImageAttributes`](../../aspose.psd/imageattributes/) öğesini ImageAttributes'a dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

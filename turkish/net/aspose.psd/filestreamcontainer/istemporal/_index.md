@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD for .NET API Referansı
-description: FileStreamContainer mülk. Akışın geçici olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileStreamContainer özelliği. Akışın geçici olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
-Akışın geçici olup olmadığını gösteren bir değer alır veya ayarlar.
+Akışın geçici olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsTemporal { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` akış zamansal ise; aksi takdirde,`YANLIŞ` .
+`true` eğer akış geçiciyse; aksi takdirde `false`.
 
-### Notlar
+## Açıklamalar
 
-Geçici bir akış, bertaraf edildiğinde kendini ortadan kaldıracaktır. Akış bellek tabanlıysa, bu özelliğin hiçbir etkisi yoktur. Akış, açıkça oluşturulmuşsa geçici veya kalıcı olarak işaretlenebilir, aksi takdirde uygun istisna atılır.
+Geçici bir akış, iptal edildiğinde kendisini kaldırır. Akış bellek tabanlıysa bu özelliğin bir etkisi yoktur. Akış, açıkça oluşturulmuşsa geçici veya kalıcı olarak işaretlenebilir, aksi takdirde uygun istisna fırlatılır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileStreamContainer](../)
-* ad alanı [Aspose.PSD](../../filestreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

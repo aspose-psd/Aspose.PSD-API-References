@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSStatus
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Görüntü kaydedildiğinde GPS alıcısının durumunu alır veya ayarlar.
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Görüntü kaydedildiğinde GPS alıcısının durumunu alır veya ayarlar"
 type: docs
 weight: 620
 url: /tr/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
 Görüntü kaydedildiğinde GPS alıcısının durumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü kaydedildiğinde GPS alıcısının durumunu alır veya ayarlar.
 public string GPSStatus { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü kaydedildiğinde GPS alıcısının durumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

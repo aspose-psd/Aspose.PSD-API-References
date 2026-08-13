@@ -1,39 +1,40 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageCreatorsRegistry sınıf. Görüntü oluşturucuların kaydını temsil eder.
+title: "Sınıf ImageCreatorsRegistry"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageCreatorsRegistry sınıfı. Görüntü oluşturucular kayıt defterini temsil eder"
 type: docs
-weight: 4620
+weight: 5120
 url: /tr/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-Görüntü oluşturucuların kaydını temsil eder.
+Görüntü oluşturucular kayıt defterini temsil eder.
 
 ```csharp
 public static class ImageCreatorsRegistry
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Kayıtlı tanımlayıcıları alır. |
-| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Kayıtlı resim oluşturma formatlarını alır. |
+| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Kayıtlı görüntü oluşturma biçimlerini alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Belirtilene uygun bulunan ilk yaratıcıyı oluşturur. |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Belirtilen için uygun bulunan desteklenen tanımlayıcıyı ilk olarak alır. |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Belirtilen için uygun olan ilk bulunan oluşturucuyu oluşturur. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Belirtilen için uygun olan ilk bulunan desteklenen tanımlayıcıyı alır. |
 | static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Belirtilen görüntü oluşturucu tanımlayıcısını kaydeder. |
-| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Yaratıcıyı kaydeder. |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Oluşturanın kaydını siler. |
+| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Oluşturucuyu kaydeder. |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Oluşturucunun kaydını kaldırır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

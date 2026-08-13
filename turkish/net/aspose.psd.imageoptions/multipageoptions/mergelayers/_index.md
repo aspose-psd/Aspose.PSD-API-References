@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD for .NET API Referansı
-description: MultiPageOptions mülk. birleşik katmanlar. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MultiPageOptions özelliği. Katmanları birleştirip birleştirmediğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-[birleşik katmanlar]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Bir değer alır veya ayarlar; bu değer [merege layers] olup olmadığını gösterir.
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` if [katmanları birleştir]; aksi takdirde,`YANLIŞ` .
+`true` eğer [merege layers] ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MultiPageOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

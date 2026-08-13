@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. bir alırICollection içindeki değerleri içeren nesneIDictionary nesne.
+title: "NonGenericDictionary.Values"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. IDictionary nesnesindeki değerleri içeren bir ICollection nesnesi alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-bir alırICollection içindeki değerleri içeren nesneIDictionary nesne.
+IDictionary nesnesindeki değerleri içeren bir ICollection nesnesi alır.
 
 ```csharp
 public ICollection Values { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-BirICollection içindeki değerleri içeren nesneIDictionary nesne.
+IDictionary nesnesindeki değerleri içeren bir ICollection nesnesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

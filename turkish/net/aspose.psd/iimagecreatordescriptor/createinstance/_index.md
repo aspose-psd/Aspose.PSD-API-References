@@ -1,11 +1,12 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageCreatorDescriptor yöntem. Yeni bir oluşturucu örneği oluşturur.
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageCreatorDescriptor yöntemi. Yeni bir oluşturucu örneği oluşturur"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
 Yeni bir oluşturucu örneği oluşturur.
@@ -14,15 +15,15 @@ Yeni bir oluşturucu örneği oluşturur.
 public IImageCreator CreateInstance()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni bir yaratıcı örneği.
+Yeni bir oluşturucu örneği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimagecreatordescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

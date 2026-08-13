@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. içini doldururGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Bir GraphicsPath'in içini doldurur"
 type: docs
-weight: 360
+weight: 370
 url: /tr/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-içini doldurur[`GraphicsPath`](../../graphicspath/) .
+Bir [`GraphicsPath`](../../graphicspath/) içini doldurur.
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) doldurulacak yolu temsil eder. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| path | GraphicsPath | Doldurulacak yolu temsil eden bir [`GraphicsPath`](../../graphicspath/). |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *path* boş. |
+| ArgumentNullException | *brush* null. -veya- *path* null. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

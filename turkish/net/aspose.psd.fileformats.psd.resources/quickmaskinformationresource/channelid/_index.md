@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.ChannelId
-second_title: Aspose.PSD for .NET API Referansı
-description: QuickMaskInformationResource mülk. Kanal tanımlayıcısını alır veya ayarlar.
+title: "QuickMaskInformationResource.ChannelId"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "QuickMaskInformationResource özelliği. Kanal tanımlayıcısını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.ChannelId property
 
 Kanal tanımlayıcısını alır veya ayarlar.
@@ -14,14 +15,14 @@ Kanal tanımlayıcısını alır veya ayarlar.
 public short ChannelId { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kanal tanımlayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [QuickMaskInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

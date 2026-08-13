@@ -1,29 +1,30 @@
 ---
-title: TypeToolStyleInfo.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolStyleInfo yöntem. kaydederTypeToolFontInfo bilgileri belirtilen akış kapsayıcısına.
+title: "TypeToolStyleInfo.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolStyleInfo yöntemi. TypeToolFontInfo bilgisini belirtilen akış konteynerine kaydeder"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.Save method
 
-kaydeder[`TypeToolFontInfo`](../../typetoolfontinfo/) bilgileri belirtilen akış kapsayıcısına.
+[`TypeToolFontInfo`](../../typetoolfontinfo/) bilgisini belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolStyleInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

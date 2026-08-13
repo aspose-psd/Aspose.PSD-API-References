@@ -1,27 +1,28 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. Bunun için bir karma kod döndürürColoryapı.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. Bu Color yapısı için bir karma kodu döndürür."
 type: docs
 weight: 1560
 url: /tr/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-Bunun için bir karma kod döndürür[`Color`](../)yapı.
+Bu [`Color`](../) yapısı için bir karma kodu döndürür.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun için karma kodu belirten bir tamsayı değeri[`Color`](../).
+Bu [`Color`](../) için karma kodunu belirten bir tam sayı değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

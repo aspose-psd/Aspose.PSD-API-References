@@ -1,23 +1,24 @@
 ---
-title: ColorHalftoneInformationResource.ColorHalftoneInformationResource
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorHalftoneInformationResource inşaatçı. Default_Constructor
+title: "ColorHalftoneInformationResource.ColorHalftoneInformationResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorHalftoneInformationResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public ColorHalftoneInformationResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorHalftoneInformationResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Toplamı olan y koordinatını alır veya ayarlar.Y VeHeight bunun özellik değerleriRectangleyapı.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının Y ve Height özellik değerlerinin toplamı olan y koordinatını alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Toplamı olan y koordinatını alır veya ayarlar.[`Y`](../y/) Ve[`Height`](../height/) bunun özellik değerleri[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının [`Y`](../y/) ve [`Height`](../height/) özellik değerlerinin toplamı olan y-koordinatını alır veya ayarlar.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-toplamı olan y koordinatı[`Y`](../y/) Ve[`Height`](../height/) bunun[`Rectangle`](../) .
+Bu [`Rectangle`](../) öğesinin [`Y`](../y/) ve [`Height`](../height/) değerlerinin toplamı olan y-koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

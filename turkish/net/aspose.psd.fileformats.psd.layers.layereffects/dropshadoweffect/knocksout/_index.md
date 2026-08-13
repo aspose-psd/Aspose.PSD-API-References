@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Aspose.PSD for .NET API Referansı
-description: DropShadowEffect mülk. Görmez. olup olmadığını gösteren bir değer alır veya ayarlar.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DropShadowEffect özelliği. Çıkarmayı (knocks out) belirten bir değeri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-[Görmez]. olup olmadığını gösteren bir değer alır veya ayarlar.
+Kapatma [knocks out] olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru`eğer [nakavt] ise; aksi takdirde,`YANLIŞ` .
+`true` ise [knocks out]; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DropShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.Shapes
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı şekil segmentlerinden birleştirilmiş farklı şekiller içerir.
+title: "Aspose.PSD.Shapes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, şekil segmentlerinden birleştirilmiş farklı şekilleri içerir."
 type: docs
-weight: 490
+weight: 530
 url: /tr/net/aspose.psd.shapes/
 ---
-Ad alanı, şekil segmentlerinden birleştirilmiş farklı şekiller içerir.
+{{< psd/tize >}}
+Namespace, şekil segmentlerinden birleştirilen farklı şekilleri içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [ArcShape](./arcshape/) | Bir yay şeklini temsil eder. |
-| [BezierShape](./beziershape/) | Bir bezier spline'ı temsil eder. |
-| [CurveShape](./curveshape/) | Eğri bir spline şeklini temsil eder. |
-| [EllipseShape](./ellipseshape/) | Bir elips şeklini temsil eder. |
-| [PieShape](./pieshape/) | Bir pasta şeklini temsil eder. |
-| [PolygonShape](./polygonshape/) | Çokgen şeklini temsil eder. |
-| [RectangleProjectedShape](./rectangleprojectedshape/) | Belirli bir yöne döndürülmüş dikdörtgen üzerine yansıtılan bir şekli temsil eder. Aynı kenar uzunluğunu ve bitişik kenarlar arasında 90 dereceyi koruyarak uzayda döndürülebilen dört nokta ile belirtilir. |
-| [RectangleShape](./rectangleshape/) | Dikdörtgen şekli temsil eder. |
-| [TextShape](./textshape/) | Bir metin şeklini temsil eder. |
+| [ArcShape](./arcshape/) | Bir yay şekli temsil eder. |
+| [BezierShape](./beziershape/) | Bir bezier eğrisi temsil eder. |
+| [CurveShape](./curveshape/) | Eğri bir spline şekli temsil eder. |
+| [EllipseShape](./ellipseshape/) | Bir elips şekli temsil eder. |
+| [PieShape](./pieshape/) | Bir pasta şekli temsil eder. |
+| [PolygonShape](./polygonshape/) | Bir çokgen şekli temsil eder. |
+| [RectangleProjectedShape](./rectangleprojectedshape/) | Belirli bir yönelime döndürülmüş dikdörtgen üzerine yansıtılan bir şekli temsil eder. Aynı kenar uzunluklarını koruyarak ve komşu kenarlar arasında 90 derece açı bırakarak uzayda döndürülebilen dört nokta ile tanımlanır. |
+| [RectangleShape](./rectangleshape/) | Bir dikdörtgen şekli temsil eder. |
+| [TextShape](./textshape/) | Bir metin şekli temsil eder. |
 
 

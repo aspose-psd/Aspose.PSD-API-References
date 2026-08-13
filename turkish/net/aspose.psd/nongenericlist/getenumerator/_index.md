@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList yöntem. Koleksiyonda yinelenen bir numaralandırıcı döndürür.
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yöntemi. Bir koleksiyon üzerinde yineleme yapan bir enumerator döndürür"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
-Koleksiyonda yinelenen bir numaralandırıcı döndürür.
+Bir koleksiyon içinde yineleme yapan bir enumerator döndürür.
 
 ```csharp
 public IEnumerator GetEnumerator()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birIEnumerator koleksiyonda yineleme yapmak için kullanılabilecek nesne.
+Koleksiyon üzerinde yineleme yapmak için kullanılabilecek bir IEnumerator nesnesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

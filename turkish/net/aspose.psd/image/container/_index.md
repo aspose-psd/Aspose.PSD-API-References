@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Şunu alırImage konteyner.
+title: "Image.Container"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image özelliği. Image konteynerini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Şunu alır:[`Image`](../) konteyner.
+[`Image`](../) konteynerini alır.
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`Image`](../) konteyner.
+[`Image`](../) konteyneri.
 
-### Notlar
+## Açıklamalar
 
-Bu özellik null değilse, görüntünün başka bir görüntünün içinde olduğunu gösterir.
+Bu özellik null değilse, görüntünün başka bir görüntü içinde bulunduğunu gösterir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

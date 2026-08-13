@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.GdFlResource ters.
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource özelliği. Bu GdFlResource'ın ters olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 140
+weight: 170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`GdFlResource`](../) ters.
+Bu [`GdFlResource`](../) ters olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ters ise; aksi takdirde,`YANLIŞ` .
+`true` ise ters; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, GdFlResource kaynak yükleme desteğini göstermektedir.
+Aşağıdaki örnek, GdFlResource kaynağı yüklemenin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -68,16 +69,16 @@ using (im)
                         throw new Exception("Gradient Transparency Points were read Wrong");
                     }
                     var colorPoints = resource.ColorPoints;
-                    if (colorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+                    if (colorPoints[0].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 64, 140) ||
                      colorPoints[0].Location != 0 ||
                      colorPoints[0].MedianPointLocation != 50 ||
-                     colorPoints[1].Color != Color.FromArgb(203, 0, 0) ||
+                     colorPoints[1].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 0, 0) ||
                      colorPoints[1].Location != 4096 ||
                      colorPoints[1].MedianPointLocation != 50)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // düzenleme
+                    // Düzenleme
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -90,7 +91,7 @@ using (im)
                     List<IGradientTransparencyPoint>(resource.TransparencyPoints);
                     newColorPoints.Add(new GradientColorPoint()
                     {
-                        Color = Color.Violet,
+                        RawColor = RawColorHelper.CreateArgb8BitColor(Color.Violet),
                         Location = 4096,
                         MedianPointLocation = 75
                     });
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

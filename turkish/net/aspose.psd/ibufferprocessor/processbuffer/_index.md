@@ -1,28 +1,29 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Aspose.PSD for .NET API Referansı
-description: IBufferProcessor yöntem. Arabelleği işler.
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IBufferProcessor yöntemi. Arabellegi işler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
-Arabelleği işler.
+Buffer'ı işler.
 
 ```csharp
 public void ProcessBuffer(byte[] buffer, int bufferLength)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| buffer | Byte[] | İşlenecek arabellek. |
+| arabellek | Byte[] | İşlenecek arabellek. |
 | bufferLength | Int32 | İşlenecek arabellek uzunluğu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IBufferProcessor](../)
-* ad alanı [Aspose.PSD](../../ibufferprocessor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

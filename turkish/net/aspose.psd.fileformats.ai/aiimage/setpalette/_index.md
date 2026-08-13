@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetPalette
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage yöntem. Görüntü paletini ayarlar.
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage yöntemi. Görüntü paletini ayarlar"
 type: docs
-weight: 170
+weight: 200
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
 Görüntü paletini ayarlar.
@@ -14,22 +15,22 @@ Görüntü paletini ayarlar.
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| palette | IColorPalette | Ayarlanacak palet. |
-| updateColors | Boolean | olarak ayarlanmışsa`doğru` renkler yeni palete göre güncellenecek; aksi halde renk indeksleri değişmeden kalır. Bazı dizinlerde karşılık gelen palet girişi yoksa, değişmeyen dizinlerin yükleme sırasında görüntüyü bozabileceğini unutmayın. |
+| palet | IColorPalette | Ayarlanacak palet. |
+| updateColors | Boolean | eğer `true` olarak ayarlanırsa renkler yeni palete göre güncellenecek; aksi takdirde renk indeksleri değişmeden kalır. Değişmeyen indekslerin, bazı indekslerin karşılık gelen palet girdileri olmaması durumunda görüntünün yüklenirken çökmesine neden olabileceğini unutmayın. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| NotImplementedException | Uygulanmadı |
+| NotImplementedException | Henüz uygulanmadı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

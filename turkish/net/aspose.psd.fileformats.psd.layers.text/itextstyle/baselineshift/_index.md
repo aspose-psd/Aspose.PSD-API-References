@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Temel kayma.
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Baseline kayması"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-Temel kayma.
+Taban çizgisi kayması.
 
 ```csharp
 public double BaselineShift { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

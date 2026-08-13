@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithBounds mülk. Nesne genişliğini alır.
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithBounds özelliği. Nesnenin genişliğini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
-Nesne genişliğini alır.
+Nesnenin genişliğini alır.
 
 ```csharp
 public int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Nesne genişliği.
+Nesnenin genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../iobjectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

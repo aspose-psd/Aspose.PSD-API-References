@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PrintFlagsResource mülk. Sürümü alır veya ayarlar.
+title: "PrintFlagsResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PrintFlagsResource özelliği. Sürümü alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.resources/printflagsresource/version/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public short Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PrintFlagsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfDocumentInfo mülk. Belgenin yazarını alır veya ayarlar.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfDocumentInfo özelliği. Belgenin yazarını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/author/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Author property
 
 Belgenin yazarını alır veya ayarlar.
@@ -14,10 +15,10 @@ Belgenin yazarını alır veya ayarlar.
 public string Author { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfDocumentInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

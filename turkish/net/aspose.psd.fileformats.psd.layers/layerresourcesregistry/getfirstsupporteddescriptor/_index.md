@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerResourcesRegistry yöntem. Desteklenen ilk açıcı tanımlayıcıyı alır.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerResourcesRegistry yöntemi. İlk desteklenen açıcı tanımlayıcıyı alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-Desteklenen ilk açıcı tanımlayıcıyı alır.
+İlk desteklenen açıcı tanımlayıcısını alır.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | stream | Stream | Akış. |
-| psdVersion | Int32 | PSD versiyonu. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Katman kaynak yükleyici tanımlayıcısı veya böyle bir akış için hiçbir yükleyici tanımlayıcı desteklenmiyorsa null.
+Katman kaynağı yükleyici tanımlayıcısı veya bu akış için desteklenen bir yükleyici tanımlayıcı yoksa null.
 
-### Notlar
+## Açıklamalar
 
-İlk yükleyici aslında son kaydedilen olacaktır.
+İlk yükleyici aslında en son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

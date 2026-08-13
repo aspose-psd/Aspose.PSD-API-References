@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Yarım ton ipuçlarını alır veya ayarlar.
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Yarı ton ipuçlarını alır veya ayarlar"
 type: docs
-weight: 170
+weight: 180
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-Yarım ton ipuçlarını alır veya ayarlar.
+Yarı ton ipuçlarını alır veya ayarlar.
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yarım ton ipuçları.
+Yarı ton ipuçları.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentOutOfRangeException | value;Yarı ton ipuçları dizi uzunluğu 2'ye eşit olmalıdır. |
+| ArgumentOutOfRangeException | value;Yarı ton ipuçları dizisi uzunluğu 2'ye eşit olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

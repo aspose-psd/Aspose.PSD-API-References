@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource mülk. renk tonunun kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource özelliği. Ton renginin kullanılıp kullanılmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 130
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
-[renk tonu]'nun kullanılıp kullanılmadığını gösteren bir değer alır veya ayarlar.
+Bir değeri alır veya ayarlar; bu değer [tint color] kullanılıp kullanılmadığını gösterir.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` kullanılıyorsa [renk tonu]; aksi takdirde,`YANLIŞ` .
+`true` eğer kullanılmışsa [tint color]; aksi takdirde, `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir BlwhResource'u nasıl düzenlediğinizi gösterir.
+Aşağıdaki örnek, bir BlwhResource'ı nasıl düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Test düzenleme ve kaydetme
+                // Düzenleme ve kaydetme testi
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

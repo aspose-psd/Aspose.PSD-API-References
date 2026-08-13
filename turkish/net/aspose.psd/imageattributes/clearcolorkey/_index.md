@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk anahtarını saydamlık aralığı temizler.
+title: "ImageAttributes.ClearColorKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk anahtarı şeffaflık aralığını temizler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
-Varsayılan kategori için renk anahtarını (saydamlık aralığı) temizler.
+Varsayılan kategori için renk anahtarını (şeffaflık aralığını) temizler.
 
 ```csharp
 public void ClearColorKey()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorKey(ColorAdjustType) {#clearcolorkey_1}
 
-Belirli bir kategori için renk anahtarını (saydamlık aralığı) temizler.
+Belirtilen kategori için renk anahtarını (şeffaflık aralığını) temizler.
 
 ```csharp
 public void ClearColorKey(ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk anahtarının silindiği kategoriyi belirtir. |
+| type | ColorAdjustType | Renk anahtarının temizlendiği kategoriyi belirten bir [`ColorAdjustType`](../../coloradjusttype/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurSmartFilter.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussianBlurSmartFilter mülk. Akıllı filtre adını alır.
+title: "GaussianBlurSmartFilter.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussianBlurSmartFilter özelliği. Akıllı filtre adını alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Name property
 
 Akıllı filtre adını alır.
@@ -14,10 +15,10 @@ Akıllı filtre adını alır.
 public override string Name { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussianBlurSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

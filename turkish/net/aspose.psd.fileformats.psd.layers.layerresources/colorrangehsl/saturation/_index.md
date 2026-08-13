@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl mülk. Doygunluğu alır veya ayarlar.
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl özelliği. Doygunluğu alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
 Doygunluğu alır veya ayarlar.
@@ -14,14 +15,14 @@ Doygunluğu alır veya ayarlar.
 public short Saturation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Doygunluk.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode Sıralama. Jpeg resimler için sıkıştırma modu.
+title: "Enum JpegCompressionMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. JPEG görüntüler için sıkıştırma modu"
 type: docs
-weight: 1500
+weight: 1510
 url: /tr/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
-Jpeg resimler için sıkıştırma modu.
+jpeg görüntüler için sıkıştırma modu.
 
 ```csharp
 public enum JpegCompressionMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | Baseline | `0` | Temel sıkıştırma. |
-| Progressive | `1` | Aşamalı sıkıştırma. |
+| Progressive | `1` | İlerlemeli sıkıştırma. |
 | Lossless | `2` | Kayıpsız sıkıştırma. |
 | JpegLs | `3` | JPEG-LS sıkıştırması. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

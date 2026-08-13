@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.FileFormats.Ai
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Adobe Illustrator AI dosya biçimi işlemeyi yönetir.
+title: "Aspose.PSD.FileFormats.Ai"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, Adobe Illustrator AI dosya formatı işleme işlemlerini yönetir"
 type: docs
-weight: 120
+weight: 130
 url: /tr/net/aspose.psd.fileformats.ai/
 ---
-Ad alanı, Adobe Illustrator (AI) dosya biçimi işlemeyi yönetir.
+{{< psd/tize >}}
+Ad alanı, Adobe Illustrator (AI) dosya formatı işleme işlemlerini yönetir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [AiDataSection](./aidatasection/) | Ai biçimi Veri Bölümü |
-| [AiFinalizeSection](./aifinalizesection/) | Ai formatı Sonlandırma Bölümü |
-| [AiHeader](./aiheader/) | Adobe illustrator Dosya Başlığı |
-| [AiImage](./aiimage/) | Adobe Illustrator (AI) Görüntüsü |
-| [AiLayerSection](./ailayersection/) | Ai biçimi Katman Bölümü |
-| [AiRasterImageSection](./airasterimagesection/) | Yapay Zeka Raster Görüntü Bölümü |
-| [AiSection](./aisection/) | Ai biçim tabanı bölümü |
-| [AiSetupSection](./aisetupsection/) | Ai biçimi Kurulum Bölümü |
-## numaralandırma
+| [AiDataSection](./aidatasection/) | Ai formatı Veri Bölümü |
+| [AiFinalizeSection](./aifinalizesection/) | Ai formatı Tamamlama Bölümü |
+| [AiHeader](./aiheader/) | Adobe Illustrator Dosya Başlığı |
+| [AiImage](./aiimage/) | Adobe Illustrator (AI) Görüntüsü. |
+| [AiLayerSection](./ailayersection/) | Ai formatı Katman Bölümü |
+| [AiRasterImageSection](./airasterimagesection/) | AI Raster Görüntü Bölümü |
+| [AiSection](./aisection/) | Ai formatı temel bölümü |
+| [AiSetupSection](./aisetupsection/) | Ai formatı Kurulum Bölümü |
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
 | [AiFormatVersion](./aiformatversion/) | Adobe Illustrator Sürümü |
 

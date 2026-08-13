@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Temeldeki verileri akış kapsayıcısına dönüştürür.
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Temel verileri akış konteynerine dönüştürür"
 type: docs
 weight: 230
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
-Temeldeki verileri akış kapsayıcısına dönüştürür.
+Temel verileri akış konteynerine dönüştürür.
 
 ```csharp
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| startPosition | Int64 | Dönüştürmenin başlatılacağı başlangıç konumu. |
+| startPosition | Int64 | Dönüştürmenin başlayacağı başlangıç konumu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`StreamContainer`](../../../aspose.psd/streamcontainer/) dönüştürülen verilerle
+Dönüştürülmüş veri içeren [`StreamContainer`](../../../aspose.psd/streamcontainer/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

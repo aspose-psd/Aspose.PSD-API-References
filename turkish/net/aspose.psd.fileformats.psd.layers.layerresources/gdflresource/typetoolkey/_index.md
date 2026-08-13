@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource alan. Tip aracı bilgi anahtarı.
+title: "GdFlResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 200
+weight: 260
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

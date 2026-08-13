@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Görüntü açıklamasını alır veya ayarlar.
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Görüntü açıklamasını alır veya ayarlar"
 type: docs
-weight: 190
+weight: 200
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
 Görüntü açıklamasını alır veya ayarlar.
@@ -14,14 +15,14 @@ Görüntü açıklamasını alır veya ayarlar.
 public string ImageDescription { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Resim açıklaması.
+Görüntü açıklaması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

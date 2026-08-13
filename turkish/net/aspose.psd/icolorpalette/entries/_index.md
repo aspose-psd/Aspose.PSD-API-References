@@ -1,32 +1,33 @@
 ---
-title: IColorPalette.Entries
-second_title: Aspose.PSD for .NET API Referansı
-description: IColorPalette mülk. Bir dizi alırColor yapılar.
+title: "IColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IColorPalette özelliği. Color yapıların bir dizisini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/icolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Entries property
 
-Bir dizi alır[`Color`](../../color/) yapılar.
+[`Color`](../../color/) yapıların bir dizisini alır.
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dizisi[`Color`](../../color/) Bunu oluşturan yapı[`ColorPalette`](../../colorpalette/) .
+Bu [`ColorPalette`](../../colorpalette/) öğesini oluşturan [`Color`](../../color/) yapıların dizisi.
 
-### Mülk değeri
+### Property Value
 
 Girişler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* ad alanı [Aspose.PSD](../../icolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

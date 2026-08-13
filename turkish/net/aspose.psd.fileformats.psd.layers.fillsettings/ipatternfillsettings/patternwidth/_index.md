@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Modelin genişliğini alır veya ayarlar.
+title: "IPatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Desenin genişliğini alır veya ayarlar"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternWidth property
 
-Modelin genişliğini alır veya ayarlar.
+Desenin genişliğini alır veya ayarlar.
 
 ```csharp
 public int PatternWidth { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Modelin genişliği.
+Desenin genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList mülk. olup olmadığını gösteren bir değer alır.IList sabit bir boyutu vardır.
+title: "NonGenericList.IsFixedSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList özelliği. IList'in sabit boyutlu olup olmadığını gösteren bir değeri alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-olup olmadığını gösteren bir değer alır.IList sabit bir boyutu vardır.
+IList'in sabit bir boyuta sahip olup olmadığını gösteren bir değer alır.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

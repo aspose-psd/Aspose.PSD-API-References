@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectLayer mülk. Akıllı filtreleri alır.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectLayer özelliği. Akıllı filtreleri alır"
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
 Akıllı filtreleri alır.
@@ -14,9 +15,9 @@ Akıllı filtreleri alır.
 public SmartFilters SmartFilters { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Bu örnek, akıllı filtreler arabiriminin desteğini gösterir.
+Bu örnek, akıllı filtreler arayüzünün desteğini gösterir.
 
 ```csharp
 [C#]
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

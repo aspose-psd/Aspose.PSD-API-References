@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Bir alırRectangle ikisinin birleşimini içeren yapıRectangle yapılar.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. İki Rectangle yapısının birleşimini içeren bir Rectangle yapısı alır."
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-Bir alır[`Rectangle`](../) ikisinin birleşimini içeren yapı[`Rectangle`](../) yapılar.
+İki [`Rectangle`](../) yapısının birleşimini içeren bir [`Rectangle`](../) yapısı alır.
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| a | Rectangle | Birleşecek ilk dikdörtgen. |
-| b | Rectangle | Birleşme için ikinci bir dikdörtgen. |
+| a | Rectangle | Birleştirilecek ilk dikdörtgen. |
+| b | Rectangle | Birleştirilecek ikinci dikdörtgen. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`Rectangle`](../) ikisinin birliğini sınırlayan yapı[`Rectangle`](../) yapılar.
+İki [`Rectangle`](../) yapısının birleşimini sınırlayan bir [`Rectangle`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

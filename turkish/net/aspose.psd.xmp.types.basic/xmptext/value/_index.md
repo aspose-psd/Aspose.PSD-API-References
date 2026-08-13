@@ -1,11 +1,12 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpText mülk. Metin değerini alır veya ayarlar.
+title: "XmpText.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpText özelliği. Metin değerini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
 Metin değerini alır veya ayarlar.
@@ -14,14 +15,14 @@ Metin değerini alır veya ayarlar.
 public string Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Metin değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpText](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

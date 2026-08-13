@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.GradientFillSettings titreme.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Bu GradientFillSettings'in dither olup olmadığını gösteren bir değeri alır veya ayarlar."
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`GradientFillSettings`](../) titreme.
+Bu [`GradientFillSettings`](../) nesnesinin dither olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` titrerse; aksi takdirde,`YANLIŞ` .
+`true` ise dither; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

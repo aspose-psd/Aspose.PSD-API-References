@@ -1,11 +1,12 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Belge önizlemesini alır veya ayarlar.
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Belge önizlemesini alır veya ayarlar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
 Belge önizlemesini alır veya ayarlar.
@@ -14,14 +15,14 @@ Belge önizlemesini alır veya ayarlar.
 public string DocumentPreview { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Belge önizlemesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Varsayılan seçenekleri alır.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image metodu. Varsayılan seçenekleri alır"
 type: docs
-weight: 170
+weight: 180
 url: /tr/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 Varsayılan seçenekleri alır.
@@ -14,19 +15,19 @@ Varsayılan seçenekleri alır.
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | args | Object[] | Argümanlar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-varsayılan seçenekler
+Varsayılan seçenekler
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

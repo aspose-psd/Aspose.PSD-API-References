@@ -1,40 +1,42 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions sınıf. Karıştırma Seçenekleri. Bu effects katmanı için api sağlayan Lfx2Resource için bir sarıcıdır.
+title: "Sınıf BlendingOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions sınıfı. BlendingOptions. Katman efektleri için API sağlayan BaseFxResource için bir sarmalayıcıdır."
 type: docs
-weight: 2100
+weight: 2290
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-Karıştırma Seçenekleri. Bu, effects katmanı için api sağlayan Lfx2Resource için bir sarıcıdır.
+BlendingOptions. Katman efektleri için API sağlayan BaseFxResource için bir sarmalayıcıdır.
 
 ```csharp
 public class BlendingOptions
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Etkileri alır. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Tüm katman efektlerinin görünürlüğünü alır veya ayarlar. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Efektleri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Renk kaplamasını ekler. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Gölge efekti ekler. |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Gölge düşürme efektini ekler. |
 | [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Degrade kaplamasını ekler. |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | İç gölge efekti ekler. |
-| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Dış ışıma efektini ekler. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Model yerleşimini ekler. |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Kontur efekti ekler. |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | İç gölge efektini ekler. |
+| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Dış parıltı efektini ekler. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Desen kaplamasını ekler. |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Kontur efektini ekler. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, İç Gölge Katmanı Efekti ayarlarının nasıl değiştirileceğini gösterir.
+Aşağıdaki kod, İç Gölge Katman Efekti ayarlarının nasıl değiştirileceğini gösterir.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ Aşağıdaki kod, İç Gölge Katmanı Efekti ayarlarının nasıl değiştirile
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

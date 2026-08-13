@@ -1,37 +1,38 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructuresRegistry yöntem. Tür adına göre desteklenen ilk tanımlayıcıyı alır.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructuresRegistry yöntemi. Tür adını kullanarak ilk desteklenen tanımlayıcıyı alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Tür adına göre desteklenen ilk tanımlayıcıyı alır.
+Tür adına göre ilk desteklenen tanımlayıcıyı alır.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| descriptorTypeName | String | Tanımlayıcı türü adı. |
+| descriptorTypeName | String | Tanımlayıcı tür adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bulunan ilk açıcı tanımlayıcı veya böyle bir tanımlayıcı bulunmazsa boştur.
+Bulunan ilk açıcı tanımlayıcı veya bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk açıcı tanımlayıcı aslında son kaydedilen olacaktır.
+İlk açıcı tanımlayıcı aslında en son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MixrResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: MixrResource alan. Tip aracı bilgi anahtarı.
+title: "MixrResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MixrResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 90
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MixrResource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MixrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

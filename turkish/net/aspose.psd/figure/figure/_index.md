@@ -1,23 +1,24 @@
 ---
-title: Figure.Figure
-second_title: Aspose.PSD for .NET API Referansı
-description: Figure inşaatçı. Default_Constructor
+title: "Figure.Figure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Figure yapıcı. Varsayılan yapıcı."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public Figure()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Figure](../)
-* ad alanı [Aspose.PSD](../../figure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

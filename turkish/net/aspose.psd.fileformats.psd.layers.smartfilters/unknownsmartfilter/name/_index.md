@@ -1,11 +1,12 @@
 ---
-title: UnknownSmartFilter.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownSmartFilter mülk. Akıllı filtre adını alır.
+title: "UnknownSmartFilter.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownSmartFilter özelliği. Akıllı filtre adını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.Name property
 
 Akıllı filtre adını alır.
@@ -14,10 +15,10 @@ Akıllı filtre adını alır.
 public override string Name { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

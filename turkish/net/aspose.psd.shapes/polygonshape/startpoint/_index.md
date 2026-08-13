@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.StartPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: PolygonShape mülk. Başlangıç şekil noktasını alır.
+title: "PolygonShape.StartPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PolygonShape özelliği. Şeklin başlangıç noktasını alır"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.shapes/polygonshape/startpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.StartPoint property
 
-Başlangıç şekil noktasını alır.
+Şeklin başlangıç noktasını alır.
 
 ```csharp
 public virtual PointF StartPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Başlangıç şekli noktası.
+Şeklin başlangıç noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../polygonshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

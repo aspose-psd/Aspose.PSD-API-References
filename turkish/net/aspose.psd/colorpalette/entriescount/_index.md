@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPalette mülk. Giriş sayısını alır.
+title: "ColorPalette.EntriesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPalette özelliği. Giriş sayısını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
 Giriş sayısını alır.
@@ -14,14 +15,14 @@ Giriş sayısını alır.
 public int EntriesCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Girişler sayılır.
+Giriş sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

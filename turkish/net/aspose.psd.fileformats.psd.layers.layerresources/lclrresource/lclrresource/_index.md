@@ -1,70 +1,71 @@
 ---
-title: LclrResource.LclrResource
-second_title: Aspose.PSD for .NET API Referansı
-description: LclrResource inşaatçı. Yeni bir örneğini başlatır.LclrResource sınıf.
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LclrResource yapıcı. LclrResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`LclrResource`](../) sınıf.
+Yeni bir [`LclrResource`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public LclrResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LclrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LclrResource`](../) sınıf.
+Yeni bir [`LclrResource`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | Renk. |
+| renk | SheetColorHighlightEnum | Renk. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`LclrResource`](../) sınıf.
+Yeni bir [`LclrResource`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public LclrResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynak verileri. |
+| veri | Byte[] | Kaynak veri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Lclr Kaynak değeri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LclrResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Genişliği orantılı olarak yeniden boyutlandırır.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image yöntemi. Genişliği orantılı olarak yeniden boyutlandırır. Varsayılan NearestNeighbourResample kullanılır."
 type: docs
-weight: 210
+weight: 220
 url: /tr/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Genişliği orantılı olarak yeniden boyutlandırır.
+Genişliği orantılı olarak yeniden boyutlandırır. Varsayılan NearestNeighbourResample kullanılır.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Genişliği orantılı olarak yeniden boyutlandırır.
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
-| resizeType | ResizeType | Yeniden boyutlandırma türü. |
+| resizeType | ResizeType | Yeniden boyutlandırmanın türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Genişliği orantılı olarak yeniden boyutlandırır.
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newWidth | Int32 | Yeni genişlik. |
-| settings | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
+| ayarlar | ImageResizeSettings | Görüntü yeniden boyutlandırma ayarları. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.Register
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageLoadersRegistry yöntem. Belirtilen resim yükleyici tanımlayıcısını kaydeder.
+title: "ImageLoadersRegistry.Register"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageLoadersRegistry yöntemi. Belirtilen görüntü yükleyici tanımlayıcısını kaydeder"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/imageloadersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.Register method
 
-Belirtilen resim yükleyici tanımlayıcısını kaydeder.
+Belirtilen görüntü yükleyici tanımlayıcısını kaydeder.
 
 ```csharp
 public static void Register(IImageLoaderDescriptor imageLoaderDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| imageLoaderDescriptor | IImageLoaderDescriptor | Resim yükleyici tanımlayıcısı. |
+| imageLoaderDescriptor | IImageLoaderDescriptor | Görüntü yükleyici tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageloadersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

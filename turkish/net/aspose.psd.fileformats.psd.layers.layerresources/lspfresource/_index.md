@@ -1,11 +1,12 @@
 ---
-title: Class LspfResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LspfResource sınıf. Katman korumalı ayarlar
+title: "Sınıf LspfResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LspfResource sınıf. Katman korumalı ayarlar"
 type: docs
-weight: 2790
+weight: 3120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource class
 
 Katman korumalı ayarlar
@@ -14,44 +15,44 @@ Katman korumalı ayarlar
 public class LspfResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LspfResource](lspfresource/#constructor)() | Yeni bir örneğini başlatır.`LspfResource` sınıf. |
-| [LspfResource](lspfresource/#constructor_2)(byte[]) | Yeni bir örneğini başlatır.`LspfResource` class. Özel veya bilinmeyen değerle |
-| [LspfResource](lspfresource/#constructor_1)(bool, bool, bool) | Yeni bir örneğini başlatır.`LspfResource` sınıf. |
+| [LspfResource](lspfresource/#constructor)() | Yeni bir `LspfResource` sınıf örneği başlatır. |
+| [LspfResource](lspfresource/#constructor_2)(byte[]) | Yeni bir `LspfResource` sınıf örneği başlatır. Özel veya bilinmeyen bir değerle |
+| [LspfResource](lspfresource/#constructor_1)(bool, bool, bool) | Yeni bir `LspfResource` sınıf örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [IsCompositeProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/) { get; set; } | Bu örneğin bileşik korumalı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/) { get; set; } | Bu örneğin konum korumalı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [IsTransparencyProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/) { get; set; } | Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değer alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| [LockType](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/) { get; set; } | Kilidin türünü alır veya ayarlar. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0 kısıtlama olmadığını gösterir. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/signature/) { get; } | Katman kaynak imzasını alır. |
+| [IsCompositeProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/) { get; set; } | Bu örneğin birleşik korumalı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsPositionProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/) { get; set; } | Bu örneğin konum korumalı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsTransparencyProtected](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/) { get; set; } | Bu örneğin şeffaflık korumalı olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| [LockType](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/) { get; set; } | Kilit tipini alır veya ayarlar. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış kapsayıcısına kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/save/)(StreamContainer, int) | Kaynağı belirtilen akış konteynerine kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/) | Tip aracı bilgi anahtarı 1819504742 |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

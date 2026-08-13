@@ -1,11 +1,12 @@
 ---
-title: ExifData.ComponentsConfiguration
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Bileşen yapılandırmasını alır veya ayarlar.
+title: "ExifData.ComponentsConfiguration"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Bileşen yapılandırmasını alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.exif/exifdata/componentsconfiguration/
 ---
+{{< psd/tize >}}
 ## ExifData.ComponentsConfiguration property
 
 Bileşen yapılandırmasını alır veya ayarlar.
@@ -14,14 +15,14 @@ Bileşen yapılandırmasını alır veya ayarlar.
 public byte[] ComponentsConfiguration { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Bileşen yapılandırması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

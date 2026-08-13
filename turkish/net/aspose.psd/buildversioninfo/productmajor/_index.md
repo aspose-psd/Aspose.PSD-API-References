@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: Aspose.PSD for .NET API Referansı
-description: BuildVersionInfo alan. Ana ürün sürümü.
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BuildVersionInfo alanı. Ürünün ana sürümü"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
 Ana ürün sürümü.
@@ -14,10 +15,10 @@ Ana ürün sürümü.
 public static readonly int ProductMajor;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BuildVersionInfo](../)
-* ad alanı [Aspose.PSD](../../buildversioninfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

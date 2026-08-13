@@ -1,27 +1,28 @@
 ---
-title: LangAlt.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: LangAlt yöntem. a döndürürString bu örneği temsil eder.
+title: "LangAlt.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LangAlt yöntemi. Bu örneği temsil eden bir String döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/langalt/tostring/
 ---
+{{< psd/tize >}}
 ## LangAlt.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LangAlt](../)
-* ad alanı [Aspose.PSD.Xmp](../../langalt/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

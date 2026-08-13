@@ -1,11 +1,12 @@
 ---
-title: BlendRange.Source
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendRange mülk. Kaynak karışım aralığını alır veya ayarlar.
+title: "BlendRange.Source"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendRange özelliği. Kaynak karıştırma aralığını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
 Kaynak karışım aralığını alır veya ayarlar.
@@ -14,14 +15,14 @@ Kaynak karışım aralığını alır veya ayarlar.
 public int Source { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kaynak karışım aralığı.
+Kaynak karıştırma aralığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlendRange](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

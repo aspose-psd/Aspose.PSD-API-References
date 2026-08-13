@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Örnek formatı alır veya ayarlar.
+title: "TiffOptions.SampleFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Örnek formatını alır veya ayarlar"
 type: docs
-weight: 390
+weight: 400
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
-Örnek formatı alır veya ayarlar.
+Örnek formatını alır veya ayarlar.
 
 ```csharp
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Örnek biçim.
+Örnek formatı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel sayısı başına örnek sayısına karşılık gelmelidir. |
+| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel başına örnek sayısına karşılık gelmelidir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

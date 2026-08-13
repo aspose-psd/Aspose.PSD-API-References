@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Bir kameranın veya ISO 12232. de tanımlanan giriş aygıtının ISO hız enlem yyy değerini alır veya ayarlar.
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi yyy değerini alır veya ayarlar"
 type: docs
 weight: 710
 url: /tr/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-Bir kameranın veya ISO 12232. 'de tanımlanan giriş aygıtının ISO hız enlem yyy değerini alır veya ayarlar.
+ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi yyy değerini alır veya ayarlar.
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-ISO 12232. 'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi yyy değeri
+ISO 12232'de tanımlanan bir kamera veya giriş cihazının ISO hız enlemi yyy değeri.
 
-### Notlar
+## Açıklamalar
 
-Bu etiket, ISOSpeed ve ISOSpeedLatitudezzz olmadan kaydedilmeyecektir.
+Bu etiket, ISOSpeed ve ISOSpeedLatitudezzz olmadan kaydedilmemelidir
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

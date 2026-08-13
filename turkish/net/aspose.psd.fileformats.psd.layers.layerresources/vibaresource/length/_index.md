@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: VibAResource mülk. Bayt cinsinden katman kaynak uzunluğunu alır.
+title: "VibAResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibAResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/length/
 ---
+{{< psd/tize >}}
 ## VibAResource.Length property
 
-Bayt cinsinden katman kaynak uzunluğunu alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod örneği, VibAResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Çalışma zamanında Titreşim Kaynağını okuma ve yazma desteği örneği.
+// Çalışma zamanında okuma ve yazma Vibrasyon Kaynağı desteği örneği.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibAResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

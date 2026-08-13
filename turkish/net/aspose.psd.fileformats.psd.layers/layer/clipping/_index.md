@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman kırpmayı alır veya ayarlar. 0  temel 1  temel olmayan.
+title: "Layer.Clipping"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman kırpmasını alır veya ayarlar. 0  temel 1  temel olmayan"
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-Katman kırpmayı alır veya ayarlar. 0 = temel, 1 = temel olmayan.
+Katman kırpmasını alır veya ayarlar. 0 = temel, 1 = temel dışı.
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Katman kırpma.
+Katman kırpması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

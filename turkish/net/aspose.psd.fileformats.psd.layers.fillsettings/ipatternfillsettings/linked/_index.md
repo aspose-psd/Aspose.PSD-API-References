@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Linked
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.IPatternFillSettingsbağlantılı.
+title: "IPatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Bu IPatternFillSettings'in bağlı olup olmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 20
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Linked property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`IPatternFillSettings`](../)bağlantılı.
+Bu [`IPatternFillSettings`](../) bağlı olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bağlı ise; aksi takdirde,`YANLIŞ` .
+`true` ise bağlantılı; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

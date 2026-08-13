@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: Aspose.PSD for .NET API Referansı
-description: IccUntaggedResource mülk. Profili alır veya ayarlar.
+title: "IccUntaggedResource.Profile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IccUntaggedResource özelliği. Profili alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
 Profili alır veya ayarlar.
@@ -14,14 +15,14 @@ Profili alır veya ayarlar.
 public byte Profile { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Profil.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IccUntaggedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

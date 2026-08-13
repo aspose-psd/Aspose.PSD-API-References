@@ -1,11 +1,12 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes Sıralama. Katman karıştırma efektleri.
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Katman karıştırma efektleri"
 type: docs
-weight: 2660
+weight: 2900
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
 Katman karıştırma efektleri.
@@ -14,22 +15,22 @@ Katman karıştırma efektleri.
 public enum LayerEffectsTypes
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| DropShadow | `0` | Alt gölge. |
-| OuterGlow | `1` | Dış ışıma. |
-| PatternOverlay | `2` | Desen yerleşimi. |
-| GradientOverlay | `3` | Degrade yer paylaşımı. |
-| ColorOverlay | `4` | Renk yerleşimi. |
-| Satin | `5` | Saten Efekt Tipi. |
+| DropShadow | `0` | Gölge. |
+| OuterGlow | `1` | Dış parıltı. |
+| PatternOverlay | `2` | Desen bindirme. |
+| GradientOverlay | `3` | Gradyan bindirme. |
+| ColorOverlay | `4` | Renk bindirme. |
+| Satin | `5` | Saten Etki Türü. |
 | InnerGlow | `6` | İç parıltı. |
 | InnerShadow | `7` | İç gölge. |
-| Stroke | `8` | Darbe. |
-| BevelEmboss | `9` | Eğimli kabartma. |
+| Stroke | `8` | Çizgi. |
+| BevelEmboss | `9` | Bisel kabartma. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ILayerEffect.EffectType özelliğinin desteğini gösterir.
 
@@ -62,9 +63,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

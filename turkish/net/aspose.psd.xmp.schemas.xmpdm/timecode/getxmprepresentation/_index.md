@@ -1,11 +1,12 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: Timecode yöntem. XMP formatında içerilen dize değerini döndürür.
+title: "Timecode.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Timecode yöntemi. XMP formatında içerilen dize değerini döndürür"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
 XMP formatında içerilen dize değerini döndürür.
@@ -14,14 +15,14 @@ XMP formatında içerilen dize değerini döndürür.
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Timecode](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: PngOptions inşaatçı. Yeni bir örneğini başlatır.PngOptions sınıf.
+title: "PngOptions.PngOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PngOptions yapıcı. PngOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imageoptions/pngoptions/pngoptions/
 ---
+{{< psd/tize >}}
 ## PngOptions() {#constructor}
 
-Yeni bir örneğini başlatır.[`PngOptions`](../) sınıf.
+[`PngOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngOptions()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngOptions(PngOptions) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`PngOptions`](../) sınıf.
+[`PngOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public PngOptions(PngOptions pngOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | pngOptions | PngOptions | PNG seçenekleri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PngOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../pngoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

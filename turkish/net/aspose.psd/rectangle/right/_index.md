@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle mülk. Toplamı olan x koordinatını alır veya ayarlar.X VeWidth bunun özellik değerleriRectangleyapı.
+title: "Rectangle.Right"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle özelliği. Bu Rectangle yapısının X ve Width özellik değerlerinin toplamı olan x koordinatını alır veya ayarlar."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-Toplamı olan x koordinatını alır veya ayarlar.[`X`](../x/) Ve[`Width`](../width/) bunun özellik değerleri[`Rectangle`](../)yapı.
+Bu [`Rectangle`](../) yapısının [`X`](../x/) ve [`Width`](../width/) özellik değerlerinin toplamı olan x koordinatını alır veya ayarlar.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-toplamı olan x koordinatı[`X`](../x/) Ve[`Width`](../width/) bunun[`Rectangle`](../) .
+Bu [`Rectangle`](../) yapısının [`X`](../x/) ve [`Width`](../width/) toplamı olan x koordinatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType Sıralama. PSD bağlantı kaynağındaki veri kaynakları için LinkDataSourceType numaralandırmasını tanımlar.
+title: "Enum LinkDataSourceType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. PSD bağlantı kaynağındaki veri kaynakları için LinkDataSourceType sayımını tanımlar."
 type: docs
-weight: 2700
+weight: 3000
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-PSD bağlantı kaynağındaki veri kaynakları için LinkDataSourceType numaralandırmasını tanımlar.
+PSD bağlantı kaynağındaki veri kaynakları için LinkDataSourceType sayımını tanımlar.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `0` | Boş bağlantı kaynağı. |
-| liFD | `1` | Gömülü bağlantılı dosya data |
-| liFE | `2` | Harici bağlantılı dosya data |
-| liFA | `3` | Bağlantılı dosya takma adı data |
+| liFD | `1` | Gömülü bağlantılı dosya verisi |
+| liFE | `2` | Harici bağlantılı dosya verileri |
+| liFA | `3` | Bağlantılı dosya takma adı verileri |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, LnkeResource kaynağının desteğini gösterir.
 
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

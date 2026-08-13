@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Çizgi çizgi dizisini alır veya ayarlar.
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Çizgi tirelerinin dizisini alır veya ayarlar"
 type: docs
-weight: 140
+weight: 120
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-Çizgi çizgi dizisini alır veya ayarlar.
+Çizgi kesiklerinin dizisini alır veya ayarlar.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

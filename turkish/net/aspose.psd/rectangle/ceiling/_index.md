@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Ceiling
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Belirtileni dönüştürürRectangleF bir yapıRectangle yuvarlayarak yapıRectangleF değerleri sonraki daha yüksek tamsayı değerlerine.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen RectangleF yapısını, RectangleF değerlerini bir sonraki üst tam sayıya yuvarlayarak Rectangle yapısına dönüştürür."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-Belirtileni dönüştürür[`RectangleF`](../../rectanglef/) bir yapı[`Rectangle`](../) yuvarlayarak yapı[`RectangleF`](../../rectanglef/) değerleri sonraki daha yüksek tamsayı değerlerine.
+Belirtilen [`RectangleF`](../../rectanglef/) yapısını, [`RectangleF`](../../rectanglef/) değerlerini bir sonraki üst tam sayıya yuvarlayarak bir [`Rectangle`](../) yapısına dönüştürür.
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | RectangleF | bu[`RectangleF`](../../rectanglef/) dönüştürülecek yapı. |
+| value | RectangleF | Dönüştürülecek [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bir döndürür[`Rectangle`](../).
+Bir [`Rectangle`](../) döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

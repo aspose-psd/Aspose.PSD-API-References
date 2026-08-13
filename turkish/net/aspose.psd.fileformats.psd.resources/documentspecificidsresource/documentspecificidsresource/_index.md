@@ -1,23 +1,24 @@
 ---
-title: DocumentSpecificIdsResource.DocumentSpecificIdsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: DocumentSpecificIdsResource inşaatçı. Default_Constructor
+title: "DocumentSpecificIdsResource.DocumentSpecificIdsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "DocumentSpecificIdsResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/documentspecificidsresource/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public DocumentSpecificIdsResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DocumentSpecificIdsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

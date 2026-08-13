@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Scale
-second_title: Aspose.PSD for .NET API Referansı
-description: PtFlResource mülk. Ölçeği alır veya ayarlar.
+title: "PtFlResource.Scale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PtFlResource özelliği. ölçeği alır veya ayarlar"
 type: docs
-weight: 100
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
 Ölçeği alır veya ayarlar.
@@ -14,13 +15,13 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale
 public double Scale { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Ölçek.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir PtFlResource kaynağını yükleme ve düzenleme desteğini gösterir.
+Aşağıdaki örnek, bir PtFlResource kaynağının yüklenmesi ve düzenlenmesi desteğini gösterir.
 
 ```csharp
 [C#]
@@ -55,13 +56,13 @@ using (im)
                         throw new Exception("PtFl Resource was read incorrect");
                     }
 
-                    // düzenleme
+                    // Düzenleme
                     resource.Offset = new Point(-11, 13);
                     resource.Scale = 200;
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Verileri PattResource'ta modellemedik, bu yüzden onu ekleyebiliriz.
+                    // PattResource içinde desen verisi yok, bu yüzden ekleyebiliriz.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PtFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

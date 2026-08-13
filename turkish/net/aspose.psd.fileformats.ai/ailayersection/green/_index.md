@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Yeşil renk bileşenini alır veya ayarlar.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Yeşil renk bileşenini alır veya ayarlar."
 type: docs
-weight: 40
+weight: 50
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
 Yeşil renk bileşenini alır veya ayarlar.
@@ -14,14 +15,14 @@ Yeşil renk bileşenini alır veya ayarlar.
 public int Green { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yeşil renk bileşeni.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

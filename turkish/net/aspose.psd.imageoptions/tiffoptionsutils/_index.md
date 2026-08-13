@@ -1,34 +1,35 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils sınıf. Tiff dosya biçimi seçenekleri yardımcı programı sınıfı.
+title: "Sınıf TiffOptionsUtils"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils sınıfı. Tiff dosya formatı seçenekleri yardımcı sınıfı"
 type: docs
-weight: 4960
+weight: 5480
 url: /tr/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-Tiff dosya biçimi seçenekleri yardımcı programı sınıfı.
+tiff dosya formatı seçenekleri yardımcı sınıfı.
 
 ```csharp
 public class TiffOptionsUtils
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Default_Constructor |
+| [TiffOptionsUtils](tiffoptionsutils/)() | Varsayılan yapıcı. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Geçerli etiket sayısını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

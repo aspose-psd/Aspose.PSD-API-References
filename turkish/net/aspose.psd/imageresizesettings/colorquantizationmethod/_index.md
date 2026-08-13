@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorQuantizationMethod
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageResizeSettings mülk. Renk niceleme yöntemini alır veya ayarlar.
+title: "ImageResizeSettings.ColorQuantizationMethod"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageResizeSettings özelliği. Renk kantizasyon yöntemini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imageresizesettings/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorQuantizationMethod property
 
-Renk niceleme yöntemini alır veya ayarlar.
+Renk kantizasyon yöntemini alır veya ayarlar.
 
 ```csharp
 public ColorQuantizationMethod ColorQuantizationMethod { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk niceleme yöntemi.
+Renk kantizasyon yöntemi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorQuantizationMethod](../../colorquantizationmethod/)
 * class [ImageResizeSettings](../)
-* ad alanı [Aspose.PSD](../../imageresizesettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

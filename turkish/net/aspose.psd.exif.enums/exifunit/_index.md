@@ -1,30 +1,31 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifUnit Sıralama. exif birimi numaralandırması.
+title: "Enum ExifUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enum. exif birim enum"
 type: docs
-weight: 960
+weight: 970
 url: /tr/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-exif birimi numaralandırması.
+exif birim sayımı.
 
 ```csharp
 public enum ExifUnit
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | None | `1` | Tanımsız birimler |
 | Inch | `2` | İnç birimleri |
 | Cm | `3` | Metrik santimetre birimleri |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

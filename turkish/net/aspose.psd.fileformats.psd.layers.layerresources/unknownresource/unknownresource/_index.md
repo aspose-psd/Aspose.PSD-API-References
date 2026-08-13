@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownResource inşaatçı. Yeni bir örneğini başlatır.UnknownResource sınıf.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownResource yapıcı. UnknownResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-Yeni bir örneğini başlatır.[`UnknownResource`](../) sınıf.
+[`UnknownResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| signature | Int32 | İmza. |
-| key | Int32 | kaynak anahtarı. |
+| imza | Int32 | İmza. |
+| anahtar | Int32 | Kaynak anahtarı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

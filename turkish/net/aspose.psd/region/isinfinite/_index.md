@@ -1,38 +1,39 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunun olup olmadığını test ederRegion belirtilen çizim yüzeyinde sonsuz bir iç kısma sahiptir.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ın belirtilen çizim yüzeyinde sonsuz bir iç bölgesi olup olmadığını test eder"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-Bunun olup olmadığını test eder[`Region`](../) belirtilen çizim yüzeyinde sonsuz bir iç kısma sahiptir.
+Bu [`Region`](../) belirtilen çizim yüzeyinde sonsuz bir iç bölgeye sahip olup olmadığını test eder.
 
 ```csharp
 public bool IsInfinite(Graphics g)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) bir çizim yüzeyini temsil eder. |
+| g | Graphics | Bir [`Graphics`](../../graphics/) nesnesi, çizim yüzeyini temsil eder. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bunun içi ise true[`Region`](../) ile ilişkili dönüşüm sonsuzdur.*g* uygulanır; aksi takdirde, false.
+*g* ile ilişkili dönüşüm uygulandığında bu [`Region`](../) iç bölgesi sonsuz ise true; aksi takdirde false.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *g* null. |
+| ArgumentNullException | *g* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

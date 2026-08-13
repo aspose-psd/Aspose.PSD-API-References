@@ -1,39 +1,40 @@
 ---
-title: Class Metered
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Metered sınıf. Ölçülen anahtarı ayarlamak için yöntemler sağlar.
+title: "Sınıf Metered"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Metered sınıfı. Ölçümlü anahtarı ayarlamak için yöntemler sağlar"
 type: docs
-weight: 5120
+weight: 5640
 url: /tr/net/aspose.psd/metered/
 ---
+{{< psd/tize >}}
 ## Metered class
 
 Ölçülen anahtarı ayarlamak için yöntemler sağlar.
-
-Entegrasyon için ölçülü yöntemler sağlar
 
 ```csharp
 public class Metered
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Metered](metered/)() | Default_Constructor |
+| [Metered](metered/)() | Varsayılan yapıcı. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Equals](../../aspose.psd/metered/equals/)(object) | Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir. |
-| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey/)(string, string) | Tarifeli genel ve özel anahtarı ayarlar |
-| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit/)() | Tüketim kredisi alır |
-| static [GetConsumptionQuantity](../../aspose.psd/metered/getconsumptionquantity/)() | Tüketim dosyası boyutunu alır |
+| override [Equals](../../aspose.psd/metered/equals/)(object) | Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler. |
+| [GetProductName](../../aspose.psd/metered/getproductname/)() | Ürünün adını alır. |
+| [SetMeteredKey](../../aspose.psd/metered/setmeteredkey/)(string, string) | Ölçümlü genel ve özel anahtarı ayarlar. Ölçümlü lisans satın alırsanız, uygulamayı başlattığınızda bu API çağrılmalıdır, genellikle bu yeterlidir. Ancak, tüketim verileri yüklenemediği ve 24 saati aştığı sürece lisans değerlendirme durumuna ayarlanır; böyle bir durumu önlemek için lisans durumunu düzenli olarak kontrol etmelisiniz, eğer değerlendirme durumundaysa bu API'yi tekrar çağırın. |
+| static [GetConsumptionCredit](../../aspose.psd/metered/getconsumptioncredit/)() | Tüketim kredisini alır |
+| static [GetConsumptionQuantity](../../aspose.psd/metered/getconsumptionquantity/)() | Tüketim dosya boyutunu alır |
+| static [IsMeteredLicensed](../../aspose.psd/metered/ismeteredlicensed/)() | Ölçümlünün lisanslı olup olmadığını kontrol edin |
 
-### Örnekler
+## Örnekler
 
-Bu örnekte, ölçülü genel ve özel anahtar ayarlanmaya çalışılacaktır.
+Bu örnekte, ölçümlü genel ve özel anahtarın ayarlanması denenecek
 
 ```csharp
 [C#]
@@ -48,9 +49,9 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

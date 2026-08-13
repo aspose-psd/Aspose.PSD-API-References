@@ -1,11 +1,12 @@
 ---
-title: StringFormat.Alignment
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Dikey düzlemde metin hizalama bilgilerini alır veya ayarlar.
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Dikey düzlemde metin hizalama bilgisini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
 Dikey düzlemde metin hizalama bilgilerini alır veya ayarlar.
@@ -14,15 +15,15 @@ Dikey düzlemde metin hizalama bilgilerini alır veya ayarlar.
 public StringAlignment Alignment { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/) metin hizalama bilgilerini belirten numaralandırma.
+Metin hizalama bilgisini belirten bir [`StringAlignment`](../../stringalignment/) enum değeridir.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

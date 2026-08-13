@@ -1,29 +1,30 @@
 ---
-title: Enum WarpMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.WarpMode Sıralama. Uygulanan çarpıtma dönüşüm tipini belirtir.
+title: "Enum WarpMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.WarpMode enum. Uygulanan warp dönüşümünün tipini belirtir"
 type: docs
-weight: 5730
+weight: 6260
 url: /tr/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Uygulanan çarpıtma dönüşüm tipini belirtir.
+Uygulanan bükülme dönüşümünün tipini belirtir.
 
 ```csharp
 public enum WarpMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Perspective | `0` | Bir perspektif çarpıtma belirtir. |
-| Bilinear | `1` | bir çift doğrusal çarpıtma belirtir. |
+| Perspective | `0` | Perspektif bir warp belirtir. |
+| Bilinear | `1` | Bilineer bir warp belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

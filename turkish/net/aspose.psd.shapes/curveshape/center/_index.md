@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Center
-second_title: Aspose.PSD for .NET API Referansı
-description: CurveShape mülk. Şeklin merkezini alır.
+title: "CurveShape.Center"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurveShape özelliği. Şeklin merkezini alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.shapes/curveshape/center/
 ---
+{{< psd/tize >}}
 ## CurveShape.Center property
 
 Şeklin merkezini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/curveshape/center/
 public override PointF Center { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şeklin merkezi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../curveshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: VibAResource mülk. Katman kaynak anahtarını alır.
+title: "VibAResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibAResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/
 ---
+{{< psd/tize >}}
 ## VibAResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod örneği, VibAResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Çalışma zamanında Titreşim Kaynağını okuma ve yazma desteği örneği.
+// Çalışma zamanında okuma ve yazma Vibrasyon Kaynağı desteği örneği.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibAResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

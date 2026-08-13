@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: UnitStructure inşaatçı. Yeni bir örneğini başlatır.UnitStructure sınıf.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnitStructure yapıcı. UnitStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-Yeni bir örneğini başlatır.[`UnitStructure`](../) sınıf.
+[`UnitStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public UnitStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

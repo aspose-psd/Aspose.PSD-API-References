@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearGradientBrushBase mülk. olup olmadığını gösteren bir değer alır veya ayarlar.Angle bununla dönüşümler sırasında değiştirilirLinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearGradientBrushBase özelliği. Bu LinearGradientBrushBase ile yapılan dönüşümler sırasında Açının değişip değişmediğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-olup olmadığını gösteren bir değer alır veya ayarlar.[`Angle`](../angle/) bununla dönüşümler sırasında değiştirilir[`LinearGradientBrushBase`](../) .
+Bu [`LinearGradientBrushBase`](../) ile yapılan dönüşümler sırasında [`Angle`](../angle/) değiştiriliyor mu gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` eğer[`Angle`](../angle/) bununla dönüşümler sırasında değiştirilir[`LinearGradientBrushBase`](../) ; aksi takdirde,`YANLIŞ` .
+`true` eğer bu [`LinearGradientBrushBase`](../) ile yapılan dönüşümler sırasında [`Angle`](../angle/) değiştiriliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrushBase](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

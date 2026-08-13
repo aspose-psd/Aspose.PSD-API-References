@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageExportersRegistry mülk. Kayıtlı dışa aktarma biçimlerini alır.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageExportersRegistry özelliği. Kayıtlı dışa aktarma biçimlerini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-Kayıtlı dışa aktarma biçimlerini alır.
+Kayıtlı dışa aktarma formatlarını alır.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kayıtlı dışa aktarma biçimleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageexportersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

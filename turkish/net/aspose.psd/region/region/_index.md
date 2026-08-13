@@ -1,92 +1,93 @@
 ---
-title: Region.Region
-second_title: Aspose.PSD for .NET API Referansı
-description: Region inşaatçı. Yeni bir başlatırRegion .
+title: "Region.Region"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yapıcı. Yeni bir Region oluşturur."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-Yeni bir başlatır[`Region`](../) .
+Yeni bir [`Region`](../) başlatır.
 
 ```csharp
 public Region()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-Yeni bir başlatır[`Region`](../) belirtilenden[`RectangleF`](../../rectanglef/)yapı.
+Belirtilen [`RectangleF`](../../rectanglef/) yapısından yeni bir [`Region`](../) başlatır.
 
 ```csharp
 public Region(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/) yeninin içini tanımlayan yapı[`Region`](../). |
+| rect | RectangleF | Yeni [`Region`](../) içini tanımlayan bir [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-Yeni bir başlatır[`Region`](../) belirtilenden[`Rectangle`](../../rectangle/)yapı.
+Belirtilen [`Rectangle`](../../rectangle/) yapısından yeni bir [`Region`](../) başlatır.
 
 ```csharp
 public Region(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/) yeninin içini tanımlayan yapı[`Region`](../). |
+| rect | Rectangle | Yeni [`Region`](../) içini tanımlayan bir [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-Yeni bir başlatır[`Region`](../) belirtilen ile[`GraphicsPath`](../../graphicspath/) .
+Belirtilen [`GraphicsPath`](../../graphicspath/) ile yeni bir [`Region`](../) başlatır.
 
 ```csharp
 public Region(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)yeniyi tanımlayan[`Region`](../). |
+| path | GraphicsPath | Yeni [`Region`](../) tanımlayan bir [`GraphicsPath`](../../graphicspath/) öğesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *path* boş. |
+| ArgumentNullException | *path* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

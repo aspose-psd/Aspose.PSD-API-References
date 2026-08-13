@@ -1,64 +1,65 @@
 ---
-title: XmpException.XmpException
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpException inşaatçı. Yeni bir örneğini başlatır.XmpException sınıf.
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpException yapıcı. Yeni bir XmpException sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpException`](../) sınıf.
+Yeni bir [`XmpException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public XmpException()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpException`](../) sınıf.
+Yeni bir [`XmpException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public XmpException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`XmpException`](../) sınıf.
+Yeni bir [`XmpException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public XmpException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | Mesaj. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

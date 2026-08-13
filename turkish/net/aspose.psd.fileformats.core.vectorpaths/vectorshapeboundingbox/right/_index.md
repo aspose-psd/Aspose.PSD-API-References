@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Right
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeBoundingBox mülk. Hakkı alır veya ayarlar.
+title: "VectorShapeBoundingBox.Right"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeBoundingBox özelliği. Sağ kısmı alır veya ayarlar"
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Right property
 
-Hakkı alır veya ayarlar.
+Sağını alır veya ayarlar.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sağ.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeBoundingBox](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

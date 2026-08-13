@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource alan. Yazım aracı bilgi anahtarı.
+title: "BlwhResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 160
+weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-Yazım aracı bilgi anahtarı.
+Tip aracı bilgi anahtarı.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

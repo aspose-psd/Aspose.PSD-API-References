@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.ClassID
-second_title: Aspose.PSD for .NET API Referansı
-description: OffsetStructure mülk. Sınıf kimliğini alır veya ayarlar.
+title: "OffsetStructure.ClassID"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OffsetStructure özelliği. Sınıf kimliğini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassID property
 
 Sınıf kimliğini alır veya ayarlar.
@@ -14,15 +15,15 @@ Sınıf kimliğini alır veya ayarlar.
 public ClassID ClassID { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sınıf kimliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

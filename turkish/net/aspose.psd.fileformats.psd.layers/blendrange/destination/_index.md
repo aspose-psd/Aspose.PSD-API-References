@@ -1,11 +1,12 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendRange mülk. Hedef karışım aralığını alır veya ayarlar.
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendRange özelliği. Hedef karıştırma aralığını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
 Hedef karışım aralığını alır veya ayarlar.
@@ -14,14 +15,14 @@ Hedef karışım aralığını alır veya ayarlar.
 public int Destination { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Hedef karışım aralığı.
+Hedef karıştırma aralığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlendRange](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

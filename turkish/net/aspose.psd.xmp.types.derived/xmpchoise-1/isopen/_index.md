@@ -1,27 +1,28 @@
 ---
-title: XmpChoise1.IsOpen
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpChoise mülk. Tercih edilen değerlerin genişletilip genişletilemeyeceğini gösteren bir değer alır veya ayarlar.
+title: "XmpChoise1.IsOpen"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpChoise özelliği. Tercih edilen değerlerin genişletilebileceğini gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.xmp.types.derived/xmpchoise-1/isopen/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.IsOpen property
 
-Tercih edilen değerlerin genişletilip genişletilemeyeceğini gösteren bir değer alır veya ayarlar.
+Tercih edilen değerlerin genişletilebilir olup olmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` tercih edilen değerler genişletilebiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer tercih edilen değerler genişletilebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpChoise&lt;T&gt;](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

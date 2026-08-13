@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageCreatorsRegistry mülk. Kayıtlı tanımlayıcıları alır.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageCreatorsRegistry özelliği. Kayıtlı tanımlayıcıları alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
 Kayıtlı tanımlayıcıları alır.
@@ -14,15 +15,15 @@ Kayıtlı tanımlayıcıları alır.
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayıtlı tanımlayıcılar.
+Kaydedilen tanımlayıcılar.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ad alanı [Aspose.PSD](../../imagecreatorsregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

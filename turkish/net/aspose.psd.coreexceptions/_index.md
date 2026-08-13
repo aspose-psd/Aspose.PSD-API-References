@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.CoreExceptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı çekirdek PSD bileşenlerinden herhangi biri tarafından oluşturulan istisnalar içerir.
+title: "Aspose.PSD.CoreExceptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, temel PSD bileşenlerinden herhangi biri tarafından atılan istisnaları içerir"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.coreexceptions/
 ---
-Ad alanı, çekirdek PSD bileşenlerinden herhangi biri tarafından oluşturulan istisnalar içerir.
+{{< psd/tize >}}
+Ad alanı, çekirdek PSD bileşenlerinden herhangi biri tarafından atılan istisnaları içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
 | [CompressorException](./compressorexception/) | Sıkıştırıcı istisnası. |
-| [DataMissmatchError](./datamissmatcherror/) | Veri uyuşmazlığı istisnası class |
-| [FrameworkException](./frameworkexception/) | PSD çerçeve istisnası. Bu sınıf, tüm Aspose.PSD istisnaları için temel bir sınıftır. Aspose.PSD motoru tarafından oluşturulan istisnalar ile diğer tüm istisna türleri arasında ayrım yapmak için sunulmuştur. |
-| [ImageCreateException](./imagecreateexception/) | Görüntü oluşturma istisnası. Görüntü oluşturma sırasında oluşur. |
+| [DataMissmatchError](./datamissmatcherror/) | Veri uyuşmazlığı istisna sınıfı |
+| [FrameworkException](./frameworkexception/) | PSD çerçeve istisnası. Bu sınıf, tüm Aspose.PSD istisnaları için temel bir sınıftır. Aspose.PSD motoru tarafından atılan istisnalar ile diğer tüm istisna türlerini ayırt etmek için tanıtılmıştır. |
+| [ImageCreateException](./imagecreateexception/) | Görüntü oluşturma istisnası. Görüntü oluşturma sırasında ortaya çıkar. |
 | [ImageException](./imageexception/) | Görüntü istisnası. |
-| [ImageLoadException](./imageloadexception/) | Görüntü yükleme istisnası. Görüntü yükleme sırasında oluşur. |
-| [ImageSaveException](./imagesaveexception/) | Görüntü kaydetme istisnası. Görüntü kaydetme sırasında oluşur. |
+| [ImageLoadException](./imageloadexception/) | Görüntü yükleme istisnası. Görüntü yükleme sırasında ortaya çıkar. |
+| [ImageSaveException](./imagesaveexception/) | Görüntü kaydetme istisnası. Görüntü kaydetme sırasında ortaya çıkar. |
 | [IndexOutOFRangeException](./indexoutofrangeexception/) | Sıkıştırıcı istisnası. |
-| [LimitMemoryException](./limitmemoryexception/) | Limit bellek istisnası. Bellek kullanımının azaltılması gerektiğinde gerçekleşir. |
-| [OperationInterruptedException](./operationinterruptedexception/) | Bir işlem kesintiye uğradığında oluşur. |
-| [RdOptimizationError](./rdoptimizationerror/) | RD optimizasyon hatası istisnası class |
-| [StreamReadException](./streamreadexception/) | Akış okuma istisnası. Hatalı ofset ve bayt sayısı isteği nedeniyle akış okuma başarısız olduğunda ortaya çıkar. |
-| [XmpException](./xmpexception/) | XMP geçersiz bir yapıya sahip olduğunda atılan istisna. |
+| [LimitMemoryException](./limitmemoryexception/) | Bellek sınırı istisnası. Bellek kullanımı azaltılması gerektiğinde ortaya çıkar. |
+| [OperationInterruptedException](./operationinterruptedexception/) | Bir işlem kesildiğinde ortaya çıkar. |
+| [RdOptimizationError](./rdoptimizationerror/) | RD optimizasyon hatası istisna sınıfı |
+| [StreamReadException](./streamreadexception/) | Akış okuma istisnası. Yanlış ofset ve bayt sayısı isteği nedeniyle akış okuması başarısız olduğunda oluşur. |
+| [XmpException](./xmpexception/) | XMP geçersiz yapıya sahip olduğunda atılan istisna. |
 
 

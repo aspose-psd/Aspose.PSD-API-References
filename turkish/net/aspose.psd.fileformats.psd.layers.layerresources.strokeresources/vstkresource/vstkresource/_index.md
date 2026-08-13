@@ -1,23 +1,24 @@
 ---
-title: VstkResource.VstkResource
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource inşaatçı. Default_Constructor
+title: "VstkResource.VstkResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public VstkResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

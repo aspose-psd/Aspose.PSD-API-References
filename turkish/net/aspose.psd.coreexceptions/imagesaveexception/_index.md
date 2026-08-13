@@ -1,30 +1,31 @@
 ---
-title: Class ImageSaveException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageSaveException sınıf. Görüntü kaydetme istisnası. Görüntü kaydetme sırasında oluşur.
+title: "Sınıf ImageSaveException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException sınıfı. Görüntü kaydetme istisnası. Görüntü kaydetme sırasında ortaya çıkar."
 type: docs
 weight: 630
 url: /tr/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-Görüntü kaydetme istisnası. Görüntü kaydetme sırasında oluşur.
+Görüntü kaydetme istisnası. Görüntü kaydetme sırasında ortaya çıkar.
 
 ```csharp
 public class ImageSaveException : ImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | Yeni bir örneğini başlatır.`ImageSaveException` sınıf. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`ImageSaveException` sınıf. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | `ImageSaveException` sınıfının yeni bir örneğini başlatır. |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | `ImageSaveException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageException](../imageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

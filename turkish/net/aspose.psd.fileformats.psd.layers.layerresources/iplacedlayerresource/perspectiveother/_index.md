@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PerspectiveOther
-second_title: Aspose.PSD for .NET API Referansı
-description: IPlacedLayerResource mülk. PSD dosyasına yerleştirilen katmanın perspektif diğer değerini alır veya ayarlar.
+title: "IPlacedLayerResource.PerspectiveOther"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPlacedLayerResource özelliği. Yerleştirilen katmanın PSD dosyasındaki perspektif diğer değerini alır veya ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PerspectiveOther property
 
-PSD dosyasına yerleştirilen katmanın perspektif diğer değerini alır veya ayarlar.
+PSD dosyasındaki yerleştirilmiş katmanın diğer perspektif değerini alır veya ayarlar.
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yerleştirilen katmanın perspektif diğer değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPlacedLayerResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

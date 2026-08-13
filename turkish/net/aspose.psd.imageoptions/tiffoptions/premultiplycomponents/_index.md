@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Bileşenlerin önceden çoğaltılması gerekip gerekmediğini belirten bir değer alır veya ayarlar.
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Bileşenlerin önceden çarpılması gerekip gerekmediğini gösteren bir değeri alır veya ayarlar"
 type: docs
-weight: 350
+weight: 360
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
-Bileşenlerin önceden çoğaltılması gerekip gerekmediğini belirten bir değer alır veya ayarlar.
+Bileşenlerin önceden çarpılmış olması gerekip gerekmediğini gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool PremultiplyComponents { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bileşenlerin önceden çoğaltılması gerekiyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bileşenler önceden çarpılmalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

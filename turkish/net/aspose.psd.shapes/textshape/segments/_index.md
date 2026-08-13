@@ -1,11 +1,12 @@
 ---
-title: TextShape.Segments
-second_title: Aspose.PSD for .NET API Referansı
-description: TextShape mülk. Şekil segmentlerini alır.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TextShape özelliği. Şeklin segmentlerini alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
 Şekil segmentlerini alır.
@@ -14,15 +15,15 @@ url: /tr/net/aspose.psd.shapes/textshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şekil segmentleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../textshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

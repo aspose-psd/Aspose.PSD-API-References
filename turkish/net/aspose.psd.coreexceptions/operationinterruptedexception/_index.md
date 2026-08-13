@@ -1,30 +1,31 @@
 ---
-title: Class OperationInterruptedException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException sınıf. Bir işlem kesintiye uğradığında oluşur.
+title: "OperationInterruptedException sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException sınıfı. Bir işlem kesildiğinde oluşur"
 type: docs
 weight: 660
 url: /tr/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-Bir işlem kesintiye uğradığında oluşur.
+Bir işlem kesildiğinde ortaya çıkar.
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Yeni bir örneğini başlatır.`OperationInterruptedException` sınıf. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`OperationInterruptedException` sınıf. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | `OperationInterruptedException` sınıfının yeni bir örneğini başlatır. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | `OperationInterruptedException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FrameworkException](../frameworkexception/)
-* ad alanı [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

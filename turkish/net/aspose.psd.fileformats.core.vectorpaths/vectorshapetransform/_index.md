@@ -1,28 +1,29 @@
 ---
-title: Class VectorShapeTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform sınıf. Vektör şekli dönüştürme matrisini tanımlar class
+title: "Sınıf VectorShapeTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform sınıfı. Vektör şekil dönüşüm matrisi sınıfını tanımlar"
 type: docs
-weight: 1460
+weight: 1470
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform class
 
-Vektör şekli dönüştürme matrisini tanımlar class
+Vektör şeklinin dönüşüm matrisi sınıfını tanımlar
 
 ```csharp
 public sealed class VectorShapeTransform
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [VectorShapeTransform](vectorshapetransform/)() | Yeni bir örneğini başlatır.`VectorShapeTransform` sınıf. |
+| [VectorShapeTransform](vectorshapetransform/)() | Yeni bir `VectorShapeTransform` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Tx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/tx/) { get; set; } | TX değerini alır veya ayarlar. |
 | [Ty](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/ty/) { get; set; } | TY değerini alır veya ayarlar. |
@@ -31,9 +32,9 @@ public sealed class VectorShapeTransform
 | [Yx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yx/) { get; set; } | YX değerini alır veya ayarlar. |
 | [Yy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yy/) { get; set; } | YY değerini alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, vektör yolları içeren bir şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
+Aşağıdaki kod, vektör yolları içeren şekil katmanlarını yeniden boyutlandırma yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -55,29 +56,29 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-Bu örnek, PSD dosyasındaki FillLayer'ın Vogk kaynağındaki ShapeOriginSettings'in yeni Transform ve OriginBoxCorners özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir.
+Bu örnek, PSD dosyasındaki FillLayer'ın Vogt kaynağındaki ShapeOriginSettings'in yeni Transform ve OriginBoxCorners özelliklerini nasıl alıp ayarlayacağınızı gösterir.
 
 ```csharp
 [C#]
 
-// Bu örnek, yeni Transform ve OriginBoxCorners özelliklerinin nasıl alınacağını ve ayarlanacağını gösterir
-// PSD dosyasındaki FillLayer'ın Vogk kaynağındaki ShapeOriginSettings'in
+// Bu örnek, yeni Transform ve OriginBoxCorners özelliklerini nasıl alıp ayarlayacağınızı gösterir.
+// ShapeOriginSettings'in PSD dosyasındaki FillLayer'ın Vogk kaynağında
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
 VectorShapeOriginSettings originalSetting;
 const int layerIndex = 0;
 
-// Orijinal görüntüyü yükleyin
+// Orijinal görüntüyü yükle
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Okuduktan sonra onayla
+    // Okuduktan sonra doğrula
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -90,7 +91,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // yeni özellikleri onayla
+    // Yeni özellikleri doğrula
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // yeni özellikler ayarla
+    // Yeni özellikleri ayarla
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -118,19 +119,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // Bu PSD görüntüsünü değiştirilen özelliklerle kaydedin.
+    // Bu PSD görüntüsünü değiştirilen özelliklerle kaydet.
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// Kaydedilen PSD görüntüsünü değiştirilen özelliklerle yükleyin.
+// Değiştirilen özelliklere sahip kaydedilmiş PSD görüntüsünü yükle.
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // Özelliklerin doğru kaydedildiğini ve yüklendiğini onaylayın 
+    // Özelliklerin doğru şekilde kaydedildiğini ve yüklendiğini doğrula
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -157,7 +158,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -200,9 +201,9 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

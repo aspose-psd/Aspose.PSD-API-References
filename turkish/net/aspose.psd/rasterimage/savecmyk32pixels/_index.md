@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Pikselleri kaydeder.
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Pikselleri kaydeder."
 type: docs
-weight: 510
+weight: 520
 url: /tr/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
 Pikselleri kaydeder.
@@ -14,16 +15,16 @@ Pikselleri kaydeder.
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | Rectangle | Piksellerin kaydedileceği dikdörtgen. |
-| pixels | Int32[] | CMYK pikselleri, 32 bitlik tamsayı değerleri olarak sunuldu. |
+| dikdörtgen | Rectangle | Piksellerin kaydedileceği dikdörtgen. |
+| pikseller | Int32[] | CMYK pikselleri 32 bit tam sayı değerleri olarak sunulur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

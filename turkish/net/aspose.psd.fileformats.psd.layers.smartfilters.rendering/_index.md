@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı katmanlarda bulunan PSD dosya biçimi varlıklarını içerir.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, katmanlarda bulunan PSD dosya formatı varlıklarını içerir."
 type: docs
-weight: 320
+weight: 340
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-Ad alanı, katmanlarda bulunan PSD dosya biçimi varlıklarını içerir.
+{{< psd/tize >}}
+Bu ad alanı, katmanlarda bulunan PSD dosya formatı varlıklarını içerir.
 
 ## Arayüzler
 
-| Arayüz | Tanım |
+| Arayüz | Açıklama |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | Belirli bir akıllı filtre oluşturucu için arayüz. |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | Belirli bir akıllı filtre oluşturucusu için arabirim. |
 
 

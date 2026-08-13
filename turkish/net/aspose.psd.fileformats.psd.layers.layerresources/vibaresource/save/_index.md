@@ -1,32 +1,33 @@
 ---
-title: VibAResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: VibAResource yöntem. Kaynağı belirtilen akış kapsayıcısına kaydeder.
+title: "VibAResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibAResource metodu. Kaynağı belirtilen akış konteynerine kaydeder"
 type: docs
-weight: 70
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
-Kaynağı belirtilen akış kapsayıcısına kaydeder.
+Kaynağı belirtilen akış konteynerine kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Kaydedilecek akış kapsayıcısı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod örneği, VibAResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
 
-// Çalışma zamanında Titreşim Kaynağını okuma ve yazma desteği örneği.
+// Çalışma zamanında okuma ve yazma Vibrasyon Kaynağı desteği örneği.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -55,11 +56,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

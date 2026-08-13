@@ -1,27 +1,28 @@
 ---
-title: Point.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Bunu dönüştürürPoint okunabilir bir dizeye.
+title: "Point.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Bu Point'i insan tarafından okunabilir bir dizeye dönüştürür"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-Bunu dönüştürür[`Point`](../) okunabilir bir dizeye.
+Bu [`Point`](../) nesnesini insan tarafından okunabilir bir dizeye dönüştürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-AString bu örneği temsil ediyor.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceBlock mülk. Verileri dahil olmak üzere kaynak bloğu boyutunu bayt cinsinden alır.
+title: "ResourceBlock.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceBlock özelliği. Kaynak blok boyutunu, verisi dahil, bayt cinsinden alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Size property
 
-Verileri dahil olmak üzere kaynak bloğu boyutunu bayt cinsinden alır.
+Veri dahil olmak üzere kaynak blok boyutunu bayt olarak alır.
 
 ```csharp
 public int Size { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kaynak bloğu boyutu.
+Kaynak blok boyutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

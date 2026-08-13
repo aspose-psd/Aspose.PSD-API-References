@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Çizginin başlangıcından kısa çizgi deseninin başlangıcına olan mesafeyi alır veya ayarlar.
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bir çizginin başlangıcından tire deseninin başlangıcına olan mesafeyi alır veya ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-Çizginin başlangıcından kısa çizgi deseninin başlangıcına olan mesafeyi alır veya ayarlar.
+Bir satırın başlangıcından tire deseninin başlangıcına olan mesafeyi alır veya ayarlar.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Çizginin başlangıcından kısa çizgi deseninin başlangıcına kadar olan mesafe.
+Bir çizginin başlangıcından tire deseninin başlangıcına olan mesafe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

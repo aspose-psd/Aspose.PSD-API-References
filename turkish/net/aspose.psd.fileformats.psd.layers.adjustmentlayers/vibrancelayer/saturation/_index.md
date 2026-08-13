@@ -1,11 +1,12 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Aspose.PSD for .NET API Referansı
-description: VibranceLayer mülk. Doygunluğu alır veya ayarlar.
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VibranceLayer özelliği. Doygunluğu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
 Doygunluğu alır veya ayarlar.
@@ -14,19 +15,19 @@ Doygunluğu alır veya ayarlar.
 public int Saturation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Doygunluk.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Doygunluk -100 ile +100 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Doygunluk -100 ile +100 arasında olmalıdır |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarı düzenleme yeteneğini gösterir.
+Aşağıdaki kod örneği, VibranceLayer katmanının desteğini ve bu ayarın düzenlenebilme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VibranceLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

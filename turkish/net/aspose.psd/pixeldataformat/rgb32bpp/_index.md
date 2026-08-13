@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb32Bpp
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Şunu alırPixelDataFormat alfa kırmızı yeşil ve mavinin her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+title: "PixelDataFormat.Rgb32Bpp"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Alfa, kırmızı, yeşil ve mavi için her biri 8 bit olmak üzere piksel başına 32 bit tanımlanan PixelDataFormat'ı alır."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/pixeldataformat/rgb32bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb32Bpp property
 
-Şunu alır:[`PixelDataFormat`](../) alfa, kırmızı, yeşil ve mavinin her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+Alfa, kırmızı, yeşil ve mavi için her biri 8 bit olmak üzere piksel başına 32 bit tanımlanan [`PixelDataFormat`](../)'ı alır.
 
 ```csharp
 public static PixelDataFormat Rgb32Bpp { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-[`PixelDataFormat`](../) alfa, kırmızı, yeşil ve mavinin her biri için 8 bit olmak üzere piksel başına 32 bit olarak tanımlandı.
+Alfa, kırmızı, yeşil ve mavi için her biri 8 bit olmak üzere piksel başına 32 bit tanımlanan [`PixelDataFormat`](../)'dır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

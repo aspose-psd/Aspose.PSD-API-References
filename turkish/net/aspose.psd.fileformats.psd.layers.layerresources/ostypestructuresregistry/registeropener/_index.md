@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: Aspose.PSD for .NET API Referansı
-description: OSTypeStructuresRegistry yöntem. Açıcıyı kaydeder.
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OSTypeStructuresRegistry yöntemi. Açıcıyı kaydeder"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
 Açıcıyı kaydeder.
@@ -14,15 +15,15 @@ Açıcıyı kaydeder.
 public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | openerDescriptor | IOSTypeStructureLoader | Kaydedilecek açıcı tanımlayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

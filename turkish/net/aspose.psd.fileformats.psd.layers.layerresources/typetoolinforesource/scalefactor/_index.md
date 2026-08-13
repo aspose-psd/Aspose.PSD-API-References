@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ScaleFactor
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Ölçek faktörünü alır veya ayarlar.
+title: "TypeToolInfoResource.ScaleFactor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. ölçek faktörünü alır veya ayarlar."
 type: docs
-weight: 170
+weight: 150
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ScaleFactor property
 
-Ölçek faktörünü alır veya ayarlar.
+ölçek faktörünü alır veya ayarlar.
 
 ```csharp
 public int ScaleFactor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ölçek faktörü.
+ölçek faktörü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

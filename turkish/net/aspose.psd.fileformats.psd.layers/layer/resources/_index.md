@@ -1,11 +1,12 @@
 ---
-title: Layer.Resources
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman kaynaklarını alır veya ayarlar.
+title: "Layer.Resources"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Katman kaynaklarını alır veya ayarlar"
 type: docs
-weight: 280
+weight: 290
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
+{{< psd/tize >}}
 ## Layer.Resources property
 
 Katman kaynaklarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Katman kaynaklarını alır veya ayarlar.
 public LayerResource[] Resources { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman kaynakları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../layerresource/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

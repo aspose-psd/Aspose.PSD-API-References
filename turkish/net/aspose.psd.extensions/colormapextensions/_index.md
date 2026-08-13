@@ -1,11 +1,12 @@
 ---
-title: Class ColorMapExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.ColorMapExtensions sınıf. ColorMap uzantı yöntemleri.
+title: "Sınıf ColorMapExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.ColorMapExtensions sınıfı. ColorMap uzantı yöntemleri."
 type: docs
-weight: 1060
+weight: 1070
 url: /tr/net/aspose.psd.extensions/colormapextensions/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions class
 
 [`ColorMap`](../../aspose.psd/colormap/) uzantı yöntemleri.
@@ -14,16 +15,16 @@ url: /tr/net/aspose.psd.extensions/colormapextensions/
 public static class ColorMapExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | dönüştürür[`ColorMap`](../../aspose.psd/colormap/) içinColorMap . |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | dönüştürür[`ColorMap`](../../aspose.psd/colormap/) dizisineColorMap dizi. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | [`ColorMap`](../../aspose.psd/colormap/) nesnesini ColorMap'e dönüştürür. |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | [`ColorMap`](../../aspose.psd/colormap/) dizisini ColorMap dizisine dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

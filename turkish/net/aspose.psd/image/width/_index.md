@@ -1,11 +1,12 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: Image mülk. Görüntü genişliğini alır.
+title: "Image.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image property. Görüntünün genişliğini alır"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
 Görüntü genişliğini alır.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır.
 public abstract int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

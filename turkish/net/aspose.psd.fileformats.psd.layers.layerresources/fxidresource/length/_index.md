@@ -1,23 +1,24 @@
 ---
-title: FXidResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: FXidResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "FXidResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FXidResource özelliği. Katman kaynağı uzunluğunu bayt cinsinden alır"
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/
 ---
+{{< psd/tize >}}
 ## FXidResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FXidResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

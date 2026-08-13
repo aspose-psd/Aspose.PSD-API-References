@@ -1,35 +1,36 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage yöntem. Pozlama ayarlama katmanını ekler.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage yöntemi. Pozlama ayar katmanını ekler"
 type: docs
-weight: 340
+weight: 350
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-Pozlama ayarlama katmanını ekler.
+Pozlama ayar katmanını ekler.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
     float gammaCorrection = 1)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| exposure | Single | Maruz kalma. |
+| pozlama | Single | Pozlama. |
 | offset | Single | Ofset. |
 | gammaCorrection | Single | Gama düzeltmesi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturulan Pozlama Ayarlama Katmanı
+Pozlama Ayar Katmanı oluşturuldu
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

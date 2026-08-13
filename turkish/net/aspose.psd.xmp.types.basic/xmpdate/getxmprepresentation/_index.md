@@ -1,27 +1,28 @@
 ---
-title: XmpDate.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDate yöntem. XMP biçiminde dizge içerdiği değeri döndürür.
+title: "XmpDate.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDate yöntemi. XMP formatında içerilen değeri dize olarak döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpDate.GetXmpRepresentation method
 
-XMP biçiminde dizge içerdiği değeri döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDate](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

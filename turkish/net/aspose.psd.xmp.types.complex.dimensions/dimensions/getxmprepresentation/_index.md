@@ -1,27 +1,28 @@
 ---
-title: Dimensions.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: Dimensions yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "Dimensions.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Dimensions yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Dimensions.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Dimensions](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

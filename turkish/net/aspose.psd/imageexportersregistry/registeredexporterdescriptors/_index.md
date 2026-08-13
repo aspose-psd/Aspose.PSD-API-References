@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageExportersRegistry mülk. Kayıtlı ihracatçı tanımlayıcılarını alır.
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageExportersRegistry özelliği. Kayıtlı dışa aktarıcı tanımlayıcılarını alır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
-Kayıtlı ihracatçı tanımlayıcılarını alır.
+Kayıtlı dışa aktarıcı tanımlayıcılarını alır.
 
 ```csharp
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayıtlı ihracatçı tanımlayıcıları.
+Kayıtlı dışa aktarıcı tanımlayıcıları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageexportersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

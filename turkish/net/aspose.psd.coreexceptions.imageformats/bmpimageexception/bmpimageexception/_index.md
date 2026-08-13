@@ -1,48 +1,49 @@
 ---
-title: BmpImageException.BmpImageException
-second_title: Aspose.PSD for .NET API Referansı
-description: BmpImageException inşaatçı. Yeni bir örneğini başlatır.BmpImageException sınıf.
+title: "BmpImageException.BmpImageException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BmpImageException yapıcı. BmpImageException sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`BmpImageException`](../) sınıf.
+[`BmpImageException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpImageException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BmpImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpImageException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`BmpImageException`](../) sınıf.
+[`BmpImageException`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BmpImageException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BmpImageException](../)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

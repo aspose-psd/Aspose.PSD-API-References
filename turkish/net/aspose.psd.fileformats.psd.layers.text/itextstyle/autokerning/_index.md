@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD for .NET API Referansı
-description: ITextStyle mülk. Otomatik karakter aralığını alır veya ayarlar.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ITextStyle özelliği. Otomatik kerning'i alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-Otomatik karakter aralığını alır veya ayarlar.
+Otomatik kerning'i alır veya ayarlar.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-İki karakter arasındaki otomatik karakter aralığı.
+İki karakter arasındaki otomatik kerning.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API Referansı
-description: Font yöntem. XMP biçiminde dizgenin içerdiği değeri alır.
+title: "Font.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font yöntemi. XMP formatında içerilen dize değerini alır"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.xmp.types.complex.font/font/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Font.GetXmpRepresentation method
 
-XMP biçiminde dizgenin içerdiği değeri alır.
+XMP formatında bulunan dize değerini alır.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dizenin içerdiği değeri XMP biçiminde döndürür.
+XMP formatında içerilen dize değerini döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

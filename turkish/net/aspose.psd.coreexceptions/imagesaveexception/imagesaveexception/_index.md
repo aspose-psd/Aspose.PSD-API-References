@@ -1,48 +1,49 @@
 ---
-title: ImageSaveException.ImageSaveException
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageSaveException inşaatçı. Yeni bir örneğini başlatır.ImageSaveException sınıf.
+title: "ImageSaveException.ImageSaveException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageSaveException yapıcı. Yeni bir ImageSaveException sınıfı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.coreexceptions/imagesaveexception/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException(string) {#constructor}
 
-Yeni bir örneğini başlatır.[`ImageSaveException`](../) sınıf.
+Yeni bir [`ImageSaveException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageSaveException(string message)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageSaveException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageSaveException(string, Exception) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ImageSaveException`](../) sınıf.
+Yeni bir [`ImageSaveException`](../) sınıfının bir örneğini başlatır.
 
 ```csharp
 public ImageSaveException(string message, Exception innerException)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | message | String | İstisna mesajı. |
 | innerException | Exception | İç istisna. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageSaveException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

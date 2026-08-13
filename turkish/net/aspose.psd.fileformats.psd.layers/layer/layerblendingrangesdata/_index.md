@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Katman karıştırma aralıkları verilerini alır veya ayarlar.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Katman karıştırma aralıkları verisini alır veya ayarlar"
 type: docs
-weight: 190
+weight: 200
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Katman karıştırma aralıkları verilerini alır veya ayarlar.
+Katman karıştırma aralıkları verisini alır veya ayarlar.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Katman karıştırma aralıkları verileri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

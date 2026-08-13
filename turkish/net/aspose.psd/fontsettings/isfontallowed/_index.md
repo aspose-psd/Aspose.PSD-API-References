@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipine izin verilip verilmediğini belirtilen yazı tipi adının olup olmadığını belirler.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Belirtilen yazı tipi adının izinli olup olmadığını belirler"
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-[Yazı tipine izin verilip verilmediğini] [belirtilen yazı tipi adının] olup olmadığını belirler.
+Belirtilen yazı tipi adının [is font allowed] olup olmadığını belirler.
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontName | String | Yazı tipinin adı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` if [yazı tipine izin veriliyorsa] [belirtilen yazı tipi adı]; aksi takdirde,`YANLIŞ` .
+`true` eğer [is font allowed] [belirtilen yazı tipi adı]; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

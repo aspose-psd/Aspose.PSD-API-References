@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.Format
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Küçük resim veri biçimini alır veya ayarlar.
+title: "ThumbnailResource.Format"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Küçük resim veri formatını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
 Küçük resim veri biçimini alır veya ayarlar.
@@ -14,15 +15,15 @@ Küçük resim veri biçimini alır veya ayarlar.
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Küçük resim veri biçimi.
+Küçük resim veri formatı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

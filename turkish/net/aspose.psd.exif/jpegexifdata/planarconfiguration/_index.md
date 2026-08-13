@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PlanarConfiguration
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Düzlemsel yapılandırmayı alır veya ayarlar.
+title: "JpegExifData.PlanarConfiguration"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Düzlemsel yapılandırmayı alır veya ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.exif/jpegexifdata/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PlanarConfiguration property
 
-Düzlemsel yapılandırmayı alır veya ayarlar.
+Planar yapılandırmayı alır veya ayarlar.
 
 ```csharp
 public ushort PlanarConfiguration { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Düzlemsel yapılandırma.
+Planar yapılandırması.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

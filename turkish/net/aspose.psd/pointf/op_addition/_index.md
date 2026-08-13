@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Addition
-second_title: Aspose.PSD for .NET API Referansı
-description: PointF yöntem. a çevirirPointF verilen tarafındanSize .
+title: "PointF.op_Addition"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PointF yöntemi. Verilen bir Size ile bir PointF'yi çevirir."
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/pointf/op_addition/
 ---
+{{< psd/tize >}}
 ## operator + {#op_addition}
 
-a çevirir[`PointF`](../) verilen tarafından[`Size`](../../size/) .
+Verilen bir [`Size`](../../size/) ile bir [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../) tercüme etmek. |
-| size | Size | A[`Size`](../../size/) koordinatlarına eklenecek sayı çiftini belirten*point*. |
+| point | PointF | Çevrilecek [`PointF`](../). |
+| size | Size | Koordinatlarına *point* eklenmesi gereken sayı çiftini belirten bir [`Size`](../../size/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Çevrilmiş olanı döndürür[`PointF`](../).
+Çevrilen [`PointF`](../) döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator + {#op_addition_1}
 
-Şunu çevirir:[`PointF`](../) belirtilen tarafından[`SizeF`](../../sizef/) .
+Belirtilen [`SizeF`](../../sizef/) ile [`PointF`](../) çevirir.
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../) tercüme etmek. |
-| size | SizeF | bu[`SizeF`](../../sizef/) x ve y koordinatlarına eklenecek sayıları belirtir.*point*. |
+| point | PointF | Çevrilecek [`PointF`](../). |
+| size | SizeF | Bu [`SizeF`](../../sizef/), *point*'in x ve y koordinatlarına eklenmesi gereken sayıları belirler. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-çevrilmiş[`PointF`](../).
+Çevrilen [`PointF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* ad alanı [Aspose.PSD](../../pointf/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

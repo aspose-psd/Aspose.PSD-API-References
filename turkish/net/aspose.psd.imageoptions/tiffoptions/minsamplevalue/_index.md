@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Minimum numune değerini alır veya ayarlar.
+title: "TiffOptions.MinSampleValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Minimum örnek değerini alır veya ayarlar"
 type: docs
-weight: 270
+weight: 280
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
-Minimum numune değerini alır veya ayarlar.
+Minimum örnek değerini alır veya ayarlar.
 
 ```csharp
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Minimum numune değeri.
+Minimum örnek değeri.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentNullException | değer |
-| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel sayısı başına örnek sayısına karşılık gelmelidir. |
+| ArgumentOutOfRangeException | value;Dizi uzunluğu, piksel başına örnek sayısına karşılık gelmelidir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

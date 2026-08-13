@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalHeight
-second_title: Aspose.PSD for .NET API Referansı
-description: Image yöntem. Orantılı bir yükseklik elde eder.
+title: "Image.GetProportionalHeight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Image method. Orantılı bir yükseklik alır"
 type: docs
-weight: 280
+weight: 290
 url: /tr/net/aspose.psd/image/getproportionalheight/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalHeight method
 
-Orantılı bir yükseklik elde eder.
+Orantılı bir yüksekliği alır.
 
 ```csharp
 public static int GetProportionalHeight(int width, int height, int newWidth)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | width | Int32 | Genişlik. |
 | height | Int32 | Yükseklik. |
 | newWidth | Int32 | Yeni genişlik. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-orantılı yükseklik.
+Orantılı yükseklik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Image](../)
-* ad alanı [Aspose.PSD](../../image/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

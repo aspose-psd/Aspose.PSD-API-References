@@ -1,23 +1,24 @@
 ---
-title: IccUntaggedResource.IccUntaggedResource
-second_title: Aspose.PSD for .NET API Referansı
-description: IccUntaggedResource inşaatçı. Default_Constructor
+title: "IccUntaggedResource.IccUntaggedResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IccUntaggedResource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/iccuntaggedresource/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public IccUntaggedResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [IccUntaggedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

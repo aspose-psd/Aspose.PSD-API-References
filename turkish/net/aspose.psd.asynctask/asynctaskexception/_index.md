@@ -1,28 +1,29 @@
 ---
-title: Class AsyncTaskException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.AsyncTask.AsyncTaskException sınıf. Eşzamansız görev için istisna.
+title: "Sınıf AsyncTaskException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.AsyncTask.AsyncTaskException sınıfı. Asenkron görev için istisna"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
-Eşzamansız görev için istisna.
+Asenkron görev için istisna.
 
 ```csharp
 public class AsyncTaskException : Exception
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Yeni bir örneğini başlatır.`AsyncTaskException` sınıf. |
+| [AsyncTaskException](asynctaskexception/)(string) | `AsyncTaskException` sınıfının yeni bir örneğini başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SizeF.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF mülk. Bunun yatay bileşenini alır veya ayarlarSizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF özelliği. Bu SizeF'in yatay bileşenini alır veya ayarlar."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-Bunun yatay bileşenini alır veya ayarlar[`SizeF`](../) .
+Bu [`SizeF`](../) nesnesinin yatay bileşenini alır veya ayarlar.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bunun yatay bileşeni[`SizeF`](../), tipik olarak piksel cinsinden ölçülür.
+Bu [`SizeF`](../) nesnesinin yatay bileşeni, genellikle piksel cinsinden ölçülür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

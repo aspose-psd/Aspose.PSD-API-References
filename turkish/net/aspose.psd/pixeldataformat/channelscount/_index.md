@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat mülk. Kanal sayısını alır.
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat özelliği. Kanal sayısını alır."
 type: docs
 weight: 330
 url: /tr/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
 Kanal sayısını alır.
@@ -14,14 +15,14 @@ Kanal sayısını alır.
 public int ChannelsCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kanal sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

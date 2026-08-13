@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.VerticalPlacement
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Dikey yerleşimi alır veya ayarlar.
+title: "TypeToolInfoResource.VerticalPlacement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. dikey yerleşimi alır veya ayarlar."
 type: docs
-weight: 260
+weight: 230
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.VerticalPlacement property
 
-Dikey yerleşimi alır veya ayarlar.
+dikey yerleşimi alır veya ayarlar.
 
 ```csharp
 public int VerticalPlacement { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dikey yerleşim.
+dikey yerleşim.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

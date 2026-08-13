@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList inşaatçı. Yeni bir örneğini başlatır.NonGenericList sınıf.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yapıcı. NonGenericList sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-Yeni bir örneğini başlatır.[`NonGenericList`](../) sınıf.
+[`NonGenericList`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| list | IList | Liste - nesnelerin kabı. |
+| liste | IList | Liste - nesnelerin kapsayıcısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

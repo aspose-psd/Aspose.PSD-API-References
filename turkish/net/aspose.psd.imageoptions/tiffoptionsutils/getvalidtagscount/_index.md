@@ -1,11 +1,12 @@
 ---
-title: TiffOptionsUtils.GetValidTagsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptionsUtils yöntem. Geçerli etiket sayısını alır.
+title: "TiffOptionsUtils.GetValidTagsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptionsUtils yöntemi. Geçerli etiket sayısını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils.GetValidTagsCount method
 
 Geçerli etiket sayısını alır.
@@ -14,19 +15,19 @@ Geçerli etiket sayısını alır.
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| tags | TiffDataType[] | Doğrulanacak etiketler. |
+| etiketler | TiffDataType[] | Doğrulanacak etiketler. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Geçerli etiketler sayılır.
+Geçerli etiket sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

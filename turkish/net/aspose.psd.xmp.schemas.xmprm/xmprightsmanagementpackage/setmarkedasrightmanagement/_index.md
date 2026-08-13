@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpRightsManagementPackage yöntem. Doğru yönetim içeriği olarak işaretler
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpRightsManagementPackage yöntemi. Hak yönetimi içeriği olarak işaretler"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-Doğru yönetim içeriği olarak işaretler
+Hak yönetimi içeriği olarak işaretler
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Boolean | olarak ayarlanmışsa`doğru`bunun haklar tarafından yönetilen bir kaynak olduğunu. |
+| değer | Boolean | eğer `true` olarak ayarlanırsa bunun hak yönetimli bir kaynak olduğunu belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpRightsManagementPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

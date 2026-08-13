@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: MlstResource mülk. İmzayı alır.
+title: "MlstResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MlstResource özelliği. İmzayı alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/
 ---
+{{< psd/tize >}}
 ## MlstResource.Signature property
 
 İmzayı alır.
@@ -14,10 +15,10 @@ url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signa
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MlstResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

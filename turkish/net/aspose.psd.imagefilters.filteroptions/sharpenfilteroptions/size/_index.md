@@ -1,11 +1,12 @@
 ---
-title: SharpenFilterOptions.Size
-second_title: Aspose.PSD for .NET API Referansı
-description: SharpenFilterOptions mülk. Boyutu alır veya ayarlar.
+title: "SharpenFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SharpenFilterOptions özelliği. Boyutu alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Size property
 
 Boyutu alır veya ayarlar.
@@ -14,14 +15,14 @@ Boyutu alır veya ayarlar.
 public int Size { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Boyut.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SharpenFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

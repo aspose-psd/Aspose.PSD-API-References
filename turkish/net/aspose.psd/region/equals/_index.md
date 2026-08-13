@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Belirtilenin olup olmadığını test eder.Region bununla aynıRegion belirtilen çizim yüzeyinde.
+title: "Region.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Belirtilen Region'ın bu Region ile belirtilen çizim yüzeyinde aynı olup olmadığını test eder"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-Belirtilenin olup olmadığını test eder.[`Region`](../) bununla aynı[`Region`](../) belirtilen çizim yüzeyinde.
+Belirtilen [`Region`](../) bu [`Region`](../) ile belirtilen çizim yüzeyinde aynı olup olmadığını test eder.
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) test etmek |
-| g | Graphics | A[`Graphics`](../../graphics/) bir çizim yüzeyini temsil eder. |
+| region | Region | Test edilecek [`Region`](../). |
+| g | Graphics | Bir [`Graphics`](../../graphics/) nesnesi, çizim yüzeyini temsil eder. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bölgenin içi, dönüşüm ile ilişkili olduğunda bu bölgenin içi ile aynıysa doğrudur.*g*parametre uygulanır; aksi takdirde, false.
+Eğer *g* parametresiyle ilişkili dönüşüm uygulandığında bölgenin içi bu bölgenin içiyle aynıysa doğru; aksi takdirde yanlış.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *g *veya* region* boş. |
+| ArgumentNullException | *g *or* region* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+Nesnelerin eşit olup olmadığını kontrol eder.
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| obj | Nesne | Diğer nesne. |
+
+### Dönüş Değeri
+
+Eşitlik karşılaştırma sonucu.
+
+### Ayrıca Bakınız
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

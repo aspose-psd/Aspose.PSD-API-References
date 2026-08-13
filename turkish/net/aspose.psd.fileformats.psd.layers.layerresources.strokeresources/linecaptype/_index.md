@@ -1,28 +1,29 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType Sıralama. Satır Sonu tipi.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType enum. Çizgi ucu tipi"
 type: docs
-weight: 3040
+weight: 3400
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Satır Sonu tipi.
+Çizgi ucu türü.
 
 ```csharp
 public enum LineCapType : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| RoundCap | `0` | Yuvarlak kapak tipi. |
-| SquareCap | `1` | Kare kapak tipi. |
-| ButtCap | `2` | Alın başlığı tipi. |
+| RoundCap | `0` | Yuvarlak uç tipi. |
+| SquareCap | `1` | Kare uç tipi. |
+| ButtCap | `2` | Düz uç tipi. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, VstkResource kaynağının desteğini gösterir.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

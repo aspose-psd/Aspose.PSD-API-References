@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Belirtileni dönüştürürRectangle bir yapıRectangleFyapı.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Belirtilen Rectangle yapısını bir RectangleF yapısına dönüştürür"
 type: docs
 weight: 280
 url: /tr/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-Belirtileni dönüştürür[`Rectangle`](../../rectangle/) bir yapı[`RectangleF`](../)yapı.
+Belirtilen [`Rectangle`](../../rectangle/) yapısını bir [`RectangleF`](../) yapısına dönüştürür.
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) dönüştürülecek yapı. |
+| rect | Rectangle | Dönüştürülecek [`Rectangle`](../../rectangle/) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`RectangleF`](../) belirtilenden dönüştürülen yapı[`Rectangle`](../../rectangle/) yapı.
+Belirtilen [`Rectangle`](../../rectangle/) yapısından dönüştürülen [`RectangleF`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

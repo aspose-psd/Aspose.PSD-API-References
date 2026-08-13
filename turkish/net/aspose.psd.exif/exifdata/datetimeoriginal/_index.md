@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Orijinalin tarih saatini alır veya ayarlar.
+title: "ExifData.DateTimeOriginal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Orijinal tarih ve saati alır veya ayarlar"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.exif/exifdata/datetimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeOriginal property
 
-Orijinalin tarih saatini alır veya ayarlar.
+Orijinal tarih ve saatini alır veya ayarlar.
 
 ```csharp
 public string DateTimeOriginal { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Tarih saat orijinal.
+Orijinal tarih ve saat.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

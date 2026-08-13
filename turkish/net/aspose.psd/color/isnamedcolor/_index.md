@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: Aspose.PSD for .NET API Referansı
-description: Color mülk. Bunun olup olmadığını gösteren bir değer alır.Color yapı adlandırılmış bir renk veya yapının bir üyesidir.KnownColor numaralandırma.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color özelliği. Bu Color yapısının adlandırılmış bir renk olup olmadığını veya KnownColor enum'ı üyesi olup olmadığını gösteren bir değer alır."
 type: docs
 weight: 1510
 url: /tr/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Color`](../) yapı, adlandırılmış bir renk veya yapının bir üyesidir.[`KnownColor`](../../knowncolor/) numaralandırma.
+Bu [`Color`](../) yapısının adlandırılmış bir renk mi yoksa [`KnownColor`](../../knowncolor/) enum'ının bir üyesi mi olduğunu gösteren bir değer alır.
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru ise bu[`Color`](../) kullanılarak oluşturuldu[`FromName`](../fromname/) yöntem veya[`FromKnownColor`](../fromknowncolor/) yöntem; Aksi takdirde, yanlış.
+Doğru, eğer bu [`Color`](../) [`FromName`](../fromname/) yöntemi ya da [`FromKnownColor`](../fromknowncolor/) yöntemi kullanılarak oluşturulmuşsa; aksi takdirde, yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HResDisplayUnit
-second_title: Aspose.PSD for .NET API Referansı
-description: ResolutionInfoResource mülk. Yatay çözünürlük için görüntüleme birimleri. Bu yalnızca kullanıcı arabirimini etkiler çözünürlük hala piksel/inç. olarak PSD file dosyasında saklanır
+title: "ResolutionInfoResource.HResDisplayUnit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResolutionInfoResource özelliği. Yatay çözünürlük için görüntü birimleri. Bu sadece kullanıcı arayüzünü etkiler, çözünürlük hâlâ PSD dosyasında piksel/inç olarak saklanır."
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HResDisplayUnit property
 
-Yatay çözünürlük için görüntüleme birimleri. Bu yalnızca kullanıcı arabirimini etkiler; çözünürlük hala piksel/inç. olarak PSD file dosyasında saklanır
+Yatay çözünürlük için görüntü birimleri. Bu sadece kullanıcı arayüzünü etkiler; çözünürlük hâlâ PSD dosyasında piksel/inç olarak saklanır.
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yatay çözünürlük görüntüleme birimi.
+Yatay çözünürlük görüntü birimi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

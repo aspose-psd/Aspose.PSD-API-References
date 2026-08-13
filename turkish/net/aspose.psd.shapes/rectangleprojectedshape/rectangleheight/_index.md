@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape mülk. Dikdörtgen yüksekliğini alır.
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape özelliği. Dikdörtgen yüksekliğini alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
 Dikdörtgen yüksekliğini alır.
@@ -14,14 +15,14 @@ Dikdörtgen yüksekliğini alır.
 public double RectangleHeight { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dikdörtgen yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: AiRasterImageSection mülk. Yüksekliği alır.
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiRasterImageSection özelliği. Yüksekliği alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
 Yüksekliği alır.
@@ -14,14 +15,14 @@ Yüksekliği alır.
 public double Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yükseklik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiRasterImageSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

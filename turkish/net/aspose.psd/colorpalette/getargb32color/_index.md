@@ -1,37 +1,38 @@
 ---
-title: ColorPalette.GetArgb32Color
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPalette yöntem. Dizine göre 32 bit ARGB palet rengini alır.
+title: "ColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPalette yöntemi. İndeks ile 32-bit ARGB palet rengini alır."
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/colorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## ColorPalette.GetArgb32Color method
 
-Dizine göre 32 bit ARGB palet rengini alır.
+İndeks ile 32 bit ARGB palet rengini alır.
 
 ```csharp
 public int GetArgb32Color(int index)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| index | Int32 | 32 bit ARGB palet renk dizini. |
+| index | Int32 | 32-bit ARGB palet renk indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-tarafından belirtilen renk paleti girişi*index*.
+*index* tarafından belirtilen renk paleti girişi.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | eğer renk paleti*index* belirtilen, palet girişleri aralığının dışında. |
+| ArgumentOutOfRangeException | eğer belirtilen renk paleti *index* palet girişleri aralığının dışındaysa. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorPalette](../)
-* ad alanı [Aspose.PSD](../../colorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

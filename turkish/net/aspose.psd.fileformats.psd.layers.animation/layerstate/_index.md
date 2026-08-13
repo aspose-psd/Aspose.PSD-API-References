@@ -1,42 +1,43 @@
 ---
-title: Class LayerState
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState sınıf. Zaman çizgisi katman durumu seçenekleri.
+title: "Sınıf LayerState"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState sınıfı. Zaman çizelgesi katman durumunun seçenekleri."
 type: docs
-weight: 1860
+weight: 1960
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState class
 
-Zaman çizgisi katman durumu seçenekleri.
+Zaman çizelgesi katman durumunun seçenekleri.
 
 ```csharp
 public sealed class LayerState
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [LayerState](layerstate/)(int) | Yeni bir örneğini başlatır.`LayerState` sınıf. |
+| [LayerState](layerstate/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Blen modunu alır veya ayarlar. |
-| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | Etkin durumu alır veya ayarlar. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Karıştırma modunu alır veya ayarlar. |
+| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | Etkin durumunu alır veya ayarlar. |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | Dolgu opaklık değerini alır veya ayarlar. |
 | [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | HorizontalFXRf değerini alır veya ayarlar. |
-| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Kimliği alır veya ayarlar. |
+| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Katman kimliğini alır veya ayarlar. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | Opaklık değerini alır veya ayarlar. |
-| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | Gerçek katman konumuyla ilgili katman konumu ofsetini alır veya ayarlar. |
-| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | Katman durumu efektlerini alır. |
+| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | Gerçek katman konumuna ilişkin katman konum kaymasını alır veya ayarlar. |
+| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | Katman durum etkilerini alır. |
 | [VerticalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/) { get; set; } | VerticalFXRf değerini alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-TimeLine sınıfı, kare gecikmesini değiştirmek veya belirli bir karede katman durumunu düzenlemek gibi, PsdImage'ın zaman çizelgesini işlemek için üst düzey bir yetenek sağlar.
+Timeline sınıfı, PsdImage zaman çizelgesini, çerçeve gecikmesini değiştirme veya belirli bir çerçevede katman durumunu düzenleme gibi yüksek seviyeli bir yetenek sağlar.
 
 ```csharp
 [C#]
@@ -46,40 +47,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Çerçeve 1'in elden çıkarma yöntemini değiştir
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Çerçeve 1'in dispose yöntemini değiştir.
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Çerçeve 2'nin gecikmesini değiştir
-    timeLine.Frames[1].Delay = 15;
+    // Çerçeve 2'nin gecikmesini değiştir.
+    timeline.Frames[1].Delay = 15;
 
-    // 2. karedeki 'Katman 1'in opaklığını değiştir
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Çerçeve 2'de 'Layer 1' opaklığını değiştir.
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'Katman 1'i 3. karede sol alt köşeye taşı
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // 'Layer 1'i çerçeve 3'te sol-alt köşeye taşı.
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Yeni çerçeve ekler
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Yeni çerçeve ekler.
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // 4. karede "Katman 1"in blendMode'unu değiştir
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Çerçeve 4'te 'Layer 1' katmanının blendMode'unu değiştir
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Değişiklikleri tekrar PsdImage örneğine uygula
-    timeLine.ApplyTo(psdImage);
+    // Değişiklikleri PsdImage örneğine geri uygula
     psdImage.Save(outputPsd);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

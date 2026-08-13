@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD for .NET API Referansı
-description: IPsdColorPalette mülk. Ham renk paleti giriş sayısını alır.
+title: "IPsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPsdColorPalette özelliği. Ham renk paleti giriş sayısını alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/ipsdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntriesCount property
 
 Ham renk paleti giriş sayısını alır.
@@ -14,14 +15,14 @@ Ham renk paleti giriş sayısını alır.
 public int RawEntriesCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ham renk paleti girişleri sayılır.
+Ham renk paleti giriş sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPsdColorPalette](../)
-* ad alanı [Aspose.PSD](../../ipsdcolorpalette/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

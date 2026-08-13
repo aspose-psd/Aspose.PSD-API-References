@@ -1,47 +1,48 @@
 ---
-title: CurvResource.CurvResource
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvResource inşaatçı. Yeni bir örneğini başlatır.CurvResource sınıf.
+title: "CurvResource.CurvResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvResource yapıcı. CurvResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`CurvResource`](../) sınıf.
+[`CurvResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurvResource(int maxChannelCount)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Maksimum kanal sayısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-Yeni bir örneğini başlatır.[`CurvResource`](../) sınıf.
+[`CurvResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CurvResource(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bytes | Byte[] | Baytlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: RectangleF.FromPoints
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. Yeni bir tane oluştururRectangle belirtilen iki noktadan Yaratılanın iki köşesiRectangle geçene eşit olacakpoint1 Vepoint2 . Bunlar tipik olarak zıt köşeler olacaktır.
+title: "RectangleF.FromPoints"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Belirtilen iki noktadan yeni bir Rectangle oluşturur. Oluşturulan Rectangle'ın iki köşesi verilen point1 ve point2 değerlerine eşit olur. Bunlar genellikle karşıt köşelerdir."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-Yeni bir tane oluşturur[`Rectangle`](../../rectangle/) belirtilen iki noktadan Yaratılanın iki köşesi[`Rectangle`](../../rectangle/) geçene eşit olacak*point1* Ve*point2* . Bunlar tipik olarak zıt köşeler olacaktır.
+Belirtilen iki noktadan yeni bir [`Rectangle`](../../rectangle/) oluşturur. Oluşturulan [`Rectangle`](../../rectangle/) nesnesinin iki köşesi verilen *point1* ve *point2* değerlerine eşit olur. Bunlar genellikle karşıt köşelerdir.
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | PointF | İlk[`Point`](../../point/) yeni dikdörtgen için. |
-| point2 | PointF | İkinci[`Point`](../../point/) yeni dikdörtgen için. |
+| point1 | PointF | Yeni rectangle için ilk [`Point`](../../point/) noktası. |
+| point2 | PointF | Yeni rectangle için ikinci [`Point`](../../point/) noktası. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni oluşturulan[`Rectangle`](../../rectangle/).
+Yeni oluşturulmuş bir [`Rectangle`](../../rectangle/).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

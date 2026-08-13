@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS alıcısına diferansiyel düzeltmenin uygulanıp uygulanmadığını gösteren bir GPS değeri alır veya ayarlar.
+title: "ExifData.GPSDifferential"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS alıcısına diferansiyel düzeltme uygulanıp uygulanmadığını gösteren bir GPS değerini alır veya ayarlar"
 type: docs
 weight: 480
 url: /tr/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-GPS alıcısına diferansiyel düzeltmenin uygulanıp uygulanmadığını gösteren bir GPS değeri alır veya ayarlar.
+GPS alıcıya diferansiyel düzeltmenin uygulanıp uygulanmadığını gösteren bir GPS değerini alır veya ayarlar.
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS alıcısına diferansiyel düzeltme uygulanıp uygulanmadığını gösteren GPS değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

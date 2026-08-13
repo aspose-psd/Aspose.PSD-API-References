@@ -1,23 +1,24 @@
 ---
-title: BlncResource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource alan. Yazım aracı bilgi anahtarı.
+title: "BlncResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource alanı. Tip aracı bilgi anahtarı"
 type: docs
-weight: 160
+weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlncResource.TypeToolKey field
 
-Yazım aracı bilgi anahtarı.
+Tip aracı bilgi anahtarı.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

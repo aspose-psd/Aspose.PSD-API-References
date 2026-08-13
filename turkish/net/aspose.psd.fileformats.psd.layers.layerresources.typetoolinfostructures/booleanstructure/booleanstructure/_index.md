@@ -1,28 +1,29 @@
 ---
-title: BooleanStructure.BooleanStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: BooleanStructure inşaatçı. Yeni bir örneğini başlatır.BooleanStructure sınıf.
+title: "BooleanStructure.BooleanStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BooleanStructure kurucusu. BooleanStructure sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure constructor
 
-Yeni bir örneğini başlatır.[`BooleanStructure`](../) sınıf.
+[`BooleanStructure`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public BooleanStructure(ClassID keyName)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | keyName | ClassID | Anahtar adı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [BooleanStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

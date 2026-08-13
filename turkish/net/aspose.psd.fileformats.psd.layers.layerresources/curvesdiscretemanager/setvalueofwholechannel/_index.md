@@ -1,11 +1,12 @@
 ---
-title: CurvesDiscreteManager.SetValueOfWholeChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: CurvesDiscreteManager yöntem. Tüm kanalın değerini ayarlar.
+title: "CurvesDiscreteManager.SetValueOfWholeChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CurvesDiscreteManager yöntemi. Tüm kanalın değerini ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueOfWholeChannel method
 
 Tüm kanalın değerini ayarlar.
@@ -14,21 +15,21 @@ Tüm kanalın değerini ayarlar.
 public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
 | channelValue | Byte[] | Kanal değeri. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Tüm Kanal değerini ayarlamak için uzunluk = 256 olan bayt dizisini kullanmalısınız. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Tam Kanal değerini ayarlamak için uzunluğu 256 olan bayt dizisini kullanmalısınız. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CurvesDiscreteManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

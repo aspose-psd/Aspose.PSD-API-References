@@ -1,36 +1,37 @@
 ---
-title: Class ChannelInformation
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation sınıf. Kanal bilgisi.
+title: "ChannelInformation sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation sınıfı. Kanal bilgisi."
 type: docs
-weight: 1900
+weight: 2010
 url: /tr/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
-Kanal bilgisi.
+kanal bilgisi.
 
 ```csharp
 public class ChannelInformation
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Yeni bir örneğini başlatır.`ChannelInformation` sınıf. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | `ChannelInformation` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Kanal kimliğini alır veya ayarlar. |
 | [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Sıkıştırma yöntemini alır veya ayarlar. |
 | [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Kanal uzunluğunu bayt cinsinden alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

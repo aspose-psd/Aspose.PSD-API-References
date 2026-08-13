@@ -1,26 +1,27 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Görüntüyü döndürür çevirir veya döndürür ve çevirir.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage yöntemi. Görüntüyü döndürür, çevirir veya döndürüp çevirir."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-Görüntüyü döndürür, çevirir veya döndürür ve çevirir.
+Görüntüyü döndürür, çevirir veya döndürüp çevirir.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Döndürme çevirme türü. |
+| rotateFlipType | RotateFlipType | Döndürme/çevirme türü. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod görüntünün nasıl döndürüleceğini gösterir.
+Aşağıdaki kod, görüntünün nasıl döndürüleceğini gösterir.
 
 ```csharp
 [C#]
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

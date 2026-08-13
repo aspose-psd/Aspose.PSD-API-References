@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorImage mülk. Görüntü genişliğini alır.
+title: "VectorImage.Width"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorImage özelliği. Görüntünün genişliğini alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
 Görüntü genişliğini alır.
@@ -14,14 +15,14 @@ Görüntü genişliğini alır.
 public override int Width { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Görüntü genişliği.
+görüntü genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorImage](../)
-* ad alanı [Aspose.PSD](../../vectorimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

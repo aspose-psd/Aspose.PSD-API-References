@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensSerialNumber
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Lens seri numarasını alır veya ayarlar.
+title: "ExifData.LensSerialNumber"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Lens seri numarasını alır veya ayarlar"
 type: docs
 weight: 750
 url: /tr/net/aspose.psd.exif/exifdata/lensserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSerialNumber property
 
 Lens seri numarasını alır veya ayarlar.
@@ -14,14 +15,14 @@ Lens seri numarasını alır veya ayarlar.
 public string LensSerialNumber { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Lens seri numarası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

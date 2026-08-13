@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape mülk. Dikdörtgen genişliğini alır.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape özelliği. Dikdörtgen genişliğini alır"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
 Dikdörtgen genişliğini alır.
@@ -14,14 +15,14 @@ Dikdörtgen genişliğini alır.
 public double RectangleWidth { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Dikdörtgen genişliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

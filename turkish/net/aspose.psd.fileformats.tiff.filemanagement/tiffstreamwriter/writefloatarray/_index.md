@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloatArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa bir kayan değer dizisi yazar.
+title: "TiffStreamWriter.WriteFloatArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma bir dizi float değerleri yazar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloatArray method
 
-Akışa bir kayan değer dizisi yazar.
+Akışa bir dizi float değer yazar.
 
 ```csharp
 public void WriteFloatArray(float[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Single[] | Yazılacak dizi. |
+| veri | Single[] | Yazılacak dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

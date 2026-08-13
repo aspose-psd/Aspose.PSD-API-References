@@ -1,31 +1,32 @@
 ---
-title: Enum StringDigitSubstitute
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.StringDigitSubstitute Sıralama. Numaralandırma kullanıcının yerel ayarına veya diline göre bir dizideki rakamların nasıl değiştirileceğini belirtir.
+title: "Enum StringDigitSubstitute"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.StringDigitSubstitute enum. Bu enum, bir dizedeki rakamların kullanıcının yerel ayarı veya diline göre nasıl değiştirileceğini belirtir."
 type: docs
-weight: 5660
+weight: 6190
 url: /tr/net/aspose.psd/stringdigitsubstitute/
 ---
+{{< psd/tize >}}
 ## StringDigitSubstitute enumeration
 
-Numaralandırma, kullanıcının yerel ayarına veya diline göre bir dizideki rakamların nasıl değiştirileceğini belirtir.
+Bu enum, bir dizedeki rakamların kullanıcının yerel ayarına veya diline göre nasıl değiştirileceğini belirtir.
 
 ```csharp
 public enum StringDigitSubstitute
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| User | `0` | Kullanıcı tanımlı bir değiştirme şemasını belirtir. |
-| None | `1` | Değiştirmeleri devre dışı bırakmayı belirtir. |
-| National | `2` | Kullanıcı yerel ayarının resmi ulusal diline karşılık gelen ikame basamaklarını belirtir. |
-| Traditional | `3` | Kullanıcı yerel ayarının resmi ulusal dilinden farklı olabilecek, kullanıcının yerel alfabesine veya diline karşılık gelen ikame basamaklarını belirtir. |
+| User | `0` | Kullanıcı tanımlı bir ikame şeması belirtir. |
+| None | `1` | İkame işlemlerinin devre dışı bırakılmasını belirtir. |
+| National | `2` | Kullanıcının yerel ayarının resmi ulusal diliyle eşleşen ikame rakamları belirtir. |
+| Traditional | `3` | Kullanıcının yerel ayarının resmi ulusal dilinden farklı olabilecek, kullanıcının yerel alfabesi veya diliyle eşleşen ikame rakamları belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

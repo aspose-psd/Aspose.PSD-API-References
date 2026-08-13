@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Icc profil akışını alır veya ayarlar.
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Icc profil akışını alır veya ayarlar"
 type: docs
-weight: 180
+weight: 190
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
 Icc profil akışını alır veya ayarlar.
@@ -14,14 +15,14 @@ Icc profil akışını alır veya ayarlar.
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-icc profili.
+Icc profili.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.OriginIndex
-second_title: Aspose.PSD for .NET API Referansı
-description: VectorShapeOriginSettings mülk. Başlangıç şekli indeksini alır veya ayarlar.
+title: "VectorShapeOriginSettings.OriginIndex"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VectorShapeOriginSettings özelliği. Orijin şekil indeksini alır veya ayarlar"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginIndex property
 
-Başlangıç şekli indeksini alır veya ayarlar.
+origin shape indeksini alır veya ayarlar.
 
 ```csharp
 public int OriginIndex { get; set; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, VogkResource kaynağının desteğini göstermektedir.
+Aşağıdaki örnek, VogkResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // düzenleme
+    // Düzenleme
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VectorShapeOriginSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

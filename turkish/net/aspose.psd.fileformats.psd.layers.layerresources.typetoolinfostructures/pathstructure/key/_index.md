@@ -1,11 +1,12 @@
 ---
-title: PathStructure.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: PathStructure mülk. Yapı anahtarını alır.
+title: "PathStructure.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathStructure özelliği. Yapı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key/
 ---
+{{< psd/tize >}}
 ## PathStructure.Key property
 
 Yapı anahtarını alır.
@@ -14,9 +15,9 @@ Yapı anahtarını alır.
 public override int Key { get; }
 ```
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, PathStructure yapısına sahip dosya yükleme yeteneğini gösterir.
+Aşağıdaki kod, PathStructure yapısıyla dosya yükleme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

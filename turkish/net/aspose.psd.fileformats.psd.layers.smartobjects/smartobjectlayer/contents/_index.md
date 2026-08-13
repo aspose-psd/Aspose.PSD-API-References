@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartObjectLayer mülk. Akıllı nesne katmanı içeriğini alır veya ayarlar. Katıştırılmış akıllı nesne içeriği katıştırılmış ham görüntü dosyasıdırData ve özellikleri. Bağlantılı akıllı nesne içeriği varsa bağlantılı görüntü dosyasının ham içeriğidir ve özellikleriLiFeDataSource . Adobe Photoshop  Graphics Libraryden yüklemeyi desteklemiyoruz.IsLibraryLink true. Normal bağlantı dosyaları için ilk başta şunu kullanırızRelativePath kaynak görüntü yoluna göre nispeten dosyasını aramak içinSourceImagePath  yoksa bakarızFullPath  değilse bağlantı dosyasını resmimizin bulunduğu dizinde ararızSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartObjectLayer özelliği. Akıllı nesne katmanı içeriğini alır veya ayarlar. Gömülü akıllı nesne içeriği, gömülü ham görüntü dosyası Data ve özellikleridir. Bağlantılı akıllı nesne içeriği, mevcut ise bağlantılı görüntü dosyasının ham içeriği ve özellikleri LiFeDataSource'dir. IsLibraryLink true olduğunda Adobe Photoshop Grafik Kütüphanesinden yüklemeyi desteklemiyoruz. Normal bağlantı dosyaları için önce RelativePath'i kullanarak dosyayı SourceImagePath kaynak görüntü yoluna göre ararız; mevcut değilse FullPath'e bakarız; yine bulunamazsa bağlantı dosyasını görüntümüzün bulunduğu aynı dizinde (SourceImagePath) ararız."
 type: docs
-weight: 10
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-Akıllı nesne katmanı içeriğini alır veya ayarlar. Katıştırılmış akıllı nesne içeriği, katıştırılmış ham görüntü dosyasıdır:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) ve özellikleri. Bağlantılı akıllı nesne içeriği, varsa bağlantılı görüntü dosyasının ham içeriğidir ve özellikleri:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Adobe� Photoshop� �� Graphics Library'den yüklemeyi desteklemiyoruz.[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) true. Normal bağlantı dosyaları için ilk başta şunu kullanırız:[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) kaynak görüntü yoluna göre nispeten dosyasını aramak içinSourceImagePath , yoksa bakarız[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , değilse, bağlantı dosyasını resmimizin bulunduğu dizinde ararız:SourceImagePath .
+Akıllı nesne katmanı içeriğini alır veya ayarlar. Gömülü akıllı nesne içeriği, gömülü ham görüntü dosyasıdır: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) ve özellikleridir. Bağlantılı akıllı nesne içeriği, mevcut ise bağlantılı görüntü dosyasının ham içeriği ve özellikleri: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) true olduğunda Adobe Photoshop Grafik Kütüphanesinden yüklemeyi desteklemiyoruz. Normal bağlantı dosyaları için önce dosyayı SourceImagePath kaynak görüntü yoluna göre aramak üzere [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) kullanırız; mevcut değilse [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) bakarız; yine bulunamazsa bağlantı dosyasını görüntümüzün bulunduğu aynı dizinde (SourceImagePath) ararız.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 byte[] akıllı nesne katmanı içeriği.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| NotSupportedException | Adobe� Photoshop� �� kitaplığından içerik alınamıyor. |
+| NotSupportedException | Adobe Photoshop kütüphanesinden içerik alınamıyor. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, Katıştırılmış Akıllı nesnelerin desteğini gösterir.
+Aşağıdaki kod, Gömülü Akıllı nesnelerin desteğini gösterir.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Bu örnek, PSD dosyasındaki akıllı nesne katmanının nasıl değiştirileceğini ve akıllı nesne orijinal katıştırılmış içeriğinin nasıl dışa aktarılacağını / güncelleneceğini gösterir.
+// Bu örnek, PSD dosyasındaki akıllı nesne katmanını nasıl değiştireceğinizi ve akıllı nesnenin orijinal gömülü içeriğini dışa aktarma / güncelleme işlemini gösterir.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -71,7 +72,7 @@ foreach (FileFormat format in formats)
         // Gömülü akıllı nesne görüntüsünü PSD akıllı nesne katmanından dışa aktaralım
         smartObjectLayer.ExportContents(exportPath);
 
-        // Orijinal görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Orijinal görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Orijinal akıllı nesne görüntüsünü tersine çevirelim
+            // Orijinal akıllı nesne görüntüsünü ters çevirelim
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,21 +91,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Gömülü akıllı nesne görüntüsünü PSD katmanında değiştirelim
+            // PSD katmanındaki gömülü akıllı nesne görüntüsünü değiştirelim
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Güncellenen görüntünün doğru kaydedilip kaydedilmediğini kontrol edelim
+        // Güncellenen görüntünün doğru kaydedildiğini kontrol edelim
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartObjectLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

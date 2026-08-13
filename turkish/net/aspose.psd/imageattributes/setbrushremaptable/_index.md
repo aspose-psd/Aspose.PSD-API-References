@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Fırça kategorisi için renk eşleme tablosunu ayarlar.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Fırça kategorisi için renk yeniden eşleme tablosunu ayarlar"
 type: docs
 weight: 110
 url: /tr/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-Fırça kategorisi için renk eşleme tablosunu ayarlar.
+Fırça kategorisi için renk yeniden eşleme tablosunu ayarlar.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| map | ColorMap[] | bir dizi[`ColorMap`](../../colormap/) nesneler. |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) nesnelerinden oluşan bir dizi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

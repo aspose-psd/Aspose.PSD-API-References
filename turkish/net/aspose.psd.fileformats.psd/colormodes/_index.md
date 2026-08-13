@@ -1,11 +1,12 @@
 ---
-title: Enum ColorModes
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.ColorModes Sıralama. psd dosya formatı renk modlarını temsil eder.
+title: "Enum ColorModes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.ColorModes enum. PSD dosya formatı renk modlarını temsil eder"
 type: docs
-weight: 1610
+weight: 1620
 url: /tr/net/aspose.psd.fileformats.psd/colormodes/
 ---
+{{< psd/tize >}}
 ## ColorModes enumeration
 
 psd dosya formatı renk modlarını temsil eder.
@@ -14,22 +15,22 @@ psd dosya formatı renk modlarını temsil eder.
 public enum ColorModes : short
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Bitmap | `0` | Bit eşlem renk modu. |
-| Grayscale | `1` | Gri tonlama modu. |
-| Indexed | `2` | Dizinlenmiş renk modu. |
+| Bitmap | `0` | Bitmap renk modu. |
+| Grayscale | `1` | Gri tonlamalı mod. |
+| Indexed | `2` | İndeksli renk modu. |
 | Rgb | `3` | RGB renk modu. |
 | Cmyk | `4` | CMYK renk modu. |
 | Multichannel | `7` | Çok kanallı renk modu. |
-| Duotone | `8` | Çift tonlu renk modu. |
-| Lab | `9` | Laboratuvar renk modu. |
+| Duotone | `8` | Duoton renk modu. |
+| Lab | `9` | Lab renk modu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

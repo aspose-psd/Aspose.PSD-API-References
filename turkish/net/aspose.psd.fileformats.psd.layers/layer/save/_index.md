@@ -1,11 +1,12 @@
 ---
-title: Layer.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. Nesnenin verilerini belirtilen akışa kaydeder.
+title: "Layer.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman yöntemi. Nesnenin verilerini belirtilen akışa kaydeder"
 type: docs
-weight: 370
+weight: 390
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream) {#save_1}
 
 Nesnenin verilerini belirtilen akışa kaydeder.
@@ -14,21 +15,21 @@ Nesnenin verilerini belirtilen akışa kaydeder.
 public override void Save(Stream stream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Nesnenin verilerinin kaydedileceği akış. |
+| stream | Stream | Nesnenin verilerini kaydetmek için akış. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Image seçenekleri olmadan Save yöntemini çağırmamalıyız. |
+| ArgumentException | Görüntü seçenekleri olmadan Save yöntemini çağırmamalıyız |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,17 +41,17 @@ Nesnenin verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde b
 public override void Save(string filePath, ImageOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
-| options | ImageOptionsBase | Seçenekler. |
+| seçenekler | ImageOptionsBase | Seçenekler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,16 +63,16 @@ Nesnenin verilerini belirtilen dosya konumuna kaydeder.
 public override void Save(string filePath, bool overWrite)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| filePath | String | Nesnenin verilerinin kaydedileceği dosya yolu. |
-| overWrite | Boolean | olarak ayarlanmışsa`doğru` üzerine dosya içeriğini yazın, aksi takdirde ekleme gerçekleşir. |
+| filePath | String | Nesnenin verilerini kaydetmek için dosya yolu. |
+| overWrite | Boolean | `true` olarak ayarlanırsa dosya içeriği üzerine yazar, aksi takdirde ekleme yapılır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -83,19 +84,19 @@ Görüntünün verilerini, kaydetme seçeneklerine göre belirtilen dosya biçim
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| stream | Stream | Görüntü verilerinin kaydedileceği akış. |
+| stream | Stream | Görüntünün verilerini kaydetmek için akış. |
 | optionsBase | ImageOptionsBase | Kaydetme seçenekleri. |
-| boundsRectangle | Rectangle | Hedef görüntü dikdörtgeni sınırlar. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
+| boundsRectangle | Rectangle | Hedef görüntü sınırları dikdörtgeni. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -107,18 +108,18 @@ Nesnenin verilerini, kaydetme seçeneklerine göre belirtilen dosya biçiminde b
 public override void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | filePath | String | Dosya yolu. |
-| options | ImageOptionsBase | Seçenekler. |
-| boundsRectangle | Rectangle | Hedef görüntü dikdörtgeni sınırlar. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
+| seçenekler | ImageOptionsBase | Seçenekler. |
+| boundsRectangle | Rectangle | Hedef görüntü sınırları dikdörtgeni. Kaynak sınırlarını kullanmak için boş dikdörtgeni ayarlayın. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

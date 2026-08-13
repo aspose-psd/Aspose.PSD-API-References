@@ -1,36 +1,37 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColorHelper yöntem. Özel ICC profillerini kullanarak RGByi CMYKya dönüştürür.
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColorHelper yöntemi. Özel ICC profilleri kullanarak RGB'yi CMYK'ye dönüştürür"
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
-Özel ICC profillerini kullanarak RGB'yi CMYK'ya dönüştürür.
+Özel ICC profilleri kullanarak RGB'yi CMYK'ye dönüştürür.
 
 ```csharp
 public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, Stream rgbIccStream, 
     Stream cmykIccStream)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pixels | Int32[] | RGB renkleri, 32 bitlik tamsayı değerleri olarak sunuldu. |
-| startIndex | Int32 | RGB renginin başlangıç dizini. |
-| length | Int32 | Dönüştürülecek RGB piksel sayısı. |
+| pikseller | Int32[] | 32 bit tamsayı değerleri olarak sunulan RGB renkleri. |
+| startIndex | Int32 | RGB renginin başlangıç indeksi. |
+| uzunluk | Int32 | Dönüştürülecek RGB piksel sayısı. |
 | rgbIccStream | Stream | RGB profil akışı. |
 | cmykIccStream | Stream | CMYK profil akışı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bir bayt dizisi olarak sunulan CMYK renkleri.
+CMYK renkler bayt dizisi olarak sunulur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmykColorHelper](../)
-* ad alanı [Aspose.PSD](../../cmykcolorhelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

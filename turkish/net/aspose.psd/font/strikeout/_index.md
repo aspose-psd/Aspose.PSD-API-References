@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bunun olup olmadığını gösteren bir değer alır.Font font. boyunca yatay bir çizgi belirtir.
+title: "Font.Strikeout"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un üzerinden yatay bir çizgi geçip geçmediğini gösteren bir değeri alır"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Font`](../) font. boyunca yatay bir çizgi belirtir.
+Bu [`Font`](../) üzerinden yatay bir çizgi geçip geçmediğini gösteren bir değeri alır.
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru ise bu[`Font`](../) içinden yatay bir çizgi geçer; Aksi takdirde, yanlış.
+Bu [`Font`](../) üzerinden yatay bir çizgi geçiyorsa doğru; aksi takdirde yanlış.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

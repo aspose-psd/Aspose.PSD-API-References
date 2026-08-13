@@ -1,11 +1,12 @@
 ---
-title: LevlResource.GetChannel
-second_title: Aspose.PSD for .NET API Referansı
-description: LevlResource yöntem. Kanalı alır.
+title: "LevlResource.GetChannel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevlResource yöntemi. Kanalı alır"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/
 ---
+{{< psd/tize >}}
 ## LevlResource.GetChannel method
 
 Kanalı alır.
@@ -14,19 +15,19 @@ Kanalı alır.
 public LevelChannel GetChannel(int channelIndex)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| channelIndex | Int32 | Kanalın dizini. |
+| channelIndex | Int32 | Kanalın indeksi. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Kanalın Seviye Verileri
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevelChannel](../../levelchannel/)
 * class [LevlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

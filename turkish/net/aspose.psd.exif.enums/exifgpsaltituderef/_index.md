@@ -1,29 +1,30 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef Sıralama. exif gps rakım ref numarası.
+title: "Enum ExifGPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps altitude ref enum"
 type: docs
-weight: 870
+weight: 880
 url: /tr/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif gps rakım ref numarası.
+exif gps irtifa referansı sayımı.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | Deniz seviyesinin üzerinde. |
+| AboveSeaLevel | `0` | Deniz seviyesinin üzeri. |
 | BelowSeaLevel | `1` | Deniz seviyesinin altında. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

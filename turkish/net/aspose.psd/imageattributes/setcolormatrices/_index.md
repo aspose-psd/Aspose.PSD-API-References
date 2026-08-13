@@ -1,81 +1,82 @@
 ---
-title: ImageAttributes.SetColorMatrices
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk ayarlama matrisini ve gri tonlama ayarlama matrisini ayarlar.
+title: "ImageAttributes.SetColorMatrices"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için renk ayarlama matrisini ve gri ton ayarlama matrisini ayarlar."
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/imageattributes/setcolormatrices/
 ---
+{{< psd/tize >}}
 ## SetColorMatrices(ColorMatrix, ColorMatrix) {#setcolormatrices}
 
-Varsayılan kategori için renk ayarlama matrisini ve gri tonlama ayarlama matrisini ayarlar.
+Varsayılan kategori için renk ayarlama matrisini ve gri ton ayarlama matrisini ayarlar.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
-| grayMatrix | ColorMatrix | Gri tonlama ayarlama matrisi. |
+| grayMatrix | ColorMatrix | Gri ton ayarlama matrisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag) {#setcolormatrices_1}
 
-Varsayılan kategori için renk ayarlama matrisini ve gri tonlama ayarlama matrisini ayarlar.
+Varsayılan kategori için renk ayarlama matrisini ve gri ton ayarlama matrisini ayarlar.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag flags)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
-| grayMatrix | ColorMatrix | Gri tonlama ayarlama matrisi. |
-| flags | ColorMatrixFlag | bir unsuru[`ColorMatrixFlag`](../../colormatrixflag/) renk ayarlama ve gri tonlama ayarlama matrislerinden etkilenecek olan görüntü ve rengin türünü belirtir. |
+| grayMatrix | ColorMatrix | Gri ton ayarlama matrisi. |
+| flags | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) öğesi, renk ayarlama ve gri ton ayarlama matrislerinden etkilenecek görüntü ve renk tipini belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrices_2}
 
-Belirli bir kategori için renk ayarlama matrisini ve gri tonlama ayarlama matrisini ayarlar.
+Belirtilen kategori için renk ayarlama matrisini ve gri ton ayarlama matrisini ayarlar.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | Renk ayarlama matrisi. |
-| grayMatrix | ColorMatrix | Gri tonlama ayarlama matrisi. |
-| mode | ColorMatrixFlag | bir unsuru[`ColorMatrixFlag`](../../colormatrixflag/) renk ayarlama ve gri tonlama ayarlama matrislerinden etkilenecek olan görüntü ve rengin türünü belirtir. |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk ayarı ve gri tonlama ayarı matrislerinin ayarlandığı kategoriyi belirtir. |
+| grayMatrix | ColorMatrix | Gri ton ayarlama matrisi. |
+| mode | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) öğesi, renk ayarlama ve gri ton ayarlama matrislerinden etkilenecek görüntü ve renk tipini belirtir. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) öğesi, renk ayarlama ve gri ton ayarlama matrislerinin ayarlandığı kategoriyi belirtir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

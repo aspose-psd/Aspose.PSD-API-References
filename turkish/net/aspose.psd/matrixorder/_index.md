@@ -1,29 +1,30 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.MatrixOrder Sıralama. Matris dönüştürme işlemleri için sırayı belirtir.
+title: "Enum MatrixOrder"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.MatrixOrder enum. Matris dönüşüm işlemleri için sıralamayı belirtir."
 type: docs
-weight: 5100
+weight: 5620
 url: /tr/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-Matris dönüştürme işlemleri için sırayı belirtir.
+Matris dönüşüm işlemleri için sıralamayı belirtir.
 
 ```csharp
 public enum MatrixOrder
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Prepend | `0` | Yeni işlem eski işlemden önce uygulanır. |
-| Append | `1` | Yeni işlem, eski işlemden sonra uygulanır. |
+| Prepend | `0` | Yeni işlem eski işlemin önüne uygulanır. |
+| Append | `1` | Yeni işlem eski işlemin sonrasına uygulanır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

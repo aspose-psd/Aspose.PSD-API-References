@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.HasSegments
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape mülk. Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+title: "RectangleProjectedShape.HasSegments"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape özelliği. Şeklin segment içerip içermediğini gösteren bir değer döndürür"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/hassegments/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.HasSegments property
 
-Şeklin segmentleri olup olmadığını gösteren bir değer alır.
+Şeklin segmentlere sahip olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` şeklin bölümleri varsa; aksi takdirde,`YANLIŞ`.
+`True` eğer şekil segment içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

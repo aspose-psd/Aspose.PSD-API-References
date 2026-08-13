@@ -1,28 +1,29 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Aspose.PSD for .NET API Referansı
-description: AiHeader mülk. Sınırlayıcı kutuyu alır veya ayarlar.
+title: "AiHeader.BoundingBox"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiHeader özelliği. Sınırlayıcı kutuyu alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
-Sınırlayıcı kutuyu alır veya ayarlar.
+Sınırlama kutusunu alır veya ayarlar.
 
 ```csharp
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sınırlayıcı kutu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

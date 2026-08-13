@@ -1,33 +1,34 @@
 ---
-title: PixelDataFormat.GetCieLab
-second_title: Aspose.PSD for .NET API Referansı
-description: PixelDataFormat yöntem. Örnek başına belirtilen sayıda bit ile CIE Lab rengini alır.
+title: "PixelDataFormat.GetCieLab"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PixelDataFormat yöntemi. Örnek başına belirtilen bit sayısıyla CIE Lab rengini alır."
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/pixeldataformat/getcielab/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCieLab method
 
-Örnek başına belirtilen sayıda bit ile CIE Lab rengini alır.
+Örnek başına belirtilen bit sayısıyla CIE Lab rengini alır.
 
 ```csharp
 public static PixelDataFormat GetCieLab(int bitsPerL, int bitsPerA, int bitsPerB)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| bitsPerL | Int32 | L kanalı başına bit sayısı. |
-| bitsPerA | Int32 | A kanalı başına bit sayısı. |
-| bitsPerB | Int32 | B kanalı başına bit sayısı. |
+| bitsPerL | Int32 | L kanalındaki bit sayısı. |
+| bitsPerA | Int32 | A kanalındaki bit sayısı. |
+| bitsPerB | Int32 | B kanalındaki bit sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-CIE Laboratuvarı rengi.
+CIE Lab rengi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PixelDataFormat](../)
-* ad alanı [Aspose.PSD](../../pixeldataformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

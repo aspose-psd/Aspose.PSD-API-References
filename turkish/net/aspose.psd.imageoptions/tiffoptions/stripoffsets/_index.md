@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Şerit ofsetlerini alır veya ayarlar.
+title: "TiffOptions.StripOffsets"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Şerit ofsetlerini alır veya ayarlar"
 type: docs
-weight: 470
+weight: 480
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
 Şerit ofsetlerini alır veya ayarlar.
@@ -14,14 +15,14 @@ url: /tr/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 public uint[] StripOffsets { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Şerit ofsetleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

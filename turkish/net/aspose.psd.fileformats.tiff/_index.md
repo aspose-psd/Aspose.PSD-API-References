@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Tiff dosya formatı işlemeyi yönetir.
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Namespace, Tiff dosya formatı işleme işlemlerini yönetir"
 type: docs
-weight: 370
+weight: 410
 url: /tr/net/aspose.psd.fileformats.tiff/
 ---
-Ad alanı, Tiff dosya formatı işlemeyi yönetir.
+{{< psd/tize >}}
+Bu ad alanı, TIFF dosya formatı işleme işlemlerini yönetir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [TiffDataType](./tiffdatatype/) | Tiff veri türü. |
-| [TiffExifIfd](./tiffexififd/) | TIFF Exif resim dosyası dizini class. |
-| [TiffRational](./tiffrational/) | Tiff rasyonel türü. |
-| [TiffSRational](./tiffsrational/) | Tiff rasyonel türü. |
+| [TiffDataType](./tiffdatatype/) | tiff veri tipi. |
+| [TiffExifIfd](./tiffexififd/) | TIFF Exif görüntü dosyası dizini sınıfı. |
+| [TiffRational](./tiffrational/) | tiff rasyonel tipi. |
+| [TiffSRational](./tiffsrational/) | tiff rasyonel tipi. |
 
 

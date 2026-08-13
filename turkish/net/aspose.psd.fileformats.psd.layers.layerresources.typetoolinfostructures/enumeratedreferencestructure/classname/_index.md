@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.ClassName
-second_title: Aspose.PSD for .NET API Referansı
-description: EnumeratedReferenceStructure mülk. Sınıf adını alır veya ayarlar.
+title: "EnumeratedReferenceStructure.ClassName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "EnumeratedReferenceStructure özelliği. Sınıf adını alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classname/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.ClassName property
 
 Sınıf adını alır veya ayarlar.
@@ -14,14 +15,14 @@ Sınıf adını alır veya ayarlar.
 public string ClassName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sınıf adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [EnumeratedReferenceStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

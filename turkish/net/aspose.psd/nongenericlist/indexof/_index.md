@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericList yöntem. Belirli bir öğenin dizinini belirler.IList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericList yöntemi. IList'teki belirli bir öğenin indeksini belirler"
 type: docs
 weight: 130
 url: /tr/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-Belirli bir öğenin dizinini belirler.IList .
+IList içindeki belirli bir öğenin indeksini belirler.
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Object | buObjectiçinde bulmak içinIList. |
+| değer | Nesne | IList içinde bulunacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-dizini*value* listede bulunursa; aksi halde, -1.
+Listedeki bulunursa *value*'in indeksi; aksi takdirde -1.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericList](../)
-* ad alanı [Aspose.PSD](../../nongenericlist/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

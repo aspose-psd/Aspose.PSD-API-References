@@ -1,11 +1,12 @@
 ---
-title: Class Jpeg2000Exception
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception sınıf. Jpeg dosyaları için istisnalar
+title: "Sınıf Jpeg2000Exception"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception sınıf. Jpeg dosyaları için istisnalar"
 type: docs
 weight: 530
 url: /tr/net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Exception class
 
 Jpeg dosyaları için istisnalar
@@ -14,17 +15,17 @@ Jpeg dosyaları için istisnalar
 public class Jpeg2000Exception : ImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | Yeni bir örneğini başlatır.`Jpeg2000Exception` sınıf. |
-| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | Yeni bir örneğini başlatır.`Jpeg2000Exception` sınıf. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | Yeni bir `Jpeg2000Exception` sınıfı örneği başlatır. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | Yeni bir `Jpeg2000Exception` sınıfı örneği başlatır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

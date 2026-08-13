@@ -1,41 +1,42 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText arayüz. Metin Katmanları için Metin Düzenleme Arayüzü
+title: "Arayüz IText"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.IText arayüzü. Metin katmanları için Metin düzenleme arayüzü."
 type: docs
-weight: 3510
+weight: 3960
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
-Metin Katmanları için Metin Düzenleme Arayüzü
+Metin Katmanları için Metin Düzenleme arayüzü
 
 ```csharp
 public interface IText
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Öğeleri alır. |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Metni alır. |
-| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Metin yönünü alır veya ayarlar. |
+| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Metin yönelimini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Metnin bir kısmını sona ekler |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | ekler[`ITextPortion`](../itextportion/) belirtilen pozisyona |
-| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Yeni bölümü varsayılan parametrelerle üretir |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Yeni bölümleri girdi veya varsayılan parametrelerle üretir. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Belirtilen index içindeki kısmı kaldırır |
+| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Metin bölümünü sona ekler |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Belirtilen konuma [`ITextPortion`](../itextportion/) ekler |
+| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Varsayılan parametrelerle yeni bölümü üretir |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Giriş veya varsayılan parametrelerle yeni bölümleri üretir. |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Belirtilen indeksteki bölümü kaldırır. |
 | [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Katman verilerini günceller. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod örneği, düzenleme metin bölümlerini ve bunların metin stilini gösterir.
+Aşağıdaki kod örneği, metin bölümlerinin ve bunların metin stilinin düzenlenmesini gösterir.
 
 ```csharp
 [C#]
@@ -58,7 +59,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Her bölümün metni kontrol ediliyor
+            // Her bölümün metnini kontrol etme
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -67,8 +68,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Paragraf verilerini kontrol etme
-            // Paragrafların farklı gerekçeleri var
+            // Paragrafların verilerini kontrol etme
+            // Paragraflar farklı hizalamaya sahiptir
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -78,7 +79,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Birinci ve ikinci paragrafın diğer tüm özellikleri eşittir
+            // İlk ve ikinci paragrafın diğer tüm özellikleri eşittir
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -118,7 +119,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Stil verilerini kontrol etme
-            // Stillerin renkleri ve yazı tipi boyutları farklıdır
+            // Stiller farklı renk ve yazı tipi boyutuna sahiptir
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -154,7 +155,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Kaldırılan metin bölümleri örneği
+            // Metin bölümlerini kaldırma örneği
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -166,17 +167,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Bölümler için paragraf ve stil düzenleme örneği
-            // Sağa yaslamayı ayarla
+            // Sağ hizalamayı ayarla
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Her stil için farklı renkler. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Her stil için farklı renkler. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Farklı yazı tipi. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Farklı yazı tipi. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -191,9 +192,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

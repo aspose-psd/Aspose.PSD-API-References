@@ -1,11 +1,12 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.PSD for .NET API Referansı
-description: IRasterImageRawDataLoader mülk. Ham veri yüklemenin desteklenip desteklenmediğini gösteren bir değer alır.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IRasterImageRawDataLoader özelliği. Ham veri yüklemenin desteklenip desteklenmediğini gösteren bir değer alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
 Ham veri yüklemenin desteklenip desteklenmediğini gösteren bir değer alır.
@@ -14,14 +15,14 @@ Ham veri yüklemenin desteklenip desteklenmediğini gösteren bir değer alır.
 public bool IsRawDataAvailable { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` ham veri yükleme destekleniyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer ham veri yükleme destekleniyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IRasterImageRawDataLoader](../)
-* ad alanı [Aspose.PSD](../../irasterimagerawdataloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

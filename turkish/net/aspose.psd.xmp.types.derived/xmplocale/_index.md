@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale sınıf. Dil kodunu temsil eder.
+title: "Sınıf XmpLocale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale sınıfı. Dil kodunu temsil eder."
 type: docs
-weight: 6170
+weight: 6700
 url: /tr/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 Dil kodunu temsil eder.
@@ -14,32 +15,32 @@ Dil kodunu temsil eder.
 public sealed class XmpLocale : XmpText
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Yeni bir örneğini başlatır.`XmpLocale` sınıf. |
+| [XmpLocale](xmplocale/)(string) | Yeni bir `XmpLocale` sınıf örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Metin değerini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Notlar
+## Açıklamalar
 
-Bkz. IETF RFC 3066.
+IETF RFC 3066'ı görün.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

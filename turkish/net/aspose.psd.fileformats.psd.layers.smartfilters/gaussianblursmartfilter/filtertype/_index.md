@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurSmartFilter.FilterType
-second_title: Aspose.PSD for .NET API Referansı
-description: GaussianBlurSmartFilter alan. Geçerli akıllı filtrenin tanımlayıcısı.
+title: "GaussianBlurSmartFilter.FilterType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GaussianBlurSmartFilter alanı. Mevcut akıllı filtrenin tanımlayıcısı"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterType field
 
 Geçerli akıllı filtrenin tanımlayıcısı.
@@ -14,10 +15,10 @@ Geçerli akıllı filtrenin tanımlayıcısı.
 public const int FilterType;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GaussianBlurSmartFilter](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

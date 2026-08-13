@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Gradyan aralığını alır veya ayarlar.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource property. Gradyan aralığını alır veya ayarlar"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
 Gradyan aralığını alır veya ayarlar.
@@ -14,14 +15,14 @@ Gradyan aralığını alır veya ayarlar.
 public double GradientInterval { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gradyan aralığı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

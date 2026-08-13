@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. YCbCrKatsayılarını alır veya ayarlar.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. YCbCrCoefficients değerini alır veya ayarlar"
 type: docs
-weight: 660
+weight: 670
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-YCbCrKatsayılarını alır veya ayarlar.
+YCbCrCoefficients değerini alır veya ayarlar.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-YCbCr Katsayıları.
+YCbCrCoefficients.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Geçersiz rasyonel katsayı değerleri sayısı. 3. değerine eşit olmalıdır |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Rasyonel katsayı değerlerinin geçersiz sayısı. 3'e eşit olmalıdır. |
 | ArgumentNullException | değer |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

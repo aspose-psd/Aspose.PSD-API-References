@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD for .NET API Referansı
-description: ThumbnailResource mülk. Satır genişliğini bayt cinsinden alır.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ThumbnailResource özelliği. Satır genişliğini bayt olarak alır"
 type: docs
 weight: 140
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
 Satır genişliğini bayt cinsinden alır.
@@ -14,14 +15,14 @@ Satır genişliğini bayt cinsinden alır.
 public int WidthBytes { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bayt cinsinden satır genişliği.
+Satır genişliği bayt olarak.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ThumbnailResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

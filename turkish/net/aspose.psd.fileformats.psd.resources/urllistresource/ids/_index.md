@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD for .NET API Referansı
-description: UrlListResource mülk. Kimlikleri alır veya ayarlar.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UrlListResource özelliği. Kimlikleri alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
 Kimlikleri alır veya ayarlar.
@@ -14,14 +15,14 @@ Kimlikleri alır veya ayarlar.
 public int[] Ids { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Kimlikler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UrlListResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

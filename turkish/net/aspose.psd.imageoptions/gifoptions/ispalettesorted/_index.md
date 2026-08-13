@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.PSD for .NET API Referansı
-description: GifOptions mülk. Palet girişlerinin sıralanıp sıralanmadığını gösteren bir değer alır veya ayarlar.
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GifOptions özelliği. Palet girişlerinin sıralanıp sıralanmadığını gösteren bir değeri alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-Palet girişlerinin sıralanıp sıralanmadığını gösteren bir değer alır veya ayarlar.
+Palet girişlerinin sıralanıp sıralanmadığını gösteren bir değeri alır veya ayarlar.
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` palet girişleri sıralanırsa; aksi takdirde,`YANLIŞ` .
+`true` palet girişleri sıralanmışsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GifOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../gifoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.XPSubject
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar.
+title: "TiffOptions.XPSubject"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Windows Explorer tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar"
 type: docs
-weight: 630
+weight: 640
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/xpsubject/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPSubject property
 
 Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ayarlar.
@@ -14,14 +15,14 @@ Windows Gezgini tarafından kullanılan görüntü hakkında bilgi alır veya ay
 public string XPSubject { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Windows Gezgini tarafından kullanılan görüntü hakkında bilgi.
+Windows Explorer tarafından kullanılan görüntü hakkında bilgi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

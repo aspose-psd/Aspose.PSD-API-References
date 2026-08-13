@@ -1,33 +1,34 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: Aspose.PSD for .NET API Referansı
-description: ILayerResourceLoader yöntem. Katman kaynağının belirtilen kaynaktan yüklenip yüklenemeyeceğini belirler.StreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ILayerResourceLoader yöntemi. Belirtilen StreamContainer'dan katman kaynağının yüklenip yüklenemeyeceğini belirler."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-Katman kaynağının belirtilen kaynaktan yüklenip yüklenemeyeceğini belirler.[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Belirtilen [`StreamContainer`](../../../aspose.psd/streamcontainer/) üzerinden katman kaynağının yüklenip yüklenemeyeceğini belirler.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` katman kaynağı belirtilenden yüklenebiliyorsa[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; aksi takdirde,`YANLIŞ` .
+`true` eğer katman kaynağı belirtilen [`StreamContainer`](../../../aspose.psd/streamcontainer/) üzerinden yüklenebiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

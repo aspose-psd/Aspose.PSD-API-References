@@ -1,23 +1,24 @@
 ---
-title: ClassID.Bytes
-second_title: Aspose.PSD for .NET API Referansı
-description: ClassID mülk. Sınıf kimliğini temsil eden baytları alır.
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ClassID özelliği. Sınıf kimliğini temsil eden baytları alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
-Sınıf kimliğini temsil eden baytları alır.
+Class ID'yi temsil eden baytları alır.
 
 ```csharp
 public byte[] Bytes { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ClassID](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

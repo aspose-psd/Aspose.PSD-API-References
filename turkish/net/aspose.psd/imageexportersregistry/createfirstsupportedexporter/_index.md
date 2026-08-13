@@ -1,39 +1,40 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageExportersRegistry yöntem. Belirtilen kaydetme seçenekleri ve görüntü için uygun bulunan ilk dışa aktarıcıyı oluşturur.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageExportersRegistry yöntemi. Belirtilen kaydetme seçenekleri ve görüntü için uygun olan ilk bulunan dışa aktarıcıyı oluşturur."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-Belirtilen kaydetme seçenekleri ve görüntü için uygun bulunan ilk dışa aktarıcıyı oluşturur.
+Belirtilen kaydetme seçenekleri ve görüntü için uygun olan ilk bulunan dışa aktarıcıyı oluşturur.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| image | Image | Dışa aktarılacak resim. |
-| options | ImageOptionsBase | Dışa aktarma için kullanılacak kaydetme seçenekleri. |
+| görüntü | Image | Dışa aktarılacak görüntü. |
+| seçenekler | ImageOptionsBase | Dışa aktarma için kullanılacak kaydetme seçenekleri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Belirtilen görüntüyü ve kaydetme seçeneklerini destekleyen dışa aktarıcı veya böyle bir dışa aktarıcı bulunamazsa null.
+Belirtilen görüntü ve kaydetme seçeneklerini destekleyen dışa aktarıcı ya da böyle bir dışa aktarıcı bulunamazsa null.
 
-### Notlar
+## Açıklamalar
 
-İlk ihracatçı aslında son kayıt yaptıran olacaktır.
+İlk dışa aktarıcı aslında son kaydedilen olacaktır.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IImageExporter](../../iimageexporter/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* ad alanı [Aspose.PSD](../../imageexportersregistry/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

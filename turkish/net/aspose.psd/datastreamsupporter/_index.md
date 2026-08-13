@@ -1,42 +1,43 @@
 ---
-title: Class DataStreamSupporter
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.DataStreamSupporter sınıf. Veri akışı kabı.
+title: "Sınıf DataStreamSupporter"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.DataStreamSupporter sınıfı. Veri akışı konteyneri"
 type: docs
-weight: 740
+weight: 750
 url: /tr/net/aspose.psd/datastreamsupporter/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter class
 
-Veri akışı kabı.
+Veri akışı konteyneri.
 
 ```csharp
 public abstract class DataStreamSupporter : DisposableObject
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Nesnenin veri akışını alır. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılıp atılmadığını gösteren bir değer alır. |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Nesnenin verilerinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekip gerekmediğini gösteren bir değer alır. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Bu örneğin atılmış olup olmadığını gösteren bir değeri alır. |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Nesnenin verisinin şu anda önbelleğe alınıp alınmadığını ve veri okumanın gerekmediğini gösteren bir değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Verileri önbelleğe alır ve temelden ek veri yüklemesi yapılmamasını sağlar[`DataStreamContainer`](./datastreamcontainer/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Geçerli örneği ortadan kaldırır. |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | Nesnenin verilerini geçerli belleğe kaydeder.`DataStreamSupporter` . |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Verileri önbelleğe alır ve temel [`DataStreamContainer`](./datastreamcontainer/) üzerinden ek veri yüklemesinin yapılmayacağını garanti eder. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Mevcut örneği serbest bırakır. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | Nesnenin verilerini mevcut `DataStreamSupporter`'a kaydeder. |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_1)(Stream) | Nesnenin verilerini belirtilen akışa kaydeder. |
 | [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | Nesnenin verilerini belirtilen dosya konumuna kaydeder. |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | Nesnenin verilerini belirtilen dosya konumuna kaydeder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [DisposableObject](../disposableobject/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

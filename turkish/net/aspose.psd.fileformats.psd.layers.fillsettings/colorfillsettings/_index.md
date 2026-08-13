@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings sınıf. Renk dolgu efekti ayarları
+title: "Sınıf ColorFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings sınıfı. Renk doldurma efekti ayarları"
 type: docs
-weight: 1930
+weight: 2040
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Renk dolgu efekti ayarları
+Renk doldurma efekti ayarları
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
-## Özellikleri
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Varsayılan yapıcı. |
+
+## Özellikler
+
+| Ad | Açıklama |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Rengi alır veya ayarlar. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Dolgu türü |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Doldurma türü |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, dolgu tipi Renkli olan kontur efekti katmanının desteğini gösterir.
+Aşağıdaki kod, doldurma türü - Renk ile çizgi efekti katmanının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Düzenlemeden sonra dosyayı test edin
+// Düzenlemeden sonra test dosyası
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

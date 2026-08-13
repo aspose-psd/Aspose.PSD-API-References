@@ -1,24 +1,25 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Aspose.PSD for .NET API Referansı
-description: LiFeDataSource mülk. Varsa Adobe Photoshop CC kitaplıkları için adobe stok lisansının durumunu alır.
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LiFeDataSource özelliği. Adobe Photoshop CC kütüphaneleri için mevcutsa adobe stok lisansının durumunu alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-Varsa, Adobe® Photoshop® CC kitaplıkları için adobe stok lisansının durumunu alır.
+Adobe® Photoshop® CC kütüphaneleri için mevcutsa Adobe stok lisansının durumunu alır.
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Adobe stok lisansının durumu veya mevcut değilse boş dize.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, LnkeResource kaynağının desteğini gösterir.
 
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LiFeDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

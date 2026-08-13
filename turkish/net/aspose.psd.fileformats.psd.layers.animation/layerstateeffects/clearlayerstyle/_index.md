@@ -1,23 +1,24 @@
 ---
-title: LayerStateEffects.ClearLayerStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerStateEffects yöntem. Tüm katman stili efektlerini temizler.
+title: "LayerStateEffects.ClearLayerStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerStateEffects yöntemi. Tüm katman stil etkilerini temizler"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/clearlayerstyle/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.ClearLayerStyle method
 
-Tüm katman stili efektlerini temizler.
+Tüm katman stil efektlerini temizler.
 
 ```csharp
 public void ClearLayerStyle()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerStateEffects](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

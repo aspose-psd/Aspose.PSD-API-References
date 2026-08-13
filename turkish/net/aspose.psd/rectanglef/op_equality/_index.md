@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Equality
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. İki olup olmadığını test ederRectangleF yapılar eşit konum ve boyuta sahiptir.
+title: "RectangleF.op_Equality"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. İki RectangleF yapısının konum ve boyutunun eşit olup olmadığını test eder"
 type: docs
 weight: 270
 url: /tr/net/aspose.psd/rectanglef/op_equality/
 ---
+{{< psd/tize >}}
 ## RectangleF Equality operator
 
-İki olup olmadığını test eder[`RectangleF`](../) yapılar eşit konum ve boyuta sahiptir.
+İki [`RectangleF`](../) yapısının konum ve boyutunun eşit olup olmadığını test eder.
 
 ```csharp
 public static bool operator ==(RectangleF left, RectangleF right)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| left | RectangleF | bu[`RectangleF`](../) eşitlik operatörünün solundaki yapı. |
-| right | RectangleF | bu[`RectangleF`](../)eşitlik operatörünün sağındaki yapı. |
+| left | RectangleF | Eşitlik operatörünün solunda bulunan [`RectangleF`](../) yapısı. |
+| right | RectangleF | Eşitlik operatörünün sağında bulunan [`RectangleF`](../) yapısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Bu operatör, belirtilen iki[`RectangleF`](../) yapılar eşittir[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Ve[`Height`](../height/) özellikler.
+Bu operatör, belirtilen iki [`RectangleF`](../) yapısının [`X`](../x/), [`Y`](../y/), [`Width`](../width/) ve [`Height`](../height/) özelliklerinin eşit olması durumunda true döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

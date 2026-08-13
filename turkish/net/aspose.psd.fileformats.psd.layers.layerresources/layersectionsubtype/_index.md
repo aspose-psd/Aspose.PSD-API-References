@@ -1,30 +1,31 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype Sıralama. bölüm subtype
+title: "Enum LayerSectionSubtype"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype enum. Bölüm alt türü"
 type: docs
-weight: 2600
+weight: 2910
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
-bölüm subtype
+Bölüm alt türü
 
 ```csharp
 public enum LayerSectionSubtype
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
 | NotUsed | `-1` | Kullanılmayan |
-| Normal | `0` | normal |
+| Normal | `0` | Normal |
 | SceneGroup | `1` | Sahne grubu |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

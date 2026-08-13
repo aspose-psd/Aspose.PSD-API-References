@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ChannelsCount
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdImage mülk. PSD kanal sayısını alır.
+title: "PsdImage.ChannelsCount"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdImage özelliği. PSD kanal sayısını alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdImage.ChannelsCount property
 
 PSD kanal sayısını alır.
@@ -14,14 +15,14 @@ PSD kanal sayısını alır.
 public int ChannelsCount { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-PSD kanalları sayılır.
+PSD kanal sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

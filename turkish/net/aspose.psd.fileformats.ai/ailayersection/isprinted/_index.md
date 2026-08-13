@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın yazdırılıp yazdırılmadığını gösteren bir değer alır veya ayarlar. Doğruysa katmanda bulunan resmi yazdırılabilir yapar.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın basılıp basılmadığını gösteren bir değeri alır veya ayarlar. Doğru ise katmanda bulunan sanat eserini yazdırılabilir yapar."
 type: docs
-weight: 80
+weight: 100
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Bu katmanın yazdırılıp yazdırılmadığını gösteren bir değer alır veya ayarlar. Doğruysa, katmanda bulunan resmi yazdırılabilir yapar.
+Bu katmanın yazdırılıp yazdırılmayacağını gösteren bir değeri alır veya ayarlar. Doğruysa katmandaki sanat eserini yazdırılabilir yapar.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman yazdırılırsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu katman basılmışsa; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

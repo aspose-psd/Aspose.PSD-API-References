@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD for .NET API Referansı
-description: İlerleme olay işleyici işlevi reference
+title: "Delege ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "İlerleme olayı işleyici fonksiyon referansı"
 type: docs
-weight: 5280
+weight: 5810
 url: /tr/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-İlerleme olay işleyici işlevi reference
+İlerleme olayı işleyici fonksiyon referansı
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | İlerleme olayı işleyici verileri. |
+| bilgi | ProgressEventHandlerInfo | İlerleme olayı işleyici verileri. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisnasız çalıştığını göstermektedir.
+Aşağıdaki örnek, belge dönüştürme ilerlemesinin doğru ve istisna olmadan çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

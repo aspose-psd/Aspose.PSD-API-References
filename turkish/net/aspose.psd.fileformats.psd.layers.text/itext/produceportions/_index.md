@@ -1,39 +1,40 @@
 ---
-title: IText.ProducePortions
-second_title: Aspose.PSD for .NET API Referansı
-description: IText yöntem. Yeni bölümleri girdi veya varsayılan parametrelerle üretir.
+title: "IText.ProducePortions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IText yöntemi. Girdi veya varsayılan parametrelerle yeni bölümler üretir"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortions method
 
-Yeni bölümleri girdi veya varsayılan parametrelerle üretir.
+Giriş veya varsayılan parametrelerle yeni bölümleri üretir.
 
 ```csharp
 public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle stylePrototype, 
     ITextParagraph paragraphPrototype)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| portionsOfText | String[] | Yeni oluşturulacak metin bölümleri[`ITextPortion`](../../itextportion/). |
-| stylePrototype | ITextStyle | Null değilse yeni stilde uygulanacak bir stil, aksi takdirde varsayılan olacaktır. |
-| paragraphPrototype | ITextParagraph | Null değilse yeni paragrafta uygulanacak bir paragraf, aksi takdirde varsayılan olacaktır. |
+| portionsOfText | String[] | Yeni [`ITextPortion`](../../itextportion/) oluşturmak için metin bölümleri. |
+| stylePrototype | ITextStyle | Yeni [`ITextPortion`](../../itextportion/) içinde uygulanacak bir stil, null değilse, aksi takdirde varsayılan olur. |
+| paragraphPrototype | ITextParagraph | Yeni [`ITextPortion`](../../itextportion/) içinde uygulanacak bir paragraf, null değilse, aksi takdirde varsayılan olur. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni bölümleri döndürür[`ITextPortion`](../../itextportion/) giriş parametrelerine göre.
+Girdi parametrelerine göre yeni bölümleri [`ITextPortion`](../../itextportion/) döndürür.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de tek bir metin katmanında farklı stilleri nasıl oluşturabileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde bir metin katmanında farklı stilleri nasıl renderleyebileceğinizi gösterir.
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -56,12 +57,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // "E=mc" metin stilini düzenle
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // "2\r" metin stilini düzenle
-    newPortions[2].Style.FauxBold = true; // "Kalın" metin stilini düzenle
-    newPortions[3].Style.FauxItalic = true; // "İtalik\r" metin stilini düzenle
-    newPortions[3].Style.BaselineShift = -25; // "İtalik\r" metin stilini düzenle
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // "Küçük harfli metin" metin stilini düzenle
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -73,13 +74,13 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [ITextPortion](../../itextportion/)
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

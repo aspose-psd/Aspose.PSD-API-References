@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData mülk. Renk bileşenlerinin örnekleme oranını parlaklık bileşenine göre alır veya ayarlar.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData özelliği. Krominans bileşenlerinin parlaklık bileşenine göre örnekleme oranını alır veya ayarlar"
 type: docs
 weight: 250
 url: /tr/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-Renk bileşenlerinin örnekleme oranını parlaklık bileşenine göre alır veya ayarlar.
+Krominans bileşenlerinin parlaklık bileşenine göre örnekleme oranını alır veya ayarlar.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk bileşenlerinin parlaklık bileşenine göre örnekleme oranı.
+Krominans bileşenlerinin parlaklık bileşenine göre örnekleme oranı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

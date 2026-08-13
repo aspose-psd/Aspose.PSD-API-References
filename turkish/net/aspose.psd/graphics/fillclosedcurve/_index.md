@@ -1,191 +1,192 @@
 ---
-title: Graphics.FillClosedCurve
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.PointF yapılar. Bu yöntem varsayılan olarak 05lik bir gerilim kullanır veAlternate modu doldur.
+title: "Graphics.FillClosedCurve"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Bir dizi PointF yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur. Bu yöntem varsayılan 0,5 gerilme ve Alternate doldurma modunu kullanır."
 type: docs
-weight: 340
+weight: 350
 url: /tr/net/aspose.psd/graphics/fillclosedcurve/
 ---
+{{< psd/tize >}}
 ## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`PointF`](../../pointf/) yapılar. Bu yöntem, varsayılan olarak 0,5'lik bir gerilim kullanır veAlternate modu doldur.
+Bir dizi [`PointF`](../../pointf/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur. Bu yöntem varsayılan 0,5 gerilme ve Alternate doldurma modunu kullanır.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) Spline'ı tanımlayan yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | PointF[] | Spline'ı tanımlayan [`PointF`](../../pointf/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`PointF`](../../pointf/) belirtilen dolgu modunu kullanan yapılar. Bu yöntem, 0.5. varsayılan gerginliğini kullanır.
+Belirtilen doldurma modu kullanılarak, bir dizi [`PointF`](../../pointf/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur. Bu yöntem varsayılan 0,5 gerilme kullanır.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) Spline'ı tanımlayan yapılar. |
-| fillmode | FillMode | Üyesi[`FillMode`](../../fillmode/) eğrinin nasıl doldurulacağını belirleyen numaralandırma. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | PointF[] | Spline'ı tanımlayan [`PointF`](../../pointf/) yapılarının dizisi. |
+| fillmode | FillMode | `[`FillMode`](../../fillmode/)` enumerasyonunun, eğrinin nasıl doldurulacağını belirleyen üyesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`PointF`](../../pointf/) belirtilen dolgu modunu ve gerilimi kullanan yapılar.
+Belirtilen doldurma modu ve gerilme kullanılarak, bir dizi [`PointF`](../../pointf/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, float tension)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) Spline'ı tanımlayan yapılar. |
-| fillmode | FillMode | Üyesi[`FillMode`](../../fillmode/) eğrinin nasıl doldurulacağını belirleyen numaralandırma. |
-| tension | Single | Eğrinin gerilimini belirten 0.0F'den büyük veya eşit değer. |
+| brush | Brush | Doldurmanın özelliklerini belirleyen bir [`Brush`](../../brush/). |
+| points | PointF[] | Spline'ı tanımlayan [`PointF`](../../pointf/) yapılarının dizisi. |
+| fillmode | FillMode | `[`FillMode`](../../fillmode/)` enumerasyonunun, eğrinin nasıl doldurulacağını belirleyen üyesi. |
+| gerilim | Single | Eğrinin gerilmesini belirten, 0.0F'ye eşit veya daha büyük bir değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`Point`](../../point/) yapılar. Bu yöntem, varsayılan olarak 0,5'lik bir gerilim kullanır veAlternate modu doldur.
+Bir dizi [`Point`](../../point/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur. Bu yöntem varsayılan 0,5 gerilme ve Alternate doldurma modunu kullanır.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) Spline'ı tanımlayan yapılar. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | Point[] | Spline'ı tanımlayan [`Point`](../../point/) yapılarının dizisi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`Point`](../../point/) belirtilen dolgu modunu kullanan yapılar. Bu yöntem, 0.5. varsayılan gerginliğini kullanır.
+Belirtilen doldurma modu kullanılarak, bir dizi [`Point`](../../point/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur. Bu yöntem varsayılan 0,5 gerilme kullanır.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) Spline'ı tanımlayan yapılar. |
-| fillmode | FillMode | Üyesi[`FillMode`](../../fillmode/) eğrinin nasıl doldurulacağını belirleyen numaralandırma. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | Point[] | Spline'ı tanımlayan [`Point`](../../point/) yapılarının dizisi. |
+| fillmode | FillMode | `[`FillMode`](../../fillmode/)` enumerasyonunun, eğrinin nasıl doldurulacağını belirleyen üyesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
 
-Bir dizi tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.[`Point`](../../point/) belirtilen dolgu modunu ve gerilimi kullanan yapılar.
+Belirtilen doldurma modu ve gerilme kullanılarak, bir dizi [`Point`](../../point/) yapısı tarafından tanımlanan kapalı bir kardinal spline eğrisinin içini doldurur.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, float tension)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)Bu, dolgunun özelliklerini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) Spline'ı tanımlayan yapılar. |
-| fillmode | FillMode | Üyesi[`FillMode`](../../fillmode/) eğrinin nasıl doldurulacağını belirleyen numaralandırma. |
-| tension | Single | Eğrinin gerilimini belirten 0.0F'den büyük veya eşit değer. |
+| brush | Brush | [`Brush`](../../brush/) doldurmanın özelliklerini belirler. |
+| points | Point[] | Spline'ı tanımlayan [`Point`](../../point/) yapılarının dizisi. |
+| fillmode | FillMode | `[`FillMode`](../../fillmode/)` enumerasyonunun, eğrinin nasıl doldurulacağını belirleyen üyesi. |
+| gerilim | Single | Eğrinin gerilmesini belirten, 0.0F'ye eşit veya daha büyük bir değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *brush* null. -veya- *points* boş. |
+| ArgumentNullException | *brush* null'dur. -or- *points* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

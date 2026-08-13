@@ -1,29 +1,30 @@
 ---
-title: TypeToolInfoResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource yöntem. Belirtilen akış kapsayıcısını kaydeder.
+title: "TypeToolInfoResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource yöntemi. Belirtilen akış konteynerini kaydeder"
 type: docs
-weight: 270
+weight: 240
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Save method
 
-Belirtilen akış kapsayıcısını kaydeder.
+Belirtilen akış konteynerini kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

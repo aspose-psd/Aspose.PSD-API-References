@@ -1,37 +1,38 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint sınıf. Degrade Saydamlık Noktası
+title: "Sınıf GradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint sınıfı. Gradient Transparency Point"
 type: docs
-weight: 1970
+weight: 2090
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
-Degrade Saydamlık Noktası
+Gradyan Şeffaflık Noktası
 
 ```csharp
 public class GradientTransparencyPoint : IGradientTransparencyPoint
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | Yeni bir örneğini başlatır.`GradientTransparencyPoint` sınıf. |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | `GradientTransparencyPoint` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | Konumu alır veya ayarlar. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | Medyan nokta konumunu alır veya ayarlar. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | Orta nokta konumunu alır veya ayarlar. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | Rengi alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

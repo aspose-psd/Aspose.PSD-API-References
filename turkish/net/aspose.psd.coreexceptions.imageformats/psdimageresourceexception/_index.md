@@ -1,36 +1,37 @@
 ---
-title: Class PsdImageResourceException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException sınıf. psd resim kaynağı istisnası.
+title: "Sınıf PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException sınıf. psd görüntü kaynak istisnası"
 type: docs
 weight: 600
 url: /tr/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
-psd resim kaynağı istisnası.
+Psd görüntü kaynağı istisnası
 
 ```csharp
 public class PsdImageResourceException : PsdImageException
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Yeni bir örneğini başlatır.`PsdImageResourceException` sınıf. |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Yeni bir örneğini başlatır.`PsdImageResourceException` sınıf. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | Yeni bir `PsdImageResourceException` sınıfı örneği başlatır. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | Yeni bir `PsdImageResourceException` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Bu istisnaya neden olan psd kaynağını alır. |
+| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | Bu istisna neden olan psd kaynağını alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdImageException](../psdimageexception/)
-* ad alanı [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

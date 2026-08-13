@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetRemapTable
-second_title: Aspose.PSD for .NET API Referansı
-description: ImageAttributes yöntem. Varsayılan kategori için renk yeniden eşleme tablosunu ayarlar.
+title: "ImageAttributes.SetRemapTable"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ImageAttributes yöntemi. Varsayılan kategori için colorremap tablosunu ayarlar."
 type: docs
 weight: 190
 url: /tr/net/aspose.psd/imageattributes/setremaptable/
 ---
+{{< psd/tize >}}
 ## SetRemapTable(ColorMap[]) {#setremaptable}
 
 Varsayılan kategori için renk yeniden eşleme tablosunu ayarlar.
@@ -14,38 +15,38 @@ Varsayılan kategori için renk yeniden eşleme tablosunu ayarlar.
 public void SetRemapTable(ColorMap[] map)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| map | ColorMap[] | Bir dizi renk çifti türü[`ColorMap`](../../colormap/). Her renk çifti, mevcut bir rengi (ilk değer) ve eşleneceği rengi (ikinci değer) içerir. |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) türünden renk çiftlerinden oluşan bir dizi. Her renk çifti, mevcut bir rengi (ilk değer) ve ona eşlenecek rengi (ikinci değer) içerir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetRemapTable(ColorMap[], ColorAdjustType) {#setremaptable_1}
 
-Belirli bir kategori için renk yeniden eşleme tablosunu ayarlar.
+Belirtilen kategori için renk yeniden eşleme tablosunu ayarlar.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| map | ColorMap[] | Bir dizi renk çifti türü[`ColorMap`](../../colormap/). Her renk çifti, mevcut bir rengi (ilk değer) ve eşleneceği rengi (ikinci değer) içerir. |
-| type | ColorAdjustType | bir unsuru[`ColorAdjustType`](../../coloradjusttype/) renk eşleme tablosunun ayarlandığı kategoriyi belirtir. |
+| map | ColorMap[] | [`ColorMap`](../../colormap/) türünden renk çiftlerinden oluşan bir dizi. Her renk çifti, mevcut bir rengi (ilk değer) ve ona eşlenecek rengi (ikinci değer) içerir. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) öğesi, color-remap tablosunun ayarlandığı kategoriyi belirler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorMap](../../colormap/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ad alanı [Aspose.PSD](../../imageattributes/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

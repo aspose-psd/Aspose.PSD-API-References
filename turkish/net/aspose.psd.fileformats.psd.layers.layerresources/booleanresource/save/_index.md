@@ -1,29 +1,30 @@
 ---
-title: BooleanResource.Save
-second_title: Aspose.PSD for .NET API Referansı
-description: BooleanResource yöntem. Belirtilen akış kapsayıcısını kaydeder.
+title: "BooleanResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BooleanResource yöntemi. Belirtilen akış kapsayıcısını kaydeder"
 type: docs
-weight: 40
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Save method
 
-Belirtilen akış kapsayıcısını kaydeder.
+Belirtilen akış konteynerini kaydeder.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| psdVersion | Int32 | PSD versiyonu. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BooleanResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FaxT4Options
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Faks t4 seçeneklerini alır veya ayarlar.
+title: "TiffOptions.FaxT4Options"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. faks t4 seçeneklerini alır veya ayarlar"
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FaxT4Options property
 
 Faks t4 seçeneklerini alır veya ayarlar.
@@ -14,15 +15,15 @@ Faks t4 seçeneklerini alır veya ayarlar.
 public Group3Options FaxT4Options { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Faks t4 seçenekleri.
+faks t4 seçenekleri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [Group3Options](../../../aspose.psd.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

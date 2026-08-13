@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteDouble
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter yöntem. Akışa tek bir çift değer yazar.
+title: "TiffStreamWriter.WriteDouble"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter yöntemi. Akıma tek bir double değeri yazar"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDouble method
 
-Akışa tek bir çift değer yazar.
+Akışa tek bir double değer yazar.
 
 ```csharp
 public void WriteDouble(double data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Double | Yazılacak değer. |
+| veri | Double | Yazılacak değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

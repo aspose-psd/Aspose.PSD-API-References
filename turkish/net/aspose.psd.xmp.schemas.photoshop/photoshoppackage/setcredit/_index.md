@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCredit
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoshopPackage yöntem. Krediyi ayarlar.
+title: "PhotoshopPackage.SetCredit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoshopPackage yöntemi. Krediyi ayarlar"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCredit method
 
 Krediyi ayarlar.
@@ -14,14 +15,14 @@ Krediyi ayarlar.
 public void SetCredit(string credit)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| credit | String | Kredi. |
+| kredi | String | Kredi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoshopPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

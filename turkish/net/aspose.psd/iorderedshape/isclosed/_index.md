@@ -1,27 +1,28 @@
 ---
-title: IOrderedShape.IsClosed
-second_title: Aspose.PSD for .NET API Referansı
-description: IOrderedShape mülk. Sıralı şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktalarının bir anlamı yoktur.
+title: "IOrderedShape.IsClosed"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IOrderedShape özelliği. Sıralı şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı sıralı şekli işlerken başlangıç ve bitiş noktaları anlam taşımaz."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/iorderedshape/isclosed/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.IsClosed property
 
-Sıralı şeklin kapalı olup olmadığını gösteren bir değer alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktalarının bir anlamı yoktur.
+Sıralı şeklin kapalı olup olmadığını gösteren bir değeri alır veya ayarlar. Kapalı sıralı şekil işlenirken başlangıç ve bitiş noktaları bir anlam taşımaz.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`Doğru` bu sıralı şekil kapalı ise; aksi takdirde,`YANLIŞ`.
+`True` bu sıralı şekil kapalıysa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IOrderedShape](../)
-* ad alanı [Aspose.PSD](../../iorderedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

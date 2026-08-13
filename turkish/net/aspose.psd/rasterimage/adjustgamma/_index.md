@@ -1,33 +1,12 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Bir görüntünün gama düzeltmesi.
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Bir görüntünün gama düzeltmesi"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Bir görüntünün gama düzeltmesi.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Parametre | Tip | Tanım |
-| --- | --- | --- |
-| gammaRed | Single | Kırmızı kanal katsayısı için gama |
-| gammaGreen | Single | Yeşil kanal katsayısı için gama |
-| gammaBlue | Single | Mavi kanal katsayısı için gama |
-
-### Ayrıca bakınız
-
-* class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Bir görüntünün gama düzeltmesi.
@@ -36,14 +15,36 @@ Bir görüntünün gama düzeltmesi.
 public virtual void AdjustGamma(float gamma)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| gamma | Single | Kırmızı, yeşil ve mavi kanal katsayısı için gama |
+| gama | Single | Kırmızı, yeşil ve mavi kanallar için gama katsayısı |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Bir görüntünün gama düzeltmesi.
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| gammaRed | Single | Kırmızı kanal için gama katsayısı |
+| gammaGreen | Single | Yeşil kanal için gama katsayısı |
+| gammaBlue | Single | Mavi kanal için gama katsayısı |
+
+### Ayrıca Bakınız
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

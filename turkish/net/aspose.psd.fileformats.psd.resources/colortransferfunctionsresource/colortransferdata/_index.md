@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorTransferFunctionsResource mülk. Renk aktarım verilerini alır veya ayarlar.
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorTransferFunctionsResource özelliği. Renk transfer verisini alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
-Renk aktarım verilerini alır veya ayarlar.
+Renk aktarım verisini alır veya ayarlar.
 
 ```csharp
 public byte[] ColorTransferData { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Renk aktarım verileri.
+Renk transfer verisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorTransferFunctionsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

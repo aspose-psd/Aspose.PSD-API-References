@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reverse
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath yöntem. Bunun her şeklindeki şekillerin şekillerin ve noktaların sırasını tersine çevirirGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath yöntemi. Bu GraphicsPath'teki her şeklin figür, şekil ve nokta sırasını tersine çevirir."
 type: docs
 weight: 160
 url: /tr/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-Bunun her şeklindeki şekillerin, şekillerin ve noktaların sırasını tersine çevirir[`GraphicsPath`](../) .
+Bu [`GraphicsPath`](../) içindeki her şeklin figür, şekil ve nokta sırasını tersine çevirir.
 
 ```csharp
 public void Reverse()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

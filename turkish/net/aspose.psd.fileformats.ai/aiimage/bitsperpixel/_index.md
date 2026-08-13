@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD for .NET API Referansı
-description: AiImage mülk. Piksel sayısı başına görüntü bitlerini alır.
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiImage özelliği. Görüntünün piksel başına bit sayısını alır"
 type: docs
-weight: 20
+weight: 30
 url: /tr/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-Piksel sayısı başına görüntü bitlerini alır.
+Görüntünün piksel başına bit sayısını alır.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Piksel başına görüntü bit sayısı.
+Görüntü piksel başına bit sayısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiImage](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

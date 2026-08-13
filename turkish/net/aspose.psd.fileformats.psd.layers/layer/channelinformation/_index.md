@@ -1,28 +1,29 @@
 ---
-title: Layer.ChannelInformation
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Kanal bilgilerini alır veya ayarlar.
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Kanal bilgisini alır veya ayarlar"
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
-Kanal bilgilerini alır veya ayarlar.
+Kanal bilgisini alır veya ayarlar.
 
 ```csharp
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kanal bilgisi.
+kanal bilgisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

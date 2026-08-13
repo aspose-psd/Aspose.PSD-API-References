@@ -1,41 +1,42 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Multithreading.InterruptMonitor sınıf. Kesinti hakkındaki bilgileri temsil eder.
+title: "Sınıf InterruptMonitor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Multithreading.InterruptMonitor sınıfı. Kesintiye ilişkin bilgileri temsil eder."
 type: docs
-weight: 5130
+weight: 5650
 url: /tr/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
-Kesinti hakkındaki bilgileri temsil eder.
+Kesinti hakkında bilgi temsil eder.
 
 ```csharp
 public class InterruptMonitor
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | Default_Constructor |
+| [InterruptMonitor](interruptmonitor/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Her iş parçacığı için benzersiz olan InterruptMonitor örneğini alır veya ayarlar. |
 | [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | İşlemlerin kesilmesi gerekip gerekmediğini gösteren değeri alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | İşlemleri kesmek için bir istek gönderir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

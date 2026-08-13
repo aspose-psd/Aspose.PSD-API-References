@@ -1,31 +1,32 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType Sıralama. proje türünü temsil ederXmpDynamicMediaPackage .
+title: "Enum ProjectType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. XmpDynamicMediaPackage içinde proje tipini temsil eder."
 type: docs
-weight: 5870
+weight: 6400
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-proje türünü temsil eder[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) içinde proje tipini temsil eder.
 
 ```csharp
 public enum ProjectType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Movie | `0` | Film proje türü |
-| Still | `1` | Hareketsiz proje type |
-| Audio | `2` | Ses projesi type |
+| Movie | `0` | Film proje tipi |
+| Still | `1` | Durağan proje tipi |
+| Audio | `2` | Ses proje tipi |
 | Custom | `3` | Özel proje tipi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

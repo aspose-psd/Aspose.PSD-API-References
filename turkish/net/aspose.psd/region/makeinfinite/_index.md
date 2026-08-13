@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu başlatırRegion sonsuz bir iç mekana itiraz.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region nesnesini sonsuz bir içeriğe başlatır"
 type: docs
-weight: 110
+weight: 120
 url: /tr/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-Bunu başlatır[`Region`](../) sonsuz bir iç mekana itiraz.
+Bu [`Region`](../) nesnesini sonsuz bir içeriğe başlatır.
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Aspose.PSD for .NET API Referansı
-description: LoadOptions mülk. Veri kurtarma modunu alır veya ayarlar.
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LoadOptions özelliği. Veri kurtarma modunu alır veya ayarlar."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
 Veri kurtarma modunu alır veya ayarlar.
@@ -14,15 +15,15 @@ Veri kurtarma modunu alır veya ayarlar.
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Veri kurtarma modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* ad alanı [Aspose.PSD](../../loadoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

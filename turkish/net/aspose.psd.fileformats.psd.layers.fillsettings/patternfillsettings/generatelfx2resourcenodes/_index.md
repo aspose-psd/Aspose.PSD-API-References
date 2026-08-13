@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternFillSettings yöntem. LFX2 kaynak düğümlerini oluşturur.
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternFillSettings yöntemi. LFX2 kaynak düğümlerini oluşturur"
 type: docs
-weight: 140
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 LFX2 kaynak düğümlerini oluşturur.
@@ -15,27 +16,27 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
     string patternName, string identifier, double scale, bool linked, PointF offset)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pointType | String | Nokta türü. |
-| color | Color | Renk. |
+| pointType | String | Noktanın türü. |
+| renk | Renk | Renk. |
 | patternName | String | Desenin adı. |
-| identifier | String | tanımlayıcı. |
-| scale | Double | Ölcek. |
-| linked | Boolean | olarak ayarlanmışsa`doğru` [bağlı]. |
+| identifier | String | Tanımlayıcı. |
+| scale | Double | Ölçek. |
+| linked | Boolean | eğer `true` olarak ayarlanmışsa [linked]. |
 | offset | PointF | Ofset. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Listesi[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Listesi [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

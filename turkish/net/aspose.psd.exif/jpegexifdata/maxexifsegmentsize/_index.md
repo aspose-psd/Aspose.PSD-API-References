@@ -1,23 +1,24 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegExifData alan. İzin verilen bayt cinsinden maksimum EXIF segment boyutu.
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegExifData alanı. İzin verilen maksimum EXIF segment boyutu (bayt cinsinden)"
 type: docs
 weight: 280
 url: /tr/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-İzin verilen bayt cinsinden maksimum EXIF segment boyutu.
+İzin verilen maksimum EXIF segment boyutu (bayt cinsinden).
 
 ```csharp
 public const int MaxExifSegmentSize;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../jpegexifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

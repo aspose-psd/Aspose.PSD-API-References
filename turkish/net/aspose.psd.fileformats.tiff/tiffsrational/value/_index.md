@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffSRational mülk. Float değerini alır.
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffSRational özelliği. Float değerini alır"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
 Float değerini alır.
@@ -14,14 +15,14 @@ Float değerini alır.
 public float Value { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayan değer.
+Float değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

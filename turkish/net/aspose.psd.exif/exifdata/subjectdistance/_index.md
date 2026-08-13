@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Konu mesafesini alır veya ayarlar.
+title: "ExifData.SubjectDistance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Konu mesafesini alır veya ayarlar"
 type: docs
 weight: 1000
 url: /tr/net/aspose.psd.exif/exifdata/subjectdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistance property
 
 Konu mesafesini alır veya ayarlar.
@@ -14,15 +15,15 @@ Konu mesafesini alır veya ayarlar.
 public TiffRational SubjectDistance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Konu mesafesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

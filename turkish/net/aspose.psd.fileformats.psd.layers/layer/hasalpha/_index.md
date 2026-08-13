@@ -1,27 +1,28 @@
 ---
-title: Layer.HasAlpha
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Bu örneğin alfaya sahip olup olmadığını gösteren bir değer alır.
+title: "Layer.HasAlpha"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Katman özelliği. Bu örneğin alfa içerip içermediğini gösteren bir değer alır"
 type: docs
-weight: 150
+weight: 160
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
-Bu örneğin alfaya sahip olup olmadığını gösteren bir değer alır.
+Bu örneğin alfa içerip içermediğini gösteren bir değeri alır.
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu örnekte alfa varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu örnek alfa içeriyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

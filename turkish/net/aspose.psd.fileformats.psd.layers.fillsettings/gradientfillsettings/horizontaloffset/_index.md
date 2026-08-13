@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Yatay ofseti yüzde olarak alır veya ayarlar.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Yüzde cinsinden yatay ofseti alır veya ayarlar"
 type: docs
-weight: 100
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-Yatay ofseti yüzde olarak alır veya ayarlar.
+Yüzde olarak yatay ofseti alır veya ayarlar.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yatay uzaklık.
+Yatay ofset.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

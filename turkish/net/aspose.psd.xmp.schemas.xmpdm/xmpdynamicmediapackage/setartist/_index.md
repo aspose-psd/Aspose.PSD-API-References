@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetArtist
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Sanatçıyı ayarlar.
+title: "XmpDynamicMediaPackage.SetArtist"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Sanatçıyı ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setartist/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetArtist method
 
 Sanatçıyı ayarlar.
@@ -14,14 +15,14 @@ Sanatçıyı ayarlar.
 public void SetArtist(string artist)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | artist | String | Sanatçı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

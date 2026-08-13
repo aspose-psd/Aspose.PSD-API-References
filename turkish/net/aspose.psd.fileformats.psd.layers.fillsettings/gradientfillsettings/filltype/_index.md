@@ -1,24 +1,25 @@
 ---
-title: GradientFillSettings.FillType
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientFillSettings mülk. Dolgu türü
+title: "GradientFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientFillSettings özelliği. Dolgu tipi"
 type: docs
-weight: 70
+weight: 50
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-Dolgu türü
+Doldurma türü.
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

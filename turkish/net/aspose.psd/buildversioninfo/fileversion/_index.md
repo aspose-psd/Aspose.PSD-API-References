@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: BuildVersionInfo alan. Dosya sürümü.
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BuildVersionInfo alanı. Dosya sürümü"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
 Dosya sürümü.
@@ -14,10 +15,10 @@ Dosya sürümü.
 public static readonly string FileVersion;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BuildVersionInfo](../)
-* ad alanı [Aspose.PSD](../../buildversioninfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

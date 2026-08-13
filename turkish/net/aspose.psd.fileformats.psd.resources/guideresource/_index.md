@@ -1,11 +1,12 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource sınıf. Kılavuz kaynak bloğu.
+title: "GuideResource sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource sınıfı. Kılavuz kaynak bloğu"
 type: docs
-weight: 3750
+weight: 4250
 url: /tr/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
 Kılavuz kaynak bloğu.
@@ -14,28 +15,28 @@ Kılavuz kaynak bloğu.
 public sealed class GuideResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [GuideResource](guideresource/)() | Default_Constructor |
+| [GuideResource](guideresource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Kılavuzun yönünü alır veya ayarlar. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Kılavuzun konumunu belge koordinatlarında alır veya ayarlar. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Kılavuz yönünü alır veya ayarlar. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Kılavuzun belge koordinatlarındaki konumunu alır veya ayarlar. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Kılavuz kaynak bloğu boyutu. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Kılavuz kaynak blok boyutu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

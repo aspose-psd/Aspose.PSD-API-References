@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDynamicMediaPackage yöntem. Ses örnekleme oranını ayarlar.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDynamicMediaPackage yöntemi. Ses örnekleme oranını ayarlar"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
 Ses örnekleme oranını ayarlar.
@@ -14,14 +15,14 @@ Ses örnekleme oranını ayarlar.
 public void SetAudioSampleRate(int rate)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rate | Int32 | Ses örnekleme hızı. |
+| oran | Int32 | Ses örnekleme oranı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDynamicMediaPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

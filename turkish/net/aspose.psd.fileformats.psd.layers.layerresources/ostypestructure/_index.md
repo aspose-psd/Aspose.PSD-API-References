@@ -1,44 +1,45 @@
 ---
-title: Class OSTypeStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure sınıf. İşletim sistemi tipi yapısını temsil eder.
+title: "Sınıf OSTypeStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure sınıfı. OS tip yapısını temsil eder"
 type: docs
-weight: 2850
+weight: 3190
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
-İşletim sistemi tipi yapısını temsil eder.
+OS tip yapısını temsil eder.
 
 ```csharp
 public abstract class OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Yeni bir örneğini başlatır.`OSTypeStructure` sınıf. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | `OSTypeStructure` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Yapı anahtarını alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Şunu alır:`OSTypeStructure` bayt cinsinden uzunluk. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | `OSTypeStructure` uzunluğunu bayt cinsinden alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

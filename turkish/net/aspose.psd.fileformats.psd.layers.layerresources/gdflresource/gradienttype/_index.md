@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.GradientType
-second_title: Aspose.PSD for .NET API Referansı
-description: GdFlResource mülk. Degradenin türünü alır veya ayarlar.
+title: "GdFlResource.GradientType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GdFlResource property. Gradyanın tipini alır veya ayarlar"
 type: docs
-weight: 90
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientType property
 
-Degradenin türünü alır veya ayarlar.
+Degrade tipini alır veya ayarlar.
 
 ```csharp
 public GradientType GradientType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Degradenin türü.
+Gradyanın tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [GradientType](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/)
 * class [GdFlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

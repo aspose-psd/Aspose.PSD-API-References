@@ -1,45 +1,46 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterImage yöntem. Açıyı normalleştirir. Bu yöntem çarpık taramadan kurtulmak için taranan metin belgelerine uygulanabilir. Bu yöntemGetSkewAngle VeRotate yöntemler.
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterImage yöntemi. Açıyı normalleştirir. Bu yöntem, eğik taramayı ortadan kaldırmak için taranmış metin belgelerine uygulanabilir. Bu yöntem GetSkewAngle ve Rotate yöntemlerini kullanır."
 type: docs
-weight: 420
+weight: 430
 url: /tr/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-Açıyı normalleştirir. Bu yöntem, çarpık taramadan kurtulmak için taranan metin belgelerine uygulanabilir. Bu yöntem,[`GetSkewAngle`](../getskewangle/) Ve[`Rotate`](../rotate/) yöntemler.
+Açıyı normalleştirir. Bu yöntem, eğik taramayı ortadan kaldırmak için taranmış metin belgelerine uygulanabilir. Bu yöntem [`GetSkewAngle`](../getskewangle/) ve [`Rotate`](../rotate/) yöntemlerini kullanır.
 
 ```csharp
 public void NormalizeAngle()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Açıyı normalleştirir. Bu yöntem, çarpık taramadan kurtulmak için taranan metin belgelerine uygulanabilir. Bu yöntem,[`GetSkewAngle`](../getskewangle/) Ve[`Rotate`](../rotate/) yöntemler.
+Açıyı normalleştirir. Bu yöntem, eğik taramayı ortadan kaldırmak için taranmış metin belgelerine uygulanabilir. Bu yöntem [`GetSkewAngle`](../getskewangle/) ve [`Rotate`](../rotate/) yöntemlerini kullanır.
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| resizeProportionally | Boolean | olarak ayarlanmışsa`doğru` boyutlara dokunulmadığı ve yalnızca dahili görüntü içeriğinin döndürüldüğü diğer durumda, görüntü boyutunuzu döndürülmüş dikdörtgen (köşe noktaları) projeksiyonlarına göre değiştirmiş olacaksınız. |
-| backgroundColor | Color | Arka plan rengi. |
+| resizeProportionally | Boolean | eğer `true` olarak ayarlanırsa, görüntü boyutunuz döndürülmüş dikdörtgenin (köşe noktaları) izdüşümlerine göre değişir; diğer durumda boyutlar dokunulmaz kalır ve yalnızca iç görüntü içeriği döndürülür. |
+| backgroundColor | Renk | Arka planın rengi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ad alanı [Aspose.PSD](../../rasterimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

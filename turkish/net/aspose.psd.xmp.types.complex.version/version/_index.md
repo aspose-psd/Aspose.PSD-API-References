@@ -1,47 +1,48 @@
 ---
-title: Class Version
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Version.Version sınıf. Belgenin bir sürümünü tanımlar.
+title: "Sınıf Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Version.Version sınıfı. Bir belgenin bir sürümünü tanımlar"
 type: docs
-weight: 6110
+weight: 6640
 url: /tr/net/aspose.psd.xmp.types.complex.version/version/
 ---
+{{< psd/tize >}}
 ## Version class
 
-Belgenin bir sürümünü tanımlar.
+Bir belgenin bir sürümünü tanımlar.
 
 ```csharp
 public sealed class Version : ComplexTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Version](version/)() | Default_Constructor |
+| [Version](version/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Comments](../../aspose.psd.xmp.types.complex.version/version/comments/) { get; set; } | Yorumları alır veya ayarlar. |
-| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | Değiştirilen tarihi alır veya ayarlar. |
-| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | Değiştiriciyi alır veya ayarlar. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sini alır. |
+| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | Değiştirilme tarihini alır veya ayarlar. |
+| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | Değiştireni alır veya ayarlar. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ön eki alır. |
-| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | Şunu alır veya ayarlar:[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) . |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | Bu [`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) alır veya ayarlar. |
 | [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext/) { get; set; } | Sürüm metnini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.Threshold1
-second_title: Aspose.PSD for .NET API Referansı
-description: JpegLsPresetCodingParameters mülk. Yerel gradyanlar için ilk niceleme eşik değerini alır veya ayarlar.
+title: "JpegLsPresetCodingParameters.Threshold1"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "JpegLsPresetCodingParameters özelliği. Yerel gradyanlar için ilk kantizasyon eşik değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.Threshold1 property
 
-Yerel gradyanlar için ilk niceleme eşik değerini alır veya ayarlar.
+Yerel gradyanlar için birinci kantizasyon eşik değerini alır veya ayarlar.
 
 ```csharp
 public int Threshold1 { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [JpegLsPresetCodingParameters](../)
-* ad alanı [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

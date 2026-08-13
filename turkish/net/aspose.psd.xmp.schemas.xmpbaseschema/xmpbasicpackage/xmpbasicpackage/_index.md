@@ -1,44 +1,45 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpBasicPackage inşaatçı. Yeni bir örneğini başlatır.XmpBasicPackage sınıf.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpBasicPackage yapıcı. XmpBasicPackage sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpBasicPackage`](../) sınıf.
+[`XmpBasicPackage`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpBasicPackage()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpBasicPackage`](../) sınıf.
+[`XmpBasicPackage`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| prefix | String | önek |
-| namespaceUri | String | Ad alanı URI'si. |
+| önek | String | Önek. |
+| namespaceUri | String | Namespace URI'si. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpBasicPackage](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

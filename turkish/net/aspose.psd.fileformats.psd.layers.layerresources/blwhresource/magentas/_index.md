@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.Magentas
-second_title: Aspose.PSD for .NET API Referansı
-description: BlwhResource mülk. Macenta değerini alır veya ayarlar.
+title: "BlwhResource.Magentas"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlwhResource özelliği. Magenta değerini alır veya ayarlar"
 type: docs
-weight: 90
+weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Magentas property
 
 Macenta değerini alır veya ayarlar.
@@ -14,13 +15,13 @@ Macenta değerini alır veya ayarlar.
 public int Magentas { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Macenta değeri.
+Magenta değeri.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, bir BlwhResource'u nasıl düzenlediğinizi gösterir.
+Aşağıdaki örnek, bir BlwhResource'ı nasıl düzenleyeceğinizi gösterir.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Test düzenleme ve kaydetme
+                // Düzenleme ve kaydetme testi
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlwhResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

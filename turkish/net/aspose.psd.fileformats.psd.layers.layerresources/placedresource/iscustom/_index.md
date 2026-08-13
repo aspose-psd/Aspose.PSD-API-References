@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Aspose.PSD for .NET API Referansı
-description: PlacedResource mülk. Bu örnek çarpıtma stilinin özel olup olmadığını gösteren bir değer alır veya ayarlar. Doğruysa ağ noktaları içerir. false değerine ayarlanırsa ağ noktalarını siler.
+title: "PlacedResource.IsCustom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PlacedResource özelliği. Bu örnek bükülme stilinin özel olup olmadığını gösteren bir değeri alır veya ayarlar. true ise örgü noktalarını içerir. false olarak ayarlandığında örgü noktalarını siler."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-Bu örnek çarpıtma stilinin özel olup olmadığını gösteren bir değer alır veya ayarlar. Doğruysa, ağ noktaları içerir. false değerine ayarlanırsa ağ noktalarını siler.
+Bu örneğin bükme stilinin özel olup olmadığını gösteren bir değeri alır veya ayarlar. Doğru ise ağ noktalarını içerir. Yanlış olarak ayarlanırsa ağ noktalarını siler.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` yerleştirilen katmanın özel stili varsa; aksi takdirde,`YANLIŞ` .
+`true` eğer yerleştirilen katmanın özel stili varsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PlacedResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

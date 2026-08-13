@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Multiply
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleF yöntem. . operatörünü uygular
+title: "RectangleF.op_Multiply"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleF yöntemi. Operatörü uygular."
 type: docs
 weight: 300
 url: /tr/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
-*. operatörünü uygular
+* operatörünü uygular.
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | dikdörtgen. |
-| multiplier | Single | çarpan. |
+| dikdörtgen | RectangleF | Dikdörtgen. |
+| çarpan | Single | Çarpan. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Operatörün sonucu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../)
-* ad alanı [Aspose.PSD](../../rectanglef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

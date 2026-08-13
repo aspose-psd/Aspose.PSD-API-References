@@ -1,23 +1,24 @@
 ---
-title: VstkResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Katman kaynak anahtarını alır.
+title: "VstkResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/
 ---
+{{< psd/tize >}}
 ## VstkResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı Çoklu kullanım sınıfları içerir.
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Bu ad alanı çok iş parçacıklı sınıfları içerir"
 type: docs
-weight: 460
+weight: 500
 url: /tr/net/aspose.psd.multithreading/
 ---
-Ad alanı, Çoklu kullanım sınıfları içerir.
+{{< psd/tize >}}
+Bu ad alanı, Çoklu İşlem sınıflarını içerir.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/) | Kesinti hakkındaki bilgileri temsil eder. |
+| [InterruptMonitor](./interruptmonitor/) | Kesinti hakkında bilgi temsil eder. |
 
 

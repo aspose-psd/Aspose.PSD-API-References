@@ -1,33 +1,34 @@
 ---
-title: PhotoFilterLayer.Density
-second_title: Aspose.PSD for .NET API Referansı
-description: PhotoFilterLayer mülk. filter yoğunluğunu alır veya ayarlar
+title: "PhotoFilterLayer.Density"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PhotoFilterLayer özelliği. Filtre yoğunluğunu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Density property
 
-filter yoğunluğunu alır veya ayarlar
+Filtrein yoğunluğunu alır veya ayarlar.
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yoğunluk.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | Yoğunluk 0 ile 100 aralığında olmalıdır |
+| ArgumentOutOfRangeException | Yoğunluk 0 ile 100 arasında olmalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PhotoFilterLayer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

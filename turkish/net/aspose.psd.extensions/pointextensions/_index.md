@@ -1,30 +1,31 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.PointExtensions sınıf. Şunun için uzantı yöntemleri içerirPoint VePointF yapılar.
+title: "Sınıf PointExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.PointExtensions sınıfı. Point ve PointF yapıları için uzantı yöntemlerini içerir."
 type: docs
-weight: 1150
+weight: 1160
 url: /tr/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-Şunun için uzantı yöntemleri içerir:[`Point`](../../aspose.psd/point/) Ve[`PointF`](../../aspose.psd/pointf/) yapılar.
+[`Point`](../../aspose.psd/point/) ve [`PointF`](../../aspose.psd/pointf/) yapıları için uzantı yöntemlerini içerir.
 
 ```csharp
 public static class PointExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | dönüştürür[`PointF`](../../aspose.psd/pointf/) ilePointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | dönüştürür[`PointF`](../../aspose.psd/pointf/) dizisinePointF dizi. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | dönüştürür[`Point`](../../aspose.psd/point/) dizisine[`PointF`](../../aspose.psd/pointf/) dizi. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | [`PointF`](../../aspose.psd/pointf/) öğesini PointF'e dönüştürür. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | [`PointF`](../../aspose.psd/pointf/) dizisini PointF dizisine dönüştürür. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | [`Point`](../../aspose.psd/point/) dizisini [`PointF`](../../aspose.psd/pointf/) dizisine dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

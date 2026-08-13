@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Aspose.PSD for .NET API Referansı
-description: CmlsResource inşaatçı. Yeni bir örneğini başlatır.CmlsResource sınıf.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmlsResource yapıcı. CmlsResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-Yeni bir örneğini başlatır.[`CmlsResource`](../) sınıf.
+[`CmlsResource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| data | Byte[] | Kaynağın verileri. |
+| veri | Byte[] | Kaynağın verisi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmlsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

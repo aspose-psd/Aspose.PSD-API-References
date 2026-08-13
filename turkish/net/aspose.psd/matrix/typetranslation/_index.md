@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeTranslation
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix alan. Çeviri vektörlerin uzunluğunu veya açısını değiştirmeden koordinatları x ve yde sabit bir miktarda hareket ettirir.
+title: "Matrix.TypeTranslation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix field. Bir çeviri, koordinatları x ve y eksenlerinde sabit bir miktar hareket ettirir ve vektörlerin uzunluğunu veya açısını değiştirmez."
 type: docs
 weight: 280
 url: /tr/net/aspose.psd/matrix/typetranslation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeTranslation field
 
-Çeviri, vektörlerin uzunluğunu veya açısını değiştirmeden koordinatları x ve y'de sabit bir miktarda hareket ettirir.
+Bir çeviri, koordinatları x ve y yönlerinde sabit bir miktar hareket ettirir ve vektörlerin uzunluğunu ya da açısını değiştirmez.
 
 ```csharp
 public const int TypeTranslation;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

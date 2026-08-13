@@ -1,56 +1,57 @@
 ---
-title: Class PdfPackage
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Schemas.Pdf.PdfPackage sınıf. Adobe Pdf ad alanını temsil eder.
+title: "Sınıf PdfPackage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Schemas.Pdf.PdfPackage sınıfı. Adobe Pdf ad alanını temsil eder"
 type: docs
-weight: 5790
+weight: 6320
 url: /tr/net/aspose.psd.xmp.schemas.pdf/pdfpackage/
 ---
+{{< psd/tize >}}
 ## PdfPackage class
 
-Adobe Pdf ad alanını temsil eder.
+Adobe PDF namespace'ini temsil eder.
 
 ```csharp
 public sealed class PdfPackage : XmpPackage
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [PdfPackage](pdfpackage/)() | Default_Constructor |
+| [PdfPackage](pdfpackage/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Şunu alır veya ayarlar:Object belirtilen anahtarla. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Belirtilen anahtara sahip Nesneyi alır veya ayarlar. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | XMP paketindeki anahtarları alır. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Ad alanı URI'sini alır. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Ön eki alır. |
 | [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | XML ad alanını alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/)(string, string) | Dizi özelliğini ekler. |
+| override [AddValue](../../aspose.psd.xmp.schemas.pdf/pdfpackage/addvalue/)(string, string) | Dize özelliği ekler. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Bu örneği temizler. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Belirtilen anahtarın key. içerip içermediğini belirler. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Koleksiyon boyunca yinelenen bir numaralandırıcı döndürür. |
-| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | XMP değerini XML gösterimine dönüştürür. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Belirtilen anahtarla değeri kaldırın. |
-| [SetKeywords](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/)(string) | Anahtar sözcükleri ayarlar. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Belirtilen anahtarın anahtar içerip içermediğini belirler. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Koleksiyon içinde yineleme yapan bir enumerator döndürür. |
+| virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | XMP değerini XML temsiline dönüştürür. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Belirtilen anahtara sahip değeri kaldır. |
+| [SetKeywords](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/)(string) | Anahtar kelimeleri ayarlar. |
 | [SetPdfVersion](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/)(string) | PDF sürümünü ayarlar. |
-| [SetProducer](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/)(string) | Pdf. 'yi oluşturan aracın adını ayarlar. |
-| [SetTrapped](../../aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/)(bool) | Yakalananı ayarlar. |
+| [SetProducer](../../aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/)(string) | Pdf'i oluşturan aracın adını ayarlar. |
+| [SetTrapped](../../aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/)(bool) | Trapped özelliğini ayarlar. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Değeri ayarlar. |
-| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | XMP türü değerini ayarlar. |
+| virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | XMP tip değerini ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* ad alanı [Aspose.PSD.Xmp.Schemas.Pdf](../../aspose.psd.xmp.schemas.pdf/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

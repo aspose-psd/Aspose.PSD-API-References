@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Aspose.PSD for .NET API Referansı
-description: UnknownResource mülk. Gereken minimum psd sürümünü alır.
+title: "UnknownResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "UnknownResource özelliği. Gereken minimum psd sürümünü alır"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.MinimalVersion property
 
-Gereken minimum psd sürümünü alır.
+Gerekli minimum psd sürümünü alır.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Minimum psd sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [UnknownResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

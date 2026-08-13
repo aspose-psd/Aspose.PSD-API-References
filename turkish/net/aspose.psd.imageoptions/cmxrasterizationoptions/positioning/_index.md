@@ -1,28 +1,29 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Aspose.PSD for .NET API Referansı
-description: CmxRasterizationOptions mülk. Konumlandırmayı alır veya ayarlar.
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmxRasterizationOptions property. Konumlandırmayı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
-Konumlandırmayı alır veya ayarlar.
+Alır veya ayarlar konumlandırmayı.
 
 ```csharp
 public PositioningTypes Positioning { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Konumlandırma.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

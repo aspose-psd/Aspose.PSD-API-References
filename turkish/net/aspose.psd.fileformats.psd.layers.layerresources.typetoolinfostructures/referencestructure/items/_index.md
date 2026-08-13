@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.Items
-second_title: Aspose.PSD for .NET API Referansı
-description: ReferenceStructure mülk. Yapı dizisinin bir kopyasını alır veya ayarlar.
+title: "ReferenceStructure.Items"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ReferenceStructure özelliği. Yapıların bir dizisinin kopyasını alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Items property
 
-Yapı dizisinin bir kopyasını alır veya ayarlar.
+Yapıların bir dizisinin kopyasını alır veya ayarlar.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Öğeler.
+Ögeler.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ReferenceStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

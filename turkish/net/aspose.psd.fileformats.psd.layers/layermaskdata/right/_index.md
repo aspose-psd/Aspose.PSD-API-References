@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerMaskData mülk. Doğru katman maskesi konumunu alır veya ayarlar.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerMaskData özelliği. Sağ katman maskesi konumunu alır veya ayarlar."
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-Doğru katman maskesi konumunu alır veya ayarlar.
+Sağ katman maskesi konumunu alır veya ayarlar.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Doğru katman maskesi konumu.
+Sağ katman maskesi konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerMaskData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

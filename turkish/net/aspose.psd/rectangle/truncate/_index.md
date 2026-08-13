@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Truncate
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Belirtileni dönüştürürRectangleF birRectangle keserekRectangleF değerler.
+title: "Rectangle.Truncate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen RectangleF'yi, RectangleF değerlerini kırparak bir Rectangle'a dönüştürür."
 type: docs
 weight: 90
 url: /tr/net/aspose.psd/rectangle/truncate/
 ---
+{{< psd/tize >}}
 ## Rectangle.Truncate method
 
-Belirtileni dönüştürür[`RectangleF`](../../rectanglef/) bir[`Rectangle`](../) keserek[`RectangleF`](../../rectanglef/) değerler.
+Belirtilen [`RectangleF`](../../rectanglef/) değerlerini kırparak bir [`Rectangle`](../) nesnesine dönüştürür.
 
 ```csharp
 public static Rectangle Truncate(RectangleF value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | RectangleF | bu[`RectangleF`](../../rectanglef/) dönüştürülecek. |
+| value | RectangleF | Dönüştürülecek [`RectangleF`](../../rectanglef/). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-yeni[`Rectangle`](../).
+Yeni bir [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

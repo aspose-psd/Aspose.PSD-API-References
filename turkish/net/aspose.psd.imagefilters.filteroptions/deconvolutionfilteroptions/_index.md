@@ -1,32 +1,33 @@
 ---
-title: Class DeconvolutionFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.DeconvolutionFilterOptions sınıf. Dekonvolüsyon Filtre Seçenekleri soyut class
+title: "DeconvolutionFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.DeconvolutionFilterOptions sınıfı. Deconvolution Filter Options soyut sınıfı"
 type: docs
-weight: 4680
+weight: 5180
 url: /tr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions class
 
-Dekonvolüsyon Filtre Seçenekleri, soyut class
+Dekonvolüsyon Filtre Seçenekleri, soyut sınıf
 
 ```csharp
 public abstract class DeconvolutionFilterOptions : FilterOptionsBase
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | Parlaklığı alır veya ayarlar. önerilen aralık 1 - 1.5 varsayılan değer = 1.15 |
-| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`DeconvolutionFilterOptions` gri tonlamalı. Gri tonlama moduna veya RGB moduna geri dön. |
-| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | Bu örneğin kısmen yüklenip yüklenmediğini gösteren bir değer alır. |
-| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | SNR'yi (sinyal-gürültü oranı) alır veya ayarlar önerilen aralık 0,002 - 0,009, varsayılan değer = 0,007 |
+| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | Parlaklığı alır veya ayarlar. önerilen aralık 1 - 1.5, varsayılan değer = 1.15 |
+| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | `DeconvolutionFilterOptions`'ın gri tonlamalı olup olmadığını gösteren bir değeri alır veya ayarlar. Gri tonlama modu ya da RGB modunu döndürür. |
+| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | Bu örneğin kısmen yüklendiğini belirten bir değeri alır. |
+| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | SNR (signal-to-noise ratio) önerilen aralığını alır veya ayarlar 0.002 - 0.009, varsayılan değer = 0.007 |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

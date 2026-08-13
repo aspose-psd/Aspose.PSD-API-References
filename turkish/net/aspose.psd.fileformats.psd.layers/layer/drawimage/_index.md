@@ -1,11 +1,12 @@
 ---
-title: Layer.DrawImage
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer yöntem. Görüntüyü katmana çizer.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer yöntemi. Görüntüyü katmana çizer."
 type: docs
-weight: 340
+weight: 360
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
 Görüntüyü katmana çizer.
@@ -14,23 +15,23 @@ Görüntüyü katmana çizer.
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| location | Point | Konum. |
-| image | RasterImage | Görüntü. |
+| konum | Point | Konum. |
+| görüntü | RasterImage | Görüntü. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Konum negatif olmamalıdır |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

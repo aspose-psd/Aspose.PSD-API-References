@@ -1,34 +1,35 @@
 ---
-title: IImageLoaderDescriptor.CanLoad
-second_title: Aspose.PSD for .NET API Referansı
-description: IImageLoaderDescriptor yöntem. Görüntü yükleyicinin belirtilen akıştan ve isteğe bağlı olarakloadOptions .
+title: "IImageLoaderDescriptor.CanLoad"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IImageLoaderDescriptor yöntemi. Görüntü yükleyicisinin belirtilen akıştan yeni bir görüntüyü okuyup okuyamayacağını ve isteğe bağlı olarak loadOptions kullanıp kullanmayacağını belirler"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/iimageloaderdescriptor/canload/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CanLoad method
 
-Görüntü yükleyicinin belirtilen akıştan ve isteğe bağlı olarak*loadOptions* .
+Belirtilen akıştan yeni bir görüntüyü okuyup okuyamayacağını ve isteğe bağlı olarak *loadOptions* kullanıp kullanmayacağını belirler.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Akış kabı. |
-| loadOptions | LoadOptions | tarafından belirtilen dosya biçimi ayrıntıları*loadOptions* . bu*loadOptions* boş olabilir. |
+| streamContainer | StreamContainer | Akış konteyneri. |
+| loadOptions | LoadOptions | *loadOptions* tarafından belirtilen dosya formatı ayrıntıları. *loadOptions* null olabilir. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` bu tanımlayıcı tarafından oluşturulan görüntü yükleyici, akışı görüntüden okuyabiliyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer bu tanımlayıcı tarafından oluşturulan görüntü yükleyicisi akıştan görüntüyü okuyabiliyorsa; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoaderDescriptor](../)
-* ad alanı [Aspose.PSD](../../iimageloaderdescriptor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

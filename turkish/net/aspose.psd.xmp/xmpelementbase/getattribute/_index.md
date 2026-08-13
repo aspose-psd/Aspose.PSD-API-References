@@ -1,31 +1,32 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpElementBase yöntem. Özniteliği alır.
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpElementBase yöntemi. Özniteliği alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
-Özniteliği alır.
+Özelliği alır.
 
 ```csharp
 public virtual string GetAttribute(string attribute)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | attribute | String | Öznitelik. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirtilen öznitelik adı için özniteliği döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpElementBase](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpelementbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

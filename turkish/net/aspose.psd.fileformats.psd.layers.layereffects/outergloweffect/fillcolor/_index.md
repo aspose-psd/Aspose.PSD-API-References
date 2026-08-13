@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.FillColor
-second_title: Aspose.PSD for .NET API Referansı
-description: OuterGlowEffect mülk. Rengi alır veya ayarlar.
+title: "OuterGlowEffect.FillColor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "OuterGlowEffect özelliği. Rengi alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.FillColor property
 
 Rengi alır veya ayarlar.
@@ -14,11 +15,11 @@ Rengi alır veya ayarlar.
 public IFillSettings FillColor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Renk.
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, OuterGlowEffect desteğini gösterir.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [OuterGlowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

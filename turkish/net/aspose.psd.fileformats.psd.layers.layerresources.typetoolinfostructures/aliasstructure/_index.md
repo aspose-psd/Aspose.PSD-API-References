@@ -1,53 +1,55 @@
 ---
-title: Class AliasStructure
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.AliasStructure sınıf. Diğer ad yapısı.
+title: "Sınıf AliasStructure"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.AliasStructure sınıfı. alias yapı."
 type: docs
-weight: 3110
+weight: 3490
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure class
 
-Diğer ad yapısı.
+Alias yapısı.
 
 ```csharp
 public sealed class AliasStructure : OSTypeStructure
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AliasStructure](aliasstructure/)(ClassID) | Yeni bir örneğini başlatır.`AliasStructure` sınıf. |
+| [AliasStructure](aliasstructure/)(ClassID) | `AliasStructure` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [DataLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/) { get; } | Bayt cinsinden tam veri uzunluğunu alır. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/) { get; set; } | Tam yolu alır veya ayarlar. |
+| [DataLength](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/) { get; } | Verinin tam uzunluğunu bayt cinsinden alır. |
+| [DisplacementMapPath](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/displacementmappath/) { get; } | Alias verisinden çıkarılan yer değiştirme haritasının tam yolunu alır, bulunamazsa null döner. |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/key/) { get; } | Yapı anahtarını alır. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Anahtar adını alır veya ayarlar. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length/) { get; } | Şunu alır:[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) bayt cinsinden uzunluk. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) uzunluğunu bayt cinsinden alır. |
+| [Payload](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/payload/) { get; set; } | Yük verisini alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Başlık uzunluğunu alır. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış kapsayıcısına kaydeder. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Yapıyı belirtilen akış konteynerine kaydeder. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/structurekey/) | Yapı anahtarını tanımlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

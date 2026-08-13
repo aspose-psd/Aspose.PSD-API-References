@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD for .NET API Referansı
-description: BlendingOptions yöntem. Renk kaplamasını ekler.
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlendingOptions yöntemi. Renk kaplamasını ekler"
 type: docs
-weight: 20
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 Renk kaplamasını ekler.
@@ -14,15 +15,15 @@ Renk kaplamasını ekler.
 public ColorOverlayEffect AddColorOverlay()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Oluşturuldu[`ColorOverlayEffect`](../../coloroverlayeffect/) nesne
+Oluşturulan [`ColorOverlayEffect`](../../coloroverlayeffect/) nesnesi
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

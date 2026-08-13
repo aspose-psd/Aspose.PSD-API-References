@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Aspose.PSD for .NET API Referansı
-description: VersionInfoResource mülk. Yazarın adını alır veya ayarlar.
+title: "VersionInfoResource.WriterName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VersionInfoResource property. Yazarın adını alır veya ayarlar"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-Yazarın adını alır veya ayarlar.
+Yazıcının adını alır veya ayarlar.
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Yazarın adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VersionInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.Opacity
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternOverlayEffect mülk. Opaklığı alır veya ayarlar.
+title: "PatternOverlayEffect.Opacity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternOverlayEffect özelliği. Opaklığı alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Opacity property
 
 Opaklığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Opaklığı alır veya ayarlar.
 public byte Opacity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Opaklık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PatternOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

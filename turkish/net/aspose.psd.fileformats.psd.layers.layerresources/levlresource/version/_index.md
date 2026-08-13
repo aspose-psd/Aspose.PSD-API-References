@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: LevlResource mülk. Sürümü alır. Varsayılan 2
+title: "LevlResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LevlResource özelliği. Sürümü alır. Varsayılan 2'dir."
 type: docs
-weight: 50
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-Sürümü alır. Varsayılan 2
+Sürümü alır. Varsayılan 2'dir.
 
 ```csharp
 public short Version { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LevlResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

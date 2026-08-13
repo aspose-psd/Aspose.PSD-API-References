@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD for .NET API Referansı
-description: GlobalAngleResource mülk. Genel açıyı alır veya ayarlar.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GlobalAngleResource özelliği. Global açıyı alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-Genel açıyı alır veya ayarlar.
+Global açıyı alır veya ayarlar.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Genel açı.
+Global açı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GlobalAngleResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

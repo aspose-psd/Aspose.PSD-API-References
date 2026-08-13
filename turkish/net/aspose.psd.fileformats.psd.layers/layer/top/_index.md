@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Aspose.PSD for .NET API Referansı
-description: Layer mülk. Üst katman konumunu alır veya ayarlar.
+title: "Layer.Top"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Layer özelliği. Üst katman konumunu alır veya ayarlar"
 type: docs
-weight: 310
+weight: 320
 url: /tr/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
 Üst katman konumunu alır veya ayarlar.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Üst katman konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

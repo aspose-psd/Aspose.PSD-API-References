@@ -1,36 +1,37 @@
 ---
-title: Enum InterpolationMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.InterpolationMode Sıralama. InterpolationMode numaralandırma görüntüler ölçeklendiğinde veya döndürüldüğünde kullanılan algoritmayı belirtir.
+title: "Enum InterpolationMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.InterpolationMode enum. InterpolationMode enumerasyonu, görüntüler ölçeklendirildiğinde veya döndürüldüğünde kullanılan algoritmayı belirtir."
 type: docs
-weight: 5030
+weight: 5550
 url: /tr/net/aspose.psd/interpolationmode/
 ---
+{{< psd/tize >}}
 ## InterpolationMode enumeration
 
-`InterpolationMode` numaralandırma, görüntüler ölçeklendiğinde veya döndürüldüğünde kullanılan algoritmayı belirtir.
+`InterpolationMode` enumerasyonu, görüntüler ölçeklendirildiğinde veya döndürüldüğünde kullanılan algoritmayı belirtir.
 
 ```csharp
 public enum InterpolationMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Invalid | `-1` | Geçersiz enterpolasyon modu. |
+| Invalid | `-1` | Geçersiz interpolasyon modu. |
 | Default | `0` | Varsayılan modu belirtir. |
-| Low | `1` | Düşük kaliteli enterpolasyonu belirtir. |
-| High | `2` | Yüksek kaliteli enterpolasyonu belirtir. |
-| Bilinear | `3` | Çift doğrusal enterpolasyonu belirtir. Ön filtreleme yapılmaz. Bu mod, bir görüntüyü orijinal boyutunun yüzde 50'sinin altına küçültmek için uygun değildir. |
-| Bicubic | `4` | Çift kübik interpolasyonu belirtir. Ön filtreleme yapılmaz. Bu mod, bir görüntüyü orijinal boyutunun yüzde 25'inin altına küçültmek için uygun değildir. |
-| NearestNeighbor | `5` | En yakın komşu enterpolasyonunu belirtir. |
-| HighQualityBilinear | `6` | Yüksek kaliteli, çift doğrusal enterpolasyonu belirtir. Yüksek kaliteli küçülmeyi sağlamak için ön filtreleme gerçekleştirilir. |
-| HighQualityBicubic | `7` | Yüksek kaliteli, çift kübik enterpolasyonu belirtir. Yüksek kalitede küçültme sağlamak için ön filtreleme yapılır. Bu mod, en yüksek kalitede dönüştürülmüş görüntüleri üretir. |
+| Low | `1` | Düşük kalite interpolasyonunu belirtir. |
+| High | `2` | Yüksek kalite interpolasyonunu belirtir. |
+| Bilinear | `3` | Bilinear interpolasyonu belirtir. Ön filtreleme yapılmaz. Bu mod, bir görüntünün orijinal boyutunun %50'sinden daha küçük bir boyuta küçültülmesi için uygun değildir. |
+| Bicubic | `4` | Bikübik interpolasyonu belirtir. Ön filtreleme yapılmaz. Bu mod, bir görüntünün orijinal boyutunun %25'inden daha küçük bir boyuta küçültülmesi için uygun değildir. |
+| NearestNeighbor | `5` | En yakın komşu interpolasyonunu belirtir. |
+| HighQualityBilinear | `6` | Yüksek kaliteli, bilinear interpolasyonu belirtir. Yüksek kaliteli küçültmeyi sağlamak için ön filtreleme uygulanır. |
+| HighQualityBicubic | `7` | Yüksek kaliteli, bikübik interpolasyonu belirtir. Yüksek kaliteli küçültmeyi sağlamak için ön filtreleme uygulanır. Bu mod, en yüksek kaliteye sahip dönüştürülmüş görüntüler üretir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

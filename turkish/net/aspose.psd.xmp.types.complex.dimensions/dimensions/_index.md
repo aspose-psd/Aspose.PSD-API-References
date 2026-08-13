@@ -1,46 +1,47 @@
 ---
-title: Class Dimensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions sınıf. Çizilmiş bir nesne için boyutları içeren.
+title: "Sınıf Dimensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions sınıfı. Çizilmiş bir nesne için boyutları içerir"
 type: docs
-weight: 6060
+weight: 6590
 url: /tr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
-Çizilmiş bir nesne için boyutları içeren.
+Çizilmiş bir nesne için boyutları içerir.
 
 ```csharp
 public sealed class Dimensions : ComplexTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | Yeni bir örneğini başlatır.`Dimensions` sınıf. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | Yeni bir örneğini başlatır.`Dimensions` sınıf. |
+| [Dimensions](dimensions/#constructor)() | `Dimensions` sınıfının yeni bir örneğini başlatır. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | `Dimensions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Yüksekliği alır veya ayarlar. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sini alır. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Varsayılan ad alanı URI'sını alır. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ön eki alır. |
 | [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Birimleri alır veya ayarlar. |
 | [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Genişliği alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

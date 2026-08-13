@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadDoubleArray
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan bir dizi çift değer okur.
+title: "TiffStreamReader.ReadDoubleArray"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan çift (double) değerlerinden oluşan bir dizi okur"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDoubleArray method
 
-Akıştan bir dizi çift değer okur.
+Akıştan double değerleri dizisi okur.
 
 ```csharp
 public double[] ReadDoubleArray(long position, long count)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
-| count | Int64 | Öğeler sayılır. |
+| konum | Int64 | Okunacak konum. |
+| sayı | Int64 | Öğe sayısı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Çift değerler dizisi.
+Çift değerlerin dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

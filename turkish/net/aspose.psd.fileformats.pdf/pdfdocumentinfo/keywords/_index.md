@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.PSD for .NET API Referansı
-description: PdfDocumentInfo mülk. Belgenin anahtar kelimelerini alır veya ayarlar.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PdfDocumentInfo özelliği. Belgenin anahtar kelimelerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Keywords property
 
 Belgenin anahtar kelimelerini alır veya ayarlar.
@@ -14,10 +15,10 @@ Belgenin anahtar kelimelerini alır veya ayarlar.
 public string Keywords { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PdfDocumentInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

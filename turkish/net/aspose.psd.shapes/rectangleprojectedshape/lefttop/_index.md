@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape mülk. Sol üst dikdörtgen noktasını alır.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape özelliği. Sol üst dikdörtgen noktasını alır"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
 Sol üst dikdörtgen noktasını alır.
@@ -14,15 +15,15 @@ Sol üst dikdörtgen noktasını alır.
 public PointF LeftTop { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Sol üstteki dikdörtgen noktası.
+Sol üst dikdörtgen noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.CompositeException sınıf. Bileşik istisna
+title: "Sınıf CompositeException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.CompositeException sınıfı. Bileşik istisna"
 type: docs
 weight: 410
 url: /tr/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 Bileşik istisna
@@ -14,9 +15,9 @@ Bileşik istisna
 public class CompositeException : Exception
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

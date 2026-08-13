@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.Signature
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolInfoResource mülk. Katman kaynak imzasını alır.
+title: "TypeToolInfoResource.Signature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolInfoResource özelliği. Katman kaynağı imzasını alır"
 type: docs
 weight: 200
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Signature property
 
-Katman kaynak imzasını alır.
+Katman kaynağı imzasını alır.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolInfoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

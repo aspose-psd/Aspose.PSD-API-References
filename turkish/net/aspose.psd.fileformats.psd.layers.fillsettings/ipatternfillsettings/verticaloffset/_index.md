@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Aspose.PSD for .NET API Referansı
-description: IPatternFillSettings mülk. Dikey ofseti alır veya ayarlar.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IPatternFillSettings özelliği. Dikey ofseti alır veya ayarlar"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
 Dikey ofseti alır veya ayarlar.
@@ -14,14 +15,14 @@ Dikey ofseti alır veya ayarlar.
 public int VerticalOffset { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dikey uzaklık.
+Dikey offset.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IPatternFillSettings](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

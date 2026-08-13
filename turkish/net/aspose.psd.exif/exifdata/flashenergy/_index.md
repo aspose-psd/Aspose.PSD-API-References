@@ -1,11 +1,12 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Flaş enerjisini alır veya ayarlar.
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Flaş enerjisini alır veya ayarlar"
 type: docs
 weight: 260
 url: /tr/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
 Flaş enerjisini alır veya ayarlar.
@@ -14,15 +15,15 @@ Flaş enerjisini alır veya ayarlar.
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Flaş enerjisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

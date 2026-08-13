@@ -1,11 +1,12 @@
 ---
-title: LuniResource.Name
-second_title: Aspose.PSD for .NET API Referansı
-description: LuniResource mülk. Adı alır veya ayarlar.
+title: "LuniResource.Name"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LuniResource özelliği. İsmi alır veya ayarlar."
 type: docs
-weight: 40
+weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
 Adı alır veya ayarlar.
@@ -14,14 +15,14 @@ Adı alır veya ayarlar.
 public string Name { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Ad.
+İsim.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LuniResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

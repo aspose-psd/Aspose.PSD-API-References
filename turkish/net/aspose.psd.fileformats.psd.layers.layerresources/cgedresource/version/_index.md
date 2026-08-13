@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: CgEdResource mülk. Sürümü alır veya ayarlar.
+title: "CgEdResource.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CgEdResource özelliği. Sürümü alır veya ayarlar"
 type: docs
-weight: 110
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Version property
 
 Sürümü alır veya ayarlar.
@@ -14,14 +15,14 @@ Sürümü alır veya ayarlar.
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Sürüm.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CgEdResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

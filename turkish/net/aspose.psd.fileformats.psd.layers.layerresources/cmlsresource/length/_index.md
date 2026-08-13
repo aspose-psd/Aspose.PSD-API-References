@@ -1,23 +1,24 @@
 ---
-title: CmlsResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: CmlsResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "CmlsResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmlsResource özelliği. Katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
-weight: 30
+weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CmlsResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. Belirtilenin şişirilmiş bir kopyasını oluşturur ve döndürürRectangleyapı. Kopya belirtilen miktarda şişirilir. OrijinalRectangle yapı değiştirilmeden kalır.
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen Rectangle yapısının şişirilmiş bir kopyasını oluşturur ve döndürür. Kopya belirtilen miktarda şişirilir. Orijinal Rectangle yapısı değiştirilmez"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-Belirtilenin şişirilmiş bir kopyasını oluşturur ve döndürür[`Rectangle`](../)yapı. Kopya belirtilen miktarda şişirilir. Orijinal[`Rectangle`](../) yapı değiştirilmeden kalır.
+Belirtilen [`Rectangle`](../) yapısının şişirilmiş bir kopyasını oluşturur ve döndürür. Kopya belirtilen miktarda şişirilir. Orijinal [`Rectangle`](../) yapısı değiştirilmez.
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../) hangisinden başlamalı? Bu dikdörtgen değiştirilmedi. |
-| x | Int32 | Bunu şişirmek için miktar[`Rectangle`](../) yatay olarak. |
-| y | Int32 | Bunu şişirmek için miktar[`Rectangle`](../) dikey olarak. |
+| rect | Rectangle | Başlamak için kullanılacak [`Rectangle`](../). Bu dikdörtgen değiştirilmez. |
+| x | Int32 | Bu [`Rectangle`](../) öğesini yatay olarak şişirmek için miktar. |
+| y | Int32 | Bu [`Rectangle`](../) öğesini dikey olarak şişirmek için miktar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-şişirilmiş[`Rectangle`](../).
+Şişirilmiş [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-Bunu şişirir[`Rectangle`](../)belirtilen miktarda.
+Bu [`Rectangle`](../) öğesini belirtilen miktarda şişirir.
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Int32 | Bunu şişirmek için miktar[`Rectangle`](../) yatay olarak. |
-| height | Int32 | Bunu şişirmek için miktar[`Rectangle`](../) dikey olarak. |
+| width | Int32 | Bu [`Rectangle`](../) öğesini yatay olarak şişirmek için miktar. |
+| height | Int32 | Bu [`Rectangle`](../) öğesini dikey olarak şişirmek için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-Bunu şişirir[`Rectangle`](../)belirtilen miktarda.
+Bu [`Rectangle`](../) öğesini belirtilen miktarda şişirir.
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | Size | Bu dikdörtgeni şişirecek miktar. |
+| boyut | Boyut | Bu dikdörtgeni şişirmek için miktar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

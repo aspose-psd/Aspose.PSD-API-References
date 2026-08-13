@@ -1,32 +1,33 @@
 ---
-title: ColorPaletteHelper.Create4BitGrayscale
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorPaletteHelper yöntem. 4 bit gri tonlamalı palet oluşturur.
+title: "ColorPaletteHelper.Create4BitGrayscale"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorPaletteHelper metodu. 4 bit gri tonlamalı paleti oluşturur."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/colorpalettehelper/create4bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4BitGrayscale method
 
-4 bit gri tonlamalı palet oluşturur.
+4 bit gri tonlamalı paleti oluşturur.
 
 ```csharp
 public static IColorPalette Create4BitGrayscale(bool minIsWhite)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| minIsWhite | Boolean | olarak ayarlanmışsa`doğru` palet beyaz renkle başlar, aksi takdirde siyah renkle başlar. |
+| minIsWhite | Boolean | `true` olarak ayarlanırsa, palet beyaz renk ile başlar, aksi takdirde siyah renk ile başlar. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-4 bitlik gri tonlama paleti.
+4 bit gri tonlamalı palet.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* ad alanı [Aspose.PSD](../../colorpalettehelper/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

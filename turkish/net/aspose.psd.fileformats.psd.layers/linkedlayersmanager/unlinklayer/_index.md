@@ -1,11 +1,12 @@
 ---
-title: LinkedLayersManager.UnlinkLayer
-second_title: Aspose.PSD for .NET API Referansı
-description: LinkedLayersManager yöntem. Katmanın bağlantısını kaldırır..
+title: "LinkedLayersManager.UnlinkLayer"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinkedLayersManager yöntemi. Katmanı bağlantısını kaldırır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.UnlinkLayer method
 
 Katmanın bağlantısını kaldırır..
@@ -14,20 +15,20 @@ Katmanın bağlantısını kaldırır..
 public void UnlinkLayer(Layer layer)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| layer | Layer | Katman. |
+| katman | Katman | Katman. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | Katman boş. |
-| ArgumentException | Katmanın kabı, geçerli PsdImage ile aynı olmalıdır. |
+| ArgumentNullException | Katman null. |
+| ArgumentException | Katmanın konteyneri mevcut PsdImage ile aynı olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, Aspose.PSD'de Bağlantılı Katmanları nasıl değiştirebileceğinizi göstermektedir.
+Aşağıdaki örnek, Aspose.PSD içinde Bağlantılı Katmanları nasıl manipüle edebileceğinizi gösterir
 
 ```csharp
 [C#]
@@ -35,31 +36,31 @@ Aşağıdaki örnek, Aspose.PSD'de Bağlantılı Katmanları nasıl değiştireb
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // tüm katmanları tek bir bağlantılı grupta birleştirin
+    // Tüm katmanları tek bir bağlantılı grupta bağla
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // bir katman için kimlik alır
+    // Bir katman için kimlik alır
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // tüm bağlantılı katmanları bağlantı grubu kimliğine göre alır.
+    // Bağlantı grup kimliğine göre tüm bağlantılı katmanları alır.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // gruptan her katmanın bağlantısını kaldır
+    // Her katmanın gruptaki bağlantısını kaldır
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // grupta katman olmayan bir bağlantı grubu kimliği için NULL değerini alır.
+    // Grup içinde katman olmayan bir bağlantı grup kimliği için NULL döndürür.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,11 +70,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

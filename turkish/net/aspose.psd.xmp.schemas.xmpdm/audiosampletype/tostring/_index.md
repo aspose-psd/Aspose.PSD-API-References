@@ -1,27 +1,28 @@
 ---
-title: AudioSampleType.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: AudioSampleType yöntem. a döndürürString bu örneği temsil eder.
+title: "AudioSampleType.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AudioSampleType yöntemi. Bu örneği temsil eden bir String döndürür"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AudioSampleType](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontStyle
-second_title: Aspose.PSD for .NET API Referansı
-description: TypeToolFontInfo mülk. Yazı tipi stili adını alır veya ayarlar.
+title: "TypeToolFontInfo.FontStyle"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TypeToolFontInfo özelliği. Yazı tipi stil adını alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontStyle property
 
-Yazı tipi stili adını alır veya ayarlar.
+Yazı tipi stil adını alır veya ayarlar.
 
 ```csharp
 public string FontStyle { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Yazı tipi stili adı.
+Yazı tipi stil adı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TypeToolFontInfo](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

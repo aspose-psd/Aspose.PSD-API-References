@@ -1,31 +1,32 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD for .NET API Referansı
-description: NonGenericDictionary mülk. Öğeyi belirtilen anahtarla alır veya ayarlar.
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "NonGenericDictionary özelliği. Belirtilen anahtara sahip öğeyi alır veya ayarlar."
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
-Öğeyi belirtilen anahtarla alır veya ayarlar.
+Belirtilen anahtara sahip öğeyi alır veya ayarlar.
 
 ```csharp
 public object this[object key] { get; set; }
 ```
 
-| Parametre | Tanım |
+| Parametre | Açıklama |
 | --- | --- |
-| key | Öğe anahtarı. |
+| anahtar | Öğe anahtarı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
 Belirtilen anahtara sahip öğe.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [NonGenericDictionary](../)
-* ad alanı [Aspose.PSD](../../nongenericdictionary/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

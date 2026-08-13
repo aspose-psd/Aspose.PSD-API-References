@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu güncellerRegion kendisinin ve belirtilenin birleşimineRectangleFyapı.
+title: "Region.Union"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı, kendisi ile belirtilen RectangleF yapısının birleşimiyle günceller"
 type: docs
-weight: 140
+weight: 150
 url: /tr/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Bunu günceller[`Region`](../) kendisinin ve belirtilenin birleşimine[`RectangleF`](../../rectanglef/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`RectangleF`](../../rectanglef/) yapısının birleşimiyle günceller.
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | bu[`RectangleF`](../../rectanglef/) bununla birleşecek yapı[`Region`](../). |
+| rect | RectangleF | Bu [`Region`](../) ile birleştirilecek [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Bunu günceller[`Region`](../) kendisinin ve belirtilenin birleşimine[`Rectangle`](../../rectangle/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Rectangle`](../../rectangle/) yapısının birleşimiyle günceller.
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) bununla birleşecek yapı[`Region`](../). |
+| rect | Rectangle | Bu [`Region`](../) ile birleştirilecek [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Bunu günceller[`Region`](../) kendisinin ve belirtilenin birleşimine[`GraphicsPath`](../../graphicspath/) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`GraphicsPath`](../../graphicspath/) yapısının birleşimiyle günceller.
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../graphicspath/) bununla birleşmek[`Region`](../). |
+| path | GraphicsPath | Bu [`Region`](../) ile birleştirilecek [`GraphicsPath`](../../graphicspath/) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *path* boş. |
+| ArgumentNullException | *path* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Bunu günceller[`Region`](../) kendisinin ve belirtilenin birleşimine[`Region`](../) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Region`](../) yapısının birleşimiyle günceller.
 
 ```csharp
 public void Union(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) bununla birleşmek[`Region`](../). |
+| region | Region | Bu [`Region`](../) ile birleştirilecek bu [`Region`](../). |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *region* boş. |
+| ArgumentNullException | *region* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

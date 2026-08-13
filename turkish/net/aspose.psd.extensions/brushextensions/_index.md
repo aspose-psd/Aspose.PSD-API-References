@@ -1,28 +1,29 @@
 ---
-title: Class BrushExtensions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Extensions.BrushExtensions sınıf. Şunun için uzantı yöntemleri içerirBrush VeBrush .
+title: "Sınıf BrushExtensions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Extensions.BrushExtensions sınıfı. Brush ve Brush için uzantı yöntemlerini içerir."
 type: docs
-weight: 1030
+weight: 1040
 url: /tr/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-Şunun için uzantı yöntemleri içerir:[`Brush`](../../aspose.psd/brush/) VeBrush .
+[`Brush`](../../aspose.psd/brush/) ve Brush için uzantı yöntemlerini içerir.
 
 ```csharp
 public static class BrushExtensions
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | dönüştürür[`Brush`](../../aspose.psd/brush/) içinBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | [`Brush`](../../aspose.psd/brush/) öğesini Brush'a dönüştürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

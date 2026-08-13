@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType Sıralama. Renk türü.
+title: "Enum ColorType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType enum. Renk türü"
 type: docs
-weight: 6000
+weight: 6530
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 Renk türü.
@@ -14,16 +15,16 @@ Renk türü.
 public enum ColorType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Process | `1` | İşlem renk türü. |
+| Process | `1` | İşlem rengi türü. |
 | Spot | `2` | Spot renk türü. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

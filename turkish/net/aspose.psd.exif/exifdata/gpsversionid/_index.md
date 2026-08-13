@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS sürümü tanımlayıcısını alır veya ayarlar.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS sürüm tanımlayıcısını alır veya ayarlar"
 type: docs
 weight: 670
 url: /tr/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-GPS sürümü tanımlayıcısını alır veya ayarlar.
+GPS sürüm tanımlayıcısını alır veya ayarlar.
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-GPS sürümü tanımlayıcısı.
+GPS sürüm tanımlayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

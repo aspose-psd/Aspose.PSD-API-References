@@ -1,30 +1,31 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ColorMatrixFlag Sıralama. Bir görüntünün renk ve gri tonlama ayarlarından etkilenecek görüntü ve renk türlerini belirtir.ImageAttributes .
+title: "Enum ColorMatrixFlag"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ColorMatrixFlag enum. Bir ImageAttributes'ın renk ve gri ton ayarlarından etkilenecek görüntü ve renk türlerini belirtir"
 type: docs
 weight: 360
 url: /tr/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-Bir görüntünün renk ve gri tonlama ayarlarından etkilenecek görüntü ve renk türlerini belirtir.[`ImageAttributes`](../imageattributes/) .
+Bir [`ImageAttributes`](../imageattributes/) nesnesinin renk ve gri ton ayarlarından etkilenecek görüntü ve renk türlerini belirtir.
 
 ```csharp
 public enum ColorMatrixFlag
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Default | `0` | Gri gölgeler dahil tüm renk değerleri, aynı renk ayarlama matrisi tarafından ayarlanır. |
-| SkipGrays | `1` | Tüm renkler ayarlanır ancak gri tonlar ayarlanmaz. Gri gölge, kırmızı, yeşil ve mavi bileşenleri için aynı değere sahip herhangi bir renktir. |
-| AltGrays | `2` | Yalnızca gri gölgeler ayarlanır. |
+| Default | `0` | Gri tonlar dahil olmak üzere tüm renk değerleri aynı renk ayarlama matrisiyle ayarlanır. |
+| SkipGrays | `1` | Tüm renkler ayarlanır, ancak gri tonlar ayarlanmaz. Bir gri ton, kırmızı, yeşil ve mavi bileşenleri aynı değere sahip olan herhangi bir renktir. |
+| AltGrays | `2` | Yalnızca gri tonlar ayarlanır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

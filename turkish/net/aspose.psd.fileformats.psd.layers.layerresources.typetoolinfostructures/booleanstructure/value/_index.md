@@ -1,27 +1,28 @@
 ---
-title: BooleanStructure.Value
-second_title: Aspose.PSD for .NET API Referansı
-description: BooleanStructure mülk. Bir boole değeri alır veya ayarlar.
+title: "BooleanStructure.Value"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BooleanStructure özelliği. Boolean değerini alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.Value property
 
-Bir boole değeri alır veya ayarlar.
+Boolean bir değeri alır veya ayarlar.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bir boole değeri.
+Bir boolean değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BooleanStructure](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

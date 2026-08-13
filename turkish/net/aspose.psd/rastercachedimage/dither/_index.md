@@ -1,32 +1,33 @@
 ---
-title: RasterCachedImage.Dither
-second_title: Aspose.PSD for .NET API Referansı
-description: RasterCachedImage yöntem. Geçerli görüntüde renk taklidi gerçekleştirir.
+title: "RasterCachedImage.Dither"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RasterCachedImage metodu. Mevcut görüntüde dithering gerçekleştirir"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd/rastercachedimage/dither/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Dither method
 
-Geçerli görüntüde renk taklidi gerçekleştirir.
+Mevcut görüntüde dithering uygular.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
     IColorPalette customPalette)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Titreşim yöntemi. |
-| bitsCount | Int32 | Son bitler titreme için sayılır. |
-| customPalette | IColorPalette | Renk taklidi için özel palet. |
+| ditheringMethod | DitheringMethod | Dithering yöntemi. |
+| bitsCount | Int32 | Dithering için son bit sayısı. |
+| customPalette | IColorPalette | Dithering için özel palet. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterCachedImage](../)
-* ad alanı [Aspose.PSD](../../rastercachedimage/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

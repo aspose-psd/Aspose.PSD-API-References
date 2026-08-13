@@ -1,28 +1,29 @@
 ---
-title: ArcShape.EndPoint
-second_title: Aspose.PSD for .NET API Referansı
-description: ArcShape mülk. Bitiş şekil noktasını alır.
+title: "ArcShape.EndPoint"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ArcShape özelliği. Şeklin bitiş noktasını alır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.shapes/arcshape/endpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.EndPoint property
 
-Bitiş şekil noktasını alır.
+Şeklin son noktasını alır.
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bitiş şekli noktası.
+Şeklin bitiş noktası.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../arcshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

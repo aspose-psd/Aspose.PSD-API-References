@@ -1,36 +1,37 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions sınıf. Evrişim filtresi.
+title: "ConvolutionFilterOptions Sınıfı"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions sınıfı. Konvolüsyon filtresi"
 type: docs
-weight: 4670
+weight: 5170
 url: /tr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
-Evrişim filtresi.
+Konvolüsyon filtresi.
 
 ```csharp
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Yeni bir örneğini başlatır.`ConvolutionFilterOptions` sınıf. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | `ConvolutionFilterOptions` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Sapmayı alır veya ayarlar. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Faktörü alır veya ayarlar. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

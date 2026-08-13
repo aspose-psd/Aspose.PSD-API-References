@@ -1,55 +1,56 @@
 ---
-title: XmpMeta.Equals
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpMeta yöntem. Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir.
+title: "XmpMeta.Equals"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpMeta yöntemi. Mevcut nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
-Geçerli nesnenin aynı türden başka bir nesneye eşit olup olmadığını gösterir.
+Geçerli nesnenin aynı türdeki başka bir nesneye eşit olup olmadığını gösterir.
 
 ```csharp
 public bool Equals(XmpMeta other)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | other | XmpMeta | Bu nesneyle karşılaştırılacak bir nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-geçerli nesne şuna eşitse doğrudur:*other* parametre; aksi takdirde, false.
+true, mevcut nesne *other* parametresine eşitse; aksi takdirde, false.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-Belirtilenin olup olmadığını belirler.Object , bu örneğe eşittir.
+Belirtilen Nesnenin bu örnek ile eşit olup olmadığını belirler.
 
 ```csharp
 public override bool Equals(object other)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| other | Object | buObject bu örnekle karşılaştırmak için. |
+| other | Nesne | Bu örnek ile karşılaştırılacak Nesne. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` eğer belirtilenObject bu örneğe eşittir; aksi takdirde,`YANLIŞ` .
+`true` eğer belirtilen Nesne bu örnek ile eşitse; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpMeta](../)
-* ad alanı [Aspose.PSD.Xmp](../../xmpmeta/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

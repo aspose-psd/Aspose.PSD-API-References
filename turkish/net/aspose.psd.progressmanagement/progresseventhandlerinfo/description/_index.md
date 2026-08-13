@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: Aspose.PSD for .NET API Referansı
-description: ProgressEventHandlerInfo mülk. Olayın açıklamasını alır
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ProgressEventHandlerInfo özelliği. Olayın açıklamasını alır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
 Olayın açıklamasını alır
@@ -14,14 +15,14 @@ Olayın açıklamasını alır
 public string Description { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Açıklama.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ProgressEventHandlerInfo](../)
-* ad alanı [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

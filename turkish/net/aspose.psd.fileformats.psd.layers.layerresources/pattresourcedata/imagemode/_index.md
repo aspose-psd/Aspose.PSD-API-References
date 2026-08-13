@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.ImageMode
-second_title: Aspose.PSD for .NET API Referansı
-description: PattResourceData mülk. Görüntü modunu alır.
+title: "PattResourceData.ImageMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PattResourceData özelliği. Görüntü modunu alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/
 ---
+{{< psd/tize >}}
 ## PattResourceData.ImageMode property
 
 Görüntü modunu alır.
@@ -14,15 +15,15 @@ Görüntü modunu alır.
 public ColorModes ImageMode { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Görüntü modu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PattResourceData](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

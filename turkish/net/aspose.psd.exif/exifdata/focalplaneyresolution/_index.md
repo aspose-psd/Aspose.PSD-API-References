@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalPlaneYResolution
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Odak düzlemi y çözünürlüğünü alır veya ayarlar.
+title: "ExifData.FocalPlaneYResolution"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Odak düzlemi y çözünürlüğünü alır veya ayarlar"
 type: docs
 weight: 330
 url: /tr/net/aspose.psd.exif/exifdata/focalplaneyresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneYResolution property
 
 Odak düzlemi y çözünürlüğünü alır veya ayarlar.
@@ -14,15 +15,15 @@ Odak düzlemi y çözünürlüğünü alır veya ayarlar.
 public TiffRational FocalPlaneYResolution { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Odak düzlemi y çözünürlüğü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

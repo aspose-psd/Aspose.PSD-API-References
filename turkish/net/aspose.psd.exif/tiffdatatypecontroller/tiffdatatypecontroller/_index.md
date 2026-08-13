@@ -1,23 +1,24 @@
 ---
-title: TiffDataTypeController.TiffDataTypeController
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffDataTypeController inşaatçı. Default_Constructor
+title: "TiffDataTypeController.TiffDataTypeController"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffDataTypeController yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.exif/tiffdatatypecontroller/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public TiffDataTypeController()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffDataTypeController](../)
-* ad alanı [Aspose.PSD.Exif](../../tiffdatatypecontroller/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

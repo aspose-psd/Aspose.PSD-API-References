@@ -1,49 +1,50 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PSD for .NET API Referansı
-description: Matrix yöntem. Bu Matrisi matrix parametresinde belirtilen matrisle ve order parametresinde belirtilen sırayla çarpar.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Matrix method. Bu Matrix'i, matrix parametresinde belirtilen matrisle ve order parametresinde belirtilen sırada çarpar."
 type: docs
 weight: 120
 url: /tr/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-Bu Matrisi, matrix parametresinde belirtilen matrisle ve order parametresinde belirtilen sırayla çarpar.
+Bu Matrix'i, matrix parametresinde belirtilen matrisle ve order parametresinde belirtilen sırada çarpar.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | Tx | Matrix | tx. tx. tx. |
-| order | MatrixOrder | Emir. Emir. Emir. |
+| order | MatrixOrder | order. order. order. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-Bu Matrisi (varsayılan) Başa Ekle sırasını kullanarak matrix parametresinde belirtilen matrisle çarpar.
+Bu Matrix'i, matrix parametresinde belirtilen matrisle (varsayılan) Prepend sırasını kullanarak çarpar.
 
 ```csharp
 public void Multiply(Matrix Tx)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | Tx | Matrix | Çarpılacak matris. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Matrix](../)
-* ad alanı [Aspose.PSD](../../matrix/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

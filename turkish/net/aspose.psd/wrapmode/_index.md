@@ -1,32 +1,33 @@
 ---
-title: Enum WrapMode
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.WrapMode Sıralama. Doldurulmakta olan alandan daha küçük olduğunda bir doku veya degradenin nasıl döşeneceğini belirtir.
+title: "Enum WrapMode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.WrapMode enum'ı. Doku ya da degrade, doldurulan alanın daha küçük olduğunda nasıl döşeneceğini belirtir."
 type: docs
-weight: 5740
+weight: 6270
 url: /tr/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-Doldurulmakta olan alandan daha küçük olduğunda bir doku veya degradenin nasıl döşeneceğini belirtir.
+Bir doku veya degrade, doldurulan alandan daha küçük olduğunda nasıl döşeneceğini belirtir.
 
 ```csharp
 public enum WrapMode
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Tile | `0` | Degradeyi veya dokuyu döşer. |
-| TileFlipX | `1` | Dokuyu veya degradeyi yatay olarak tersine çevirir ve ardından dokuyu veya degradeyi döşer. |
-| TileFlipY | `2` | Dokuyu veya degradeyi dikey olarak tersine çevirir ve ardından dokuyu veya degradeyi döşer. |
-| TileFlipXY | `3` | Dokuyu veya degradeyi yatay ve dikey olarak tersine çevirir ve ardından doku veya degradeyi döşer. |
-| Clamp | `4` | Doku veya degrade döşenmemiş. |
+| Tile | `0` | Degrade ya da dokuyu döşer. |
+| TileFlipX | `1` | Dokuyu ya da degradeyi yatay olarak ters çevirir ve ardından döşer. |
+| TileFlipY | `2` | Dokuyu ya da degradeyi dikey olarak ters çevirir ve ardından döşer. |
+| TileFlipXY | `3` | Dokuyu ya da degradeyi hem yatay hem dikey olarak ters çevirir ve ardından döşer. |
+| Clamp | `4` | Doku ya da degrade döşenmez. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

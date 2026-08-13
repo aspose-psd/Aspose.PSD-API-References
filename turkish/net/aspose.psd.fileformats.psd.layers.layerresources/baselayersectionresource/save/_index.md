@@ -1,0 +1,30 @@
+---
+title: "BaseLayerSectionResource.Save"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BaseLayerSectionResource yöntemi. Kaynağı belirtilen akış konteynerine kaydeder"
+type: docs
+weight: 50
+url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/
+---
+{{< psd/tize >}}
+## BaseLayerSectionResource.Save method
+
+Kaynağı belirtilen akış konteynerine kaydeder.
+
+```csharp
+public override void Save(StreamContainer streamContainer, int psdVersion)
+```
+
+| Parametre | Tür | Açıklama |
+| --- | --- | --- |
+| streamContainer | StreamContainer | Kaydedilecek akış konteyneri. |
+| psdVersion | Int32 | PSD sürümü. |
+
+### Ayrıca Bakınız
+
+* class [StreamContainer](../../../aspose.psd/streamcontainer/)
+* class [BaseLayerSectionResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+

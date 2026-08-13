@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD for .NET API Referansı
-description: AiLayerSection mülk. Bu katmanın kilitli olup olmadığını gösteren bir değer alır veya ayarlar. Öğede değişiklik yapılmasını önler.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "AiLayerSection özelliği. Bu katmanın kilitli olup olmadığını gösteren bir değeri alır veya ayarlar. Öğenin değişikliklerini engeller."
 type: docs
-weight: 60
+weight: 80
 url: /tr/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-Bu katmanın kilitli olup olmadığını gösteren bir değer alır veya ayarlar. Öğede değişiklik yapılmasını önler.
+Bu katmanın kilitli olup olmadığını gösteren bir değeri alır veya ayarlar. Öğeye yapılan değişiklikleri engeller.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` bu katman kilitli ise; aksi takdirde,`YANLIŞ` .
+`true` eğer bu katman kilitliyse; aksi takdirde `false`.
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, AI biçimli dosyalardaki katmanların desteğini gösterir.
+Aşağıdaki örnek, AI format dosyalarındaki katman desteğini gösterir.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [AiLayerSection](../)
-* ad alanı [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

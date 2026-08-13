@@ -1,11 +1,12 @@
 ---
-title: Class MlstResource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource sınıf. mlst kaynağı. Bu sınıf diğer şeylerin yanı sıra katmanın zaman çizelgesindeki konumu hakkında bilgi içerir.
+title: "Sınıf MlstResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MlstResource sınıfı. mlst kaynağı. Bu sınıf, diğer şeylerin yanı sıra, katmanın zaman çizelgesindeki konumu hakkında bilgi içerir"
 type: docs
-weight: 2830
+weight: 3170
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource class
 
 mlst kaynağı. Bu sınıf, diğer şeylerin yanı sıra, katmanın zaman çizelgesindeki konumu hakkında bilgi içerir.
@@ -14,39 +15,39 @@ mlst kaynağı. Bu sınıf, diğer şeylerin yanı sıra, katmanın zaman çizel
 public class MlstResource : LayerResource
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [MlstResource](mlstresource/)() | Default_Constructor |
+| [MlstResource](mlstresource/)() | Varsayılan yapıcı. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [DescriptorVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/) { get; } | Tanımlayıcı sürümünü alır veya ayarlar. |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/) { get; } | Yapıları alır veya ayarlar. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/) { get; } | Katman kaynak anahtarını alır. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Katman kaynak uzunluğunu bayt cinsinden alır. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/psdversion/) { get; } | psd sürümünü alır. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/signature/) { get; } | İmzayı alır. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Katman kaynağı anahtarını alır. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/) { get; } | Katman kaynağı uzunluğunu bayt cinsinden alır. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Katman kaynağı için gereken minimum psd sürümünü alır. 0, sınırlama olmadığını gösterir. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | İmzayı alır. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | Belirtilen akış kapsayıcısını kaydeder. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | a döndürürString bu örneği temsil eder. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/)(StreamContainer, int) | Belirtilen akış konteynerini kaydeder. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Bu örneği temsil eden bir String döndürür. |
 
 ## Alanlar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/) | Tip aracı bilgi anahtarı. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, katman durumlarını işlemek için düşük düzeyli bir mekanizma sağlayan MlstResource kaynağının desteğini gösterir.
+Aşağıdaki kod, katman durumlarını manipüle etmek için düşük seviyeli bir mekanizma sağlayan MlstResource kaynağının desteğini gösterir.
 
 ```csharp
 [C#]
@@ -64,17 +65,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // 1. karede 1. katmanı devre dışı bırak
+    // Çerçeve 1'de katman 1'i devre dışı bırak
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

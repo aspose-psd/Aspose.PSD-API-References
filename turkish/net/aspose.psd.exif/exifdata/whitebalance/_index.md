@@ -1,11 +1,12 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Beyaz dengesini alır veya ayarlar.
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Beyaz dengesini alır veya ayarlar"
 type: docs
 weight: 1070
 url: /tr/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
 Beyaz dengesini alır veya ayarlar.
@@ -14,15 +15,15 @@ Beyaz dengesini alır veya ayarlar.
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Beyaz dengesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD for .NET API Referansı
-description: LayerSectionResource mülk. Bölüm türünü alır veya ayarlar.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LayerSectionResource özelliği. Bölüm tipini alır veya ayarlar"
 type: docs
-weight: 60
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
-Bölüm türünü alır veya ayarlar.
+Bölüm tipini alır veya ayarlar.
 
 ```csharp
 public LayerSectionType SectionType { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD for .NET API Referansı
-description: Point yöntem. Belirtileni eklerSize belirtilenePoint .
+title: "Point.Add"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Point yöntemi. Belirtilen Size'ı belirtilen Point'e ekler"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-Belirtileni ekler[`Size`](../../size/) belirtilene[`Point`](../) .
+Belirtilen [`Size`](../../size/) değerini belirtilen [`Point`](../) değerine ekler
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | Point | bu[`Point`](../) Eklemek için. |
-| size | Size | bu[`Size`](../../size/) eklemek için*point*. |
+| point | Point | Eklenecek [`Point`](../). |
+| size | Size | Eklenecek [`Size`](../../size/) *nokta* için. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Point`](../) toplama işleminin sonucudur.
+Toplama işleminin sonucu olan [`Point`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* ad alanı [Aspose.PSD](../../point/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

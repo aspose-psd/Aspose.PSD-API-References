@@ -1,28 +1,29 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.IBufferProcessor arayüz. Tampon işlemci.
+title: "Arayüz IBufferProcessor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.IBufferProcessor arayüzü. Buffer işleyicisi"
 type: docs
-weight: 4370
+weight: 4870
 url: /tr/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-Tampon işlemci.
+Tampon işleyicisi.
 
 ```csharp
 public interface IBufferProcessor
 ```
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Arabelleği işler. |
+| [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Buffer'ı işler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

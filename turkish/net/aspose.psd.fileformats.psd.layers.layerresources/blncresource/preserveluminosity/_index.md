@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD for .NET API Referansı
-description: BlncResource mülk. Bunun olup olmadığını gösteren bir değer alır veya ayarlar.BlncResource parlaklığı korur.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BlncResource özelliği. Bu BlncResource'un parlaklığı koruyup korumadığını belirten bir değeri alır veya ayarlar"
 type: docs
-weight: 100
+weight: 90
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Bunun olup olmadığını gösteren bir değer alır veya ayarlar.[`BlncResource`](../) parlaklığı korur.
+Bu [`BlncResource`](../) parlaklığı koruyup korumadığını belirten bir değeri alır veya ayarlar.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-`doğru` parlaklığı koruyorsa; aksi takdirde,`YANLIŞ` .
+`true` eğer parlaklığı koruyorsa; aksi takdirde, `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BlncResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

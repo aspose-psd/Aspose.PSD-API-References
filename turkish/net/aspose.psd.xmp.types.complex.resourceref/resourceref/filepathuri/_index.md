@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceRef mülk. URI. dosya yolunu alır veya ayarlar
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceRef özelliği. Dosya yolu URI'sını alır veya ayarlar"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-URI. dosya yolunu alır veya ayarlar
+Dosya yolu URI'sını alır veya ayarlar.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Dosya yolu URI.
+Dosya yolu URI'si.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceRef](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

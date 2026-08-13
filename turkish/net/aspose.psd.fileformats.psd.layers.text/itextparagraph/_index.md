@@ -1,11 +1,12 @@
 ---
-title: Interface ITextParagraph
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph arayüz. Paragraf ile çalışmak için arayüz
+title: "Arayüz ITextParagraph"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph arayüzü. Paragraf ile çalışmak için arayüz"
 type: docs
-weight: 3520
+weight: 3970
 url: /tr/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
 Paragraf ile çalışmak için arayüz
@@ -14,42 +15,42 @@ Paragraf ile çalışmak için arayüz
 public interface ITextParagraph
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | [otomatik tireleme]. olup olmadığını gösteren bir değer alır veya ayarlar. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Otomatik liderliği alır veya ayarlar. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`ITextParagraph`burasagiri. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Bu [automatic hyphenate] olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Otomatik satır aralığını alır veya ayarlar. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Bu `ITextParagraph`'ın burasagiri olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Ardışık tireleri alır veya ayarlar. |
 | [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Son girintiyi alır veya ayarlar. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | [her satırın oluşturucu]. olup olmadığını gösteren bir değer alır veya ayarlar. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Bu [every line composer] olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | İlk satır girintisini alır veya ayarlar. |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Glif aralığını alır veya ayarlar. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`ITextParagraph` asılı. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Bu `ITextParagraph`'ın asılı olup olmadığını gösteren bir değeri alır veya ayarlar. |
 | [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Tireli kelimenin boyutunu alır veya ayarlar. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Gerekçeyi alır veya ayarlar. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Hizalamayı alır veya ayarlar. |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Kinsoku sırasını alır veya ayarlar. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Satır aralığının türünü alır veya ayarlar. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Satır aralığının tipini alır veya ayarlar. |
 | [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Harf aralığını alır veya ayarlar. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Yazı tiresini alır veya ayarlar. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Son tireyi alır veya ayarlar. |
 | [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Ön tireyi alır veya ayarlar. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | . 'den sonraki boşluğu alır veya ayarlar. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Önceki boşluğu alır veya ayarlar. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Sonrasındaki boşluğu alır veya ayarlar. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Öncesindeki boşluğu alır veya ayarlar. |
 | [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Başlangıç girintisini alır veya ayarlar. |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Sözcük aralığını alır veya ayarlar. |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Kelime aralığını alır veya ayarlar. |
 | [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Bölgeyi alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Belirtilen paragrafı uygular. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Belirtilen paragrafın eşit olup olmadığını belirler. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki örnek, sağdan sola yazılan diller için ITextPortion aracılığıyla Metin Hizalamanın doğru çalıştığını gösterir.
+Aşağıdaki örnek, ITextPortion aracılığıyla metin hizalamasının sağdan sola dillerde doğru çalıştığını gösterir.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Aşağıdaki kod örneği, düzenleme metin bölümlerini ve bunların metin stilini gösterir.
+Aşağıdaki kod örneği, metin bölümlerinin ve bunların metin stilinin düzenlenmesini gösterir.
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Her bölümün metni kontrol ediliyor
+            // Her bölümün metnini kontrol etme
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Paragraf verilerini kontrol etme
-            // Paragrafların farklı gerekçeleri var
+            // Paragrafların verilerini kontrol etme
+            // Paragraflar farklı hizalamaya sahiptir
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -112,7 +113,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Birinci ve ikinci paragrafın diğer tüm özellikleri eşittir
+            // İlk ve ikinci paragrafın diğer tüm özellikleri eşittir
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,7 +153,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Stil verilerini kontrol etme
-            // Stillerin renkleri ve yazı tipi boyutları farklıdır
+            // Stiller farklı renk ve yazı tipi boyutuna sahiptir
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -188,7 +189,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Kaldırılan metin bölümleri örneği
+            // Metin bölümlerini kaldırma örneği
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -200,17 +201,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Bölümler için paragraf ve stil düzenleme örneği
-            // Sağa yaslamayı ayarla
+            // Sağ hizalamayı ayarla
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Her stil için farklı renkler. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Her stil için farklı renkler. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Farklı yazı tipi. Değiştirilecek, ancak oluşturma tam olarak desteklenmiyor
+            // Farklı yazı tipi. Bu değiştirilecek, ancak renderlama tam olarak desteklenmiyor
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -225,9 +226,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

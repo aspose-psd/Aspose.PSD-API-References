@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Noise
-second_title: Aspose.PSD for .NET API Referansı
-description: InnerShadowEffect mülk. Gürültüyü alır veya ayarlar.
+title: "InnerShadowEffect.Noise"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "InnerShadowEffect özelliği. Gürültüyü alır veya ayarlar"
 type: docs
 weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Noise property
 
 Gürültüyü alır veya ayarlar.
@@ -14,20 +15,20 @@ Gürültüyü alır veya ayarlar.
 public int Noise { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Gürültü.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, 0 ila 100 aralığında yüzde olarak belirtilmelidir |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Gürültü, yüzde olarak 0 ile 100 arasında belirtilmelidir |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [InnerShadowEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

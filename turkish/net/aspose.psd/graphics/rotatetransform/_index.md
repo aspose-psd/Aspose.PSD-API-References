@@ -1,49 +1,50 @@
 ---
-title: Graphics.RotateTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem dönüşü transform. nin başına ekler
+title: "Graphics.RotateTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem dönüşüme rotasyonu ön ekler"
 type: docs
-weight: 440
+weight: 450
 url: /tr/net/aspose.psd/graphics/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem, dönüşü transform. 'nin başına ekler
+Yerel geometrik dönüşümü belirtilen miktarda döndürür. Bu yöntem döndürmeyi dönüşümün önüne ekler.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Dönme açısı. |
+| açı | Single | Dönüş açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Yerel geometrik dönüşümü, belirtilen sırada belirtilen miktarda döndürür.
+Yerel geometrik dönüşümü belirtilen miktarda, belirtilen sırada döndürür.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| angle | Single | Dönme açısı. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) bu, döndürme matrisinin sonuna mı yoksa başına mı ekleneceğini belirtir. |
+| açı | Single | Dönüş açısı. |
+| order | MatrixOrder | Bir [`MatrixOrder`](../../matrixorder/) döndürme matrisini ekleyecek mi yoksa ön ekleyecek mi belirten bir değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

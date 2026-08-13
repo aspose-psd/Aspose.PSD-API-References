@@ -1,44 +1,45 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: Aspose.PSD for .NET API Referansı
-description: RectangleProjectedShape inşaatçı. Yeni bir örneğini başlatır.RectangleProjectedShape sınıf.
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "RectangleProjectedShape yapıcı. RectangleProjectedShape sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-Yeni bir örneğini başlatır.[`RectangleProjectedShape`](../) sınıf.
+Yeni bir [`RectangleProjectedShape`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public RectangleProjectedShape()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`RectangleProjectedShape`](../) sınıf.
+Yeni bir [`RectangleProjectedShape`](../) sınıfının örneğini başlatır.
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rectangle | RectangleF | Başlatılacak dikdörtgen. |
+| dikdörtgen | RectangleF | Başlatmak için dikdörtgen. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* ad alanı [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

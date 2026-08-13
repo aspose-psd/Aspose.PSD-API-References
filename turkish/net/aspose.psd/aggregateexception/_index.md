@@ -1,22 +1,23 @@
 ---
-title: Class AggregateException
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.AggregateException sınıf. Birden çok özel durumu birleştirir.
+title: "Sınıf AggregateException"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.AggregateException sınıfı. Birden fazla istisna toplar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
-Birden çok özel durumu birleştirir.
+Birden fazla istisna toplar.
 
 ```csharp
 public class AggregateException : Exception
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD](../../aspose.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

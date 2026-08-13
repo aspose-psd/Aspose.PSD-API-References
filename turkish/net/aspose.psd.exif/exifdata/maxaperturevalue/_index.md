@@ -1,11 +1,12 @@
 ---
-title: ExifData.MaxApertureValue
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Maksimum diyafram değerini alır veya ayarlar.
+title: "ExifData.MaxApertureValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Maksimum diyafram değerini alır veya ayarlar"
 type: docs
 weight: 800
 url: /tr/net/aspose.psd.exif/exifdata/maxaperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.MaxApertureValue property
 
 Maksimum diyafram değerini alır veya ayarlar.
@@ -14,15 +15,15 @@ Maksimum diyafram değerini alır veya ayarlar.
 public TiffRational MaxApertureValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Maksimum diyafram değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

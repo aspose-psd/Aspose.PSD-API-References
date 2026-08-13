@@ -1,27 +1,28 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpAgentName inşaatçı. Yeni bir örneğini başlatır.XmpAgentName sınıf.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpAgentName yapıcı. XmpAgentName sınıfının yeni bir örneğini başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Yeni bir örneğini başlatır.[`XmpAgentName`](../) sınıf.
+[`XmpAgentName`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpAgentName(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpAgentName](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

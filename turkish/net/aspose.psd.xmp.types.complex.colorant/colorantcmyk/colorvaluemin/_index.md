@@ -1,23 +1,24 @@
 ---
-title: ColorantCmyk.ColorValueMin
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantCmyk alan. CMYK renklendiricide minimum renk değeri.
+title: "ColorantCmyk.ColorValueMin"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantCmyk alanı. CMYK renk maddesinde minimum renk değeri"
 type: docs
 weight: 80
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMin field
 
-CMYK renklendiricide minimum renk değeri.
+CMYK renk maddesinde minimum renk değeri.
 
 ```csharp
 public const float ColorValueMin;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorantCmyk](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

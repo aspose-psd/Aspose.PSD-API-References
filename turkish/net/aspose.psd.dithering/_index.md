@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Dithering
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı renk taklidi için farklı yardımcı sınıflar sağlar.
+title: "Aspose.PSD.Dithering"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı, renk titreme işlemi için farklı yardımcı sınıflar sağlar."
 type: docs
-weight: 70
+weight: 80
 url: /tr/net/aspose.psd.dithering/
 ---
-Ad alanı, renk taklidi için farklı yardımcı sınıflar sağlar.
+{{< psd/tize >}}
+Ad alanı, renk titreme işlemleri için çeşitli yardımcı sınıflar sağlar.
 
-## sınıflar
+## Sınıflar
 
-| Sınıf | Tanım |
+| Sınıf | Açıklama |
 | --- | --- |
-| [DitheringMode](./ditheringmode/) | Kaydettikten sonra görüntüye uygulanacak renk taklidi ayarları. |
+| [DitheringMode](./ditheringmode/) | Kaydedilirken görüntüye uygulanacak titreme ayarları. |
 
 

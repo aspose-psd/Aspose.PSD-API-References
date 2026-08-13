@@ -1,27 +1,28 @@
 ---
-title: CmykColor.IsEmpty
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor mülk. Bunun olup olmadığını gösteren bir değer alır.Color yapı başlatılmamış.
+title: "CmykColor.IsEmpty"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor özelliği. Bu Color yapısının başlatılmamış olup olmadığını gösteren bir değeri alır"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd/cmykcolor/isempty/
 ---
+{{< psd/tize >}}
 ## CmykColor.IsEmpty property
 
-Bunun olup olmadığını gösteren bir değer alır.[`Color`](../../color/) yapı başlatılmamış.
+Bu [`Color`](../../color/) yapısının başlatılmamış olup olmadığını gösteren bir değeri alır.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bu özellik, bu renk başlatılmamışsa true değerini döndürür; Aksi takdirde, yanlış.
+Bu özellik, renk başlatılmamışsa true, aksi takdirde false döndürür.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

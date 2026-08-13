@@ -1,33 +1,34 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: Aspose.PSD for .NET API Referansı
-description: FontSettings yöntem. Yazı tipi değiştirme listesini ayarlar. Yazı tipine izin verilmiyorsa yenisi bulunacaktır. Listedeki ilk yazı tipi önce kullanılacaktır. O da kısıtlanırsa listedeki bir sonraki yazı tipi seçilir. Yazı tipinde değişiklik yoksa veya tüm değişikliklere izin verilmezse izin verilen yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. İzin verilen ve kullanılabilir yazı tipi yoksa kitaplık izin verilmese bile sistem varsayılan yazı tipini kullanmayı deneyin.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FontSettings yöntemi. Yazı tipi değiştirme listesini ayarlar. Yazı tipi izin verilmiyorsa bir yedek bulunur. Listede ilk yazı tipi ilk olarak kullanılır. Eğer o da kısıtlıysa listeden bir sonraki yazı tipi seçilir. Yazı tipinin değiştiricileri yoksa ya da tüm değiştiriciler izin verilmiyorsa, izin verilen yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. Eğer izin verilen ve kullanılabilir yazı tipi yoksa, kütüphane sistem varsayılan yazı tipini kullanmaya çalışır, hatta izin verilmemiş olsa bile."
 type: docs
-weight: 110
+weight: 130
 url: /tr/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-Yazı tipi değiştirme listesini ayarlar. Yazı tipine izin verilmiyorsa, yenisi bulunacaktır. Listedeki ilk yazı tipi önce kullanılacaktır. O da kısıtlanırsa, listedeki bir sonraki yazı tipi seçilir. Yazı tipinde değişiklik yoksa veya tüm değişikliklere izin verilmezse, izin verilen yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. İzin verilen ve kullanılabilir yazı tipi yoksa, kitaplık izin verilmese bile sistem varsayılan yazı tipini kullanmayı deneyin.
+Yazı tipi yedekleme listesini ayarlar. Yazı tipi izin verilmiyorsa bir yedek bulunur. Listedeki ilk yazı tipi ilk olarak kullanılır. Eğer o da kısıtlanmışsa, listedeki bir sonraki yazı tipi seçilir. Yazı tipinin yedekleri yoksa veya tüm yedekler izin verilmiyorsa, izinli yazı tipi listesinden ilk izin verilen yazı tipi kullanılır. Eğer izinli ve mevcut yazı tipi yoksa, kütüphane izinli olmasa bile sistem varsayılan yazı tipini kullanmaya çalışır.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fontToReplace | String | Değiştirilecek yazı tipi. |
-| fontNames | String[] | Benzerlik sırasına göre yedek yazı tipi adları. |
+| fontNames | String[] | Benzerliğe göre sıralanmış yedek yazı tipi adları. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Yazı Tipi Dizisinin Uzunluğu ve Yazı Tipi Farkları Dizisi eşit olmalıdır |
+| ArgumentException | Yazı tipi Dizisi ve Yazı Tipi Farkları Dizisinin uzunluğu eşit olmalıdır. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, kullanarak yazı tiplerini programlı olarak sınırlama yeteneğini gösterir.
+Aşağıdaki kod, programlı olarak yazı tiplerini sınırlama yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,10 +64,10 @@ finally
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FontSettings](../)
-* ad alanı [Aspose.PSD](../../fontsettings/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

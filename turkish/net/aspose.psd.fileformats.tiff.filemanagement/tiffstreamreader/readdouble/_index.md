@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamReader yöntem. Akıştan tek bir çift değer okuyun.
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamReader yöntemi. Akıştan tek bir double değer okur"
 type: docs
 weight: 50
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-Akıştan tek bir çift değer okuyun.
+Akıştan tek bir double değeri okur.
 
 ```csharp
 public double ReadDouble(long position)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| position | Int64 | Okunacak konum. |
+| konum | Int64 | Okunacak konum. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Tek çift değer.
+Tek double değer.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamReader](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. GPS enlemini alır veya ayarlar.
+title: "ExifData.GPSLatitude"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. GPS enlemini alır veya ayarlar"
 type: docs
 weight: 520
 url: /tr/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
 GPS enlemini alır veya ayarlar.
@@ -14,15 +15,15 @@ GPS enlemini alır veya ayarlar.
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 GPS enlemi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,53 +1,54 @@
 ---
-title: XmpDate.XmpDate
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpDate inşaatçı. Yeni bir örneğini başlatır.XmpDate sınıf.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpDate yapıcı. XmpDate sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpDate`](../) sınıf.
+[`XmpDate`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dateTime | DateTime | ISO RFC 8601 biçimlendirmesinin bir alt kümesi kullanılarak temsil edilen bir tarih-saat değeri. |
+| dateTime | DateTime | ISO RFC 8601 formatlamasının bir alt kümesi kullanılarak temsil edilen bir tarih‑zaman değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDate](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpDate`](../) sınıf.
+[`XmpDate`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| dateString | String | Tarihin dize gösterimi. |
+| dateString | String | Tarihin dize temsili. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | Geçersiz tarih biçimi; tarih |
+| ArgumentException | Geçersiz tarih formatı;date |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpDate](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

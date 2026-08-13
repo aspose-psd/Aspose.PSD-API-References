@@ -1,34 +1,35 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Aspose.PSD for .NET API Referansı
-description: Rectangle yöntem. oluştururRectangle belirtilen kenar konumlarına sahip yapı.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rectangle yöntemi. Belirtilen kenar konumlarıyla bir Rectangle yapısı oluşturur."
 type: docs
 weight: 40
 url: /tr/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-oluşturur[`Rectangle`](../) belirtilen kenar konumlarına sahip yapı.
+Belirtilen kenar konumlarıyla bir [`Rectangle`](../) yapısı oluşturur.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| left | Int32 | Bunun sol üst köşesinin x koordinatı[`Rectangle`](../) yapı. |
-| top | Int32 | Bunun sol üst köşesinin y koordinatı[`Rectangle`](../) yapı. |
-| right | Int32 | Bunun sağ alt köşesinin x koordinatı[`Rectangle`](../) yapı. |
-| bottom | Int32 | Bunun sağ alt köşesinin y koordinatı[`Rectangle`](../) yapı. |
+| left | Int32 | Bu [`Rectangle`](../) yapısının sol üst köşesinin x koordinatı. |
+| top | Int32 | Bu [`Rectangle`](../) yapısının sol üst köşesinin y koordinatı. |
+| right | Int32 | Bu [`Rectangle`](../) yapısının sağ-alt köşesinin x koordinatı. |
+| bottom | Int32 | Bu [`Rectangle`](../) yapısının sağ-alt köşesinin y koordinatı. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Yeni[`Rectangle`](../) bu yöntemin oluşturduğu.
+Bu yöntemin oluşturduğu yeni [`Rectangle`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../)
-* ad alanı [Aspose.PSD](../../rectangle/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

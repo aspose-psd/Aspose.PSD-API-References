@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffStreamWriter mülk. Akış konumunu alır veya ayarlar.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffStreamWriter özelliği. Akım konumunu alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
 Akış konumunu alır veya ayarlar.
@@ -14,14 +15,14 @@ Akış konumunu alır veya ayarlar.
 public long Position { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Akış konumu.
+Akım konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffStreamWriter](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

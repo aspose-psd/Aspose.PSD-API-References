@@ -1,48 +1,49 @@
 ---
-title: PathGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD for .NET API Referansı
-description: PathGradientBrush yöntem. Bir merkez rengi ve onu çevreleyen bir renge doğrusal bir sapma ile bir degrade oluşturur.
+title: "PathGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PathGradientBrush yöntemi. Merkez rengi ve bir çevre rengine doğru lineer azalan bir degrade oluşturur."
 type: docs
-weight: 50
+weight: 60
 url: /tr/net/aspose.psd.brushes/pathgradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Bir merkez rengi ve onu çevreleyen bir renge doğrusal bir sapma ile bir degrade oluşturur.
+Merkez rengi ve bir çevre rengine doğru lineer bir düşüşle bir gradient oluşturur.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Yolun merkezinden yolun sınırına kadar herhangi bir radyal boyunca merkez rengin en yüksek yoğunluğunun nerede olacağını belirten, 0 ile 1 arasında bir değer. 1 değeri (varsayılan), en yüksek yoğunluğu yolun merkezine yerleştirir. |
+| odak | Single | 0 ile 1 arasında bir değer; yolun merkezinden yolun sınırına doğru herhangi bir radyal boyunca merkez renginin en yüksek yoğunlukta olacağı konumu belirler. 1 değeri (varsayılan) en yüksek yoğunluğu yolun merkezine yerleştirir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Merkez rengi olan bir degrade ve çevresindeki her renge doğrusal bir düşüş oluşturur.
+Merkez rengi ve her bir çevre rengine doğru lineer bir düşüşle bir gradient oluşturur.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Yolun merkezinden yolun sınırına kadar herhangi bir radyal boyunca merkez rengin en yüksek yoğunluğunun nerede olacağını belirten, 0 ile 1 arasında bir değer. 1 değeri (varsayılan), en yüksek yoğunluğu yolun merkezine yerleştirir. |
-| scale | Single | Sınır rengiyle karışan merkez rengin maksimum yoğunluğunu belirten 0 ile 1 arasında bir değer. 1 değeri, merkez rengin mümkün olan en yüksek yoğunluğuna neden olur ve varsayılan değerdir. |
+| odak | Single | 0 ile 1 arasında bir değer; yolun merkezinden yolun sınırına doğru herhangi bir radyal boyunca merkez renginin en yüksek yoğunlukta olacağı konumu belirler. 1 değeri (varsayılan) en yüksek yoğunluğu yolun merkezine yerleştirir. |
+| scale | Single | 0 ile 1 arasında bir değer; merkez renginin sınır rengiyle karıştığı maksimum yoğunluğu belirler. 1 değeri, merkez renginin mümkün olan en yüksek yoğunluğunu sağlar ve varsayılan değerdir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PathGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF inşaatçı. Yeni bir örneğini başlatır.SizeF belirtilen yapıSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yapıcı. Belirtilen SizeF'ten yeni bir SizeF yapısı örneği başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`SizeF`](../) belirtilen yapı[`SizeF`](../) .
+Belirtilen [`SizeF`](../) öğesinden yeni bir [`SizeF`](../) yapısı örneği başlatır.
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size | SizeF | bu[`SizeF`](../) yenisini yaratmak için[`SizeF`](../). |
+| size | SizeF | Yeni [`SizeF`](../) oluşturulacak [`SizeF`](../) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-Yeni bir örneğini başlatır.[`SizeF`](../) belirtilen yapı[`PointF`](../../pointf/) .
+Belirtilen [`PointF`](../../pointf/) öğesinden yeni bir [`SizeF`](../) yapısı örneği başlatır.
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point | PointF | bu[`PointF`](../../pointf/) Bunu başlatmak için nereden[`SizeF`](../). |
+| point | PointF | Bu [`SizeF`](../) başlatılacak [`PointF`](../../pointf/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`SizeF`](../) belirtilen boyutlardan yapı.
+Belirtilen boyutlardan yeni bir [`SizeF`](../) yapısı örneği başlatır.
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| width | Single | Yeninin genişlik bileşeni[`SizeF`](../). |
-| height | Single | Yeninin yükseklik bileşeni[`SizeF`](../). |
+| width | Single | Yeni [`SizeF`](../) nesnesinin genişlik bileşeni. |
+| height | Single | Yeni [`SizeF`](../) nesnesinin yükseklik bileşeni. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.AutoKerning Sıralama. Photoshop otomatik karakter aralığı modu semboller arasındaki mesafe.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Photoshop otomatik kerning modu, semboller arasındaki mesafe"
 type: docs
-weight: 1600
+weight: 1610
 url: /tr/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Photoshop otomatik karakter aralığı modu (semboller arasındaki mesafe).
+Photoshop otomatik kerning modu (semboller arasındaki mesafe).
 
 ```csharp
 public enum AutoKerning
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Manual | `0` | Manuel karakter aralığı değeri. |
-| Metric | `1` | Metrik karakter aralığı, çoğu yazı tipine (tasarımcılarından) dahil olan karakter aralığı çiftlerini kullanır. |
-| Optical | `2` | Optik karakter aralığı, bitişik karakterler arasındaki boşluğu şekillerine göre ayarlar. |
+| Manual | `0` | Manuel kerning değeri. |
+| Metric | `1` | Metrik kerning, çoğu fontta (tasarımcılarından) bulunan kern çiftlerini kullanır. |
+| Optical | `2` | Optik kerning, yan yana karakterler arasındaki boşluğu şekillerine göre ayarlar. |
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, yeni ITextStyle özelliklerinin desteğini gösterir.
 
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

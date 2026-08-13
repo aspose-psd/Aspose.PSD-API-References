@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskExtendWithWhite
-second_title: Aspose.PSD for .NET API Referansı
-description: SmartFilters mülk. Akıllı filtrenin beyaz durumuyla genişletilmiş is maskesini alır.
+title: "SmartFilters.IsMaskExtendWithWhite"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SmartFilters özelliği. Akıllı filtrenin beyazla maske genişletme durumunu alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskExtendWithWhite property
 
-Akıllı filtrenin beyaz durumuyla genişletilmiş is maskesini alır.
+Akıllı filtrenin maskesinin beyazla genişletilmiş olup olmadığını alır.
 
 ```csharp
 public bool IsMaskExtendWithWhite { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [SmartFilters](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

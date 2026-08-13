@@ -1,27 +1,28 @@
 ---
-title: CmykColor.GetHashCode
-second_title: Aspose.PSD for .NET API Referansı
-description: CmykColor yöntem. Alma karma kodu.
+title: "CmykColor.GetHashCode"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "CmykColor metodu. Karma kodunu al."
 type: docs
-weight: 80
+weight: 90
 url: /tr/net/aspose.psd/cmykcolor/gethashcode/
 ---
+{{< psd/tize >}}
 ## CmykColor.GetHashCode method
 
-Alma karma kodu.
+Hash kodunu al.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Int32 .
+Int32.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [CmykColor](../)
-* ad alanı [Aspose.PSD](../../cmykcolor/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleScaleLock
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Kontur stili ölçek kilidini alır veya ayarlar.
+title: "VstkResource.StrokeStyleScaleLock"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Stroke stili ölçek kilidini alır veya ayarlar"
 type: docs
-weight: 200
+weight: 180
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleScaleLock property
 
-Kontur stili ölçek kilidini alır veya ayarlar.
+Stroke style ölçek kilidini alır veya ayarlar.
 
 ```csharp
 public bool StrokeStyleScaleLock { get; set; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

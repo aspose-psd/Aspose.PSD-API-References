@@ -1,33 +1,34 @@
 ---
-title: Enum GradientType
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType Sıralama. Degrade türü
+title: "Enum GradientType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Degrade türü"
 type: docs
-weight: 1980
+weight: 2100
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
-Degrade türü
+Gradyan türü
 
 ```csharp
 public enum GradientType
 ```
 
-### değerler
+### Değerler
 
-| İsim | Değer | Tanım |
+| Ad | Değer | Açıklama |
 | --- | --- | --- |
-| Linear | `0` | Doğrusal gradyan type |
-| Radial | `1` | Radyal gradyan type |
-| Angle | `2` | Açı gradyanı type |
-| Reflected | `3` | Yansıtılan degrade type |
-| Diamond | `4` | Elmas gradyan type |
-| ShapeBurst | `5` | Şekil patlaması gradyan type |
+| Linear | `0` | Doğrusal degrade türü |
+| Radial | `1` | Radyal degrade türü |
+| Angle | `2` | Açısal degrade türü |
+| Reflected | `3` | Yansıtılmış degrade türü |
+| Diamond | `4` | Elmas degrade türü |
+| ShapeBurst | `5` | Şekil patlamalı degrade türü |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

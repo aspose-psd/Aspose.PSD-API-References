@@ -1,48 +1,49 @@
 ---
-title: LiFeDataSource.LiFeDataSource
-second_title: Aspose.PSD for .NET API Referansı
-description: LiFeDataSource inşaatçı. Yeni bir örneğini başlatır.LiFeDataSource sınıf.
+title: "LiFeDataSource.LiFeDataSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LiFeDataSource yapıcı. LiFeDataSource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource() {#constructor}
 
-Yeni bir örneğini başlatır.[`LiFeDataSource`](../) sınıf.
+[`LiFeDataSource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LiFeDataSource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LiFeDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LiFeDataSource`](../) sınıf.
+[`LiFeDataSource`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
     string fileCreator)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| version | Int32 | Sürüm. |
-| uniqueId | Guid | Benzersiz tanımlayıcı. |
-| originalFileName | String | Orijinal dosyanın adı. |
-| fileType | String | Dosyanın türü. |
-| fileCreator | String | Dosya yaratıcısı. |
+| sürüm | Int32 | Sürüm. |
+| benzersizKimlik | Guid | Benzersiz tanımlayıcı. |
+| orijinalDosyaAdı | String | Orijinal dosyanın adı. |
+| dosyaTürü | String | Dosyanın türü. |
+| dosyaOluşturan | String | Dosya oluşturucu. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LiFeDataSource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

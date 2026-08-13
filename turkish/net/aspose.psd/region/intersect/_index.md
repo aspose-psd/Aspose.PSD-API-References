@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: Aspose.PSD for .NET API Referansı
-description: Region yöntem. Bunu güncellerRegion belirtilen ile kendisinin kesişim noktasınaRectangleFyapı.
+title: "Region.Intersect"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Region yöntemi. Bu Region'ı, kendisi ile belirtilen RectangleF yapısının kesişimiyle günceller."
 type: docs
-weight: 60
+weight: 70
 url: /tr/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Bunu günceller[`Region`](../) belirtilen ile kendisinin kesişim noktasına[`RectangleF`](../../rectanglef/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`RectangleF`](../../rectanglef/) yapısının kesişimiyle günceller.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | bu[`RectangleF`](../../rectanglef/) bununla kesişecek yapı[`Region`](../). |
+| rect | RectangleF | Bu [`Region`](../) ile kesişecek olan [`RectangleF`](../../rectanglef/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Bunu günceller[`Region`](../) belirtilen ile kendisinin kesişim noktasına[`Rectangle`](../../rectangle/)yapı.
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Rectangle`](../../rectangle/) yapısının kesişimiyle günceller.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | bu[`Rectangle`](../../rectangle/) bununla kesişecek yapı[`Region`](../). |
+| rect | Rectangle | Bu [`Region`](../) ile kesişecek olan [`Rectangle`](../../rectangle/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Bunu günceller[`Region`](../) belirtilen ile kendisinin kesişim noktasına[`GraphicsPath`](../../graphicspath/) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`GraphicsPath`](../../graphicspath/) öğesinin kesişimiyle günceller.
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| path | GraphicsPath | bu[`GraphicsPath`](../../graphicspath/) bununla kesişmek[`Region`](../). |
+| path | GraphicsPath | Bu [`Region`](../) ile kesişecek olan [`GraphicsPath`](../../graphicspath/) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Bunu günceller[`Region`](../) belirtilen ile kendisinin kesişim noktasına[`Region`](../) .
+Bu [`Region`](../) öğesini, kendisi ile belirtilen [`Region`](../) öğesinin kesişimiyle günceller.
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| region | Region | bu[`Region`](../) bununla kesişmek[`Region`](../). |
+| region | Region | Bu [`Region`](../) ile kesişecek olan [`Region`](../) öğesi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Region](../)
-* ad alanı [Aspose.PSD](../../region/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PatternOverlayEffect.EffectType
-second_title: Aspose.PSD for .NET API Referansı
-description: PatternOverlayEffect mülk. Bir tür efekt alır type
+title: "PatternOverlayEffect.EffectType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PatternOverlayEffect özelliği. Etki türünün tipini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.EffectType property
 
-Bir tür efekt alır type
+Bir efekt türünü alır.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Örnekler
+## Örnekler
 
 Aşağıdaki kod, ILayerEffect.EffectType özelliğinin desteğini gösterir.
 
@@ -47,11 +48,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [PatternOverlayEffect](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat mülk. Şunu alır veya ayarlarHotkeyPrefix bunun için itirazStringFormat nesne.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat özelliği. Bu StringFormat nesnesi için HotkeyPrefix nesnesini alır veya ayarlar."
 type: docs
-weight: 90
+weight: 100
 url: /tr/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-Şunu alır veya ayarlar:[`HotkeyPrefix`](../../hotkeyprefix/) bunun için itiraz[`StringFormat`](../) nesne.
+Bu [`StringFormat`](../) nesnesi için [`HotkeyPrefix`](../../hotkeyprefix/) nesnesini alır veya ayarlar.
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-bu[`HotkeyPrefix`](../../hotkeyprefix/) bunun için itiraz[`StringFormat`](../) nesne, varsayılanNone.
+Bu [`StringFormat`](../) nesnesi için [`HotkeyPrefix`](../../hotkeyprefix/) nesnesi, varsayılanı None'dur.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD for .NET API Referansı
-description: StringFormat inşaatçı. Yeni bir başlatırStringFormat nesne.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "StringFormat yapıcı. Yeni bir StringFormat nesnesi başlatır."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-Yeni bir başlatır[`StringFormat`](../) nesne.
+Yeni bir [`StringFormat`](../) nesnesi başlatır.
 
 ```csharp
 public StringFormat()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-Yeni bir başlatır[`StringFormat`](../) belirtilen nesne[`StringFormatFlags`](../../stringformatflags/) numaralandırma ve dil.
+Belirtilen [`StringFormatFlags`](../../stringformatflags/) enum değeri ve dil ile yeni bir [`StringFormat`](../) nesnesi başlatır.
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| options | StringFormatFlags | bu[`StringFormatFlags`](../../stringformatflags/) yeni için numaralandırma[`StringFormat`](../) nesne. |
+| options | StringFormatFlags | Yeni [`StringFormat`](../) nesnesi için [`StringFormatFlags`](../../stringformatflags/) enum değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-Yeni bir başlatır[`StringFormat`](../) belirtilen mevcut nesneden[`StringFormat`](../) nesne.
+Belirtilen mevcut [`StringFormat`](../) nesnesinden yeni bir [`StringFormat`](../) nesnesi başlatır.
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| format | StringFormat | bu[`StringFormat`](../) yeninin başlatılacağı nesne[`StringFormat`](../) nesne. |
+| format | StringFormat | Yeni [`StringFormat`](../) nesnesini başlatmak için kullanılacak [`StringFormat`](../) nesnesi. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *format* boş. |
+| ArgumentNullException | *format* null'dur. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [StringFormat](../)
-* ad alanı [Aspose.PSD](../../stringformat/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

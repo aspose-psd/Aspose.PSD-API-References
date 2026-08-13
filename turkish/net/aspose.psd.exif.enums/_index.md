@@ -1,35 +1,36 @@
 ---
-title: Aspose.PSD.Exif.Enums
-second_title: Aspose.PSD for .NET API Referansı
-description: Ad alanı EXIF numaralandırmalarını içerir.
+title: "Aspose.PSD.Exif.Enums"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Ad alanı EXIF sayımlarını içerir"
 type: docs
-weight: 100
+weight: 110
 url: /tr/net/aspose.psd.exif.enums/
 ---
-Ad alanı, EXIF numaralandırmalarını içerir.
+{{< psd/tize >}}
+Ad alanı, EXIF enumerasyonlarını içerir.
 
-## numaralandırma
+## Sıralama
 
-| numaralandırma | Tanım |
+| Sıralama | Açıklama |
 | --- | --- |
-| [ExifColorSpace](./exifcolorspace/) | exif renk alanı numaralandırması. |
-| [ExifContrast](./exifcontrast/) | exif normal yumuşak sabit numaralandırma. |
-| [ExifCustomRendered](./exifcustomrendered/) | exif özel oluşturulmuş enum. |
-| [ExifExposureMode](./exifexposuremode/) | exif pozlama modu numaralandırması. |
-| [ExifExposureProgram](./exifexposureprogram/) | exif teşhir programı numaralandırması. |
-| [ExifFileSource](./exiffilesource/) | exif dosya kaynağı enum. |
+| [ExifColorSpace](./exifcolorspace/) | exif renk uzayı sayımı. |
+| [ExifContrast](./exifcontrast/) | exif normal yumuşak sert sayımı. |
+| [ExifCustomRendered](./exifcustomrendered/) | exif özel işlenmiş sayımı. |
+| [ExifExposureMode](./exifexposuremode/) | exif pozlama modu sayımı. |
+| [ExifExposureProgram](./exifexposureprogram/) | exif pozlama programı sayımı. |
+| [ExifFileSource](./exiffilesource/) | exif dosya kaynağı sayımı. |
 | [ExifFlash](./exifflash/) | Flaş modu. |
-| [ExifGainControl](./exifgaincontrol/) | exif kazanç kontrolü enum. |
-| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps rakım ref numarası. |
-| [ExifLightSource](./exiflightsource/) | Exif ışık kaynağı. |
-| [ExifMeteringMode](./exifmeteringmode/) | exif ölçüm modu numaralandırması. |
-| [ExifOrientation](./exiforientation/) | Exif resim yönü. |
-| [ExifSaturation](./exifsaturation/) | exif doygunluk sıralaması. |
-| [ExifSceneCaptureType](./exifscenecapturetype/) | exif sahne yakalama türü enum. |
-| [ExifSensingMethod](./exifsensingmethod/) | exif algılama yöntemi numaralandırması. |
-| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif özne mesafe aralığı enum. |
-| [ExifUnit](./exifunit/) | exif birimi numaralandırması. |
-| [ExifWhiteBalance](./exifwhitebalance/) | exif beyaz dengesi numarası. |
-| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr konumlandırma numarası. |
+| [ExifGainControl](./exifgaincontrol/) | exif kazanç kontrolü sayımı. |
+| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps irtifa referansı sayımı. |
+| [ExifLightSource](./exiflightsource/) | exif ışık kaynağı. |
+| [ExifMeteringMode](./exifmeteringmode/) | exif ölçüm modu sayımı. |
+| [ExifOrientation](./exiforientation/) | Exif görüntü yönelimi. |
+| [ExifSaturation](./exifsaturation/) | exif doygunluk sayımı. |
+| [ExifSceneCaptureType](./exifscenecapturetype/) | exif sahne yakalama türü sayımı. |
+| [ExifSensingMethod](./exifsensingmethod/) | exif algılama yöntemi sayımı. |
+| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif nesne mesafe aralığı sayımı. |
+| [ExifUnit](./exifunit/) | exif birim sayımı. |
+| [ExifWhiteBalance](./exifwhitebalance/) | exif beyaz dengesi sayımı. |
+| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr konumlandırma sayımı. |
 
 

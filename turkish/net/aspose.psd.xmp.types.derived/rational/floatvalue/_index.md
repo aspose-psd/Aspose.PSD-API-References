@@ -1,11 +1,12 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD for .NET API Referansı
-description: Rational mülk. Float değerini alır.
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Rational özelliği. Ondalıklı değeri alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
 Float değerini alır.
@@ -14,14 +15,14 @@ Float değerini alır.
 public float FloatValue { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Kayan değer.
+Float değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Rational](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.Version
-second_title: Aspose.PSD for .NET API Referansı
-description: PsdOptions mülk. psd dosya sürümünü alır veya ayarlar.
+title: "PsdOptions.Version"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "PsdOptions özelliği. psd dosya sürümünü alır veya ayarlar"
 type: docs
-weight: 100
+weight: 120
 url: /tr/net/aspose.psd.imageoptions/psdoptions/version/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Version property
 
-psd dosya sürümünü alır veya ayarlar.
+PSD dosya sürümünü alır veya ayarlar.
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 psd dosya sürümü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [PsdOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../psdoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

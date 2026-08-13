@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD for .NET API Referansı
-description: Font mülk. Bu karakter kümesini belirten bir bayt değeri alır.Font kullanır.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Font özelliği. Bu Font'un kullandığı karakter kümesini belirten bir bayt değeri alır."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-Bu karakter kümesini belirten bir bayt değeri alır.[`Font`](../) kullanır.
+Bu [`Font`](../) öğesinin kullandığı karakter kümesini belirten bir bayt değeri alır.
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bir karakter kümesi bu[`Font`](../) kullanır.
+Bu [`Font`](../) öğesinin kullandığı bir karakter kümesi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* ad alanı [Aspose.PSD](../../font/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

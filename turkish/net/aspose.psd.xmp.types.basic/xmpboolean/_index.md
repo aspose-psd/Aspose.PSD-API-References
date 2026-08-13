@@ -1,43 +1,44 @@
 ---
-title: Class XmpBoolean
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean sınıf. XMP Boole temel türünü temsil eder.
+title: "Sınıf XmpBoolean"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpBoolean sınıfı. XMP Boolean temel tipini temsil eder"
 type: docs
-weight: 5940
+weight: 6470
 url: /tr/net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean class
 
-XMP Boole temel türünü temsil eder.
+XMP Boolean temel tipini temsil eder.
 
 ```csharp
 public sealed class XmpBoolean : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpBoolean](xmpboolean/#constructor)() | Yeni bir örneğini başlatır.`XmpBoolean` varsayılan değeri olan sınıf. |
-| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Yeni bir örneğini başlatır.`XmpBoolean` boole değerine dayalı sınıf. |
-| [XmpBoolean](xmpboolean/#constructor_2)(string) | Yeni bir örneğini başlatır.`XmpBoolean` sınıf. |
+| [XmpBoolean](xmpboolean/#constructor)() | Varsayılan değerle yeni bir `XmpBoolean` sınıfı örneği başlatır. |
+| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Boolean değere dayalı yeni bir `XmpBoolean` sınıfı örneği başlatır. |
+| [XmpBoolean](xmpboolean/#constructor_2)(string) | Yeni bir `XmpBoolean` sınıfı örneği başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`XmpBoolean` değerdir. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | `XmpBoolean`'ın değer olup olmadığını gösteren bir değeri alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | XMP biçiminde dizge içerdiği değeri döndürür. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | XMP formatında içerilen dize değerini döndürür. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

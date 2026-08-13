@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Aspose.PSD for .NET API Referansı
-description: ExifData mülk. Hedef noktaya yön vermek için kullanılan GPS referansını alır veya ayarlar.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExifData özelliği. Hedef noktasına yön vermek için kullanılan GPS referansını alır veya ayarlar"
 type: docs
 weight: 410
 url: /tr/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
 Hedef noktaya yön vermek için kullanılan GPS referansını alır veya ayarlar.
@@ -14,14 +15,14 @@ Hedef noktaya yön vermek için kullanılan GPS referansını alır veya ayarlar
 public string GPSDestBearingRef { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Hedef noktaya yön vermek için kullanılan GPS referansı.
+Hedef noktasına yön vermek için kullanılan GPS referansı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExifData](../)
-* ad alanı [Aspose.PSD.Exif](../../exifdata/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

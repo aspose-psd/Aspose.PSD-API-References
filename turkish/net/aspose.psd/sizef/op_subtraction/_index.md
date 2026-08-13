@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Subtraction
-second_title: Aspose.PSD for .NET API Referansı
-description: SizeF yöntem. Birinin genişliğini ve yüksekliğini çıkarırSizeF diğerinin genişliğinden ve yüksekliğinden yapıSizeFyapı.
+title: "SizeF.op_Subtraction"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "SizeF yöntemi. Bir SizeF yapısının genişlik ve yüksekliğini, başka bir SizeF yapısının genişlik ve yüksekliğinden çıkarır."
 type: docs
 weight: 170
 url: /tr/net/aspose.psd/sizef/op_subtraction/
 ---
+{{< psd/tize >}}
 ## SizeF Subtraction operator
 
-Birinin genişliğini ve yüksekliğini çıkarır[`SizeF`](../) diğerinin genişliğinden ve yüksekliğinden yapı[`SizeF`](../)yapı.
+Bir [`SizeF`](../) yapısının genişlik ve yüksekliğini, başka bir [`SizeF`](../) yapısının genişlik ve yüksekliğinden çıkarır.
 
 ```csharp
 public static SizeF operator -(SizeF size1, SizeF size2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| size1 | SizeF | bu[`SizeF`](../) çıkarma operatörünün sol tarafında |
-| size2 | SizeF | bu[`SizeF`](../) çıkarma operatörünün sağ tarafında |
+| size1 | SizeF | Çıkarma operatörünün sol tarafındaki [`SizeF`](../). |
+| size2 | SizeF | Çıkarma operatörünün sağ tarafındaki [`SizeF`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-A[`SizeF`](../) çıkarma işleminin sonucudur.
+Çıkarma işleminin sonucu olan bir [`SizeF`](../).
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [SizeF](../)
-* ad alanı [Aspose.PSD](../../sizef/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

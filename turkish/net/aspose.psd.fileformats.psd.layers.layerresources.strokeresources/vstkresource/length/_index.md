@@ -1,23 +1,24 @@
 ---
-title: VstkResource.Length
-second_title: Aspose.PSD for .NET API Referansı
-description: VstkResource mülk. Katman kaynak uzunluğunu bayt cinsinden alır.
+title: "VstkResource.Length"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "VstkResource özelliği. Katman kaynağı uzunluğunu bayt olarak alır"
 type: docs
 weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/
 ---
+{{< psd/tize >}}
 ## VstkResource.Length property
 
-Katman kaynak uzunluğunu bayt cinsinden alır.
+Katman kaynağı uzunluğunu bayt cinsinden alır.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [VstkResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

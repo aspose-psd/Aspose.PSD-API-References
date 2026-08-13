@@ -1,67 +1,68 @@
 ---
-title: Graphics.DrawLines
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. Bir diziyi birbirine bağlayan bir dizi çizgi parçası çizer.Point yapılar.
+title: "Graphics.DrawLines"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Bir dizi Point yapısını bağlayan bir dizi çizgi segmenti çizer"
 type: docs
-weight: 260
+weight: 270
 url: /tr/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-Bir diziyi birbirine bağlayan bir dizi çizgi parçası çizer.[`Point`](../../point/) yapılar.
+Bir dizi [`Point`](../../point/) yapısını bağlayan bir dizi çizgi segmenti çizer.
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) çizgi parçalarının rengini, genişliğini ve stilini belirler. |
-| points | Point[] | dizisi[`Point`](../../point/) bağlanacak noktaları temsil eden yapılar. |
+| pen | Pen | [`Pen`](../../pen/) çizgi segmentlerinin renk, genişlik ve stilini belirler. |
+| points | Point[] | Bağlanacak noktaları temsil eden bir dizi [`Point`](../../point/) yapısı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* null. -veya- *points* boş. |
-| ArgumentException | bu*points* dizi 2'den az nokta içeriyor. |
+| ArgumentNullException | *pen* null. -veya- *points* null. |
+| ArgumentException | *points* dizisi 2'den az nokta içeriyor. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-Bir diziyi birbirine bağlayan bir dizi çizgi parçası çizer.[`PointF`](../../pointf/) yapılar.
+Bir dizi [`PointF`](../../pointf/) yapısını bağlayan bir dizi çizgi segmenti çizer.
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) çizgi parçalarının rengini, genişliğini ve stilini belirler. |
-| points | PointF[] | dizisi[`PointF`](../../pointf/) bağlanacak noktaları temsil eden yapılar. |
+| pen | Pen | [`Pen`](../../pen/) çizgi segmentlerinin renk, genişlik ve stilini belirler. |
+| points | PointF[] | Bağlanacak noktaları temsil eden bir dizi [`PointF`](../../pointf/) yapısı. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | *pen* null. -veya- *points* boş. |
-| ArgumentException | bu*points* dizi 2'den az nokta içeriyor. |
+| ArgumentNullException | *pen* null. -veya- *points* null. |
+| ArgumentException | *points* dizisi 2'den az nokta içeriyor. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

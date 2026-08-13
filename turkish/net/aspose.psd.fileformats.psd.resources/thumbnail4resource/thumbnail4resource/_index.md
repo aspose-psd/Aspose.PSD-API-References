@@ -1,23 +1,24 @@
 ---
-title: Thumbnail4Resource.Thumbnail4Resource
-second_title: Aspose.PSD for .NET API Referansı
-description: Thumbnail4Resource inşaatçı. Default_Constructor
+title: "Thumbnail4Resource.Thumbnail4Resource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Thumbnail4Resource yapıcı. Varsayılan yapıcı"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.resources/thumbnail4resource/thumbnail4resource/
 ---
+{{< psd/tize >}}
 ## Thumbnail4Resource constructor
 
-Default_Constructor
+Varsayılan yapıcı.
 
 ```csharp
 public Thumbnail4Resource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Thumbnail4Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnail4resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

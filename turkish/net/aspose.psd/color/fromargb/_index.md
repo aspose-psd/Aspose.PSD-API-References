@@ -1,127 +1,128 @@
 ---
-title: Color.FromArgb
-second_title: Aspose.PSD for .NET API Referansı
-description: Color yöntem. oluştururColor 32 bit ARGB değerinden yapı.
+title: "Color.FromArgb"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Color yöntemi. 32 bit ARGB değerinden bir Color yapısı oluşturur."
 type: docs
 weight: 1430
 url: /tr/net/aspose.psd/color/fromargb/
 ---
+{{< psd/tize >}}
 ## FromArgb(int) {#fromargb}
 
-oluşturur[`Color`](../) 32 bit ARGB değerinden yapı.
+32 bit ARGB değerinden bir [`Color`](../) yapısı oluşturur.
 
 ```csharp
 public static Color FromArgb(int argb)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | argb | Int32 | 32 bit ARGB değerini belirten bir değer. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Color`](../) Bu yöntemin oluşturduğu yapı.
+Bu yöntemin oluşturduğu [`Color`](../) yapısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int, int) {#fromargb_3}
 
-oluşturur[`Color`](../) dört ARGB bileşeni (alfa, kırmızı, yeşil ve mavi) değerlerinden yapı. Bu yöntem her bileşen için 32 bitlik bir değerin iletilmesine izin verse de, her bileşenin değeri 8 bit ile sınırlıdır.
+Dört ARGB bileşeni (alfa, kırmızı, yeşil ve mavi) değerlerinden bir [`Color`](../) yapısı oluşturur. Bu yöntem her bileşen için 32 bit bir değer geçirmeye izin verse de, her bileşenin değeri 8 bit ile sınırlıdır.
 
 ```csharp
 public static Color FromArgb(int alpha, int red, int green, int blue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| alpha | Int32 | alfa bileşeni. Geçerli değerler 0 ile 255 arasındadır. |
-| red | Int32 | Kırmızı bileşen. Geçerli değerler 0 ile 255 arasındadır. |
-| green | Int32 | Yeşil bileşen. Geçerli değerler 0 ile 255 arasındadır. |
-| blue | Int32 | mavi bileşen. Geçerli değerler 0 ile 255 arasındadır. |
+| alpha | Int32 | Alfa bileşeni. Geçerli değerler 0 ile 255 arasındadır. |
+| kırmızı | Int32 | Kırmızı bileşeni. Geçerli değerler 0 ile 255 arasındadır. |
+| yeşil | Int32 | Yeşil bileşeni. Geçerli değerler 0 ile 255 arasındadır. |
+| mavi | Int32 | Mavi bileşeni. Geçerli değerler 0 ile 255 arasındadır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Color`](../) bu yöntemin oluşturduğu.
+Bu yöntemin oluşturduğu [`Color`](../).
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *alpha* ,*red* ,*green* , veya*blue* 0'dan küçük veya 255'ten büyük. |
+| ArgumentOutOfRangeException | *alpha*, *red*, *green* veya *blue* 0'dan küçük veya 255'ten büyük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, Color) {#fromargb_1}
 
-oluşturur[`Color`](../) belirtilen yapı[`Color`](../) yapı, ancak belirtilen yeni alfa değeriyle. Bu yöntem, alfa değeri için 32 bitlik bir değerin geçmesine izin verse de, değer 8 bit ile sınırlıdır.
+Belirtilen [`Color`](../) yapısından, yeni belirtilen alfa değeriyle bir [`Color`](../) yapısı oluşturur. Bu yöntem alfa değeri için 32 bit bir değer geçirmeye izin verse de, değer 8 bit ile sınırlıdır.
 
 ```csharp
 public static Color FromArgb(int alpha, Color baseColor)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| alpha | Int32 | Yeni için alfa değeri[`Color`](../). Geçerli değerler 0 ile 255 arasındadır. |
-| baseColor | Color | bu[`Color`](../) yenisini yaratmak için[`Color`](../). |
+| alpha | Int32 | Yeni [`Color`](../) için alfa değeri. Geçerli değerler 0 ile 255 arasındadır. |
+| baseColor | Color | Yeni [`Color`](../) oluşturulacak [`Color`](../). |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Color`](../) bu yöntemin oluşturduğu.
+Bu yöntemin oluşturduğu [`Color`](../).
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
 | ArgumentOutOfRangeException | *alpha* 0'dan küçük veya 255'ten büyük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int) {#fromargb_2}
 
-oluşturur[`Color`](../) belirtilen 8 bitlik renk değerlerinden (kırmızı, yeşil ve mavi) yapı. Alfa değeri dolaylı olarak 255'tir (tamamen opak). Bu yöntem, her renk bileşeni için 32 bitlik bir değerin iletilmesine izin verse de, her bileşenin değeri 8 bit ile sınırlıdır.
+Belirtilen 8 bit renk değerlerinden (kırmızı, yeşil ve mavi) bir [`Color`](../) yapısı oluşturur. Alfa değeri dolaylı olarak 255'tir (tamamen opak). Bu yöntem her renk bileşeni için 32 bit bir değer geçirmeye izin verse de, her bileşenin değeri 8 bit ile sınırlıdır.
 
 ```csharp
 public static Color FromArgb(int red, int green, int blue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| red | Int32 | Yeni için kırmızı bileşen değeri[`Color`](../). Geçerli değerler 0 ile 255 arasındadır. |
-| green | Int32 | Yeni için yeşil bileşen değeri[`Color`](../). Geçerli değerler 0 ile 255 arasındadır. |
-| blue | Int32 | Yeni için mavi bileşen değeri[`Color`](../). Geçerli değerler 0 ile 255 arasındadır. |
+| red | Int32 | Yeni [`Color`](../) için kırmızı bileşen değeri. Geçerli değerler 0 ile 255 arasındadır. |
+| green | Int32 | Yeni [`Color`](../) için yeşil bileşen değeri. Geçerli değerler 0 ile 255 arasındadır. |
+| blue | Int32 | Yeni [`Color`](../) için mavi bileşen değeri. Geçerli değerler 0 ile 255 arasındadır. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-bu[`Color`](../) bu yöntemin oluşturduğu.
+Bu yöntemin oluşturduğu [`Color`](../).
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentOutOfRangeException | *red* ,*green* , veya*blue* 0'dan küçük veya 255'ten büyük. |
+| ArgumentOutOfRangeException | *red*, *green* veya *blue* 0'dan küçük ya da 255'ten büyük. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Color](../)
-* ad alanı [Aspose.PSD](../../color/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

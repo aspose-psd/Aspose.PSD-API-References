@@ -1,157 +1,158 @@
 ---
-title: LinearMulticolorGradientBrush.LinearMulticolorGradientBrush
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearMulticolorGradientBrush inşaatçı. Yeni bir örneğini başlatır.LinearMulticolorGradientBrush varsayılan parametrelerle sınıf. Başlangıç rengi siyah bitiş rengi beyaz açı 45 derece ve dikdörtgen 00 konumunda 11.
+title: "LinearMulticolorGradientBrush.LinearMulticolorGradientBrush"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearMulticolorGradientBrush yapıcı. Varsayılan parametrelerle yeni bir LinearMulticolorGradientBrush sınıfı örneği başlatır. Başlangıç rengi siyah, bitiş rengi beyaz, açı 45 derecedir ve dikdörtgen 00 konumunda, boyutu 11'dir."
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.brushes/linearmulticolorgradientbrush/linearmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush() {#constructor}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) varsayılan parametrelerle sınıf. Başlangıç rengi siyah, bitiş rengi beyaz, açı 45 derece ve dikdörtgen (0,0) konumunda (1,1).
+Varsayılan parametrelerle yeni bir [`LinearMulticolorGradientBrush`](../) sınıfı örneği başlatır. Başlangıç rengi siyah, bitiş rengi beyaz, açı 45 derecedir ve dikdörtgen (0,0) konumunda, boyutu (1,1)'dir.
 
 ```csharp
 public LinearMulticolorGradientBrush()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Point, Point) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(Point point1, Point point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | Point | A[`Point`](../../../aspose.psd/point/) doğrusal gradyanın başlangıç noktasını temsil eden yapı. |
-| point2 | Point | A[`Point`](../../../aspose.psd/point/) doğrusal gradyanın uç noktasını temsil eden yapı. |
+| point1 | Point | Doğrusal degrade'nin başlangıç noktasını temsil eden bir [`Point`](../../../aspose.psd/point/) yapısı. |
+| point2 | Point | Doğrusal degrade'nin bitiş noktasını temsil eden bir [`Point`](../../../aspose.psd/point/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(PointF, PointF) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) belirtilen noktalara sahip sınıf.
+Belirtilen noktalarla [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| point1 | PointF | A[`PointF`](../../../aspose.psd/pointf/) doğrusal gradyanın başlangıç noktasını temsil eden yapı. |
-| point2 | PointF | A[`PointF`](../../../aspose.psd/pointf/) doğrusal gradyanın uç noktasını temsil eden yapı. |
+| point1 | PointF | Doğrusal degrade'nin başlangıç noktasını temsil eden bir [`PointF`](../../../aspose.psd/pointf/) yapısı. |
+| point2 | PointF | Doğrusal degrade'nin bitiş noktasını temsil eden bir [`PointF`](../../../aspose.psd/pointf/) yapısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float) {#constructor_3}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) bir dikdörtgene ve yönlendirme açısına dayalı sınıf.
+Bir dikdörtgen ve yön açısına dayalı olarak [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | A[`RectangleF`](../../../aspose.psd/rectanglef/) doğrusal degradenin sınırlarını belirten yapı. |
-| angle | Single | Degradenin yönlendirme çizgisinin x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
+| rect | Rectangle | Doğrusal degrade'nin sınırlarını belirten bir [`RectangleF`](../../../aspose.psd/rectanglef/) yapısı. |
+| açı | Single | Degrade yön çizgisinin, x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float) {#constructor_5}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) bir dikdörtgene ve yönlendirme açısına dayalı sınıf.
+Bir dikdörtgen ve yön açısına dayalı olarak [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) doğrusal degradenin sınırlarını belirten yapı. |
-| angle | Single | Degradenin yönlendirme çizgisinin x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
+| rect | RectangleF | Doğrusal degrade'nin sınırlarını belirten bir [`RectangleF`](../../../aspose.psd/rectanglef/) yapısı. |
+| açı | Single | Degrade yön çizgisinin, x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float, bool) {#constructor_4}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) bir dikdörtgene ve yönlendirme açısına dayalı sınıf.
+Bir dikdörtgen ve yön açısına dayalı olarak [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleScalable)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | Rectangle | A[`RectangleF`](../../../aspose.psd/rectanglef/) doğrusal degradenin sınırlarını belirten yapı. |
-| angle | Single | Degradenin yönlendirme çizgisinin x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
-| isAngleScalable | Boolean | olarak ayarlanmışsa`doğru` bununla dönüşümler sırasında açı değiştirilir[`LinearMulticolorGradientBrush`](../). |
+| rect | Rectangle | Doğrusal degrade'nin sınırlarını belirten bir [`RectangleF`](../../../aspose.psd/rectanglef/) yapısı. |
+| açı | Single | Degrade yön çizgisinin, x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
+| isAngleScalable | Boolean | `true` olarak ayarlanırsa, bu [`LinearMulticolorGradientBrush`](../) ile dönüşümler sırasında açı değişir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float, bool) {#constructor_6}
 
-Yeni bir örneğini başlatır.[`LinearMulticolorGradientBrush`](../) bir dikdörtgene ve yönlendirme açısına dayalı sınıf.
+Bir dikdörtgen ve yön açısına dayalı olarak [`LinearMulticolorGradientBrush`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleScalable)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) doğrusal degradenin sınırlarını belirten yapı. |
-| angle | Single | Degradenin yönlendirme çizgisinin x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
-| isAngleScalable | Boolean | olarak ayarlanmışsa`doğru` bununla dönüşümler sırasında açı değiştirilir[`LinearMulticolorGradientBrush`](../). |
+| rect | RectangleF | Doğrusal degrade'nin sınırlarını belirten bir [`RectangleF`](../../../aspose.psd/rectanglef/) yapısı. |
+| açı | Single | Degrade yön çizgisinin, x ekseninden saat yönünde derece cinsinden ölçülen açısı. |
+| isAngleScalable | Boolean | `true` olarak ayarlanırsa, bu [`LinearMulticolorGradientBrush`](../) ile dönüşümler sırasında açı değişir. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

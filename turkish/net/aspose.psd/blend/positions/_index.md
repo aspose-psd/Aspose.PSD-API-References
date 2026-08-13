@@ -1,27 +1,28 @@
 ---
-title: Blend.Positions
-second_title: Aspose.PSD for .NET API Referansı
-description: Blend mülk. Degrade için karışım konumları dizisini alır veya ayarlar.
+title: "Blend.Positions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Blend özelliği. Gradyan için karışım konumları dizisini alır veya ayarlar."
 type: docs
 weight: 30
 url: /tr/net/aspose.psd/blend/positions/
 ---
+{{< psd/tize >}}
 ## Blend.Positions property
 
-Degrade için karışım konumları dizisini alır veya ayarlar.
+Gradyan için blend konumları dizisini alır veya ayarlar.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Degrade çizgisi boyunca mesafe yüzdelerini belirten karışım konumları dizisi.
+Gradyan çizgisi boyunca mesafenin yüzdelerini belirten karışım konumları dizisi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Blend](../)
-* ad alanı [Aspose.PSD](../../blend/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

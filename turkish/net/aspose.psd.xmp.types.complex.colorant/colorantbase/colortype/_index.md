@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.ColorType
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorantBase mülk. Rengin türünü alır veya ayarlar.
+title: "ColorantBase.ColorType"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorantBase özelliği. Rengin tipini alır veya ayarlar"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
-Rengin türünü alır veya ayarlar.
+Renk tipini alır veya ayarlar.
 
 ```csharp
 public ColorType ColorType { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Rengin türü.
+Rengin tipi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

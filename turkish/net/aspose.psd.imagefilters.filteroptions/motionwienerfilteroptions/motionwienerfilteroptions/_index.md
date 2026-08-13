@@ -1,29 +1,30 @@
 ---
-title: MotionWienerFilterOptions.MotionWienerFilterOptions
-second_title: Aspose.PSD for .NET API Referansı
-description: MotionWienerFilterOptions inşaatçı. Yeni bir örneğini başlatır.MotionWienerFilterOptions sınıf.
+title: "MotionWienerFilterOptions.MotionWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "MotionWienerFilterOptions yapıcı. MotionWienerFilterOptions sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions constructor
 
-Yeni bir örneğini başlatır.[`MotionWienerFilterOptions`](../) sınıf.
+[`MotionWienerFilterOptions`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| length | Int32 | Uzunluk. |
-| smooth | Double | Pürüzsüz. |
-| angle | Double | Kademeli açı. |
+| uzunluk | Int32 | Uzunluk. |
+| düzgünlük | Double | Düzgünlük. |
+| açı | Double | Gradüs cinsinden açı. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [MotionWienerFilterOptions](../)
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

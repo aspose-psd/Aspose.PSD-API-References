@@ -1,11 +1,12 @@
 ---
-title: BritResource.Brightness
-second_title: Aspose.PSD for .NET API Referansı
-description: BritResource mülk. Parlaklığı alır veya ayarlar.
+title: "BritResource.Brightness"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "BritResource özelliği. Parlaklığı alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/
 ---
+{{< psd/tize >}}
 ## BritResource.Brightness property
 
 Parlaklığı alır veya ayarlar.
@@ -14,14 +15,14 @@ Parlaklığı alır veya ayarlar.
 public short Brightness { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Parlaklık.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [BritResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.PSD for .NET API Referansı
-description: LimitMemoryException mülk. Bellek azaltma faktörünü alır veya ayarlar.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LimitMemoryException özelliği. Azaltılmış bellek faktörünü alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
 Bellek azaltma faktörünü alır veya ayarlar.
@@ -14,14 +15,14 @@ Bellek azaltma faktörünü alır veya ayarlar.
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Bellek faktörünü azaltın.
+Azaltılmış bellek faktörü.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LimitMemoryException](../)
-* ad alanı [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

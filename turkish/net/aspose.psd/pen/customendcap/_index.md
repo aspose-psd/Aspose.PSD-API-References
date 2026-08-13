@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bununla çizilen çizgilerin sonunda kullanılacak özel bir sınır alır veya ayarlarPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen ile çizilen çizgilerin sonunda kullanılacak özel bir kapak alır veya ayarlar"
 type: docs
 weight: 60
 url: /tr/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Bununla çizilen çizgilerin sonunda kullanılacak özel bir sınır alır veya ayarlar[`Pen`](../) .
+Bu [`Pen`](../) ile çizilen çizgilerin sonunda kullanılacak özel bir kapak alır veya ayarlar.
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) bununla çizilen çizgilerin sonunda kullanılan başlığı temsil eden[`Pen`](../).
+Bir [`CustomLineCap`](../../customlinecap/) bu [`Pen`](../) ile çizilen çizgilerin sonunda kullanılan kapağı temsil eder.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`CustomEndCap` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `CustomEndCap` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

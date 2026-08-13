@@ -1,71 +1,72 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: Aspose.PSD for .NET API Referansı
-description: ExpaResource inşaatçı. Yeni bir örneğini başlatır.ExpaResource sınıf.
+title: "ExpaResource.ExpaResource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ExpaResource yapıcı. ExpaResource sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-Yeni bir örneğini başlatır.[`ExpaResource`](../) sınıf.
+`[`ExpaResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ExpaResource()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-Yeni bir örneğini başlatır.[`ExpaResource`](../) sınıf.
+`[`ExpaResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| exposure | Single | Maruz kalma. |
+| pozlama | Single | Pozlama. |
 | offset | Single | Ofset. |
-| gamma | Single | gama. |
+| gama | Single | Gama. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`ExpaResource`](../) sınıf.
+`[`ExpaResource`](../)` sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public ExpaResource(byte[] bytes)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | bytes | Byte[] | Baytlar. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Expa Kaynak verileri |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Geçersiz Expa Resource verisi |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ExpaResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

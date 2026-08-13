@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD for .NET API Referansı
-description: XmpReal inşaatçı. Yeni bir örneğini başlatır.XmpReal sınıf.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "XmpReal yapıcı. XmpReal sınıfının yeni bir örneğini başlatır"
 type: docs
 weight: 10
 url: /tr/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Yeni bir örneğini başlatır.[`XmpReal`](../) sınıf.
+[`XmpReal`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | Single | Kayan değer. |
+| değer | Single | Float değeri. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpReal](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Yeni bir örneğini başlatır.[`XmpReal`](../) sınıf.
+[`XmpReal`](../) sınıfının yeni bir örneğini başlatır.
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| value | String | Değer. |
+| değer | String | Değer. |
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentNullException | değer boş. |
-| ArgumentException | Geçersiz değer. Yüzer olmalıdır. |
+| ArgumentNullException | değer null. |
+| ArgumentException | Geçersiz değer. Float olmalıdır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpReal](../)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

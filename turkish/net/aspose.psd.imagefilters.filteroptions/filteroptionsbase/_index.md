@@ -1,22 +1,23 @@
 ---
-title: Class FilterOptionsBase
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase sınıf. Filtre Seçenekleri Tabanı soyut class
+title: "Sınıf FilterOptionsBase"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase sınıfı. Filter Options Base soyut sınıfı"
 type: docs
-weight: 4690
+weight: 5190
 url: /tr/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-Filtre Seçenekleri Tabanı, soyut class
+Filtre Seçenekleri Temeli, soyut sınıf
 
 ```csharp
 public abstract class FilterOptionsBase
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

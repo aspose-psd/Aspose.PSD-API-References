@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Aspose.PSD for .NET API Referansı
-description: GraphicsPath mülk. Nesnenin sınırlarını alır veya ayarlar.
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GraphicsPath özelliği. Nesnenin sınırlarını alır veya ayarlar"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
 Nesnenin sınırlarını alır veya ayarlar.
@@ -14,15 +15,15 @@ Nesnenin sınırlarını alır veya ayarlar.
 public override RectangleF Bounds { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Nesnenin sınırları.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* ad alanı [Aspose.PSD](../../graphicspath/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

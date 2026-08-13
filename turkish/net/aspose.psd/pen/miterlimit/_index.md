@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Azaltılmış bir köşede birleştirmenin kalınlık sınırını alır veya ayarlar.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Keskin bir köşedeki birleşim kalınlığının sınırını alır veya ayarlar."
 type: docs
 weight: 140
 url: /tr/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Azaltılmış bir köşede birleştirmenin kalınlık sınırını alır veya ayarlar.
+Köşeli bir köşedeki birleşimin kalınlık sınırını alır veya ayarlar.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Şevli bir köşedeki birleştirmenin kalınlık sınırı.
+Keskin bir köşedeki birleşim kalınlığının sınırı.
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`MiterLimit` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `MiterLimit` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

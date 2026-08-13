@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. Fotometrik değeri alır veya ayarlar.
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. Fotometrik değerini alır veya ayarlar"
 type: docs
-weight: 320
+weight: 330
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
 Fotometrik değeri alır veya ayarlar.
@@ -14,15 +15,15 @@ Fotometrik değeri alır veya ayarlar.
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
 Fotometrik.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

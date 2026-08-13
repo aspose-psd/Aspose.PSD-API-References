@@ -1,37 +1,39 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings arayüz. Model dolgu ayarları için arayüz
+title: "Arayüz IPatternFillSettings"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings arayüz. Desen doldurma ayarları için arayüz"
 type: docs
-weight: 2030
+weight: 2150
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-Model dolgu ayarları için arayüz
+Desen doldurma ayarları için arayüz
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Açıyı alır veya ayarlar. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Yatay ofseti alır veya ayarlar. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Bunun olup olmadığını gösteren bir değer alır veya ayarlar.`IPatternFillSettings`bağlantılı. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Model verilerini alır veya ayarlar. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Modelin yüksekliğini alır veya ayarlar. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Model tanımlayıcısını alır veya ayarlar. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Modelin adını alır veya ayarlar. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Modelin genişliğini alır veya ayarlar. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Noktanın türünü alır veya ayarlar. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Bu `IPatternFillSettings`'in bağlanıp bağlanmadığını gösteren bir değeri alır veya ayarlar. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Desen verilerini alır. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Desenin yüksekliğini alır veya ayarlar. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Desen tanımlayıcısını alır veya ayarlar. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Desenin adını alır veya ayarlar. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Desenin genişliğini alır veya ayarlar. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Noktanın tipini alır veya ayarlar. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Ölçeği alır veya ayarlar. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Dikey ofseti alır veya ayarlar. |
 
-### Örnekler
+## Örnekler
 
-Aşağıdaki kod, görüntüleri desen Dolgu Katmanı ile kaydeder ve Aspose.PSD'nin deseni nasıl işlediğini gösterir.
+Aşağıdaki kod, desen Doldurma Katmanı ile görüntüleri kaydeder ve Aspose.PSD'nin deseni nasıl işlediğini gösterir.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Varolan bir görüntüyü PsdImage sınıfının bir örneğine yükleyin
+// Mevcut bir görüntüyü PsdImage sınıfının bir örneğine yükle
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -81,10 +83,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IFillSettings](../ifillsettings/)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

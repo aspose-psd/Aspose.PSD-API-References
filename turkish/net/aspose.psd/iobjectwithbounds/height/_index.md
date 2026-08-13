@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Height
-second_title: Aspose.PSD for .NET API Referansı
-description: IObjectWithBounds mülk. Nesne yüksekliğini alır.
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "IObjectWithBounds özelliği. Nesnenin yüksekliğini alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
-Nesne yüksekliğini alır.
+Nesnenin yüksekliğini alır.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Nesne yüksekliği.
+Nesnenin yüksekliği.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * interface [IObjectWithBounds](../)
-* ad alanı [Aspose.PSD](../../iobjectwithbounds/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

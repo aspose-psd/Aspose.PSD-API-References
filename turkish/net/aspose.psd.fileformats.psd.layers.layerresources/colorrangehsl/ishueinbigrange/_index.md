@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD for .NET API Referansı
-description: ColorRangeHsl yöntem. Tonun büyük aralıkta olup olmadığını belirler.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ColorRangeHsl yöntemi. Tonun büyük aralıkta olup olmadığını belirler"
 type: docs
 weight: 100
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Tonun büyük aralıkta olup olmadığını belirler.
+Renk tonunun büyük aralıkta olup olmadığını belirler.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| hue | Double | Ton değeri. |
+| renk tonu | Double | Renk tonu değeri. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-`doğru` ton geniş aralıktaysa; aksi takdirde,`YANLIŞ` .
+`true` eğer renk tonu büyük aralıkta ise; aksi takdirde `false`.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ColorRangeHsl](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

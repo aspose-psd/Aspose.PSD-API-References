@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.MedianPointLocation
-second_title: Aspose.PSD for .NET API Referansı
-description: GradientColorPoint mülk. Medyan gradyan noktası konumunu alır veya ayarlar.
+title: "GradientColorPoint.MedianPointLocation"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "GradientColorPoint özelliği. Ortanca gradyan noktasının konumunu alır veya ayarlar"
 type: docs
-weight: 30
+weight: 40
 url: /tr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.MedianPointLocation property
 
-Medyan gradyan noktası konumunu alır veya ayarlar.
+Orta derece degrade nokta konumunu alır veya ayarlar.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Medyan nokta konumu.
+Ortalama nokta konumu.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [GradientColorPoint](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

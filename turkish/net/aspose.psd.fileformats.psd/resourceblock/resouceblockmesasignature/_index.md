@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Aspose.PSD for .NET API Referansı
-description: ResourceBlock alan. ImageReady. kaynak imzası
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "ResourceBlock alanı. ImageReady'ın kaynak imzası"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-ImageReady. kaynak imzası
+ImageReady'ın kaynak imzası.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### Örnekler
+## Örnekler
 
-Bir sonraki kod örneği, MeSa imzalı kaynaklarla PSD dosyalarının yüklenmesini düzeltme ve kaydetme becerisini gösterir.
+Aşağıdaki kod örneği, MeSa imzasına sahip kaynaklarla PSD dosyalarını doğru şekilde yükleme ve kaydetme yeteneğini gösterir.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [ResourceBlock](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

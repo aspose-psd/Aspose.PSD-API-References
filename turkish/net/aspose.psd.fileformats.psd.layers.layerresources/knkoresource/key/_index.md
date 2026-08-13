@@ -1,23 +1,24 @@
 ---
-title: KnkoResource.Key
-second_title: Aspose.PSD for .NET API Referansı
-description: KnkoResource mülk. Katman kaynak anahtarını alır.
+title: "KnkoResource.Key"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "KnkoResource özelliği. Katman kaynağı anahtarını alır"
 type: docs
 weight: 20
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Key property
 
-Katman kaynak anahtarını alır.
+Katman kaynağı anahtarını alır.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [KnkoResource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

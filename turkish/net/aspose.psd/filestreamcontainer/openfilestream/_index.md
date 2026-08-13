@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: Aspose.PSD for .NET API Referansı
-description: FileStreamContainer yöntem. Mevcut bir dosya akışını açar. Dosya akışı yoksa uygun istisna atılır.
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "FileStreamContainer yöntemi. Mevcut bir dosya akışını açar. Dosya akışı mevcut değilse uygun istisna fırlatılır."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-Mevcut bir dosya akışını açar. Dosya akışı yoksa uygun istisna atılır.
+Mevcut bir dosya akışını açar. Dosya akışı mevcut değilse uygun istisna fırlatılır.
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
 | fileLocation | String | Dosya konumu. |
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-Dosya akışı kabı.
+Dosya akış kapsayıcısı.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [FileStreamContainer](../)
-* ad alanı [Aspose.PSD](../../filestreamcontainer/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

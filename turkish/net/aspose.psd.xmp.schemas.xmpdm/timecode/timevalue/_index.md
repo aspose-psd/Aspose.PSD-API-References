@@ -1,27 +1,28 @@
 ---
-title: Timecode.TimeValue
-second_title: Aspose.PSD for .NET API Referansı
-description: Timecode mülk. Zaman değerini belirtilen biçimde alır veya ayarlar.
+title: "Timecode.TimeValue"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Timecode özelliği. Belirtilen formatta zaman değerini alır veya ayarlar"
 type: docs
 weight: 30
 url: /tr/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 ---
+{{< psd/tize >}}
 ## Timecode.TimeValue property
 
-Zaman değerini belirtilen biçimde alır veya ayarlar.
+Belirtilen biçimde zaman değerini alır veya ayarlar.
 
 ```csharp
 public string TimeValue { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-Belirtilen biçimdeki zaman değeri.
+Belirtilen formatta zaman değeri.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Timecode](../)
-* ad alanı [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

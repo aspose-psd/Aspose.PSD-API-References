@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.ToString
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffSRational yöntem. a döndürürString bu örneği temsil eder.
+title: "TiffSRational.ToString"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffSRational yöntemi. Bu örneği temsil eden bir String döndürür"
 type: docs
 weight: 90
 url: /tr/net/aspose.psd.fileformats.tiff/tiffsrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffSRational.ToString method
 
-a döndürürString bu örneği temsil eder.
+Bu örneği temsil eden bir String döndürür.
 
 ```csharp
 public override string ToString()
 ```
 
-### Geri dönüş değeri
+### Dönüş Değeri
 
-birString bu örneği temsil eder.
+Bu örneği temsil eden bir String.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffSRational](../)
-* ad alanı [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

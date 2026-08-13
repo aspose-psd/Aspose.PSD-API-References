@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.TypeToolKey
-second_title: Aspose.PSD for .NET API Referansı
-description: Txt2Resource alan. Tip aracı bilgi anahtarı.
+title: "Txt2Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Txt2Resource alanı. Tip aracı bilgi anahtarı."
 type: docs
-weight: 100
+weight: 70
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.TypeToolKey field
 
 Tip aracı bilgi anahtarı.
@@ -14,10 +15,10 @@ Tip aracı bilgi anahtarı.
 public const int TypeToolKey;
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Txt2Resource](../)
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

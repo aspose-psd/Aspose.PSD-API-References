@@ -1,43 +1,44 @@
 ---
-title: Class XmpInteger
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger sınıf. XMP Tamsayı temel türünü temsil eder.
+title: "Sınıf XmpInteger"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpInteger sınıfı. XMP Integer temel tipini temsil eder"
 type: docs
-weight: 5960
+weight: 6490
 url: /tr/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
-XMP Tamsayı temel türünü temsil eder.
+XMP Integer temel tipini temsil eder.
 
 ```csharp
 public sealed class XmpInteger : XmpTypeBase
 ```
 
-## yapıcılar
+## Yapıcılar
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | Yeni bir örneğini başlatır.`XmpInteger` sınıf. |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | Yeni bir örneğini başlatır.`XmpInteger` sınıf. |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | Yeni bir örneğini başlatır.`XmpInteger` sınıf. |
+| [XmpInteger](xmpinteger/#constructor)(int) | `XmpInteger` sınıfının yeni bir örneğini başlatır. |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | `XmpInteger` sınıfının yeni bir örneğini başlatır. |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | `XmpInteger` sınıfının yeni bir örneğini başlatır. |
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value/) { get; set; } | Değeri alır veya ayarlar. |
 
-## yöntemler
+## Yöntemler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | XMP biçiminde dizgenin içerdiği değeri alır. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | XMP formatında bulunan dize değerini alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ad alanı [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

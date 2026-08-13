@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD for .NET API Referansı
-description: Pen mülk. Bunun için hizalamayı alır veya ayarlarPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Pen özelliği. Bu Pen için hizalamayı alır veya ayarlar."
 type: docs
 weight: 20
 url: /tr/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-Bunun için hizalamayı alır veya ayarlar[`Pen`](../) .
+Bu [`Pen`](../) için hizalamayı alır veya ayarlar.
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### Mülk değeri
+### Property Value
 
-A[`PenAlignment`](../../penalignment/) bunun için hizalamayı temsil eden[`Pen`](../).
+Bu [`Pen`](../) için hizalamayı temsil eden bir [`PenAlignment`](../../penalignment/).
 
-### istisnalar
+### İstisnalar
 
-| istisna | şart |
+| istisna | koşul |
 | --- | --- |
-| ArgumentException | bu`Alignment` özellik değişmez olarak ayarlanır[`Pen`](../) tarafından iade edilenler gibi[`Pen`](../) sınıf. |
+| ArgumentException | `Alignment` özelliği, değiştirilemez bir [`Pen`](../) üzerinde ayarlanır; örneğin [`Pen`](../) sınıfı tarafından döndürülenler gibi. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* ad alanı [Aspose.PSD](../../pen/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

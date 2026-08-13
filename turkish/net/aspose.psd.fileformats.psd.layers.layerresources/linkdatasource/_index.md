@@ -1,41 +1,42 @@
 ---
-title: Class LinkDataSource
-second_title: Aspose.PSD for .NET API Referansı
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSource sınıf. Bağlantılı bir dosya veya PSD dosyasındaki bir varlık hakkında bilgi içeren LinkDataSource sınıfını tanımlar.
+title: "Sınıf LinkDataSource"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSource sınıfı. PSD dosyasındaki bağlı bir dosya veya varlık hakkında bilgi içeren LinkDataSource sınıfını tanımlar."
 type: docs
-weight: 2690
+weight: 2990
 url: /tr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/
 ---
+{{< psd/tize >}}
 ## LinkDataSource class
 
-Bağlantılı bir dosya veya PSD dosyasındaki bir varlık hakkında bilgi içeren LinkDataSource sınıfını tanımlar.
+PSD dosyasındaki bir bağlantılı dosya veya varlık hakkında bilgi içeren LinkDataSource sınıfını tanımlar.
 
 ```csharp
 public abstract class LinkDataSource
 ```
 
-## Özellikleri
+## Özellikler
 
-| İsim | Tanım |
+| Ad | Açıklama |
 | --- | --- |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | PSD varlığının kilitli olup olmadığını gösteren bir değer alır veya ayarlar. Adobe® Photoshop® СС Kitaplıkları varlıkları için varlık kilitli durumu. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Adobe® Photoshop® СС Kitaplıkları varlıkları için varlığın değiştirilme süresini alır veya ayarlar. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | PSD varlığının kilitli olup olmadığını gösteren bir değeri alır veya ayarlar. Adobe® Photoshop® СС Libraries varlıkları için varlık kilitli durumu. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Adobe® Photoshop® СС Libraries varlıkları için varlık değiştirilme zamanını alır veya ayarlar. |
 | [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Lnk2 / LnkE Adobe® Photoshop® kaynağının liFE veya liFD veri kaynağındaki alt belge tanımlayıcısını alır veya ayarlar. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Alt belge için seçili olan kompozisyonun kimliğini alır veya ayarlar; hiçbiri seçilmezse -1 olur. Kompozisyonlar, tasarımcıların oluşturabileceği bir sayfa düzeninin kompozisyonlarıdır. Katman kompozisyonlarını kullanarak, tek bir Adobe® Photoshop® dosyasında bir mizanpajın birden çok sürümünü oluşturabilir, yönetebilir ve görüntüleyebilirsiniz. Katman kompozisyonu, Katmanlar panelinin bir durumunun anlık görüntüsüdür. Katman kompozisyonları, üç tip katman seçeneğini kaydeder but bu özellik, Akıllı Nesneler için Katman Kompozisyonu seçim tanımlayıcısını alır. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | PSD formatındaki dosya oluşturucuyu alır veya ayarlar LnkE / Lnk2 kaynağı. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Adobe® Photoshop® Lnk2 / LnkE kaynağının içerdiği veya bağladığı gömülü veya harici dosyanın türünü alır veya ayarlar. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Bu bağlantı veri kaynağının dosya açık tanımlayıcısına sahip olup olmadığını gösteren bir değer alır veya ayarlar: CompId ve OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Bu PSD bağlantı veri kaynağının Adobe® Photoshop® СС Kitaplığı öğesine bağlanıp bağlanmadığını gösteren bir değer alır. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Bayt cinsinden bağlantı veri kaynağı uzunluğunu alır. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Alt belge için geçerli olarak seçili Comp'un orijinal kimliğini alır; hiçbiri seçilmezse -1 olur. Bu özellik, Akıllı Nesneler için orijinal katman Comp seçim tanımlayıcısını alır. [Akıllı Nesnelerde katman kompozisyonları](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Alt belge için şu anda seçili olan comp'ın kimliğini alır veya ayarlar; hiçbiri seçilmemişse -1 olur. Comp'lar, tasarımcıların oluşturabileceği bir sayfa düzeninin kompozisyonlarıdır. Katman comp'larını kullanarak tek bir Adobe® Photoshop® dosyasında bir düzenin birden çok sürümünü oluşturabilir, yönetebilir ve görüntüleyebilirsiniz. Katman comp'ı, Katmanlar panelinin bir durumunun anlık görüntüsüdür. Katman comp'ları üç tür katman seçeneğini kaydeder ancak bu özellik, Akıllı Nesneler için Katman Comp seçim tanımlayıcısını alır. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | PSD formatı LnkE / Lnk2 kaynağındaki dosya oluşturucusunu alır veya ayarlar. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Adobe® Photoshop® Lnk2 / LnkE kaynağının içerdiği veya bağlandığı gömülü veya harici dosyanın türünü alır veya ayarlar. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Bu bağlantı veri kaynağının dosya açık tanımlayıcısına (CompId ve OriginalCompId) sahip olup olmadığını gösteren bir değeri alır veya ayarlar. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Bu PSD bağlantı veri kaynağının Adobe® Photoshop® СС Library öğesine bağlanıp bağlanmadığını gösteren bir değeri alır. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Bağlantı veri kaynağının uzunluğunu bayt cinsinden alır. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Alt belge için şu anda seçili olan Comp'ın orijinal kimliğini alır; hiçbiri seçilmemişse -1 olur. Bu özellik, Akıllı Nesneler için orijinal katman Comp seçim tanımlayıcısını alır. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
 | [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Adobe® Photoshop® global bağlantı kaynağındaki veri kaynağının orijinal dosya adını alır. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Aşağıdakilerden biri veya hiçbiri olabilen Adobe® Photoshop® global bağlantı veri kaynağı türünü alır: PSD'ye karşılık gelen katıştırılmış bağlantılı dosya liFD Lnk2Resource PSD'ye karşılık gelen harici bağlantılı dosya liFE LnkeResource Bağlantılı dosya takma adı liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | PSD bağlantı kaynağındaki veri kaynağının genel benzersiz tanımlayıcısını alır. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Adobe® Photoshop® global bağlantı veri kaynağı türünü alır; aşağıdakilerden biri veya hiçbiri olabilir: PSD Lnk2Resource ile eşleşen gömülü bağlı dosya liFD, PSD LnkeResource ile eşleşen harici bağlı dosya liFE, bağlı dosya takma adı liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | PSD bağlantı kaynağındaki veri kaynağının küresel benzersiz tanımlayıcısını alır. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | PSD LnkE / Lnk2 kaynağındaki veri kaynağının sürümünü alır. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
-* ad alanı [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* toplantı [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

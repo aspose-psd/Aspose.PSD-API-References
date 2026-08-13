@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD for .NET API Referansı
-description: LinearGradientBrush yöntem. Bir merkez rengi ve her iki uçta da tek bir renge doğru doğrusal bir sapma ile doğrusal bir gradyan oluşturur.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "LinearGradientBrush yöntemi. Merkez rengi olan ve her iki uçta tek bir renge doğru lineer bir azalışa sahip bir lineer degrade oluşturur"
 type: docs
-weight: 50
+weight: 70
 url: /tr/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Bir merkez rengi ve her iki uçta da tek bir renge doğru doğrusal bir sapma ile doğrusal bir gradyan oluşturur.
+Merkez rengi ve her iki uçta tek bir renge doğru lineer bir düşüşle lineer bir degrade oluşturur.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Degradenin merkezini (gradyanın yalnızca bitiş renginden oluştuğu nokta) belirten, 0 ile 1 arasında bir değer. |
+| odak | Single | 0 ile 1 arasında bir değer ve degrade merkezini belirler (degrenin yalnızca bitiş renginden oluştuğu nokta). |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Bir merkez rengi ve her iki uçta da tek bir renge doğru doğrusal bir sapma ile doğrusal bir gradyan oluşturur.
+Merkez rengi ve her iki uçta tek bir renge doğru lineer bir düşüşle lineer bir degrade oluşturur.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| Parametre | Tip | Tanım |
+| Parametre | Tür | Açıklama |
 | --- | --- | --- |
-| focus | Single | Degradenin merkezini (gradyanın yalnızca bitiş renginden oluştuğu nokta) belirten, 0 ile 1 arasında bir değer. |
-| scale | Single | Renklerin başlangıç renginden bitiş rengine ne kadar hızlı düştüğünü belirten 0'dan 1'e kadar bir değer*focus*(bitiş rengi) |
+| odak | Single | 0 ile 1 arasında bir değer ve degrade merkezini belirler (degrenin yalnızca bitiş renginden oluştuğu nokta). |
+| scale | Single | 0 ile 1 arasında bir değer ve renklerin başlangıç renginden *odak* (bitiş rengi) noktasına ne kadar hızlı azaldığını belirler. |
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [LinearGradientBrush](../)
-* ad alanı [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

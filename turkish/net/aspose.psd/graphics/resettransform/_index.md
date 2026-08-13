@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD for .NET API Referansı
-description: Graphics yöntem. sıfırlarTransform kimlik için özellik.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "Graphics yöntemi. Transform özelliğini birim (identity) değerine sıfırlar."
 type: docs
-weight: 430
+weight: 440
 url: /tr/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-sıfırlar[`Transform`](../transform/) kimlik için özellik.
+[`Transform`](../transform/) özelliğini birim haline getirir.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [Graphics](../)
-* ad alanı [Aspose.PSD](../../graphics/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

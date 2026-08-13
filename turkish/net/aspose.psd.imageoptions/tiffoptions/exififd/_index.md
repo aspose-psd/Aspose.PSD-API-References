@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD for .NET API Referansı
-description: TiffOptions mülk. İşaretçiyi EXIF IFDye getirir veya ayarlar.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD for .NET API Referansı"
+description: "TiffOptions özelliği. EXIF IFD işaretçisini alır veya ayarlar"
 type: docs
-weight: 130
+weight: 140
 url: /tr/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-İşaretçiyi EXIF IFD'ye getirir veya ayarlar.
+EXIF IFD'ye işaretçiyi alır veya ayarlar.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Mülk değeri
+### Property Value
 
-EXIF IFD işaretçisi.
+EXIF IFD'ye işaretçi.
 
-### Ayrıca bakınız
+### Ayrıca Bakınız
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* ad alanı [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* toplantı [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 
