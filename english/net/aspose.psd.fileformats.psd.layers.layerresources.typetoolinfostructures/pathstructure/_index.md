@@ -19,7 +19,8 @@ public sealed class PathStructure : OSTypeStructure
 
 | Name | Description |
 | --- | --- |
-| [PathStructure](pathstructure/)(ClassID) | Initializes a new instance of the `PathStructure` class. |
+| [PathStructure](pathstructure/#constructor)(ClassID) | Initializes a new instance of the `PathStructure` class. |
+| [PathStructure](pathstructure/#constructor_1)(ClassID, string) | Initializes a new instance of the `PathStructure` class with a path. |
 
 ## Properties
 
@@ -28,8 +29,8 @@ public sealed class PathStructure : OSTypeStructure
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key/) { get; } | Gets the structure key. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Gets or sets the key name. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/) { get; } | Gets the [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) length in bytes. |
-| [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/) { get; set; } | Gets or sets the path. |
-| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/) { get; set; } | Gets or sets the path prefix. |
+| [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/) { get; set; } | Gets or sets the path (for TypeTool path format). |
+| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/) { get; set; } | Gets or sets the legacy path prefix (for TypeTool path format). |
 
 ## Methods
 

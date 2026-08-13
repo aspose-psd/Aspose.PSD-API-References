@@ -3,7 +3,7 @@ title: Class LineSegment
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.ShapeSegments.LineSegment class. Represents a segment leading derectly from a specific point to the next point
 type: docs
-weight: 5950
+weight: 5980
 url: /net/aspose.psd.shapesegments/linesegment/
 ---
 {{< psd/tize >}}

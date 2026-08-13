@@ -17,7 +17,7 @@ public object Clone()
 
 ### Return Value
 
-The copy of instance
+The copy of instance.
 
 ### See Also
 

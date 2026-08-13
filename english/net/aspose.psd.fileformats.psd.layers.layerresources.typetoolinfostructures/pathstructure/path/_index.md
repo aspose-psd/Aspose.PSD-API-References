@@ -1,7 +1,7 @@
 ---
 title: PathStructure.Path
 second_title: Aspose.PSD for .NET API Reference
-description: PathStructure property. Gets or sets the path
+description: PathStructure property. Gets or sets the path for TypeTool path format
 type: docs
 weight: 40
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/
@@ -9,7 +9,7 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructure
 {{< psd/tize >}}
 ## PathStructure.Path property
 
-Gets or sets the path.
+Gets or sets the path (for TypeTool path format).
 
 ```csharp
 public string Path { get; set; }

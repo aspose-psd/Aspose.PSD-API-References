@@ -71,7 +71,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 
     var settings = (GradientFillSettings)gradientOverlay.Settings;
     var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
-    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, settings.FillType);
     AssertAreEqual(true, settings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, settings.GradientType);
@@ -85,15 +84,15 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(3, colorPoints.Length);
 
-    AssertAreEqual(Color.FromArgb(9, 0, 178), colorPoints[0].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 9, 0, 178), colorPoints[0].RawColor);
     AssertAreEqual(0, colorPoints[0].Location);
     AssertAreEqual(50, colorPoints[0].MedianPointLocation);
 
-    AssertAreEqual(Color.Red, colorPoints[1].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Red), colorPoints[1].RawColor);
     AssertAreEqual(2048, colorPoints[1].Location);
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
-    AssertAreEqual(Color.FromArgb(255, 252, 0), colorPoints[2].Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 255, 252, 0), colorPoints[2].RawColor);
     AssertAreEqual(4096, colorPoints[2].Location);
     AssertAreEqual(50, colorPoints[2].MedianPointLocation);
 
@@ -110,8 +109,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
     // Test editing
-    solidGradient.Color = Color.Green;
-
     gradientOverlay.Opacity = 193;
     gradientOverlay.BlendMode = BlendMode.Lighten;
 
@@ -125,7 +122,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 
     // Add new color point
     var colorPoint = solidGradient.AddColorPoint();
-    colorPoint.Color = Color.Green;
+    colorPoint.RawColor = RawColorHelper.CreateArgb8BitColor(Color.Green);
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
@@ -154,7 +151,6 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
     var fillSettings = (GradientFillSettings)gradientOverlay.Settings;
     var solidGradient = (SolidGradient)gradientOverlay.Settings.Gradient;
-    AssertAreEqual(Color.Empty, solidGradient.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // Check color points
@@ -162,22 +158,22 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
     var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.FromArgb(9, 0, 178), point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 9, 0, 178), point.RawColor);
     AssertAreEqual(0, point.Location);
 
     point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.Red, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Red), point.RawColor);
     AssertAreEqual(2048, point.Location);
 
     point = solidGradient.ColorPoints[2];
     AssertAreEqual(50, point.MedianPointLocation);
-    AssertAreEqual(Color.FromArgb(255, 252, 0), point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(255, 255, 252, 0), point.RawColor);
     AssertAreEqual(3000, point.Location);
 
     point = solidGradient.ColorPoints[3];
     AssertAreEqual(75, point.MedianPointLocation);
-    AssertAreEqual(Color.Green, point.Color);
+    AssertAreEqual(RawColorHelper.CreateArgb8BitColor(Color.Green), point.RawColor);
     AssertAreEqual(4096, point.Location);
 
     // Check transparent points
