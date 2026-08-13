@@ -1,0 +1,22 @@
+---
+title: "Énumération LineJoin"
+type: docs
+weight: 5960
+url: /fr/python-net/aspose.psd/linejoin/
+---
+
+Spécifie comment joindre des segments de ligne ou de courbe consécutifs dans une figure (sous‑chemin) contenue dans un objet [GraphicsPath](/psd/python-net/aspose.psd/graphicspath/).
+
+**Module:** [aspose.psd](/psd/python-net/aspose.psd/)
+
+**Full Name:** aspose.psd.LineJoin
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Members**
+| **Member name** | **Description** |
+| :- | :- |
+| BEVEL | Spécifie une jointure biseautée. Cela produit un coin diagonal. |
+| MITER | Spécifie une jointure en onglet. Cela produit un coin aigu ou un coin tronqué, selon que la longueur de l'onglet dépasse la limite d'onglet. |
+| MITER_CLIPPED | Spécifie une jointure en onglet. Cela produit un coin aigu ou un coin biseauté, selon que la longueur de l'onglet dépasse la limite d'onglet. |
+| ROUND | Spécifie une jointure circulaire. Cela produit un arc circulaire lisse entre les lignes. |
