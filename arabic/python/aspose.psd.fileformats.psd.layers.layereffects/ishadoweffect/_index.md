@@ -1,0 +1,33 @@
+---
+title: "فئة IShadowEffect"
+type: docs
+weight: 60
+url: /ar/python-net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
+---
+
+**Summary:** Interface for Shadow Layer Effects
+
+**Module:** [aspose.psd.fileformats.psd.layers.layereffects](/psd/python-net/aspose.psd.fileformats.psd.layers.layereffects/)
+
+**Full Name:** aspose.psd.fileformats.psd.layers.layereffects.IShadowEffect
+
+**Inheritance:** ILayerEffect
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **الوصف** |
+| :- | :- | :- | :- |
+| الزاوية | int | r/w | يحصل أو يضبط الزاوية بالدرجات. |
+| blend_mode | [BlendMode](/psd/python-net/aspose.psd.fileformats.core.blending/blendmode/) | r/w | يحصل أو يضبط وضع الدمج. |
+| color | [Color](/psd/python-net/aspose.psd/color) | r/w | يحصل أو يعيّن اللون. |
+| distance | int | r/w | يحصل أو يضبط المسافة بالبكسل. |
+| effect_type | [LayerEffectsTypes](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/) | r | يحصل على نوع التأثير |
+| is_visible | bool | r/w | يحصل أو يضبط قيمة تشير إلى ما إذا كان هذا الكائن مرئياً. |
+| ضوضاء | int | r/w | يسترجع أو يعيّن الضوضاء. |
+| opacity | byte | r/w | يسترجع أو يعيّن الشفافية حيث 255 = 100% |
+| الحجم | int | r/w | يسترجع أو يعيّن قيمة الضبابية بالبكسل. |
+| انتشار | int | r/w | يسترجع أو يعيّن الشدة كنسبة مئوية. |
+| use_global_light | bool | r/w | يسترجع أو يعيّن قيمة تشير إلى ما إذا كان [استخدام هذه الزاوية في جميع تأثيرات الطبقة]. |
+
+
