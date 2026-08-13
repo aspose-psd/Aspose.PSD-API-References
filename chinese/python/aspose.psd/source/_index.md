@@ -1,0 +1,37 @@
+---
+title: "源类"
+type: docs
+weight: 4210
+url: /zh/python-net/aspose.psd/source/
+---
+
+**Summary:** The source is used to contain all relevant information for an object pipe.
+
+**Module:** [aspose.psd](/psd/python-net/aspose.psd/)
+
+**Full Name:** aspose.psd.Source
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Methods**
+| **Name** | **Description** |
+| :- | :- |
+| [get_stream_container()](#get_stream_container__1) | 获取流容器。 |
+
+
+### Method: get_stream_container() {#get_stream_container__1}
+
+
+```
+ get_stream_container() 
+```
+
+获取流容器。
+
+**Returns**
+
+| 类型 | 描述 |
+| :- | :- |
+| [StreamContainer](/psd/python-net/aspose.psd/streamcontainer) | 流容器。 |
+
+

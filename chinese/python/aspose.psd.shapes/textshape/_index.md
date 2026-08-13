@@ -1,0 +1,133 @@
+---
+title: "TextShape 类"
+type: docs
+weight: 90
+url: /zh/python-net/aspose.psd.shapes/textshape/
+---
+
+**Summary:** Represents a text shape.
+
+**Module:** [aspose.psd.shapes](/psd/python-net/aspose.psd.shapes/)
+
+**Full Name:** aspose.psd.shapes.TextShape
+
+**Inheritance:** RectangleProjectedShape
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Constructors**
+| **Name** | **Description** |
+| :- | :- |
+| [TextShape()](#TextShape__1) | 初始化一个新的 [TextShape](/psd/python-net/aspose.psd.shapes/textshape/) 类实例。 |
+| [TextShape(text, rectangle, font, string_format)](#TextShape_text_rectangle_font_string_format_2) | 初始化一个新的 [TextShape](/psd/python-net/aspose.psd.shapes/textshape/) 类实例。 |
+## **Properties**
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| bounds | [RectangleF](/psd/python-net/aspose.psd/rectanglef) | r | 获取对象的边界。 |
+| center | [PointF](/psd/python-net/aspose.psd/pointf) | r | 获取形状的中心。 |
+| font | [Font](/psd/python-net/aspose.psd.xmp.types.complex.font/font) | r/w | 获取或设置用于绘制文本的字体。 |
+| has_segments | bool | r | 获取指示形状是否具有段的值。 |
+| left_bottom | [PointF](/psd/python-net/aspose.psd/pointf) | r | 获取左下矩形点。 |
+| left_top | [PointF](/psd/python-net/aspose.psd/pointf) | r | 获取左上矩形点。 |
+| rectangle_height | double | r | 获取矩形高度。 |
+| rectangle_width | double | r | 获取矩形宽度。 |
+| right_bottom | [PointF](/psd/python-net/aspose.psd/pointf) | r | 获取右下矩形点。 |
+| right_top | [PointF](/psd/python-net/aspose.psd/pointf) | r | 获取右上矩形点。 |
+| segments | [ShapeSegment[]](/psd/python-net/aspose.psd/shapesegment) | r | 获取形状段。 |
+| text | 字符串 | 读/写 | 获取或设置绘制的文本。 |
+| text_format | [StringFormat](/psd/python-net/aspose.psd/stringformat) | r/w | 获取或设置文本格式。 |
+## **Methods**
+| **Name** | **Description** |
+| :- | :- |
+| [get_bounds(matrix)](#get_bounds_matrix_1) | 获取对象的边界。 |
+| [get_bounds(matrix, pen)](#get_bounds_matrix_pen_2) | 获取对象的边界。 |
+| [transform(transform)](#transform_transform_3) | 对形状应用指定的变换。 |
+
+
+### Constructor: TextShape() {#TextShape__1}
+
+
+```
+ TextShape() 
+```
+
+初始化一个新的 [TextShape](/psd/python-net/aspose.psd.shapes/textshape/) 类实例。
+
+### Constructor: TextShape(text, rectangle, font, string_format) {#TextShape_text_rectangle_font_string_format_2}
+
+
+```
+ TextShape(text, rectangle, font, string_format) 
+```
+
+初始化一个新的 [TextShape](/psd/python-net/aspose.psd.shapes/textshape/) 类实例。
+
+**Parameters:**
+
+| 参数 | 类型 | 描述 |
+| :- | :- | :- |
+| text | 字符串 | 要绘制的文本。 |
+| rectangle | [RectangleF](/psd/python-net/aspose.psd/rectanglef) | 文本矩形。 |
+| font | [Font](/psd/python-net/aspose.psd.xmp.types.complex.font/font) | 要使用的字体。 |
+| string_format | [StringFormat](/psd/python-net/aspose.psd/stringformat) | 字符串格式。 |
+
+### Method: get_bounds(matrix) {#get_bounds_matrix_1}
+
+
+```
+ get_bounds(matrix) 
+```
+
+获取对象的边界。
+
+**Parameters:**
+
+| 参数 | 类型 | 描述 |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | 将在计算边界之前应用的矩阵。 |
+
+**Returns**
+
+| 类型 | 描述 |
+| :- | :- |
+| [RectangleF](/psd/python-net/aspose.psd/rectanglef) | 估计的对象边界。 |
+
+
+### Method: get_bounds(matrix, pen) {#get_bounds_matrix_pen_2}
+
+
+```
+ get_bounds(matrix, pen) 
+```
+
+获取对象的边界。
+
+**Parameters:**
+
+| 参数 | 类型 | 描述 |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | 将在计算边界之前应用的矩阵。 |
+| pen | [Pen](/psd/python-net/aspose.psd/pen) | 用于对象的笔。这可能影响对象边界的大小。 |
+
+**Returns**
+
+| 类型 | 描述 |
+| :- | :- |
+| [RectangleF](/psd/python-net/aspose.psd/rectanglef) | 估计的对象边界。 |
+
+
+### Method: transform(transform) {#transform_transform_3}
+
+
+```
+ transform(transform) 
+```
+
+对形状应用指定的变换。
+
+**Parameters:**
+
+| 参数 | 类型 | 描述 |
+| :- | :- | :- |
+| transform | [Matrix](/psd/python-net/aspose.psd/matrix) | 要应用的变换。 |
+
