@@ -1,0 +1,21 @@
+---
+title: "IFillSettings क्लास"
+type: docs
+weight: 80
+url: /hi/python-net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
+---
+
+**Summary:** Base interface for fill settings
+
+**Module:** [aspose.psd.fileformats.psd.layers.fillsettings](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/)
+
+**Full Name:** aspose.psd.fileformats.psd.layers.fillsettings.IFillSettings
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **विवरण** |
+| :- | :- | :- | :- |
+| fill_type | [FillType](/psd/python-net/aspose.psd.fileformats.psd.layers.fillsettings/filltype) | r | फ़िल का प्रकार प्राप्त करता है। |
+
+
