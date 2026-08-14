@@ -1,0 +1,17 @@
+---
+title: "FlatArrayException Kelas"
+type: docs
+weight: 10
+url: /id/python-net/aspose.psd.flatarray.exceptions/flatarrayexception/
+---
+
+**Summary:** Special exception for [FlatArray`1](/psd/python-net/aspose.psd.flatarray/flatarray`1/) class.
+
+**Module:** [aspose.psd.flatarray.exceptions](/psd/python-net/aspose.psd.flatarray.exceptions/)
+
+**Full Name:** aspose.psd.flatarray.exceptions.FlatArrayException
+
+**Aspose.PSD Version:** 24.12.0
+
+
+

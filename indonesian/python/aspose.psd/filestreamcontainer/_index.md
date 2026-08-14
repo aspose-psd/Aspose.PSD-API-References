@@ -1,0 +1,402 @@
+---
+title: "Kelas FileStreamContainer"
+type: docs
+weight: 1270
+url: /id/python-net/aspose.psd/filestreamcontainer/
+---
+
+**Summary:** Helper for file stream processing.
+
+**Module:** [aspose.psd](/psd/python-net/aspose.psd/)
+
+**Full Name:** aspose.psd.FileStreamContainer
+
+**Inheritance:** StreamContainer
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **Deskripsi** |
+| :- | :- | :- | :- |
+| READ_WRITE_BYTES_COUNT [static] | int | r | Menentukan jumlah byte baca dan tulis saat membaca secara berurutan. |
+| can_read | bool | r | Mendapatkan nilai yang menunjukkan apakah aliran mendukung pembacaan. |
+| can_seek | bool | r | Mendapatkan nilai yang menunjukkan apakah aliran mendukung pencarian. |
+| can_write | bool | r | Mendapatkan nilai yang menunjukkan apakah aliran mendukung penulisan. |
+| dibuang | bool | r | Mendapatkan nilai yang menunjukkan apakah instance ini telah dibuang. |
+| file_path | string | r | Mendapatkan jalur file. |
+| is_created | bool | r | Mendapatkan nilai yang menunjukkan apakah aliran dibuat secara eksplisit. |
+| is_stream_disposed_on_close | bool | r | Mendapatkan nilai yang menunjukkan apakah aliran ini dibuang saat ditutup. |
+| is_temporal | bool | r/w | Mendapatkan atau mengatur nilai yang menunjukkan apakah aliran bersifat temporal. |
+| panjang | long | r/w | Mendapatkan atau mengatur panjang aliran dalam byte. Nilai ini lebih kecil dari  oleh posisi aliran awal yang diberikan pada konstruktor StreamContainer. |
+| posisi | long | r/w | Mendapatkan atau mengatur posisi saat ini dalam aliran. Nilai ini mewakili offset dari posisi aliran awal yang diberikan pada konstruktor StreamContainer. |
+| aliran | _io.BufferedRandom | r | Mendapatkan aliran data. |
+| sync_root | object | r | Mendapatkan objek yang dapat digunakan untuk menyinkronkan akses ke sumber daya yang disinkronkan. |
+## **Methods**
+| **Name** | **Deskripsi** |
+| :- | :- |
+| [create_file_stream(file_location, is_temporal)](#create_file_stream_file_location_is_temporal_1) | Membuat aliran file baru. |
+| flush() | Mengosongkan semua buffer untuk aliran ini dan menyebabkan data yang di-buffer ditulis ke perangkat dasar. |
+| [open_file_stream(file_location)](#open_file_stream_file_location_2) | Membuka aliran file yang ada. Jika aliran file tidak ada, pengecualian yang sesuai akan dilempar. |
+| [read(buffer, offset, count)](#read_buffer_offset_count_3) | Membaca urutan byte dari aliran saat ini dan memajukan posisi dalam aliran sebesar jumlah byte yang dibaca. |
+| [read(bytes)](#read_bytes_4) | Membaca byte untuk mengisi buffer byte yang ditentukan. |
+| [read_byte()](#read_byte__5) | Membaca satu byte dari aliran dan memajukan posisi dalam aliran satu byte, atau mengembalikan -1 jika berada di akhir aliran. |
+| [save(destination_stream)](#save_destination_stream_6) | Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) dan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran. |
+| [save(destination_stream, buffer_size)](#save_destination_stream_buffer_size_7) | Menyimpan (menyalin) semua data aliran ke aliran yang ditentukan. Menggunakan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran. |
+| [save(destination_stream, buffer_size, length)](#save_destination_stream_buffer_size_length_8) | Menyimpan (menyalin) data aliran ke aliran yang ditentukan. |
+| [save(file_path)](#save_file_path_9) | Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) dan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran. |
+| [save(file_path, buffer_size)](#save_file_path_buffer_size_10) | Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan nilai aliran [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/). |
+| [save(file_path, buffer_size, length)](#save_file_path_buffer_size_length_11) | Menyimpan (menyalin) data aliran ke aliran yang ditentukan. |
+| [seek(offset, origin)](#seek_offset_origin_12) | Menetapkan posisi dalam aliran saat ini. |
+| seek_begin() | Menetapkan posisi aliran ke awal aliran. Nilai ini mewakili offset dari posisi aliran awal yang diberikan dalam konstruktor StreamContainer. |
+| [to_bytes()](#to_bytes__13) | Mengonversi data aliran menjadi array int. |
+| [to_bytes(position, bytes_count)](#to_bytes_position_bytes_count_14) | Mengonversi data aliran menjadi array int. |
+| [write(buffer, offset, count)](#write_buffer_offset_count_15) | Menulis urutan byte ke aliran saat ini dan memajukan posisi saat ini dalam aliran ini sebesar jumlah byte yang ditulis. |
+| [write(bytes)](#write_bytes_16) | Menulis semua byte yang ditentukan ke aliran. |
+| [write_byte(value)](#write_byte_value_17) | Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran sebesar satu byte. |
+| [write_to(stream_container)](#write_to_stream_container_18) | Mengopi data yang terkandung ke [StreamContainer](/psd/python-net/aspose.psd/streamcontainer/) lain. |
+| [write_to(stream_container, length)](#write_to_stream_container_length_19) | Mengopi data yang terkandung ke [StreamContainer](/psd/python-net/aspose.psd/streamcontainer/) lain. |
+
+
+### Method: create_file_stream(file_location, is_temporal)  [static] {#create_file_stream_file_location_is_temporal_1}
+
+
+```
+ create_file_stream(file_location, is_temporal) 
+```
+
+Membuat aliran file baru.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| file_location | string | Lokasi file. |
+| is_temporal | bool | Jika diatur ke <c>true</c> kontainer aliran file bersifat temporal. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| [FileStreamContainer](/psd/python-net/aspose.psd/filestreamcontainer) | Kontainer aliran file. |
+
+
+### Method: open_file_stream(file_location)  [static] {#open_file_stream_file_location_2}
+
+
+```
+ open_file_stream(file_location) 
+```
+
+Membuka aliran file yang ada. Jika aliran file tidak ada, pengecualian yang sesuai akan dilempar.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| file_location | string | Lokasi file. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| [FileStreamContainer](/psd/python-net/aspose.psd/filestreamcontainer) | Kontainer aliran file. |
+
+
+### Method: read(buffer, offset, count) {#read_buffer_offset_count_3}
+
+
+```
+ read(buffer, offset, count) 
+```
+
+Membaca urutan byte dari aliran saat ini dan memajukan posisi dalam aliran sebesar jumlah byte yang dibaca.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| buffer | byte | Array byte. Ketika metode ini mengembalikan, buffer berisi array byte yang ditentukan dengan nilai antara <paramref name="offset" /> dan (<paramref name="offset" /> + <paramref name="count" /> - 1) digantikan oleh byte yang dibaca dari sumber saat ini. |
+| offset | int | Offset byte berbasis nol dalam <paramref name="buffer" /> di mana mulai menyimpan data yang dibaca dari aliran saat ini. |
+| jumlah | int | Jumlah maksimum byte yang akan dibaca dari aliran saat ini. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| int | Total jumlah byte yang dibaca ke dalam buffer. Ini dapat lebih sedikit daripada jumlah byte yang diminta jika byte sebanyak itu tidak tersedia saat ini, atau nol (0) jika akhir aliran telah tercapai. |
+
+
+### Method: read(bytes) {#read_bytes_4}
+
+
+```
+ read(bytes) 
+```
+
+Membaca byte untuk mengisi buffer byte yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| byte | byte | Byte yang akan diisi. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| int | Jumlah byte yang dibaca. Nilai ini dapat lebih sedikit daripada jumlah byte dalam buffer jika tidak ada cukup byte dalam aliran. |
+
+
+### Method: read_byte() {#read_byte__5}
+
+
+```
+ read_byte() 
+```
+
+Membaca satu byte dari aliran dan memajukan posisi dalam aliran satu byte, atau mengembalikan -1 jika berada di akhir aliran.
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| int | Byte tak bertanda yang di-cast ke Int32, atau -1 jika berada di akhir aliran. |
+
+
+### Method: save(destination_stream) {#save_destination_stream_6}
+
+
+```
+ save(destination_stream) 
+```
+
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) dan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| destination_stream | _io.BufferedRandom | Aliran untuk menyimpan data. |
+
+### Method: save(destination_stream, buffer_size) {#save_destination_stream_buffer_size_7}
+
+
+```
+ save(destination_stream, buffer_size) 
+```
+
+Menyimpan (menyalin) semua data aliran ke aliran yang ditentukan. Menggunakan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| destination_stream | _io.BufferedRandom | Aliran untuk menyimpan data. |
+| buffer_size | int | Buffer. |
+
+### Method: save(destination_stream, buffer_size, length) {#save_destination_stream_buffer_size_length_8}
+
+
+```
+ save(destination_stream, buffer_size, length) 
+```
+
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| destination_stream | _io.BufferedRandom | Aliran untuk menyimpan data. |
+| buffer_size | int | Ukuran buffer. Secara default nilai [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) digunakan. |
+| length | long | Panjang data aliran yang akan disalin. Secara default panjang diatur ke nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/). |
+
+### Method: save(file_path) {#save_file_path_9}
+
+
+```
+ save(file_path) 
+```
+
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) dan nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/) aliran.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| file_path | string | Jalur file untuk menyimpan data aliran. |
+
+### Method: save(file_path, buffer_size) {#save_file_path_buffer_size_10}
+
+
+```
+ save(file_path, buffer_size) 
+```
+
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan nilai aliran [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/).
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| file_path | string | Jalur file untuk menyimpan data aliran. |
+| buffer_size | int | Ukuran buffer. Secara default nilai [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) digunakan. |
+
+### Method: save(file_path, buffer_size, length) {#save_file_path_buffer_size_length_11}
+
+
+```
+ save(file_path, buffer_size, length) 
+```
+
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| file_path | string | Jalur file untuk menyimpan data aliran. |
+| buffer_size | int | Ukuran buffer. Secara default nilai [StreamContainer.READ_WRITE_BYTES_COUNT](/psd/python-net/aspose.psd/streamcontainer/) digunakan. |
+| length | long | Panjang data aliran yang akan disalin. Secara default panjang diatur ke nilai [StreamContainer.length](/psd/python-net/aspose.psd/streamcontainer/). |
+
+### Method: seek(offset, origin) {#seek_offset_origin_12}
+
+
+```
+ seek(offset, origin) 
+```
+
+Menetapkan posisi dalam aliran saat ini.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| offset | long | Offset byte relatif terhadap parameter <paramref name="origin" />. Nilai ini mewakili offset dari posisi awal aliran yang diberikan dalam konstruktor StreamContainer. |
+| origin | [SeekOrigin](/psd/python-net/aspose.psd/seekorigin) | Nilai bertipe SeekOrigin yang menunjukkan titik referensi yang digunakan untuk memperoleh posisi baru. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| long | Posisi baru dalam aliran saat ini. |
+
+
+### Method: to_bytes() {#to_bytes__13}
+
+
+```
+ to_bytes() 
+```
+
+Mengonversi data aliran menjadi array int.
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| byte | Data aliran yang dikonversi menjadi array int. |
+
+
+### Method: to_bytes(position, bytes_count) {#to_bytes_position_bytes_count_14}
+
+
+```
+ to_bytes(position, bytes_count) 
+```
+
+Mengonversi data aliran menjadi array int.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| posisi | long | Posisi untuk memulai membaca byte. |
+| bytes_count | long | Jumlah byte yang akan dibaca. |
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| byte | Data aliran yang dikonversi menjadi array int. |
+
+
+### Method: write(buffer, offset, count) {#write_buffer_offset_count_15}
+
+
+```
+ write(buffer, offset, count) 
+```
+
+Menulis urutan byte ke aliran saat ini dan memajukan posisi saat ini dalam aliran ini sebesar jumlah byte yang ditulis.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| buffer | byte | Array byte. Metode ini menyalin <paramref name="count" /> byte dari <paramref name="buffer" /> ke aliran saat ini. |
+| offset | int | Offset byte berbasis nol dalam <paramref name="buffer" /> di mana penyalinan byte ke aliran saat ini dimulai. |
+| jumlah | int | Jumlah byte yang akan ditulis ke aliran saat ini. |
+
+### Method: write(bytes) {#write_bytes_16}
+
+
+```
+ write(bytes) 
+```
+
+Menulis semua byte yang ditentukan ke aliran.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| byte | byte | Byte yang akan ditulis. |
+
+### Method: write_byte(value) {#write_byte_value_17}
+
+
+```
+ write_byte(value) 
+```
+
+Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran sebesar satu byte.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| value | byte | Byte yang akan ditulis ke aliran. |
+
+### Method: write_to(stream_container) {#write_to_stream_container_18}
+
+
+```
+ write_to(stream_container) 
+```
+
+Mengopi data yang terkandung ke [StreamContainer](/psd/python-net/aspose.psd/streamcontainer/) lain.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| stream_container | [StreamContainer](/psd/python-net/aspose.psd/streamcontainer) | Kontainer aliran tujuan penyalinan. |
+
+### Method: write_to(stream_container, length) {#write_to_stream_container_length_19}
+
+
+```
+ write_to(stream_container, length) 
+```
+
+Mengopi data yang terkandung ke [StreamContainer](/psd/python-net/aspose.psd/streamcontainer/) lain.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| stream_container | [StreamContainer](/psd/python-net/aspose.psd/streamcontainer) | Kontainer aliran tujuan penyalinan. |
+| panjang | long | Jumlah byte yang akan ditulis. |
+

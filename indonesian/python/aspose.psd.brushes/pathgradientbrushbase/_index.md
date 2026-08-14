@@ -1,0 +1,188 @@
+---
+title: "Kelas PathGradientBrushBase"
+type: docs
+weight: 60
+url: /id/python-net/aspose.psd.brushes/pathgradientbrushbase/
+---
+
+**Summary:** Represents a [Brush](/psd/python-net/aspose.psd/brush/) with base path gradient functionality.
+
+**Module:** [aspose.psd.brushes](/psd/python-net/aspose.psd.brushes/)
+
+**Full Name:** aspose.psd.brushes.PathGradientBrushBase
+
+**Inheritance:** TransformBrush
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **Deskripsi** |
+| :- | :- | :- | :- |
+| center_point | [PointF](/psd/python-net/aspose.psd/pointf) | r/w | Mendapatkan atau mengatur titik pusat gradien jalur. |
+| dibuang | bool | r | Mendapatkan nilai yang menunjukkan apakah instance ini telah dibuang. |
+| focus_scales | [PointF](/psd/python-net/aspose.psd/pointf) | r/w | Mendapatkan atau mengatur titik fokus untuk penurunan gradien. |
+| graphics_path | [GraphicsPath](/psd/python-net/aspose.psd/graphicspath) | r | Mendapatkan jalur grafis yang menjadi dasar kuas ini. |
+| is_transform_changed | bool | r | Mendapatkan nilai yang menunjukkan apakah transformasi telah diubah dengan cara tertentu. Misalnya mengatur matriks transformasi atau<br/>            memanggil salah satu metode yang mengubah matriks transformasi. Properti ini diperkenalkan untuk kompatibilitas mundur dengan GDI+. |
+| opasitas | float | r/w | Mendapatkan atau mengatur opasitas kuas. Nilainya harus antara 0 dan 1. Nilai 0 berarti kuas sepenuhnya terlihat, nilai 1 berarti kuas sepenuhnya tidak tembus pandang. |
+| path_points | [PointF[]](/psd/python-net/aspose.psd/pointf) | r | Mendapatkan titik-titik jalur yang menjadi dasar kuas ini. |
+| transform | [Matrix](/psd/python-net/aspose.psd/matrix) | r/w | Mendapatkan atau mengatur salinan [Matrix](/psd/python-net/aspose.psd/matrix/) yang mendefinisikan transformasi geometris lokal untuk [TransformBrush](/psd/python-net/aspose.psd.brushes/transformbrush/). |
+| wrap_mode | [WrapMode](/psd/python-net/aspose.psd/wrapmode) | r/w | Mendapatkan atau mengatur enumerasi [WrapMode](/psd/python-net/aspose.psd/wrapmode/) yang menunjukkan mode pembungkus untuk [TransformBrush](/psd/python-net/aspose.psd.brushes/transformbrush/). |
+## **Methods**
+| **Name** | **Deskripsi** |
+| :- | :- |
+| [deep_clone()](#deep_clone__1) | Membuat klon dalam baru dari [Brush](/psd/python-net/aspose.psd/brush/) saat ini. |
+| [multiply_transform(matrix)](#multiply_transform_matrix_2) | Mengalikan [Matrix](/psd/python-net/aspose.psd/matrix/) yang mewakili transformasi geometris lokal dari [LinearGradientBrush](/psd/python-net/aspose.psd.brushes/lineargradientbrush/) dengan [Matrix](/psd/python-net/aspose.psd/matrix/) yang ditentukan dengan menambahkan [Matrix](/psd/python-net/aspose.psd/matrix/) yang ditentukan di depan. |
+| [multiply_transform(matrix, order)](#multiply_transform_matrix_order_3) | Mengalikan [Matrix](/psd/python-net/aspose.psd/matrix/) yang mewakili transformasi geometris lokal dari [LinearGradientBrush](/psd/python-net/aspose.psd.brushes/lineargradientbrush/) dengan [Matrix](/psd/python-net/aspose.psd/matrix/) dalam urutan yang ditentukan. |
+| reset_transform() | Mengatur ulang properti [TransformBrush.transform](/psd/python-net/aspose.psd.brushes/transformbrush/) menjadi identitas. |
+| [rotate_transform(angle)](#rotate_transform_angle_4) | Memutar transformasi geometrik lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke transformasi. |
+| [rotate_transform(angle, order)](#rotate_transform_angle_order_5) | Memutar transformasi geometrik lokal sebesar jumlah yang ditentukan dalam urutan yang ditentukan. |
+| [scale_transform(sx, sy)](#scale_transform_sx_sy_6) | Menskalakan transformasi geometrik lokal dengan nilai yang ditentukan. Metode ini menambahkan matriks skala ke transformasi. |
+| [scale_transform(sx, sy, order)](#scale_transform_sx_sy_order_7) | Menskalakan transformasi geometrik lokal dengan nilai yang ditentukan dalam urutan yang ditentukan. |
+| [translate_transform(dx, dy)](#translate_transform_dx_dy_8) | Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi. |
+| [translate_transform(dx, dy, order)](#translate_transform_dx_dy_order_9) | Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan. |
+
+
+### Method: deep_clone() {#deep_clone__1}
+
+
+```
+ deep_clone() 
+```
+
+Membuat klon dalam baru dari [Brush](/psd/python-net/aspose.psd/brush/) saat ini.
+
+**Returns**
+
+| Tipe | Deskripsi |
+| :- | :- |
+| [Brush](/psd/python-net/aspose.psd/brush) | Sebuah [Brush](/psd/python-net/aspose.psd/brush/) baru yang merupakan klon mendalam dari instance [Brush](/psd/python-net/aspose.psd/brush/) ini. |
+
+
+### Method: multiply_transform(matrix) {#multiply_transform_matrix_2}
+
+
+```
+ multiply_transform(matrix) 
+```
+
+Mengalikan [Matrix](/psd/python-net/aspose.psd/matrix/) yang mewakili transformasi geometris lokal dari [LinearGradientBrush](/psd/python-net/aspose.psd.brushes/lineargradientbrush/) dengan [Matrix](/psd/python-net/aspose.psd/matrix/) yang ditentukan dengan menambahkan [Matrix](/psd/python-net/aspose.psd/matrix/) yang ditentukan di depan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | [Matrix](/psd/python-net/aspose.psd/matrix/) yang digunakan untuk mengalikan transformasi geometrik. |
+
+### Method: multiply_transform(matrix, order) {#multiply_transform_matrix_order_3}
+
+
+```
+ multiply_transform(matrix, order) 
+```
+
+Mengalikan [Matrix](/psd/python-net/aspose.psd/matrix/) yang mewakili transformasi geometris lokal dari [LinearGradientBrush](/psd/python-net/aspose.psd.brushes/lineargradientbrush/) dengan [Matrix](/psd/python-net/aspose.psd/matrix/) dalam urutan yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | [Matrix](/psd/python-net/aspose.psd/matrix/) yang digunakan untuk mengalikan transformasi geometrik. |
+| order | [MatrixOrder](/psd/python-net/aspose.psd/matrixorder) | Sebuah [MatrixOrder](/psd/python-net/aspose.psd/matrixorder/) yang menentukan urutan pengalian kedua matriks. |
+
+### Method: rotate_transform(angle) {#rotate_transform_angle_4}
+
+
+```
+ rotate_transform(angle) 
+```
+
+Memutar transformasi geometrik lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke transformasi.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| sudut | float | Sudut rotasi. |
+
+### Method: rotate_transform(angle, order) {#rotate_transform_angle_order_5}
+
+
+```
+ rotate_transform(angle, order) 
+```
+
+Memutar transformasi geometrik lokal sebesar jumlah yang ditentukan dalam urutan yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| sudut | float | Sudut rotasi. |
+| order | [MatrixOrder](/psd/python-net/aspose.psd/matrixorder) | Sebuah [MatrixOrder](/psd/python-net/aspose.psd/matrixorder/) yang menentukan apakah akan menambahkan atau menyisipkan matriks rotasi. |
+
+### Method: scale_transform(sx, sy) {#scale_transform_sx_sy_6}
+
+
+```
+ scale_transform(sx, sy) 
+```
+
+Menskalakan transformasi geometrik lokal dengan nilai yang ditentukan. Metode ini menambahkan matriks skala ke transformasi.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| sx | float | Jumlah skala yang diterapkan pada transformasi dalam arah sumbu x. |
+| sy | float | Jumlah skala yang diterapkan pada transformasi dalam arah sumbu y. |
+
+### Method: scale_transform(sx, sy, order) {#scale_transform_sx_sy_order_7}
+
+
+```
+ scale_transform(sx, sy, order) 
+```
+
+Menskalakan transformasi geometrik lokal dengan nilai yang ditentukan dalam urutan yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| sx | float | Jumlah skala yang diterapkan pada transformasi dalam arah sumbu x. |
+| sy | float | Jumlah skala yang diterapkan pada transformasi dalam arah sumbu y. |
+| order | [MatrixOrder](/psd/python-net/aspose.psd/matrixorder) | Sebuah [MatrixOrder](/psd/python-net/aspose.psd/matrixorder/) yang menentukan apakah akan menambahkan atau menyisipkan matriks skala. |
+
+### Method: translate_transform(dx, dy) {#translate_transform_dx_dy_8}
+
+
+```
+ translate_transform(dx, dy) 
+```
+
+Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan. Metode ini menambahkan translasi ke transformasi.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| dx | float | Nilai translasi pada sumbu x. |
+| dy | float | Nilai translasi pada sumbu y. |
+
+### Method: translate_transform(dx, dy, order) {#translate_transform_dx_dy_order_9}
+
+
+```
+ translate_transform(dx, dy, order) 
+```
+
+Menerjemahkan transformasi geometrik lokal dengan dimensi yang ditentukan dalam urutan yang ditentukan.
+
+**Parameters:**
+
+| Parameter | Tipe | Deskripsi |
+| :- | :- | :- |
+| dx | float | Nilai translasi pada sumbu x. |
+| dy | float | Nilai translasi pada sumbu y. |
+| order | [MatrixOrder](/psd/python-net/aspose.psd/matrixorder) | Urutan (menambahkan di depan atau di belakang) untuk menerapkan translasi. |
+
