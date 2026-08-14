@@ -1,0 +1,1389 @@
+---
+title: "RasterImage クラス"
+type: docs
+weight: 3740
+url: /ja/python-net/aspose.psd/rasterimage/
+---
+
+**Summary:** Represents a raster image supporting raster graphics operations.
+
+**Module:** [aspose.psd](/psd/python-net/aspose.psd/)
+
+**Full Name:** aspose.psd.RasterImage
+
+**Inheritance:** IObjectWithBounds, IRasterImageArgb32PixelLoader, IRasterImageRawDataLoader, Image
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **説明** |
+| :- | :- | :- | :- |
+| auto_adjust_palette | bool | r/w | 自動調整パレットかどうかを示す値を取得または設定します。 |
+| background_color | [Color](/psd/python-net/aspose.psd/color) | r/w | 背景色の値を取得または設定します。 |
+| bits_per_pixel | int | r | 画像のピクセルあたりビット数を取得します。 |
+| bounds | [Rectangle](/psd/python-net/aspose.psd/rectangle) | r | 画像の境界を取得します。 |
+| buffer_size_hint | int | r/w | 内部バッファ全体で許容される最大サイズとして定義されたバッファサイズヒントを取得または設定します。 |
+| container | [Image](/psd/python-net/aspose.psd/image) | r | [Image](/psd/python-net/aspose.psd/image/) コンテナを取得します。 |
+| data_stream_container | [StreamContainer](/psd/python-net/aspose.psd/streamcontainer) | r | オブジェクトのデータストリームを取得します。 |
+| 破棄済み | bool | r | このインスタンスが破棄されているかどうかを示す値を取得します。 |
+| file_format | [FileFormat](/psd/python-net/aspose.psd/fileformat) | r | ファイル形式の値を取得します |
+| has_alpha | bool | r | このインスタンスがアルファを持つかどうかを示す値を取得します。 |
+| has_background_color | bool | r/w | 画像に背景色があるかどうかを示す値を取得または設定します。 |
+| has_transparent_color | bool | r/w | 画像に透明色があるかどうかを示す値を取得します。 |
+| 高さ | int | r | 画像の高さを取得します。 |
+| horizontal_resolution | double | r/w | [RasterImage](/psd/python-net/aspose.psd/rasterimage/) の水平解像度（インチあたりピクセル数）を取得または設定します。 |
+| image_opacity | float | r | この画像の不透明度を取得します。 |
+| interrupt_monitor | [InterruptMonitor](/psd/python-net/aspose.psd.multithreading/interruptmonitor/) | r/w | 割り込みモニターを取得または設定します。 |
+| is_cached | bool | r | オブジェクトのデータが現在キャッシュされており、データの読み取りが不要であるかどうかを示す値を取得します。 |
+| is_raw_data_available | bool | r | 生データのロードが可能かどうかを示す値を取得します。 |
+| palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | r/w | カラーパレットを取得または設定します。ピクセルが直接表現されている場合、カラーパレットは使用されません。 |
+| premultiply_components | bool | r/w | 画像コンポーネントを事前乗算する必要があるかどうかを示す値を取得または設定します。 |
+| raw_custom_color_converter | [IColorConverter](/psd/python-net/aspose.psd/icolorconverter) | r/w | カスタムカラーコンバータを取得または設定します |
+| raw_data_format | [PixelDataFormat](/psd/python-net/aspose.psd/pixeldataformat) | r | 生データ形式を取得します。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | r | 現在の生データ設定を取得します。これらの設定を使用する場合、データは変換なしでロードされることに注意してください。 |
+| raw_fallback_index | int | r/w | パレットインデックスが範囲外の場合に使用するフォールバックインデックスを取得または設定します |
+| raw_indexed_color_converter | [IIndexedColorConverter](/psd/python-net/aspose.psd/iindexedcolorconverter) | r/w | インデックスカラーコンバータを取得または設定します |
+| raw_line_size | int | r | 生ラインサイズ（バイト単位）を取得します。 |
+| size | [Size](/psd/python-net/aspose.psd/size) | r | 画像サイズを取得します。 |
+| transparent_color | [Color](/psd/python-net/aspose.psd/color) | r/w | 画像の透明色を取得します。 |
+| update_xmp_data | bool | r/w | XMP メタデータを更新するかどうかを示す値を取得または設定します。 |
+| use_palette | bool | r | 画像パレットが使用されているかどうかを示す値を取得します。 |
+| use_raw_data | bool | r/w | 生データロードが利用可能な場合に生データロードを使用するかどうかを示す値を取得または設定します。 |
+| vertical_resolution | double | r/w | この [RasterImage](/psd/python-net/aspose.psd/rasterimage/) の垂直解像度（インチあたりピクセル数）を取得または設定します。 |
+| width | int | r | 画像の幅を取得します。 |
+| xmp_data | [XmpPacketWrapper](/psd/python-net/aspose.psd.xmp/xmppacketwrapper/) | r/w | XMP メタデータを取得または設定します。 |
+## **Methods**
+| **Name** | **説明** |
+| :- | :- |
+| adjust_brightness(brightness) |  |
+| adjust_contrast(contrast) |  |
+| adjust_gamma(gamma) |  |
+| adjust_gamma(gamma_red, gamma_green, gamma_blue) |  |
+| binarize_bradley(brightness_difference) |  |
+| binarize_bradley(brightness_difference, window_size) |  |
+| binarize_fixed(threshold) |  |
+| binarize_otsu() |  |
+| cache_data() | データをキャッシュし、基になる [DataStreamSupporter.data_stream_container](/psd/python-net/aspose.psd/datastreamsupporter/) から追加のデータ読み込みが行われないことを保証します。 |
+| [can_load(file_path)](#can_load_file_path_1) | 指定されたファイルパスから画像をロードできるかどうかを判定します。 |
+| [can_load(file_path, load_options)](#can_load_file_path_load_options_2) | 指定されたファイルパスから画像をロードできるかどうか、オプションで指定されたオープンオプションを使用して判定します。 |
+| [can_load(stream)](#can_load_stream_3) | 指定されたストリームから画像をロードできるかどうかを判定します。 |
+| [can_load(stream, load_options)](#can_load_stream_load_options_4) | 指定されたストリームから画像をロードできるかどうか、オプションで指定された <paramref name="loadOptions" /> を使用して判定します。 |
+| [can_save(options)](#can_save_options_5) | 渡された保存オプションで表される指定されたファイル形式に画像を保存できるかどうかを判定します。 |
+| [create(image_options, width, height)](#create_image_options_width_height_6) | 指定された作成オプションを使用して新しい画像を作成します。 |
+| crop(left_shift, right_shift, top_shift, bottom_shift) |  |
+| crop(rectangle) |  |
+| [dither(dithering_method, bits_count)](#dither_dithering_method_bits_count_7) | 現在の画像にディザリングを実行します。 |
+| [dither(dithering_method, bits_count, custom_palette)](#dither_dithering_method_bits_count_custom_palette_8) | 現在の画像にディザリングを実行します。 |
+| filter(rectangle, options) |  |
+| [get_argb_32_pixel(x, y)](#get_argb_32_pixel_x_y_9) | 画像の 32 ビット ARGB ピクセルを取得します。 |
+| [get_default_argb_32_pixels(rectangle)](#get_default_argb_32_pixels_rectangle_10) | デフォルトの 32 ビット ARGB ピクセル配列を取得します。 |
+| [get_default_options(args)](#get_default_options_args_11) | デフォルトのオプションを取得します。 |
+| [get_default_pixels(rectangle, partial_pixel_loader)](#get_default_pixels_rectangle_partial_pixel_loader_12) | 部分ピクセルローダーを使用してデフォルトのピクセル配列を取得します。 |
+| [get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings)](#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_13) | 部分ピクセルローダーを使用してデフォルトの生データ配列を取得します。 |
+| [get_default_raw_data(rectangle, raw_data_settings)](#get_default_raw_data_rectangle_raw_data_settings_14) | デフォルトの生データ配列を取得します。 |
+| [get_file_format(file_path)](#get_file_format_file_path_15) | ファイル形式を取得します。 |
+| [get_file_format(stream)](#get_file_format_stream_16) | ファイル形式を取得します。 |
+| [get_fitting_rectangle(rectangle, pixels, width, height)](#get_fitting_rectangle_rectangle_pixels_width_height_17) | 現在の画像に適合する矩形を取得します。 |
+| [get_fitting_rectangle(rectangle, width, height)](#get_fitting_rectangle_rectangle_width_height_18) | 現在の画像に適合する矩形を取得します。 |
+| [get_modify_date(use_default)](#get_modify_date_use_default_19) | リソース画像が最後に変更された日時を取得します。 |
+| [get_original_options()](#get_original_options__20) | 元のファイル設定に基づくオプションを取得します。<br/>これにより、元の画像のビット深度やその他のパラメータを変更せずに保持できます。<br/>例えば、1ビット/ピクセルの白黒PNG画像を読み込み、[DataStreamSupporter.save(file_path)](/psd/python-net/aspose.psd/datastreamsupporter/) メソッドで保存すると、8ビット/ピクセルのPNG画像が出力されます。<br/>これを回避し、1ビット/ピクセルのPNG画像として保存するには、このメソッドで対応する保存オプションを取得し、[Image.save(file_path, options)](/psd/python-net/aspose.psd/image/) メソッドの第2パラメータとして渡します。 |
+| [get_pixel(x, y)](#get_pixel_x_y_21) | 画像のピクセルを取得します。<br/>パフォーマンス警告: すべての画像ピクセルを反復処理するためにこのメソッドの使用は避けてください。パフォーマンスに重大な影響を与える可能性があります。<br/>より効率的なピクセル操作のためには、`LoadArgb32Pixels` メソッドを使用してピクセル配列全体を一度に取得してください。 |
+| [get_proportional_height(width, height, new_width)](#get_proportional_height_width_height_new_width_22) | 比例した高さを取得します。 |
+| [get_proportional_width(width, height, new_height)](#get_proportional_width_width_height_new_height_23) | 比例した幅を取得します。 |
+| [get_skew_angle()](#get_skew_angle__24) |    |
+| grayscale() |  |
+| [load(file_path)](#load_file_path_25) | 指定されたファイルから新しい画像をロードします。 |
+| [load(file_path, load_options)](#load_file_path_load_options_26) | 指定されたファイルから新しい画像をロードします。 |
+| [load(stream)](#load_stream_27) | 指定されたストリームから新しい画像をロードします。 |
+| [load(stream, load_options)](#load_stream_load_options_28) | 指定されたストリームから新しい画像をロードします。 |
+| [load_argb_32_pixels(rectangle)](#load_argb_32_pixels_rectangle_29) | 32ビット ARGB ピクセルをロードします。 |
+| [load_argb_64_pixels(rectangle)](#load_argb_64_pixels_rectangle_30) | 64ビット ARGB ピクセルをロードします。 |
+| [load_cmyk_32_pixels(rectangle)](#load_cmyk_32_pixels_rectangle_31) | CMYK 形式のピクセルをロードします。 |
+| [load_cmyk_pixels(rectangle)](#load_cmyk_pixels_rectangle_32) | CMYK 形式のピクセルをロードします。<br/>このメソッドは非推奨です。より効果的な [RasterImage.load_cmyk_32_pixels(rectangle)](/psd/python-net/aspose.psd/rasterimage/) メソッドを使用してください。 |
+| [load_partial_argb_32_pixels(rectangle, partial_pixel_loader)](#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_33) | 32ビット ARGB ピクセルをパック単位で部分的にロードします。 |
+| [load_partial_pixels(desired_rectangle, pixel_loader)](#load_partial_pixels_desired_rectangle_pixel_loader_34) | パック単位で部分的にピクセルをロードします。 |
+| [load_pixels(rectangle)](#load_pixels_rectangle_35) | ピクセルをロードします。 |
+| [load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_36) | 生データをロードします。 |
+| [load_raw_data(rectangle, raw_data_settings, raw_data_loader)](#load_raw_data_rectangle_raw_data_settings_raw_data_loader_37) | 生データをロードします。 |
+| normalize_angle() |  |
+| normalize_angle(resize_proportionally, background_color) |  |
+| [read_argb_32_scan_line(scan_line_index)](#read_argb_32_scan_line_scan_line_index_38) | 指定されたスキャンラインインデックスで全スキャンラインを読み取ります。 |
+| [read_scan_line(scan_line_index)](#read_scan_line_scan_line_index_39) | 指定されたスキャンラインインデックスで全スキャンラインを読み取ります。 |
+| replace_color(old_color, old_color_diff, new_color) |  |
+| replace_color(old_color_argb, old_color_diff, new_color_argb) |  |
+| replace_non_transparent_colors(new_color) |  |
+| replace_non_transparent_colors(new_color_argb) |  |
+| [resize(new_width, new_height)](#resize_new_width_new_height_40) | 画像のサイズを変更します。デフォルトの [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) が使用されます。 |
+| [resize(new_width, new_height, resize_type)](#resize_new_width_new_height_resize_type_41) | 画像のサイズを変更します。 |
+| [resize(new_width, new_height, settings)](#resize_new_width_new_height_settings_42) | 画像のサイズを変更します。 |
+| [resize_height_proportionally(new_height)](#resize_height_proportionally_new_height_43) | 高さを比例的にリサイズします。 |
+| [resize_height_proportionally(new_height, resize_type)](#resize_height_proportionally_new_height_resize_type_44) | 高さを比例的にリサイズします。 |
+| [resize_height_proportionally(new_height, settings)](#resize_height_proportionally_new_height_settings_45) | 高さを比例的にリサイズします。 |
+| [resize_width_proportionally(new_width)](#resize_width_proportionally_new_width_46) | 幅を比例的にリサイズします。デフォルトの [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) が使用されます。 |
+| [resize_width_proportionally(new_width, resize_type)](#resize_width_proportionally_new_width_resize_type_47) | 幅を比例的にリサイズします。 |
+| [resize_width_proportionally(new_width, settings)](#resize_width_proportionally_new_width_settings_48) | 幅を比例的にリサイズします。 |
+| rotate(angle) |  |
+| rotate(angle, resize_proportionally, background_color) |  |
+| [rotate_flip(rotate_flip_type)](#rotate_flip_rotate_flip_type_49) | 画像を回転、反転、または回転と反転を行います。 |
+| save() | 画像データを基になるストリームに保存します。 |
+| [save(file_path)](#save_file_path_50) | オブジェクトのデータを指定されたファイル位置に保存します。 |
+| [save(file_path, options)](#save_file_path_options_51) | 保存オプションに従って、指定されたファイル形式でオブジェクトのデータを指定されたファイル位置に保存します。 |
+| [save(file_path, options, bounds_rectangle)](#save_file_path_options_bounds_rectangle_52) | 保存オプションに従って、指定されたファイル形式でオブジェクトのデータを指定されたファイル位置に保存します。 |
+| [save(file_path, over_write)](#save_file_path_over_write_53) | オブジェクトのデータを指定されたファイル位置に保存します。 |
+| [save(stream)](#save_stream_54) | オブジェクトのデータを指定されたストリームに保存します。 |
+| [save(stream, options_base)](#save_stream_options_base_55) | 保存オプションに従って、指定されたファイル形式で画像のデータを指定されたストリームに保存します。 |
+| [save(stream, options_base, bounds_rectangle)](#save_stream_options_base_bounds_rectangle_56) | 保存オプションに従って、指定されたファイル形式で画像のデータを指定されたストリームに保存します。 |
+| [save_argb_32_pixels(rectangle, pixels)](#save_argb_32_pixels_rectangle_pixels_57) | 32ビット ARGB ピクセルを保存します。 |
+| save_cmyk_32_pixels(rectangle, pixels) |  |
+| save_cmyk_pixels(rectangle, pixels) |  |
+| [save_pixels(rectangle, pixels)](#save_pixels_rectangle_pixels_58) | ピクセルを保存します。 |
+| [save_raw_data(data, data_offset, rectangle, raw_data_settings)](#save_raw_data_data_data_offset_rectangle_raw_data_settings_59) | 生データを保存します。 |
+| [set_argb_32_pixel(x, y, argb_32_color)](#set_argb_32_pixel_x_y_argb_32_color_60) | 指定された位置に画像の 32 ビット ARGB ピクセルを設定します。 |
+| [set_palette(palette, update_colors)](#set_palette_palette_update_colors_61) | 画像のパレットを設定します。 |
+| [set_pixel(x, y, color)](#set_pixel_x_y_color_62) | 指定された位置に画像ピクセルを設定します。 |
+| set_resolution(dpi_x, dpi_y) |  |
+| [to_bitmap()](#to_bitmap__63) |    |
+| [write_argb_32_scan_line(scan_line_index, argb_32_pixels)](#write_argb_32_scan_line_scan_line_index_argb_32_pixels_64) | 指定されたスキャンラインインデックスに全スキャンラインを書き込みます。 |
+| [write_scan_line(scan_line_index, pixels)](#write_scan_line_scan_line_index_pixels_65) | 指定されたスキャンラインインデックスに全スキャンラインを書き込みます。 |
+
+
+### Method: can_load(file_path)  [static] {#can_load_file_path_1}
+
+
+```
+ can_load(file_path) 
+```
+
+指定されたファイルパスから画像をロードできるかどうかを判定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | ファイルパス。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| bool | 指定されたファイルから画像をロードできる場合は <c>true</c>、それ以外の場合は <c>false</c>。 |
+
+
+### Method: can_load(file_path, load_options)  [static] {#can_load_file_path_load_options_2}
+
+
+```
+ can_load(file_path, load_options) 
+```
+
+指定されたファイルパスから画像をロードできるかどうか、オプションで指定されたオープンオプションを使用して判定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | ファイルパス。 |
+| load_options | [LoadOptions](/psd/python-net/aspose.psd/loadoptions) | ロードオプション。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| bool | 指定されたファイルから画像をロードできる場合は <c>true</c>、それ以外の場合は <c>false</c>。 |
+
+
+### Method: can_load(stream)  [static] {#can_load_stream_3}
+
+
+```
+ can_load(stream) 
+```
+
+指定されたストリームから画像をロードできるかどうかを判定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | ロード元ストリーム。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| bool | 指定されたストリームから画像をロードできる場合は <c>true</c>、それ以外の場合は <c>false</c>。 |
+
+
+### Method: can_load(stream, load_options)  [static] {#can_load_stream_load_options_4}
+
+
+```
+ can_load(stream, load_options) 
+```
+
+指定されたストリームから画像をロードできるかどうか、オプションで指定された <paramref name="loadOptions" /> を使用して判定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | ロード元ストリーム。 |
+| load_options | [LoadOptions](/psd/python-net/aspose.psd/loadoptions) | ロードオプション。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| bool | 指定されたストリームから画像をロードできる場合は <c>true</c>、それ以外の場合は <c>false</c>。 |
+
+
+### Method: can_save(options) {#can_save_options_5}
+
+
+```
+ can_save(options) 
+```
+
+渡された保存オプションで表される指定されたファイル形式に画像を保存できるかどうかを判定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | 使用する保存オプション。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| bool | 渡された保存オプションで表される指定されたファイル形式に画像を保存できる場合は <c>true</c>、それ以外の場合は <c>false</c>。 |
+
+
+### Method: create(image_options, width, height)  [static] {#create_image_options_width_height_6}
+
+
+```
+ create(image_options, width, height) 
+```
+
+指定された作成オプションを使用して新しい画像を作成します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| image_options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | 画像オプション。 |
+| width | int | 幅。 |
+| 高さ | int | 高さ。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Image](/psd/python-net/aspose.psd/image) | 新しく作成された画像。 |
+
+
+### Method: dither(dithering_method, bits_count) {#dither_dithering_method_bits_count_7}
+
+
+```
+ dither(dithering_method, bits_count) 
+```
+
+現在の画像にディザリングを実行します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| dithering_method | [DitheringMethod](/psd/python-net/aspose.psd/ditheringmethod) | ディザリング手法。 |
+| bits_count | int | ディザリングの最終ビット数。 |
+
+### Method: dither(dithering_method, bits_count, custom_palette) {#dither_dithering_method_bits_count_custom_palette_8}
+
+
+```
+ dither(dithering_method, bits_count, custom_palette) 
+```
+
+現在の画像にディザリングを実行します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| dithering_method | [DitheringMethod](/psd/python-net/aspose.psd/ditheringmethod) | ディザリング手法。 |
+| bits_count | int | ディザリングの最終ビット数。 |
+| custom_palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | ディザリング用のカスタムパレット。 |
+
+### Method: get_argb_32_pixel(x, y) {#get_argb_32_pixel_x_y_9}
+
+
+```
+ get_argb_32_pixel(x, y) 
+```
+
+画像の 32 ビット ARGB ピクセルを取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| x | int | ピクセルのX座標。 |
+| y | int | ピクセルのY座標。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 指定された位置の32ビットARGBピクセル。 |
+
+
+### Method: get_default_argb_32_pixels(rectangle) {#get_default_argb_32_pixels_rectangle_10}
+
+
+```
+ get_default_argb_32_pixels(rectangle) 
+```
+
+デフォルトの 32 ビット ARGB ピクセル配列を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを取得する矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | デフォルトのピクセル配列。 |
+
+
+### Method: get_default_options(args) {#get_default_options_args_11}
+
+
+```
+ get_default_options(args) 
+```
+
+デフォルトのオプションを取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| args | object | 引数。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | デフォルトオプション |
+
+
+### Method: get_default_pixels(rectangle, partial_pixel_loader) {#get_default_pixels_rectangle_partial_pixel_loader_12}
+
+
+```
+ get_default_pixels(rectangle, partial_pixel_loader) 
+```
+
+部分ピクセルローダーを使用してデフォルトのピクセル配列を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを取得する矩形。 |
+| partial_pixel_loader | [IPartialArgb32PixelLoader](/psd/python-net/aspose.psd/ipartialargb32pixelloader) | 部分的なピクセルローダー。 |
+
+### Method: get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings) {#get_default_raw_data_rectangle_partial_raw_data_loader_raw_data_settings_13}
+
+
+```
+ get_default_raw_data(rectangle, partial_raw_data_loader, raw_data_settings) 
+```
+
+部分ピクセルローダーを使用してデフォルトの生データ配列を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを取得する矩形。 |
+| partial_raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | 部分的な生データローダー。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | 生データ設定。 |
+
+### Method: get_default_raw_data(rectangle, raw_data_settings) {#get_default_raw_data_rectangle_raw_data_settings_14}
+
+
+```
+ get_default_raw_data(rectangle, raw_data_settings) 
+```
+
+デフォルトの生データ配列を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 生データを取得する矩形。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | 生データ設定。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| byte | デフォルトの生データ配列。 |
+
+
+### Method: get_file_format(file_path)  [static] {#get_file_format_file_path_15}
+
+
+```
+ get_file_format(file_path) 
+```
+
+ファイル形式を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | ファイルパス。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [FileFormat](/psd/python-net/aspose.psd/fileformat) | 決定されたファイル形式。 |
+
+
+### Method: get_file_format(stream)  [static] {#get_file_format_stream_16}
+
+
+```
+ get_file_format(stream) 
+```
+
+ファイル形式を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | ストリーム。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [FileFormat](/psd/python-net/aspose.psd/fileformat) | 決定されたファイル形式。 |
+
+
+### Method: get_fitting_rectangle(rectangle, pixels, width, height)  [static] {#get_fitting_rectangle_rectangle_pixels_width_height_17}
+
+
+```
+ get_fitting_rectangle(rectangle, pixels, width, height) 
+```
+
+現在の画像に適合する矩形を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 適合矩形を取得する矩形。 |
+| pixels | int | 32ビットARGBピクセル。 |
+| width | int | オブジェクトの幅。 |
+| 高さ | int | オブジェクトの高さ。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Rectangle](/psd/python-net/aspose.psd/rectangle) | 適合矩形、または適合矩形が見つからない場合の例外。 |
+
+
+### Method: get_fitting_rectangle(rectangle, width, height)  [static] {#get_fitting_rectangle_rectangle_width_height_18}
+
+
+```
+ get_fitting_rectangle(rectangle, width, height) 
+```
+
+現在の画像に適合する矩形を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 適合矩形を取得する矩形。 |
+| width | int | オブジェクトの幅。 |
+| 高さ | int | オブジェクトの高さ。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Rectangle](/psd/python-net/aspose.psd/rectangle) | 適合矩形、または適合矩形が見つからない場合の例外。 |
+
+
+### Method: get_modify_date(use_default) {#get_modify_date_use_default_19}
+
+
+```
+ get_modify_date(use_default) 
+```
+
+リソース画像が最後に変更された日時を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| use_default | bool | <c>true</c> に設定された場合、FileInfo の情報をデフォルト値として使用します。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| datetime | リソース画像が最後に変更された日時。 |
+
+
+### Method: get_original_options() {#get_original_options__20}
+
+
+```
+ get_original_options() 
+```
+
+元のファイル設定に基づくオプションを取得します。<br/>これにより、元の画像のビット深度やその他のパラメータを変更せずに保持できます。<br/>例えば、1ビット/ピクセルの白黒PNG画像を読み込み、[DataStreamSupporter.save(file_path)](/psd/python-net/aspose.psd/datastreamsupporter/) メソッドで保存すると、8ビット/ピクセルのPNG画像が出力されます。<br/>これを回避し、1ビット/ピクセルのPNG画像として保存するには、このメソッドで対応する保存オプションを取得し、[Image.save(file_path, options)](/psd/python-net/aspose.psd/image/) メソッドの第2パラメータとして渡します。
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | 元のファイル設定に基づくオプション。 |
+
+
+### Method: get_pixel(x, y) {#get_pixel_x_y_21}
+
+
+```
+ get_pixel(x, y) 
+```
+
+画像のピクセルを取得します。<br/>パフォーマンス警告: すべての画像ピクセルを反復処理するためにこのメソッドの使用は避けてください。パフォーマンスに重大な影響を与える可能性があります。<br/>より効率的なピクセル操作のためには、`LoadArgb32Pixels` メソッドを使用してピクセル配列全体を一度に取得してください。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| x | int | ピクセルのX座標。 |
+| y | int | ピクセルのY座標。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Color](/psd/python-net/aspose.psd/color) | 指定された位置のピクセル色。 |
+
+
+### Method: get_proportional_height(width, height, new_width)  [static] {#get_proportional_height_width_height_new_width_22}
+
+
+```
+ get_proportional_height(width, height, new_width) 
+```
+
+比例した高さを取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| width | int | 幅。 |
+| 高さ | int | 高さ。 |
+| new_width | int | 新しい幅。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 比例した高さ。 |
+
+
+### Method: get_proportional_width(width, height, new_height)  [static] {#get_proportional_width_width_height_new_height_23}
+
+
+```
+ get_proportional_width(width, height, new_height) 
+```
+
+比例した幅を取得します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| width | int | 幅。 |
+| 高さ | int | 高さ。 |
+| new_height | int | 新しい高さ。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 比例した幅。 |
+
+
+### Method: get_skew_angle() {#get_skew_angle__24}
+
+
+```
+ get_skew_angle() 
+```
+
+  
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| float |  |
+
+
+### Method: load(file_path)  [static] {#load_file_path_25}
+
+
+```
+ load(file_path) 
+```
+
+指定されたファイルから新しい画像をロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | 画像を読み込むファイルパス。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Image](/psd/python-net/aspose.psd/image) | 読み込まれた画像。 |
+
+
+### Method: load(file_path, load_options)  [static] {#load_file_path_load_options_26}
+
+
+```
+ load(file_path, load_options) 
+```
+
+指定されたファイルから新しい画像をロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | 画像を読み込むファイルパス。 |
+| load_options | [LoadOptions](/psd/python-net/aspose.psd/loadoptions) | ロードオプション。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Image](/psd/python-net/aspose.psd/image) | 読み込まれた画像。 |
+
+
+### Method: load(stream)  [static] {#load_stream_27}
+
+
+```
+ load(stream) 
+```
+
+指定されたストリームから新しい画像をロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | 画像を読み込むストリーム。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Image](/psd/python-net/aspose.psd/image) | 読み込まれた画像。 |
+
+
+### Method: load(stream, load_options)  [static] {#load_stream_load_options_28}
+
+
+```
+ load(stream, load_options) 
+```
+
+指定されたストリームから新しい画像をロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | 画像を読み込むストリーム。 |
+| load_options | [LoadOptions](/psd/python-net/aspose.psd/loadoptions) | ロードオプション。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Image](/psd/python-net/aspose.psd/image) | 読み込まれた画像。 |
+
+
+### Method: load_argb_32_pixels(rectangle) {#load_argb_32_pixels_rectangle_29}
+
+
+```
+ load_argb_32_pixels(rectangle) 
+```
+
+32ビット ARGB ピクセルをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを読み込む矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 読み込まれた 32 ビット ARGB ピクセル配列。 |
+
+
+### Method: load_argb_64_pixels(rectangle) {#load_argb_64_pixels_rectangle_30}
+
+
+```
+ load_argb_64_pixels(rectangle) 
+```
+
+64ビット ARGB ピクセルをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを読み込む矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| long | 読み込まれた 64 ビット ARGB ピクセル配列。 |
+
+
+### Method: load_cmyk_32_pixels(rectangle) {#load_cmyk_32_pixels_rectangle_31}
+
+
+```
+ load_cmyk_32_pixels(rectangle) 
+```
+
+CMYK 形式のピクセルをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを読み込む矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 読み込まれた CMYK ピクセルは 32 ビット整数値として表されます。 |
+
+
+### Method: load_cmyk_pixels(rectangle) {#load_cmyk_pixels_rectangle_32}
+
+
+```
+ load_cmyk_pixels(rectangle) 
+```
+
+CMYK 形式のピクセルをロードします。<br/>このメソッドは非推奨です。より効果的な [RasterImage.load_cmyk_32_pixels(rectangle)](/psd/python-net/aspose.psd/rasterimage/) メソッドを使用してください。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを読み込む矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [CmykColor[]](/psd/python-net/aspose.psd/cmykcolor) | 読み込まれた CMYK ピクセル配列。 |
+
+
+### Method: load_partial_argb_32_pixels(rectangle, partial_pixel_loader) {#load_partial_argb_32_pixels_rectangle_partial_pixel_loader_33}
+
+
+```
+ load_partial_argb_32_pixels(rectangle, partial_pixel_loader) 
+```
+
+32ビット ARGB ピクセルをパック単位で部分的にロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 希望する矩形。 |
+| partial_pixel_loader | [IPartialArgb32PixelLoader](/psd/python-net/aspose.psd/ipartialargb32pixelloader) | 32ビット ARGB ピクセルローダー。 |
+
+### Method: load_partial_pixels(desired_rectangle, pixel_loader) {#load_partial_pixels_desired_rectangle_pixel_loader_34}
+
+
+```
+ load_partial_pixels(desired_rectangle, pixel_loader) 
+```
+
+パック単位で部分的にピクセルをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| desired_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 希望する矩形。 |
+| pixel_loader | [IPartialPixelLoader](/psd/python-net/aspose.psd/ipartialpixelloader) | ピクセルローダー。 |
+
+### Method: load_pixels(rectangle) {#load_pixels_rectangle_35}
+
+
+```
+ load_pixels(rectangle) 
+```
+
+ピクセルをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを読み込む矩形。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Color[]](/psd/python-net/aspose.psd/color) | 読み込まれたピクセル配列。 |
+
+
+### Method: load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_dest_image_bounds_raw_data_settings_raw_data_loader_36}
+
+
+```
+ load_raw_data(rectangle, dest_image_bounds, raw_data_settings, raw_data_loader) 
+```
+
+生データをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 生データを読み込む矩形。 |
+| dest_image_bounds | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 宛先画像の境界。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | 読み込まれたデータに使用する生データ設定です。データが指定された形式でない場合、データ変換が実行されます。 |
+| raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | 生データローダー。 |
+
+### Method: load_raw_data(rectangle, raw_data_settings, raw_data_loader) {#load_raw_data_rectangle_raw_data_settings_raw_data_loader_37}
+
+
+```
+ load_raw_data(rectangle, raw_data_settings, raw_data_loader) 
+```
+
+生データをロードします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 生データを読み込む矩形。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | 読み込まれたデータに使用する生データ設定です。データが指定された形式でない場合、データ変換が実行されます。 |
+| raw_data_loader | [IPartialRawDataLoader](/psd/python-net/aspose.psd/ipartialrawdataloader) | 生データローダー。 |
+
+### Method: read_argb_32_scan_line(scan_line_index) {#read_argb_32_scan_line_scan_line_index_38}
+
+
+```
+ read_argb_32_scan_line(scan_line_index) 
+```
+
+指定されたスキャンラインインデックスで全スキャンラインを読み取ります。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| scan_line_index | int | 走査ラインのゼロベースインデックス。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| int | 走査ラインの 32 ビット ARGB カラー値配列。 |
+
+
+### Method: read_scan_line(scan_line_index) {#read_scan_line_scan_line_index_39}
+
+
+```
+ read_scan_line(scan_line_index) 
+```
+
+指定されたスキャンラインインデックスで全スキャンラインを読み取ります。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| scan_line_index | int | 走査ラインのゼロベースインデックス。 |
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| [Color[]](/psd/python-net/aspose.psd/color) | 走査ラインのピクセルカラー値配列。 |
+
+
+### Method: resize(new_width, new_height) {#resize_new_width_new_height_40}
+
+
+```
+ resize(new_width, new_height) 
+```
+
+画像のサイズを変更します。デフォルトの [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) が使用されます。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+| new_height | int | 新しい高さ。 |
+
+### Method: resize(new_width, new_height, resize_type) {#resize_new_width_new_height_resize_type_41}
+
+
+```
+ resize(new_width, new_height, resize_type) 
+```
+
+画像のサイズを変更します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+| new_height | int | 新しい高さ。 |
+| resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | リサイズタイプ。 |
+
+### Method: resize(new_width, new_height, settings) {#resize_new_width_new_height_settings_42}
+
+
+```
+ resize(new_width, new_height, settings) 
+```
+
+画像のサイズを変更します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+| new_height | int | 新しい高さ。 |
+| settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | リサイズ設定。 |
+
+### Method: resize_height_proportionally(new_height) {#resize_height_proportionally_new_height_43}
+
+
+```
+ resize_height_proportionally(new_height) 
+```
+
+高さを比例的にリサイズします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_height | int | 新しい高さ。 |
+
+### Method: resize_height_proportionally(new_height, resize_type) {#resize_height_proportionally_new_height_resize_type_44}
+
+
+```
+ resize_height_proportionally(new_height, resize_type) 
+```
+
+高さを比例的にリサイズします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_height | int | 新しい高さ。 |
+| resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | リサイズのタイプ。 |
+
+### Method: resize_height_proportionally(new_height, settings) {#resize_height_proportionally_new_height_settings_45}
+
+
+```
+ resize_height_proportionally(new_height, settings) 
+```
+
+高さを比例的にリサイズします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_height | int | 新しい高さ。 |
+| settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | 画像リサイズ設定。 |
+
+### Method: resize_width_proportionally(new_width) {#resize_width_proportionally_new_width_46}
+
+
+```
+ resize_width_proportionally(new_width) 
+```
+
+幅を比例的にリサイズします。デフォルトの [ResizeType.NEAREST_NEIGHBOUR_RESAMPLE](/psd/python-net/aspose.psd/resizetype/) が使用されます。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+
+### Method: resize_width_proportionally(new_width, resize_type) {#resize_width_proportionally_new_width_resize_type_47}
+
+
+```
+ resize_width_proportionally(new_width, resize_type) 
+```
+
+幅を比例的にリサイズします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+| resize_type | [ResizeType](/psd/python-net/aspose.psd/resizetype) | リサイズのタイプ。 |
+
+### Method: resize_width_proportionally(new_width, settings) {#resize_width_proportionally_new_width_settings_48}
+
+
+```
+ resize_width_proportionally(new_width, settings) 
+```
+
+幅を比例的にリサイズします。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| new_width | int | 新しい幅。 |
+| settings | [ImageResizeSettings](/psd/python-net/aspose.psd/imageresizesettings) | 画像リサイズ設定。 |
+
+### Method: rotate_flip(rotate_flip_type) {#rotate_flip_rotate_flip_type_49}
+
+
+```
+ rotate_flip(rotate_flip_type) 
+```
+
+画像を回転、反転、または回転と反転を行います。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rotate_flip_type | [RotateFlipType](/psd/python-net/aspose.psd/rotatefliptype) | 回転フリップのタイプです。 |
+
+### Method: save(file_path) {#save_file_path_50}
+
+
+```
+ save(file_path) 
+```
+
+オブジェクトのデータを指定されたファイル位置に保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | オブジェクトのデータを保存するファイルパス。 |
+
+### Method: save(file_path, options) {#save_file_path_options_51}
+
+
+```
+ save(file_path, options) 
+```
+
+保存オプションに従って、指定されたファイル形式でオブジェクトのデータを指定されたファイル位置に保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | ファイルパス。 |
+| options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | オプション。 |
+
+### Method: save(file_path, options, bounds_rectangle) {#save_file_path_options_bounds_rectangle_52}
+
+
+```
+ save(file_path, options, bounds_rectangle) 
+```
+
+保存オプションに従って、指定されたファイル形式でオブジェクトのデータを指定されたファイル位置に保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | ファイルパス。 |
+| options | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | オプション。 |
+| bounds_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 対象画像の境界矩形です。空の矩形を設定すると、ソースの境界が使用されます。 |
+
+### Method: save(file_path, over_write) {#save_file_path_over_write_53}
+
+
+```
+ save(file_path, over_write) 
+```
+
+オブジェクトのデータを指定されたファイル位置に保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| file_path | string | オブジェクトのデータを保存するファイルパス。 |
+| over_write | bool | もし <c>true</c> に設定するとファイル内容を上書きし、そうでなければ追記が行われます。 |
+
+### Method: save(stream) {#save_stream_54}
+
+
+```
+ save(stream) 
+```
+
+オブジェクトのデータを指定されたストリームに保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | オブジェクトのデータを保存するストリーム。 |
+
+### Method: save(stream, options_base) {#save_stream_options_base_55}
+
+
+```
+ save(stream, options_base) 
+```
+
+保存オプションに従って、指定されたファイル形式で画像のデータを指定されたストリームに保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | 画像のデータを保存するストリーム。 |
+| options_base | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | 保存オプション。 |
+
+### Method: save(stream, options_base, bounds_rectangle) {#save_stream_options_base_bounds_rectangle_56}
+
+
+```
+ save(stream, options_base, bounds_rectangle) 
+```
+
+保存オプションに従って、指定されたファイル形式で画像のデータを指定されたストリームに保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| ストリーム | _io.BufferedRandom | 画像のデータを保存するストリーム。 |
+| options_base | [ImageOptionsBase](/psd/python-net/aspose.psd/imageoptionsbase) | 保存オプション。 |
+| bounds_rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 対象画像の境界矩形。空の矩形を設定するとソースの境界が使用されます。 |
+
+### Method: save_argb_32_pixels(rectangle, pixels) {#save_argb_32_pixels_rectangle_pixels_57}
+
+
+```
+ save_argb_32_pixels(rectangle, pixels) 
+```
+
+32ビット ARGB ピクセルを保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを保存する矩形。 |
+| pixels | int | 32ビット ARGB ピクセル配列。 |
+
+### Method: save_pixels(rectangle, pixels) {#save_pixels_rectangle_pixels_58}
+
+
+```
+ save_pixels(rectangle, pixels) 
+```
+
+ピクセルを保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | ピクセルを保存する矩形。 |
+| pixels | [Color[]](/psd/python-net/aspose.psd/color) | ピクセル配列です。 |
+
+### Method: save_raw_data(data, data_offset, rectangle, raw_data_settings) {#save_raw_data_data_data_offset_rectangle_raw_data_settings_59}
+
+
+```
+ save_raw_data(data, data_offset, rectangle, raw_data_settings) 
+```
+
+生データを保存します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| data | byte | 生データ。 |
+| data_offset | int | 開始生データオフセット。 |
+| rectangle | [Rectangle](/psd/python-net/aspose.psd/rectangle) | 生データ矩形。 |
+| raw_data_settings | [RawDataSettings](/psd/python-net/aspose.psd/rawdatasettings) | データが存在する生データ設定。 |
+
+### Method: set_argb_32_pixel(x, y, argb_32_color) {#set_argb_32_pixel_x_y_argb_32_color_60}
+
+
+```
+ set_argb_32_pixel(x, y, argb_32_color) 
+```
+
+指定された位置に画像の 32 ビット ARGB ピクセルを設定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| x | int | ピクセルのX座標。 |
+| y | int | ピクセルのY座標。 |
+| argb_32_color | int | 指定位置の 32 ビット ARGB ピクセル。 |
+
+### Method: set_palette(palette, update_colors) {#set_palette_palette_update_colors_61}
+
+
+```
+ set_palette(palette, update_colors) 
+```
+
+画像のパレットを設定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| palette | [IColorPalette](/psd/python-net/aspose.psd/icolorpalette) | 設定するパレット。 |
+| update_colors | bool | <c>true</c> に設定された場合、色は新しいパレットに従って更新されます。そうでない場合、カラーインデックスは変更されません。変更されないインデックスは、対応するパレットエントリがない場合、画像の読み込み時にクラッシュする可能性があります。 |
+
+### Method: set_pixel(x, y, color) {#set_pixel_x_y_color_62}
+
+
+```
+ set_pixel(x, y, color) 
+```
+
+指定された位置に画像ピクセルを設定します。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| x | int | ピクセルのX座標。 |
+| y | int | ピクセルのY座標。 |
+| color | [Color](/psd/python-net/aspose.psd/color) | 指定された位置のピクセルカラーです。 |
+
+### Method: to_bitmap() {#to_bitmap__63}
+
+
+```
+ to_bitmap() 
+```
+
+  
+
+**Returns**
+
+| タイプ | 説明 |
+| :- | :- |
+| aspose.pydrawing.Bitmap |  |
+
+
+### Method: write_argb_32_scan_line(scan_line_index, argb_32_pixels) {#write_argb_32_scan_line_scan_line_index_argb_32_pixels_64}
+
+
+```
+ write_argb_32_scan_line(scan_line_index, argb_32_pixels) 
+```
+
+指定されたスキャンラインインデックスに全スキャンラインを書き込みます。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| scan_line_index | int | 走査ラインのゼロベースインデックス。 |
+| argb_32_pixels | int | 書き込む 32 ビット ARGB カラー配列です。 |
+
+### Method: write_scan_line(scan_line_index, pixels) {#write_scan_line_scan_line_index_pixels_65}
+
+
+```
+ write_scan_line(scan_line_index, pixels) 
+```
+
+指定されたスキャンラインインデックスに全スキャンラインを書き込みます。
+
+**Parameters:**
+
+| パラメーター | タイプ | 説明 |
+| :- | :- | :- |
+| scan_line_index | int | 走査ラインのゼロベースインデックス。 |
+| pixels | [Color[]](/psd/python-net/aspose.psd/color) | 書き込むピクセルカラー配列です。 |
+
