@@ -1,0 +1,179 @@
+---
+title: "CurveShape-klass"
+type: docs
+weight: 30
+url: /sv/python-net/aspose.psd.shapes/curveshape/
+---
+
+**Summary:** Represents a curved spline shape.
+
+**Module:** [aspose.psd.shapes](/psd/python-net/aspose.psd.shapes/)
+
+**Full Name:** aspose.psd.shapes.CurveShape
+
+**Inheritance:** IOrderedShape, PolygonShape
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Constructors**
+| **Name** | **Beskrivning** |
+| :- | :- |
+| [CurveShape()](#CurveShape__1) | Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). |
+| [CurveShape(points)](#CurveShape_points_2) | Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). Standardspänningen 0,5 används. |
+| [CurveShape(points, is_closed)](#CurveShape_points_is_closed_3) | Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). Standardspänningen 0,5 används. |
+| [CurveShape(points, tension)](#CurveShape_points_tension_4) | Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). |
+| [CurveShape(points, tension, is_closed)](#CurveShape_points_tension_is_closed_5) | Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). |
+## **Properties**
+| **Name** | **Type** | **Access** | **Beskrivning** |
+| :- | :- | :- | :- |
+| bounds | [RectangleF](/psd/python-net/aspose.psd/rectanglef) | r | Hämtar objektets gränser. |
+| center | [PointF](/psd/python-net/aspose.psd/pointf) | r | Hämtar formens centrum. |
+| end_point | [PointF](/psd/python-net/aspose.psd/pointf) | r | Hämtar den avslutande formpunkten. |
+| has_segments | bool | r | Hämtar ett värde som indikerar om formen har segment. |
+| is_closed | bool | r/w | Hämtar eller anger ett värde som indikerar om formen är sluten. |
+| points | [PointF[]](/psd/python-net/aspose.psd/pointf) | r/w | Hämtar eller anger kurvpunkterna. |
+| segments | [ShapeSegment[]](/psd/python-net/aspose.psd/shapesegment) | r | Hämtar formens segment. |
+| start_point | [PointF](/psd/python-net/aspose.psd/pointf) | r | Hämtar den startande formpunkten. |
+| spänning | float | r/w | Hämtar eller anger kurvspänningen. |
+## **Methods**
+| **Name** | **Beskrivning** |
+| :- | :- |
+| [get_bounds(matrix)](#get_bounds_matrix_1) | Hämtar objektets gränser. |
+| [get_bounds(matrix, pen)](#get_bounds_matrix_pen_2) | Hämtar objektets gränser. |
+| reverse() | Vänder ordningen på punkterna för denna form. |
+| [transform(transform)](#transform_transform_3) | Tillämpar den angivna transformationen på formen. |
+
+
+### Constructor: CurveShape() {#CurveShape__1}
+
+
+```
+ CurveShape() 
+```
+
+Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/).
+
+### Constructor: CurveShape(points) {#CurveShape_points_2}
+
+
+```
+ CurveShape(points) 
+```
+
+Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). Standardspänningen 0,5 används.
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| points | [PointF[]](/psd/python-net/aspose.psd/pointf) | Punktarrayen. |
+
+### Constructor: CurveShape(points, is_closed) {#CurveShape_points_is_closed_3}
+
+
+```
+ CurveShape(points, is_closed) 
+```
+
+Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/). Standardspänningen 0,5 används.
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| points | [PointF[]](/psd/python-net/aspose.psd/pointf) | Punktarrayen. |
+| is_closed | bool | Om den är satt till <c>true</c> är kurvan sluten. |
+
+### Constructor: CurveShape(points, tension) {#CurveShape_points_tension_4}
+
+
+```
+ CurveShape(points, tension) 
+```
+
+Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/).
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| points | [PointF[]](/psd/python-net/aspose.psd/pointf) | Punktarrayen. |
+| spänning | float | Kurvspänningen. |
+
+### Constructor: CurveShape(points, tension, is_closed) {#CurveShape_points_tension_is_closed_5}
+
+
+```
+ CurveShape(points, tension, is_closed) 
+```
+
+Initierar en ny instans av klassen [CurveShape](/psd/python-net/aspose.psd.shapes/curveshape/).
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| points | [PointF[]](/psd/python-net/aspose.psd/pointf) | Punktarrayen. |
+| spänning | float | Kurvspänningen. |
+| is_closed | bool | Om den är satt till <c>true</c> är kurvan sluten. |
+
+### Method: get_bounds(matrix) {#get_bounds_matrix_1}
+
+
+```
+ get_bounds(matrix) 
+```
+
+Hämtar objektets gränser.
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | Matriserna som ska tillämpas innan gränser beräknas. |
+
+**Returns**
+
+| Typ | Beskrivning |
+| :- | :- |
+| [RectangleF](/psd/python-net/aspose.psd/rectanglef) | Det uppskattade objektets gränser. |
+
+
+### Method: get_bounds(matrix, pen) {#get_bounds_matrix_pen_2}
+
+
+```
+ get_bounds(matrix, pen) 
+```
+
+Hämtar objektets gränser.
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| matrix | [Matrix](/psd/python-net/aspose.psd/matrix) | Matriserna som ska tillämpas innan gränser beräknas. |
+| pen | [Pen](/psd/python-net/aspose.psd/pen) | Pennan som ska användas för objektet. Detta kan påverka objektets gränsstorlek. |
+
+**Returns**
+
+| Typ | Beskrivning |
+| :- | :- |
+| [RectangleF](/psd/python-net/aspose.psd/rectanglef) | Det uppskattade objektets gränser. |
+
+
+### Method: transform(transform) {#transform_transform_3}
+
+
+```
+ transform(transform) 
+```
+
+Tillämpar den angivna transformationen på formen.
+
+**Parameters:**
+
+| Parameter | Typ | Beskrivning |
+| :- | :- | :- |
+| transform | [Matrix](/psd/python-net/aspose.psd/matrix) | Transformationen att tillämpa. |
+
