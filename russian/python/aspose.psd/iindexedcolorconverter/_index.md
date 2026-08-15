@@ -1,0 +1,38 @@
+---
+title: "Класс IIndexedColorConverter"
+type: docs
+weight: 1830
+url: /ru/python-net/aspose.psd/iindexedcolorconverter/
+---
+
+**Summary:** The color converter for indexed image formats.
+
+**Module:** [aspose.psd](/psd/python-net/aspose.psd/)
+
+**Full Name:** aspose.psd.IIndexedColorConverter
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Methods**
+| **Name** | **Описание** |
+| :- | :- |
+| [fill_indexedto_indexed_map(map, source_format, dest_format)](#fill_indexedto_indexed_map_map_source_format_dest_format_1) | Заполняет карту преобразования индексированного изображения в индексированное. |
+
+
+### Method: fill_indexedto_indexed_map(map, source_format, dest_format) {#fill_indexedto_indexed_map_map_source_format_dest_format_1}
+
+
+```
+ fill_indexedto_indexed_map(map, source_format, dest_format) 
+```
+
+Заполняет карту преобразования индексированного изображения в индексированное.
+
+**Parameters:**
+
+| Параметр | Тип | Описание |
+| :- | :- | :- |
+| карта | байт | Карта преобразования. |
+| source_format | [PixelDataFormat](/psd/python-net/aspose.psd/pixeldataformat) | Исходный формат. |
+| dest_format | [PixelDataFormat](/psd/python-net/aspose.psd/pixeldataformat) | Формат назначения. |
+
