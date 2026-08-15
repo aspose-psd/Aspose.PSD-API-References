@@ -1,0 +1,33 @@
+---
+title: "Clase InnerShadowEffect"
+type: docs
+weight: 70
+url: /es/python-net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
+---
+
+**Summary:** Inner Shadow Layer effect
+
+**Module:** [aspose.psd.fileformats.psd.layers.layereffects](/psd/python-net/aspose.psd.fileformats.psd.layers.layereffects/)
+
+**Full Name:** aspose.psd.fileformats.psd.layers.layereffects.InnerShadowEffect
+
+**Inheritance:** IShadowEffect, ILayerEffect
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **Descripción** |
+| :- | :- | :- | :- |
+| ángulo | int | r/w | Obtiene o establece el ángulo en grados. |
+| blend_mode | [BlendMode](/psd/python-net/aspose.psd.fileformats.core.blending/blendmode/) | r/w | Obtiene o establece el modo de fusión. |
+| color | [Color](/psd/python-net/aspose.psd/color) | r/w | Obtiene o establece el color. |
+| distance | int | r/w | Obtiene o establece la distancia en píxeles. |
+| effect_type | [LayerEffectsTypes](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/) | r | Obtiene un tipo de efecto |
+| is_visible | bool | r/w | Obtiene o establece un valor que indica si esta instancia es visible. |
+| ruido | int | r/w | Obtiene o establece el ruido. |
+| opacity | byte | r/w | Obtiene o establece la opacidad. |
+| tamaño | int | r/w | Obtiene o establece el valor de desenfoque en píxeles. |
+| propagación | int | r/w | Obtiene o establece la propagación (estrangulamiento) como porcentaje. |
+| use_global_light | bool | r/w | Obtiene o establece un valor que indica si [use this angle in all of the layer effects]. |
+
+

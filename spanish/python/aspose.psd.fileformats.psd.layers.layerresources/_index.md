@@ -1,0 +1,114 @@
+---
+title: "aspose.psd.fileformats.psd.layers.layerresources"
+type: docs
+weight: 330
+url: /es/python-net/aspose.psd.fileformats.psd.layers.layerresources/
+---
+
+
+
+
+## **Classes**
+| **Class** | **Descripción** |
+| :- | :- |
+| [AbddResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/) | Los datos de información del Artboard. |
+| [AdjustmentLayerResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/) | Clase base para recursos de capa de ajuste |
+| [AnimatedDataSectionStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/) | La sección con datos animados. |
+| [ArtBResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artbresource/) | Los datos de información del Artboard para [Layer.resources](/psd/python-net/aspose.psd.fileformats.psd.layers/layer/). |
+| [ArtDResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/artdresource/) | Los datos de información del Artboard para [PsdImage.global_layer_resources](/psd/python-net/aspose.psd.fileformats.psd/psdimage/). |
+| [BaseArtboardInfoResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/baseartboardinforesource/) | El recurso de datos de información del Artboard. |
+| [BlncResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/) | La clase BlncResource es un recurso de la capa de ajuste de color. |
+| [BlwhResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/) | La clase BlwhResource es un recurso de la capa de ajuste en blanco y negro. |
+| [BooleanResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/) | Clase BooleanResource. Es un pseudo recurso. Photoshop no lo tiene |
+| [BritResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/britresource/) | Clase BritResource. Recurso de la capa de ajuste de Brillo/Contraste |
+| [CgEdResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/) | Clase CgEdResource. Datos extra del generador de contenido (Photoshop CS5) |
+| [ClassID](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/classid/) | El objeto PSD Class ID. |
+| [ClblResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/) | Clase ClblResource.<br/>            Este recurso contiene información sobre la fusión del elemento recortado. |
+| [CmlsResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/) | Clase CmlsResource. |
+| [ColorRangeHsl](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/) | [Hue2Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/) tiene 6 rangos de color donde puedes cambiar los parámetros HSV. <br/>            Cada rango tiene 4 puntos clave para identificar los bordes del rango. Y es ColorRangeHsl |
+| [CurvResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/) | Clase CurvResource. Recurso de la capa de ajuste de curvas<br/>            1 byte - 0 si se usan curvas, 1 si se usan píxeles en el mapa<br/>            si 0 entonces:<br/>            2 bytes - short. Valor predeterminado es 1<br/>            4 bytes - int. Se usa solo el último byte por bit. El primer bit es para 1 canal, el cuarto bit para 4 canales, por ejemplo<br/>            2 bytes - recuento de puntos short<br/>            4 bytes * número de puntos - puntos de la curva 2 short: primera posición, segunda altura<br/>            4 bytes - palabra "Crv "<br/>            2 bytes - short, predeterminado es 4 para Curvas<br/>            4 bytes - int. Predeterminado es 1<br/>            4 bytes - recuento de puntos<br/>            4 bytes * recuento de puntos - puntos de la curva 2 short: primera posición, segunda altura<br/>            0-4 bytes - Liderando para ser plegado para cuatro<br/>            si 1 entonces:<br/>            2 bytes - short. Predeterminado es 1<br/>            4 bytes - int. Se usa solo el último byte. Un canal está en un bit. El primer bit es para 1 canal, el cuarto bit para 4 canales, por ejemplo<br/>            256 * número de canales cambiados - valores ordenados del canal en el rango 0 - 255<br/>            4 bytes - palabra "Crv "<br/>            2 bytes - short. Predeterminado es 3 para píxeles en el mapa<br/>            4 bytes - int Recuento de canales<br/>            (2 + 256) bytes - short 2 para índice de canal, 256 son valores ordenados del canal en el rango 0 - 255 |
+| [CurvesContinuousManager](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/) | Administrador de la capa de ajuste de curvas que manipula curvas. |
+| [CurvesDiscreteManager](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/) | Administrador para la capa de ajuste de curvas que manipula el mapa de píxeles |
+| [CurvesManager](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/) | Clase base para gestionar CurvResource |
+| [CustResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/custresource/) | Clase CustResource.<br/>            Este recurso contiene información sobre la fusión del elemento recortado. |
+| [ExpaResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/) | Clase ExpaResource. Recurso de la capa de ajuste de exposición |
+| [FXidResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/) | El recurso Filter Effects contiene canales, una máscara de usuario y una máscara de hoja para el filtro inteligente. |
+| [FillLayerResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/) | Clase base para recursos de capa de relleno. |
+| [FilterEffectMaskData](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/) | La clase de datos de máscara de filtro. |
+| [FxrpResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/) | Clase FxrpResource. El punto de referencia de la capa |
+| [GdFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/) | Clase GdFlResource.<br/>            Este recurso contiene información sobre la fusión del elemento recortado. |
+| [GrdmResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/grdmresource/) | Clase GrdmResource. Contiene información sobre la capa Gradient-Map. |
+| [Hue2Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/) | Clase Hue2Resource. Recurso de la capa de ajuste de exposición |
+| [IOSTypeStructureLoader](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/) | El cargador de recursos [OSTypeStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
+| [IPath](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ipath/) | La interfaz describe el conjunto de rutas que están presentes en una capa de forma. |
+| [IPathShape](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ipathshape/) | La forma a partir de los nudos de la curva Bézier. |
+| [IPlacedLayerResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/) | Define la interfaz IPlacedLayerResource que contiene información sobre una capa colocada en el archivo PSD.<br/>            Es una interfaz de marcado utilizada para designar los recursos PlLd, Sold y Sole en las imágenes de Adobe® Photoshop®.<br/>            Se utiliza para admitir capas de objetos inteligentes en las imágenes de Adobe® Photoshop®. |
+| [ISmartObjectLayerResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/) | Define la interfaz ISmartObjectLayerResource que contiene información sobre un recurso de capa de objeto inteligente en el archivo PSD.<br/>            También es una interfaz de marcado utilizada para designar tanto los recursos Sold como Sole en las imágenes de Adobe® Photoshop®. |
+| [InfxResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/) | Clase InfxResource.<br/>            Este recurso contiene información sobre la fusión del elemento recortado. |
+| [IopaResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/) | Clase IopaResource.<br/>            Este recurso contiene información sobre la propiedad de opacidad de relleno del formulario de estilo de capa |
+| [KnkoResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/) | Clase KnkoResource.<br/>            Este recurso contiene información sobre la fusión del elemento recortado. |
+| [LayerSectionResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/) | El recurso de la sección de capa. |
+| [LclrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/) | Clase LclrResource.<br/>            Este recurso contiene información sobre el color de la capa en la lista de capas de PS. Es solo |
+| [LevelChannel](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) | Clase para trabajar con canales en la capa de ajuste de niveles |
+| [LevlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/) | Clase LevlResource. Recurso de la capa de ajuste de exposición |
+| [Lfx2Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) | Recurso Lfx2 (recurso de efectos) |
+| [LiFdDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/) | Define la clase de origen de datos liFD en el archivo PSD que contiene información sobre un archivo incrustado.<br/>            Es parte de la API de Manipulación del Formato de Archivo PSD que ayuda a modificar archivos de Adobe® Photoshop®. |
+| [LiFeDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) | Define la clase LnkeDataSource que contiene información sobre un archivo enlazado externo.<br/>            Esta es parte de la API de Manipulación de Formato de Archivo PSD que ayuda a modificar archivos Adobe® Photoshop® |
+| [LinkDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/) | Define la clase LinkDataSource que contiene información sobre un archivo enlazado o un recurso en el archivo PSD. |
+| [LinkResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/) | Define la clase LinkResource que contiene información sobre archivos enlazados o incrustados en la imagen con formato PSD.<br/>            El recurso de enlace puede contener varias instancias de [LinkDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/) que pueden ser accedidas mediante indexadores en cualquier clase derivada. |
+| [LmskResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lmskresource/) | El recurso LMsk. |
+| [Lnk2Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/) | Define la clase que contiene información sobre archivos incrustados en la imagen con formato PSD.<br/>            El recurso de enlace puede contener varias instancias de [LiFdDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/) que pueden ser accedidas mediante el indexador. |
+| [Lnk3Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/) | Define la clase que contiene información sobre un archivo incrustado en la imagen PSD de 32 bits por canal.<br/>            El recurso de enlace puede contener varias instancias de [LiFdDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/) que pueden ser accedidas mediante el indexador. |
+| [LnkeResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/) | Define la clase LnkeResource que contiene información sobre archivos enlazados externos o recursos en la imagen con formato PSD.<br/>            El recurso de enlace puede contener varias instancias de [LiFeDataSource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) que pueden ser accedidas mediante el indexador.<br/>            Esta es una parte de la API de Manipulación de Formato de Archivo PSD que ayuda a modificar archivos Adobe® Photoshop® programáticamente |
+| [LnsrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/) | Clase lnsrResource. |
+| [Lr16Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/) | El recurso lr16. |
+| [Lr32Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/) | El recurso lr32. |
+| [LrXxResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/) | El recurso lrXX. |
+| [LspfResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/) | Configuraciones protegidas de capa |
+| [LuniResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/) | Recurso de nombre de capa |
+| [LyidResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/) | Clase LyidResource. |
+| [LyvrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lyvrresource/) | El recurso que representa la versión de Photoshop de la capa. |
+| [MixrResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/) | Clase MixrResource. Recurso de capa de ajuste de Mezclador de canales |
+| [MlstResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/) | El recurso mlst.<br/>            Esta clase, entre otras cosas, contiene información sobre la posición de la capa en la línea de tiempo. |
+| [NvrtResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/) | Clase NvrtResource. Recurso de capa de ajuste Invertir. |
+| [OSTypeStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) | Representa la estructura de tipo OS. |
+| [OSTypeStructuresRegistry](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/) | Representa el registro de recursos de [OSTypeStructure](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
+| [PathShape](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/pathshape/) | La figura de los nudos de la curva Bézier. |
+| [PattResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/) | Clase PattResource. Recurso con datos de patrón |
+| [PattResourceData](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/) | La clase para almacenar los datos de patrón del recurso [PattResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/). |
+| [PhflResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/) | Clase PhflResource. Recurso de capa de ajuste de Exposición<br/>            2 Versión ( = 3 ) o ( = 2 )<br/>            12 4 bytes cada uno para color XYZ (Solo en Versión 3)<br/>            10 2 bytes espacio de color seguido de 4 * 2 bytes componente de color (Solo en Versión 2)<br/>            4 Densidad<br/>            1 Preservar luminosidad |
+| [PhflResourceVersion2](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/) | Clase PhflResource. Recurso de capa de ajuste de Exposición<br/>            2 Versión ( = 3 ) o ( = 2 )<br/>            12 4 bytes cada uno para color XYZ (Solo en Versión 3)<br/>            10 2 bytes espacio de color seguido de 4 * 2 bytes componente de color (Solo en Versión 2)<br/>            4 Densidad<br/>            1 Preservar luminosidad |
+| [PhflResourceVersion3](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/) | Clase PhflResource. Recurso de capa de ajuste de Exposición<br/>            2 Versión ( = 3 ) o ( = 2 )<br/>            12 4 bytes cada uno para color XYZ (Solo en Versión 3)<br/>            10 2 bytes espacio de color seguido de 4 * 2 bytes componente de color (Solo en Versión 2)<br/>            4 Densidad<br/>            1 Preservar luminosidad |
+| [PlLdResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/) | Define la clase PlLdResource que contiene información sobre una capa colocada en el archivo PSD.<br/>            Se utiliza para admitir capas de objetos inteligentes en las imágenes Adobe� Photoshop�.<br/>            Fue reemplazada por SoLdResource en Adobe� Photoshop� CS3 |
+| [PlacedResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/) | Define la clase PlacedResource que contiene información común sobre una capa colocada o una capa de objeto inteligente en el archivo PSD.<br/>            Se utiliza para admitir capas de objeto inteligente en las imágenes de Adobe� Photoshop�. |
+| [PostResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/postresource/) | Clase PostResource. Configuración de capa posterizada. |
+| [PtFlResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/) | Clase PtFlResource. Contiene datos de capa de relleno de patrón. |
+| [ShmdResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/) | Clase ShmdResource. Configuración de metadatos |
+| [SmartObjectResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) | Define la clase SmartObjectResource que contiene información sobre una capa de objeto inteligente en un archivo PSD.<br/>            Es la clase base para los recursos Sold y Sole que se utilizan para admitir capas de objeto inteligente en las imágenes de Adobe� Photoshop�. |
+| [SmartResourceCreator](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/) | Define la clase SmartResourceCreator que puede crear recursos PlLd, SoLd y SoLe.<br/>            Se utiliza para admitir capas de objeto inteligente en las imágenes de Adobe® Photoshop®. |
+| [SoCoResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/) | Clase SoCoResource.<br/>            Este recurso contiene información sobre capas de relleno de color |
+| [SoLdResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/) | Define la clase SoLdResource que contiene información sobre una capa de objeto inteligente en un archivo PSD.<br/>            Se utiliza para admitir capas de objeto inteligente en las imágenes de Adobe� Photoshop�. |
+| [SoLeResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/) | Define la clase SoLeResource que contiene información sobre una capa de objeto inteligente en un archivo PSD.<br/>            Se utiliza para admitir capas de objeto inteligente con enlaces a archivos externos en las imágenes de Adobe� Photoshop�. |
+| [Txt2Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/) | Clase de recurso Txt2 |
+| [TypeToolFontInfo](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/) | Contiene información sobre la fuente de la herramienta de texto. |
+| [TypeToolInfo6Resource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/) | La información de la herramienta de texto. Para versiones de PSD mayores o iguales a 6.0. |
+| [TypeToolInfoResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/) | La información de la herramienta de texto. Para versiones de PSD menores que 6.0. |
+| [TypeToolLineInfo](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/) | Información de línea de la herramienta de texto. |
+| [TypeToolStyleInfo](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/) | Información de estilo de la herramienta de texto. |
+| [UnknownResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/) | El recurso desconocido. |
+| [VectorPath](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpath/) | La clase que contiene rutas vectoriales. |
+| [VectorPathDataResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/) | Clase VectorPathDataResource.<br/>            Este recurso contiene información sobre la máscara de capa vectorial |
+| [VibAResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/) | Recurso VibA. |
+| [VmskResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/) | Clase VmskResource.<br/>            Este recurso contiene información sobre la máscara de capa vectorial |
+| [VogkResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/) | El recurso de datos de origen vectorial. |
+| [VsmsResource](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/) | Clase VsmsResource.<br/>            Este recurso contiene información sobre la máscara de capa vectorial |
+## **Enumerations**
+| **Enumeration** | **Descripción** |
+| :- | :- |
+| [LayerLockType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/) | Opciones de bloqueo de capa |
+| [LayerSectionSubtype](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/) | El subtipo de sección |
+| [LayerSectionType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/) | El tipo de sección de capa |
+| [LinkDataSourceType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/) | Define la enumeración LinkDataSourceType para las fuentes de datos en el recurso de enlace PSD. |
+| [LnsrResourceType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/) | Tipos de recursos Lnsr posibles descubiertos |
+| [PlacedLayerType](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/) | Define la enumeración PlacedLayerType para el recurso de capa colocada PlLd. |
+| [SheetColorHighlightEnum](/psd/python-net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/) | Colores posibles de la configuración de color de hoja.<br/>            Es el color decorativo de la interfaz de usuario de la capa en la lista de capas en PS |
