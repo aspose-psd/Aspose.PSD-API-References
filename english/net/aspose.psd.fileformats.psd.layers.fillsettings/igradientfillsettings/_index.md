@@ -65,7 +65,7 @@ using (im)
              Math.Abs(100.0 - solidGradient.TransparencyPoints[0].Opacity) > 0.25 ||
              solidGradient.TransparencyPoints[0].Location != 0 ||
              solidGradient.TransparencyPoints[0].MedianPointLocation != 50 ||
-             solidGradient.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+             solidGradient.ColorPoints[0].RawColor != RawColorHelper.CreateArgb8BitColor(255, 203, 64, 140) ||
              solidGradient.ColorPoints[0].Location != 0 ||
              solidGradient.ColorPoints[0].MedianPointLocation != 50)
             {
@@ -81,7 +81,7 @@ using (im)
             var transparencyPoints = new List<IGradientTransparencyPoint>(solidGradient.TransparencyPoints);
             colorPoints.Add(new GradientColorPoint()
             {
-                Color = Color.Violet,
+                RawColor = RawColorHelper.CreateArgb8BitColor(Color.Violet),
                 Location = 4096,
                 MedianPointLocation = 75
             });

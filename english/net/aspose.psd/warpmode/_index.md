@@ -3,7 +3,7 @@ title: Enum WarpMode
 second_title: Aspose.PSD for .NET API Reference
 description: Aspose.PSD.WarpMode enum. Specifies the type of warp transformation applied
 type: docs
-weight: 6230
+weight: 6260
 url: /net/aspose.psd/warpmode/
 ---
 {{< psd/tize >}}

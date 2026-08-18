@@ -3,7 +3,7 @@ title: AliasStructure.StructureKey
 second_title: Aspose.PSD for .NET API Reference
 description: AliasStructure field. Identifies the structure key
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/structurekey/
 ---
 {{< psd/tize >}}

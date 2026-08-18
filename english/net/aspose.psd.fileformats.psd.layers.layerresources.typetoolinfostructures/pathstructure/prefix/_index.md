@@ -1,7 +1,7 @@
 ---
 title: PathStructure.Prefix
 second_title: Aspose.PSD for .NET API Reference
-description: PathStructure property. Gets or sets the path prefix
+description: PathStructure property. Gets or sets the legacy path prefix for TypeTool path format
 type: docs
 weight: 50
 url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
@@ -9,15 +9,16 @@ url: /net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructure
 {{< psd/tize >}}
 ## PathStructure.Prefix property
 
-Gets or sets the path prefix.
+Gets or sets the legacy path prefix (for TypeTool path format).
 
 ```csharp
+[Obsolete("Prefix is kept for compatibility and is ignored during save. PathStructure always writes the txtu payload signature when Path is changed.")]
 public string Prefix { get; set; }
 ```
 
 ### Property Value
 
-The full path.
+The path prefix.
 
 ## Examples
 
