@@ -1,11 +1,12 @@
 ---
-title: ILayerEffect.BlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: ILayerEffect свойство. Получает или задает режим наложения.
+title: "ILayerEffect.BlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ILayerEffect. Возвращает или задает режим наложения"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.BlendMode property
 
 Получает или задает режим наложения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmo
 public BlendMode BlendMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим наложения.
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * interface [ILayerEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

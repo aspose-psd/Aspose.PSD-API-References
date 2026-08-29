@@ -1,11 +1,12 @@
 ---
-title: KnkoResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: KnkoResource свойство. Получает ключ ресурса слоя.
+title: "KnkoResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство KnkoResource. Получает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [KnkoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает имя текстового слоя.
+title: "Layer.Name"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Layer свойство. Получает или задает имя текстового слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 Получает или задает имя текстового слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/name/
 public string Name { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя текстового слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.LawnGreen
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает определенный системой цвет.
+title: "Color.LawnGreen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет"
 type: docs
 weight: 630
 url: /ru/net/aspose.psd/color/lawngreen/
 ---
+{{< psd/tize >}}
 ## Color.LawnGreen property
 
-Получает определенный системой цвет.
+Получает системно определённый цвет.
 
 ```csharp
 public static Color LawnGreen { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Color`](../) представляющий определенный системой цвет.
+Объект [`Color`](../), представляющий системно определённый цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

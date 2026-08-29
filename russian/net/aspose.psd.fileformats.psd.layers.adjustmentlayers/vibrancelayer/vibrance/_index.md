@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Справочник по Aspose.PSD для .NET API
-description: VibranceLayer свойство. Получает или устанавливает яркость.
+title: "VibranceLayer.Vibrance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VibranceLayer. Получает или задает vibrance"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Получает или устанавливает яркость.
+Получает или задает vibrance.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Вибрация.
+Vibrance.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Вибрация должна быть в диапазоне от -180 до +180 |
+| ArgumentOutOfRangeException | Vibrance должна быть в диапазоне от -180 до +180 |
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка слоя VibranceLayer и возможность редактирования этой настройки.
+Следующий пример кода демонстрирует поддержку слоя VibranceLayer и возможность редактировать эту коррекцию.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VibranceLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

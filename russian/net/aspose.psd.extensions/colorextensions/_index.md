@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.ColorExtensions сорт. Color методы расширения.
+title: "Класс ColorExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.ColorExtensions. Методы расширения Color"
 type: docs
-weight: 1050
+weight: 1060
 url: /ru/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-[`Color`](../../aspose.psd/color/) методы расширения.
+Методы расширения [`Color`](../../aspose.psd/color/).
 
 ```csharp
 public static class ColorExtensions
@@ -18,12 +19,12 @@ public static class ColorExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Преобразует[`Color`](../../aspose.psd/color/) кColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Преобразует[`Color`](../../aspose.psd/color/) массив кColor массив. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Преобразует [`Color`](../../aspose.psd/color/) в Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Преобразует массив [`Color`](../../aspose.psd/color/) в массив Color. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

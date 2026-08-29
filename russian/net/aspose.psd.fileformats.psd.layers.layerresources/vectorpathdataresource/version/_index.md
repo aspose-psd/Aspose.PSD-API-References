@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorPathDataResource свойство. Получает или задает версию.
+title: "VectorPathDataResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorPathDataResource свойство. Получает или задает версию"
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [VectorPathDataResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

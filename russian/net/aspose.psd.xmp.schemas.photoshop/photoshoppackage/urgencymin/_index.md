@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage поле. Минимальное значение срочности.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле PhotoshopPackage. Минимальное значение срочности"
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
 Минимальное значение срочности.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 public const int UrgencyMin;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

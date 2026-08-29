@@ -1,24 +1,25 @@
 ---
-title: PlacedResource.TotalPages
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает общее количество страниц размещенного слоя в файле PSD.
+title: "PlacedResource.TotalPages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задаёт общее количество страниц размещённого слоя в файле PSD"
 type: docs
-weight: 160
+weight: 150
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TotalPages property
 
-Получает или задает общее количество страниц размещенного слоя в файле PSD.
+Получает или задает общее количество страниц размещённого слоя в файле PSD.
 
 ```csharp
 public virtual int TotalPages { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Всего страниц размещенного слоя.
+Общее количество страниц размещённого слоя.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса PlLdResource.
 
@@ -202,16 +203,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым для Adobe® Photoshop®
+                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым в Adobe® Photoshop®
                 ////resource.UOrder = 6;
-                ////ресурс.VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-                // или изменить подчеркивающий смарт-объект на векторный тип
+                // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+                // или измените подлежащий смарт‑объект на векторный тип
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Должен быть действительный PlLdResource с этим уникальным идентификатором
-                ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Должен существовать действительный PlLdResource с этим уникальным Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,7 +230,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ```csharp
 [C#]
 
-// В этом примере показано, как получить или установить свойства данных слоя смарт-объекта файла PSD.
+// Этот пример показывает, как получить или установить свойства данных слоя смарт‑объекта файла PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +464,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-                // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+                // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+                // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,19 +510,20 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+                // Этот уникальный Id следует изменить в ссылках, если они есть
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым для Adobe® Photoshop®
+                // Будьте осторожны с некоторыми параметрами: изображение может стать нечитаемым в Adobe® Photoshop®
                 ////resource.UOrder = 6;
-                ////ресурс.VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-                // или изменить подчеркивающий смарт-объект на векторный тип
+                // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+                // или измените подлежащий смарт‑объект на векторный тип
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Должен быть действительный PlLdResource с этим уникальным идентификатором
-                ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+                // Должен существовать действительный PlLdResource с этим уникальным Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -532,10 +535,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

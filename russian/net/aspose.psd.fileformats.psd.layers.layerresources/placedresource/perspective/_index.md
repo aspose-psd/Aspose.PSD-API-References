@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Perspective
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает значение перспективы размещенного слоя в файле PSD.
+title: "PlacedResource.Perspective"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задаёт значение перспективы размещённого слоя в файле PSD"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Perspective property
 
-Получает или задает значение перспективы размещенного слоя в файле PSD.
+Получает или задает значение перспективы размещённого слоя в файле PSD.
 
 ```csharp
 public double Perspective { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение перспективы размещенного слоя.
+Значение перспективы размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

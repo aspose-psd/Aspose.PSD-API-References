@@ -1,14 +1,15 @@
 ---
-title: Class Font
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Font.Font сорт. Представляет шрифт XMP.
+title: "Класс Font"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Font.Font class. Представляет XMP Font"
 type: docs
-weight: 6070
+weight: 6570
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/
 ---
+{{< psd/tize >}}
 ## Font class
 
-Представляет шрифт XMP.
+Представляет XMP Font.
 
 ```csharp
 public sealed class Font : ComplexTypeBase
@@ -18,21 +19,21 @@ public sealed class Font : ComplexTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [Font](font/#constructor)() | Инициализирует новый экземпляр`Font` класс. |
-| [Font](font/#constructor_1)(string) | Инициализирует новый экземпляр`Font` класс. |
+| [Font](font/#constructor)() | Инициализирует новый экземпляр класса `Font`. |
+| [Font](font/#constructor_1)(string) | Инициализирует новый экземпляр класса `Font`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | Получает или задает массив имен файлов для шрифтов, составляющих составной шрифт. |
-| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Получает или задает начертание шрифта. |
+| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | Получает или задаёт массив имён файлов шрифтов, составляющих составной шрифт. |
+| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Получает или задаёт гарнитуру шрифта. |
 | [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | Получает или задает семейство шрифтов. |
-| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Получает или задает имя файла шрифта без полного пути. |
+| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Получает или задаёт имя файла шрифта без полного пути. |
 | [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | Получает или задает имя шрифта PostScript. |
 | [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | Получает или задает тип шрифта. |
-| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | Получает или задает значение, указывающее, является ли данный шрифт составным. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имен по умолчанию. |
+| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | Получает или задает значение, указывающее, является ли этот шрифт составным. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имён по умолчанию. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Получает префикс. |
 | [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | Получает или задает версию шрифта. |
 
@@ -40,12 +41,12 @@ public sealed class Font : ComplexTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Hue2Resource.Hue2Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource строитель. Инициализирует новый экземплярHue2Resource класс.
+title: "Hue2Resource.Hue2Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Hue2Resource. Инициализирует новый экземпляр класса Hue2Resource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource() {#constructor}
 
-Инициализирует новый экземпляр[`Hue2Resource`](../) класс.
+Инициализирует новый экземпляр класса [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`Hue2Resource`](../) класс.
+Инициализирует новый экземпляр класса [`Hue2Resource`](../).
 
 ```csharp
 public Hue2Resource(byte[] data)
@@ -32,7 +33,7 @@ public Hue2Resource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -40,10 +41,10 @@ public Hue2Resource(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимые данные ресурса Hue2 |
 
-### Смотрите также
+### См. также
 
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.SaveData
-second_title: Справочник по Aspose.PSD для .NET API
-description: FilterEffectMaskData метод. Сохраняет ресурс в указанный контейнер потока.
+title: "FilterEffectMaskData.SaveData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FilterEffectMaskData. Сохраняет ресурс в указанный контейнер потока"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SaveData method
 
 Сохраняет ресурс в указанный контейнер потока.
@@ -16,13 +17,13 @@ public void SaveData(StreamContainer streamContainer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FilterEffectMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

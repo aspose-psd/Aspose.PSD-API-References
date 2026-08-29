@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamSource свойство. Получает значение указывающее следует ли удалять поток при удалении контейнера.
+title: "StreamSource.DisposeStream"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StreamSource. Получает значение, указывающее, следует ли освобождать поток, когда контейнер освобождается"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-Получает значение, указывающее, следует ли удалять поток при удалении контейнера.
+Получает значение, указывающее, следует ли освобождать поток, когда контейнер освобождается.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток должен быть удален; в противном случае,`ЛОЖЬ`.
+`true`, если поток следует освобождать; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../)
-* пространство имен [Aspose.PSD.Sources](../../streamsource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

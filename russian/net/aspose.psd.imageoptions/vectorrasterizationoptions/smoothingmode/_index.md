@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorRasterizationOptions свойство. Получает или задает режим сглаживания.
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorRasterizationOptions. Получает или задает режим сглаживания"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
 Получает или задает режим сглаживания.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим сглаживания.
 
-### Смотрите также
+### См. также
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

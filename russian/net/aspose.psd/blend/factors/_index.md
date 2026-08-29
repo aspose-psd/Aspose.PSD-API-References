@@ -1,11 +1,12 @@
 ---
-title: Blend.Factors
-second_title: Справочник по Aspose.PSD для .NET API
-description: Blend свойство. Получает или задает массив факторов смешивания для градиента.
+title: "Blend.Factors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Blend. Получает или задает массив факторов смешения для градиента"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
 Получает или задает массив факторов смешивания для градиента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/blend/factors/
 public float[] Factors { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив коэффициентов смешивания, указывающих процентное соотношение начального и конечного цветов, которые будут использоваться в соответствующей позиции.
+Массив факторов смешения, определяющих процентные соотношения начального и конечного цвета, используемых в соответствующей позиции.
 
-### Смотрите также
+### См. также
 
 * class [Blend](../)
-* пространство имен [Aspose.PSD](../../blend/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

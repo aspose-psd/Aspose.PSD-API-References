@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Entries
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPalette свойство. Получает массивColor структуры.
+title: "ColorPalette.Entries"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorPalette. Возвращает массив структур Color"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/colorpalette/entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Entries property
 
-Получает массив[`Color`](../../color/) структуры.
+Возвращает массив структур [`Color`](../../color/).
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,17 +17,17 @@ public Color[] Entries { get; }
 
 ### Возвращаемое значение
 
-Массив[`Color`](../../color/) структуры, составляющие это[`ColorPalette`](../) .
+Массив структур [`Color`](../../color/), составляющих эту [`ColorPalette`](../).
 
-### Стоимость имущества
+### Property Value
 
-Записи.
+Элементы.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

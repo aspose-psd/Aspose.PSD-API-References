@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizerSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.RdOptimizerSettings сорт. Настройки оптимизатора удаленных рабочих столов class
+title: "Класс RdOptimizerSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageOptions.RdOptimizerSettings класс. Класс параметров оптимизатора RD"
 type: docs
-weight: 4910
+weight: 5400
 url: /ru/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings class
 
-Настройки оптимизатора удаленных рабочих столов class
+Класс настроек оптимизатора RD.
 
 ```csharp
 public class RdOptimizerSettings
@@ -20,7 +21,7 @@ public class RdOptimizerSettings
 | --- | --- |
 | [RdOptimizerSettings](rdoptimizersettings/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -28,19 +29,19 @@ public class RdOptimizerSettings
 | [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | Получает или задает коэффициент масштабирования BPP (бит на пиксель). |
 | [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | Получает максимальное значение R для рассмотрения. |
 | [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | Получает максимальное значение пикселя. |
-| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Получает или задает максимальное значение квантования. |
-| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | Получает минимально допустимое значение квантования. |
-| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | Получает максимальное ожидаемое значение PSNR. |
+| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | Получает или задает максимальное значение квантизации. |
+| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | Получает минимальное допустимое значение квантизации. |
+| [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | Получает ожидаемое максимальное значение PSNR. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | Создает этот экземпляр. |
+| static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | Создаёт этот экземпляр. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

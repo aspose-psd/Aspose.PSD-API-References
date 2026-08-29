@@ -1,11 +1,12 @@
 ---
-title: VectorImage.SizeF
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorImage свойство. Получает размер объекта в дюймах.
+title: "VectorImage.SizeF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorImage. Возвращает размер объекта в дюймах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
 Получает размер объекта в дюймах.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/vectorimage/sizef/
 public SizeF SizeF { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Размер объекта в дюймах.
+Размер объекта, в дюймах.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* пространство имен [Aspose.PSD](../../vectorimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

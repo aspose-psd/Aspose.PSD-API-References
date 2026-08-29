@@ -1,14 +1,15 @@
 ---
-title: LyidResource.LyidResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LyidResource строитель. Инициализирует новый экземплярLyidResource класс.
+title: "LyidResource.LyidResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LyidResource. Инициализирует новый экземпляр класса LyidResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-Инициализирует новый экземпляр[`LyidResource`](../) класс.
+Инициализирует новый экземпляр класса [`LyidResource`](../).
 
 ```csharp
 public LyidResource(int id)
@@ -18,17 +19,17 @@ public LyidResource(int id)
 | --- | --- | --- |
 | id | Int32 | Идентификатор слоя. |
 
-### Смотрите также
+### См. также
 
 * class [LyidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-Инициализирует новый экземпляр[`LyidResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`LyidResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public LyidResource(byte[] bytes)
@@ -36,18 +37,18 @@ public LyidResource(byte[] bytes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bytes | Byte[] | Байты. |
+| байты | Byte[] | Байты. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение ресурса lyid |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимое значение lyid Resource |
 
-### Смотрите также
+### См. также
 
 * class [LyidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

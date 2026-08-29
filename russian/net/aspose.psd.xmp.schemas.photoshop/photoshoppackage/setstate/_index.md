@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает состояние.
+title: "PhotoshopPackage.SetState"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PhotoshopPackage метод. Устанавливает состояние"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
 Устанавливает состояние.
@@ -16,12 +17,12 @@ public void SetState(string state)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| state | String | Штат. |
+| state | String | Состояние. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

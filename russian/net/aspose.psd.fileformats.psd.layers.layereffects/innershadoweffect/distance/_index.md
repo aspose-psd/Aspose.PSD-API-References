@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Distance
-second_title: Справочник по Aspose.PSD для .NET API
-description: InnerShadowEffect свойство. Получает или задает расстояние в пикселях.
+title: "InnerShadowEffect.Distance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InnerShadowEffect. Получает или задает расстояние в пикселях"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Distance property
 
 Получает или задает расстояние в пикселях.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/di
 public int Distance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Расстояние.
 
-### Смотрите также
+### См. также
 
 * class [InnerShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

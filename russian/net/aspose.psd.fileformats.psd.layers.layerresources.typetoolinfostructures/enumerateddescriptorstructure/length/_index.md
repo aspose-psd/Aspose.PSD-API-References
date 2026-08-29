@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedDescriptorStructure свойство. ПолучаетOSTypeStructure длина в байтах.
+title: "EnumeratedDescriptorStructure.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "EnumeratedDescriptorStructure свойство. Получает длину OSTypeStructure в байтах"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.Length property
 
-Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах.
+Получает длину [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [EnumeratedDescriptorStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

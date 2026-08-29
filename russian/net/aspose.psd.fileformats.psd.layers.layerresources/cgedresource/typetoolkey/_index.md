@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: CgEdResource поле. Информационный ключ типа инструмента.
+title: "CgEdResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CgEdResource field. Ключ информации о типе инструмента"
 type: docs
-weight: 130
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CgEdResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CgEdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

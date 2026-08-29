@@ -1,14 +1,15 @@
 ---
-title: IImageExporterDescriptor.CanExport
-second_title: Справочник по Aspose.PSD для .NET API
-description: IImageExporterDescriptor метод. Определяет может ли средство экспорта изображений экспортировать указанное изображение в указанный формат изображения указанный параметрами сохранения.
+title: "IImageExporterDescriptor.CanExport"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IImageExporterDescriptor. Определяет, может ли экспортёр изображений экспортировать указанное изображение в указанный формат изображения, определённый параметрами сохранения"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/iimageexporterdescriptor/canexport/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CanExport method
 
-Определяет, может ли средство экспорта изображений экспортировать указанное изображение в указанный формат изображения, указанный параметрами сохранения.
+Определяет, может ли экспортёр изображений экспортировать указанное изображение в указанный формат изображения, заданный параметрами сохранения.
 
 ```csharp
 public bool CanExport(Image image, ImageOptionsBase optionsBase)
@@ -16,19 +17,19 @@ public bool CanExport(Image image, ImageOptionsBase optionsBase)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение для экспорта. |
-| optionsBase | ImageOptionsBase | База вариантов. |
+| изображение | Image | Изображение для экспорта. |
+| optionsBase | ImageOptionsBase | База параметров. |
 
 ### Возвращаемое значение
 
-`Истинный` если экспортер, созданный этим дескриптором, может экспортировать указанное изображение в указанный формат файла; в противном случае,`ЛОЖЬ` .
+`True`, если экспортёр, созданный этим дескриптором, может экспортировать указанное изображение в указанный файловый формат; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* пространство имен [Aspose.PSD](../../iimageexporterdescriptor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

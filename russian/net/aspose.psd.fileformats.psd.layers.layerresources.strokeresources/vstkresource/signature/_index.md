@@ -1,11 +1,12 @@
 ---
-title: VstkResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает подпись.
+title: "VstkResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает подпись"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

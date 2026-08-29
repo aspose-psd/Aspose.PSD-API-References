@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Rotate
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Повернуть изображение вокруг центра.
+title: "PsdImage.Rotate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Поворачивает изображение вокруг центра"
 type: docs
-weight: 610
+weight: 670
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Повернуть изображение вокруг центра.
+Поворачивает изображение вокруг центра.
 
 ```csharp
 public override void Rotate(float angle)
@@ -16,11 +17,11 @@ public override void Rotate(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота в градусах. Положительные значения будут вращаться по часовой стрелке. |
+| угол | Single | Угол поворота в градусах. Положительные значения вращают по часовой стрелке. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность поворота изображения на заданное значение угла.
+Следующий код демонстрирует возможность вращения изображения на заданный угол.
 
 ```csharp
 [C#]
@@ -57,17 +58,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Повернуть изображение вокруг центра.
+Поворачивает изображение вокруг центра.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -75,15 +76,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота в градусах. Положительные значения будут вращаться по часовой стрелке. |
-| resizeProportionally | Boolean | если установлено`истинный` у вас будет размер вашего изображения, измененный в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае, который оставляет размеры нетронутыми, и поворачивается только внутреннее содержимое изображения. |
+| угол | Single | Угол поворота в градусах. Положительные значения вращают по часовой стрелке. |
+| resizeProportionally | Boolean | если установить `true`, размер изображения будет изменён в соответствии с проекциями повернутого прямоугольника (угловых точек); в противном случае размеры останутся неизменными, и будет повернуто только внутреннее содержимое изображения. |
 | backgroundColor | Color | Цвет фона. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum StrokePosition
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition перечисление. Параметр положения управляет выравниванием вашего штриха по слою к которому он применяется вStrokeEffect .
+title: "Перечисление StrokePosition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokePosition. Параметр позиции управляет выравниванием вашего штриха относительно слоя, к которому он применяется, в StrokeEffect."
 type: docs
-weight: 2200
+weight: 2400
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeposition/
 ---
+{{< psd/tize >}}
 ## StrokePosition enumeration
 
-Параметр положения управляет выравниванием вашего штриха по слою, к которому он применяется в[`StrokeEffect`](../strokeeffect/) .
+Параметр позиции управляет выравниванием вашего штриха относительно слоя, к которому он применяется, в [`StrokeEffect`](../strokeeffect/).
 
 ```csharp
 public enum StrokePosition : short
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Inside | `0` | Обводка будет создана от края фигуры и расти внутрь, к центру объекта. |
-| Center | `1` | Обводка будет создаваться от края фигуры и расти как внутрь, так и наружу. |
-| Outside | `2` | Обводка будет создана от края фигуры и будет расти наружу, от объекта. |
+| Inside | `0` | Штрих будет создан от края фигуры и будет расти внутрь, к центру объекта. |
+| Center | `1` | Штрих будет создан от края фигуры и будет расти как внутрь, так и наружу. |
+| Outside | `2` | Штрих будет создан от края фигуры и будет расти наружу, отдаляясь от объекта. |
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется возможность добавления эффекта обводки с различными типами заливки, такими как «Цвет», «Градиент» или «Узор».
+Этот пример демонстрирует возможность добавить эффект штриха с различными типами заливки, такими как Color, Gradient или Pattern.
 
 ```csharp
 [C#]
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Добавляет заливку цветом в позицию внутри
+    // 1. Добавляет заливку Color, в позиции Inside
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Добавляет заливку цветом в позиции снаружи
+    // 2. Добавляет заливку Color, в позиции Outside
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Добавляет цветовую заливку в положение по центру
+    // 3. Добавляет заливку Color, в позиции Center
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Добавляет градиентную заливку в позицию внутри
+    // 4. Добавляет заливку Gradient, в позиции Inside
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Добавляет градиентную заливку в позиции снаружи
+    // 5. Добавляет заливку Gradient, в позиции Outside
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Добавляет градиентную заливку в положение по центру
+    // 6. Добавляет заливку Gradient, в позиции Center
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Добавляет заливку паттерном в позицию внутри
+    // 7. Добавляет заливку Pattern, в позиции Inside
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Добавляет заливку узором в позиции снаружи
+    // 8. Добавляет заливку Pattern, в позиции Outside
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Добавляет заливку узором в позиции Center
+    // 9. Добавляет заливку Pattern, в позиции Center
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -106,9 +107,9 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

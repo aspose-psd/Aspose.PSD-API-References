@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Получает наиболее подходящий шрифт для замены. Если все замены не разрешены будет возвращен первый разрешенный и доступный шрифт. Если доступных шрифтов нет будет возвращен шрифт из arguments
+title: "FontSettings.GetReplacementFont"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FontSettings. Возвращает наиболее подходящий заменяющий шрифт. Если все замены не разрешены, будет возвращён первый разрешённый и доступный шрифт. Если доступных шрифтов нет, будет возвращён шрифт из аргумента."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-Получает наиболее подходящий шрифт для замены. Если все замены не разрешены, будет возвращен первый разрешенный и доступный шрифт. Если доступных шрифтов нет, будет возвращен шрифт из arguments
+Получает наиболее подходящий заменяющий шрифт. Если все замены не разрешены, будет возвращён первый разрешённый и доступный шрифт. Если доступных шрифтов нет, будет возвращён шрифт из аргумента.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
@@ -16,15 +17,15 @@ public static string GetReplacementFont(string fontName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontName | String | Название шрифта. |
+| fontName | String | Имя шрифта. |
 
 ### Возвращаемое значение
 
-Название замененного шрифта
+Имя заменённого шрифта
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность программного ограничения использования шрифтов.
+Следующий код демонстрирует возможность программно ограничивать шрифты.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

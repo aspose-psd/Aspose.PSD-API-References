@@ -1,11 +1,12 @@
 ---
-title: PlLdResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlLdResource свойство. Получает подпись ресурса PlLd.
+title: "PlLdResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlLdResource. Получает подпись ресурса PlLd"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Signature property
 
 Получает подпись ресурса PlLd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/signa
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PlLdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает ширину строки в байтах.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Возвращает ширину строки в байтах"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
 Получает ширину строки в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 public int WidthBytes { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина строки в байтах.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

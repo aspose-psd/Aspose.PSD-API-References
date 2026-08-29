@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataType свойство. Получает значение указывающее допустимы ли данные тега. Действительный тег содержит данные которые можно сохранить. Недопустимый тег не может быть сохранен.
+title: "TiffDataType.IsValid"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffDataType. Получает значение, указывающее, действительны ли данные тега. Действительный тег содержит данные, которые могут быть сохранены. Недействительный тег не может быть сохранён."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-Получает значение, указывающее, допустимы ли данные тега. Действительный тег содержит данные, которые можно сохранить. Недопустимый тег не может быть сохранен.
+Возвращает значение, указывающее, действительны ли данные тега. Действительный тег содержит данные, которые могут быть сохранены. Недействительный тег не может быть сохранён.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если данные тега действительны; в противном случае,`ЛОЖЬ` .
+`true`, если данные тега действительны; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

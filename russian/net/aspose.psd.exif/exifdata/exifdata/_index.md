@@ -1,30 +1,31 @@
 ---
-title: ExifData.ExifData
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData строитель. Инициализирует новый экземплярExifData класс.
+title: "ExifData.ExifData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ExifData. Инициализирует новый экземпляр класса ExifData"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-Инициализирует новый экземпляр[`ExifData`](../) класс.
+Инициализирует новый экземпляр класса [`ExifData`](../).
 
 ```csharp
 public ExifData()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`ExifData`](../) класс с данными из массива.
+Инициализирует новый экземпляр класса [`ExifData`](../) данными из массива.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
@@ -32,20 +33,20 @@ public ExifData(TiffDataType[] exifdata)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | Массив тегов EXIF вместе с общими тегами и тегами GPS. |
+| exifdata | TiffDataType[] | Массив тегов EXIF вместе с общими и GPS-тегами. |
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`ExifData`](../) класс с данными из массива.
+Инициализирует новый экземпляр класса [`ExifData`](../) данными из массива.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
@@ -55,13 +56,13 @@ public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType
 | --- | --- | --- |
 | commonTags | TiffDataType[] | Общие теги. |
 | exifTags | TiffDataType[] | Теги EXIF. |
-| gpsTags | TiffDataType[] | Метки GPS. |
+| gpsTags | TiffDataType[] | Теги GPS. |
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

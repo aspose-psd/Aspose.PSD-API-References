@@ -1,11 +1,12 @@
 ---
-title: Class ImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageException сорт. Исключение изображения.
+title: "Класс ImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.ImageException class. Исключение изображения"
 type: docs
 weight: 500
 url: /ru/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
 Исключение изображения.
@@ -18,12 +19,12 @@ public class ImageException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | Инициализирует новый экземпляр`ImageException` класс. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`ImageException` класс. |
+| [ImageException](imageexception/#constructor)(string) | Инициализирует новый экземпляр класса `ImageException`. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `ImageException`. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

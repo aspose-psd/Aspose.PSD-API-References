@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Brightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: DeconvolutionFilterOptions свойство. Получает или устанавливает яркость. рекомендуемый диапазон 115 значение по умолчанию  115
+title: "DeconvolutionFilterOptions.Brightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DeconvolutionFilterOptions. Получает или задает яркость. рекомендуемый диапазон 1 – 1.5 значение по умолчанию 1.15"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Brightness property
 
-Получает или устанавливает яркость. рекомендуемый диапазон 1–1,5 значение по умолчанию = 1,15
+Получает или задаёт яркость. рекомендуемый диапазон 1‑1,5, значение по умолчанию = 1,15
 
 ```csharp
 public double Brightness { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Яркость.
 
-### Смотрите также
+### См. также
 
 * class [DeconvolutionFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

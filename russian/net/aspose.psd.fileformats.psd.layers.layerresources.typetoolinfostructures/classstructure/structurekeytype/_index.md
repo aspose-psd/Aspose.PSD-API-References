@@ -1,23 +1,24 @@
 ---
-title: ClassStructure.StructureKeyType
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassStructure поле. Идентифицирует ключ структуры.
+title: "ClassStructure.StructureKeyType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ClassStructure. Идентифицирует ключ структуры"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeytype/
 ---
+{{< psd/tize >}}
 ## ClassStructure.StructureKeyType field
 
-Идентифицирует ключ структуры.
+Определяет ключ структуры.
 
 ```csharp
 public const int StructureKeyType;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

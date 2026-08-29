@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.BlwhResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlwhResource строитель. Конструктор по умолчанию.
+title: "BlwhResource.BlwhResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор BlwhResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhresource/
 ---
+{{< psd/tize >}}
 ## BlwhResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhr
 public BlwhResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlwhResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

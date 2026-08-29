@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает параметр хранения альфаканала. Варианты кромеUnspecified используются когда их более 3SamplesPerPixel определено.
+title: "TiffOptions.AlphaStorage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает параметр хранения альфа-канала. Параметры, отличные от Unspecified, используются, когда определено более 3 SamplesPerPixel."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-Получает или задает параметр хранения альфа-канала. Варианты кромеUnspecified используются, когда их более 3[`SamplesPerPixel`](../samplesperpixel/) определено.
+Получает или задает параметр хранения альфа-канала. Параметры, отличные от Unspecified, используются, когда определено более 3 [`SamplesPerPixel`](../samplesperpixel/).
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Опция хранения альфа-версии.
+Параметр хранения альфа-канала.
 
-### Смотрите также
+### См. также
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит объекты формата файла PSD содержащиеся в слоях.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит сущности формата файлов PSD, содержащиеся в слоях."
 type: docs
-weight: 320
+weight: 340
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-Пространство имен содержит объекты формата файла PSD, содержащиеся в слоях.
+{{< psd/tize >}}
+Пространство имён содержит сущности формата файлов PSD, содержащиеся в слоях.
 
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | Интерфейс для конкретного средства визуализации интеллектуальных фильтров. |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | Интерфейс для конкретного рендерера умного фильтра. |
 
 

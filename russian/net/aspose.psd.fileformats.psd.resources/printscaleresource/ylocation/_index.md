@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: Справочник по Aspose.PSD для .NET API
-description: PrintScaleResource свойство. Получает или задает местоположение y.
+title: "PrintScaleResource.YLocation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PrintScaleResource свойство. Получает или задает расположение по оси y"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
-Получает или задает местоположение y.
+Получает или задает положение по оси Y.
 
 ```csharp
 public float YLocation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение Y.
+Расположение по оси y.
 
-### Смотрите также
+### См. также
 
 * class [PrintScaleResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

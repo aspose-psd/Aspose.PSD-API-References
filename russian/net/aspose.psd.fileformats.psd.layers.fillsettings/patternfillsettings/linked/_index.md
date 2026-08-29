@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или задает значение указывающее является ли этоPatternFillSettingsсвязан.
+title: "PatternFillSettings.Linked"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает значение, указывающее, связан ли этот PatternFillSettings"
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Получает или задает значение, указывающее, является ли это[`PatternFillSettings`](../)связан.
+Получает или задает значение, указывающее, связан ли этот [`PatternFillSettings`](../).
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если связаны; в противном случае,`ЛОЖЬ` .
+`true`, если связан; иначе `false`.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

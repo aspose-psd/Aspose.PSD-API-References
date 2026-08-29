@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.PrimaryChromaticities
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает цветность трех основных цветов изображения.
+title: "JpegExifData.PrimaryChromaticities"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает хроматичность трех основных цветов изображения"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PrimaryChromaticities property
 
-Получает или задает цветность трех основных цветов изображения.
+Получает или задает хроматичность трех основных цветов изображения.
 
 ```csharp
 public TiffRational[] PrimaryChromaticities { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цветность трех основных цветов изображения.
+Хроматичность трех основных цветов изображения.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

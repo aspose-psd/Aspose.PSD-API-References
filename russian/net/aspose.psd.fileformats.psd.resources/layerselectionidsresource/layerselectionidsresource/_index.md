@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerSelectionIdsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSelectionIdsResource строитель. Конструктор по умолчанию.
+title: "LayerSelectionIdsResource.LayerSelectionIdsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LayerSelectionIdsResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerselectionidsresource/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/laye
 public LayerSelectionIdsResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerSelectionIdsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

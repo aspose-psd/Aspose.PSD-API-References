@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.RegionExtensions сорт. Содержит методы расширения дляRegion класс.
+title: "Класс RegionExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.RegionExtensions. Содержит методы расширения для класса Region"
 type: docs
-weight: 1170
+weight: 1180
 url: /ru/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-Содержит методы расширения для[`Region`](../../aspose.psd/region/) класс.
+Содержит методы расширения для класса [`Region`](../../aspose.psd/region/).
 
 ```csharp
 public static class RegionExtensions
@@ -18,11 +19,11 @@ public static class RegionExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Преобразует[`Region`](../../aspose.psd/region/) кRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Преобразует [`Region`](../../aspose.psd/region/) в Region. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

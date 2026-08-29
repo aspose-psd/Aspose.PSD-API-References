@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPKeywords
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает изображение темы используемое проводником Windows.
+title: "TiffOptions.XPKeywords"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает изображение‑объект, используемое Windows Explorer"
 type: docs
-weight: 610
+weight: 620
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xpkeywords/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPKeywords property
 
-Получает или задает изображение темы, используемое проводником Windows.
+Получает или задает тему изображения, которая используется в Windows Explorer.
 
 ```csharp
 public string XPKeywords { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Изображение темы, используемое Проводником Windows.
+Тема изображения, используемая Windows Explorer.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

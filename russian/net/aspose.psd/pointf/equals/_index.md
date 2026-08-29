@@ -1,14 +1,15 @@
 ---
-title: PointF.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. Указывает является ли этоPointF содержит те же координаты что и указанныйObject .
+title: "PointF.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Определяет, содержит ли данный PointF те же координаты, что и указанный объект."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/pointf/equals/
 ---
+{{< psd/tize >}}
 ## PointF.Equals method
 
-Указывает, является ли это[`PointF`](../) содержит те же координаты, что и указанныйObject .
+Определяет, содержит ли данный [`PointF`](../) те же координаты, что и указанный объект.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object тестировать. |
+| obj | Object | Объект для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает true, если*obj* это[`PointF`](../) и имеет те же координаты, что и это[`Point`](../../point/).
+Этот метод возвращает true, если *obj* является [`PointF`](../) и имеет те же координаты, что и данный [`Point`](../../point/).
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

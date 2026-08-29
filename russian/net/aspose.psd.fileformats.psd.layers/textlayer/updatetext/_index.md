@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer метод. Обновляет текст.
+title: "TextLayer.UpdateText"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TextLayer. Обновляет текст"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Обновляет текст.
@@ -16,13 +17,13 @@ public void UpdateText(string text)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
+| текст | String | Значение текста. |
 
-### Смотрите также
+### См. также
 
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void UpdateText(string text, float fontSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
+| текст | String | Значение текста. |
 | fontSize | Single | Размер шрифта. |
 
-### Смотрите также
+### См. также
 
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -57,15 +58,15 @@ public void UpdateText(string text, Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
+| текст | String | Значение текста. |
 | color | Color | Значение цвета. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -79,16 +80,16 @@ public void UpdateText(string text, float fontSize, Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
+| текст | String | Значение текста. |
 | fontSize | Single | Размер шрифта. |
 | color | Color | Значение цвета. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -102,16 +103,16 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
-| leftTopCoordinate | Point | Левая верхняя координата. |
+| текст | String | Значение текста. |
+| leftTopCoordinate | Point | Координата левого верхнего угла. |
 | fontSize | Single | Размер шрифта. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -125,17 +126,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
-| leftTopCoordinate | Point | Левая верхняя координата. |
+| текст | String | Значение текста. |
+| leftTopCoordinate | Point | Координата левого верхнего угла. |
 | color | Color | Значение цвета. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -149,15 +150,15 @@ public void UpdateText(string text, Point leftTopCoordinate)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
-| leftTopCoordinate | Point | Левая верхняя координата. |
+| текст | String | Значение текста. |
+| leftTopCoordinate | Point | Координата левого верхнего угла. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -171,17 +172,17 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текстовое значение. |
-| leftTopCoordinate | Point | Левая верхняя координата. |
+| текст | String | Значение текста. |
+| leftTopCoordinate | Point | Координата левого верхнего угла. |
 | fontSize | Single | Размер шрифта. |
 | color | Color | Значение цвета. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrushBase свойство. Получает или задает значение указывающее включена ли гаммакоррекция для этогоLinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LinearGradientBrushBase свойство. Получает или задает значение, указывающее, включена ли коррекция гаммы для этого LinearGradientBrushBase"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-Получает или задает значение, указывающее, включена ли гамма-коррекция для этого[`LinearGradientBrushBase`](../) .
+Получает или задает значение, указывающее, включена ли коррекция гаммы для этого [`LinearGradientBrushBase`](../).
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение истинно, если для этого включена гамма-коррекция.[`LinearGradientBrushBase`](../); в противном случае ложно.
+Значение равно true, если коррекция гаммы включена для этого [`LinearGradientBrushBase`](../); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

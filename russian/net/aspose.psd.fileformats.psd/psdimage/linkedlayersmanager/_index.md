@@ -1,24 +1,25 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает диспетчер связанных слоев.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Возвращает менеджер связанных слоёв"
 type: docs
 weight: 210
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
-Получает диспетчер связанных слоев.
+Получает менеджер связанных слоёв.
 
 ```csharp
 public LinkedLayersManager LinkedLayersManager { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

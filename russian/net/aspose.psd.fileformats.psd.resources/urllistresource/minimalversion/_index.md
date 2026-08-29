@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.MinimalVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: UrlListResource свойство. Получает минимальную требуемую версию PSD.
+title: "UrlListResource.MinimalVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UrlListResource. Возвращает минимальную требуемую версию PSD"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UrlListResource.MinimalVersion property
 
 Получает минимальную требуемую версию PSD.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/minimalversion
 public override int MinimalVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Минимальная версия PSD.
 
-### Смотрите также
+### См. также
 
 * class [UrlListResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

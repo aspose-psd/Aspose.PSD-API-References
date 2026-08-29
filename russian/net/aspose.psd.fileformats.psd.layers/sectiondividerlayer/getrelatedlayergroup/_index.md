@@ -1,14 +1,15 @@
 ---
-title: SectionDividerLayer.GetRelatedLayerGroup
-second_title: Справочник по Aspose.PSD для .NET API
-description: SectionDividerLayer метод. ПолучаетLayerGroup это связано с этимSectionDividerLayer экземпляр.
+title: "SectionDividerLayer.GetRelatedLayerGroup"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SectionDividerLayer. Получает LayerGroup, связанный с этим экземпляром SectionDividerLayer"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/getrelatedlayergroup/
 ---
+{{< psd/tize >}}
 ## SectionDividerLayer.GetRelatedLayerGroup method
 
-Получает[`LayerGroup`](../../layergroup/) это связано с этим[`SectionDividerLayer`](../) экземпляр.
+Получает [`LayerGroup`](../../layergroup/), связанный с этим экземпляром [`SectionDividerLayer`](../).
 
 ```csharp
 public LayerGroup GetRelatedLayerGroup()
@@ -16,25 +17,25 @@ public LayerGroup GetRelatedLayerGroup()
 
 ### Возвращаемое значение
 
-[`LayerGroup`](../../layergroup/) пример.
+Экземпляр [`LayerGroup`](../../layergroup/).
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует слои SectionDividerLayer и то, как получить связанную с ним LayerGroup.
+Следующий код демонстрирует слои SectionDividerLayer и как получить связанный с ними LayerGroup.
 
 ```csharp
 [C#]
 
-// Следующий код демонстрирует слои SectionDividerLayer и как получить связанную с ним LayerGroup.
+// Следующий код демонстрирует слои SectionDividerLayer и как получить связанный с ними LayerGroup.
 
-// Иерархия слоев
-// [0]: '</Группа слоев>' SectionDividerLayer для группы 1
-// [1]: 'Слой 1' Обычный слой
-// [2]: '</Группа слоев>' SectionDividerLayer для группы 2
-// [3]: '</Группа слоев>' SectionDividerLayer для группы 3
-// [4]: 'Группа 3' Групповой слой
-// [5]: 'Группа 2' Групповой слой
-// [6]: 'Группа 1' Групповой Слой
+// Иерархия слоёв
+//    [0]: '</Layer group>' SectionDividerLayer для группы 1
+//    [1]: 'Layer 1' Обычный слой
+//    [2]: '</Layer group>' SectionDividerLayer для группы 2
+//    [3]: '</Layer group>' SectionDividerLayer для группы 3
+//    [4]: 'Group 3' GroupLayer
+//    [5]: 'Group 2' GroupLayer
+//    [6]: 'Group 1' GroupLayer
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -46,38 +47,38 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 using (var image = new PsdImage(100, 100))
 {
-    // Создание иерархии слоев
-    // Добавляем LayerGroup «Группа 1»
+    // Создание иерархии слоёв
+    // Добавить LayerGroup 'Group 1'
     LayerGroup group1 = image.AddLayerGroup("Group 1", 0, true);
-    // Добавляем обычный слой
+    // Добавить обычный слой
     Layer layer1 = new Layer();
     layer1.DisplayName = "Layer 1";
     group1.AddLayer(layer1);
-    // Добавляем LayerGroup «Группа 2»
+    // Добавить LayerGroup 'Group 2'
     LayerGroup group2 = group1.AddLayerGroup("Group 2", 1);
-    // Добавляем LayerGroup «Группа 3»
+    // Добавить LayerGroup 'Group 3'
     LayerGroup group3 = group2.AddLayerGroup("Group 3", 0);
 
-    // Получает SectionDividerLayer
+    // Получает свойства SectionDividerLayer
     SectionDividerLayer divider1 = (SectionDividerLayer)image.Layers[0];
     SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[2];
     SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[3];
 
     // используя метод SectionDividerLayer.GetRelatedLayerGroup(), получает связанный экземпляр LayerGroup.
-    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // та самая LayerGroup
-    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // та самая LayerGroup
-    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // та самая LayerGroup
+    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
 
     LayerGroup folder1 = divider1.GetRelatedLayerGroup();
-    AssertAreEqual(5, folder1.Layers.Length); // «Группа 1» содержит 5 слоев
+    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' contains 5 layers
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerGroup](../../layergroup/)
 * class [SectionDividerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

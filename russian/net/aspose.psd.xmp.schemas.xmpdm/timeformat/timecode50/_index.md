@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode50
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeFormat свойство. Получает временной код50.
+title: "TimeFormat.Timecode50"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TimeFormat. Получает timecode50"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode50/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode50 property
 
-Получает временной код50.
+Получает timecode50.
 
 ```csharp
 public static TimeFormat Timecode50 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Временной код50.
+timecode50.
 
-### Смотрите также
+### См. также
 
 * class [TimeFormat](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

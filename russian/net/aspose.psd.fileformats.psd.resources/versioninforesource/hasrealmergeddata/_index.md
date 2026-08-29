@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Справочник по Aspose.PSD для .NET API
-description: VersionInfoResource свойство. Получает или задает значение указывающее имеет ли этот экземпляр реальные объединенные данные.
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VersionInfoResource свойство. Получает или задает значение, указывающее, содержит ли этот экземпляр реальные объединённые данные"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
-Получает или задает значение, указывающее, имеет ли этот экземпляр реальные объединенные данные.
+Получает или задает значение, указывающее, содержит ли этот экземпляр реальные объединённые данные.
 
 ```csharp
 public bool HasRealMergedData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` есть ли у этого экземпляра реальные объединенные данные; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр содержит реальные объединённые данные; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [VersionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Справочник по Aspose.PSD для .NET API
-description: Metered строитель. Конструктор по умолчанию.
+title: "Metered.Metered"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Metered. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/metered/metered/
 ---
+{{< psd/tize >}}
 ## Metered constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/metered/metered/
 public Metered()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.PSD](../../metered/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

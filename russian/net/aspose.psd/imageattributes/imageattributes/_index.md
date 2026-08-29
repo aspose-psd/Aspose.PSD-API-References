@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes строитель. Конструктор по умолчанию.
+title: "ImageAttributes.ImageAttributes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ImageAttributes. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/imageattributes/imageattributes/
 public ImageAttributes()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

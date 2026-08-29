@@ -1,30 +1,31 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdOptions строитель. Инициализирует новый экземплярPsdOptions класс.
+title: "PsdOptions.PsdOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PsdOptions. Инициализирует новый экземпляр класса PsdOptions."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions() {#constructor}
 
-Инициализирует новый экземпляр[`PsdOptions`](../) класс.
+Инициализирует новый экземпляр класса [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-Инициализирует новый экземпляр[`PsdOptions`](../) класс.
+Инициализирует новый экземпляр класса [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions(PsdOptions options)
@@ -32,19 +33,19 @@ public PsdOptions(PsdOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | PsdOptions | Варианты. |
+| опции | PsdOptions | Опции. |
 
-### Смотрите также
+### См. также
 
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-Инициализирует новый экземпляр[`PsdOptions`](../) класс.
+Инициализирует новый экземпляр класса [`PsdOptions`](../).
 
 ```csharp
 public PsdOptions(PsdImage image)
@@ -52,13 +53,13 @@ public PsdOptions(PsdImage image)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | PsdImage | Изображение. |
+| изображение | PsdImage | Изображение. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

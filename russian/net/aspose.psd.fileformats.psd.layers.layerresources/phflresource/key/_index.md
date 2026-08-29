@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResource свойство. Получает ключ ресурса слоя.
+title: "PhflResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResource. Получает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/key/
 ---
+{{< psd/tize >}}
 ## PhflResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhflResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry метод. Создает первый найденный загрузчик подходящий для указанногоstream и необязательноloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageLoadersRegistry. Создает первый найденный загрузчик, подходящий для указанного stream и, при необходимости, loadOptions"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-Создает первый найденный загрузчик, подходящий для указанного*stream* и необязательно*loadOptions* .
+Создаёт первый найденный загрузчик, подходящий для указанного *stream* и, при необходимости, *loadOptions*.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
@@ -17,22 +18,22 @@ public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток. |
-| loadOptions | LoadOptions | Варианты загрузки. |
+| loadOptions | LoadOptions | Параметры загрузки. |
 
 ### Возвращаемое значение
 
-Загрузчик, поддерживающий указанный*stream* и*loadOptions* или null, если такой загрузчик не найден.
+Загрузчик, который поддерживает указанные *stream* и *loadOptions*, или null, если такой загрузчик не найден.
 
-### Примечания
+## Примечания
 
-Первый загрузчик будет последним зарегистрированным.
+Первый загрузчик на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

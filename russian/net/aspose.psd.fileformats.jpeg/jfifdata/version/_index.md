@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: JFIFData свойство. Получает или задает версию.
+title: "JFIFData.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JFIFData. Получает или задаёт версию"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/version/
 ---
+{{< psd/tize >}}
 ## JFIFData.Version property
 
 Получает или задает версию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/version/
 public short Version { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JFIFData](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

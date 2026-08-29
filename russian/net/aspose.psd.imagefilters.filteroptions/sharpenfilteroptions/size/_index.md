@@ -1,11 +1,12 @@
 ---
-title: SharpenFilterOptions.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: SharpenFilterOptions свойство. Получает или задает размер.
+title: "SharpenFilterOptions.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "SharpenFilterOptions свойство. Получает или задает размер"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Size property
 
 Получает или задает размер.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/
 public int Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер.
 
-### Смотрите также
+### См. также
 
 * class [SharpenFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

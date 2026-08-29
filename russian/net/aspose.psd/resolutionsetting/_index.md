@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ResolutionSetting сорт. Настройка разрешения для параметров сохранения изображения.
+title: "Класс ResolutionSetting"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ResolutionSetting. Настройка разрешения для параметров сохранения изображения"
 type: docs
-weight: 5380
+weight: 5880
 url: /ru/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 Настройка разрешения для параметров сохранения изображения.
@@ -18,19 +19,19 @@ public class ResolutionSetting
 
 | Имя | Описание |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Инициализирует новый экземпляр`ResolutionSetting` класс. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Инициализирует новый экземпляр`ResolutionSetting` класс. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Инициализирует новый экземпляр класса `ResolutionSetting`. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Инициализирует новый экземпляр класса `ResolutionSetting`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Получает или задает горизонтальное разрешение. |
 | [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Получает или задает вертикальное разрешение. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

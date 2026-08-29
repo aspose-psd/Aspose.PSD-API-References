@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает пороговое значение.
+title: "TiffOptions.Threshholding"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает пороговое значение"
 type: docs
-weight: 510
+weight: 520
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
 Получает или задает пороговое значение.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Порог.
+Пороговое значение.
 
-### Смотрите также
+### См. также
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

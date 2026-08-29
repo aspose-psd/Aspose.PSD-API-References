@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: Справочник по Aspose.PSD для .NET API
-description: UrlListResource свойство. Получает или устанавливает идентификаторы.
+title: "UrlListResource.Ids"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UrlListResource. Получает или задает идентификаторы"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-Получает или устанавливает идентификаторы.
+Получает или задает идентификаторы.
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификаторы.
 
-### Смотрите также
+### См. также
 
 * class [UrlListResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

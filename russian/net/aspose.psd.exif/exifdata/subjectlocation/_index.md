@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает местоположение субъекта.
+title: "ExifData.SubjectLocation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает расположение субъекта"
 type: docs
 weight: 1020
 url: /ru/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
-Получает или задает местоположение субъекта.
+Получает или задает местоположение объекта.
 
 ```csharp
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение объекта.
+Расположение субъекта.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

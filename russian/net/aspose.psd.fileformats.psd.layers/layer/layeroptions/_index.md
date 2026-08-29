@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает параметры слоя.
+title: "Layer.LayerOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает параметры слоя"
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
 Получает параметры слоя.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 public PsdOptions LayerOptions { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Параметры слоя.
 
-### Смотрите также
+### См. также
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

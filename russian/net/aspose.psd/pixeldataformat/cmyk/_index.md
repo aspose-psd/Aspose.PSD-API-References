@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. ПолучаетPixelDataFormat определяется для 32 бит на пиксель с 8 битами для каждого из голубого пурпурного желтого и черного.
+title: "PixelDataFormat.Cmyk"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat свойство. Получает PixelDataFormat, определенный для 32 бит на пиксель с 8 битами для каждого из циан, магента, желтого и черного"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Получает[`PixelDataFormat`](../) определяется для 32 бит на пиксель с 8 битами для каждого из голубого, пурпурного, желтого и черного.
+Получает [`PixelDataFormat`](../), определенный для 32 бит на пиксель с 8 битами для каждого из циан, магента, желтого и черного.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`PixelDataFormat`](../) определяется для 32 бит на пиксель с 8 битами для каждого из голубого, пурпурного, желтого и черного.
+Этот [`PixelDataFormat`](../) определенный для 32 бит на пиксель с 8 битами для каждого из циан, магента, желтого и черного.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

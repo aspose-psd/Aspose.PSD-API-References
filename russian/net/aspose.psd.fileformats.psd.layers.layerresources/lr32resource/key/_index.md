@@ -1,11 +1,12 @@
 ---
-title: Lr32Resource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lr32Resource свойство. Получает ключ ресурса слоя.
+title: "Lr32Resource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Lr32Resource. Возвращает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lr32Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

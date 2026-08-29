@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Справочник по Aspose.PSD для .NET API
-description: License строитель. Инициализирует новый экземпляр этого класса.
+title: "License.License"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор License. Инициализирует новый экземпляр этого класса"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 Инициализирует новый экземпляр этого класса.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd/license/license/
 public License()
 ```
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем в встроенные ресурсы вызывающей сборки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Смотрите также
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.PSD](../../license/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions свойство. Получает или задает область экспорта.
+title: "MultiPageOptions.ExportArea"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MultiPageOptions. Получает или задает область экспорта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
 Получает или задает область экспорта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 public Rectangle ExportArea { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Область экспорта.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

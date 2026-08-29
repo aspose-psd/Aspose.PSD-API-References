@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageResizeSettings свойство. Получает или задает тип фильтра.
+title: "ImageResizeSettings.FilterType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageResizeSettings. Получает или задает тип фильтра"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
 Получает или задает тип фильтра.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imageresizesettings/filtertype/
 public ImageFilterType FilterType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип фильтра.
 
-### Смотрите также
+### См. также
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* пространство имен [Aspose.PSD](../../imageresizesettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

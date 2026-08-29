@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Denominator
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffSRational свойство. Получает знаменатель.
+title: "TiffSRational.Denominator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffSRational. Возвращает знаменатель"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Denominator property
 
-Получает знаменатель.
+Возвращает знаменатель.
 
 ```csharp
 public int Denominator { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Знаменатель.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Enum CompositingQuality
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CompositingQuality перечисление. Указывает уровень качества для использования во время композитинга.
+title: "Перечисление CompositingQuality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.CompositingQuality. Указывает уровень качества, используемый при композитинге"
 type: docs
 weight: 420
 url: /ru/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-Указывает уровень качества для использования во время композитинга.
+Указывает уровень качества, используемый при композитинге.
 
 ```csharp
 public enum CompositingQuality
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Invalid | `-1` | Недопустимое качество. |
 | Default | `0` | Качество по умолчанию. |
 | HighSpeed | `1` | Высокая скорость, низкое качество. |
-| HighQuality | `2` | Высококачественный низкоскоростной композитинг. |
-| GammaCorrected | `3` | Используется гамма-коррекция. |
-| AssumeLinear | `4` | Принять линейные значения. |
+| HighQuality | `2` | Композиция высокого качества, низкой скорости. |
+| GammaCorrected | `3` | Используется гамма‑коррекция. |
+| AssumeLinear | `4` | Предполагаются линейные значения. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

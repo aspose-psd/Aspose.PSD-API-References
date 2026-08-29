@@ -1,14 +1,15 @@
 ---
-title: Region.IsEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region метод. Проверяет является ли этоRegion имеет пустую внутреннюю часть на указанной поверхности рисования.
+title: "Region.IsEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Region. Проверяет, имеет ли данный Region пустой внутренний объём на указанной поверхности рисования"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Проверяет, является ли это[`Region`](../) имеет пустую внутреннюю часть на указанной поверхности рисования.
+Проверяет, имеет ли данный [`Region`](../) пустой внутренний объём на указанной поверхности рисования.
 
 ```csharp
 public bool IsEmpty(Graphics g)
@@ -16,23 +17,23 @@ public bool IsEmpty(Graphics g)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| g | Graphics | А[`Graphics`](../../graphics/) который представляет собой поверхность для рисования. |
+| g | Graphics | Объект [`Graphics`](../../graphics/) представляет поверхность рисования. |
 
 ### Возвращаемое значение
 
-true, если внутренняя часть этого[`Region`](../) пуст, когда преобразование, связанное с*g* применены; в противном случае false.
+true, если внутренность данного [`Region`](../) пуста при применении преобразования, связанного с *g*; иначе — false.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *g* равно нулю. |
+| ArgumentNullException | *g* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

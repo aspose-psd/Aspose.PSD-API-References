@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Keys
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage свойство. Получает ключи в пакете XMP.
+title: "XmpPackage.Keys"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpPackage. Получает ключи в пакете XMP"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
 Получает ключи в пакете XMP.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp/xmppackage/keys/
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ключи в пакете XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

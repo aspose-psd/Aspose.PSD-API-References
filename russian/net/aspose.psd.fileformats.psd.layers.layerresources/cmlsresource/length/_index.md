@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmlsResource свойство. Получает длину ресурса слоя в байтах.
+title: "CmlsResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmlsResource. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CmlsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

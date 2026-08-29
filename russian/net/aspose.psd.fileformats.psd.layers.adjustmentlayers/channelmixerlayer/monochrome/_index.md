@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: Справочник по Aspose.PSD для .NET API
-description: ChannelMixerLayer свойство. Получает или задает значение указывающее является ли этоChannelMixerLayer монохромный.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ChannelMixerLayer. Получает или задает значение, указывающее, является ли этот ChannelMixerLayer монохромным"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-Получает или задает значение, указывающее, является ли это[`ChannelMixerLayer`](../) монохромный.
+Получает или задает значение, указывающее, является ли этот [`ChannelMixerLayer`](../) монохромным.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если монохромный; в противном случае,`ЛОЖЬ` .
+`true` если монохромный; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [ChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

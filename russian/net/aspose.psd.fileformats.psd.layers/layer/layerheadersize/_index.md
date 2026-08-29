@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer поле. Размер заголовка слоя.
+title: "Layer.LayerHeaderSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Layer. Размер заголовка слоя"
 type: docs
-weight: 400
+weight: 420
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
 Размер заголовка слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 public const int LayerHeaderSize;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

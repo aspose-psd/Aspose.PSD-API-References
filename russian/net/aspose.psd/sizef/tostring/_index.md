@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF метод. Создает удобочитаемую строку представляющую этотSizeF .
+title: "SizeF.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SizeF. Создаёт человекочитаемую строку, представляющую этот SizeF"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Создает удобочитаемую строку, представляющую этот[`SizeF`](../) .
+Создает человекочитаемую строку, представляющую этот [`SizeF`](../).
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, представляющая это[`SizeF`](../).
+Строка, представляющая этот [`SizeF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

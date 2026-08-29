@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.VersionInfoResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: VersionInfoResource строитель. Конструктор по умолчанию.
+title: "VersionInfoResource.VersionInfoResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VersionInfoResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/versioninforesource/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/versioninf
 public VersionInfoResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [VersionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

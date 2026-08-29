@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.WarpClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource свойство. Получает или задает идентификатор класса.
+title: "TypeToolInfo6Resource.WarpClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfo6Resource. Получает или задает идентификатор класса"
 type: docs
-weight: 170
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassid/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassID property
 
 Получает или задает идентификатор класса.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resou
 public ClassID WarpClassID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

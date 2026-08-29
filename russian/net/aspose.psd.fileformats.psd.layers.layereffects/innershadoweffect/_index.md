@@ -1,20 +1,21 @@
 ---
-title: Class InnerShadowEffect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect сорт. Эффект слоя внутренней тени
+title: "Класс InnerShadowEffect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect класс. Эффект внутренней тени слоя."
 type: docs
-weight: 2160
+weight: 2350
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-Эффект слоя внутренней тени
+Эффект внутренней тени слоя.
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -22,17 +23,23 @@ public class InnerShadowEffect : IShadowEffect
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Получает или задает режим наложения. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Получает или задает цвет. |
 | [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Получает или задает расстояние в пикселях. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Получает тип эффекта |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, виден ли этот экземпляр. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Получает тип эффекта. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, видим ли этот экземпляр. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Получает или задает шум. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Получает или задает прозрачность. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Получает или задает непрозрачность. |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Получает или задает значение размытия в пикселях. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Получает или задает разброс (дроссель) в процентах. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Получает или задает значение, указывающее, следует ли [использовать этот угол во всех эффектах слоя]. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Получает или задает растяжение (зажим) в процентах. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Получает или задает значение, указывающее, следует ли [use this angle in all of the layer effects]. |
 
-### Примеры
+## Методы
 
-Следующий код демонстрирует, как изменить настройки эффекта слоя внутренней тени.
+| Имя | Описание |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Вычисляет и получает границы пикселей эффекта на основе границ пикселей входного слоя. |
+
+## Примеры
+
+Следующий код демонстрирует, как изменить настройки эффекта внутренней тени слоя.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ public class InnerShadowEffect : IShadowEffect
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -61,10 +68,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IShadowEffect](../ishadoweffect/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

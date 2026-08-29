@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolLineInfo свойство. Получает или задает char.
+title: "TypeToolLineInfo.Char"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolLineInfo. Получает или задает символ"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-Получает или задает char.
+Получает или задает символ.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Символ.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolLineInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorImage.WidthF
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorImage свойство. Получает ширину объекта в дюймах.
+title: "VectorImage.WidthF"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorImage. Возвращает ширину объекта в дюймах"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
 Получает ширину объекта в дюймах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/vectorimage/widthf/
 public virtual float WidthF { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ширина объекта в дюймах.
+Ширина объекта, в дюймах.
 
-### Смотрите также
+### См. также
 
 * class [VectorImage](../)
-* пространство имен [Aspose.PSD](../../vectorimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

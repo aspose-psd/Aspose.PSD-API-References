@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит вспомогательные классы и методы связанные с EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит вспомогательные классы и методы, связанные с EXIF"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd.exif/
 ---
-Пространство имен содержит вспомогательные классы и методы, связанные с EXIF.
+{{< psd/tize >}}
+Пространство имён содержит вспомогательные классы и методы, связанные с EXIF.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [ExifData](./exifdata/) | Контейнер данных EXIF. |
-| [JpegExifData](./jpegexifdata/) | Контейнер данных EXIF для файлов JPEG. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | Представляет общий класс для работы с типами данных tiff. |
-## перечисление
+| [JpegExifData](./jpegexifdata/) | Контейнер данных EXIF для JPEG‑файлов. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | Представляет общий класс для работы с типами данных TIFF. |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
 | [ExifProperties](./exifproperties/) | Список тегов Exif |
 

@@ -1,11 +1,12 @@
 ---
-title: Class WorkingPathResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource сорт. Ресурс рабочего пути.
+title: "Класс WorkingPathResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Resources.WorkingPathResource. Ресурс рабочего пути"
 type: docs
-weight: 3980
+weight: 4450
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource class
 
 Ресурс рабочего пути.
@@ -18,9 +19,9 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 
 | Имя | Описание |
 | --- | --- |
-| [WorkingPathResource](workingpathresource/)(byte[]) | Инициализирует новый экземпляр`WorkingPathResource` класс. |
+| [WorkingPathResource](workingpathresource/)(byte[]) | Инициализирует новый экземпляр класса `WorkingPathResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,22 +31,22 @@ public sealed class WorkingPathResource : ResourceBlock, IVectorPathData
 | [IsInverted](../../aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/) { get; set; } | Получает или задает значение, указывающее, инвертирован ли этот экземпляр. |
 | [IsNotLinked](../../aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/) { get; set; } | Получает или задает значение, указывающее, не связан ли этот экземпляр. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/) { get; } | Получает минимальную требуемую версию PSD. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Получает или задает имя ресурса. Строка Паскаля, дополненная, чтобы сделать размер четным (нулевое имя состоит из двух байтов 0). |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Получает или задает имя ресурса. Паскаль-строка, дополненная до чётного размера (пустое имя состоит из двух байтов 0). |
 | [Paths](../../aspose.psd.fileformats.psd.resources/workingpathresource/paths/) { get; set; } | Получает или задает записи пути. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Получает подпись ресурса. Всегда должно быть «8BIM». |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Получает размер блока ресурсов в байтах, включая его данные. |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Получает сигнатуру ресурса. Должна всегда быть '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Получает размер блока ресурса в байтах, включая его данные. |
 | [Version](../../aspose.psd.fileformats.psd.resources/workingpathresource/version/) { get; set; } | Получает или задает версию. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Сохраняет блок ресурсов в указанный поток. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Проверяет значения ресурсов. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Сохраняет блок ресурса в указанный поток. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Проверяет значения ресурса. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции обрезки.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Загружаем сохраненное изображение и проверяем изменения.
+// Загрузить сохранённое изображение и проверить изменения.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Поиск ресурса WorkingPathResource.
@@ -99,11 +100,11 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
 * interface [IVectorPathData](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

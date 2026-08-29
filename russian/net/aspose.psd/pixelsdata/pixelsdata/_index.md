@@ -1,32 +1,33 @@
 ---
-title: PixelsData.PixelsData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelsData строитель. Инициализирует новый экземплярPixelsData класс.
+title: "PixelsData.PixelsData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PixelsData. Инициализирует новый экземпляр класса PixelsData"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pixelsdata/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData() {#constructor}
 
-Инициализирует новый экземпляр[`PixelsData`](../) класс.
+Инициализирует новый экземпляр класса [`PixelsData`](../).
 
 ```csharp
 public PixelsData()
 ```
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
+Следующий код показывает, как создать пользовательский умный фильтр с пользовательским рендерером.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Инициализирует неподдерживаемый интеллектуальный фильтр «Кристаллизовать» во входном массиве
+    // Инициализирует неподдерживаемый умный фильтр 'Crystallize' в входном массиве
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -52,14 +53,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Применить фильтр к смарт-объекту
+        // Применить фильтр к SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Применяем фильтр к маске слоя
+        // Применить фильтр к маске слоя
         smartFilter.ApplyToMask(maskLayer);
 
-        //Применяем фильтр к слою
+        //Применить фильтр к слою
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -76,15 +77,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // получаем структуру фильтра
+        // получить структуру фильтра
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // получить значение размера кристаллизации
+        // получить значение размера Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -100,17 +101,17 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PixelsData](../)
-* пространство имен [Aspose.PSD](../../pixelsdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-Инициализирует новый экземпляр[`PixelsData`](../) класс.
+Инициализирует новый экземпляр класса [`PixelsData`](../).
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
@@ -118,22 +119,22 @@ public PixelsData(int[] pixels, Rectangle bounds)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pixels | Int32[] | Данные о пикселях. |
-| bounds | Rectangle | Пиксели ограничивают прямоугольник. |
+| пиксели | Int32[] | Данные пикселей. |
+| границы | Rectangle | Прямоугольник границ пикселей. |
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
+Следующий код показывает, как создать пользовательский умный фильтр с пользовательским рендерером.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Инициализирует неподдерживаемый интеллектуальный фильтр «Кристаллизовать» во входном массиве
+    // Инициализирует неподдерживаемый умный фильтр 'Crystallize' в входном массиве
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -159,14 +160,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Применить фильтр к смарт-объекту
+        // Применить фильтр к SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Применяем фильтр к маске слоя
+        // Применить фильтр к маске слоя
         smartFilter.ApplyToMask(maskLayer);
 
-        //Применяем фильтр к слою
+        //Применить фильтр к слою
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -183,15 +184,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // получаем структуру фильтра
+        // получить структуру фильтра
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // получить значение размера кристаллизации
+        // получить значение размера Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -207,11 +208,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* пространство имен [Aspose.PSD](../../pixelsdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

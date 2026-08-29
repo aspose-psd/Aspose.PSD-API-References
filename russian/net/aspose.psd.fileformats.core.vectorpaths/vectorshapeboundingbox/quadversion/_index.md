@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.QuadVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeBoundingBox свойство. Получает или задает четырехъядерную версию значения единицы измерения.
+title: "VectorShapeBoundingBox.QuadVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeBoundingBox. Получает или задает значение версии квадрата единицы"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.QuadVersion property
 
-Получает или задает четырехъядерную версию значения единицы измерения.
+Получает или задает версию квадрата единичного значения.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Четырехъядерная версия.
+Версия квадрата.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeBoundingBox](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

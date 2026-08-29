@@ -1,14 +1,15 @@
 ---
-title: Color.ToKnownColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color метод. ПолучаетKnownColor значение этогоColorструктура.
+title: "Color.ToKnownColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Color. Возвращает значение KnownColor этой структуры Color"
 type: docs
 weight: 1600
 url: /ru/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-Получает[`KnownColor`](../../knowncolor/) значение этого[`Color`](../)структура.
+Возвращает значение [`KnownColor`](../../knowncolor/) этой структуры [`Color`](../).
 
 ```csharp
 public KnownColor ToKnownColor()
@@ -16,13 +17,13 @@ public KnownColor ToKnownColor()
 
 ### Возвращаемое значение
 
-Элемент[`KnownColor`](../../knowncolor/)перечисление, если[`Color`](../) создается из предопределенного цвета с помощью[`FromName`](../fromname/) метод или[`FromKnownColor`](../fromknowncolor/) метод; иначе 0.
+Элемент перечисления [`KnownColor`](../../knowncolor/), если [`Color`](../) создан из предопределённого цвета с помощью метода [`FromName`](../fromname/) или метода [`FromKnownColor`](../fromknowncolor/); в противном случае — 0.
 
-### Смотрите также
+### См. также
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

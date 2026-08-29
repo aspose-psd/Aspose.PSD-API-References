@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает дополнительные категории.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PhotoshopPackage метод. Устанавливает дополнительные категории"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
 Устанавливает дополнительные категории.
@@ -18,10 +19,10 @@ public void SetSupplementalCategories(string[] supplementalCategories)
 | --- | --- | --- |
 | supplementalCategories | String[] | Дополнительные категории. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

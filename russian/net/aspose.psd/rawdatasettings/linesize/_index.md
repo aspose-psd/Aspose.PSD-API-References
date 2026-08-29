@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.LineSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings свойство. Получает или задает размер строки пикселей в байтах для обработки необработанных данных
+title: "RawDataSettings.LineSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RawDataSettings. Получает или задает размер строки пикселей в байтах для обработки необработанных данных"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
 Получает или задает размер строки пикселей в байтах для обработки необработанных данных
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/rawdatasettings/linesize/
 public int LineSize { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер строки пикселей в байтах для обработки необработанных данных
 
-### Смотрите также
+### См. также
 
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

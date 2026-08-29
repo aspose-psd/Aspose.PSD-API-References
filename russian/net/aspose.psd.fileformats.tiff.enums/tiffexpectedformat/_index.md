@@ -1,11 +1,12 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat перечисление. Ожидаемый формат файла tiff.
+title: "Перечисление TiffExpectedFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat. Ожидаемый формат файла TIFF"
 type: docs
-weight: 4070
+weight: 4540
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
 Ожидаемый формат файла tiff.
@@ -14,30 +15,30 @@ url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 public enum TiffExpectedFormat
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Default | `0` | Формат tiff по умолчанию не имеет сжатия, только формат B/W 1 бит на пиксель. Вы также можете использовать этот параметр для получения пустых опций и инициализации с вашими тегами или другими настройками. |
-| TiffLzwBw | `1` | TIFF со сжатием LZW и форматом только Ч/Б 1 бит на пиксель. |
-| TiffLzwRgb | `2` | TIFF со сжатием LZW и цветовым форматом RGB. |
-| TiffLzwRgba | `3` | TIFF со сжатием LZW и RGBA с форматом цвета прозрачности. |
-| TiffLzwCmyk | `4` | Размолвка LZW cmyk |
-| TiffCcittFax3 | `5` | Кодировка tiff CCITT FAX3. Ч/Б 1 бит на пиксель поддерживается только для этой схемы. |
-| TiffCcittFax4 | `6` | Кодировка tiff CCITT FAX4. Ч/Б 1 бит на пиксель поддерживается только для этой схемы. |
-| TiffDeflateBw | `7` | TIFF со сжатием deflate и форматом только B/W 1 бит на пиксель. |
-| TiffDeflateRgb | `8` | TIFF с дефлятным сжатием и цветовым форматом RGB. |
-| TiffDeflateRgba | `9` | TIFF с дефлятным сжатием и цветовым форматом RGBA. |
-| TiffCcitRle | `10` | Кодировка tiff CCITT RLE. Ч/Б 1 бит на пиксель поддерживается только для этой схемы. |
-| TiffJpegRgb | `11` | TIFF со сжатием Jpeg и цветовым форматом RGB. |
-| TiffJpegYCbCr | `12` | TIFF со сжатием Jpeg и цветовым форматом YCBCR. |
-| TiffNoCompressionBw | `13` | Только несжатый формат TIFF и B/W 1 бит на пиксель. |
-| TiffNoCompressionRgb | `14` | Несжатый TIFF и цветовой формат RGB. |
-| TiffNoCompressionRgba | `15` | Несжатый формат TIFF и RGBA с прозрачным цветовым форматом. |
+| Default | `0` | Формат TIFF по умолчанию — без сжатия, только черно‑белый формат 1 бит на пиксель. Вы также можете использовать эту настройку, чтобы получить пустые параметры и инициализировать их вашими тегами или другими настройками. |
+| TiffLzwBw | `1` | TIFF с компрессией LZW и только черно‑белым форматом 1 бит на пиксель. |
+| TiffLzwRgb | `2` | TIFF с компрессией LZW и цветовым форматом RGB. |
+| TiffLzwRgba | `3` | TIFF с компрессией LZW и цветовым форматом RGBA с прозрачностью. |
+| TiffLzwCmyk | `4` | TIFF LZW CMYK |
+| TiffCcittFax3 | `5` | TIFF с кодированием CCITT FAX3. Поддерживается только черно‑белый формат 1 бит на пиксель для этой схемы. |
+| TiffCcittFax4 | `6` | TIFF с кодированием CCITT FAX4. Поддерживается только черно‑белый формат 1 бит на пиксель для этой схемы. |
+| TiffDeflateBw | `7` | TIFF с компрессией Deflate и только черно‑белым форматом 1 бит на пиксель. |
+| TiffDeflateRgb | `8` | tiff с дефлятным сжатием и цветовым форматом RGB. |
+| TiffDeflateRgba | `9` | tiff с дефлятным сжатием и цветовым форматом RGBA. |
+| TiffCcitRle | `10` | tiff с кодированием CCITT RLE. Чёрно‑белый 1 бит на пиксель поддерживается только для этой схемы. |
+| TiffJpegRgb | `11` | tiff с Jpeg‑сжатием и цветовым форматом RGB. |
+| TiffJpegYCbCr | `12` | tiff с Jpeg‑сжатием и цветовым форматом YCBCR. |
+| TiffNoCompressionBw | `13` | Несжатый tiff и только формат чёрно‑белый 1 бит на пиксель. |
+| TiffNoCompressionRgb | `14` | Несжатый tiff и цветовой формат RGB. |
+| TiffNoCompressionRgba | `15` | Несжатый tiff и цветовой формат RGBA с прозрачностью. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Справочник по Aspose.PSD для .NET API
-description: FillLayer свойство. Получает тип заливки.
+title: "FillLayer.FillType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FillLayer. Получает тип заливки."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-Получает тип заливки.
+Возвращает тип заливки.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип заливки.
 
-### Смотрите также
+### См. также
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

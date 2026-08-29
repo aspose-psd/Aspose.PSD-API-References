@@ -1,11 +1,12 @@
 ---
-title: ColorFillSettings.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorFillSettings свойство. Получает или задает цвет.
+title: "ColorFillSettings.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorFillSettings. Получает или задает цвет"
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.Color property
 
 Получает или задает цвет.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/co
 public Color Color { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

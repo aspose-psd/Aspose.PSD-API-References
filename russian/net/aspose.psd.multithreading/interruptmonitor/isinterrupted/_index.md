@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.IsInterrupted
-second_title: Справочник по Aspose.PSD для .NET API
-description: InterruptMonitor свойство. Получает значение указывающее следует ли прерывать операции.
+title: "InterruptMonitor.IsInterrupted"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InterruptMonitor. Получает значение, указывающее, следует ли прерывать операции"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/isinterrupted/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.IsInterrupted property
 
 Получает значение, указывающее, следует ли прерывать операции.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.multithreading/interruptmonitor/isinterrupted/
 public bool IsInterrupted { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [InterruptMonitor](../)
-* пространство имен [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

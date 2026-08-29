@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Sources.FileOpenSource сорт. Представляет источник файла для открытия.
+title: "Класс FileOpenSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Sources.FileOpenSource. Представляет файловый источник для открытия"
 type: docs
-weight: 5600
+weight: 6100
 url: /ru/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Представляет источник файла для открытия.
+Представляет файловый источник для открытия.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -18,9 +19,9 @@ public sealed class FileOpenSource : FileSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Инициализирует новый экземпляр`FileOpenSource` класс. |
+| [FileOpenSource](fileopensource/)(string) | Инициализирует новый экземпляр класса `FileOpenSource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -33,10 +34,10 @@ public sealed class FileOpenSource : FileSource
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Получает контейнер потока. |
 
-### Смотрите также
+### См. также
 
 * class [FileSource](../filesource/)
-* пространство имен [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

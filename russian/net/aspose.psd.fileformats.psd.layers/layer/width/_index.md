@@ -1,11 +1,12 @@
 ---
-title: Layer.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает ширину изображения.
+title: "Layer.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает ширину изображения."
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
 Получает ширину изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/width/
 public override int Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина изображения.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

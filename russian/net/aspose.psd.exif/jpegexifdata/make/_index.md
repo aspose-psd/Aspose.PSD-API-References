@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Make
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает производителя записывающего оборудования.
+title: "JpegExifData.Make"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает производителя записывающего оборудования"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
 Получает или задает производителя записывающего оборудования.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/make/
 public string Make { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Производитель записывающего оборудования.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

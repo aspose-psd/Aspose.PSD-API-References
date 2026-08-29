@@ -1,11 +1,12 @@
 ---
-title: Layer.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает высоту изображения.
+title: "Layer.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает высоту изображения"
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
 Получает высоту изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/height/
 public override int Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота изображения.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

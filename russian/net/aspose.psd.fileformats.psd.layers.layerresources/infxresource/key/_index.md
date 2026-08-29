@@ -1,11 +1,12 @@
 ---
-title: InfxResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: InfxResource свойство. Получает ключ ресурса слоя.
+title: "InfxResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InfxResource. Получает ключ ресурса слоя"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/
 ---
+{{< psd/tize >}}
 ## InfxResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [InfxResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

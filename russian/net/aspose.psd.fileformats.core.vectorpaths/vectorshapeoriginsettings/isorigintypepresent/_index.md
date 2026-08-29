@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginTypePresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeOriginSettings свойство. Получает значение указывающее имеет ли этот экземпляр свойство типа источника.
+title: "VectorShapeOriginSettings.IsOriginTypePresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeOriginSettings. Возвращает значение, указывающее, содержит ли данный экземпляр свойство типа источника"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginTypePresent property
 
-Получает значение, указывающее, имеет ли этот экземпляр свойство типа источника.
+Возвращает значение, указывающее, имеет ли данный экземпляр свойство origin type.
 
 ```csharp
 public bool IsOriginTypePresent { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если у этого экземпляра есть свойство типа происхождения; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр имеет свойство типа источника; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeOriginSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

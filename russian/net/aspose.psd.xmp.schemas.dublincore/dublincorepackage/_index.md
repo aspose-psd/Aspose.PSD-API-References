@@ -1,14 +1,15 @@
 ---
-title: Class DublinCorePackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage сорт. Представляет схему дублированного ядра.
+title: "Класс DublinCorePackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage. Представляет схему Dublin Core"
 type: docs
-weight: 5780
+weight: 6280
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage class
 
-Представляет схему дублированного ядра.
+Представляет схему Dublic Core.
 
 ```csharp
 public sealed class DublinCorePackage : XmpPackage
@@ -20,11 +21,11 @@ public sealed class DublinCorePackage : XmpPackage
 | --- | --- |
 | [DublinCorePackage](dublincorepackage/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задаетObject с указанным ключом. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Получает или задает объект с указанным ключом. |
 | virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Получает ключи в пакете XMP. |
 | [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Получает URI пространства имен. |
 | [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Получает префикс. |
@@ -36,10 +37,10 @@ public sealed class DublinCorePackage : XmpPackage
 | --- | --- |
 | override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | Добавляет строковое свойство. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Очищает этот экземпляр. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ key. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который выполняет итерацию по коллекции. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Определяет, содержит ли указанный ключ ключ. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Возвращает перечислитель, который перебирает элементы коллекции. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удалить значение с указанным ключом. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Удаляет значение с указанным ключом. |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor)(string) | Добавляет автора. |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor_1)(string[]) | Добавляет автора. |
 | [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription)(LangAlt) | Добавляет описание. |
@@ -49,18 +50,18 @@ public sealed class DublinCorePackage : XmpPackage
 | [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject)(string) | Добавляет тему. |
 | [SetSubject](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/#setsubject_1)(string[]) | Добавляет тему. |
 | [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle)(LangAlt) | Добавляет заголовок Dublin Core для разных языков. |
-| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle_1)(string) | Добавляет название Dublin Core. |
+| [SetTitle](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/#settitle_1)(string) | Добавляет заголовок Dublin Core. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Устанавливает значение. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Устанавливает значение типа XMP. |
 
-### Примечания
+## Примечания
 
 Для получения дополнительной информации см.: http://dublincore.org/documents/usageguide/elements.shtml.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../)
 
 

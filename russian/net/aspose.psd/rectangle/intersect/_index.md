@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Intersect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Возвращает третийRectangle структура которая представляет собой пересечение двух другихRectangle структуры. Если пересечения нет то пустойRectangle возвращается.
+title: "Rectangle.Intersect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Возвращает третий объект структуры Rectangle, представляющий пересечение двух других структур Rectangle. Если пересечения нет, возвращается пустой Rectangle."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-Возвращает третий[`Rectangle`](../) структура, которая представляет собой пересечение двух других[`Rectangle`](../) структуры. Если пересечения нет, то пустой[`Rectangle`](../) возвращается.
+Возвращает третий объект [`Rectangle`](../), представляющий пересечение двух других объектов [`Rectangle`](../). Если пересечения нет, возвращается пустой [`Rectangle`](../).
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
@@ -16,24 +17,24 @@ public static Rectangle Intersect(Rectangle a, Rectangle b)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Rectangle | Первый прямоугольник, который нужно пересечь. |
+| a | Rectangle | Первый прямоугольник для пересечения. |
 | b | Rectangle | Второй прямоугольник для пересечения. |
 
 ### Возвращаемое значение
 
-А[`Rectangle`](../) который представляет собой пересечение*a* и*b*.
+Объект [`Rectangle`](../), представляющий пересечение *a* и *b*.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-Заменяет это[`Rectangle`](../) с пересечением себя и указанного[`Rectangle`](../) .
+Заменяет этот [`Rectangle`](../) пересечением его с указанным [`Rectangle`](../).
 
 ```csharp
 public void Intersect(Rectangle rect)
@@ -41,12 +42,12 @@ public void Intersect(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../) с чем пересекаться. |
+| rect | Rectangle | [`Rectangle`](../), с которым выполнять пересечение. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

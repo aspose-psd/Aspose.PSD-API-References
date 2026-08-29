@@ -1,23 +1,24 @@
 ---
-title: ColorMatrix.MatrixDimensionElementsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrix поле. Количество элементов в размерности матрицы.
+title: "ColorMatrix.MatrixDimensionElementsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ColorMatrix. Количество элементов в измерении матрицы"
 type: docs
 weight: 290
 url: /ru/net/aspose.psd/colormatrix/matrixdimensionelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionElementsCount field
 
-Количество элементов в размерности матрицы.
+Количество элементов в измерении матрицы.
 
 ```csharp
 public const int MatrixDimensionElementsCount;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../)
-* пространство имен [Aspose.PSD](../../colormatrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

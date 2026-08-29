@@ -1,11 +1,12 @@
 ---
-title: PngOptions.ColorType
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngOptions свойство. Получает или задает тип цвета.
+title: "PngOptions.ColorType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PngOptions свойство. Получает или задает тип цвета"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
 Получает или задает тип цвета.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/pngoptions/colortype/
 public PngColorType ColorType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип цвета.
 
-### Смотрите также
+### См. также
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pngoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

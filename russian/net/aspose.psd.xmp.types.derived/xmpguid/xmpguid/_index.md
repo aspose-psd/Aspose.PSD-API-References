@@ -1,14 +1,15 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpGuid строитель. Инициализирует новый экземплярXmpGuid класс.
+title: "XmpGuid.XmpGuid"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpGuid. Инициализирует новый экземпляр класса XmpGuid"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpGuid`](../) класс.
+Инициализирует новый экземпляр класса [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(string value)
@@ -16,26 +17,26 @@ public XmpGuid(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | значение равно нулю. |
-| ArgumentException | Недопустимое значение guid;значение |
+| ArgumentNullException | Значение равно null. |
+| ArgumentException | Недопустимое значение GUID;value |
 
-### Смотрите также
+### См. также
 
 * class [XmpGuid](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Инициализирует новый экземпляр[`XmpGuid`](../) класс.
+Инициализирует новый экземпляр класса [`XmpGuid`](../).
 
 ```csharp
 public XmpGuid(Guid guid)
@@ -45,10 +46,10 @@ public XmpGuid(Guid guid)
 | --- | --- | --- |
 | guid | Guid | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpGuid](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

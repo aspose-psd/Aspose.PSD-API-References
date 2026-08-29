@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: LyidResource свойство. Получает длину ресурса слоя в байтах.
+title: "LyidResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LyidResource. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/
 ---
+{{< psd/tize >}}
 ## LyidResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LyidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

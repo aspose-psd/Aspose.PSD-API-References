@@ -1,14 +1,15 @@
 ---
-title: Layer.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer метод. Определяет является ли указанныйObject  равно этому экземпляру.
+title: "Layer.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Layer. Определяет, равен ли указанный Object этому экземпляру"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,17 +17,17 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,16 +41,16 @@ public bool Equals(Layer other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Layer | Объект для сравнения с этим объектом. |
+| другой | Слой | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true, если текущий объект равен параметру *other*; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

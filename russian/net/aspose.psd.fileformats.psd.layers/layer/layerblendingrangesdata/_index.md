@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает данные диапазонов смешивания слоев.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает данные диапазонов смешивания слоя"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Получает или задает данные диапазонов смешивания слоев.
+Получает или задает данные диапазонов смешивания слоя.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Данные диапазонов смешивания слоев.
+Данные диапазонов смешивания слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

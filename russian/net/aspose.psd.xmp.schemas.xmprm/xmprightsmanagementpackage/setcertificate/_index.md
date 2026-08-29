@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage метод. Устанавливает сертификат.
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRightsManagementPackage. Устанавливает сертификат"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
 Устанавливает сертификат.
@@ -16,12 +17,12 @@ public void SetCertificate(string certificate)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| certificate | String | Сертификат. |
+| сертификат | String | Сертификат. |
 
-### Смотрите также
+### См. также
 
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

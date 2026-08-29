@@ -1,14 +1,15 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions метод. Инициализирует страницы из диапазонов array
+title: "MultiPageOptions.InitPages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MultiPageOptions метод. Инициализирует страницы из массива диапазонов"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-Инициализирует страницы из диапазонов array
+Инициализирует страницы из массива диапазонов
 
 ```csharp
 public void InitPages(IntRange[] ranges)
@@ -18,11 +19,11 @@ public void InitPages(IntRange[] ranges)
 | --- | --- | --- |
 | ranges | IntRange[] | Диапазоны. |
 
-### Смотрите также
+### См. также
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение GPS указывающее применяется ли дифференциальная коррекция к приемнику GPS.
+title: "ExifData.GPSDifferential"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение GPS, указывающее, применяется ли дифференциальная коррекция к GPS-приемнику"
 type: docs
 weight: 480
 url: /ru/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-Получает или задает значение GPS, указывающее, применяется ли дифференциальная коррекция к приемнику GPS.
+Получает или задает значение GPS, указывающее, применяется ли дифференциальная коррекция к GPS-приемнику.
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение GPS, указывающее, применяется ли дифференциальная коррекция к приемнику GPS.
+Значение GPS, указывающее, применяется ли дифференциальная коррекция к GPS-приемнику.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

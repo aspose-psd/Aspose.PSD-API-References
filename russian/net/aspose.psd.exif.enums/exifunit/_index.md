@@ -1,30 +1,31 @@
 ---
-title: Enum ExifUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifUnit перечисление. единица exif enum.
+title: "Перечисление ExifUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifUnit перечисление. exif unit перечисление"
 type: docs
-weight: 960
+weight: 970
 url: /ru/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-единица exif enum.
+Перечисление единиц exif.
 
 ```csharp
 public enum ExifUnit
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `1` | Неопределенные единицы измерения |
+| None | `1` | Неопределённые единицы |
 | Inch | `2` | Дюймовые единицы |
-| Cm | `3` | Метрические сантиметры |
+| Cm | `3` | Метрические единицы сантиметров |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

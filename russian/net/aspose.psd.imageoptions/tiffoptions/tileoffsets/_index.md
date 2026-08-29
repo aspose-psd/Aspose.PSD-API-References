@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TileOffsets
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает смещения плитки.
+title: "TiffOptions.TileOffsets"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает смещения плиток"
 type: docs
-weight: 540
+weight: 550
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileOffsets property
 
 Получает или задает смещения плитки.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 public uint[] TileOffsets { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

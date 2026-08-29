@@ -1,27 +1,28 @@
 ---
-title: UnicodeAlphaNamesResource.AlphaNames
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnicodeAlphaNamesResource свойство. Получает или задает альфаимена.
+title: "UnicodeAlphaNamesResource.AlphaNames"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "UnicodeAlphaNamesResource свойство. Получает или задает альфа‑имена"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.AlphaNames property
 
-Получает или задает альфа-имена.
+Получает или задает альфа‑имена.
 
 ```csharp
 public string AlphaNames { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Альфа-имена.
+Альфа‑имена.
 
-### Смотрите также
+### См. также
 
 * class [UnicodeAlphaNamesResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

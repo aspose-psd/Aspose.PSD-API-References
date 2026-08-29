@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: BuildVersionInfo поле. Дата выпуска продукта.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BuildVersionInfo. Дата выпуска продукта"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
 Дата выпуска продукта.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/buildversioninfo/releasedate/
 public static readonly DateTime ReleaseDate;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BuildVersionInfo](../)
-* пространство имен [Aspose.PSD](../../buildversioninfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

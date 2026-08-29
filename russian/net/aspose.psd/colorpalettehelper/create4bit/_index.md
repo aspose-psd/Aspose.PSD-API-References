@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create4Bit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPaletteHelper метод. Создает 4битную цветовую палитру.
+title: "ColorPaletteHelper.Create4Bit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorPaletteHelper. Создает 4‑битовую цветовую палитру"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/colorpalettehelper/create4bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4Bit method
 
-Создает 4-битную цветовую палитру.
+Создаёт 4‑битную цветовую палитру.
 
 ```csharp
 public static IColorPalette Create4Bit()
@@ -16,13 +17,13 @@ public static IColorPalette Create4Bit()
 
 ### Возвращаемое значение
 
-4-битная цветовая палитра.
+4‑битовая цветовая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* пространство имен [Aspose.PSD](../../colorpalettehelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

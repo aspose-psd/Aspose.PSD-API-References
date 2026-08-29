@@ -1,24 +1,25 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: DataStreamSupporter метод. Сохраняет данные объекта в текущийDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DataStreamSupporter. Сохраняет данные объекта в текущий DataStreamSupporter."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Сохраняет данные объекта в текущий[`DataStreamSupporter`](../) .
+Сохраняет данные объекта в текущий [`DataStreamSupporter`](../).
 
 ```csharp
 public virtual void Save()
 ```
 
-### Смотрите также
+### См. также
 
 * class [DataStreamSupporter](../)
-* пространство имен [Aspose.PSD](../../datastreamsupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ public virtual void Save(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток, в который сохраняются данные объекта. |
 
-### Смотрите также
+### См. также
 
 * class [DataStreamSupporter](../)
-* пространство имен [Aspose.PSD](../../datastreamsupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_2}
 
-Сохраняет данные объекта в указанном месте файла.
+Сохраняет данные объекта в указанное расположение файла.
 
 ```csharp
 public void Save(string filePath)
@@ -52,19 +53,19 @@ public void Save(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу для сохранения данных объекта. |
+| filePath | String | Путь к файлу, в который сохраняются данные объекта. |
 
-### Смотрите также
+### См. также
 
 * class [DataStreamSupporter](../)
-* пространство имен [Aspose.PSD](../../datastreamsupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, bool) {#save_3}
 
-Сохраняет данные объекта в указанном месте файла.
+Сохраняет данные объекта в указанное расположение файла.
 
 ```csharp
 public virtual void Save(string filePath, bool overWrite)
@@ -72,13 +73,13 @@ public virtual void Save(string filePath, bool overWrite)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу для сохранения данных объекта. |
-| overWrite | Boolean | если установлено`истинный` перезапишите содержимое файла, иначе произойдет добавление. |
+| filePath | String | Путь к файлу, в который сохраняются данные объекта. |
+| overWrite | Boolean | если установлено `true`, перезаписывает содержимое файла, иначе будет выполнено добавление. |
 
-### Смотрите также
+### См. также
 
 * class [DataStreamSupporter](../)
-* пространство имен [Aspose.PSD](../../datastreamsupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

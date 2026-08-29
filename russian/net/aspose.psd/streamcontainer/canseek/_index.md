@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer свойство. Получает значение указывающее поддерживает ли поток поиск.
+title: "StreamContainer.CanSeek"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer свойство. Возвращает значение, указывающее, поддерживает ли поток перемещение"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/streamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanSeek property
 
-Получает значение, указывающее, поддерживает ли поток поиск.
+Возвращает значение, указывающее, поддерживает ли поток перемещение.
 
 ```csharp
 public virtual bool CanSeek { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток поддерживает поиск; в противном случае,`ЛОЖЬ`.
+`true`, если поток поддерживает поиск; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.MaxChannels
-second_title: Справочник по Aspose.PSD для .NET API
-description: FilterEffectMaskData свойство. Получает максимальное количество каналов.
+title: "FilterEffectMaskData.MaxChannels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FilterEffectMaskData. Возвращает максимальное количество каналов"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaxChannels property
 
 Получает максимальное количество каналов.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public int MaxChannels { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FilterEffectMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

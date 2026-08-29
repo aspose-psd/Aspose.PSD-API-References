@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: MlstResource метод. Сохраняет указанный контейнер потока.
+title: "MlstResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MlstResource метод. Сохраняет указанный потоковый контейнер"
 type: docs
-weight: 80
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/
 ---
+{{< psd/tize >}}
 ## MlstResource.Save method
 
 Сохраняет указанный контейнер потока.
@@ -19,11 +20,11 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | Контейнер потока. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [MlstResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

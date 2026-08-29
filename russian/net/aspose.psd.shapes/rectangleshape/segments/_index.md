@@ -1,28 +1,29 @@
 ---
-title: RectangleShape.Segments
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleShape свойство. Получает сегменты формы.
+title: "RectangleShape.Segments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleShape property. Возвращает сегменты фигуры"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapes/rectangleshape/segments/
 ---
+{{< psd/tize >}}
 ## RectangleShape.Segments property
 
-Получает сегменты формы.
+Получает сегменты фигуры.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сегменты формы.
+Сегменты фигуры.
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [RectangleShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

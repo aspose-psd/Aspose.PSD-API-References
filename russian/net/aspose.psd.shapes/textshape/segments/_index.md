@@ -1,28 +1,29 @@
 ---
-title: TextShape.Segments
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape свойство. Получает сегменты формы.
+title: "TextShape.Segments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextShape. Возвращает сегменты фигуры"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
-Получает сегменты формы.
+Получает сегменты фигуры.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Сегменты формы.
+Сегменты фигуры.
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

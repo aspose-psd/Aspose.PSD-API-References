@@ -1,14 +1,15 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorExtensions метод. ПреобразуетColor массив кColor массив.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorExtensions. Преобразует массив Color в массив Color"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-Преобразует[`Color`](../../../aspose.psd/color/) массив кColor массив.
+Преобразует массив [`Color`](../../../aspose.psd/color/) в массив Color.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
@@ -16,17 +17,17 @@ public static Color[] ToGdiColors(Color[] colors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colors | Color[] | [`Color`](../../../aspose.psd/color/) массив для преобразования. |
+| colors | Color[] | Массив[`Color`](../../../aspose.psd/color/) для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйColor множество.
+Преобразованный массив Color.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../colorextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

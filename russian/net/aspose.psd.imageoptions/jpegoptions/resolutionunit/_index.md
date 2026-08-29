@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ResolutionUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает единицу измерения разрешения.
+title: "JpegOptions.ResolutionUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает единицу измерения разрешения"
 type: docs
-weight: 160
+weight: 170
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ResolutionUnit property
 
 Получает или задает единицу измерения разрешения.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/resolutionunit/
 public ResolutionUnit ResolutionUnit { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ResolutionUnit](../../../aspose.psd/resolutionunit/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase метод. Клонирует этот экземпляр.
+title: "ImageOptionsBase.Clone"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageOptionsBase. Клонирует этот экземпляр."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
 Клонирует этот экземпляр.
@@ -16,12 +17,12 @@ public virtual ImageOptionsBase Clone()
 
 ### Возвращаемое значение
 
-Возвращает мелкую копию этого экземпляра
+Возвращает поверхностную копию этого экземпляра.
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

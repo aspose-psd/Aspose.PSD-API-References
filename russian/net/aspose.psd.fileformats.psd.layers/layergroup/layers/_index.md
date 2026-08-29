@@ -1,24 +1,25 @@
 ---
-title: LayerGroup.Layers
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerGroup свойство. Получает слои в группе слоев
+title: "LayerGroup.Layers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerGroup. Получает слои в группе слоев"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layergroup/layers/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Layers property
 
-Получает слои в группе слоев
+Получает слои в группе слоёв
 
 ```csharp
 public Layer[] Layers { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

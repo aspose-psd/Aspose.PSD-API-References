@@ -1,14 +1,15 @@
 ---
-title: Class FileCreateSource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Sources.FileCreateSource сорт. Представляет источник файла для создания.
+title: "Класс FileCreateSource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Sources.FileCreateSource. Представляет файловый источник для создания"
 type: docs
-weight: 5590
+weight: 6090
 url: /ru/net/aspose.psd.sources/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource class
 
-Представляет источник файла для создания.
+Представляет файловый источник для создания.
 
 ```csharp
 public sealed class FileCreateSource : FileSource
@@ -18,10 +19,10 @@ public sealed class FileCreateSource : FileSource
 
 | Имя | Описание |
 | --- | --- |
-| [FileCreateSource](filecreatesource/#constructor)(string) | Инициализирует новый экземпляр`FileCreateSource` класс. |
-| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Инициализирует новый экземпляр`FileCreateSource` класс. |
+| [FileCreateSource](filecreatesource/#constructor)(string) | Инициализирует новый экземпляр класса `FileCreateSource`. |
+| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Инициализирует новый экземпляр класса `FileCreateSource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -34,32 +35,32 @@ public sealed class FileCreateSource : FileSource
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/filecreatesource/getstreamcontainer/)() | Получает контейнер потока. |
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath.
+Этот пример демонстрирует использование классов Font и SolidBrush для рисования строк на поверхности Image. Пример создает новый Image и рисует фигуры с помощью Figures и GraphicsPath
 
 ```csharp
 [C#]
 
-// Создает экземпляр изображения
+//Создает экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
     //Создает и инициализирует экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очищает графическую поверхность
+    //Очищает поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    // Создает экземпляр шрифта
+    //Создает экземпляр Font
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Создаем экземпляр SolidBrush красного цвета
+    //Создает экземпляр SolidBrush с красным цветом
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    // Рисуем строку
+    //Рисует строку
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // создаем параметры экспорта.
+    // создает параметры экспорта.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
     // сохранить все изменения
@@ -67,10 +68,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FileSource](../filesource/)
-* пространство имен [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

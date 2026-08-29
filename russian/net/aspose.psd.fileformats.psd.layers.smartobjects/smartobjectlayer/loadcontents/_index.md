@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.LoadContents
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectLayer метод. Получает содержимое встроенного или связанного изображения слоя смартобъекта.
+title: "SmartObjectLayer.LoadContents"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartObjectLayer. Получает встроенные или связанные изображения содержимого слоя умного объекта"
 type: docs
-weight: 110
+weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.LoadContents method
 
-Получает содержимое встроенного или связанного изображения слоя смарт-объекта.
+Получает встроенное или связанное содержимое изображения слоя смарт‑объекта.
 
 ```csharp
 public Image LoadContents(LoadOptions options)
@@ -16,15 +17,15 @@ public Image LoadContents(LoadOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | LoadOptions | Варианты. |
+| опции | LoadOptions | Опции. |
 
 ### Возвращаемое значение
 
-Загруженный[`Image`](../../../aspose.psd/image/) экземпляр смарт-объекта.
+Загруженный экземпляр умного объекта [`Image`](../../../aspose.psd/image/).
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку встроенных смарт-объектов.
+Следующий код демонстрирует поддержку встроенных смарт‑объектов.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// В этом примере показано, как изменить слой смарт-объекта в PSD-файле и экспортировать/обновить исходное встроенное содержимое смарт-объекта.
+// Этот пример демонстрирует, как изменить слой смарт‑объекта в файле PSD и экспортировать/обновлять оригинальное встроенное содержимое смарт‑объекта.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -66,10 +67,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Давайте экспортируем встроенное изображение смарт-объекта из слоя смарт-объекта PSD
+        // Давайте экспортируем встроенное изображение смарт‑объекта из слоя смарт‑объекта PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Проверяем, правильно ли сохранено исходное изображение
+        // Давайте проверим, правильно ли сохранено оригинальное изображение
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -77,7 +78,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Давайте инвертируем исходное изображение смарт-объекта
+            // Давайте инвертируем оригинальное изображение смарт‑объекта
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -88,23 +89,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Давайте заменим встроенное изображение смарт-объекта в слое PSD
+            // Давайте заменим встроенное изображение смарт‑объекта в слое PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Проверяем, корректно ли сохранено обновленное изображение
+        // Давайте проверим, правильно ли сохранено обновлённое изображение
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Image](../../../aspose.psd/image/)
 * class [LoadOptions](../../../aspose.psd/loadoptions/)
 * class [SmartObjectLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

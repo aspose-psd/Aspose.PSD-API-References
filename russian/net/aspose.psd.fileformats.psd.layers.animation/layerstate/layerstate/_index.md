@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerState строитель. Инициализирует новый экземплярLayerState класс.
+title: "LayerState.LayerState"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LayerState. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Инициализирует новый экземпляр[`LayerState`](../) класс.
+Конструктор по умолчанию.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| layerId | Int32 | Идентификатор для определения состояния связанного слоя. |
-
-### Смотрите также
+### См. также
 
 * class [LayerState](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

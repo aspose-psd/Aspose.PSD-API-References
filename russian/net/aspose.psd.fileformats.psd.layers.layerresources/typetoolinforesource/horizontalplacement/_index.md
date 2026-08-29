@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.HorizontalPlacement
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает горизонтальное размещение.
+title: "TypeToolInfoResource.HorizontalPlacement"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolInfoResource свойство. Получает или задает горизонтальное размещение"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/horizontalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.HorizontalPlacement property
 
 Получает или задает горизонтальное размещение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int HorizontalPlacement { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное размещение.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Left
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает левое расположение размещенного слоя в PSDфайле.
+title: "IPlacedLayerResource.Left"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает или задает левое положение размещённого слоя в файле PSD"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Left property
 
-Получает или задает левое расположение размещенного слоя в PSD-файле.
+Получает или задает положение слева размещённого слоя в файле PSD.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Левое расположение размещенного слоя.
+Левое расположение размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

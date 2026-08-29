@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSectionResource свойство. Получает подпись ресурса слоя.
+title: "LayerSectionResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerSectionResource. Получает подпись ресурса слоя"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Signature property
 
-Получает подпись ресурса слоя.
+Получает сигнатуру ресурса слоя.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerSectionResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

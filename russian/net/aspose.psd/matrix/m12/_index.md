@@ -1,23 +1,24 @@
 ---
-title: Matrix.M12
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix свойство. Получает элемент матрицы во втором столбце первой строки. Представляет сдвиг по оси Y.
+title: "Matrix.M12"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Matrix. Возвращает элемент матрицы в первой строке, втором столбце. Представляет сдвиг (shear) вдоль оси Y."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/matrix/m12/
 ---
+{{< psd/tize >}}
 ## Matrix.M12 property
 
-Получает элемент матрицы во втором столбце первой строки. Представляет сдвиг по оси Y.
+Возвращает элемент матрицы в первой строке и втором столбце. Представляет косое искажение вдоль оси Y.
 
 ```csharp
 public float M12 { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Lr16Resource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lr16Resource свойство. Получает версию psd.
+title: "Lr16Resource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Lr16Resource. Возвращает версию psd"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lr16Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает или задает метод который будет использоваться для замены цифр.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Возвращает или задает метод, используемый для замены цифр."
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-Получает или задает метод, который будет использоваться для замены цифр.
+Получает или задает метод, используемый для замены цифр.
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`StringDigitSubstitute`](../../stringdigitsubstitute/) значение перечисления, указывающее, как заменить символы в строке, которые не могут быть отображены, поскольку они не поддерживаются текущим шрифтом.
+Значение перечисления [`StringDigitSubstitute`](../../stringdigitsubstitute/), которое указывает, как заменять символы в строке, которые нельзя отобразить, потому что текущий шрифт их не поддерживает.
 
-### Примечания
+## Примечания
 
-Введен сеттер для устаревшего метода SetDigitSubstitution.
+Сеттер введён для устаревшего метода SetDigitSubstitution.
 
-### Смотрите также
+### См. также
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

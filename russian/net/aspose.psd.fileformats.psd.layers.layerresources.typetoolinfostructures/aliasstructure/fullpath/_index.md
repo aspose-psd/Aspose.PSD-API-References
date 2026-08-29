@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.FullPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: AliasStructure свойство. Получает или задает полный путь.
+title: "AliasStructure.FullPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AliasStructure. Получает или задает полный путь"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/
 ---
+{{< psd/tize >}}
 ## AliasStructure.FullPath property
 
 Получает или задает полный путь.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string FullPath { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Полный путь.
 
-### Смотрите также
+### См. также
 
 * class [AliasStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorRangeHsl метод. Получает коэффициент диапазона.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorRangeHsl. Получает коэффициент диапазона"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
 Получает коэффициент диапазона.
@@ -16,16 +17,16 @@ public double GetRangeCoefficient(double hue)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| hue | Double | Значение оттенка. |
+| оттенок | Double | Значение оттенка. |
 
 ### Возвращаемое значение
 
-Коэффициент диапазона насыщения.
+Коэффициент диапазона насыщенности.
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalLayerMaskInfo свойство. Получает или задает непрозрачность глобальных слоев. 0  прозрачный 100  непрозрачный.
+title: "GlobalLayerMaskInfo.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GlobalLayerMaskInfo. Получает или задает непрозрачность глобальных слоёв. 0  прозрачный 100  непрозрачный"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Opacity property
 
 Получает или задает непрозрачность глобальных слоев. 0 = прозрачный, 100 = непрозрачный.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/
 public short Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Непрозрачность глобальных слоев.
+Непрозрачность глобальных слоёв.
 
-### Смотрите также
+### См. также
 
 * class [GlobalLayerMaskInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary метод. Удаляет элемент с указанным ключом из IDictionary объект.
+title: "NonGenericDictionary.Remove"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericDictionary. Удаляет элемент с указанным ключом из объекта IDictionary."
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-Удаляет элемент с указанным ключом из IDictionary объект.
+Удаляет элемент с указанным ключом из объекта IDictionary.
 
 ```csharp
 public void Remove(object key)
@@ -16,12 +17,12 @@ public void Remove(object key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | Object | Ключ удаляемого элемента. |
+| ключ | Object | Ключ элемента, который нужно удалить. |
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

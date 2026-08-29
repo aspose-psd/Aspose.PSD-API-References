@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TextData
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer свойство. Получает части текста.
+title: "TextLayer.TextData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextLayer. Получает части текста"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextData property
 
 Получает части текста.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 public IText TextData { get; }
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует, как Aspose.PSD получает свойства встроенного форматирования текстового слоя.
 
@@ -26,7 +27,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -70,7 +71,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем примере кода показано редактирование текстовых частей и стиля их текста.
+В следующем примере кода демонстрируется редактирование частей текста и их стиля.
 
 ```csharp
 [C#]
@@ -93,7 +94,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка текста каждой порции
+            // Проверка текста каждой части
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -102,8 +103,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Проверка данных абзаца
-            // Абзацы имеют разное обоснование
+            // Проверка данных абзацев
+            // Абзацы имеют разное выравнивание
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -137,7 +138,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -193,7 +194,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // Пример добавления новой текстовой части
+            // Пример добавления новой части текста
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
@@ -201,17 +202,17 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Пример редактирования абзаца и стиля для частей
-            // Установить правильное выравнивание
+            // Установить выравнивание по правому краю
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Разные цвета для каждого стиля. Будет изменено, но рендеринг поддерживается не полностью
+            // Разные цвета для каждого стиля. Они будут изменены, но рендеринг полностью не поддерживается
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Другой шрифт. Будет изменено, но рендеринг поддерживается не полностью
+            // Разный шрифт. Он будет изменён, но рендеринг полностью не поддерживается
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -226,11 +227,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IText](../../../aspose.psd.fileformats.psd.layers.text/itext/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

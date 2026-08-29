@@ -1,30 +1,31 @@
 ---
-title: Enum PositioningTypes
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.PositioningTypes перечисление. Типы позиционирования и размера для графической сцены.
+title: "Перечисление PositioningTypes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.ImageOptions.PositioningTypes. Типы позиционирования и размеров для графической сцены"
 type: docs
-weight: 4890
+weight: 5380
 url: /ru/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
-Типы позиционирования и размера для графической сцены.
+Типы позиционирования и размеров для графической сцены.
 
 ```csharp
 public enum PositioningTypes
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| DefinedByDocument | `0` | Абсолютное положение на странице, определяемое настройками страницы документа. |
-| DefinedByOptions | `1` | Абсолютное положение на странице, определяемое настройками страницы параметров. |
-| Relative | `2` | Относительное расположение и размер. Определяется границей всех графических объектов. |
+| DefinedByDocument | `0` | Абсолютное позиционирование на странице, определяемое настройками страницы документа. |
+| DefinedByOptions | `1` | Абсолютное позиционирование на странице, определяемое настройками страницы параметров. |
+| Relative | `2` | Относительное позиционирование и размер. Определяется границей всех графических объектов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

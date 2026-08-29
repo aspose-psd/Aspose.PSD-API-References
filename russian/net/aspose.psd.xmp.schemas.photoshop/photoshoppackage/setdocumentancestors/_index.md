@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает предков документа.
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает предков документа"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
 Устанавливает предков документа.
@@ -16,12 +17,12 @@ public void SetDocumentAncestors(string[] ancestors)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| ancestors | String[] | Предки. |
+| предки | String[] | Предки. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

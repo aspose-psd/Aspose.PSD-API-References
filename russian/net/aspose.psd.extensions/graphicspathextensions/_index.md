@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.GraphicsPathExtensions сорт. СодержитGraphicsPath методы расширения.
+title: "Класс GraphicsPathExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.GraphicsPathExtensions. Содержит методы расширения GraphicsPath"
 type: docs
-weight: 1100
+weight: 1110
 url: /ru/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-Содержит[`GraphicsPath`](../../aspose.psd/graphicspath/) методы расширения.
+Содержит методы расширения [`GraphicsPath`](../../aspose.psd/graphicspath/).
 
 ```csharp
 public static class GraphicsPathExtensions
@@ -18,11 +19,11 @@ public static class GraphicsPathExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Преобразует[`GraphicsPath`](../../aspose.psd/graphicspath/) кGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Преобразует [`GraphicsPath`](../../aspose.psd/graphicspath/) в GraphicsPath. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

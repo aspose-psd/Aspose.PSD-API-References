@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadULongArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Считывает из потока массив целочисленных значений без знака.
+title: "TiffStreamReader.ReadULongArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamReader. Считывает массив беззнаковых целочисленных значений из потока"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULongArray method
 
-Считывает из потока массив целочисленных значений без знака.
+Считывает массив беззнаковых целочисленных значений из потока.
 
 ```csharp
 public uint[] ReadULongArray(long position, long count)
@@ -16,23 +17,23 @@ public uint[] ReadULongArray(long position, long count)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
-| count | Int64 | Элементы считаются. |
+| позиция | Int64 | Позиция, из которой читать. |
+| count | Int64 | Количество элементов. |
 
 ### Возвращаемое значение
 
-Массив целочисленных значений без знака.
+Массив беззнаковых целочисленных значений.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Общее количество байтов отрицательное. + count + x4= + totalBytes |
+| ArgumentOutOfRangeException | count;Общее количество байтов отрицательно. + count + x4= + totalBytes |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

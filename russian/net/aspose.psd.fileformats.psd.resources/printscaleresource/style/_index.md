@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Style
-second_title: Справочник по Aspose.PSD для .NET API
-description: PrintScaleResource свойство. Получает или задает стиль.
+title: "PrintScaleResource.Style"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PrintScaleResource property. Получает или задает стиль"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
 Получает или задает стиль.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 public short Style { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Стиль.
 
-### Смотрите также
+### См. также
 
 * class [PrintScaleResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

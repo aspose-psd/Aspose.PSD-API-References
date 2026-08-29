@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее печатается ли этот слой. Делает иллюстрацию содержащуюся в слое печатаемой если true.
+title: "AiLayerSection.IsPrinted"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает значение, указывающее, напечатан ли этот слой. Делает графику, содержащуюся в слое, печатаемой, если значение истинно."
 type: docs
-weight: 80
+weight: 100
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Получает или задает значение, указывающее, печатается ли этот слой. Делает иллюстрацию, содержащуюся в слое, печатаемой, если true.
+Получает или задает значение, указывающее, печатается ли слой. Делает содержимое слоя печатаемым, если true.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` печатается ли этот слой; в противном случае,`ЛОЖЬ` .
+`true` если этот слой напечатан; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

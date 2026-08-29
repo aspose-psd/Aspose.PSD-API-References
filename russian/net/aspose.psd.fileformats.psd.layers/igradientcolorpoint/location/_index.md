@@ -1,27 +1,28 @@
 ---
-title: IGradientColorPoint.Location
-second_title: Справочник по Aspose.PSD для .NET API
-description: IGradientColorPoint свойство. Получает или задает местоположение.
+title: "IGradientColorPoint.Location"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IGradientColorPoint. Получает или задает расположение. Диапазон значений 04096"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint.Location property
 
-Получает или задает местоположение.
+Получает или задает расположение. Диапазон значений 0-4096.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Местоположение.
+Расположение.
 
-### Смотрите также
+### См. также
 
 * interface [IGradientColorPoint](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

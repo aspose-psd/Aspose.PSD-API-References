@@ -1,28 +1,29 @@
 ---
-title: BmpOptions.Compression
-second_title: Справочник по Aspose.PSD для .NET API
-description: BmpOptions свойство. Получает или задает сжатие.
+title: "BmpOptions.Compression"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BmpOptions. Получает или задает сжатие"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageoptions/bmpoptions/compression/
 ---
+{{< psd/tize >}}
 ## BmpOptions.Compression property
 
-Получает или задает сжатие.
+Получает или задает степень сжатия.
 
 ```csharp
 public BitmapCompression Compression { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сжатие.
 
-### Смотрите также
+### См. также
 
 * enum [BitmapCompression](../../../aspose.psd.fileformats.bmp/bitmapcompression/)
 * class [BmpOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../bmpoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

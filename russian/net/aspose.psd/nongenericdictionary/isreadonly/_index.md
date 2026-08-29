@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает значение указывающее является ли IDictionary объект доступен только для чтения.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Возвращает значение, указывающее, является ли объект IDictionary только для чтения"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-Получает значение, указывающее, является ли IDictionary объект доступен только для чтения.
+Возвращает значение, указывающее, является ли объект IDictionary только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,12 +17,12 @@ public bool IsReadOnly { get; }
 
 ### Возвращаемое значение
 
-верно, еслиIDictionary объект доступен только для чтения; в противном случае ложно.
+true, если объект IDictionary только для чтения; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

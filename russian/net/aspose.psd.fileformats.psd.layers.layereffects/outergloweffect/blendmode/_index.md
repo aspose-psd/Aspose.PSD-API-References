@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или задает режим наложения.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OuterGlowEffect. Получает или задает режим смешивания"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
 Получает или задает режим наложения.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blen
 public BlendMode BlendMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим наложения.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку OuterGlowEffect.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LengthRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord сорт. Класс записи длины подпути
+title: "Класс LengthRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord класс. Класс записи длины подпути"
 type: docs
-weight: 1370
+weight: 1380
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord class
 
-Класс записи длины подпути
+Класс записи длины подпути.
 
 ```csharp
 public class LengthRecord : VectorPathRecord
@@ -18,25 +19,25 @@ public class LengthRecord : VectorPathRecord
 
 | Имя | Описание |
 | --- | --- |
-| [LengthRecord](lengthrecord/#constructor)() | Инициализирует новый экземпляр`LengthRecord` класс. |
-| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр`LengthRecord` класс. |
+| [LengthRecord](lengthrecord/#constructor)() | Инициализирует новый экземпляр класса `LengthRecord`. |
+| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `LengthRecord`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Получает или задает количество записей узлов Безье. |
+| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Возвращает или задает количество записей узлов Безье. |
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/) { get; set; } | Получает или задает значение, указывающее, закрыт ли этот экземпляр. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/) { get; set; } | Получает или задает значение, указывающее, открыт ли этот экземпляр. |
-| [PathOperations](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/) { get; set; } | Получает или задает операции пути. |
-| [RecordCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/) { get; set; } | Получает или задает количество записей. |
-| [ShapeIndex](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/) { get; set; } | Получает или задает индекс формы текущего пути в слое. |
+| [PathOperations](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/) { get; set; } | Возвращает или задает операции пути. |
+| [RecordCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/) { get; set; } | Возвращает или задает количество записей. |
+| [ShapeIndex](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/) { get; set; } | Получает или задает индекс текущей формы пути в слое. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/) { get; } | Получает тип. |
 
-### Смотрите также
+### См. также
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

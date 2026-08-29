@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее затенен ли этот слой. Уменьшает интенсивность связанных изображений и растровых изображений содержащихся в слое.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает значение, указывающее, затемнён ли этот слой. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое."
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Получает или задает значение, указывающее, затенен ли этот слой. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое.
+Получает или задает значение, указывающее, затемнён ли слой. Уменьшает интенсивность связанных изображений и растровых изображений, содержащихся в слое.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот слой затемнен; в противном случае,`ЛОЖЬ` .
+`true` если этот слой затемнён; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

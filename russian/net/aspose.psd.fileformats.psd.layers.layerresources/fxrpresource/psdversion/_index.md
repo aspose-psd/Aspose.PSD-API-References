@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource свойство. Получает версию psd.
+title: "FxrpResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FxrpResource. Получает версию psd"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/
 ---
+{{< psd/tize >}}
 ## FxrpResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

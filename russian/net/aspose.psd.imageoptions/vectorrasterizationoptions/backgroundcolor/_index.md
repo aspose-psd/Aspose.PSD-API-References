@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.BackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorRasterizationOptions свойство. Получает или задает цвет фона.
+title: "VectorRasterizationOptions.BackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorRasterizationOptions. Получает или задает цвет фона"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BackgroundColor property
 
 Получает или задает цвет фона.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/vectorrasterizationoptions/backgroundcolor/
 public Color BackgroundColor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

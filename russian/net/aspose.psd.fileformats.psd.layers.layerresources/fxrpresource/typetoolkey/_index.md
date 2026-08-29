@@ -1,23 +1,24 @@
 ---
-title: FxrpResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource поле. Информационный ключ типа инструмента.
+title: "FxrpResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле FxrpResource. Ключ информации о типе инструмента"
 type: docs
-weight: 90
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## FxrpResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

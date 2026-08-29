@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.SetRgbColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResourceVersion3 метод. Устанавливает цвет RGB.
+title: "PhflResourceVersion3.SetRgbColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhflResourceVersion3. Устанавливает RGB‑цвет"
 type: docs
-weight: 120
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.SetRgbColor method
 
-Устанавливает цвет RGB.
+Задает цвет RGB.
 
 ```csharp
 public override void SetRgbColor(Color color)
@@ -18,11 +19,11 @@ public override void SetRgbColor(Color color)
 | --- | --- | --- |
 | color | Color | Цвет. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

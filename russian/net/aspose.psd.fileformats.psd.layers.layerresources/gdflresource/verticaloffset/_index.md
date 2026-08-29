@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает вертикальное смещение.
+title: "GdFlResource.VerticalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает вертикальное смещение"
 type: docs
-weight: 180
+weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
 Получает или задает вертикальное смещение.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verti
 public double VerticalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Вертикальное смещение.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
+Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

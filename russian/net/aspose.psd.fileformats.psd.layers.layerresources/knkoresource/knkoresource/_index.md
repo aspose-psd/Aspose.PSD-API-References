@@ -1,14 +1,15 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: KnkoResource строитель. Инициализирует новый экземплярKnkoResource класс.
+title: "KnkoResource.KnkoResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор KnkoResource. Инициализирует новый экземпляр класса KnkoResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`KnkoResource`](../) класс.
+Инициализирует новый экземпляр класса [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource(bool knockout)
@@ -16,35 +17,35 @@ public KnkoResource(bool knockout)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| knockout | Boolean | если установлено`истинный` [смешать элементы интерьера]. |
+| knockout | Boolean | если установлено в `true` [смешивание внутренних элементов]. |
 
-### Смотрите также
+### См. также
 
 * class [KnkoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-Инициализирует новый экземпляр[`KnkoResource`](../) класс.
+Инициализирует новый экземпляр класса [`KnkoResource`](../).
 
 ```csharp
 public KnkoResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [KnkoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`KnkoResource`](../) class. С пользовательским или неизвестным значением
+Инициализирует новый экземпляр класса [`KnkoResource`](../). С пользовательским или неизвестным значением
 
 ```csharp
 public KnkoResource(byte[] data)
@@ -52,18 +53,18 @@ public KnkoResource(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Недопустимое значение ресурса Kko |
+| ArgumentException | Недопустимое значение ресурса Knko |
 
-### Смотрите также
+### См. также
 
 * class [KnkoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.DigitalZoomRatio
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает коэффициент цифрового масштабирования.
+title: "ExifData.DigitalZoomRatio"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает коэффициент цифрового увеличения"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.exif/exifdata/digitalzoomratio/
 ---
+{{< psd/tize >}}
 ## ExifData.DigitalZoomRatio property
 
-Получает или задает коэффициент цифрового масштабирования.
+Получает или задает коэффициент цифрового увеличения.
 
 ```csharp
 public TiffRational DigitalZoomRatio { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Коэффициент цифрового масштабирования.
+Коэффициент цифрового увеличения.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

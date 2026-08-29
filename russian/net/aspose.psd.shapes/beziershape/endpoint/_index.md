@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierShape свойство. Получает конечную точку формы.
+title: "BezierShape.EndPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BezierShape property. Возвращает конечную точку фигуры"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-Получает конечную точку формы.
+Получает конечную точку фигуры.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Конечная точка формы.
+Конечная точка фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../beziershape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

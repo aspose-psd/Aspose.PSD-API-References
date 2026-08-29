@@ -1,14 +1,15 @@
 ---
-title: Point.Point
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point строитель. Инициализирует новый экземплярPoint структура с указанными координатами.
+title: "Point.Point"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Point. Инициализирует новый экземпляр структуры Point с указанными координатами"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/point/point/
 ---
+{{< psd/tize >}}
 ## Point(int, int) {#constructor_2}
 
-Инициализирует новый экземпляр[`Point`](../) структура с указанными координатами.
+Инициализирует новый экземпляр структуры [`Point`](../) с указанными координатами.
 
 ```csharp
 public Point(int x, int y)
@@ -19,17 +20,17 @@ public Point(int x, int y)
 | x | Int32 | Горизонтальное положение точки. |
 | y | Int32 | Вертикальное положение точки. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(Size) {#constructor}
 
-Инициализирует новый экземпляр[`Point`](../) структура из[`Size`](../../size/)структура.
+Инициализирует новый экземпляр структуры [`Point`](../) из структуры [`Size`](../../size/).
 
 ```csharp
 public Point(Size size)
@@ -37,20 +38,20 @@ public Point(Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Size | Содержит новые координаты точки. |
+| размер | Size | Содержит новые координаты точки. |
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Point(int) {#constructor_1}
 
-Инициализирует новый экземпляр[`Point`](../) структура с использованием координат, заданных целочисленным значением.
+Инициализирует новый экземпляр структуры [`Point`](../), используя координаты, заданные целочисленным значением.
 
 ```csharp
 public Point(int dw)
@@ -58,12 +59,12 @@ public Point(int dw)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dw | Int32 | 32-битное целое число, указывающее координаты новой точки. |
+| dw | Int32 | 32‑битное целое число, которое задаёт координаты новой точки. |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

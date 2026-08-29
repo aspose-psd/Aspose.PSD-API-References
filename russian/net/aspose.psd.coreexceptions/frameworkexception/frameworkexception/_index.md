@@ -1,14 +1,15 @@
 ---
-title: FrameworkException.FrameworkException
-second_title: Справочник по Aspose.PSD для .NET API
-description: FrameworkException строитель. Инициализирует новый экземплярFrameworkException класс.
+title: "FrameworkException.FrameworkException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор FrameworkException. Инициализирует новый экземпляр класса FrameworkException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/frameworkexception/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException(string) {#constructor}
 
-Инициализирует новый экземпляр[`FrameworkException`](../) класс.
+Инициализирует новый экземпляр класса [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message)
@@ -18,17 +19,17 @@ public FrameworkException(string message)
 | --- | --- | --- |
 | message | String | Сообщение. |
 
-### Смотрите также
+### См. также
 
 * class [FrameworkException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FrameworkException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`FrameworkException`](../) класс.
+Инициализирует новый экземпляр класса [`FrameworkException`](../).
 
 ```csharp
 public FrameworkException(string message, Exception innerException)
@@ -39,10 +40,10 @@ public FrameworkException(string message, Exception innerException)
 | message | String | Сообщение. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [FrameworkException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../frameworkexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

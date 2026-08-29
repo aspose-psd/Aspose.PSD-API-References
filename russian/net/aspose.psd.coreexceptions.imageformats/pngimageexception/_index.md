@@ -1,14 +1,15 @@
 ---
-title: Class PngImageException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException сорт. Исключение для изображений png.
+title: "Класс PngImageException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PngImageException класс. Исключение изображения png"
 type: docs
 weight: 570
 url: /ru/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-Исключение для изображений png.
+Исключение изображения PNG.
 
 ```csharp
 public class PngImageException : Exception
@@ -18,12 +19,12 @@ public class PngImageException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | Инициализирует новый экземпляр`PngImageException` класс. |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`PngImageException` класс. |
+| [PngImageException](pngimageexception/#constructor)(string) | Инициализирует новый экземпляр класса `PngImageException`. |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `PngImageException`. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

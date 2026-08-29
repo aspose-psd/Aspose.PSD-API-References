@@ -1,14 +1,15 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImageResourceException строитель. Инициализирует новый экземплярPsdImageResourceException класс.
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PsdImageResourceException. Инициализирует новый экземпляр класса PsdImageResourceException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-Инициализирует новый экземпляр[`PsdImageResourceException`](../) класс.
+Инициализирует новый экземпляр класса [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
@@ -16,21 +17,21 @@ public PsdImageResourceException(string message, ResourceBlock resource)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
-| resource | ResourceBlock | Ресурс. |
+| message | String | Сообщение исключения. |
+| ресурс | ResourceBlock | Ресурс. |
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`PsdImageResourceException`](../) класс.
+Инициализирует новый экземпляр класса [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
@@ -38,15 +39,15 @@ public PsdImageResourceException(string message, ResourceBlock resource, Excepti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
-| resource | ResourceBlock | Ресурс. |
+| message | String | Сообщение исключения. |
+| ресурс | ResourceBlock | Ресурс. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

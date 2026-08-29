@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Справочник по Aspose.PSD для .NET API
-description: Frame строитель. Инициализирует новый экземплярFrame класс.
+title: "Frame.Frame"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Frame. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-Инициализирует новый экземпляр[`Frame`](../) класс.
+Конструктор по умолчанию.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| timeLine | TimeLine | Объект временной шкалы. |
+### См. также
 
-### Смотрите также
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

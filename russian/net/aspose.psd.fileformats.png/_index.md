@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает обработку файлов формата Png.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает формат файлов Png"
 type: docs
-weight: 190
+weight: 200
 url: /ru/net/aspose.psd.fileformats.png/
 ---
-Пространство имен обрабатывает обработку файлов формата Png.
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов PNG.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
 | [PngColorType](./pngcolortype/) | Представляет тип цвета изображения PNG. |
 | [PngFilterType](./pngfiltertype/) | Тип фильтра png. |

@@ -1,30 +1,31 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpHeaderPi строитель. Инициализирует новый экземплярXmpHeaderPi класс.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpHeaderPi. Инициализирует новый экземпляр класса XmpHeaderPi"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Инициализирует новый экземпляр[`XmpHeaderPi`](../) класс.
+Инициализирует новый экземпляр класса [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpHeaderPi`](../) класс.
+Инициализирует новый экземпляр класса [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi(string guid)
@@ -34,10 +35,10 @@ public XmpHeaderPi(string guid)
 | --- | --- | --- |
 | guid | String | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeOriginSettings свойство. Получает или задает значение указывающее является ли фигура недействительной.
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeOriginSettings. Получает или задает значение, указывающее, недействительна ли фигура"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-Получает или задает значение, указывающее, является ли фигура недействительной.
+Возвращает или задает значение, указывающее, недействительна ли форма.
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса VogkResource.
+Следующий пример демонстрирует поддержку ресурса VogkResource.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeOriginSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

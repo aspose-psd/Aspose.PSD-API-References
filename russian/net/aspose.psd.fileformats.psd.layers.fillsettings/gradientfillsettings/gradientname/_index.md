@@ -1,27 +1,29 @@
 ---
-title: GradientFillSettings.GradientName
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает имя градиента.
+title: "GradientFillSettings.GradientName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает имя градиента"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GradientName property
 
 Получает или задает имя градиента.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to BaseGradientFillSettings class. Property will be removed in further release.")]
 public string GradientName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя градиента.
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

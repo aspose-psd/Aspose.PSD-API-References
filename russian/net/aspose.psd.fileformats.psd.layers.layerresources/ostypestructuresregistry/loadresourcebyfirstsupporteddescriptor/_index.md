@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructuresRegistry метод. ЗагрузкиOSTypeStructure с помощью первого найденного открывателя подходящего для указанногоstream .
+title: "OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод OSTypeStructuresRegistry. Загружает OSTypeStructure, используя первый найденный открыватель, подходящий для указанного потока"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Загрузки[`OSTypeStructure`](../../ostypestructure/) с помощью первого найденного открывателя, подходящего для указанного*stream* .
+Загружает [`OSTypeStructure`](../../ostypestructure/) с помощью первого найденного открывателя, подходящего для указанного *потока*.
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
@@ -20,17 +21,17 @@ public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stre
 
 ### Возвращаемое значение
 
-Загруженный[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) или null, если открыватель не найден.
+Загруженный [`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) или null, если открыватель не найден.
 
-### Примечания
+## Примечания
 
-Первый открыватель будет последним зарегистрированным.
+Первый открыватель на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [OSTypeStructuresRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

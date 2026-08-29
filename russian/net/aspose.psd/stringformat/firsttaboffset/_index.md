@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает количество пробелов между началом строки текста и первой позицией табуляции.
+title: "StringFormat.FirstTabOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Получает количество пробелов между началом строки текста и первой табуляцией."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-Получает количество пробелов между началом строки текста и первой позицией табуляции.
+Получает количество пробелов между началом строки текста и первой табуляцией.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Смещение первой вкладки.
+Первый отступ табуляции.
 
-### Примечания
+## Примечания
 
-Свойство введено для удаленного метода GetTabStops.
+Свойство введено для удалённого метода GetTabStops.
 
-### Смотрите также
+### См. также
 
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

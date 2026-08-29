@@ -1,14 +1,15 @@
 ---
-title: Class TiffSRational
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.TiffSRational сорт. Рациональный тип tiff.
+title: "Класс TiffSRational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Tiff.TiffSRational. Тип rational TIFF"
 type: docs
-weight: 4240
+weight: 4710
 url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational class
 
-Рациональный тип tiff.
+Тип rational tiff.
 
 ```csharp
 public class TiffSRational
@@ -18,30 +19,30 @@ public class TiffSRational
 
 | Имя | Описание |
 | --- | --- |
-| [TiffSRational](tiffsrational/#constructor)() | Инициализирует новый экземпляр`TiffSRational` класс. |
-| [TiffSRational](tiffsrational/#constructor_1)(int) | Инициализирует новый экземпляр[`TiffRational`](../tiffrational/) класс. |
-| [TiffSRational](tiffsrational/#constructor_2)(int, int) | Инициализирует новый экземпляр`TiffSRational` класс. |
+| [TiffSRational](tiffsrational/#constructor)() | Инициализирует новый экземпляр класса `TiffSRational`. |
+| [TiffSRational](tiffsrational/#constructor_1)(int) | Инициализирует новый экземпляр класса [`TiffRational`](../tiffrational/). |
+| [TiffSRational](tiffsrational/#constructor_2)(int, int) | Инициализирует новый экземпляр класса `TiffSRational`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | Получает знаменатель. |
-| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | Получает номатор. |
-| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | Получает значение с плавающей запятой. |
-| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | Получает двойное значение. |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | Возвращает знаменатель. |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | Возвращает числитель. |
+| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | Возвращает значение типа float. |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | Возвращает значение типа double. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | Приближает указанное значение к дроби. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | Приближает указанное значение к дроби. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | Приближает указанное значение к дроби. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | Приближает указанное значение к дроби. |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | Определяет, является ли указанныйObject равен этому экземпляру. |
-| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | Аппроксимирует предоставленное значение в виде дроби. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | Аппроксимирует предоставленное значение в виде дроби. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | Аппроксимирует предоставленное значение в виде дроби. |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | Аппроксимирует предоставленное значение в виде дроби. |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | Определяет, равен ли указанный объект этому экземпляру. |
+| override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
@@ -49,9 +50,9 @@ public class TiffSRational
 | --- | --- |
 | const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | Эпсилон для вычисления дроби |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

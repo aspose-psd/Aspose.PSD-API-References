@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит Fill Layers
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит слои заполнения."
 type: docs
-weight: 240
+weight: 260
 url: /ru/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-Пространство имен содержит Fill Layers
+{{< psd/tize >}}
+Пространство имён содержит слои заполнения.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [FillLayer](./filllayer/) | Слой заливки. Слой цветовой заливки, градиентной заливки или узорной заливки, отличающийся[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | Слой заливки. Слой цветовой заливки, градиентной заливки или узорчатой заливки, который отличается параметрами из [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/). |
 
 

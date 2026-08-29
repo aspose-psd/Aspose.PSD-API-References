@@ -1,30 +1,31 @@
 ---
-title: TiffRational.TiffRational
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffRational строитель. Инициализирует новый экземплярTiffRational класс.
+title: "TiffRational.TiffRational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffRational конструктор. Инициализирует новый экземпляр класса TiffRational"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-Инициализирует новый экземпляр[`TiffRational`](../) класс.
+Инициализирует новый экземпляр класса [`TiffRational`](../).
 
 ```csharp
 public TiffRational()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-Инициализирует новый экземпляр[`TiffRational`](../) класс.
+Инициализирует новый экземпляр класса [`TiffRational`](../).
 
 ```csharp
 public TiffRational(uint value)
@@ -32,23 +33,23 @@ public TiffRational(uint value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | UInt32 | Значение номинатора. |
+| значение | UInt32 | Значение числителя. |
 
-### Примечания
+## Примечания
 
-В качестве указанного значения будет использоваться числитель, а знаменатель будет равен 1.
+Числитель будет использоваться как указанное значение, а знаменатель будет равен 1.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-Инициализирует новый экземпляр[`TiffRational`](../) класс.
+Инициализирует новый экземпляр класса [`TiffRational`](../).
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
@@ -56,13 +57,13 @@ public TiffRational(uint nominator, uint denominator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| nominator | UInt32 | Номинатор. |
-| denominator | UInt32 | Знаменатель. |
+| числитель | UInt32 | Числитель. |
+| знаменатель | UInt32 | Знаменатель. |
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

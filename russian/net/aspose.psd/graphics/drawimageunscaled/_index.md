@@ -1,72 +1,15 @@
 ---
-title: Graphics.DrawImageUnscaled
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Рисует указанное изображение используя исходный физический размер в указанном месте.
+title: "Graphics.DrawImageUnscaled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует указанное изображение, используя его оригинальный физический размер в заданном месте."
 type: docs
-weight: 230
+weight: 240
 url: /ru/net/aspose.psd/graphics/drawimageunscaled/
 ---
-## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
-
-Рисует указанное изображение, используя исходный физический размер в указанном месте.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, Point point)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| sourceImage | Image | Изображение для рисования. |
-| point | Point | [`Point`](../../point/) структура, определяющая левый верхний угол нарисованного изображения. |
-
-### Исключения
-
-| исключение | условие |
-| --- | --- |
-| ArgumentNullException | *sourceImage* нулевой. |
-
-### Смотрите также
-
-* class [Image](../../image/)
-* struct [Point](../../point/)
-* class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
-
----
-
-## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
-
-Рисует указанное изображение, используя его исходный физический размер в месте, указанном парой координат.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, int x, int y)
-```
-
-| Параметр | Тип | Описание |
-| --- | --- | --- |
-| sourceImage | Image | Изображение для рисования. |
-| x | Int32 | Координата x левого верхнего угла нарисованного изображения. |
-| y | Int32 | Y-координата левого верхнего угла нарисованного изображения. |
-
-### Исключения
-
-| исключение | условие |
-| --- | --- |
-| ArgumentNullException | *sourceImage* нулевой. |
-
-### Смотрите также
-
-* class [Image](../../image/)
-* class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## DrawImageUnscaled(Image, Rectangle) {#drawimageunscaled_1}
 
-Рисует указанное изображение, используя исходный физический размер в указанном месте.
+Рисует указанное изображение, используя его оригинальный физический размер, в указанном месте.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
@@ -74,28 +17,28 @@ public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceImage | Image | Изображение для рисования. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) который указывает верхний левый угол нарисованного изображения. Свойства X и Y прямоугольника определяют левый верхний угол. Свойства ширины и высоты игнорируются. |
+| sourceImage | Image | Изображение, которое будет отрисовано. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) который указывает верхний левый угол рисуемого изображения. Свойства X и Y прямоугольника задают верхний левый угол. Свойства Width и Height игнорируются. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *sourceImage* нулевой. |
+| ArgumentNullException | *sourceImage* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImageUnscaled(Image, int, int, int, int) {#drawimageunscaled_3}
 
-Рисует указанное изображение, используя исходный физический размер в указанном месте.
+Рисует указанное изображение, используя его оригинальный физический размер, в указанном месте.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int height)
@@ -103,9 +46,9 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int he
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceImage | Image | Изображение для рисования. |
-| x | Int32 | Координата x левого верхнего угла нарисованного изображения. |
-| y | Int32 | Y-координата левого верхнего угла нарисованного изображения. |
+| sourceImage | Image | Изображение, которое будет отрисовано. |
+| x | Int32 | Координата x верхнего левого угла рисуемого изображения. |
+| y | Int32 | Координата y верхнего левого угла рисуемого изображения. |
 | width | Int32 | Параметр не используется. |
 | height | Int32 | Параметр не используется. |
 
@@ -113,13 +56,71 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int he
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *sourceImage* нулевой. |
+| ArgumentNullException | *sourceImage* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
+
+Рисует указанное изображение, используя его оригинальный физический размер, в указанном месте.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, Point point)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| sourceImage | Image | Изображение, которое будет отрисовано. |
+| point | Point | [`Point`](../../point/) структура, указывающая верхний левый угол нарисованного изображения. |
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| ArgumentNullException | *sourceImage* равно null. |
+
+### См. также
+
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
+
+Рисует указанное изображение, используя его оригинальный физический размер, в месте, указанном парой координат.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, int x, int y)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| sourceImage | Image | Изображение, которое будет отрисовано. |
+| x | Int32 | Координата x верхнего левого угла рисуемого изображения. |
+| y | Int32 | Координата y верхнего левого угла рисуемого изображения. |
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| ArgumentNullException | *sourceImage* равно null. |
+
+### См. также
+
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

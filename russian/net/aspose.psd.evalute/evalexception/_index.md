@@ -1,11 +1,12 @@
 ---
-title: Class EvalException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Evalute.EvalException сорт. Пользовательское исключение для ошибок оценки
+title: "Класс EvalException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Evalute.EvalException. Пользовательское исключение для ошибок оценки"
 type: docs
-weight: 790
+weight: 800
 url: /ru/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
 Пользовательское исключение для ошибок оценки
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.evalute/evalexception/
 public class EvalException : Exception
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Получает сообщение, связанное с этим исключением |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

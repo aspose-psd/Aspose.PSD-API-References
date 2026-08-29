@@ -1,14 +1,15 @@
 ---
-title: TimeLine.ApplyTo
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeLine метод. Применить текущие значения временной шкалы к входным даннымPsdImage .
+title: "TimeLine.ApplyTo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TimeLine. Применить текущие значения таймлайна к входному PsdImage"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/timeline/applyto/
 ---
+{{< psd/tize >}}
 ## TimeLine.ApplyTo method
 
-Применить текущие значения временной шкалы к входным данным[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/) .
+Применить текущие значения таймлайна к входному [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/).
 
 ```csharp
 public void ApplyTo(PsdImage psdImage)
@@ -16,11 +17,11 @@ public void ApplyTo(PsdImage psdImage)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| psdImage | PsdImage | PSD изображение. |
+| psdImage | PsdImage | Изображение psd. |
 
-### Примеры
+## Примеры
 
-Класс TimeLine дает высокоуровневую возможность манипулировать временной шкалой PsdImage, например, изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
+Класс TimeLine предоставляет высокоуровневую возможность манипулировать таймлайном PsdImage, например изменять задержку кадра или редактировать состояние слоя в конкретном кадре.
 
 ```csharp
 [C#]
@@ -32,17 +33,17 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
     TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
 
-    // Изменяем метод удаления кадра 1
+    // Изменить метод освобождения кадра 1
     timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
     // Изменить задержку кадра 2
     timeLine.Frames[1].Delay = 15;
 
-    // Изменяем непрозрачность «Слоя 1» на кадре 2
+    // Изменить непрозрачность 'Layer 1' в кадре 2
     LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
     layerState11.Opacity = 50;
 
-    // перемещаем 'Слой 1' в левый нижний угол кадра 3
+    // переместить 'Layer 1' в левый нижний угол в кадре 3
     LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
     layerState21.PositionOffset = new Point(-50, 230);
 
@@ -51,21 +52,21 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
     frames.Add(new Frame(timeLine));
     timeLine.Frames = frames.ToArray();
 
-    // Изменяем режим смешивания «Слой 1» на кадре 4
+    // Изменить blendMode слоя 'Layer 1' на кадре 4
     LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Применить изменения к экземпляру PsdImage
+    // Применить изменения обратно к экземпляру PsdImage
     timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [TimeLine](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

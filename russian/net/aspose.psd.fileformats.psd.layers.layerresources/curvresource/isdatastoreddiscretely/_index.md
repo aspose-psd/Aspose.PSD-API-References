@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvResource свойство. Получает или задает значение указывающее является ли этот экземпляр хранимыми данными дискретными.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CurvResource. Получает или задает значение, указывающее, хранится ли этот экземпляр дискретно"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-Получает или задает значение, указывающее, является ли этот экземпляр хранимыми данными дискретными.
+Получает или задает значение, указывающее, хранится ли данный экземпляр дискретно.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр хранит дискретные данные; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр хранит данные дискретно; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Отключает настройку цвета для категории по умолчанию.
+title: "ImageAttributes.SetNoOp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Отключает коррекцию цвета для категории по умолчанию."
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
-Отключает настройку цвета для категории по умолчанию.
+Отключает коррекцию цвета для категории по умолчанию.
 
 ```csharp
 public void SetNoOp()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetNoOp(ColorAdjustType) {#setnoop_1}
 
-Отключает настройку цвета для указанной категории.
+Отключает коррекцию цвета для указанной категории.
 
 ```csharp
 public void SetNoOp(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void SetNoOp(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой коррекция цвета отключена. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), указывающий категорию, для которой отключена коррекция цвета. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

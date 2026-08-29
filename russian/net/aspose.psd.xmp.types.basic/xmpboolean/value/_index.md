@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBoolean свойство. Получает или задает значение указывающее является ли этоXmpBoolean значение.
+title: "XmpBoolean.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpBoolean. Получает или задает значение, указывающее, является ли данный XmpBoolean значением"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-Получает или задает значение, указывающее, является ли это[`XmpBoolean`](../) значение.
+Получает или задает значение, указывающее, является ли данный [`XmpBoolean`](../) значением.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если значение; в противном случае,`ЛОЖЬ` .
+`true` если значение; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [XmpBoolean](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

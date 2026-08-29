@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProgressEventHandlerInfo свойство. Получает тип события.
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProgressEventHandlerInfo. Возвращает тип события"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
 Получает тип события.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 public EventType EventType { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип события.
 
-### Смотрите также
+### См. также
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* пространство имен [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

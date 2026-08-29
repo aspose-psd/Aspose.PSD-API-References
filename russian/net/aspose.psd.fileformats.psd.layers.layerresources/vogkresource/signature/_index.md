@@ -1,23 +1,24 @@
 ---
-title: VogkResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: VogkResource свойство. Получает подпись ресурса слоя.
+title: "VogkResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VogkResource property. Получает подпись ресурса слоя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/signature/
 ---
+{{< psd/tize >}}
 ## VogkResource.Signature property
 
-Получает подпись ресурса слоя.
+Получает сигнатуру ресурса слоя.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VogkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

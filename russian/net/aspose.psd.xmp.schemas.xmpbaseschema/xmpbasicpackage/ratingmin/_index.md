@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage поле. Минимальное значение рейтинга.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле XmpBasicPackage. Минимальное значение рейтинга"
 type: docs
-weight: 110
+weight: 140
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
 Минимальное значение рейтинга.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 public const int RatingMin;
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.ReplaceColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфаканала для сохранения сглаженных краев.
+title: "RasterImage.ReplaceColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Заменяет один цвет другим с допустимой разницей и сохраняет исходное альфа‑значение для сохранения плавных краёв"
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/aspose.psd/rasterimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## ReplaceColor(Color, byte, Color) {#replacecolor}
 
-Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа-канала для сохранения сглаженных краев.
+Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа‑канала, чтобы сохранить плавные края.
 
 ```csharp
 public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
@@ -16,22 +17,22 @@ public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oldColor | Color | Старый цвет на замену. |
-| oldColorDiff | Byte | Допускается разница в старом цвете, чтобы можно было расширить замененный цветовой тон. |
-| newColor | Color | Новый цвет для замены старого. |
+| oldColor | Color | Старый цвет, который будет заменён. |
+| oldColorDiff | Byte | Допустимая разница в старом цвете, позволяющая расширить тон заменяемого цвета. |
+| newColor | Color | Новый цвет, которым заменяется старый цвет. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceColor(int, byte, int) {#replacecolor_1}
 
-Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа-канала для сохранения сглаженных краев.
+Заменяет один цвет другим с допустимой разницей и сохраняет исходное значение альфа‑канала, чтобы сохранить плавные края.
 
 ```csharp
 public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
@@ -39,14 +40,14 @@ public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newCol
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| oldColorArgb | Int32 | Старое значение цвета ARGB, подлежащее замене. |
-| oldColorDiff | Byte | Допускается разница в старом цвете, чтобы можно было расширить замененный цветовой тон. |
-| newColorArgb | Int32 | Новое значение цвета ARGB для замены старого цвета. |
+| oldColorArgb | Int32 | Значение ARGB старого цвета, которое будет заменено. |
+| oldColorDiff | Byte | Допустимая разница в старом цвете, позволяющая расширить тон заменяемого цвета. |
+| newColorArgb | Int32 | Значение ARGB нового цвета, которым заменяется старый цвет. |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

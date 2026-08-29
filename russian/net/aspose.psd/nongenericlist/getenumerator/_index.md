@@ -1,11 +1,12 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Возвращает перечислитель который перебирает коллекцию.
+title: "NonGenericList.GetEnumerator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Возвращает enumerator, который перебирает коллекцию"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
 Возвращает перечислитель, который перебирает коллекцию.
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### Возвращаемое значение
 
-АнIEnumerator объект, который можно использовать для перебора коллекции.
+Объект IEnumerator, который можно использовать для перебора коллекции.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

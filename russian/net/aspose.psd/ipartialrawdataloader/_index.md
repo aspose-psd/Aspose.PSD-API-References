@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IPartialRawDataLoader интерфейс. Частичный загрузчик данных.
+title: "Интерфейс IPartialRawDataLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IPartialRawDataLoader. Частичный загрузчик данных"
 type: docs
-weight: 4540
+weight: 5010
 url: /ru/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-Частичный загрузчик данных.
+Загрузчик частичных данных.
 
 ```csharp
 public interface IPartialRawDataLoader
@@ -21,9 +22,9 @@ public interface IPartialRawDataLoader
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Обрабатывает загруженные данные. |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Обрабатывает загруженные данные. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

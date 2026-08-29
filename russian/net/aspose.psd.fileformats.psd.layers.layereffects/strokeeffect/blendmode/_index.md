@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.BlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: StrokeEffect свойство. Получает или задает режим наложения.
+title: "StrokeEffect.BlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StrokeEffect свойство. Получает и задает режим наложения"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.BlendMode property
 
 Получает или задает режим наложения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmo
 public BlendMode BlendMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим наложения.
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [StrokeEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

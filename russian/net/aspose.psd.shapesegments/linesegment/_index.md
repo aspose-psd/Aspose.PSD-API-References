@@ -1,14 +1,15 @@
 ---
-title: Class LineSegment
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ShapeSegments.LineSegment сорт. Представляет сегмент ведущий прямо от определенной точки к следующей точке.
+title: "Класс LineSegment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ShapeSegments.LineSegment класс. Представляет сегмент, идущий непосредственно от одной конкретной точки к следующей"
 type: docs
-weight: 5450
+weight: 5950
 url: /ru/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-Представляет сегмент, ведущий прямо от определенной точки к следующей точке.
+Представляет сегмент, ведущий напрямую от конкретной точки к следующей точке.
 
 ```csharp
 public class LineSegment : ShapeSegment
@@ -18,19 +19,19 @@ public class LineSegment : ShapeSegment
 
 | Имя | Описание |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Инициализирует новый экземпляр`LineSegment` класс. |
+| [LineSegment](linesegment/)(PointF, PointF) | Инициализирует новый экземпляр класса `LineSegment`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Получает конечную точку. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Получает начальную точку. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Возвращает конечную точку. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Возвращает начальную точку. |
 
-### Смотрите также
+### См. также
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* пространство имен [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.Paths
-second_title: Справочник по Aspose.PSD для .NET API
-description: WorkingPathResource свойство. Получает или задает записи пути.
+title: "WorkingPathResource.Paths"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство WorkingPathResource. Получает или задает записи путей"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/paths/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.Paths property
 
 Получает или задает записи пути.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/paths/
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Пути.
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции обрезки.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Загружаем сохраненное изображение и проверяем изменения.
+// Загрузить сохранённое изображение и проверить изменения.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Поиск ресурса WorkingPathResource.
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [WorkingPathResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

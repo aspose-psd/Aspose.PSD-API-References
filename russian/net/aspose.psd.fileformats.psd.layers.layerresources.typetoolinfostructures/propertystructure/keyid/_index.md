@@ -1,11 +1,12 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Справочник по Aspose.PSD для .NET API
-description: PropertyStructure свойство. Получает или задает идентификатор ключа.
+title: "PropertyStructure.KeyID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PropertyStructure. Получает или задает идентификатор ключа"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
 Получает или задает идентификатор ключа.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID KeyID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор ключа.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

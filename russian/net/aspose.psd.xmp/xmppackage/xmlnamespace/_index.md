@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage свойство. Получает пространство имен XML.
+title: "XmpPackage.XmlNamespace"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage свойство. Получает XML‑пространство имён"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
 Получает пространство имен XML.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 public string XmlNamespace { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пространство имен XML.
+XML‑пространство имён.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Справочник по Aspose.PSD для .NET API
-description: DataStreamSupporter свойство. Получает поток данных объекта.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DataStreamSupporter. Получает поток данных объекта"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
 Получает поток данных объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Поток данных объекта.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* пространство имен [Aspose.PSD](../../datastreamsupporter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

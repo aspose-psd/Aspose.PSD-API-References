@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее заблокирован ли этот слой. Запрещает внесение изменений в элемент.
+title: "AiLayerSection.IsLocked"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает значение, указывающее, заблокирован ли этот слой. Предотвращает изменения элемента"
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-Получает или задает значение, указывающее, заблокирован ли этот слой. Запрещает внесение изменений в элемент.
+Получает или задает значение, указывающее, заблокирован ли слой. Предотвращает изменения элемента.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот слой заблокирован; в противном случае,`ЛОЖЬ` .
+`true` если этот слой заблокирован; иначе, `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Pen.RotateTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen метод. Поворачивает локальное геометрическое преобразование на указанный угол. Этот метод добавляет поворот к преобразованию.
+title: "Pen.RotateTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Pen. Поворачивает локальное геометрическое преобразование на указанный угол. Этот метод добавляет вращение в начало преобразования."
 type: docs
 weight: 210
 url: /ru/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Поворачивает локальное геометрическое преобразование на указанный угол. Этот метод добавляет поворот к преобразованию.
+Поворачивает локальное геометрическое преобразование на указанный угол. Этот метод добавляет вращение в начало преобразования.
 
 ```csharp
 public void RotateTransform(float angle)
@@ -16,13 +17,13 @@ public void RotateTransform(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
+| угол | Single | Угол вращения. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void RotateTransform(float angle, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
-| order | MatrixOrder | А[`MatrixOrder`](../../matrixorder/) который указывает, следует ли добавлять или добавлять перед матрицей вращения. |
+| угол | Single | Угол вращения. |
+| order | MatrixOrder | Объект [`MatrixOrder`](../../matrixorder/) указывает, следует ли добавить или предварительно вставить матрицу вращения. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

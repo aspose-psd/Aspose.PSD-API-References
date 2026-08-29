@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask свойство. Получает результат этой задачи.
+title: "IAsyncTask.Result"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IAsyncTask. Возвращает результат этой задачи"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 Получает результат этой задачи.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.asynctask/iasynctask/result/
 public object Result { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Результат этой задачи.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

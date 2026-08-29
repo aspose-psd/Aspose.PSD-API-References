@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.ImageData
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskData свойство. Получает или задает данные маски слоя или комбинированной/конечной маски если есть векторная маска в файле PSD.
+title: "LayerMaskData.ImageData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskData. Получает или задает данные маски слоя или объединённую/конечную маску, если в файле PSD присутствует векторная маска"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.ImageData property
 
-Получает или задает данные маски слоя (или комбинированной/конечной маски, если есть векторная маска) в файле PSD.
+Получает или задает данные маски слоя (или комбинированную / окончательную маску, если есть векторная маска) в файле PSD.
 
 ```csharp
 public byte[] ImageData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные маски слоя в изображении PSD.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorQuantizationMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageResizeSettings свойство. Получает или задает метод квантования цвета.
+title: "ImageResizeSettings.ColorQuantizationMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageResizeSettings. Возвращает или задает метод квантования цвета"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imageresizesettings/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorQuantizationMethod property
 
-Получает или задает метод квантования цвета.
+Получает или задает метод квантования цветов.
 
 ```csharp
 public ColorQuantizationMethod ColorQuantizationMethod { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Метод квантования цвета.
 
-### Смотрите также
+### См. также
 
 * enum [ColorQuantizationMethod](../../colorquantizationmethod/)
 * class [ImageResizeSettings](../)
-* пространство имен [Aspose.PSD](../../imageresizesettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

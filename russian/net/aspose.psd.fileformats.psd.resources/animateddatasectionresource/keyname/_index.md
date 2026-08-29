@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionResource.KeyName
-second_title: Справочник по Aspose.PSD для .NET API
-description: AnimatedDataSectionResource свойство. Имя ключа ресурса.
+title: "AnimatedDataSectionResource.KeyName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AnimatedDataSectionResource свойство. Имя ключа ресурса"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/keyname/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.KeyName property
 
 Имя ключа ресурса.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/ke
 public string KeyName { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AnimatedDataSectionResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

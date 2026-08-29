@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.WrapMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransformBrush свойство. Получает или задаетWrapMode перечисление указывающее режим переноса для этогоTransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TransformBrush свойство. Получает или задает перечисление WrapMode, которое указывает режим обтекания для этого TransformBrush"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-Получает или задает[`WrapMode`](../../../aspose.psd/wrapmode/) перечисление, указывающее режим переноса для этого[`TransformBrush`](../) .
+Получает или задает перечисление [`WrapMode`](../../../aspose.psd/wrapmode/), которое указывает режим обтекания для этого [`TransformBrush`](../).
 
 ```csharp
 public WrapMode WrapMode { get; set; }
@@ -16,13 +17,13 @@ public WrapMode WrapMode { get; set; }
 
 ### Возвращаемое значение
 
-А[`WrapMode`](../../../aspose.psd/wrapmode/) который указывает, как заполняется этим[`TransformBrush`](../) плиточные.
+Перечисление [`WrapMode`](../../../aspose.psd/wrapmode/), которое указывает, как заполняемые области, нарисованные с помощью этого [`TransformBrush`](../), мозаично повторяются.
 
-### Смотрите также
+### См. также
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../transformbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

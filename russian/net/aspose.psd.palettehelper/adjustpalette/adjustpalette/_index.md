@@ -1,11 +1,12 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: AdjustPalette строитель. Конструктор по умолчанию.
+title: "AdjustPalette.AdjustPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AdjustPalette конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 public AdjustPalette()
 ```
 
-### Смотрите также
+### См. также
 
 * class [AdjustPalette](../)
-* пространство имен [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

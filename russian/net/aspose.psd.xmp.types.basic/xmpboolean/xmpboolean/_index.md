@@ -1,14 +1,15 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBoolean строитель. Инициализирует новый экземплярXmpBoolean класс на основе логического значения.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpBoolean. Инициализирует новый экземпляр класса XmpBoolean на основе логического значения."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpBoolean`](../) класс на основе логического значения.
+Инициализирует новый экземпляр класса [`XmpBoolean`](../) на основе логического значения.
 
 ```csharp
 public XmpBoolean(bool value)
@@ -16,35 +17,35 @@ public XmpBoolean(bool value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Boolean | Логическое значение. Допустимые значения: True или False. |
+| значение | Boolean | Логическое значение. Допустимые значения: True или False. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBoolean](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Инициализирует новый экземпляр[`XmpBoolean`](../) класс со значением по умолчанию.
+Инициализирует новый экземпляр класса [`XmpBoolean`](../) со значением по умолчанию.
 
 ```csharp
 public XmpBoolean()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpBoolean](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Инициализирует новый экземпляр[`XmpBoolean`](../) класс.
+Инициализирует новый экземпляр класса [`XmpBoolean`](../).
 
 ```csharp
 public XmpBoolean(string value)
@@ -52,19 +53,19 @@ public XmpBoolean(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ценить |
-| ArgumentException | Недопустимое строковое значение;значение |
+| ArgumentNullException | значение |
+| ArgumentException | Недопустимое строковое значение;value |
 
-### Смотрите также
+### См. также
 
 * class [XmpBoolean](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath строитель. Инициализирует новый экземплярGraphicsPath класс.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GraphicsPath. Инициализирует новый экземпляр класса GraphicsPath."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-Инициализирует новый экземпляр[`GraphicsPath`](../) класс.
+Инициализирует новый экземпляр класса [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`GraphicsPath`](../) класс.
+Инициализирует новый экземпляр класса [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures)
@@ -32,20 +33,20 @@ public GraphicsPath(Figure[] figures)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| figures | Figure[] | Цифры для инициализации. |
+| фигуры | Figure[] | Фигуры, из которых происходит инициализация. |
 
-### Смотрите также
+### См. также
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-Инициализирует новый экземпляр[`GraphicsPath`](../) класс.
+Инициализирует новый экземпляр класса [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
@@ -53,22 +54,22 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| figures | Figure[] | Цифры для инициализации. |
-| fillMode | FillMode | Режим заполнения. |
+| фигуры | Figure[] | Фигуры, из которых происходит инициализация. |
+| fillMode | FillMode | Режим заливки. |
 
-### Смотрите также
+### См. также
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-Инициализирует новый экземпляр[`GraphicsPath`](../) класс.
+Инициализирует новый экземпляр класса [`GraphicsPath`](../).
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
@@ -76,13 +77,13 @@ public GraphicsPath(FillMode fillMode)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fillMode | FillMode | Режим заполнения. |
+| fillMode | FillMode | Режим заливки. |
 
-### Смотрите также
+### См. также
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

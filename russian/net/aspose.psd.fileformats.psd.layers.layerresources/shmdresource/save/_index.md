@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: ShmdResource метод. Сохраняет указанный контейнер потока.
+title: "ShmdResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ShmdResource. Сохраняет указанный потоковый контейнер"
 type: docs
-weight: 80
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Save method
 
 Сохраняет указанный контейнер потока.
@@ -19,11 +20,11 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | Контейнер потока. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ShmdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifGainControl перечисление. enum управления усилением exif.
+title: "Перечисление ExifGainControl"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. перечисление управления усилением exif"
 type: docs
-weight: 880
+weight: 890
 url: /ru/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-enum управления усилением exif.
+Перечисление управления усилением exif.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Нет регулировки усиления. |
-| LowGainUp | `1` | Низкий коэффициент усиления. |
-| HighGainUp | `2` | Высокий коэффициент усиления. |
+| None | `0` | Нет управления усилением. |
+| LowGainUp | `1` | Низкое усиление вверх. |
+| HighGainUp | `2` | Высокое усиление вверх. |
 | LowGainDown | `3` | Низкое усиление вниз. |
-| HighGainDown | `4` | Уменьшение высокого усиления. |
+| HighGainDown | `4` | Высокое усиление вниз. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает высоту GPS.
+title: "ExifData.GPSAltitude"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает высоту GPS"
 type: docs
 weight: 360
 url: /ru/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
 Получает или задает высоту GPS.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/gpsaltitude/
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота GPS.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

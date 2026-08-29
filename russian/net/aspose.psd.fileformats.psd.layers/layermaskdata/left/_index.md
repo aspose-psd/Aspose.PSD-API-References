@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Left
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskData свойство. Получает или задает положение маски левого слоя.
+title: "LayerMaskData.Left"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskData. Получает или задает позицию левой маски слоя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/left/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Left property
 
-Получает или задает положение маски левого слоя.
+Получает или задает позицию левой части маски слоя.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Положение маски левого слоя.
+Левая позиция маски слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

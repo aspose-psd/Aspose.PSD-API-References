@@ -1,23 +1,24 @@
 ---
-title: FontSettings.Reset
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Сбрасывает папку шрифтов и имя шрифта по умолчанию на системное значение по умолчанию.
+title: "FontSettings.Reset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FontSettings метод. Сбрасывает папку шрифтов и имя шрифта по умолчанию к системному значению"
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
-Сбрасывает папку шрифтов и имя шрифта по умолчанию на системное значение по умолчанию.
+Сбрасывает папку шрифтов и имя шрифта по умолчанию к системным настройкам.
 
 ```csharp
 public static void Reset()
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

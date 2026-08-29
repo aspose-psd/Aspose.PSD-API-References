@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Remove
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage метод. Удалить значение с указанным ключом.
+title: "XmpPackage.Remove"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage метод. Удаляет значение с указанным ключом"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-Удалить значение с указанным ключом.
+Удаляет значение с указанным ключом.
 
 ```csharp
 public virtual bool Remove(string key)
@@ -16,16 +17,16 @@ public virtual bool Remove(string key)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с удаленным значением. |
+| ключ | String | Строковое представление ключа, связанного с удалённым значением. |
 
 ### Возвращаемое значение
 
 Возвращает true, если значение с указанным ключом было удалено.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

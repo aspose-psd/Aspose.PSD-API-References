@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.IsDisabled
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorPathDataResource свойство. Получает или задает значение указывающее отключен ли этот экземпляр.
+title: "VectorPathDataResource.IsDisabled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorPathDataResource свойство. Получает или задает значение, указывающее, что данный экземпляр отключён"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsDisabled property
 
 Получает или задает значение, указывающее, отключен ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public bool IsDisabled { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр отключен; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр отключен; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [VectorPathDataResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

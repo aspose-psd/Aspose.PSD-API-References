@@ -1,30 +1,31 @@
 ---
-title: ImageAttributes.ClearThreshold
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает пороговое значение для категории по умолчанию.
+title: "ImageAttributes.ClearThreshold"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает значение порога для категории по умолчанию."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd/imageattributes/clearthreshold/
 ---
+{{< psd/tize >}}
 ## ClearThreshold() {#clearthreshold}
 
-Очищает пороговое значение для категории по умолчанию.
+Очищает значение порога для категории по умолчанию.
 
 ```csharp
 public void ClearThreshold()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearThreshold(ColorAdjustType) {#clearthreshold_1}
 
-Очищает пороговое значение для указанной категории.
+Очищает значение порога для указанной категории.
 
 ```csharp
 public void ClearThreshold(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void ClearThreshold(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой порог очищается. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой очищается порог. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

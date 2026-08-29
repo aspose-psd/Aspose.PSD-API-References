@@ -1,31 +1,32 @@
 ---
-title: Enum PathOperations
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations перечисление. Операции для объединения фигур пути логические операции.
+title: "Перечисление PathOperations"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations перечисление. Операции для комбинирования форм пути с использованием булевых операций"
 type: docs
-weight: 1390
+weight: 1400
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-Операции для объединения фигур пути (логические операции).
+Операции объединения форм пути (логические операции).
 
 ```csharp
 public enum PathOperations
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | Исключить перекрывающиеся фигуры (операция XOR). |
-| CombineShapes | `1` | Объединить фигуры (операция ИЛИ). Это значение по умолчанию в Photoshop. |
-| SubtractFrontShape | `2` | Вычесть переднюю форму (НЕ операция). |
-| IntersectShapeAreas | `3` | Пересечение областей формы (операция И). |
+| ExcludeOverlappingShapes | `0` | Исключить перекрывающиеся формы (операция XOR). |
+| CombineShapes | `1` | Объединить формы (операция OR). Это значение по умолчанию в Photoshop. |
+| SubtractFrontShape | `2` | Вычесть переднюю форму (операция NOT). |
+| IntersectShapeAreas | `3` | Пересечь области форм (операция AND). |
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка новых свойств LengthRecord, PathOperations (логические операции), ShapeIndex и BezierKnotRecordsCount.
+Следующий пример кода демонстрирует поддержку новых свойств LengthRecord, PathOperations (булевые операции), ShapeIndex и BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Здесь мы меняем способ объединения фигур.
+    // Здесь мы меняем способ комбинирования между формами.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -58,9 +59,9 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

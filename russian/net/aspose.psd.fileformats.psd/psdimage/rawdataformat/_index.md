@@ -1,11 +1,12 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает формат необработанных данных.
+title: "PsdImage.RawDataFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает формат необработанных данных"
 type: docs
 weight: 220
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
 Получает формат необработанных данных.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Формат необработанных данных.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

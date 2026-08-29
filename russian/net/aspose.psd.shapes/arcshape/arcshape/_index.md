@@ -1,30 +1,31 @@
 ---
-title: ArcShape.ArcShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: ArcShape строитель. Инициализирует новый экземплярArcShape класс.
+title: "ArcShape.ArcShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ArcShape конструктор. Инициализирует новый экземпляр класса ArcShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/arcshape/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape() {#constructor}
 
-Инициализирует новый экземпляр[`ArcShape`](../) класс.
+Инициализирует новый экземпляр класса [`ArcShape`](../).
 
 ```csharp
 public ArcShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ArcShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../arcshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float) {#constructor_1}
 
-Инициализирует новый экземпляр[`ArcShape`](../) класс.
+Инициализирует новый экземпляр класса [`ArcShape`](../).
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -32,22 +33,22 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
+| прямоугольник | RectangleF | Прямоугольник. |
 | startAngle | Single | Начальный угол. |
-| sweepAngle | Single | Угол развертки. |
+| sweepAngle | Single | Угол охвата. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../arcshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float, bool) {#constructor_2}
 
-Инициализирует новый экземпляр[`ArcShape`](../) класс.
+Инициализирует новый экземпляр класса [`ArcShape`](../).
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool isClosed)
@@ -55,16 +56,16 @@ public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool i
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
+| прямоугольник | RectangleF | Прямоугольник. |
 | startAngle | Single | Начальный угол. |
-| sweepAngle | Single | Угол развертки. |
-| isClosed | Boolean | Если установлено`истинный` дуга закрыта. Замкнутая дуга на самом деле вырождается в эллипс. |
+| sweepAngle | Single | Угол охвата. |
+| isClosed | Boolean | Если установлено `true`, дуга закрыта. Закрытая дуга фактически вырождается в эллипс. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../arcshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

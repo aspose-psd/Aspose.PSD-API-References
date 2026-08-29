@@ -1,36 +1,37 @@
 ---
-title: Enum TiffOptionsError
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsError перечисление. Коды ошибок опций tiff.
+title: "Перечисление TiffOptionsError"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageOptions.TiffOptionsError enum. Коды ошибок параметров TIFF"
 type: docs
-weight: 4950
+weight: 5440
 url: /ru/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
-Коды ошибок опций tiff.
+Коды ошибок параметров tiff.
 
 ```csharp
 public enum TiffOptionsError
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | NoError | `0` | Нет кода ошибки. |
-| NoColorMap | `1` | Цветовая карта не определена. |
-| ColorMapLengthInvalid | `2` | Недопустимая длина цветовой карты. |
-| CompressionSppMismatch | `3` | Сжатие не соответствует количеству выборок на пиксель. |
+| NoColorMap | `1` | Карта цветов не определена. |
+| ColorMapLengthInvalid | `2` | Недопустимая длина карты цветов. |
+| CompressionSppMismatch | `3` | Сжатие не соответствует количеству образцов на пиксель. |
 | PhotometricCompressionMismatch | `4` | Сжатие не соответствует фотометрическим настройкам. |
-| PhotometricSppMismatch | `5` | Фотометрия не соответствует количеству выборок на пиксель. |
-| NotSupportedAlphaStorage | `6` | Альфа-хранилище не поддерживается. |
-| PhotometricBitsPerSampleMismatch | `7` | Фотометрические биты на образец недействительны |
-| Baseline6OptionsMismatch | `8` | Указанные параметры опций TIFF не соответствуют стандарту TIFF Baseline 6.0 |
+| PhotometricSppMismatch | `5` | Фотометрические параметры не соответствуют количеству образцов на пиксель. |
+| NotSupportedAlphaStorage | `6` | Хранение альфа-канала не поддерживается. |
+| PhotometricBitsPerSampleMismatch | `7` | Недопустимое количество бит на образец в фотометрических данных |
+| Baseline6OptionsMismatch | `8` | Указанные параметры TIFF не соответствуют стандарту TIFF Baseline 6.0 |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

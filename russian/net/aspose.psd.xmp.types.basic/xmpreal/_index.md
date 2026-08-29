@@ -1,14 +1,15 @@
 ---
-title: Class XmpReal
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal сорт. Представляет реальный XMP.
+title: "Класс XmpReal"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Basic.XmpReal. Представляет XMP Real"
 type: docs
-weight: 5970
+weight: 6470
 url: /ru/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-Представляет реальный XMP.
+Представляет XMP Real.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -18,25 +19,25 @@ public sealed class XmpReal : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Инициализирует новый экземпляр`XmpReal` класс. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Инициализирует новый экземпляр`XmpReal` класс. |
+| [XmpReal](xmpreal/#constructor)(float) | Инициализирует новый экземпляр класса `XmpReal`. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Инициализирует новый экземпляр класса `XmpReal`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Получает или устанавливает значение с плавающей запятой. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Получает или задает значение типа float. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

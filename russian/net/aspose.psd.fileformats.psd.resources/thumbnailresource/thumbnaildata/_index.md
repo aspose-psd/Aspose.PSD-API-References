@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает данные эскиза.
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает данные миниатюры"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
-Получает или задает данные эскиза.
+Получает или задает данные миниатюры.
 
 ```csharp
 public Color[] ThumbnailData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Данные эскиза.
+Данные миниатюры.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

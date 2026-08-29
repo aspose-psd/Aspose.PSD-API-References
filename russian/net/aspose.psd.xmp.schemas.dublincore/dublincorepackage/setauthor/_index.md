@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Справочник по Aspose.PSD для .NET API
-description: DublinCorePackage метод. Добавляет автора.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DublinCorePackage. Добавляет автора"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 Добавляет автора.
@@ -16,13 +17,13 @@ public void SetAuthor(string author)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| author | String | Автор. |
+| автор | String | Автор. |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,12 +37,12 @@ public void SetAuthor(string[] author)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| author | String[] | Автор. |
+| автор | String[] | Автор. |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

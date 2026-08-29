@@ -1,74 +1,75 @@
 ---
-title: Class SmartObjectResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource сорт. Определяет класс SmartObjectResource который содержит информацию о слое смартобъектов в PSDфайле. Является базовым классом для ресурсов Sold и Sole который используется для поддержки слоев смартобъектов в изображениях Adobe Photoshop.
+title: "Класс SmartObjectResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource. Определяет класс SmartObjectResource, который содержит информацию о слое Smart Object в файле PSD. Является базовым классом для ресурсов Sold и Sole, используемых для поддержки слоёв Smart Object в изображениях Adobe Photoshop."
 type: docs
-weight: 2990
+weight: 3340
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-Определяет класс SmartObjectResource, который содержит информацию о слое смарт-объектов в PSD-файле. Является базовым классом для ресурсов Sold и Sole, который используется для поддержки слоев смарт-объектов в изображениях Adobe® Photoshop®.
+Определяет класс SmartObjectResource, который содержит информацию о слое смарт‑объекта в файле PSD. Это базовый класс для ресурсов Sold и Sole, используемый для поддержки слоёв смарт‑объектов в изображениях Adobe® Photoshop®.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Получает или задает политику сглаживания данных слоя смарт-объекта в изображении PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Получает или задает положение нижнего слоя размещенного слоя в изображении PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Получает или задает границы размещенного слоя в файле PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Получает или задает значение компоновки данных слоя смарт-объекта в PSD-файле. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Получает или задает идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Композиции — это композиции макета страницы, которые могут создавать дизайнеры. Используя композиции слоев, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe® Photoshop®. Композиция слоев — это снимок состояния панели «Слои». Композиции слоев сохраняют три типа параметров слоя, но это свойство получает идентификатор выбора композиции слоев для слоя смарт-объекта в файле PSD. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Получает или задает обрезку данных слоя смарт-объекта в изображении PSD. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Получает или задает политику сглаживания данных слоя Smart Object в изображении PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Получает или задает положение снизу размещённого слоя в изображении PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Получает или задает границы размещённого слоя в файле PSD. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Получает или задает значение компа данных слоя Smart Object в файле PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Получает или задает идентификатор текущего выбранного компа для дочернего документа, который будет -1, если ничего не выбрано. Компы — это композиции макета страницы, которые дизайнеры могут создавать. Используя layer comps, вы можете создавать, управлять и просматривать несколько версий макета в одном файле Adobe Photoshop. Компа слоя — это снимок состояния панели Layers. Layer comps сохраняют три типа параметров слоя, но это свойство получает идентификатор выбора Layer Comp для слоя Smart Object в файле PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Получает или задает обрезку данных слоя Smart Object в изображении PSD. |
 | [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Получает или задает знаменатель длительности. |
 | [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Получает или задает числитель длительности. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Получает или задает количество кадров данных слоя смарт-объекта в PSD-файле. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Получает или задает количество кадров данных слоя смарт‑объекта в файле PSD. |
 | [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Получает или задает знаменатель шага кадра. |
 | [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Получает или задает числитель шага кадра. |
 | [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Получает или задает высоту. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещённого слоя в файле PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Получает или задает единицу измерения горизонтальных точек сетки. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Получает или задает значение, указывающее, является ли этот стиль деформации экземпляра пользовательским. Если true, он содержит точки сетки. Если установлено значение false, стираются точки сетки. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Получает или задает элементы дескриптора данных слоя смарт-объекта в файле PSD. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Получает или задает левое расположение размещенного слоя в PSD-файле. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Получает длину ресурса смарт-объекта в байтах. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Получает или задает матрицу неаффинного преобразования данных слоя смарт-объекта в файле PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Получает исходный идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для слоя смарт-объекта в файле PSD.[Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Получает или задает номер страницы данных слоя смарт-объекта в PSD-файле. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Получает или задает значение перспективы размещенного слоя в файле PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Получает или задает другое значение перспективы размещенного слоя в файле PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Получает или задает уникальный идентификатор данных слоя этого смарт-объекта в изображении PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Получает или задает тип данных слоя смарт-объекта в файле PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Получает минимальную версию PSD, необходимую для ресурса смарт-объекта. 0 означает отсутствие ограничений. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Получает или задает разрешение данных слоя смарт-объекта в PSD-файле. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Получает или задает единицу измерения разрешения данных слоя смарт-объекта в PSD-файле. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Получает или задает правильное расположение размещенного слоя в файле PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Получает подпись ресурса смарт-объекта. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Получает или задает верхнюю позицию размещенного слоя в изображении PSD. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Получает или задает общее количество страниц данных слоя смарт-объекта в PSD-файле. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Получает или задает матрицу преобразования данных слоя смарт-объекта в PSD-файле. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Получает или задает глобальный уникальный идентификатор данных слоя смарт-объекта.`SmartObjectResource` в изображении PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Получает или задает значение порядка U размещенного слоя в PSD-файле. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Получает или задает значение деформации размещенного слоя в изображении PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Получает версию размещенного слоя в файле PSD, обычно 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Получает или задает единицу измерения точек вертикальной сетки. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Получает или задает значение V порядка размещенного слоя в файле PSD. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Получает или задает значение, указывающее, является ли стиль деформации этого экземпляра пользовательским. Если true, содержит точки сетки. Если false, удаляет точки сетки. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Получает или задает элементы дескриптора данных слоя смарт‑объекта в файле PSD. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Получает или задает положение слева размещённого слоя в файле PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Получает длину ресурса смарт‑объекта в байтах. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Получает или задает неаффинную матрицу преобразования данных слоя смарт‑объекта в файле PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Получает исходный идентификатор текущего выбранного Comp для дочернего документа, который будет -1, если ничего не выбрано. Это свойство получает исходный идентификатор выбора слоя Comp для смарт‑объекта в файле PSD. [Композиции слоёв в смарт‑объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Получает или задает номер страницы данных слоя смарт‑объекта в файле PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Получает или задает значение перспективы размещённого слоя в файле PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Получает или задает другое значение перспективы размещённого слоя в файле PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Получает или задает уникальный идентификатор этих данных слоя смарт‑объекта в изображении PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Получает или задает тип данных слоя смарт‑объекта в файле PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Получает или задает разрешение данных слоя смарт‑объекта в файле PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Получает или задает единицу измерения разрешения данных слоя смарт‑объекта в файле PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Получает или задает положение справа размещённого слоя в файле PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Получает или задает верхнее положение размещённого слоя в изображении PSD. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Получает или задает общее количество страниц данных слоя смарт‑объекта в файле PSD. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Получает или задает матрицу преобразования данных слоя смарт‑объекта в файле PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Получает или задает глобальный уникальный идентификатор данных слоя смарт‑объекта `SmartObjectResource` в изображении PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Получает или задает значение порядка U размещённого слоя в файле PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Получает или задает значение искажения размещённого слоя в изображении PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Получает версию размещённого слоя в файле PSD, обычно 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Получает или задает горизонтальные точки сетки размещённого слоя в файле PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Получает или задает единицу измерения вертикальных точек сетки. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Получает или задает значение порядка V размещённого слоя в файле PSD. |
 | [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Получает или задает ширину. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Сохраняет ресурс смарт-объекта в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Сохраняет ресурс смарт‑объекта в указанный потоковый контейнер. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурсов SoLEResource, SmartObjectResource и PlacedResource.
 
@@ -164,15 +165,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Эти значения также должны быть изменены в PlLdResource (с указанным UniqueId)
-    // и некоторые из них должны соответствовать подчеркиванию смарт-объекта в LinkDataSource
+    // Эти значения также следует изменить в PlLdResource (с указанным UniqueId)
+    // и некоторые из них должны соответствовать подлежащему смарт‑объекту в LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
     resource.Perspective = (double)newValues[8]; // 0.123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Этот уникальный идентификатор должен быть изменен в ссылках, если таковые имеются
+    // Этот уникальный Id следует изменить в ссылках, если они есть
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -201,16 +202,17 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Будьте осторожны с некоторыми параметрами: сохраненное изображение может стать нечитаемым для Adobe® Photoshop®
+    // Будьте осторожны с некоторыми параметрами: сохранённое изображение может стать нечитаемым в Adobe® Photoshop®
     ////resource.UOrder = 6;
-    ////ресурс.VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // Не меняйте это, иначе вы не сможете использовать свободную трансформацию
-    // или изменить подчеркивающий смарт-объект на векторный тип
+    // Не меняйте это иначе 
+ вы не сможете использовать свободное трансформирование
+    // или измените подлежащий смарт‑объект на векторный тип
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Должен быть действительный PlLdResource с этим уникальным идентификатором
-    ////resource.UniqueId = новый Guid("98765432-10fe-cba0-1234-56789abcdef0");
+    // Должен существовать действительный PlLdResource с этим уникальным Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -373,13 +375,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

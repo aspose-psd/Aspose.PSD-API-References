@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IImageCreatorDescriptor интерфейс. Дескриптор создателя изображения определяющий свойства создателя. Дескриптор создателя используется для преодоления необходимости содержать каждый экземпляр создателя изображения в памяти и проблем с многопоточностью.
+title: "Интерфейс IImageCreatorDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.IImageCreatorDescriptor интерфейс. Дескриптор создателя изображения, определяющий свойства создателя. Дескриптор создателя используется для устранения необходимости хранить каждый экземпляр создателя изображения в памяти и проблем многопоточности."
 type: docs
-weight: 4410
+weight: 4880
 url: /ru/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-Дескриптор создателя изображения, определяющий свойства создателя. Дескриптор создателя используется для преодоления необходимости содержать каждый экземпляр создателя изображения в памяти и проблем с многопоточностью.
+Дескриптор создателя изображения, указывающий свойства создателя. Дескриптор создателя используется для преодоления необходимости держать каждый экземпляр создателя изображения в памяти и проблем многопоточности.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageCreatorDescriptor : IImageDescriptor
 
 | Имя | Описание |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Определяет, может ли создатель образа создать новый образ, используя*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Создает новый экземпляр Creator. |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Определяет, может ли создатель изображения создать новое изображение, используя *imageOptions*. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Создает новый экземпляр создателя. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает коэффициент дискретизации компонентов цветности по отношению к компоненту яркости.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает коэффициент дискретизации хроматических компонентов относительно компонента яркости"
 type: docs
 weight: 250
 url: /ru/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-Получает или задает коэффициент дискретизации компонентов цветности по отношению к компоненту яркости.
+Получает или задает коэффициент дискретизации компонентов хроминанс относительно компонента яркости.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Коэффициент дискретизации компонентов цветности по отношению к компоненту яркости.
+Коэффициент дискретизации компонентов хроминанса относительно компонента яркости.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

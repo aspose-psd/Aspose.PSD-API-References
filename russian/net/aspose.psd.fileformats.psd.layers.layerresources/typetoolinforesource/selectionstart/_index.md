@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает начало выделения.
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfoResource. Возвращает или задает начало выделения"
 type: docs
-weight: 190
+weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
 Получает или задает начало выделения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int SelectionStart { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Начало выделения.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

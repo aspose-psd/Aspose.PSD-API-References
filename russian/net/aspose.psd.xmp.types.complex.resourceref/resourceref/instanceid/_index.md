@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceRef свойство. Получает или задает идентификатор экземпляра.
+title: "ResourceRef.InstanceId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceRef. Получает или задает идентификатор экземпляра"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
 Получает или задает идентификатор экземпляра.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 public string InstanceId { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор экземпляра.
 
-### Смотрите также
+### См. также
 
 * class [ResourceRef](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendRange свойство. Получает или задает целевой диапазон смешения.
+title: "BlendRange.Destination"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlendRange. Получает или задает диапазон смешивания назначения"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-Получает или задает целевой диапазон смешения.
+Получает или задаёт диапазон смешивания назначения.
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Целевой диапазон смешения.
+Диапазон смешивания назначения.
 
-### Смотрите также
+### См. также
 
 * class [BlendRange](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

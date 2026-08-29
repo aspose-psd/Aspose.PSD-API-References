@@ -1,30 +1,31 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: LnkeResource строитель. Инициализирует новый экземплярLnkeResource класс.
+title: "LnkeResource.LnkeResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LnkeResource. Инициализирует новый экземпляр класса LnkeResource."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Инициализирует новый экземпляр[`LnkeResource`](../) класс.
+Инициализирует новый экземпляр класса [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LnkeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`LnkeResource`](../) класс.
+Инициализирует новый экземпляр класса [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
@@ -34,11 +35,11 @@ public LnkeResource(LinkDataSource[] dataSources)
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | Источники данных. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreatorsRegistry свойство. Получает зарегистрированные дескрипторы.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageCreatorsRegistry. Получает зарегистрированные дескрипторы"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
 Получает зарегистрированные дескрипторы.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зарегистрированные дескрипторы.
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* пространство имен [Aspose.PSD](../../imagecreatorsregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

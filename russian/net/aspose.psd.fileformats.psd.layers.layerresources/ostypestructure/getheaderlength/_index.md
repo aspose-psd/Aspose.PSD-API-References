@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructure метод. Получает длину заголовка.
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод OSTypeStructure. Получает длину заголовка"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
 Получает длину заголовка.
@@ -18,10 +19,10 @@ public virtual int GetHeaderLength()
 
 Длина заголовка
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

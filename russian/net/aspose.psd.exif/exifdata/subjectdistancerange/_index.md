@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает диапазон расстояния до объекта.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает диапазон расстояния до объекта"
 type: docs
 weight: 1010
 url: /ru/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-Получает или задает диапазон расстояния до объекта.
+Получает или задает диапазон расстояний до объекта.
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Диапазон расстояний до объекта.
+Диапазон расстояния до объекта.
 
-### Смотрите также
+### См. также
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

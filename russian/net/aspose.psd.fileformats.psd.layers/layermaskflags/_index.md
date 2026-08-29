@@ -1,33 +1,35 @@
 ---
-title: Enum LayerMaskFlags
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags перечисление. Маска слоя flags
+title: "Перечисление LayerMaskFlags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags. Флаги маски слоя"
 type: docs
-weight: 2270
+weight: 2470
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskFlags enumeration
 
-Маска слоя flags
+Флаги маски слоя.
 
 ```csharp
 [Flags]
 public enum LayerMaskFlags : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `0` | Флаги не определены. |
 | RelativeToLayer | `1` | Позиция относительно слоя. |
 | Disabled | `2` | Маска слоя отключена. |
 | InvertedWhenBlending | `4` | Инвертировать маску слоя при смешивании. |
-| UserMaskFromRenderingOtherData | `8` | Указывает, что маска пользователя на самом деле получена из рендеринга других данных |
+| UserMaskFromRenderingOtherData | `8` | Указывает, что пользовательская маска фактически получена из рендеринга других данных. |
+| UserOrVectorMasksHaveParameters | `10` | Указывает, что к пользовательским и/или векторным маскам применены параметры. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

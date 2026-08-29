@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath свойство. Получает или устанавливает границы объекта.
+title: "GraphicsPath.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GraphicsPath. Получает или задает границы объекта."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
-Получает или устанавливает границы объекта.
+Получает или задает границы объекта.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

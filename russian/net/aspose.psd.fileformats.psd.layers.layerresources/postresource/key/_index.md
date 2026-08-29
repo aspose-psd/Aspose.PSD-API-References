@@ -1,11 +1,12 @@
 ---
-title: PostResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: PostResource свойство. Получает ключ ресурса слоя.
+title: "PostResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PostResource. Возвращает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/key/
 ---
+{{< psd/tize >}}
 ## PostResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PostResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

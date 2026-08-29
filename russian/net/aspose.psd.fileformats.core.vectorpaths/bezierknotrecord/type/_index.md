@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.Type
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierKnotRecord свойство. Получает тип.
+title: "BezierKnotRecord.Type"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierKnotRecord. Получает тип"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Type property
 
 Получает тип.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип.
 
-### Смотрите также
+### См. также
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [BezierKnotRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

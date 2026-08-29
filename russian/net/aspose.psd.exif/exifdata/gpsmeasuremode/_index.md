@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает режим измерения GPS.
+title: "ExifData.GPSMeasureMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает режим измерения GPS"
 type: docs
 weight: 570
 url: /ru/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
 Получает или задает режим измерения GPS.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 public string GPSMeasureMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим измерения GPS.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

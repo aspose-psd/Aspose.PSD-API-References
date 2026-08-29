@@ -1,14 +1,15 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IIndexedColorConverter интерфейс. Преобразователь цвета для индексированных форматов изображений.
+title: "Интерфейс IIndexedColorConverter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IIndexedColorConverter. Конвертер цветов для индексированных форматов изображений."
 type: docs
-weight: 4470
+weight: 4940
 url: /ru/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-Преобразователь цвета для индексированных форматов изображений.
+Конвертер цветов для индексированных форматов изображений.
 
 ```csharp
 public interface IIndexedColorConverter
@@ -20,9 +21,9 @@ public interface IIndexedColorConverter
 | --- | --- |
 | [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Заполняет карту преобразования индексированных изображений в индексированные. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает значение указывающее является ли IDictionary объект имеет фиксированный размер.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Возвращает значение, указывающее, имеет ли объект IDictionary фиксированный размер"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-Получает значение, указывающее, является ли IDictionary объект имеет фиксированный размер.
+Возвращает значение, указывающее, имеет ли объект IDictionary фиксированный размер.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -16,12 +17,12 @@ public bool IsFixedSize { get; }
 
 ### Возвращаемое значение
 
-верно, еслиIDictionary объект имеет фиксированный размер; в противном случае ложно.
+true, если объект IDictionary имеет фиксированный размер; иначе false.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

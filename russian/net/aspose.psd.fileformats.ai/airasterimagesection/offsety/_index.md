@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает смещение Y.
+title: "AiRasterImageSection.OffsetY"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает смещение Y."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
 Получает смещение Y.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 public double OffsetY { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Смещение Ю.
+Смещение Y.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

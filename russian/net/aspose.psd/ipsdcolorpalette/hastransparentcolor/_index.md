@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.HasTransparentColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPsdColorPalette свойство. Получает значение указывающее существует ли прозрачный цвет.
+title: "IPsdColorPalette.HasTransparentColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPsdColorPalette. Возвращает значение, указывающее, существует ли прозрачный цвет"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ipsdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.HasTransparentColor property
 
-Получает значение, указывающее, существует ли прозрачный цвет.
+Возвращает значение, указывающее, существует ли прозрачный цвет.
 
 ```csharp
 public bool HasTransparentColor { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если существует прозрачный цвет; в противном случае,`ЛОЖЬ` .
+`true`, если прозрачный цвет существует; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IPsdColorPalette](../)
-* пространство имен [Aspose.PSD](../../ipsdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

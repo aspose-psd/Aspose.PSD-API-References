@@ -1,20 +1,21 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffExifIfd свойство. Получает или устанавливает указатель на EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffExifIfd. Получает или задает указатель на EXIF IFD"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Получает или устанавливает указатель на EXIF IFD.
+Получает или задает указатель на EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Указатель на EXIF IFD.
 
@@ -22,12 +23,12 @@ public uint Offset { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Нет указателя на EXIF IFD. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Указатель на EXIF IFD отсутствует. |
 
-### Смотрите также
+### См. также
 
 * class [TiffExifIfd](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

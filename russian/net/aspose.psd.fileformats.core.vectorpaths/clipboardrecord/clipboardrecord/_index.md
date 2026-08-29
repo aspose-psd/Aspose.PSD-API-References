@@ -1,30 +1,31 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClipboardRecord строитель. Инициализирует новый экземплярClipboardRecord класс.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ClipboardRecord конструктор. Инициализирует новый экземпляр класса ClipboardRecord"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-Инициализирует новый экземпляр[`ClipboardRecord`](../) класс.
+Инициализирует новый экземпляр класса [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClipboardRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`ClipboardRecord`](../) класс.
+Инициализирует новый экземпляр класса [`ClipboardRecord`](../).
 
 ```csharp
 public ClipboardRecord(byte[] data)
@@ -32,12 +33,12 @@ public ClipboardRecord(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные записи. |
+| данные | Byte[] | Данные записи. |
 
-### Смотрите также
+### См. также
 
 * class [ClipboardRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

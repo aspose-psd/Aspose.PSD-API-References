@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.GetEnumerator
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection метод. Возвращает перечислитель который перебирает коллекцию.
+title: "XmpPackageBaseCollection.GetEnumerator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPackageBaseCollection. Возвращает перечислитель, который проходит по коллекции"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetEnumerator method
 
 Возвращает перечислитель, который перебирает коллекцию.
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### Возвращаемое значение
 
-АнIEnumerator объект, который можно использовать для перебора коллекции.
+Объект IEnumerator, который можно использовать для перебора коллекции.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

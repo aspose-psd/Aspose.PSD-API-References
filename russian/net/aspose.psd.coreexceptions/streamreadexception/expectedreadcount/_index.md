@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamReadException свойство. Получает ожидаемое количество прочитанных байтов.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StreamReadException. Возвращает ожидаемое количество прочитанных байтов"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Получает ожидаемое количество прочитанных байтов.
+Возвращает ожидаемое количество прочитанных байтов.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ожидаемое количество прочитанных байтов.
 
-### Смотрите также
+### См. также
 
 * class [StreamReadException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

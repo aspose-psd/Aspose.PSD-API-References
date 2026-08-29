@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.FileVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VersionInfoResource свойство. Получает или задает версию файла.
+title: "VersionInfoResource.FileVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VersionInfoResource свойство. Получает или задает версию файла"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.FileVersion property
 
 Получает или задает версию файла.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversio
 public uint FileVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия файла.
 
-### Смотрите также
+### См. также
 
 * class [VersionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

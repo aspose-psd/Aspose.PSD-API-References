@@ -1,11 +1,12 @@
 ---
-title: LinkedLayersManager.LinkLayers
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkedLayersManager метод. Связывает входные слои и возвращает LingGroupId.
+title: "LinkedLayersManager.LinkLayers"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LinkedLayersManager. Связывает входные слои и возвращает LingGroupId"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.LinkLayers method
 
 Связывает входные слои и возвращает LingGroupId.
@@ -26,13 +27,13 @@ public short LinkLayers(Layer[] layers)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Слои нулевые. |
-| ArgumentException | Количество слоев должно быть больше 1. |
-| ArgumentException | Контейнер каждого слоя должен быть таким же, как текущий PsdImage. |
+| ArgumentNullException | Слои равны null. |
+| ArgumentException | Количество слоёв должно быть больше 1. |
+| ArgumentException | Контейнер каждого слоя должен быть таким же, как у текущего PsdImage. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как вы можете манипулировать связанными слоями в Aspose.PSD.
+Следующий пример демонстрирует, как можно управлять связанными слоями в Aspose.PSD
 
 ```csharp
 [C#]
@@ -40,15 +41,15 @@ public short LinkLayers(Layer[] layers)
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // связываем все слои в одну связанную группу
+    // свяжите все слои в одну связанную группу
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // получаем id для одного слоя
+    // получает идентификатор для одного слоя
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
@@ -58,13 +59,13 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
     // получает все связанные слои по идентификатору группы ссылок.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // отвязать каждый слой от группы
+    // отвяжите каждый слой от группы
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // возвращает NULL для идентификатора группы ссылок, в которой нет слоев в группе.
+    // возвращает NULL для идентификатора группы ссылок, в которой нет слоёв.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -74,11 +75,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

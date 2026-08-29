@@ -1,14 +1,15 @@
 ---
-title: Size.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size строитель. Инициализирует новый экземплярSize структура из указанногоPoint .
+title: "Size.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Size. Инициализирует новый экземпляр структуры Size из указанного Point."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-Инициализирует новый экземпляр[`Size`](../) структура из указанного[`Point`](../../point/) .
+Инициализирует новый экземпляр структуры [`Size`](../) из указанного [`Point`](../../point/).
 
 ```csharp
 public Size(Point point)
@@ -16,20 +17,20 @@ public Size(Point point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point/) из которого инициализировать это[`Size`](../). |
+| point | Point | Точка [`Point`](../../point/), из которой инициализируется эта [`Size`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-Инициализирует новый экземпляр[`Size`](../) структура из указанных размеров.
+Инициализирует новый экземпляр структуры [`Size`](../) из указанных размеров.
 
 ```csharp
 public Size(int width, int height)
@@ -37,13 +38,13 @@ public Size(int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| width | Int32 | Компонент ширины нового[`Size`](../). |
-| height | Int32 | Компонент высоты нового[`Size`](../). |
+| width | Int32 | Компонент ширины нового [`Size`](../). |
+| height | Int32 | Компонент высоты нового [`Size`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

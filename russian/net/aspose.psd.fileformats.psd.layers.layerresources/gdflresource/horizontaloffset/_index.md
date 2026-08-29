@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.HorizontalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает смещение по горизонтали.
+title: "GdFlResource.HorizontalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает горизонтальное смещение"
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.HorizontalOffset property
 
-Получает или задает смещение по горизонтали.
+Получает или задает горизонтальное смещение.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное смещение.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
+Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

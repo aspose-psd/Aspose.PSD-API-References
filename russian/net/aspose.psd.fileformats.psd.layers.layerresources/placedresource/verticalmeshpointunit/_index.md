@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.VerticalMeshPointUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает единицу измерения точек вертикальной сетки.
+title: "PlacedResource.VerticalMeshPointUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает единицу измерения вертикальных точек сетки"
 type: docs
-weight: 230
+weight: 220
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPointUnit property
 
-Получает или задает единицу измерения точек вертикальной сетки.
+Получает или задает единицу измерения вертикальных точек сетки.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Единица измерения вертикальных точек сетки.
 
-### Смотрите также
+### См. также
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

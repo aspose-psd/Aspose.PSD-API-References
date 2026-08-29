@@ -1,27 +1,28 @@
 ---
-title: TextShape.Text
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape свойство. Получает или задает нарисованный текст.
+title: "TextShape.Text"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextShape. Получает или задает отрисованный текст"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
-Получает или задает нарисованный текст.
+Получает или задает отрисованный текст.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Нарисованный текст.
+Отрисованный текст.
 
-### Смотрите также
+### См. также
 
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

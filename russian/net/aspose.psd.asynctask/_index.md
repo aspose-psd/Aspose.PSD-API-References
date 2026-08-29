@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.AsyncTask
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает обработку AsyncTask.
+title: "Aspose.PSD.AsyncTask"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает выполнение AsyncTask"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.asynctask/
 ---
-Пространство имен обрабатывает обработку AsyncTask.
+{{< psd/tize >}}
+Пространство имён обрабатывает AsyncTask.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [AsyncTask](./asynctask/) | Статический фабричный класс для создания асинхронных задач |
 | [AsyncTaskAction](./asynctaskaction/) | Делегат длительной операции для асинхронной задачи без результата. |
 | [AsyncTaskException](./asynctaskexception/) | Исключение для асинхронной задачи. |
-| [AsyncTaskFunc](./asynctaskfunc/) | Делегат длительной операции для асинхронной задачи с результатом универсального типа. |
-| [AsyncTaskProgress](./asynctaskprogress/) | Предоставляет информацию о ходе выполнения асинхронной задачи. |
+| [AsyncTaskFunc](./asynctaskfunc/) | Делегат длительной операции для асинхронной задачи с обобщённым типом результата. |
+| [AsyncTaskProgress](./asynctaskprogress/) | Предоставляет информацию о прогрессе асинхронной задачи. |
 | [CompleteCallback](./completecallback/) | Функция обратного вызова для получения события завершения задачи. |
-| [ProgressCallback](./progresscallback/) | Функция обратного вызова для получения события изменения хода выполнения задачи. |
+| [ProgressCallback](./progresscallback/) | Функция обратного вызова для получения события изменения прогресса задачи. |
 ## Интерфейсы
 
 | Интерфейс | Описание |

@@ -1,11 +1,12 @@
 ---
-title: Image.GetProportionalHeight
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Получает пропорциональную высоту.
+title: "Image.GetProportionalHeight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Возвращает пропорциональную высоту"
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.psd/image/getproportionalheight/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalHeight method
 
 Получает пропорциональную высоту.
@@ -24,10 +25,10 @@ public static int GetProportionalHeight(int width, int height, int newWidth)
 
 Пропорциональная высота.
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

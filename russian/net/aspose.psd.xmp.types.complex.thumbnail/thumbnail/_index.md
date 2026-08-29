@@ -1,11 +1,12 @@
 ---
-title: Class Thumbnail
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail сорт. Представляет миниатюру файла.
+title: "Класс Thumbnail"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail класс. Представляет изображение миниатюры для файла"
 type: docs
-weight: 6100
+weight: 6600
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
 Представляет миниатюру файла.
@@ -18,16 +19,16 @@ public sealed class Thumbnail : ComplexTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | Инициализирует новый экземпляр`Thumbnail` класс. |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | Инициализирует новый экземпляр`Thumbnail` класс. |
+| [Thumbnail](thumbnail/#constructor)() | Инициализирует новый экземпляр класса `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | Инициализирует новый экземпляр класса `Thumbnail`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Получает или задает высоту. |
 | [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Получает или задает изображение в формате base64. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имен по умолчанию. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имён по умолчанию. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Получает префикс. |
 | [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Получает или задает ширину. |
 
@@ -35,12 +36,12 @@ public sealed class Thumbnail : ComplexTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

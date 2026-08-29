@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Radius
-second_title: Справочник по Aspose.PSD для .NET API
-description: GaussianBlurFilterOptions свойство. Получает или задает радиус.
+title: "GaussianBlurFilterOptions.Radius"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GaussianBlurFilterOptions. Получает или задает радиус"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Radius property
 
-Получает или задает радиус.
+Получает или задает radius.
 
 ```csharp
 public int Radius { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Радиус.
 
-### Смотрите также
+### См. также
 
 * class [GaussianBlurFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffOptionsUtils.GetValidTagsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptionsUtils метод. Получает количество допустимых тегов.
+title: "TiffOptionsUtils.GetValidTagsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffOptionsUtils. Возвращает количество допустимых тегов."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils.GetValidTagsCount method
 
-Получает количество допустимых тегов.
+Возвращает количество допустимых тегов.
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
@@ -16,17 +17,17 @@ public static int GetValidTagsCount(TiffDataType[] tags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tags | TiffDataType[] | Теги для проверки. |
+| теги | TiffDataType[] | Теги для проверки. |
 
 ### Возвращаемое значение
 
-Допустимые теги учитываются.
+Количество действительных тегов.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

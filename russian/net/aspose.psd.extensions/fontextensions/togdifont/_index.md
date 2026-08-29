@@ -1,14 +1,15 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontExtensions метод. ПреобразуетFont кFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FontExtensions. Преобразует Font в Font."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-Преобразует[`Font`](../../../aspose.psd/font/) кFont .
+Преобразует [`Font`](../../../aspose.psd/font/) в Font.
 
 ```csharp
 public static Font ToGdiFont(Font font)
@@ -16,24 +17,24 @@ public static Font ToGdiFont(Font font)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font/) для преобразования. |
+| font | Font | Объект [`Font`](../../../aspose.psd/font/) для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйFont.
+Преобразованный Font.
 
-### Смотрите также
+### См. также
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../fontextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-Преобразует[`Font`](../../../aspose.psd/font/) кFont .
+Преобразует [`Font`](../../../aspose.psd/font/) в Font.
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
@@ -41,18 +42,18 @@ public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font/) для преобразования. |
-| fontUnit | GraphicsUnit | Новый графический блок |
+| font | Font | Объект [`Font`](../../../aspose.psd/font/) для преобразования. |
+| fontUnit | GraphicsUnit | Новый графический юнит |
 
 ### Возвращаемое значение
 
-ПреобразованныйFont.
+Преобразованный Font.
 
-### Смотрите также
+### См. также
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../fontextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

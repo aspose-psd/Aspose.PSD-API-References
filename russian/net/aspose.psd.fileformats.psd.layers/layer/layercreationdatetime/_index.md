@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает дату и время создания слоя.
+title: "Layer.LayerCreationDateTime"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает дату и время создания слоя"
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
 Получает или задает дату и время создания слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дата и время создания слоя. Если нет данных о создании DateTime, то возвращает Unix Time first epoch
+Дата и время создания слоя. Если данных о дате и времени создания нет, возвращается Unix‑время первой эпохи
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class PhflResourceVersion2
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResourceVersion2 сорт. Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия   3  или   2  12 4 байта для каждого цвета XYZ только в версии 3 10 2 байта цветового пространства за которым следует 4  2 байта цветового компонента только в версии 2 4 Плотность 1 Сохранить яркость
+title: "Класс PhflResourceVersion2"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PhflResourceVersion2 класс. Класс PhflResource. Ресурс слоя коррекции экспозиции 2 версии 3 или 2. По 12 4 байта каждый для XYZ, только цвет в версии 3, 10 байт цветового пространства, за которым следуют 4 2‑байтовых компонента цвета только в версии 2, 4 плотность, 1 сохранение яркости."
 type: docs
-weight: 2900
+weight: 3250
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2 class
 
-Класс PhflResource. Ресурс слоя коррекции экспозиции 2 Версия ( = 3 ) или ( = 2 ) 12 4 байта для каждого цвета XYZ (только в версии 3) 10 2 байта цветового пространства, за которым следует 4 * 2 байта цветового компонента (только в версии 2) 4 Плотность 1 Сохранить яркость
+Класс PhflResource. Ресурс слоя коррекции Exposure. Версия 2 ( = 3 ) или ( = 2 ) 12 4 байта каждый для цвета XYZ (только в версии 3) 10 2 байта цветовое пространство, за которым следуют 4 * 2 байта цветового компонента (только в версии 2) 4 Плотность 1 Сохранить яркость
 
 ```csharp
 public class PhflResourceVersion2 : PhflResource
@@ -18,23 +19,23 @@ public class PhflResourceVersion2 : PhflResource
 
 | Имя | Описание |
 | --- | --- |
-| [PhflResourceVersion2](phflresourceversion2/#constructor)() | Инициализирует новый экземпляр`PhflResourceVersion2` класс. |
-| [PhflResourceVersion2](phflresourceversion2/#constructor_1)(byte[]) | Инициализирует новый экземпляр`PhflResourceVersion2` класс. |
+| [PhflResourceVersion2](phflresourceversion2/#constructor)() | Инициализирует новый экземпляр класса `PhflResourceVersion2`. |
+| [PhflResourceVersion2](phflresourceversion2/#constructor_1)(byte[]) | Инициализирует новый экземпляр класса `PhflResourceVersion2`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [ColorSpace](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/colorspace/) { get; } | Получает цветовое пространство. |
-| [ComponentA](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/) { get; set; } | Получает или задает компонент A для color |
+| [ComponentA](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/) { get; set; } | Получает или задает компонент A цвета |
 | [ComponentB](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentb/) { get; set; } | Получает или задает компонент B |
-| [ComponentL](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/) { get; set; } | Получает или задает L-компонент color |
+| [ComponentL](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/) { get; set; } | Получает или задает компонент L цвета |
 | [Density](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/) { get; set; } | Получает или задает плотность. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/key/) { get; } | Получает ключ ресурса слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | Получает или задает значение, указывающее, [сохранять яркость]. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Получает подпись. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/) { get; set; } | Получает или задает значение, указывающее, следует ли [preserve luminosity]. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 | override [Version](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/) { get; } | Получает версию. |
 
 ## Методы
@@ -43,15 +44,15 @@ public class PhflResourceVersion2 : PhflResource
 | --- | --- |
 | override [GetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/getrgbcolor/)() | Получает цвет. |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/setrgbcolor/)(Color) | Устанавливает цвет RGB. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [SetRgbColor](../../aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/setrgbcolor/)(Color) | Задает цвет RGB. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PhflResource](../phflresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

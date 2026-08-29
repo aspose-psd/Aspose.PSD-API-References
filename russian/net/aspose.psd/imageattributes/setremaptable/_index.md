@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetRemapTable
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Задает таблицу переназначения цветов для категории по умолчанию.
+title: "ImageAttributes.SetRemapTable"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает таблицу colorremap для категории по умолчанию."
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/imageattributes/setremaptable/
 ---
+{{< psd/tize >}}
 ## SetRemapTable(ColorMap[]) {#setremaptable}
 
-Задает таблицу переназначения цветов для категории по умолчанию.
+Устанавливает таблицу перекраски цветов для категории по умолчанию.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map)
@@ -16,20 +17,20 @@ public void SetRemapTable(ColorMap[] map)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| map | ColorMap[] | Массив цветовых пар типа[`ColorMap`](../../colormap/). Каждая цветовая пара содержит существующий цвет (первое значение) и цвет, на который она будет сопоставлена (второе значение). |
+| map | ColorMap[] | Массив пар цветов типа [`ColorMap`](../../colormap/). Каждая пара цветов содержит существующий цвет (первое значение) и цвет, к которому он будет сопоставлен (второе значение). |
 
-### Смотрите также
+### См. также
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetRemapTable(ColorMap[], ColorAdjustType) {#setremaptable_1}
 
-Задает таблицу переназначения цветов для указанной категории.
+Устанавливает таблицу перекраски цветов для указанной категории.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
@@ -37,15 +38,15 @@ public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| map | ColorMap[] | Массив цветовых пар типа[`ColorMap`](../../colormap/). Каждая цветовая пара содержит существующий цвет (первое значение) и цвет, на который она будет сопоставлена (второе значение). |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлена таблица переназначения цветов. |
+| map | ColorMap[] | Массив пар цветов типа [`ColorMap`](../../colormap/). Каждая пара цветов содержит существующий цвет (первое значение) и цвет, к которому он будет сопоставлен (второе значение). |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), определяющий категорию, для которой установлена таблица color-remap. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMap](../../colormap/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

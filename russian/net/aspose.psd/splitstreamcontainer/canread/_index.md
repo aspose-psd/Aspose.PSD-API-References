@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanRead
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer свойство. Получает значение указывающее поддерживает ли поток чтение.
+title: "SplitStreamContainer.CanRead"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SplitStreamContainer. Возвращает значение, указывающее, поддерживает ли поток чтение."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/splitstreamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanRead property
 
-Получает значение, указывающее, поддерживает ли поток чтение.
+Возвращает значение, указывающее, поддерживает ли поток чтение.
 
 ```csharp
 public override bool CanRead { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток поддерживает чтение; в противном случае,`ЛОЖЬ`.
+`true`, если поток поддерживает чтение; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

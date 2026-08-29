@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.SyncRoot
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает объект который можно использовать для синхронизации доступа к ICollection .
+title: "NonGenericDictionary.SyncRoot"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Возвращает объект, который может использоваться для синхронизации доступа к ICollection"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/nongenericdictionary/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа к ICollection .
+Возвращает объект, который может использоваться для синхронизации доступа к ICollection.
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,12 +17,12 @@ public object SyncRoot { get; }
 
 ### Возвращаемое значение
 
-Объект, который можно использовать для синхронизации доступа кICollection.
+Объект, который может использоваться для синхронизации доступа к ICollection.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

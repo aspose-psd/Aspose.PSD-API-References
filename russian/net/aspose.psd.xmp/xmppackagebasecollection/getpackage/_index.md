@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection метод. получаетXmpPackage по его namespaceURI.
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPackageBaseCollection. Получает XmpPackage по его namespaceURI"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-получает[`XmpPackage`](../../xmppackage/) по его namespaceURI.
+Получает [`XmpPackage`](../../xmppackage/) по его namespaceURI.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -16,17 +17,17 @@ public XmpPackage GetPackage(string namespaceUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| namespaceUri | String | URI пространства имен, для которого нужно получить пакет. |
+| namespaceUri | String | URI пространства имён для получения пакета. |
 
 ### Возвращаемое значение
 
-Возвращает пакет XMP для указанного пространства имен Uri.
+Возвращает XMP‑пакет для указанного URI пространства имён.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.ReadByte
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer метод. Считывает байт из потока и сдвигает позицию в потоке на один байт или возвращает 1 если в конце потока.
+title: "SplitStreamContainer.ReadByte"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SplitStreamContainer. Считывает байт из потока и перемещает позицию в потоке на один байт или возвращает 1, если достигнут конец потока"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/splitstreamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.ReadByte method
 
-Считывает байт из потока и сдвигает позицию в потоке на один байт или возвращает -1, если в конце потока.
+Читает один байт из потока и перемещает позицию в потоке на один байт, или возвращает -1, если достигнут конец потока.
 
 ```csharp
 public override int ReadByte()
@@ -16,12 +17,12 @@ public override int ReadByte()
 
 ### Возвращаемое значение
 
-Байт без знака, приведенный к типу Int32, или -1, если он находится в конце потока.
+Беззнаковый байт, приведённый к типу Int32, или -1, если достигнут конец потока.
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

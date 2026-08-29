@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: Lfx2Resource свойство. Получает длину ресурса слоя в байтах.
+title: "Lfx2Resource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Lfx2Resource свойство. Получает длину ресурса слоя в байтах"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Lfx2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

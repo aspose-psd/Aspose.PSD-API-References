@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает положение верхнего слоя.
+title: "Layer.Top"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает позицию верхнего слоя"
 type: docs
-weight: 310
+weight: 320
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-Получает или задает положение верхнего слоя.
+Получает или задает позицию верхнего слоя.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Позиция верхнего слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

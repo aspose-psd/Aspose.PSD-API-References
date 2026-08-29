@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolFontInfo свойство. Получает или задает семейство шрифтов.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolFontInfo. Получает или задает семейство шрифтов"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
 Получает или задает семейство шрифтов.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/f
 public string FontFamily { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Семейство шрифтов.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

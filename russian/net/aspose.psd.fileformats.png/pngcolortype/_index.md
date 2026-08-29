@@ -1,11 +1,12 @@
 ---
-title: Enum PngColorType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Png.PngColorType перечисление. Представляет тип цвета изображения PNG.
+title: "Перечисление PngColorType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Png.PngColorType перечисление. Представляет тип цвета PNG‑изображения."
 type: docs
-weight: 1580
+weight: 1590
 url: /ru/net/aspose.psd.fileformats.png/pngcolortype/
 ---
+{{< psd/tize >}}
 ## PngColorType enumeration
 
 Представляет тип цвета изображения PNG.
@@ -14,19 +15,19 @@ url: /ru/net/aspose.psd.fileformats.png/pngcolortype/
 public enum PngColorType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Grayscale | `0` | Представляет тип цвета, в котором каждый пиксель представляет собой образец в оттенках серого. |
-| Truecolor | `2` | Представляет тип цвета, в котором каждый пиксель является тройкой R, G, B. |
-| IndexedColor | `3` | Представляет тип цвета, где каждый пиксель является индексом палитры; появится блок PLTE. |
-| GrayscaleWithAlpha | `4` | Представляет тип цвета, в котором каждый пиксель представляет собой образец в оттенках серого, за которым следует образец альфа-канала. |
-| TruecolorWithAlpha | `6` | Представляет тип цвета, в котором каждый пиксель представляет собой тройку R, G, B, за которой следует альфа-образец. |
+| Grayscale | `0` | Представляет тип цвета, где каждый пиксель — образец в градациях серого. |
+| Truecolor | `2` | Представляет тип цвета, где каждый пиксель — тройка R,G,B. |
+| IndexedColor | `3` | Представляет тип цвета, где каждый пиксель — индекс палитры; должен присутствовать блок PLTE. |
+| GrayscaleWithAlpha | `4` | Представляет тип цвета, где каждый пиксель — образец в градациях серого, за которым следует альфа‑образец. |
+| TruecolorWithAlpha | `6` | Представляет тип цвета, где каждый пиксель — тройка R,G,B, за которой следует альфа‑образец. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

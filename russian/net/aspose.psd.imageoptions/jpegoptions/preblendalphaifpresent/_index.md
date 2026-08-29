@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает значение указывающее следует ли смешивать красный зеленый и синий компоненты с фоновым цветом если присутствует альфаканал.
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает значение, указывающее, следует ли смешивать красные, зелёные и синие компоненты с фоновым цветом, если присутствует альфа‑канал"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-Получает или задает значение, указывающее, следует ли смешивать красный, зеленый и синий компоненты с фоновым цветом, если присутствует альфа-канал.
+Получает или задает значение, указывающее, следует ли смешивать компоненты красного, зеленого и синего с цветом фона, если присутствует альфа-канал.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

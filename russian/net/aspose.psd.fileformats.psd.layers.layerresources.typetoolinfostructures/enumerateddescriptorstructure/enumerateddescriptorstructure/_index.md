@@ -1,14 +1,15 @@
 ---
-title: EnumeratedDescriptorStructure.EnumeratedDescriptorStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedDescriptorStructure строитель. Инициализирует новый экземплярEnumeratedDescriptorStructure класс.
+title: "EnumeratedDescriptorStructure.EnumeratedDescriptorStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор EnumeratedDescriptorStructure. Инициализирует новый экземпляр класса EnumeratedDescriptorStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumerateddescriptorstructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure constructor
 
-Инициализирует новый экземпляр[`EnumeratedDescriptorStructure`](../) класс.
+Инициализирует новый экземпляр класса [`EnumeratedDescriptorStructure`](../).
 
 ```csharp
 public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID enumName)
@@ -16,15 +17,15 @@ public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID en
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 | typeID | ClassID | Идентификатор типа. |
 | enumName | ClassID | Имя перечисления. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

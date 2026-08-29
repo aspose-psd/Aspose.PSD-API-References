@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает указатель на EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает указатель на EXIF IFD"
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Получает или устанавливает указатель на EXIF IFD.
+Получает или задает указатель на EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Указатель на EXIF IFD.
 
-### Смотрите также
+### См. также
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

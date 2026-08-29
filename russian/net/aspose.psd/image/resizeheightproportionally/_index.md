@@ -1,14 +1,15 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Изменяет размер высоты пропорционально.
+title: "Image.ResizeHeightProportionally"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Изменяет высоту пропорционально"
 type: docs
-weight: 200
+weight: 210
 url: /ru/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
-Изменяет размер высоты пропорционально.
+Пропорционально изменяет высоту.
 
 ```csharp
 public void ResizeHeightProportionally(int newHeight)
@@ -18,17 +19,17 @@ public void ResizeHeightProportionally(int newHeight)
 | --- | --- | --- |
 | newHeight | Int32 | Новая высота. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-Изменяет размер высоты пропорционально.
+Пропорционально изменяет высоту.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
@@ -39,18 +40,18 @@ public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeT
 | newHeight | Int32 | Новая высота. |
 | resizeType | ResizeType | Тип изменения размера. |
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
 
-Изменяет размер высоты пропорционально.
+Пропорционально изменяет высоту.
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
@@ -59,13 +60,13 @@ public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSetting
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | newHeight | Int32 | Новая высота. |
-| settings | ImageResizeSettings | Настройки изменения размера изображения. |
+| настройки | ImageResizeSettings | Настройки изменения размера изображения. |
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

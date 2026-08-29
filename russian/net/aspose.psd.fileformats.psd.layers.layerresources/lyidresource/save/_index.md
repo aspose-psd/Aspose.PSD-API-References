@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: LyidResource метод. Сохраняет в указанный контейнер потока.
+title: "LyidResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LyidResource. Сохраняет в указанный контейнер потока"
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
+{{< psd/tize >}}
 ## LyidResource.Save method
 
 Сохраняет в указанный контейнер потока.
@@ -19,11 +20,11 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | Контейнер потока. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LyidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

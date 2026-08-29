@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает полутоновые подсказки.
+title: "TiffOptions.HalfToneHints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает или задает подсказки полутонов"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-Получает или задает полутоновые подсказки.
+Получает или задает подсказки полутонов.
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Полутоновые намеки.
+Подсказки полутонов.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ценить |
-| ArgumentOutOfRangeException | value;Длина массива полутоновых подсказок должна быть равна 2. |
+| ArgumentNullException | значение |
+| ArgumentOutOfRangeException | value;Длина массива подсказок полутонов должна быть равна 2. |
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

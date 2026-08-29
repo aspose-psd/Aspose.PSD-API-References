@@ -1,11 +1,12 @@
 ---
-title: ListStructure.ItemsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ListStructure свойство. Получает количество элементов.
+title: "ListStructure.ItemsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ListStructure. Возвращает количество элементов"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/
 ---
+{{< psd/tize >}}
 ## ListStructure.ItemsCount property
 
 Получает количество элементов.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int ItemsCount { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ListStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

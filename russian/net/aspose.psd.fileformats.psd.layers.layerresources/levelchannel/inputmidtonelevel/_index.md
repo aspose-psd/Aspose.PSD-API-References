@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: Справочник по Aspose.PSD для .NET API
-description: LevelChannel свойство. Получает или задает входной уровень среднего тона с плавающей запятой.
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LevelChannel. Получает или задает уровень средних тонов ввода (float)"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-Получает или задает входной уровень среднего тона с плавающей запятой.
+Получает или задает значение уровня средних тонов входного сигнала (float).
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Плавающий уровень входного среднего тона.
+Значение уровня средних тонов ввода (float).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Уровень входного среднего тона можно установить только в диапазоне от 0,01 до 9,99. |
+| ArgumentOutOfRangeException | Уровень средних тонов ввода можно установить только в диапазоне от 0.01 до 9.99 |
 
-### Смотрите также
+### См. также
 
 * class [LevelChannel](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

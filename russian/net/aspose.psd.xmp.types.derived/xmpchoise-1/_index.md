@@ -1,11 +1,12 @@
 ---
-title: Class XmpChoiseT
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T сорт. Представляет значение из словаря значений.
+title: "Класс XmpChoiseT"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Derived.XmpChoise1T. Представляет значение из словаря значений"
 type: docs
-weight: 6150
+weight: 6650
 url: /ru/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; class
 
 Представляет значение из словаря значений.
@@ -24,22 +25,22 @@ public class XmpChoise<T> : XmpTypeBase
 | --- | --- |
 | [XmpChoise](xmpchoise/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | Получает или задает значение, указывающее, можно ли расширить предпочтительные значения. |
+| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | Получает или задаёт значение, указывающее, могут ли предпочтительные значения быть расширены. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

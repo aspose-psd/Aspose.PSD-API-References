@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает или задает желтосиний баланс теней.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Получает или задает баланс желтого и синего в тенях"
 type: docs
-weight: 140
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-Получает или задает желто-синий баланс теней.
+Получает или задает баланс теней желтый‑синий.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тени Желто-синий баланс.
+Баланс Shadows Yellow Blue.
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

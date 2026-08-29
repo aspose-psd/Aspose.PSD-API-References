@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает матрицу преобразования.
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolInfoResource свойство. Получает или задает матрицу преобразования"
 type: docs
-weight: 230
+weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
 Получает или задает матрицу преобразования.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public double[] TransformMatrix { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Матрица преобразования.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

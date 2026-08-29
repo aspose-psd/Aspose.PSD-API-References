@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. ПолучаетImage контейнер.
+title: "Image.Container"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Возвращает контейнер Image"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Получает[`Image`](../) контейнер.
+Возвращает контейнер [`Image`](../).
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`Image`](../) контейнер.
+Контейнер [`Image`](../).
 
-### Примечания
+## Примечания
 
-Если это свойство не равно null, это означает, что изображение содержится в другом изображении.
+Если это свойство не равно null, это указывает, что изображение содержится внутри другого изображения.
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

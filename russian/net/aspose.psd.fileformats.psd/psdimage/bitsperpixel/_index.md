@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает количество бит изображения на пиксель.
+title: "PsdImage.BitsPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает количество бит на пиксель изображения"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-Получает количество бит изображения на пиксель.
+Получает количество бит на пиксель изображения.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество бит изображения на пиксель.
+Количество бит на пиксель изображения.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

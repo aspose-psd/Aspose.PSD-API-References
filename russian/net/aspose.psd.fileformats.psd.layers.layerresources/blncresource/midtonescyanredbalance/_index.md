@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesCyanRedBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlncResource свойство. Получает или задает баланс голубого и красного полутонов.
+title: "BlncResource.MidtonesCyanRedBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BlncResource свойство. Получает или задает баланс средних тонов циан-красный"
 type: docs
-weight: 70
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesCyanRedBalance property
 
-Получает или задает баланс голубого и красного полутонов.
+Получает или задает значение Midtones Cyan Red Balance.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Средние тона Cyan Red Balance.
+Баланс Midtones Cyan Red.
 
-### Смотрите также
+### См. также
 
 * class [BlncResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

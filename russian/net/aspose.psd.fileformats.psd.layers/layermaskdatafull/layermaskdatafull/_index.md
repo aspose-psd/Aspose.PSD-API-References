@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataFull.LayerMaskDataFull
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskDataFull строитель. Конструктор по умолчанию.
+title: "LayerMaskDataFull.LayerMaskDataFull"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LayerMaskDataFull. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/layermaskdatafull/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/layermaskdatafu
 public LayerMaskDataFull()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskDataFull](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

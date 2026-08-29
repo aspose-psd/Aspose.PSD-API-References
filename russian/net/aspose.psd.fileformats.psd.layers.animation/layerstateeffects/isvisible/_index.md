@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.IsVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerStateEffects свойство. Получает или задает значение указывающее виден ли этот экземпляр.
+title: "LayerStateEffects.IsVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerStateEffects. Возвращает или задает значение, указывающее, видим ли этот экземпляр"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/isvisible/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.IsVisible property
 
-Получает или задает значение, указывающее, виден ли этот экземпляр.
+Получает или задает значение, указывающее, видим ли этот экземпляр.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр виден; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр видим; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LayerStateEffects](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PattResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResource свойство. Получает ключ ресурса слоя.
+title: "PattResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PattResource свойство. Возвращает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/
 ---
+{{< psd/tize >}}
 ## PattResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PattResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает предметную область.
+title: "ExifData.SubjectArea"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает область объекта"
 type: docs
 weight: 990
 url: /ru/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-Получает или задает предметную область.
+Получает или задает область объекта.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тематическая область.
+Область объекта.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

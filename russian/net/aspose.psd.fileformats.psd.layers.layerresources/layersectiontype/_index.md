@@ -1,31 +1,32 @@
 ---
-title: Enum LayerSectionType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType перечисление. Раздел слоя type
+title: "Перечисление LayerSectionType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType. Тип секции слоя"
 type: docs
-weight: 2610
+weight: 2920
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-Раздел слоя type
+Тип секции слоя
 
 ```csharp
 public enum LayerSectionType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Layer | `0` | Слой. |
 | OpenFolder | `1` | Открытая папка. |
 | ClosedFolder | `2` | Закрытая папка. |
-| SectionDivider | `3` | Разделитель разделов. |
+| SectionDivider | `3` | Разделитель секций. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

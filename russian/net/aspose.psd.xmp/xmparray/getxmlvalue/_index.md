@@ -1,11 +1,12 @@
 ---
-title: XmpArray.GetXmlValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpArray метод. Преобразует значение XMP в представление XML.
+title: "XmpArray.GetXmlValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "метод XmpArray. Преобразует значение XMP в XML‑представление"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/xmparray/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpArray.GetXmlValue method
 
 Преобразует значение XMP в представление XML.
@@ -16,12 +17,12 @@ public string GetXmlValue()
 
 ### Возвращаемое значение
 
-Возвращает значение XMP, преобразованное в представление XML.
+Возвращает значение XMP, преобразованное в XML-представление.
 
-### Смотрите также
+### См. также
 
 * class [XmpArray](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmparray/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает ключ режима наложения.
+title: "Layer.BlendModeKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает ключ режима смешивания"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Получает или задает ключ режима наложения.
+Получает или задает ключ режима смешивания.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Клавиша режима наложения.
+Ключ режима смешения.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно использовать режим наложения слоя PassThrough в Aspose.PSD.
+В следующем примере показано, как использовать режим наложения слоя PassThrough в Aspose.PSD
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Size.Round
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Преобразует указанныйSizeF структура кSize структуры путем округления значенийSizeF структура до ближайших целочисленных значений.
+title: "Size.Round"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Преобразует указанную структуру SizeF в структуру Size, округляя значения структуры SizeF до ближайших целых чисел."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/size/round/
 ---
+{{< psd/tize >}}
 ## Size.Round method
 
-Преобразует указанный[`SizeF`](../../sizef/) структура к[`Size`](../) структуры путем округления значений[`SizeF`](../../sizef/) структура до ближайших целочисленных значений.
+Преобразует указанную структуру [`SizeF`](../../sizef/) в структуру [`Size`](../), округляя значения структуры [`SizeF`](../../sizef/) до ближайших целых чисел.
 
 ```csharp
 public static Size Round(SizeF size)
@@ -16,17 +17,17 @@ public static Size Round(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../../sizef/) структура для преобразования. |
+| size | SizeF | Структура [`SizeF`](../../sizef/), которую нужно преобразовать. |
 
 ### Возвращаемое значение
 
-[`Size`](../) структура, в которую преобразуется этот метод.
+Структура [`Size`](../), в которую этот метод преобразует.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

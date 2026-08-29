@@ -1,29 +1,30 @@
 ---
-title: Enum NoiseDistribution
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution перечисление. Распределение фильтра шума.
+title: "Перечисление NoiseDistribution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution перечисление. Распределение шумового фильтра"
 type: docs
-weight: 3440
+weight: 3850
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
-Распределение фильтра шума.
+Распределение шумового фильтра.
 
 ```csharp
 public enum NoiseDistribution
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Uniform | `0` | Равномерное распределение шума. |
 | Gaussian | `1` | Гауссово распределение шума. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку интерфейса интеллектуальных фильтров.
+Этот пример демонстрирует поддержку интерфейса умных фильтров.
 
 ```csharp
 [C#]
@@ -43,7 +44,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // редактируем умные фильтры
+    // редактировать умные фильтры
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // проверить значения фильтра
@@ -69,7 +70,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // применить изменения
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Применение фильтров
+    // Применить фильтры
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -93,9 +94,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

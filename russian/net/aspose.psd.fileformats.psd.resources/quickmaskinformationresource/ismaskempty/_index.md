@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.IsMaskEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: QuickMaskInformationResource свойство. Получает или задает значение указывающее является ли этот экземпляр пустой маской.
+title: "QuickMaskInformationResource.IsMaskEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство QuickMaskInformationResource. Получает или задает значение, указывающее, является ли данный экземпляр пустой маской"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/ismaskempty/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.IsMaskEmpty property
 
-Получает или задает значение, указывающее, является ли этот экземпляр пустой маской.
+Получает или задаёт значение, указывающее, пустая ли маска у данного экземпляра.
 
 ```csharp
 public bool IsMaskEmpty { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр пуст по маске; в противном случае,`ЛОЖЬ` .
+`true`, если данный экземпляр имеет пустую маску; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [QuickMaskInformationResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: StrokeEffect свойство. Получает или задает прозрачность.
+title: "StrokeEffect.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StrokeEffect свойство. Получает или задает непрозрачность"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
-Получает или задает прозрачность.
+Получает или задает непрозрачность.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * class [StrokeEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

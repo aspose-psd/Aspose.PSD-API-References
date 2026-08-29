@@ -1,11 +1,12 @@
 ---
-title: License.SetLicense
-second_title: Справочник по Aspose.PSD для .NET API
-description: License метод. Лицензирует компонент.
+title: "License.SetLicense"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод License. Лицензирует компонент"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/license/setlicense/
 ---
+{{< psd/tize >}}
 ## SetLicense(string) {#setlicense_1}
 
 Лицензирует компонент.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd/license/setlicense/
 public void SetLicense(string licenseName)
 ```
 
-### Примечания
+## Примечания
 
 Пытается найти лицензию в следующих местах:
 
@@ -24,19 +25,19 @@ public void SetLicense(string licenseName)
 
 3. Папка, содержащая вызывающую сборку клиента.
 
-4. Папка, содержащая входную (загрузочную) сборку.
+4. Папка, содержащая входную (запускаемую) сборку.
 
 5. Встроенный ресурс в вызывающей сборке клиента.
 
-**Примечание:**В .NET Compact Framework пытается найти лицензию только в следующих местах:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Явный путь.
 
 2. Встроенный ресурс в вызывающей сборке клиента.
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем в встроенные ресурсы вызывающей сборки. Может быть полным или коротким именем файла или именем внедренного ресурса. Используйте пустую строку для переключения в режим оценки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -51,11 +52,13 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
-### Смотрите также
+Может быть полным или коротким именем файла или именем встроенного ресурса. Используйте пустую строку, чтобы переключиться в режим оценки.
+
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.PSD](../../license/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -71,11 +74,11 @@ public void SetLicense(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток, содержащий лицензию. |
 
-### Примечания
+## Примечания
 
 Используйте этот метод для загрузки лицензии из потока.
 
-### Примеры
+## Примеры
 
 ```csharp
 [C#]
@@ -90,10 +93,10 @@ Dim license as License = new License
 license.SetLicense(myStream)
 ```
 
-### Смотрите также
+### См. также
 
 * class [License](../)
-* пространство имен [Aspose.PSD](../../license/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

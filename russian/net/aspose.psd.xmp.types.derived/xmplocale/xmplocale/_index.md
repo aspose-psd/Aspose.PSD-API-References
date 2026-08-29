@@ -1,14 +1,15 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpLocale строитель. Инициализирует новый экземплярXmpLocale класс.
+title: "XmpLocale.XmpLocale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpLocale. Инициализирует новый экземпляр класса XmpLocale"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Инициализирует новый экземпляр[`XmpLocale`](../) класс.
+Инициализирует новый экземпляр класса [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
@@ -16,12 +17,12 @@ public XmpLocale(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpLocale](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

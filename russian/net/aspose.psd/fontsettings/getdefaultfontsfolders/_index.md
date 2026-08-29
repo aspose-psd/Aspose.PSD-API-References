@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Получает папки со шрифтами по умолчанию.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FontSettings метод. Получает папки шрифтов по умолчанию"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
-Получает папки со шрифтами по умолчанию.
+Получает папки шрифтов по умолчанию.
 
 ```csharp
 public static string[] GetDefaultFontsFolders()
@@ -18,10 +19,10 @@ public static string[] GetDefaultFontsFolders()
 
 Возвращает системную папку
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

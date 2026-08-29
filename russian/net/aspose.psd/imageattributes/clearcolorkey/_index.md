@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает ключ цвета диапазон прозрачности для категории по умолчанию.
+title: "ImageAttributes.ClearColorKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает диапазон прозрачности цветового ключа для категории по умолчанию."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
 Очищает ключ цвета (диапазон прозрачности) для категории по умолчанию.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/imageattributes/clearcolorkey/
 public void ClearColorKey()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public void ClearColorKey(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой очищается цветовая клавиша. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой очищается цветовой ключ. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

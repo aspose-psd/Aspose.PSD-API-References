@@ -1,20 +1,21 @@
 ---
-title: Class OSTypeStructuresRegistry
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry сорт. ПредставляетOSTypeStructure реестр ресурсов.
+title: "Класс OSTypeStructuresRegistry"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry class. Представляет реестр ресурсов OSTypeStructure"
 type: docs
-weight: 2860
+weight: 3200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry class
 
-Представляет[`OSTypeStructure`](../ostypestructure/) реестр ресурсов.
+Представляет реестр ресурсов [`OSTypeStructure`](../ostypestructure/).
 
 ```csharp
 public static class OSTypeStructuresRegistry
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,14 +26,14 @@ public static class OSTypeStructuresRegistry
 | Имя | Описание |
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | Получает первый поддерживаемый дескриптор открывателя. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | Получает первый поддерживаемый дескриптор по имени его типа. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | Загрузки[`OSTypeStructure`](../ostypestructure/) с помощью первого найденного открывателя, подходящего для указанного*stream* . |
-| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | Регистрирует открывалку. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | Получает первый поддерживаемый дескриптор по его имени типа. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | Загружает [`OSTypeStructure`](../ostypestructure/) с использованием первого найденного открывателя, подходящего для указанного *потока*. |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | Регистрирует открыватель. |
 | static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | Отменяет регистрацию открывателя. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

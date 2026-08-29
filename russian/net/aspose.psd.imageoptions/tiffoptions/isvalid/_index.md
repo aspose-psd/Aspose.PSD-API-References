@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsValid
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает значение указывающееTiffOptions были правильно настроены. Используйте метод проверки чтобы найти причину сбоя.
+title: "TiffOptions.IsValid"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает значение, указывающее, правильно ли настроены TiffOptions. Используйте метод Validate, чтобы найти причину сбоя"
 type: docs
-weight: 250
+weight: 260
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsValid property
 
-Получает значение, указывающее,[`TiffOptions`](../) были правильно настроены. Используйте метод проверки, чтобы найти причину сбоя.
+Возвращает значение, указывающее, правильно ли настроены [`TiffOptions`](../). Используйте метод Validate, чтобы найти причину сбоя.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` правильно ли настроены TiffOptions; в противном случае,`ЛОЖЬ` .
+`true` если TiffOptions правильно настроены; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

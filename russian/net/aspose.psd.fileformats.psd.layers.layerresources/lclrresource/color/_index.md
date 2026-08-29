@@ -1,26 +1,27 @@
 ---
-title: LclrResource.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: LclrResource свойство. Получает или задает цвет слоя.
+title: "LclrResource.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LclrResource. Получает или задаёт цвет слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
-Получает или задает цвет слоя.
+Получает или задаёт цвет слоя.
 
 ```csharp
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно изменить выделение цветом листа в Aspose.PSD (настройка цвета листа).
+Следующий пример демонстрирует, как можно изменить выделение цвета листа в Aspose.PSD (настройка цвета листа).
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SheetColorHighlightEnum Color { get; set; }
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// В файле цвета выделения слоев идут в таком порядке
+// В файле цвета выделения слоёв идут в следующем порядке
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Цвет листа слоя используется для визуального выделения слоев. 
-// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, который вы хотите привлечь внимание.
+// Цвет листа слоя используется для визуального выделения слоёв.
+// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, на который хотите обратить внимание.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Ресурс lcrl всегда присутствует в списке ресурсов файла psd.
+            // Ресурс lcrl всегда присутствует в списке ресурсов PSD‑файла.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Инверсия цветов таблицы стилей. Настройка выделения цветом слоя.
+                // Обратные цвета таблицы стилей. Настройка выделения цвета слоя.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -82,11 +83,11 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

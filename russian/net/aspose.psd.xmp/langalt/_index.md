@@ -1,11 +1,12 @@
 ---
-title: Class LangAlt
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.LangAlt сорт. Представляет альтернативу языка XMP.
+title: "Класс LangAlt"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.LangAlt class. Представляет альтернативу языка XMP"
 type: docs
-weight: 5760
+weight: 6260
 url: /ru/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
 Представляет альтернативу языка XMP.
@@ -18,8 +19,8 @@ public class LangAlt : IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | Инициализирует новый экземпляр`LangAlt` класс. |
-| [LangAlt](langalt/#constructor_1)(string) | Инициализирует новый экземпляр`LangAlt` класс. |
+| [LangAlt](langalt/#constructor)() | Инициализирует новый экземпляр класса `LangAlt`. |
+| [LangAlt](langalt/#constructor_1)(string) | Инициализирует новый экземпляр класса `LangAlt`. |
 
 ## Методы
 
@@ -27,12 +28,12 @@ public class LangAlt : IXmlValue
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | Добавляет язык. |
 | [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | Преобразует значение XMP в представление XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
 * interface [IXmlValue](../ixmlvalue/)
-* пространство имен [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

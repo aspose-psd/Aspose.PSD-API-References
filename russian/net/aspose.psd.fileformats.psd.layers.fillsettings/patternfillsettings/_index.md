@@ -1,11 +1,12 @@
 ---
-title: Class PatternFillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings сорт. Настройки эффекта заливки узором
+title: "Класс PatternFillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings класс. Настройки эффекта заливки шаблоном"
 type: docs
-weight: 2040
+weight: 2170
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
 Настройки эффекта заливки узором
@@ -14,16 +15,23 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
-## Характеристики
+## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Получает или задает значение, указывающее, является ли [ссылка со слоем]. |
+| [PatternFillSettings](patternfillsettings/)() | Конструктор по умолчанию. |
+
+## Свойства
+
+| Имя | Описание |
+| --- | --- |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Получает или задает значение, указывающее, [link with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | Получает или задает угол. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Получает или задает цвет. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | Тип заливки |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Получает или задает смещение по горизонтали. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Получает или задает значение, указывающее, является ли это`PatternFillSettings`связан. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Получает или устанавливает данные шаблона. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Получает или задает горизонтальное смещение. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Получает или задает значение, указывающее, связан ли этот `PatternFillSettings`. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Получает или задает данные шаблона. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Получает или задает высоту шаблона. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Получает или задает идентификатор шаблона. |
 | [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Получает или задает имя шаблона. |
@@ -38,7 +46,7 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 | --- | --- |
 | static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Генерирует узлы ресурсов LFX2. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -72,7 +80,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Узор.
+Следующий код демонстрирует поддержку слоя эффекта штриха с типом заливки - Pattern.
 
 ```csharp
 [C#]
@@ -193,7 +201,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Проверяем данные паттерна
+    // Проверьте данные шаблона
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -208,11 +216,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransformBrush метод. СбрасываетTransform свойство к личности.
+title: "TransformBrush.ResetTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TransformBrush метод. Сбрасывает свойство Transform к единичному"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-Сбрасывает[`Transform`](../transform/) свойство к личности.
+Сбрасывает свойство [`Transform`](../transform/) к единичному.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TransformBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../transformbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

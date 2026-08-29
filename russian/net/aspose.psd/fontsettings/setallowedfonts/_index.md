@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Ограничивает использование шрифта списком шрифтов. Перед ограничением проверьте имена реальных шрифтов. Установите для списка разрешенных шрифтов значение Null чтобы удалить ограничения .
+title: "FontSettings.SetAllowedFonts"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FontSettings метод. Ограничивает использование шрифтов списком шрифтов. Пожалуйста, проверьте реальные имена шрифтов перед ограничением. Set Allowed font list to Null, чтобы снять ограничения."
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Ограничивает использование шрифта списком шрифтов. Перед ограничением проверьте имена реальных шрифтов. Установите для списка разрешенных шрифтов значение Null, чтобы удалить ограничения .
+Ограничивает использование шрифтов списком шрифтов. Пожалуйста, проверьте реальные имена шрифтов перед ограничением. Установите список разрешённых шрифтов в Null, чтобы снять ограничения.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
@@ -18,9 +19,9 @@ public static void SetAllowedFonts(string[] fontList)
 | --- | --- | --- |
 | fontList | String[] | Список шрифтов. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность программного ограничения использования шрифтов.
+Следующий код демонстрирует возможность программно ограничивать шрифты.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

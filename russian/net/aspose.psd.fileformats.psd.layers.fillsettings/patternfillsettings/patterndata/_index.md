@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или устанавливает данные шаблона.
+title: "PatternFillSettings.PatternData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает данные шаблона"
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-Получает или устанавливает данные шаблона.
+Получает или задает данные шаблона.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные шаблона.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

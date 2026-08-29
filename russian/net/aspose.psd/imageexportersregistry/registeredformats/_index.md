@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageExportersRegistry свойство. Получает зарегистрированные форматы экспорта.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageExportersRegistry. Получает зарегистрированные форматы экспорта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
 Получает зарегистрированные форматы экспорта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/imageexportersregistry/registeredformats/
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Зарегистрированные форматы экспорта.
 
-### Смотрите также
+### См. также
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageexportersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

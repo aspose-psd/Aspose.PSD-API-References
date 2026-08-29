@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает значение альфакомпонента этогоColorструктура.
+title: "Color.A"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает значение альфа‑компонента этой структуры Color"
 type: docs
 weight: 1460
 url: /ru/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-Получает значение альфа-компонента этого[`Color`](../)структура.
+Возвращает значение альфа‑компонента этой структуры [`Color`](../).
 
 ```csharp
 public byte A { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение альфа-компонента этого[`Color`](../).
+Значение альфа‑компонента этой структуры [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

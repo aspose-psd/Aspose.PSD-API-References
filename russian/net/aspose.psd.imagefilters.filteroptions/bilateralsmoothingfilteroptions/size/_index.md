@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: BilateralSmoothingFilterOptions свойство. Получает или устанавливает размер ядра.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BilateralSmoothingFilterOptions свойство. Получает или задает размер ядра"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
-Получает или устанавливает размер ядра.
+Получает или задает размер ядра.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер ядра.
 
-### Смотрите также
+### См. также
 
 * class [BilateralSmoothingFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

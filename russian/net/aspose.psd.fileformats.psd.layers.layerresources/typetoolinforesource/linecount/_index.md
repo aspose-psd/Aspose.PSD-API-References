@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает количество строк.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfoResource. Возвращает количество строк"
 type: docs
-weight: 130
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
 Получает количество строк.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short LineCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество строк.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

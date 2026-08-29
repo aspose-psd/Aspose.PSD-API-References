@@ -1,30 +1,31 @@
 ---
-title: Enum ResolutionUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ResolutionUnit перечисление. Единица разрешения enum.
+title: "Перечисление ResolutionUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.ResolutionUnit. Перечисление единиц разрешения"
 type: docs
-weight: 5390
+weight: 5890
 url: /ru/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Единица разрешения enum.
+Перечисление единиц разрешения.
 
 ```csharp
 public enum ResolutionUnit : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Неопределенные единицы измерения |
+| None | `0` | Неопределённые единицы |
 | Inch | `1` | Дюймовые единицы |
-| Cm | `2` | Метрические сантиметры |
+| Cm | `2` | Метрические единицы сантиметров |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

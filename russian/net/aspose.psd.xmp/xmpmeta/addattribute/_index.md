@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta метод. Добавляет атрибут.
+title: "XmpMeta.AddAttribute"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpMeta. Добавляет атрибут"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 Добавляет атрибут.
@@ -16,13 +17,13 @@ public override void AddAttribute(string attribute, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| attribute | String | Атрибут. |
-| value | String | Значение. |
+| атрибут | String | Атрибут. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpAgentName строитель. Инициализирует новый экземплярXmpAgentName класс.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpAgentName. Инициализирует новый экземпляр класса XmpAgentName"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Инициализирует новый экземпляр[`XmpAgentName`](../) класс.
+Инициализирует новый экземпляр класса [`XmpAgentName`](../).
 
 ```csharp
 public XmpAgentName(string value)
@@ -16,12 +17,12 @@ public XmpAgentName(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpAgentName](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

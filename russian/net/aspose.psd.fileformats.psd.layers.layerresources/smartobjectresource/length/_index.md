@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает длину ресурса смартобъекта в байтах.
+title: "SmartObjectResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает длину ресурса умного объекта в байтах"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Length property
 
-Получает длину ресурса смарт-объекта в байтах.
+Получает длину ресурса смарт‑объекта в байтах.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

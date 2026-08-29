@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent свойство. Получает или задает имя программного агента.
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceEvent. Получает или задает имя программного агента"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
 Получает или задает имя программного агента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareage
 public string SofwareAgentName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя программного агента.
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

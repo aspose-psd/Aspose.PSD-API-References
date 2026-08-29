@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmlsResource свойство. Получает версию psd.
+title: "CmlsResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmlsResource. Возвращает версию PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion/
 ---
+{{< psd/tize >}}
 ## CmlsResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CmlsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

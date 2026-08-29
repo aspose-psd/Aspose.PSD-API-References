@@ -1,14 +1,15 @@
 ---
-title: SizeF.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF метод. Возвращает хешкод для этогоSizeструктура.
+title: "SizeF.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SizeF. Возвращает хеш‑код для этой структуры Size"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/sizef/gethashcode/
 ---
+{{< psd/tize >}}
 ## SizeF.GetHashCode method
 
-Возвращает хеш-код для этого[`Size`](../../size/)структура.
+Возвращает хеш‑код для этой структуры [`Size`](../../size/).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Целочисленное значение, указывающее хеш-значение для этого[`Size`](../../size/) состав.
+Целочисленное значение, определяющее хеш‑значение для этой структуры [`Size`](../../size/).
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: LevelsLayer свойство. Получает главный канал.
+title: "LevelsLayer.MasterChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LevelsLayer. Получает главный канал"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
 Получает главный канал.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/mast
 public LevelChannel MasterChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Главный канал.
 
-### Смотрите также
+### См. также
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

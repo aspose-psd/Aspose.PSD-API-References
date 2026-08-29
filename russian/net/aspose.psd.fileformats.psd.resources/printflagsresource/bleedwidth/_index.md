@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: PrintFlagsResource свойство. Получает или задает ширину выпуска за обрез.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PrintFlagsResource property. Получает или задает ширину вылета"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Получает или задает ширину выпуска за обрез.
+Получает или задает ширину вылета.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ширина выпуска за обрез.
+Ширина вылета.
 
-### Смотрите также
+### См. также
 
 * class [PrintFlagsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

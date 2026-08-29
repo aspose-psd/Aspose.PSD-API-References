@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetLabel
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Устанавливает метку.
+title: "XmpBasicPackage.SetLabel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Устанавливает метку"
 type: docs
-weight: 60
+weight: 80
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setlabel/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetLabel method
 
 Устанавливает метку.
@@ -16,12 +17,12 @@ public void SetLabel(string label)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| label | String | Наклейка. |
+| метка | String | Метка. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

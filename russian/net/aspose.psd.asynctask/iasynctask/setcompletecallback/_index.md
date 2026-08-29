@@ -1,14 +1,15 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask метод. Устанавливает полный делегат обратного вызова.
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IAsyncTask. Устанавливает делегат обратного вызова завершения"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-Устанавливает полный делегат обратного вызова.
+Устанавливает делегат обратного вызова завершения.
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
@@ -16,13 +17,13 @@ public void SetCompleteCallback(CompleteCallback completeCallback)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | Полный обратный звонок. |
+| completeCallback | CompleteCallback | Обратный вызов завершения. |
 
-### Смотрите также
+### См. также
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

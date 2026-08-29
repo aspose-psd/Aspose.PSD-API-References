@@ -1,11 +1,12 @@
 ---
-title: Graphics.DpiX
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает горизонтальное разрешение этого Aspose.PSD.Graphics.
+title: "Graphics.DpiX"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Получает горизонтальное разрешение этого Aspose.PSD.Graphics"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/graphics/dpix/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiX property
 
 Получает горизонтальное разрешение этого Aspose.PSD.Graphics.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/graphics/dpix/
 public float DpiX { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение в точках на дюйм для горизонтального разрешения, поддерживаемого этим Aspose.PSD.Graphics.
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

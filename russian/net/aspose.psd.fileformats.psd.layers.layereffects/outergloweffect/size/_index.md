@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает значение размытия в пикселях.
+title: "OuterGlowEffect.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "OuterGlowEffect свойство. Получает значение размытия в пикселях"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
 Получает значение размытия в пикселях.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку OuterGlowEffect.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

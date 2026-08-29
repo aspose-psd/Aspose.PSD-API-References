@@ -1,14 +1,15 @@
 ---
-title: Class FileFormatExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.FileFormatExtensions сорт. СодержитFileFormat методы расширения.
+title: "Класс FileFormatExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.FileFormatExtensions. Содержит методы расширения FileFormat"
 type: docs
-weight: 1080
+weight: 1090
 url: /ru/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-Содержит[`FileFormat`](../../aspose.psd/fileformat/) методы расширения.
+Содержит методы расширения [`FileFormat`](../../aspose.psd/fileformat/).
 
 ```csharp
 public static class FileFormatExtensions
@@ -18,11 +19,11 @@ public static class FileFormatExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Определяет, определен ли формат одного файла. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Определяет, определён ли один формат файла. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

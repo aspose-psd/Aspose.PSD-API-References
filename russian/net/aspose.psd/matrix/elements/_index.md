@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix свойство. Получает массив значений с плавающей запятой представляющий элементы этогоMatrix .
+title: "Matrix.Elements"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Matrix. Возвращает массив значений с плавающей точкой, представляющих элементы этой Matrix."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-Получает массив значений с плавающей запятой, представляющий элементы этого[`Matrix`](../) .
+Возвращает массив значений с плавающей точкой, представляющих элементы этой [`Matrix`](../).
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив значений с плавающей запятой, который представляет элементы этого[`Matrix`](../).
+Массив значений с плавающей точкой, представляющих элементы этой [`Matrix`](../).
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

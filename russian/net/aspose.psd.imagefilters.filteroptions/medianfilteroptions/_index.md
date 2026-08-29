@@ -1,11 +1,12 @@
 ---
-title: Class MedianFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions сорт. Медианный фильтр
+title: "Класс MedianFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions. Медианный фильтр"
 type: docs
-weight: 4720
+weight: 5190
 url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
 Медианный фильтр
@@ -18,18 +19,18 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | Имя | Описание |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Инициализирует новый экземпляр`MedianFilterOptions` класс. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | Инициализирует новый экземпляр класса `MedianFilterOptions`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Получает или задает размер. |
 
-### Смотрите также
+### См. также
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

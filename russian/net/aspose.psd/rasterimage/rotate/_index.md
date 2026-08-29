@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Rotate
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Повернуть изображение вокруг центра.
+title: "RasterImage.Rotate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Поворачивает изображение вокруг центра"
 type: docs
-weight: 480
+weight: 490
 url: /ru/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Повернуть изображение вокруг центра.
+Поворачивает изображение вокруг центра.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,8 +17,8 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота в градусах. Положительные значения будут вращаться по часовой стрелке. |
-| resizeProportionally | Boolean | если установлено`истинный` у вас будет размер вашего изображения, измененный в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае, который оставляет размеры нетронутыми, и поворачивается только внутреннее содержимое изображения. |
+| угол | Single | Угол поворота в градусах. Положительные значения вращают по часовой стрелке. |
+| resizeProportionally | Boolean | если установить `true`, размер изображения будет изменён в соответствии с проекциями повернутого прямоугольника (угловых точек); в противном случае размеры останутся неизменными, и будет повернуто только внутреннее содержимое изображения. |
 | backgroundColor | Color | Цвет фона. |
 
 ### Исключения
@@ -26,18 +27,18 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 | --- | --- |
 | NotImplementedException |  |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Повернуть изображение вокруг центра.
+Поворачивает изображение вокруг центра.
 
 ```csharp
 public virtual void Rotate(float angle)
@@ -45,12 +46,12 @@ public virtual void Rotate(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота в градусах. Положительные значения будут вращаться по часовой стрелке. |
+| угол | Single | Угол поворота в градусах. Положительные значения вращают по часовой стрелке. |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

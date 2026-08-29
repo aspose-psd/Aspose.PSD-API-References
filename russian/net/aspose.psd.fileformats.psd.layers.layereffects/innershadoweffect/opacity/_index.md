@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: InnerShadowEffect свойство. Получает или задает прозрачность.
+title: "InnerShadowEffect.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InnerShadowEffect. Получает или задает непрозрачность"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
-Получает или задает прозрачность.
+Получает или задает непрозрачность.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * class [InnerShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

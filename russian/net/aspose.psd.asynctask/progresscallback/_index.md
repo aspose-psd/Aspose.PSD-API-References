@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressCallback
-second_title: Справочник по Aspose.PSD для .NET API
-description: Функция обратного вызова для получения события изменения хода выполнения задачи.
+title: "Делегат ProgressCallback"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Функция обратного вызова для получения события изменения прогресса задачи"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-Функция обратного вызова для получения события изменения хода выполнения задачи.
+Функция обратного вызова для получения события изменения прогресса задачи.
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
@@ -16,11 +17,11 @@ public delegate void ProgressCallback(int progressPercentage);
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| progressPercentage | Int32 | Процент прогресса. |
+| progressPercentage | Int32 | Процент выполнения. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

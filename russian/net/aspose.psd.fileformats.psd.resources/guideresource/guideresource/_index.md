@@ -1,11 +1,12 @@
 ---
-title: GuideResource.GuideResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: GuideResource строитель. Конструктор по умолчанию.
+title: "GuideResource.GuideResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GuideResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/guideresource/guideresource/
 public GuideResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GuideResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

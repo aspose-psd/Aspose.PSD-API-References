@@ -1,14 +1,15 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrush метод. Создает линейный градиент с центральным цветом и линейным спадом к одному цвету на обоих концах.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LinearGradientBrush. Создает линейный градиент с центральным цветом и линейным затуханием к единому цвету с обеих сторон"
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Создает линейный градиент с центральным цветом и линейным спадом к одному цвету на обоих концах.
+Создает линейный градиент с центральным цветом и линейным спадом к одному цвету с обеих сторон.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
@@ -16,19 +17,19 @@ public void SetBlendTriangularShape(float focus)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| focus | Single | Значение от 0 до 1, указывающее центр градиента (точка, в которой градиент состоит только из конечного цвета). |
+| фокус | Single | Значение от 0 до 1, которое определяет центр градиента (точка, где градиент состоит только из конечного цвета). |
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Создает линейный градиент с центральным цветом и линейным спадом к одному цвету на обоих концах.
+Создает линейный градиент с центральным цветом и линейным спадом к одному цвету с обеих сторон.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
@@ -36,13 +37,13 @@ public void SetBlendTriangularShape(float focus, float scale)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| focus | Single | Значение от 0 до 1, указывающее центр градиента (точка, в которой градиент состоит только из конечного цвета). |
-| scale | Single | Значение от 0 до 1, указывающее, насколько быстро цвета уменьшаются от начального цвета до*focus*(конечный цвет) |
+| фокус | Single | Значение от 0 до 1, которое определяет центр градиента (точка, где градиент состоит только из конечного цвета). |
+| scale | Single | Значение от 0 до 1, которое определяет скорость затухания цветов от начального цвета к *фокусу* (конечному цвету). |
 
-### Смотрите также
+### См. также
 
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

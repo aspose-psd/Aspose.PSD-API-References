@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternName
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает имя шаблона.
+title: "IPatternFillSettings.PatternName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает или задает имя шаблона"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternName property
 
 Получает или задает имя шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public string PatternName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя шаблона.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

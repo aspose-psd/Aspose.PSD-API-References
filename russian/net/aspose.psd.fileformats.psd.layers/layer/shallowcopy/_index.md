@@ -1,14 +1,15 @@
 ---
-title: Layer.ShallowCopy
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer метод. Создает поверхностную копию текущего слоя. Пожалуйстаhttps//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx для объяснения.
+title: "Layer.ShallowCopy"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Layer. Создает поверхностную копию текущего Layer. Пожалуйста, https//msdn.microsoft.com/ruru/library/system.object.memberwiseclonevvs.110.aspx для объяснения"
 type: docs
-weight: 380
+weight: 400
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/shallowcopy/
 ---
+{{< psd/tize >}}
 ## Layer.ShallowCopy method
 
-Создает поверхностную копию текущего слоя. Пожалуйста[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) для объяснения.
+Создаёт поверхностную копию текущего слоя. Пожалуйста, обратитесь к [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) для объяснения.
 
 ```csharp
 public Layer ShallowCopy()
@@ -16,12 +17,12 @@ public Layer ShallowCopy()
 
 ### Возвращаемое значение
 
-Мелкая копия текущего слоя.
+Поверхностная копия текущего Layer.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

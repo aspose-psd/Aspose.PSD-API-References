@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.AntiAliasPolicy
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает политику сглаживания для размещенного слоя в изображении PSD.
+title: "IPlacedLayerResource.AntiAliasPolicy"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IPlacedLayerResource свойство. Получает или задает политику сглаживания размещённого слоя в изображении PSD"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.AntiAliasPolicy property
 
-Получает или задает политику сглаживания для размещенного слоя в изображении PSD.
+Получает или задает политику сглаживания размещённого слоя в изображении PSD.
 
 ```csharp
 public int AntiAliasPolicy { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Политика сглаживания размещенного слоя.
+Политика сглаживания размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

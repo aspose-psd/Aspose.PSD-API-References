@@ -1,29 +1,30 @@
 ---
-title: Enum TiffByteOrder
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder перечисление. Порядок байтов для изображения TIFF
+title: "Перечисление TiffByteOrder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. Порядок байтов для tiff‑изображения."
 type: docs
-weight: 4040
+weight: 4510
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
-Порядок байтов для изображения TIFF
+Порядок байтов для изображения tiff
 
 ```csharp
 public enum TiffByteOrder
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| BigEndian | `19789` | Порядок байтов с прямым порядком байтов (Motorola). |
-| LittleEndian | `18761` | Порядок байтов с прямым порядком байтов (Intel). |
+| BigEndian | `19789` | Большой порядок байтов (Motorola). |
+| LittleEndian | `18761` | Малый порядок байтов (Intel). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

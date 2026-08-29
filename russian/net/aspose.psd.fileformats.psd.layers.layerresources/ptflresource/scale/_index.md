@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource свойство. Получает или задает масштаб.
+title: "PtFlResource.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PtFlResource. Получает или задает масштаб"
 type: docs
-weight: 100
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
 Получает или задает масштаб.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale
 public double Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки и редактирования ресурса PtFlResource.
+Следующий пример демонстрирует поддержку загрузки и редактирования ресурса PtFlResource.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // У нас нет данных шаблона в PattResource, поэтому мы можем их добавить.
+                    // У нас нет данных шаблона в PattResource, поэтому мы можем добавить их.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

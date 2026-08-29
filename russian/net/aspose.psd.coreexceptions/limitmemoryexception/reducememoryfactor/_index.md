@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LimitMemoryException свойство. Получает или задает коэффициент сокращения памяти.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LimitMemoryException. Получает или задает коэффициент уменьшения памяти"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-Получает или задает коэффициент сокращения памяти.
+Получает или задает коэффициент уменьшения памяти.
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Коэффициент уменьшения памяти.
 
-### Смотрите также
+### См. также
 
 * class [LimitMemoryException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

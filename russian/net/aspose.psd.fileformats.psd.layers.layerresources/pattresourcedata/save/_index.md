@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData метод. Сохраняет данные шаблона.
+title: "PattResourceData.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PattResourceData. Сохраняет данные шаблона"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
 Сохраняет данные шаблона.
@@ -16,13 +17,13 @@ public void Save(StreamContainer streamContainer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

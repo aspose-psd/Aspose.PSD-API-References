@@ -1,11 +1,12 @@
 ---
-title: Time.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: Time свойство. Получает или задает масштаб для значения времени.
+title: "Time.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Time. Получает или задает масштаб для значения времени"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/time/scale/
 ---
+{{< psd/tize >}}
 ## Time.Scale property
 
 Получает или задает масштаб для значения времени.
@@ -14,19 +15,19 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/time/scale/
 public Rational Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Шкала значения времени.
+Масштаб для значения времени.
 
-### Примеры
+## Примеры
 
-Для NTSC используйте 1001/30000 или менее точное значение 100/2997. Для PAL используйте 1/25.
+Для NTSC используйте 1001/30000 или менее точный 100/2997. Для PAL используйте 1/25.
 
-### Смотрите также
+### См. также
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

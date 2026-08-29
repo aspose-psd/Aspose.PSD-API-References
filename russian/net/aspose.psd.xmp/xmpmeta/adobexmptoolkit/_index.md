@@ -1,23 +1,24 @@
 ---
-title: XmpMeta.AdobeXmpToolkit
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta свойство. Получает или устанавливает версию набора инструментов Adobe Xmp.
+title: "XmpMeta.AdobeXmpToolkit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpMeta. Получает или задает версию Adobe Xmp toolkit"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AdobeXmpToolkit property
 
-Получает или устанавливает версию набора инструментов Adobe Xmp.
+Получает или задает версию набора инструментов Adobe Xmp.
 
 ```csharp
 public string AdobeXmpToolkit { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

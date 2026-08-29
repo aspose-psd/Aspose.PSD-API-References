@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.LoadEffectsResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdLoadOptions свойство. Получает или задает значение указывающее влияет ли загрузка на ресурс по умолчанию ресурс не загружается. При установке этого параметра только поддерживаемые эффекты будут отображаться в окончательном объединенном изображении.
+title: "PsdLoadOptions.LoadEffectsResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdLoadOptions. Получает или задает значение, указывающее, загружать ли ресурсы эффектов; по умолчанию ресурсы не загружаются. При включении этой опции будут отрисованы только поддерживаемые эффекты в окончательное объединённое изображение"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.LoadEffectsResource property
 
-Получает или задает значение, указывающее, влияет ли [загрузка на ресурс] (по умолчанию ресурс не загружается). При установке этого параметра только поддерживаемые эффекты будут отображаться в окончательном объединенном изображении.
+Получает или задает значение, указывающее, следует ли [load effects resource] (по умолчанию ресурс не загружается). При установке этой опции будут отрисованы только поддерживаемые эффекты в окончательное объединённое изображение.
 
 ```csharp
 public bool LoadEffectsResource { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [ресурс эффектов загрузки]; в противном случае,`ЛОЖЬ` .
+`true` если [load effects resource]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdLoadOptions](../)
-* пространство имен [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

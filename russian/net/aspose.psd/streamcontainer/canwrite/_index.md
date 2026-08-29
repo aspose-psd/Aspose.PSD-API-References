@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanWrite
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer свойство. Получает значение указывающее поддерживает ли поток запись.
+title: "StreamContainer.CanWrite"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer свойство. Возвращает значение, указывающее, поддерживает ли поток запись"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/streamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanWrite property
 
-Получает значение, указывающее, поддерживает ли поток запись.
+Возвращает значение, указывающее, поддерживает ли поток запись.
 
 ```csharp
 public virtual bool CanWrite { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток поддерживает запись; в противном случае,`ЛОЖЬ`.
+`true`, если поток поддерживает запись; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

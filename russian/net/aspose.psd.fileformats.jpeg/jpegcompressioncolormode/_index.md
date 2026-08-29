@@ -1,32 +1,33 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode перечисление. Цветовой режим для изображений jpeg.
+title: "Перечисление JpegCompressionColorMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode перечисление. Режим цвета для JPEG‑изображений"
 type: docs
-weight: 1490
+weight: 1500
 url: /ru/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
-Цветовой режим для изображений jpeg.
+Режим цвета для jpeg‑изображений.
 
 ```csharp
 public enum JpegCompressionColorMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Grayscale | `0` | Изображение в градациях серого. |
-| YCbCr | `1` | Изображение YCbCr, стандартный вариант для изображений jpeg. |
-| Cmyk | `2` | 4-компонентное изображение CMYK. |
-| Ycck | `3` | Цветное jpeg-изображение ycck. Для сохранения требуется профиль icc. |
-| Rgb | `4` | Цветовой режим RGB. |
+| YCbCr | `1` | Изображение YCbCr, стандартный вариант для JPEG‑изображений. |
+| Cmyk | `2` | Изображение CMYK с 4 компонентами. |
+| Ycck | `3` | Изображение JPEG в цветовом пространстве YCCK. Требуется ICC‑профиль для сохранения. |
+| Rgb | `4` | Режим цвета RGB. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

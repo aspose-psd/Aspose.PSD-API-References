@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: CgEdResource свойство. Получает ключ ресурса слоя.
+title: "CgEdResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CgEdResource property. Возвращает ключ ресурса слоя"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [CgEdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

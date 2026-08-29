@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.ID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock свойство. Получает или задает уникальный идентификатор ресурса.
+title: "ResourceBlock.ID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock свойство. Получает или задает уникальный идентификатор ресурса"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
 Получает или задает уникальный идентификатор ресурса.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd/resourceblock/id/
 public short ID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Уникальный идентификатор ресурса.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

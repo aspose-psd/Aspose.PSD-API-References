@@ -1,11 +1,12 @@
 ---
-title: VectorShapeBoundingBox.VectorShapeBoundingBox
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeBoundingBox строитель. Конструктор по умолчанию.
+title: "VectorShapeBoundingBox.VectorShapeBoundingBox"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор VectorShapeBoundingBox. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/vect
 public VectorShapeBoundingBox()
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeBoundingBox](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Справочник по Aspose.PSD для .NET API
-description: Делегат длительной операции для асинхронной задачи с результатом универсального типа.
+title: "Делегат AsyncTaskFunc"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Делегат длительной операции для асинхронной задачи с обобщённым типом результата"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-Делегат длительной операции для асинхронной задачи с результатом универсального типа.
+Делегат длительной операции для асинхронной задачи с обобщённым типом результата.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
@@ -20,12 +21,12 @@ public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 
 ### Возвращаемое значение
 
-Результат долгой эксплуатации.
+Результат длительной операции.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

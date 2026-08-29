@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvesContinuousManager метод. Получает точку кривой по индексу.
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CurvesContinuousManager. Получает точку кривой по индексу"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
 Получает точку кривой по индексу.
@@ -23,11 +24,11 @@ public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 
 Точка кривой по индексу канала
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

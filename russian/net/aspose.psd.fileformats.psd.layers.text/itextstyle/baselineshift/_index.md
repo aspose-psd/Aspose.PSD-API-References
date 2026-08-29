@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Базовый сдвиг.
+title: "ITextStyle.BaselineShift"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Сдвиг базовой линии"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-Базовый сдвиг.
+Смещение базовой линии.
 
 ```csharp
 public double BaselineShift { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

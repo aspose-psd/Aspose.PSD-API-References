@@ -1,11 +1,12 @@
 ---
-title: IText.TextOrientation
-second_title: Справочник по Aspose.PSD для .NET API
-description: IText свойство. Получает или задает ориентацию текста.
+title: "IText.TextOrientation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IText. Получает или задаёт ориентацию текста"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 ---
+{{< psd/tize >}}
 ## IText.TextOrientation property
 
 Получает или задает ориентацию текста.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 public TextOrientation TextOrientation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ориентация текста.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность редактирования нового свойства TextOrientation. В данный момент это не влияет на рендеринг, а только позволяет редактировать значение свойства.
+Следующий код демонстрирует возможность редактировать новое свойство TextOrientation. Это пока не влияет на рендеринг, а только позволяет изменить значение свойства.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -51,7 +52,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -60,11 +61,11 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [TextOrientation](../../../aspose.psd.fileformats.psd/textorientation/)
 * interface [IText](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

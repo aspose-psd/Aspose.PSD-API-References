@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfDocumentInfo свойство. Получает или задает тему документа.
+title: "PdfDocumentInfo.Subject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PdfDocumentInfo. Получает или задает тему документа"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
 Получает или задает тему документа.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 public string Subject { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

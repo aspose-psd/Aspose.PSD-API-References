@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает непрозрачность этого изображения.
+title: "RasterImage.ImageOpacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Получает непрозрачность этого изображения."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
 Получает непрозрачность этого изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/rasterimage/imageopacity/
 public virtual float ImageOpacity { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение непрозрачности от 0,0 (полностью прозрачный) до 1,0 (полностью непрозрачный).
+Значение непрозрачности от 0,0 (полностью прозрачно) до 1,0 (полностью непрозрачно).
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

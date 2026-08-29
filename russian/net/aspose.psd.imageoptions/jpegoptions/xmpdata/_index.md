@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.XmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает контейнер метаданных XMP.
+title: "JpegOptions.XmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает контейнер метаданных XMP"
 type: docs
-weight: 210
+weight: 220
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.XmpData property
 
 Получает или задает контейнер метаданных XMP.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/xmpdata/
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Контейнер данных XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.RemoveFigures
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Удаляет фигуры.
+title: "GraphicsPath.RemoveFigures"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Удаляет фигуры"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/graphicspath/removefigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigures method
 
 Удаляет фигуры.
@@ -16,13 +17,13 @@ public void RemoveFigures(Figure[] figures)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| figures | Figure[] | Цифры удалить. |
+| фигуры | Figure[] | Фигуры для удаления. |
 
-### Смотрите также
+### См. также
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

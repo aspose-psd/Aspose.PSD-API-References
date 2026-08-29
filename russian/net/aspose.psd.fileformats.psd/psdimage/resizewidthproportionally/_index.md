@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Изменяет ширину пропорционально.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Пропорционально изменяет ширину"
 type: docs
-weight: 600
+weight: 660
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Изменяет ширину пропорционально.
+Пропорционально изменяет ширину.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -17,20 +18,20 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | newWidth | Int32 | Новая ширина. |
-| settings | ImageResizeSettings | Настройки изменения размера изображения. |
+| настройки | ImageResizeSettings | Настройки изменения размера изображения. |
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Изменяет ширину пропорционально.
+Пропорционально изменяет ширину.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -41,11 +42,11 @@ public override void ResizeWidthProportionally(int newWidth, ResizeType resizeTy
 | newWidth | Int32 | Новая ширина. |
 | resizeType | ResizeType | Тип изменения размера. |
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

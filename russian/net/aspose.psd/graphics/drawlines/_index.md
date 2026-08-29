@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawLines
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Рисует серию отрезков соединяющих массивPoint структуры.
+title: "Graphics.DrawLines"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует серию отрезков, соединяющих массив структур Point."
 type: docs
-weight: 260
+weight: 270
 url: /ru/net/aspose.psd/graphics/drawlines/
 ---
+{{< psd/tize >}}
 ## DrawLines(Pen, Point[]) {#drawlines_1}
 
-Рисует серию отрезков, соединяющих массив[`Point`](../../point/) структуры.
+Рисует серию отрезков, соединяющих массив структур [`Point`](../../point/).
 
 ```csharp
 public void DrawLines(Pen pen, Point[] points)
@@ -16,29 +17,29 @@ public void DrawLines(Pen pen, Point[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль сегментов линии. |
-| points | Point[] | Массив[`Point`](../../point/) структуры, представляющие точки для соединения. |
+| pen | Pen | [`Pen`](../../pen/) определяет цвет, ширину и стиль отрезков. |
+| points | Point[] | Массив структур [`Point`](../../point/), представляющих точки для соединения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen* равно null. -или- *points* нулевой. |
-| ArgumentException | *points* массив содержит менее 2 точек. |
+| ArgumentNullException | *pen* равно null. -or- *points* равно null. |
+| ArgumentException | Массив *points* содержит менее 2 точек. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLines(Pen, PointF[]) {#drawlines}
 
-Рисует серию отрезков, соединяющих массив[`PointF`](../../pointf/) структуры.
+Рисует серию отрезков, соединяющих массив структур [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawLines(Pen pen, PointF[] points)
@@ -46,22 +47,22 @@ public void DrawLines(Pen pen, PointF[] points)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) который определяет цвет, ширину и стиль сегментов линии. |
-| points | PointF[] | Массив[`PointF`](../../pointf/) структуры, представляющие точки для соединения. |
+| pen | Pen | [`Pen`](../../pen/) определяет цвет, ширину и стиль отрезков. |
+| points | PointF[] | Массив структур [`PointF`](../../pointf/), представляющих точки для соединения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *pen* равно null. -или- *points* нулевой. |
-| ArgumentException | *points* массив содержит менее 2 точек. |
+| ArgumentNullException | *pen* равно null. -or- *points* равно null. |
+| ArgumentException | Массив *points* содержит менее 2 точек. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ReferenceBlackWhite
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает эталонный черный белый.
+title: "JpegExifData.ReferenceBlackWhite"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает ссылку на черный и белый"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.exif/jpegexifdata/referenceblackwhite/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ReferenceBlackWhite property
 
-Получает или задает эталонный черный белый.
+Получает или задает эталонный черный и белый.
 
 ```csharp
 public TiffRational[] ReferenceBlackWhite { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Эталонный черный белый.
+Ссылка на черный и белый.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

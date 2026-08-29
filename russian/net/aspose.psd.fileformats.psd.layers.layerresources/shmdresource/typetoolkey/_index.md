@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: ShmdResource поле. Информационный ключ типа инструмента.
+title: "ShmdResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ShmdResource поле. Ключ информации о типе инструмента"
 type: docs
-weight: 100
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ShmdResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ShmdResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

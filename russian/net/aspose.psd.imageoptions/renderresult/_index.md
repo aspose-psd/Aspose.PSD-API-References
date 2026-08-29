@@ -1,14 +1,15 @@
 ---
-title: Class RenderResult
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.RenderResult сорт. Представляет информацию с результатами рендеринга
+title: "Класс RenderResult"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageOptions.RenderResult. Представляет информацию о результатах рендеринга"
 type: docs
-weight: 4930
+weight: 5420
 url: /ru/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-Представляет информацию с результатами рендеринга
+Представляет информацию с результатами рендеринга.
 
 ```csharp
 public class RenderResult
@@ -20,16 +21,16 @@ public class RenderResult
 | --- | --- |
 | [RenderResult](renderresult/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Получает или задает строку message |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Получает или устанавливает код ошибки |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Получает или задает строковое сообщение |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Получает или задает код ошибки |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

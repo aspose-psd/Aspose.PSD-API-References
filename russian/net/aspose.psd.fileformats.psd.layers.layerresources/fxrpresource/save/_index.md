@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource метод. Сохраняет в указанный контейнер потока.
+title: "FxrpResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FxrpResource. Сохраняет в указанный потоковый контейнер"
 type: docs
-weight: 80
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Save method
 
 Сохраняет в указанный контейнер потока.
@@ -19,11 +20,11 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 | streamContainer | StreamContainer | Контейнер потока. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

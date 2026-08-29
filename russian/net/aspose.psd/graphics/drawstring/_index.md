@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Рисует указанную текстовую строку в указанном месте с указаннымBrush иFont объекты.
+title: "Graphics.DrawString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует указанный текст в заданном месте с указанными объектами Brush и Font"
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/aspose.psd/graphics/drawstring/
 ---
+{{< psd/tize >}}
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты.
+Рисует указанный текст в заданном месте с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -16,31 +17,31 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
 | x | Single | Координата x левого верхнего угла нарисованного текста. |
-| y | Single | Y-координата левого верхнего угла нарисованного текста. |
+| y | Single | Координата y левого верхнего угла нарисованного текста. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты.
+Рисует указанный текст в заданном месте с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -48,8 +49,8 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
 | point | PointF | [`PointF`](../../pointf/) структура, определяющая левый верхний угол нарисованного текста. |
 
@@ -57,34 +58,34 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. |
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется использование класса Font и SolidBrush для рисования строк на поверхности изображения. В примере создается новое изображение и рисуются фигуры с использованием Figures и GraphicsPath.
+Этот пример демонстрирует использование классов Font и SolidBrush для рисования строк на поверхности Image. Пример создает новый Image и рисует фигуры с помощью Figures и GraphicsPath
 
 ```csharp
 [C#]
 
-// Создает экземпляр изображения
+//Создает экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
     //Создает и инициализирует экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очищает графическую поверхность
+    //Очищает поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    // Создает экземпляр шрифта
+    //Создает экземпляр Font
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Создаем экземпляр SolidBrush красного цвета
+    //Создает экземпляр SolidBrush с красным цветом
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    // Рисуем строку
+    //Рисует строку
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // создаем параметры экспорта.
+    // создает параметры экспорта.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
     // сохранить все изменения
@@ -92,20 +93,20 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat/) .
+Рисует указанный текст в заданном месте с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/), используя атрибуты форматирования указанного [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -113,33 +114,33 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
 | x | Single | Координата x левого верхнего угла нарисованного текста. |
-| y | Single | Y-координата левого верхнего угла нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
+| y | Single | Координата y левого верхнего угла нарисованного текста. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, применяемые к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Рисует указанную текстовую строку в указанном месте с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat/) .
+Рисует указанный текст в заданном месте с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/), используя атрибуты форматирования указанного [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -147,33 +148,33 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
 | point | PointF | [`PointF`](../../pointf/) структура, определяющая левый верхний угол нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, применяемые к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты.
+Рисует указанный текст в заданном прямоугольнике с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -181,31 +182,31 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) структура, указывающая расположение нарисованного текста. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) структура, определяющая расположение нарисованного текста. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Рисует указанную текстовую строку в указанном прямоугольнике с указанным[`Brush`](../../brush/) и[`Font`](../../font/) объекты, использующие атрибуты форматирования указанного[`StringFormat`](../../stringformat/) .
+Рисует указанный текст в заданном прямоугольнике с указанными объектами [`Brush`](../../brush/) и [`Font`](../../font/), используя атрибуты форматирования указанного [`StringFormat`](../../stringformat/).
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -214,26 +215,26 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| s | String | Нить для рисования. |
-| font | Font | [`Font`](../../font/) который определяет текстовый формат строки. |
+| s | String | Строка для рисования. |
+| font | Font | [`Font`](../../font/) который определяет формат текста строки. |
 | brush | Brush | [`Brush`](../../brush/) который определяет цвет и текстуру нарисованного текста. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) структура, указывающая расположение нарисованного текста. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, которые применяются к нарисованному тексту. |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) структура, определяющая расположение нарисованного текста. |
+| format | StringFormat | [`StringFormat`](../../stringformat/) который определяет атрибуты форматирования, такие как межстрочный интервал и выравнивание, применяемые к нарисованному тексту. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* равно null. -или- *s* равно null. -или- *brush* нулевой. |
+| ArgumentNullException | *brush* равен null. -or- *s* равен null. -or- *brush* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

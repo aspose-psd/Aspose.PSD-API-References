@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceRef свойство. Получает или задает массив альтернативных путей.
+title: "ResourceRef.AlternatePaths"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceRef. Получает или задает массив альтернативных путей"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
 Получает или задает массив альтернативных путей.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths
 public string[] AlternatePaths { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Массив альтернативных путей.
 
-### Смотрите также
+### См. также
 
 * class [ResourceRef](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

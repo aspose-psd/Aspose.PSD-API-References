@@ -1,42 +1,43 @@
 ---
-title: Class UnknownSmartFilter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter сорт. Класс для хранения неизвестных данных интеллектуального фильтра.
+title: "Класс UnknownSmartFilter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter class. Класс для хранения данных неизвестного умного фильтра"
 type: docs
-weight: 3480
+weight: 3900
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter class
 
-Класс для хранения неизвестных данных интеллектуального фильтра.
+Класс для хранения неизвестных данных умных фильтров.
 
 ```csharp
 public sealed class UnknownSmartFilter : SmartFilter
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Получает или задает режим наложения. |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | Получает идентификатор типа интеллектуального фильтра. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Получает или задает состояние включения интеллектуального фильтра. |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | Получает имя смарт-фильтра. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Получает или задает значение непрозрачности интеллектуального фильтра. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Структура исходного дескриптора с данными интеллектуального фильтра. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Получает или задает режим смешивания. |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | Получает идентификатор типа умного фильтра. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Получает или задает статус включения умного фильтра. |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | Получает имя умного фильтра. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Получает или задает значение непрозрачности умного фильтра. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | Структура дескриптора источника с данными умного фильтра. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Применяет текущий фильтр ко входу[`RasterImage`](../../aspose.psd/rasterimage/) изображение. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Применяет текущий фильтр ко входу[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) данные маски. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Создает почленный клон текущего экземпляра типа. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Применяет текущий фильтр к входному изображению [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Применяет текущий фильтр к входным данным маски [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Создаёт побочный клон текущего экземпляра типа. |
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../smartfilter/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

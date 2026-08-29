@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.BinarizeOtsu
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage метод. Бинаризация изображения с пороговым значением Otsu
+title: "RasterCachedImage.BinarizeOtsu"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterCachedImage. Бинаризация изображения с порогом Оцу"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/rastercachedimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.BinarizeOtsu method
 
-Бинаризация изображения с пороговым значением Otsu
+Бинаризация изображения с порогом Оцу
 
 ```csharp
 public override void BinarizeOtsu()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

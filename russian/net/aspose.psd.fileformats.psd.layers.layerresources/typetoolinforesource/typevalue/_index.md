@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает значение типа.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TypeToolInfoResource свойство. Получает или задает значение типа"
 type: docs
-weight: 240
+weight: 210
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
 Получает или задает значение типа.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short TypeValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение типа.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

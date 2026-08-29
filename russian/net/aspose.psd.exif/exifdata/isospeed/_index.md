@@ -1,27 +1,28 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает чувствительность ISO
+title: "ExifData.ISOSpeed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает скорость ISO"
 type: docs
 weight: 700
 url: /ru/net/aspose.psd.exif/exifdata/isospeed/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeed property
 
-Получает или устанавливает чувствительность ISO
+Получает или задает скорость ISO.
 
 ```csharp
 public uint ISOSpeed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Чувствительность ISO.
+Скорость ISO.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

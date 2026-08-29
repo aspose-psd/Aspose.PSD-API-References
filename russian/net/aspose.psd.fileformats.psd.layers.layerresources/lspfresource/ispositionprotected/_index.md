@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsPositionProtected
-second_title: Справочник по Aspose.PSD для .NET API
-description: LspfResource свойство. Получает или задает значение указывающее защищен ли этот экземпляр по положению.
+title: "LspfResource.IsPositionProtected"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LspfResource. Возвращает или задает значение, указывающее, защищено ли положение этого экземпляра"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsPositionProtected property
 
-Получает или задает значение, указывающее, защищен ли этот экземпляр по положению.
+Получает или задает значение, указывающее, защищён ли этот экземпляр позиционной защитой.
 
 ```csharp
 public bool IsPositionProtected { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр защищен по положению; в противном случае,`ЛОЖЬ` .
+`true`, если положение этого экземпляра защищено; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LspfResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

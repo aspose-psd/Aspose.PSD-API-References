@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.GlobalAngleResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalAngleResource строитель. Конструктор по умолчанию.
+title: "GlobalAngleResource.GlobalAngleResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GlobalAngleResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangleresource/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangl
 public GlobalAngleResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GlobalAngleResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

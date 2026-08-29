@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: Справочник по Aspose.PSD для .NET API
-description: GifOptions свойство. Истинно если изображение должно быть чересстрочным.
+title: "GifOptions.Interlaced"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GifOptions. True, если изображение должно быть чересстрочным"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-Истинно, если изображение должно быть чересстрочным.
+True, если изображение должно быть чересстрочным.
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GifOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../gifoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

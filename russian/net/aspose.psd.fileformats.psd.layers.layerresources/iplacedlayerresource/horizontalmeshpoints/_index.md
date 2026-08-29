@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.HorizontalMeshPoints
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD.
+title: "IPlacedLayerResource.HorizontalMeshPoints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает или задает горизонтальные сеточные точки размещённого слоя в файле PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.HorizontalMeshPoints property
 
-Получает или задает горизонтальные точки сетки размещенного слоя в файле PSD.
+Получает или задает горизонтальные точки сетки размещённого слоя в файле PSD.
 
 ```csharp
 public double[] HorizontalMeshPoints { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Горизонтальные точки сетки размещенного слоя.
+Горизонтальные сеточные точки размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb24Bpp
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. ПолучаетPixelDataFormat определяется для 24 бит на пиксель с 8 битами для каждого из альфа красного зеленого и синего альфа не определен.
+title: "PixelDataFormat.Rgb24Bpp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat property. Возвращает PixelDataFormat, определённый для 24 бит на пиксель с 8 битами для каждого из альфа, красного, зелёного и синего; альфа не определена"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/pixeldataformat/rgb24bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb24Bpp property
 
-Получает[`PixelDataFormat`](../) определяется для 24 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синего, альфа не определен.
+Получает [`PixelDataFormat`](../), определённый для 24 бит на пиксель с 8 битами для каждого из альфа, красного, зелёного и синего; альфа не определена.
 
 ```csharp
 public static PixelDataFormat Rgb24Bpp { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`PixelDataFormat`](../) определяется для 24 бит на пиксель с 8 битами для каждого из альфа, красного, зеленого и синего, альфа не определен.
+Этот [`PixelDataFormat`](../) определённый для 24 бит на пиксель с 8 битами для каждого из альфа, красного, зелёного и синего; альфа не определена.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

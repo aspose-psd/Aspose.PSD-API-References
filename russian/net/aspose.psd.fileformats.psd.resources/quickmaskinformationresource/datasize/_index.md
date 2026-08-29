@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: QuickMaskInformationResource свойство. Получает размер данных ресурса в байтах.
+title: "QuickMaskInformationResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "QuickMaskInformationResource свойство. Получает размер данных ресурса в байтах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/d
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [QuickMaskInformationResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

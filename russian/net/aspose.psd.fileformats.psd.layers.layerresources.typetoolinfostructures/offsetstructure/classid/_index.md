@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.ClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: OffsetStructure свойство. Получает или задает идентификатор класса.
+title: "OffsetStructure.ClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OffsetStructure. Возвращает или задает идентификатор класса"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassID property
 
 Получает или задает идентификатор класса.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

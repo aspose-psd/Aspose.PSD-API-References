@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: RawDataSettings свойство. Получает или задает резервный индекс для использования когда индекс палитры выходит за пределы
+title: "RawDataSettings.FallbackIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RawDataSettings. Получает или задает запасной индекс, используемый, когда индекс палитры выходит за пределы."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-Получает или задает резервный индекс для использования, когда индекс палитры выходит за пределы
+Получает или задает запасной индекс, используемый, когда индекс палитры выходит за пределы.
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Резервный индекс для использования, когда индекс палитры выходит за пределы
+Запасной индекс, используемый, когда индекс палитры выходит за пределы.
 
-### Смотрите также
+### См. также
 
 * class [RawDataSettings](../)
-* пространство имен [Aspose.PSD](../../rawdatasettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

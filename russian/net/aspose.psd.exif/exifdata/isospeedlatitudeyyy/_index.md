@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение широты yyy скорости ISO камеры или устройства ввода которое определено в ISO 12232.
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение ISO‑скорости latitude yyy камеры или входного устройства, определённое в ISO 12232"
 type: docs
 weight: 710
 url: /ru/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-Получает или задает значение широты yyy скорости ISO камеры или устройства ввода, которое определено в ISO 12232.
+Получает или задает значение широты скорости ISO yyy камеры или входного устройства, определённое в ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение широты yyy скорости ISO камеры или устройства ввода, определенное в ISO 12232.
+Значение ISO‑скорости latitude yyy камеры или входного устройства, определённое в ISO 12232.
 
-### Примечания
+## Примечания
 
-Этот тег не должен записываться без ISOSpeed и ISOSpeedLatitudezzz.
+Этот тег не должен записываться без ISOSpeed и ISOSpeedLatitudezzz
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

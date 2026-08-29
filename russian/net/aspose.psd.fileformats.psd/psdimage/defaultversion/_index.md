@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage поле. Версия PSD по умолчанию.
+title: "PsdImage.DefaultVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage поле. Версия PSD по умолчанию"
 type: docs
-weight: 620
+weight: 690
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 Версия PSD по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 public const int DefaultVersion;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

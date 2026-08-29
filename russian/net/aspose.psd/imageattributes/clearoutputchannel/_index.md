@@ -1,30 +1,31 @@
 ---
-title: ImageAttributes.ClearOutputChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает настройку выходного канала CMYK голубойпурпурныйжелтыйчерный для категории по умолчанию.
+title: "ImageAttributes.ClearOutputChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает настройку выходного канала CMYK cyanmagentayellowblack для категории по умолчанию"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/imageattributes/clearoutputchannel/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannel() {#clearoutputchannel}
 
-Очищает настройку выходного канала CMYK (голубой-пурпурный-желтый-черный) для категории по умолчанию.
+Очищает настройку выходного канала CMYK (циан‑пурпур‑желтый‑чёрный) для категории по умолчанию.
 
 ```csharp
 public void ClearOutputChannel()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannel(ColorAdjustType) {#clearoutputchannel_1}
 
-Очищает настройку выходного канала (голубой-пурпурный-желтый-черный) для указанной категории.
+Очищает настройку выходного канала (циан‑пурпур‑желтый‑чёрный) для указанной категории.
 
 ```csharp
 public void ClearOutputChannel(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void ClearOutputChannel(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который определяет категорию, для которой сбрасывается настройка выходного канала. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой очищается настройка выходного канала. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

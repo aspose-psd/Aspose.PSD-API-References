@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.GetArgb32Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPalette метод. Получает 32битный цвет палитры ARGB по индексу.
+title: "ColorPalette.GetArgb32Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorPalette. Возвращает 32‑битовый цвет палитры ARGB по индексу."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/colorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## ColorPalette.GetArgb32Color method
 
-Получает 32-битный цвет палитры ARGB по индексу.
+Возвращает 32‑битный ARGB‑цвет палитры по индексу.
 
 ```csharp
 public int GetArgb32Color(int index)
@@ -16,22 +17,22 @@ public int GetArgb32Color(int index)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| index | Int32 | 32-битный индекс цвета палитры ARGB. |
+| index | Int32 | Индекс 32‑битового цвета палитры ARGB. |
 
 ### Возвращаемое значение
 
-Запись цветовой палитры, заданная параметром*index*.
+Элемент цветовой палитры, указанный по *index*.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | если цветовая палитра*index* указано вне диапазона элементов палитры. |
+| ArgumentOutOfRangeException | если указанный *index* цветовой палитры выходит за диапазон элементов палитры. |
 
-### Смотрите также
+### См. также
 
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

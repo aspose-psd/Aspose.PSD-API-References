@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection метод. Удаляет указанный пакет XMP.
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPackageBaseCollection. Удаляет указанный пакет XMP"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
 Удаляет указанный пакет XMP.
@@ -16,13 +17,13 @@ public void Remove(XmpPackage package)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| package | XmpPackage | Пакет XMP для удаления. |
+| пакет | XmpPackage | Пакет XMP для удаления. |
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

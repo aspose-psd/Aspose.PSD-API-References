@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage метод. Вращает переворачивает или поворачивает и переворачивает изображение.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterCachedImage. Поворачивает, отражает или поворачивает и отражает изображение"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-Вращает, переворачивает или поворачивает и переворачивает изображение.
+Поворачивает, отражает или одновременно поворачивает и отражает изображение.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
@@ -16,9 +17,9 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Тип вращения флип. |
+| rotateFlipType | RotateFlipType | Тип поворота/отражения. |
 
-### Примеры
+## Примеры
 
 Следующий код показывает, как повернуть изображение.
 
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

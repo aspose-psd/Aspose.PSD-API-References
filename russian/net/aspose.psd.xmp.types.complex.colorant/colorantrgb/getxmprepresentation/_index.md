@@ -1,14 +1,15 @@
 ---
-title: ColorantRgb.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantRgb метод. Получает содержащееся в строке значение в формате XMP.
+title: "ColorantRgb.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorantRgb. Получает строковое значение в формате XMP"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.GetXmpRepresentation method
 
-Получает содержащееся в строке значение в формате XMP.
+Получает строковое значение в формате XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Возвращаемое значение
 
-Возвращает содержащееся в строке значение в формате XMP.
+Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [ColorantRgb](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

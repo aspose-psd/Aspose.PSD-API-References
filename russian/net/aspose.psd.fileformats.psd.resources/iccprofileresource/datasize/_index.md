@@ -1,11 +1,12 @@
 ---
-title: IccProfileResource.DataSize
-second_title: Справочник по Aspose.PSD для .NET API
-description: IccProfileResource свойство. Получает размер данных ресурса в байтах.
+title: "IccProfileResource.DataSize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IccProfileResource. Возвращает размер данных ресурса в байтах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.resources/iccprofileresource/datasize/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.DataSize property
 
 Получает размер данных ресурса в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/iccprofileresource/datasize/
 public override int DataSize { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер данных ресурса.
 
-### Смотрите также
+### См. также
 
 * class [IccProfileResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

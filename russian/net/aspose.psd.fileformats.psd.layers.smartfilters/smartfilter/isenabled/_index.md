@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.IsEnabled
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilter свойство. Получает или задает состояние включения интеллектуального фильтра.
+title: "SmartFilter.IsEnabled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilter. Получает или задает статус включённости смарт‑фильтра"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilter.IsEnabled property
 
-Получает или задает состояние включения интеллектуального фильтра.
+Получает или задает статус включения умного фильтра.
 
 ```csharp
 public bool IsEnabled { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

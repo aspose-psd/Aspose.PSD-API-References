@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Справочник по Aspose.PSD для .NET API
-description: IRasterImageRawDataLoader свойство. Получает значение указывающее поддерживается ли загрузка необработанных данных.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IRasterImageRawDataLoader. Возвращает значение, указывающее, поддерживается ли загрузка необработанных данных"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-Получает значение, указывающее, поддерживается ли загрузка необработанных данных.
+Возвращает значение, указывающее, поддерживается ли загрузка необработанных данных.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` поддерживается ли загрузка необработанных данных; в противном случае,`ЛОЖЬ` .
+`true` если загрузка необработанных данных поддерживается; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IRasterImageRawDataLoader](../)
-* пространство имен [Aspose.PSD](../../irasterimagerawdataloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

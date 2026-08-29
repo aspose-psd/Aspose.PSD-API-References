@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой яркости/контрастности.
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой регулировки яркости/контрастности"
 type: docs
-weight: 300
+weight: 310
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-Добавляет корректирующий слой яркости/контрастности.
+Добавляет слой коррекции яркости/контраста.
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
@@ -16,18 +17,18 @@ public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightne
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brightness | Int32 | Яркость. |
-| contrast | Int32 | Контраст. |
+| яркость | Int32 | Яркость. |
+| контраст | Int32 | Контраст. |
 
 ### Возвращаемое значение
 
 Создан слой яркости/контрастности
 
-### Смотрите также
+### См. также
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает пользовательскую визуализацию.
+title: "ExifData.CustomRendered"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает пользовательскую отрисовку"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-Получает или задает пользовательскую визуализацию.
+Получает или задаёт пользовательскую отрисовку.
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пользовательский рендеринг.
+Пользовательская отрисовка.
 
-### Смотрите также
+### См. также
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

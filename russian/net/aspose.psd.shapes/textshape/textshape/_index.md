@@ -1,30 +1,31 @@
 ---
-title: TextShape.TextShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape строитель. Инициализирует новый экземплярTextShape класс.
+title: "TextShape.TextShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TextShape. Инициализирует новый экземпляр класса TextShape"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.shapes/textshape/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape() {#constructor}
 
-Инициализирует новый экземпляр[`TextShape`](../) класс.
+Инициализирует новый экземпляр класса [`TextShape`](../).
 
 ```csharp
 public TextShape()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-Инициализирует новый экземпляр[`TextShape`](../) класс.
+Инициализирует новый экземпляр класса [`TextShape`](../).
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)
@@ -32,18 +33,18 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст для рисования. |
-| rectangle | RectangleF | Текстовый прямоугольник. |
-| font | Font | Используемый шрифт. |
+| текст | String | Текст для отрисовки. |
+| прямоугольник | RectangleF | Прямоугольник текста. |
+| шрифт | Шрифт | Шрифт, который следует использовать. |
 | stringFormat | StringFormat | Формат строки. |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

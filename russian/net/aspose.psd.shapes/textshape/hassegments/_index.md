@@ -1,27 +1,28 @@
 ---
-title: TextShape.HasSegments
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape свойство. Получает значение указывающее есть ли у фигуры сегменты.
+title: "TextShape.HasSegments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextShape. Возвращает значение, указывающее, содержит ли фигура сегменты"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.shapes/textshape/hassegments/
 ---
+{{< psd/tize >}}
 ## TextShape.HasSegments property
 
-Получает значение, указывающее, есть ли у фигуры сегменты.
+Получает значение, указывающее, имеет ли форма сегменты.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`Истинный` если фигура имеет сегменты; в противном случае,`ЛОЖЬ`.
+`True` если у фигуры есть сегменты; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

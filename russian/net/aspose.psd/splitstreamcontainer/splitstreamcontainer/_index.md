@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer строитель. Инициализирует новый экземплярSplitStreamContainer класс.
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор SplitStreamContainer. Инициализирует новый экземпляр класса SplitStreamContainer"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-Инициализирует новый экземпляр[`SplitStreamContainer`](../) класс.
+Инициализирует новый экземпляр класса [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream)
@@ -18,17 +19,17 @@ public SplitStreamContainer(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток. |
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-Инициализирует новый экземпляр[`SplitStreamContainer`](../) класс.
+Инициализирует новый экземпляр класса [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
@@ -37,19 +38,19 @@ public SplitStreamContainer(Stream stream, bool disposeStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток данных. |
-| disposeStream | Boolean | если установлено`истинный` поток будет удален, когда контейнер будет удален. |
+| disposeStream | Boolean | Если установить в `true`, поток будет освобождён при освобождении контейнера. |
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-Инициализирует новый экземпляр[`SplitStreamContainer`](../) класс.
+Инициализирует новый экземпляр класса [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
@@ -58,13 +59,13 @@ public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | StreamContainer | Контейнер потока. |
-| disposeStream | Boolean | если установлено`истинный` распоряжается потоком. |
+| disposeStream | Boolean | если установлено `true`, освобождает поток. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

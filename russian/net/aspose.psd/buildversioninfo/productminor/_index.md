@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ProductMinor
-second_title: Справочник по Aspose.PSD для .NET API
-description: BuildVersionInfo поле. Младшая версия продукта.
+title: "BuildVersionInfo.ProductMinor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BuildVersionInfo. Минорная версия продукта"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/buildversioninfo/productminor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMinor field
 
-Младшая версия продукта.
+Второстепенная версия продукта.
 
 ```csharp
 public static readonly int ProductMinor;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BuildVersionInfo](../)
-* пространство имен [Aspose.PSD](../../buildversioninfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

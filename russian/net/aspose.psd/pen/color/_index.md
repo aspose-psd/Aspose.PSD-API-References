@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или устанавливает цвет этогоPen .
+title: "Pen.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задает цвет этого Pen"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Получает или устанавливает цвет этого[`Pen`](../) .
+Получает или задает цвет этого [`Pen`](../).
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А`Color` структура, которая представляет цвет этого[`Pen`](../).
+Структура `Color`, представляющая цвет этого [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `Color` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `Color` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

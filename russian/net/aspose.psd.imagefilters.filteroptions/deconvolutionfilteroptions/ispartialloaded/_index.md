@@ -1,11 +1,12 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Справочник по Aspose.PSD для .NET API
-description: DeconvolutionFilterOptions свойство. Получает значение указывающее загружен ли этот экземпляр частично.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DeconvolutionFilterOptions. Возвращает значение, указывающее, частично ли загружен этот экземпляр"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
 Получает значение, указывающее, загружен ли этот экземпляр частично.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/is
 public bool IsPartialLoaded { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр частично загружен; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр частично загружен; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [DeconvolutionFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

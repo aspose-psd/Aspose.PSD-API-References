@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает матрицу преобразования размещенного слоя в файле PSD.
+title: "PlacedResource.TransformMatrix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает матрицу преобразования размещённого слоя в файле PSD"
 type: docs
-weight: 170
+weight: 160
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-Получает или задает матрицу преобразования размещенного слоя в файле PSD.
+Получает или задает матрицу преобразования размещённого слоя в файле PSD.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Матрица преобразования размещенного слоя.
+Матрица преобразования размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

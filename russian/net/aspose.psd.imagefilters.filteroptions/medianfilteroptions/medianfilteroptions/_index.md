@@ -1,14 +1,15 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: MedianFilterOptions строитель. Инициализирует новый экземплярMedianFilterOptions класс.
+title: "MedianFilterOptions.MedianFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор MedianFilterOptions. Инициализирует новый экземпляр класса MedianFilterOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-Инициализирует новый экземпляр[`MedianFilterOptions`](../) класс.
+Инициализирует новый экземпляр класса [`MedianFilterOptions`](../).
 
 ```csharp
 public MedianFilterOptions(int size)
@@ -16,12 +17,12 @@ public MedianFilterOptions(int size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Int32 | Размер прямоугольника фильтра. |
+| размер | Int32 | Размер прямоугольника фильтра. |
 
-### Смотрите также
+### См. также
 
 * class [MedianFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

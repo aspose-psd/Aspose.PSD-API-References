@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle свойство. Получает или задает координату y которая является суммойY иHeight значения свойств этогоRectangleструктура.
+title: "Rectangle.Bottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rectangle. Получает или задает координату y, которая является суммой значений свойств Y и Height этой структуры Rectangle."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Получает или задает координату y, которая является суммой[`Y`](../y/) и[`Height`](../height/) значения свойств этого[`Rectangle`](../)структура.
+Получает или задает координату y, которая является суммой значений свойств [`Y`](../y/) и [`Height`](../height/) этой структуры [`Rectangle`](../).
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Координата Y, представляющая собой сумму[`Y`](../y/) и[`Height`](../height/) этого[`Rectangle`](../) .
+Координата y, являющаяся суммой [`Y`](../y/) и [`Height`](../height/) этой [`Rectangle`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

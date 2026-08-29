@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientOverlayEffect свойство. Получает или задает режим наложения.
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientOverlayEffect. Получает или задает режим смешивания"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
 Получает или задает режим наложения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffec
 public BlendMode BlendMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим наложения.
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

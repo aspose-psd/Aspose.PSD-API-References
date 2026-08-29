@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает или задает выравнивание линии в горизонтальной плоскости.
+title: "StringFormat.LineAlignment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Получает или задает выравнивание строк по горизонтали"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-Получает или задает выравнивание линии в горизонтальной плоскости.
+Получает или задает выравнивание строк по горизонтали.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`StringAlignment`](../../stringalignment/) перечисление, представляющее выравнивание строки.
+Перечисление [`StringAlignment`](../../stringalignment/), представляющее выравнивание строк.
 
-### Смотрите также
+### См. также
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

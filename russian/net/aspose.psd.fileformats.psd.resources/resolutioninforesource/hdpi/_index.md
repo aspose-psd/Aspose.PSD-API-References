@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResolutionInfoResource свойство. Горизонтальный DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResolutionInfoResource. Горизонтальное DPI"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
-Горизонтальный DPI.
+Горизонтальное DPI.
 
 ```csharp
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Горизонтальное разрешение dpi.
+Горизонтальное DPI.
 
-### Смотрите также
+### См. также
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

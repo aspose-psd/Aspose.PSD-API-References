@@ -1,24 +1,25 @@
 ---
-title: SmartFilters.Filters
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilters свойство. Получает или устанавливает интеллектуальные фильтры.
+title: "SmartFilters.Filters"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilters. Получает или задаёт умные фильтры"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-Получает или устанавливает интеллектуальные фильтры.
+Получает или задает умные фильтры.
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

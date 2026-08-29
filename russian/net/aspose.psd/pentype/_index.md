@@ -1,32 +1,33 @@
 ---
-title: Enum PenType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.PenType перечисление. Определяет тип заливкиPen объект использует для заполнения строк.
+title: "Перечисление PenType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.PenType. Указывает тип заливки, который объект Pen использует для заполнения линий"
 type: docs
-weight: 5220
+weight: 5710
 url: /ru/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-Определяет тип заливки[`Pen`](../pen/) объект использует для заполнения строк.
+Указывает тип заливки, который объект [`Pen`](../pen/) использует для заполнения линий.
 
 ```csharp
 public enum PenType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| SolidColor | `0` | Определяет сплошную заливку. |
-| HatchFill | `1` | Указывает заливку штриховки. |
-| TextureFill | `2` | Задает заливку растровой текстурой. |
-| PathGradient | `3` | Задает градиентную заливку контура. |
-| LinearGradient | `4` | Определяет заливку линейным градиентом. |
+| SolidColor | `0` | Указывает сплошную заливку. |
+| HatchFill | `1` | Указывает штриховку. |
+| TextureFill | `2` | Указывает заливку битовой текстурой. |
+| PathGradient | `3` | Указывает градиентную заливку по пути. |
+| LinearGradient | `4` | Указывает линейную градиентную заливку. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

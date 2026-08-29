@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: NvrtResource свойство. Получает версию PSD.
+title: "NvrtResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NvrtResource. Возвращает версию PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/
 ---
+{{< psd/tize >}}
 ## NvrtResource.PsdVersion property
 
-Получает версию PSD.
+Возвращает версию PSD.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NvrtResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

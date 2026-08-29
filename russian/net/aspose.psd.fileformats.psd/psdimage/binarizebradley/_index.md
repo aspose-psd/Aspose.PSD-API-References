@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeBradley
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Бинаризация изображения с использованием алгоритма адаптивной пороговой обработки Брэдли с использованием интегрального порогового значения изображения
+title: "PsdImage.BinarizeBradley"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Бинаризация изображения с использованием адаптивного порогового алгоритма Брэдли, основанного на интегральном изображении"
 type: docs
-weight: 470
+weight: 530
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-Бинаризация изображения с использованием алгоритма адаптивной пороговой обработки Брэдли с использованием интегрального порогового значения изображения
+Бинаризация изображения с использованием адаптивного порогового алгоритма Брэдли, основанного на интегральном изображении.
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference, int windowSize)
@@ -16,20 +17,20 @@ public override void BinarizeBradley(double brightnessDifference, int windowSize
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brightnessDifference | Double | Разница яркости между пикселем и средним значением окна sxs пикселей, сосредоточенных вокруг этого пикселя. |
-| windowSize | Int32 | Размер окна sxs пикселей с центром вокруг этого пикселя |
+| brightnessDifference | Double | Разница яркости между пикселем и средним значением окна s × s пикселей, центрированного вокруг этого пикселя. |
+| windowSize | Int32 | Размер окна s × s пикселей, центрированного вокруг этого пикселя. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-Бинаризация изображения с использованием алгоритма адаптивной пороговой обработки Брэдли с использованием интегрального порогового значения изображения
+Бинаризация изображения с использованием адаптивного порогового алгоритма Брэдли, основанного на интегральном изображении.
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference)
@@ -37,12 +38,12 @@ public override void BinarizeBradley(double brightnessDifference)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brightnessDifference | Double | Разница яркости между пикселем и средним значением окна sxs пикселей, сосредоточенных вокруг этого пикселя. |
+| brightnessDifference | Double | Разница яркости между пикселем и средним значением окна s × s пикселей, центрированного вокруг этого пикселя. |
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

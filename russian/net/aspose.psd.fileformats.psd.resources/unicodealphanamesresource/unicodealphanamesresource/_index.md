@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.UnicodeAlphaNamesResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnicodeAlphaNamesResource строитель. Конструктор по умолчанию.
+title: "UnicodeAlphaNamesResource.UnicodeAlphaNamesResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "UnicodeAlphaNamesResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/unicodealphanamesresource/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/unic
 public UnicodeAlphaNamesResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnicodeAlphaNamesResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

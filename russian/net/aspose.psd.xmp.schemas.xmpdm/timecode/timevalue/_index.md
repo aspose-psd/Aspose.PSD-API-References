@@ -1,11 +1,12 @@
 ---
-title: Timecode.TimeValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: Timecode свойство. Получает или задает значение времени в указанном формате.
+title: "Timecode.TimeValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Timecode. Получает или задает значение времени в указанном формате"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 ---
+{{< psd/tize >}}
 ## Timecode.TimeValue property
 
 Получает или задает значение времени в указанном формате.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 public string TimeValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение времени в указанном формате.
 
-### Смотрите также
+### См. также
 
 * class [Timecode](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ObjectArrayStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure сорт. Определяет класс ObjectArrayStructure который обычно содержитUnitArrayStructure array. Используется в файловых ресурсах PSD таких как PlLd Resource и SoLd Resource.
+title: "Класс ObjectArrayStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure. Определяет класс ObjectArrayStructure, который обычно содержит массив UnitArrayStructure. Он используется в ресурсах файлов PSD, таких как ресурс PlLd и ресурс SoLd."
 type: docs
-weight: 3200
+weight: 3590
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure class
 
-Определяет класс ObjectArrayStructure, который обычно содержит[`UnitArrayStructure`](../unitarraystructure/) array. Используется в файловых ресурсах PSD, таких как PlLd Resource и SoLd Resource.
+Определяет класс ObjectArrayStructure, который обычно содержит массив [`UnitArrayStructure`](../unitarraystructure/). Он используется в ресурсах файлов PSD, таких как ресурс PlLd и ресурс SoLd.
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
@@ -18,18 +19,18 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Инициализирует новый экземпляр`ObjectArrayStructure` класс. |
-| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Инициализирует новый экземпляр`ObjectArrayStructure` класс. |
+| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Инициализирует новый экземпляр класса `ObjectArrayStructure`. |
+| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Инициализирует новый экземпляр класса `ObjectArrayStructure`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Получает или задает идентификатор класса массива объектов. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Получает или задает имя класса массива объектов. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Получает ключ структуры массива объектов. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Получает или задает идентификатор класса массивов объектов. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Получает или задает имя класса массивов объектов. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Получает ключ структуры массивов объектов. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Получает длину [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах. |
 | [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | Получает количество подструктур массива объектов. |
 | [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | Получает или задает копию массива структур. |
 
@@ -45,9 +46,9 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | Идентифицирует ключ структуры 'ObAr'. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | Определяет ключ структуры 'ObAr'. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -101,10 +102,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

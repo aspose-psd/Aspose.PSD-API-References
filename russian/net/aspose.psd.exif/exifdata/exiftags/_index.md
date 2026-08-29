@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExifTags
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает теги которые относятся только к разделу EXIF.
+title: "ExifData.ExifTags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает теги, относящиеся только к разделу EXIF"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.exif/exifdata/exiftags/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifTags property
 
-Получает или устанавливает теги, которые относятся только к разделу EXIF.
+Получает или задает теги, принадлежащие только разделу EXIF.
 
 ```csharp
 public TiffDataType[] ExifTags { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Теги раздела EXIF.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

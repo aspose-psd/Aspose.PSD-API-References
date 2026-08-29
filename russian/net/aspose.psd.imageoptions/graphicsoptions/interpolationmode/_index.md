@@ -1,24 +1,25 @@
 ---
-title: GraphicsOptions.InterpolationMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsOptions свойство. Получает или устанавливает режим интерполяции.
+title: "GraphicsOptions.InterpolationMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GraphicsOptions. Получает или задает режим интерполяции"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/graphicsoptions/interpolationmode/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.InterpolationMode property
 
-Получает или устанавливает режим интерполяции.
+Получает или задает режим интерполяции.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [InterpolationMode](../../../aspose.psd/interpolationmode/)
 * class [GraphicsOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

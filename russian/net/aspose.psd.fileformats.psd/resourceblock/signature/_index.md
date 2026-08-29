@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock свойство. Получает подпись ресурса. Всегда должно быть 8BIM.
+title: "ResourceBlock.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock свойство. Получает подпись ресурса. Должна всегда быть 8BIM"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/signature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Signature property
 
-Получает подпись ресурса. Всегда должно быть «8BIM».
+Получает сигнатуру ресурса. Должна всегда быть '8BIM'.
 
 ```csharp
 public int Signature { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Подпись ресурса.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

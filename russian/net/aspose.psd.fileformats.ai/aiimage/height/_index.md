@@ -1,11 +1,12 @@
 ---
-title: AiImage.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает высоту изображения.
+title: "AiImage.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает высоту изображения."
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
 Получает высоту изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/aiimage/height/
 public override int Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота изображения.
 
-### Смотрите также
+### См. также
 
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.PlacedLayerType
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает тип размещенного слоя в файле PSD.
+title: "PlacedResource.PlacedLayerType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает тип размещённого слоя в файле PSD"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PlacedLayerType property
 
-Получает или задает тип размещенного слоя в файле PSD.
+Получает или задает тип размещённого слоя в файле PSD.
 
 ```csharp
 public virtual PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип размещаемого слоя.
+Тип размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

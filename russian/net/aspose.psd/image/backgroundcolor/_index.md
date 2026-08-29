@@ -1,24 +1,25 @@
 ---
-title: Image.BackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает или задает значение цвета фона.
+title: "Image.BackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Получает или задает значение цвета фона"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
-Получает или задает значение цвета фона.
+Получает или задает значение для цвета фона.
 
 ```csharp
 public virtual Color BackgroundColor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

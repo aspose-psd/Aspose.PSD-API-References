@@ -1,20 +1,21 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager сорт. Менеджер корректирующего слоя кривых управляющий картой пикселей
+title: "Класс CurvesDiscreteManager"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager класс. Менеджер для Curves Adjustment Layer, который манипулирует картой пикселей"
 type: docs
-weight: 2420
+weight: 2680
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-Менеджер корректирующего слоя кривых, управляющий картой пикселей
+Менеджер слоя коррекции кривых, который управляет картой пикселей.
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -25,14 +26,14 @@ public sealed class CurvesDiscreteManager : CurvesManager
 | Имя | Описание |
 | --- | --- |
 | [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Получает значение в позиции. |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Устанавливает значение по умолчанию в position. |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Устанавливает значение в position. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Устанавливает значение по умолчанию в позиции. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Устанавливает значение в позиции. |
 | [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Устанавливает значение всего канала. |
 
-### Смотрите также
+### См. также
 
 * class [CurvesManager](../curvesmanager/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

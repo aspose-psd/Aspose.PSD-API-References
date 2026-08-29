@@ -1,23 +1,24 @@
 ---
-title: ClassStructure.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassStructure свойство. ПолучаетOSTypeStructure длина в байтах.
+title: "ClassStructure.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClassStructure. Получает длину OSTypeStructure в байтах"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/
 ---
+{{< psd/tize >}}
 ## ClassStructure.Length property
 
-Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах.
+Получает длину [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

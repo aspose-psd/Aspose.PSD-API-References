@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType перечисление. Тип цвета.
+title: "Перечисление ColorType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType. Тип цвета."
 type: docs
-weight: 6000
+weight: 6500
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 Тип цвета.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colortype/
 public enum ColorType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Process | `1` | Тип цвета процесса. |
-| Spot | `2` | Тип плашечного цвета. |
+| Process | `1` | Тип процессного цвета. |
+| Spot | `2` | Тип спотового цвета. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

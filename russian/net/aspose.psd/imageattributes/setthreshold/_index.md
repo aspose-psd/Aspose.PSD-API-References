@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Устанавливает порог диапазон прозрачности для категории по умолчанию.
+title: "ImageAttributes.SetThreshold"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает диапазон прозрачности порога для категории по умолчанию"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
 Устанавливает порог (диапазон прозрачности) для категории по умолчанию.
@@ -16,13 +17,13 @@ public void SetThreshold(float threshold)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threshold | Single | Вещественное число, указывающее пороговое значение. |
+| threshold | Single | Вещественное число, определяющее значение порога. |
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void SetThreshold(float threshold, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threshold | Single | Пороговое значение от 0,0 до 1,0, которое используется в качестве точки останова для сортировки цветов, которые будут сопоставлены либо с максимальным, либо с минимальным значением. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлен цветовой порог. |
+| threshold | Single | Значение порога от 0,0 до 1,0, используемое в качестве точки разрыва для сортировки цветов, которые будут сопоставлены либо с максимальным, либо с минимальным значением. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), определяющий категорию, для которой установлен цветовой порог. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

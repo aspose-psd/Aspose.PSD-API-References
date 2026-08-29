@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageExportersRegistry метод. Получает первый найденный поддерживаемый дескриптор подходящий для указанных параметров сохранения и изображения.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageExportersRegistry. Получает первый найденный поддерживаемый дескриптор, подходящий для указанных параметров сохранения и изображения"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
 Получает первый найденный поддерживаемый дескриптор, подходящий для указанных параметров сохранения и изображения.
@@ -17,24 +18,24 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение для экспорта. |
-| options | ImageOptionsBase | Варианты. |
+| изображение | Image | Изображение для экспорта. |
+| опции | ImageOptionsBase | Опции. |
 
 ### Возвращаемое значение
 
 Дескриптор экспортера, который поддерживает указанное изображение и параметры сохранения, или null, если такой дескриптор не найден.
 
-### Примечания
+## Примечания
 
-Первый дескриптор экспортера фактически будет последним зарегистрированным.
+Первый дескриптор экспортера на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageexportersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

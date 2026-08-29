@@ -1,22 +1,23 @@
 ---
-title: Class FilterOptionsBase
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase сорт. База параметров фильтра абстрактный class
+title: "Класс FilterOptionsBase"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase класс. Базовый абстрактный класс параметров фильтра"
 type: docs
-weight: 4690
+weight: 5160
 url: /ru/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-База параметров фильтра, абстрактный class
+Базовый класс параметров фильтра, абстрактный класс
 
 ```csharp
 public abstract class FilterOptionsBase
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

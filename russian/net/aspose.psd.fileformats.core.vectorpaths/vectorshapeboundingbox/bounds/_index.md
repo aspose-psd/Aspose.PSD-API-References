@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeBoundingBox свойство. Получает или задает границы ограничивающей рамки фигуры.
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeBoundingBox. Получает или задает границы ограничивающего прямоугольника фигуры"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-Получает или задает границы ограничивающей рамки фигуры.
+Получает или задает границы ограничивающего прямоугольника формы.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Границы ограничивающей рамки формы.
+Границы ограничивающего прямоугольника фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

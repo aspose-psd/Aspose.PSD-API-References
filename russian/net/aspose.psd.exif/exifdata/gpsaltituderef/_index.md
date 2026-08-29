@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает высоту GPS используемую в качестве эталонной высоты.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает высоту GPS, используемую в качестве эталонной высоты"
 type: docs
 weight: 370
 url: /ru/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
 Получает или задает высоту GPS, используемую в качестве эталонной высоты.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/gpsaltituderef/
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота GPS, используемая в качестве эталонной высоты.
 
-### Смотрите также
+### См. также
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

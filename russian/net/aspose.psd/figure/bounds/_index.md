@@ -1,28 +1,29 @@
 ---
-title: Figure.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: Figure свойство. Получает или устанавливает границы объекта.
+title: "Figure.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Figure. Получает или задает границы объекта"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
-Получает или устанавливает границы объекта.
+Получает или задает границы объекта.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* пространство имен [Aspose.PSD](../../figure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

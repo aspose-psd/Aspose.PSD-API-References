@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.QuadVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeRadiiRectangle свойство. Получает или задает четырехъядерную версию значения единицы измерения.
+title: "VectorShapeRadiiRectangle.QuadVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorShapeRadiiRectangle свойство. Получает или задает значение единичного квадрата версии"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.QuadVersion property
 
-Получает или задает четырехъядерную версию значения единицы измерения.
+Получает или задает версию квадрата единичного значения.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Четырехъядерная версия.
+Версия квадрата.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeRadiiRectangle](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

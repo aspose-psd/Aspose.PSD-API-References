@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает ширину шаблона.
+title: "IPatternFillSettings.PatternWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает или задает ширину шаблона"
 type: docs
-weight: 70
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternWidth property
 
 Получает или задает ширину шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int PatternWidth { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ширина паттерна.
+Ширина шаблона.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

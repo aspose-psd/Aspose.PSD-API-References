@@ -1,14 +1,15 @@
 ---
-title: Rectangle.GetHashCode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Возвращает хешкод для этогоRectangleструктура.
+title: "Rectangle.GetHashCode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Возвращает хеш‑код для этой структуры Rectangle"
 type: docs
 weight: 240
 url: /ru/net/aspose.psd/rectangle/gethashcode/
 ---
+{{< psd/tize >}}
 ## Rectangle.GetHashCode method
 
-Возвращает хеш-код для этого[`Rectangle`](../)структура.
+Возвращает хеш‑код для этой структуры [`Rectangle`](../).
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Возвращаемое значение
 
-Целое число, представляющее хэш-код для этого прямоугольника.
+Целое число, представляющее хеш‑код для этого прямоугольника.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

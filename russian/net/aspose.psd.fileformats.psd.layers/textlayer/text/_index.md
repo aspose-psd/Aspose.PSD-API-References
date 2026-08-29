@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Text
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer свойство. Получает текст.
+title: "TextLayer.Text"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextLayer. Получает текст"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/text/
 ---
+{{< psd/tize >}}
 ## TextLayer.Text property
 
 Получает текст.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/text/
 public string Text { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Текст.
 
-### Смотрите также
+### См. также
 
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

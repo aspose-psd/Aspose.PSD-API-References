@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает значение указывающее является ли изображение мозаичным.
+title: "TiffOptions.IsTiled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает значение, указывающее, разбито ли изображение на плитки"
 type: docs
-weight: 240
+weight: 250
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Получает значение, указывающее, является ли изображение мозаичным.
+Получает значение, указывающее, является ли изображение тайловым.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный`если изображение мозаичное; в противном случае,`ЛОЖЬ` .
+`true` если изображение разбито на плитки; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

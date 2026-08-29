@@ -1,27 +1,28 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает значение указывающее сведено ли изображение PSD.
+title: "PsdImage.IsFlatten"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage свойство. Возвращает значение, указывающее, является ли PSD‑изображение сплющенным"
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
-Получает значение, указывающее, сведено ли изображение PSD.
+Получает значение, указывающее, является ли PSD‑изображение сплющенным.
 
 ```csharp
 public bool IsFlatten { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр плоский; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр сплющен; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

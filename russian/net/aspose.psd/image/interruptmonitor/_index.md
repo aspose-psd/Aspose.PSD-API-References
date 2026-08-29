@@ -1,24 +1,25 @@
 ---
-title: Image.InterruptMonitor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает или устанавливает монитор прерываний.
+title: "Image.InterruptMonitor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Получает или задает монитор прерываний"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/image/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## Image.InterruptMonitor property
 
-Получает или устанавливает монитор прерываний.
+Получает или задает монитор прерываний.
 
 ```csharp
 public InterruptMonitor InterruptMonitor { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

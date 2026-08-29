@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions строитель. Инициализирует новый экземплярTiffOptions класс.
+title: "TiffOptions.TiffOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TiffOptions. Инициализирует новый экземпляр класса TiffOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
+{{< psd/tize >}}
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-Инициализирует новый экземпляр[`TiffOptions`](../) класс.
+Инициализирует новый экземпляр класса [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
@@ -17,21 +18,21 @@ public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | expectedFormat | TiffExpectedFormat | Ожидаемый формат файла tiff. |
-| byteOrder | TiffByteOrder | Используемый порядок байтов в формате файла tiff. |
+| byteOrder | TiffByteOrder | Порядок байтов формата файла TIFF, который следует использовать. |
 
-### Смотрите также
+### См. также
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-Инициализирует новый экземпляр[`TiffOptions`](../) сорт. По умолчанию используется соглашение с прямым порядком байтов.
+Инициализирует новый экземпляр класса [`TiffOptions`](../). По умолчанию используется порядок little endian.
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
@@ -41,18 +42,18 @@ public TiffOptions(TiffExpectedFormat expectedFormat)
 | --- | --- | --- |
 | expectedFormat | TiffExpectedFormat | Ожидаемый формат файла tiff. |
 
-### Смотрите также
+### См. также
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-Инициализирует новый экземпляр[`TiffOptions`](../) класс.
+Инициализирует новый экземпляр класса [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffOptions options)
@@ -60,19 +61,19 @@ public TiffOptions(TiffOptions options)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | TiffOptions | Параметры для копирования. |
+| опции | TiffOptions | Опции для копирования из. |
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-Инициализирует новый экземпляр[`TiffOptions`](../) класс.
+Инициализирует новый экземпляр класса [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)
@@ -80,13 +81,13 @@ public TiffOptions(TiffDataType[] tags)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tags | TiffDataType[] | Теги для инициализации опций. |
+| теги | TiffDataType[] | Теги для инициализации опций. |
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

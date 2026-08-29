@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.L
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantLab свойство. Получает или задает компонент L.
+title: "ColorantLab.L"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantLab. Получает или задаёт компонент L"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/l/
 ---
+{{< psd/tize >}}
 ## ColorantLab.L property
 
 Получает или задает компонент L.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/l/
 public float L { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Компонент L.
 
-### Смотрите также
+### См. также
 
 * class [ColorantLab](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

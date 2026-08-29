@@ -1,14 +1,15 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: OffsetStructure строитель. Инициализирует новый экземплярOffsetStructure класс.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор OffsetStructure. Инициализирует новый экземпляр класса OffsetStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-Инициализирует новый экземпляр[`OffsetStructure`](../) класс.
+Инициализирует новый экземпляр класса [`OffsetStructure`](../).
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
@@ -16,14 +17,14 @@ public OffsetStructure(ClassID keyName, ClassID classID)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 | classID | ClassID | Идентификатор класса. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

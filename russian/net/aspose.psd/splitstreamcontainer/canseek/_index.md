@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanSeek
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer свойство. Получает значение указывающее поддерживает ли поток поиск.
+title: "SplitStreamContainer.CanSeek"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SplitStreamContainer. Возвращает значение, указывающее, поддерживает ли поток поиск."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/splitstreamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanSeek property
 
-Получает значение, указывающее, поддерживает ли поток поиск.
+Возвращает значение, указывающее, поддерживает ли поток перемещение.
 
 ```csharp
 public override bool CanSeek { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если поток поддерживает поиск; в противном случае,`ЛОЖЬ`.
+`true`, если поток поддерживает поиск; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

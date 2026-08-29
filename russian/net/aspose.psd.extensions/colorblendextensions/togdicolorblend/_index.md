@@ -1,14 +1,15 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBlendExtensions метод. ПреобразуетColorBlend кColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorBlendExtensions. Преобразует ColorBlend в ColorBlend."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-Преобразует[`ColorBlend`](../../../aspose.psd/colorblend/) кColorBlend .
+Преобразует [`ColorBlend`](../../../aspose.psd/colorblend/) в ColorBlend.
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
@@ -16,17 +17,17 @@ public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorBlend | ColorBlend | Цветовая смесь. |
+| colorBlend | ColorBlend | Цветовой микс. |
 
 ### Возвращаемое значение
 
-ПреобразованныйColorBlend.
+Преобразованный ColorBlend.
 
-### Смотрите также
+### См. также
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../colorblendextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

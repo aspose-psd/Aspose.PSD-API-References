@@ -1,30 +1,31 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype перечисление. Раздел subtype
+title: "Перечисление LayerSectionSubtype"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype. Подтип секции"
 type: docs
-weight: 2600
+weight: 2910
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
-Раздел subtype
+Подтип секции
 
 ```csharp
 public enum LayerSectionSubtype
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| NotUsed | `-1` | Неиспользуемый |
+| NotUsed | `-1` | Не используется |
 | Normal | `0` | Обычный |
-| SceneGroup | `1` | Группа сцен |
+| SceneGroup | `1` | Группа сцены |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

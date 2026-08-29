@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMap свойство. Получает или задает новыйColor структура в которую нужно преобразовать.
+title: "ColorMap.NewColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorMap. Получает или задает новую структуру Color, в которую нужно преобразовать"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-Получает или задает новый[`Color`](../../color/) структура, в которую нужно преобразовать.
+Получает или задает новую структуру [`Color`](../../color/), в которую нужно преобразовать.
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Новый[`Color`](../../color/) структура, в которую нужно преобразовать.
+Новая структура [`Color`](../../color/), в которую нужно преобразовать.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* пространство имен [Aspose.PSD](../../colormap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

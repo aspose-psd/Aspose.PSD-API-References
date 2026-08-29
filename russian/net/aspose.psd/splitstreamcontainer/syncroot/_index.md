@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.SyncRoot
-second_title: Справочник по Aspose.PSD для .NET API
-description: SplitStreamContainer свойство. Получает объект который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+title: "SplitStreamContainer.SyncRoot"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SplitStreamContainer. Возвращает объект, который может использоваться для синхронизации доступа к синхронизированному ресурсу."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/splitstreamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SyncRoot property
 
-Получает объект, который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+Получает объект, который можно использовать для синхронизации доступа к синхронизированному ресурсу.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Объект, который можно использовать для синхронизации доступа к синхронизируемому ресурсу.
+Объект, который может использоваться для синхронизации доступа к синхронизированному ресурсу.
 
-### Смотрите также
+### См. также
 
 * class [SplitStreamContainer](../)
-* пространство имен [Aspose.PSD](../../splitstreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

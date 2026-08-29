@@ -1,11 +1,12 @@
 ---
-title: Enum GuideDirection
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection перечисление. Направление направляющей.
+title: "Перечисление GuideDirection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. Направление направляющей"
 type: docs
-weight: 3740
+weight: 4210
 url: /ru/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
 Направление направляющей.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/guidedirection/
 public enum GuideDirection : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Vertical | `0` | Направление вертикальной направляющей. |
-| Horizontal | `1` | Направление горизонтальной направляющей. |
+| Vertical | `0` | Вертикальное направление направляющей. |
+| Horizontal | `1` | Горизонтальное направление направляющей. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

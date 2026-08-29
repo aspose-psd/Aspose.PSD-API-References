@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает вертикальное смещение.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает или задает вертикальное смещение"
 type: docs
-weight: 100
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
 Получает или задает вертикальное смещение.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int VerticalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Вертикальное смещение.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

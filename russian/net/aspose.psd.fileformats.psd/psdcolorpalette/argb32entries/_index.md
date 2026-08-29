@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdColorPalette свойство. Получает массив 32битных цветов ARGB.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdColorPalette. Возвращает массив 32‑битных цветов ARGB"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-Получает массив 32-битных цветов ARGB.
+Возвращает массив 32-битных цветов ARGB.
 
 ```csharp
 public int[] Argb32Entries { get; }
@@ -16,16 +17,16 @@ public int[] Argb32Entries { get; }
 
 ### Возвращаемое значение
 
-Массив 32-битной структуры ARGB, составляющих этот[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Массив 32‑битных структур ARGB, составляющих эту [`ColorPalette`](../../../aspose.psd/colorpalette/).
 
-### Стоимость имущества
+### Property Value
 
-Записи.
+Элементы.
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

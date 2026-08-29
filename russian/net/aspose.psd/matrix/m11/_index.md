@@ -1,23 +1,24 @@
 ---
-title: Matrix.M11
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix свойство. Получает элемент матрицы в первом столбце первой строки. Представляет масштаб по оси X.
+title: "Matrix.M11"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Matrix. Возвращает элемент матрицы в первой строке, первом столбце. Представляет масштаб вдоль оси X."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-Получает элемент матрицы в первом столбце первой строки. Представляет масштаб по оси X.
+Возвращает элемент матрицы в первой строке и первом столбце. Представляет масштаб вдоль оси X.
 
 ```csharp
 public float M11 { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

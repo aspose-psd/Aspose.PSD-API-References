@@ -1,23 +1,24 @@
 ---
-title: ClblResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClblResource поле. Информационный ключ типа инструмента.
+title: "ClblResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ClblResource. Ключ информации о типе инструмента"
 type: docs
-weight: 40
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ClblResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClblResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

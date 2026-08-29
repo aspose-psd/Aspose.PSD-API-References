@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions метод. Определяет присутствует ли тег в опциях или нет.
+title: "TiffOptions.IsTagPresent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffOptions. Определяет, присутствует ли тег в параметрах или нет"
 type: docs
-weight: 730
+weight: 740
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-Определяет, присутствует ли тег в опциях или нет.
+Определяет, присутствует ли тег в параметрах или нет.
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
@@ -16,17 +17,17 @@ public bool IsTagPresent(TiffTags tag)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tag | TiffTags | Идентификатор тега для проверки. |
+| тег | TiffTags | Идентификатор тега для проверки. |
 
 ### Возвращаемое значение
 
-`истинный` если тег присутствует; в противном случае,`ЛОЖЬ` .
+`true` если тег присутствует; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ObjectArrayStructure свойство. Получает или задает идентификатор класса массива объектов.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ObjectArrayStructure. Получает или задает идентификатор класса массива объектов"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Получает или задает идентификатор класса массива объектов.
+Получает или задает идентификатор класса массивов объектов.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор класса массива объектов.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

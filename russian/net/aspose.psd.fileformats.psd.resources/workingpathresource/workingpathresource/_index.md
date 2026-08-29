@@ -1,14 +1,15 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: WorkingPathResource строитель. Инициализирует новый экземплярWorkingPathResource класс.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор WorkingPathResource. Инициализирует новый экземпляр класса WorkingPathResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-Инициализирует новый экземпляр[`WorkingPathResource`](../) класс.
+Инициализирует новый экземпляр класса [`WorkingPathResource`](../).
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -18,9 +19,9 @@ public WorkingPathResource(byte[] dataBytes)
 | --- | --- | --- |
 | dataBytes | Byte[] | Данные векторного пути. |
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку ресурса WorkingPathResource в PsdImage.ImageResources для корректной работы операции Crop.
+Этот пример демонстрирует поддержку ресурса 'WorkingPathResource' в PsdImage.ImageResources для корректной работы операции обрезки.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Загружаем сохраненное изображение и проверяем изменения.
+// Загрузить сохранённое изображение и проверить изменения.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Поиск ресурса WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [WorkingPathResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

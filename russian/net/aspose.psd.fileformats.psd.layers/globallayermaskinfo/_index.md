@@ -1,14 +1,15 @@
 ---
-title: Class GlobalLayerMaskInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.GlobalLayerMaskInfo сорт. Раздел маски глобального слоя.
+title: "Класс GlobalLayerMaskInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.GlobalLayerMaskInfo. Секция глобальной маски слоя"
 type: docs
-weight: 2050
+weight: 2180
 url: /ru/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo class
 
-Раздел маски глобального слоя.
+Глобальный раздел маски слоя.
 
 ```csharp
 public sealed class GlobalLayerMaskInfo
@@ -20,22 +21,22 @@ public sealed class GlobalLayerMaskInfo
 | --- | --- |
 | [GlobalLayerMaskInfo](globallayermaskinfo/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AlphaMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/) { get; set; } | Получает или задает альфа-маску. |
+| [AlphaMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/) { get; set; } | Получает или задаёт альфа‑маску. |
 | [BlueMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/) { get; set; } | Получает или задает синюю маску. |
 | [GreenMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/) { get; set; } | Получает или задает зеленую маску. |
-| [Kind](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/) { get; set; } | Получает или устанавливает вид. 0 = выбранный цвет, т. е. инвертированный; 1 = защищенный цвет; 128 = использовать значение, сохраненное для каждого слоя. Это значение является предпочтительным. Остальные значения предназначены для обратной совместимости с бета-версиями. |
-| [Length](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/) { get; } | Получает длину раздела маски глобального слоя в байтах. |
+| [Kind](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/kind/) { get; set; } | Получает или задает тип. 0 = выбранный цвет — т.е. инвертированный; 1 = защищенный цвет; 128 = использовать значение, хранящееся для каждого слоя. Это значение предпочтительно. Остальные предназначены для обратной совместимости с бета-версиями. |
+| [Length](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/) { get; } | Получает длину секции глобальной маски слоя в байтах. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/opacity/) { get; set; } | Получает или задает непрозрачность глобальных слоев. 0 = прозрачный, 100 = непрозрачный. |
-| [OverlayColorSpace](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/) { get; set; } | Получает или задает цветовое пространство наложения (недокументированное значение). |
+| [OverlayColorSpace](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/) { get; set; } | Получает или задает пространство наложения цвета (недокументированное значение). |
 | [RedMask](../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/) { get; set; } | Получает или задает красную маску. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

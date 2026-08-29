@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SamplesPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает выборки на пиксель. Чтобы изменить значение этого свойства используйтеBitsPerSample установщик свойств.
+title: "TiffOptions.SamplesPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает количество образцов на пиксель. Чтобы изменить значение этого свойства, используйте сеттер свойства BitsPerSample"
 type: docs
-weight: 400
+weight: 410
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SamplesPerPixel property
 
-Получает выборки на пиксель. Чтобы изменить значение этого свойства, используйте[`BitsPerSample`](../bitspersample/) установщик свойств.
+Получает количество образцов на пиксель. Чтобы изменить значение этого свойства, используйте сеттер свойства [`BitsPerSample`](../bitspersample/).
 
 ```csharp
 public ushort SamplesPerPixel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Выборки на пиксель.
+Количество образцов на пиксель.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

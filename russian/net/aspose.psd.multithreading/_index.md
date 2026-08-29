@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит классы многопоточности.
+title: "Aspose.PSD.Multithreading"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит классы многопоточности"
 type: docs
-weight: 460
+weight: 500
 url: /ru/net/aspose.psd.multithreading/
 ---
-Пространство имен содержит классы многопоточности.
+{{< psd/tize >}}
+Пространство имён содержит классы многопоточности.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [InterruptMonitor](./interruptmonitor/) | Представляет информацию о прерывании. |
 

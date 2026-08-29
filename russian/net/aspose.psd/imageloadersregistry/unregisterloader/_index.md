@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageLoadersRegistry метод. Отменяет регистрацию загрузчика.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageLoadersRegistry. Отменяет регистрацию загрузчика"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
 Отменяет регистрацию загрузчика.
@@ -18,11 +19,11 @@ public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 | --- | --- | --- |
 | loaderDescriptor | IImageLoaderDescriptor | Дескриптор загрузчика для отмены регистрации. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageloadersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader метод. Чтение целочисленного значения без знака из потока.
+title: "TiffStreamReader.ReadULong"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamReader method. Читает значение беззнакового целого числа из потока"
 type: docs
 weight: 190
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULong method
 
-Чтение целочисленного значения без знака из потока.
+Считывает беззнаковое целочисленное значение из потока.
 
 ```csharp
 public uint ReadULong(long position)
@@ -16,16 +17,16 @@ public uint ReadULong(long position)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| position | Int64 | Позиция для чтения. |
+| позиция | Int64 | Позиция, из которой читать. |
 
 ### Возвращаемое значение
 
-Целочисленное значение без знака.
+Беззнаковое целочисленное значение.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

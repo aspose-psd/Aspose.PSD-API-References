@@ -1,11 +1,12 @@
 ---
-title: Delegate AsyncTaskAction
-second_title: Справочник по Aspose.PSD для .NET API
-description: Делегат длительной операции для асинхронной задачи без результата.
+title: "Делегат AsyncTaskAction"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Делегат длительной операции для асинхронной задачи без результата"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.asynctask/asynctaskaction/
 ---
+{{< psd/tize >}}
 ## AsyncTaskAction delegate
 
 Делегат длительной операции для асинхронной задачи без результата.
@@ -18,10 +19,10 @@ public delegate void AsyncTaskAction(IAsyncTaskState taskState);
 | --- | --- | --- |
 | taskState | IAsyncTaskState | Состояние асинхронной задачи. |
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

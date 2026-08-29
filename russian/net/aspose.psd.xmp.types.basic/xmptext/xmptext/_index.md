@@ -1,14 +1,15 @@
 ---
-title: XmpText.XmpText
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpText строитель. Инициализирует новый экземплярXmpText класс.
+title: "XmpText.XmpText"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpText. Инициализирует новый экземпляр класса XmpText"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Инициализирует новый экземпляр[`XmpText`](../) класс.
+Инициализирует новый экземпляр класса [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
@@ -16,12 +17,12 @@ public XmpText(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpText](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

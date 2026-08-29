@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPatternFillSettings свойство. Получает или задает смещение по горизонтали.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPatternFillSettings. Получает и задает горизонтальное смещение"
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
-Получает или задает смещение по горизонтали.
+Получает или задает горизонтальное смещение.
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное смещение.
 
-### Смотрите также
+### См. также
 
 * interface [IPatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

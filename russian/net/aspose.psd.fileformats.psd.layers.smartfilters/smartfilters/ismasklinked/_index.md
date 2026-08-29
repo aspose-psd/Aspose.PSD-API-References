@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilters свойство. Получает статус связанного с маской интеллектуального фильтра.
+title: "SmartFilters.IsMaskLinked"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilters. Получает статус привязанности маски умного фильтра"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
-Получает статус связанного с маской интеллектуального фильтра.
+Получает статус привязки маски умного фильтра.
 
 ```csharp
 public bool IsMaskLinked { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilters](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

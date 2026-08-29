@@ -1,46 +1,53 @@
 ---
-title: Class PixelsData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.PixelsData сорт. Класс для хранения данных пикселей изображения и их границ.
+title: "Класс PixelsData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.PixelsData. Класс для хранения данных пикселей изображения и их границ"
 type: docs
-weight: 5250
+weight: 5740
 url: /ru/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-Класс для хранения данных пикселей изображения и их границ.
+Класс для хранения данных пикселей изображения и его границ.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
 ## Конструкторы
 
 | Имя | Описание |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | Инициализирует новый экземпляр`PixelsData` класс. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Инициализирует новый экземпляр`PixelsData` класс. |
+| [PixelsData](pixelsdata/#constructor)() | Инициализирует новый экземпляр класса `PixelsData`. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Инициализирует новый экземпляр класса `PixelsData`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Получает или задает границы данных пикселей. |
-| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Получает или задает данные о пикселях. |
+| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Получает или задает данные пикселей. |
 
-### Примеры
+## Методы
 
-В следующем коде показано, как создать настраиваемый интеллектуальный фильтр с настраиваемым модулем визуализации.
+| Имя | Описание |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | Создаёт полную копию экземпляра |
+
+## Примеры
+
+Следующий код показывает, как создать пользовательский умный фильтр с пользовательским рендерером.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Инициализирует неподдерживаемый интеллектуальный фильтр «Кристаллизовать» во входном массиве
+    // Инициализирует неподдерживаемый умный фильтр 'Crystallize' в входном массиве
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -66,14 +73,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Применить фильтр к смарт-объекту
+        // Применить фильтр к SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Применяем фильтр к маске слоя
+        // Применить фильтр к маске слоя
         smartFilter.ApplyToMask(maskLayer);
 
-        //Применяем фильтр к слою
+        //Применить фильтр к слою
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -90,15 +97,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // идентификатор смарт-фильтра «Кристаллизовать».
+        // ID умного фильтра 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // получаем структуру фильтра
+        // получить структуру фильтра
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // получить значение размера кристаллизации
+        // получить значение размера Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum ColorMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode перечисление. Представляет цветовой режим.
+title: "Enum ColorMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode enum. Представляет режим цвета"
 type: docs
-weight: 5990
+weight: 6490
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Представляет цветовой режим.
+Представляет режим цвета.
 
 ```csharp
 public enum ColorMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Cmyk | `1` | Цветовой режим CMYK. |
-| Rgb | `2` | Цветовой режим RGB. |
-| Lab | `3` | Цветовой режим LAB. |
+| Cmyk | `1` | Режим цвета CMYK. |
+| Rgb | `2` | Режим цвета RGB. |
+| Lab | `3` | Режим цвета LAB. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

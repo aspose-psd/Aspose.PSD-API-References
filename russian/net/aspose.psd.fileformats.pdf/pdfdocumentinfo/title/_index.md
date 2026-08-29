@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfDocumentInfo свойство. Получает или задает заголовок документа.
+title: "PdfDocumentInfo.Title"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PdfDocumentInfo. Получает или задает заголовок документа"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
 Получает или задает заголовок документа.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 public string Title { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpClassName
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource свойство. Получает или задает имя класса деформации.
+title: "TypeToolInfo6Resource.WarpClassName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfo6Resource. Получает или задает имя класса искажения"
 type: docs
-weight: 180
+weight: 150
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassName property
 
-Получает или задает имя класса деформации.
+Получает или задаёт имя класса искажения.
 
 ```csharp
 public string WarpClassName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имя класса деформации.
+Имя класса искажения.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

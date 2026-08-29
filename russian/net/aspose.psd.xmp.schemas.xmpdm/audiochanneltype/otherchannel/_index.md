@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: AudioChannelType свойство. Получает другой канал.
+title: "AudioChannelType.OtherChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AudioChannelType. Возвращает другой канал"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
 Получает другой канал.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Другой канал.
 
-### Смотрите также
+### См. также
 
 * class [AudioChannelType](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

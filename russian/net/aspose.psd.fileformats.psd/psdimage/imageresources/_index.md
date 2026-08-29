@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ImageResources
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает ресурсы изображения PSD.
+title: "PsdImage.ImageResources"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задает ресурсы PSD‑изображения"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-Получает или задает ресурсы изображения PSD.
+Получает или задает ресурсы PSD‑изображения.
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ресурсы изображений PSD.
+Ресурсы PSD‑изображения.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

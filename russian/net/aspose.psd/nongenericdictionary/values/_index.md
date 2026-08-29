@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает ICollection объект содержащий значения в IDictionary объект.
+title: "NonGenericDictionary.Values"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Возвращает объект ICollection, содержащий значения объекта IDictionary"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-Получает ICollection объект, содержащий значения в IDictionary объект.
+Возвращает объект ICollection, содержащий значения объекта IDictionary.
 
 ```csharp
 public ICollection Values { get; }
@@ -16,12 +17,12 @@ public ICollection Values { get; }
 
 ### Возвращаемое значение
 
-АнICollection объект, содержащий значения вIDictionary объект.
+Объект ICollection, содержащий значения объекта IDictionary.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IBufferProcessor
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IBufferProcessor интерфейс. Буферный процессор.
+title: "Интерфейс IBufferProcessor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IBufferProcessor. Обработчик буфера"
 type: docs
-weight: 4370
+weight: 4840
 url: /ru/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-Буферный процессор.
+Процессор буфера.
 
 ```csharp
 public interface IBufferProcessor
@@ -20,9 +21,9 @@ public interface IBufferProcessor
 | --- | --- |
 | [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Обрабатывает буфер. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

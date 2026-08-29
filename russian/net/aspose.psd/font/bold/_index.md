@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает значение указывающее является ли этоFont выделен жирным шрифтом.
+title: "Font.Bold"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Font. Получает значение, указывающее, является ли этот Font полужирным."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-Получает значение, указывающее, является ли это[`Font`](../) выделен жирным шрифтом.
+Получает значение, указывающее, является ли этот [`Font`](../) полужирным.
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Правда, если это[`Font`](../) смелый; в противном случае ложно.
+True, если этот [`Font`](../) полужирный; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает компонент зеленого цвета.
+title: "AiLayerSection.Green"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает зеленый компонент цвета"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Получает или задает компонент зеленого цвета.
+Получает или задает зелёный компонент цвета.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Компонент зеленого цвета.
+Зеленый компонент цвета.
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

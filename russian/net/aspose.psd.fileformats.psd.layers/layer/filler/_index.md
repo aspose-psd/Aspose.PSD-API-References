@@ -1,11 +1,12 @@
 ---
-title: Layer.Filler
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает заполнитель слоя.
+title: "Layer.Filler"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает заполнитель слоя"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
 Получает или задает заполнитель слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/filler/
 public byte Filler { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Заполнитель слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

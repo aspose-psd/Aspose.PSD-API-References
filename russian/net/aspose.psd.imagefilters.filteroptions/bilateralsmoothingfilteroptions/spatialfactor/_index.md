@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialFactor
-second_title: Справочник по Aspose.PSD для .NET API
-description: BilateralSmoothingFilterOptions свойство. Получает или задает пространственный фактор.
+title: "BilateralSmoothingFilterOptions.SpatialFactor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BilateralSmoothingFilterOptions свойство. Получает или задает пространственный коэффициент"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialFactor property
 
-Получает или задает пространственный фактор.
+Получает или задает пространственный коэффициент.
 
 ```csharp
 public double SpatialFactor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пространственный фактор.
+Пространственный коэффициент.
 
-### Смотрите также
+### См. также
 
 * class [BilateralSmoothingFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

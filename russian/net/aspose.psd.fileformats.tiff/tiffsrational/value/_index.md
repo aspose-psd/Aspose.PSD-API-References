@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffSRational свойство. Получает значение с плавающей запятой.
+title: "TiffSRational.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffSRational. Возвращает значение float"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
-Получает значение с плавающей запятой.
+Возвращает значение типа float.
 
 ```csharp
 public float Value { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение с плавающей запятой.
+Значение типа float.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

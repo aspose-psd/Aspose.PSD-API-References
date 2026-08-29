@@ -1,14 +1,15 @@
 ---
-title: Matrix.Translate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Применяет указанный вектор смещения к этой матрице в указанном порядке.
+title: "Matrix.Translate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Применяет указанный вектор переноса к этой матрице в заданном порядке."
 type: docs
 weight: 190
 url: /ru/net/aspose.psd/matrix/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-Применяет указанный вектор смещения к этой матрице в указанном порядке.
+Применяет указанный вектор переноса к этой Matrix в указанном порядке.
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
@@ -16,22 +17,22 @@ public void Translate(float offsetX, float offsetY, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| offsetX | Single | Смещение Х. |
-| offsetY | Single | Смещение Ю. |
-| order | MatrixOrder | Приказ. |
+| offsetX | Single | Смещение X. |
+| offsetY | Single | Смещение Y. |
+| порядок | MatrixOrder | Порядок. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(float, float) {#translate}
 
-Применяет указанный вектор смещения к этому[`Matrix`](../) используя (по умолчанию) Prepend order.
+Применяет указанный вектор переноса к этой [`Matrix`](../), используя (по умолчанию) порядок Prepend.
 
 ```csharp
 public void Translate(float tx, float ty)
@@ -39,13 +40,13 @@ public void Translate(float tx, float ty)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| tx | Single | TX. TX. TX. |
-| ty | Single | Тай. Тай. Тай. |
+| tx | Single | tx. tx. tx. |
+| ty | Single | ty. ty. ty. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

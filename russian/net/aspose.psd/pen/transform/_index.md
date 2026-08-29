@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает копию геометрического преобразования для этогоPen .
+title: "Pen.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задает копию геометрического преобразования для этого Pen."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-Получает или задает копию геометрического преобразования для этого[`Pen`](../) .
+Получает или задает копию геометрического преобразования для этого [`Pen`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Копия[`Matrix`](../../matrix/) которое представляет собой геометрическое преобразование для этого[`Pen`](../).
+Копия [`Matrix`](../../matrix/), представляющая геометрическое преобразование для этого [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `Transform` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `Transform` задаётся для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

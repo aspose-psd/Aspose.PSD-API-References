@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой Vibrance.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой корректировки Vibrance"
 type: docs
-weight: 430
+weight: 490
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Добавляет корректирующий слой Vibrance.
+Добавляет слой коррекции яркости.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Недавно созданный слой Vibrance.
+Новосозданный слой Vibrance.
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка слоя VibranceLayer и возможность редактирования этой настройки.
+Следующий пример кода демонстрирует поддержку слоя VibranceLayer и возможность редактировать эту коррекцию.
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,40 @@
 ---
-title: Class ColorOverlayEffect
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect сорт. Эффект наложения цвета
+title: "Класс ColorOverlayEffect"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect класс. Эффект наложения цвета слоя."
 type: docs
-weight: 2110
+weight: 2300
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect class
 
-Эффект наложения цвета
+Эффект наложения цвета слоя.
 
 ```csharp
 public class ColorOverlayEffect : ILayerEffect
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode/) { get; set; } | Получает или задает режим наложения. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/) { get; set; } | Получает или задает цвет. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype/) { get; } | Получает тип эффекта |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, виден ли этот экземпляр. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/) { get; set; } | Получает или задает прозрачность. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype/) { get; } | Получает тип эффекта. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/) { get; set; } | Получает или задает значение, указывающее, видим ли этот экземпляр. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/) { get; set; } | Получает или задает непрозрачность. |
 
-### Смотрите также
+## Методы
+
+| Имя | Описание |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/geteffectbounds/)(Rectangle, int) | Вычисляет и получает границы пикселей эффекта на основе границ пикселей входного слоя. |
+
+### См. также
 
 * interface [ILayerEffect](../ilayereffect/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

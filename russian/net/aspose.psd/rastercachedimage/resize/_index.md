@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterCachedImage метод. Изменяет размер изображения.
+title: "RasterCachedImage.Resize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterCachedImage. Изменяет размер изображения"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Изменяет размер изображения.
@@ -20,9 +21,9 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | newHeight | Int32 | Новая высота. |
 | resizeType | ResizeType | Тип изменения размера. |
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера SinC.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера SinC.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера Bell.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера Bell.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера Mitchell.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера Mitchell.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера CatmullRom.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера CatmullRom.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера CubicBSpline.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера CubicBSpline.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-В следующем коде показано, как изменить размер изображения с помощью нового типа изменения размера CubicConvolution.
+Следующий код демонстрирует, как изменить размер изображения с новым типом изменения размера CubicConvolution.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -118,12 +119,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -139,13 +140,13 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Новая ширина. |
 | newHeight | Int32 | Новая высота. |
-| settings | ImageResizeSettings | Настройки изменения размера. |
+| настройки | ImageResizeSettings | Настройки изменения размера. |
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* пространство имен [Aspose.PSD](../../rastercachedimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

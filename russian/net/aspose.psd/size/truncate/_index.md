@@ -1,14 +1,15 @@
 ---
-title: Size.Truncate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Преобразует указанныйSizeF структура кSize структуру путем усечения значенийSizeF структура до следующего меньшего целочисленного значения.
+title: "Size.Truncate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Преобразует указанную структуру SizeF в структуру Size, усекшая значения структуры SizeF до ближайших меньших целых чисел."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Преобразует указанный[`SizeF`](../../sizef/) структура к[`Size`](../) структуру путем усечения значений[`SizeF`](../../sizef/) структура до следующего меньшего целочисленного значения.
+Преобразует указанную структуру [`SizeF`](../../sizef/) в структуру [`Size`](../), усекшая значения [`SizeF`](../../sizef/) до ближайших меньших целых чисел.
 
 ```csharp
 public static Size Truncate(SizeF size)
@@ -16,17 +17,17 @@ public static Size Truncate(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../../sizef/) структура для преобразования. |
+| size | SizeF | Структура [`SizeF`](../../sizef/), которую нужно преобразовать. |
 
 ### Возвращаемое значение
 
-[`Size`](../) структура, в которую преобразуется этот метод.
+Структура [`Size`](../), в которую этот метод преобразует.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

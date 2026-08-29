@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Справочник по Aspose.PSD для .NET API
-description: LevelChannel свойство. Получает или задает входной уровень тени.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LevelChannel. Получает или задает уровень тени ввода"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
-Получает или задает входной уровень тени.
+Получает или задает уровень теней входного сигнала.
 
 ```csharp
 public short InputShadowLevel { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Входной уровень тени.
+Уровень тени ввода.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | Входной уровень тени можно задать только в диапазоне от 0 до "+ (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Уровень тени ввода можно установить только в диапазоне от 0 до \" + (this.InputHighlightLevel - 2) |
 
-### Смотрите также
+### См. также
 
 * class [LevelChannel](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

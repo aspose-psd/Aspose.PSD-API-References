@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResourceVersion3 строитель. Инициализирует новый экземплярPhflResourceVersion3 класс.
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PhflResourceVersion3. Инициализирует новый экземпляр класса PhflResourceVersion3"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-Инициализирует новый экземпляр[`PhflResourceVersion3`](../) класс.
+Инициализирует новый экземпляр класса [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3()
@@ -20,17 +21,17 @@ public PhflResourceVersion3()
 | --- | --- |
 | ArgumentException | Поддерживаются только версии 2 и 3 |
 
-### Смотрите также
+### См. также
 
 * class [PhflResourceVersion3](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PhflResourceVersion3`](../) класс.
+Инициализирует новый экземпляр класса [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
@@ -38,7 +39,7 @@ public PhflResourceVersion3(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные ресурса. |
+| данные | Byte[] | Данные ресурса. |
 
 ### Исключения
 
@@ -46,10 +47,10 @@ public PhflResourceVersion3(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Недопустимая длина данных |
 
-### Смотрите также
+### См. также
 
 * class [PhflResourceVersion3](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

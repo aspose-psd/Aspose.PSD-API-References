@@ -1,27 +1,28 @@
 ---
-title: ILayerEffect.Opacity
-second_title: Справочник по Aspose.PSD для .NET API
-description: ILayerEffect свойство. Получает или задает прозрачность где 255  100
+title: "ILayerEffect.Opacity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ILayerEffect. Возвращает или задает непрозрачность, где 255 = 100%"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.Opacity property
 
-Получает или задает прозрачность, где 255 = 100%
+Получает или задает непрозрачность, где 255 = 100%.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Непрозрачность.
 
-### Смотрите также
+### См. также
 
 * interface [ILayerEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

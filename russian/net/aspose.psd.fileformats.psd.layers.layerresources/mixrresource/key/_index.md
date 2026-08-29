@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: MixrResource свойство. Получает ключ ресурса слоя.
+title: "MixrResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MixrResource. Получает ключ ресурса слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/
 ---
+{{< psd/tize >}}
 ## MixrResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [MixrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

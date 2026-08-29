@@ -1,11 +1,12 @@
 ---
-title: Enum PngFilterType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Png.PngFilterType перечисление. Тип фильтра png.
+title: "Перечисление PngFilterType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Png.PngFilterType перечисление. Тип фильтра png"
 type: docs
-weight: 1590
+weight: 1600
 url: /ru/net/aspose.psd.fileformats.png/pngfiltertype/
 ---
+{{< psd/tize >}}
 ## PngFilterType enumeration
 
 Тип фильтра png.
@@ -14,20 +15,20 @@ url: /ru/net/aspose.psd.fileformats.png/pngfiltertype/
 public enum PngFilterType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Нулевой фильтр означает отсутствие фильтрации строк данных изображения. |
-| Sub | `1` | Дополнительный фильтр означает, что к данным изображения будет применяться субстрактная фильтрация. |
-| Up | `2` | Повышающий фильтр означает, что будет применяться построчный фильтр вычитания. |
-| Avg | `3` | Усредненный фильтр означает, что усредненный фильтр будет применяться к данным изображения. |
-| Paeth | `4` | Фильтр предиктора paeth. |
-| Adaptive | `5` | Адаптивная фильтрация означает, что процесс сохранения выберет наиболее подходящий фильтр для каждой строки данных. Лучшее сжатие, самое медленное время выполнения. |
+| None | `0` | null-filter, означает отсутствие фильтрации строк данных изображения. |
+| Sub | `1` | sub filter, означает, что будет применена субтрактивная фильтрация к данным изображения. |
+| Up | `2` | up filter, означает, что будет применён построчный фильтр вычитания. |
+| Avg | `3` | avg filter, означает, что будет применён средний фильтр к данным изображения. |
+| Paeth | `4` | paeth predictor filter. |
+| Adaptive | `5` | Адаптивная фильтрация, означает, что процесс сохранения выберет наиболее подходящий фильтр для каждой строки данных. Лучшее сжатие, самая медленная скорость выполнения. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

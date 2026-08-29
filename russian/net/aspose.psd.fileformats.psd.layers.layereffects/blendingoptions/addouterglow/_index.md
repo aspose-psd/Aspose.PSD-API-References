@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions метод. Добавляет эффект внешнего свечения.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод BlendingOptions. Добавляет эффект внешнего свечения."
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
 Добавляет эффект внешнего свечения.
@@ -16,9 +17,9 @@ public OuterGlowEffect AddOuterGlow()
 
 ### Возвращаемое значение
 
-Создано[`OuterGlowEffect`](../../outergloweffect/) объект
+Создан объект [`OuterGlowEffect`](../../outergloweffect/)
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку OuterGlowEffect.
 
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

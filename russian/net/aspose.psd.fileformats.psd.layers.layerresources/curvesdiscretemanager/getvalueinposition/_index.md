@@ -1,11 +1,12 @@
 ---
-title: CurvesDiscreteManager.GetValueInPosition
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvesDiscreteManager метод. Получает значение в позиции.
+title: "CurvesDiscreteManager.GetValueInPosition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CurvesDiscreteManager метод. Получает значение в позиции"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.GetValueInPosition method
 
 Получает значение в позиции.
@@ -17,16 +18,16 @@ public byte GetValueInPosition(int channelIndex, byte position)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | channelIndex | Int32 | Индекс канала. |
-| position | Byte | Позиция. |
+| позиция | Byte | Позиция. |
 
 ### Возвращаемое значение
 
-Значение кривой по ее положению
+Значение кривой по её позиции
 
-### Смотрите также
+### См. также
 
 * class [CurvesDiscreteManager](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

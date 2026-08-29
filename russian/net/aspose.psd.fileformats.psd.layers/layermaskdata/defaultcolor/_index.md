@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.DefaultColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskData свойство. Получает или задает цвет по умолчанию.
+title: "LayerMaskData.DefaultColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskData. Получает или задает цвет по умолчанию"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DefaultColor property
 
 Получает или задает цвет по умолчанию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 public byte DefaultColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет по умолчанию.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

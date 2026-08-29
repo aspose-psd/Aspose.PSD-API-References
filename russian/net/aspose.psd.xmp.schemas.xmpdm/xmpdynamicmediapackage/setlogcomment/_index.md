@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает комментарий пользователя в журнале.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает комментарий журнала пользователя"
 type: docs
 weight: 270
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
-Устанавливает комментарий пользователя в журнале.
+Устанавливает комментарий журнала пользователя.
 
 ```csharp
 public void SetLogComment(string comment)
@@ -16,12 +17,12 @@ public void SetLogComment(string comment)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| comment | String | Комментарий. |
+| комментарий | String | Комментарий. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

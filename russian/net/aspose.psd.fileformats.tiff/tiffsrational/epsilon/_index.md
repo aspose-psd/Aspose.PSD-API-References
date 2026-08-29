@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.Epsilon
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffSRational поле. Эпсилон для вычисления дроби
+title: "TiffSRational.Epsilon"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле TiffSRational. Эпсилон для расчёта дроби"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Epsilon field
 
 Эпсилон для вычисления дроби
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/epsilon/
 public const double Epsilon;
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

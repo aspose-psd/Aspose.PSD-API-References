@@ -1,28 +1,29 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает ограничивающую рамку.
+title: "AiHeader.BoundingBox"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает ограничивающий прямоугольник"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
-Получает или задает ограничивающую рамку.
+Получает или задает ограничивающий прямоугольник.
 
 ```csharp
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Ограничительная рамка.
+Ограничивающий прямоугольник.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

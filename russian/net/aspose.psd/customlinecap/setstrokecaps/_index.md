@@ -1,14 +1,15 @@
 ---
-title: CustomLineCap.SetStrokeCaps
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap метод. Устанавливает заглавные буквы используемые для начальной и конечной строк составляющих этот пользовательский заглавный элемент.
+title: "CustomLineCap.SetStrokeCaps"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CustomLineCap. Устанавливает концы, используемые для начала и завершения линий, составляющих этот кастомный колпачок."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/customlinecap/setstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.SetStrokeCaps method
 
-Устанавливает заглавные буквы, используемые для начальной и конечной строк, составляющих этот пользовательский заглавный элемент.
+Задаёт наконечники, используемые для начала и окончания линий, составляющих этот пользовательский наконечник.
 
 ```csharp
 public void SetStrokeCaps(LineCap startCap, LineCap endCap)
@@ -16,14 +17,14 @@ public void SetStrokeCaps(LineCap startCap, LineCap endCap)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| startCap | LineCap | [`LineCap`](../../linecap/) перечисление, используемое в начале строки внутри этой шапки. |
-| endCap | LineCap | [`LineCap`](../../linecap/) перечисление, используемое в конце строки внутри этой шапки. |
+| startCap | LineCap | Перечисление [`LineCap`](../../linecap/), используемое в начале линии внутри этого колпачка. |
+| endCap | LineCap | Перечисление [`LineCap`](../../linecap/), используемое в конце линии внутри этого колпачка. |
 
-### Смотрите также
+### См. также
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GlobalAltitudeResource.GlobalAltitudeResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: GlobalAltitudeResource строитель. Конструктор по умолчанию.
+title: "GlobalAltitudeResource.GlobalAltitudeResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GlobalAltitudeResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globala
 public GlobalAltitudeResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GlobalAltitudeResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

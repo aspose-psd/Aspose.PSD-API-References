@@ -1,30 +1,31 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResolutionSetting строитель. Инициализирует новый экземплярResolutionSetting класс.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ResolutionSetting. Инициализирует новый экземпляр класса ResolutionSetting"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-Инициализирует новый экземпляр[`ResolutionSetting`](../) класс.
+Инициализирует новый экземпляр класса [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResolutionSetting](../)
-* пространство имен [Aspose.PSD](../../resolutionsetting/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-Инициализирует новый экземпляр[`ResolutionSetting`](../) класс.
+Инициализирует новый экземпляр класса [`ResolutionSetting`](../).
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
@@ -35,10 +36,10 @@ public ResolutionSetting(double horizontalResolution, double verticalResolution)
 | horizontalResolution | Double | Горизонтальное разрешение. |
 | verticalResolution | Double | Вертикальное разрешение. |
 
-### Смотрите также
+### См. также
 
 * class [ResolutionSetting](../)
-* пространство имен [Aspose.PSD](../../resolutionsetting/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

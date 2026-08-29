@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает комментарий к изображению который используется проводником Windows.
+title: "TiffOptions.XPComment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает комментарий к изображению, используемый Windows Explorer"
 type: docs
-weight: 600
+weight: 610
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Получает или задает комментарий к изображению, который используется проводником Windows.
+Получает или задает комментарий к изображению, который используется в Windows Explorer.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Комментарий к изображению, используемому Проводником Windows.
+Комментарий к изображению, используемый Windows Explorer.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

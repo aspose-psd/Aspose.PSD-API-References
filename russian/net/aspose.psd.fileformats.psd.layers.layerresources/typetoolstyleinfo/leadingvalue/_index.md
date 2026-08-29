@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolStyleInfo свойство. Получает или задает начальное значение.
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolStyleInfo. Получает или задает значение межстрочного интервала"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-Получает или задает начальное значение.
+Получает или задает значение межстрочного интервала.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Начальное значение.
+Значение межстрочного интервала.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolStyleInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

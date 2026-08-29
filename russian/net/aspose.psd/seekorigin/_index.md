@@ -1,30 +1,31 @@
 ---
-title: Enum SeekOrigin
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.SeekOrigin перечисление. Предоставляет поля представляющие опорные точки вStreamContainer для поиска.
+title: "Перечисление SeekOrigin"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.SeekOrigin. Предоставляет поля, представляющие контрольные точки в StreamContainer для перемещения."
 type: docs
-weight: 5410
+weight: 5910
 url: /ru/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-Предоставляет поля, представляющие опорные точки в[`StreamContainer`](../streamcontainer/) для поиска.
+Предоставляет поля, представляющие контрольные точки в [`StreamContainer`](../streamcontainer/) для перемещения.
 
 ```csharp
 public enum SeekOrigin
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Begin | `0` | Определяет начало потока. |
-| Current | `1` | Определяет текущую позицию в потоке. |
-| End | `2` | Определяет конец потока. |
+| Begin | `0` | Указывает начало потока. |
+| Current | `1` | Указывает текущую позицию в потоке. |
+| End | `2` | Указывает конец потока. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

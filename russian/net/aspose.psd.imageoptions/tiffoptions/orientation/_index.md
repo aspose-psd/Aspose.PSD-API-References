@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Orientation
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает ориентацию.
+title: "TiffOptions.Orientation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает или задает ориентацию"
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
 Получает или задает ориентацию.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/orientation/
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ориентация.
 
-### Смотрите также
+### См. также
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Справочник по Aspose.PSD для .NET API
-description: VibranceLayer свойство. Получает или устанавливает насыщенность.
+title: "VibranceLayer.Saturation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VibranceLayer. Получает или задает насыщенность"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
-Получает или устанавливает насыщенность.
+Получает или задает насыщенность.
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Насыщенность.
 
@@ -24,9 +25,9 @@ public int Saturation { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | Насыщенность должна быть в диапазоне от -100 до +100 |
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка слоя VibranceLayer и возможность редактирования этой настройки.
+Следующий пример кода демонстрирует поддержку слоя VibranceLayer и возможность редактировать эту коррекцию.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VibranceLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

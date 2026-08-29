@@ -1,11 +1,12 @@
 ---
-title: PtFlResource.Offset
-second_title: Справочник по Aspose.PSD для .NET API
-description: PtFlResource свойство. Получает или задает смещение.
+title: "PtFlResource.Offset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PtFlResource. Получает или задает смещение"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
 Получает или задает смещение.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offse
 public Point Offset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Смещение.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки и редактирования ресурса PtFlResource.
+Следующий пример демонстрирует поддержку загрузки и редактирования ресурса PtFlResource.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // У нас нет данных шаблона в PattResource, поэтому мы можем их добавить.
+                    // У нас нет данных шаблона в PattResource, поэтому мы можем добавить их.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,11 +87,11 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SharpenFilterOptions.SharpenFilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: SharpenFilterOptions строитель. Инициализирует новый экземплярSharpenFilterOptions класс.
+title: "SharpenFilterOptions.SharpenFilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор SharpenFilterOptions. Инициализирует новый экземпляр класса SharpenFilterOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions(int, double) {#constructor_1}
 
-Инициализирует новый экземпляр[`SharpenFilterOptions`](../) класс.
+Инициализирует новый экземпляр класса [`SharpenFilterOptions`](../).
 
 ```csharp
 public SharpenFilterOptions(int size, double sigma)
@@ -16,29 +17,29 @@ public SharpenFilterOptions(int size, double sigma)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | Int32 | Размер ядра. |
-| sigma | Double | Сигма. |
+| размер | Int32 | Размер ядра. |
+| сигма | Double | Сигма. |
 
-### Смотрите также
+### См. также
 
 * class [SharpenFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SharpenFilterOptions() {#constructor}
 
-Инициализирует новый экземпляр[`SharpenFilterOptions`](../) class. С настройками по умолчанию.
+Инициализирует новый экземпляр класса [`SharpenFilterOptions`](../). С настройками по умолчанию.
 
 ```csharp
 public SharpenFilterOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [SharpenFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

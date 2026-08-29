@@ -1,30 +1,31 @@
 ---
-title: PattResource.PattResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResource строитель. Инициализирует новый экземплярPattResource класс.
+title: "PattResource.PattResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PattResource конструктор. Инициализирует новый экземпляр класса PattResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Инициализирует новый экземпляр[`PattResource`](../) класс.
+Инициализирует новый экземпляр класса [`PattResource`](../).
 
 ```csharp
 public PattResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PattResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`PattResource`](../) класс.
+Инициализирует новый экземпляр класса [`PattResource`](../).
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
@@ -32,14 +33,14 @@ public PattResource(int key, PattResourceData[] patterns)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | Int32 | Ключ типа ресурса. |
-| patterns | PattResourceData[] | Данные узоров. |
+| ключ | Int32 | Ключ типа ресурса. |
+| шаблоны | PattResourceData[] | Данные шаблонов. |
 
-### Смотрите также
+### См. также
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

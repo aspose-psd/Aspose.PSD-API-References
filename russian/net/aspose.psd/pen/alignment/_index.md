@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает выравнивание для этогоPen .
+title: "Pen.Alignment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задает выравнивание для этого Pen."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-Получает или задает выравнивание для этого[`Pen`](../) .
+Получает или задает выравнивание для этого [`Pen`](../).
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`PenAlignment`](../../penalignment/) который представляет собой выравнивание для этого[`Pen`](../).
+Объект [`PenAlignment`](../../penalignment/), представляющий выравнивание для этого [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `Alignment` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `Alignment` задаётся для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

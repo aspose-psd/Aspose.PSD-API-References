@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает высоту изображения.
+title: "PsdImage.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage свойство. Возвращает высоту изображения"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/height/
 ---
+{{< psd/tize >}}
 ## PsdImage.Height property
 
 Получает высоту изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/height/
 public override int Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота изображения.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

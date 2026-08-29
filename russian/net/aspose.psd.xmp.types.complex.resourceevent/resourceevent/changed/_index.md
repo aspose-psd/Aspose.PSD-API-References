@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent свойство. Получает или задает разделенный точкой с запятой список частей ресурса которые были изменены с момента предыдущей истории событий.
+title: "ResourceEvent.Changed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceEvent. Получает или задает список частей ресурса, разделённый точкой с запятой, которые были изменены с момента предыдущей истории событий"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-Получает или задает разделенный точкой с запятой список частей ресурса, которые были изменены с момента предыдущей истории событий.
+Получает или задает список частей ресурса, разделённых точкой с запятой, которые были изменены с момента предыдущей истории событий.
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разделенный точкой с запятой список частей ресурса, которые были изменены с момента предыдущей истории событий.
+Список частей ресурса, разделённый точкой с запятой, которые были изменены с момента предыдущей истории событий.
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

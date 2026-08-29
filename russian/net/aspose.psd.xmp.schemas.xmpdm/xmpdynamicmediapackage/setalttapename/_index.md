@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTapeName
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает альтернативное имя ленты.
+title: "XmpDynamicMediaPackage.SetAltTapeName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает альтернативное название ленты"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
-Устанавливает альтернативное имя ленты.
+Устанавливает альтернативное название ленты.
 
 ```csharp
 public void SetAltTapeName(string altTapeName)
@@ -18,10 +19,10 @@ public void SetAltTapeName(string altTapeName)
 | --- | --- | --- |
 | altTapeName | String | Альтернативное название ленты. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

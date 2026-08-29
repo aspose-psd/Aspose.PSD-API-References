@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или задает масштаб.
+title: "PatternFillSettings.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает масштаб"
 type: docs
-weight: 120
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
 Получает или задает масштаб.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public double Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

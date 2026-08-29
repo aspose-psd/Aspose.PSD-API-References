@@ -1,11 +1,12 @@
 ---
-title: Class Configuration
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.MemoryManagement.Configuration сорт. Глобальная конфигурация управления памятью
+title: "Класс Configuration"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.MemoryManagement.Configuration класс. Глобальная конфигурация управления памятью"
 type: docs
-weight: 5110
+weight: 5600
 url: /ru/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
 Глобальная конфигурация управления памятью
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.memorymanagement/configuration/
 public static class Configuration
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, определяющую максимальный допустимый размер для всех внутренних буферов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

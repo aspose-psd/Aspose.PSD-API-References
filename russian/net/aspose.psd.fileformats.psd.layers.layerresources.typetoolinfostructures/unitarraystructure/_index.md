@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure сорт. Определяет класс UnitArrayStructure который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD обычноObjectArrayStructure .
+title: "Класс UnitArrayStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure класс. Определяет класс UnitArrayStructure, который содержит массив значений Double и их единицу измерения. Обычно используется в ресурсах PSD‑файла, обычно объектом ObjectArrayStructure."
 type: docs
-weight: 3270
+weight: 3660
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-Определяет класс UnitArrayStructure, который содержитDouble массив значений и их единица измерения. Используется в файловых ресурсах PSD, обычно[`ObjectArrayStructure`](../objectarraystructure/) .
+Определяет класс UnitArrayStructure, который содержит массив значений Double и их единицу измерения. Используется в ресурсах PSD‑файла, обычно через [`ObjectArrayStructure`](../objectarraystructure/).
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,18 +19,18 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Инициализирует новый экземпляр`UnitArrayStructure` класс. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Инициализирует новый экземпляр класса `UnitArrayStructure`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Получает ключ структуры этого единичного массива. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Получает ключ этой структуры массива единиц. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Получает[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Получает или задает тип единицы измерения`UnitArrayStructure` значения. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Получает длину [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Получает или задает тип единицы измерения значений `UnitArrayStructure`. |
 | [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Получает количество значений. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Получает или задает значения структуры единичного массива. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Получает или задает значения структуры массива единиц. |
 
 ## Методы
 
@@ -43,9 +44,9 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | определяет «UnFl»`UnitArrayStructure` ключ. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Определяет ключ 'UnFl' для `UnitArrayStructure`. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -99,10 +100,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

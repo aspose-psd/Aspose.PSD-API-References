@@ -1,14 +1,15 @@
 ---
-title: ChannelInformation.ChannelInformation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ChannelInformation строитель. Инициализирует новый экземплярChannelInformation класс.
+title: "ChannelInformation.ChannelInformation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ChannelInformation. Инициализирует новый экземпляр класса ChannelInformation"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation constructor
 
-Инициализирует новый экземпляр[`ChannelInformation`](../) класс.
+Инициализирует новый экземпляр класса [`ChannelInformation`](../).
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
@@ -17,14 +18,14 @@ public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | compressionMethod | CompressionMethod | Метод сжатия. |
-| bitDepth | Int32 | Битовая глубина. |
+| bitDepth | Int32 | Глубина цвета. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer строитель. Инициализирует новый экземплярStreamContainer класс.
+title: "StreamContainer.StreamContainer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "StreamContainer конструктор. Инициализирует новый экземпляр класса StreamContainer"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-Инициализирует новый экземпляр[`StreamContainer`](../) класс.
+Инициализирует новый экземпляр класса [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
@@ -18,17 +19,17 @@ public StreamContainer(Stream stream)
 | --- | --- | --- |
 | stream | Stream | Поток. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`StreamContainer`](../) класс.
+Инициализирует новый экземпляр класса [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
@@ -37,12 +38,12 @@ public StreamContainer(Stream stream, bool disposeStream)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток данных. |
-| disposeStream | Boolean | если установлено`истинный` поток будет удален, когда контейнер будет удален. |
+| disposeStream | Boolean | Если установить в `true`, поток будет освобождён при освобождении контейнера. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

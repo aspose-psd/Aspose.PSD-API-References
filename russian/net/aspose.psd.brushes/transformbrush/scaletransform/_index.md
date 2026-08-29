@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.ScaleTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: TransformBrush метод. Масштабирует локальное геометрическое преобразование на указанные величины. Этот метод добавляет матрицу масштабирования перед преобразованием.
+title: "TransformBrush.ScaleTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TransformBrush. Масштабирует локальное геометрическое преобразование на указанные величины. Этот метод предварительно добавляет матрицу масштабирования к преобразованию."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.brushes/transformbrush/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Масштабирует локальное геометрическое преобразование на указанные величины. Этот метод добавляет матрицу масштабирования перед преобразованием.
+Масштабирует локальное геометрическое преобразование на указанные коэффициенты. Этот метод предварительно добавляет матрицу масштабирования к преобразованию.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
@@ -16,20 +17,20 @@ public void ScaleTransform(float sx, float sy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sx | Single | Величина, на которую масштабируется преобразование в направлении оси x. |
-| sy | Single | Величина, на которую масштабируется преобразование в направлении оси Y. |
+| sx | Single | Величина, на которую следует масштабировать преобразование по оси x. |
+| sy | Single | Величина, на которую следует масштабировать преобразование по оси y. |
 
-### Смотрите также
+### См. также
 
 * class [TransformBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../transformbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Масштабирует локальное геометрическое преобразование на указанные величины в указанном порядке.
+Масштабирует локальное геометрическое преобразование на указанные коэффициенты в заданном порядке.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
@@ -37,15 +38,15 @@ public void ScaleTransform(float sx, float sy, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sx | Single | Величина, на которую масштабируется преобразование в направлении оси x. |
-| sy | Single | Величина, на которую масштабируется преобразование в направлении оси Y. |
-| order | MatrixOrder | А[`MatrixOrder`](../../../aspose.psd/matrixorder/) который указывает, следует ли добавлять или добавлять перед матрицей масштабирования. |
+| sx | Single | Величина, на которую следует масштабировать преобразование по оси x. |
+| sy | Single | Величина, на которую следует масштабировать преобразование по оси y. |
+| order | MatrixOrder | [`MatrixOrder`](../../../aspose.psd/matrixorder/), указывающий, следует ли добавить матрицу масштабирования в конец или в начало. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../transformbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Shape.HasSegments
-second_title: Справочник по Aspose.PSD для .NET API
-description: Shape свойство. Получает значение указывающее есть ли у фигуры сегменты.
+title: "Shape.HasSegments"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Shape. Возвращает значение, указывающее, содержит ли фигура сегменты"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/shape/hassegments/
 ---
+{{< psd/tize >}}
 ## Shape.HasSegments property
 
-Получает значение, указывающее, есть ли у фигуры сегменты.
+Получает значение, указывающее, имеет ли форма сегменты.
 
 ```csharp
 public abstract bool HasSegments { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`Истинный` если фигура имеет сегменты; в противном случае,`ЛОЖЬ` .
+`True` если у фигуры есть сегменты; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Shape](../)
-* пространство имен [Aspose.PSD](../../shape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,37 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит обертки Layer Effects
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит обёртки эффектов слоёв."
 type: docs
-weight: 260
+weight: 290
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/
 ---
-Пространство имен содержит обертки Layer Effects
+{{< psd/tize >}}
+Пространство имён содержит обёртки эффектов слоёв.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [BlendingOptions](./blendingoptions/) | Параметры наложения. Это оболочка для Lfx2Resource, которая предоставляет API для слоя Effects |
-| [ColorOverlayEffect](./coloroverlayeffect/) | Эффект наложения цвета |
-| [DropShadowEffect](./dropshadoweffect/) | Эффект слоя тени |
-| [GradientOverlayEffect](./gradientoverlayeffect/) | Эффект градиентного слоя |
-| [InnerShadowEffect](./innershadoweffect/) | Эффект слоя внутренней тени |
-| [OuterGlowEffect](./outergloweffect/) | Эффект слоя внешнего свечения |
-| [PatternOverlayEffect](./patternoverlayeffect/) | Эффект слоя узора |
+| [BlendingOptions](./blendingoptions/) | BlendingOptions. Это оболочка для BaseFxResource, которая предоставляет API для эффектов слоёв. |
+| [ColorOverlayEffect](./coloroverlayeffect/) | Эффект наложения цвета слоя. |
+| [DropShadowEffect](./dropshadoweffect/) | Эффект отбрасываемой тени слоя. |
+| [GradientOverlayEffect](./gradientoverlayeffect/) | Эффект градиентного слоя. |
+| [InnerShadowEffect](./innershadoweffect/) | Эффект внутренней тени слоя. |
+| [OuterGlowEffect](./outergloweffect/) | Эффект внешнего свечения слоя. |
+| [PatternOverlayEffect](./patternoverlayeffect/) | Эффект узора слоя. |
 | [StrokeEffect](./strokeeffect/) | Эффект обводки Adobe® Photoshop® для слоя PSD. |
 ## Интерфейсы
 
 | Интерфейс | Описание |
 | --- | --- |
-| [ILayerEffect](./ilayereffect/) | Интерфейс для эффектов слоя |
-| [IShadowEffect](./ishadoweffect/) | Интерфейс для эффектов теневого слоя |
-## перечисление
+| [ILayerEffect](./ilayereffect/) | Интерфейс для эффектов слоёв. |
+| [IShadowEffect](./ishadoweffect/) | Интерфейс для эффектов теней слоёв. |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [StrokePosition](./strokeposition/) | Параметр положения управляет выравниванием вашего штриха по слою, к которому он применяется в[`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) . |
+| [LayerEffectsTypes](./layereffectstypes/) | Эффекты наложения слоёв. |
+| [StrokePosition](./strokeposition/) | Настройка положения управляет выравниванием вашей обводки относительно слоя, к которому она применяется, в [`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/). |
 
 

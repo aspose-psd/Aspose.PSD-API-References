@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.License сорт. Предоставляет методы лицензирования компонента.
+title: "Класс License"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.License. Предоставляет методы для лицензирования компонента."
 type: docs
-weight: 5050
+weight: 5540
 url: /ru/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Предоставляет методы лицензирования компонента.
@@ -27,9 +28,9 @@ public class License
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Лицензирует компонент. |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Лицензирует компонент. |
 
-### Примеры
+## Примеры
 
-В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем в встроенные ресурсы вызывающей сборки.
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

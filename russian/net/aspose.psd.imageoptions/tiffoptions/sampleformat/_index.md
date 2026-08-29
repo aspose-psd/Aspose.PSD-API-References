@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает образец формата.
+title: "TiffOptions.SampleFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает формат образца"
 type: docs
-weight: 390
+weight: 400
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
-Получает или задает образец формата.
+Получает или задает формат образца.
 
 ```csharp
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Образец формата.
+Формат образца.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ценить |
-| ArgumentOutOfRangeException | value;Длина массива должна соответствовать количеству выборок на пиксель. |
+| ArgumentNullException | значение |
+| ArgumentOutOfRangeException | value;Длина массива должна соответствовать количеству образцов на пиксель. |
 
-### Смотрите также
+### См. также
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

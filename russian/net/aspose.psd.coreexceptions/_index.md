@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.CoreExceptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит исключения создаваемые любым из основных компонентов PSD.
+title: "Aspose.PSD.CoreExceptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит исключения, выбрасываемые любыми из основных компонентов PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.coreexceptions/
 ---
-Пространство имен содержит исключения, создаваемые любым из основных компонентов PSD.
+{{< psd/tize >}}
+Пространство имён содержит исключения, генерируемые любыми из основных компонентов PSD.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [CompressorException](./compressorexception/) | Исключение компрессора. |
-| [DataMissmatchError](./datamissmatcherror/) | Исключение несоответствия данных class |
-| [FrameworkException](./frameworkexception/) | Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введен для различения исключений, создаваемых механизмом Aspose.PSD, и всех других типов исключений. |
-| [ImageCreateException](./imagecreateexception/) | Образ создает исключение. Происходит во время создания образа. |
+| [DataMissmatchError](./datamissmatcherror/) | Класс исключения несоответствия данных |
+| [FrameworkException](./frameworkexception/) | Исключение фреймворка PSD. Этот класс является базовым классом для всех исключений Aspose.PSD. Введён для различения исключений, выбрасываемых движком Aspose.PSD, и всех остальных типов исключений. |
+| [ImageCreateException](./imagecreateexception/) | Исключение создания изображения. Возникает во время создания изображения. |
 | [ImageException](./imageexception/) | Исключение изображения. |
-| [ImageLoadException](./imageloadexception/) | Исключение загрузки изображения. Происходит во время загрузки изображения. |
-| [ImageSaveException](./imagesaveexception/) | Исключение при сохранении изображения. Происходит во время сохранения изображения. |
+| [ImageLoadException](./imageloadexception/) | Исключение загрузки изображения. Возникает во время загрузки изображения. |
+| [ImageSaveException](./imagesaveexception/) | Исключение сохранения изображения. Возникает во время сохранения изображения. |
 | [IndexOutOFRangeException](./indexoutofrangeexception/) | Исключение компрессора. |
-| [LimitMemoryException](./limitmemoryexception/) | Исключение ограничения памяти. Происходит, когда необходимо уменьшить использование памяти. |
-| [OperationInterruptedException](./operationinterruptedexception/) | Происходит при прерывании операции. |
-| [RdOptimizationError](./rdoptimizationerror/) | Исключение ошибки оптимизации RD class |
-| [StreamReadException](./streamreadexception/) | Исключение чтения потока. Возникает при сбое чтения потока из-за неправильного запроса смещения и подсчета байтов. |
-| [XmpException](./xmpexception/) | Исключение, которое возникает, когда XMP имеет недопустимую структуру. |
+| [LimitMemoryException](./limitmemoryexception/) | Исключение ограничения памяти. Возникает, когда необходимо уменьшить использование памяти. |
+| [OperationInterruptedException](./operationinterruptedexception/) | Возникает, когда операция прерывается. |
+| [RdOptimizationError](./rdoptimizationerror/) | Класс исключения ошибки оптимизации RD |
+| [StreamReadException](./streamreadexception/) | Исключение чтения потока. Возникает, когда чтение потока не удалось из‑за неверного смещения и запроса количества байтов. |
+| [XmpException](./xmpexception/) | Исключение, которое выбрасывается, когда у XMP неверная структура. |
 
 

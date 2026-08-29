@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает смещение по горизонтали в процентах.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает горизонтальное смещение в процентах"
 type: docs
-weight: 100
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-Получает или задает смещение по горизонтали в процентах.
+Получает или задает горизонтальное смещение в процентах.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Горизонтальное смещение.
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

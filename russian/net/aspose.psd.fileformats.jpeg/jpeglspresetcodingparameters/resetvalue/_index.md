@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegLsPresetCodingParameters свойство. Получает или задает значение при котором счетчики A B и N уменьшаются вдвое.
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegLsPresetCodingParameters. Получает или задаёт значение, при котором счётчики A, B и N делятся пополам"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-Получает или задает значение, при котором счетчики A, B и N уменьшаются вдвое.
+Получает или задает значение, при котором счетчики A, B и N делятся пополам.
 
 ```csharp
 public int ResetValue { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegLsPresetCodingParameters](../)
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

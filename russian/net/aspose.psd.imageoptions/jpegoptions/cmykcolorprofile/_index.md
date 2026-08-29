@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.CmykColorProfile
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Целевой цветовой профиль CMYK для изображений CMYK jpeg. Используйте для сохранения изображений. Должен быть в паре с RGBColorProfile для правильного преобразования цвета.
+title: "JpegOptions.CmykColorProfile"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Целевой профиль цвета CMYK для JPEG‑изображений CMYK. Используется при сохранении изображений. Должен использоваться вместе с RGBColorProfile для корректного преобразования цветов"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CmykColorProfile property
 
-Целевой цветовой профиль CMYK для изображений CMYK jpeg. Используйте для сохранения изображений. Должен быть в паре с RGBColorProfile для правильного преобразования цвета.
+Целевой профиль цвета CMYK для CMYK jpeg‑изображений. Используется при сохранении изображений. Должен использоваться вместе с RGBColorProfile для корректного цветового преобразования.
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat перечисление. Определяет формат данных эскиза.
+title: "Перечисление ThumbnailFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat. Указывает формат данных миниатюры."
 type: docs
-weight: 3900
+weight: 4370
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
-Определяет формат данных эскиза.
+Указывает формат данных миниатюры.
 
 ```csharp
 public enum ThumbnailFormat
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | KRawRgb | `0` | Необработанный формат RGB. |
 | KJpegRgb | `1` | Сжатый формат JPEG. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

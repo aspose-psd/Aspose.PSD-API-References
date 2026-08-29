@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreatorsRegistry метод. Получает первый найденный поддерживаемый дескриптор подходящий для указанного.
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageCreatorsRegistry. Получает первый найденный поддерживаемый дескриптор, подходящий для указанного"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
 Получает первый найденный поддерживаемый дескриптор, подходящий для указанного.
@@ -16,22 +17,22 @@ public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageOptions | ImageOptionsBase | Варианты изображения. |
+| imageOptions | ImageOptionsBase | Параметры изображения. |
 
 ### Возвращаемое значение
 
-Дескриптор создателя, который поддерживает указанный или нулевой, если такой дескриптор не найден.
+Дескриптор создателя, поддерживающий указанный, или null, если такой дескриптор не найден.
 
-### Примечания
+## Примечания
 
 Первый дескриптор создателя будет фактически последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* пространство имен [Aspose.PSD](../../imagecreatorsregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

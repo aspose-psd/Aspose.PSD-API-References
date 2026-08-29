@@ -1,20 +1,21 @@
 ---
-title: PathStructure.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: PathStructure свойство. ПолучаетOSTypeStructure длина в байтах.
+title: "PathStructure.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PathStructure. Возвращает длину OSTypeStructure в байтах"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/
 ---
+{{< psd/tize >}}
 ## PathStructure.Length property
 
-Получает[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) длина в байтах.
+Получает длину [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) в байтах.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует возможность загрузки файла со структурой PathStructure.
 
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PathStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

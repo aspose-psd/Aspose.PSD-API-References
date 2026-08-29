@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: HatchBrush свойство. Получает или задает цвет пробелов между линиями штриховки.
+title: "HatchBrush.BackgroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "HatchBrush свойство. Получает или задает цвет промежутков между штриховыми линиями"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Получает или задает цвет пробелов между линиями штриховки.
+Получает или задает цвет промежутков между штриховыми линиями.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цвет промежутков между линиями штриховки.
+Цвет промежутков между штриховыми линиями.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../hatchbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

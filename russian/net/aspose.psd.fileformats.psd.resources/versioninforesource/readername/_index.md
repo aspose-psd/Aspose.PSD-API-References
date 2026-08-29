@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.ReaderName
-second_title: Справочник по Aspose.PSD для .NET API
-description: VersionInfoResource свойство. Получает или задает имя средства чтения.
+title: "VersionInfoResource.ReaderName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VersionInfoResource свойство. Получает или задает имя читателя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.resources/versioninforesource/readername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.ReaderName property
 
-Получает или задает имя средства чтения.
+Получает или задает имя считывателя.
 
 ```csharp
 public string ReaderName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имя считывателя.
+Имя читателя.
 
-### Смотрите также
+### См. также
 
 * class [VersionInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

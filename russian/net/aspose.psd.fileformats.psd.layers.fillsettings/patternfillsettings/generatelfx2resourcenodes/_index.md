@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings метод. Генерирует узлы ресурсов LFX2.
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PatternFillSettings. Генерирует узлы ресурсов LFX2"
 type: docs
-weight: 140
+weight: 160
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 Генерирует узлы ресурсов LFX2.
@@ -19,23 +20,23 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 | --- | --- | --- |
 | pointType | String | Тип точки. |
 | color | Color | Цвет. |
-| patternName | String | Название узора. |
+| patternName | String | Имя шаблона. |
 | identifier | String | Идентификатор. |
 | scale | Double | Масштаб. |
-| linked | Boolean | если установлено`истинный` [связано]. |
+| linked | Boolean | если установлено `true` [linked]. |
 | offset | PointF | Смещение. |
 
 ### Возвращаемое значение
 
-Список[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Список [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

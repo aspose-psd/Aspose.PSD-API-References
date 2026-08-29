@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearRemapTable
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает таблицу переназначения цветов для категории по умолчанию.
+title: "ImageAttributes.ClearRemapTable"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает таблицу переопределения цветов для категории по умолчанию."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/imageattributes/clearremaptable/
 ---
+{{< psd/tize >}}
 ## ClearRemapTable() {#clearremaptable}
 
 Очищает таблицу переназначения цветов для категории по умолчанию.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/imageattributes/clearremaptable/
 public void ClearRemapTable()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public void ClearRemapTable(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой очищается таблица переназначения. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой очищается таблица переопределения. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

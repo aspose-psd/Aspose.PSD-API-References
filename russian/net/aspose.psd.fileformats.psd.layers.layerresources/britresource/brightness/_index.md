@@ -1,27 +1,28 @@
 ---
-title: BritResource.Brightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: BritResource свойство. Получает или устанавливает яркость.
+title: "BritResource.Brightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BritResource свойство. Получает или задает яркость"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/brightness/
 ---
+{{< psd/tize >}}
 ## BritResource.Brightness property
 
-Получает или устанавливает яркость.
+Получает или задает яркость.
 
 ```csharp
 public short Brightness { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Яркость.
 
-### Смотрите также
+### См. также
 
 * class [BritResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

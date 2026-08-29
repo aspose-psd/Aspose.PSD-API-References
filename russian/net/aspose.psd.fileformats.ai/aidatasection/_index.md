@@ -1,36 +1,37 @@
 ---
-title: Class AiDataSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Ai.AiDataSection сорт. Раздел данных формата AI
+title: "Класс AiDataSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Ai.AiDataSection. Секция данных формата Ai"
 type: docs
-weight: 1220
+weight: 1230
 url: /ru/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-Раздел данных формата AI
+Раздел данных формата Ai
 
 ```csharp
 public class AiDataSection : DisposableObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, освобожден ли этот экземпляр. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Освобождает текущий экземпляр. |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Получает строковые данные. |
 
-### Смотрите также
+### См. также
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

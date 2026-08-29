@@ -1,20 +1,21 @@
 ---
-title: Class ObjectWithBounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ObjectWithBounds сорт. Объект с границами.
+title: "Класс ObjectWithBounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ObjectWithBounds. Объект, имеющий границы."
 type: docs
-weight: 5160
+weight: 5650
 url: /ru/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
-Объект с границами.
+Объект, имеющий границы.
 
 ```csharp
 public abstract class ObjectWithBounds
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -28,9 +29,9 @@ public abstract class ObjectWithBounds
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

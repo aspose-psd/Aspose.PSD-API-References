@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfPackage метод. Устанавливает ловушку.
+title: "PdfPackage.SetTrapped"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PdfPackage. Устанавливает trapped"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Устанавливает ловушку.
+Устанавливает значение trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
@@ -16,12 +17,12 @@ public void SetTrapped(bool isTrapped)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| isTrapped | Boolean | если установлено`истинный` документ застрял. |
+| isTrapped | Boolean | если установлено `true`, документ считается trapped. |
 
-### Смотрите также
+### См. также
 
 * class [PdfPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

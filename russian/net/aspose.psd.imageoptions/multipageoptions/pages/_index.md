@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions свойство. Получает или задает страницы.
+title: "MultiPageOptions.Pages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MultiPageOptions свойство. Получает или задает страницы"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
 Получает или задает страницы.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/multipageoptions/pages/
 public int[] Pages { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Страницы.
 
-### Смотрите также
+### См. также
 
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

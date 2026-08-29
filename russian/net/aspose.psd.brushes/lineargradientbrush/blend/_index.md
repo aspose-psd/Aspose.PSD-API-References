@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.Blend
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrush свойство. Получает или задаетBlend который указывает позиции и факторы которые определяют пользовательский спад для градиента.
+title: "LinearGradientBrush.Blend"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinearGradientBrush. Получает или задает объект Blend, который определяет позиции и коэффициенты, задающие пользовательское затухание градиента"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.brushes/lineargradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.Blend property
 
-Получает или задает[`Blend`](../../../aspose.psd/blend/) который указывает позиции и факторы, которые определяют пользовательский спад для градиента.
+Получает или задает [`Blend`](../../../aspose.psd/blend/), который определяет позиции и коэффициенты, задающие пользовательское затухание градиента.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Blend`](../../../aspose.psd/blend/) который представляет пользовательский спад для градиента.
+Объект [`Blend`](../../../aspose.psd/blend/), представляющий пользовательское затухание градиента.
 
-### Смотрите также
+### См. также
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

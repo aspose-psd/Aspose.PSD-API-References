@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageLoadException сорт. Исключение загрузки изображения. Происходит во время загрузки изображения.
+title: "Класс ImageLoadException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.CoreExceptions.ImageLoadException. Исключение загрузки изображения. Возникает при загрузке изображения"
 type: docs
 weight: 620
 url: /ru/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-Исключение загрузки изображения. Происходит во время загрузки изображения.
+Исключение загрузки изображения. Возникает во время загрузки изображения.
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -18,13 +19,13 @@ public class ImageLoadException : ImageException
 
 | Имя | Описание |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Инициализирует новый экземпляр`ImageLoadException` класс. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`ImageLoadException` класс. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | Инициализирует новый экземпляр класса `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `ImageLoadException`. |
 
-### Смотрите также
+### См. также
 
 * class [ImageException](../imageexception/)
-* пространство имен [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

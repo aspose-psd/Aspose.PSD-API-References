@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет чернобелый корректирующий слой.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой корректировки черно‑белого."
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Добавляет черно-белый корректирующий слой.
+Добавляет слой коррекции черно‑белого.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
@@ -16,11 +17,11 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Созданный черно-белый корректирующий слой.
+Созданный слой корректировки черно‑белого.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как добавить черно-белый корректирующий слой во время выполнения в Aspose.PSD.
+В следующем примере показано, как можно добавить слой коррекции черно-белого изображения во время выполнения в Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

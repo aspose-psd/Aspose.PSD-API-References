@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.GetBounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape метод. Получает границы объекта.
+title: "PolygonShape.GetBounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PolygonShape. Возвращает границы объекта"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.shapes/polygonshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Получает границы объекта.
@@ -16,19 +17,19 @@ public override RectangleF GetBounds(Matrix matrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица, которую необходимо применить перед вычислением границ. |
+| матрица | Matrix | Матрица, применяемая перед вычислением границ. |
 
 ### Возвращаемое значение
 
-Границы предполагаемого объекта.
+Оценочные границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,20 +43,20 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| matrix | Matrix | Матрица, которую необходимо применить перед вычислением границ. |
-| pen | Pen | Ручка для объекта. Это может повлиять на размер границ объекта. |
+| матрица | Matrix | Матрица, применяемая перед вычислением границ. |
+| перо | Перо | Перо, используемое для объекта. Это может влиять на размер границ объекта. |
 
 ### Возвращаемое значение
 
-Границы предполагаемого объекта.
+Оценочные границы объекта.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает активный слой.
+title: "PsdImage.ActiveLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задает активный слой"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
 Получает или задает активный слой.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 public Layer ActiveLayer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Активный слой.
 
@@ -22,14 +23,14 @@ public Layer ActiveLayer { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | В изображении нет активного слоя и слоев. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | В изображении нет активного слоя и нет слоёв. |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Активный слой нельзя установить, так как он принадлежит другому изображению. |
 
-### Смотрите также
+### См. также
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

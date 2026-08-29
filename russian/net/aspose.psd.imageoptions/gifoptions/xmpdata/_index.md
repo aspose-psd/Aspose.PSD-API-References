@@ -1,11 +1,12 @@
 ---
-title: GifOptions.XmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: GifOptions свойство. Получает или задает контейнер метаданных XMP.
+title: "GifOptions.XmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GifOptions. Получает или задает контейнер XMP‑метаданных"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## GifOptions.XmpData property
 
 Получает или задает контейнер метаданных XMP.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Контейнер данных XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../gifoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

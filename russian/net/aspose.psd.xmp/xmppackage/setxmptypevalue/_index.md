@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage метод. Устанавливает значение типа XMP.
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage метод. Устанавливает значение типа XMP"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
 Устанавливает значение типа XMP.
@@ -16,14 +17,14 @@ public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, которое идентифицируется с заданным значением. |
-| value | XmpTypeBase | Значение для установки. |
+| ключ | String | Строковое представление ключа, связанного с установленным значением. |
+| значение | XmpTypeBase | Значение, которое нужно установить. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

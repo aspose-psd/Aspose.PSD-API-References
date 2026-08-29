@@ -1,11 +1,12 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: VibAResource свойство. Получает версию psd.
+title: "VibAResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VibAResource свойство. Получает версию psd"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
 Получает версию psd.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере кода демонстрируется поддержка ресурса VibAResource.
+Следующий пример кода демонстрирует поддержку ресурса VibAResource.
 
 ```csharp
 [C#]
 
-// Пример поддержки чтения и записи Vibration Resource во время выполнения.
+// Пример поддержки чтения и записи ресурса вибрации во время выполнения.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VibAResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpDate.XmpDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDate строитель. Инициализирует новый экземплярXmpDate класс.
+title: "XmpDate.XmpDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpDate. Инициализирует новый экземпляр класса XmpDate"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-Инициализирует новый экземпляр[`XmpDate`](../) класс.
+Инициализирует новый экземпляр класса [`XmpDate`](../).
 
 ```csharp
 public XmpDate(DateTime dateTime)
@@ -16,19 +17,19 @@ public XmpDate(DateTime dateTime)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dateTime | DateTime | Значение даты и времени, представленное с использованием подмножества форматирования ISO RFC 8601. |
+| dateTime | DateTime | Значение даты и времени, представленное с использованием подмножества формата ISO RFC 8601. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDate](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpDate`](../) класс.
+Инициализирует новый экземпляр класса [`XmpDate`](../).
 
 ```csharp
 public XmpDate(string dateString)
@@ -42,12 +43,12 @@ public XmpDate(string dateString)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | Неверный формат даты;дата |
+| ArgumentException | Недопустимый формат даты;date |
 
-### Смотрите также
+### См. также
 
 * class [XmpDate](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

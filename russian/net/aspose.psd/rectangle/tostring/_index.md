@@ -1,14 +1,15 @@
 ---
-title: Rectangle.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Преобразует атрибуты этогоRectangle в удобочитаемую строку.
+title: "Rectangle.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Преобразует атрибуты этого Rectangle в человекочитаемую строку."
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/rectangle/tostring/
 ---
+{{< psd/tize >}}
 ## Rectangle.ToString method
 
-Преобразует атрибуты этого[`Rectangle`](../) в удобочитаемую строку.
+Преобразует атрибуты этой [`Rectangle`](../) в человеко‑читаемую строку.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строка, содержащая положение, ширину и высоту этого[`Rectangle`](../) состав.
+Строка, содержащая позицию, ширину и высоту этой [`Rectangle`](../) структуры.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

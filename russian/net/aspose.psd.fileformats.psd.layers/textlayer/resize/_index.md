@@ -1,14 +1,15 @@
 ---
-title: TextLayer.Resize
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer метод. Изменяет размер изображения. По умолчаниюLeftTopToLeftTopиспользуется.
+title: "TextLayer.Resize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TextLayer. Изменяет размер изображения. По умолчанию используется LeftTopToLeftTop"
 type: docs
-weight: 90
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Изменяет размер изображения. По умолчаниюLeftTopToLeftTopиспользуется.
+Изменяет размер изображения. Используется значение по умолчанию LeftTopToLeftTop.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,11 +19,11 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Новая ширина. |
 | newHeight | Int32 | Новая высота. |
-| resizeType | ResizeType | Тип преобразования размера[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Тип преобразования изменения размера [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует функцию TextLayer.Resize с параметром для выбора механизма изменения размера.
+Следующий код демонстрирует функцию TextLayer.Resize с параметром, позволяющим выбрать механизм изменения размера.
 
 ```csharp
 [C#]
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // Он устанавливает новый размер текстового слоя
+    // Устанавливает новый размер текстового слоя
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Он устанавливает механизм того, как функция изменения размера будет изменять размер слоя (значение по умолчанию)
+    // Устанавливает механизм того, как функция изменения размера будет изменять слой (значение по умолчанию)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Здесь используется новый механизм изменения размера текстового слоя
-    // Будет изменен не только слой, но и матрица преобразования текстового слоя
+    // Новый механизм изменения размера для текстового слоя, используемый здесь
+    // Будут изменены не только слой, но и матрица преобразования текстового слоя.
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

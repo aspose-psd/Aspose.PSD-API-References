@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.Apply
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilter метод. Применяет текущий фильтр ко входуRasterImage изображение.
+title: "SmartFilter.Apply"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartFilter. Применяет текущий фильтр к входному изображению RasterImage"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Apply method
 
-Применяет текущий фильтр ко входу[`RasterImage`](../../../aspose.psd/rasterimage/) изображение.
+Применяет текущий фильтр к входному изображению [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public void Apply(RasterImage rasterImage)
@@ -18,11 +19,11 @@ public void Apply(RasterImage rasterImage)
 | --- | --- | --- |
 | rasterImage | RasterImage | Растровое изображение. |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [SmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

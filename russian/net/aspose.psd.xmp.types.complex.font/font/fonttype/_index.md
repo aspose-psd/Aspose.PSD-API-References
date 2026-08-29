@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font свойство. Получает или задает тип шрифта.
+title: "Font.FontType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Font свойство. Получает или задает тип шрифта"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 Получает или задает тип шрифта.
@@ -14,18 +15,18 @@ url: /ru/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 public string FontType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип шрифта.
 
-### Примеры
+## Примеры
 
-TrueType, тип 1, открытый тип и т. д.
+TrueType, Type 1, Open Type и т.д.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

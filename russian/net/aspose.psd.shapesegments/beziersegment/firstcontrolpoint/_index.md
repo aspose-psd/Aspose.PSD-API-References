@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierSegment свойство. Получает первую контрольную точку сплайна Безье.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierSegment. Возвращает первую контрольную точку безье-сплайна"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
-Получает первую контрольную точку сплайна Безье.
+Возвращает первую контрольную точку сплайна Безье.
 
 ```csharp
 public PointF FirstControlPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Первая контрольная точка.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* пространство имен [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

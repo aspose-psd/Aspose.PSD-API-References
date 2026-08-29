@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader свойство. Получает или задает значение указывающее генерируются ли исключения при неправильной обработке данных чтение или запись в поток.
+title: "TiffStreamReader.ThrowExceptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamReader property. Получает или задает значение, указывающее, выбрасываются ли исключения при некорректной обработке данных при чтении или записи в поток"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ThrowExceptions property
 
-Получает или задает значение, указывающее, генерируются ли исключения при неправильной обработке данных (чтение или запись в поток).
+Получает или задает значение, указывающее, выбрасываются ли исключения при некорректной обработке данных (чтении или записи в поток).
 
 ```csharp
 public bool ThrowExceptions { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если выбрасываются исключения при некорректной обработке данных; в противном случае условия ошибки молча игнорируются.
+`true` если исключения выбрасываются при некорректной обработке данных; в противном случае условия ошибки игнорируются.
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

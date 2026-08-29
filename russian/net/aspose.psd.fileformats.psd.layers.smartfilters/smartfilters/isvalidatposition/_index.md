@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsValidAtPosition
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilters свойство. Получает статус действительного положения интеллектуального фильтра.
+title: "SmartFilters.IsValidAtPosition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilters. Получает статус валидности позиции умного фильтра"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsValidAtPosition property
 
-Получает статус действительного положения интеллектуального фильтра.
+Получает статус корректности позиции умного фильтра.
 
 ```csharp
 public bool IsValidAtPosition { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilters](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

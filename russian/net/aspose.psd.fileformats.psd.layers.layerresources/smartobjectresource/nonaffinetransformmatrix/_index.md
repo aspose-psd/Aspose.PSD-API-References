@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.NonAffineTransformMatrix
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает матрицу неаффинного преобразования данных слоя смартобъекта в файле PSD.
+title: "SmartObjectResource.NonAffineTransformMatrix"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает неаффинную матрицу преобразования данных слоя умного объекта в файле PSD"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.NonAffineTransformMatrix property
 
-Получает или задает матрицу неаффинного преобразования данных слоя смарт-объекта в файле PSD.
+Получает или задает неаффинную матрицу преобразования данных слоя смарт‑объекта в файле PSD.
 
 ```csharp
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Матрица неаффинного преобразования слоя смарт-объекта.
+Неаффинная матрица преобразования слоя умного объекта.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

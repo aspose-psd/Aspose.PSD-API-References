@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpGraphicsThumbnail
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Пространство имен графики XMP.
+title: "Namespaces.XmpGraphicsThumbnail"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Пространство имён графики XMP"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphicsThumbnail field
 
-Пространство имен графики XMP.
+Пространство имён XMP graphics.
 
 ```csharp
 public const string XmpGraphicsThumbnail;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

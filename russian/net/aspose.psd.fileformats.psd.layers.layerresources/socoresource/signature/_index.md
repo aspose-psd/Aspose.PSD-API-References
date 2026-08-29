@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: SoCoResource свойство. Получает подпись ресурса слоя.
+title: "SoCoResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SoCoResource. Получает подпись ресурса слоя"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Signature property
 
-Получает подпись ресурса слоя.
+Получает сигнатуру ресурса слоя.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SoCoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

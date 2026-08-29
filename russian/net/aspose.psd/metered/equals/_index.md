@@ -1,14 +1,15 @@
 ---
-title: Metered.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Metered метод. Определяет является ли указанныйObject  равно этому экземпляру.
+title: "Metered.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Metered. Определяет, равен ли указанный Object текущему экземпляру"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [Metered](../)
-* пространство имен [Aspose.PSD](../../metered/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

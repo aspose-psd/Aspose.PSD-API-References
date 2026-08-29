@@ -1,11 +1,12 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnitArrayStructure свойство. Получает количество значений.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnitArrayStructure. Получает количество значений."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
 Получает количество значений.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int ValueCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество значений в структуре единичного массива.
+Количество значений в структуре массива единиц.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -72,10 +73,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

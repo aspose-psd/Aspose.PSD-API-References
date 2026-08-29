@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPsdColorPalette свойство. Получает данные необработанных записей цветовой палитры.
+title: "IPsdColorPalette.RawEntries"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IPsdColorPalette свойство. Получает данные необработанных записей цветовой палитры"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntries property
 
-Получает данные необработанных записей цветовой палитры.
+Возвращает необработанные данные записей палитры цветов.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Данные ввода необработанной цветовой палитры.
+Сырые данные записей цветовой палитры.
 
-### Смотрите также
+### См. также
 
 * interface [IPsdColorPalette](../)
-* пространство имен [Aspose.PSD](../../ipsdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

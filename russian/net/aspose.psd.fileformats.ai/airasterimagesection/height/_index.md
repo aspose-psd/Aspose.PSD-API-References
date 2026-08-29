@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает высоту.
+title: "AiRasterImageSection.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает высоту."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
 Получает высоту.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 public double Height { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.Rotate
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix метод. Применяет поворот по часовой стрелке на величину указанную в параметре угла вокруг начала координат нулевые координаты x и y для этой матрицы в указанном порядке.
+title: "Matrix.Rotate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Matrix. Применяет вращение по часовой стрелке на величину, указанную в параметре angle, вокруг начала координат (нулевые координаты x и y) для этой Matrix в указанном порядке."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Применяет поворот по часовой стрелке на величину, указанную в параметре угла, вокруг начала координат (нулевые координаты x и y) для этой матрицы в указанном порядке.
+Применяет вращение по часовой стрелке на величину, указанную в параметре angle, вокруг начала координат (ноль по осям x и y) для этой Matrix в указанном порядке.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
@@ -16,21 +17,21 @@ public void Rotate(float angle, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
-| order | MatrixOrder | Порядок матрицы. |
+| угол | Single | Угол вращения. |
+| порядок | MatrixOrder | Порядок матрицы. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Применяет поворот по часовой стрелке на величину, указанную в параметре угла, вокруг начала координат (нулевые координаты x и y) для этой матрицы в порядке по умолчанию (в начале).
+Применяет вращение по часовой стрелке на величину, указанную в параметре angle, вокруг начала координат (ноль по осям x и y) для этой Matrix в порядке по умолчанию (Prepend).
 
 ```csharp
 public void Rotate(float angle)
@@ -38,12 +39,12 @@ public void Rotate(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
+| угол | Single | Угол вращения. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

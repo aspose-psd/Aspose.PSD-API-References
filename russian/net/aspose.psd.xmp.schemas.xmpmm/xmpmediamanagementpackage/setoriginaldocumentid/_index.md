@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetOriginalDocumentId
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMediaManagementPackage метод. Устанавливает идентификатор исходного документа.
+title: "XmpMediaManagementPackage.SetOriginalDocumentId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpMediaManagementPackage метод. Устанавливает исходный идентификатор документа"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid/
 ---
+{{< psd/tize >}}
 ## SetOriginalDocumentId(Guid) {#setoriginaldocumentid}
 
-Устанавливает идентификатор исходного документа.
+Устанавливает оригинальный идентификатор документа.
 
 ```csharp
 public void SetOriginalDocumentId(Guid guid)
@@ -18,17 +19,17 @@ public void SetOriginalDocumentId(Guid guid)
 | --- | --- | --- |
 | guid | Guid | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOriginalDocumentId(string) {#setoriginaldocumentid_1}
 
-Устанавливает идентификатор исходного документа.
+Устанавливает оригинальный идентификатор документа.
 
 ```csharp
 public void SetOriginalDocumentId(string guid)
@@ -38,10 +39,10 @@ public void SetOriginalDocumentId(string guid)
 | --- | --- | --- |
 | guid | String | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.AdjustBrightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Настройка яркости изображения.
+title: "RasterImage.AdjustBrightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Регулировка яркости изображения"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/rasterimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustBrightness method
 
-Настройка яркости изображения.
+Регулировка яркости изображения.
 
 ```csharp
 public virtual void AdjustBrightness(int brightness)
@@ -16,12 +17,12 @@ public virtual void AdjustBrightness(int brightness)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brightness | Int32 | Значение яркости. |
+| яркость | Int32 | Значение яркости. |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

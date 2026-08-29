@@ -1,11 +1,12 @@
 ---
-title: Class PolygonShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Shapes.PolygonShape сорт. Представляет форму многоугольника.
+title: "Класс PolygonShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Shapes.PolygonShape класс. Представляет форму многоугольника"
 type: docs
-weight: 5510
+weight: 6010
 url: /ru/net/aspose.psd.shapes/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape class
 
 Представляет форму многоугольника.
@@ -18,22 +19,22 @@ public class PolygonShape : Shape, IOrderedShape
 
 | Имя | Описание |
 | --- | --- |
-| [PolygonShape](polygonshape/#constructor)() | Инициализирует новый экземпляр`PolygonShape` класс. |
-| [PolygonShape](polygonshape/#constructor_1)(PointF[]) | Инициализирует новый экземпляр`PolygonShape` класс. |
-| [PolygonShape](polygonshape/#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр`PolygonShape` класс. |
+| [PolygonShape](polygonshape/#constructor)() | Инициализирует новый экземпляр класса `PolygonShape`. |
+| [PolygonShape](polygonshape/#constructor_1)(PointF[]) | Инициализирует новый экземпляр класса `PolygonShape`. |
+| [PolygonShape](polygonshape/#constructor_2)(PointF[], bool) | Инициализирует новый экземпляр класса `PolygonShape`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/polygonshape/bounds/) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/polygonshape/center/) { get; } | Получает центр фигуры. |
-| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | Получает конечную точку формы. |
-| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
+| override [Center](../../aspose.psd.shapes/polygonshape/center/) { get; } | Получает центр формы. |
+| virtual [EndPoint](../../aspose.psd.shapes/polygonshape/endpoint/) { get; } | Получает конечную точку фигуры. |
+| override [HasSegments](../../aspose.psd.shapes/polygonshape/hassegments/) { get; } | Получает значение, указывающее, имеет ли форма сегменты. |
 | [IsClosed](../../aspose.psd.shapes/polygonshape/isclosed/) { get; set; } | Получает или задает значение, указывающее, закрыта ли фигура. |
 | [Points](../../aspose.psd.shapes/polygonshape/points/) { get; set; } | Получает или задает точки кривой. |
-| override [Segments](../../aspose.psd.shapes/polygonshape/segments/) { get; } | Получает сегменты формы. |
-| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Получает начальную точку формы. |
+| override [Segments](../../aspose.psd.shapes/polygonshape/segments/) { get; } | Получает сегменты фигуры. |
+| virtual [StartPoint](../../aspose.psd.shapes/polygonshape/startpoint/) { get; } | Получает начальную точку фигуры. |
 
 ## Методы
 
@@ -41,62 +42,62 @@ public class PolygonShape : Shape, IOrderedShape
 | --- | --- |
 | override [GetBounds](../../aspose.psd.shapes/polygonshape/getbounds/#getbounds)(Matrix) | Получает границы объекта. |
 | override [GetBounds](../../aspose.psd.shapes/polygonshape/getbounds/#getbounds_1)(Matrix, Pen) | Получает границы объекта. |
-| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | Меняет порядок точек этой фигуры на обратный. |
+| [Reverse](../../aspose.psd.shapes/polygonshape/reverse/)() | Изменяет порядок точек для этой фигуры. |
 | override [Transform](../../aspose.psd.shapes/polygonshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Примеры
+## Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
+В этом примере создаётся новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
 
 ```csharp
 [C#]
 
-//Создаем экземпляр изображения
+//Создайте экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Создаем и инициализируем экземпляр класса Graphics
+    //Создайте и инициализируйте экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очистить графическую поверхность
+    //Очистить поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    //Создаем экземпляр класса GraphicsPath
+    //Создайте экземпляр класса GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    //Добавить объект Figure в GraphicsPath
+    //Добавьте объект Figure в GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // Нарисовать путь с помощью объекта Pen черного цвета
+    //Нарисуйте путь объектом Pen цвета чёрный
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Создаем параметры экспорта и инициализируем их.
+    // Создайте параметры экспорта и инициализируйте их.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
-    // сохранить все изменения.
+    // Сохраните все изменения.
     image.Save("c:\\temp\\output.bmp", options);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Shape](../../aspose.psd/shape/)
 * interface [IOrderedShape](../../aspose.psd/iorderedshape/)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

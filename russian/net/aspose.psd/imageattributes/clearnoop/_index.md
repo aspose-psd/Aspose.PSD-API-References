@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearNoOp
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Очищает настройку NoOp для категории по умолчанию.
+title: "ImageAttributes.ClearNoOp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Очищает настройку NoOp для категории по умолчанию."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/imageattributes/clearnoop/
 ---
+{{< psd/tize >}}
 ## ClearNoOp() {#clearnoop}
 
 Очищает настройку NoOp для категории по умолчанию.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/imageattributes/clearnoop/
 public void ClearNoOp()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public void ClearNoOp(ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой параметр NoOp очищается. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), определяющий категорию, для которой очистилась настройка NoOp. |
 
-### Смотрите также
+### См. также
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

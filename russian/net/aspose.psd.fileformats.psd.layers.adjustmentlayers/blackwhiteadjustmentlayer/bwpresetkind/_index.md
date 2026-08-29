@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlackWhiteAdjustmentLayer свойство. Получает или задает значение предустановленного вида чернобелого изображения.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlackWhiteAdjustmentLayer. Получает или задает значение типа предустановки черно‑белого"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Получает или задает значение предустановленного вида черно-белого изображения.
+Получает или задает значение типа предустановки черно‑белого.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Черно-белое предустановленное значение вида.
+Значение типа предустановки черно‑белого.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как вы можете манипулировать свойствами корректирующего слоя «черно-белый» в Aspose.PSD.
+В следующем примере демонстрируется, как можно управлять свойствами слоя черно-белой коррекции в Aspose.PSD
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlackWhiteAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

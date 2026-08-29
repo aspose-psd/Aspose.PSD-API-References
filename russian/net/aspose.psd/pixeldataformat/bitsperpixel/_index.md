@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.BitsPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat свойство. Получает количество бит на пиксель.
+title: "PixelDataFormat.BitsPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PixelDataFormat property. Возвращает количество битов на пиксель"
 type: docs
 weight: 300
 url: /ru/net/aspose.psd/pixeldataformat/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.BitsPerPixel property
 
-Получает количество бит на пиксель.
+Возвращает количество бит на пиксель.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество бит на пиксель.
+Бит на пиксель.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientName
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает имя градиента.
+title: "GdFlResource.GradientName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GdFlResource. Получает или задает имя градиента"
 type: docs
-weight: 80
+weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
 Получает или задает имя градиента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradi
 public string GradientName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя градиента.
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

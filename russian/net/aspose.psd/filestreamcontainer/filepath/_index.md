@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileStreamContainer свойство. Получает путь к файлу.
+title: "FileStreamContainer.FilePath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FileStreamContainer. Возвращает путь к файлу"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
-Получает путь к файлу.
+Возвращает путь к файлу.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Путь к файлу.
 
-### Смотрите также
+### См. также
 
 * class [FileStreamContainer](../)
-* пространство имен [Aspose.PSD](../../filestreamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

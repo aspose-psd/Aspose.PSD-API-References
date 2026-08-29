@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData свойство. Получает длину шаблона.
+title: "PattResourceData.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PattResourceData. Возвращает длину шаблона"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
 Получает длину шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/l
 public int Length { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Длина узора.
+Длина шаблона.
 
-### Смотрите также
+### См. также
 
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

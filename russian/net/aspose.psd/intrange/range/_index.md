@@ -1,11 +1,12 @@
 ---
-title: IntRange.Range
-second_title: Справочник по Aspose.PSD для .NET API
-description: IntRange свойство. Получает или задает диапазон.
+title: "IntRange.Range"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IntRange. Получает или задает диапазон"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
 Получает или задает диапазон.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/intrange/range/
 public int[] Range { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Диапазон.
 
-### Смотрите также
+### См. также
 
 * class [IntRange](../)
-* пространство имен [Aspose.PSD](../../intrange/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

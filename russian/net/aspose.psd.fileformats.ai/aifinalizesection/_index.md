@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection сорт. Формат AI Finalize Section
+title: "Класс AiFinalizeSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Ai.AiFinalizeSection. Секция завершения формата Ai"
 type: docs
-weight: 1230
+weight: 1240
 url: /ru/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Формат AI Finalize Section
+Раздел завершения формата Ai
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -20,10 +21,10 @@ public sealed class AiFinalizeSection : AiSection
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Получает строковые данные. |
 
-### Смотрите также
+### См. также
 
 * class [AiSection](../aisection/)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

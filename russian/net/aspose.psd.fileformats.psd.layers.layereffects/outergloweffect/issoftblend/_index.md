@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или задает значение указывающее выбивает ли.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OuterGlowEffect. Получает или задает значение, указывающее, выполняется ли вырезание"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-Получает или задает значение, указывающее, [выбивает ли].
+Получает или задает значение, указывающее, применяется ли [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный`если [вырубает]; в противном случае,`ЛОЖЬ` .
+`true` если [knocks out]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

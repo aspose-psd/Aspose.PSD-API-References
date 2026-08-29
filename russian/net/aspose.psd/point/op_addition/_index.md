@@ -1,14 +1,15 @@
 ---
-title: Point.op_Addition
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. ПереводитPoint заданнымSize .
+title: "Point.op_Addition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Перемещает точку на заданный Size."
 type: docs
 weight: 150
 url: /ru/net/aspose.psd/point/op_addition/
 ---
+{{< psd/tize >}}
 ## Point Addition operator
 
-Переводит[`Point`](../) заданным[`Size`](../../size/) .
+Перемещает [`Point`](../) на заданный [`Size`](../../size/).
 
 ```csharp
 public static Point operator +(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point operator +(Point point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | [`Point`](../) переводить. |
-| size | Size | А[`Size`](../../size/) который указывает пару чисел, которые нужно добавить к координатам*point*. |
+| point | Point | `[`Point`](../)` для перемещения. |
+| size | Size | [`Size`](../../size/), определяющий пару чисел, добавляемых к координатам *point*. |
 
 ### Возвращаемое значение
 
-переведенный[`Point`](../).
+Перемещённый [`Point`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

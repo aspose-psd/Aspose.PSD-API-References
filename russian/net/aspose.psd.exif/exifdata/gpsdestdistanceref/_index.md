@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает единицу измерения GPS используемую для выражения расстояния до точки назначения.
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает единицу GPS, используемую для выражения расстояния до точки назначения"
 type: docs
 weight: 430
 url: /ru/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
-Получает или задает единицу измерения GPS, используемую для выражения расстояния до точки назначения.
+Получает или задает единицу измерения GPS, используемую для выражения расстояния до целевой точки.
 
 ```csharp
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Единица измерения GPS, используемая для выражения расстояния до пункта назначения.
+Единица GPS, используемая для выражения расстояния до точки назначения.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

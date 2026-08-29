@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix00
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrix свойство. Получает или устанавливает элемент в 0 нулевой строке и 0 столбце этогоColorMatrix .
+title: "ColorMatrix.Matrix00"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorMatrix. Получает или задает элемент в строке 0 (ноль) и столбце 0 этой ColorMatrix"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/colormatrix/matrix00/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix00 property
 
-Получает или устанавливает элемент в 0 (нулевой) строке и 0 столбце этого[`ColorMatrix`](../) .
+Получает или задает элемент в строке 0 (ноль) и столбце 0 этой [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix00 { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Элемент в 0-й строке и 0-м столбце этого[`ColorMatrix`](../).
+Элемент в строке 0 и столбце 0 этой [`ColorMatrix`](../).
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../)
-* пространство имен [Aspose.PSD](../../colormatrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

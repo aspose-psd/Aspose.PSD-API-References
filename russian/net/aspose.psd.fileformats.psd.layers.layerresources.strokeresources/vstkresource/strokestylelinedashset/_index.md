@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает массив штрихов.
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает или задает массив пунктиров линии"
 type: docs
-weight: 140
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-Получает или задает массив штрихов.
+Получает или задает массив пунктиров линии.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

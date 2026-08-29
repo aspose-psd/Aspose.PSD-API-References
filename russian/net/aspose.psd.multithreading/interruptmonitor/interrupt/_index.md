@@ -1,11 +1,12 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: Справочник по Aspose.PSD для .NET API
-description: InterruptMonitor метод. Отправляет запрос на прерывание операций.
+title: "InterruptMonitor.Interrupt"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод InterruptMonitor. Отправляет запрос на прерывание операций"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.Interrupt method
 
 Отправляет запрос на прерывание операций.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 public void Interrupt()
 ```
 
-### Смотрите также
+### См. также
 
 * class [InterruptMonitor](../)
-* пространство имен [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

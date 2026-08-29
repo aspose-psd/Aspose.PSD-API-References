@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator сорт. Калькулятор хэшей для слоев PSD. Его можно использовать для поиска одинаковых или разных слоев в разных файлах PSD
+title: "Класс LayerHashCalculator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator class. Калькулятор хэшей для слоёв PSD. Может использоваться для поиска одинаковых или разных слоёв в разных PSD‑файлах."
 type: docs
-weight: 2230
+weight: 2430
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-Калькулятор хэшей для слоев PSD. Его можно использовать для поиска одинаковых или разных слоев в разных файлах PSD
+Калькулятор хешей для слоёв PSD. Может использоваться для поиска одинаковых или разных слоёв в разных файлах PSD.
 
 ```csharp
 public class LayerHashCalculator
@@ -18,19 +19,19 @@ public class LayerHashCalculator
 
 | Имя | Описание |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | Инициализирует новый экземпляр`LayerHashCalculator` класс. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | Инициализирует новый экземпляр класса `LayerHashCalculator`. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Получает смешанный хеш. |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Получает хеш каналов. |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Получает хэш контента. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Получает хэш смешивания. |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Получает хэш каналов. |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Получает хеш содержимого. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует API для получения уникального хэша для похожих слоев в разных файлах.
+Следующий код демонстрирует API для получения уникального хеша для похожих слоёв в разных файлах.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Не равно.
+/// Ares не равен.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">Ожидаемый.</param>
+/// <param name="expected">Ожидаемое.</param>
 /// <param name="actual">Фактическое.</param>
 /// <exception cref="System.Exception">Аргументы не должны быть равны</exception>
 public static void AreNotEqual<T>(T expected, T actual)
@@ -72,10 +73,10 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Арес равен.
+/// Ares равен.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">Ожидаемый.</param>
+/// <param name="expected">Ожидаемое.</param>
 /// <param name="actual">Фактическое.</param>
 /// <exception cref="System.Exception">Аргументы должны быть равны</exception>
 public static void AreEqual<T>(T expected, T actual)
@@ -87,7 +88,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Регулирует хэш-тест содержимого слоя.
+/// Regulars тест хеша содержимого слоя.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -109,17 +110,17 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // Хэши этих слоев равны
+        // Хеши этих слоёв равны
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Проверяем хэш режима наложения 
+        // Проверьте хеш режима смешивания 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // Но указатели разные
+        // Но указатели различаются
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,7 +128,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Заполняет хеш-тест содержимого слоя.
+/// Fills тест хеша содержимого слоя.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Похожие слои всегда в одном индексе
+            // Похожие слои всегда находятся в одном индексе
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,7 +163,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Проверка хеш-теста содержимого слоя объекта.
+/// Smarts тест хеша содержимого объектного слоя.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Данные канала одинаковы для Layer и Createad из их смарт-объектов.
+        // Данные канала одинаковы для слоя и созданных из него Smart Objects.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Хэш содержимого отличается, потому что смарт-объект использует другие данные в качестве содержимого
+        // Хеш содержимого отличается, потому что Smart Object использует другие данные в качестве содержимого
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Но смешивание хэша аналогично. Оба слоя — умный и обычный — имеют режим наложения «Нормальный» и непрозрачность 255.
+        // Но хеш смешивания похож. Оба слоя — умный и обычный имеют режим Normal Blend и непрозрачность 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Данные канала одинаковы для Layer и Createad из их смарт-объектов.
+        // Данные канала одинаковы для слоя и созданных из него Smart Objects.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Хэш содержимого отличается, потому что смарт-объект использует другие данные в качестве содержимого
+        // Хеш содержимого отличается, потому что Smart Object использует другие данные в качестве содержимого
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Но смешивание хэша аналогично. Оба слоя — умный и обычный — имеют режим наложения «Нормальный» и непрозрачность 255.
+        // Но хеш смешивания похож. Оба слоя — умный и обычный имеют режим Normal Blend и непрозрачность 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,7 +215,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Корректировка хеш-теста содержимого слоев.
+/// Регулировки тест хеша содержимого слоёв.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -258,7 +259,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Текст хеш-теста содержимого слоев.
+/// Тексты тест хеша содержимого слоёв.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -302,18 +303,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Матрица преобразования не используется при вычислении хэша. Вы должны дополнительно проверить это
+        // Матрица преобразования не используется при расчёте хеша. Вам следует дополнительно проверить её.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // В данном случае имеем поворот в матрице
+        // В этом случае у нас есть вращение в матрице
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // В данном случае у нас есть только перевод (текстовый слой смещен ниже)
+        // В этом случае у нас только трансляция (Текстовый слой смещён ниже)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Группирует хеш-тест содержимого слоя.
+/// Группы тест хеша содержимого слоя.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -333,14 +334,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Хэш группового слоя вычисляется из слоев внутри него
+        // Хеш группового слоя рассчитывается из слоёв внутри него
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Регулирует содержимое слоя из разных файлов hash test.
+/// Обычные тест хеша содержимого слоя из разных файлов.
 /// </summary>
 /// <param name="fileName">Имя файла.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -364,7 +365,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // Слои имеют разные указатели
                 AreNotEqual(layer, layer_copied);
 
-                // Но хеши слоев равны
+                // Но хеши слоёв одинаковы
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -375,9 +376,9 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

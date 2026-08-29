@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageResizeSettings строитель. Конструктор по умолчанию.
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ImageResizeSettings. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/imageresizesettings/imageresizesettings/
 public ImageResizeSettings()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../)
-* пространство имен [Aspose.PSD](../../imageresizesettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

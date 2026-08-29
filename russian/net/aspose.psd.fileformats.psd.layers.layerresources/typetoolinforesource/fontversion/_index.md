@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.FontVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfoResource свойство. Получает или задает версию шрифта.
+title: "TypeToolInfoResource.FontVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolInfoResource. Возвращает или задает версию шрифта"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontVersion property
 
 Получает или задает версию шрифта.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short FontVersion { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия шрифта.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolInfoResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

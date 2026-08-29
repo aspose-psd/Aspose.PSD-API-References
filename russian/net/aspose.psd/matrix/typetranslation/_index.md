@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeTranslation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix поле. Перевод перемещает координаты на постоянную величину в x и y без изменения длины или угла векторов.
+title: "Matrix.TypeTranslation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Matrix. Перенос смещает координаты на постоянную величину по x и y, не изменяя длину и угол векторов."
 type: docs
 weight: 280
 url: /ru/net/aspose.psd/matrix/typetranslation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeTranslation field
 
-Перевод перемещает координаты на постоянную величину в x и y без изменения длины или угла векторов.
+Трансляция перемещает координаты на постоянную величину по осям x и y без изменения длины или угла векторов.
 
 ```csharp
 public const int TypeTranslation;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

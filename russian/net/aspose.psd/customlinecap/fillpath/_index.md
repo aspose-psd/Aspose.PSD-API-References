@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.FillPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap свойство. Получает или задает объект определяющий заливку пользовательского колпачка.
+title: "CustomLineCap.FillPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustomLineCap. Получает или задает объект, определяющий заливку для пользовательской заглушки"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
-Получает или задает объект, определяющий заливку пользовательского колпачка.
+Получает или задаёт объект, определяющий заливку для пользовательского наконечника.
 
 ```csharp
 public GraphicsPath FillPath { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Объект, определяющий заливку пользовательского колпачка.
+Объект, определяющий заливку для пользовательской заглушки.
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

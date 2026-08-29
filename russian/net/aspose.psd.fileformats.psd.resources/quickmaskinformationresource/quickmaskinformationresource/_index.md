@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.QuickMaskInformationResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: QuickMaskInformationResource строитель. Конструктор по умолчанию.
+title: "QuickMaskInformationResource.QuickMaskInformationResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "QuickMaskInformationResource конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/quickmaskinformationresource/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/q
 public QuickMaskInformationResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [QuickMaskInformationResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

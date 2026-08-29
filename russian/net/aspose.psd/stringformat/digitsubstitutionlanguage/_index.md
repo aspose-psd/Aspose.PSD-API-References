@@ -1,31 +1,32 @@
 ---
-title: StringFormat.DigitSubstitutionLanguage
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat свойство. Получает или задает язык используемый при замене западных цифр местными цифрами.
+title: "StringFormat.DigitSubstitutionLanguage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство StringFormat. Возвращает или задает язык, который используется, когда локальные цифры заменяются западными цифрами."
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionLanguage property
 
-Получает или задает язык, используемый при замене западных цифр местными цифрами.
+Получает или задает язык, используемый при замене локальных цифр на западные.
 
 ```csharp
 public int DigitSubstitutionLanguage { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификатор языка поддержки национальных языков (NLS), определяющий язык, который будет использоваться при замене западных цифр местными цифрами. Вы можете передатьLCID собственностьCultureInfo объект в качестве идентификатора языка NLS. Например, предположим, что вы создаетеCultureInfo объект, передав строку "ar-EG" вCultureInfo конструктор. Если вы пройдетеLCID свойство этогоCultureInfo объект вместе с . Traditional кStringDigitSubstitute) method, , то арабо-индийские цифры будут заменены западными цифрами во время отображения.
+Идентификатор языка National Language Support (NLS), который определяет язык, используемый при замене локальных цифр на западные. Вы можете передать свойство LCID объекта CultureInfo в качестве идентификатора языка NLS. Например, предположим, что вы создаёте объект CultureInfo, передавая строку "ar-EG" конструктору CultureInfo. Если вы передадите свойство LCID этого объекта CultureInfo вместе с методом StringDigitSubstitute, то арабо‑индийские цифры будут заменяться на западные цифры во время отображения.
 
-### Примечания
+## Примечания
 
-Введен сеттер для устаревшего метода SetDigitSubstitution.
+Сеттер введён для устаревшего метода SetDigitSubstitution.
 
-### Смотрите также
+### См. также
 
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

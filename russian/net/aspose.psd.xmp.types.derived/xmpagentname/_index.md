@@ -1,14 +1,15 @@
 ---
-title: Class XmpAgentName
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName сорт. Представляет имя агента организацию программного обеспечения и т. д.
+title: "Класс XmpAgentName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Derived.XmpAgentName. Представляет имя агента, программное обеспечение, организацию и т.д."
 type: docs
-weight: 6140
+weight: 6640
 url: /ru/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-Представляет имя агента, организацию программного обеспечения и т. д.
+Представляет имя агента, организацию программного обеспечения и т.д.
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -18,9 +19,9 @@ public sealed class XmpAgentName : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | Инициализирует новый экземпляр`XmpAgentName` класс. |
+| [XmpAgentName](xmpagentname/)(string) | Инициализирует новый экземпляр класса `XmpAgentName`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,12 +31,12 @@ public sealed class XmpAgentName : XmpText
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

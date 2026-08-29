@@ -1,23 +1,24 @@
 ---
-title: Size.Empty
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size свойство. Получает новый экземплярSize структура которая имеетWidth иHeight значения равны нулю.
+title: "Size.Empty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Size. Возвращает новый экземпляр структуры Size, у которой значения Width и Height установлены в ноль."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/size/empty/
 ---
+{{< psd/tize >}}
 ## Size.Empty property
 
-Получает новый экземпляр[`Size`](../) структура, которая имеет[`Width`](../width/) и[`Height`](../height/) значения равны нулю.
+Возвращает новый экземпляр структуры [`Size`](../), у которой значения [`Width`](../width/) и [`Height`](../height/) установлены в ноль.
 
 ```csharp
 public static Size Empty { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

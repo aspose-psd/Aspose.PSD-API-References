@@ -1,11 +1,12 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskDataShort свойство. Получает или задает отступ маски слоя.
+title: "LayerMaskDataShort.Padding"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskDataShort. Получает или задает отступ маски слоя"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
 Получает или задает отступ маски слоя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 public short Padding { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Отступ маски слоя.
 
-### Смотрите также
+### См. также
 
 * class [LayerMaskDataShort](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

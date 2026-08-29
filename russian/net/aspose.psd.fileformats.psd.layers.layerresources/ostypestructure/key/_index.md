@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructure свойство. Получает ключ структуры.
+title: "OSTypeStructure.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство OSTypeStructure. Получает ключ структуры"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
 Получает ключ структуры.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ke
 public abstract int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

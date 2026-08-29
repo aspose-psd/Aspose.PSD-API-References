@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Сохраняет необработанные данные.
+title: "RasterImage.SaveRawData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Сохраняет необработанные данные."
 type: docs
-weight: 530
+weight: 550
 url: /ru/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 Сохраняет необработанные данные.
@@ -17,17 +18,17 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Необработанные данные. |
+| данные | Byte[] | Сырые данные. |
 | dataOffset | Int32 | Начальное смещение необработанных данных. |
-| rectangle | Rectangle | Прямоугольник необработанных данных. |
-| rawDataSettings | RawDataSettings | Настройки необработанных данных, в которых находятся данные. |
+| прямоугольник | Rectangle | Прямоугольник необработанных данных. |
+| rawDataSettings | RawDataSettings | Настройки, в которых находятся необработанные данные. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

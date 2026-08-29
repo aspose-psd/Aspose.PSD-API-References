@@ -1,11 +1,12 @@
 ---
-title: Interface IPsdColorPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IPsdColorPalette интерфейс. Цветовая палитра pasd
+title: "Интерфейс IPsdColorPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IPsdColorPalette. Палитра цветов pasd"
 type: docs
-weight: 4550
+weight: 5020
 url: /ru/net/aspose.psd/ipsdcolorpalette/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette interface
 
 Цветовая палитра pasd
@@ -14,20 +15,20 @@ url: /ru/net/aspose.psd/ipsdcolorpalette/
 public interface IPsdColorPalette : IColorPalette
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Получает значение, указывающее, существует ли прозрачный цвет. |
-| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Получает данные необработанных записей цветовой палитры. |
-| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Получает количество записей исходной цветовой палитры. |
-| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Получает прозрачный цвет. |
-| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Получает индекс прозрачного цвета. |
+| [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Возвращает значение, указывающее, существует ли прозрачный цвет. |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Возвращает необработанные данные записей палитры цветов. |
+| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Возвращает количество необработанных записей палитры цветов. |
+| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Возвращает прозрачный цвет. |
+| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Возвращает индекс прозрачного цвета. |
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../icolorpalette/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

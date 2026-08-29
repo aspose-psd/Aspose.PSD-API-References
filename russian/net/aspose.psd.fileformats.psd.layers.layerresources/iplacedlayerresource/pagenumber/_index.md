@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PageNumber
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает или задает номер страницы размещенного слоя в файле PSD.
+title: "IPlacedLayerResource.PageNumber"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает или задает номер страницы размещённого слоя в файле PSD"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PageNumber property
 
-Получает или задает номер страницы размещенного слоя в файле PSD.
+Получает или задает номер страницы размещённого слоя в файле PSD.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Номер страницы размещенного слоя.
+Номер страницы размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

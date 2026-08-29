@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.PsdColorPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdColorPalette строитель. Инициализирует новый экземплярPsdColorPalette класс.
+title: "PsdColorPalette.PsdColorPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор PsdColorPalette. Инициализирует новый экземпляр класса PsdColorPalette."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
@@ -18,18 +19,18 @@ public PsdColorPalette(IColorPalette colorPalette)
 | --- | --- | --- |
 | colorPalette | IColorPalette | Цветовая палитра. |
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
@@ -40,18 +41,18 @@ public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 | colorPalette | IColorPalette | Цветовая палитра. |
 | transparentIndex | Int16 | Индекс прозрачного цвета. |
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
@@ -59,20 +60,20 @@ public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | Необработанные данные записей. |
-| isCompactPalette | Boolean | Указание на компактность палитры. |
+| rawEntriesData | Byte[] | Данные необработанных записей. |
+| isCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
@@ -80,19 +81,19 @@ public PsdColorPalette(byte[] rawEntriesData)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | Необработанные данные записей. |
+| rawEntriesData | Byte[] | Данные необработанных записей. |
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
@@ -100,21 +101,21 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | Необработанные данные записей. |
-| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
-| useCompactPalette | Boolean | Указание на компактность палитры. |
+| rawEntriesData | Byte[] | Данные необработанных записей. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является индексом необработанных записей, а относится к массиву преобразованных цветов. |
+| useCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
@@ -122,20 +123,20 @@ public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rawEntriesData | Byte[] | Необработанные данные записей. |
-| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является необработанным индексом записей, а предназначен для преобразованного массива цветов. |
+| rawEntriesData | Byte[] | Данные необработанных записей. |
+| transparentIndex | Int16 | Индекс прозрачного цвета. Обратите внимание, что индекс не является индексом необработанных записей, а относится к массиву преобразованных цветов. |
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
@@ -143,20 +144,20 @@ public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteArgb32Entries | Int32[] | Цветовая палитра 32-битных записей ARGB. |
-| isCompactPalette | Boolean | Указание на компактность палитры. |
+| colorPaletteArgb32Entries | Int32[] | Записи 32‑битной ARGB‑палитры. |
+| isCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
@@ -164,21 +165,21 @@ public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteEntries | Color[] | Записи цветовой палитры. |
-| isCompactPalette | Boolean | Указание на компактность палитры. |
+| colorPaletteEntries | Color[] | Элементы цветовой палитры. |
+| isCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
@@ -186,20 +187,20 @@ public PsdColorPalette(Color[] colorPaletteEntries)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteEntries | Color[] | Записи цветовой палитры. |
+| colorPaletteEntries | Color[] | Элементы цветовой палитры. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
@@ -207,22 +208,22 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteEntries | Color[] | Записи цветовой палитры. |
+| colorPaletteEntries | Color[] | Элементы цветовой палитры. |
 | transparentIndex | Int16 | Индекс прозрачного цвета. |
-| useCompactPalette | Boolean | Указание на компактность палитры. |
+| useCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-Инициализирует новый экземпляр[`PsdColorPalette`](../) класс, а IsCompactPalette имеет значение false.
+Инициализирует новый экземпляр класса [`PsdColorPalette`](../) и IsCompactPalette имеет значение false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
@@ -230,14 +231,14 @@ public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorPaletteEntries | Color[] | Записи цветовой палитры. |
+| colorPaletteEntries | Color[] | Элементы цветовой палитры. |
 | transparentIndex | Int16 | Индекс прозрачного цвета. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SmartObjectResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource метод. Сохраняет ресурс смартобъекта в указанный контейнер потока.
+title: "SmartObjectResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SmartObjectResource. Сохраняет ресурс умного объекта в указанный потоковый контейнер."
 type: docs
-weight: 260
+weight: 240
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Save method
 
-Сохраняет ресурс смарт-объекта в указанный контейнер потока.
+Сохраняет ресурс смарт‑объекта в указанный потоковый контейнер.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.IsOutlineVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Указывает содержится ли указанная точка внутри под контура этогоGraphicsPath при рисовании с указаннымPen .
+title: "GraphicsPath.IsOutlineVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Указывает, находится ли указанная точка внутри (под) контура этого GraphicsPath, когда он рисуется указанной ручкой."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
+{{< psd/tize >}}
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
@@ -16,26 +17,26 @@ public bool IsOutlineVisible(float x, float y, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | X-координата точки для проверки. |
-| y | Single | Y-координата точки для проверки. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| x | Single | Координата x проверяемой точки. |
+| y | Single | Координата y проверяемой точки. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
@@ -43,26 +44,26 @@ public bool IsOutlineVisible(PointF point, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | А[`PointF`](../../pointf/) который указывает местоположение для тестирования. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| point | PointF | Объект [`PointF`](../../pointf/), указывающий местоположение для тестирования. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) и с помощью указанного[`Graphics`](../../graphics/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/) и с использованием указанного [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
@@ -70,28 +71,28 @@ public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Single | X-координата точки для проверки. |
-| y | Single | Y-координата точки для проверки. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| x | Single | Координата x проверяемой точки. |
+| y | Single | Координата y проверяемой точки. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 | graphics | Graphics | [`Graphics`](../../graphics/) для проверки видимости. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится внутри (под) контура этого[`GraphicsPath`](../) как нарисовано с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) и с помощью указанного[`Graphics`](../../graphics/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/) и с использованием указанного [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
@@ -99,28 +100,28 @@ public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pt | PointF | А[`PointF`](../../pointf/) который указывает местоположение для тестирования. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| pt | PointF | Объект [`PointF`](../../pointf/), указывающий местоположение для тестирования. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 | graphics | Graphics | [`Graphics`](../../graphics/) для проверки видимости. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится внутри (под) контура этого[`GraphicsPath`](../) как нарисовано с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
@@ -128,26 +129,26 @@ public bool IsOutlineVisible(int x, int y, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Int32 | X-координата точки для проверки. |
-| y | Int32 | Y-координата точки для проверки. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| x | Int32 | Координата x проверяемой точки. |
+| y | Int32 | Координата y проверяемой точки. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/).
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
@@ -155,26 +156,26 @@ public bool IsOutlineVisible(Point point, Pen pen)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | Point | А[`Point`](../../point/) который указывает местоположение для тестирования. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| point | Point | Объект [`Point`](../../point/), указывающий местоположение для тестирования. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) и с помощью указанного[`Graphics`](../../graphics/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/) и с использованием указанного [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
@@ -182,28 +183,28 @@ public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| x | Int32 | X-координата точки для проверки. |
-| y | Int32 | Y-координата точки для проверки. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| x | Int32 | Координата x проверяемой точки. |
+| y | Int32 | Координата y проверяемой точки. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 | graphics | Graphics | [`Graphics`](../../graphics/) для проверки видимости. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) как нарисовано с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-Указывает, содержится ли указанная точка внутри (под) контура этого[`GraphicsPath`](../) при рисовании с указанным[`Pen`](../../pen/) и с помощью указанного[`Graphics`](../../graphics/) .
+Указывает, находится ли указанная точка внутри (под) контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/) и с использованием указанного [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
@@ -211,21 +212,21 @@ public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| pt | Point | А[`Point`](../../point/) который указывает местоположение для тестирования. |
-| pen | Pen | [`Pen`](../../pen/) тестировать. |
+| pt | Point | Объект [`Point`](../../point/), указывающий местоположение для тестирования. |
+| pen | Pen | [`Pen`](../../pen/) для тестирования. |
 | graphics | Graphics | [`Graphics`](../../graphics/) для проверки видимости. |
 
 ### Возвращаемое значение
 
-Этот метод возвращает значение true, если указанная точка содержится в контуре этого[`GraphicsPath`](../) как нарисовано с указанным[`Pen`](../../pen/) ; в противном случае false.
+Этот метод возвращает true, если указанная точка находится внутри контура этого [`GraphicsPath`](../), когда он рисуется указанной [`Pen`](../../pen/); в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

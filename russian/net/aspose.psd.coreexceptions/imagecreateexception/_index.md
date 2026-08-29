@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreateException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.ImageCreateException сорт. Образ создает исключение. Происходит во время создания образа.
+title: "Класс ImageCreateException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.ImageCreateException class. Исключение создания изображения. Возникает во время создания изображения."
 type: docs
 weight: 490
 url: /ru/net/aspose.psd.coreexceptions/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException class
 
-Образ создает исключение. Происходит во время создания образа.
+Исключение создания изображения. Возникает во время создания изображения.
 
 ```csharp
 public class ImageCreateException : ImageException
@@ -18,13 +19,13 @@ public class ImageCreateException : ImageException
 
 | Имя | Описание |
 | --- | --- |
-| [ImageCreateException](imagecreateexception/#constructor)(string) | Инициализирует новый экземпляр`ImageCreateException` класс. |
-| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`ImageCreateException` класс. |
+| [ImageCreateException](imagecreateexception/#constructor)(string) | Инициализирует новый экземпляр класса `ImageCreateException`. |
+| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `ImageCreateException`. |
 
-### Смотрите также
+### См. также
 
 * class [ImageException](../imageexception/)
-* пространство имен [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

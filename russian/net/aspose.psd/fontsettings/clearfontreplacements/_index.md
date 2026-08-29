@@ -1,22 +1,23 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Очищает все замены шрифтов
+title: "FontSettings.ClearFontReplacements"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "FontSettings метод. Очищает все замены шрифтов"
 type: docs
-weight: 20
+weight: 30
 url: /ru/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
-Очищает все замены шрифтов
+Очищает все замены шрифтов.
 
 ```csharp
 public static void ClearFontReplacements()
 ```
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность программного ограничения использования шрифтов.
+Следующий код демонстрирует возможность программно ограничивать шрифты.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

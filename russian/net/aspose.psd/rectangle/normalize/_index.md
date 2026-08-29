@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Normalize
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Нормализует прямоугольник делая его ширину и высоту положительными слева меньше чем справа а верх меньше чем низ.
+title: "Rectangle.Normalize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Нормализует прямоугольник, делая его ширину и высоту положительными, левый край меньше правого и верхний меньше нижнего."
 type: docs
 weight: 260
 url: /ru/net/aspose.psd/rectangle/normalize/
 ---
+{{< psd/tize >}}
 ## Rectangle.Normalize method
 
-Нормализует прямоугольник, делая его ширину и высоту положительными, слева меньше, чем справа, а верх меньше, чем низ.
+Нормализует прямоугольник, делая его ширину и высоту положительными, левую сторону меньше правой и верхнюю сторону меньше нижней.
 
 ```csharp
 public void Normalize()
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

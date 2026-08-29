@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: Thumbnail свойство. Получает или задает ширину.
+title: "Thumbnail.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Thumbnail. Возвращает или задает ширину"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 Получает или задает ширину.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 public int Width { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина.
 
@@ -24,10 +25,10 @@ public int Width { get; set; }
 | --- | --- |
 | ArgumentOutOfRangeException | value;Ширина не может быть меньше нуля |
 
-### Смотрите также
+### См. также
 
 * class [Thumbnail](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

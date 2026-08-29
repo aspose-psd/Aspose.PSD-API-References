@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает долготу GPS для восточной или западной долготы.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает, является ли долгота GPS восточной или западной"
 type: docs
 weight: 550
 url: /ru/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-Получает или задает долготу GPS для восточной или западной долготы.
+Получает или задает, является ли долгота GPS восточной или западной.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Долгота GPS — восточная или западная долгота.
+Долгота GPS является восточной или западной.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

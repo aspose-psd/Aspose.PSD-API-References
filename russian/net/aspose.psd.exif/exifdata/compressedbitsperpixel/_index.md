@@ -1,28 +1,29 @@
 ---
-title: ExifData.CompressedBitsPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает сжатые биты на пиксель.
+title: "ExifData.CompressedBitsPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает сжатые биты на пиксель"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.exif/exifdata/compressedbitsperpixel/
 ---
+{{< psd/tize >}}
 ## ExifData.CompressedBitsPerPixel property
 
-Получает или задает сжатые биты на пиксель.
+Получает или задаёт сжатые биты на пиксель.
 
 ```csharp
 public TiffRational CompressedBitsPerPixel { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сжатые биты на пиксель.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

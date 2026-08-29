@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Tags
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает теги.
+title: "TiffOptions.Tags"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает теги"
 type: docs
-weight: 490
+weight: 500
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-Получает или устанавливает теги.
+Получает или задает теги.
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Теги.
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

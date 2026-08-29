@@ -1,11 +1,12 @@
 ---
-title: TextLayer.GetFonts
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer метод. Получает набор шрифтов текстового слоя.
+title: "TextLayer.GetFonts"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TextLayer. Возвращает набор шрифтов текстового слоя"
 type: docs
-weight: 80
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
 Получает набор шрифтов текстового слоя.
@@ -18,7 +19,7 @@ public TextFontInfo[] GetFonts()
 
 Набор шрифтов текстового слоя.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует, как Aspose.PSD получает свойства встроенного форматирования текстового слоя.
 
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

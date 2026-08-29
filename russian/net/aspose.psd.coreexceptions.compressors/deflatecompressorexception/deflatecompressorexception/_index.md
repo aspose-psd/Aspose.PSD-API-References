@@ -1,14 +1,15 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: Справочник по Aspose.PSD для .NET API
-description: DeflateCompressorException строитель. Инициализирует новый экземплярDeflateCompressorException класс.
+title: "DeflateCompressorException.DeflateCompressorException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор DeflateCompressorException. Инициализирует новый экземпляр класса DeflateCompressorException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException(string) {#constructor}
 
-Инициализирует новый экземпляр[`DeflateCompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message)
@@ -16,19 +17,19 @@ public DeflateCompressorException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [DeflateCompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DeflateCompressorException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`DeflateCompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public DeflateCompressorException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [DeflateCompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

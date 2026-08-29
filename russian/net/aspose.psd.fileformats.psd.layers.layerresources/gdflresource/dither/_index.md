@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Справочник по Aspose.PSD для .NET API
-description: GdFlResource свойство. Получает или задает значение указывающее является ли этоGdFlResource дизеринг.
+title: "GdFlResource.Dither"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "GdFlResource свойство. Получает или задает значение, указывающее, является ли этот GdFlResource дизер"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-Получает или задает значение, указывающее, является ли это[`GdFlResource`](../) дизеринг.
+Получает или задает значение, указывающее, является ли этот [`GdFlResource`](../) дизер.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если смущать; в противном случае,`ЛОЖЬ` .
+`true` если дизеринг; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка загрузки ресурсов GdFlResource.
+Следующий пример демонстрирует поддержку загрузки ресурсов GdFlResource.
 
 ```csharp
 [C#]
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [GdFlResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

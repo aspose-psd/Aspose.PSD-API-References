@@ -1,14 +1,15 @@
 ---
-title: Struct Rectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Rectangle структура. Хранит набор из четырех целых чисел представляющих расположение и размер прямоугольника.
+title: "Структура Rectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Структура Aspose.PSD.Rectangle. Содержит набор из четырёх целых чисел, представляющих положение и размер прямоугольника"
 type: docs
-weight: 5340
+weight: 5840
 url: /ru/net/aspose.psd/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle structure
 
-Хранит набор из четырех целых чисел, представляющих расположение и размер прямоугольника.
+Хранит набор из четырёх целых чисел, представляющих положение и размер прямоугольника.
 
 ```csharp
 public struct Rectangle
@@ -18,57 +19,57 @@ public struct Rectangle
 
 | Имя | Описание |
 | --- | --- |
-| [Rectangle](rectangle/#constructor)(Point, Size) | Инициализирует новый экземпляр`Rectangle` структура с указанным расположением и размером. |
-| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Инициализирует новый экземпляр`Rectangle` структура с указанным расположением и размером. |
+| [Rectangle](rectangle/#constructor)(Point, Size) | Инициализирует новый экземпляр структуры `Rectangle` с указанным положением и размером. |
+| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | Инициализирует новый экземпляр структуры `Rectangle` с указанным положением и размером. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Получает новый экземпляр`Rectangle` структура, которая имеет[`X`](./x/) ,[`Y`](./y/) ,[`Width`](./width/) и[`Height`](./height/) значения равны нулю. |
-| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Получает или задает координату y, которая является суммой[`Y`](./y/) и[`Height`](./height/) значения свойств этого`Rectangle`структура. |
-| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Получает или задает высоту этого`Rectangle`структура. |
-| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Получает значение, указывающее, все ли числовые свойства этого`Rectangle` имеют нулевые значения. |
-| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Получает или задает x-координату левого края этого`Rectangle`структура. |
-| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Получает или задает координаты левого верхнего угла этого`Rectangle`структура. |
-| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Получает или задает координату x, которая является суммой[`X`](./x/) и[`Width`](./width/) значения свойств этого`Rectangle`структура. |
-| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Получает или задает размер этого`Rectangle` . |
-| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Получает или задает координату y верхнего края этого`Rectangle`структура. |
-| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Получает или задает ширину этого`Rectangle`структура. |
-| [X](../../aspose.psd/rectangle/x/) { get; set; } | Получает или задает x-координату левого верхнего угла этого`Rectangle`структура. |
-| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Получает или задает координату Y верхнего левого угла этого`Rectangle`структура. |
+| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | Получает новый экземпляр структуры `Rectangle`, у которой значения [`X`](./x/), [`Y`](./y/), [`Width`](./width/) и [`Height`](./height/) установлены в ноль. |
+| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | Получает или задает координату y, являющуюся суммой значений свойств [`Y`](./y/) и [`Height`](./height/) этой структуры `Rectangle`. |
+| [Height](../../aspose.psd/rectangle/height/) { get; set; } | Получает или задает высоту этой структуры `Rectangle`. |
+| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | Получает значение, указывающее, имеют ли все числовые свойства этой `Rectangle` значение ноль. |
+| [Left](../../aspose.psd/rectangle/left/) { get; set; } | Получает или задает координату x левой грани этой структуры `Rectangle`. |
+| [Location](../../aspose.psd/rectangle/location/) { get; set; } | Получает или задает координаты верхнего левого угла этой структуры `Rectangle`. |
+| [Right](../../aspose.psd/rectangle/right/) { get; set; } | Получает или задает координату x, являющуюся суммой значений свойств [`X`](./x/) и [`Width`](./width/) этой структуры `Rectangle`. |
+| [Size](../../aspose.psd/rectangle/size/) { get; set; } | Получает или задает размер этой `Rectangle`. |
+| [Top](../../aspose.psd/rectangle/top/) { get; set; } | Получает или задает координату y верхней грани этой структуры `Rectangle`. |
+| [Width](../../aspose.psd/rectangle/width/) { get; set; } | Получает или задает ширину этой структуры `Rectangle`. |
+| [X](../../aspose.psd/rectangle/x/) { get; set; } | Получает или задает координату x верхнего левого угла этой структуры `Rectangle`. |
+| [Y](../../aspose.psd/rectangle/y/) { get; set; } | Получает или задает координату y верхнего левого угла этой структуры `Rectangle`. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Преобразует указанный[`RectangleF`](../rectanglef/) структура к`Rectangle` структура путем округления[`RectangleF`](../rectanglef/) значения до следующего более высокого целочисленного значения. |
-| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | Создает`Rectangle` структура с указанными местоположениями ребер. |
-| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Создает новый`Rectangle` из двух указанных точек. Две вертикали созданного`Rectangle` будет равно переданному*point1* и*point2* . Обычно это противоположные вершины. |
-| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Создает и возвращает увеличенную копию указанного`Rectangle`состав. Копия завышена на указанную сумму. Оригинал`Rectangle` структура остается неизменной. |
-| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | Возвращает третий`Rectangle` структура, которая представляет собой пересечение двух других`Rectangle` структуры. Если пересечения нет, то пустой`Rectangle` возвращается. |
-| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Преобразует указанный[`RectangleF`](../rectanglef/) к`Rectangle` путем округления[`RectangleF`](../rectanglef/) значения до ближайших целочисленных значений. |
-| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Преобразует указанный[`RectangleF`](../rectanglef/) к`Rectangle` путем усечения[`RectangleF`](../rectanglef/) значения. |
-| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | Получает`Rectangle` структура, содержащая объединение двух`Rectangle` структуры. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Определяет, содержится ли указанная точка в этом`Rectangle`структура. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | Определяет, является ли прямоугольная область, представленная*rect* полностью содержится в этом`Rectangle`структура. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Определяет, содержится ли указанная точка в этом`Rectangle`структура. |
-| override [Equals](../../aspose.psd/rectangle/equals/)(object) | Проверяет,*obj* это`Rectangle`структура с тем же расположением и размером этого`Rectangle`структура. |
-| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Возвращает хеш-код для этого`Rectangle`структура. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | раздувает это`Rectangle`на указанную сумму. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | раздувает это`Rectangle`на указанную сумму. |
-| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Заменяет это`Rectangle` с пересечением себя и указанного`Rectangle` . |
-| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Определяет, пересекается ли этот прямоугольник с*rect* . |
-| [Normalize](../../aspose.psd/rectangle/normalize/)() | Нормализует прямоугольник, делая его ширину и высоту положительными, слева меньше, чем справа, а верх меньше, чем низ. |
-| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | Изменяет положение этого прямоугольника на указанную величину. |
-| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | Изменяет положение этого прямоугольника на указанную величину. |
-| override [ToString](../../aspose.psd/rectangle/tostring/)() | Преобразует атрибуты этого`Rectangle` в удобочитаемую строку. |
-| [operator ==](../../aspose.psd/rectangle/op_equality/) | Проверяет, являются ли два`Rectangle` структуры имеют одинаковое расположение и размер. |
-| [operator !=](../../aspose.psd/rectangle/op_inequality/) | Проверяет, являются ли два`Rectangle` структуры отличаются расположением или размером. |
+| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | Преобразует указанную структуру [`RectangleF`](../rectanglef/) в структуру `Rectangle`, округляя значения [`RectangleF`](../rectanglef/) до следующего большего целого числа. |
+| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | Создает структуру `Rectangle` с указанными позициями граней. |
+| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | Создает новый `Rectangle` из двух указанных точек. Две вертикали созданного `Rectangle` будут равны переданным *point1* и *point2*. Обычно это противоположные вершины. |
+| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | Создает и возвращает увеличенную копию указанной структуры `Rectangle`. Копия увеличивается на заданную величину. Исходная структура `Rectangle` остается неизменной. |
+| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | Возвращает третью структуру `Rectangle`, представляющую пересечение двух других структур `Rectangle`. Если пересечения нет, возвращается пустой `Rectangle`. |
+| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | Преобразует указанную [`RectangleF`](../rectanglef/) в `Rectangle`, округляя её значения до ближайшего целого числа. |
+| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | Преобразует указанную [`RectangleF`](../rectanglef/) в `Rectangle`, отбрасывая дробную часть значений [`RectangleF`](../rectanglef/). |
+| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | Получает структуру `Rectangle`, содержащую объединение двух структур `Rectangle`. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | Определяет, находится ли указанная точка внутри этой структуры `Rectangle`. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | Определяет, полностью ли прямоугольный регион, представленный *rect*, содержится в этой структуре `Rectangle`. |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | Определяет, находится ли указанная точка внутри этой структуры `Rectangle`. |
+| override [Equals](../../aspose.psd/rectangle/equals/)(object) | Проверяет, является ли *obj* структурой `Rectangle` с тем же расположением и размером, что и эта структура `Rectangle`. |
+| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | Возвращает хеш‑код этой структуры `Rectangle`. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | Увеличивает эту `Rectangle` на указанную величину. |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | Увеличивает эту `Rectangle` на указанную величину. |
+| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | Заменяет эту `Rectangle` пересечением её с указанной `Rectangle`. |
+| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | Определяет, пересекается ли этот прямоугольник с *rect*. |
+| [Normalize](../../aspose.psd/rectangle/normalize/)() | Нормализует прямоугольник, делая его ширину и высоту положительными, левую сторону меньше правой и верхнюю сторону меньше нижней. |
+| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | Изменяет расположение этого прямоугольника на указанную величину. |
+| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | Изменяет расположение этого прямоугольника на указанную величину. |
+| override [ToString](../../aspose.psd/rectangle/tostring/)() | Преобразует атрибуты этой `Rectangle` в читаемую человеком строку. |
+| [operator ==](../../aspose.psd/rectangle/op_equality/) | Проверяет, имеют ли две структуры `Rectangle` одинаковое расположение и размер. |
+| [operator !=](../../aspose.psd/rectangle/op_inequality/) | Проверяет, отличаются ли две структуры `Rectangle` расположением или размером. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

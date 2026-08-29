@@ -1,27 +1,28 @@
 ---
-title: Class Shape
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Shape сорт. Форма. Непрерывный набор точек соединенных по определенному правилу.
+title: "Класс Shape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Shape. Фигура. Непрерывный набор точек, соединённых по определённому правилу"
 type: docs
-weight: 5420
+weight: 5920
 url: /ru/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-Форма. Непрерывный набор точек, соединенных по определенному правилу.
+Форма. Непрерывный набор точек, соединённых по определённому правилу.
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Получает границы объекта. |
-| abstract [Center](../../aspose.psd/shape/center/) { get; } | Получает центр фигуры. |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Получает сегменты формы. |
+| abstract [Center](../../aspose.psd/shape/center/) { get; } | Получает центр формы. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Получает значение, указывающее, имеет ли форма сегменты. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Получает сегменты фигуры. |
 
 ## Методы
 
@@ -31,10 +32,10 @@ public abstract class Shape : ObjectWithBounds
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Получает границы объекта. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Смотрите также
+### См. также
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

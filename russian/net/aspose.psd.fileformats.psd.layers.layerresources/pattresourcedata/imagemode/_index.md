@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.ImageMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData свойство. Получает режим изображения.
+title: "PattResourceData.ImageMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PattResourceData. Возвращает режим изображения"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/
 ---
+{{< psd/tize >}}
 ## PattResourceData.ImageMode property
 
 Получает режим изображения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/i
 public ColorModes ImageMode { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим изображения.
 
-### Смотрите также
+### См. также
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

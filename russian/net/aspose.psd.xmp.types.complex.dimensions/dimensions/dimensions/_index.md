@@ -1,30 +1,31 @@
 ---
-title: Dimensions.Dimensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Dimensions строитель. Инициализирует новый экземплярDimensions класс.
+title: "Dimensions.Dimensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Dimensions. Инициализирует новый экземпляр класса Dimensions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-Инициализирует новый экземпляр[`Dimensions`](../) класс.
+Инициализирует новый экземпляр класса [`Dimensions`](../).
 
 ```csharp
 public Dimensions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Dimensions](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-Инициализирует новый экземпляр[`Dimensions`](../) класс.
+Инициализирует новый экземпляр класса [`Dimensions`](../).
 
 ```csharp
 public Dimensions(float width, float height)
@@ -35,10 +36,10 @@ public Dimensions(float width, float height)
 | width | Single | Ширина. |
 | height | Single | Высота. |
 
-### Смотрите также
+### См. также
 
 * class [Dimensions](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

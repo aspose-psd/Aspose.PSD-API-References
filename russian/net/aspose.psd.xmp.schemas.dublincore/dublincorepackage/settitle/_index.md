@@ -1,14 +1,15 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Справочник по Aspose.PSD для .NET API
-description: DublinCorePackage метод. Добавляет название Dublin Core.
+title: "DublinCorePackage.SetTitle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DublinCorePackage. Добавляет заголовок Dublin Core"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
-Добавляет название Dublin Core.
+Добавляет заголовок Dublin Core.
 
 ```csharp
 public void SetTitle(string title)
@@ -16,13 +17,13 @@ public void SetTitle(string title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | String | Название. |
+| заголовок | String | Заголовок. |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,13 +37,13 @@ public void SetTitle(LangAlt title)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| title | LangAlt | Случай[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | Экземпляр [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

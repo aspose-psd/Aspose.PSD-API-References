@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.IsOpen
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierKnotRecord свойство. Получает или задает значение указывающее открыт ли этот экземпляр.
+title: "BezierKnotRecord.IsOpen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierKnotRecord. Получает или задает значение, указывающее, открыт ли этот экземпляр"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsOpen property
 
 Получает или задает значение, указывающее, открыт ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/
 public bool IsOpen { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр открыт; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр открыт; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [BezierKnotRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

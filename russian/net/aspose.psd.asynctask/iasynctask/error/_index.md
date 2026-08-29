@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask свойство. Получает ошибку задачи доступную после завершения задачи.
+title: "IAsyncTask.Error"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IAsyncTask. Возвращает ошибку задачи, доступную после её завершения"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-Получает ошибку задачи, доступную после завершения задачи.
+Возвращает ошибку задачи, доступную после её завершения.
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ошибка задачи.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

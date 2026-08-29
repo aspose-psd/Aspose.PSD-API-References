@@ -1,14 +1,15 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord сорт. Начальный класс записи правила заполнения
+title: "Класс InitialFillRuleRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord. Класс записи начального правила заполнения"
 type: docs
-weight: 1360
+weight: 1370
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
-Начальный класс записи правила заполнения
+Класс записи начального правила заливки
 
 ```csharp
 public class InitialFillRuleRecord : VectorPathRecord
@@ -18,21 +19,21 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 | Имя | Описание |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Инициализирует новый экземпляр`InitialFillRuleRecord` класс. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Инициализирует новый экземпляр`InitialFillRuleRecord` класс. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Инициализирует новый экземпляр`InitialFillRuleRecord` класс. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | Инициализирует новый экземпляр класса `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | Инициализирует новый экземпляр класса `InitialFillRuleRecord`. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | Инициализирует новый экземпляр класса `InitialFillRuleRecord`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | Получает или задает значение, указывающее, начинается ли заливка со всех пикселей. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | Получает тип. |
 
-### Смотрите также
+### См. также
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

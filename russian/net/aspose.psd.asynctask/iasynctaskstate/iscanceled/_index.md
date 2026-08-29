@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTaskState свойство. Получает значение указывающее отменена ли асинхронная задача.
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IAsyncTaskState. Возвращает значение, указывающее, отменена ли асинхронная задача"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
-Получает значение, указывающее, отменена ли асинхронная задача.
+Возвращает значение, указывающее, отменена ли асинхронная задача.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если асинхронная задача отменена; в противном случае,`ЛОЖЬ` .
+`true`, если асинхронная задача отменена; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTaskState](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

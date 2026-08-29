@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Получает индекс шрифта.
+title: "ITextStyle.FontIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Возвращает индекс шрифта"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
 Получает индекс шрифта.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 public int FontIndex { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Шрифт.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует, как Aspose.PSD получает свойства встроенного форматирования текстового слоя.
 
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Загружаем существующее изображение в экземпляр класса PsdImage
+// Загрузите существующее изображение в экземпляр класса PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

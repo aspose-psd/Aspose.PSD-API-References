@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее отображается ли этот слой.
+title: "AiLayerSection.IsShown"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AiLayerSection свойство. Получает или задает значение, указывающее, отображается ли этот слой. Показывает все графические элементы, содержащиеся в слое, на рабочей области, если true"
 type: docs
-weight: 90
+weight: 110
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Получает или задает значение, указывающее, отображается ли этот слой.
+Получает или задает значение, указывающее, отображается ли слой. Показывает всё содержимое слоя на рабочей области, если true.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` отображается ли этот слой; в противном случае,`ЛОЖЬ` .
+`true` если этот слой отображается; иначе, `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

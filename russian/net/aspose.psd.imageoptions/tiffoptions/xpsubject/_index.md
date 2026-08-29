@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPSubject
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает информацию об изображении используемом проводником Windows.
+title: "TiffOptions.XPSubject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает информацию об изображении, используемую Windows Explorer"
 type: docs
-weight: 630
+weight: 640
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xpsubject/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPSubject property
 
-Получает или задает информацию об изображении, используемом проводником Windows.
+Получает или задает информацию об изображении, используемую Проводником Windows.
 
 ```csharp
 public string XPSubject { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Информация об изображении, используемом Проводником Windows.
+Информация об изображении, используемая Windows Explorer.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

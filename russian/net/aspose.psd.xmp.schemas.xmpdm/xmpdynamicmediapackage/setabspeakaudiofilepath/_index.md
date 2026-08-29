@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает путь к файлу абсолютного пика звука.
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает абсолютный путь к пиковому аудиофайлу"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-Устанавливает путь к файлу абсолютного пика звука.
+Устанавливает абсолютный путь к файлу пикового аудио.
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
@@ -16,12 +17,12 @@ public void SetAbsPeakAudioFilePath(string uri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| uri | String | Абсолютный путь к пиковому звуковому файлу файла. |
+| uri | String | Абсолютный путь к пиковому аудиофайлу. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

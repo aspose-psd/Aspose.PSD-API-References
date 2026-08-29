@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Yellow
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantCmyk свойство. Получает или задает значение желтого компонента.
+title: "ColorantCmyk.Yellow"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantCmyk. Получает или задаёт значение жёлтого компонента"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Yellow property
 
 Получает или задает значение желтого компонента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 public float Yellow { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение желтого компонента.
+Значение жёлтого компонента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantCmyk](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

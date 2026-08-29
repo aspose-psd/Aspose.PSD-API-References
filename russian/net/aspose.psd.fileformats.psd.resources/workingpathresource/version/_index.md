@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: WorkingPathResource свойство. Получает или задает версию.
+title: "WorkingPathResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство WorkingPathResource. Получает или задает версию"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/version/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/version/
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [WorkingPathResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

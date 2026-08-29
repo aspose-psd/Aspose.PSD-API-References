@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.ReadByte
-second_title: Справочник по Aspose.PSD для .NET API
-description: StreamContainer метод. Считывает байт из потока и сдвигает позицию в потоке на один байт или возвращает 1 если в конце потока.
+title: "StreamContainer.ReadByte"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод StreamContainer. Считывает байт из потока и перемещает позицию в потоке на один байт, либо возвращает 1, если достигнут конец потока"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/streamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadByte method
 
-Считывает байт из потока и сдвигает позицию в потоке на один байт или возвращает -1, если в конце потока.
+Читает один байт из потока и перемещает позицию в потоке на один байт, или возвращает -1, если достигнут конец потока.
 
 ```csharp
 public virtual int ReadByte()
@@ -16,12 +17,12 @@ public virtual int ReadByte()
 
 ### Возвращаемое значение
 
-Байт без знака, приведенный к типу Int32, или -1, если он находится в конце потока.
+Беззнаковый байт, приведённый к типу Int32, или -1, если достигнут конец потока.
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../)
-* пространство имен [Aspose.PSD](../../streamcontainer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

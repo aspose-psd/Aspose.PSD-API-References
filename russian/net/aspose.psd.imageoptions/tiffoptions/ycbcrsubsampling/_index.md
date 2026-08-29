@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает коэффициенты субдискретизации для фотометрического YCbCr.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает коэффициенты субдискретизации для фотометрии YCbCr"
 type: docs
-weight: 670
+weight: 680
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-Получает или задает коэффициенты субдискретизации для фотометрического YCbCr.
+Получает или задает коэффициенты субдискретизации для фотометрии YCbCr.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Факторы подвыборки для фотометрического YCbCr.
+Коэффициенты субдискретизации для фотометрии YCbCr.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Недопустимая длина поля. Поле YCbCrSubsampling должно содержать два значения. |
-| ArgumentNullException | ценить |
+| ArgumentNullException | значение |
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

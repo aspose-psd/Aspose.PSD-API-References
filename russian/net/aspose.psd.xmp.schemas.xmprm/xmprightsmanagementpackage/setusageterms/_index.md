@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage метод. Устанавливает условия использования.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRightsManagementPackage. Устанавливает условия использования"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
 Устанавливает условия использования.
@@ -22,13 +23,13 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Условия использования |
+| ArgumentNullException | usageTerms |
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

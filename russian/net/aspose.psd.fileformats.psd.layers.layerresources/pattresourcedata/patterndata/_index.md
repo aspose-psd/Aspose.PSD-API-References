@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PatternData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResourceData свойство. Получает данные шаблона.
+title: "PattResourceData.PatternData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PattResourceData. Возвращает данные шаблона"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternData property
 
 Получает данные шаблона.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/p
 public int[] PatternData { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Данные шаблона.
 
-### Смотрите также
+### См. также
 
 * class [PattResourceData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen свойство. Получает или задает стиль используемый для пунктирных линий нарисованных с помощью этогоPen .
+title: "Pen.DashStyle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Pen. Получает или задаёт стиль, используемый для пунктирных линий, рисуемых этим Pen."
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-Получает или задает стиль, используемый для пунктирных линий, нарисованных с помощью этого[`Pen`](../) .
+Получает или задаёт стиль, используемый для пунктирных линий, рисуемых этим [`Pen`](../).
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А`DashStyle` который представляет стиль, используемый для пунктирных линий, нарисованных с помощью этого[`Pen`](../).
+Объект `DashStyle`, представляющий стиль, используемый для пунктирных линий, рисуемых этим [`Pen`](../).
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentException | `DashStyle` свойство установлено на неизменном[`Pen`](../) , такие как возвращенные[`Pen`](../) сорт. |
+| ArgumentException | Свойство `DashStyle` устанавливается для неизменяемого [`Pen`](../), например, возвращаемого классом [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

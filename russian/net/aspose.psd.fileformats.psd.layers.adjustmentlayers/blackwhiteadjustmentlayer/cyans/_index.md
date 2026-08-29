@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Cyans
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlackWhiteAdjustmentLayer свойство. Получает или задает значение голубого цвета.
+title: "BlackWhiteAdjustmentLayer.Cyans"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlackWhiteAdjustmentLayer. Получает или задает значение цианов"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/cyans/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Cyans property
 
-Получает или задает значение голубого цвета.
+Получает или задает значение голубого.
 
 ```csharp
 public int Cyans { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение голубого цвета.
+Значение цианов.
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как добавить черно-белый корректирующий слой во время выполнения в Aspose.PSD.
+В следующем примере показано, как можно добавить слой коррекции черно-белого изображения во время выполнения в Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-В следующем примере показано, как вы можете манипулировать свойствами корректирующего слоя «черно-белый» в Aspose.PSD.
+В следующем примере демонстрируется, как можно управлять свойствами слоя черно-белой коррекции в Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlackWhiteAdjustmentLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Справочник по Aspose.PSD для .NET API
-description: HatchBrush свойство. Получает или задает стиль штриховки этой кисти.
+title: "HatchBrush.HatchStyle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "HatchBrush свойство. Получает или задает стиль штриховки этой кисти."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
 Получает или задает стиль штриховки этой кисти.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 public HatchStyle HatchStyle { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../hatchbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

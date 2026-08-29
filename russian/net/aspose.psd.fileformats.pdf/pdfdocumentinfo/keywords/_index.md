@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfDocumentInfo свойство. Получает или задает ключевые слова документа.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PdfDocumentInfo. Получает или задает ключевые слова документа"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Keywords property
 
 Получает или задает ключевые слова документа.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 public string Keywords { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfDocumentInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

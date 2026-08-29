@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen метод. Сбрасывает матрицу геометрического преобразования для этогоPen к личности.
+title: "Pen.ResetTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Pen. Сбрасывает матрицу геометрических преобразований для этого Pen к единичной"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-Сбрасывает матрицу геометрического преобразования для этого[`Pen`](../) к личности.
+Сбрасывает матрицу геометрических преобразований для этого [`Pen`](../) к единичной.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

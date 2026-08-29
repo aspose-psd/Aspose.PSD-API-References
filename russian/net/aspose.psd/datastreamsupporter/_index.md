@@ -1,11 +1,12 @@
 ---
-title: Class DataStreamSupporter
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.DataStreamSupporter сорт. Контейнер потока данных.
+title: "Класс DataStreamSupporter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.DataStreamSupporter. Контейнер потока данных"
 type: docs
-weight: 740
+weight: 750
 url: /ru/net/aspose.psd/datastreamsupporter/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter class
 
 Контейнер потока данных.
@@ -14,29 +15,29 @@ url: /ru/net/aspose.psd/datastreamsupporter/
 public abstract class DataStreamSupporter : DisposableObject
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Получает поток данных объекта. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, удален ли этот экземпляр. |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Получает значение, указывающее, кэшируются ли в данный момент данные объекта и чтение данных не требуется. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Получает значение, указывающее, освобожден ли этот экземпляр. |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | Получает значение, указывающее, кэшированы ли данные объекта в данный момент и не требуется чтение данных. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Кэширует данные и гарантирует, что дополнительная загрузка данных не будет выполняться из базового[`DataStreamContainer`](./datastreamcontainer/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Удаляет текущий экземпляр. |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | Сохраняет данные объекта в текущий`DataStreamSupporter` . |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | Кэширует данные и гарантирует, что дополнительная загрузка данных не будет выполнена из базового [`DataStreamContainer`](./datastreamcontainer/). |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Освобождает текущий экземпляр. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | Сохраняет данные объекта в текущий `DataStreamSupporter`. |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_1)(Stream) | Сохраняет данные объекта в указанный поток. |
-| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | Сохраняет данные объекта в указанном месте файла. |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | Сохраняет данные объекта в указанном месте файла. |
+| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | Сохраняет данные объекта в указанное расположение файла. |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | Сохраняет данные объекта в указанное расположение файла. |
 
-### Смотрите также
+### См. также
 
 * class [DisposableObject](../disposableobject/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

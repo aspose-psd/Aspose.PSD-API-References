@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.IsOpen
-second_title: Справочник по Aspose.PSD для .NET API
-description: LengthRecord свойство. Получает или задает значение указывающее открыт ли этот экземпляр.
+title: "LengthRecord.IsOpen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LengthRecord. Возвращает или задает значение, указывающее, открыта ли эта запись"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsOpen property
 
 Получает или задает значение, указывающее, открыт ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/
 public bool IsOpen { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр открыт; в противном случае,`ЛОЖЬ` .
+`true`, если этот экземпляр открыт; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [LengthRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

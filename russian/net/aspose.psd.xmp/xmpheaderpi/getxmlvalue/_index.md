@@ -1,11 +1,12 @@
 ---
-title: XmpHeaderPi.GetXmlValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpHeaderPi метод. Преобразует значение XMP в представление XML.
+title: "XmpHeaderPi.GetXmlValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpHeaderPi. Преобразует значение XMP в XML-представление"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/xmpheaderpi/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.GetXmlValue method
 
 Преобразует значение XMP в представление XML.
@@ -16,12 +17,12 @@ public string GetXmlValue()
 
 ### Возвращаемое значение
 
-Возвращает значение XMP, преобразованное в представление XML.
+Возвращает значение XMP, преобразованное в XML-представление.
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

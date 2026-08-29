@@ -1,27 +1,28 @@
 ---
-title: Color.LightCyan
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает определенный системой цвет.
+title: "Color.LightCyan"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет"
 type: docs
 weight: 670
 url: /ru/net/aspose.psd/color/lightcyan/
 ---
+{{< psd/tize >}}
 ## Color.LightCyan property
 
-Получает определенный системой цвет.
+Получает системно определённый цвет.
 
 ```csharp
 public static Color LightCyan { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Color`](../) представляющий определенный системой цвет.
+Объект [`Color`](../), представляющий системно определённый цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

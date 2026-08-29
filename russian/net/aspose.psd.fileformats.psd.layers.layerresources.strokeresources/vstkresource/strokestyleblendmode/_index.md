@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает режим наложения штрихов.
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Возвращает или задает режим смешивания штриха"
 type: docs
-weight: 80
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-Получает или задает режим наложения штрихов.
+Получает или задает режим смешивания штриха.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

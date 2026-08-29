@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает количество байтов тайла.
+title: "TiffOptions.TileByteCounts"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает количество байтов плитки"
 type: docs
-weight: 520
+weight: 530
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-Получает или задает количество байтов тайла.
+Получает или задает количество байтов в плитке.
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

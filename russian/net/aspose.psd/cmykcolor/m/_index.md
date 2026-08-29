@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColor свойство. Получает значение пурпурного компонента этогоColorструктура.
+title: "CmykColor.M"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmykColor. Получает значение магентного компонента этой структуры Color"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-Получает значение пурпурного компонента этого[`Color`](../../color/)структура.
+Получает значение магентного компонента этой структуры [`Color`](../../color/).
 
 ```csharp
 public byte M { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение пурпурного компонента этого[`Color`](../../color/) .
+Значение магентного компонента этой [`Color`](../../color/).
 
-### Смотрите также
+### См. также
 
 * struct [CmykColor](../)
-* пространство имен [Aspose.PSD](../../cmykcolor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

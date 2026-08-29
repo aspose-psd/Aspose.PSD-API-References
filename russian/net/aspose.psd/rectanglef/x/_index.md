@@ -1,14 +1,15 @@
 ---
-title: RectangleF.X
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF свойство. Получает или задает xкоординату левого верхнего угла этогоRectangleFструктура.
+title: "RectangleF.X"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RectangleF. Получает или задает x‑координату верхнего левого угла этой структуры RectangleF."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/rectanglef/x/
 ---
+{{< psd/tize >}}
 ## RectangleF.X property
 
-Получает или задает x-координату левого верхнего угла этого[`RectangleF`](../)структура.
+Получает или задает x‑координату верхнего левого угла этой структуры [`RectangleF`](../).
 
 ```csharp
 public float X { get; set; }
@@ -16,12 +17,12 @@ public float X { get; set; }
 
 ### Возвращаемое значение
 
-Координата x верхнего левого угла этого[`RectangleF`](../) состав.
+X‑координата верхнего левого угла этой структуры [`RectangleF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

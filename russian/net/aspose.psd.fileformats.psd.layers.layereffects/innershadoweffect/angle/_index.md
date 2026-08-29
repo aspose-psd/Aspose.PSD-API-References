@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Справочник по Aspose.PSD для .NET API
-description: InnerShadowEffect свойство. Получает или задает угол в градусах.
+title: "InnerShadowEffect.Angle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство InnerShadowEffect. Получает или задает угол в градусах."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
 Получает или задает угол в градусах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/an
 public int Angle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Угол.
 
-### Смотрите также
+### См. также
 
 * class [InnerShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

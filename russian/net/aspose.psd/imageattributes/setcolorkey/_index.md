@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetColorKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Устанавливает ключ цвета для категории по умолчанию.
+title: "ImageAttributes.SetColorKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает цветовой ключ для категории по умолчанию."
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/imageattributes/setcolorkey/
 ---
+{{< psd/tize >}}
 ## SetColorKey(Color, Color) {#setcolorkey}
 
-Устанавливает ключ цвета для категории по умолчанию.
+Устанавливает цветовой ключ для категории по умолчанию.
 
 ```csharp
 public void SetColorKey(Color colorLow, Color colorHigh)
@@ -16,15 +17,15 @@ public void SetColorKey(Color colorLow, Color colorHigh)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorLow | Color | Низкое значение цветового ключа. |
-| colorHigh | Color | Высокое значение цветового ключа. |
+| colorLow | Color | Нижнее значение цветового ключа. |
+| colorHigh | Color | Верхнее значение цветового ключа. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,16 +39,16 @@ public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| colorLow | Color | Низкое значение цветового ключа. |
-| colorHigh | Color | Высокое значение цветового ключа. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлен цветовой ключ. |
+| colorLow | Color | Нижнее значение цветового ключа. |
+| colorHigh | Color | Верхнее значение цветового ключа. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), указывающий категорию, для которой задаётся цветовой ключ. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

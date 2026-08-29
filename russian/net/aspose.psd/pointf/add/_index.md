@@ -1,14 +1,15 @@
 ---
-title: PointF.Add
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointF метод. Переводит данноеPointF указаннымSize .
+title: "PointF.Add"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointF. Перемещает заданный PointF на указанный Size"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Переводит данное[`PointF`](../) указанным[`Size`](../../size/) .
+Перемещает заданный [`PointF`](../) на указанный [`Size`](../../size/).
 
 ```csharp
 public static PointF Add(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF Add(PointF point, Size size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) переводить. |
-| size | Size | [`Size`](../../size/) который указывает числа, которые нужно добавить к координатам*point*. |
+| point | PointF | [`PointF`](../), который нужно переместить. |
+| size | Size | [`Size`](../../size/), определяющий числа, добавляемые к координатам *point*. |
 
 ### Возвращаемое значение
 
-переведенный[`PointF`](../).
+Перемещённый [`PointF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Переводит данное[`PointF`](../) по указанному[`SizeF`](../../sizef/) .
+Перемещает заданный [`PointF`](../) на указанный [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF Add(PointF point, SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) переводить. |
-| size | SizeF | [`SizeF`](../../sizef/) который указывает числа, которые нужно добавить к координатам*point*. |
+| point | PointF | [`PointF`](../), который нужно переместить. |
+| size | SizeF | [`SizeF`](../../sizef/), определяющий числа, добавляемые к координатам *point*. |
 
 ### Возвращаемое значение
 
-переведенный[`PointF`](../).
+Перемещённый [`PointF`](../).
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* пространство имен [Aspose.PSD](../../pointf/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

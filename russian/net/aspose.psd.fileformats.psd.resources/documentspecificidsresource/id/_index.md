@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Справочник по Aspose.PSD для .NET API
-description: DocumentSpecificIdsResource свойство. Получает или задает идентификатор.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DocumentSpecificIdsResource. Получает или задает идентификатор"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
 Получает или задает идентификатор.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id
 public int Id { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор.
 
-### Смотрите также
+### См. также
 
 * class [DocumentSpecificIdsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

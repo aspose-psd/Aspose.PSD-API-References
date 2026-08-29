@@ -1,22 +1,23 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: VogkResource свойство. Получает или задает параметры исходной точки формы.
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VogkResource property. Получает или задает настройки происхождения формы"
 type: docs
-weight: 50
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
-Получает или задает параметры исходной точки формы.
+Получает или задает настройки происхождения формы.
 
 ```csharp
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса VogkResource.
+Следующий пример демонстрирует поддержку ресурса VogkResource.
 
 ```csharp
 [C#]
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

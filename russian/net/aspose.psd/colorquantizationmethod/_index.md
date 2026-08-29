@@ -1,11 +1,12 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ColorQuantizationMethod перечисление. Методы квантования цветов
+title: "Перечисление ColorQuantizationMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.ColorQuantizationMethod. Методы квантования цветов"
 type: docs
 weight: 390
 url: /ru/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
 Методы квантования цветов
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd/colorquantizationmethod/
 public enum ColorQuantizationMethod
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| None | `0` | Ничего не используется, метод квантования цвета |
+| None | `0` | Не используется метод квантования цветов |
 | Popularity | `1` | Метод популярности |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

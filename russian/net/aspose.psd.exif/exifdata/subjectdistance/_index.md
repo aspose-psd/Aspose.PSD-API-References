@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает расстояние до объекта.
+title: "ExifData.SubjectDistance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает расстояние до объекта"
 type: docs
 weight: 1000
 url: /ru/net/aspose.psd.exif/exifdata/subjectdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistance property
 
 Получает или задает расстояние до объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/subjectdistance/
 public TiffRational SubjectDistance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Расстояние до объекта.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

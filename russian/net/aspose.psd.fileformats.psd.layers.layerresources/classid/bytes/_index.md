@@ -1,23 +1,24 @@
 ---
-title: ClassID.Bytes
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassID свойство. Получает байты представляющие ID класса.
+title: "ClassID.Bytes"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClassID. Возвращает байты, представляющие идентификатор класса"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
-Получает байты, представляющие ID класса.
+Получает байты, представляющие идентификатор класса.
 
 ```csharp
 public byte[] Bytes { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

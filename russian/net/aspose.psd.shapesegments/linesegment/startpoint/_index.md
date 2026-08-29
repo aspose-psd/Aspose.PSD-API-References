@@ -1,28 +1,29 @@
 ---
-title: LineSegment.StartPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: LineSegment свойство. Получает начальную точку.
+title: "LineSegment.StartPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LineSegment. Возвращает начальную точку"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.shapesegments/linesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.StartPoint property
 
-Получает начальную точку.
+Возвращает начальную точку.
 
 ```csharp
 public override PointF StartPoint { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Отправная точка.
+Начальная точка.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* пространство имен [Aspose.PSD.ShapeSegments](../../linesegment/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

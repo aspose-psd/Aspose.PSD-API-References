@@ -1,27 +1,28 @@
 ---
-title: Image.BitsPerPixel
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает количество бит изображения на пиксель.
+title: "Image.BitsPerPixel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Возвращает количество бит на пиксель изображения"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/image/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Image.BitsPerPixel property
 
-Получает количество бит изображения на пиксель.
+Получает количество бит на пиксель изображения.
 
 ```csharp
 public abstract int BitsPerPixel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество бит изображения на пиксель.
+Количество бит на пиксель изображения.
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPalette метод. Копирует палитру.
+title: "ColorPalette.CopyPalette"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorPalette. Копирует палитру"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Копирует палитру.
@@ -17,18 +18,18 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompa
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Цветовая палитра. |
-| useCompactPalette | Boolean | Указание на компактность палитры. |
+| useCompactPalette | Boolean | Указывает, является ли палитра компактной. |
 
 ### Возвращаемое значение
 
-Вновь созданная и скопированная палитра или нуль, если нулевая палитра передана.
+Новосозданная и скопированная палитра или null, если передана пустая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -46,13 +47,13 @@ public static ColorPalette CopyPalette(IColorPalette colorPalette)
 
 ### Возвращаемое значение
 
-Вновь созданная и скопированная палитра или нуль, если нулевая палитра передана.
+Новосозданная и скопированная палитра или null, если передана пустая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneXResolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает разрешение x фокальной плоскости.
+title: "ExifData.FocalPlaneXResolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает разрешение по оси X фокусной плоскости"
 type: docs
 weight: 320
 url: /ru/net/aspose.psd.exif/exifdata/focalplanexresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneXResolution property
 
-Получает или задает разрешение x фокальной плоскости.
+Получает или задает разрешение фокальной плоскости по оси X.
 
 ```csharp
 public TiffRational FocalPlaneXResolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Фокальная плоскость x разрешение.
+Разрешение по оси x в фокальной плоскости.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

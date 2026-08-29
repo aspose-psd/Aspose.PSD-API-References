@@ -1,27 +1,28 @@
 ---
-title: PhflResource.PreserveLuminosity
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResource свойство. Получает или задает значение указывающее сохранять яркость.
+title: "PhflResource.PreserveLuminosity"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResource. Получает или задает значение, указывающее, сохранять ли яркость"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhflResource.PreserveLuminosity property
 
-Получает или задает значение, указывающее, [сохранять яркость].
+Получает или задает значение, указывающее, следует ли [preserve luminosity].
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [сохранить светимость]; в противном случае,`ЛОЖЬ` .
+`true`, если [preserve luminosity]; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PhflResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

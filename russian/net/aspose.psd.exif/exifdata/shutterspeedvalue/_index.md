@@ -1,28 +1,29 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает значение скорости затвора.
+title: "ExifData.ShutterSpeedValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение выдержки"
 type: docs
 weight: 950
 url: /ru/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
-Получает или устанавливает значение скорости затвора.
+Получает или задает значение скорости затвора.
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение скорости затвора.
+Значение скорости выдержки.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

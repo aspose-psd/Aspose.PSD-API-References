@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetIccProfile
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhotoshopPackage метод. Устанавливает профиль icc.
+title: "PhotoshopPackage.SetIccProfile"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PhotoshopPackage. Устанавливает icc‑профиль"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetIccProfile method
 
-Устанавливает профиль icc.
+Устанавливает ICC‑профиль.
 
 ```csharp
 public void SetIccProfile(string iccProfile)
@@ -16,12 +17,12 @@ public void SetIccProfile(string iccProfile)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| iccProfile | String | Профиль icc. |
+| iccProfile | String | Профиль ICC. |
 
-### Смотрите также
+### См. также
 
 * class [PhotoshopPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum TiffCompressions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffCompressions перечисление. Содержит типы сжатия
+title: "Перечисление TiffCompressions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffCompressions enum. Содержит типы сжатия."
 type: docs
-weight: 4050
+weight: 4520
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffcompressions/
 ---
+{{< psd/tize >}}
 ## TiffCompressions enumeration
 
 Содержит типы сжатия
@@ -14,38 +15,38 @@ url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffcompressions/
 public enum TiffCompressions : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | None | `1` | Режим дампа. |
-| CcittRle | `2` | CCITT изменил RLE Хаффмана. |
-| CcittFax3 | `3` | Кодировка факса CCITT Group 3. |
-| CcittFax4 | `4` | Кодировка факса CCITT Group 4. |
-| Lzw | `5` | Лемпель-Зив и Уэлч. |
-| Ojpeg | `6` | Оригинальный JPEG / JPEG в старом стиле (6.0). |
-| Jpeg | `7` | Сжатие JPEG DCT. Представлен пост TIFF rev 6.0. |
-| Next | `32766` | Следующий 2-битный RLE. |
+| CcittRle | `2` | CCITT модифицированный Huffman RLE. |
+| CcittFax3 | `3` | CCITT Group 3 кодирование факса. |
+| CcittFax4 | `4` | CCITT Group 4 кодирование факса. |
+| Lzw | `5` | Lempel-Ziv &amp; Welch. |
+| Ojpeg | `6` | Оригинальный JPEG / JPEG старого стиля (6.0). |
+| Jpeg | `7` | Сжатие JPEG DCT. Введено после версии TIFF 6.0. |
+| Next | `32766` | NeXT 2-битный RLE. |
 | CcittRleW | `32771` | CCITT RLE. |
 | Packbits | `32773` | Macintosh RLE. |
 | Thunderscan | `32809` | ThunderScan RLE. |
-| It8Ctpad | `32895` | IT8 CT с прокладкой. Зарезервировано для ANSI IT8 TIFF/IT. |
+| It8Ctpad | `32895` | IT8 CT с заполнением. Зарезервировано для ANSI IT8 TIFF/IT. |
 | It8Lw | `32896` | IT8 Linework RLE. Зарезервировано для ANSI IT8 TIFF/IT. |
-| It8Mp | `32897` | IT8 Монохромное изображение. Зарезервировано для ANSI IT8 TIFF/IT. |
-| It8Bl | `32898` | IT8 Двоичный штриховой рисунок. Зарезервировано для ANSI IT8 TIFF/IT. |
-| PixarFilm | `32908` | Компандированный 10-битный LZW Pixar. Зарезервировано для Pixar. |
-| PixarLog | `32909` | Компандированный 11-битный ZIP-файл Pixar. Зарезервировано для Pixar. |
-| Deflate | `32946` | Сжатие выкачки. |
-| AdobeDeflate | `8` | Сжатие Deflate, признанное Adobe. |
-| Dcs | `32947` | Кодировка Kodak DCS. Зарезервировано для Oceana Matrix |
-| Jbig | `34661` | ISO JPEG большой. |
-| Sgilog | `34676` | Яркость журнала SGI RLE. |
-| Sgilog24 | `34677` | 24-битный упакованный журнал SGI. |
+| It8Mp | `32897` | IT8 Monochrome picture. Зарезервировано для ANSI IT8 TIFF/IT. |
+| It8Bl | `32898` | IT8 Binary line art. Зарезервировано для ANSI IT8 TIFF/IT. |
+| PixarFilm | `32908` | Pixar сжатый 10‑битный LZW. Зарезервировано для Pixar. |
+| PixarLog | `32909` | Pixar сжатый 11‑битный ZIP. Зарезервировано для Pixar. |
+| Deflate | `32946` | Сжатие Deflate. |
+| AdobeDeflate | `8` | Сжатие Deflate, как признано Adobe. |
+| Dcs | `32947` | Кодирование Kodak DCS. Зарезервировано для Oceana Matrix |
+| Jbig | `34661` | ISO Jpeg большой. |
+| Sgilog | `34676` | SGI Log Luminance RLE. |
+| Sgilog24 | `34677` | SGI Log 24‑битный упакованный. |
 | Jp2000 | `34712` | Leadtools JPEG2000. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

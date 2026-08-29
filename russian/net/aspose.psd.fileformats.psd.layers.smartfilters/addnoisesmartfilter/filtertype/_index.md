@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.FilterType
-second_title: Справочник по Aspose.PSD для .NET API
-description: AddNoiseSmartFilter поле. Идентификатор текущего смартфильтра.
+title: "AddNoiseSmartFilter.FilterType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AddNoiseSmartFilter поле. Идентификатор текущего умного фильтра"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterType field
 
-Идентификатор текущего смарт-фильтра.
+Идентификатор текущего умного фильтра.
 
 ```csharp
 public const int FilterType;
 ```
 
-### Смотрите также
+### См. также
 
 * class [AddNoiseSmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

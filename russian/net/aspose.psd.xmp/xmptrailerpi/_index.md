@@ -1,11 +1,12 @@
 ---
-title: Class XmpTrailerPi
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.XmpTrailerPi сорт. Представляет инструкцию обработки трейлера XMP.
+title: "Класс XmpTrailerPi"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.XmpTrailerPi. Представляет инструкцию обработки трейлера XMP"
 type: docs
-weight: 6310
+weight: 6810
 url: /ru/net/aspose.psd.xmp/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi class
 
 Представляет инструкцию обработки трейлера XMP.
@@ -18,36 +19,36 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 | Имя | Описание |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi/#constructor)() | Инициализирует новый экземпляр`XmpTrailerPi` класс. |
-| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Инициализирует новый экземпляр`XmpTrailerPi` класс. |
+| [XmpTrailerPi](xmptrailerpi/#constructor)() | Инициализирует новый экземпляр класса `XmpTrailerPi`. |
+| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Инициализирует новый экземпляр класса `XmpTrailerPi`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Получает или задает значение, указывающее, доступен ли этот экземпляр для записи. |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Получает или задаёт значение, указывающее, доступен ли этот экземпляр для записи. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Определяет, равен ли указанный объект этому экземпляру. |
 | [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Указывает, равен ли текущий объект другому объекту того же типа. |
-| override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
+| override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Возвращает хеш‑код для этого экземпляра. |
 | [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue/)() | Преобразует значение xmp в представление xml. |
 
-### Примечания
+## Примечания
 
-Часть end="w" или end="r" должна использоваться процессорами сканирования пакетов для определения возможности изменения XMP на месте.
+Часть end=\"w\" или end=\"r\" должна использоваться процессорами сканирования пакетов для определения, может ли XMP быть изменён на месте.
 
-### Примеры
+## Примеры
 
-Разрешенные формы трейлера PI:
+Допустимые формы трейлерного PI:
 
-### Смотрите также
+### См. также
 
 * interface [IXmlValue](../ixmlvalue/)
-* пространство имен [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает высоту прямоугольника.
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleProjectedShape свойство. Получает высоту прямоугольника"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
 Получает высоту прямоугольника.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 public double RectangleHeight { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота прямоугольника.
 
-### Смотрите также
+### См. также
 
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

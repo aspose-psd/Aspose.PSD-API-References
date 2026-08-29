@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает биты на выборку.
+title: "TiffOptions.BitsPerSample"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает биты на образец"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-Получает или устанавливает биты на выборку.
+Получает или задает количество бит на образец.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Количество битов на значение выборки.
+Значение битов на образец.
 
-### Примечания
+## Примечания
 
-При установке этого значения имейте в виду, что оно также установит значение SamplesPerPixel равным длине массива. Эти два свойства очень тесно связаны, поэтому их можно установить только вместе.
+При установке этого значения имейте в виду, что также будет установлено значение SamplesPerPixel, равное длине массива. Эти два свойства сильно связаны, поэтому их можно задавать только вместе.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Height
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает высоту эскиза в пикселях.
+title: "ThumbnailResource.Height"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает высоту миниатюры в пикселях"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/height/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Height property
 
-Получает или задает высоту эскиза в пикселях.
+Получает или задает высоту миниатюры в пикселях.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Высота миниатюры.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

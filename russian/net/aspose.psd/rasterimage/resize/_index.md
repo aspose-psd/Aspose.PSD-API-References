@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Resize
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Изменяет размер изображения.
+title: "RasterImage.Resize"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Изменяет размер изображения"
 type: docs
-weight: 470
+weight: 480
 url: /ru/net/aspose.psd/rasterimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Изменяет размер изображения.
@@ -20,12 +21,12 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | newHeight | Int32 | Новая высота. |
 | resizeType | ResizeType | Тип изменения размера. |
 
-### Смотрите также
+### См. также
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,13 +42,13 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Новая ширина. |
 | newHeight | Int32 | Новая высота. |
-| settings | ImageResizeSettings | Настройки изменения размера. |
+| настройки | ImageResizeSettings | Настройки изменения размера. |
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

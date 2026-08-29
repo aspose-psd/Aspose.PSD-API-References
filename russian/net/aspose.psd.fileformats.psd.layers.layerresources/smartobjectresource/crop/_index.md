@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает обрезку данных слоя смартобъекта в изображении PSD.
+title: "SmartObjectResource.Crop"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает обрезку данных слоя умного объекта в изображении PSD."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-Получает или задает обрезку данных слоя смарт-объекта в изображении PSD.
+Получает или задает обрезку данных слоя Smart Object в изображении PSD.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение обрезки размещенной информации о слое.
+Значение обрезки информации о размещённом слое.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

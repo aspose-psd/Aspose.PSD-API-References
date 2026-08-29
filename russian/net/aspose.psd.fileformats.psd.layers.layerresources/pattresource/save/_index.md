@@ -1,14 +1,15 @@
 ---
-title: PattResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: PattResource метод. Сохраняет данные блока ресурсов.
+title: "PattResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PattResource метод. Сохраняет данные блока ресурса"
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/
 ---
+{{< psd/tize >}}
 ## PattResource.Save method
 
-Сохраняет данные блока ресурсов.
+Сохраняет данные блока ресурса.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

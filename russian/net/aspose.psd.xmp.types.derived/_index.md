@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.Xmp.Types.Derived
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит классы представляющие значения производных типов свойств XMP.
+title: "Aspose.PSD.Xmp.Types.Derived"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Это пространство имён содержит классы, представляющие значения производных типов свойств XMP."
 type: docs
-weight: 700
+weight: 740
 url: /ru/net/aspose.psd.xmp.types.derived/
 ---
+{{< psd/tize >}}
 Пространство имен содержит классы, представляющие значения производных типов свойств XMP.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [Rational](./rational/) | Представляет XMP Rational. |
-| [RenditionClass](./renditionclass/) | Представляет представление XMP. |
-| [XmpAgentName](./xmpagentname/) | Представляет имя агента, организацию программного обеспечения и т. д. |
+| [RenditionClass](./renditionclass/) | Представляет XMP Rendition. |
+| [XmpAgentName](./xmpagentname/) | Представляет имя агента, организацию программного обеспечения и т.д. |
 | [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Представляет значение из словаря значений. |
 | [XmpGuid](./xmpguid/) | Представляет глобальный уникальный идентификатор XMP. |
 | [XmpLocale](./xmplocale/) | Представляет код языка. |

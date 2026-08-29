@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: PrintScaleResource свойство. Получает или задает масштаб.
+title: "PrintScaleResource.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PrintScaleResource property. Получает или задает масштаб"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
 Получает или задает масштаб.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 public float Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
-### Смотрите также
+### См. также
 
 * class [PrintScaleResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

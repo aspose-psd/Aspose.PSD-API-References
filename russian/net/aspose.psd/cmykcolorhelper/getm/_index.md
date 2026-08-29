@@ -1,14 +1,15 @@
 ---
-title: CmykColorHelper.GetM
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColorHelper метод. Получает значение пурпурного компонента.
+title: "CmykColorHelper.GetM"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CmykColorHelper. Получает значение компоненты магенты"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/cmykcolorhelper/getm/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetM method
 
-Получает значение пурпурного компонента.
+Получает значение компоненты мадженты.
 
 ```csharp
 public static int GetM(int cmyk)
@@ -16,16 +17,16 @@ public static int GetM(int cmyk)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cmyk | Int32 | Цвет CMYK представлен в виде 32-битного целого числа. |
+| cmyk | Int32 | Цвет CMYK представлен в виде 32‑битного целочисленного значения. |
 
 ### Возвращаемое значение
 
-Значение пурпурного компонента.
+Значение компонента мажента.
 
-### Смотрите также
+### См. также
 
 * class [CmykColorHelper](../)
-* пространство имен [Aspose.PSD](../../cmykcolorhelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

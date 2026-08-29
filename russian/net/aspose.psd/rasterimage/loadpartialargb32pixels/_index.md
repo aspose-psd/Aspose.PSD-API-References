@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadPartialArgb32Pixels
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Загружает 32битные пиксели ARGB частично по пакетам.
+title: "RasterImage.LoadPartialArgb32Pixels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Частично загружает 32‑битные ARGB‑пиксели пакетами"
 type: docs
-weight: 380
+weight: 390
 url: /ru/net/aspose.psd/rasterimage/loadpartialargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialArgb32Pixels method
 
-Загружает 32-битные пиксели ARGB частично по пакетам.
+Частично загружает 32‑битные ARGB‑пиксели пакетами.
 
 ```csharp
 public void LoadPartialArgb32Pixels(Rectangle rectangle, 
@@ -17,15 +18,15 @@ public void LoadPartialArgb32Pixels(Rectangle rectangle,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Желаемый прямоугольник. |
-| partialPixelLoader | IPartialArgb32PixelLoader | 32-битный загрузчик пикселей ARGB. |
+| прямоугольник | Rectangle | Желаемый прямоугольник. |
+| partialPixelLoader | IPartialArgb32PixelLoader | 32‑битный загрузчик ARGB‑пикселей. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SizeF.op_Inequality
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF метод. Проверяет являются ли дваSizeF структуры разные.
+title: "SizeF.op_Inequality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод SizeF. Проверяет, различаются ли две структуры SizeF"
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-Проверяет, являются ли два[`SizeF`](../) структуры разные.
+Проверяет, различаются ли две структуры [`SizeF`](../).
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static bool operator !=(SizeF size1, SizeF size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | SizeF | [`SizeF`](../) структура слева от оператора неравенства. |
-| size2 | SizeF | [`SizeF`](../) структура справа от оператора неравенства. |
+| size1 | SizeF | Структура [`SizeF`](../) слева от оператора неравенства. |
+| size2 | SizeF | Структура [`SizeF`](../) справа от оператора неравенства. |
 
 ### Возвращаемое значение
 
-Этот оператор возвращает true, если*size1* и*size2* отличаются либо шириной, либо высотой; ложно, если*size1* и*size2* равны.
+Этот оператор возвращает true, если *size1* и *size2* различаются по ширине или высоте; false, если *size1* и *size2* равны.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

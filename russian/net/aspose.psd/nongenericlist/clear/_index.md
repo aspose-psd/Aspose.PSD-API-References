@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Clear
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Удаляет все элементы изIList .
+title: "NonGenericList.Clear"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Удаляет все элементы из IList"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd/nongenericlist/clear/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Clear method
 
-Удаляет все элементы изIList .
+Удаляет все элементы из IList.
 
 ```csharp
 public void Clear()
 ```
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

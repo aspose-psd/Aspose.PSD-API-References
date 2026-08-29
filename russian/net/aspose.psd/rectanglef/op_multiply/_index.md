@@ -1,11 +1,12 @@
 ---
-title: RectangleF.op_Multiply
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF метод. Реализует оператор .
+title: "RectangleF.op_Multiply"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RectangleF. Реализует оператор"
 type: docs
 weight: 300
 url: /ru/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
 Реализует оператор *.
@@ -16,17 +17,17 @@ public static RectangleF operator *(RectangleF rectangle, float multiplier)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Прямоугольник. |
-| multiplier | Single | Множитель. |
+| прямоугольник | RectangleF | Прямоугольник. |
+| множитель | Single | Множитель. |
 
 ### Возвращаемое значение
 
 Результат оператора.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: CmlsResource.TypeToolKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmlsResource поле. Информационный ключ типа инструмента.
+title: "CmlsResource.TypeToolKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле CmlsResource. Ключ информации о типе инструмента"
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CmlsResource.TypeToolKey field
 
-Информационный ключ типа инструмента.
+Ключ информации о типе инструмента.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [CmlsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

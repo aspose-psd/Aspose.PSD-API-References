@@ -1,27 +1,28 @@
 ---
-title: Blend.Positions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Blend свойство. Получает или задает массив позиций перехода для градиента.
+title: "Blend.Positions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Blend. Получает или задает массив позиций смешения для градиента"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/blend/positions/
 ---
+{{< psd/tize >}}
 ## Blend.Positions property
 
-Получает или задает массив позиций перехода для градиента.
+Получает или задает массив позиций смешивания для градиента.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Массив позиций перехода, указывающих проценты расстояния вдоль линии градиента.
+Массив позиций смешения, определяющих процентное расстояние вдоль линии градиента.
 
-### Смотрите также
+### См. также
 
 * class [Blend](../)
-* пространство имен [Aspose.PSD](../../blend/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

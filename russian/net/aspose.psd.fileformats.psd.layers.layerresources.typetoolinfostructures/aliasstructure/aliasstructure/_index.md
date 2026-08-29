@@ -1,14 +1,15 @@
 ---
-title: AliasStructure.AliasStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: AliasStructure строитель. Инициализирует новый экземплярAliasStructure класс.
+title: "AliasStructure.AliasStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор AliasStructure. Инициализирует новый экземпляр класса AliasStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure constructor
 
-Инициализирует новый экземпляр[`AliasStructure`](../) класс.
+Инициализирует новый экземпляр класса [`AliasStructure`](../).
 
 ```csharp
 public AliasStructure(ClassID keyName)
@@ -16,13 +17,13 @@ public AliasStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [AliasStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

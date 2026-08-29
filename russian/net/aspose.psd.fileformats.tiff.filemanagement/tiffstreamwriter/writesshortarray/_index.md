@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSShortArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток массив коротких значений.
+title: "TiffStreamWriter.WriteSShortArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает массив значений типа short в поток"
 type: docs
 weight: 180
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShortArray method
 
-Записывает в поток массив коротких значений.
+Записывает массив коротких целых значений в поток.
 
 ```csharp
 public void WriteSShortArray(short[] data)
@@ -16,12 +17,12 @@ public void WriteSShortArray(short[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Int16[] | Массив для записи. |
+| данные | Int16[] | Массив для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

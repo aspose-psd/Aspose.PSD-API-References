@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta строитель. Инициализирует новый экземплярXmpMeta класс.
+title: "XmpMeta.XmpMeta"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpMeta. Инициализирует новый экземпляр класса XmpMeta"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpMeta`](../) класс.
+Инициализирует новый экземпляр класса [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta(string toolkitVersion)
@@ -16,28 +17,28 @@ public XmpMeta(string toolkitVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| toolkitVersion | String | Версия инструментария Adobe XMP. |
+| toolkitVersion | String | Версия набора инструментов Adobe XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-Инициализирует новый экземпляр[`XmpMeta`](../) класс.
+Инициализирует новый экземпляр класса [`XmpMeta`](../).
 
 ```csharp
 public XmpMeta()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

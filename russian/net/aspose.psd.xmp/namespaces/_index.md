@@ -1,11 +1,12 @@
 ---
-title: Class Namespaces
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Namespaces сорт. Содержит пространства имен используемые в документе RDF.
+title: "Класс Namespaces"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Namespaces class. Содержит пространства имён, используемые в документе RDF"
 type: docs
-weight: 5770
+weight: 6270
 url: /ru/net/aspose.psd.xmp/namespaces/
 ---
+{{< psd/tize >}}
 ## Namespaces class
 
 Содержит пространства имен, используемые в документе RDF.
@@ -18,26 +19,26 @@ public static class Namespaces
 
 | Имя | Описание |
 | --- | --- |
-| const [DublinCore](../../aspose.psd.xmp/namespaces/dublincore/) | Пространство имен дублированного ядра. |
-| const [Pdf](../../aspose.psd.xmp/namespaces/pdf/) | Пространство имен Adobe PDF. |
-| const [Photoshop](../../aspose.psd.xmp/namespaces/photoshop/) | пространство имен Adobe Photoshop. |
-| const [Rdf](../../aspose.psd.xmp/namespaces/rdf/) | Пространство имен структуры определения ресурсов. |
-| const [Xml](../../aspose.psd.xmp/namespaces/xml/) | Пространство имен XML. |
-| const [XmpBasic](../../aspose.psd.xmp/namespaces/xmpbasic/) | Базовое пространство имен XMP. |
-| const [XmpDm](../../aspose.psd.xmp/namespaces/xmpdm/) | Пространство имен динамических носителей XMP. |
-| const [XmpGraphics](../../aspose.psd.xmp/namespaces/xmpgraphics/) | Пространство имен графики XMP. |
-| const [XmpGraphicsThumbnail](../../aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/) | Пространство имен графики XMP. |
-| const [XmpMm](../../aspose.psd.xmp/namespaces/xmpmm/) | Пространство имен управления цифровыми активами XMP. |
-| const [XmpRights](../../aspose.psd.xmp/namespaces/xmprights/) | Пространство имен управления правами XMP. |
-| const [XmpTypeDimensions](../../aspose.psd.xmp/namespaces/xmptypedimensions/) | Тип размеров XMP. |
-| const [XmpTypeFont](../../aspose.psd.xmp/namespaces/xmptypefont/) | Тип шрифта XMP. |
-| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent/) | URI события ресурса XMP. |
-| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref/) | URI ссылки на ресурс XMP. |
+| const [DublinCore](../../aspose.psd.xmp/namespaces/dublincore/) | Пространство имён Dublic Core. |
+| const [Pdf](../../aspose.psd.xmp/namespaces/pdf/) | Пространство имён Adobe PDF. |
+| const [Photoshop](../../aspose.psd.xmp/namespaces/photoshop/) | Пространство имён Adobe Photoshop. |
+| const [Rdf](../../aspose.psd.xmp/namespaces/rdf/) | Пространство имён Resource definition framework. |
+| const [Xml](../../aspose.psd.xmp/namespaces/xml/) | Пространство имён Xml. |
+| const [XmpBasic](../../aspose.psd.xmp/namespaces/xmpbasic/) | Пространство имён XMP Basic. |
+| const [XmpDm](../../aspose.psd.xmp/namespaces/xmpdm/) | Пространство имён XMP Dynamic Media. |
+| const [XmpGraphics](../../aspose.psd.xmp/namespaces/xmpgraphics/) | Пространство имён XMP graphics. |
+| const [XmpGraphicsThumbnail](../../aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/) | Пространство имён XMP graphics. |
+| const [XmpMm](../../aspose.psd.xmp/namespaces/xmpmm/) | Пространство имён XMP digital asset management. |
+| const [XmpRights](../../aspose.psd.xmp/namespaces/xmprights/) | Пространство имён XMP Rights Management. |
+| const [XmpTypeDimensions](../../aspose.psd.xmp/namespaces/xmptypedimensions/) | Тип XMP Dimensions. |
+| const [XmpTypeFont](../../aspose.psd.xmp/namespaces/xmptypefont/) | Тип XMP Font. |
+| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent/) | URI XMP ResourceEvent. |
+| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref/) | URI XMP ResourceRef. |
 | const [XmpTypeVersion](../../aspose.psd.xmp/namespaces/xmptypeversion/) | Версия XMP. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

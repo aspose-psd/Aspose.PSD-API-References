@@ -1,14 +1,15 @@
 ---
-title: LangAlt.LangAlt
-second_title: Справочник по Aspose.PSD для .NET API
-description: LangAlt строитель. Инициализирует новый экземплярLangAlt класс.
+title: "LangAlt.LangAlt"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор LangAlt. Инициализирует новый экземпляр класса LangAlt"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`LangAlt`](../) класс.
+Инициализирует новый экземпляр класса [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
@@ -18,26 +19,26 @@ public LangAlt(string defaultValue)
 | --- | --- | --- |
 | defaultValue | String | Значение по умолчанию. |
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../)
-* пространство имен [Aspose.PSD.Xmp](../../langalt/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Инициализирует новый экземпляр[`LangAlt`](../) класс.
+Инициализирует новый экземпляр класса [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
 ```
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../)
-* пространство имен [Aspose.PSD.Xmp](../../langalt/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

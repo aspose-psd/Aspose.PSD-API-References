@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает значение указывающее содержит ли первый альфаканал данные прозрачности для объединенного результата при указании данных слоев.
+title: "PsdImage.HasTransparencyData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задаёт значение, указывающее, содержит ли первый альфа‑канал данные о прозрачности для объединённого результата при указании данных слоёв"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-Получает или задает значение, указывающее, содержит ли первый альфа-канал данные прозрачности для объединенного результата при указании данных слоев.
+Получает или задает значение, указывающее, содержит ли первый альфа‑канал данные прозрачности для объединённого результата при указании данных слоёв.
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если первый альфа-канал содержит данные прозрачности для объединенного результата при указании данных слоев; в противном случае,`ЛОЖЬ` .
+`true`, если первый альфа‑канал содержит данные о прозрачности для объединённого результата при указании данных слоёв; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

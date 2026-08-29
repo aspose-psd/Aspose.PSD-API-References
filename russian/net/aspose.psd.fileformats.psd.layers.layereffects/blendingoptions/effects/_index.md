@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions свойство. Получает эффекты.
+title: "BlendingOptions.Effects"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlendingOptions. Получает эффекты"
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
 Получает эффекты.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Эффекты.
 
-### Смотрите также
+### См. также
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

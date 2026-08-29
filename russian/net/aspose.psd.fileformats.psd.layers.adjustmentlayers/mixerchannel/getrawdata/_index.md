@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.GetRawData
-second_title: Справочник по Aspose.PSD для .NET API
-description: MixerChannel метод. Получает необработанные данные.
+title: "MixerChannel.GetRawData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MixerChannel метод. Получает необработанные данные"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
 Получает необработанные данные.
@@ -16,12 +17,12 @@ public byte[] GetRawData()
 
 ### Возвращаемое значение
 
-Необработанные байтовые данные
+Сырые байтовые данные
 
-### Смотрите также
+### См. также
 
 * class [MixerChannel](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

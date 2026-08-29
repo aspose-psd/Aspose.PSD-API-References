@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Title
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или устанавливает заголовок.
+title: "AiHeader.Title"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает заголовок."
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
-Получает или устанавливает заголовок.
+Получает или задает заголовок.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Название.
+Заголовок.
 
-### Смотрите также
+### См. также
 
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

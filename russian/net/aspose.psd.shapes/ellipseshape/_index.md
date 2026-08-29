@@ -1,11 +1,12 @@
 ---
-title: Class EllipseShape
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Shapes.EllipseShape сорт. Представляет форму эллипса.
+title: "Класс EllipseShape"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Shapes.EllipseShape класс. Представляет форму эллипса"
 type: docs
-weight: 5490
+weight: 5990
 url: /ru/net/aspose.psd.shapes/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape class
 
 Представляет форму эллипса.
@@ -18,23 +19,23 @@ public class EllipseShape : RectangleShape
 
 | Имя | Описание |
 | --- | --- |
-| [EllipseShape](ellipseshape/#constructor)() | Инициализирует новый экземпляр`EllipseShape` класс. |
-| [EllipseShape](ellipseshape/#constructor_1)(RectangleF) | Инициализирует новый экземпляр`EllipseShape` класс. |
+| [EllipseShape](ellipseshape/#constructor)() | Инициализирует новый экземпляр класса `EllipseShape`. |
+| [EllipseShape](ellipseshape/#constructor_1)(RectangleF) | Инициализирует новый экземпляр класса `EllipseShape`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Получает границы объекта. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Получает центр фигуры. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Получает значение, указывающее, есть ли у фигуры сегменты. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего прямоугольника. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает левую верхнюю точку прямоугольника. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Получает центр формы. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Получает значение, указывающее, имеет ли форма сегменты. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Получает точку левого нижнего угла прямоугольника. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Получает точку левого верхнего угла прямоугольника. |
 | [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Получает высоту прямоугольника. |
 | [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Получает ширину прямоугольника. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает правую нижнюю точку прямоугольника. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает правую верхнюю точку прямоугольника. |
-| override [Segments](../../aspose.psd.shapes/ellipseshape/segments/) { get; } | Получает сегменты формы. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Получает точку правого нижнего угла прямоугольника. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Получает точку правого верхнего угла прямоугольника. |
+| override [Segments](../../aspose.psd.shapes/ellipseshape/segments/) { get; } | Получает сегменты фигуры. |
 
 ## Методы
 
@@ -44,58 +45,58 @@ public class EllipseShape : RectangleShape
 | override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/)(Matrix, Pen) | Получает границы объекта. |
 | override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Применяет указанное преобразование к фигуре. |
 
-### Примеры
+## Примеры
 
-В этом примере создается новое изображение и рисуются различные фигуры с помощью Figures и GraphicsPath на поверхности изображения.
+В этом примере создаётся новое изображение и рисуются различные фигуры с использованием Figures и GraphicsPath на поверхности изображения
 
 ```csharp
 [C#]
 
-//Создаем экземпляр изображения
+//Создайте экземпляр Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Создаем и инициализируем экземпляр класса Graphics
+    //Создайте и инициализируйте экземпляр класса Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Очистить графическую поверхность
+    //Очистить поверхность Graphics
     graphics.Clear(Color.Wheat);
 
-    //Создаем экземпляр класса GraphicsPath
+    //Создайте экземпляр класса GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    //Создаем экземпляр класса Figure
+    //Создайте экземпляр класса Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    // Добавляем фигуру к объекту Figure
+    //Добавить фигуру к объекту Figure
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    //Добавить объект Figure в GraphicsPath
+    //Добавьте объект Figure в GraphicsPath
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // Нарисовать путь с помощью объекта Pen черного цвета
+    //Нарисуйте путь объектом Pen цвета чёрный
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Создаем параметры экспорта и инициализируем их.
+    // Создайте параметры экспорта и инициализируйте их.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
-    // сохранить все изменения.
+    // Сохраните все изменения.
     image.Save("c:\\temp\\output.bmp", options);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [RectangleShape](../rectangleshape/)
-* пространство имен [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

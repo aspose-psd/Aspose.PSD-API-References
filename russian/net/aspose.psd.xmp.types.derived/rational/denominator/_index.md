@@ -1,11 +1,12 @@
 ---
-title: Rational.Denominator
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rational свойство. Получает или задает знаменатель.
+title: "Rational.Denominator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rational. Получает или задает знаменатель"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
 Получает или задает знаменатель.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.derived/rational/denominator/
 public int Denominator { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Знаменатель.
 
-### Смотрите также
+### См. также
 
 * class [Rational](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

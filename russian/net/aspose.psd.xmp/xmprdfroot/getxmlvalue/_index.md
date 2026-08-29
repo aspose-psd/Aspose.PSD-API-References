@@ -1,11 +1,12 @@
 ---
-title: XmpRdfRoot.GetXmlValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRdfRoot метод. Преобразует значение xmp в представление xml.
+title: "XmpRdfRoot.GetXmlValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "метод XmpRdfRoot. Преобразует значение xmp в xml‑представление"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/xmprdfroot/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetXmlValue method
 
 Преобразует значение xmp в представление xml.
@@ -18,10 +19,10 @@ public string GetXmlValue()
 
 Возвращает значение XMP, преобразованное в строку XML.
 
-### Смотрите также
+### См. также
 
 * class [XmpRdfRoot](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmprdfroot/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

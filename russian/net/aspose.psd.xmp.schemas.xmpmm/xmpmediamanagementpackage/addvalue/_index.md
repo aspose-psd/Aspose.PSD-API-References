@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.AddValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMediaManagementPackage метод. Добавляет строковое свойство.
+title: "XmpMediaManagementPackage.AddValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpMediaManagementPackage метод. Добавляет строковое свойство"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.AddValue method
 
 Добавляет строковое свойство.
@@ -16,13 +17,13 @@ public override void AddValue(string key, string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| key | String | Строковое представление ключа, идентифицируемого с добавленной стоимостью. |
-| value | String | Строковое значение. |
+| ключ | String | Строковое представление ключа, идентифицируемого добавленным значением. |
+| значение | String | Строковое значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

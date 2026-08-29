@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode23976
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeFormat свойство. Получает временной код 23976.
+title: "TimeFormat.Timecode23976"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TimeFormat. Возвращает timecode23976"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode23976/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode23976 property
 
-Получает временной код 23976.
+Получает timecode23976.
 
 ```csharp
 public static TimeFormat Timecode23976 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Временной код 23976.
+Таймкод23976.
 
-### Смотрите также
+### См. также
 
 * class [TimeFormat](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

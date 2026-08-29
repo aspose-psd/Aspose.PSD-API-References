@@ -1,11 +1,12 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPartialRawDataLoader метод. Обрабатывает загруженные данные.
+title: "IPartialRawDataLoader.Process"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IPartialRawDataLoader. Обрабатывает загруженные данные"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ipartialrawdataloader/process/
 ---
+{{< psd/tize >}}
 ## Process(Rectangle, byte[], Point, Point) {#process}
 
 Обрабатывает загруженные данные.
@@ -16,18 +17,18 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник данных. |
-| data | Byte[] | Необработанные данные. |
-| start | Point | Начальная точка данных. Если не равно (слева, вверху), это означает, что это не полный прямоугольник. |
-| end | Point | Конечная точка данных. Если не равно (справа, снизу), это означает, что это не полный прямоугольник. |
+| прямоугольник | Rectangle | Прямоугольник данных. |
+| данные | Byte[] | Сырые данные. |
+| start | Point | Начальная точка данных. Если она не равна (left,top), это означает, что у нас не полный прямоугольник. |
+| конец | Point | Конечная точка данных. Если она не равна (right,bottom), это означает, что у нас не полный прямоугольник. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* пространство имен [Aspose.PSD](../../ipartialrawdataloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,19 +43,19 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник данных. |
-| data | Byte[] | Необработанные данные. |
-| start | Point | Начальная точка данных. Если не равно (слева, вверху), это означает, что это не полный прямоугольник. |
-| end | Point | Конечная точка данных. Если не равно (справа, снизу), это означает, что это не полный прямоугольник. |
-| loadOptions | LoadOptions | Варианты загрузки. |
+| прямоугольник | Rectangle | Прямоугольник данных. |
+| данные | Byte[] | Сырые данные. |
+| start | Point | Начальная точка данных. Если она не равна (left,top), это означает, что у нас не полный прямоугольник. |
+| конец | Point | Конечная точка данных. Если она не равна (right,bottom), это означает, что у нас не полный прямоугольник. |
+| loadOptions | LoadOptions | Параметры загрузки. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* пространство имен [Aspose.PSD](../../ipartialrawdataloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

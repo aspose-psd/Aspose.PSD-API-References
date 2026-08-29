@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Lightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource свойство. Получает или задает основную яркость.
+title: "Hue2Resource.Lightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Hue2Resource. Получает или задает основную яркость"
 type: docs
-weight: 60
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Lightness property
 
 Получает или задает основную яркость.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/light
 public short Lightness { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Мастер легкости.
+Основная яркость.
 
-### Смотрите также
+### См. также
 
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffDataTypeController.TiffDataTypeController
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffDataTypeController строитель. Конструктор по умолчанию.
+title: "TiffDataTypeController.TiffDataTypeController"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TiffDataTypeController. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.exif/tiffdatatypecontroller/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.exif/tiffdatatypecontroller/tiffdatatypecontroller/
 public TiffDataTypeController()
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffDataTypeController](../)
-* пространство имен [Aspose.PSD.Exif](../../tiffdatatypecontroller/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

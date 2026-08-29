@@ -1,14 +1,15 @@
 ---
-title: Size.op_Inequality
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Проверяет являются ли дваSize структуры разные.
+title: "Size.op_Inequality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Проверяет, различаются ли две структуры Size."
 type: docs
 weight: 180
 url: /ru/net/aspose.psd/size/op_inequality/
 ---
+{{< psd/tize >}}
 ## Size Inequality operator
 
-Проверяет, являются ли два[`Size`](../) структуры разные.
+Проверяет, различаются ли две структуры [`Size`](../).
 
 ```csharp
 public static bool operator !=(Size size1, Size size2)
@@ -16,17 +17,17 @@ public static bool operator !=(Size size1, Size size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | Size | [`Size`](../) структура слева от оператора неравенства. |
-| size2 | Size | [`Size`](../) структура справа от оператора неравенства. |
+| size1 | Size | Структура [`Size`](../) слева от оператора неравенства. |
+| size2 | Size | Структура [`Size`](../) справа от оператора неравенства. |
 
 ### Возвращаемое значение
 
-Верно, если*size1* и*size2* отличаются либо шириной, либо высотой; ложно, если*size1* и*size2* равны.
+Истина, если *size1* и *size2* различаются по ширине или высоте; ложь, если *size1* и *size2* равны.
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

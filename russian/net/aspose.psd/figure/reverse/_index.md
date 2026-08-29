@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: Справочник по Aspose.PSD для .NET API
-description: Figure метод. Меняет порядок форм этой фигуры и порядок точек фигуры.
+title: "Figure.Reverse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Figure. Меняет порядок форм этой фигуры и порядок точек форм"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-Меняет порядок форм этой фигуры и порядок точек фигуры.
+Обращает порядок фигур в этом рисунке и порядок точек фигур.
 
 ```csharp
 public void Reverse()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Figure](../)
-* пространство имен [Aspose.PSD](../../figure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

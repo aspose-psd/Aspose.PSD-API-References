@@ -1,23 +1,24 @@
 ---
-title: PolygonShape.Reverse
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape метод. Меняет порядок точек этой фигуры на обратный.
+title: "PolygonShape.Reverse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PolygonShape. Меняет порядок точек этой фигуры на обратный"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd.shapes/polygonshape/reverse/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Reverse method
 
-Меняет порядок точек этой фигуры на обратный.
+Изменяет порядок точек для этой фигуры.
 
 ```csharp
 public void Reverse()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CompressorException.CompressorException
-second_title: Справочник по Aspose.PSD для .NET API
-description: CompressorException строитель. Инициализирует новый экземплярCompressorException класс.
+title: "CompressorException.CompressorException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CompressorException. Инициализирует новый экземпляр класса CompressorException"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/compressorexception/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException(string) {#constructor}
 
-Инициализирует новый экземпляр[`CompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`CompressorException`](../).
 
 ```csharp
 public CompressorException(string message)
@@ -16,19 +17,19 @@ public CompressorException(string message)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 
-### Смотрите также
+### См. также
 
 * class [CompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CompressorException(string, Exception) {#constructor_1}
 
-Инициализирует новый экземпляр[`CompressorException`](../) класс.
+Инициализирует новый экземпляр класса [`CompressorException`](../).
 
 ```csharp
 public CompressorException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public CompressorException(string message, Exception innerException)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| message | String | Сообщение об исключении. |
+| message | String | Сообщение исключения. |
 | innerException | Exception | Внутреннее исключение. |
 
-### Смотрите также
+### См. также
 
 * class [CompressorException](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

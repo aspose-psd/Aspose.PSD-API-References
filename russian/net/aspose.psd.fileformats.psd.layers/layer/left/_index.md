@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или задает положение левого слоя.
+title: "Layer.Left"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает или задает позицию слоя слева."
 type: docs
-weight: 240
+weight: 250
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-Получает или задает положение левого слоя.
+Получает или задает позицию слоя слева.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Позиция левого слоя.
+Позиция слоя слева.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

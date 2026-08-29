@@ -1,30 +1,31 @@
 ---
-title: Region.Region
-second_title: Справочник по Aspose.PSD для .NET API
-description: Region строитель. Инициализирует новыйRegion .
+title: "Region.Region"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Region. Инициализирует новый объект Region."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-Инициализирует новый[`Region`](../) .
+Инициализирует новый [`Region`](../).
 
 ```csharp
 public Region()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-Инициализирует новый[`Region`](../) из указанного[`RectangleF`](../../rectanglef/)структура.
+Инициализирует новый [`Region`](../) из указанной структуры [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public Region(RectangleF rect)
@@ -32,20 +33,20 @@ public Region(RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | RectangleF | А[`RectangleF`](../../rectanglef/) структура, которая определяет интерьер нового[`Region`](../). |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/), определяющая внутреннее пространство нового [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-Инициализирует новый[`Region`](../) из указанного[`Rectangle`](../../rectangle/)структура.
+Инициализирует новый [`Region`](../) из указанной структуры [`Rectangle`](../../rectangle/).
 
 ```csharp
 public Region(Rectangle rect)
@@ -53,20 +54,20 @@ public Region(Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rect | Rectangle | А[`Rectangle`](../../rectangle/) структура, которая определяет интерьер нового[`Region`](../). |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/), определяющая внутреннее пространство нового [`Region`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-Инициализирует новый[`Region`](../) с указанным[`GraphicsPath`](../../graphicspath/) .
+Инициализирует новый [`Region`](../) с указанным [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public Region(GraphicsPath path)
@@ -74,19 +75,19 @@ public Region(GraphicsPath path)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| path | GraphicsPath | А[`GraphicsPath`](../../graphicspath/)который определяет новый[`Region`](../). |
+| path | GraphicsPath | Объект [`GraphicsPath`](../../graphicspath/), определяющий новый [`Region`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *path* нулевой. |
+| ArgumentNullException | *path* равен null. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* пространство имен [Aspose.PSD](../../region/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

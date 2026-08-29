@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorPathDataResource свойство. Получает подпись.
+title: "VectorPathDataResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "VectorPathDataResource свойство. Получает подпись"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VectorPathDataResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

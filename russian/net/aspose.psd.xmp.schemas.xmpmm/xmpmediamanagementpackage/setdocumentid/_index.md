@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMediaManagementPackage метод. Устанавливает идентификатор документа.
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpMediaManagementPackage метод. Устанавливает идентификатор документа"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 Устанавливает идентификатор документа.
@@ -18,11 +19,11 @@ public void SetDocumentId(Guid guid)
 | --- | --- | --- |
 | guid | Guid | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,10 +39,10 @@ public void SetDocumentId(string guid)
 | --- | --- | --- |
 | guid | String | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

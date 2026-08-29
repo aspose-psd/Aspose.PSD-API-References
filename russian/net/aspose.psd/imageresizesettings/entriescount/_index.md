@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageResizeSettings свойство. Получает или задает количество записей count
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageResizeSettings. Возвращает или задает количество записей"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-Получает или задает количество записей count
+Получает или задает количество записей
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество записей
 
-### Смотрите также
+### См. также
 
 * class [ImageResizeSettings](../)
-* пространство имен [Aspose.PSD](../../imageresizesettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает прямоугольник изображения.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает прямоугольник изображения."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 Получает прямоугольник изображения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 public Rectangle ImageRectangle { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Прямоугольник изображения.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

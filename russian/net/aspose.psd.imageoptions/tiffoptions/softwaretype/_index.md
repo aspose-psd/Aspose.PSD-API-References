@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает тип программного обеспечения.
+title: "TiffOptions.SoftwareType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает тип программного обеспечения"
 type: docs
-weight: 450
+weight: 460
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
 Получает или задает тип программного обеспечения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 public string SoftwareType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип программного обеспечения.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

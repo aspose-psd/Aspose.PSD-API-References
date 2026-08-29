@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode2997
-second_title: Справочник по Aspose.PSD для .NET API
-description: TimeFormat свойство. Получает таймкод 2997 без сброса.
+title: "TimeFormat.NonDropTimecode2997"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TimeFormat. Получает non drop timecode2997"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode2997 property
 
-Получает тайм-код 2997 без сброса.
+Получает non drop timecode2997.
 
 ```csharp
 public static TimeFormat NonDropTimecode2997 { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Таймкод без потери 2997.
+non drop timecode2997.
 
-### Смотрите также
+### См. также
 
 * class [TimeFormat](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

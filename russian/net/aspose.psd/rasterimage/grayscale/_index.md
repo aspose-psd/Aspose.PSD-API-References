@@ -1,23 +1,24 @@
 ---
-title: RasterImage.Grayscale
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Преобразование изображения в его представление в градациях серого
+title: "RasterImage.Grayscale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Преобразование изображения в его градацию серого"
 type: docs
 weight: 340
 url: /ru/net/aspose.psd/rasterimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterImage.Grayscale method
 
-Преобразование изображения в его представление в градациях серого
+Преобразование изображения в его градации серого
 
 ```csharp
 public virtual void Grayscale()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.JustificationMode перечисление. Режим выравнивания текста.
+title: "Перечисление JustificationMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Режим выравнивания текста"
 type: docs
-weight: 1650
+weight: 1690
 url: /ru/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Режим выравнивания текста.
@@ -14,17 +15,17 @@ url: /ru/net/aspose.psd.fileformats.psd/justificationmode/
 public enum JustificationMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Left | `0` | Текст с выравниванием по левому краю. |
-| Right | `1` | Текст с выравниванием по правому краю. |
-| Center | `2` | Текст в центре. |
+| Left | `0` | Текст выравнивается по левому краю. В режиме слева направо позиция Left соответствует Left. В режиме справа налево позиция Left соответствует Right. |
+| Right | `1` | Текст выравнивается по правому краю. В режиме слева направо позиция Right соответствует Right. В режиме справа налево позиция Right соответствует Left. |
+| Center | `2` | Текст по центру. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку перечисления JustificationMode для установки выравнивания текста для текстовых частей.
+Следующий код демонстрирует поддержку перечисления JustificationMode для установки выравнивания текста в его частях.
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

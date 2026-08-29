@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: NvrtResource свойство. Получает длину ресурса слоя в байтах.
+title: "NvrtResource.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NvrtResource. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 30
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/lengt
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NvrtResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

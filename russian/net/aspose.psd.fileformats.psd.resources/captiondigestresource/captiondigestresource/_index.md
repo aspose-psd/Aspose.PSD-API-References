@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: CaptionDigestResource строитель. Конструктор по умолчанию.
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CaptionDigestResource. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiond
 public CaptionDigestResource()
 ```
 
-### Смотрите также
+### См. также
 
 * class [CaptionDigestResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

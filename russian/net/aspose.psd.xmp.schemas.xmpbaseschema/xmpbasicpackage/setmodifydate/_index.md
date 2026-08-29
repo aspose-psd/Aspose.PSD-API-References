@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Добавляет дату последнего изменения ресурса.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Добавляет дату последнего изменения ресурса"
 type: docs
-weight: 80
+weight: 100
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
 Добавляет дату последнего изменения ресурса.
@@ -18,11 +19,11 @@ public void SetModifyDate(DateTime modifiedDate)
 | --- | --- | --- |
 | modifiedDate | DateTime | Дата последнего изменения. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,10 +39,10 @@ public void SetModifyDate(string modifiedDate)
 | --- | --- | --- |
 | modifiedDate | String | Дата последнего изменения. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

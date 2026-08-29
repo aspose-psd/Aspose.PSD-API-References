@@ -1,11 +1,12 @@
 ---
-title: PdfOptions.PdfOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfOptions строитель. Конструктор по умолчанию.
+title: "PdfOptions.PdfOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PdfOptions конструктор. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 public PdfOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

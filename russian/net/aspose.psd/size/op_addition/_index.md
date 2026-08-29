@@ -1,14 +1,15 @@
 ---
-title: Size.op_Addition
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Добавляет ширину и высоту одногоSize структура по ширине и высоте другойSizeструктура.
+title: "Size.op_Addition"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Добавляет ширину и высоту одной структуры Size к ширине и высоте другой структуры Size"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-Добавляет ширину и высоту одного[`Size`](../) структура по ширине и высоте другой[`Size`](../)структура.
+Добавляет ширину и высоту одной структуры [`Size`](../) к ширине и высоте другой структуры [`Size`](../).
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
@@ -16,17 +17,17 @@ public static Size operator +(Size size1, Size size2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size1 | Size | Первый[`Size`](../) добавить. |
-| size2 | Size | Второй[`Size`](../) добавить. |
+| size1 | Size | Первый [`Size`](../) для добавления. |
+| size2 | Size | Второй [`Size`](../) для добавления. |
 
 ### Возвращаемое значение
 
-А[`Size`](../) структура, являющаяся результатом операции сложения.
+Структура [`Size`](../), являющаяся результатом операции сложения.
 
-### Смотрите также
+### См. также
 
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

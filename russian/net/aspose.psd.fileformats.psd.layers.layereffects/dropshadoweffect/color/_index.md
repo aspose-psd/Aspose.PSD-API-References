@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: DropShadowEffect свойство. Получает или задает цвет.
+title: "DropShadowEffect.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DropShadowEffect. Возвращает или задает цвет"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
 Получает или задает цвет.
@@ -14,13 +15,13 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/col
 public Color Color { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует использование свойства Opacity DropShadowEffect.
+Следующий код демонстрирует использование свойства Opacity у DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,21 +38,21 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Пример с непрозрачностью = 20
+    // Пример с Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Пример с непрозрачностью = 200
+    // Пример с Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

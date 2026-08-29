@@ -1,11 +1,12 @@
 ---
-title: PatternOverlayEffect.BlendMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternOverlayEffect свойство. Получает или задает режим наложения.
+title: "PatternOverlayEffect.BlendMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternOverlayEffect. Получает или задает режим смешивания"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.BlendMode property
 
 Получает или задает режим наложения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect
 public BlendMode BlendMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Режим наложения.
 
-### Смотрите также
+### См. также
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [PatternOverlayEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

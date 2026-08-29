@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.ColorMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdOptions свойство. Получает или задает цветовой режим PSD.
+title: "PsdOptions.ColorMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdOptions. Получает или задает режим цвета psd."
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.imageoptions/psdoptions/colormode/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ColorMode property
 
-Получает или задает цветовой режим PSD.
+Получает или задает режим цвета PSD.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цветовой режим.
+Режим цвета.
 
-### Смотрите также
+### См. также
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

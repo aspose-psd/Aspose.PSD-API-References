@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLongitudeRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение GPS указывающее является ли долгота точки назначения восточной или западной долготой.
+title: "ExifData.GPSDestLongitudeRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение GPS, указывающее, является ли долгота целевой точки восточной или западной"
 type: docs
 weight: 470
 url: /ru/net/aspose.psd.exif/exifdata/gpsdestlongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLongitudeRef property
 
-Получает или задает значение GPS, указывающее, является ли долгота точки назначения восточной или западной долготой.
+Получает или задает значение GPS, указывающее, является ли долгота целевой точки восточной или западной.
 
 ```csharp
 public string GPSDestLongitudeRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение GPS, указывающее, является ли долгота точки назначения восточной или западной долготой.
+Значение GPS, указывающее, является ли долгота целевой точки восточной или западной.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

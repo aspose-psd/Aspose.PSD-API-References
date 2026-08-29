@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.UseGlobalLight
-second_title: Справочник по Aspose.PSD для .NET API
-description: DropShadowEffect свойство. Получает или задает значение указывающее следует ли использовать этот угол во всех эффектах слоя.
+title: "DropShadowEffect.UseGlobalLight"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DropShadowEffect. Возвращает или задает значение, указывающее, использовать ли этот угол во всех эффектах слоя"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.UseGlobalLight property
 
-Получает или задает значение, указывающее, следует ли [использовать этот угол во всех эффектах слоя].
+Получает или задает значение, указывающее, следует ли [use this angle in all of the layer effects].
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [использовать глобальный свет]; в противном случае,`ЛОЖЬ` .
+`true` если [use global light]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [DropShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

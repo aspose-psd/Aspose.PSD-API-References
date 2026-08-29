@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Xresolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает разрешение x.
+title: "TiffOptions.Xresolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает разрешение по оси X"
 type: docs
-weight: 650
+weight: 660
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xresolution property
 
-Получает или задает разрешение x.
+Получает или задает разрешение по оси X.
 
 ```csharp
 public TiffRational Xresolution { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Разрешение x.
+Разрешение по оси X.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

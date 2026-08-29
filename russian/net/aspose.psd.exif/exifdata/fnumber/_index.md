@@ -1,28 +1,29 @@
 ---
-title: ExifData.FNumber
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает Fчисло.
+title: "ExifData.FNumber"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение F-number"
 type: docs
 weight: 280
 url: /ru/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-Получает или задает F-число.
+Получает или задает значение F-числа.
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-F-число.
+F-number.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

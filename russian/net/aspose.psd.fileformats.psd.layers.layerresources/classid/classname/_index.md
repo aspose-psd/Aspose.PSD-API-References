@@ -1,11 +1,12 @@
 ---
-title: ClassID.ClassName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassID свойство. Получает имя класса в кодировке ASCII.
+title: "ClassID.ClassName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClassID. Возвращает имя класса в кодировке ASCII"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
 Получает имя класса в кодировке ASCII.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 public string ClassName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

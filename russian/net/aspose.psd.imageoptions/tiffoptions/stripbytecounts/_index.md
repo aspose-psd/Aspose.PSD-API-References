@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает счетчик байтов полосы.
+title: "TiffOptions.StripByteCounts"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает количество байтов полосы"
 type: docs
-weight: 460
+weight: 470
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-Получает или задает счетчик байтов полосы.
+Получает или задает количество байтов в полосе.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество байтов полосы.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

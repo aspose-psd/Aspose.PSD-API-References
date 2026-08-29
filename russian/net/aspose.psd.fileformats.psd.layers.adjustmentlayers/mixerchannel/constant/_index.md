@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.Constant
-second_title: Справочник по Aspose.PSD для .NET API
-description: MixerChannel свойство. Получает или устанавливает константу канала.
+title: "MixerChannel.Constant"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MixerChannel. Получает или задает константу канала."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
-Получает или устанавливает константу канала.
+Получает или задает константу канала.
 
 ```csharp
 public short Constant { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Константа.
 
-### Смотрите также
+### См. также
 
 * class [MixerChannel](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

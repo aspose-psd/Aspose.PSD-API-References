@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Контекстные альтернативы используемые для соединения букв вместе.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Контекстные альтернативы, используемые для соединения букв вместе"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-Контекстные альтернативы, используемые для соединения букв вместе.
+Контекстные альтернативы, используемые для соединения букв.
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку поддержки новых свойств ITextStyle.
+Следующий код демонстрирует поддержку новых свойств ITextStyle.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// Проверяем значения
+// Проверьте значения
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

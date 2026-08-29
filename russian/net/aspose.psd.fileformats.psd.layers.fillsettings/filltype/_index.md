@@ -1,11 +1,12 @@
 ---
-title: Enum FillType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType перечисление. Тип заливки
+title: "Перечисление FillType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType. Тип заполнения"
 type: docs
-weight: 1940
+weight: 2050
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
 Тип заливки
@@ -14,17 +15,17 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 public enum FillType
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Color | `0` | Тип заливки цветом |
 | Gradient | `1` | Тип градиентной заливки |
 | Pattern | `2` | Тип заливки узором |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

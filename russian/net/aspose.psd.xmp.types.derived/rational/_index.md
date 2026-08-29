@@ -1,11 +1,12 @@
 ---
-title: Class Rational
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Derived.Rational сорт. Представляет XMP Rational.
+title: "Класс Rational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Derived.Rational. Представляет XMP Rational"
 type: docs
-weight: 6120
+weight: 6620
 url: /ru/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
 Представляет XMP Rational.
@@ -18,26 +19,26 @@ public class Rational : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [Rational](rational/)(int, int) | Инициализирует новый экземпляр`Rational` класс. |
+| [Rational](rational/)(int, int) | Инициализирует новый экземпляр класса `Rational`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | Получает или задает знаменатель. |
-| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | Получает значение с плавающей запятой. |
+| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | Возвращает значение типа float. |
 | [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | Получает числитель. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Получает значение строки, содержащейся в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

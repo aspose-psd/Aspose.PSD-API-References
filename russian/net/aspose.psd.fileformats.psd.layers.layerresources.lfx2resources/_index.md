@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержитLfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/ связанные классы
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён содержит связанные классы Lfx2Resourceaspose.psd.fileformats.psd.layers.layerresources/lfx2resource/"
 type: docs
-weight: 280
+weight: 310
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/
 ---
-Пространство имен содержит[`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/) связанные классы
+{{< psd/tize >}}
+Пространство имён содержит связанные классы [`Lfx2Resource`](aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/)
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [LayerEffectsTypes](./layereffectstypes/) | Эффекты наложения слоев. |
+| [LayerEffectsTypes](./layereffectstypes/) | Эффекты наложения слоёв. |
 
 

@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Справочник по Aspose.PSD для .NET API
-description: IObjectWithBounds свойство. Получает размер объекта.
+title: "IObjectWithBounds.Size"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IObjectWithBounds. Возвращает размер объекта"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
 Получает размер объекта.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/iobjectwithbounds/size/
 public Size Size { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер объекта.
 
-### Смотрите также
+### См. также
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* пространство имен [Aspose.PSD](../../iobjectwithbounds/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

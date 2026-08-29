@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpBasic
-second_title: Справочник по Aspose.PSD для .NET API
-description: Namespaces поле. Базовое пространство имен XMP.
+title: "Namespaces.XmpBasic"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Namespaces. Базовое пространство имен XMP"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.xmp/namespaces/xmpbasic/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpBasic field
 
-Базовое пространство имен XMP.
+Пространство имён XMP Basic.
 
 ```csharp
 public const string XmpBasic;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Namespaces](../)
-* пространство имен [Aspose.PSD.Xmp](../../namespaces/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

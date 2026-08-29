@@ -1,14 +1,15 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF метод. СоздаетRectangleF структура с левым верхним и правым нижним углами в указанных местах.
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleF метод. Создает структуру RectangleF с верхним левым и нижним правым углом в указанных позициях."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-Создает[`RectangleF`](../) структура с левым верхним и правым нижним углами в указанных местах.
+Создает структуру [`RectangleF`](../) с верхним левым и нижним правым углом в указанных позициях.
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
@@ -16,19 +17,19 @@ public static RectangleF FromLeftTopRightBottom(float left, float top, float rig
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Single | Координата x левого верхнего угла прямоугольной области. |
-| top | Single | Y-координата левого верхнего угла прямоугольной области. |
-| right | Single | Координата x нижнего правого угла прямоугольной области. |
-| bottom | Single | Y-координата правого нижнего угла прямоугольной области. |
+| лево | Single | Координата x верхнего левого угла прямоугольной области. |
+| верх | Single | Координата y верхнего левого угла прямоугольной области. |
+| право | Single | Координата x нижнего правого угла прямоугольной области. |
+| низ | Single | Координата y нижнего правого угла прямоугольной области. |
 
 ### Возвращаемое значение
 
-Новый[`RectangleF`](../) что создает этот метод.
+Новый [`RectangleF`](../), который создаёт этот метод.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

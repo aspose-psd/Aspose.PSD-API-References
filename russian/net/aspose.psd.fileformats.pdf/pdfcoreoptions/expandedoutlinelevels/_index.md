@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.ExpandedOutlineLevels
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfCoreOptions свойство. Определяет сколько уровней в структуре документа должно отображаться развернутым при просмотре файла PDF. 0  структура документа не расширяется. 1  элементы первого уровня в документе расширяются и т. д. По умолчанию 0.
+title: "PdfCoreOptions.ExpandedOutlineLevels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PdfCoreOptions. Указывает, сколько уровней в структуре документа показывать развернутыми при просмотре PDF‑файла. 0 — структура документа не развернута. 1 — элементы первого уровня развернуты и т.д. По умолчанию 0"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.ExpandedOutlineLevels property
 
-Определяет, сколько уровней в структуре документа должно отображаться развернутым при просмотре файла PDF. 0 — структура документа не расширяется. 1 — элементы первого уровня в документе расширяются и т. д. По умолчанию 0.
+Указывает, сколько уровней в структуре документа показывать развернутыми при просмотре PDF‑файла. 0 — структура документа не развернута. 1 — элементы первого уровня развернуты и т.д. По умолчанию 0.
 
 ```csharp
 public int ExpandedOutlineLevels { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PdfCoreOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

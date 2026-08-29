@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.Enums
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен содержит перечисления форматов файлов Tiff.
+title: "Aspose.PSD.FileFormats.Tiff.Enums"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имен содержит перечисления формата файлов Tiff"
 type: docs
-weight: 380
+weight: 420
 url: /ru/net/aspose.psd.fileformats.tiff.enums/
 ---
-Пространство имен содержит перечисления форматов файлов Tiff.
+{{< psd/tize >}}
+Пространство имён содержит перечисления формата файлов TIFF.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [Group3Options](./group3options/) | Параметры кодирования факса CCITT Group 3/4. Возможные значения для тегов GROUP3OPTIONS / TiffTag.T4OPTIONS и TiffTag.GROUP4OPTIONS / TiffTag.T6OPTIONS. |
-| [TiffAlphaStorage](./tiffalphastorage/) | Указывает альфа-хранилище для документов в формате tiff. |
-| [TiffByteOrder](./tiffbyteorder/) | Порядок байтов для изображения TIFF |
+| [Group3Options](./group3options/) | Опции кодирования факса CCITT Group 3/4. Возможные значения для тегов GROUP3OPTIONS / TiffTag.T4OPTIONS и TiffTag.GROUP4OPTIONS / TiffTag.T6OPTIONS. |
+| [TiffAlphaStorage](./tiffalphastorage/) | Указывает хранение альфа-канала для tiff‑документов. |
+| [TiffByteOrder](./tiffbyteorder/) | Порядок байтов для изображения tiff |
 | [TiffCompressions](./tiffcompressions/) | Содержит типы сжатия |
-| [TiffDataTypes](./tiffdatatypes/) | Тип данных TIFF enum. |
+| [TiffDataTypes](./tiffdatatypes/) | Перечисление типов данных tiff. |
 | [TiffExpectedFormat](./tiffexpectedformat/) | Ожидаемый формат файла tiff. |
-| [TiffFileStandards](./tifffilestandards/) | Указывает стандарты формата файлов TIFF. |
-| [TiffFillOrders](./tifffillorders/) | Порядок данных внутри байта. Возможные значения тега FILLORDER. |
-| [TiffNewSubFileTypes](./tiffnewsubfiletypes/) | Тип нового подфайла tiff enum. |
-| [TiffOrientations](./tifforientations/) | Ориентация изображения. Возможные значения тега ORIENTATION. |
-| [TiffPhotometrics](./tiffphotometrics/) | Фотометрическая интерполяция enum |
+| [TiffFileStandards](./tifffilestandards/) | Указывает стандарты формата файла TIFF. |
+| [TiffFillOrders](./tifffillorders/) | Порядок данных внутри байта. Возможные значения для тега FILLORDER. |
+| [TiffNewSubFileTypes](./tiffnewsubfiletypes/) | Перечисление новых подтипов файлов tiff. |
+| [TiffOrientations](./tifforientations/) | Ориентация изображения. Возможные значения для тега ORIENTATION. |
+| [TiffPhotometrics](./tiffphotometrics/) | Перечисление фотометрической интерполяции |
 | [TiffPlanarConfigs](./tiffplanarconfigs/) | Организация хранения. Возможные значения для тега PLANARCONFIG. |
-| [TiffPredictor](./tiffpredictor/) | Схема прогнозирования для LZW |
-| [TiffResolutionUnits](./tiffresolutionunits/) | Единица разрешения Tiff Enum |
-| [TiffSampleFormats](./tiffsampleformats/) | Образец формата enum |
-| [TiffTags](./tifftags/) | Перечисление тега TIFF. |
-| [TiffThresholds](./tiffthresholds/) | Пороговое значение, используемое для данных. |
+| [TiffPredictor](./tiffpredictor/) | Схема предсказания для LZW |
+| [TiffResolutionUnits](./tiffresolutionunits/) | Перечисление единиц разрешения Tiff |
+| [TiffSampleFormats](./tiffsampleformats/) | Перечисление формата образца |
+| [TiffTags](./tifftags/) | Перечисление тегов TIFF. |
+| [TiffThresholds](./tiffthresholds/) | Пороговое значение, используемое в данных. |
 
 

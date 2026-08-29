@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает значение указывающее порядок байтов tiff.
+title: "TiffOptions.ByteOrder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Возвращает или задает значение, указывающее порядок байтов TIFF"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
 Получает или задает значение, указывающее порядок байтов tiff.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 public TiffByteOrder ByteOrder { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

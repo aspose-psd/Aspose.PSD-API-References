@@ -1,24 +1,25 @@
 ---
-title: PsdOptions.XmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdOptions свойство. Получить или установить контейнер данных XMP
+title: "PsdOptions.XmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdOptions. Получает или задает контейнер данных XMP."
 type: docs
-weight: 110
+weight: 130
 url: /ru/net/aspose.psd.imageoptions/psdoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.XmpData property
 
-Получить или установить контейнер данных XMP
+Получить или задать контейнер данных XMP
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../psdoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

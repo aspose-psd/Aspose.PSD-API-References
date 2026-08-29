@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.Type
-second_title: Справочник по Aspose.PSD для .NET API
-description: LengthRecord свойство. Получает тип.
+title: "LengthRecord.Type"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LengthRecord. Возвращает тип"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 ---
+{{< psd/tize >}}
 ## LengthRecord.Type property
 
 Получает тип.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип.
 
-### Смотрите также
+### См. также
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [LengthRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IKeyedObject.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: IKeyedObject свойство. Получает ключ объекта.
+title: "IKeyedObject.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IKeyedObject. Получает ключ объекта"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
 Получает ключ объекта.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/ikeyedobject/key/
 public string Key { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ключ объекта.
 
-### Смотрите также
+### См. также
 
 * interface [IKeyedObject](../)
-* пространство имен [Aspose.PSD](../../ikeyedobject/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

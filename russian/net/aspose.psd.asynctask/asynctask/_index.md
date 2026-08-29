@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTask
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.AsyncTask.AsyncTask сорт. Статический фабричный класс для создания асинхронных задач
+title: "Класс AsyncTask"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.AsyncTask.AsyncTask. Статический фабричный класс для создания асинхронных задач"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.asynctask/asynctask/
 ---
+{{< psd/tize >}}
 ## AsyncTask class
 
 Статический фабричный класс для создания асинхронных задач
@@ -18,12 +19,12 @@ public static class AsyncTask
 
 | Имя | Описание |
 | --- | --- |
-| static [Create](../../aspose.psd.asynctask/asynctask/create/#create)(AsyncTaskAction) | Создает асинхронную задачу без результата. |
-| static [Create](../../aspose.psd.asynctask/asynctask/create/#create_1)(AsyncTaskFunc) | Создает асинхронную задачу с результатом универсального типа. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create/#create)(AsyncTaskAction) | Создаёт асинхронную задачу без результата. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create/#create_1)(AsyncTaskFunc) | Создаёт асинхронную задачу с результатом обобщённого типа. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

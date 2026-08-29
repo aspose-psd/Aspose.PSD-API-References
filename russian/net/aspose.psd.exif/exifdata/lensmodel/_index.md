@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensModel
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает модель объектива.
+title: "ExifData.LensModel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает модель объектива"
 type: docs
 weight: 740
 url: /ru/net/aspose.psd.exif/exifdata/lensmodel/
 ---
+{{< psd/tize >}}
 ## ExifData.LensModel property
 
 Получает или задает модель объектива.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/lensmodel/
 public string LensModel { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Модель объектива.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

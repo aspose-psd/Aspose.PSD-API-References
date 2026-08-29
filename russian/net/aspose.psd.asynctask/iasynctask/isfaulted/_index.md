@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsFaulted
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask свойство. Получает значение указывающее была ли эта задача ошибочной.
+title: "IAsyncTask.IsFaulted"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IAsyncTask. Возвращает значение, указывающее, произошла ли ошибка в этой задаче"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.asynctask/iasynctask/isfaulted/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsFaulted property
 
-Получает значение, указывающее, была ли эта задача ошибочной.
+Возвращает значение, указывающее, завершилась ли эта задача с ошибкой.
 
 ```csharp
 public bool IsFaulted { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если эта задача была ошибочной; в противном случае,`ЛОЖЬ` .
+`true`, если в этой задаче произошла ошибка; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

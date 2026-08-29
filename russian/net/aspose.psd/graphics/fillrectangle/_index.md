@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Заполняет внутреннюю часть прямоугольника указанногоRectangleструктура.
+title: "Graphics.FillRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Заполняет внутреннюю часть прямоугольника, указанного структурой Rectangle."
 type: docs
-weight: 390
+weight: 400
 url: /ru/net/aspose.psd/graphics/fillrectangle/
 ---
+{{< psd/tize >}}
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-Заполняет внутреннюю часть прямоугольника, указанного[`Rectangle`](../../rectangle/)структура.
+Заполняет внутреннюю часть прямоугольника, указанного структурой [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
@@ -16,28 +17,28 @@ public void FillRectangle(Brush brush, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) структура, представляющая прямоугольник для заполнения. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
+| rect | Rectangle | Структура [`Rectangle`](../../rectangle/), представляющая прямоугольник для заполнения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-Заполняет внутреннюю часть прямоугольника, указанного[`RectangleF`](../../rectanglef/)структура.
+Заполняет внутреннюю часть прямоугольника, указанного структурой [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
@@ -45,22 +46,22 @@ public void FillRectangle(Brush brush, RectangleF rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) структура, представляющая прямоугольник для заполнения. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
+| rect | RectangleF | Структура [`RectangleF`](../../rectanglef/), представляющая прямоугольник для заполнения. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -74,9 +75,9 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
 | x | Single | Координата x левого верхнего угла прямоугольника для заполнения. |
-| y | Single | Y-координата левого верхнего угла прямоугольника для заливки. |
+| y | Single | Координата y левого верхнего угла прямоугольника для заполнения. |
 | width | Single | Ширина прямоугольника для заполнения. |
 | height | Single | Высота прямоугольника для заполнения. |
 
@@ -84,14 +85,14 @@ public void FillRectangle(Brush brush, float x, float y, float width, float heig
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -105,9 +106,9 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)что определяет характеристики заливки. |
+| brush | Brush | [`Brush`](../../brush/) определяет характеристики заливки. |
 | x | Int32 | Координата x левого верхнего угла прямоугольника для заполнения. |
-| y | Int32 | Y-координата левого верхнего угла прямоугольника для заливки. |
+| y | Int32 | Координата y левого верхнего угла прямоугольника для заполнения. |
 | width | Int32 | Ширина прямоугольника для заполнения. |
 | height | Int32 | Высота прямоугольника для заполнения. |
 
@@ -115,13 +116,13 @@ public void FillRectangle(Brush brush, int x, int y, int width, int height)
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

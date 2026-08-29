@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorMatrix поле. Количество измерений матрицы.
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле ColorMatrix. Количество измерений матрицы"
 type: docs
 weight: 300
 url: /ru/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
 Количество измерений матрицы.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/colormatrix/matrixdimensionscount/
 public const int MatrixDimensionsCount;
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../)
-* пространство имен [Aspose.PSD](../../colormatrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

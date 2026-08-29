@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreatorsRegistry метод. Отменяет регистрацию создателя.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageCreatorsRegistry. Отменяет регистрацию создателя."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-Отменяет регистрацию создателя.
+Удаляет регистрацию создателя.
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
@@ -18,11 +19,11 @@ public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 | --- | --- | --- |
 | creatorDescriptor | IImageCreatorDescriptor | Дескриптор создателя. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* пространство имен [Aspose.PSD](../../imagecreatorsregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

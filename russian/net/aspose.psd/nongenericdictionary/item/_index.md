@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericDictionary свойство. Получает или задает элемент с указанным ключом.
+title: "NonGenericDictionary.Item"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericDictionary. Получает или задает элемент с указанным ключом."
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
 Получает или задает элемент с указанным ключом.
@@ -16,16 +17,16 @@ public object this[object key] { get; set; }
 
 | Параметр | Описание |
 | --- | --- |
-| key | Ключ элемента. |
+| ключ | Ключ элемента. |
 
 ### Возвращаемое значение
 
 Элемент с указанным ключом.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericDictionary](../)
-* пространство имен [Aspose.PSD](../../nongenericdictionary/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

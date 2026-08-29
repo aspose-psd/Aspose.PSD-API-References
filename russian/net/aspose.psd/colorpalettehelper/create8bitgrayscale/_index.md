@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create8BitGrayscale
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPaletteHelper метод. Создает 8битную палитру оттенков серого.
+title: "ColorPaletteHelper.Create8BitGrayscale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorPaletteHelper. Создает 8‑битную градационную палитру"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8BitGrayscale method
 
-Создает 8-битную палитру оттенков серого.
+Создаёт 8‑битную градационную палитру.
 
 ```csharp
 public static IColorPalette Create8BitGrayscale(bool minIsWhite)
@@ -16,17 +17,17 @@ public static IColorPalette Create8BitGrayscale(bool minIsWhite)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| minIsWhite | Boolean | если установлено`истинный` палитра начинается с белого цвета, в противном случае она начинается с черного цвета. |
+| minIsWhite | Boolean | если установить `true`, палитра начинается с белого цвета, иначе она начинается с черного цвета. |
 
 ### Возвращаемое значение
 
-8-битная палитра оттенков серого.
+8‑битовая градационная палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* пространство имен [Aspose.PSD](../../colorpalettehelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

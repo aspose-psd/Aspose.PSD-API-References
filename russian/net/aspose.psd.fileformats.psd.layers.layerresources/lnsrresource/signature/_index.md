@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: LnsrResource свойство. Получает подпись.
+title: "LnsrResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LnsrResource свойство. Получает подпись"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signa
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LnsrResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

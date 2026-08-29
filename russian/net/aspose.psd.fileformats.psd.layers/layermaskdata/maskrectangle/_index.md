@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerMaskData свойство. Получает или устанавливает маскуRectangleмаски слоя в файле PSD. Он принимает левые правые верхние и нижние свойства и создаетRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerMaskData. Получает или задает прямоугольник маски слоя в файле PSD. Он принимает свойства left, right, top и bottom и создает Rectangle"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Получает или устанавливает маску[`Rectangle`](../../../aspose.psd/rectangle/)маски слоя в файле PSD. Он принимает левые, правые, верхние и нижние свойства и создает[`Rectangle`](../../../aspose.psd/rectangle/)
+Получает или задает маску [`Rectangle`](../../../aspose.psd/rectangle/) маски слоя в файле PSD. Он принимает свойства left, right, top и bottom и создает [`Rectangle`](../../../aspose.psd/rectangle/)
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Прямоугольник маски.
 
-### Примеры
+## Примеры
 
-В этом примере показано, как программно получать, обновлять, удалять и добавлять маски растровых слоев в файле Adobe® Photoshop®.
+Этот пример показывает, как программно получать, обновлять, удалять и добавлять растровые маски слоёв в файле Adobe® Photoshop®.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Получает значение int, преобразованное в порядок байтов с обратным порядком байтов.
+// Получает целочисленное значение, преобразованное в порядок байтов big-endian.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// Получает значение, преобразованное из прямого порядка байтов в Int32.
+// Получает значение, преобразованное из big-endian в Int32.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Получаем растровую маску из слоя PSD-изображения и сохраняем ее в файл
+// Получает растровую маску из слоя изображения PSD и сохраняет её в файл
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Добавляет растровую маску из файла к слою и сохраняет ее изображение в формате PSD
+// Добавляет растровую маску из файла в слой и сохраняет её в изображении формата PSD
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Простого добавления LayerMaskData недостаточно для корректного сохранения, т.к. каналы не обновляются;
-    // layer.LayerMaskData = маска; // Это не добавляет канал маски
+    // Просто добавление LayerMaskData недостаточно для корректного сохранения, поскольку каналы не обновляются;
+    // layer.LayerMaskData = mask; // Это не добавляет канал маски
 
-    // Добавляем (или обновляем) маску
-    layer.AddLayerMask(maskData); // Но это добавляет/обновляет и маску, и каналы!
+    // Добавить (или обновить) маску
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// В этом примере показано, как программно получать, обновлять, удалять и добавлять маски растровых слоев в файле Adobe® Photoshop®.
+// Этот пример показывает, как программно получать, обновлять, удалять и добавлять растровые маски слоёв в файле Adobe® Photoshop®.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Получаем растровую маску из слоя и сохраняем ее в файл
+    // Получить растровую маску из слоя и сохранить её в файл
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // Изменяем маску слоя (инвертируем) и сохраняем изображение
+    // Изменить маску слоя (инвертировать) и сохранить изображение
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,33 +126,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Простого изменения LayerMaskData достаточно, чтобы произвести рендеринг
+    // Просто изменение LayerMaskData достаточно для влияния на рендеринг
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Но просто изменить LayerMaskData недостаточно для корректного сохранения, т.к. каналы не обновляются;
-    layer.LayerMaskData = mask; // Это тоже не работает
-    layer.AddLayerMask(mask); // Но при этом обновляются и маска, и каналы!
+    // Но простое изменение LayerMaskData недостаточно для корректного сохранения, поскольку каналы не обновляются;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Удаляем растровую маску со слоя и сохраняем изображение
-    layer.LayerMaskData = null; // Простого удаления LayerMaskData достаточно для рендеринга, но не для сохранения в формате PSD
+    // Удалить растровую маску из слоя и сохранить изображение
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Но при этом удаляется и маска, и маскирующий канал!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Добавляем растровую маску из файла на слой и сохраняем изображение
+    // Добавить растровую маску из файла в слой и сохранить изображение
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

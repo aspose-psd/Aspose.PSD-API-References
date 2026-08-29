@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfo6Resource.TypeToolInfo6Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolInfo6Resource строитель. Инициализирует новый экземплярTypeToolInfo6Resource класс.
+title: "TypeToolInfo6Resource.TypeToolInfo6Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор TypeToolInfo6Resource. Инициализирует новый экземпляр класса TypeToolInfo6Resource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolinfo6resource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource constructor
 
-Инициализирует новый экземпляр[`TypeToolInfo6Resource`](../) класс.
+Инициализирует новый экземпляр класса [`TypeToolInfo6Resource`](../).
 
 ```csharp
 public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)
@@ -17,13 +18,13 @@ public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | classID | ClassID | Идентификатор класса. |
-| warpClassID | ClassID | Идентификатор класса деформации. |
+| warpClassID | ClassID | Идентификатор класса искажения. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

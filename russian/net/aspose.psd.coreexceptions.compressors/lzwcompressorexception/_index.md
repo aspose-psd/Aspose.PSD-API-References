@@ -1,11 +1,12 @@
 ---
-title: Class LzwCompressorException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException сорт. Исключение компрессора lzw.
+title: "Класс LzwCompressorException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException класс. Исключение компрессора lzw"
 type: docs
 weight: 450
 url: /ru/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
 Исключение компрессора lzw.
@@ -18,13 +19,13 @@ public class LzwCompressorException : CompressorException
 
 | Имя | Описание |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Инициализирует новый экземпляр`LzwCompressorException` класс. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`LzwCompressorException` класс. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Инициализирует новый экземпляр класса `LzwCompressorException`. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `LzwCompressorException`. |
 
-### Смотрите также
+### См. также
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

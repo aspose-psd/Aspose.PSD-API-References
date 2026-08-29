@@ -1,30 +1,31 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnitArrayStructure свойство. Получает или задает значения структуры единичного массива.
+title: "UnitArrayStructure.Values"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnitArrayStructure. Получает или задает значения структуры массива единиц"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Получает или задает значения структуры единичного массива.
+Получает или задает значения структуры массива единиц.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значения структуры единичного массива.
+Значения структуры массива единиц.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | Свойство Values не должно быть пустым. |
+| ArgumentNullException | Свойство Values не должно быть null. |
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [UnitArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpBasicPackage метод. Устанавливает идентификатор.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpBasicPackage. Устанавливает идентификатор"
 type: docs
-weight: 50
+weight: 70
 url: /ru/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
 Устанавливает идентификатор.
@@ -16,12 +17,12 @@ public void SetIdentifier(string[] idenfifier)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| idenfifier | String[] | Идентификатор. |
+| идентификатор | String[] | Идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpBasicPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

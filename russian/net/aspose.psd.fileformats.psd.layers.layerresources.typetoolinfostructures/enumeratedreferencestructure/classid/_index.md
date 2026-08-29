@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.ClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedReferenceStructure свойство. Получает или задает идентификатор класса.
+title: "EnumeratedReferenceStructure.ClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство EnumeratedReferenceStructure. Получает или задает идентификатор класса"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.ClassID property
 
 Получает или задает идентификатор класса.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

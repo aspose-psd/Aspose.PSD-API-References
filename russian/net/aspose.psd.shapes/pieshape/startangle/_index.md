@@ -1,11 +1,12 @@
 ---
-title: PieShape.StartAngle
-second_title: Справочник по Aspose.PSD для .NET API
-description: PieShape свойство. Получает или задает начальный угол.
+title: "PieShape.StartAngle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PieShape. Возвращает или задает начальный угол"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
 Получает или задает начальный угол.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.shapes/pieshape/startangle/
 public float StartAngle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Начальный угол.
 
-### Смотрите также
+### См. также
 
 * class [PieShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../pieshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

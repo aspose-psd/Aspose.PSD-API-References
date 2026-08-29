@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TypeToolStyleInfo свойство. Получает или задает значение базового сдвига.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TypeToolStyleInfo. Получает или задает базовое значение сдвига"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
 Получает или задает значение базового сдвига.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public int BaseShiftValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Базовое значение сдвига.
 
-### Смотрите также
+### См. также
 
 * class [TypeToolStyleInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

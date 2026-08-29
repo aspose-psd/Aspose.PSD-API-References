@@ -1,30 +1,31 @@
 ---
-title: Enum ExifColorSpace
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifColorSpace перечисление. цветовое пространство exif enum.
+title: "Перечисление ExifColorSpace"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace перечисление. exif color space перечисление"
 type: docs
-weight: 800
+weight: 810
 url: /ru/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-цветовое пространство exif enum.
+Перечисление цветового пространства exif.
 
 ```csharp
 public enum ExifColorSpace
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | SRgb | `1` | Цветовое пространство SRGB. |
 | AdobeRgb | `2` | Цветовое пространство Adobe RGB. |
 | Uncalibrated | `65535` | Некалиброванное цветовое пространство. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

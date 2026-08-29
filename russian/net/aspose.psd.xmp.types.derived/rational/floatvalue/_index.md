@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rational свойство. Получает значение с плавающей запятой.
+title: "Rational.FloatValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Rational. Получает значение с плавающей запятой"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-Получает значение с плавающей запятой.
+Возвращает значение типа float.
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение с плавающей запятой.
+Значение типа float.
 
-### Смотрите также
+### См. также
 
 * class [Rational](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiRasterImageSection свойство. Получает ширину.
+title: "AiRasterImageSection.Width"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiRasterImageSection. Возвращает ширину."
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
 Получает ширину.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 public double Width { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Ширина.
 
-### Смотрите также
+### См. также
 
 * class [AiRasterImageSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

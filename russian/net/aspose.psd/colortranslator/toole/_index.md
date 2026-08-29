@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.ToOle
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorTranslator метод. Преобразует цвет OLE в цвет.
+title: "ColorTranslator.ToOle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorTranslator. Преобразует OLE-цвет в цвет."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/colortranslator/toole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToOle method
 
-Преобразует цвет OLE в цвет.
+Переводит OLE‑цвет в цвет.
 
 ```csharp
 public static int ToOle(Color c)
@@ -20,13 +21,13 @@ public static int ToOle(Color c)
 
 ### Возвращаемое значение
 
-Цвет ОЛЕ.
+OLE-цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* пространство имен [Aspose.PSD](../../colortranslator/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

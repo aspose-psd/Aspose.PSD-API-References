@@ -1,14 +1,15 @@
 ---
-title: Font.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: Font метод. Указывает является ли указанный объектFont и имеет те же значения свойств что и этотFont .
+title: "Font.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Font. Указывает, является ли указанный объект Font и имеет ли те же значения свойств, что и этот Font."
 type: docs
 weight: 120
 url: /ru/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-Указывает, является ли указанный объект[`Font`](../) и имеет те же значения свойств, что и этот[`Font`](../) .
+Указывает, является ли указанный объект [`Font`](../) и имеет ли те же значения свойств, что и этот [`Font`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Объект для тестирования. |
+| obj | Object | Объект для проверки. |
 
 ### Возвращаемое значение
 
-Верно, если*obj* параметр является[`Font`](../) и имеет те же значения свойств, что и этот[`Font`](../); в противном случае ложно.
+Истина, если параметр *obj* является [`Font`](../) и имеет такие же значения свойств, как у этого [`Font`](../); в противном случае — ложь.
 
-### Смотрите также
+### См. также
 
 * class [Font](../)
-* пространство имен [Aspose.PSD](../../font/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

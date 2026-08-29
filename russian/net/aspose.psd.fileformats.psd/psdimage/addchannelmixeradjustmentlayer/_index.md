@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой микшера каналов с параметрами по умолчанию
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой коррекции микшера каналов с параметрами по умолчанию"
 type: docs
-weight: 310
+weight: 320
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Добавляет корректирующий слой микшера каналов с параметрами по умолчанию
+Добавляет слой коррекции микшера каналов с параметрами по умолчанию
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
@@ -18,11 +19,11 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 Добавлен слой микшера каналов
 
-### Смотрите также
+### См. также
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

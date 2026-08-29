@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает баланс белого.
+title: "ExifData.WhiteBalance"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает баланс белого"
 type: docs
 weight: 1070
 url: /ru/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-Получает или устанавливает баланс белого.
+Получает или задает баланс белого.
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Баланс белого.
 
-### Смотрите также
+### См. также
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

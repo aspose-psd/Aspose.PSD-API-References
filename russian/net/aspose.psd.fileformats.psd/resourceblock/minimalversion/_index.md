@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceBlock свойство. Получает минимальную требуемую версию PSD.
+title: "ResourceBlock.MinimalVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ResourceBlock свойство. Получает минимальную требуемую версию PSD"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
 Получает минимальную требуемую версию PSD.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 public abstract int MinimalVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Минимальная версия PSD.
 
-### Смотрите также
+### См. также
 
 * class [ResourceBlock](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

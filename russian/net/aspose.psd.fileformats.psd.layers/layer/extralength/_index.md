@@ -1,11 +1,12 @@
 ---
-title: Layer.ExtraLength
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает длину дополнительной информации слоя в байтах.
+title: "Layer.ExtraLength"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Получает длину дополнительной информации слоя в байтах"
 type: docs
-weight: 110
+weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
 Получает длину дополнительной информации слоя в байтах.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 public int ExtraLength { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Длина дополнительного слоя.
+Дополнительная длина слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

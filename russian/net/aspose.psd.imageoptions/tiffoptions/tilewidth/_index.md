@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или устанавливает ширину плитки.
+title: "TiffOptions.TileWidth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает ширину плитки"
 type: docs
-weight: 550
+weight: 560
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-Получает или устанавливает ширину плитки.
+Получает или задает ширину плитки.
 
 ```csharp
 public uint TileWidth { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

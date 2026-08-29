@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethod
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.DitheringMethod перечисление. Метод дизеринга.
+title: "Перечисление DitheringMethod"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.DitheringMethod. Метод дизеринга"
 type: docs
-weight: 770
+weight: 780
 url: /ru/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
 Метод дизеринга.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd/ditheringmethod/
 public enum DitheringMethod
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Сглаживание порога. Самый простой и быстрый алгоритм дизеринга. |
-| FloydSteinbergDithering | `1` | Дизеринг Флойда-Стейнберга. Более сложный алгоритм сглаживания использует значения яркости ближайших соседей. |
+| ThresholdDithering | `0` | Пороговый дизеринг. Самый простой и быстрый алгоритм дизеринга. |
+| FloydSteinbergDithering | `1` | Дизеринг Флойда-Стейнберга. Более сложный алгоритм дизеринга, использующий значения интенсивности ближайших соседей. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

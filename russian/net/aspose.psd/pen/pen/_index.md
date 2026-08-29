@@ -1,14 +1,15 @@
 ---
-title: Pen.Pen
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen строитель. Инициализирует новый экземплярPen класс с указанным цветом.
+title: "Pen.Pen"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Pen. Инициализирует новый экземпляр класса Pen с указанным цветом"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Инициализирует новый экземпляр[`Pen`](../) класс с указанным цветом.
+Инициализирует новый экземпляр класса [`Pen`](../) с указанным цветом.
 
 ```csharp
 public Pen(Color color)
@@ -16,20 +17,20 @@ public Pen(Color color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | А[`Color`](../color/) структура, указывающая на цвет этого[`Pen`](../). |
+| color | Color | Структура [`Color`](../color/), указывающая цвет этого [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Инициализирует новый экземпляр[`Pen`](../) класс с указанным[`Color`](../color/) и[`Width`](../width/) свойства.
+Инициализирует новый экземпляр класса [`Pen`](../) с указанными свойствами [`Color`](../color/) и [`Width`](../width/).
 
 ```csharp
 public Pen(Color color, float width)
@@ -37,21 +38,21 @@ public Pen(Color color, float width)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| color | Color | А[`Color`](../color/) структура, указывающая на цвет этого[`Pen`](../). |
-| width | Single | Значение, указывающее ширину этого[`Pen`](../). |
+| color | Color | Структура [`Color`](../color/), указывающая цвет этого [`Pen`](../). |
+| width | Single | Значение, указывающее ширину этого [`Pen`](../). |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Инициализирует новый экземпляр[`Pen`](../) класс с указанным[`Brush`](../brush/) .
+Инициализирует новый экземпляр класса [`Pen`](../) с указанным [`Brush`](../brush/).
 
 ```csharp
 public Pen(Brush brush)
@@ -59,26 +60,26 @@ public Pen(Brush brush)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | А[`Brush`](../brush/) который определяет свойства заполнения этого[`Pen`](../). |
+| brush | Brush | Объект [`Brush`](../brush/), определяющий свойства заливки этого [`Pen`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Инициализирует новый экземпляр[`Pen`](../) класс с указанным[`Brush`](../brush/) и[`Width`](../width/) .
+Инициализирует новый экземпляр класса [`Pen`](../) с указанными [`Brush`](../brush/) и [`Width`](../width/).
 
 ```csharp
 public Pen(Brush brush, float width)
@@ -86,20 +87,20 @@ public Pen(Brush brush, float width)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| brush | Brush | А[`Brush`](../brush/) что определяет характеристики этого[`Pen`](../). |
-| width | Single | Ширина нового[`Pen`](../). |
+| brush | Brush | Объект [`Brush`](../brush/), определяющий характеристики этого [`Pen`](../). |
+| width | Single | Ширина нового [`Pen`](../). |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *brush* нулевой. |
+| ArgumentNullException | *brush* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

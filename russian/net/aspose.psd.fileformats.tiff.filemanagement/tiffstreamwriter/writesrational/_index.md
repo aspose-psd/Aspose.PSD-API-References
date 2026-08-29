@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSRational
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток значение рационального числа с одним знаком.
+title: "TiffStreamWriter.WriteSRational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TiffStreamWriter. Записывает одно значение знакового рационального числа в поток"
 type: docs
 weight: 150
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSRational method
 
-Записывает в поток значение рационального числа с одним знаком.
+Записывает одно знаковое рациональное число в поток.
 
 ```csharp
 public void WriteSRational(TiffSRational data)
@@ -16,13 +17,13 @@ public void WriteSRational(TiffSRational data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | TiffSRational | Значение для записи. |
+| данные | TiffSRational | Значение для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

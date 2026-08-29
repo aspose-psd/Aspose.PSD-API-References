@@ -1,11 +1,12 @@
 ---
-title: Class TiffExifIfd
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd сорт. Класс каталога файлов изображений TIFF Exif.
+title: "Класс TiffExifIfd"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Tiff.TiffExifIfd. Класс каталога файлов изображений TIFF Exif"
 type: docs
-weight: 4220
+weight: 4690
 url: /ru/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd class
 
 Класс каталога файлов изображений TIFF Exif.
@@ -18,23 +19,23 @@ public class TiffExifIfd
 
 | Имя | Описание |
 | --- | --- |
-| [TiffExifIfd](tiffexififd/#constructor)() | Инициализирует новый экземпляр`TiffExifIfd` класс. |
-| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Инициализирует новый экземпляр`TiffExifIfd` класс. |
+| [TiffExifIfd](tiffexififd/#constructor)() | Инициализирует новый экземпляр класса `TiffExifIfd`. |
+| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Инициализирует новый экземпляр класса `TiffExifIfd`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Получает значение, указывающее, имеет ли этот экземпляр значение. |
-| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Получает или устанавливает указатель на EXIF IFD. |
+| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Возвращает значение, указывающее, имеет ли этот экземпляр значение. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Получает или задает указатель на EXIF IFD. |
 
-### Примечания
+## Примечания
 
-Инкапсулирует указатель на Exif IFD. Совместимость Exif IFD имеет ту же структуру, что и IFD, указанный в TIFF. однако обычно он не содержит данных изображения, как в случае TIFF. См. http://www.exiv2.org/tags.html и http://www.awaresystems.be/imaging/tiff/tifftags/exififd .html для более подробной информации.
+Инкапсулирует указатель на Exif IFD. Для совместимости Exif IFD имеет ту же структуру, что и IFD, указанную в TIFF. Однако обычно он не содержит данных изображения, как в случае с TIFF. См. http://www.exiv2.org/tags.html и http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html для получения более подробной информации.
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

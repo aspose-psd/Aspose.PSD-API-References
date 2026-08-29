@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает обработку файлов формата Jpeg2000.
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает формат файлов Jpeg2000"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.psd.fileformats.jpeg2000/
 ---
-Пространство имен обрабатывает обработку файлов формата Jpeg2000.
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов Jpeg2000.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 Код OpenJpeg сгенерировал исключение |
-## перечисление
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Исключение, сгенерированное кодом OpenJpeg Jpeg2000 |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
 | [Jpeg2000Codec](./jpeg2000codec/) | Представляет тип изображения JPEG2000 |
 

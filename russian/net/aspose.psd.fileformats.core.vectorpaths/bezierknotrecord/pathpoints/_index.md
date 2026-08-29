@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Справочник по Aspose.PSD для .NET API
-description: BezierKnotRecord свойство. Получает или задает точки пути.
+title: "BezierKnotRecord.PathPoints"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BezierKnotRecord. Получает или задает точки пути"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
 Получает или задает точки пути.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints
 public PointF[] PathPoints { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Путь указывает.
+Точки пути.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

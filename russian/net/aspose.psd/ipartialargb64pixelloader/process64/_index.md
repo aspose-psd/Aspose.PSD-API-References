@@ -1,11 +1,12 @@
 ---
-title: IPartialArgb64PixelLoader.Process64
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPartialArgb64PixelLoader метод. Обрабатывает загруженные пиксели.
+title: "IPartialArgb64PixelLoader.Process64"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IPartialArgb64PixelLoader. Обрабатывает загруженные пиксели"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd/ipartialargb64pixelloader/process64/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader.Process64 method
 
 Обрабатывает загруженные пиксели.
@@ -17,16 +18,16 @@ public void Process64(Rectangle pixelsRectangle, long[] pixels, Point start, Poi
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | Прямоугольник пикселей. |
-| pixels | Int64[] | 64-битные пиксели ARGB. |
-| start | Point | Начальная точка пикселей. Если не равно (слева, вверху), это означает, что это не полный прямоугольник. |
-| end | Point | Конечная точка пикселей. Если не равно (справа, снизу), это означает, что это не полный прямоугольник. |
+| пиксели | Int64[] | 64‑битовые ARGB‑пиксели. |
+| start | Point | Точка начала пикселей. Если она не равна (left,top), это означает, что у нас не полный прямоугольник. |
+| конец | Point | Точка конца пикселей. Если она не равна (right,bottom), это означает, что у нас не полный прямоугольник. |
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb64PixelLoader](../)
-* пространство имен [Aspose.PSD](../../ipartialargb64pixelloader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

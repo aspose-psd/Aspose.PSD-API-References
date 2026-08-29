@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper свойство. Получает инструкцию по обработке заголовка.
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPacketWrapper свойство. Получает инструкцию обработки заголовка"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
-Получает инструкцию по обработке заголовка.
+Получает инструкцию обработки заголовка.
 
 ```csharp
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Инструкция по обработке заголовка.
+Инструкция обработки заголовка.
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

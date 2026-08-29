@@ -1,14 +1,15 @@
 ---
-title: Size.Ceiling
-second_title: Справочник по Aspose.PSD для .NET API
-description: Size метод. Преобразует указанныйSizeF структура кSize структуры путем округления значенийSize структура к следующему более высокому целочисленному значению.
+title: "Size.Ceiling"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Size. Преобразует указанную структуру SizeF в структуру Size, округляя значения структуры Size до следующего большего целого значения."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Преобразует указанный[`SizeF`](../../sizef/) структура к[`Size`](../) структуры путем округления значений[`Size`](../) структура к следующему более высокому целочисленному значению.
+Преобразует указанную структуру [`SizeF`](../../sizef/) в структуру [`Size`](../), округляя значения структуры [`Size`](../) до следующего большего целого значения.
 
 ```csharp
 public static Size Ceiling(SizeF size)
@@ -16,17 +17,17 @@ public static Size Ceiling(SizeF size)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../../sizef/) структура для преобразования. |
+| size | SizeF | Структура [`SizeF`](../../sizef/), которую нужно преобразовать. |
 
 ### Возвращаемое значение
 
-[`Size`](../) структура, в которую преобразуется этот метод.
+Структура [`Size`](../), в которую этот метод преобразует.
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* пространство имен [Aspose.PSD](../../size/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

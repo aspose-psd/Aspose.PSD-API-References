@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.MinimalVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnicodeAlphaNamesResource свойство. Получает минимальную требуемую версию PSD.
+title: "UnicodeAlphaNamesResource.MinimalVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "UnicodeAlphaNamesResource свойство. Получает минимально требуемую версию PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.MinimalVersion property
 
 Получает минимальную требуемую версию PSD.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/mini
 public override int MinimalVersion { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Минимальная версия PSD.
 
-### Смотрите также
+### См. также
 
 * class [UnicodeAlphaNamesResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

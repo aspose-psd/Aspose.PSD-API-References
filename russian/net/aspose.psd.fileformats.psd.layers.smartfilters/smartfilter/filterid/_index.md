@@ -1,22 +1,23 @@
 ---
-title: SmartFilter.FilterId
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartFilter свойство. Получает идентификатор типа интеллектуального фильтра.
+title: "SmartFilter.FilterId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartFilter. Получает идентификатор типа умного фильтра"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## SmartFilter.FilterId property
 
-Получает идентификатор типа интеллектуального фильтра.
+Получает идентификатор типа умного фильтра.
 
 ```csharp
 public abstract int FilterId { get; }
 ```
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку интерфейса интеллектуальных фильтров.
+Этот пример демонстрирует поддержку интерфейса умных фильтров.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // редактируем умные фильтры
+    // редактировать умные фильтры
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // проверить значения фильтра
@@ -62,7 +63,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // применить изменения
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Применение фильтров
+    // Применить фильтры
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [SmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

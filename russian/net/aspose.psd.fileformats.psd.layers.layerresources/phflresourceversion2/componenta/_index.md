@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.ComponentA
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResourceVersion2 свойство. Получает или задает компонент A для color
+title: "PhflResourceVersion2.ComponentA"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResourceVersion2. Возвращает или задает компонент A цвета"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentA property
 
-Получает или задает компонент A для color
+Получает или задает компонент A цвета
 
 ```csharp
 public short ComponentA { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Компонент А.
+Компонент A.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Цвет должен находиться в диапазоне от -12800 до 12700. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Цвет A должен быть в диапазоне от -12800 до 12700 |
 
-### Смотрите также
+### См. также
 
 * class [PhflResourceVersion2](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

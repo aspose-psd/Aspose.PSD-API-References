@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: OSTypeStructure строитель. Инициализирует новый экземплярOSTypeStructure класс.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор OSTypeStructure. Инициализирует новый экземпляр класса OSTypeStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-Инициализирует новый экземпляр[`OSTypeStructure`](../) класс.
+Инициализирует новый экземпляр класса [`OSTypeStructure`](../).
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
@@ -16,13 +17,13 @@ public OSTypeStructure(ClassID keyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMediaManagementPackage метод. Устанавливает идентификатор экземпляра.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpMediaManagementPackage метод. Устанавливает идентификатор экземпляра"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
 Устанавливает идентификатор экземпляра.
@@ -18,11 +19,11 @@ public void SetInstanceId(Guid guid)
 | --- | --- | --- |
 | guid | Guid | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,10 +39,10 @@ public void SetInstanceId(string guid)
 | --- | --- | --- |
 | guid | String | Уникальный идентификатор. |
 
-### Смотрите также
+### См. также
 
 * class [XmpMediaManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

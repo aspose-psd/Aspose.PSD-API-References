@@ -1,14 +1,15 @@
 ---
-title: Class OSTypeStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure сорт. Представляет структуру типа ОС.
+title: "Класс OSTypeStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructure класс. Представляет структуру типа ОС"
 type: docs
-weight: 2850
+weight: 3190
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure class
 
-Представляет структуру типа ОС.
+Представляет структуру типа OS.
 
 ```csharp
 public abstract class OSTypeStructure
@@ -18,15 +19,15 @@ public abstract class OSTypeStructure
 
 | Имя | Описание |
 | --- | --- |
-| [OSTypeStructure](ostypestructure/)(ClassID) | Инициализирует новый экземпляр`OSTypeStructure` класс. |
+| [OSTypeStructure](ostypestructure/)(ClassID) | Инициализирует новый экземпляр класса `OSTypeStructure`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | abstract [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/) { get; } | Получает ключ структуры. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Получает или задает имя ключа. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Получает`OSTypeStructure` длина в байтах. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/) { get; } | Получает длину `OSTypeStructure` в байтах. |
 
 ## Методы
 
@@ -36,9 +37,9 @@ public abstract class OSTypeStructure
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Сохраняет структуру в указанный контейнер потока. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

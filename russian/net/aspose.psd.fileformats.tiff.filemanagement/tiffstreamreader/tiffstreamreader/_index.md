@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamReader строитель. Инициализирует новый экземплярTiffStreamReader класс.
+title: "TiffStreamReader.TiffStreamReader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamReader constructor. Инициализирует новый экземпляр класса TiffStreamReader"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader(byte[]) {#constructor_1}
 
-Инициализирует новый экземпляр[`TiffStreamReader`](../) класс.
+Инициализирует новый экземпляр класса [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data)
@@ -16,19 +17,19 @@ public TiffStreamReader(byte[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные байтового массива. |
+| данные | Byte[] | Массив байтов данных. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int) {#constructor_2}
 
-Инициализирует новый экземпляр[`TiffStreamReader`](../) класс.
+Инициализирует новый экземпляр класса [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex)
@@ -36,20 +37,20 @@ public TiffStreamReader(byte[] data, int startIndex)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные байтового массива. |
-| startIndex | Int32 | Начальный индекс в*data*. |
+| данные | Byte[] | Массив байтов данных. |
+| startIndex | Int32 | Начальный индекс в *data*. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int, int) {#constructor_3}
 
-Инициализирует новый экземпляр[`TiffStreamReader`](../) класс.
+Инициализирует новый экземпляр класса [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex, int dataLength)
@@ -57,21 +58,21 @@ public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Byte[] | Данные байтового массива. |
-| startIndex | Int32 | Начальный индекс в*data*. |
+| данные | Byte[] | Массив байтов данных. |
+| startIndex | Int32 | Начальный индекс в *data*. |
 | dataLength | Int32 | Длина данных. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(StreamContainer) {#constructor}
 
-Инициализирует новый экземпляр[`TiffStreamReader`](../) класс.
+Инициализирует новый экземпляр класса [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(StreamContainer streamContainer)
@@ -81,11 +82,11 @@ public TiffStreamReader(StreamContainer streamContainer)
 | --- | --- | --- |
 | streamContainer | StreamContainer | Контейнер потока. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

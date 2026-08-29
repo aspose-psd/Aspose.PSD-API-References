@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskException сорт. Исключение для асинхронной задачи.
+title: "Класс AsyncTaskException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.AsyncTask.AsyncTaskException. Исключение для асинхронной задачи"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
 Исключение для асинхронной задачи.
@@ -18,11 +19,11 @@ public class AsyncTaskException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Инициализирует новый экземпляр`AsyncTaskException` класс. |
+| [AsyncTaskException](asynctaskexception/)(string) | Инициализирует новый экземпляр класса `AsyncTaskException`. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

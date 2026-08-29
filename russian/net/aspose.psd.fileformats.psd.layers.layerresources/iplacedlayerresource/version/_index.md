@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: IPlacedLayerResource свойство. Получает версию размещенного слоя в файле PSD обычно 35.
+title: "IPlacedLayerResource.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IPlacedLayerResource. Получает версию размещённого слоя в файле PSD, обычно 35"
 type: docs
 weight: 200
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Version property
 
-Получает версию размещенного слоя в файле PSD, обычно 3-5.
+Получает версию размещённого слоя в файле PSD, обычно 3‑5.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Версия слоя размещенного или смарт-объекта.
+Версия размещённого или смарт-объекта слоя.
 
-### Смотрите также
+### См. также
 
 * interface [IPlacedLayerResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

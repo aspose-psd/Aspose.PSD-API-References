@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.ClassID
-second_title: Справочник по Aspose.PSD для .NET API
-description: ClassStructure свойство. Получает или задает идентификатор класса.
+title: "ClassStructure.ClassID"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ClassStructure. Получает или задает идентификатор класса"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classid/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassID property
 
 Получает или задает идентификатор класса.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Идентификатор класса.
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ClassStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает тег номера страницы.
+title: "TiffOptions.PageNumber"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает тег номера страницы"
 type: docs
-weight: 300
+weight: 310
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
 Получает или задает тег номера страницы.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 public ushort[] PageNumber { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тег номера страницы.
 
@@ -22,13 +23,13 @@ public ushort[] PageNumber { get; set; }
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ценить |
-| ArgumentOutOfRangeException | value; Ожидаемые 2 значения в массиве: PageNumber[0] — это номер страницы, а PageNumber[1] — это общее количество страниц в документе. |
+| ArgumentNullException | значение |
+| ArgumentOutOfRangeException | value;Ожидается 2 значения в массиве: PageNumber[0] — номер страницы и PageNumber[1] — общее количество страниц в документе. |
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

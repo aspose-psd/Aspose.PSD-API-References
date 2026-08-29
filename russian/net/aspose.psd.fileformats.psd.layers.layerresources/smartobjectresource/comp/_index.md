@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectResource свойство. Получает или задает значение компоновки данных слоя смартобъекта в PSDфайле. Композиции слоев в смартобъектах
+title: "SmartObjectResource.Comp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SmartObjectResource. Получает или задает значение компа данных слоя умного объекта в файле PSD. Компы слоёв в умных объектах"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-Получает или задает значение компоновки данных слоя смарт-объекта в PSD-файле. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Получает или задает значение компа данных слоя Smart Object в файле PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение компенсации равно -1, если нет.
+Значение компа, равно -1, если ничего нет.
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

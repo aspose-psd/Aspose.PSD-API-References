@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleResolution
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает разрешение стиля обводки.
+title: "VstkResource.StrokeStyleResolution"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Получает или задает разрешение стиля обводки"
 type: docs
-weight: 190
+weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleResolution property
 
-Получает или задает разрешение стиля обводки.
+Получает или задает разрешение стиля штриха.
 
 ```csharp
 public double StrokeStyleResolution { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

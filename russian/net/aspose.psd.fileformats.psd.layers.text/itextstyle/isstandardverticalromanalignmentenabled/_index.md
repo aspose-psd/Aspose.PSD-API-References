@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Получает или задает стандартное вертикальное выравнивание римлянином. На основе значения ресурса BaselineDirection применяется только в том случае еслиVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Возвращает или задает стандартное вертикальное римское выравнивание. Это основано на значении ресурса BaselineDirection и применяется только при вертикальной ориентации текста."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Получает или задает стандартное вертикальное выравнивание римлянином. На основе значения ресурса BaselineDirection применяется только в том случае, еслиVertical .
+Получает или задает стандартное вертикальное римское выравнивание. Это, основанное на значении ресурса BaselineDirection, применяется только при вертикальной ориентации текста.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку нового свойства IsStandardVerticalRomanAlignmentEnabled.
 
 ```csharp
 [C#]
 
-// Следующий код демонстрирует возможность редактирования нового свойства IsStandardVerticalRomanAlignmentEnabled.
-// В данный момент это не влияет на рендеринг, а только позволяет редактировать значение свойства.
+// Следующий код демонстрирует возможность редактировать новое свойство IsStandardVerticalRomanAlignmentEnabled.
+// Это не влияет на рендеринг в данный момент, а только позволяет изменить значение свойства.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textPortion = textLayer.TextData.Items[0];
     if (textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textPortion = textLayer.TextData.Items[0];
     if (!textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Правильное чтение
+        // Корректное чтение
     }
     else
     {
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

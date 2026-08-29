@@ -1,11 +1,12 @@
 ---
-title: PsdImage.XmpData
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает метаданные XMP.
+title: "PsdImage.XmpData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задает XMP‑метаданные."
 type: docs
-weight: 280
+weight: 290
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
 Получает или задает метаданные XMP.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Метаданные XMP.
+XMP‑метаданные.
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

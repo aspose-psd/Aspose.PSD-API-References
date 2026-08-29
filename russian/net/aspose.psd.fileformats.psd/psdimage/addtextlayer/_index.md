@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет новый текстовый слой.
+title: "PsdImage.AddTextLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет новый текстовый слой"
 type: docs
-weight: 420
+weight: 470
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-Добавляет новый текстовый слой.
+Добавляет новый слой Text.
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
@@ -16,19 +17,19 @@ public TextLayer AddTextLayer(string text, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст слоя. |
+| текст | String | Текст слоя. |
 | rect | Rectangle | Прямоугольник слоя. |
 
 ### Возвращаемое значение
 
 Создан текстовый слой.
 
-### Смотрите также
+### См. также
 
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

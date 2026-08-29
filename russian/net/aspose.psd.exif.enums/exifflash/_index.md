@@ -1,11 +1,12 @@
 ---
-title: Enum ExifFlash
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifFlash перечисление. Режим вспышки.
+title: "Перечисление ExifFlash"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifFlash перечисление. Режим вспышки"
 type: docs
-weight: 860
+weight: 870
 url: /ru/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
 Режим вспышки.
@@ -14,28 +15,28 @@ url: /ru/net/aspose.psd.exif.enums/exifflash/
 public enum ExifFlash
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Noflash | `0` | Вспышка не срабатывала. |
-| Fired | `1` | Сработала вспышка. |
-| FiredReturnLightNotDetected | `5` | Вспышка сработала, обратный свет не обнаружен. |
-| FiredReturnLightDetected | `7` | Сработала вспышка, обнаружен возвратный свет. |
-| YesCompulsory | `9` | Сработала вспышка, принудительный режим вспышки. |
-| YesCompulsoryReturnLightNotDetected | `13` | Вспышка сработала, принудительный режим, обратный свет не обнаружен. |
-| YesCompulsoryReturnLightDetected | `15` | Вспышка сработала, принудительный режим, обнаружен обратный свет. |
-| NoCompulsory | `16` | Вспышка не сработала, режим принудительной вспышки. |
-| NoDidNotFireReturnLightNotDetected | `20` | Вспышка не сработала, обратный свет не обнаружен. |
+| Noflash | `0` | Вспышка не сработала. |
+| Fired | `1` | Вспышка сработала. |
+| FiredReturnLightNotDetected | `5` | Вспышка сработала, возвратный свет не обнаружен. |
+| FiredReturnLightDetected | `7` | Вспышка сработала, возвратный свет обнаружен. |
+| YesCompulsory | `9` | Вспышка сработала, принудительный режим вспышки. |
+| YesCompulsoryReturnLightNotDetected | `13` | Вспышка сработала, принудительный режим, возвратный свет не обнаружен. |
+| YesCompulsoryReturnLightDetected | `15` | Вспышка сработала, принудительный режим, возвратный свет обнаружен. |
+| NoCompulsory | `16` | Вспышка не сработала, принудительный режим вспышки. |
+| NoDidNotFireReturnLightNotDetected | `20` | Вспышка не сработала, возвратный свет не обнаружен. |
 | NoAuto | `24` | Вспышка не сработала, автоматический режим. |
-| YesAuto | `25` | Вспышка срабатывает в автоматическом режиме. |
-| YesAutoReturnLightNotDetected | `29` | Вспышка сработала, автоматический режим, обратный свет не обнаружен. |
-| YesAutoReturnLightDetected | `31` | Вспышка сработала, автоматический режим, обнаружен возвратный свет. |
-| NoFlashFunction | `32` | Нет функции вспышки. |
+| YesAuto | `25` | Вспышка сработала, автоматический режим. |
+| YesAutoReturnLightNotDetected | `29` | Вспышка сработала, автоматический режим, возвратный свет не обнаружен. |
+| YesAutoReturnLightDetected | `31` | Вспышка сработала, автоматический режим, возвратный свет обнаружен. |
+| NoFlashFunction | `32` | Отсутствует функция вспышки. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

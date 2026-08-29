@@ -1,14 +1,15 @@
 ---
-title: Pen.TranslateTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Pen метод. Преобразует локальное геометрическое преобразование по указанным размерам. Этот метод добавляет перевод к преобразованию.
+title: "Pen.TranslateTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Pen. Перемещает локальное геометрическое преобразование на указанные размеры. Этот метод добавляет трансляцию в начало преобразования."
 type: docs
 weight: 240
 url: /ru/net/aspose.psd/pen/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-Преобразует локальное геометрическое преобразование по указанным размерам. Этот метод добавляет перевод к преобразованию.
+Перемещает локальное геометрическое преобразование на указанные размеры. Этот метод добавляет трансляцию в начало преобразования.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
@@ -16,20 +17,20 @@ public void TranslateTransform(float dx, float dy)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Single | Значение перевода в x. |
-| dy | Single | Значение перевода в y. |
+| dx | Single | Значение трансляции по оси x. |
+| dy | Single | Значение трансляции по оси y. |
 
-### Смотрите также
+### См. также
 
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-Преобразует локальное геометрическое преобразование по указанным размерам в указанном порядке.
+Перемещает локальное геометрическое преобразование на указанные размеры в указанном порядке.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
@@ -37,15 +38,15 @@ public void TranslateTransform(float dx, float dy, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| dx | Single | Значение перевода в x. |
-| dy | Single | Значение перевода в y. |
-| order | MatrixOrder | Порядок (в начале или в конце), в котором применяется перевод. |
+| dx | Single | Значение трансляции по оси x. |
+| dy | Single | Значение трансляции по оси y. |
+| порядок | MatrixOrder | Порядок (добавление в начало или в конец), в котором применяется трансляция. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* пространство имен [Aspose.PSD](../../pen/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

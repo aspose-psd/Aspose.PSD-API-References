@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData сорт. Сегмент jfif.
+title: "Класс JFIFData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData класс. Сегмент jfif"
 type: docs
-weight: 1470
+weight: 1480
 url: /ru/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 Сегмент jfif.
@@ -18,21 +19,21 @@ public sealed class JFIFData
 
 | Имя | Описание |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Инициализирует новый экземпляр`JFIFData` класс. |
+| [JFIFData](jfifdata/)() | Инициализирует новый экземпляр класса `JFIFData`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Получает или задает единицы измерения плотности. |
+| [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Получает или задает единицы плотности. |
 | [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Получает или задает миниатюру. |
 | [Version](../../aspose.psd.fileformats.jpeg/jfifdata/version/) { get; set; } | Получает или задает версию. |
-| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Получает или задает плотность x. |
-| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Получает или задает плотность по оси y. |
+| [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | Получает или задает плотность по оси X. |
+| [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | Получает или задает плотность по оси Y. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает раздел финализации.
+title: "AiImage.FinalizeSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает раздел завершения"
 type: docs
-weight: 50
+weight: 60
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Получает раздел финализации.
+Получает раздел завершения.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Раздел финализации.
+Раздел завершения.
 
-### Смотрите также
+### См. также
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

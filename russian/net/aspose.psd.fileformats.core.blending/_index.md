@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает типы смешивания классы и другие утилиты. Aspose.PSD поддерживает все режимы наложения PSD.
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает классы типов смешения и другие утилиты. Aspose.PSD поддерживает все режимы смешения PSD."
 type: docs
-weight: 140
+weight: 150
 url: /ru/net/aspose.psd.fileformats.core.blending/
 ---
-Пространство имен обрабатывает типы смешивания, классы и другие утилиты. Aspose.PSD поддерживает все режимы наложения PSD.
+{{< psd/tize >}}
+Пространство имён обрабатывает типы смешивания, классы и другие утилиты. Aspose.PSD поддерживает все режимы смешивания PSD.
 
-## перечисление
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
-| [BlendMode](./blendmode/) | Режим наложения слоя. |
+| [BlendMode](./blendmode/) | Режим смешения слоя. |
 
 

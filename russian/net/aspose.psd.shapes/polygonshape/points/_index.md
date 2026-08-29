@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Points
-second_title: Справочник по Aspose.PSD для .NET API
-description: PolygonShape свойство. Получает или задает точки кривой.
+title: "PolygonShape.Points"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PolygonShape. Возвращает или задает точки кривой"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
 Получает или задает точки кривой.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.shapes/polygonshape/points/
 public PointF[] Points { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Кривая точек.
+Точки кривой.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../polygonshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class PattResourceData
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData сорт. Класс для хранения данных шаблонаPattResource ресурс.
+title: "Класс PattResourceData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData class. Класс для хранения данных шаблона ресурса PattResource."
 type: docs
-weight: 2880
+weight: 3230
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData class
 
-Класс для хранения данных шаблона[`PattResource`](../pattresource/) ресурс.
+Класс для хранения данных шаблона ресурса [`PattResource`](../pattresource/).
 
 ```csharp
 public sealed class PattResourceData
@@ -20,7 +21,7 @@ public sealed class PattResourceData
 | --- | --- |
 | [PattResourceData](pattresourcedata/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -38,11 +39,11 @@ public sealed class PattResourceData
 | Имя | Описание |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/)(StreamContainer) | Сохраняет данные шаблона. |
-| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Устанавливает шаблон. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Устанавливает буфер пикселей шаблона и целевой размер, обновляет [`Width`](./width/) / [`Height`](./height/), и сохраняет данные для последующего сохранения, используя режим сжатия по умолчанию (0). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Получает параметры по умолчанию.
+title: "Image.GetDefaultOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Возвращает параметры по умолчанию"
 type: docs
-weight: 170
+weight: 180
 url: /ru/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 Получает параметры по умолчанию.
@@ -22,11 +23,11 @@ public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 
 Параметры по умолчанию
 
-### Смотрите также
+### См. также
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

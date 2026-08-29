@@ -1,23 +1,24 @@
 ---
-title: IOrderedShape.Reverse
-second_title: Справочник по Aspose.PSD для .NET API
-description: IOrderedShape метод. Меняет порядок точек этой фигуры на обратный.
+title: "IOrderedShape.Reverse"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "IOrderedShape метод. Разворачивает порядок точек этой фигуры."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/iorderedshape/reverse/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.Reverse method
 
-Меняет порядок точек этой фигуры на обратный.
+Изменяет порядок точек для этой фигуры.
 
 ```csharp
 public void Reverse()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IOrderedShape](../)
-* пространство имен [Aspose.PSD](../../iorderedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

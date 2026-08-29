@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает пустойColor .
+title: "Color.Empty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает пустой Color"
 type: docs
 weight: 430
 url: /ru/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-Получает пустой[`Color`](../) .
+Возвращает пустой [`Color`](../).
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пустой[`Color`](../).
+Пустой [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerResourcesRegistry метод. ЗагрузкиLayerResource с помощью первого найденного открывателя подходящего для указанногоstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод LayerResourcesRegistry. Загружает LayerResource, используя первый найденный открыватель, подходящий для указанного потока"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Загрузки[`LayerResource`](../../layerresource/) с помощью первого найденного открывателя, подходящего для указанного*stream* .
+Загружает [`LayerResource`](../../layerresource/) используя первый найденный открыватель, подходящий для указанного *stream*.
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
@@ -21,17 +22,17 @@ public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream
 
 ### Возвращаемое значение
 
-Загруженный[`LayerResource`](../../layerresource/) или null, если открыватель не найден.
+Загруженный [`LayerResource`](../../layerresource/) или null, если открыватель не найден.
 
-### Примечания
+## Примечания
 
-Первый открыватель будет последним зарегистрированным.
+Первый открыватель на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

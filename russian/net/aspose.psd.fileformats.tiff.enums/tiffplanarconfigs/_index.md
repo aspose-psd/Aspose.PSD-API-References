@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs перечисление. Организация хранения. Возможные значения для тега PLANARCONFIG.
+title: "Перечисление TiffPlanarConfigs"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. Организация хранения. Возможные значения для тега PLANARCONFIG."
 type: docs
-weight: 4130
+weight: 4600
 url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
 Организация хранения. Возможные значения для тега PLANARCONFIG.
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 public enum TiffPlanarConfigs : ushort
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Contiguous | `1` | Одна плоскость изображения. |
+| Contiguous | `1` | Один плоскостный слой изображения. |
 | Separate | `2` | Отдельные плоскости данных. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo сорт. Этот класс представляет информацию о ходе выполнения операций загрузки/сохранения/экспорта изображения  которую можно использовать во внешнем приложении для демонстрации хода преобразования конечному пользователю
+title: "Класс ProgressEventHandlerInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo класс. Этот класс представляет информацию о прогрессе операций загрузки/сохранения/экспорта изображений, которую можно использовать во внешнем приложении для отображения прогресса конвертации конечному пользователю"
 type: docs
-weight: 5300
+weight: 5800
 url: /ru/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-Этот класс представляет информацию о ходе выполнения операций загрузки/сохранения/экспорта изображения, , которую можно использовать во внешнем приложении для демонстрации хода преобразования конечному пользователю
+Этот класс представляет информацию о прогрессе операций загрузки/сохранения/экспорта изображений, которую можно использовать во внешнем приложении для отображения прогресса конвертации пользователю
 
 ```csharp
 public class ProgressEventHandlerInfo
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -23,9 +24,9 @@ public class ProgressEventHandlerInfo
 | [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | Получает верхний предел значения прогресса. |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | Получает текущее значение прогресса. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
+Следующий пример демонстрирует, что прогресс конвертации документа работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

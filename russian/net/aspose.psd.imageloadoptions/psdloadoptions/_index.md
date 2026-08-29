@@ -1,11 +1,12 @@
 ---
-title: Class PsdLoadOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions сорт. Параметры загрузки PSD
+title: "Класс PsdLoadOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageLoadOptions.PsdLoadOptions class. Параметры загрузки Psd"
 type: docs
-weight: 4770
+weight: 5250
 url: /ru/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
 Параметры загрузки PSD
@@ -20,25 +21,27 @@ public class PsdLoadOptions : LoadOptions
 | --- | --- |
 | [PsdLoadOptions](psdloadoptions/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Получает или задает, следует ли сохранять визуализированное изображение, с преобразованием деформации или без него. |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, которая определяет максимально допустимый размер для всех внутренних буферов. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Получает или задает[`Image`](../../aspose.psd/image/) фон[`Color`](../../aspose.psd/color/) . |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | Получает или задает, сохранять ли оригинальные пиксели слоёв во время рендеринга, если слой не был изменён. |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Получает или задает, сохранять ли с отрендеренным изображением, с искажением или без него. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Получает или задает подсказку о размере буфера, определяющую максимальный допустимый размер для всех внутренних буферов. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Получает или задает [`Image`](../../aspose.psd/image/) фон [`Color`](../../aspose.psd/color/). |
 | [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Получает или задает режим восстановления данных. |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Получает или задает значение, указывающее, следует ли [игнорировать альфа-канал]. |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Получает или задает значение, указывающее, следует ли [ignore alpha channel]. |
 | [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Получает или задает значение, указывающее, будет ли фиксированная ширина текстового слоя PSD игнорироваться при выполнении операции UpdateText. |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Получает или задает значение, указывающее, влияет ли [загрузка на ресурс] (по умолчанию ресурс не загружается). При установке этого параметра только поддерживаемые эффекты будут отображаться в окончательном объединенном изображении. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Получает или задает обработчик события выполнения. |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Получает или задает значение, указывающее, следует ли [использовать режим только для чтения]. Это режим только для чтения, поддерживаемый для идентичной совместимости с Adobe Photoshop. Если этот параметр установлен, все изменения, примененные к слоям, не будут сохранены в окончательном изображении. Все данные используются из раздела ImageData, поэтому они идентичны Photoshop. По умолчанию все загруженные изображения не идентичны совместимым с Adobe Photoshop. |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Получает или задает значение, указывающее, следует ли [использовать диск для загрузки ресурса эффектов] (по умолчанию используется диск для загрузки ресурса эффектов, но можно использовать память, если ее достаточно, установив для этого значения значение false). |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Получает или задает значение, указывающее, следует ли применять преобразование профиля ICC. |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Получает или задает значение, указывающее, следует ли [load effects resource] (по умолчанию ресурс не загружается). При установке этой опции будут отрисованы только поддерживаемые эффекты в окончательное объединённое изображение. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Получает или задает обработчик события прогресса. |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Получает или задает значение, указывающее, следует ли [use read only mode]. Это режим только для чтения, поддерживаемый для полной совместимости с Adobe Photoshop. Когда эта опция включена, все изменения, внесённые в слои, не сохраняются в окончательное изображение. Все данные берутся из раздела ImageData, поэтому они идентичны Photoshop. По умолчанию все загруженные изображения не полностью совместимы с Adobe Photoshop. |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | Получает или задает режим только для чтения, используемый при загрузке PSD‑изображения. |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Получает или задает значение, указывающее, следует ли [use disk for load effects resource] (по умолчанию используется диск для загрузки ресурсов эффектов, но можно использовать память, если её достаточно, установив это значение в false). |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Получает или задает значение, указывающее, следует ли применять преобразование ICC‑профиля. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
+Следующий пример демонстрирует, что прогресс конвертации документа работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -82,10 +85,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* пространство имен [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

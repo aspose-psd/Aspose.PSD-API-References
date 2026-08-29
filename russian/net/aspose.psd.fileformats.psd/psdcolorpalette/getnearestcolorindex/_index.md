@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.GetNearestColorIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdColorPalette метод. Получает индекс ближайшего цвета.
+title: "PsdColorPalette.GetNearestColorIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdColorPalette. Возвращает индекс ближайшего цвета"
 type: docs
 weight: 140
 url: /ru/net/aspose.psd.fileformats.psd/psdcolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-Получает индекс ближайшего цвета.
+Возвращает индекс ближайшего цвета.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
@@ -16,23 +17,23 @@ public int GetNearestColorIndex(int argb32Color)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| argb32Color | Int32 | 32-битный цвет ARGB. |
+| argb32Color | Int32 | 32‑битовый цвет ARGB. |
 
 ### Возвращаемое значение
 
 Индекс ближайшего цвета.
 
-### Смотрите также
+### См. также
 
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Получает индекс ближайшего цвета.
+Возвращает индекс ближайшего цвета.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
@@ -46,11 +47,11 @@ public int GetNearestColorIndex(Color color)
 
 Индекс ближайшего цвета.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

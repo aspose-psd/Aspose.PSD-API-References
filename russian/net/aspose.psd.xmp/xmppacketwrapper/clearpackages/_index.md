@@ -1,23 +1,24 @@
 ---
-title: XmpPacketWrapper.ClearPackages
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper метод. Удаляет всеXmpPackage внутри XMP.
+title: "XmpPacketWrapper.ClearPackages"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPacketWrapper. Удаляет все XmpPackage внутри XMP"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/clearpackages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ClearPackages method
 
-Удаляет все[`XmpPackage`](../../xmppackage/) внутри XMP.
+Удаляет все [`XmpPackage`](../../xmppackage/) внутри XMP.
 
 ```csharp
 public void ClearPackages()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

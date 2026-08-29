@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Загружает 64битные пиксели ARGB.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Загружает 64‑битные ARGB‑пиксели"
 type: docs
 weight: 360
 url: /ru/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-Загружает 64-битные пиксели ARGB.
+Загружает 64‑битные ARGB‑пиксели.
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
@@ -16,17 +17,17 @@ public long[] LoadArgb64Pixels(Rectangle rectangle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | Rectangle | Прямоугольник, из которого загружаются пиксели. |
+| прямоугольник | Rectangle | Прямоугольник, из которого загружаются пиксели. |
 
 ### Возвращаемое значение
 
-Загруженный массив 64-битных пикселей ARGB.
+Массив загруженных 64‑битных ARGB‑пикселей.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

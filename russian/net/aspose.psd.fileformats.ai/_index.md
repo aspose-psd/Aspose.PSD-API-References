@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.FileFormats.Ai
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает формат файла Adobe Illustrator AI.
+title: "Aspose.PSD.FileFormats.Ai"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает формат файлов Adobe Illustrator AI"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.psd.fileformats.ai/
 ---
-Пространство имен обрабатывает формат файла Adobe Illustrator (AI).
+{{< psd/tize >}}
+Пространство имён обрабатывает формат файлов Adobe Illustrator (AI).
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
-| [AiDataSection](./aidatasection/) | Раздел данных формата AI |
-| [AiFinalizeSection](./aifinalizesection/) | Формат AI Finalize Section |
+| [AiDataSection](./aidatasection/) | Раздел данных формата Ai |
+| [AiFinalizeSection](./aifinalizesection/) | Раздел завершения формата Ai |
 | [AiHeader](./aiheader/) | Заголовок файла Adobe Illustrator |
-| [AiImage](./aiimage/) | Изображение Adobe Illustrator (ИИ) |
-| [AiLayerSection](./ailayersection/) | Раздел слоя формата AI |
+| [AiImage](./aiimage/) | Изображение Adobe Illustrator (AI). |
+| [AiLayerSection](./ailayersection/) | Раздел слоёв формата Ai |
 | [AiRasterImageSection](./airasterimagesection/) | Раздел растрового изображения AI |
-| [AiSection](./aisection/) | Базовый раздел формата AI |
-| [AiSetupSection](./aisetupsection/) | Раздел настройки формата AI |
-## перечисление
+| [AiSection](./aisection/) | Базовый раздел формата Ai |
+| [AiSetupSection](./aisetupsection/) | Раздел настройки формата Ai |
+## Перечисление
 
-| перечисление | Описание |
+| Перечисление | Описание |
 | --- | --- |
 | [AiFormatVersion](./aiformatversion/) | Версия Adobe Illustrator |
 

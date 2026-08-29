@@ -1,14 +1,15 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPathExtensions метод. ПреобразуетGraphicsPath кGraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPathExtensions. Преобразует GraphicsPath в GraphicsPath."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-Преобразует[`GraphicsPath`](../../../aspose.psd/graphicspath/) кGraphicsPath .
+Преобразует [`GraphicsPath`](../../../aspose.psd/graphicspath/) в GraphicsPath.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
@@ -16,17 +17,17 @@ public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | Путь к графике для преобразования. |
+| graphicsPath | GraphicsPath | Графический путь для преобразования. |
 
 ### Возвращаемое значение
 
-ПреобразованныйGraphicsPath.
+Преобразованный GraphicsPath.
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

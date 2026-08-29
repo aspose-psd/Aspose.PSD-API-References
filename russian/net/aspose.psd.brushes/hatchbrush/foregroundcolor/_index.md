@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: HatchBrush свойство. Получает или задает цвет линий штриховки.
+title: "HatchBrush.ForegroundColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "HatchBrush свойство. Получает или задает цвет штриховых линий"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-Получает или задает цвет линий штриховки.
+Получает или задает цвет штриховых линий.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цвет линий штриховки.
+Цвет штриховых линий.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../hatchbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

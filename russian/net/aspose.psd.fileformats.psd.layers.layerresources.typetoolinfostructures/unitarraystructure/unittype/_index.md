@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Справочник по Aspose.PSD для .NET API
-description: UnitArrayStructure свойство. Получает или задает тип единицы измеренияUnitArrayStructure значения.
+title: "UnitArrayStructure.UnitType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство UnitArrayStructure. Возвращает или задает тип измерительной единицы значений UnitArrayStructure"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-Получает или задает тип единицы измерения[`UnitArrayStructure`](../) значения.
+Возвращает или задает тип измерительной единицы значений [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Тип единицы измерения.
+Тип измерительной единицы.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку подписей ObAr и UnFl.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

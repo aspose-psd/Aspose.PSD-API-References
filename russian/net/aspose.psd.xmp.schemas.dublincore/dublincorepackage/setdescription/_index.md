@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Справочник по Aspose.PSD для .NET API
-description: DublinCorePackage метод. Добавляет описание.
+title: "DublinCorePackage.SetDescription"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод DublinCorePackage. Добавляет описание"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Добавляет описание.
@@ -18,11 +19,11 @@ public void SetDescription(string desc)
 | --- | --- | --- |
 | desc | String | Описание. |
 
-### Смотрите также
+### См. также
 
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,11 +39,11 @@ public void SetDescription(LangAlt desc)
 | --- | --- | --- |
 | desc | LangAlt | Описание. |
 
-### Смотрите также
+### См. также
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

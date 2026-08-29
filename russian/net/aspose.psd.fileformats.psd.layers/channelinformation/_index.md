@@ -1,11 +1,12 @@
 ---
-title: Class ChannelInformation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation сорт. Информация о канале.
+title: "Класс ChannelInformation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation. Информация о канале"
 type: docs
-weight: 1900
+weight: 2010
 url: /ru/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
 Информация о канале.
@@ -18,19 +19,19 @@ public class ChannelInformation
 
 | Имя | Описание |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Инициализирует новый экземпляр`ChannelInformation` класс. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Инициализирует новый экземпляр класса `ChannelInformation`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Получает или задает идентификатор канала. |
-| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Получает или задает метод сжатия. |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Получает или задаёт идентификатор канала. |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Получает или задаёт метод сжатия. |
 | [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Получает длину канала в байтах. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

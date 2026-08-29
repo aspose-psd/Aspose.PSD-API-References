@@ -1,30 +1,31 @@
 ---
-title: ColorantLab.ColorantLab
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantLab строитель. Инициализирует новый экземплярColorantLab класс.
+title: "ColorantLab.ColorantLab"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ColorantLab. Инициализирует новый экземпляр класса ColorantLab"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantlab/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab() {#constructor}
 
-Инициализирует новый экземпляр[`ColorantLab`](../) класс.
+Инициализирует новый экземпляр класса [`ColorantLab`](../).
 
 ```csharp
 public ColorantLab()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ColorantLab](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantLab(int, int, float) {#constructor_1}
 
-Инициализирует новый экземпляр[`ColorantLab`](../) класс.
+Инициализирует новый экземпляр класса [`ColorantLab`](../).
 
 ```csharp
 public ColorantLab(int a, int b, float l)
@@ -32,14 +33,14 @@ public ColorantLab(int a, int b, float l)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| a | Int32 | Компонент. |
-| b | Int32 | Компонент Б. |
-| l | Single | L компонент. |
+| a | Int32 | Компонент A. |
+| b | Int32 | Компонент B. |
+| l | Single | Компонент L. |
 
-### Смотрите также
+### См. также
 
 * class [ColorantLab](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.UniqueId
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает глобальный уникальный идентификатор источника данных в ресурсе ссылки PSD.
+title: "LinkDataSource.UniqueId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Возвращает глобальный уникальный идентификатор источника данных в ресурсе ссылки PSD."
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.UniqueId property
 
 Получает глобальный уникальный идентификатор источника данных в ресурсе ссылки PSD.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uni
 public Guid UniqueId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Уникальный идентификатор ссылки источника данных в ресурсе Adobe® Photoshop® LnkE/Lnk2.
+Уникальный идентификатор ссылки источника данных в ресурсе Adobe® Photoshop® LnkE / Lnk2.
 
 ### Исключения
 
@@ -24,10 +25,10 @@ public Guid UniqueId { get; }
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству UniqueId. |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

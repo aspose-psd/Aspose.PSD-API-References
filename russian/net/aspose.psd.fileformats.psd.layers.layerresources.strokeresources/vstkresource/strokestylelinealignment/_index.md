@@ -1,11 +1,12 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает или задает выравнивание линии стиля обводки.
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Получает или задает выравнивание линии стиля Stroke"
 type: docs
-weight: 100
+weight: 80
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
 Получает или задает выравнивание линии стиля обводки.
@@ -14,7 +15,7 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку ресурса VstkResource.
 
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

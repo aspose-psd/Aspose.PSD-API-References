@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой экспозиции.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой коррекции экспозиции"
 type: docs
-weight: 340
+weight: 350
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-Добавляет корректирующий слой экспозиции.
+Добавляет слой коррекции экспозиции.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
@@ -17,19 +18,19 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| exposure | Single | Экспозиция. |
+| выдержка | Single | Выдержка. |
 | offset | Single | Смещение. |
-| gammaCorrection | Single | Гамма-коррекция. |
+| коррекция гаммы | Single | Коррекция гаммы. |
 
 ### Возвращаемое значение
 
-Создан корректирующий слой экспозиции
+Создан слой коррекции экспозиции
 
-### Смотрите также
+### См. также
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

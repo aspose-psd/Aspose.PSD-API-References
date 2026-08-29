@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IRasterImageRawDataLoader интерфейс. Загрузчик необработанных данных растрового изображения.
+title: "Интерфейс IRasterImageRawDataLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IRasterImageRawDataLoader. Загрузчик необработанных данных растрового изображения."
 type: docs
-weight: 4580
+weight: 5050
 url: /ru/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
 Загрузчик необработанных данных растрового изображения.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd/irasterimagerawdataloader/
 public interface IRasterImageRawDataLoader
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Получает значение, указывающее, поддерживается ли загрузка необработанных данных. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Возвращает значение, указывающее, поддерживается ли загрузка необработанных данных. |
 | [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Получает текущие настройки необработанных данных. Обратите внимание, что при использовании этих настроек данные загружаются без преобразования. |
 
 ## Методы
@@ -27,9 +28,9 @@ public interface IRasterImageRawDataLoader
 | --- | --- |
 | [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Загружает необработанные данные. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

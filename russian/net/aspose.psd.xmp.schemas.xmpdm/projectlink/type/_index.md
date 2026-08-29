@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.Type
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProjectLink свойство. Получает или задает тип файла.
+title: "ProjectLink.Type"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProjectLink. Получает или задает тип файла"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
 Получает или задает тип файла.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 public ProjectType Type { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип файла.
 
-### Смотрите также
+### См. также
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

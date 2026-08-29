@@ -1,11 +1,12 @@
 ---
-title: CustResource.Save
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustResource метод. Сохраняет ресурс в указанный контейнер потока.
+title: "CustResource.Save"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод CustResource. Сохраняет ресурс в указанный потоковый контейнер"
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/save/
 ---
+{{< psd/tize >}}
 ## CustResource.Save method
 
 Сохраняет ресурс в указанный контейнер потока.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Контейнер потока для сохранения. |
+| streamContainer | StreamContainer | Контейнер потока, в который будет сохраняться. |
 | psdVersion | Int32 | Версия PSD. |
 
-### Смотрите также
+### См. также
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [CustResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

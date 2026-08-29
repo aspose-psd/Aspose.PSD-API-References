@@ -1,11 +1,12 @@
 ---
-title: Interface IAsyncTaskState
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.AsyncTask.IAsyncTaskState интерфейс. Предоставляет доступ к состоянию асинхронной задачи.
+title: "Интерфейс IAsyncTaskState"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.AsyncTask.IAsyncTaskState. Предоставляет доступ к состоянию асинхронной задачи"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.asynctask/iasynctaskstate/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState interface
 
 Предоставляет доступ к состоянию асинхронной задачи.
@@ -14,22 +15,22 @@ url: /ru/net/aspose.psd.asynctask/iasynctaskstate/
 public interface IAsyncTaskState
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Получает значение, указывающее, отменена ли асинхронная задача. |
-| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Получает ход выполнения асинхронной задачи. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Возвращает значение, указывающее, отменена ли асинхронная задача. |
+| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Возвращает прогресс асинхронной задачи. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Устанавливает ход выполнения асинхронной задачи. |
+| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Устанавливает прогресс асинхронной задачи. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

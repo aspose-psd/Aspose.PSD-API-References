@@ -1,14 +1,15 @@
 ---
-title: RdOptimizerSettings.Create
-second_title: Справочник по Aspose.PSD для .NET API
-description: RdOptimizerSettings метод. Создает этот экземпляр.
+title: "RdOptimizerSettings.Create"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RdOptimizerSettings. Создает этот экземпляр"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.Create method
 
-Создает этот экземпляр.
+Создаёт этот экземпляр.
 
 ```csharp
 public static RdOptimizerSettings Create()
@@ -18,10 +19,10 @@ public static RdOptimizerSettings Create()
 
 возвращает экземпляр класса RDOptimizerSettings
 
-### Смотрите также
+### См. также
 
 * class [RdOptimizerSettings](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

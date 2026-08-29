@@ -1,28 +1,29 @@
 ---
-title: ExifData.Saturation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает насыщенность.
+title: "ExifData.Saturation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает насыщенность"
 type: docs
 weight: 890
 url: /ru/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-Получает или устанавливает насыщенность.
+Получает или задает насыщенность.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Насыщенность.
 
-### Смотрите также
+### См. также
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

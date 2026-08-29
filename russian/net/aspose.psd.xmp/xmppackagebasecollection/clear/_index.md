@@ -1,23 +1,24 @@
 ---
-title: XmpPackageBaseCollection.Clear
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection метод. Очистить всеXmpPackage внутри коллекции.
+title: "XmpPackageBaseCollection.Clear"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpPackageBaseCollection. Очищает все XmpPackage в коллекции"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Clear method
 
-Очистить все[`XmpPackage`](../../xmppackage/) внутри коллекции.
+Очищает все [`XmpPackage`](../../xmppackage/) в коллекции.
 
 ```csharp
 public void Clear()
 ```
 
-### Смотрите также
+### См. также
 
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Рисует заданное изображение без масштабирования и при необходимости обрезает его чтобы оно поместилось в указанный прямоугольник.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Рисует указанное изображение без масштабирования и обрезает его при необходимости, чтобы поместить в указанный прямоугольник"
 type: docs
-weight: 240
+weight: 250
 url: /ru/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-Рисует заданное изображение без масштабирования и при необходимости обрезает его, чтобы оно поместилось в указанный прямоугольник.
+Рисует указанное изображение без масштабирования и обрезает его при необходимости, чтобы поместить в указанный прямоугольник.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
@@ -16,21 +17,21 @@ public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceImage | Image | Изображение для рисования. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) в котором рисовать изображение. |
+| sourceImage | Image | Изображение, которое будет отрисовано. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/), в котором следует нарисовать изображение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | *sourceImage* нулевой. |
+| ArgumentNullException | *sourceImage* равно null. |
 
-### Смотрите также
+### См. также
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

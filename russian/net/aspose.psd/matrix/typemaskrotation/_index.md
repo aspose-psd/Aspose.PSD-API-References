@@ -1,11 +1,12 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Matrix поле. Эта константа является битовой маской для любого из битов флага вращения.
+title: "Matrix.TypeMaskRotation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле Matrix. Эта константа является битовой маской для любого из битов флага вращения."
 type: docs
 weight: 250
 url: /ru/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
 Эта константа является битовой маской для любого из битов флага вращения.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/matrix/typemaskrotation/
 public const int TypeMaskRotation;
 ```
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../)
-* пространство имен [Aspose.PSD](../../matrix/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

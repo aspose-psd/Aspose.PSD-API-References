@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Font
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextLayer свойство. Получает шрифт.
+title: "TextLayer.Font"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextLayer. Возвращает шрифт"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
 Получает шрифт.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 public Font Font { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Шрифт.
 
-### Смотрите также
+### См. также
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Справочник по Aspose.PSD для .NET API
-description: OuterGlowEffect свойство. Получает или задает интенсивность в процентах.
+title: "OuterGlowEffect.Spread"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "OuterGlowEffect свойство. Получает или задает интенсивность в процентах"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
 Получает или задает интенсивность в процентах.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spre
 public int Spread { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Спред.
+Размах.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку OuterGlowEffect.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OuterGlowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

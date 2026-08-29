@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Equality
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Проверяет являются ли дваRectangle структуры имеют одинаковое расположение и размер.
+title: "Rectangle.op_Equality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Проверяет, имеют ли две структуры Rectangle одинаковое расположение и размер."
 type: docs
 weight: 290
 url: /ru/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-Проверяет, являются ли два[`Rectangle`](../) структуры имеют одинаковое расположение и размер.
+Проверяет, имеют ли две структуры [`Rectangle`](../) одинаковое расположение и размер.
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator ==(Rectangle left, Rectangle right)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Rectangle | [`Rectangle`](../) структура слева от оператора равенства. |
-| right | Rectangle | [`Rectangle`](../)структуру, которая находится справа от оператора равенства. |
+| left | Rectangle | Структура [`Rectangle`](../), находящаяся слева от оператора равенства. |
+| right | Rectangle | Структура [`Rectangle`](../), находящаяся справа от оператора равенства. |
 
 ### Возвращаемое значение
 
-Этот оператор возвращает истину, если два[`Rectangle`](../) структуры имеют равные[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , и[`Height`](../height/) характеристики.
+Этот оператор возвращает true, если две структуры [`Rectangle`](../) имеют одинаковые свойства [`X`](../x/), [`Y`](../y/), [`Width`](../width/) и [`Height`](../height/).
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

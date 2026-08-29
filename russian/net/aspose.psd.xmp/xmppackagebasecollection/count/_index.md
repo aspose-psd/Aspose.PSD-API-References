@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackageBaseCollection свойство. Получает количество элементов в коллекции.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpPackageBaseCollection. Возвращает количество элементов в коллекции"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
 Получает количество элементов в коллекции.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp/xmppackagebasecollection/count/
 public int Count { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Количество элементов в коллекции.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackageBaseCollection](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

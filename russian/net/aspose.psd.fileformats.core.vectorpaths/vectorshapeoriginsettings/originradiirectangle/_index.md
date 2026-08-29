@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: VectorShapeOriginSettings свойство. Получает или задает исходный прямоугольник радиусов.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VectorShapeOriginSettings. Получает или задает прямоугольник радиусов происхождения"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-Получает или задает исходный прямоугольник радиусов.
+Возвращает или задает прямоугольник исходных радиусов.
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Исходный прямоугольник радиусов.
+Прямоугольник радиусов происхождения.
 
-### Смотрите также
+### См. также
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

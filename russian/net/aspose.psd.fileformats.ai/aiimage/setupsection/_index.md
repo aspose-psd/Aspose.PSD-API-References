@@ -1,28 +1,29 @@
 ---
-title: AiImage.SetupSection
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiImage свойство. Получает раздел установки.
+title: "AiImage.SetupSection"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiImage. Возвращает раздел настройки."
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
-Получает раздел установки.
+Получает раздел настройки.
 
 ```csharp
 public AiSetupSection SetupSection { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Раздел настройки.
 
-### Смотрите также
+### См. также
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

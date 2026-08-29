@@ -1,11 +1,12 @@
 ---
-title: ExifData.UserComment
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает комментарий пользователя.
+title: "ExifData.UserComment"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает пользовательский комментарий"
 type: docs
 weight: 1060
 url: /ru/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
 Получает или задает комментарий пользователя.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/usercomment/
 public string UserComment { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Комментарий пользователя.
+Пользовательский комментарий.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

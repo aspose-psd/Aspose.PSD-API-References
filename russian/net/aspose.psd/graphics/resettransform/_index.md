@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. СбрасываетTransform свойство к личности.
+title: "Graphics.ResetTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Сбрасывает свойство Transform к единичному."
 type: docs
-weight: 430
+weight: 440
 url: /ru/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-Сбрасывает[`Transform`](../transform/) свойство к личности.
+Сбрасывает свойство [`Transform`](../transform/) к единичному.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange перечисление. exif диапазон расстояний до объекта enum.
+title: "Перечисление ExifSubjectDistanceRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange перечисление. перечисление диапазона расстояния объекта exif"
 type: docs
-weight: 950
+weight: 960
 url: /ru/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif диапазон расстояний до объекта enum.
+Перечисление диапазона расстояния до объекта exif.
 
 ```csharp
 public enum ExifSubjectDistanceRange
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| Unknown | `0` | Неизвестный диапазон расстояний до объекта |
-| Macro | `1` | Диапазон макросов |
-| CloseView | `2` | Закрыть представление. |
-| DistantView | `3` | Вид издалека. |
+| Unknown | `0` | Неизвестный диапазон расстояния объекта |
+| Macro | `1` | Макро диапазон |
+| CloseView | `2` | Близкий вид. |
+| DistantView | `3` | Дальний вид. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

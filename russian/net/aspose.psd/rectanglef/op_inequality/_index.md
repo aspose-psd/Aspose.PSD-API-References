@@ -1,14 +1,15 @@
 ---
-title: RectangleF.op_Inequality
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleF метод. Проверяет являются ли дваRectangleF структуры отличаются расположением или размером.
+title: "RectangleF.op_Inequality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleF метод. Проверяет, отличаются ли две структуры RectangleF по положению или размеру"
 type: docs
 weight: 290
 url: /ru/net/aspose.psd/rectanglef/op_inequality/
 ---
+{{< psd/tize >}}
 ## RectangleF Inequality operator
 
-Проверяет, являются ли два[`RectangleF`](../) структуры отличаются расположением или размером.
+Проверяет, отличаются ли две структуры [`RectangleF`](../) по положению или размеру.
 
 ```csharp
 public static bool operator !=(RectangleF left, RectangleF right)
@@ -16,17 +17,17 @@ public static bool operator !=(RectangleF left, RectangleF right)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | RectangleF | [`RectangleF`](../) структура слева от оператора неравенства. |
-| right | RectangleF | [`RectangleF`](../) структура, которая находится справа от оператора неравенства. |
+| left | RectangleF | Структура [`RectangleF`](../), находящаяся слева от оператора неравенства. |
+| right | RectangleF | Структура [`RectangleF`](../), находящаяся справа от оператора неравенства. |
 
 ### Возвращаемое значение
 
-Этот оператор возвращает true, если любой из[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , или[`Height`](../height/) свойства двух[`RectangleF`](../) структуры неодинаковые; иначе ложно.
+Этот оператор возвращает true, если любое из свойств [`X`](../x/), [`Y`](../y/), [`Width`](../width/) или [`Height`](../height/) двух структур [`RectangleF`](../) не равно; в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../)
-* пространство имен [Aspose.PSD](../../rectanglef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

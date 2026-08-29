@@ -1,14 +1,15 @@
 ---
-title: StringFormat.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: StringFormat метод. Преобразует этоStringFormat объект в удобочитаемую строку.
+title: "StringFormat.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод StringFormat. Преобразует этот объект StringFormat в человекочитаемую строку"
 type: docs
-weight: 150
+weight: 180
 url: /ru/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-Преобразует это[`StringFormat`](../) объект в удобочитаемую строку.
+Преобразует этот объект [`StringFormat`](../) в человекочитаемую строку.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-Строковое представление этого[`StringFormat`](../) объект.
+Строковое представление этого объекта [`StringFormat`](../).
 
-### Смотрите также
+### См. также
 
 * class [StringFormat](../)
-* пространство имен [Aspose.PSD](../../stringformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

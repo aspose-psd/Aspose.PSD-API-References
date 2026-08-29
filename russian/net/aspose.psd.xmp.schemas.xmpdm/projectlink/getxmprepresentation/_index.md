@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProjectLink метод. Возвращает строковое значение в формате XMP.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ProjectLink. Возвращает string, содержащее значение в формате XMP."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
 Возвращает строковое значение в формате XMP.
@@ -24,10 +25,10 @@ public override string GetXmpRepresentation()
 | --- | --- |
 | NotImplementedException |  |
 
-### Смотрите также
+### См. также
 
 * class [ProjectLink](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

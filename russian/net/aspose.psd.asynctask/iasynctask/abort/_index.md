@@ -1,23 +1,24 @@
 ---
-title: IAsyncTask.Abort
-second_title: Справочник по Aspose.PSD для .NET API
-description: IAsyncTask метод. Прерывает эту задачу. Задача завершается немедленно с риском не освободить внутренние неуправляемые ресурсы.
+title: "IAsyncTask.Abort"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод IAsyncTask. Прерывает эту задачу. Задача завершается немедленно с риском неосвобождения внутренних неуправляемых ресурсов"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.asynctask/iasynctask/abort/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Abort method
 
-Прерывает эту задачу. Задача завершается немедленно, с риском не освободить внутренние неуправляемые ресурсы.
+Прерывает эту задачу. Задача завершается немедленно, с риском не освобождения внутренних неуправляемых ресурсов.
 
 ```csharp
 public void Abort()
 ```
 
-### Смотрите также
+### См. также
 
 * interface [IAsyncTask](../)
-* пространство имен [Aspose.PSD.AsyncTask](../../iasynctask/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

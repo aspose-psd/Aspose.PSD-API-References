@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrush свойство. Получает или задает конечный цвет градиента.
+title: "LinearGradientBrush.EndColor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinearGradientBrush. Получает или задает конечный цвет градиента"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
 Получает или задает конечный цвет градиента.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 public Color EndColor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Конечный цвет градиента.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

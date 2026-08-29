@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Справочник по Aspose.PSD для .NET API
-description: SharpenFilterOptions свойство. Получает или задает сигму.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SharpenFilterOptions. Получает или задает сигму"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-Получает или задает сигму.
+Получает или задает sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Сигма.
 
-### Смотрите также
+### См. также
 
 * class [SharpenFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

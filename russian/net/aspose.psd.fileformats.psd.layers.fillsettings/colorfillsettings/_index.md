@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings сорт. Настройки эффекта цветовой заливки
+title: "Класс ColorFillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings. Настройки эффекта заливки цветом"
 type: docs
-weight: 1930
+weight: 2040
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Настройки эффекта цветовой заливки
+Настройки эффекта заливки цветом
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
-## Характеристики
+## Конструкторы
+
+| Имя | Описание |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Конструктор по умолчанию. |
+
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Получает или задает цвет. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Тип заливки |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку слоя с эффектом обводки с типом заливки — Цвет.
+Следующий код демонстрирует поддержку слоя эффекта штриха с типом заливки — Color.
 
 ```csharp
 [C#]
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

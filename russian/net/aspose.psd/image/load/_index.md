@@ -1,11 +1,12 @@
 ---
-title: Image.Load
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image метод. Загружает новое изображение из указанного файла.
+title: "Image.Load"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Image. Загружает новое изображение из указанного файла."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
 Загружает новое изображение из указанного файла.
@@ -16,19 +17,19 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу для загрузки изображения. |
-| loadOptions | LoadOptions | Варианты загрузки. |
+| filePath | String | Путь к файлу, из которого загружается изображение. |
+| loadOptions | LoadOptions | Параметры загрузки. |
 
 ### Возвращаемое значение
 
 Загруженное изображение.
 
-### Смотрите также
+### См. также
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,28 +43,28 @@ public static Image Load(string filePath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| filePath | String | Путь к файлу для загрузки изображения. |
+| filePath | String | Путь к файлу, из которого загружается изображение. |
 
 ### Возвращаемое значение
 
 Загруженное изображение.
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется загрузка существующего файла изображения в экземпляр Aspose.PSD.Image с использованием указанного пути к файлу.
+В этом примере демонстрируется загрузка существующего файла Image в экземпляр Aspose.PSD.Image с использованием указанного пути к файлу.
 
 ```csharp
 [C#]
 
-//Создаем экземпляр образа и инициализируем его существующим файлом образа с диска
+//Создайте экземпляр Image и инициализируйте его существующим файлом изображения, расположенным на диске.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // делаем некоторую обработку изображения
+    //выполнить некоторую обработку изображения
 }
 ```
 
-В следующем примере показано, что выравнивание текста с помощью ITextPortion для языков с письмом справа налево работает правильно.
+В следующем примере демонстрируется, что выравнивание текста через ITextPortion для языков с письмом справа налево работает корректно.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов в оттенках серого в 16-битных на канал RGB работает правильно и без исключений.
+В следующем примере демонстрируется, что чтение и сохранение 16‑битных Grayscale PSD‑файлов в 16‑битный RGB на канал работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Здесь не должно быть исключений.
+    // Здесь не должно быть исключения.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных файлов PSD в оттенках серого в 8-битных оттенках серого на канал работает правильно и без исключений.
+В следующем примере демонстрируется, что чтение и сохранение 16‑битных Grayscale PSD‑файлов в 8‑битный Grayscale на канал работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Здесь не должно быть исключений.
+    // Здесь не должно быть исключения.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-В следующем примере показано, что процесс преобразования документов работает правильно и без исключений.
+Следующий пример демонстрирует, что прогресс конвертации документа работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-В следующем примере показано, что чтение и сохранение 16-битных PSD-файлов в оттенках серого работает правильно и без исключений.
+Следующий пример демонстрирует, что чтение и сохранение 16‑битных градаций серого PSD‑файлов работает корректно и без исключений.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Здесь не должно быть исключений.
+        // Здесь не должно быть исключения.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,11 +256,11 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -274,18 +275,18 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | stream | Stream | Поток, из которого загружается изображение. |
-| loadOptions | LoadOptions | Варианты загрузки. |
+| loadOptions | LoadOptions | Параметры загрузки. |
 
 ### Возвращаемое значение
 
 Загруженное изображение.
 
-### Смотрите также
+### См. также
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -299,34 +300,34 @@ public static Image Load(Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Поток для загрузки изображения. |
+| stream | Stream | Поток, из которого загружается изображение. |
 
 ### Возвращаемое значение
 
 Загруженное изображение.
 
-### Примеры
+## Примеры
 
-В этом примере демонстрируется использование объектов System.IO.Stream для загрузки существующего файла изображения.
+В этом примере демонстрируется использование объектов System.IO.Stream для загрузки существующего файла Image.
 
 ```csharp
 [C#]
 
-//Создаем экземпляр FileStream
+//Создать экземпляр FileStream
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    //Создаем экземпляр класса Image и загружаем существующий файл через объект FileStream, вызывая метод Load
+    //Создать экземпляр класса Image и загрузить существующий файл через объект FileStream, вызвав метод Load
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        // делаем некоторую обработку изображения.
+        //выполнить некоторую обработку изображения.
     }
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

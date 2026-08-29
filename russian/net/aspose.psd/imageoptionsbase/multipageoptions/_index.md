@@ -1,24 +1,25 @@
 ---
-title: ImageOptionsBase.MultiPageOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageOptionsBase свойство. Многостраничные параметры
+title: "ImageOptionsBase.MultiPageOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ImageOptionsBase. Параметры многопстраничности"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/imageoptionsbase/multipageoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.MultiPageOptions property
 
-Многостраничные параметры
+Параметры многопостраничности
 
 ```csharp
 public MultiPageOptions MultiPageOptions { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [MultiPageOptions](../../../aspose.psd.imageoptions/multipageoptions/)
 * class [ImageOptionsBase](../)
-* пространство имен [Aspose.PSD](../../imageoptionsbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

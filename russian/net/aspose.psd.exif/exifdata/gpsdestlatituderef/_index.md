@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает значение GPS указывающее является ли широта точки назначения северной или южной широтой.
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает значение GPS, указывающее, находится ли широта целевой точки в северном или южном полушарии"
 type: docs
 weight: 450
 url: /ru/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
-Получает или задает значение GPS, указывающее, является ли широта точки назначения северной или южной широтой.
+Получает или задает значение GPS, указывающее, является ли широта целевой точки северной или южной.
 
 ```csharp
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение GPS, указывающее, является ли широта точки назначения северной или южной широтой.
+Значение GPS, указывающее, находится ли широта целевой точки в северном или южном полушарии.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

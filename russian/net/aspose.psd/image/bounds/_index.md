@@ -1,11 +1,12 @@
 ---
-title: Image.Bounds
-second_title: Справочник по Aspose.PSD для .NET API
-description: Image свойство. Получает границы изображения.
+title: "Image.Bounds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Image. Возвращает границы изображения"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
 Получает границы изображения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/image/bounds/
 public Rectangle Bounds { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Границы изображения.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* пространство имен [Aspose.PSD](../../image/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

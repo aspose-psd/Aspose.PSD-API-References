@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Добавляет указанныйGraphicsPath на этот путь.
+title: "GraphicsPath.AddPath"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Добавляет указанный GraphicsPath к этому пути."
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Добавляет указанный[`GraphicsPath`](../) на этот путь.
+Добавляет указанный [`GraphicsPath`](../) к этому пути.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
@@ -16,19 +17,19 @@ public void AddPath(GraphicsPath addingPath)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| addingPath | GraphicsPath | [`GraphicsPath`](../) добавить. |
+| addingPath | GraphicsPath | [`GraphicsPath`](../) для добавления. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Добавляет указанный[`GraphicsPath`](../) на этот путь.
+Добавляет указанный [`GraphicsPath`](../) к этому пути.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
@@ -36,13 +37,13 @@ public void AddPath(GraphicsPath addingPath, bool connect)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| addingPath | GraphicsPath | [`GraphicsPath`](../) добавить. |
-| connect | Boolean | Логическое значение, указывающее, является ли первая фигура в добавленном пути частью последней фигуры в этом пути. Значение true указывает, что первая фигура в добавленном пути является частью последней фигуры в этом пути. Значение false указывает, что первая фигура в добавленном пути отделена от последней фигуры в этом пути. |
+| addingPath | GraphicsPath | [`GraphicsPath`](../) для добавления. |
+| соединять | Boolean | Булево значение, указывающее, является ли первая фигура в добавленном пути частью последней фигуры в этом пути. Значение true указывает, что первая фигура в добавленном пути является частью последней фигуры в этом пути. Значение false указывает, что первая фигура в добавленном пути отдельна от последней фигуры в этом пути. |
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

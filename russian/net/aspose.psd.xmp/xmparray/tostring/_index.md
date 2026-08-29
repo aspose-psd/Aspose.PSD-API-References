@@ -1,14 +1,15 @@
 ---
-title: XmpArray.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpArray метод. ВозвращаетString который представляет этот экземпляр.
+title: "XmpArray.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "метод XmpArray. Возвращает String, представляющий этот экземпляр"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-ВозвращаетString который представляет этот экземпляр.
+Возвращает строку, представляющую этот экземпляр.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * class [XmpArray](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmparray/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

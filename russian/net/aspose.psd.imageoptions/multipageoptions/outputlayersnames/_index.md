@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: Справочник по Aspose.PSD для .NET API
-description: MultiPageOptions свойство. Получает или задает имена выходных слоев работает если формат экспорта поддерживает имена слоев например для Psd
+title: "MultiPageOptions.OutputLayersNames"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "MultiPageOptions свойство. Получает или задает имена выходных слоёв. Работает, если формат экспорта поддерживает именование слоёв, например для Psd"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.OutputLayersNames property
 
-Получает или задает имена выходных слоев (работает, если формат экспорта поддерживает имена слоев, например, для Psd)
+Получает или задает имена выходных слоёв(Работает, если формат экспорта поддерживает именование слоёв, например для Psd)
 
 ```csharp
 public string[] OutputLayersNames { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Имена выходных слоев.
+Имена выходных слоёв.
 
-### Смотрите также
+### См. также
 
 * class [MultiPageOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class XmpText
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpText сорт. Представляет базовый тип XMP Text.
+title: "Класс XmpText"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Types.Basic.XmpText. Представляет базовый тип XMP Text"
 type: docs
-weight: 5980
+weight: 6480
 url: /ru/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
 Представляет базовый тип XMP Text.
@@ -18,9 +19,9 @@ public class XmpText : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Инициализирует новый экземпляр`XmpText` класс. |
+| [XmpText](xmptext/)(string) | Инициализирует новый экземпляр класса `XmpText`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
@@ -30,12 +31,12 @@ public class XmpText : XmpTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

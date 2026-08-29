@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Справочник по Aspose.PSD для .NET API
-description: MotionWienerFilterOptions свойство. Получает или задает сглаживание.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство MotionWienerFilterOptions. Получает или задает сглаживание"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-Получает или задает сглаживание.
+Получает или задает smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Гладкая.
+Сглаживание.
 
-### Смотрите также
+### См. также
 
 * class [MotionWienerFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

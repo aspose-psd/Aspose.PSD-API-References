@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: Справочник по Aspose.PSD для .NET API
-description: ITextStyle свойство. Получает или задает имя шрифта.
+title: "ITextStyle.FontName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ITextStyle. Получает или задает имя шрифта"
 type: docs
 weight: 120
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 Получает или задает имя шрифта.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 public string FontName { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность изменения имени шрифта в стиле части.
+Следующий код демонстрирует возможность изменить имя шрифта в частичном стиле.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * interface [ITextStyle](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

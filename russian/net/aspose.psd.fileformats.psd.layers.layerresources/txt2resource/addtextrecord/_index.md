@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Справочник по Aspose.PSD для .NET API
-description: Txt2Resource метод. Добавляет текстовую запись в ресурс и возвращает идентификатор текстовой записи.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Txt2Resource. Добавляет текстовую запись в ресурс и возвращает её идентификатор."
 type: docs
-weight: 70
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-Добавляет текстовую запись в ресурс и возвращает идентификатор текстовой записи.
+Добавляет текстовую запись в Resource и возвращает идентификатор текстовой записи.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
@@ -16,12 +17,12 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| text | String | Текст записи. |
-| bounds | RectangleF | Границы. |
+| текст | String | Текст записи. |
+| границы | RectangleF | Границы. |
 
 ### Возвращаемое значение
 
-Возвращает идентификатор текстовой записи для resource
+Возвращает идентификатор текстовой записи для ресурса.
 
 ### Исключения
 
@@ -29,9 +30,9 @@ public int AddTextRecord(string text, RectangleF bounds)
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Неизвестная версия ресурса Txt2. |
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку поддержки новых свойств ITextStyle.
+Следующий код демонстрирует поддержку новых свойств ITextStyle.
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// Проверяем значения
+// Проверьте значения
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -83,11 +84,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

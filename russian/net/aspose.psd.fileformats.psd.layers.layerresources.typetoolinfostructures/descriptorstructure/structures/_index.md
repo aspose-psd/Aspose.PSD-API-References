@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.Structures
-second_title: Справочник по Aspose.PSD для .NET API
-description: DescriptorStructure свойство. Получает или задает копию массива структур.
+title: "DescriptorStructure.Structures"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "DescriptorStructure property. Получает или задает копию массива структур"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structures/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.Structures property
 
 Получает или задает копию массива структур.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Структуры.
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает цветовой профиль GRAY монохромный для изображений PSD в оттенках серого.
+title: "PsdImage.GrayColorProfile"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает или задает монохромный цветовой профиль GRAY для градационных PSD‑изображений"
 type: docs
 weight: 130
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-Получает или задает цветовой профиль GRAY (монохромный) для изображений PSD в оттенках серого.
+Получает или задает GRAY (монохромный) цветовой профиль для градационных PSD‑изображений.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Цветовой профиль СЕРЫЙ (монохромный).
+Цветовой профиль GRAY (монохромный).
 
-### Смотрите также
+### См. также
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

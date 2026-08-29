@@ -1,14 +1,15 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: Справочник по Aspose.PSD для .NET API
-description: SmartObjectProvider метод. Преобразует слои во встроенный смартобъект.
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "SmartObjectProvider метод. Преобразует слои во встроенный smart object"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
-Преобразует слои во встроенный смарт-объект.
+Преобразует слои в встроенный смарт‑объект.
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
@@ -20,26 +21,26 @@ public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 
 ### Возвращаемое значение
 
-Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) экземпляр.
+Созданный экземпляр [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Нет слоев для преобразования. или Номер слоя вне допустимого диапазона. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Нет слоев для конвертации. или Номер слоя вне диапазона. |
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ConvertToSmartObject(Layer[]) {#converttosmartobject}
 
-Преобразует слои во встроенный смарт-объект.
+Преобразует слои в встроенный смарт‑объект.
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
@@ -51,20 +52,20 @@ public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 
 ### Возвращаемое значение
 
-Созданный[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) экземпляр.
+Созданный экземпляр [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) .
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Нет слоев для преобразования. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Нет слоев для конвертации. |
 
-### Смотрите также
+### См. также
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

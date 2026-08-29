@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Nominator
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffSRational свойство. Получает номатор.
+title: "TiffSRational.Nominator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffSRational. Возвращает числитель"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.tiff/tiffsrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Nominator property
 
-Получает номатор.
+Возвращает числитель.
 
 ```csharp
 public int Nominator { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Номинатор.
+Числитель.
 
-### Смотрите также
+### См. также
 
 * class [TiffSRational](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

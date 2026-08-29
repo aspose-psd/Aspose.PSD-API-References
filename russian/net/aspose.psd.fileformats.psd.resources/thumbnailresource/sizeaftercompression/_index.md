@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.SizeAfterCompression
-second_title: Справочник по Aspose.PSD для .NET API
-description: ThumbnailResource свойство. Получает или задает размер после сжатия. Используется для проверки согласованности.
+title: "ThumbnailResource.SizeAfterCompression"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ThumbnailResource. Получает или задает размер после сжатия. Используется для проверки согласованности"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.SizeAfterCompression property
 
 Получает или задает размер после сжатия. Используется для проверки согласованности.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercom
 public int SizeAfterCompression { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Размер после сжатия.
 
-### Смотрите также
+### См. также
 
 * class [ThumbnailResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

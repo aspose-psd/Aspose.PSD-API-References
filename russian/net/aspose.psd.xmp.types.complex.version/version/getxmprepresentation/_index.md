@@ -1,14 +1,15 @@
 ---
-title: Version.GetXmpRepresentation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Version метод. Получает содержащееся в строке значение в формате XMP.
+title: "Version.GetXmpRepresentation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Version. Получает строковое значение в формате XMP"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.xmp.types.complex.version/version/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Version.GetXmpRepresentation method
 
-Получает содержащееся в строке значение в формате XMP.
+Получает строковое значение в формате XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Возвращаемое значение
 
-Возвращает содержащееся в строке значение в формате XMP.
+Возвращает строковое значение в формате XMP.
 
-### Смотрите также
+### См. также
 
 * class [Version](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

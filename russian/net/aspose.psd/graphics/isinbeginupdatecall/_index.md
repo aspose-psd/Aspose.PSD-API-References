@@ -1,11 +1,12 @@
 ---
-title: Graphics.IsInBeginUpdateCall
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает значение указывающее находится ли графика в состоянии вызова BeginUpdate.
+title: "Graphics.IsInBeginUpdateCall"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Возвращает значение, указывающее, находится ли graphics в состоянии BeginUpdate."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/graphics/isinbeginupdatecall/
 ---
+{{< psd/tize >}}
 ## Graphics.IsInBeginUpdateCall property
 
 Получает значение, указывающее, находится ли графика в состоянии вызова BeginUpdate.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd/graphics/isinbeginupdatecall/
 public bool IsInBeginUpdateCall { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`Истинный` если графика находится в состоянии вызова BeginUpdate; в противном случае,`ЛОЖЬ` .
+`True`, если graphics находится в состоянии BeginUpdate; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.DeepClone
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Выполняет глубокое клонирование этого графического пути.
+title: "GraphicsPath.DeepClone"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Выполняет глубокое клонирование этого графического пути"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/graphicspath/deepclone/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.DeepClone method
 
 Выполняет глубокое клонирование этого графического пути.
@@ -16,12 +17,12 @@ public GraphicsPath DeepClone()
 
 ### Возвращаемое значение
 
-Глубокий клон графического пути.
+Глубокая копия графического пути.
 
-### Смотрите также
+### См. также
 
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

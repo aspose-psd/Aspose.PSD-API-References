@@ -1,14 +1,15 @@
 ---
-title: XmpReal.XmpReal
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpReal строитель. Инициализирует новый экземплярXmpReal класс.
+title: "XmpReal.XmpReal"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор XmpReal. Инициализирует новый экземпляр класса XmpReal"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Инициализирует новый экземпляр[`XmpReal`](../) класс.
+Инициализирует новый экземпляр класса [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
@@ -16,19 +17,19 @@ public XmpReal(float value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Single | Плавающее значение. |
+| значение | Single | Значение типа float. |
 
-### Смотрите также
+### См. также
 
 * class [XmpReal](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpReal`](../) класс.
+Инициализирует новый экземпляр класса [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
@@ -36,19 +37,19 @@ public XmpReal(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | значение равно нулю. |
-| ArgumentException | Неверное значение. Должен быть плавающим. |
+| ArgumentNullException | Значение равно null. |
+| ArgumentException | Недопустимое значение. Должно быть типом float. |
 
-### Смотрите также
+### См. также
 
 * class [XmpReal](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Добавляет корректирующий слой цветового баланса.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Добавляет слой корректировки цветового баланса."
 type: docs
-weight: 320
+weight: 330
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-Добавляет корректирующий слой цветового баланса.
+Добавляет слой коррекции цветового баланса.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
@@ -16,13 +17,13 @@ public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 
 ### Возвращаемое значение
 
-Недавно созданный слой цветового баланса.
+Новый созданный слой цветового баланса.
 
-### Смотрите также
+### См. также
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

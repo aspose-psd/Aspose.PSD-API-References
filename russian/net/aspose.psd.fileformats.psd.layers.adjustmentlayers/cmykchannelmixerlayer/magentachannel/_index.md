@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykChannelMixerLayer свойство. Получает пурпурный канал.
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "CmykChannelMixerLayer свойство. Получает канал магенты"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
-Получает пурпурный канал.
+Получает канал магента.
 
 ```csharp
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Пурпурный канал.
+Канал магенты.
 
-### Смотрите также
+### См. также
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

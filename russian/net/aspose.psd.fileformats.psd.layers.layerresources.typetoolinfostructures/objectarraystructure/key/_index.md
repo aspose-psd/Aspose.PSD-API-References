@@ -1,23 +1,24 @@
 ---
-title: ObjectArrayStructure.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: ObjectArrayStructure свойство. Получает ключ структуры массива объектов.
+title: "ObjectArrayStructure.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ObjectArrayStructure. Возвращает ключ структуры массива объектов"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Key property
 
-Получает ключ структуры массива объектов.
+Получает ключ структуры массивов объектов.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [ObjectArrayStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

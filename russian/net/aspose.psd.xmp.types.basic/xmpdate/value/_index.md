@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Value
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDate свойство. Получает или задает значение даты.
+title: "XmpDate.Value"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpDate. Получает или задает значение даты"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
 Получает или задает значение даты.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.basic/xmpdate/value/
 public DateTime Value { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение даты.
 
-### Смотрите также
+### См. также
 
 * class [XmpDate](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

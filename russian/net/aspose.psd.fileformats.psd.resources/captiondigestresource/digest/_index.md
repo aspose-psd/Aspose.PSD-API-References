@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Справочник по Aspose.PSD для .NET API
-description: CaptionDigestResource свойство. Получает или задает дайджест.
+title: "CaptionDigestResource.Digest"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CaptionDigestResource. Возвращает или задает дайджест"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
 Получает или задает дайджест.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 public byte[] Digest { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Дайджест.
+Сводка.
 
-### Смотрите также
+### См. также
 
 * class [CaptionDigestResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper метод. Получает пакет по URI пространства имен.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPacketWrapper метод. Получает пакет по URI пространства имён"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Получает пакет по URI пространства имен.
+Получает пакет по URI пространства имён.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -20,19 +21,19 @@ public XmpPackage GetPackage(string namespaceUri)
 
 ### Возвращаемое значение
 
-Возвращает пакет XMP для указанного URI пространства имен.
+Возвращает пакет XMP для указанного URI пространства имён.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | пространство именUri |
+| ArgumentNullException | namespaceUri |
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

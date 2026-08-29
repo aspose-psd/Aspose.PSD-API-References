@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает информацию о зоне GPS.
+title: "ExifData.GPSAreaInformation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает информацию о зоне GPS"
 type: docs
 weight: 380
 url: /ru/net/aspose.psd.exif/exifdata/gpsareainformation/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAreaInformation property
 
-Получает или устанавливает информацию о зоне GPS.
+Получает или задает информацию о зоне GPS.
 
 ```csharp
 public byte[] GPSAreaInformation { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Информация о зоне GPS.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Пространство имен обрабатывает параметры фильтра.
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Пространство имён обрабатывает параметры фильтра"
 type: docs
-weight: 410
+weight: 450
 url: /ru/net/aspose.psd.imagefilters.filteroptions/
 ---
-Пространство имен обрабатывает параметры фильтра.
+{{< psd/tize >}}
+Пространство имён обрабатывает параметры фильтра.
 
 ## Классы
 
-| Учебный класс | Описание |
+| Класс | Описание |
 | --- | --- |
 | [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Параметры большого прямоугольного фильтра |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Параметры фильтра двустороннего сглаживания. |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Параметры билатерального сглаживающего фильтра. |
 | [ConvolutionFilterOptions](./convolutionfilteroptions/) | Сверточный фильтр. |
-| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Параметры фильтра деконволюции, абстрактный class |
-| [FilterOptionsBase](./filteroptionsbase/) | База параметров фильтра, абстрактный class |
-| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Размытие по Гауссу |
-| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Параметры фильтра Винера Гаусса Удаление размытия gauss |
+| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Параметры деконволюционного фильтра, абстрактный класс |
+| [FilterOptionsBase](./filteroptionsbase/) | Базовый класс параметров фильтра, абстрактный класс |
+| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Гауссово размытие |
+| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Параметры фильтра Гаусса-Винера, устранение размытия Гаусса |
 | [MedianFilterOptions](./medianfilteroptions/) | Медианный фильтр |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Параметры фильтра деконволюции deblur motion |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | Параметры фильтра резкости |
-| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Маленький прямоугольный фильтр options |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Параметры деконволюционного фильтра, устранение размытия движения |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | Параметры фильтра повышения резкости |
+| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Параметры небольшого прямоугольного фильтра |
 
 

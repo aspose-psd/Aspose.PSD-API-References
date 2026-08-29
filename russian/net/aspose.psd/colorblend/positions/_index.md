@@ -1,11 +1,12 @@
 ---
-title: ColorBlend.Positions
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorBlend свойство. Получает или задает позиции вдоль линии градиента.
+title: "ColorBlend.Positions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorBlend. Получает или задает позиции вдоль линии градиента"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/colorblend/positions/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Positions property
 
 Получает или задает позиции вдоль линии градиента.
@@ -16,12 +17,12 @@ public float[] Positions { get; set; }
 
 ### Возвращаемое значение
 
-Массив значений, указывающих проценты расстояния вдоль линии градиента.
+Массив значений, задающих процентное расстояние вдоль линии градиента.
 
-### Смотрите также
+### См. также
 
 * class [ColorBlend](../)
-* пространство имен [Aspose.PSD](../../colorblend/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

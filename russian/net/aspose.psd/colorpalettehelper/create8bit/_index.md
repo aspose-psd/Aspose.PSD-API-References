@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.Create8Bit
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPaletteHelper метод. Создает 8битную цветовую палитру.
+title: "ColorPaletteHelper.Create8Bit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ColorPaletteHelper. Создает 8‑битовую цветовую палитру"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/colorpalettehelper/create8bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8Bit method
 
-Создает 8-битную цветовую палитру.
+Создаёт 8‑битную цветовую палитру.
 
 ```csharp
 public static IColorPalette Create8Bit()
@@ -16,13 +17,13 @@ public static IColorPalette Create8Bit()
 
 ### Возвращаемое значение
 
-8-битная цветовая палитра.
+8‑битовая цветовая палитра.
 
-### Смотрите также
+### См. также
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* пространство имен [Aspose.PSD](../../colorpalettehelper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

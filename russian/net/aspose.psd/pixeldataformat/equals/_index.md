@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: PixelDataFormat метод. Определяет является ли указанныйObject равен этому экземпляру.
+title: "PixelDataFormat.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PixelDataFormat. Определяет, равен ли указанный объект текущему экземпляру."
 type: docs
 weight: 350
 url: /ru/net/aspose.psd/pixeldataformat/equals/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Equals method
 
-Определяет, является ли указанныйObject равен этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| obj | Object | Object для сравнения с этим экземпляром. |
+| obj | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../)
-* пространство имен [Aspose.PSD](../../pixeldataformat/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

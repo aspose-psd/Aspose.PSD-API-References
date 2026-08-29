@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiLayerSection свойство. Получает или задает значение указывающее является ли этот слой слоем шаблона.
+title: "AiLayerSection.IsTemplate"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiLayerSection. Получает или задает значение, указывающее, является ли этот слой шаблонным"
 type: docs
-weight: 100
+weight: 120
 url: /ru/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Получает или задает значение, указывающее, является ли этот слой слоем шаблона.
+Получает или задает значение, указывающее, является ли слой шаблонным.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот слой является шаблоном; в противном случае,`ЛОЖЬ` .
+`true` если этот слой является шаблоном; иначе `false`.
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка слоев в файлах формата AI.
+Следующий пример демонстрирует поддержку слоёв в файлах формата AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AiLayerSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

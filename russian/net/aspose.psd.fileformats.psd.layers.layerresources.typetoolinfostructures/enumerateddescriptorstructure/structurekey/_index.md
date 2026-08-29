@@ -1,11 +1,12 @@
 ---
-title: EnumeratedDescriptorStructure.StructureKey
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedDescriptorStructure поле. Ключ перечисляемого дескриптора.
+title: "EnumeratedDescriptorStructure.StructureKey"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "EnumeratedDescriptorStructure поле. Ключ перечисленного дескриптора"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.StructureKey field
 
 Ключ перечисляемого дескриптора.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### Смотрите также
+### См. также
 
 * class [EnumeratedDescriptorStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

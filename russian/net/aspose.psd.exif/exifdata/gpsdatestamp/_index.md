@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает информацию о дате и времени записи строки символов GPS относительно UTC Всемирное координированное время.
+title: "ExifData.GPSDateStamp"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает GPS‑строку, записывающую дату и время относительно UTC (Coordinated Universal Time)"
 type: docs
 weight: 390
 url: /ru/net/aspose.psd.exif/exifdata/gpsdatestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDateStamp property
 
-Получает или задает информацию о дате и времени записи строки символов GPS относительно UTC (Всемирное координированное время).
+Получает или задает строку GPS, содержащую дату и время записи относительно UTC (координированного всемирного времени).
 
 ```csharp
 public string GPSDateStamp { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Информация о дате и времени записи строки символов GPS относительно UTC (Всемирное координированное время).
+GPS‑строка, записывающая дату и время относительно UTC (Coordinated Universal Time).
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

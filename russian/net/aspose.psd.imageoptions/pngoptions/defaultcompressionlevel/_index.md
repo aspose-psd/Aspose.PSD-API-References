@@ -1,11 +1,12 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Справочник по Aspose.PSD для .NET API
-description: PngOptions поле. Уровень сжатия по умолчанию.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PngOptions поле. Уровень сжатия по умолчанию"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
 Уровень сжатия по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 public const int DefaultCompressionLevel;
 ```
 
-### Смотрите также
+### См. также
 
 * class [PngOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../pngoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

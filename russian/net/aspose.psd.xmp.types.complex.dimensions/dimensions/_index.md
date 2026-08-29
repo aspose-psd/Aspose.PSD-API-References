@@ -1,11 +1,12 @@
 ---
-title: Class Dimensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions сорт. Содержит размеры для нарисованного объекта.
+title: "Класс Dimensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions класс. Содержит размеры для нарисованного объекта"
 type: docs
-weight: 6060
+weight: 6560
 url: /ru/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
 Содержит размеры для нарисованного объекта.
@@ -18,29 +19,29 @@ public sealed class Dimensions : ComplexTypeBase
 
 | Имя | Описание |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | Инициализирует новый экземпляр`Dimensions` класс. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | Инициализирует новый экземпляр`Dimensions` класс. |
+| [Dimensions](dimensions/#constructor)() | Инициализирует новый экземпляр класса `Dimensions`. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | Инициализирует новый экземпляр класса `Dimensions`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Получает или задает высоту. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имен по умолчанию. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Получает URI пространства имён по умолчанию. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Получает префикс. |
-| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Получает или устанавливает единицы измерения. |
+| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Получает или задает единицы измерения. |
 | [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Получает или задает ширину. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Получает содержащееся в строке значение в формате XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Получает строковое значение в формате XMP. |
 
-### Смотрите также
+### См. также
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

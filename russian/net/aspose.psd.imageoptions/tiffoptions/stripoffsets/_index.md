@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает смещения полосы.
+title: "TiffOptions.StripOffsets"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffOptions свойство. Получает или задает смещения полос"
 type: docs
-weight: 470
+weight: 480
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
-Получает или задает смещения полосы.
+Получает или задает смещения полос.
 
 ```csharp
 public uint[] StripOffsets { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Смещение полосы.
+Смещения полос.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

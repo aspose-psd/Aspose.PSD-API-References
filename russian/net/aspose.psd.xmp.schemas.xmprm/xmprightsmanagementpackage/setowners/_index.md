@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpRightsManagementPackage метод. Устанавливает владельцев.
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpRightsManagementPackage. Устанавливает владельцев"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
 Устанавливает владельцев.
@@ -16,12 +17,12 @@ public void SetOwners(string[] owners)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| owners | String[] | Владельцы. |
+| владельцы | String[] | Владельцы. |
 
-### Смотрите также
+### См. также
 
 * class [XmpRightsManagementPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

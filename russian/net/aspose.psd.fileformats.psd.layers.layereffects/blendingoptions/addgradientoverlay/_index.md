@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlendingOptions метод. Добавляет наложение градиента.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод BlendingOptions. Добавляет градиентное наложение"
 type: docs
-weight: 40
+weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
-Добавляет наложение градиента.
+Добавляет градиентное наложение.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,13 +17,13 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### Возвращаемое значение
 
-Создано[`GradientOverlayEffect`](../../gradientoverlayeffect/) объект
+Создан объект [`GradientOverlayEffect`](../../gradientoverlayeffect/)
 
-### Смотрите также
+### См. также
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

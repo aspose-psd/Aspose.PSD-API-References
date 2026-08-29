@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Справочник по Aspose.PSD для .NET API
-description: PlacedResource свойство. Получает или задает верхнюю позицию размещенного слоя в изображении PSD.
+title: "PlacedResource.Top"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PlacedResource. Получает или задает верхнее положение размещённого слоя в изображении PSD"
 type: docs
-weight: 150
+weight: 140
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-Получает или задает верхнюю позицию размещенного слоя в изображении PSD.
+Получает или задает верхнее положение размещённого слоя в изображении PSD.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Верхнее расположение размещенного слоя.
+Верхнее положение размещённого слоя.
 
-### Смотрите также
+### См. также
 
 * class [PlacedResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

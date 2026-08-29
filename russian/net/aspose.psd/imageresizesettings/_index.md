@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageResizeSettings сорт. Настройки изменения размера изображения class
+title: "Класс ImageResizeSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageResizeSettings. Класс настроек изменения размера изображения."
 type: docs
-weight: 5000
+weight: 5490
 url: /ru/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Настройки изменения размера изображения class
+Класс настроек изменения размера изображения.
 
 ```csharp
 public class ImageResizeSettings
@@ -20,19 +21,19 @@ public class ImageResizeSettings
 | --- | --- |
 | [ImageResizeSettings](imageresizesettings/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Получает или задает метод сравнения цветов. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Получает или задает метод квантования цвета. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Получает или задает количество записей count |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Получает или задает метод квантования цветов. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Получает или задает количество записей |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Получает или задает тип фильтра. |
 | [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Получает или задает режим интерполяции. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

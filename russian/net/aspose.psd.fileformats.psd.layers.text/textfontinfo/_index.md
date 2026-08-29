@@ -1,11 +1,12 @@
 ---
-title: Class TextFontInfo
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo сорт. Представляет информацию о шрифте. Этот класс не может быть унаследован.
+title: "Класс TextFontInfo"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo класс. Представляет информацию о шрифте. Этот класс не может быть наследован"
 type: docs
-weight: 3550
+weight: 3970
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
+{{< psd/tize >}}
 ## TextFontInfo class
 
 Представляет информацию о шрифте. Этот класс не может быть унаследован.
@@ -14,20 +15,20 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 public sealed class TextFontInfo
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Получает имя семейства шрифтов |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Получает название семейства шрифта |
 | [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Получает тип шрифта. |
 | [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/) { get; } | Получает имя PostScript |
 | [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script/) { get; } | Получает скрипт. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Получает стиль шрифта, проанализированный из подсемейства name |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Получает значение, указывающее, является ли этоFontInformation синтетический. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Получает стиль шрифта, полученный из названия подсемейства |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Получает значение, указывающее, является ли эта FontInformation синтетической. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

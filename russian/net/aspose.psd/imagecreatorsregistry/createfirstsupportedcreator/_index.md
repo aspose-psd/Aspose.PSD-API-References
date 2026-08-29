@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageCreatorsRegistry метод. Создает первого найденного создателя подходящего для указанного.
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageCreatorsRegistry. Создаёт первый найденный создатель, подходящий для указанного"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-Создает первого найденного создателя, подходящего для указанного.
+Создаёт первый найденный создатель, подходящий для указанного.
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
@@ -16,22 +17,22 @@ public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| imageOptions | ImageOptionsBase | Варианты изображения. |
+| imageOptions | ImageOptionsBase | Параметры изображения. |
 
 ### Возвращаемое значение
 
-Создатель, который поддерживает указанный, или null, если такой создатель не найден.
+Создатель, поддерживающий указанный, или null, если такой создатель не найден.
 
-### Примечания
+## Примечания
 
-Первый создатель будет последним зарегистрированным.
+Первый создатель будет фактически последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* пространство имен [Aspose.PSD](../../imagecreatorsregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

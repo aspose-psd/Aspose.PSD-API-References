@@ -1,11 +1,12 @@
 ---
-title: Class BlendRange
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange сорт. Диапазон смешивания.
+title: "Класс BlendRange"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.FileFormats.Psd.Layers.BlendRange. Диапазон смешивания"
 type: docs
-weight: 1890
+weight: 2000
 url: /ru/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
 Диапазон смешивания.
@@ -20,16 +21,16 @@ public sealed class BlendRange
 | --- | --- |
 | [BlendRange](blendrange/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Получает или задает целевой диапазон смешения. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Получает или задает исходный диапазон смешения. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Получает или задаёт диапазон смешивания назначения. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Получает или задаёт диапазон смешивания источника. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

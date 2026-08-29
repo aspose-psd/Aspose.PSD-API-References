@@ -1,11 +1,12 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: Справочник по Aspose.PSD для .NET API
-description: BilateralSmoothingFilterOptions свойство. Получает или задает коэффициент цвета.
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BilateralSmoothingFilterOptions свойство. Получает или задает цветовой коэффициент"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
 Получает или задает коэффициент цвета.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptio
 public double ColorFactor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цветовой коэффициент.
 
-### Смотрите также
+### См. также
 
 * class [BilateralSmoothingFilterOptions](../)
-* пространство имен [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

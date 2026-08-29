@@ -1,11 +1,12 @@
 ---
-title: ExifData.SceneType
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает тип сцены.
+title: "ExifData.SceneType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData property. Получает или задает тип сцены"
 type: docs
 weight: 910
 url: /ru/net/aspose.psd.exif/exifdata/scenetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneType property
 
 Получает или задает тип сцены.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/exifdata/scenetype/
 public byte SceneType { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Тип сцены.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

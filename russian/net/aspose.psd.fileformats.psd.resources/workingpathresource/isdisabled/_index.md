@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.IsDisabled
-second_title: Справочник по Aspose.PSD для .NET API
-description: WorkingPathResource свойство. Получает или задает значение указывающее отключен ли этот экземпляр.
+title: "WorkingPathResource.IsDisabled"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "WorkingPathResource свойство. Получает или задает значение, указывающее, отключен ли данный экземпляр"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsDisabled property
 
 Получает или задает значение, указывающее, отключен ли этот экземпляр.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled
 public bool IsDisabled { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр отключен; в противном случае,`ЛОЖЬ` .
+`true` если данный экземпляр отключен; в противном случае `false`.
 
-### Смотрите также
+### См. также
 
 * class [WorkingPathResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

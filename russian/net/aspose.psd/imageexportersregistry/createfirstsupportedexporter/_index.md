@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageExportersRegistry метод. Создает первый найденный экспортер подходящий для указанных параметров сохранения и образа.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageExportersRegistry. Создаёт первый найденный экспортер, подходящий для указанных параметров сохранения и изображения"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-Создает первый найденный экспортер, подходящий для указанных параметров сохранения и образа.
+Создаёт первый найденный экспортёр, подходящий для указанных параметров сохранения и изображения.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
@@ -16,24 +17,24 @@ public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| image | Image | Изображение для экспорта. |
-| options | ImageOptionsBase | Параметры сохранения для экспорта. |
+| изображение | Image | Изображение для экспорта. |
+| опции | ImageOptionsBase | Параметры сохранения, используемые для экспорта. |
 
 ### Возвращаемое значение
 
-Экспортер, который поддерживает указанное изображение и параметры сохранения, или нуль, если такой экспортер не найден.
+Экспортер, который поддерживает указанное изображение и параметры сохранения, или null, если такой экспортер не найден.
 
-### Примечания
+## Примечания
 
-Фактически первый экспортер будет последним зарегистрированным.
+Первый экспортер на самом деле будет последним зарегистрированным.
 
-### Смотрите также
+### См. также
 
 * interface [IImageExporter](../../iimageexporter/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageexportersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

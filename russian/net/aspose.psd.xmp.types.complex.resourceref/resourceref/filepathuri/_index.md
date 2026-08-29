@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceRef свойство. Получает или задает URI пути к файлу.
+title: "ResourceRef.FilePathUri"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ResourceRef. Получает или задает URI пути к файлу"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
 Получает или задает URI пути к файлу.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 public string FilePathUri { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 URI пути к файлу.
 
-### Смотрите также
+### См. также
 
 * class [ResourceRef](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

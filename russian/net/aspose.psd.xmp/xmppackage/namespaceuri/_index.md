@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPackage свойство. Получает URI пространства имен.
+title: "XmpPackage.NamespaceUri"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPackage свойство. Получает URI пространства имён"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
 Получает URI пространства имен.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp/xmppackage/namespaceuri/
 public string NamespaceUri { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-URI пространства имен.
+URI пространства имён.
 
-### Смотрите также
+### См. также
 
 * class [XmpPackage](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

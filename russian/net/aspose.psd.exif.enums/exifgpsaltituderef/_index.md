@@ -1,29 +1,30 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef перечисление. exif ссылка на высоту GPS enum.
+title: "Перечисление ExifGPSAltitudeRef"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef перечисление. exif gps altitude ref перечисление"
 type: docs
-weight: 870
+weight: 880
 url: /ru/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif ссылка на высоту GPS enum.
+Перечисление ссылки высоты GPS exif.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | Над уровнем моря. |
+| AboveSeaLevel | `0` | Выше уровня моря. |
 | BelowSeaLevel | `1` | Ниже уровня моря. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

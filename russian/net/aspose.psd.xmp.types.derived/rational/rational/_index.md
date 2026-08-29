@@ -1,14 +1,15 @@
 ---
-title: Rational.Rational
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rational строитель. Инициализирует новый экземплярRational класс.
+title: "Rational.Rational"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор Rational. Инициализирует новый экземпляр класса Rational"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Инициализирует новый экземпляр[`Rational`](../) класс.
+Инициализирует новый экземпляр класса [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
@@ -16,19 +17,19 @@ public Rational(int numerator, int denominator)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| numerator | Int32 | Числитель. |
-| denominator | Int32 | Знаменатель. |
+| числитель | Int32 | Числитель. |
+| знаменатель | Int32 | Знаменатель. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentOutOfRangeException | числитель;числитель должен быть больше нуля. или знаменатель;знаменатель должен быть больше нуля. |
+| ArgumentOutOfRangeException | числитель;Числитель должен быть больше нуля. или знаменатель;Знаменатель должен быть больше нуля. |
 
-### Смотрите также
+### См. также
 
 * class [Rational](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpHeaderPi свойство. Представляет заголовок Guid.
+title: "XmpHeaderPi.Guid"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpHeaderPi. Представляет Guid заголовка"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-Представляет заголовок Guid.
+Представляет GUID заголовка.
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### Примечания
+## Примечания
 
-Текст заголовка PI содержит GUID, поэтому его случайное появление в потоке данных маловероятно.
+Текст заголовка PI содержит GUID, что делает его маловероятным для случайного появления в потоке данных.
 
-### Смотрите также
+### См. также
 
 * class [XmpHeaderPi](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.IsEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает значение указывающее является ли этоColor структура не инициализирована.
+title: "Color.IsEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает значение, указывающее, что эта структура Color не инициализирована"
 type: docs
 weight: 1490
 url: /ru/net/aspose.psd/color/isempty/
 ---
+{{< psd/tize >}}
 ## Color.IsEmpty property
 
-Получает значение, указывающее, является ли это[`Color`](../) структура не инициализирована.
+Возвращает значение, указывающее, что эта структура [`Color`](../) не инициализирована.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Это свойство возвращает значение true, если этот цвет не инициализирован; в противном случае ложно.
+Это свойство возвращает true, если этот цвет не инициализирован; в противном случае — false.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

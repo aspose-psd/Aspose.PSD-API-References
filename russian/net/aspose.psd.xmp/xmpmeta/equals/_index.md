@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.Equals
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpMeta метод. Указывает равен ли текущий объект другому объекту того же типа.
+title: "XmpMeta.Equals"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpMeta. Указывает, равен ли текущий объект другому объекту того же типа"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
 Указывает, равен ли текущий объект другому объекту того же типа.
@@ -16,23 +17,23 @@ public bool Equals(XmpMeta other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | XmpMeta | Объект для сравнения с этим объектом. |
+| другой | XmpMeta | Объект для сравнения с этим объектом. |
 
 ### Возвращаемое значение
 
-true, если текущий объект равен*other* параметр; в противном случае false.
+true, если текущий объект равен параметру *other*; иначе — false.
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-Определяет, является ли указанныйObject , равно этому экземпляру.
+Определяет, равен ли указанный объект этому экземпляру.
 
 ```csharp
 public override bool Equals(object other)
@@ -40,16 +41,16 @@ public override bool Equals(object other)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| other | Object | Object для сравнения с этим экземпляром. |
+| другой | Object | Объект, с которым сравнивается данный экземпляр. |
 
 ### Возвращаемое значение
 
-`истинный` если указанныйObject равен этому экземпляру; в противном случае,`ЛОЖЬ` .
+`true` если указанный Object равен этому экземпляру; в противном случае, `false`.
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmpmeta/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

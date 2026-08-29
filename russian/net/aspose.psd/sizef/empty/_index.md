@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Справочник по Aspose.PSD для .NET API
-description: SizeF свойство. Получает новый экземплярSizeF структура которая имеетWidth иHeight значения равны нулю.
+title: "SizeF.Empty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство SizeF. Возвращает новый экземпляр структуры SizeF, у которого значения Width и Height установлены в ноль."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-Получает новый экземпляр[`SizeF`](../) структура, которая имеет[`Width`](../width/) и[`Height`](../height/) значения равны нулю.
+Возвращает новый экземпляр структуры [`SizeF`](../), у которого значения [`Width`](../width/) и [`Height`](../height/) установлены в ноль.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * struct [SizeF](../)
-* пространство имен [Aspose.PSD](../../sizef/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

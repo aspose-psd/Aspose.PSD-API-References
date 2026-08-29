@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.Length
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResourceVersion2 свойство. Получает длину ресурса слоя в байтах.
+title: "PhflResourceVersion2.Length"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResourceVersion2. Возвращает длину ресурса слоя в байтах"
 type: docs
-weight: 70
+weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Length property
 
 Получает длину ресурса слоя в байтах.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public override int Length { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhflResourceVersion2](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

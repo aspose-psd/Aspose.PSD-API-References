@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetColorMatrices
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Задает матрицу настройки цвета и матрицу настройки оттенков серого для категории по умолчанию.
+title: "ImageAttributes.SetColorMatrices"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает матрицу коррекции цвета и матрицу коррекции оттенков серого для категории по умолчанию."
 type: docs
 weight: 130
 url: /ru/net/aspose.psd/imageattributes/setcolormatrices/
 ---
+{{< psd/tize >}}
 ## SetColorMatrices(ColorMatrix, ColorMatrix) {#setcolormatrices}
 
-Задает матрицу настройки цвета и матрицу настройки оттенков серого для категории по умолчанию.
+Устанавливает матрицу коррекции цвета и матрицу коррекции градаций серого для категории по умолчанию.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
@@ -16,21 +17,21 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
-| grayMatrix | ColorMatrix | Матрица настройки оттенков серого. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
+| grayMatrix | ColorMatrix | Матрица корректировки градаций серого. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag) {#setcolormatrices_1}
 
-Задает матрицу настройки цвета и матрицу настройки оттенков серого для категории по умолчанию.
+Устанавливает матрицу коррекции цвета и матрицу коррекции градаций серого для категории по умолчанию.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
@@ -39,23 +40,23 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
-| grayMatrix | ColorMatrix | Матрица настройки оттенков серого. |
-| flags | ColorMatrixFlag | Элемент[`ColorMatrixFlag`](../../colormatrixflag/) который указывает тип изображения и цвет, на который будут влиять матрицы регулировки цвета и градаций серого. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
+| grayMatrix | ColorMatrix | Матрица корректировки градаций серого. |
+| flags | ColorMatrixFlag | Элемент [`ColorMatrixFlag`](../../colormatrixflag/), который определяет тип изображения и цвета, которые будут затронуты матрицами корректировки цвета и градаций серого. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrices_2}
 
-Задает матрицу настройки цвета и матрицу настройки оттенков серого для указанной категории.
+Устанавливает матрицу коррекции цвета и матрицу коррекции градаций серого для указанной категории.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
@@ -64,18 +65,18 @@ public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | Матрица настройки цвета. |
-| grayMatrix | ColorMatrix | Матрица настройки оттенков серого. |
-| mode | ColorMatrixFlag | Элемент[`ColorMatrixFlag`](../../colormatrixflag/) который указывает тип изображения и цвет, на который будут влиять матрицы регулировки цвета и градаций серого. |
-| type | ColorAdjustType | Элемент[`ColorAdjustType`](../../coloradjusttype/) который указывает категорию, для которой установлены матрицы настройки цвета и шкалы серого. |
+| newColorMatrix | ColorMatrix | Матрица коррекции цвета. |
+| grayMatrix | ColorMatrix | Матрица корректировки градаций серого. |
+| mode | ColorMatrixFlag | Элемент [`ColorMatrixFlag`](../../colormatrixflag/), который определяет тип изображения и цвета, которые будут затронуты матрицами корректировки цвета и градаций серого. |
+| type | ColorAdjustType | Элемент [`ColorAdjustType`](../../coloradjusttype/), который указывает категорию, для которой задаются матрицы корректировки цвета и градаций серого. |
 
-### Смотрите также
+### См. также
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

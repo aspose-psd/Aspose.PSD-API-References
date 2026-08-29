@@ -1,14 +1,15 @@
 ---
-title: Class LclrResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource сорт. Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это только
+title: "Класс LclrResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource класс. Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоёв PS. Только"
 type: docs
-weight: 2620
+weight: 2930
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоев PS. Это только
+Класс LclrResource. Этот ресурс содержит информацию о цвете слоя в списке слоёв PS. Это только
 
 ```csharp
 public class LclrResource : LayerResource
@@ -18,36 +19,36 @@ public class LclrResource : LayerResource
 
 | Имя | Описание |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | Инициализирует новый экземпляр`LclrResource` класс. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | Инициализирует новый экземпляр`LclrResource` класс. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Инициализирует новый экземпляр`LclrResource` класс. |
+| [LclrResource](lclrresource/#constructor)() | Инициализирует новый экземпляр класса `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | Инициализирует новый экземпляр класса `LclrResource`. |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | Инициализирует новый экземпляр класса `LclrResource`. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Получает или задает цвет слоя. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | Получает или задаёт цвет слоя. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | Получает длину ресурса слоя в байтах. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | Получает подпись. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | Сохраняет ресурс в указанный контейнер потока. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Примеры
+## Примеры
 
-В следующем примере показано, как можно изменить выделение цветом листа в Aspose.PSD (настройка цвета листа).
+Следующий пример демонстрирует, как можно изменить выделение цвета листа в Aspose.PSD (настройка цвета листа).
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ public class LclrResource : LayerResource
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// В файле цвета выделения слоев идут в таком порядке
+// В файле цвета выделения слоёв идут в следующем порядке
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Цвет листа слоя используется для визуального выделения слоев. 
-// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, который вы хотите привлечь внимание.
+// Цвет листа слоя используется для визуального выделения слоёв.
+// Например, вы можете обновить некоторые слои в PSD, а затем выделить цветом слой, на который хотите обратить внимание.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Ресурс lcrl всегда присутствует в списке ресурсов файла psd.
+            // Ресурс lcrl всегда присутствует в списке ресурсов PSD‑файла.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Инверсия цветов таблицы стилей. Настройка выделения цветом слоя.
+                // Обратные цвета таблицы стилей. Настройка выделения цвета слоя.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -109,10 +110,10 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

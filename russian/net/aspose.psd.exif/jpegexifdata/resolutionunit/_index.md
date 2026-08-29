@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает единицу измерения разрешения.
+title: "JpegExifData.ResolutionUnit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает единицу разрешения"
 type: docs
 weight: 170
 url: /ru/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
 Получает или задает единицу измерения разрешения.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Единица разрешения.
+Единица измерения разрешения.
 
-### Смотрите также
+### См. также
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

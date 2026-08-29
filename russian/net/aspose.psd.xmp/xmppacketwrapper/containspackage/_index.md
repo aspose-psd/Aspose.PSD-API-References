@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper метод. Определяет существует ли пакет в оболочке xmp.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpPacketWrapper метод. Определяет, существует ли пакет в xmp-обёртке"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Определяет, существует ли пакет в оболочке xmp.
+Определяет, существует ли пакет в обёртке xmp.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
@@ -20,12 +21,12 @@ public bool ContainsPackage(string namespaceUri)
 
 ### Возвращаемое значение
 
-Возвращает true, если пакет с указанным пространством имен Uri существует в оболочке XMP.
+Возвращает true, если пакет с указанным пространством имён Uri существует в обёртке XMP.
 
-### Смотрите также
+### См. также
 
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

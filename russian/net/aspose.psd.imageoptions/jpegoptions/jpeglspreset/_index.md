@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.JpegLsPreset
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegOptions свойство. Получает или задает предустановленные параметры JPEGLS.
+title: "JpegOptions.JpegLsPreset"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegOptions. Получает или задает предустановленные параметры JPEGLS"
 type: docs
-weight: 120
+weight: 130
 url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsPreset property
 
 Получает или задает предустановленные параметры JPEG-LS.
@@ -14,11 +15,11 @@ url: /ru/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 public JpegLsPresetCodingParameters JpegLsPreset { get; set; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [JpegLsPresetCodingParameters](../../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/)
 * class [JpegOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

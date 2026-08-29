@@ -1,14 +1,15 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpInteger строитель. Инициализирует новый экземплярXmpInteger класс.
+title: "XmpInteger.XmpInteger"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "XmpInteger конструктор. Инициализирует новый экземпляр класса XmpInteger"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-Инициализирует новый экземпляр[`XmpInteger`](../) класс.
+Инициализирует новый экземпляр класса [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(long value)
@@ -16,19 +17,19 @@ public XmpInteger(long value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int64 | Значение. |
+| значение | Int64 | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpInteger](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-Инициализирует новый экземпляр[`XmpInteger`](../) класс.
+Инициализирует новый экземпляр класса [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(int value)
@@ -36,19 +37,19 @@ public XmpInteger(int value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Int32 | Значение. |
+| значение | Int32 | Значение. |
 
-### Смотрите также
+### См. также
 
 * class [XmpInteger](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-Инициализирует новый экземпляр[`XmpInteger`](../) класс.
+Инициализирует новый экземпляр класса [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(string value)
@@ -56,19 +57,19 @@ public XmpInteger(string value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | String | Значение. |
+| значение | String | Значение. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | значение равно нулю. |
-| ArgumentException | Недопустимое строковое значение;значение |
+| ArgumentNullException | Значение равно null. |
+| ArgumentException | Недопустимое строковое значение;value |
 
-### Смотрите также
+### См. также
 
 * class [XmpInteger](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

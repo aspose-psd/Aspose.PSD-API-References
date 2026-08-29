@@ -1,14 +1,15 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedReferenceStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: EnumeratedReferenceStructure строитель. Инициализирует новый экземплярEnumeratedReferenceStructure класс.
+title: "EnumeratedReferenceStructure.EnumeratedReferenceStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор EnumeratedReferenceStructure. Инициализирует новый экземпляр класса EnumeratedReferenceStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure constructor
 
-Инициализирует новый экземпляр[`EnumeratedReferenceStructure`](../) класс.
+Инициализирует новый экземпляр класса [`EnumeratedReferenceStructure`](../).
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
@@ -17,16 +18,16 @@ public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID ty
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 | classID | ClassID | Идентификатор класса. |
 | typeID | ClassID | Идентификатор типа. |
 | enumName | ClassID | Имя перечисления. |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.Center
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleProjectedShape свойство. Получает центр фигуры.
+title: "RectangleProjectedShape.Center"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "RectangleProjectedShape свойство. Получает центр фигуры"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.shapes/rectangleprojectedshape/center/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Center property
 
-Получает центр фигуры.
+Получает центр формы.
 
 ```csharp
 public override PointF Center { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Центр фигуры.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

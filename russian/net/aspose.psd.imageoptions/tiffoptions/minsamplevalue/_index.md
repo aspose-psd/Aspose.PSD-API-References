@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает минимальное значение выборки.
+title: "TiffOptions.MinSampleValue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает минимальное значение образца"
 type: docs
-weight: 270
+weight: 280
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
-Получает или задает минимальное значение выборки.
+Получает или задает минимальное значение образца.
 
 ```csharp
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Минимальное значение выборки.
+Минимальное значение образца.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ценить |
-| ArgumentOutOfRangeException | value;Длина массива должна соответствовать количеству выборок на пиксель. |
+| ArgumentNullException | значение |
+| ArgumentOutOfRangeException | value;Длина массива должна соответствовать количеству образцов на пиксель. |
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: GifOptions.GifOptions
-second_title: Справочник по Aspose.PSD для .NET API
-description: GifOptions строитель. Инициализирует новый экземплярGifOptions класс.
+title: "GifOptions.GifOptions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор GifOptions. Инициализирует новый экземпляр класса GifOptions"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-Инициализирует новый экземпляр[`GifOptions`](../) класс.
+Инициализирует новый экземпляр класса [`GifOptions`](../).
 
 ```csharp
 public GifOptions()
 ```
 
-### Смотрите также
+### См. также
 
 * class [GifOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../gifoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-Инициализирует новый экземпляр[`GifOptions`](../) класс.
+Инициализирует новый экземпляр класса [`GifOptions`](../).
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
@@ -34,10 +35,10 @@ public GifOptions(GifOptions gifOptions)
 | --- | --- | --- |
 | gifOptions | GifOptions | Параметры GIF. |
 
-### Смотрите также
+### См. также
 
 * class [GifOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../gifoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

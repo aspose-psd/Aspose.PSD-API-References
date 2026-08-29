@@ -1,14 +1,15 @@
 ---
-title: Point.IsEmpty
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point свойство. Получает значение указывающее является ли этоPoint пуст.
+title: "Point.IsEmpty"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Point. Получает значение, указывающее, является ли эта точка пустой"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/point/isempty/
 ---
+{{< psd/tize >}}
 ## Point.IsEmpty property
 
-Получает значение, указывающее, является ли это[`Point`](../) пуст.
+Получает значение, указывающее, является ли этот [`Point`](../) пустым.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### Возвращаемое значение
 
-Верно, если оба[`X`](../x/) и[`Y`](../y/) 0; в противном случае ложно.
+Истина, если оба [`X`](../x/) и [`Y`](../y/) равны 0; в противном случае — ложь.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

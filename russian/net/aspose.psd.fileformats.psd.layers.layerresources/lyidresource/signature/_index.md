@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Signature
-second_title: Справочник по Aspose.PSD для .NET API
-description: LyidResource свойство. Получает подпись.
+title: "LyidResource.Signature"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LyidResource. Возвращает подпись"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
 ---
+{{< psd/tize >}}
 ## LyidResource.Signature property
 
 Получает подпись.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signa
 public override int Signature { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LyidResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

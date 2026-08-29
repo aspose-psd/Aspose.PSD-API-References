@@ -1,11 +1,12 @@
 ---
-title: ExifData.Gamma
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает гамму.
+title: "ExifData.Gamma"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает гамму"
 type: docs
 weight: 350
 url: /ru/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
 Получает или задает гамму.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.exif/exifdata/gamma/
 public TiffRational Gamma { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение гаммы.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Point.ToString
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Преобразует этоPoint в удобочитаемую строку.
+title: "Point.ToString"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Преобразует эту точку в человекочитаемую строку."
 type: docs
 weight: 140
 url: /ru/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-Преобразует это[`Point`](../) в удобочитаемую строку.
+Преобразует этот [`Point`](../) в человекочитаемую строку.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Возвращаемое значение
 
-АString который представляет этот экземпляр.
+String, представляющая этот экземпляр.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

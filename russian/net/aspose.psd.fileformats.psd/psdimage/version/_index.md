@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Version
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает или задает версию.
+title: "PsdImage.Version"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "PsdImage свойство. Получает или задает версию"
 type: docs
-weight: 250
+weight: 260
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/version/
 ---
+{{< psd/tize >}}
 ## PsdImage.Version property
 
 Получает или задает версию.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd/psdimage/version/
 public int Version { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Версия.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: Справочник по Aspose.PSD для .NET API
-description: BuildVersionInfo поле. Основная версия продукта.
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Поле BuildVersionInfo. Основная версия продукта"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
 Основная версия продукта.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd/buildversioninfo/productmajor/
 public static readonly int ProductMajor;
 ```
 
-### Смотрите также
+### См. также
 
 * class [BuildVersionInfo](../)
-* пространство имен [Aspose.PSD](../../buildversioninfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

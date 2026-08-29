@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Справочник по Aspose.PSD для .NET API
-description: DropShadowEffect свойство. Получает или задает значение указывающее выбивает ли.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DropShadowEffect. Возвращает или задает значение, указывающее, происходит ли вырезание"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-Получает или задает значение, указывающее, [выбивает ли].
+Получает или задает значение, указывающее, применяется ли [knocks out].
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный`если [вырубает]; в противном случае,`ЛОЖЬ` .
+`true` если [knocks out]; иначе, `false`.
 
-### Смотрите также
+### См. также
 
 * class [DropShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

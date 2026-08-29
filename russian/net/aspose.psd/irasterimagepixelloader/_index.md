@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.IRasterImagePixelLoader интерфейс. Пиксельный загрузчик растрового изображения.
+title: "Интерфейс IRasterImagePixelLoader"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Интерфейс Aspose.PSD.IRasterImagePixelLoader. Загрузчик пикселей растрового изображения"
 type: docs
-weight: 4570
+weight: 5040
 url: /ru/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-Пиксельный загрузчик растрового изображения.
+Загрузчик пикселей растрового изображения.
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
@@ -18,12 +19,12 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 | Имя | Описание |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Загружает пиксели частично (блоками). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Загружает пиксели частично (по блокам). |
 
-### Смотрите также
+### См. также
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.R
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает значение красного компонента этогоColorструктура.
+title: "Color.R"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает значение красного компонента этой структуры Color"
 type: docs
 weight: 1530
 url: /ru/net/aspose.psd/color/r/
 ---
+{{< psd/tize >}}
 ## Color.R property
 
-Получает значение красного компонента этого[`Color`](../)структура.
+Возвращает значение красного компонента этой структуры [`Color`](../).
 
 ```csharp
 public byte R { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение красного компонента этого[`Color`](../).
+Значение красного компонента этой структуры [`Color`](../).
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerState.StateEffects
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerState свойство. Получает эффекты состояния слоя.
+title: "LayerState.StateEffects"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerState. Получает эффекты состояния слоя"
 type: docs
 weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/
 ---
+{{< psd/tize >}}
 ## LayerState.StateEffects property
 
 Получает эффекты состояния слоя.
@@ -14,9 +15,9 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects
 public LayerStateEffects StateEffects { get; }
 ```
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует поддержку эффектов в кадрах временной шкалы.
+Следующий код демонстрирует поддержку эффектов в кадрах Timeline.
 
 ```csharp
 [C#]
@@ -26,29 +27,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [LayerStateEffects](../../layerstateeffects/)
 * class [LayerState](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

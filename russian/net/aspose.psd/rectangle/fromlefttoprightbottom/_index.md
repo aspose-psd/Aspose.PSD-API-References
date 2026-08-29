@@ -1,14 +1,15 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. СоздаетRectangle структура с указанными местоположениями ребер.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Создаёт структуру Rectangle с указанными позициями краёв."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-Создает[`Rectangle`](../) структура с указанными местоположениями ребер.
+Создаёт структуру [`Rectangle`](../) с указанными позициями краёв.
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
@@ -16,19 +17,19 @@ public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| left | Int32 | Координата x верхнего левого угла этого[`Rectangle`](../) состав. |
-| top | Int32 | Y-координата верхнего левого угла этого[`Rectangle`](../) состав. |
-| right | Int32 | Координата x нижнего правого угла этого[`Rectangle`](../) состав. |
-| bottom | Int32 | Y-координата нижнего правого угла этого[`Rectangle`](../) состав. |
+| left | Int32 | Координата x верхнего левого угла этой [`Rectangle`](../) структуры. |
+| top | Int32 | Координата y верхнего левого угла этой [`Rectangle`](../) структуры. |
+| right | Int32 | x‑координата правого нижнего угла этой [`Rectangle`](../) структуры. |
+| bottom | Int32 | y‑координата правого нижнего угла этой [`Rectangle`](../) структуры. |
 
 ### Возвращаемое значение
 
-Новый[`Rectangle`](../) что создает этот метод.
+Новый [`Rectangle`](../), который создаёт этот метод.
 
-### Смотрите также
+### См. также
 
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Hue
-second_title: Справочник по Aspose.PSD для .NET API
-description: Hue2Resource свойство. Получает или задает основной оттенок.
+title: "Hue2Resource.Hue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Hue2Resource. Получает или задает основной оттенок"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
 Получает или задает основной оттенок.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 public short Hue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Основной оттенок.
 
-### Смотрите также
+### См. также
 
 * class [Hue2Resource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

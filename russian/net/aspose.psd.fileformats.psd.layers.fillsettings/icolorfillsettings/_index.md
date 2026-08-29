@@ -1,11 +1,12 @@
 ---
-title: Interface IColorFillSettings
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings интерфейс. Базовый интерфейс для настроек заливки
+title: "Интерфейс IColorFillSettings"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings интерфейс. Базовый интерфейс для настроек заливки"
 type: docs
-weight: 1990
+weight: 2110
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
 Базовый интерфейс для настроек заливки
@@ -14,16 +15,16 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 public interface IColorFillSettings : IFillSettings
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Получает или задает цвет. |
 
-### Смотрите также
+### См. также
 
 * interface [IFillSettings](../ifillsettings/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: Справочник по Aspose.PSD для .NET API
-description: AnimatedDataSectionStructure свойство. Получает или задает анимированные структуры раздела данных.
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AnimatedDataSectionStructure. Возвращает или задает структуры анимированных секций данных"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
-Получает или задает анимированные структуры раздела данных.
+Получает или задает структуры разделов анимированных данных.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем коде показано, как установить/обновить время задержки в кадре временной шкалы анимированных данных.
+Следующий код демонстрирует, как установить/обновить время задержки в кадре временной шкалы анимированных данных.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Создает запись задержки кадра со значением 100 сантисекунд, что равно 1 секунде.
+            // Создаёт запись задержки кадра со значением 100 сантимсекунд, что равно 1 секунде.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // установить время в сантисекундах.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Round
-second_title: Справочник по Aspose.PSD для .NET API
-description: Rectangle метод. Преобразует указанныйRectangleF кRectangle путем округленияRectangleF значения до ближайших целочисленных значений.
+title: "Rectangle.Round"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Rectangle. Преобразует указанный RectangleF в Rectangle, округляя значения RectangleF до ближайших целых."
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Преобразует указанный[`RectangleF`](../../rectanglef/) к[`Rectangle`](../) путем округления[`RectangleF`](../../rectanglef/) значения до ближайших целочисленных значений.
+Преобразует указанный [`RectangleF`](../../rectanglef/) в [`Rectangle`](../), округляя значения [`RectangleF`](../../rectanglef/) до ближайших целых.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
@@ -16,17 +17,17 @@ public static Rectangle Round(RectangleF value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | RectangleF | [`RectangleF`](../../rectanglef/) быть преобразованным. |
+| value | RectangleF | `[`RectangleF`](../../rectanglef/)`, который будет преобразован. |
 
 ### Возвращаемое значение
 
-новый[`Rectangle`](../).
+Новый [`Rectangle`](../).
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* пространство имен [Aspose.PSD](../../rectangle/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

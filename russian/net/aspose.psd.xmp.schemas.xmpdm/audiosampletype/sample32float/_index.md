@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Sample32Float
-second_title: Справочник по Aspose.PSD для .NET API
-description: AudioSampleType свойство. Представляет звуковой образец 32Float.
+title: "AudioSampleType.Sample32Float"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AudioSampleType свойство. Представляет 32Float аудиосэмпл"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample32Float property
 
-Представляет звуковой образец 32Float.
+Представляет аудиофрагмент 32Float.
 
 ```csharp
 public static AudioSampleType Sample32Float { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AudioSampleType](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

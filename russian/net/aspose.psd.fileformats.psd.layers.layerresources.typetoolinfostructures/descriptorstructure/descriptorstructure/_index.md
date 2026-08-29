@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.DescriptorStructure
-second_title: Справочник по Aspose.PSD для .NET API
-description: DescriptorStructure строитель. Инициализирует новый экземплярDescriptorStructure класс.
+title: "DescriptorStructure.DescriptorStructure"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "DescriptorStructure constructor. Инициализирует новый экземпляр класса DescriptorStructure"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure constructor
 
-Инициализирует новый экземпляр[`DescriptorStructure`](../) класс.
+Инициализирует новый экземпляр [`DescriptorStructure`](../) класса.
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
@@ -17,23 +18,23 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keyName | ClassID | Ключевое имя. |
+| keyName | ClassID | Имя ключа. |
 | classID | ClassID | Идентификатор класса. |
-| className | String | Название класса. |
-| structures | OSTypeStructure[] | Структуры. |
+| className | String | Имя класса. |
+| структуры | OSTypeStructure[] | Структуры. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | идентификатор класса равен нулю |
+| ArgumentNullException | classID равен null |
 
-### Смотрите также
+### См. также
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics свойство. Получает или задает копию геометрического преобразования мира для этогоGraphics .
+title: "Graphics.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Graphics. Получает или задаёт копию геометрического мирового преобразования для данного Graphics."
 type: docs
-weight: 130
+weight: 140
 url: /ru/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-Получает или задает копию геометрического преобразования мира для этого[`Graphics`](../) .
+Получает или задаёт копию геометрического мирового преобразования для данного [`Graphics`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Копия[`Matrix`](../../matrix/) который представляет геометрическое преобразование мира для этого[`Graphics`](../) .
+Копия [`Matrix`](../../matrix/), представляющая геометрическое мировое преобразование для данного [`Graphics`](../).
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

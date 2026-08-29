@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLatitude
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или устанавливает широту GPS.
+title: "ExifData.GPSLatitude"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "ExifData свойство. Получает или задает широту GPS"
 type: docs
 weight: 520
 url: /ru/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
-Получает или устанавливает широту GPS.
+Получает или задает широту GPS.
 
 ```csharp
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Широта GPS.
 
-### Смотрите также
+### См. также
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

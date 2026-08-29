@@ -1,27 +1,28 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorPalette свойство. Получает количество записей.
+title: "ColorPalette.EntriesCount"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorPalette. Возвращает количество записей."
 type: docs
 weight: 50
 url: /ru/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
-Получает количество записей.
+Возвращает количество записей.
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Записи засчитываются.
+Количество записей.
 
-### Смотрите также
+### См. также
 
 * class [ColorPalette](../)
-* пространство имен [Aspose.PSD](../../colorpalette/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextureBrush свойство. ПолучаетRectangle связанные с этимTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextureBrush. Возвращает Rectangle, связанный с этим TextureBrush."
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-Получает[`Rectangle`](../../../aspose.psd/rectangle/) связанные с этим[`TextureBrush`](../) .
+Возвращает [`Rectangle`](../../../aspose.psd/rectangle/), связанный с этим [`TextureBrush`](../).
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`Rectangle`](../../../aspose.psd/rectangle/).
+Объект [`Rectangle`](../../../aspose.psd/rectangle/).
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* пространство имен [Aspose.PSD.Brushes](../../texturebrush/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

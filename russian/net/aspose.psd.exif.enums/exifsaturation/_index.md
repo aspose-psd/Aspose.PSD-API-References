@@ -1,30 +1,31 @@
 ---
-title: Enum ExifSaturation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Exif.Enums.ExifSaturation перечисление. перечисление насыщенности exif.
+title: "Перечисление ExifSaturation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. перечисление насыщенности exif"
 type: docs
-weight: 920
+weight: 930
 url: /ru/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-перечисление насыщенности exif.
+Перечисление насыщенности exif.
 
 ```csharp
 public enum ExifSaturation
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Normal | `0` | Нормальная насыщенность. |
 | Low | `1` | Низкая насыщенность. |
 | High | `2` | Высокая насыщенность. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

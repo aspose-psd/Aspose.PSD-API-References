@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Add
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList метод. Добавляет элемент вIList .
+title: "NonGenericList.Add"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод NonGenericList. Добавляет элемент в IList"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-Добавляет элемент вIList .
+Добавляет элемент в IList.
 
 ```csharp
 public int Add(object value)
@@ -16,16 +17,16 @@ public int Add(object value)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| value | Object | Object добавить кIList. |
+| значение | Object | Объект, который нужно добавить в IList. |
 
 ### Возвращаемое значение
 
 Позиция, в которую был вставлен новый элемент.
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

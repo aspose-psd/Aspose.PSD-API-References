@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: Справочник по Aspose.PSD для .NET API
-description: FxrpResource свойство. Получает или задает x контрольной точки
+title: "FxrpResource.X"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство FxrpResource. Получает или задает координату x опорной точки"
 type: docs
-weight: 60
+weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-Получает или задает x контрольной точки
+Получает или задает значение x точки привязки
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-X контрольной точки
+Координата x опорной точки
 
-### Смотрите также
+### См. также
 
 * class [FxrpResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

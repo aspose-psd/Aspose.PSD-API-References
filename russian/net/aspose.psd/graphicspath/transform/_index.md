@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: GraphicsPath метод. Применяет указанное преобразование к фигуре.
+title: "GraphicsPath.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод GraphicsPath. Применяет указанное преобразование к фигуре."
 type: docs
 weight: 170
 url: /ru/net/aspose.psd/graphicspath/transform/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Transform method
 
 Применяет указанное преобразование к фигуре.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Применяемое преобразование. |
+| transform | Matrix | Преобразование, которое следует применить. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* пространство имен [Aspose.PSD](../../graphicspath/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

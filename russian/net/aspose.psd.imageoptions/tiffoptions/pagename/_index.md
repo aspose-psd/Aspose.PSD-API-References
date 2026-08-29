@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageName
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает имя страницы.
+title: "TiffOptions.PageName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает имя страницы"
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
 Получает или задает имя страницы.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.imageoptions/tiffoptions/pagename/
 public string PageName { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Имя страницы.
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Справочник по Aspose.PSD для .NET API
-description: RectangleExtensions метод. Объединяет два прямоугольника.
+title: "RectangleExtensions.UnionWith"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RectangleExtensions. Объединяет два прямоугольника."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
 Объединяет два прямоугольника.
@@ -16,18 +17,18 @@ public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectang
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| rectangle | RectangleF | Первый прямоугольник. |
+| прямоугольник | RectangleF | Первый прямоугольник. |
 | otherRectangle | RectangleF | Второй прямоугольник. |
 
 ### Возвращаемое значение
 
-Новый прямоугольник как результат операции объединения
+Новый прямоугольник как результат операции объединения.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../rectangleextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

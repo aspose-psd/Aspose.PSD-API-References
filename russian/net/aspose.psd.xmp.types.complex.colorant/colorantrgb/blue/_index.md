@@ -1,11 +1,12 @@
 ---
-title: ColorantRgb.Blue
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorantRgb свойство. Получает или задает значение синего компонента.
+title: "ColorantRgb.Blue"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorantRgb. Получает или задает значение синего компонента"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
 Получает или задает значение синего компонента.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 public byte Blue { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение синего компонента.
 
-### Смотрите также
+### См. также
 
 * class [ColorantRgb](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

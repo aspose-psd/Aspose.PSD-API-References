@@ -1,14 +1,15 @@
 ---
-title: CurvResource.CurvResource
-second_title: Справочник по Aspose.PSD для .NET API
-description: CurvResource строитель. Инициализирует новый экземплярCurvResource класс.
+title: "CurvResource.CurvResource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор CurvResource. Инициализирует новый экземпляр класса CurvResource"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-Инициализирует новый экземпляр[`CurvResource`](../) класс.
+Инициализирует новый экземпляр класса [`CurvResource`](../).
 
 ```csharp
 public CurvResource(int maxChannelCount)
@@ -18,17 +19,17 @@ public CurvResource(int maxChannelCount)
 | --- | --- | --- |
 | maxChannelCount | Int32 | Максимальное количество каналов. |
 
-### Смотрите также
+### См. также
 
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-Инициализирует новый экземпляр[`CurvResource`](../) класс.
+Инициализирует новый экземпляр класса [`CurvResource`](../).
 
 ```csharp
 public CurvResource(byte[] bytes)
@@ -36,12 +37,12 @@ public CurvResource(byte[] bytes)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| bytes | Byte[] | Байты. |
+| байты | Byte[] | Байты. |
 
-### Смотрите также
+### См. также
 
 * class [CurvResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

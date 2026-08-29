@@ -1,28 +1,29 @@
 ---
-title: ExifData.Properties
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает все теги EXIF включая общие теги и теги GPS.
+title: "ExifData.Properties"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает все теги EXIF, включая общие и GPS-теги"
 type: docs
 weight: 860
 url: /ru/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-Получает или задает все теги EXIF (включая общие теги и теги GPS).
+Получает или задает все теги EXIF (включая общие и GPS‑теги).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Теги EXIF (включая общие теги и теги GPS).
+Теги EXIF (включая общие и GPS-теги).
 
-### Смотрите также
+### См. также
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

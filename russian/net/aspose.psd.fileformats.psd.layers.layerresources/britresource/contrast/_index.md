@@ -1,27 +1,28 @@
 ---
-title: BritResource.Contrast
-second_title: Справочник по Aspose.PSD для .NET API
-description: BritResource свойство. Получает или устанавливает контрастность.
+title: "BritResource.Contrast"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BritResource. Получает или задает контраст"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
-Получает или устанавливает контрастность.
+Получает или задает контраст.
 
 ```csharp
 public short Contrast { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Контраст.
 
-### Смотрите также
+### См. также
 
 * class [BritResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

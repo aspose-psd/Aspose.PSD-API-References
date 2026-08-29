@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Справочник по Aspose.PSD для .NET API
-description: CustomLineCap свойство. Получает или задаетLineCap перечисление по которому этоCustomLineCap основано .
+title: "CustomLineCap.BaseCap"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CustomLineCap. Получает или задает перечисление LineCap, на котором основан этот CustomLineCap."
 type: docs
 weight: 20
 url: /ru/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-Получает или задает[`LineCap`](../../linecap/) перечисление, по которому это[`CustomLineCap`](../) основано .
+Получает или задает перечисление [`LineCap`](../../linecap/), на котором основан этот [`CustomLineCap`](../).
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-[`LineCap`](../../linecap/) перечисление, по которому это[`CustomLineCap`](../) основан.
+Перечисление [`LineCap`](../../linecap/), на котором основан этот [`CustomLineCap`](../).
 
-### Смотрите также
+### См. также
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* пространство имен [Aspose.PSD](../../customlinecap/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

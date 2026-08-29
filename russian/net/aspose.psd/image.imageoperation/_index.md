@@ -1,11 +1,12 @@
 ---
-title: Enum Image.ImageOperation
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageImageOperation перечисление. Операции с изображениями
+title: "Перечисление Image.ImageOperation"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.ImageImageOperation перечисление. Операции с изображениями"
 type: docs
-weight: 4600
+weight: 5070
 url: /ru/net/aspose.psd/image.imageoperation/
 ---
+{{< psd/tize >}}
 ## Image.ImageOperation enumeration
 
 Операции с изображениями
@@ -14,31 +15,31 @@ url: /ru/net/aspose.psd/image.imageoperation/
 protected enum ImageOperation
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Resize | `0` | Операция изменения размера |
 | ResizeWidthProportionally | `1` | Операция пропорционального изменения ширины |
-| ResizeHeightProportionally | `2` | Изменить размер высоты пропорционально operation |
-| Filter | `3` | Операция фильтра |
-| LoadPixels | `4` | Загрузить пиксели operation |
+| ResizeHeightProportionally | `2` | Операция пропорционального изменения высоты |
+| Filter | `3` | Операция фильтрации |
+| LoadPixels | `4` | Операция загрузки пикселей |
 | SavePixels | `5` | Операция сохранения пикселей |
-| Crop | `6` | Операция по обрезке |
-| BinarizeFixed | `7` | Бинаризовать фиксированную операцию |
-| BinarizeOtsu | `8` | Бинаризация операции otsu |
-| BinarizeBradley | `9` | Бинаризация операции Брэдли |
-| Grayscale | `10` | Операция в оттенках серого |
+| Crop | `6` | Операция обрезки |
+| BinarizeFixed | `7` | Операция фиксированного бинаризования |
+| BinarizeOtsu | `8` | Операция бинаризации Otsu |
+| BinarizeBradley | `9` | Операция бинаризации Bradley |
+| Grayscale | `10` | Операция преобразования в градации серого |
 | AdjustBrightness | `11` | Операция регулировки яркости |
-| AdjustContrast | `12` | Операция регулировки контрастности |
+| AdjustContrast | `12` | Операция регулировки контраста |
 | AdjustGamma | `13` | Операция регулировки гаммы |
-| Rotate | `14` | Операция поворота |
-| RotateFlip | `15` | Операция поворота флипа |
+| Rotate | `14` | Операция вращения |
+| RotateFlip | `15` | Операция вращения и отражения |
 
-### Смотрите также
+### См. также
 
 * class [Image](../image/)
-* пространство имен [Aspose.PSD](../../aspose.psd/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

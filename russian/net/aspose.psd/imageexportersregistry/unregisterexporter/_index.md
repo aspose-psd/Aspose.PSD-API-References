@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageExportersRegistry метод. Отменяет регистрацию экспортера.
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageExportersRegistry. Отменяет регистрацию экспортера"
 type: docs
 weight: 70
 url: /ru/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-Отменяет регистрацию экспортера.
+Отменяет регистрацию экспортёра.
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
@@ -18,11 +19,11 @@ public static void UnregisterExporter(IImageExporterDescriptor exporterDescripto
 | --- | --- | --- |
 | exporterDescriptor | IImageExporterDescriptor | Дескриптор экспортера для отмены регистрации. |
 
-### Смотрите также
+### См. также
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* пространство имен [Aspose.PSD](../../imageexportersregistry/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

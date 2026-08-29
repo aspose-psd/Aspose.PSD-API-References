@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Справочник по Aspose.PSD для .NET API
-description: PdfPackage метод. Задает ключевые слова.
+title: "PdfPackage.SetKeywords"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PdfPackage. Устанавливает ключевые слова"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
-Задает ключевые слова.
+Устанавливает ключевые слова.
 
 ```csharp
 public void SetKeywords(string keywords)
@@ -16,12 +17,12 @@ public void SetKeywords(string keywords)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| keywords | String | Ключевые слова. |
+| ключевые слова | String | Ключевые слова. |
 
-### Смотрите также
+### См. также
 
 * class [PdfPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

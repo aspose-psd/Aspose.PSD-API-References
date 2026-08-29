@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetInstrument
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpDynamicMediaPackage метод. Устанавливает инструмент.
+title: "XmpDynamicMediaPackage.SetInstrument"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод XmpDynamicMediaPackage. Устанавливает инструмент"
 type: docs
 weight: 240
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetInstrument method
 
 Устанавливает инструмент.
@@ -16,12 +17,12 @@ public void SetInstrument(string instrument)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| instrument | String | Инструмент. |
+| инструмент | String | Инструмент. |
 
-### Смотрите также
+### См. также
 
 * class [XmpDynamicMediaPackage](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Справочник по Aspose.PSD для .NET API
-description: BorderInformationResource свойство. Получает или задает единицы измерения границ.
+title: "BorderInformationResource.Unit"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "BorderInformationResource свойство. Получает или задает единицы измерения границы"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Получает или задает единицы измерения границ.
+Получает или задает единицы границы.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-В следующем примере демонстрируется поддержка ресурса BorderInformationResource.
+Следующий пример демонстрирует поддержку ресурса BorderInformationResource.
 
 ```csharp
 [C#]
@@ -45,11 +46,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

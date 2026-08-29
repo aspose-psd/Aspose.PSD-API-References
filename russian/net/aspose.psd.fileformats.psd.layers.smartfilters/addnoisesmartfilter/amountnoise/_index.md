@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Справочник по Aspose.PSD для .NET API
-description: AddNoiseSmartFilter свойство. Получает или задает количество значений шума.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "AddNoiseSmartFilter свойство. Получает или задает количество значения шума"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-Получает или задает количество значений шума.
+Получает или задает количество шума.
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### Примеры
+## Примеры
 
-Этот пример демонстрирует поддержку интерфейса интеллектуальных фильтров.
+Этот пример демонстрирует поддержку интерфейса умных фильтров.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // редактируем умные фильтры
+    // редактировать умные фильтры
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // проверить значения фильтра
@@ -62,7 +63,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // применить изменения
     smartObj.SmartFilters.UpdateResourceValues();
 
-    // Применение фильтров
+    // Применить фильтры
     smartObj.SmartFilters.Filters[0].Apply(image.Layers[2]);
     smartObj.SmartFilters.Filters[4].ApplyToMask(image.Layers[2]);
 
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [AddNoiseSmartFilter](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

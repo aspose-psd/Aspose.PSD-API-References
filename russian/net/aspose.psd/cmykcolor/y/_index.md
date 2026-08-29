@@ -1,27 +1,28 @@
 ---
-title: CmykColor.Y
-second_title: Справочник по Aspose.PSD для .NET API
-description: CmykColor свойство. Получает значение желтого компонента этогоColorструктура.
+title: "CmykColor.Y"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство CmykColor. Получает значение жёлтого компонента этой структуры Color"
 type: docs
-weight: 60
+weight: 70
 url: /ru/net/aspose.psd/cmykcolor/y/
 ---
+{{< psd/tize >}}
 ## CmykColor.Y property
 
-Получает значение желтого компонента этого[`Color`](../../color/)структура.
+Получает значение желтого компонента этой структуры [`Color`](../../color/).
 
 ```csharp
 public byte Y { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Значение желтого компонента этого[`Color`](../../color/) .
+Значение желтого компонента этой [`Color`](../../color/).
 
-### Смотрите также
+### См. также
 
 * struct [CmykColor](../)
-* пространство имен [Aspose.PSD](../../cmykcolor/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

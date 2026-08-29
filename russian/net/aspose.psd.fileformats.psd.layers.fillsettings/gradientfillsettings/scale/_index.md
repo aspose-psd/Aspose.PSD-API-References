@@ -1,20 +1,21 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Справочник по Aspose.PSD для .NET API
-description: GradientFillSettings свойство. Получает или задает масштаб.
+title: "GradientFillSettings.Scale"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство GradientFillSettings. Получает или задает нормализованную шкалу градиента в процентах"
 type: docs
-weight: 120
+weight: 110
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Получает или задает масштаб.
+Получает или задает **нормализованный** масштаб градиента (в процентах)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Масштаб.
 
@@ -24,10 +25,10 @@ public int Scale { get; set; }
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Масштаб должен быть в диапазоне от 1 до 1000. |
 
-### Смотрите также
+### См. также
 
 * class [GradientFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

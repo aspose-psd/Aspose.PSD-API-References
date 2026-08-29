@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextShape метод. Применяет указанное преобразование к фигуре.
+title: "TextShape.Transform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод TextShape. Применяет указанное преобразование к фигуре"
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 Применяет указанное преобразование к фигуре.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| transform | Matrix | Применяемое преобразование. |
+| transform | Matrix | Преобразование, которое следует применить. |
 
-### Смотрите также
+### См. также
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* пространство имен [Aspose.PSD.Shapes](../../textshape/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

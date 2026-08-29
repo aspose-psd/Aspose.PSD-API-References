@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: Справочник по Aspose.PSD для .NET API
-description: ImageAttributes метод. Устанавливает таблицу переназначения цветов для категории кистей.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод ImageAttributes. Устанавливает таблицу переопределения цветов для категории кисти"
 type: docs
 weight: 110
 url: /ru/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-Устанавливает таблицу переназначения цветов для категории кистей.
+Устанавливает таблицу перекраски цветов для категории кисти.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
@@ -16,13 +17,13 @@ public void SetBrushRemapTable(ColorMap[] map)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| map | ColorMap[] | Массив[`ColorMap`](../../colormap/) объекты. |
+| map | ColorMap[] | Массив объектов [`ColorMap`](../../colormap/). |
 
-### Смотрите также
+### См. также
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* пространство имен [Aspose.PSD](../../imageattributes/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

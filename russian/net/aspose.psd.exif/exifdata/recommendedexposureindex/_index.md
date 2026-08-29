@@ -1,27 +1,28 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: Справочник по Aspose.PSD для .NET API
-description: ExifData свойство. Получает или задает рекомендуемый индекс экспозиции.
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ExifData. Получает или задает рекомендованный индекс экспозиции"
 type: docs
 weight: 870
 url: /ru/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
-Получает или задает рекомендуемый индекс экспозиции.
+Получает или задает рекомендованный индекс экспозиции.
 
 ```csharp
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Рекомендуемый индекс экспозиции.
+Рекомендованный индекс экспозиции.
 
-### Смотрите также
+### См. также
 
 * class [ExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../exifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.Gray
-second_title: Справочник по Aspose.PSD для .NET API
-description: Color свойство. Получает определенный системой цвет.
+title: "Color.Gray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Color. Возвращает системно определённый цвет"
 type: docs
 weight: 520
 url: /ru/net/aspose.psd/color/gray/
 ---
+{{< psd/tize >}}
 ## Color.Gray property
 
-Получает определенный системой цвет.
+Получает системно определённый цвет.
 
 ```csharp
 public static Color Gray { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`Color`](../) структура, представляющая определенный системой цвет.
+Структура [`Color`](../), представляющая системный цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../)
-* пространство имен [Aspose.PSD](../../color/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

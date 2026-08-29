@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinearGradientBrushBase свойство. Получает или задает прямоугольную область определяющую начальную и конечную точки градиента.
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "LinearGradientBrushBase свойство. Получает или задает прямоугольную область, определяющую начальные и конечные точки градиента"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
 Получает или задает прямоугольную область, определяющую начальную и конечную точки градиента.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 public RectangleF Rectangle { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-А[`RectangleF`](../../../aspose.psd/rectanglef/) структура, определяющая начальную и конечную точки градиента.
+Структура [`RectangleF`](../../../aspose.psd/rectanglef/), указывающая начальные и конечные точки градиента.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* пространство имен [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

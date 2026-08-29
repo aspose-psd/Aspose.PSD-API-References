@@ -1,22 +1,23 @@
 ---
-title: Class Jpeg2000CustomException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException сорт. Jpeg2000 Код OpenJpeg сгенерировал исключение
+title: "Класс Jpeg2000CustomException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException класс. Исключение, сгенерированное кодом OpenJpeg для Jpeg2000"
 type: docs
-weight: 1550
+weight: 1560
 url: /ru/net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000CustomException class
 
-Jpeg2000 Код OpenJpeg сгенерировал исключение
+Исключение, сгенерированное кодом OpenJpeg Jpeg2000
 
 ```csharp
 public class Jpeg2000CustomException : Exception
 ```
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

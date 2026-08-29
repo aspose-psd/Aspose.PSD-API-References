@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageLength
-second_title: Справочник по Aspose.PSD для .NET API
-description: JpegExifData свойство. Получает или задает длину изображения.
+title: "JpegExifData.ImageLength"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство JpegExifData. Получает или задает длину изображения"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd.exif/jpegexifdata/imagelength/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageLength property
 
 Получает или задает длину изображения.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.exif/jpegexifdata/imagelength/
 public uint ImageLength { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Длина изображения.
 
-### Смотрите также
+### См. также
 
 * class [JpegExifData](../)
-* пространство имен [Aspose.PSD.Exif](../../jpegexifdata/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

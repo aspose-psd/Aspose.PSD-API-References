@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.IsVisible
-second_title: Справочник по Aspose.PSD для .NET API
-description: DropShadowEffect свойство. Получает или задает значение указывающее виден ли этот экземпляр.
+title: "DropShadowEffect.IsVisible"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство DropShadowEffect. Возвращает или задает значение, указывающее, видим ли данный экземпляр"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.IsVisible property
 
-Получает или задает значение, указывающее, виден ли этот экземпляр.
+Получает или задает значение, указывающее, видим ли этот экземпляр.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если этот экземпляр виден; в противном случае,`ЛОЖЬ` .
+`true` если этот экземпляр видим; иначе `false`.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует использование свойства Opacity DropShadowEffect.
+Следующий код демонстрирует использование свойства Opacity у DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Пример с непрозрачностью = 20
+    // Пример с Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Пример с непрозрачностью = 200
+    // Пример с Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [DropShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

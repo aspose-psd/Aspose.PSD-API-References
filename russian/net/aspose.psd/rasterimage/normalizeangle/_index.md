@@ -1,30 +1,31 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Нормализует угол. Этот метод применим к отсканированным текстовым документам чтобы избавиться от перекоса сканирования. Этот метод используетGetSkewAngle иRotate методы.
+title: "RasterImage.NormalizeAngle"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Нормализует угол. Этот метод применим к отсканированным текстовым документам для устранения наклона сканирования. Метод использует методы GetSkewAngle и Rotate."
 type: docs
-weight: 420
+weight: 430
 url: /ru/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle/) и[`Rotate`](../rotate/) методы.
+Нормализует угол. Этот метод применим к отсканированным текстовым документам для устранения наклона сканирования. Метод использует методы [`GetSkewAngle`](../getskewangle/) и [`Rotate`](../rotate/).
 
 ```csharp
 public void NormalizeAngle()
 ```
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Нормализует угол. Этот метод применим к отсканированным текстовым документам, чтобы избавиться от перекоса сканирования. Этот метод использует[`GetSkewAngle`](../getskewangle/) и[`Rotate`](../rotate/) методы.
+Нормализует угол. Этот метод применим к отсканированным текстовым документам для устранения наклона сканирования. Метод использует методы [`GetSkewAngle`](../getskewangle/) и [`Rotate`](../rotate/).
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
@@ -32,14 +33,14 @@ public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundCo
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| resizeProportionally | Boolean | если установлено`истинный` у вас будет размер вашего изображения, измененный в соответствии с проекциями повернутого прямоугольника (угловые точки), в другом случае, который оставляет размеры нетронутыми, и поворачивается только внутреннее содержимое изображения. |
+| resizeProportionally | Boolean | если установить `true`, размер изображения будет изменён в соответствии с проекциями повернутого прямоугольника (угловых точек); в противном случае размеры останутся неизменными, и будет повернуто только внутреннее содержимое изображения. |
 | backgroundColor | Color | Цвет фона. |
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

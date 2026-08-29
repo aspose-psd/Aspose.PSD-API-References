@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.OriginalCompId
-second_title: Справочник по Aspose.PSD для .NET API
-description: LinkDataSource свойство. Получает исходный идентификатор текущей выбранной композиции для дочернего документа который будет равен 1 если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смартобъектов. Композиции слоев в смартобъектах
+title: "LinkDataSource.OriginalCompId"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LinkDataSource. Возвращает оригинальный идентификатор текущего выбранного Comp для дочернего документа, который будет равен 1, если ничего не выбрано. Это свойство получает оригинальный идентификатор выбора слоя Comp для Smart Objects. Слои Comp в Smart Objects."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalCompId property
 
-Получает исходный идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано. Это свойство получает исходный идентификатор выбора композиции слоя для смарт-объектов. [Композиции слоев в смарт-объектах](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Получает оригинальный идентификатор текущего выбранного Comp для дочернего документа, который будет -1, если ничего не выбрано. Это свойство получает оригинальный идентификатор выбора layer Comp для Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Исходный идентификатор текущей выбранной композиции для дочернего документа, который будет равен -1, если ничего не выбрано.
+Оригинальный идентификатор текущего выбранного comp для дочернего документа, который будет -1, если ничего не выбрано.
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Вы не можете получить доступ к свойству OriginalCompId |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Невозможно получить доступ к свойству OriginalCompId |
 
-### Смотрите также
+### См. также
 
 * class [LinkDataSource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

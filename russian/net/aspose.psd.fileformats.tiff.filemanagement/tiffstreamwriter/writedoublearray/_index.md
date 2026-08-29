@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteDoubleArray
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffStreamWriter метод. Записывает в поток массив двойных значений.
+title: "TiffStreamWriter.WriteDoubleArray"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "TiffStreamWriter method. Записывает массив значений double в поток"
 type: docs
 weight: 60
 url: /ru/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDoubleArray method
 
-Записывает в поток массив двойных значений.
+Записывает массив значений double в поток.
 
 ```csharp
 public void WriteDoubleArray(double[] data)
@@ -16,12 +17,12 @@ public void WriteDoubleArray(double[] data)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| data | Double[] | Массив для записи. |
+| данные | Double[] | Массив для записи. |
 
-### Смотрите также
+### См. также
 
 * class [TiffStreamWriter](../)
-* пространство имен [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

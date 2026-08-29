@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Справочник по Aspose.PSD для .NET API
-description: FontSettings метод. Получает имя шрифта Adobe по имени семейства шрифтов.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FontSettings. Получает название шрифта Adobe по имени семейства шрифта"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Получает имя шрифта Adobe по имени семейства шрифтов.
+Получает название шрифта Adobe по имени семейства шрифта.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
@@ -16,15 +17,15 @@ public static string GetAdobeFontName(string fontFamilyName)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| fontFamilyName | String | Название семейства шрифтов. |
+| fontFamilyName | String | Имя семейства шрифта. |
 
 ### Возвращаемое значение
 
-Название шрифта Adobe по названию семейства шрифтов.
+Название шрифта Adobe по имени семейства шрифта.
 
-### Примеры
+## Примеры
 
-Следующий код демонстрирует возможность изменения имени шрифта в стиле части.
+Следующий код демонстрирует возможность изменить имя шрифта в частичном стиле.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [FontSettings](../)
-* пространство имен [Aspose.PSD](../../fontsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

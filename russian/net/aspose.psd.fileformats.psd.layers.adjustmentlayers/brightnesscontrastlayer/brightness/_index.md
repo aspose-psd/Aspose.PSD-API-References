@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Brightness
-second_title: Справочник по Aspose.PSD для .NET API
-description: BrightnessContrastLayer свойство. Получает или устанавливает яркость. Для PS диапазон яркости от 150 до 150. Но мы игнорируем это.
+title: "BrightnessContrastLayer.Brightness"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BrightnessContrastLayer. Получает или задает яркость. Для PS диапазон яркости от 150 до 150. Но мы игнорируем это"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Brightness property
 
-Получает или устанавливает яркость. Для PS диапазон яркости от -150 до +150. Но мы игнорируем это.
+Получает или задает яркость. В диапазоне PS значение яркости от -150 до +150. Но мы игнорируем это.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Яркость.
 
-### Смотрите также
+### См. также
 
 * class [BrightnessContrastLayer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

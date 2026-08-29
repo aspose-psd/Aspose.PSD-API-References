@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Справочник по Aspose.PSD для .NET API
-description: PatternFillSettings свойство. Получает или задает значение указывающее является ли ссылка со слоем.
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PatternFillSettings. Получает или задает значение, указывающее, есть ли связь со слоем"
 type: docs
-weight: 10
+weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-Получает или задает значение, указывающее, является ли [ссылка со слоем].
+Получает или задает значение, указывающее, [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-`истинный` если [связать со слоем]; в противном случае,`ЛОЖЬ` .
+`true`, если [связь со слоем]; иначе `false`.
 
-### Примеры
+## Примеры
 
 Следующий код демонстрирует поддержку редактирования шаблона слоя заливки.
 
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Редактирование 
+            // Редактирование
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PatternFillSettings](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

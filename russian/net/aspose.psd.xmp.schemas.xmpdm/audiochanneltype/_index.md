@@ -1,11 +1,12 @@
 ---
-title: Class AudioChannelType
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType сорт. Представляет тип аудиоканала.
+title: "Класс AudioChannelType"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType. Представляет тип аудио‑канала"
 type: docs
-weight: 5840
+weight: 6340
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
 Представляет тип аудиоканала.
@@ -14,26 +15,26 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 public sealed class AudioChannelType
 ```
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Получает 16 аудиоканалов. |
-| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | Получает аудиоканал 5.1. |
-| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | Получает аудиоканал 7.1. |
-| static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | Получает монофонический аудиоканал. |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Получает 16‑канальный аудио‑канал. |
+| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | Получает аудио‑канал 5.1. |
+| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | Получает аудио‑канал 7.1. |
+| static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | Получает моно‑аудио‑канал. |
 | static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | Получает другой канал. |
-| static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | Получает стереофонический аудиоканал. |
+| static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | Получает стерео‑аудио‑канал. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

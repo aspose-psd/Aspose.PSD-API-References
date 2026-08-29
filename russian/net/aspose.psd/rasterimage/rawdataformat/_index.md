@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage свойство. Получает формат необработанных данных.
+title: "RasterImage.RawDataFormat"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство RasterImage. Возвращает формат необработанных данных"
 type: docs
 weight: 80
 url: /ru/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
 Получает формат необработанных данных.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd/rasterimage/rawdataformat/
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Формат необработанных данных.
 
-### Смотрите также
+### См. также
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

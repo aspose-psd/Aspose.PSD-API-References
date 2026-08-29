@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage метод. Сведение всех слоев.
+title: "PsdImage.FlattenImage"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PsdImage. Объединяет все слои"
 type: docs
-weight: 540
+weight: 600
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-Сведение всех слоев.
+Сводит все слои.
 
 ```csharp
 public void FlattenImage()
 ```
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

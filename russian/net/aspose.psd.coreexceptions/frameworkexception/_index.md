@@ -1,14 +1,15 @@
 ---
-title: Class FrameworkException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.FrameworkException сорт. Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введен для различения исключений создаваемых механизмом Aspose.PSD и всех других типов исключений.
+title: "Класс FrameworkException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.FrameworkException class. Исключение фреймворка PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введён для различения исключений, генерируемых движком Aspose.PSD, и всех остальных типов исключений."
 type: docs
 weight: 480
 url: /ru/net/aspose.psd.coreexceptions/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException class
 
-Исключение платформы PSD. Этот класс является базовым для всех исключений Aspose.PSD. Введен для различения исключений, создаваемых механизмом Aspose.PSD, и всех других типов исключений.
+Исключение фреймворка PSD. Этот класс является базовым классом для всех исключений Aspose.PSD. Введён для различения исключений, выбрасываемых движком Aspose.PSD, и всех остальных типов исключений.
 
 ```csharp
 public class FrameworkException : Exception
@@ -18,12 +19,12 @@ public class FrameworkException : Exception
 
 | Имя | Описание |
 | --- | --- |
-| [FrameworkException](frameworkexception/#constructor)(string) | Инициализирует новый экземпляр`FrameworkException` класс. |
-| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`FrameworkException` класс. |
+| [FrameworkException](frameworkexception/#constructor)(string) | Инициализирует новый экземпляр класса `FrameworkException`. |
+| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `FrameworkException`. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

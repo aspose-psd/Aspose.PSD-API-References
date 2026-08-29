@@ -1,31 +1,32 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode перечисление. Режим сжатия изображений в формате jpeg.
+title: "Перечисление JpegCompressionMode"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Перечисление Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode. Режим сжатия для jpeg‑изображений"
 type: docs
-weight: 1500
+weight: 1510
 url: /ru/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
-Режим сжатия изображений в формате jpeg.
+Режим сжатия для jpeg‑изображений.
 
 ```csharp
 public enum JpegCompressionMode
 ```
 
-### Ценности
+### Значения
 
-| Имя | Ценность | Описание |
+| Имя | Значение | Описание |
 | --- | --- | --- |
 | Baseline | `0` | Базовое сжатие. |
 | Progressive | `1` | Прогрессивное сжатие. |
 | Lossless | `2` | Сжатие без потерь. |
 | JpegLs | `3` | Сжатие JPEG-LS. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

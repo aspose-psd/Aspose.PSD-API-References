@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Справочник по Aspose.PSD для .NET API
-description: TextFontInfo свойство. Получает имя семейства шрифтов
+title: "TextFontInfo.FamilyName"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TextFontInfo. Возвращает название семейства шрифта"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-Получает имя семейства шрифтов
+Получает название семейства шрифта
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Название семейства шрифтов
+Название семейства шрифта
 
-### Смотрите также
+### См. также
 
 * class [TextFontInfo](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

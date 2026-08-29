@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.Reds
-second_title: Справочник по Aspose.PSD для .NET API
-description: BlwhResource свойство. Получает или задает значение красного цвета.
+title: "BlwhResource.Reds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство BlwhResource. Возвращает или задает значение reds"
 type: docs
-weight: 110
+weight: 90
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/reds/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Reds property
 
-Получает или задает значение красного цвета.
+Получает или задает значение красного.
 
 ```csharp
 public int Reds { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Значение красных.
 
-### Примеры
+## Примеры
 
 В следующем примере показано, как редактировать BlwhResource.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Проверка редактирования и сохранения
+                // Тестовое редактирование и сохранение
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Смотрите также
+### См. также
 
 * class [BlwhResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

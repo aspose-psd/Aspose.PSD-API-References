@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostLeftBorder
-second_title: Справочник по Aspose.PSD для .NET API
-description: ColorRangeHsl свойство. Получает или устанавливает крайнюю левую границу.
+title: "ColorRangeHsl.MostLeftBorder"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ColorRangeHsl. Получает или задает самую левую границу"
 type: docs
 weight: 50
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostLeftBorder property
 
-Получает или устанавливает крайнюю левую границу.
+Получает или задает самую левую границу.
 
 ```csharp
 public short MostLeftBorder { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Самая левая граница.
 
-### Смотрите также
+### См. также
 
 * class [ColorRangeHsl](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

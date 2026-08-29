@@ -1,14 +1,15 @@
 ---
-title: PointExtensions.ToGdiPoint
-second_title: Справочник по Aspose.PSD для .NET API
-description: PointExtensions метод. ПреобразуетPointF кPointF .
+title: "PointExtensions.ToGdiPoint"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод PointExtensions. Преобразует PointF в PointF."
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/pointextensions/togdipoint/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoint method
 
-Преобразует[`PointF`](../../../aspose.psd/pointf/) кPointF .
+Преобразует [`PointF`](../../../aspose.psd/pointf/) в PointF.
 
 ```csharp
 public static PointF ToGdiPoint(PointF point)
@@ -20,13 +21,13 @@ public static PointF ToGdiPoint(PointF point)
 
 ### Возвращаемое значение
 
-ПреобразованныйPointF.
+Преобразованный PointF.
 
-### Смотрите также
+### См. также
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../pointextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

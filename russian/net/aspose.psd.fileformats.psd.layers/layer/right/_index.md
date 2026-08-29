@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Справочник по Aspose.PSD для .NET API
-description: Layer свойство. Получает или устанавливает правильное положение слоя.
+title: "Layer.Right"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство Layer. Возвращает или задает позицию правого слоя"
 type: docs
-weight: 290
+weight: 300
 url: /ru/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-Получает или устанавливает правильное положение слоя.
+Получает или задает позицию правого слоя.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Позиция правого слоя.
 
-### Смотрите также
+### См. также
 
 * class [Layer](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.Path
-second_title: Справочник по Aspose.PSD для .NET API
-description: ProjectLink свойство. Получает или задает полный путь к проекту.
+title: "ProjectLink.Path"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство ProjectLink. Возвращает или задает полный путь к проекту"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
 Получает или задает полный путь к проекту.
@@ -14,14 +15,14 @@ url: /ru/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 public string Path { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Полный путь к проекту.
 
-### Смотрите также
+### См. также
 
 * class [ProjectLink](../)
-* пространство имен [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

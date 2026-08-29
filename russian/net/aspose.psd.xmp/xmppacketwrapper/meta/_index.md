@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Справочник по Aspose.PSD для .NET API
-description: XmpPacketWrapper свойство. Получает метаданные XMP. Дополнительно.
+title: "XmpPacketWrapper.Meta"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство XmpPacketWrapper. Получает метаданные XMP. Опционально"
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-Получает метаданные XMP. Дополнительно.
+Получает метаданные XMP. Необязательно.
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Мета XMP. Дополнительно.
+Метаданные XMP. Опционально.
 
-### Смотрите также
+### См. также
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* пространство имен [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

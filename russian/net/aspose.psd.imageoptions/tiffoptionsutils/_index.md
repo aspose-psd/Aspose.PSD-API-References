@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils сорт. Служебный класс опций формата файла tiff.
+title: "Класс TiffOptionsUtils"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.ImageOptions.TiffOptionsUtils. Утилитный класс параметров формата файлов tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /ru/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-Служебный класс опций формата файла tiff.
+Утилитный класс параметров формата файла tiff.
 
 ```csharp
 public class TiffOptionsUtils
@@ -24,11 +25,11 @@ public class TiffOptionsUtils
 
 | Имя | Описание |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Получает количество допустимых тегов. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Возвращает количество допустимых тегов. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

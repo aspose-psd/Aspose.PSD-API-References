@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: Справочник по Aspose.PSD для .NET API
-description: LayerSelectionIdsResource свойство. Получает или задает идентификаторы слоя.
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство LayerSelectionIdsResource. Получает или задает идентификаторы слоев"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
-Получает или задает идентификаторы слоя.
+Получает или задаёт идентификаторы слоёв.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Идентификаторы слоя.
+Идентификаторы слоев.
 
-### Смотрите также
+### См. также
 
 * class [LayerSelectionIdsResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

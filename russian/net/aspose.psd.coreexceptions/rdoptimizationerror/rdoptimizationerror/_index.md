@@ -1,14 +1,15 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Справочник по Aspose.PSD для .NET API
-description: RdOptimizationError строитель. Инициализирует новый экземплярRdOptimizationError класс.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор RdOptimizationError. Инициализирует новый экземпляр класса RdOptimizationError"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-Инициализирует новый экземпляр[`RdOptimizationError`](../) класс.
+Инициализирует новый экземпляр класса [`RdOptimizationError`](../).
 
 ```csharp
 public RdOptimizationError(string message)
@@ -18,10 +19,10 @@ public RdOptimizationError(string message)
 | --- | --- | --- |
 | message | String | Сообщение, описывающее ошибку. |
 
-### Смотрите также
+### См. также
 
 * class [RdOptimizationError](../)
-* пространство имен [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

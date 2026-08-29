@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Справочник по Aspose.PSD для .NET API
-description: TiffOptions свойство. Получает или задает автора изображения используемого проводником Windows.
+title: "TiffOptions.XPAuthor"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство TiffOptions. Получает или задает автора изображения, используемого Windows Explorer"
 type: docs
-weight: 590
+weight: 600
 url: /ru/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Получает или задает автора изображения, используемого проводником Windows.
+Получает или задает автора изображения, который используется в Windows Explorer.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Автор изображения, используемый Windows Explorer. `XPAuthor` игнорируется проводником Windows, если[`Artist`](../artist/) тег существует.
+Автор изображения, используемый Windows Explorer. `XPAuthor` игнорируется Windows Explorer, если существует тег [`Artist`](../artist/).
 
-### Смотрите также
+### См. также
 
 * class [TiffOptions](../)
-* пространство имен [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

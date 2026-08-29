@@ -1,17 +1,18 @@
 ---
-title: Class Lr16Resource
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource сорт. Ресурс LR32.
+title: "Класс Lr16Resource"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr16Resource класс. Ресурс lr16"
 type: docs
-weight: 2770
+weight: 3080
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/
 ---
+{{< psd/tize >}}
 ## Lr16Resource class
 
-Ресурс LR32.
+Ресурс lr16.
 
 ```csharp
-public class Lr16Resource : LayerResource
+public class Lr16Resource : LrXxResource
 ```
 
 ## Конструкторы
@@ -20,33 +21,33 @@ public class Lr16Resource : LayerResource
 | --- | --- |
 | [Lr16Resource](lr16resource/)() | Конструктор по умолчанию. |
 
-## Характеристики
+## Свойства
 
 | Имя | Описание |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/) { get; } | Получает ключ ресурса слоя. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/) { get; set; } | Получает или задает слои. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/length/) { get; } | Получает длину ресурсов для версии изображения в заголовке PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/psdversion/) { get; } | Получает версию psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/signature/) { get; } | Получает подпись. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Получает ключ ресурса слоя. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Получает или задает слои. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Получает длину ресурса для версии заголовка PSD изображения. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Получает минимальную версию PSD, требуемую для ресурса слоя. 0 указывает на отсутствие ограничений. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Получает подпись. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save/)(StreamContainer, int) | Сохраняет запись слоя. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Сохраняет запись слоя. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Возвращает строку, представляющую этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | Информационный ключ типа инструмента. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/) | Ключ информации о типе инструмента. |
 
-### Смотрите также
+### См. также
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* сборка [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

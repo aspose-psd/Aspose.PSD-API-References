@@ -1,14 +1,15 @@
 ---
-title: RasterImage.BinarizeFixed
-second_title: Справочник по Aspose.PSD для .NET API
-description: RasterImage метод. Бинаризация изображения с заданным порогом
+title: "RasterImage.BinarizeFixed"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод RasterImage. Бинаризация изображения с предопределённым порогом"
 type: docs
 weight: 220
 url: /ru/net/aspose.psd/rasterimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeFixed method
 
-Бинаризация изображения с заданным порогом
+Бинаризация изображения с предопределённым порогом
 
 ```csharp
 public virtual void BinarizeFixed(byte threshold)
@@ -16,12 +17,12 @@ public virtual void BinarizeFixed(byte threshold)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| threshold | Byte | Пороговое значение. Если соответствующее значение серого пикселя больше порогового значения, ему будет присвоено значение 255, в противном случае — 0. |
+| threshold | Byte | Значение порога. Если соответствующее серое значение пикселя больше порога, ему будет присвоено значение 255, иначе 0. |
 
-### Смотрите также
+### См. также
 
 * class [RasterImage](../)
-* пространство имен [Aspose.PSD](../../rasterimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

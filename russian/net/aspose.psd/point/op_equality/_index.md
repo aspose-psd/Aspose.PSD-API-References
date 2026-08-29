@@ -1,14 +1,15 @@
 ---
-title: Point.op_Equality
-second_title: Справочник по Aspose.PSD для .NET API
-description: Point метод. Сравнивает дваPoint объекты. Результат указывает являются ли значенияX иY свойства двухPoint объекты равны.
+title: "Point.op_Equality"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Point. Сравнивает два объекта Point. Результат указывает, равны ли значения свойств X и Y у обоих объектов Point."
 type: docs
 weight: 160
 url: /ru/net/aspose.psd/point/op_equality/
 ---
+{{< psd/tize >}}
 ## Point Equality operator
 
-Сравнивает два[`Point`](../) объекты. Результат указывает, являются ли значения[`X`](../x/) и[`Y`](../y/) свойства двух[`Point`](../) объекты равны.
+Сравнивает два объекта [`Point`](../). Результат указывает, равны ли значения свойств [`X`](../x/) и [`Y`](../y/) у обоих объектов [`Point`](../).
 
 ```csharp
 public static bool operator ==(Point point1, Point point2)
@@ -16,17 +17,17 @@ public static bool operator ==(Point point1, Point point2)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| point1 | Point | Первый[`Point`](../) сравнивать. |
-| point2 | Point | Второй[`Point`](../) сравнивать. |
+| point1 | Point | Первый [`Point`](../) для сравнения. |
+| point2 | Point | Второй [`Point`](../) для сравнения. |
 
 ### Возвращаемое значение
 
-Верно, если[`X`](../x/) и[`Y`](../y/) ценности*point1* и*point2* равны; в противном случае ложно.
+True, если значения [`X`](../x/) и [`Y`](../y/) *point1* и *point2* равны; иначе — false.
 
-### Смотрите также
+### См. также
 
 * struct [Point](../)
-* пространство имен [Aspose.PSD](../../point/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

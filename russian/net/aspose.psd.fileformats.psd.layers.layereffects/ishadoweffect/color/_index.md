@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Color
-second_title: Справочник по Aspose.PSD для .NET API
-description: IShadowEffect свойство. Получает или задает цвет.
+title: "IShadowEffect.Color"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство IShadowEffect. Возвращает или задаёт цвет"
 type: docs
 weight: 20
 url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
 Получает или задает цвет.
@@ -14,15 +15,15 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 public Color Color { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
 Цвет.
 
-### Смотрите также
+### См. также
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

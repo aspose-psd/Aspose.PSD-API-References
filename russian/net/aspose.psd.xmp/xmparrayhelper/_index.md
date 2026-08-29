@@ -1,14 +1,15 @@
 ---
-title: Class XmpArrayHelper
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Xmp.XmpArrayHelper сорт. Вспомогательный класс для обработки RDF logic
+title: "Класс XmpArrayHelper"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.Xmp.XmpArrayHelper class. Вспомогательный класс для обработки логики RDF"
 type: docs
-weight: 6220
+weight: 6720
 url: /ru/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-Вспомогательный класс для обработки RDF logic
+Вспомогательный класс для обработки логики RDF.
 
 ```csharp
 public static class XmpArrayHelper
@@ -18,11 +19,11 @@ public static class XmpArrayHelper
 
 | Имя | Описание |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Получает код RDF для определенных[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Получает код RDF для конкретного [`XmpArrayType`](../xmparraytype/). |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

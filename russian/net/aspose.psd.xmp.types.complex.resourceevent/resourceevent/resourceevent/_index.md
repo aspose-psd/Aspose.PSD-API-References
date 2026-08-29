@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Справочник по Aspose.PSD для .NET API
-description: ResourceEvent строитель. Конструктор по умолчанию.
+title: "ResourceEvent.ResourceEvent"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Конструктор ResourceEvent. Конструктор по умолчанию"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
 Конструктор по умолчанию.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceev
 public ResourceEvent()
 ```
 
-### Смотрите также
+### См. также
 
 * class [ResourceEvent](../)
-* пространство имен [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

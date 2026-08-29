@@ -1,11 +1,12 @@
 ---
-title: VstkResource.Key
-second_title: Справочник по Aspose.PSD для .NET API
-description: VstkResource свойство. Получает ключ ресурса слоя.
+title: "VstkResource.Key"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство VstkResource. Получает ключ ресурса слоя"
 type: docs
-weight: 30
+weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/
 ---
+{{< psd/tize >}}
 ## VstkResource.Key property
 
 Получает ключ ресурса слоя.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public override int Key { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [VstkResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

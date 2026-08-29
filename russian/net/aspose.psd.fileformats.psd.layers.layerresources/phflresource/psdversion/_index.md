@@ -1,11 +1,12 @@
 ---
-title: PhflResource.PsdVersion
-second_title: Справочник по Aspose.PSD для .NET API
-description: PhflResource свойство. Получает версию psd.
+title: "PhflResource.PsdVersion"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PhflResource. Получает версию PSD"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PhflResource.PsdVersion property
 
 Получает версию psd.
@@ -14,10 +15,10 @@ url: /ru/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [PhflResource](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

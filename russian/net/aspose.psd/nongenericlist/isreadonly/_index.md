@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsReadOnly
-second_title: Справочник по Aspose.PSD для .NET API
-description: NonGenericList свойство. Получает значение указывающееIList доступен только для чтения.
+title: "NonGenericList.IsReadOnly"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство NonGenericList. Возвращает значение, указывающее, является ли IList только для чтения"
 type: docs
 weight: 40
 url: /ru/net/aspose.psd/nongenericlist/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsReadOnly property
 
-Получает значение, указывающее,IList доступен только для чтения.
+Возвращает значение, указывающее, является ли IList только для чтения.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Смотрите также
+### См. также
 
 * class [NonGenericList](../)
-* пространство имен [Aspose.PSD](../../nongenericlist/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

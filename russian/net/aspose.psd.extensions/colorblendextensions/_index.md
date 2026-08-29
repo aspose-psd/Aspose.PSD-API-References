@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.Extensions.ColorBlendExtensions сорт. СодержитColorBlend методы расширения.
+title: "Класс ColorBlendExtensions"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Класс Aspose.PSD.Extensions.ColorBlendExtensions. Содержит методы расширения ColorBlend"
 type: docs
-weight: 1040
+weight: 1050
 url: /ru/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-Содержит[`ColorBlend`](../../aspose.psd/colorblend/) методы расширения.
+Содержит методы расширения [`ColorBlend`](../../aspose.psd/colorblend/).
 
 ```csharp
 public static class ColorBlendExtensions
@@ -18,11 +19,11 @@ public static class ColorBlendExtensions
 
 | Имя | Описание |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Преобразует[`ColorBlend`](../../aspose.psd/colorblend/) кColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Преобразует [`ColorBlend`](../../aspose.psd/colorblend/) в ColorBlend. |
 
-### Смотрите также
+### См. также
 
-* пространство имен [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

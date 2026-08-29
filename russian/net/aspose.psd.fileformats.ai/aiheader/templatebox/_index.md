@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiHeader свойство. Получает или задает поле шаблона.
+title: "AiHeader.TemplateBox"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство AiHeader. Получает или задает шаблонный блок."
 type: docs
 weight: 100
 url: /ru/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
-Получает или задает поле шаблона.
+Получает или задает шаблонный блок.
 
 ```csharp
 public RectangleF TemplateBox { get; set; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Поле шаблона.
+Шаблонный блок.
 
-### Смотрите также
+### См. также
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

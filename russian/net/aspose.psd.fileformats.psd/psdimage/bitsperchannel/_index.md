@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Справочник по Aspose.PSD для .NET API
-description: PsdImage свойство. Получает биты на канал.
+title: "PsdImage.BitsPerChannel"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Свойство PsdImage. Получает количество бит на канал."
 type: docs
 weight: 30
 url: /ru/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-Получает биты на канал.
+Получает количество бит на канал.
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### Стоимость имущества
+### Property Value
 
-Бит на канал.
+Биты на канал.
 
-### Смотрите также
+### См. также
 
 * class [PsdImage](../)
-* пространство имен [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

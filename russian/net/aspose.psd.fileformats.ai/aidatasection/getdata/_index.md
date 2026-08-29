@@ -1,11 +1,12 @@
 ---
-title: AiDataSection.GetData
-second_title: Справочник по Aspose.PSD для .NET API
-description: AiDataSection метод. Получает строковые данные.
+title: "AiDataSection.GetData"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод AiDataSection. Возвращает строковые данные"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
 Получает строковые данные.
@@ -16,12 +17,12 @@ public string GetData()
 
 ### Возвращаемое значение
 
-Строковые данные раздела
+Строковые данные секции
 
-### Смотрите также
+### См. также
 
 * class [AiDataSection](../)
-* пространство имен [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

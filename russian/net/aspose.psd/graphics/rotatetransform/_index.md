@@ -1,14 +1,15 @@
 ---
-title: Graphics.RotateTransform
-second_title: Справочник по Aspose.PSD для .NET API
-description: Graphics метод. Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод добавляет поворот к преобразованию.
+title: "Graphics.RotateTransform"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод Graphics. Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод добавляет вращение в начало преобразования."
 type: docs
-weight: 440
+weight: 450
 url: /ru/net/aspose.psd/graphics/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод добавляет поворот к преобразованию.
+Поворачивает локальное геометрическое преобразование на указанную величину. Этот метод предварительно добавляет вращение к преобразованию.
 
 ```csharp
 public void RotateTransform(float angle)
@@ -16,19 +17,19 @@ public void RotateTransform(float angle)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
+| угол | Single | Угол вращения. |
 
-### Смотрите также
+### См. также
 
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Поворачивает локальное геометрическое преобразование на указанную величину в указанном порядке.
+Поворачивает локальное геометрическое преобразование на указанную величину в заданном порядке.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
@@ -36,14 +37,14 @@ public void RotateTransform(float angle, MatrixOrder order)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| angle | Single | Угол поворота. |
-| order | MatrixOrder | А[`MatrixOrder`](../../matrixorder/) который указывает, следует ли добавлять или добавлять перед матрицей вращения. |
+| угол | Single | Угол вращения. |
+| order | MatrixOrder | Объект [`MatrixOrder`](../../matrixorder/) указывает, следует ли добавить или предварительно вставить матрицу вращения. |
 
-### Смотрите также
+### См. также
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* пространство имен [Aspose.PSD](../../graphics/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

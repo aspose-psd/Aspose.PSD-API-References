@@ -1,14 +1,15 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: Справочник по Aspose.PSD для .NET API
-description: FileFormatExtensions метод. Определяет определен ли формат одного файла.
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Метод FileFormatExtensions. Определяет, определён ли один формат файла"
 type: docs
 weight: 10
 url: /ru/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-Определяет, определен ли формат одного файла.
+Определяет, определён ли один формат файла.
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
@@ -20,13 +21,13 @@ public static bool IsSingleFormatDefined(FileFormat fileFormat)
 
 ### Возвращаемое значение
 
-`Истинный` если определен формат одного файла; в противном случае,`ЛОЖЬ` .
+`True`, если определён один формат файла; иначе `false`.
 
-### Смотрите также
+### См. также
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* пространство имен [Aspose.PSD.Extensions](../../fileformatextensions/)
-* сборка [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

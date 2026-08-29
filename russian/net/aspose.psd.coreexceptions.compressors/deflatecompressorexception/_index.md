@@ -1,11 +1,12 @@
 ---
-title: Class DeflateCompressorException
-second_title: Справочник по Aspose.PSD для .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException сорт. Исключение компрессора Deflate.
+title: "Класс DeflateCompressorException"
+second_title: "Справочник API Aspose.PSD для .NET"
+description: "Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException класс. Исключение компрессора Deflate"
 type: docs
 weight: 440
 url: /ru/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException class
 
 Исключение компрессора Deflate.
@@ -18,13 +19,13 @@ public class DeflateCompressorException : CompressorException
 
 | Имя | Описание |
 | --- | --- |
-| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | Инициализирует новый экземпляр`DeflateCompressorException` класс. |
-| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр`DeflateCompressorException` класс. |
+| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | Инициализирует новый экземпляр класса `DeflateCompressorException`. |
+| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | Инициализирует новый экземпляр класса `DeflateCompressorException`. |
 
-### Смотрите также
+### См. также
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* пространство имен [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* сборка [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 
