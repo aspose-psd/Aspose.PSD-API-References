@@ -1,0 +1,37 @@
+---
+title: "IPartialArgb64PixelLoader"
+second_title: "Java용 Aspose.PSD API 참조"
+description: "64비트 ARGB 픽셀 로더입니다."
+type: docs
+weight: 131
+url: /ko/java/com.aspose.psd/ipartialargb64pixelloader/
+---
+
+**All Implemented Interfaces:**
+[com.aspose.psd.IPartialArgb32PixelLoader](../../com.aspose.psd/ipartialargb32pixelloader)
+```
+public interface IPartialArgb64PixelLoader extends IPartialArgb32PixelLoader
+```
+
+64비트 ARGB 픽셀 로더입니다.
+## 메서드
+
+| 메서드 | 설명 |
+| --- | --- |
+| [process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end)](#process64-com.aspose.psd.Rectangle-long---com.aspose.psd.Point-com.aspose.psd.Point-) | 로드된 픽셀을 처리합니다. |
+### process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end) {#process64-com.aspose.psd.Rectangle-long---com.aspose.psd.Point-com.aspose.psd.Point-}
+```
+public abstract void process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end)
+```
+
+
+로드된 픽셀을 처리합니다.
+
+**Parameters:**
+| 매개변수 | 형식 | 설명 |
+| --- | --- | --- |
+| pixelsRectangle | [Rectangle](../../com.aspose.psd/rectangle) | 픽셀 사각형. |
+| 픽셀 | long[] | 64비트 ARGB 픽셀. |
+| start | [Point](../../com.aspose.psd/point) | 시작 픽셀 지점. (left,top)과 같지 않으면 전체 사각형이 아니라는 의미입니다. |
+| end | [Point](../../com.aspose.psd/point) | 끝 픽셀 지점. (right,bottom)과 같지 않으면 전체 사각형이 아니라는 의미입니다. |
+
