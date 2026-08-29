@@ -29,10 +29,13 @@ The class to store image pixels data and its bounds.
 | --- | --- |
 | [createLoader_internalized()](#createLoader-internalized--) | Creates the PixelsDataLoader instance for current instance of [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata). |
 | [createSaver_internalized()](#createSaver-internalized--) | Creates the PixelsDataSaver instance for current instance of [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata). |
+| [create_internalized(Rectangle bounds)](#create-internalized-com.aspose.psd.Rectangle-) |  |
+| [create_internalized(Size size)](#create-internalized-com.aspose.psd.Size-) |  |
 | [deepClone()](#deepClone--) | It creates full copy of instance |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [getBounds()](#getBounds--) | Gets or sets the bounds of pixels data. |
 | [getClass()](#getClass--) |  |
+| [getClone_internalized()](#getClone-internalized--) | Creates a full copy of the current [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) instance. |
 | [getPixels()](#getPixels--) | Gets or sets the pixels data. |
 | [hashCode()](#hashCode--) |  |
 | [notify()](#notify--) |  |
@@ -85,6 +88,36 @@ Creates the PixelsDataSaver instance for current instance of [PixelsData](../../
 
 **Returns:**
 com.aspose.internal.IPixelsSaver - The new instance of PixelsDataSaver base on current instance of [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata).
+### create_internalized(Rectangle bounds) {#create-internalized-com.aspose.psd.Rectangle-}
+```
+public static PixelsData create_internalized(Rectangle bounds)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| bounds | [Rectangle](../../com.aspose.psd/rectangle) |  |
+
+**Returns:**
+[PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata)
+### create_internalized(Size size) {#create-internalized-com.aspose.psd.Size-}
+```
+public static PixelsData create_internalized(Size size)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | [Size](../../com.aspose.psd/size) |  |
+
+**Returns:**
+[PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata)
 ### deepClone() {#deepClone--}
 ```
 public final Object deepClone()
@@ -94,7 +127,7 @@ public final Object deepClone()
 It creates full copy of instance
 
 **Returns:**
-java.lang.Object - The copy of instance
+java.lang.Object - The copy of instance.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)
@@ -130,6 +163,16 @@ public final native Class<?> getClass()
 
 **Returns:**
 java.lang.Class<?>
+### getClone_internalized() {#getClone-internalized--}
+```
+public final PixelsData getClone_internalized()
+```
+
+
+Creates a full copy of the current [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) instance.
+
+**Returns:**
+[PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) - A new [PixelsData](../../com.aspose.psd.pixelsdatamodels/pixelsdata) object that is a copy of the current instance.
 ### getPixels() {#getPixels--}
 ```
 public final int[] getPixels()

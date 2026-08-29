@@ -3,7 +3,7 @@ title: UnknownSmartFilter
 second_title: Aspose.PSD for Java API Reference
 description: The class to hold unknown smart filter data.
 type: docs
-weight: 14
+weight: 17
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/unknownsmartfilter/
 ---
 

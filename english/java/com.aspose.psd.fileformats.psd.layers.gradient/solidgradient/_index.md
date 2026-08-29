@@ -25,6 +25,7 @@ Gradient fill effect settings.
 | --- | --- |
 | [addColorPoint()](#addColorPoint--) | Adds the color point. |
 | [addTransparencyPoint()](#addTransparencyPoint--) | Adds the color point. |
+| [createSolidGradient_internalized()](#createSolidGradient-internalized--) | Creates a new fully opacue [SolidGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/solidgradient) instance with default color and transparency points. |
 | [equals(Object arg0)](#equals-java.lang.Object-) |  |
 | [generateLfx2ResourceNodes()](#generateLfx2ResourceNodes--) | Generates the LFX2 resource nodes. |
 | [getClass()](#getClass--) |  |
@@ -74,6 +75,16 @@ Adds the color point.
 
 **Returns:**
 [GradientTransparencyPoint](../../com.aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint) - Created transparency point
+### createSolidGradient_internalized() {#createSolidGradient-internalized--}
+```
+public static SolidGradient createSolidGradient_internalized()
+```
+
+
+Creates a new fully opacue [SolidGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/solidgradient) instance with default color and transparency points.
+
+**Returns:**
+[SolidGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/solidgradient) - A [SolidGradient](../../com.aspose.psd.fileformats.psd.layers.gradient/solidgradient) object initialized with two color points and two transparency points.
 ### equals(Object arg0) {#equals-java.lang.Object-}
 ```
 public boolean equals(Object arg0)

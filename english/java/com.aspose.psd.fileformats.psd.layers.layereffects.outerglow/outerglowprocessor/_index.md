@@ -28,10 +28,12 @@ Calculating tool for the Outer Glow effect
 | [getLayerEffectPixels_internalized()](#getLayerEffectPixels-internalized--) | Gets or sets Effect pixels |
 | [getOuterGlowRect_internalized()](#getOuterGlowRect-internalized--) | Gets or sets Effect area size |
 | [hashCode()](#hashCode--) |  |
+| [isSkipFill_internalized()](#isSkipFill-internalized--) | Gets or sets a value indicating whether filling of the base pixels area will be processed. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [process(Rectangle pixelsRectangle)](#process-com.aspose.psd.Rectangle-) | Method apply effect to source pixels. |
 | [setEnd_internalized(Point value)](#setEnd-internalized-com.aspose.psd.Point-) | Gets or sets the end point of treatment |
+| [setSkipFill_internalized(boolean value)](#setSkipFill-internalized-boolean-) | Gets or sets a value indicating whether filling of the base pixels area will be processed. |
 | [setSourcePixels_internalized(int[] value)](#setSourcePixels-internalized-int---) | Gets or sets the pixels of the layer to apply the effect |
 | [setStart_internalized(Point value)](#setStart-internalized-com.aspose.psd.Point-) | Gets or sets the start point of treatment |
 | [toString()](#toString--) |  |
@@ -118,6 +120,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isSkipFill_internalized() {#isSkipFill-internalized--}
+```
+public final boolean isSkipFill_internalized()
+```
+
+
+Gets or sets a value indicating whether filling of the base pixels area will be processed. This can be used for correct blending of the effect edges with the base pixels.
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()
@@ -159,6 +171,19 @@ Gets or sets the end point of treatment
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | [Point](../../com.aspose.psd/point) |  |
+
+### setSkipFill_internalized(boolean value) {#setSkipFill-internalized-boolean-}
+```
+public final void setSkipFill_internalized(boolean value)
+```
+
+
+Gets or sets a value indicating whether filling of the base pixels area will be processed. This can be used for correct blending of the effect edges with the base pixels.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | boolean |  |
 
 ### setSourcePixels_internalized(int[] value) {#setSourcePixels-internalized-int---}
 ```
