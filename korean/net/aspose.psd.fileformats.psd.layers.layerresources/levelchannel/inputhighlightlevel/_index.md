@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: .NET API 참조용 Aspose.PSD
-description: LevelChannel 재산. 입력 하이라이트 레벨을 가져오거나 설정합니다.
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LevelChannel 속성. 입력 하이라이트 레벨을 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
 입력 하이라이트 레벨을 가져오거나 설정합니다.
@@ -14,20 +15,20 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/input
 public short InputHighlightLevel { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 입력 하이라이트 레벨.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Highlight Level은 " + (this.InputShadowLevel + 2) + " ~ 255 범위에서만 설정할 수 있습니다. |
+| ArgumentOutOfRangeException | 입력 하이라이트 레벨은 " + (this.InputShadowLevel + 2) + " 에서 255까지의 범위에서만 설정할 수 있습니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [LevelChannel](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

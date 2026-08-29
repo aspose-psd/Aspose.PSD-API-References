@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ValueD
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffRational 재산. 이중 값을 가져옵니다.
+title: "TiffRational.ValueD"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffRational 속성. double 값을 가져옵니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
-이중 값을 가져옵니다.
+double 값을 가져옵니다.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이중 값입니다.
+double 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

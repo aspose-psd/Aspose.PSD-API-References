@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: .NET API 참조용 Aspose.PSD
-description: CgEdResource 재산. 밝기와 대비의 평균값을 가져오거나 설정합니다.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CgEdResource 속성. 밝기와 대비의 평균 값을 가져오거나 설정합니다"
 type: docs
-weight: 80
+weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
-밝기와 대비의 평균값을 가져오거나 설정합니다.
+밝기와 대비에 대한 평균 값을 가져오거나 설정합니다.
 
 ```csharp
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-밝기와 대비의 평균값입니다.
+밝기와 대비의 평균 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [CgEdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

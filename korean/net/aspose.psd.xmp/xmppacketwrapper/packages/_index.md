@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPacketWrapper 재산. 배열 가져오기XmpPackage 내부 XMP.
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPacketWrapper 속성. XMP 내부의 XmpPackage 배열을 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-배열 가져오기[`XmpPackage`](../../xmppackage/) 내부 XMP.
+XMP 내부의 [`XmpPackage`](../../xmppackage/) 배열을 가져옵니다.
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-배열[`XmpPackage`](../../xmppackage/) 내부 XMP.
+XMP 내부의 [`XmpPackage`](../../xmppackage/) 배열.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

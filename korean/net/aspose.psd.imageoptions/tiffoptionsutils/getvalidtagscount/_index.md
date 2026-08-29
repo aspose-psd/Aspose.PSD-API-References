@@ -1,11 +1,12 @@
 ---
-title: TiffOptionsUtils.GetValidTagsCount
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptionsUtils 방법. 유효한 태그 수를 가져옵니다.
+title: "TiffOptionsUtils.GetValidTagsCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptionsUtils 메서드. 유효한 태그 수를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils.GetValidTagsCount method
 
 유효한 태그 수를 가져옵니다.
@@ -14,19 +15,19 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| tags | TiffDataType[] | 유효성을 검사할 태그입니다. |
+| 태그 | TiffDataType[] | 검증할 태그입니다. |
 
 ### 반환 값
 
 유효한 태그 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

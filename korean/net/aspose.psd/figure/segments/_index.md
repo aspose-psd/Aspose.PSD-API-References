@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: .NET API 참조용 Aspose.PSD
-description: Figure 재산. 전체 그림 세그먼트를 가져옵니다.
+title: "Figure.Segments"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Figure 속성. 전체 피겨 세그먼트를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-전체 그림 세그먼트를 가져옵니다.
+전체 도형 세그먼트를 가져옵니다.
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-그림 세그먼트.
+피겨 세그먼트입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* 네임스페이스 [Aspose.PSD](../../figure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

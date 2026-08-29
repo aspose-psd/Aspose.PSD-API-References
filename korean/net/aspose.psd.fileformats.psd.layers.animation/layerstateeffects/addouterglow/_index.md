@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.AddOuterGlow
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerStateEffects 방법. 외부 광선 효과를 추가합니다.
+title: "LayerStateEffects.AddOuterGlow"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerStateEffects 메서드. 외부 광 효과를 추가합니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addouterglow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddOuterGlow method
 
-외부 광선 효과를 추가합니다.
+외부 글로우 효과를 추가합니다.
 
 ```csharp
 public OuterGlowEffect AddOuterGlow()
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### 반환 값
 
-의 새 인스턴스[`OuterGlowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/) 수업.
+새 인스턴스인 [`OuterGlowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/) 클래스.
 
-### 예
+## 예제
 
-다음 코드는 타임라인 프레임의 효과 지원을 보여줍니다.
+다음 코드는 타임라인 프레임에서 효과 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [OuterGlowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/)
 * class [LayerStateEffects](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

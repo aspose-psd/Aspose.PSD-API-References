@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: .NET API 참조용 Aspose.PSD
-description: TextShape 방법. 지정된 변환을 모양에 적용합니다.
+title: "TextShape.Transform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextShape 메서드. 지정된 변환을 모양에 적용합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 지정된 변환을 모양에 적용합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/textshape/transform/
 public override void Transform(Matrix transform)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| transform | Matrix | 적용할 변환입니다. |
+| 변환 | 행렬 | 적용할 변환. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../textshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

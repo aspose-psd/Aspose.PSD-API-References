@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 재산. 이 모든 숫자 속성이Rectangle 값이 0입니다.
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 속성. 이 Rectangle의 모든 숫자 속성이 0인지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-이 모든 숫자 속성이[`Rectangle`](../) 값이 0입니다.
+이 [`Rectangle`](../)의 모든 숫자 속성이 0인지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 속성은 다음과 같은 경우 true를 반환합니다.[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/) , 그리고[`Y`](../y/) 이것의 속성[`Rectangle`](../) 모두 0의 값을 가집니다. 그렇지 않으면 거짓입니다.
+이 속성은 이 [`Rectangle`](../)의 [`Width`](../width/), [`Height`](../height/), [`X`](../x/), [`Y`](../y/) 속성이 모두 0인 경우 true를 반환하고, 그렇지 않으면 false를 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

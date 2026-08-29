@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ContentType
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectLayer 재산. 스마트 개체 레이어 콘텐츠의 유형을 가져옵니다. 포함된 스마트 개체 콘텐츠는 포함된 원시 이미지 파일입니다.Data . 연결된 고급 개체 콘텐츠는 연결된 이미지 파일의 원시 콘텐츠입니다사용 가능한 경우.LiFeDataSource . Adobe Photoshop  그래픽 라이브러리에서 로드하는 것은 지원하지 않습니다.IsLibraryLink is true. 일반 링크 파일의 경우 처음에는RelativePath 소스 이미지 경로에 대해 상대적으로 파일 찾기SourceImagePath  사용할 수 없는 경우 살펴봅니다.FullPath  그렇지 않은 경우 이미지가 있는 동일한 디렉토리에서 링크 파일을 찾습니다.SourceImagePath .
+title: "SmartObjectLayer.ContentType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectLayer 속성. 스마트 오브젝트 레이어 콘텐츠의 유형을 가져옵니다. 임베드된 스마트 오브젝트 콘텐츠는 임베드된 원시 이미지 파일 Data입니다. 연결된 스마트 오브젝트 콘텐츠는 사용 가능한 경우 연결된 이미지 파일의 원시 콘텐츠인 LiFeDataSource입니다. IsLibraryLink가 true인 경우 Adobe Photoshop Graphics Library에서 로드하는 것을 지원하지 않습니다. 일반 링크 파일의 경우 처음에 RelativePath를 사용하여 파일을 SourceImagePath(소스 이미지 경로)와 상대적으로 찾으며, 사용 불가능하면 FullPath를 확인하고, 그래도 없으면 이미지가 있는 동일 디렉터리인 SourceImagePath에서 링크 파일을 찾습니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ContentType property
 
-스마트 개체 레이어 콘텐츠의 유형을 가져옵니다. 포함된 스마트 개체 콘텐츠는 포함된 원시 이미지 파일입니다.[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . 연결된 고급 개체 콘텐츠는 연결된 이미지 파일의 원시 콘텐츠입니다(사용 가능한 경우).[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Adobe� Photoshop� � 그래픽 라이브러리에서 로드하는 것은 지원하지 않습니다.[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) is true. 일반 링크 파일의 경우 처음에는[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) 소스 이미지 경로에 대해 상대적으로 파일 찾기SourceImagePath , 사용할 수 없는 경우 살펴봅니다.[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , 그렇지 않은 경우 이미지가 있는 동일한 디렉토리에서 링크 파일을 찾습니다.SourceImagePath .
+스마트 오브젝트 레이어 콘텐츠의 유형을 가져옵니다. 임베드된 스마트 오브젝트 콘텐츠는 임베드된 원시 이미지 파일: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) 입니다. 연결된 스마트 오브젝트 콘텐츠는 사용 가능한 경우 연결된 이미지 파일의 원시 콘텐츠: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) 입니다. [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/)가 true인 경우 Adobe Photoshop Graphics Library에서 로드를 지원하지 않습니다. 일반 링크 파일의 경우 먼저 [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/)를 사용하여 파일을 SourceImagePath(소스 이미지 경로)와 상대적으로 찾고, 사용 불가능하면 [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/)를 확인하며, 그래도 없으면 이미지가 있는 동일 디렉터리인 SourceImagePath에서 링크 파일을 찾습니다.
 
 ```csharp
 public SmartObjectType ContentType { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-스마트 개체 레이어 콘텐츠의 유형입니다.
+스마트 오브젝트 레이어 콘텐츠의 유형.
 
-### 예
+## 예제
 
-다음 코드는 연결된 스마트 개체 업데이트 지원을 보여줍니다.
+다음 코드는 연결된 스마트 객체 업데이트 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 이 예는 다음 방법을 사용하여 외부 또는 내장된 스마트 개체 계층을 업데이트하는 방법을 보여줍니다.
+// 이 예제는 이러한 메서드를 사용하여 외부 또는 내장 스마트 객체 레이어를 업데이트하는 방법을 보여줍니다:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -67,7 +68,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // 이 예제는 PSD 파일에서 스마트 오브젝트 레이어를 변경하고 그 내용을 내보내거나 업데이트하는 방법을 보여줍니다.
+    // 이 예제는 PSD 파일에서 스마트 객체 레이어를 변경하고 해당 콘텐츠를 내보내기/업데이트하는 방법을 보여줍니다.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -88,13 +89,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // PSD 스마트 오브젝트 레이어에서 외부 스마트 오브젝트 이미지를 새 위치로 내보내겠습니다.
-            // 수정할 것이기 때문입니다.
+            // PSD 스마트 객체 레이어에서 외부 스마트 객체 이미지를 새 위치로 내보냅시다
+            // 우리는 이를 수정할 것이기 때문입니다.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // 스마트 객체의 내용을 반전시키자: 내부(캐시되지 않은) 이미지
+        // 스마트 객체의 콘텐츠를 반전시킵시다: 내부(캐시되지 않은) 이미지
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -105,18 +106,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // 아직 수정된 내용이 렌더링에 영향을 미치지 않는지 확인해보자.
+        // 수정된 콘텐츠가 아직 렌더링에 영향을 주지 않는지 확인합시다.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // 업데이트된 콘텐츠가 렌더링에 영향을 미치고 psd 이미지가 제대로 저장되는지 확인해보자
+        // 업데이트된 콘텐츠가 렌더링에 영향을 주고 PSD 이미지가 올바르게 저장되는지 확인합시다
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// 이 예제는 ConvertToLinked 메서드를 사용하여 포함된 스마트 개체를 외부 연결된 콘텐츠로 변환하는 방법을 보여줍니다.
+// 이 예제는 ConvertToLinked 메서드를 사용하여 내장 스마트 객체를 외부 링크된 콘텐츠로 변환하는 방법을 보여줍니다.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -136,7 +137,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // PSD 파일에 내장된 스마트 오브젝트 레이어를 외부 레이어로 변환하는 방법을 보여줍니다.
+    // 이는 PSD 파일의 내장 스마트 객체 레이어를 외부 레이어로 변환하는 방법을 보여줍니다.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -157,7 +158,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // 변환된 이미지가 제대로 저장되었는지 확인해보자
+        // 변환된 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -174,7 +175,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// 이 예제는 EmbedLinked 메서드를 사용하여 하나의 외부 스마트 개체 레이어 또는 연결된 모든 레이어를 PSD 파일에 포함하는 방법을 보여줍니다.
+// 이 예제는 EmbedLinked 메서드를 사용하여 PSD 파일에 외부 스마트 객체 레이어 하나 또는 모든 링크된 레이어를 임베드하는 방법을 보여줍니다.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -218,7 +219,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // 변환된 이미지가 제대로 저장되었는지 확인해보자
+        // 변환된 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -235,8 +236,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// 이 예제는 Adobe® Photoshop® 외부 스마트 개체 레이어를 변경하고 해당 콘텐츠를 내보내거나 업데이트하는 방법을 보여줍니다.
-// ExportContents 및 ReplaceContents 메서드를 사용합니다.
+// 이 예제는 Adobe® Photoshop® 외부 스마트 객체 레이어를 변경하고 해당 콘텐츠를 내보내기/업데이트하는 방법을 보여줍니다
+// ExportContents 및 ReplaceContents 메서드를 사용하여.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -262,10 +263,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // PSD 스마트 오브젝트 레이어에서 링크된 스마트 오브젝트 이미지를 내보내자
+        // PSD 스마트 객체 레이어에서 링크된 스마트 객체 이미지를 내보냅시다
         smartObjectLayer.ExportContents(exportPath);
 
-        // 원본 이미지가 제대로 저장되었는지 확인해보자
+        // 원본 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -273,15 +274,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 연결된 스마트 오브젝트 이미지를 반전시키자
+            // 링크된 스마트 객체 이미지를 반전시킵시다
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // PSD 레이어에 링크된 스마트 오브젝트 이미지를 교체하자
+            // PSD 레이어에서 링크된 스마트 객체 이미지를 교체합시다
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // 업데이트된 이미지가 제대로 저장되었는지 확인해보자
+        // 업데이트된 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -323,11 +324,11 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [SmartObjectType](../../smartobjecttype/)
 * class [SmartObjectLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

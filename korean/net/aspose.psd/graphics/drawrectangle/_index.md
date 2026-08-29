@@ -1,66 +1,67 @@
 ---
-title: Graphics.DrawRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 에 의해 지정된 사각형을 그립니다.RectangleF구조.
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. RectangleF 구조체로 지정된 사각형을 그립니다."
 type: docs
-weight: 300
+weight: 310
 url: /ko/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-에 의해 지정된 사각형을 그립니다.[`RectangleF`](../../rectanglef/)구조.
+[`RectangleF`](../../rectanglef/) 구조체로 지정된 사각형을 그립니다.
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | ㅏ[`Pen`](../../pen/) 사각형의 색상, 너비 및 스타일을 결정합니다. |
-| rect | RectangleF | ㅏ[`RectangleF`](../../rectanglef/) 그릴 사각형을 나타내는 구조체입니다. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 사각형의 색상, 너비 및 스타일을 결정합니다. |
+| rect | RectangleF | 그릴 사각형을 나타내는 [`RectangleF`](../../rectanglef/) 구조체. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-에 의해 지정된 사각형을 그립니다.[`Rectangle`](../../rectangle/)구조.
+[`Rectangle`](../../rectangle/) 구조체로 지정된 사각형을 그립니다.
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | ㅏ[`Pen`](../../pen/) 사각형의 색상, 너비 및 스타일을 결정합니다. |
-| rect | Rectangle | ㅏ[`Rectangle`](../../rectangle/) 그릴 사각형을 나타내는 구조체입니다. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 사각형의 색상, 너비 및 스타일을 결정합니다. |
+| rect | Rectangle | 그릴 사각형을 나타내는 [`Rectangle`](../../rectangle/) 구조체. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,26 +73,26 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | ㅏ[`Pen`](../../pen/) 사각형의 색상, 너비 및 스타일을 결정합니다. |
-| x | Single | 그릴 사각형의 왼쪽 위 모퉁이에 대한 x좌표입니다. |
-| y | Single | 그릴 사각형의 왼쪽 위 모퉁이에 대한 y좌표입니다. |
-| width | Single | 그릴 사각형의 너비입니다. |
-| height | Single | 그릴 사각형의 높이입니다. |
+| pen | Pen | [`Pen`](../../pen/)은(는) 사각형의 색상, 너비 및 스타일을 결정합니다. |
+| x | 단일 | 그릴 사각형의 왼쪽 위 모서리의 x 좌표. |
+| y | 단일 | 그릴 사각형의 왼쪽 위 모서리의 y 좌표. |
+| width | 단일 | 그릴 사각형의 너비. |
+| height | 단일 | 그릴 사각형의 높이. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,25 +104,25 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) 사각형의 색상, 너비 및 스타일을 결정합니다. |
-| x | Int32 | 그릴 사각형의 왼쪽 위 모퉁이에 대한 x좌표입니다. |
-| y | Int32 | 그릴 사각형의 왼쪽 위 모퉁이에 대한 y좌표입니다. |
-| width | Int32 | 그릴 사각형의 너비입니다. |
-| height | Int32 | 그릴 사각형의 높이입니다. |
+| pen | Pen | [`Pen`](../../pen/)은 사각형의 색상, 너비 및 스타일을 결정합니다. |
+| x | Int32 | 그릴 사각형의 왼쪽 위 모서리의 x 좌표. |
+| y | Int32 | 그릴 사각형의 왼쪽 위 모서리의 y 좌표. |
+| width | Int32 | 그릴 사각형의 너비. |
+| height | Int32 | 그릴 사각형의 높이. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *pen* null입니다. |
+| ArgumentNullException | *pen*이 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpBasicPackage 건설자. 의 새 인스턴스를 초기화합니다.XmpBasicPackage 클래스.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpBasicPackage 생성자. XmpBasicPackage 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`XmpBasicPackage`](../) 클래스.
+[`XmpBasicPackage`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public XmpBasicPackage()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`XmpBasicPackage`](../) 클래스.
+[`XmpBasicPackage`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| prefix | String | 접두사. |
+| 접두사 | String | 접두사. |
 | namespaceUri | String | 네임스페이스 URI입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

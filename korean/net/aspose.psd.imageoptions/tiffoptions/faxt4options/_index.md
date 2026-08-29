@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FaxT4Options
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 팩스 t4 옵션을 가져오거나 설정합니다.
+title: "TiffOptions.FaxT4Options"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 팩스 t4 옵션을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 150
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FaxT4Options property
 
 팩스 t4 옵션을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 public Group3Options FaxT4Options { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 팩스 t4 옵션입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [Group3Options](../../../aspose.psd.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

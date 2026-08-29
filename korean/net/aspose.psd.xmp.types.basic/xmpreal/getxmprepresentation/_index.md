@@ -1,14 +1,15 @@
 ---
-title: XmpReal.GetXmpRepresentation
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpReal 방법. XMP 형식의 값이 포함된 문자열을 가져옵니다.
+title: "XmpReal.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpReal 메서드. XMP 형식으로 포함된 문자열 값을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpReal.GetXmpRepresentation method
 
-XMP 형식의 값이 포함된 문자열을 가져옵니다.
+XMP 형식으로 포함된 문자열 값을 가져옵니다.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 반환 값
 
-XMP 형식의 값이 포함된 문자열을 반환합니다.
+XMP 형식으로 포함된 문자열 값을 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpReal](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

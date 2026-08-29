@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: .NET API 참조용 Aspose.PSD
-description: IntRange 건설자. 의 새 인스턴스를 초기화합니다.IntRange 클래스.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IntRange 생성자. IntRange 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`IntRange`](../) 클래스.
+[`IntRange`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| start | Int32 | 시작. |
-| count | Int32 | 카운트. |
+| start | Int32 | 시작입니다. |
+| count | Int32 | 개수입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [IntRange](../)
-* 네임스페이스 [Aspose.PSD](../../intrange/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`IntRange`](../) 클래스.
+[`IntRange`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| start | Int32 | 시작. |
-| count | Int32 | 카운트. |
-| delta | Int32 | 델타. |
+| start | Int32 | 시작입니다. |
+| count | Int32 | 개수입니다. |
+| delta | Int32 | 델타입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [IntRange](../)
-* 네임스페이스 [Aspose.PSD](../../intrange/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`IntRange`](../) 클래스.
+[`IntRange`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| range | Int32[] | 범위. |
+| range | Int32[] | 범위입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [IntRange](../)
-* 네임스페이스 [Aspose.PSD](../../intrange/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

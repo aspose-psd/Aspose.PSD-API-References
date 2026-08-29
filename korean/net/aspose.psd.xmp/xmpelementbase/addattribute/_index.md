@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpElementBase 방법. 속성을 추가합니다.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpElementBase 메서드. 속성을 추가합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 속성을 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp/xmpelementbase/addattribute/
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| attribute | String | 속성. |
-| value | String | 가치. |
+| 속성 | String | 속성입니다. |
+| 값 | String | 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpElementBase](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmpelementbase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

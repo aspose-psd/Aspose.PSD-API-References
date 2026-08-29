@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 유효한 태그 수를 가져옵니다. 총 태그 개수가 아니라 보존할 수 있는 태그 개수입니다.
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 유효한 태그 수를 가져옵니다. 이는 전체 태그 수가 아니라 보존될 수 있는 태그 수입니다"
 type: docs
-weight: 570
+weight: 580
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-유효한 태그 수를 가져옵니다. 총 태그 개수가 아니라 보존할 수 있는 태그 개수입니다.
+유효한 태그 수를 가져옵니다. 이는 전체 태그 수가 아니라 보존될 수 있는 태그 수입니다.
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 유효한 태그 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

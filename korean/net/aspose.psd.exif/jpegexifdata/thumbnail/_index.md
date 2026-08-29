@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 썸네일 이미지를 가져오거나 설정합니다.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 썸네일 이미지를 가져오거나 설정합니다"
 type: docs
 weight: 200
 url: /ko/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
 썸네일 이미지를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.exif/jpegexifdata/thumbnail/
 public RasterImage Thumbnail { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 썸네일.
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

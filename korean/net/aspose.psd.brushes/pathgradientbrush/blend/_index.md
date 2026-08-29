@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.Blend
-second_title: .NET API 참조용 Aspose.PSD
-description: PathGradientBrush 재산. 가져오거나 설정합니다.Blend gradient. 에 대한 사용자 지정 폴오프를 정의하는 위치 및 요소를 지정합니다.
+title: "PathGradientBrush.Blend"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathGradientBrush 속성. 그라디언트에 대한 사용자 정의 감쇠를 정의하는 위치와 계수를 지정하는 Blend를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.brushes/pathgradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.Blend property
 
-가져오거나 설정합니다.[`Blend`](../../../aspose.psd/blend/) gradient. 에 대한 사용자 지정 폴오프를 정의하는 위치 및 요소를 지정합니다.
+그라디언트에 대한 사용자 정의 감쇠를 정의하는 위치와 계수를 지정하는 ``[`Blend`](../../../aspose.psd/blend/)``를 가져오거나 설정합니다.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`Blend`](../../../aspose.psd/blend/) 그래디언트에 대한 사용자 지정 폴오프를 나타냅니다.
+그라디언트에 대한 사용자 정의 감쇠를 나타내는 ``[`Blend`](../../../aspose.psd/blend/)``.
 
-### 또한보십시오
+### 또 보기
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [PathGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

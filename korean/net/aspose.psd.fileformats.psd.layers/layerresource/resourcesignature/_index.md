@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerResource 필드. 공통 리소스 서명입니다.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerResource 필드. 공통 리소스 서명"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 공통 리소스 서명입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 public const int ResourceSignature;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

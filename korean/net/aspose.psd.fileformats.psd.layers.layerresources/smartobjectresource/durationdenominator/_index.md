@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.DurationDenominator
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectResource 재산. 기간 분모를 가져오거나 설정합니다.
+title: "SmartObjectResource.DurationDenominator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectResource 속성. 지속 시간 분모를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationDenominator property
 
 기간 분모를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public int DurationDenominator { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-기간 분모입니다.
+지속 시간 분모.
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartObjectResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

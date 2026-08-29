@@ -1,177 +1,178 @@
 ---
-title: LinearGradientBrush.LinearGradientBrush
-second_title: .NET API 참조용 Aspose.PSD
-description: LinearGradientBrush 건설자. 의 새 인스턴스를 초기화합니다.LinearGradientBrush 기본 매개 변수가 있는 클래스입니다. 시작 색상은 검은색 끝 색상은 흰색 각도는 45도 직사각형은 크기가 11인 00에 있습니다.
+title: "LinearGradientBrush.LinearGradientBrush"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LinearGradientBrush 생성자. 기본 매개변수로 LinearGradientBrush 클래스의 새 인스턴스를 초기화합니다. 시작 색상은 검정, 끝 색상은 흰색, 각도는 45도이며 사각형은 00에 위치하고 크기는 11입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.brushes/lineargradientbrush/lineargradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 기본 매개 변수가 있는 클래스입니다. 시작 색상은 검은색, 끝 색상은 흰색, 각도는 45도, 직사각형은 크기가 (1,1)인 (0,0)에 있습니다.
+기본 매개변수로 ``[`LinearGradientBrush`](../)`` 클래스의 새 인스턴스를 초기화합니다. 시작 색상은 검정, 끝 색상은 흰색, 각도는 45도이며 사각형은 (0,0)에 위치하고 크기는 (1,1)입니다.
 
 ```csharp
 public LinearGradientBrush()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Point, Point, Color, Color) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 지정된 포인트와 색상이 있는 클래스.
+지정된 점과 색상으로 ``[`LinearGradientBrush`](../)`` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(Point point1, Point point2, Color color1, Color color2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point1 | Point | ㅏ[`Point`](../../../aspose.psd/point/) 선형 그래디언트의 시작점을 나타내는 구조체입니다. |
-| point2 | Point | ㅏ[`Point`](../../../aspose.psd/point/) 선형 그래디언트의 끝점을 나타내는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/)선형 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 선형 그래디언트의 끝 색상을 나타내는 구조체입니다. |
+| point1 | Point | 선형 그라디언트의 시작점을 나타내는 `[Point](../../../aspose.psd/point/)` 구조체. |
+| point2 | Point | 선형 그라디언트의 끝점을 나타내는 `[Point](../../../aspose.psd/point/)` 구조체. |
+| color1 | Color | 선형 그라디언트의 시작 색상을 나타내는 ``[`Color`](../../../aspose.psd/color/)`` 구조체. |
+| color2 | Color | 선형 그라디언트의 끝 색상을 나타내는 ``[`Color`](../../../aspose.psd/color/)`` 구조체. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(PointF, PointF, Color, Color) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 지정된 포인트와 색상이 있는 클래스.
+지정된 점과 색상으로 ``[`LinearGradientBrush`](../)`` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color color2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point1 | PointF | ㅏ[`PointF`](../../../aspose.psd/pointf/) 선형 그래디언트의 시작점을 나타내는 구조체입니다. |
-| point2 | PointF | ㅏ[`PointF`](../../../aspose.psd/pointf/) 선형 그래디언트의 끝점을 나타내는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/)선형 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 선형 그래디언트의 끝 색상을 나타내는 구조체입니다. |
+| point1 | PointF | 선형 그라디언트의 시작점을 나타내는 `[PointF](../../../aspose.psd/pointf/)` 구조체. |
+| point2 | PointF | 선형 그라디언트의 끝점을 나타내는 `[PointF](../../../aspose.psd/pointf/)` 구조체. |
+| color1 | Color | 선형 그라디언트의 시작 색상을 나타내는 ``[`Color`](../../../aspose.psd/color/)`` 구조체. |
+| color2 | Color | 선형 그라디언트의 끝 색상을 나타내는 ``[`Color`](../../../aspose.psd/color/)`` 구조체. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Rectangle, Color, Color, float) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 직사각형, 시작 및 끝 색상, 방향 각도를 기반으로 하는 클래스입니다.
+사각형, 시작 및 끝 색상, 그리고 방향 각도를 기반으로 하는 [`LinearGradientBrush`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | ㅏ[`RectangleF`](../../../aspose.psd/rectanglef/) 선형 그래디언트의 범위를 지정하는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 끝 색상을 나타내는 구조체입니다. |
-| angle | Single | x축에서 시계 방향으로 측정한 그래디언트 방향 선의 각도입니다. |
+| rect | Rectangle | 선형 그라디언트의 경계를 지정하는 `[RectangleF](../../../aspose.psd/rectanglef/)` 구조체. |
+| color1 | Color | 그라디언트의 시작 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| color2 | Color | 그라디언트의 끝 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| 각도 | 단일 | 그라디언트 방향선의 각도(시계 방향으로 x축에서 측정한 도 단위). |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(RectangleF, Color, Color, float) {#constructor_5}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 직사각형, 시작 및 끝 색상, 방향 각도를 기반으로 하는 클래스입니다.
+사각형, 시작 및 끝 색상, 그리고 방향 각도를 기반으로 하는 [`LinearGradientBrush`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | ㅏ[`RectangleF`](../../../aspose.psd/rectanglef/) 선형 그래디언트의 범위를 지정하는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 끝 색상을 나타내는 구조체입니다. |
-| angle | Single | x축에서 시계 방향으로 측정한 그래디언트 방향 선의 각도입니다. |
+| rect | RectangleF | 선형 그라디언트의 경계를 지정하는 `[RectangleF](../../../aspose.psd/rectanglef/)` 구조체. |
+| color1 | Color | 그라디언트의 시작 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| color2 | Color | 그라디언트의 끝 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| 각도 | 단일 | 그라디언트 방향선의 각도(시계 방향으로 x축에서 측정한 도 단위). |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Rectangle, Color, Color, float, bool) {#constructor_4}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 직사각형, 시작 및 끝 색상, 방향 각도를 기반으로 하는 클래스입니다.
+사각형, 시작 및 끝 색상, 그리고 방향 각도를 기반으로 하는 [`LinearGradientBrush`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle, 
     bool isAngleScalable)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | ㅏ[`RectangleF`](../../../aspose.psd/rectanglef/) 선형 그래디언트의 범위를 지정하는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 끝 색상을 나타내는 구조체입니다. |
-| angle | Single | x축에서 시계 방향으로 측정한 그래디언트 방향 선의 각도입니다. |
-| isAngleScalable | Boolean | 로 설정된 경우`진실` 이것으로 변환하는 동안 각도가 변경됩니다.[`LinearGradientBrush`](../). |
+| rect | Rectangle | 선형 그라디언트의 경계를 지정하는 `[RectangleF](../../../aspose.psd/rectanglef/)` 구조체. |
+| color1 | Color | 그라디언트의 시작 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| color2 | Color | 그라디언트의 끝 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| 각도 | 단일 | 그라디언트 방향선의 각도(시계 방향으로 x축에서 측정한 도 단위). |
+| isAngleScalable | Boolean | `true` 로 설정하면 이 [`LinearGradientBrush`](../)와 함께 변환 중에 각도가 변경됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(RectangleF, Color, Color, float, bool) {#constructor_6}
 
-의 새 인스턴스를 초기화합니다.[`LinearGradientBrush`](../) 직사각형, 시작 및 끝 색상, 방향 각도를 기반으로 하는 클래스입니다.
+사각형, 시작 및 끝 색상, 그리고 방향 각도를 기반으로 하는 [`LinearGradientBrush`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle, 
     bool isAngleScalable)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | ㅏ[`RectangleF`](../../../aspose.psd/rectanglef/) 선형 그래디언트의 범위를 지정하는 구조체입니다. |
-| color1 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 시작 색상을 나타내는 구조체입니다. |
-| color2 | Color | ㅏ[`Color`](../../../aspose.psd/color/) 그래디언트의 끝 색상을 나타내는 구조체입니다. |
-| angle | Single | x축에서 시계 방향으로 측정한 그래디언트 방향 선의 각도입니다. |
-| isAngleScalable | Boolean | 로 설정된 경우`진실` 이것으로 변환하는 동안 각도가 변경됩니다.[`LinearGradientBrush`](../). |
+| rect | RectangleF | 선형 그라디언트의 경계를 지정하는 `[RectangleF](../../../aspose.psd/rectanglef/)` 구조체. |
+| color1 | Color | 그라디언트의 시작 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| color2 | Color | 그라디언트의 끝 색상을 나타내는 [`Color`](../../../aspose.psd/color/) 구조체입니다. |
+| 각도 | 단일 | 그라디언트 방향선의 각도(시계 방향으로 x축에서 측정한 도 단위). |
+| isAngleScalable | Boolean | `true` 로 설정하면 이 [`LinearGradientBrush`](../)와 함께 변환 중에 각도가 변경됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

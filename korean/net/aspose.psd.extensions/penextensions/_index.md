@@ -1,28 +1,29 @@
 ---
-title: Class PenExtensions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Extensions.PenExtensions 수업. 에 대한 확장 메서드를 포함합니다.Pen 그리고Pen .
+title: "클래스 PenExtensions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Extensions.PenExtensions 클래스. Pen 및 Pen에 대한 확장 메서드를 포함합니다."
 type: docs
-weight: 1140
+weight: 1150
 url: /ko/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-에 대한 확장 메서드를 포함합니다.[`Pen`](../../aspose.psd/pen/) 그리고Pen .
+포함합니다 [`Pen`](../../aspose.psd/pen/) 및 Pen에 대한 확장 메서드.
 
 ```csharp
 public static class PenExtensions
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | 변환[`Pen`](../../aspose.psd/pen/) ~로Pen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | [`Pen`](../../aspose.psd/pen/)을 Pen으로 변환합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

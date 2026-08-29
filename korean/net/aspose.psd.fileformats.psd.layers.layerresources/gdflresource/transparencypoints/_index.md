@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.TransparencyPoints
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 재산. 투명도 포인트를 가져옵니다.
+title: "GdFlResource.TransparencyPoints"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 속성. 투명도 포인트를 가져옵니다"
 type: docs
-weight: 170
+weight: 220
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.TransparencyPoints property
 
 투명도 포인트를 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/trans
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 투명도 포인트.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IGradientTransparencyPoint](../../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/)
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

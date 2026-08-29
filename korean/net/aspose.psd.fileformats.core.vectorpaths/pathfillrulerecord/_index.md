@@ -1,14 +1,15 @@
 ---
-title: Class PathFillRuleRecord
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord 수업. 경로 채우기 규칙 레코드 Class
+title: "클래스 PathFillRuleRecord"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord 클래스. 경로 채우기 규칙 레코드 클래스"
 type: docs
-weight: 1380
+weight: 1390
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-경로 채우기 규칙 레코드 Class
+Path Fill Rule Record 클래스
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
@@ -18,19 +19,19 @@ public class PathFillRuleRecord : VectorPathRecord
 
 | 이름 | 설명 |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | 의 새 인스턴스를 초기화합니다.`PathFillRuleRecord` 클래스. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | 의 새 인스턴스를 초기화합니다.`PathFillRuleRecord` 클래스. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | `PathFillRuleRecord` 클래스의 새 인스턴스를 초기화합니다. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | `PathFillRuleRecord` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | 유형을 가져옵니다. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | 형식을 가져옵니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 업데이트Region 유니온에서 지정된 것과의 교집합을 뺀 값RectangleF구조.
+title: "Region.Xor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 지정된 RectangleF 구조와 자체의 교차를 제외한 합집합으로 이 Region을 업데이트합니다"
 type: docs
-weight: 150
+weight: 160
 url: /ko/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-업데이트[`Region`](../) 유니온에서 지정된 것과의 교집합을 뺀 값[`RectangleF`](../../rectanglef/)구조.
+지정된 [`RectangleF`](../../rectanglef/) 구조와 자체의 교차를 제외한 합집합으로 이 [`Region`](../)을 업데이트합니다.
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | 그만큼[`RectangleF`](../../rectanglef/) 이것으로 xor하는 구조[`Region`](../). |
+| rect | RectangleF | 이 [`Region`](../)과 XOR 연산을 할 [`RectangleF`](../../rectanglef/) 구조입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-업데이트[`Region`](../) 유니온에서 지정된 것과의 교집합을 뺀 값[`Rectangle`](../../rectangle/)구조.
+지정된 [`Rectangle`](../../rectangle/) 구조와 자체의 교차를 제외한 합집합으로 이 [`Region`](../)을 업데이트합니다.
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 이것으로 xor하는 구조[`Region`](../). |
+| rect | Rectangle | 이 [`Region`](../)과 XOR 연산을 할 [`Rectangle`](../../rectangle/) 구조입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-업데이트[`Region`](../) 유니온에서 지정된 것과의 교집합을 뺀 값[`GraphicsPath`](../../graphicspath/) .
+지정된 [`GraphicsPath`](../../graphicspath/)와 자체의 교차를 제외한 합집합으로 이 [`Region`](../)을 업데이트합니다.
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| path | GraphicsPath | 그만큼[`GraphicsPath`](../../graphicspath/) 이것으로 xor[`Region`](../). |
+| path | GraphicsPath | 이 [`Region`](../)과 XOR 연산을 할 [`GraphicsPath`](../../graphicspath/)입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *path* null입니다. |
+| ArgumentNullException | *path*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-업데이트[`Region`](../) 유니온에서 지정된 것과의 교집합을 뺀 값[`Region`](../) .
+지정된 [`Region`](../)와 자체의 교차를 제외한 합집합으로 이 [`Region`](../)을 업데이트합니다.
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../) 이것으로 xor[`Region`](../). |
+| region | Region | 이 [`Region`](../)과 XOR 연산을 할 [`Region`](../)입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *region* null입니다. |
+| ArgumentNullException | *region*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

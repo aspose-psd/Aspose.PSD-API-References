@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericDictionary 방법. 에서 지정된 키를 가진 요소를 제거합니다.IDictionary object.
+title: "NonGenericDictionary.Remove"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericDictionary 메서드. 지정된 키를 가진 요소를 IDictionary 객체에서 제거합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-에서 지정된 키를 가진 요소를 제거합니다.IDictionary object.
+IDictionary 객체에서 지정된 키를 가진 요소를 제거합니다.
 
 ```csharp
 public void Remove(object key)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| key | Object | 제거할 요소의 키입니다. |
+| 키 | Object | 제거할 요소의 키. |
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericDictionary](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericdictionary/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

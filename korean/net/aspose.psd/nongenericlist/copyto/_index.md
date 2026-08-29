@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 방법. 의 요소를 복사합니다.ICollection 에게Array  특정에서 시작Array 색인.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 메서드. ICollection의 요소를 지정된 배열 인덱스부터 시작하는 배열에 복사합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-의 요소를 복사합니다.ICollection 에게Array , 특정에서 시작Array 색인.
+ICollection의 요소를 Array에 복사하며, 특정 Array 인덱스에서 시작합니다.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| array | Array | 1차원적Array 그것은 복사된 요소의 대상입니다.ICollection . 그만큼Array 0부터 시작하는 인덱싱이 있어야 합니다. |
-| index | Int32 | 0부터 시작하는 인덱스는*array* 복사가 시작됩니다. |
+| 배열 | 배열 | ICollection에서 복사된 요소들의 대상이 되는 1차원 Array입니다. Array는 0부터 시작하는 인덱스를 가져야 합니다. |
+| index | Int32 | *array*에서 복사가 시작되는 0 기반 인덱스입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

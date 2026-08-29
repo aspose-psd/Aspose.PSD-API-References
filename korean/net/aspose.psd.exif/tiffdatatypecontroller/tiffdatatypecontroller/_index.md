@@ -1,11 +1,12 @@
 ---
-title: TiffDataTypeController.TiffDataTypeController
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffDataTypeController 건설자. 기본 생성자입니다.
+title: "TiffDataTypeController.TiffDataTypeController"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffDataTypeController 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.exif/tiffdatatypecontroller/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.exif/tiffdatatypecontroller/tiffdatatypecontroller/
 public TiffDataTypeController()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataTypeController](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../tiffdatatypecontroller/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

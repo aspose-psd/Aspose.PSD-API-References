@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Length
-second_title: .NET API 참조용 Aspose.PSD
-description: PattResourceData 재산. 패턴의 길이를 가져옵니다.
+title: "PattResourceData.Length"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PattResourceData 속성. 패턴의 길이를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
 패턴의 길이를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/l
 public int Length { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-패턴의 길이입니다.
+패턴의 길이.
 
-### 또한보십시오
+### 또 보기
 
 * class [PattResourceData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: .NET API 참조용 Aspose.PSD
-description: SplitStreamContainer 재산. 데이터 스트림을 가져옵니다.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SplitStreamContainer 속성. 데이터 스트림을 가져옵니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 데이터 스트림을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/splitstreamcontainer/stream/
 public override Stream Stream { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 데이터 스트림.
 
-### 또한보십시오
+### 또 보기
 
 * class [SplitStreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../splitstreamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

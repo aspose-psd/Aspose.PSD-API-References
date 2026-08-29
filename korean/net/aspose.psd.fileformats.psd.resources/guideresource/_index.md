@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource 수업. 가이드 리소스 블록.
+title: "클래스 GuideResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource 클래스. 가이드 리소스 블록"
 type: docs
-weight: 3750
+weight: 4220
 url: /ko/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-가이드 리소스 블록.
+가이드 리소스 블록입니다.
 
 ```csharp
 public sealed class GuideResource
@@ -25,17 +26,17 @@ public sealed class GuideResource
 | 이름 | 설명 |
 | --- | --- |
 | [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | 가이드의 방향을 가져오거나 설정합니다. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | 문서 좌표에서 가이드의 위치를 가져오거나 설정합니다. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | 문서 좌표계에서 가이드 위치를 가져오거나 설정합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | 가이드 리소스 블록 크기입니다. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | 가이드 리소스 블록 크기. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

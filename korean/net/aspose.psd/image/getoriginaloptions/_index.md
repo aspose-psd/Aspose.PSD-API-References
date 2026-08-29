@@ -1,14 +1,15 @@
 ---
-title: Image.GetOriginalOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 원본 파일 설정을 기반으로 옵션을 가져옵니다. 이것은 원본 이미지의 비트 심도 및 기타 매개 변수를 변경하지 않고 유지하는 데 유용할 수 있습니다. 예를 들어 흑백 PNG 이미지를 픽셀당 1비트로 로드한 다음 the 를 사용하여 저장Save 방법을 사용하면 픽셀당 8비트의 출력 PNG 이미지가 생성됩니다. 이를 피하고 픽셀당 1비트의 PNG 이미지를 저장하려면 이 방법을 사용하여 해당 저장 옵션을 가져오고 them 를Save메소드를 두 번째 매개변수로 지정합니다.
+title: "Image.GetOriginalOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 원본 파일 설정을 기반으로 옵션을 가져옵니다. 이는 원본 이미지의 비트 깊이 및 기타 매개변수를 변경하지 않고 유지하는 데 도움이 될 수 있습니다. 예를 들어 1비트 픽셀의 흑백 PNG 이미지를 로드한 후 Save 메서드를 사용해 저장하면 8비트 픽셀의 PNG 이미지가 생성됩니다. 이를 방지하고 1비트 픽셀 PNG 이미지를 저장하려면 이 메서드를 사용해 해당 저장 옵션을 가져와 Save 메서드의 두 번째 매개변수로 전달하십시오."
 type: docs
-weight: 180
+weight: 190
 url: /ko/net/aspose.psd/image/getoriginaloptions/
 ---
+{{< psd/tize >}}
 ## Image.GetOriginalOptions method
 
-원본 파일 설정을 기반으로 옵션을 가져옵니다. 이것은 원본 이미지의 비트 심도 및 기타 매개 변수를 변경하지 않고 유지하는 데 유용할 수 있습니다. 예를 들어 흑백 PNG 이미지를 픽셀당 1비트로 로드한 다음 the 를 사용하여 저장[`Save`](../../datastreamsupporter/save/) 방법을 사용하면 픽셀당 8비트의 출력 PNG 이미지가 생성됩니다. 이를 피하고 픽셀당 1비트의 PNG 이미지를 저장하려면 이 방법을 사용하여 해당 저장 옵션을 가져오고 them 를[`Save`](../save/)메소드를 두 번째 매개변수로 지정합니다.
+원본 파일 설정을 기반으로 옵션을 가져옵니다. 이는 원본 이미지의 비트 깊이 및 기타 매개변수를 변경하지 않고 유지하는 데 도움이 될 수 있습니다. 예를 들어 1비트 픽셀의 흑백 PNG 이미지를 로드한 후 [`Save`](../../datastreamsupporter/save/) 메서드를 사용해 저장하면 8비트 픽셀의 PNG 이미지가 생성됩니다. 이를 방지하고 1비트 픽셀 PNG 이미지를 저장하려면 이 메서드를 사용해 해당 저장 옵션을 가져와 [`Save`](../save/) 메서드의 두 번째 매개변수로 전달하십시오.
 
 ```csharp
 public virtual ImageOptionsBase GetOriginalOptions()
@@ -16,13 +17,13 @@ public virtual ImageOptionsBase GetOriginalOptions()
 
 ### 반환 값
 
-원본 파일 설정을 기반으로 하는 옵션입니다.
+원본 파일 설정을 기반으로 한 옵션입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

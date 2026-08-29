@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 재산. 픽셀 형식을 가져옵니다.
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 속성. 픽셀 형식을 가져옵니다."
 type: docs
 weight: 340
 url: /ko/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 픽셀 형식을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/pixeldataformat/pixelformat/
 public PixelFormat PixelFormat { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-픽셀 형식입니다.
+이 픽셀 형식.
 
-### 또한보십시오
+### 또 보기
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

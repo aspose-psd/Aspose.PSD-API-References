@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillRegion
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 내부를 채웁니다.Region .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. Region의 내부를 채웁니다."
 type: docs
-weight: 410
+weight: 420
 url: /ko/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-내부를 채웁니다.[`Region`](../../region/) .
+[`Region`](../../region/)의 내부를 채웁니다.
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)채우기의 특성을 결정합니다. |
-| region | Region | [`Region`](../../region/) 채울 영역을 나타냅니다. |
+| brush | Brush | `[`Brush`](../../brush/)`는 채우기의 특성을 결정합니다. |
+| region | Region | [`Region`](../../region/)은(는) 채울 영역을 나타냅니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *brush* null입니다. -또는- *region* null입니다. |
+| ArgumentNullException | *brush*가 null입니다. -or- *region*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

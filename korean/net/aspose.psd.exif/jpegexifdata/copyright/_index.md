@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Copyright
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 저작권을 가져오거나 설정합니다.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 저작권을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
 저작권을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.exif/jpegexifdata/copyright/
 public string Copyright { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 저작권.
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

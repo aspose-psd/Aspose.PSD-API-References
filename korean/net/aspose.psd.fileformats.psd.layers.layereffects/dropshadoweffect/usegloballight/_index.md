@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.UseGlobalLight
-second_title: .NET API 참조용 Aspose.PSD
-description: DropShadowEffect 재산. 모든 레이어 효과에서 이 각도 사용. 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "DropShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DropShadowEffect 속성. 이 각도를 모든 레이어 효과에 사용할지 여부를 나타내는 값을 가져오거나 설정합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.UseGlobalLight property
 
-[모든 레이어 효과에서 이 각도 사용]. 여부를 나타내는 값을 가져오거나 설정합니다.
+값을 가져오거나 설정하여 [use this angle in all of the layer effects] 여부를 나타냅니다.
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [글로벌 라이트 사용]; 그렇지 않으면,`거짓` .
+`true` if [use global light]; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [DropShadowEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

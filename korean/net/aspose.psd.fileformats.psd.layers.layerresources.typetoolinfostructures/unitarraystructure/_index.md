@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure 수업. 보유하고 있는 UnitArrayStructure 클래스를 정의합니다.Double 값 배열 및 해당 측정 단위. 일반적으로 PSD 파일 리소스에 사용됩니다.ObjectArrayStructure .
+title: "클래스 UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure 클래스. Double 값 배열과 해당 측정 단위를 보유하는 UnitArrayStructure 클래스를 정의합니다. 일반적으로 ObjectArrayStructure에 의해 PSD 파일 리소스에서 사용됩니다."
 type: docs
-weight: 3270
+weight: 3660
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-보유하고 있는 UnitArrayStructure 클래스를 정의합니다.Double 값 배열 및 해당 측정 단위. 일반적으로 PSD 파일 리소스에 사용됩니다.[`ObjectArrayStructure`](../objectarraystructure/) .
+UnitArrayStructure 클래스를 정의합니다. 이 클래스는 Double 값 배열과 해당 측정 단위를 보유합니다. 일반적으로 PSD 파일 리소스에서 [`ObjectArrayStructure`](../objectarraystructure/)에 의해 사용됩니다.
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,7 +19,7 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | 이름 | 설명 |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | 의 새 인스턴스를 초기화합니다.`UnitArrayStructure` 클래스. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | `UnitArrayStructure` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -26,28 +27,28 @@ public sealed class UnitArrayStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | 이 단위 배열 구조 키를 가져옵니다. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 키 이름을 가져오거나 설정합니다. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | 가져오기[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 바이트 길이. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | 의 측정 단위 유형을 가져오거나 설정합니다.`UnitArrayStructure` 값. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | 바이트 단위의 [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 길이를 가져옵니다. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | `UnitArrayStructure` 값의 측정 단위 유형을 가져오거나 설정합니다. |
 | [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | 값 개수를 가져옵니다. |
 | [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | 단위 배열 구조 값을 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 헤더 길이를 가져옵니다. |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 지정된 스트림 컨테이너에 구조를 저장합니다. |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 지정된 스트림 컨테이너에 구조를 저장합니다. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 구조를 지정된 스트림 컨테이너에 저장합니다. |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 구조를 지정된 스트림 컨테이너에 저장합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'UnFl'을 정의합니다.`UnitArrayStructure` 키. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'UnFl' `UnitArrayStructure` 키를 정의합니다. |
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -99,10 +100,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

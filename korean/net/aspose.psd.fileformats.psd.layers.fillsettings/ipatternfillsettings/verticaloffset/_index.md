@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: .NET API 참조용 Aspose.PSD
-description: IPatternFillSettings 재산. 수직 오프셋을 가져오거나 설정합니다.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IPatternFillSettings 속성. 수직 오프셋을 가져오거나 설정합니다"
 type: docs
-weight: 100
+weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
 수직 오프셋을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int VerticalOffset { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수직 오프셋입니다.
+수직 오프셋.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IPatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

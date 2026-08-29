@@ -1,14 +1,15 @@
 ---
-title: RectangleF.ToString
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 방법. 이것의 속성을 변환합니다.RectangleF 사람이 읽을 수 있는 문자열로.
+title: "RectangleF.ToString"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 메서드. 이 RectangleF의 속성을 사람이 읽을 수 있는 문자열로 변환합니다."
 type: docs
 weight: 250
 url: /ko/net/aspose.psd/rectanglef/tostring/
 ---
+{{< psd/tize >}}
 ## RectangleF.ToString method
 
-이것의 속성을 변환합니다.[`RectangleF`](../) 사람이 읽을 수 있는 문자열로.
+이 [`RectangleF`](../)의 속성을 사람이 읽을 수 있는 문자열로 변환합니다.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 반환 값
 
-이 항목의 위치, 너비 및 높이를 포함하는 문자열[`RectangleF`](../) 구조.
+이 [`RectangleF`](../) 구조의 위치, 너비 및 높이를 포함하는 문자열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

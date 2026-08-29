@@ -1,27 +1,28 @@
 ---
-title: Layer.MergeLayerTo
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 방법. 레이어를 지정된 layer 에 병합합니다.
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 메서드. 레이어를 지정된 레이어와 병합합니다"
 type: docs
-weight: 360
+weight: 380
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-레이어를 지정된 layer 에 병합합니다.
+레이어를 지정된 레이어에 병합합니다.
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| layerToMergeInto | Layer | 병합할 레이어입니다. |
+| layerToMergeInto | 레이어 | 병합 대상 레이어. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

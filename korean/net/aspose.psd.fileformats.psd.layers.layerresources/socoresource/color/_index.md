@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.Color
-second_title: .NET API 참조용 Aspose.PSD
-description: SoCoResource 재산. RGB 색상을 가져옵니다.
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SoCoResource 속성. RGB 색상을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
 RGB 색상을 가져옵니다.
@@ -18,9 +19,9 @@ public Color Color { get; set; }
 
 RGB 색상
 
-### 예
+## 예제
 
-다음 예는 SoCoResource(색상 채우기 레이어의 레이어 리소스)를 편집하는 방법을 보여줍니다.
+다음 예제는 색 채우기 레이어용 레이어 리소스인 SoCoResource를 편집하는 방법을 보여줍니다
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ RGB 색상
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
@@ -41,7 +42,7 @@ using (im)
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Layer Resource List에서 SoCoResource 찾기
+                // 레이어 리소스 목록에서 SoCoResource 찾기
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -67,11 +68,11 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

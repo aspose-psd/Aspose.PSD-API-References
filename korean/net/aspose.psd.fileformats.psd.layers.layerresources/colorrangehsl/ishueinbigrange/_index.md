@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorRangeHsl 방법. 큰 범위의 색조인지 여부를 결정합니다.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorRangeHsl 메서드. 색조가 큰 범위에 있는지 여부를 결정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-큰 범위의 색조인지 여부를 결정합니다.
+색상이 큰 범위에 있는지 여부를 결정합니다.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| hue | Double | 색조 값입니다. |
+| 색조 | Double | 색조 값입니다. |
 
 ### 반환 값
 
-`진실` 색조가 큰 범위인 경우; 그렇지 않으면,`거짓` .
+`true` 색조가 큰 범위에 있으면; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorRangeHsl](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

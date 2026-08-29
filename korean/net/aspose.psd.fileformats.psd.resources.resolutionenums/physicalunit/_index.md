@@ -1,32 +1,33 @@
 ---
-title: Enum PhysicalUnit
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit 열거형. resoulutionInfo 물리 단위 enum
+title: "PhysicalUnit 열거형"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit 열거형. 해상도 정보 물리 단위 열거형"
 type: docs
-weight: 3860
+weight: 4330
 url: /ko/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-resoulutionInfo 물리 단위 enum
+해상도 정보 물리 단위 열거형
 
 ```csharp
 public enum PhysicalUnit
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Inches | `1` | 인치 |
 | Centimeters | `2` | 센티미터 |
 | Points | `3` | 포인트 |
-| Picas | `4` | 파이카 unit |
+| Picas | `4` | 파이카 단위 |
 | Columns | `5` | 열 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

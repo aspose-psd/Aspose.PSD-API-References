@@ -1,28 +1,29 @@
 ---
-title: Graphics.Graphics
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 건설자. 의 새 인스턴스를 초기화합니다.Graphics 클래스.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 생성자. Graphics 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-의 새 인스턴스를 초기화합니다.[`Graphics`](../) 클래스.
+[`Graphics`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| sourceImage | Image | 원본 이미지입니다. |
+| sourceImage | Image | 소스 이미지. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

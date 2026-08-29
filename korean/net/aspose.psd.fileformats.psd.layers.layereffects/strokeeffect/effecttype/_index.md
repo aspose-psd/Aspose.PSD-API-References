@@ -1,22 +1,23 @@
 ---
-title: StrokeEffect.EffectType
-second_title: .NET API 참조용 Aspose.PSD
-description: StrokeEffect 재산. effect 유형을 가져옵니다.
+title: "StrokeEffect.EffectType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StrokeEffect property. 효과 유형을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.EffectType property
 
-effect 유형을 가져옵니다.
+효과 유형을 가져옵니다.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### 예
+## 예제
 
-다음 코드는 ILayerEffect.EffectType 속성의 지원을 보여줍니다.
+다음 코드는 ILayerEffect.EffectType 속성 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -40,18 +41,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // 걸렸다
+            // 포착되었습니다
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [StrokeEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageAttributes 방법. 기본 범주에 대한 감마 값을 설정합니다.
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageAttributes 메서드. 기본 카테고리에 대한 감마 값을 설정합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
-기본 범주에 대한 감마 값을 설정합니다.
+기본 카테고리의 감마 값을 설정합니다.
 
 ```csharp
 public void SetGamma(float gamma)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| gamma | Single | 감마 보정 값입니다. |
+| 감마 | 단일 | 감마 보정 값. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageAttributes](../)
-* 네임스페이스 [Aspose.PSD](../../imageattributes/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetGamma(float, ColorAdjustType) {#setgamma_1}
 
-지정된 범주에 대한 감마 값을 설정합니다.
+지정된 카테고리의 감마 값을 설정합니다.
 
 ```csharp
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| gamma | Single | 감마 보정 값입니다. |
-| type | ColorAdjustType | 의 요소[`ColorAdjustType`](../../coloradjusttype/) 감마 값이 설정되는 범주를 지정하는 열거형입니다. |
+| 감마 | 단일 | 감마 보정 값. |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) 열거형의 요소로, 감마 값이 설정되는 카테고리를 지정합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 네임스페이스 [Aspose.PSD](../../imageattributes/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

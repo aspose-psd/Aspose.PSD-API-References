@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraAngle
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpDynamicMediaPackage 방법. 카메라 각도를 설정합니다.
+title: "XmpDynamicMediaPackage.SetCameraAngle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpDynamicMediaPackage 메서드. 카메라 각도를 설정합니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraAngle method
 
 카메라 각도를 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle/
 public void SetCameraAngle(string cameraAngle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| cameraAngle | String | 카메라 앵글입니다. |
+| cameraAngle | String | 카메라 각도. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpDynamicMediaPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

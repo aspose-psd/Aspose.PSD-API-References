@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.ProjectLink
-second_title: .NET API 참조용 Aspose.PSD
-description: ProjectLink 건설자. 기본 생성자입니다.
+title: "ProjectLink.ProjectLink"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ProjectLink 생성자. 기본 생성자입니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/projectlink/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/projectlink/projectlink/
 public ProjectLink()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ProjectLink](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

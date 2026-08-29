@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.Yellows
-second_title: .NET API 참조용 Aspose.PSD
-description: BlwhResource 재산. 노란색 값을 가져오거나 설정합니다.
+title: "BlwhResource.Yellows"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlwhResource property. 옐로우 값을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Yellows property
 
-노란색 값을 가져오거나 설정합니다.
+yellows 값을 가져오거나 설정합니다.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-노란색 값입니다.
+노란색 값.
 
-### 예
+## 예제
 
 다음 예제는 BlwhResource를 편집하는 방법을 보여줍니다.
 
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // 테스트 편집 및 저장
+                // 편집 및 저장 테스트
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BlwhResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: .NET API 참조용 Aspose.PSD
-description: Region 방법. 업데이트Region 자신과 지정된RectangleF구조.
+title: "Region.Union"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Region 메서드. 이 Region을 자체와 지정된 RectangleF 구조의 합집합으로 업데이트합니다"
 type: docs
-weight: 140
+weight: 150
 url: /ko/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-업데이트[`Region`](../) 자신과 지정된[`RectangleF`](../../rectanglef/)구조.
+이 [`Region`](../)을 자체와 지정된 [`RectangleF`](../../rectanglef/) 구조의 합집합으로 업데이트합니다.
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | RectangleF | 그만큼[`RectangleF`](../../rectanglef/) 이것과 결합하는 구조[`Region`](../). |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 구조를 이 [`Region`](../)와 합집합합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-업데이트[`Region`](../) 자신과 지정된[`Rectangle`](../../rectangle/)구조.
+이 [`Region`](../)을 자체와 지정된 [`Rectangle`](../../rectangle/) 구조의 합집합으로 업데이트합니다.
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 이것과 결합하는 구조[`Region`](../). |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) 구조를 이 [`Region`](../)와 합집합합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-업데이트[`Region`](../) 자신과 지정된[`GraphicsPath`](../../graphicspath/) .
+이 [`Region`](../)을 자체와 지정된 [`GraphicsPath`](../../graphicspath/)의 합집합으로 업데이트합니다.
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| path | GraphicsPath | 그만큼[`GraphicsPath`](../../graphicspath/) 이것과 연합하기 위해[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/)을 이 [`Region`](../)와 합집합합니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *path* null입니다. |
+| ArgumentNullException | *path*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-업데이트[`Region`](../) 자신과 지정된[`Region`](../) .
+이 [`Region`](../)을 자체와 지정된 [`Region`](../)의 합집합으로 업데이트합니다.
 
 ```csharp
 public void Union(Region region)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| region | Region | 그만큼[`Region`](../) 이것과 연합하기 위해[`Region`](../). |
+| region | Region | [`Region`](../)을 이 [`Region`](../)와 합집합합니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | *region* null입니다. |
+| ArgumentNullException | *region*가 null입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Region](../)
-* 네임스페이스 [Aspose.PSD](../../region/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

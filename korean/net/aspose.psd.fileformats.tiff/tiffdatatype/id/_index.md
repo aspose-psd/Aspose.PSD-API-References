@@ -1,23 +1,24 @@
 ---
-title: TiffDataType.Id
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffDataType 재산. 태그 ID 정수 표현을 가져옵니다.
+title: "TiffDataType.Id"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffDataType 속성. 태그 ID 정수 표현을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.tiff/tiffdatatype/id/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Id property
 
-태그 ID 정수 표현을 가져옵니다.
+태그 ID의 정수 표현을 가져옵니다.
 
 ```csharp
 public ushort Id { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

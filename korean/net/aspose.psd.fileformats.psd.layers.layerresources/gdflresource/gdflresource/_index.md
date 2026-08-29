@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GdFlResource
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 건설자. 기본 생성자입니다.
+title: "GdFlResource.GdFlResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflr
 public GdFlResource()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

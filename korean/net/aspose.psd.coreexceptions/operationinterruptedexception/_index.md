@@ -1,14 +1,15 @@
 ---
-title: Class OperationInterruptedException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException 수업. 작업이 중단되면 발생합니다.
+title: "OperationInterruptedException 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException 클래스. 작업이 중단될 때 발생합니다"
 type: docs
 weight: 660
 url: /ko/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-작업이 중단되면 발생합니다.
+작업이 중단될 때 발생합니다.
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
@@ -18,13 +19,13 @@ public class OperationInterruptedException : FrameworkException
 
 | 이름 | 설명 |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | 의 새 인스턴스를 초기화합니다.`OperationInterruptedException` 클래스. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | 의 새 인스턴스를 초기화합니다.`OperationInterruptedException` 클래스. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | `OperationInterruptedException` 클래스의 새 인스턴스를 초기화합니다. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | `OperationInterruptedException` 클래스의 새 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [FrameworkException](../frameworkexception/)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

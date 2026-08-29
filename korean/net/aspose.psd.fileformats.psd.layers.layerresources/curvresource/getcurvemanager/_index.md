@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: .NET API 참조용 Aspose.PSD
-description: CurvResource 방법. 곡선 관리자를 가져옵니다.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CurvResource 메서드. 곡선 관리자를 가져옵니다"
 type: docs
-weight: 80
+weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
 곡선 관리자를 가져옵니다.
@@ -16,13 +17,13 @@ public CurvesManager GetCurveManager()
 
 ### 반환 값
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) 또는[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
-### 또한보십시오
+### 또 보기
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

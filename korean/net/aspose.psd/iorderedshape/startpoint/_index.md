@@ -1,11 +1,12 @@
 ---
-title: IOrderedShape.StartPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: IOrderedShape 재산. 시작 모양 점을 가져옵니다.
+title: "IOrderedShape.StartPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IOrderedShape 속성. 도형의 시작점을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/iorderedshape/startpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.StartPoint property
 
 시작 모양 점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/iorderedshape/startpoint/
 public PointF StartPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-시작 셰이프 지점입니다.
+시작 도형 점입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* 네임스페이스 [Aspose.PSD](../../iorderedshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

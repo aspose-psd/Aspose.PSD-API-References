@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: .NET API 참조용 Aspose.PSD
-description: BlendingOptions 재산. 효과를 얻습니다.
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlendingOptions 속성. 효과를 가져옵니다"
 type: docs
-weight: 10
+weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
-효과를 얻습니다.
+효과를 가져옵니다.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-효과.
+효과입니다.
 
-### 또한보십시오
+### 또 보기
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

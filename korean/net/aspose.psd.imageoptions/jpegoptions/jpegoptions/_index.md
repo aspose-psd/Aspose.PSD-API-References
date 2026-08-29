@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 건설자. 의 새 인스턴스를 초기화합니다.JpegOptions 클래스.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 생성자. JpegOptions 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`JpegOptions`](../) 클래스.
+새 인스턴스를 초기화합니다 [`JpegOptions`](../) 클래스.
 
 ```csharp
 public JpegOptions()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`JpegOptions`](../) 클래스.
+새 인스턴스를 초기화합니다 [`JpegOptions`](../) 클래스.
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | jpegOptions | JpegOptions | JPEG 옵션. |
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

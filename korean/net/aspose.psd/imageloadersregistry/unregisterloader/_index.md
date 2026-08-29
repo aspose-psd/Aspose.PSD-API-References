@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageLoadersRegistry 방법. 로더 등록을 취소합니다.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageLoadersRegistry 메서드. 로더를 등록 취소합니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-로더 등록을 취소합니다.
+로드러의 등록을 취소합니다.
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | 등록을 취소할 로더 설명자입니다. |
+| loaderDescriptor | IImageLoaderDescriptor | 등록 취소할 로더 설명자. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* 네임스페이스 [Aspose.PSD](../../imageloadersregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

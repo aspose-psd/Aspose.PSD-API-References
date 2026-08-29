@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Copyright
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 저작권을 가져오거나 설정합니다.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 저작권 정보를 가져오거나 설정합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
 저작권을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/copyright/
 public string Copyright { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 저작권.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

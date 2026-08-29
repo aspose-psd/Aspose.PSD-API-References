@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Value
-second_title: .NET API 참조용 Aspose.PSD
-description: RenditionClass 재산. 값을 가져오거나 설정합니다.
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RenditionClass 속성. 값을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
 값을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.derived/renditionclass/value/
 public string Value { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-값입니다.
+값.
 
-### 또한보십시오
+### 또 보기
 
 * class [RenditionClass](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

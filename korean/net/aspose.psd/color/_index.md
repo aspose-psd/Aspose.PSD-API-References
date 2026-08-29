@@ -1,11 +1,12 @@
 ---
-title: Struct Color
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Color 구조체. 픽셀의 색상입니다.
+title: "Color 구조체"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Color 구조체. 픽셀의 색상"
 type: docs
 weight: 290
 url: /ko/net/aspose.psd/color/
 ---
+{{< psd/tize >}}
 ## Color structure
 
 픽셀의 색상입니다.
@@ -60,7 +61,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [DimGray](../../aspose.psd/color/dimgray/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue/) { get; } | 시스템 정의 색상을 가져옵니다. |
-| static [Empty](../../aspose.psd/color/empty/) { get; } | 비어 있음`Color` . |
+| static [Empty](../../aspose.psd/color/empty/) { get; } | 빈 `Color`를 가져옵니다. |
 | static [Firebrick](../../aspose.psd/color/firebrick/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [FloralWhite](../../aspose.psd/color/floralwhite/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [ForestGreen](../../aspose.psd/color/forestgreen/) { get; } | 시스템 정의 색상을 가져옵니다. |
@@ -160,39 +161,45 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [Yellow](../../aspose.psd/color/yellow/) { get; } | 시스템 정의 색상을 가져옵니다. |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen/) { get; } | 시스템 정의 색상을 가져옵니다. |
-| [A](../../aspose.psd/color/a/) { get; } | 이것의 알파 구성 요소 값을 가져옵니다.`Color`구조. |
-| [B](../../aspose.psd/color/b/) { get; } | 이것의 파란색 구성 요소 값을 가져옵니다.`Color`구조. |
-| [G](../../aspose.psd/color/g/) { get; } | 이것의 녹색 구성 요소 값을 가져옵니다.`Color`구조. |
-| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | 이 여부를 나타내는 값을 가져옵니다.`Color` 구조가 초기화되지 않았습니다. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | 이 여부를 나타내는 값을 가져옵니다.`Color` 구조는 미리 정의된 색상입니다. 미리 정의된 색상은[`KnownColor`](../knowncolor/) 열거형. |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | 이 여부를 나타내는 값을 가져옵니다.`Color` 구조는 명명된 색상 또는[`KnownColor`](../knowncolor/) 열거형. |
-| [Name](../../aspose.psd/color/name/) { get; } | 이 이름을 가져옵니다.`Color` . |
-| [R](../../aspose.psd/color/r/) { get; } | 이 항목의 빨간색 구성 요소 값을 가져옵니다.`Color`구조. |
+| [A](../../aspose.psd/color/a/) { get; } | 이 `Color` 구조체의 알파 구성 요소 값을 가져옵니다. |
+| [B](../../aspose.psd/color/b/) { get; } | 이 `Color` 구조체의 파란색 구성 요소 값을 가져옵니다. |
+| [G](../../aspose.psd/color/g/) { get; } | 이 `Color` 구조체의 녹색 구성 요소 값을 가져옵니다. |
+| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | 이 `Color` 구조체가 초기화되지 않았는지 여부를 나타내는 값을 가져옵니다. |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | 이 `Color` 구조체가 미리 정의된 색상인지 여부를 나타내는 값을 가져옵니다. 미리 정의된 색상은 [`KnownColor`](../knowncolor/) 열거형의 요소로 표현됩니다. |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | 이 `Color` 구조체가 명명된 색상인지 또는 [`KnownColor`](../knowncolor/) 열거형의 멤버인지 여부를 나타내는 값을 가져옵니다. |
+| [Name](../../aspose.psd/color/name/) { get; } | 이 `Color`의 이름을 가져옵니다. |
+| [R](../../aspose.psd/color/r/) { get; } | 이 `Color` 구조체의 빨간색 구성 요소 값을 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | 생성`Color` 32비트 ARGB 값의 구조. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | 생성`Color` 지정된 구조`Color` 구조이지만 새로 지정된 알파 값을 사용합니다. 이 방법을 사용하면 알파 값으로 32비트 값을 전달할 수 있지만 값은 8비트로 제한됩니다. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | 생성`Color` 지정된 8비트 색상 값(빨간색, 녹색 및 파란색)의 구조. 알파 값은 암시적으로 255(완전 불투명)입니다. 이 방법을 사용하면 각 색상 구성 요소에 대해 32비트 값을 전달할 수 있지만 각 구성 요소의 값은 8비트로 제한됩니다. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | 생성`Color` 4개의 ARGB 구성 요소(알파, 빨강, 녹색 및 파랑) 값의 구조. 이 방법을 사용하면 각 구성 요소에 대해 32비트 값을 전달할 수 있지만 각 구성 요소의 값은 8비트로 제한됩니다. |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | 생성`Color` 지정된 미리 정의된 color. 의 구조 |
-| static [FromName](../../aspose.psd/color/fromname/)(string) | 생성`Color`미리 정의된 color. 의 지정된 이름에서 구조 |
-| override [Equals](../../aspose.psd/color/equals/)(object) | 지정된 개체가`Color` 구조이며 이것과 동일합니다.`Color`구조. |
-| [GetBrightness](../../aspose.psd/color/getbrightness/)() | 이에 대한 HSB(hue-saturation-brightness) 밝기 값을 가져옵니다.`Color`구조. |
-| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | 이에 대한 해시 코드를 반환합니다.`Color`구조. |
-| [GetHue](../../aspose.psd/color/gethue/)() | 이에 대한 HSB(hue-saturation-brightness) 색조 값을 도 단위로 가져옵니다.`Color`구조. |
-| [GetSaturation](../../aspose.psd/color/getsaturation/)() | 이에 대한 HSB(hue-saturation-brightness) 채도 값을 가져옵니다.`Color`구조. |
-| [ToArgb](../../aspose.psd/color/toargb/)() | 이것의 32비트 ARGB 값을 가져옵니다.`Color`구조. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | 가져오기[`KnownColor`](../knowncolor/) 이것의 가치`Color`구조. |
-| override [ToString](../../aspose.psd/color/tostring/)() | 이것을 변환`Color` 구조를 사람이 읽을 수 있는 문자열로 변환합니다. |
-| [operator ==](../../aspose.psd/color/op_equality/) | 두 개의 지정 여부를 테스트합니다.`Color`구조는 동일합니다. |
-| [operator !=](../../aspose.psd/color/op_inequality/) | 두 개의 지정 여부를 테스트합니다.`Color` 구조가 다릅니다. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | `Color` 구조체를 32비트 ARGB 값에서 생성합니다. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | `Color` 구조체를 지정된 `Color` 구조체에서 생성하지만, 새로 지정된 알파 값을 사용합니다. 이 메서드는 알파 값에 32비트 값을 전달할 수 있지만, 값은 8비트로 제한됩니다. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | 지정된 8비트 색상 값(빨강, 초록, 파랑)에서 `Color` 구조체를 생성합니다. 알파 값은 암시적으로 255(완전 불투명)입니다. 이 메서드는 각 색상 구성 요소에 32비트 값을 전달할 수 있지만, 각 구성 요소의 값은 8비트로 제한됩니다. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | 네 개의 ARGB 구성 요소(알파, 빨강, 초록, 파랑) 값에서 `Color` 구조체를 생성합니다. 이 메서드는 각 구성 요소에 32비트 값을 전달할 수 있지만, 각 구성 요소의 값은 8비트로 제한됩니다. |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | 지정된 미리 정의된 색상에서 `Color` 구조체를 생성합니다. |
+| static [FromName](../../aspose.psd/color/fromname/)(string) | 지정된 미리 정의된 색상의 이름에서 `Color` 구조체를 생성합니다. |
+| override [Equals](../../aspose.psd/color/equals/)(object) | 지정된 객체가 `Color` 구조체이며 이 `Color` 구조체와 동등한지 테스트합니다. |
+| [GetBrightness](../../aspose.psd/color/getbrightness/)() | 이 `Color` 구조체에 대한 색조-채도-명도(HSB) 밝기 값을 가져옵니다. |
+| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | 이 `Color` 구조체에 대한 해시 코드를 반환합니다. |
+| [GetHue](../../aspose.psd/color/gethue/)() | 이 `Color` 구조체에 대한 색조-채도-명도(HSB) 색조 값을(도 단위) 가져옵니다. |
+| [GetSaturation](../../aspose.psd/color/getsaturation/)() | 이 `Color` 구조체에 대한 색조-채도-명도(HSB) 채도 값을 가져옵니다. |
+| [ToArgb](../../aspose.psd/color/toargb/)() | 이 `Color` 구조체의 32비트 ARGB 값을 가져옵니다. |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | `Color` 구조체의 [`KnownColor`](../knowncolor/) 값을 가져옵니다. |
+| override [ToString](../../aspose.psd/color/tostring/)() | 이 `Color` 구조체를 사람이 읽을 수 있는 문자열로 변환합니다. |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk)(Color) | Color에서 CMYKColor로의 변환입니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmyk`](../cmykcolorhelper/tocmyk/)을 사용하십시오. |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk_1)(Color[]) | Color에서 CMYKColor로의 변환입니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmyk`](../cmykcolorhelper/tocmyk/)을 사용하십시오. |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc)(Color) | 기본 프로파일을 사용한 icc 변환으로 Color에서 CMYKColor로 변환합니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)을 사용하십시오. |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_2)(Color[]) | 기본 프로파일을 사용한 icc 변환으로 Color에서 CMYKColor로 변환합니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)을 사용하십시오. |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | 기본 프로파일을 사용한 icc 변환으로 Color에서 CMYKColor로 변환합니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)을 사용하십시오. |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | icc 변환을 사용하여 Color에서 CMYKColor로 변환합니다. 이 메서드는 더 이상 사용되지 않습니다. 보다 효율적인 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)을 사용하십시오. |
+| [operator ==](../../aspose.psd/color/op_equality/) | 두 지정된 `Color` 구조체가 동등한지 테스트합니다. |
+| [operator !=](../../aspose.psd/color/op_inequality/) | 두 지정된 `Color` 구조체가 다른지 테스트합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

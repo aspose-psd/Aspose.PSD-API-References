@@ -1,14 +1,15 @@
 ---
-title: Class JFIFData
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData 수업. jfif 세그먼트.
+title: "JFIFData 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData 클래스. jfif 세그먼트"
 type: docs
-weight: 1470
+weight: 1480
 url: /ko/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
-jfif 세그먼트.
+jfif 세그먼트입니다.
 
 ```csharp
 public sealed class JFIFData
@@ -18,7 +19,7 @@ public sealed class JFIFData
 
 | 이름 | 설명 |
 | --- | --- |
-| [JFIFData](jfifdata/)() | 의 새 인스턴스를 초기화합니다.`JFIFData` 클래스. |
+| [JFIFData](jfifdata/)() | `JFIFData` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -30,9 +31,9 @@ public sealed class JFIFData
 | [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | x 밀도를 가져오거나 설정합니다. |
 | [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | y 밀도를 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

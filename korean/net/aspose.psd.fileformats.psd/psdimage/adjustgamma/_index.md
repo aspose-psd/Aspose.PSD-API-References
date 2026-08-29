@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 이미지의 감마 보정.
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 이미지의 감마 보정"
 type: docs
-weight: 460
+weight: 520
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 이미지의 감마 보정.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 public override void AdjustGamma(float gamma)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| gamma | Single | 빨강, 녹색 및 파랑 채널 계수에 대한 감마 |
+| 감마 | 단일 | 빨강, 초록 및 파랑 채널의 감마 계수 |
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public override void AdjustGamma(float gamma)
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| gammaRed | Single | 적색 채널 계수에 대한 감마 |
-| gammaGreen | Single | 녹색 채널 계수에 대한 감마 |
-| gammaBlue | Single | 블루 채널 계수에 대한 감마 |
+| gammaRed | 단일 | 빨강 채널의 감마 계수 |
+| gammaGreen | 단일 | 초록 채널의 감마 계수 |
+| gammaBlue | 단일 | 파랑 채널의 감마 계수 |
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

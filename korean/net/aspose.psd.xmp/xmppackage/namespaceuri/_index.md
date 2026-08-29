@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackage 재산. 네임스페이스 URI를 가져옵니다.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackage 속성. 네임스페이스 URI를 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
 네임스페이스 URI를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp/xmppackage/namespaceuri/
 public string NamespaceUri { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-네임스페이스 URI.
+네임스페이스 URI입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

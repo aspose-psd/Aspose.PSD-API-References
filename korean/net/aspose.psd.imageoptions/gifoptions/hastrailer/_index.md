@@ -1,11 +1,12 @@
 ---
-title: GifOptions.HasTrailer
-second_title: .NET API 참조용 Aspose.PSD
-description: GifOptions 재산. GIF에 트레일러가 있는지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GifOptions 속성. GIF에 트레일러가 있는지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
 GIF에 트레일러가 있는지 여부를 나타내는 값을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ GIF에 트레일러가 있는지 여부를 나타내는 값을 가져오거나 �
 public bool HasTrailer { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` GIF에 예고편이 있는 경우 그렇지 않으면,`거짓` .
+`true`이면 GIF에 트레일러가 있습니다; 그렇지 않으면 `false`입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [GifOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

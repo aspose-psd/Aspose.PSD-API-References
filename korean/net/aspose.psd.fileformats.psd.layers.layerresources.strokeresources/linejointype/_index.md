@@ -1,11 +1,12 @@
 ---
-title: Enum LineJoinType
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType 열거형. 라인 조인 유형.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. 라인 조인 유형"
 type: docs
-weight: 3050
+weight: 3410
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
 라인 조인 유형.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/li
 public enum LineJoinType : short
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| BevelJoin | `0` | 베벨 결합 유형. |
+| BevelJoin | `0` | 베벨 조인 유형. |
 | RoundJoin | `1` | 라운드 조인 유형. |
-| MiterJoin | `2` | 마이터 조인 유형. |
+| MiterJoin | `2` | 미터 조인 유형. |
 
-### 예
+## 예제
 
 다음 코드는 VstkResource 리소스의 지원을 보여줍니다.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

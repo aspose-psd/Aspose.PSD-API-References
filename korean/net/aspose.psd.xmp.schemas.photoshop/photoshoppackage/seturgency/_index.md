@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: .NET API 참조용 Aspose.PSD
-description: PhotoshopPackage 방법. 긴급성을 설정합니다.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhotoshopPackage 메서드. 긴급성을 설정합니다"
 type: docs
 weight: 200
 url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
 긴급성을 설정합니다.
@@ -14,24 +15,24 @@ url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 public void SetUrgency(int urgency)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| urgency | Int32 | 긴급. |
+| urgency | Int32 | 긴급성. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | 긴급;유효한 범위는 1에서 8까지입니다. |
+| ArgumentOutOfRangeException | urgency;유효 범위는 1에서 8까지입니다 |
 
-### 비고
+## 비고
 
-긴급도는 1에서 8까지 분노해야 합니다.
+Urgency는 1부터 8까지의 범위에 있어야 합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PhotoshopPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. 활성 레이어를 가져오거나 설정합니다.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. 활성 레이어를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
 활성 레이어를 가져오거나 설정합니다.
@@ -14,22 +15,22 @@ url: /ko/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 public Layer ActiveLayer { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 활성 레이어.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 활성 레이어가 없고 이미지에 레이어가 없습니다. |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 활성 레이어는 다른 이미지에 속해 있으므로 설정할 수 없습니다. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 이미지에 활성 레이어가 없으며 레이어도 없습니다. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 활성 레이어는 다른 이미지에 속해 있기 때문에 설정할 수 없습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

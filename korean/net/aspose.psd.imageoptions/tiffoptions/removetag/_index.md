@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 방법. 태그를 제거합니다.
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 메서드. 태그를 제거합니다"
 type: docs
-weight: 740
+weight: 750
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 태그를 제거합니다.
@@ -14,19 +15,19 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/removetag/
 public bool RemoveTag(TiffTags tag)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| tag | TiffTags | 제거할 태그입니다. |
+| 태그 | TiffTags | 제거할 태그입니다. |
 
 ### 반환 값
 
-성공적으로 제거된 경우 true
+제거에 성공하면 true
 
-### 또한보십시오
+### 또 보기
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

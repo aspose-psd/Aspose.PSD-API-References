@@ -1,11 +1,12 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: .NET API 참조용 Aspose.PSD
-description: FixedPointDecimal 재산. 정수를 가져오거나 설정합니다.
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FixedPointDecimal 속성. 정수를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
 정수를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 public int Integer { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-정수.
+정수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [FixedPointDecimal](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

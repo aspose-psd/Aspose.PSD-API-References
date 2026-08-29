@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: .NET API 참조용 Aspose.PSD
-description: PatternFillSettings 재산. 배율을 가져오거나 설정합니다.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PatternFillSettings 속성. 스케일을 가져오거나 설정합니다"
 type: docs
-weight: 120
+weight: 140
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-배율을 가져오거나 설정합니다.
+스케일을 가져오거나 설정합니다.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-저울.
+스케일입니다.
 
-### 예
+## 예제
 
-다음 코드는 채우기 레이어 패턴 편집 지원을 보여줍니다.
+다음 코드는 Fill Layer 패턴 편집 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PatternFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

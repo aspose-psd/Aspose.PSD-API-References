@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: .NET API 참조용 Aspose.PSD
-description: BritResource 재산. 실험실 색상. 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "BritResource.LabColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BritResource 속성. lab color 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
-weight: 50
+weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-[실험실 색상]. 여부를 나타내는 값을 가져오거나 설정합니다.
+[lab color]인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [실험실 색상]; 그렇지 않으면,`거짓` .
+`true` if [lab color]; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [BritResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. 각 구성 요소에 대한 수직 하위 샘플링을 가져오거나 설정합니다.
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. 각 구성 요소에 대한 수직 서브샘플링을 가져오거나 설정합니다"
 type: docs
-weight: 200
+weight: 210
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-각 구성 요소에 대한 수직 하위 샘플링을 가져오거나 설정합니다.
+각 구성 요소에 대한 수직 서브샘플링을 가져오거나 설정합니다.
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

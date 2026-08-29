@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceBlock 재산. 필요한 최소 PSD 버전을 가져옵니다.
+title: "ResourceBlock.MinimalVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceBlock 속성. 최소 요구 PSD 버전을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
 필요한 최소 PSD 버전을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 public abstract int MinimalVersion { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 최소 PSD 버전.
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceBlock](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

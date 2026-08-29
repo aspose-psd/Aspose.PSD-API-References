@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory 수업. 벡터 경로 레코드 팩토리 Class
+title: "클래스 VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory 클래스. Vector Path Record Factory 클래스"
 type: docs
-weight: 1410
+weight: 1420
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-벡터 경로 레코드 팩토리 Class
+Vector Path Record Factory 클래스.
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
 
-## 생성자
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | 기본 생성자입니다. |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | 경로 레코드를 생성합니다. |
 
-## 행동 양식
+### 또 보기
 
-| 이름 | 설명 |
-| --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | 경로 레코드를 생성합니다. |
-
-### 또한보십시오
-
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

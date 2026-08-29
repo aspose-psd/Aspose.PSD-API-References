@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.BackgroundColorResource
-second_title: .NET API 참조용 Aspose.PSD
-description: BackgroundColorResource 건설자. 기본 생성자입니다.
+title: "BackgroundColorResource.BackgroundColorResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BackgroundColorResource 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/backgroundcolorresource/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/backgr
 public BackgroundColorResource()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BackgroundColorResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

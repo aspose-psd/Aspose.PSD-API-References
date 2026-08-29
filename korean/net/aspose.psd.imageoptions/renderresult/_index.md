@@ -1,14 +1,15 @@
 ---
-title: Class RenderResult
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageOptions.RenderResult 수업. rendering 의 결과로 정보를 나타냅니다.
+title: "클래스 RenderResult"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageOptions.RenderResult 클래스. 렌더링 결과에 대한 정보를 나타냅니다"
 type: docs
-weight: 4930
+weight: 5420
 url: /ko/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-rendering 의 결과로 정보를 나타냅니다.
+렌더링 결과 정보를 나타냅니다
 
 ```csharp
 public class RenderResult
@@ -24,12 +25,12 @@ public class RenderResult
 
 | 이름 | 설명 |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | 문자열 message 를 가져오거나 설정합니다. |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | error 의 코드를 가져오거나 설정합니다. |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | 문자열 메시지를 가져오거나 설정합니다 |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | 오류 코드를 가져오거나 설정합니다 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

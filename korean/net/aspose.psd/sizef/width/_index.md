@@ -1,14 +1,15 @@
 ---
-title: SizeF.Width
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 재산. 이것의 수평 구성 요소를 가져오거나 설정합니다.SizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 속성. 이 SizeF의 가로 구성 요소를 가져오거나 설정합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-이것의 수평 구성 요소를 가져오거나 설정합니다.[`SizeF`](../) .
+이 [`SizeF`](../)의 가로 구성 요소를 가져오거나 설정합니다.
 
 ```csharp
 public float Width { get; set; }
@@ -16,12 +17,12 @@ public float Width { get; set; }
 
 ### 반환 값
 
-이것의 수평 성분[`SizeF`](../), 일반적으로 픽셀 단위로 측정됩니다.
+이 [`SizeF`](../)의 가로 구성 요소이며, 일반적으로 픽셀 단위로 측정됩니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

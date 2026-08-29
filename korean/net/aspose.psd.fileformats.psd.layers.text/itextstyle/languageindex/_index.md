@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 언어 인덱스를 가져옵니다.
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 언어 인덱스를 가져옵니다"
 type: docs
 weight: 190
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
 언어 인덱스를 가져옵니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 public int LanguageIndex { get; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 새로운 ITextStyle 속성 지원을 보여줍니다.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

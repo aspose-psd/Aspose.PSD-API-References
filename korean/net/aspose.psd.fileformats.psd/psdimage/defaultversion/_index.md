@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 필드. 기본 PSD 버전입니다.
+title: "PsdImage.DefaultVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 필드. 기본 PSD 버전"
 type: docs
-weight: 620
+weight: 690
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 기본 PSD 버전입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 public const int DefaultVersion;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.CFAPattern
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. CFA 패턴을 가져오거나 설정합니다.
+title: "ExifData.CFAPattern"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. CFA 패턴을 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
 CFA 패턴을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ CFA 패턴을 가져오거나 설정합니다.
 public byte[] CFAPattern { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 CFA 패턴입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

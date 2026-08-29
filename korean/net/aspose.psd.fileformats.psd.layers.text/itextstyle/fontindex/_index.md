@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.FontIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 글꼴 인덱스를 가져옵니다.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 글꼴 인덱스를 가져옵니다"
 type: docs
 weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-글꼴 인덱스를 가져옵니다.
+폰트 인덱스를 가져옵니다.
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-글꼴입니다.
+글꼴.
 
-### 예
+## 예제
 
 다음 코드는 Aspose.PSD가 텍스트 레이어의 인라인 서식 속성을 가져오는 방법을 보여줍니다.
 
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // 텍스트 레이어에 포함된 글꼴 가져오기
+        // 텍스트 레이어에 포함된 글꼴을 가져옵니다
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

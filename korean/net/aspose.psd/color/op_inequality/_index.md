@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 방법. 두 개의 지정 여부를 테스트합니다.Color 구조가 다릅니다.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 메서드. 지정된 두 Color 구조가 다른지 테스트합니다"
 type: docs
-weight: 1630
+weight: 1650
 url: /ko/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-두 개의 지정 여부를 테스트합니다.[`Color`](../) 구조가 다릅니다.
+지정된 두 [`Color`](../) 구조가 다른지 테스트합니다.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| left | Color | 그만큼[`Color`](../) 그것은 부등식 연산자의 왼쪽에 있습니다. |
-| right | Color | 그만큼[`Color`](../) 그것은 부등식 연산자의 오른쪽입니다. |
+| left | Color | 부등호 연산자의 왼쪽에 있는 [`Color`](../)입니다. |
+| right | Color | 부등호 연산자의 오른쪽에 있는 [`Color`](../)입니다. |
 
 ### 반환 값
 
-둘이면 참[`Color`](../) 구조가 다릅니다. 그렇지 않으면 거짓입니다.
+두 [`Color`](../) 구조가 다르면 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

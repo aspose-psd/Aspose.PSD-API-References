@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Color
-second_title: .NET API 참조용 Aspose.PSD
-description: IShadowEffect 재산. 색상을 가져오거나 설정합니다.
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IShadowEffect 속성. 색상을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
 색상을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 public Color Color { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 색상.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

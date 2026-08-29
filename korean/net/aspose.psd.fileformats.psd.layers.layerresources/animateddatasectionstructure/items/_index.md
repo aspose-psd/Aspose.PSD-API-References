@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: .NET API 참조용 Aspose.PSD
-description: AnimatedDataSectionStructure 재산. 애니메이션 데이터 섹션 구조를 가져오거나 설정합니다.
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AnimatedDataSectionStructure 속성. 애니메이션 데이터 섹션 구조를 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
 애니메이션 데이터 섹션 구조를 가져오거나 설정합니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectio
 public OSTypeStructure[] Items { get; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 애니메이션 데이터의 타임라인 프레임에서 지연 시간을 설정/업데이트하는 방법을 보여줍니다.
 
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1초에 해당하는 100센티초 값으로 프레임 지연 레코드를 생성합니다.
+            // 1초에 해당하는 100센티초 값을 가진 프레임 지연 레코드를 생성합니다.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 시간을 센티초 단위로 설정합니다.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

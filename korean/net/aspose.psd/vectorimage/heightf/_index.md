@@ -1,27 +1,28 @@
 ---
-title: VectorImage.HeightF
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorImage 재산. 개체 높이를 인치 단위로 가져옵니다.
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorImage 속성. 객체의 높이를 인치 단위로 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
-개체 높이를 인치 단위로 가져옵니다.
+객체 높이를 인치 단위로 가져옵니다.
 
 ```csharp
 public virtual float HeightF { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-개체 높이(인치)입니다.
+객체 높이(인치).
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorImage](../)
-* 네임스페이스 [Aspose.PSD](../../vectorimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.Path
-second_title: .NET API 참조용 Aspose.PSD
-description: ProjectLink 재산. 프로젝트의 전체 경로를 가져오거나 설정합니다.
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ProjectLink 속성. 프로젝트의 전체 경로를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
 프로젝트의 전체 경로를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 public string Path { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 프로젝트의 전체 경로입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ProjectLink](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

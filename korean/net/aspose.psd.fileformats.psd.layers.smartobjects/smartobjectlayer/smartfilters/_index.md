@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectLayer 재산. 스마트 필터를 가져옵니다.
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectLayer 속성. 스마트 필터를 가져옵니다"
 type: docs
-weight: 50
+weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
 스마트 필터를 가져옵니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/sma
 public SmartFilters SmartFilters { get; }
 ```
 
-### 예
+## 예제
 
-이 예는 스마트 필터 인터페이스의 지원을 보여줍니다.
+이 예제는 스마트 필터 인터페이스의 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // 변경 승인
+    // 변경 사항 적용
     smartObj.SmartFilters.UpdateResourceValues();
 
     // 필터 적용
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

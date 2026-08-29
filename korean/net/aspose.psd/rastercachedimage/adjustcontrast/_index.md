@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.AdjustContrast
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지 대비
+title: "RasterCachedImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지 대비 조정"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/rastercachedimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustContrast method
 
 이미지 대비
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/rastercachedimage/adjustcontrast/
 public override void AdjustContrast(float contrast)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| contrast | Single | 대비 값([-100; 100] 범위 내) |
+| 대비 | 단일 | 대비 값 (범위 [-100; 100]) |
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

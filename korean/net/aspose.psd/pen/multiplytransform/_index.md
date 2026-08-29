@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 방법. 이에 대한 변환 행렬을 곱합니다.Pen 지정된Matrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 메서드. 이 Pen의 변환 행렬을 지정된 Matrix로 곱합니다."
 type: docs
 weight: 190
 url: /ko/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-이에 대한 변환 행렬을 곱합니다.[`Pen`](../) 지정된[`Matrix`](../../matrix/) .
+이 [`Pen`](../)의 변환 행렬을 지정된 [`Matrix`](../../matrix/)와 곱합니다.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | 그만큼[`Matrix`](../../matrix/) 변환 행렬을 곱할 개체입니다. |
+| matrix | Matrix | 변환 행렬을 곱할 [`Matrix`](../../matrix/) 객체입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-이에 대한 변환 행렬을 곱합니다.[`Pen`](../) 지정된[`Matrix`](../../matrix/) 지정된 order.
+이 [`Pen`](../)의 변환 행렬을 지정된 순서대로 지정된 [`Matrix`](../../matrix/)와 곱합니다.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | 그만큼[`Matrix`](../../matrix/) 변환 행렬을 곱합니다. |
-| order | MatrixOrder | 곱셈 연산을 수행하는 순서입니다. |
+| matrix | Matrix | 변환 행렬을 곱할 [`Matrix`](../../matrix/)입니다. |
+| order | MatrixOrder | 곱셈 연산을 수행할 순서입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

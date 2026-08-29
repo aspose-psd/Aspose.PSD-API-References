@@ -1,28 +1,29 @@
 ---
-title: PointF.PointF
-second_title: .NET API 참조용 Aspose.PSD
-description: PointF 건설자. 의 새 인스턴스를 초기화합니다.PointF 지정된 좌표가 있는 구조.
+title: "PointF.PointF"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointF 생성자. 지정된 좌표로 PointF 구조체의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-의 새 인스턴스를 초기화합니다.[`PointF`](../) 지정된 좌표가 있는 구조.
+지정된 좌표로 [`PointF`](../) 구조체의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| x | Single | 점의 수평 위치입니다. |
-| y | Single | 점의 세로 위치입니다. |
+| x | 단일 | 점의 수평 위치입니다. |
+| y | 단일 | 점의 수직 위치입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../)
-* 네임스페이스 [Aspose.PSD](../../pointf/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

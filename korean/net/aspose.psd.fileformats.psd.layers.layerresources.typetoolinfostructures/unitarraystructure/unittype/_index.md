@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: .NET API 참조용 Aspose.PSD
-description: UnitArrayStructure 재산. 의 측정 단위 유형을 가져오거나 설정합니다.UnitArrayStructure 값.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "UnitArrayStructure 속성. UnitArrayStructure 값들의 측정 단위 유형을 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-의 측정 단위 유형을 가져오거나 설정합니다.[`UnitArrayStructure`](../) 값.
+[`UnitArrayStructure`](../) 값의 측정 단위 유형을 가져오거나 설정합니다.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 측정 단위 유형입니다.
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

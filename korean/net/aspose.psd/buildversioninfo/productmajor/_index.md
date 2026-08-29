@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: .NET API 참조용 Aspose.PSD
-description: BuildVersionInfo 필드. 주요 제품 버전입니다.
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BuildVersionInfo 필드. 주요 제품 버전"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
 주요 제품 버전입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/buildversioninfo/productmajor/
 public static readonly int ProductMajor;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BuildVersionInfo](../)
-* 네임스페이스 [Aspose.PSD](../../buildversioninfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

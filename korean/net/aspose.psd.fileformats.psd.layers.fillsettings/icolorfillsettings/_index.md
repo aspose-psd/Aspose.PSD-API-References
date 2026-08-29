@@ -1,11 +1,12 @@
 ---
-title: Interface IColorFillSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings 상호 작용. 채우기 설정을 위한 기본 인터페이스
+title: "인터페이스 IColorFillSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings 인터페이스. 채우기 설정을 위한 기본 인터페이스"
 type: docs
-weight: 1990
+weight: 2110
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
 채우기 설정을 위한 기본 인터페이스
@@ -20,10 +21,10 @@ public interface IColorFillSettings : IFillSettings
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | 색상을 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IFillSettings](../ifillsettings/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

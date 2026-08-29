@@ -1,11 +1,12 @@
 ---
-title: Version.VersionText
-second_title: .NET API 참조용 Aspose.PSD
-description: Version 재산. 버전 텍스트를 가져오거나 설정합니다.
+title: "Version.VersionText"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Version property. 버전 텍스트를 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
 버전 텍스트를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 public string VersionText { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 버전 텍스트.
 
-### 또한보십시오
+### 또 보기
 
 * class [Version](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

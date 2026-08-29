@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterImage 재산. 원시 라인 크기를 바이트 단위로 가져옵니다.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterImage 속성. 원시 라인 크기를 바이트 단위로 가져옵니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-원시 라인 크기를 바이트 단위로 가져옵니다.
+바이트 단위의 원시 라인 크기를 가져옵니다.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-원시 라인 크기(바이트).
+바이트 단위의 원시 라인 크기.
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterImage](../)
-* 네임스페이스 [Aspose.PSD](../../rasterimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

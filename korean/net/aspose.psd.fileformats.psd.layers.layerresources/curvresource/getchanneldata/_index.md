@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetChannelData
-second_title: .NET API 참조용 Aspose.PSD
-description: CurvResource 방법. 채널 데이터를 가져옵니다.
+title: "CurvResource.GetChannelData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CurvResource 메서드. 채널 데이터를 가져옵니다"
 type: docs
-weight: 70
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetChannelData method
 
 채널 데이터를 가져옵니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getch
 public byte[] GetChannelData(int channelIndex)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | channelIndex | Int32 | 채널의 인덱스입니다. |
 
@@ -22,10 +23,10 @@ public byte[] GetChannelData(int channelIndex)
 
 채널 데이터
 
-### 또한보십시오
+### 또 보기
 
 * class [CurvResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

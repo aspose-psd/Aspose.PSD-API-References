@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerBlendingRangesData 재산. 복합 혼합 범위를 가져오거나 설정합니다.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerBlendingRangesData 속성. 복합 블렌드 범위를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-복합 혼합 범위를 가져오거나 설정합니다.
+복합 블렌드 범위를 가져오거나 설정합니다.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-복합 블렌드 범위입니다.
+복합 블렌드 범위.
 
-### 또한보십시오
+### 또 보기
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

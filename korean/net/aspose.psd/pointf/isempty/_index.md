@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: .NET API 참조용 Aspose.PSD
-description: PointF 재산. 이 여부를 나타내는 값을 가져옵니다.PointF 비어 있습니다.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointF 속성. 이 PointF가 비어 있는지 여부를 나타내는 값을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-이 여부를 나타내는 값을 가져옵니다.[`PointF`](../) 비어 있습니다.
+이 [`PointF`](../)가 비어 있는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-둘 다 참이면 참[`X`](../x/) 그리고[`Y`](../y/) 0이다; 그렇지 않으면 거짓입니다.
+양쪽 [`X`](../x/)와 [`Y`](../y/)가 모두 0인 경우 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../)
-* 네임스페이스 [Aspose.PSD](../../pointf/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

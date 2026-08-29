@@ -1,29 +1,30 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader 상호 작용. 레이어 리소스 로더.
+title: "인터페이스 ILayerResourceLoader"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader 인터페이스. 레이어 리소스 로더"
 type: docs
-weight: 2070
+weight: 2250
 url: /ko/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
-레이어 리소스 로더.
+레이어 리소스 로더입니다.
 
 ```csharp
 public interface ILayerResourceLoader
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | 지정된 레이어에서 레이어 리소스를 로드할 수 있는지 여부를 결정합니다.[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | 로드[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | 지정된 [`StreamContainer`](../../aspose.psd/streamcontainer/)에서 레이어 리소스를 로드할 수 있는지 여부를 결정합니다. |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | [`LayerResource`](../layerresource/)를 로드합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

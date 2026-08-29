@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.SyncRoot
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 재산. 에 대한 액세스를 동기화하는 데 사용할 수 있는 개체를 가져옵니다.ICollection .
+title: "NonGenericList.SyncRoot"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 속성. ICollection에 대한 접근을 동기화하는 데 사용할 수 있는 객체를 가져옵니다"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/nongenericlist/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericList.SyncRoot property
 
-에 대한 액세스를 동기화하는 데 사용할 수 있는 개체를 가져옵니다.ICollection .
+ICollection에 대한 접근을 동기화하는 데 사용할 수 있는 객체를 가져옵니다.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: Blend.Blend
-second_title: .NET API 참조용 Aspose.PSD
-description: Blend 건설자. 의 새 인스턴스를 초기화합니다.Blend 수업. factor 및 blend 배열의 요소 수는 1. 와 같습니다.
+title: "Blend.Blend"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Blend 생성자. Blend 클래스의 새 인스턴스를 초기화합니다. factor와 blend 배열의 요소 수는 1과 같습니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`Blend`](../) 수업. factor 및 blend 배열의 요소 수는 1. 와 같습니다.
+`[`Blend`](../)` 클래스의 새 인스턴스를 초기화합니다. factor와 blend 배열의 요소 수는 1과 같습니다.
 
 ```csharp
 public Blend()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Blend](../)
-* 네임스페이스 [Aspose.PSD](../../blend/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`Blend`](../) 지정된 수의 요소 및 위치가 있는 클래스.
+`[`Blend`](../)` 클래스의 새 인스턴스를 지정된 factor와 위치 수로 초기화합니다.
 
 ```csharp
 public Blend(int count)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| count | Int32 | factor 및 position 배열의 요소 수입니다. |
+| count | Int32 | factor와 position 배열의 요소 수입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Blend](../)
-* 네임스페이스 [Aspose.PSD](../../blend/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

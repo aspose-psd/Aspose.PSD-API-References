@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils 수업. TIFF 파일 형식 옵션 유틸리티 클래스.
+title: "클래스 TiffOptionsUtils"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils 클래스. tiff 파일 형식 옵션 유틸리티 클래스"
 type: docs
-weight: 4960
+weight: 5450
 url: /ko/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-TIFF 파일 형식 옵션 유틸리티 클래스.
+tiff 파일 형식 옵션 유틸리티 클래스.
 
 ```csharp
 public class TiffOptionsUtils
@@ -20,15 +21,15 @@ public class TiffOptionsUtils
 | --- | --- |
 | [TiffOptionsUtils](tiffoptionsutils/)() | 기본 생성자입니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | 유효한 태그 수를 가져옵니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: .NET API 참조용 Aspose.PSD
-description: VstkResource 재산. 스트로크 선 너비를 가져오거나 설정합니다.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VstkResource 속성. Stroke 라인 너비를 가져오거나 설정합니다"
 type: docs
-weight: 160
+weight: 140
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-스트로크 선 너비를 가져오거나 설정합니다.
+스트로크 라인 너비를 가져오거나 설정합니다.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 VstkResource 리소스의 지원을 보여줍니다.
 
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VstkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

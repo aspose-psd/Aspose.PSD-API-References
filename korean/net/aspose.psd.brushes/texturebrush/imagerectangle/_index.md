@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: TextureBrush 재산. 가져오기Rectangle 이와 관련된TextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextureBrush 속성. 이 TextureBrush와 연결된 Rectangle를 가져옵니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-가져오기[`Rectangle`](../../../aspose.psd/rectangle/) 이와 관련된[`TextureBrush`](../) .
+이 [`TextureBrush`](../)와 연결된 [`Rectangle`](../../../aspose.psd/rectangle/)을 가져옵니다.
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-그만큼[`Rectangle`](../../../aspose.psd/rectangle/).
+다음 [`Rectangle`](../../../aspose.psd/rectangle/).
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../texturebrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.GaussianBlurSmartFilter
-second_title: .NET API 참조용 Aspose.PSD
-description: GaussianBlurSmartFilter 건설자. 의 새 인스턴스를 초기화합니다.GaussianBlurSmartFilter 클래스.
+title: "GaussianBlurSmartFilter.GaussianBlurSmartFilter"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GaussianBlurSmartFilter 생성자. GaussianBlurSmartFilter 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter constructor
 
-의 새 인스턴스를 초기화합니다.[`GaussianBlurSmartFilter`](../) 클래스.
+[`GaussianBlurSmartFilter`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public GaussianBlurSmartFilter()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GaussianBlurSmartFilter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

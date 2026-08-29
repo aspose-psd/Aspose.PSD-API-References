@@ -1,67 +1,68 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 건설자. 의 새 인스턴스를 초기화합니다.JpegExifData 클래스.
+title: "JpegExifData.JpegExifData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 생성자. JpegExifData 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`JpegExifData`](../) 클래스.
+새 인스턴스를 초기화합니다 [`JpegExifData`](../) 클래스.
 
 ```csharp
 public JpegExifData()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`JpegExifData`](../) array. 의 데이터가 있는 클래스
+배열에서 데이터를 사용하여 새 인스턴스를 초기화합니다 [`JpegExifData`](../) 클래스.
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | 일반 및 GPS 태그와 함께 EXIF 태그의 배열입니다. |
+| exifdata | TiffDataType[] | 공통 및 GPS 태그와 함께 포함된 EXIF 태그 배열. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`JpegExifData`](../) array. 의 데이터가 있는 클래스
+배열에서 데이터를 사용하여 새 인스턴스를 초기화합니다 [`JpegExifData`](../) 클래스.
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| commonTags | TiffDataType[] | 일반적인 태그. |
+| commonTags | TiffDataType[] | 공통 태그. |
 | exifTags | TiffDataType[] | EXIF 태그. |
-| gpsTags | TiffDataType[] | GPS 태그입니다. |
+| gpsTags | TiffDataType[] | GPS 태그. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

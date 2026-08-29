@@ -1,49 +1,50 @@
 ---
-title: TransformBrush.RotateTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: TransformBrush 방법. 로컬 기하 변환을 지정된 양만큼 회전합니다. 이 방법은 변환 앞에 회전을 추가합니다.
+title: "TransformBrush.RotateTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TransformBrush 메서드. 지정된 양만큼 로컬 기하 변환을 회전시�니다. 이 메서드는 회전을 변환 앞에 추가합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.brushes/transformbrush/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-로컬 기하 변환을 지정된 양만큼 회전합니다. 이 방법은 변환 앞에 회전을 추가합니다.
+지정된 양만큼 로컬 기하 변환을 회전합니다. 이 메서드는 회전을 변환 앞에 추가합니다.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 회전 각도입니다. |
+| 각도 | 단일 | 회전 각도입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-지정된 순서로 지정된 양만큼 로컬 기하 변환을 회전합니다.
+지정된 순서대로 지정된 양만큼 로컬 기하 변환을 회전합니다.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 회전 각도입니다. |
-| order | MatrixOrder | ㅏ[`MatrixOrder`](../../../aspose.psd/matrixorder/) 회전 행렬을 추가할지 아니면 앞에 추가할지 지정합니다. |
+| 각도 | 단일 | 회전 각도입니다. |
+| order | MatrixOrder | 회전 행렬을 추가할지 앞에 삽입할지를 지정하는 [`MatrixOrder`](../../../aspose.psd/matrixorder/)입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

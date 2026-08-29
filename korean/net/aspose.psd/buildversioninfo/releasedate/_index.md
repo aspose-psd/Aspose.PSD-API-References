@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: .NET API 참조용 Aspose.PSD
-description: BuildVersionInfo 필드. 제품 출시일.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BuildVersionInfo 필드. 제품 출시 날짜"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
-제품 출시일.
+제품 출시 날짜입니다.
 
 ```csharp
 public static readonly DateTime ReleaseDate;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BuildVersionInfo](../)
-* 네임스페이스 [Aspose.PSD](../../buildversioninfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Dithering.DitheringMode 수업. 저장 시 이미지에 적용되는 디더링 설정.
+title: "클래스 DitheringMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Dithering.DitheringMode 클래스. 저장 시 이미지에 적용될 디더링 설정"
 type: docs
-weight: 760
+weight: 770
 url: /ko/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-저장 시 이미지에 적용되는 디더링 설정.
+저장 시 이미지에 적용될 디더링 설정입니다.
 
 ```csharp
 public class DitheringMode
@@ -24,13 +25,13 @@ public class DitheringMode
 
 | 이름 | 설명 |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | 디더링된 이미지의 샘플링 계수. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | 디더링을 위한 사용자 지정 팔레트입니다. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | 디더링된 이미지의 샘플링 계수입니다. |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | 디더링을 위한 사용자 정의 팔레트입니다. |
 | [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | 디더링 알고리즘 선택. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

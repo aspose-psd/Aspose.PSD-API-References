@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 글꼴 목록으로 글꼴 사용을 제한합니다. restriction 전에 실제 글꼴 이름을 확인하세요. restriction 를 제거하려면 허용된 글꼴 목록을 Null로 설정하세요.
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 글꼴 목록을 사용하여 글꼴 사용을 제한합니다. 제한하기 전에 실제 글꼴 이름을 확인하십시오. 제한을 해제하려면 허용된 글꼴 목록을 Null로 설정하십시오."
 type: docs
-weight: 100
+weight: 120
 url: /ko/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-글꼴 목록으로 글꼴 사용을 제한합니다. restriction 전에 실제 글꼴 이름을 확인하세요. restriction 를 제거하려면 허용된 글꼴 목록을 Null로 설정하세요.
+글꼴 목록을 사용하여 글꼴 사용을 제한합니다. 제한하기 전에 실제 글꼴 이름을 확인하십시오. 제한을 해제하려면 허용된 글꼴 목록을 Null로 설정하십시오.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fontList | String[] | 글꼴 목록입니다. |
+| fontList | String[] | 글꼴 목록. |
 
-### 예
+## 예제
 
-다음 코드는 다음을 사용하여 프로그래밍 방식으로 글꼴을 제한하는 기능을 보여줍니다.
+다음 코드는 프로그래밍 방식으로 폰트를 제한하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

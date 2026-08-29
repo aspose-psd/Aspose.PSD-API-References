@@ -1,30 +1,31 @@
 ---
-title: SmartObjectLayer.LoadContents
-second_title: .NET API 참조용 Aspose.PSD
-description: SmartObjectLayer 방법. 스마트 개체 레이어의 포함되거나 연결된 이미지 콘텐츠를 가져옵니다.
+title: "SmartObjectLayer.LoadContents"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SmartObjectLayer 메서드. 스마트 오브젝트 레이어의 포함되거나 연결된 이미지 콘텐츠를 가져옵니다"
 type: docs
-weight: 110
+weight: 130
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.LoadContents method
 
-스마트 개체 레이어의 포함되거나 연결된 이미지 콘텐츠를 가져옵니다.
+스마트 오브젝트 레이어의 임베드되거나 링크된 이미지 내용을 가져옵니다.
 
 ```csharp
 public Image LoadContents(LoadOptions options)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| options | LoadOptions | 옵션. |
+| 옵션 | LoadOptions | 옵션. |
 
 ### 반환 값
 
-로드[`Image`](../../../aspose.psd/image/) 스마트 개체 인스턴스.
+로드된 [`Image`](../../../aspose.psd/image/) 스마트 오브젝트 인스턴스입니다.
 
-### 예
+## 예제
 
-다음 코드는 Embedded Smart objects의 지원을 보여줍니다.
+다음 코드는 임베디드 스마트 객체 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 이 예제는 PSD 파일에서 스마트 오브젝트 레이어를 변경하고 스마트 오브젝트 원본 임베디드 콘텐츠를 내보내거나 업데이트하는 방법을 보여줍니다.
+// 이 예제는 PSD 파일에서 스마트 객체 레이어를 변경하고 스마트 객체 원본 임베디드 콘텐츠를 내보내기/업데이트하는 방법을 보여줍니다.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -66,10 +67,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // PSD 스마트 개체 레이어에서 포함된 스마트 개체 이미지를 내보내겠습니다.
+        // PSD 스마트 객체 레이어에서 임베디드 스마트 객체 이미지를 내보냅시다
         smartObjectLayer.ExportContents(exportPath);
 
-        // 원본 이미지가 제대로 저장되었는지 확인해보자
+        // 원본 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -77,7 +78,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 원본 스마트 오브젝트 이미지를 반전시키자
+            // 원본 스마트 객체 이미지를 반전시킵시다
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -88,23 +89,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // PSD 레이어에 포함된 스마트 오브젝트 이미지를 교체해 보겠습니다.
+            // PSD 레이어의 임베디드 스마트 객체 이미지를 교체합시다
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 업데이트된 이미지가 제대로 저장되었는지 확인해보자
+        // 업데이트된 이미지가 올바르게 저장되었는지 확인합시다
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../../../aspose.psd/image/)
 * class [LoadOptions](../../../aspose.psd/loadoptions/)
 * class [SmartObjectLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

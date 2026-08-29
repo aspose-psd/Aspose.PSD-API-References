@@ -1,11 +1,12 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: .NET API 참조용 Aspose.PSD
-description: IImageDescriptor 재산. 지원되는 형식을 가져옵니다.
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IImageDescriptor 속성. 지원되는 형식을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
 지원되는 형식을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/iimagedescriptor/supportedformat/
 public FileFormat SupportedFormat { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 지원되는 형식입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* 네임스페이스 [Aspose.PSD](../../iimagedescriptor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

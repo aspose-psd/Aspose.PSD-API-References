@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: .NET API 참조용 Aspose.PSD
-description: PathGradientBrush 재산. 경로 그라데이션의 중심에서 색상을 가져오거나 설정합니다.
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathGradientBrush 속성. 경로 그라디언트 중심의 색상을 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-경로 그라데이션의 중심에서 색상을 가져오거나 설정합니다.
+경로 그라디언트 중심의 색상을 가져오거나 설정합니다.
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`Color`](../../../aspose.psd/color/) 경로 그라데이션의 중심에 있는 색상을 나타냅니다.
+경로 그라디언트 중심의 색상을 나타내는 [`Color`](../../../aspose.psd/color/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

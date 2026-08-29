@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorPower
-second_title: .NET API 참조용 Aspose.PSD
-description: BilateralSmoothingFilterOptions 재산. 색력을 가져오거나 설정합니다.
+title: "BilateralSmoothingFilterOptions.ColorPower"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BilateralSmoothingFilterOptions 속성. 색상 파워를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorPower property
 
-색력을 가져오거나 설정합니다.
+색상 파워를 가져오거나 설정합니다.
 
 ```csharp
 public double ColorPower { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-컬러 파워.
+색상 파워.
 
-### 또한보십시오
+### 또 보기
 
 * class [BilateralSmoothingFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

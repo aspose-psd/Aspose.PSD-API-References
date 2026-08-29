@@ -1,14 +1,15 @@
 ---
-title: XmpRdfRoot.GetXmlValue
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpRdfRoot 방법. xmp 값을 xml 표현으로 변환합니다.
+title: "XmpRdfRoot.GetXmlValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpRdfRoot 메서드. xmp 값을 XML 표현으로 변환합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp/xmprdfroot/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetXmlValue method
 
-xmp 값을 xml 표현으로 변환합니다.
+xmp 값을 XML 표현으로 변환합니다.
 
 ```csharp
 public string GetXmlValue()
@@ -16,12 +17,12 @@ public string GetXmlValue()
 
 ### 반환 값
 
-XML 문자열로 변환된 XMP 값을 반환합니다.
+XMP 값을 XML 문자열로 변환하여 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpRdfRoot](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmprdfroot/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

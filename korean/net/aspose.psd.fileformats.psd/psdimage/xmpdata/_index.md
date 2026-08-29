@@ -1,11 +1,12 @@
 ---
-title: PsdImage.XmpData
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. XMP 메타데이터를 가져오거나 설정합니다.
+title: "PsdImage.XmpData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. XMP 메타데이터를 가져오거나 설정합니다"
 type: docs
-weight: 280
+weight: 290
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
 XMP 메타데이터를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ XMP 메타데이터를 가져오거나 설정합니다.
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-XMP 메타데이터.
+XMP 메타데이터입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IXmlValue
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Xmp.IXmlValue 상호 작용. xmp 값을 XML 문자열 표현으로 변환합니다.
+title: "인터페이스 IXmlValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Xmp.IXmlValue 인터페이스. xmp 값을 XML 문자열 표현으로 변환합니다"
 type: docs
-weight: 5750
+weight: 6250
 url: /ko/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
 xmp 값을 XML 문자열 표현으로 변환합니다.
@@ -14,15 +15,15 @@ xmp 값을 XML 문자열 표현으로 변환합니다.
 public interface IXmlValue
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | XMP 값을 XML 표현으로 변환합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

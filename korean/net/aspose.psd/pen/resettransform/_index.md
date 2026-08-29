@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 방법. 이에 대한 기하 변환 행렬을 재설정합니다.Pen 정체성에.
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 메서드. 이 Pen에 대한 기하 변환 행렬을 단위 행렬로 재설정합니다."
 type: docs
 weight: 200
 url: /ko/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-이에 대한 기하 변환 행렬을 재설정합니다.[`Pen`](../) 정체성에.
+이 [`Pen`](../)에 대한 기하 변환 행렬을 단위 행렬로 재설정합니다.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

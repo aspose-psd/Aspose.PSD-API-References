@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 방법. 색상 포인트를 추가합니다.
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 메서드. 색상 포인트를 추가합니다"
 type: docs
-weight: 160
+weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 색상 포인트를 추가합니다.
@@ -16,13 +17,13 @@ public GradientTransparencyPoint AddTransparencyPoint()
 
 ### 반환 값
 
-생성된 투명도 포인트
+투명도 포인트가 생성되었습니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

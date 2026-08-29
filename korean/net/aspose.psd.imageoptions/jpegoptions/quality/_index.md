@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.Quality
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. 이미지 품질을 가져오거나 설정합니다.
+title: "JpegOptions.Quality"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. 이미지 품질을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 150
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
 이미지 품질을 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.imageoptions/jpegoptions/quality/
 public int Quality { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

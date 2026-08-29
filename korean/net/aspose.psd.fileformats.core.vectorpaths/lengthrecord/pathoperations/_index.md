@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.PathOperations
-second_title: .NET API 참조용 Aspose.PSD
-description: LengthRecord 재산. 경로 작업을 가져오거나 설정합니다.
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LengthRecord 속성. 경로 작업을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
 경로 작업을 가져오거나 설정합니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations
 public PathOperations PathOperations { get; set; }
 ```
 
-### 예
+## 예제
 
-다음 코드 예제는 새 LengthRecord 속성, PathOperations(부울 연산), ShapeIndex 및 BezierKnotRecordsCount의 지원을 보여줍니다.
+다음 코드 예제는 새로운 LengthRecord 속성, PathOperations(부울 연산), ShapeIndex 및 BezierKnotRecordsCount에 대한 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // 여기에서 도형을 결합하는 방법을 변경합니다.
+    // 여기서는 형태 간 결합 방식을 변경합니다.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,11 +50,11 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

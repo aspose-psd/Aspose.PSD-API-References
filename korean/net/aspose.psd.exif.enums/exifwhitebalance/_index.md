@@ -1,29 +1,30 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance 열거형. exif 화이트 밸런스 enum.
+title: "열거형 ExifWhiteBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance 열거형. exif 화이트 밸런스 열거형"
 type: docs
-weight: 970
+weight: 980
 url: /ko/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-exif 화이트 밸런스 enum.
+exif 화이트 밸런스 열거형.
 
 ```csharp
 public enum ExifWhiteBalance
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Auto | `0` | 자동 화이트 밸런스 |
 | Manual | `1` | 수동 화이트 밸런스 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VectorImage.SizeF
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorImage 재산. 개체 크기를 인치 단위로 가져옵니다.
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorImage 속성. 객체의 크기를 인치 단위로 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
-개체 크기를 인치 단위로 가져옵니다.
+객체 크기를 인치 단위로 가져옵니다.
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-개체 크기(인치)입니다.
+객체 크기(인치).
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* 네임스페이스 [Aspose.PSD](../../vectorimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

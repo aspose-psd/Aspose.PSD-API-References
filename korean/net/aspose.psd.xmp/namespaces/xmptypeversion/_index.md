@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpTypeVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: Namespaces 필드. XMP 버전.
+title: "Namespaces.XmpTypeVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Namespaces 필드. XMP 버전"
 type: docs
 weight: 160
 url: /ko/net/aspose.psd.xmp/namespaces/xmptypeversion/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeVersion field
 
 XMP 버전.
@@ -14,10 +15,10 @@ XMP 버전.
 public const string XmpTypeVersion;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Namespaces](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../namespaces/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.ImageResizeSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageResizeSettings 건설자. 기본 생성자입니다.
+title: "ImageResizeSettings.ImageResizeSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageResizeSettings 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/imageresizesettings/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/imageresizesettings/imageresizesettings/
 public ImageResizeSettings()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageResizeSettings](../)
-* 네임스페이스 [Aspose.PSD](../../imageresizesettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

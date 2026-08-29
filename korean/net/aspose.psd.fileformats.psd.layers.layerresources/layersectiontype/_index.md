@@ -1,31 +1,32 @@
 ---
-title: Enum LayerSectionType
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType 열거형. 레이어 섹션 type
+title: "Enum LayerSectionType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType 열거형. 레이어 섹션 유형"
 type: docs
-weight: 2610
+weight: 2920
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-레이어 섹션 type
+레이어 섹션 유형
 
 ```csharp
 public enum LayerSectionType
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Layer | `0` | 레이어. |
 | OpenFolder | `1` | 열린 폴더. |
 | ClosedFolder | `2` | 닫힌 폴더. |
-| SectionDivider | `3` | 섹션 구분선. |
+| SectionDivider | `3` | 섹션 구분자. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

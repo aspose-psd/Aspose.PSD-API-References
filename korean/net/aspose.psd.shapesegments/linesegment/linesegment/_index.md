@@ -1,29 +1,30 @@
 ---
-title: LineSegment.LineSegment
-second_title: .NET API 참조용 Aspose.PSD
-description: LineSegment 건설자. 의 새 인스턴스를 초기화합니다.LineSegment 클래스.
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LineSegment 생성자. LineSegment 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-의 새 인스턴스를 초기화합니다.[`LineSegment`](../) 클래스.
+[`LineSegment`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| startPoint | PointF | 시작점입니다. |
-| endPoint | PointF | 종점. |
+| startPoint | PointF | 시작점. |
+| endPoint | PointF | 끝점. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* 네임스페이스 [Aspose.PSD.ShapeSegments](../../linesegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

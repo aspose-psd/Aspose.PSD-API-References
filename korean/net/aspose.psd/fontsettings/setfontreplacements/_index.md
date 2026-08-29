@@ -1,33 +1,34 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 글꼴 대체 목록을 설정합니다. 글꼴이 허용되지 않으면 대체품을 찾습니다. 목록의 첫 번째 글꼴이 먼저 사용됩니다. 너무 제한되면 목록에서 다음 글꼴이 선택됩니다. 글꼴이 대체되지 않거나 모든 대체가 허용되지 않는 경우 허용된 글꼴 목록에서 첫 번째로 허용된 글꼴이 사용됩니다. 허용되고 사용 가능한 글꼴이 없으면 라이브러리는 허용되지 않는 경우에도 시스템 기본 글꼴을 사용해 보십시오.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 글꼴 교체 목록을 설정합니다. 글꼴이 허용되지 않은 경우 교체 글꼴을 찾습니다. 목록의 첫 번째 글꼴이 먼저 사용됩니다. 해당 글꼴도 제한된 경우 목록에서 다음 글꼴이 선택됩니다. 글꼴에 교체 항목이 없거나 모든 교체 글꼴이 허용되지 않으면 허용된 글꼴 목록에서 첫 번째 허용 글꼴이 사용됩니다. 허용되고 사용 가능한 글꼴이 없으면 라이브러리는 시스템 기본 글꼴을 사용하려 시도합니다(허용되지 않더라도)."
 type: docs
-weight: 110
+weight: 130
 url: /ko/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-글꼴 대체 목록을 설정합니다. 글꼴이 허용되지 않으면 대체품을 찾습니다. 목록의 첫 번째 글꼴이 먼저 사용됩니다. 너무 제한되면 목록에서 다음 글꼴이 선택됩니다. 글꼴이 대체되지 않거나 모든 대체가 허용되지 않는 경우 허용된 글꼴 목록에서 첫 번째로 허용된 글꼴이 사용됩니다. 허용되고 사용 가능한 글꼴이 없으면 라이브러리는 허용되지 않는 경우에도 시스템 기본 글꼴을 사용해 보십시오.
+글꼴 교체 목록을 설정합니다. 글꼴이 허용되지 않으면 교체 글꼴을 찾습니다. 목록의 첫 번째 글꼴이 먼저 사용됩니다. 그것도 제한된 경우 목록에서 다음 글꼴이 선택됩니다. 글꼴에 교체가 없거나 모든 교체가 허용되지 않으면 허용된 글꼴 목록에서 첫 번째 허용된 글꼴이 사용됩니다. 허용되고 사용 가능한 글꼴이 없으면 라이브러리는 허용되지 않더라도 시스템 기본 글꼴을 사용하려고 시도합니다.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fontToReplace | String | 바꿀 글꼴입니다. |
-| fontNames | String[] | 유사성 순으로 대체 글꼴 이름입니다. |
+| fontToReplace | String | 교체할 글꼴. |
+| fontNames | String[] | 유사도 순서대로 나열된 교체 글꼴 이름. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 글꼴 배열의 길이와 글꼴 차이 배열은 같아야 합니다. |
+| ArgumentException | Font 배열과 Font Differences 배열의 길이는 동일해야 합니다. |
 
-### 예
+## 예제
 
-다음 코드는 다음을 사용하여 프로그래밍 방식으로 글꼴을 제한하는 기능을 보여줍니다.
+다음 코드는 프로그래밍 방식으로 폰트를 제한하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,10 +64,10 @@ finally
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

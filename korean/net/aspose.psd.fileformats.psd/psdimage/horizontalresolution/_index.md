@@ -1,37 +1,38 @@
 ---
-title: PsdImage.HorizontalResolution
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. 수평 해상도인치당 픽셀 수를 가져오거나 설정합니다.PsdImage .
+title: "PsdImage.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. 이 PsdImage의 가로 해상도를 인치당 픽셀 단위로 가져오거나 설정합니다"
 type: docs
 weight: 170
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.HorizontalResolution property
 
-수평 해상도(인치당 픽셀 수)를 가져오거나 설정합니다.[`PsdImage`](../) .
+이 [`PsdImage`](../)의 가로 해상도를 인치당 픽셀 단위로 가져오거나 설정합니다.
 
 ```csharp
 public override double HorizontalResolution { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수평 해상도입니다.
+가로 해상도.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | ResolutionInfo 리소스를 찾을 수 없으며 적절한 해상도를 설정할 수 없습니다. |
 
-### 비고
+## 비고
 
-PSD의 기본값은 72이므로[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) 찾을 수 없으면 이 값이 반환됩니다.
+PSD의 기본값은 72이며, [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/)를 찾지 못한 경우 이 값이 반환됩니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorMatrix 방법. 행렬 값을 가져옵니다.
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorMatrix 메서드. 행렬 값을 가져옵니다."
 type: docs
 weight: 280
 url: /ko/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
 행렬 값을 가져옵니다.
@@ -18,10 +19,10 @@ public float[][] GetMatrix()
 
 행렬 값 배열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorMatrix](../)
-* 네임스페이스 [Aspose.PSD](../../colormatrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

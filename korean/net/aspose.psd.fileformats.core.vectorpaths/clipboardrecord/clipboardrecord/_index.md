@@ -1,43 +1,44 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: .NET API 참조용 Aspose.PSD
-description: ClipboardRecord 건설자. 의 새 인스턴스를 초기화합니다.ClipboardRecord 클래스.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ClipboardRecord 생성자. ClipboardRecord 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`ClipboardRecord`](../) 클래스.
+[`ClipboardRecord`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ClipboardRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`ClipboardRecord`](../) 클래스.
+[`ClipboardRecord`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| data | Byte[] | 레코드 데이터입니다. |
+| 데이터 | Byte[] | 레코드 데이터입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ClipboardRecord](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

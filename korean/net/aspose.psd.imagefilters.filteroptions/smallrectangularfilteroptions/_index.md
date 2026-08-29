@@ -1,14 +1,15 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions 수업. 작은 직사각형 필터 options
+title: "클래스 SmallRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions 클래스. 작은 직사각형 필터 옵션"
 type: docs
-weight: 4750
+weight: 5220
 url: /ko/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
-작은 직사각형 필터 options
+작은 직사각형 필터 옵션
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase
@@ -20,10 +21,10 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 | --- | --- |
 | [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | 기본 생성자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

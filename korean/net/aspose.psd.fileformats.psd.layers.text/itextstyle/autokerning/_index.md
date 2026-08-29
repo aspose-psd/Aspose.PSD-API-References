@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 자동 커닝을 가져오거나 설정합니다.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 자동 커닝을 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
 자동 커닝을 가져오거나 설정합니다.
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-두 문자 사이의 자동 커닝입니다.
+두 문자 사이의 자동 커닝.
 
-### 예
+## 예제
 
 다음 코드는 새로운 ITextStyle 속성 지원을 보여줍니다.
 
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

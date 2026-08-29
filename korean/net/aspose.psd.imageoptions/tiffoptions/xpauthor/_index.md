@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. Windows 탐색기에서 사용하는 이미지 작성자를 가져오거나 설정합니다.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. Windows Explorer에서 사용되는 이미지 작성자를 가져오거나 설정합니다"
 type: docs
-weight: 590
+weight: 600
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Windows 탐색기에서 사용하는 이미지 작성자를 가져오거나 설정합니다.
+Windows Explorer에서 사용하는 이미지 작성자를 가져오거나 설정합니다.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이미지 작성자, Windows 탐색기에서 사용됨. `XPAuthor` 다음과 같은 경우 Windows 탐색기에서 무시됩니다.[`Artist`](../artist/) 태그가 존재합니다.
+이미지 작성자, Windows Explorer에서 사용됩니다. Windows Explorer는 [`Artist`](../artist/) 태그가 존재하면 `XPAuthor`를 무시합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

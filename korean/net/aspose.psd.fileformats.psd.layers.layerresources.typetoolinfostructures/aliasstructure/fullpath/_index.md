@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.FullPath
-second_title: .NET API 참조용 Aspose.PSD
-description: AliasStructure 재산. 전체 경로를 가져오거나 설정합니다.
+title: "AliasStructure.FullPath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AliasStructure 속성. 전체 경로를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/
 ---
+{{< psd/tize >}}
 ## AliasStructure.FullPath property
 
 전체 경로를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string FullPath { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-전체 경로입니다.
+전체 경로.
 
-### 또한보십시오
+### 또 보기
 
 * class [AliasStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

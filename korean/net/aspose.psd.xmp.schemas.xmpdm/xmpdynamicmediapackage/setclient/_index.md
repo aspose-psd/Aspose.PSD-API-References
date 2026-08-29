@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetClient
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpDynamicMediaPackage 방법. 클라이언트를 설정합니다.
+title: "XmpDynamicMediaPackage.SetClient"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpDynamicMediaPackage 메서드. 클라이언트를 설정합니다."
 type: docs
 weight: 140
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetClient method
 
 클라이언트를 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient/
 public void SetClient(string client)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| client | String | 클라이언트. |
+| client | String | 클라이언트입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpDynamicMediaPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

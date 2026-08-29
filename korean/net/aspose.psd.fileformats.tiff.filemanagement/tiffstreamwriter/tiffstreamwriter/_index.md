@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffStreamWriter 건설자. 의 새 인스턴스를 초기화합니다.TiffStreamWriter 클래스.
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffStreamWriter 생성자. TiffStreamWriter 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-의 새 인스턴스를 초기화합니다.[`TiffStreamWriter`](../) 클래스.
+`[`TiffStreamWriter`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| writer | StreamContainer | 스트림 작성자. |
+| writer | StreamContainer | 스트림 라이터입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerSelectionIdsResource 재산. 개수를 가져오거나 설정합니다.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerSelectionIdsResource 속성. 개수를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-개수를 가져오거나 설정합니다.
+카운트를 가져오거나 설정합니다.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-카운트.
+개수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerSelectionIdsResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

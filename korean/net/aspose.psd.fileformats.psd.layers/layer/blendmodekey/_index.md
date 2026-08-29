@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: .NET API 참조용 Aspose.PSD
-description: Layer 재산. 혼합 모드 키를 가져오거나 설정합니다.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Layer 속성. 블렌드 모드 키를 가져오거나 설정합니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-혼합 모드 키를 가져오거나 설정합니다.
+블렌드 모드 키를 가져오거나 설정합니다.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-혼합 모드 키입니다.
+블렌드 모드 키입니다.
 
-### 예
+## 예제
 
-다음 예는 Aspose.PSD에서 PassThrough 레이어 혼합 모드를 사용하는 방법을 보여줍니다.
+다음 예제는 Aspose.PSD에서 PassThrough 레이어 혼합 모드를 사용하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

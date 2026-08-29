@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.Flags
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerMaskData 재산. 레이어 마스크 플래그를 가져오거나 설정합니다.
+title: "LayerMaskData.Flags"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerMaskData 속성. 레이어 마스크 플래그를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
 레이어 마스크 플래그를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-레이어 마스크 플래그입니다.
+레이어 마스크 플래그.
 
-### 또한보십시오
+### 또 보기
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

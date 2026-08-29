@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackage 재산. 가져오거나 설정합니다.Object 지정된 키로.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackage 속성. 지정된 키를 가진 Object를 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-가져오거나 설정합니다.Object 지정된 키로.
+지정된 키와 함께 Object를 가져오거나 설정합니다.
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| 모수 | 설명 |
+| 매개변수 | 설명 |
 | --- | --- |
-| key | 값을 식별하는 키입니다. |
+| 키 | 값을 식별하는 키입니다. |
 
 ### 반환 값
 
-반환Object 지정된 키로.
+지정된 키에 해당하는 객체를 반환합니다.
 
-### 자산 가치
+### Property Value
 
-Object .
+객체입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

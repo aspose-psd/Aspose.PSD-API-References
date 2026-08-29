@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.Distribution
-second_title: .NET API 참조용 Aspose.PSD
-description: AddNoiseSmartFilter 재산. 노이즈 필터의 분포를 가져오거나 설정합니다.
+title: "AddNoiseSmartFilter.Distribution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AddNoiseSmartFilter 속성. 노이즈 필터의 분포를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Distribution property
 
 노이즈 필터의 분포를 가져오거나 설정합니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/
 public NoiseDistribution Distribution { get; set; }
 ```
 
-### 예
+## 예제
 
-이 예는 스마트 필터 인터페이스의 지원을 보여줍니다.
+이 예제는 스마트 필터 인터페이스의 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // 변경 승인
+    // 변경 사항 적용
     smartObj.SmartFilters.UpdateResourceValues();
 
     // 필터 적용
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [NoiseDistribution](../../noisedistribution/)
 * class [AddNoiseSmartFilter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: .NET API 참조용 Aspose.PSD
-description: Blend 재산. 그라디언트에 대한 혼합 계수의 배열을 가져오거나 설정합니다.
+title: "Blend.Factors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Blend 속성. 그라디언트를 위한 블렌드 팩터 배열을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-그라디언트에 대한 혼합 계수의 배열을 가져오거나 설정합니다.
+그라디언트에 대한 blend factor 배열을 가져오거나 설정합니다.
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-해당 위치에서 사용할 시작 색상과 끝 색상의 백분율을 지정하는 혼합 요소의 배열입니다.
+해당 위치에서 사용될 시작 색상과 끝 색상의 비율을 지정하는 블렌드 팩터 배열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Blend](../)
-* 네임스페이스 [Aspose.PSD](../../blend/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

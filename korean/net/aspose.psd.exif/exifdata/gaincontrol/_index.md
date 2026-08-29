@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 전체 이미지 게인 조정 정도를 가져오거나 설정합니다.
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 전체 이미지 이득 조정 정도를 가져오거나 설정합니다"
 type: docs
 weight: 340
 url: /ko/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-전체 이미지 게인 조정 정도를 가져오거나 설정합니다.
+전체 이미지 이득 조정 정도를 가져오거나 설정합니다.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-전체 이미지 게인 조정 정도입니다.
+전체 이미지 이득 조정 정도.
 
-### 또한보십시오
+### 또 보기
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

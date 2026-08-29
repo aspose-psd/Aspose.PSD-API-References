@@ -1,28 +1,29 @@
 ---
-title: RasterCachedImage.Resize
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterCachedImage 방법. 이미지 크기를 조정합니다.
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterCachedImage 메서드. 이미지 크기 조정"
 type: docs
 weight: 120
 url: /ko/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-이미지 크기를 조정합니다.
+이미지를 크기 조정합니다.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
 | resizeType | ResizeType | 크기 조정 유형입니다. |
 
-### 예
+## 예제
 
-다음 코드는 새로운 SinC 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 SinC 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드는 새로운 Bell 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 Bell 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드는 새로운 Mitchell 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 Mitchell 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드는 새로운 CatmullRom 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 CatmullRom 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드는 새로운 CubicBSpline 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 CubicBSpline 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드는 새로운 CubicConvolution 크기 조정 유형으로 이미지 크기를 조정하는 방법을 보여줍니다.
+다음 코드는 새로운 CubicConvolution 리사이즈 유형으로 이미지를 크기 조정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드
+// 기존 이미지를 PsdImage 클래스의 인스턴스로 로드합니다.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -118,34 +119,34 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-이미지 크기를 조정합니다.
+이미지를 크기 조정합니다.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
-| settings | ImageResizeSettings | 크기 조정 설정입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
+| 설정 | ImageResizeSettings | 크기 조정 설정입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* 네임스페이스 [Aspose.PSD](../../rastercachedimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

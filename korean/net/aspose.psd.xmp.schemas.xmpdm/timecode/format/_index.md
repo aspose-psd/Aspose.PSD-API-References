@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: .NET API 참조용 Aspose.PSD
-description: Timecode 재산. 에 사용된 형식을 가져오거나 설정합니다.TimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Timecode 속성. TimeValue에서 사용되는 형식을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-에 사용된 형식을 가져오거나 설정합니다.[`TimeValue`](../timevalue/) .
+[`TimeValue`](../timevalue/)에서 사용되는 형식을 가져오거나 설정합니다.
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-에 사용된 형식[`TimeValue`](../timevalue/) .
+[`TimeValue`](../timevalue/)에서 사용되는 형식입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

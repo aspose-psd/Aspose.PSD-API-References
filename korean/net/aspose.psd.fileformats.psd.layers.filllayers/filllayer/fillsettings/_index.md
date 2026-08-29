@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: FillLayer 재산. 채우기 설정을 가져옵니다.
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FillLayer 속성. 채우기 설정을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-채우기 설정을 가져옵니다.
+채우기 설정을 가져오거나 설정합니다.
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-채우기 설정입니다.
+채우기 설정.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

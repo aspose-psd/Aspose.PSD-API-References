@@ -1,66 +1,67 @@
 ---
-title: GraphicsPath.Flatten
-second_title: .NET API 참조용 Aspose.PSD
-description: GraphicsPath 방법. 이 경로의 각 곡선을 일련의 연결된 선 세그먼트로 변환합니다.
+title: "GraphicsPath.Flatten"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GraphicsPath 메서드. 이 경로의 각 곡선을 연결된 선분 시퀀스로 변환합니다."
 type: docs
 weight: 90
 url: /ko/net/aspose.psd/graphicspath/flatten/
 ---
+{{< psd/tize >}}
 ## Flatten() {#flatten}
 
-이 경로의 각 곡선을 일련의 연결된 선 세그먼트로 변환합니다.
+이 경로의 각 곡선을 연결된 선분 시퀀스로 변환합니다.
 
 ```csharp
 public void Flatten()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix) {#flatten_1}
 
-지정된 변환을 적용한 다음 이 안에 있는 각 곡선을 변환합니다.[`GraphicsPath`](../) 연결된 라인 세그먼트의 시퀀스로.
+지정된 변환을 적용한 다음 이 [`GraphicsPath`](../)의 각 곡선을 연결된 선분 시퀀스로 변환합니다.
 
 ```csharp
 public void Flatten(Matrix matrix)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | ㅏ[`Matrix`](../../matrix/) 이것을 변형시키는 것으로[`GraphicsPath`](../) 평평하기 전에. |
+| matrix | Matrix | 평탄화하기 전에 이 [`GraphicsPath`](../)를 변환하는 데 사용할 [`Matrix`](../../matrix/)입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix, float) {#flatten_2}
 
-이 안에 있는 각 곡선을 변환합니다.[`GraphicsPath`](../) 연결된 라인 세그먼트의 시퀀스로.
+이 [`GraphicsPath`](../)의 각 곡선을 연결된 선분 시퀀스로 변환합니다.
 
 ```csharp
 public void Flatten(Matrix matrix, float flatness)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| matrix | Matrix | ㅏ[`Matrix`](../../matrix/) 이것을 변형시키는 것으로[`GraphicsPath`](../) 평평하기 전에. |
-| flatness | Single | 곡선과 평평한 근사치 사이의 최대 허용 오차를 지정합니다. 0.25 값이 기본값입니다. 편평도 값을 줄이면 근사치의 선 세그먼트 수가 증가합니다. |
+| matrix | Matrix | 평탄화하기 전에 이 [`GraphicsPath`](../)를 변환하는 데 사용할 [`Matrix`](../../matrix/)입니다. |
+| 평탄도 | 단일 | 곡선과 평탄화된 근사 사이의 허용 가능한 최대 오차를 지정합니다. 기본값은 0.25이며, 평탄도 값을 낮추면 근사에 사용되는 선분 수가 증가합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 네임스페이스 [Aspose.PSD](../../graphicspath/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

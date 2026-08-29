@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: .NET API 참조용 Aspose.PSD
-description: ITextStyle 재산. 문자를 함께 연결하는 데 사용되는 표준 문맥 합자입니다.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ITextStyle 속성. 문자를 연결하기 위해 사용되는 표준 컨텍스트 합자"
 type: docs
 weight: 220
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-문자를 함께 연결하는 데 사용되는 표준 문맥 합자입니다.
+문자를 함께 연결하는 데 사용되는 표준 상황별 합자.
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### 예
+## 예제
 
 다음 코드는 새로운 ITextStyle 속성 지원을 보여줍니다.
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextStyle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

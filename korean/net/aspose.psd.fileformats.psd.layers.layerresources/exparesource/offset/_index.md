@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Offset
-second_title: .NET API 참조용 Aspose.PSD
-description: ExpaResource 재산. 오프셋을 가져오거나 설정합니다.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExpaResource 속성. 오프셋을 가져오거나 설정합니다."
 type: docs
-weight: 60
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
 오프셋을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offse
 public float Offset { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 오프셋입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExpaResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 재산. 이것의 알파 구성 요소 값을 가져옵니다.Color구조.
+title: "Color.A"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color property. 이 Color 구조체의 알파 구성 요소 값을 가져옵니다"
 type: docs
 weight: 1460
 url: /ko/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-이것의 알파 구성 요소 값을 가져옵니다.[`Color`](../)구조.
+이 [`Color`](../) 구조체의 알파 구성 요소 값을 가져옵니다.
 
 ```csharp
 public byte A { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이것의 알파 성분 값[`Color`](../).
+이 [`Color`](../)의 알파 구성 요소 값.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

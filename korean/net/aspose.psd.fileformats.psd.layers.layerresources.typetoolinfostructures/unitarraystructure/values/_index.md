@@ -1,11 +1,12 @@
 ---
-title: UnitArrayStructure.Values
-second_title: .NET API 참조용 Aspose.PSD
-description: UnitArrayStructure 재산. 단위 배열 구조 값을 가져오거나 설정합니다.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "UnitArrayStructure 속성. 단위 배열 구조 값을 가져오거나 설정합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
 단위 배열 구조 값을 가져오거나 설정합니다.
@@ -14,19 +15,19 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public double[] Values { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 단위 배열 구조 값입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | 값 속성은 null일 수 없습니다. |
+| ArgumentNullException | Values 속성은 null이면 안 됩니다. |
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [UnitArrayStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

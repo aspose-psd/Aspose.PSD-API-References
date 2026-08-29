@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceRef 재산. 파일 경로 URI를 가져오거나 설정합니다.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceRef 속성. 파일 경로 URI를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
 파일 경로 URI를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 public string FilePathUri { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-파일 경로 URI.
+파일 경로 URI입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceRef](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

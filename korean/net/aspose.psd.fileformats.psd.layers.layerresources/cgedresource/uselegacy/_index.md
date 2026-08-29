@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: .NET API 참조용 Aspose.PSD
-description: CgEdResource 재산. 기존 사용. 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CgEdResource 속성. 레거시 사용 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
-weight: 100
+weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-[기존 사용]. 여부를 나타내는 값을 가져오거나 설정합니다.
+[use legacy]를 사용하는지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` if [레거시 사용]; 그렇지 않으면,`거짓` .
+`true` if [use legacy]; otherwise, `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [CgEdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

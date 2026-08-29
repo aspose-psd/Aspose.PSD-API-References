@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: RdOptimizerSettings 건설자. 기본 생성자입니다.
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RdOptimizerSettings 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 public RdOptimizerSettings()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [RdOptimizerSettings](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

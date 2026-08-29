@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorRasterizationOptions 재산. 테두리 X를 가져오거나 설정합니다.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorRasterizationOptions 속성. X 경계 값을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
 테두리 X를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 public float BorderX { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-테두리 X.
+X 경계.
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorRasterizationOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

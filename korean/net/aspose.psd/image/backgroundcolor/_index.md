@@ -1,24 +1,25 @@
 ---
-title: Image.BackgroundColor
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 재산. 배경색 값을 가져오거나 설정합니다.
+title: "Image.BackgroundColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 속성. 배경 색상의 값을 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
-배경색 값을 가져오거나 설정합니다.
+배경 색상의 값을 가져오거나 설정합니다.
 
 ```csharp
 public virtual Color BackgroundColor { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../color/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

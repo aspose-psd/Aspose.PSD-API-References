@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: .NET API 참조용 Aspose.PSD
-description: PdfDocumentInfo 재산. 문서의 제목을 가져오거나 설정합니다.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PdfDocumentInfo 속성. 문서의 주제를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
-문서의 제목을 가져오거나 설정합니다.
+문서의 주제를 가져오거나 설정합니다.
 
 ```csharp
 public string Subject { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PdfDocumentInfo](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

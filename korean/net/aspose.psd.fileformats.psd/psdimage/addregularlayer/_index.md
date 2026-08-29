@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 새 일반 레이어를 추가합니다.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 새로운 일반 레이어를 추가합니다"
 type: docs
-weight: 410
+weight: 440
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 새 일반 레이어를 추가합니다.
@@ -16,9 +17,9 @@ public Layer AddRegularLayer()
 
 ### 반환 값
 
-일반 레이어를 생성했습니다.
+일반 레이어가 생성되었습니다.
 
-### 예
+## 예제
 
 다음 코드는 새로 생성된 일반 레이어를 PsdImage에 추가하는 방법을 보여줍니다.
 
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // 두 개의 int 배열 준비
+    // 두 개의 int 배열을 준비합니다
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -66,11 +67,11 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

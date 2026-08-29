@@ -1,11 +1,12 @@
 ---
-title: LangAlt.GetXmlValue
-second_title: .NET API 참조용 Aspose.PSD
-description: LangAlt 방법. XMP 값을 XML 표현으로 변환합니다.
+title: "LangAlt.GetXmlValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LangAlt 메서드. XMP 값을 XML 표현으로 변환합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp/langalt/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## LangAlt.GetXmlValue method
 
 XMP 값을 XML 표현으로 변환합니다.
@@ -18,10 +19,10 @@ public string GetXmlValue()
 
 XML 표현으로 변환된 XMP 값을 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [LangAlt](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../langalt/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

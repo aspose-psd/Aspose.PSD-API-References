@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: .NET API 참조용 Aspose.PSD
-description: ObjectWithBounds 방법. 지정된 변환을 모양에 적용합니다.
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ObjectWithBounds 메서드. 지정된 변환을 도형에 적용합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 지정된 변환을 모양에 적용합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/objectwithbounds/transform/
 public abstract void Transform(Matrix transform)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| transform | Matrix | 적용할 변환입니다. |
+| 변환 | 행렬 | 적용할 변환. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* 네임스페이스 [Aspose.PSD](../../objectwithbounds/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

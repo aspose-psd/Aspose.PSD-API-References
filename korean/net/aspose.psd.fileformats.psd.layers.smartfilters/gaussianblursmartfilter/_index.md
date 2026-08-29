@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurSmartFilter
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter 수업. GaussianBlur 스마트 필터.
+title: "GaussianBlurSmartFilter 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.GaussianBlurSmartFilter 클래스. GaussianBlur 스마트 필터"
 type: docs
-weight: 3430
+weight: 3840
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter class
 
-GaussianBlur 스마트 필터.
+GaussianBlur 스마트 필터입니다.
 
 ```csharp
 public sealed class GaussianBlurSmartFilter : SmartFilter
@@ -18,37 +19,37 @@ public sealed class GaussianBlurSmartFilter : SmartFilter
 
 | 이름 | 설명 |
 | --- | --- |
-| [GaussianBlurSmartFilter](gaussianblursmartfilter/)() | 의 새 인스턴스를 초기화합니다.`GaussianBlurSmartFilter` 클래스. |
+| [GaussianBlurSmartFilter](gaussianblursmartfilter/)() | `GaussianBlurSmartFilter` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | 혼합 모드를 가져오거나 설정합니다. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | 블렌딩 모드를 가져오거나 설정합니다. |
 | override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/) { get; } | 스마트 필터 유형 식별자를 가져옵니다. |
 | [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | 스마트 필터의 활성화 상태를 가져오거나 설정합니다. |
 | override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/) { get; } | 스마트 필터 이름을 가져옵니다. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | 스마트 필터의 불투명도 값을 가져오거나 설정합니다. |
-| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/) { get; set; } | 가우스 스마트 필터의 반지름을 가져오거나 설정합니다. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | 스마트 필터 데이터가 포함된 소스 설명자 구조. |
+| [Radius](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/) { get; set; } | 가우시안 스마트 필터의 반경을 가져오거나 설정합니다. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | 스마트 필터 데이터가 포함된 소스 디스크립터 구조체. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | 현재 필터를 입력에 적용[`RasterImage`](../../aspose.psd/rasterimage/) 이미지. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | 현재 필터를 입력에 적용[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) 마스크 데이터. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | type. 의 현재 인스턴스에 대한 구성원별 복제본을 만듭니다. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | 현재 필터를 입력 [`RasterImage`](../../aspose.psd/rasterimage/) 이미지에 적용합니다. |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | 현재 필터를 입력 [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) 마스크 데이터에 적용합니다. |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | 해당 유형의 현재 인스턴스를 멤버별로 복제합니다. |
 
 ## 필드
 
 | 이름 | 설명 |
 | --- | --- |
-| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | 현재 스마트 필터의 식별자입니다. |
+| const [FilterType](../../aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/) | 현재 스마트 필터의 식별자. |
 
-### 예
+## 예제
 
-이 예는 스마트 필터 인터페이스의 지원을 보여줍니다.
+이 예제는 스마트 필터 인터페이스의 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // 변경 승인
+    // 변경 사항 적용
     smartObj.SmartFilters.UpdateResourceValues();
 
     // 필터 적용
@@ -118,10 +119,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [SmartFilter](../smartfilter/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. PhotoFilter 레이어를 추가합니다.
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. PhotoFilter 레이어를 추가합니다"
 type: docs
-weight: 400
+weight: 420
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-PhotoFilter 레이어를 추가합니다.
+포토 필터 레이어를 추가합니다.
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| color | Color | 그 색깔. |
+| 색상 | 색상 | 색상. |
 
 ### 반환 값
 
-생성된 PhotoFilter 레이어
+PhotoFilter 레이어가 생성되었습니다
 
-### 또한보십시오
+### 또 보기
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

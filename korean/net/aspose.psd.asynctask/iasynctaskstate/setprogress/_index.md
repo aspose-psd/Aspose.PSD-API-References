@@ -1,11 +1,12 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: .NET API 참조용 Aspose.PSD
-description: IAsyncTaskState 방법. 비동기 작업의 진행률을 설정합니다.
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IAsyncTaskState 메서드. 비동기 작업의 진행률을 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
 비동기 작업의 진행률을 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 public void SetProgress(int progressPercentage)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| progressPercentage | Int32 | 진행률입니다. |
+| progressPercentage | Int32 | 진행률 백분율. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IAsyncTaskState](../)
-* 네임스페이스 [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

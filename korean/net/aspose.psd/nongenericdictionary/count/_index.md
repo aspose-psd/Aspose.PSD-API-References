@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Count
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericDictionary 재산. 에 포함된 요소 수를 가져옵니다.ICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericDictionary 속성. ICollection에 포함된 요소 수를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-에 포함된 요소 수를 가져옵니다.ICollection .
+ICollection에 포함된 요소 수를 가져옵니다.
 
 ```csharp
 public int Count { get; }
@@ -16,12 +17,12 @@ public int Count { get; }
 
 ### 반환 값
 
-에 포함된 요소의 수ICollection.
+ICollection에 포함된 요소 수.
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericDictionary](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericdictionary/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

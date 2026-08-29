@@ -1,11 +1,12 @@
 ---
-title: Class RawDataSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.RawDataSettings 수업. 원시 데이터 설정
+title: "클래스 RawDataSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.RawDataSettings 클래스. 원시 데이터 설정"
 type: docs
-weight: 5330
+weight: 5830
 url: /ko/net/aspose.psd/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings class
 
 원시 데이터 설정
@@ -24,17 +25,17 @@ public class RawDataSettings
 
 | 이름 | 설명 |
 | --- | --- |
-| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | 색상 팔레트 를 가져오거나 설정합니다. |
-| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | 사용자 정의 색상 converter 를 가져오거나 설정합니다. |
-| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | 원시 데이터 변환 에 사용할 디더링 방법을 가져오거나 설정합니다. |
-| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | 팔레트 인덱스가 범위를 벗어날 때 사용할 폴백 인덱스를 가져오거나 설정합니다. |
-| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | 인덱스 색상 converter 를 가져오거나 설정합니다. |
-| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | 원시 데이터 처리 에 대한 픽셀 라인 크기(바이트)를 가져오거나 설정합니다. |
-| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | 픽셀 데이터 format 를 가져오거나 설정합니다. |
+| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | 색상 팔레트를 가져오거나 설정합니다 |
+| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | 사용자 정의 색상 변환기를 가져오거나 설정합니다. |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | 원시 데이터 변환에 사용할 디더링 방법을 가져오거나 설정합니다 |
+| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | 팔레트 인덱스가 범위를 벗어났을 때 사용할 대체 인덱스를 가져오거나 설정합니다. |
+| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | 인덱스 색상 변환기를 가져오거나 설정합니다. |
+| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | 원시 데이터 처리를 위한 픽셀 라인 크기를 바이트 단위로 가져오거나 설정합니다 |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | 픽셀 데이터 형식을 가져오거나 설정합니다 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

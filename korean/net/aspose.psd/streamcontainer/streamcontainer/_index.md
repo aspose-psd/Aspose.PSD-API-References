@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: .NET API 참조용 Aspose.PSD
-description: StreamContainer 건설자. 의 새 인스턴스를 초기화합니다.StreamContainer 클래스.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StreamContainer 생성자. StreamContainer 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`StreamContainer`](../) 클래스.
+[`StreamContainer`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 스트림. |
+| 스트림 | 스트림 | 스트림. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`StreamContainer`](../) 클래스.
+[`StreamContainer`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| stream | Stream | 데이터 스트림. |
-| disposeStream | Boolean | 로 설정된 경우`진실` 스트림은 컨테이너가 폐기될 때 폐기됩니다. |
+| 스트림 | 스트림 | 데이터 스트림. |
+| disposeStream | Boolean | `true` 로 설정하면 컨테이너가 폐기될 때 스트림도 폐기됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

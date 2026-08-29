@@ -1,30 +1,31 @@
 ---
-title: TimeLine.InitializeFrom
-second_title: .NET API 참조용 Aspose.PSD
-description: TimeLine 방법. 의 새 인스턴스를 만듭니다.TimeLine  입력에서 초기화PsdImage .
+title: "TimeLine.InitializeFrom"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TimeLine 메서드. 입력 PsdImage에서 초기화된 새로운 TimeLine 인스턴스를 생성합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/
 ---
+{{< psd/tize >}}
 ## TimeLine.InitializeFrom method
 
-의 새 인스턴스를 만듭니다.[`TimeLine`](../) , 입력에서 초기화[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/) .
+입력 [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/)에서 초기화된 새로운 [`TimeLine`](../) 인스턴스를 생성합니다.
 
 ```csharp
 public static TimeLine InitializeFrom(PsdImage psdImage)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| psdImage | PsdImage | PSD 이미지입니다. |
+| psdImage | PsdImage | psd 이미지입니다. |
 
 ### 반환 값
 
-의 새 인스턴스[`TimeLine`](../) , 입력에서 초기화[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/).
+입력 [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/)에서 초기화된 새로운 [`TimeLine`](../) 인스턴스입니다.
 
-### 예
+## 예제
 
-TimeLine 클래스는 특정 프레임에서 프레임 지연 변경 또는 레이어 상태 편집과 같이 PsdImage의 타임라인을 조작하는 고급 기능을 제공합니다.
+TimeLine 클래스는 PsdImage의 타임라인을 조작할 수 있는 고수준 기능을 제공하며, 예를 들어 프레임 지연을 변경하거나 특정 프레임의 레이어 상태를 편집할 수 있습니다.
 
 ```csharp
 [C#]
@@ -36,40 +37,40 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
     TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
 
-    // 프레임 1의 dispose 방식 변경
+    // 프레임 1의 폐기 방법을 변경합니다
     timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // 프레임 2의 지연 변경
+    // 프레임 2의 지연을 변경합니다
     timeLine.Frames[1].Delay = 15;
 
-    // 프레임 2에서 '레이어 1'의 불투명도 변경
+    // 프레임 2에서 'Layer 1'의 불투명도를 변경합니다
     LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
     layerState11.Opacity = 50;
 
-    // '레이어 1'을 프레임 3의 왼쪽 아래 모서리로 이동
+    // 프레임 3에서 'Layer 1'을 좌하단 모서리로 이동합니다
     LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // 새 프레임 추가
+    // 새 프레임을 추가합니다
     List<Frame> frames = new List<Frame>(timeLine.Frames);
     frames.Add(new Frame(timeLine));
     timeLine.Frames = frames.ToArray();
 
-    // 프레임 4에서 'Layer 1'의 blendMode 변경
+    // 프레임 4에서 'Layer 1'의 blendMode를 변경합니다
     LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // 변경 사항을 PsdImage 인스턴스에 다시 적용
+    // 변경 사항을 PsdImage 인스턴스에 적용합니다
     timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [TimeLine](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

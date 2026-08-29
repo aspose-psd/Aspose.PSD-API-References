@@ -1,11 +1,12 @@
 ---
-title: Color.Aquamarine
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 재산. 시스템 정의 색상을 가져옵니다.
+title: "Color.Aquamarine"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 속성. 시스템 정의 색상을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/color/aquamarine/
 ---
+{{< psd/tize >}}
 ## Color.Aquamarine property
 
 시스템 정의 색상을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/color/aquamarine/
 public static Color Aquamarine { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`Color`](../) 시스템 정의 색상을 나타냅니다.
+시스템 정의 색상을 나타내는 [`Color`](../)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

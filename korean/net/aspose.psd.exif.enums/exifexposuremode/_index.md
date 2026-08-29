@@ -1,30 +1,31 @@
 ---
-title: Enum ExifExposureMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifExposureMode 열거형. exif 노출 모드 enum.
+title: "열거형 ExifExposureMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode 열거형. exif 노출 모드 열거형"
 type: docs
-weight: 830
+weight: 840
 url: /ko/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-exif 노출 모드 enum.
+exif 노출 모드 열거형.
 
 ```csharp
 public enum ExifExposureMode
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Auto | `0` | 자동 노출. |
 | Manual | `1` | 수동 노출. |
-| AutoBracket | `2` | 자동 브래킷. |
+| AutoBracket | `2` | 자동 브라켓. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

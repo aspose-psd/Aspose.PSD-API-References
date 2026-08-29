@@ -1,46 +1,54 @@
 ---
-title: Class PatternFillSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings 수업. 패턴 채우기 효과 settings
+title: "클래스 PatternFillSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings 클래스. 패턴 채우기 효과 설정"
 type: docs
-weight: 2040
+weight: 2170
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
-패턴 채우기 효과 settings
+패턴 채우기 효과 설정
 
 ```csharp
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## 생성자
+
+| 이름 | 설명 |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | 기본 생성자입니다. |
+
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | [레이어와 연결]. 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | [link with layer] 여부를 나타내는 값을 가져오거나 설정합니다. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | 각도를 가져오거나 설정합니다. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | 색상을 가져오거나 설정합니다. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | 채우기 유형 |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | 수평 오프셋을 가져오거나 설정합니다. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | 이 여부를 나타내는 값을 가져오거나 설정합니다.`PatternFillSettings`연결되어 있습니다. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | 이 `PatternFillSettings`가 연결되어 있는지 여부를 나타내는 값을 가져오거나 설정합니다. |
 | [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | 패턴 데이터를 가져오거나 설정합니다. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | 패턴의 높이를 가져오거나 설정합니다. |
 | [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | 패턴 식별자를 가져오거나 설정합니다. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | 패턴의 이름을 가져오거나 설정합니다. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | 패턴 이름을 가져오거나 설정합니다. |
 | [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | 패턴의 너비를 가져오거나 설정합니다. |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | 포인트 유형을 가져오거나 설정합니다. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | 배율을 가져오거나 설정합니다. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | 스케일을 가져오거나 설정합니다. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | 수직 오프셋을 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | LFX2 리소스 노드를 생성합니다. |
 
-### 예
+## 예제
 
-다음 코드는 채우기 레이어 패턴 편집 지원을 보여줍니다.
+다음 코드는 Fill Layer 패턴 편집 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-다음 코드는 채우기 유형이 패턴인 획 효과 레이어의 지원을 보여줍니다.
+다음 코드는 채우기 유형이 Pattern인 스트로크 효과 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -129,7 +137,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// 새로운 데이터 준비
+// 새 데이터 준비 중
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -208,11 +216,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

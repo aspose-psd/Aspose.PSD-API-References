@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 건설자. 의 새 인스턴스를 초기화합니다.Size 지정된 구조Point .
+title: "Size.Size"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 생성자. 지정된 Point에서 새로운 Size 구조체 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`Size`](../) 지정된 구조[`Point`](../../point/) .
+지정된 [`Point`](../../point/)에서 새로운 [`Size`](../) 구조체 인스턴스를 초기화합니다.
 
 ```csharp
 public Size(Point point)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | Point | 그만큼[`Point`](../../point/) 이것을 초기화하기 위해[`Size`](../). |
+| point | Point | 이 [`Size`](../)을 초기화할 [`Point`](../../point/)입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`Size`](../) 지정된 차원의 구조.
+지정된 차원에서 새로운 [`Size`](../) 구조체 인스턴스를 초기화합니다.
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| width | Int32 | 새로운 너비 구성 요소[`Size`](../). |
-| height | Int32 | 새로운 높이 구성 요소[`Size`](../). |
+| width | Int32 | 새로운 [`Size`](../)의 너비 구성 요소. |
+| height | Int32 | 새로운 [`Size`](../)의 높이 구성 요소. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

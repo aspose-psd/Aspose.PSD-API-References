@@ -1,11 +1,12 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 재산. 채널당 비트를 가져옵니다.
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 속성. 채널당 비트를 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
 채널당 비트를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 public int BitsPerChannel { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-채널당 비트.
+채널당 비트입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

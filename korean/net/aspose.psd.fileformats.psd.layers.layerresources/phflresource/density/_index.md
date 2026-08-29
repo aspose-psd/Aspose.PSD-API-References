@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: .NET API 참조용 Aspose.PSD
-description: PhflResource 재산. 밀도를 가져오거나 설정합니다.
+title: "PhflResource.Density"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhflResource 속성. 밀도를 가져오거나 설정합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 밀도를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/densi
 public int Density { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 밀도.
 
-### 또한보십시오
+### 또 보기
 
 * class [PhflResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

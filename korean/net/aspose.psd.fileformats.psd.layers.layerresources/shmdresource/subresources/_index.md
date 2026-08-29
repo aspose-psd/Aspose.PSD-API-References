@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.SubResources
-second_title: .NET API 참조용 Aspose.PSD
-description: ShmdResource 재산. shmd 리소스의 하위 리소스를 가져옵니다.
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ShmdResource 속성. shmd 리소스의 하위 리소스를 가져옵니다"
 type: docs
-weight: 70
+weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
 shmd 리소스의 하위 리소스를 가져옵니다.
@@ -14,9 +15,9 @@ shmd 리소스의 하위 리소스를 가져옵니다.
 public LayerResource[] SubResources { get; }
 ```
 
-### 예
+## 예제
 
-다음 코드는 레이어 상태를 조작하기 위한 하위 수준 메커니즘을 제공하는 MlstResource 리소스 지원을 보여줍니다.
+다음 코드는 레이어 상태를 조작하기 위한 저수준 메커니즘을 제공하는 MlstResource 리소스 지원을 보여줍니다
 
 ```csharp
 [C#]
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // 프레임 1에서 레이어 1 비활성화
+    // 프레임 1에서 레이어 1을 비활성화합니다
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

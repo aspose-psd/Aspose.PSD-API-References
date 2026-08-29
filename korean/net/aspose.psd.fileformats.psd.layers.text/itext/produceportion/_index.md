@@ -1,14 +1,15 @@
 ---
-title: IText.ProducePortion
-second_title: .NET API 참조용 Aspose.PSD
-description: IText 방법. 기본 매개변수 를 사용하여 새 부분을 생성합니다.
+title: "IText.ProducePortion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IText 메서드. 기본 매개변수로 새로운 부분을 생성합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itext/produceportion/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortion method
 
-기본 매개변수 를 사용하여 새 부분을 생성합니다.
+기본 매개변수로 새로운 부분을 생성합니다
 
 ```csharp
 public ITextPortion ProducePortion()
@@ -16,17 +17,17 @@ public ITextPortion ProducePortion()
 
 ### 반환 값
 
-새로 생성된 참조[`ITextPortion`](../../itextportion/).
+새로 생성된 [`ITextPortion`](../../itextportion/)에 대한 참조입니다.
 
-### 예
+## 예제
 
-다음 예제는 Aspose.PSD의 하나의 텍스트 레이어에서 다양한 스타일을 렌더링하는 방법을 보여줍니다.
+다음 예제는 Aspose.PSD에서 하나의 텍스트 레이어에 서로 다른 스타일을 렌더링하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // 텍스트 스타일 편집 "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // 텍스트 스타일 "2\r" 편집
-    newPortions[2].Style.FauxBold = true; // 텍스트 스타일 "Bold" 편집
-    newPortions[3].Style.FauxItalic = true; // 텍스트 스타일 편집 "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // 텍스트 스타일 편집 "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // 텍스트 스타일 편집 "Lowercasetext"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-다음 코드 예제는 편집 텍스트 부분과 해당 텍스트 스타일을 보여줍니다.
+다음 코드 예제는 텍스트 부분과 해당 텍스트 스타일 편집을 보여줍니다.
 
 ```csharp
 [C#]
@@ -89,7 +90,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 모든 부분의 텍스트 확인
+            // 각 부분의 텍스트 확인
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -99,7 +100,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 단락 데이터 확인
-            // 단락마다 정당성이 다릅니다.
+            // 단락마다 정렬 방식이 다릅니다
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -109,7 +110,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 첫 번째와 두 번째 단락의 다른 모든 속성은 동일합니다.
+            // 첫 번째와 두 번째 단락의 다른 모든 속성은 동일합니다
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -133,7 +134,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -149,7 +150,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 스타일 데이터 확인
-            // 스타일은 색상과 글꼴 크기가 다릅니다.
+            // 스타일마다 색상과 글꼴 크기가 다릅니다
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -185,29 +186,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 텍스트 부분 제거 예시
+            // 텍스트 부분 삭제 예제
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 새로운 텍스트 부분을 추가하는 예
+            // 새 텍스트 부분 추가 예제
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 부분에 대한 단락 및 스타일 편집의 예
+            // 부분에 대한 단락 및 스타일 편집 예제
             // 오른쪽 정렬 설정
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 스타일마다 다른 색상. 이 변경되지만 렌더링이 완전히 지원되지는 않습니다.
+            // 각 스타일마다 다른 색상입니다. 변경되지만 렌더링이 완전히 지원되지 않습니다
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 다른 글꼴. 이 변경되지만 렌더링이 완전히 지원되지는 않습니다.
+            // 다른 글꼴입니다. 변경되지만 렌더링이 완전히 지원되지 않습니다
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -222,11 +223,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

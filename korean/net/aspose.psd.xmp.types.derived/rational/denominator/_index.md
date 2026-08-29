@@ -1,11 +1,12 @@
 ---
-title: Rational.Denominator
-second_title: .NET API 참조용 Aspose.PSD
-description: Rational 재산. 분모를 가져오거나 설정합니다.
+title: "Rational.Denominator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rational 속성. 분모를 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
 분모를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.derived/rational/denominator/
 public int Denominator { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-분모.
+분모입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Rational](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

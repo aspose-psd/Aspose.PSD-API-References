@@ -1,11 +1,12 @@
 ---
-title: TextShape.Segments
-second_title: .NET API 참조용 Aspose.PSD
-description: TextShape 재산. 모양 세그먼트를 가져옵니다.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextShape 속성. 도형 세그먼트를 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
 모양 세그먼트를 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/textshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-셰이프 세그먼트입니다.
+도형 세그먼트.
 
-### 또한보십시오
+### 또 보기
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../textshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

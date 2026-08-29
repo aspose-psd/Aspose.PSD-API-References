@@ -1,23 +1,24 @@
 ---
-title: PngOptions.CompressionLevel
-second_title: .NET API 참조용 Aspose.PSD
-description: PngOptions 재산. 09 범위의 png 이미지 압축 수준입니다. 여기서 9는 최대 압축이고 0은 저장 모드입니다.
+title: "PngOptions.CompressionLevel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PngOptions 속성. 0~9 범위의 PNG 이미지 압축 수준이며, 9가 최대 압축이고 0은 저장 모드입니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.CompressionLevel property
 
-0-9 범위의 png 이미지 압축 수준입니다. 여기서 9는 최대 압축이고 0은 저장 모드입니다.
+0-9 범위의 PNG 이미지 압축 수준이며, 9는 최대 압축, 0은 저장 모드입니다.
 
 ```csharp
 public int CompressionLevel { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PngOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

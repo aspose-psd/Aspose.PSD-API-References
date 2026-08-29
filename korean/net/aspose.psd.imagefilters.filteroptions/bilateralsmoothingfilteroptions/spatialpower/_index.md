@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: .NET API 참조용 Aspose.PSD
-description: BilateralSmoothingFilterOptions 재산. 공간 전력을 가져오거나 설정합니다.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BilateralSmoothingFilterOptions 속성. 공간 파워를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
-공간 전력을 가져오거나 설정합니다.
+공간 파워를 가져오거나 설정합니다.
 
 ```csharp
 public double SpatialPower { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-공간의 힘.
+공간 파워입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [BilateralSmoothingFilterOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpBasicPackage 방법. 메타데이터를 마지막으로 변경한 날짜를 추가합니다.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpBasicPackage 메서드. 메타데이터 마지막 변경 날짜를 추가합니다"
 type: docs
-weight: 70
+weight: 90
 url: /ko/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-메타데이터를 마지막으로 변경한 날짜를 추가합니다.
+메타데이터 마지막 변경 날짜를 추가합니다.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | metadataDate | DateTime | 메타데이터 날짜. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-메타데이터를 마지막으로 변경한 날짜를 추가합니다.
+메타데이터 마지막 변경 날짜를 추가합니다.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | metadataDate | String | 메타데이터 날짜. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

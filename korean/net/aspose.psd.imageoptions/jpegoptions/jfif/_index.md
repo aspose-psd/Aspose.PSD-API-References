@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.Jfif
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. jfif를 가져오거나 설정합니다.
+title: "JpegOptions.Jfif"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. jfif를 가져오거나 설정합니다"
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/jfif/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Jfif property
 
 jfif를 가져오거나 설정합니다.
@@ -14,11 +15,11 @@ jfif를 가져오거나 설정합니다.
 public JFIFData Jfif { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JFIFData](../../../aspose.psd.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

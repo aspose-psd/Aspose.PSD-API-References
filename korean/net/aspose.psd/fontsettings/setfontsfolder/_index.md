@@ -1,27 +1,28 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 이것은 바로 가기입니다.SetFontsFolders 하나의 글꼴 디렉토리만 설정하기 위해. 글꼴 폴더에서 수행된 검사가 없습니다.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 이는 단일 폰트 디렉터리를 설정하기 위한 SetFontsFolders의 바로 가기입니다. 폰트 폴더에 대한 검사가 수행되지 않습니다."
 type: docs
-weight: 120
+weight: 140
 url: /ko/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-이것은 바로 가기입니다.[`SetFontsFolders`](../setfontsfolders/) 하나의 글꼴 디렉토리만 설정하기 위해. 글꼴 폴더에서 수행된 검사가 없습니다.
+이는 단일 폰트 디렉터리를 설정하기 위한 [`SetFontsFolders`](../setfontsfolders/)의 바로 가기입니다. 폰트 폴더에 대한 검사가 수행되지 않습니다.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fontFolder | String | 글꼴 폴더입니다. |
+| fontFolder | String | 폰트 폴더. |
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Method
-second_title: .NET API 참조용 Aspose.PSD
-description: DitheringMode 재산. 디더링 알고리즘 선택.
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DitheringMode 속성. 디더링 알고리즘 선택"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
 디더링 알고리즘 선택.
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd.dithering/ditheringmode/method/
 public DitheringMethod Method { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* 네임스페이스 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

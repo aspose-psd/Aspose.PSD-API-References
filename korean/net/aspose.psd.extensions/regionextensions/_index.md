@@ -1,28 +1,29 @@
 ---
-title: Class RegionExtensions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Extensions.RegionExtensions 수업. 에 대한 확장 메서드를 포함합니다.Region 클래스.
+title: "RegionExtensions 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Extensions.RegionExtensions 클래스. Region 클래스에 대한 확장 메서드를 포함합니다"
 type: docs
-weight: 1170
+weight: 1180
 url: /ko/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-에 대한 확장 메서드를 포함합니다.[`Region`](../../aspose.psd/region/) 클래스.
+[`Region`](../../aspose.psd/region/) 클래스에 대한 확장 메서드를 포함합니다.
 
 ```csharp
 public static class RegionExtensions
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | 변환[`Region`](../../aspose.psd/region/) ~로Region . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | [`Region`](../../aspose.psd/region/)를 Region으로 변환합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

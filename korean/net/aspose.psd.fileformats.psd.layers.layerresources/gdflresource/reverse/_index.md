@@ -1,24 +1,25 @@
 ---
-title: GdFlResource.Reverse
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 재산. 이 여부를 나타내는 값을 가져오거나 설정합니다.GdFlResource 반대입니다.
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 속성. 이 GdFlResource가 역방향인지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 170
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-이 여부를 나타내는 값을 가져오거나 설정합니다.[`GdFlResource`](../) 반대입니다.
+이 [`GdFlResource`](../)가 역방향인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 반대라면; 그렇지 않으면,`거짓` .
+`true`이면 역방향; 그렇지 않으면 `false`.
 
-### 예
+## 예제
 
 다음 예제는 GdFlResource 리소스 로드 지원을 보여줍니다.
 
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 독서
+                    // 읽기
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

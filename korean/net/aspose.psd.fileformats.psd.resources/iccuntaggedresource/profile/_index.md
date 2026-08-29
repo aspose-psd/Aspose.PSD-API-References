@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: .NET API 참조용 Aspose.PSD
-description: IccUntaggedResource 재산. 프로필을 가져오거나 설정합니다.
+title: "IccUntaggedResource.Profile"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IccUntaggedResource 속성. 프로파일을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
 프로필을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 public byte Profile { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-프로필.
+프로파일입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [IccUntaggedResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

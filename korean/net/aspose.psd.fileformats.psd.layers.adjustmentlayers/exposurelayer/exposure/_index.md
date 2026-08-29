@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Exposure
-second_title: .NET API 참조용 Aspose.PSD
-description: ExposureLayer 재산. 노출을 가져오거나 설정합니다. PS의 경우 노출 범위는 20에서 20입니다.
+title: "ExposureLayer.Exposure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExposureLayer 속성. Exposure을 가져오거나 설정합니다. PS에서 Exposure의 범위는 20에서 20까지입니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/exposure/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Exposure property
 
-노출을 가져오거나 설정합니다. PS의 경우 노출 범위는 -20에서 +20입니다.
+Exposure를 가져오거나 설정합니다. PS에서 Exposure 범위는 -20에서 +20까지입니다.
 
 ```csharp
 public float Exposure { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-노출.
+그 Exposure.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExposureLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

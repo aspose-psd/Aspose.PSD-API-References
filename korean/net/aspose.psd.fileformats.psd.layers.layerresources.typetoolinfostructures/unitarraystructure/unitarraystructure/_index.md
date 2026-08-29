@@ -1,34 +1,35 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: .NET API 참조용 Aspose.PSD
-description: UnitArrayStructure 건설자. 의 새 인스턴스를 초기화합니다.UnitArrayStructure 클래스.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "UnitArrayStructure 생성자. UnitArrayStructure 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-의 새 인스턴스를 초기화합니다.[`UnitArrayStructure`](../) 클래스.
+[`UnitArrayStructure`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| keyName | ClassID | 키의 이름입니다. |
+| keyName | ClassID | 키의 이름. |
 | unitType | UnitTypes | 단위의 유형입니다. |
-| values | Double[] | 가치. |
+| values | Double[] | 값입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | 값은 null일 수 없습니다. |
+| ArgumentNullException | 값은 null이면 안 됩니다. |
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

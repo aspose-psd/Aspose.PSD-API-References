@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceRef 재산. 대체 경로의 배열을 가져오거나 설정합니다.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceRef 속성. 대체 경로 배열을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-대체 경로의 배열을 가져오거나 설정합니다.
+대체 경로 배열을 가져오거나 설정합니다.
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-대체 경로의 배열입니다.
+대체 경로 배열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceRef](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

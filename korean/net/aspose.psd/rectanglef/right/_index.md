@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Right
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 재산. 합계인 x 좌표를 가져오거나 설정합니다.X 그리고Width 이의RectangleF구조.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 속성. 이 RectangleF 구조의 X와 Width의 합인 x좌표를 가져오거나 설정합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-합계인 x 좌표를 가져오거나 설정합니다.[`X`](../x/) 그리고[`Width`](../width/) 이의[`RectangleF`](../)구조.
+이 [`RectangleF`](../) 구조의 [`X`](../x/)와 [`Width`](../width/)의 합인 x좌표를 가져오거나 설정합니다.
 
 ```csharp
 public float Right { get; set; }
@@ -16,12 +17,12 @@ public float Right { get; set; }
 
 ### 반환 값
 
-의 합인 x 좌표[`X`](../x/) 그리고[`Width`](../width/) 이의[`RectangleF`](../) 구조.
+이 [`RectangleF`](../) 구조의 [`X`](../x/)와 [`Width`](../width/)의 합인 x좌표.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

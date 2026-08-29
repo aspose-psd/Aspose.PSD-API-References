@@ -1,28 +1,29 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: .NET API 참조용 Aspose.PSD
-description: ObjectArrayStructure 건설자. 의 새 인스턴스를 초기화합니다.ObjectArrayStructure 클래스.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ObjectArrayStructure 생성자. ObjectArrayStructure 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`ObjectArrayStructure`](../) 클래스.
+[`ObjectArrayStructure`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| keyName | String | 키의 이름입니다. |
-| classIdName | String | 클래스 식별자의 이름입니다. |
-| structures | OSTypeStructure[] | 구조. |
+| keyName | String | 키의 이름. |
+| classIdName | String | 클래스 식별자의 이름. |
+| 구조 | OSTypeStructure[] | 구조들. |
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -74,41 +75,41 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`ObjectArrayStructure`](../) 클래스.
+[`ObjectArrayStructure`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| key | Int32 | 정수 키입니다. |
+| 키 | Int32 | 정수 키. |
 | keyName | ClassID | 키 이름입니다. |
-| classID | ClassID | 클래스 식별자입니다. |
-| className | String | 클래스의 이름입니다. |
-| structures | OSTypeStructure[] | 구조. |
+| classID | ClassID | 클래스 식별자. |
+| className | String | 클래스의 이름. |
+| 구조 | OSTypeStructure[] | 구조들. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentNullException | 클래스 ID가 null입니다. |
+| ArgumentNullException | classID가 null입니다 |
 
-### 예
+## 예제
 
-다음 코드는 ObAr 및 UnFl 서명의 지원을 보여줍니다.
+다음 코드는 ObAr 및 UnFl 서명을 지원하는 예를 보여줍니다.
 
 ```csharp
 [C#]
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

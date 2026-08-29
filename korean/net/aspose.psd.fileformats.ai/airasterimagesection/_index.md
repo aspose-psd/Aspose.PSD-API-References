@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection 수업. AI 래스터 이미지 Section
+title: "클래스 AiRasterImageSection"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection 클래스. AI 래스터 이미지 섹션"
 type: docs
-weight: 1280
+weight: 1290
 url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-AI 래스터 이미지 Section
+AI 래스터 이미지 섹션
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -23,12 +24,12 @@ public sealed class AiRasterImageSection
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | 이미지 사각형을 가져옵니다. |
 | [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | 왼쪽 하단 이동을 가져옵니다. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | 래스터 이미지의 이름을 가져옵니다. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | 오프셋 X를 가져옵니다. |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | 오프셋 Y를 가져옵니다. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int 색상 픽셀의 배열을 가져옵니다. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | X 오프셋을 가져옵니다. |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Y 오프셋을 가져옵니다. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int 색상 픽셀 배열을 가져옵니다. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | 너비를 가져옵니다. |
 
-### 예
+## 예제
 
 다음 코드는 AI 형식 파일에서 래스터 이미지 설정을 로드하는 방법을 보여줍니다.
 
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

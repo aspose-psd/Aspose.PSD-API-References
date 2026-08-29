@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageExportersRegistry 재산. 등록된 내보내기 설명자를 가져옵니다.
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageExportersRegistry 속성. 등록된 내보내기 설명자를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
 등록된 내보내기 설명자를 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-등록된 내보내기 설명자입니다.
+등록된 내보내기 설명자.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* 네임스페이스 [Aspose.PSD](../../imageexportersregistry/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

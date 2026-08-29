@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.OriginIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorShapeOriginSettings 재산. 원점 모양 인덱스를 가져오거나 설정합니다.
+title: "VectorShapeOriginSettings.OriginIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorShapeOriginSettings 속성. 원본 형태 인덱스를 가져오거나 설정합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginIndex property
 
-원점 모양 인덱스를 가져오거나 설정합니다.
+원본 형상 인덱스를 가져오거나 설정합니다.
 
 ```csharp
 public int OriginIndex { get; set; }
 ```
 
-### 예
+## 예제
 
-다음 예제는 VogkResource 리소스의 지원을 보여줍니다.
+다음 예제는 VogkResource 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 독서
+    // 읽기
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorShapeOriginSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

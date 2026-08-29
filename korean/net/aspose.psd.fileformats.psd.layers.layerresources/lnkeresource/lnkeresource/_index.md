@@ -1,44 +1,45 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: .NET API 참조용 Aspose.PSD
-description: LnkeResource 건설자. 의 새 인스턴스를 초기화합니다.LnkeResource 클래스.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LnkeResource 생성자. LnkeResource 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`LnkeResource`](../) 클래스.
+[`LnkeResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LnkeResource()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LnkeResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`LnkeResource`](../) 클래스.
+[`LnkeResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | 데이터 소스. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

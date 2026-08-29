@@ -1,27 +1,28 @@
 ---
-title: IGradientColorPoint.MedianPointLocation
-second_title: .NET API 참조용 Aspose.PSD
-description: IGradientColorPoint 재산. 중간 지점 위치를 가져오거나 설정합니다.
+title: "IGradientColorPoint.MedianPointLocation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IGradientColorPoint 속성. 중앙점 위치를 가져오거나 설정합니다. 값 범위 04096"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint.MedianPointLocation property
 
-중간 지점 위치를 가져오거나 설정합니다.
+중간점 위치를 가져오거나 설정합니다. 값 범위 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-중간점 위치.
+중앙점 위치.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IGradientColorPoint](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

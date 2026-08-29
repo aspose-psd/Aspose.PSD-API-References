@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.VerticalOffset
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 재산. 수직 오프셋을 백분율로 가져오거나 설정합니다.
+title: "GradientFillSettings.VerticalOffset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 속성. 수직 오프셋을 백분율로 가져오거나 설정합니다"
 type: docs
-weight: 140
+weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.VerticalOffset property
 
 수직 오프셋을 백분율로 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public double VerticalOffset { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수직 오프셋입니다.
+수직 오프셋.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

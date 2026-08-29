@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Resize
-second_title: .NET API 참조용 Aspose.PSD
-description: TextLayer 방법. 이미지 크기를 조정합니다. 기본값LeftTopToLeftTop사용중입니다.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextLayer method. 이미지를 크기 조정합니다. 기본 LeftTopToLeftTop이 사용됩니다"
 type: docs
-weight: 90
+weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-이미지 크기를 조정합니다. 기본값LeftTopToLeftTop사용중입니다.
+이미지를 크기 조정합니다. 기본 LeftTopToLeftTop이 사용됩니다.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
-| resizeType | ResizeType | 크기 조정 변환 유형[`ResizeType`](../../../aspose.psd/resizetype/) |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
+| resizeType | ResizeType | 리사이즈 변환 유형 [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### 예
+## 예제
 
-다음 코드는 크기 조정 메커니즘을 선택하는 매개 변수가 있는 TextLayer.Resize 함수를 보여줍니다.
+다음 코드는 TextLayer.Resize 함수를 보여주며, 리사이즈 메커니즘을 선택하는 매개변수를 사용합니다.
 
 ```csharp
 [C#]
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // 텍스트 레이어의 새로운 크기를 설정합니다.
+    // 텍스트 레이어의 새 크기를 설정합니다
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // 크기 조정 기능이 레이어 크기를 조정하는 방법에 대한 메커니즘을 설정합니다(기본값).
+    // 리사이즈 함수가 레이어를 어떻게 크기 조정할지에 대한 메커니즘을 설정합니다 (기본값)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // 여기를 사용하여 텍스트 레이어의 크기를 조정하는 새로운 메커니즘
-    // 레이어뿐만 아니라 텍스트 레이어의 변환 행렬도 변경됩니다.
+    // 여기에서 사용되는 텍스트 레이어의 새로운 리사이즈 메커니즘
+    // 레이어뿐만 아니라 텍스트 레이어의 변환 행렬도 변경됩니다
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -52,13 +53,13 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 {
     TextLayer txtLayer = (TextLayer)image.Layers[1];
 
-    // 델타의 이유는 다른 기본 글꼴입니다.
+    // 델타의 이유는 기본 글꼴이 다르기 때문입니다
     if (txtLayer.TransformMatrix[4] >= 65 
         && txtLayer.TransformMatrix[4] <= 67
         && txtLayer.TransformMatrix[5] >= 234
         && txtLayer.TransformMatrix[5] <= 237)
     {
-        // 다 괜찮아
+        // 모두 정상입니다
     }
     else
     {
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

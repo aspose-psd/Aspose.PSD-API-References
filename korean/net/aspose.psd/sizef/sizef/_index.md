@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 건설자. 의 새 인스턴스를 초기화합니다.SizeF 지정된 구조SizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 생성자. 지정된 SizeF에서 새로운 SizeF 구조체 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`SizeF`](../) 지정된 구조[`SizeF`](../) .
+지정된 [`SizeF`](../)에서 새로운 [`SizeF`](../) 구조체 인스턴스를 초기화합니다.
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size | SizeF | 그만큼[`SizeF`](../) 새로운 것을 만드는 것으로부터[`SizeF`](../). |
+| size | SizeF | 새로운 [`SizeF`](../)을 생성할 기준이 되는 [`SizeF`](../). |
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`SizeF`](../) 지정된 구조[`PointF`](../../pointf/) .
+지정된 [`PointF`](../../pointf/)에서 새로운 [`SizeF`](../) 구조체 인스턴스를 초기화합니다.
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | PointF | 그만큼[`PointF`](../../pointf/) 이것을 초기화하기 위해[`SizeF`](../). |
+| point | PointF | 이 [`SizeF`](../)을 초기화할 기준이 되는 [`PointF`](../../pointf/). |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`SizeF`](../) 지정된 차원의 구조.
+지정된 차원에서 새로운 [`SizeF`](../) 구조체 인스턴스를 초기화합니다.
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| width | Single | 새로운 너비 구성 요소[`SizeF`](../). |
-| height | Single | 새로운 높이 구성 요소[`SizeF`](../). |
+| width | Single | 새로운 [`SizeF`](../)의 너비 구성 요소. |
+| height | Single | 새로운 [`SizeF`](../)의 높이 구성 요소. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

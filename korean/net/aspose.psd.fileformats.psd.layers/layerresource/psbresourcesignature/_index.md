@@ -1,23 +1,24 @@
 ---
-title: LayerResource.PsbResourceSignature
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerResource 필드. PSB 관련 리소스 서명입니다.
+title: "LayerResource.PsbResourceSignature"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerResource 필드. PSB 전용 리소스 서명"
 type: docs
 weight: 70
 url: /ko/net/aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsbResourceSignature field
 
-PSB 관련 리소스 서명입니다.
+PSB 전용 리소스 서명입니다.
 
 ```csharp
 public const int PsbResourceSignature;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

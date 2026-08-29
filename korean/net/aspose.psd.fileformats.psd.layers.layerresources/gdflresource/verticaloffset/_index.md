@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: .NET API 참조용 Aspose.PSD
-description: GdFlResource 재산. 수직 오프셋을 가져오거나 설정합니다.
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GdFlResource 속성. 수직 오프셋을 가져오거나 설정합니다"
 type: docs
-weight: 180
+weight: 240
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
 수직 오프셋을 가져오거나 설정합니다.
@@ -14,11 +15,11 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verti
 public double VerticalOffset { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수직 오프셋입니다.
+수직 오프셋.
 
-### 예
+## 예제
 
 다음 예제는 GdFlResource 리소스 로드 지원을 보여줍니다.
 
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 독서
+                    // 읽기
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [GdFlResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.GetM
-second_title: .NET API 참조용 Aspose.PSD
-description: CmykColorHelper 방법. 자홍색 구성 요소 값을 가져옵니다.
+title: "CmykColorHelper.GetM"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CmykColorHelper 메서드. 마젠타 구성 요소 값을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd/cmykcolorhelper/getm/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetM method
 
-자홍색 구성 요소 값을 가져옵니다.
+마젠타 구성 요소 값을 가져옵니다.
 
 ```csharp
 public static int GetM(int cmyk)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| cmyk | Int32 | CMYK 색상은 32비트 정수 값으로 표시됩니다. |
+| cmyk | Int32 | 32비트 정수 값으로 표시된 CMYK 색상입니다. |
 
 ### 반환 값
 
-자홍색 구성 요소 값입니다.
+마젠타 구성 요소 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [CmykColorHelper](../)
-* 네임스페이스 [Aspose.PSD](../../cmykcolorhelper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

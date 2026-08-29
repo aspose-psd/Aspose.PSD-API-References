@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PattResourceData
-second_title: .NET API 참조용 Aspose.PSD
-description: PattResourceData 건설자. 기본 생성자입니다.
+title: "PattResourceData.PattResourceData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PattResourceData 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/p
 public PattResourceData()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PattResourceData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

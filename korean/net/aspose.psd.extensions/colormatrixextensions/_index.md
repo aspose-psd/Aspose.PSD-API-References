@@ -1,28 +1,29 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Extensions.ColorMatrixExtensions 수업. ColorMatrix 확장 방법.
+title: "클래스 ColorMatrixExtensions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions 클래스. ColorMatrix 확장 메서드"
 type: docs
-weight: 1070
+weight: 1080
 url: /ko/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-[`ColorMatrix`](../../aspose.psd/colormatrix/) 확장 방법.
+다음 [`ColorMatrix`](../../aspose.psd/colormatrix/) 확장 메서드.
 
 ```csharp
 public static class ColorMatrixExtensions
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | 변환[`ColorMatrix`](../../aspose.psd/colormatrix/) ~로ColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | [`ColorMatrix`](../../aspose.psd/colormatrix/)를 ColorMatrix로 변환합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

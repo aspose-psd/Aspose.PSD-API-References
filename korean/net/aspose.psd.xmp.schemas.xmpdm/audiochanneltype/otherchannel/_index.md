@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: .NET API 참조용 Aspose.PSD
-description: AudioChannelType 재산. 다른 채널을 가져옵니다.
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AudioChannelType 속성. 다른 채널을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
 다른 채널을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-다른 채널.
+다른 채널입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [AudioChannelType](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

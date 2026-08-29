@@ -1,29 +1,30 @@
 ---
-title: Timecode.Timecode
-second_title: .NET API 참조용 Aspose.PSD
-description: Timecode 건설자. 의 새 인스턴스를 초기화합니다.Timecode 클래스.
+title: "Timecode.Timecode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Timecode 생성자. Timecode 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
+{{< psd/tize >}}
 ## Timecode constructor
 
-의 새 인스턴스를 초기화합니다.[`Timecode`](../) 클래스.
+[`Timecode`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| format | TimeFormat | 시간 형식입니다. |
+| 형식 | TimeFormat | 시간 형식입니다. |
 | timeValue | String | 시간 값입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

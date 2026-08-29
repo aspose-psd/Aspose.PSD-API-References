@@ -1,11 +1,12 @@
 ---
-title: ColorMap.ColorMap
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorMap 건설자. 기본 생성자입니다.
+title: "ColorMap.ColorMap"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorMap 생성자. 기본 생성자."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/colormap/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/colormap/colormap/
 public ColorMap()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorMap](../)
-* 네임스페이스 [Aspose.PSD](../../colormap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

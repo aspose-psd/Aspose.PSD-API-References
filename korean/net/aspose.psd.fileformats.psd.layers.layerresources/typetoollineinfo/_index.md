@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo 수업. 유형 공구 라인 정보.
+title: "클래스 TypeToolLineInfo"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo 클래스. 타입 툴 라인 정보"
 type: docs
-weight: 3310
+weight: 3700
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-유형 공구 라인 정보.
+타입 도구 라인 정보.
 
 ```csharp
 public class TypeToolLineInfo
@@ -26,15 +27,15 @@ public class TypeToolLineInfo
 | --- | --- |
 | [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | 문자를 가져오거나 설정합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | 저장`TypeToolLineInfo` 지정된 스트림 컨테이너에 대한 정보. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | 지정된 스트림 컨테이너에 `TypeToolLineInfo` 정보를 저장합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

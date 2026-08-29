@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.TypeToolKey
-second_title: .NET API 참조용 Aspose.PSD
-description: Lnk3Resource 필드. 유형 도구 정보 키입니다.
+title: "Lnk3Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Lnk3Resource 필드. 타입 툴 정보 키"
 type: docs
-weight: 30
+weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.TypeToolKey field
 
-유형 도구 정보 키입니다.
+타입 툴 정보 키.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### 예
+## 예제
 
-이 예제에서는 Lnk2Resource 및 Lnk3Resource의 속성을 가져오고 설정하는 방법을 보여줍니다.
+이 예제는 Lnk2Resource와 Lnk3Resource의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -31,90 +32,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// PSD 파일에 있는 스마트 오브젝트의 데이터를 파일로 저장합니다.
+// PSD 파일의 스마트 오브젝트 데이터를 파일에 저장합니다.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD Lnk2 / Lnk3 리소스의 속성과 PSD 이미지의 liFD 데이터 소스를 가져오고 설정합니다.
+// PSD 이미지에서 PSD Lnk2 / Lnk3 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정합니다.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 채널당 32비트 저장은 아직 지원되지 않습니다.
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// 이 예제는 채널당 8비트에 대한 PSD Lnk2 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 8비트인 PSD Lnk2 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// 이 예제는 채널당 32비트에 대한 PSD Lnk3 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 32비트인 PSD Lnk3 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// 이 예제는 채널당 16비트에 대한 PSD Lnk2 리소스 및 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
+// 이 예제는 채널당 16비트인 PSD Lnk2 리소스와 해당 liFD 데이터 소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Lnk3Resource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

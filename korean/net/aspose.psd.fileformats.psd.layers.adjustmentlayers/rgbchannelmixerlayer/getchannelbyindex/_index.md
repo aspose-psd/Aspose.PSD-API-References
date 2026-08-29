@@ -1,22 +1,23 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: .NET API 참조용 Aspose.PSD
-description: RgbChannelMixerLayer 방법. 채널 인덱스를 가져옵니다. RgbMixerChannel 를 반환합니다.
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RgbChannelMixerLayer 메서드. 채널의 인덱스를 가져옵니다. RgbMixerChannel를 반환합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-채널 인덱스를 가져옵니다. RgbMixerChannel 를 반환합니다.
+채널의 인덱스를 가져옵니다. 반환값은 RgbMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| index | Int32 | 색인. |
+| index | Int32 | 인덱스. |
 
 ### 반환 값
 
@@ -24,15 +25,15 @@ public override MixerChannel GetChannelByIndex(int index)
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer에는 3개 이하의 채널이 있습니다. 첫 번째 채널의 인덱스는 0입니다. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer는 3개 이상의 채널을 가질 수 없습니다. 첫 번째 채널의 인덱스는 0입니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

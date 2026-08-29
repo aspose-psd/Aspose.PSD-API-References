@@ -1,11 +1,12 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: .NET API 참조용 Aspose.PSD
-description: AdjustPalette 건설자. 기본 생성자입니다.
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AdjustPalette 생성자. 기본 생성자"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
 기본 생성자입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 public AdjustPalette()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AdjustPalette](../)
-* 네임스페이스 [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

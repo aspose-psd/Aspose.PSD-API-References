@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegOptions 재산. 각 구성 요소에 대한 수평 서브샘플링을 가져오거나 설정합니다.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegOptions 속성. 각 구성 요소에 대한 수평 서브샘플링을 가져오거나 설정합니다"
 type: docs
-weight: 80
+weight: 90
 url: /ko/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
 각 구성 요소에 대한 수평 서브샘플링을 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 public byte[] HorizontalSampling { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

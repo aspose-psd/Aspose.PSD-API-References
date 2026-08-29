@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 방법. 지정된 순서로 이 매트릭스에 지정된 지점을 기준으로 시계 방향 회전을 적용합니다.
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 메서드. 지정된 순서대로 지정된 점을 중심으로 이 Matrix에 시계 방향 회전을 적용합니다."
 type: docs
 weight: 150
 url: /ko/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-지정된 순서로 이 매트릭스에 지정된 지점을 기준으로 시계 방향 회전을 적용합니다.
+이 Matrix에 대해 지정된 순서로 지정된 점을 중심으로 시계 방향으로 회전시킵니다.
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 각도. |
-| point | PointF | 요점. |
+| 각도 | 단일 | 각도입니다. |
+| 포인트 | PointF | 포인트입니다. |
 | order | MatrixOrder | 순서. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-기본(앞에 추가) 순서로 이 매트릭스에 지정된 지점을 기준으로 시계 방향 회전을 적용합니다.
+이 Matrix에 대해 기본 (Prepend) 순서로 지정된 점을 중심으로 시계 방향으로 회전시킵니다.
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| angle | Single | 각도. |
-| point | PointF | 요점. |
+| 각도 | 단일 | 각도입니다. |
+| 포인트 | PointF | 포인트입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

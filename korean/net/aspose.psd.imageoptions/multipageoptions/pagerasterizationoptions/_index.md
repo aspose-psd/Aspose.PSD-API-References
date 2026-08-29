@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: MultiPageOptions 재산. 페이지 래스터화 옵션을 가져오거나 설정합니다.
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "MultiPageOptions 속성. 페이지 래스터화 옵션을 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
 페이지 래스터화 옵션을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 페이지 래스터화 옵션입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

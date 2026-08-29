@@ -1,14 +1,15 @@
 ---
-title: Color.GetHue
-second_title: .NET API 참조용 Aspose.PSD
-description: Color 방법. 이에 대한 HSBhuesaturationbrightness 색조 값을 도 단위로 가져옵니다.Color구조.
+title: "Color.GetHue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Color 메서드. 이 Color 구조체에 대한 색조·채도·명도(HSB) 색조 값을 도 단위로 가져옵니다."
 type: docs
 weight: 1570
 url: /ko/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-이에 대한 HSB(hue-saturation-brightness) 색조 값을 도 단위로 가져옵니다.[`Color`](../)구조.
+이 [`Color`](../) 구조체에 대한 색조·채도·명도(HSB) 색조 값을 도 단위로 가져옵니다.
 
 ```csharp
 public float GetHue()
@@ -16,12 +17,12 @@ public float GetHue()
 
 ### 반환 값
 
-이것의 색조(도 단위)[`Color`](../). 색조는 HSB 색 공간에서 0.0에서 360.0 사이의 각도로 측정됩니다.
+이 [`Color`](../)의 색조(도 단위)입니다. 색조는 HSB 색공간에서 0.0부터 360.0까지의 도 단위로 측정됩니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../)
-* 네임스페이스 [Aspose.PSD](../../color/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

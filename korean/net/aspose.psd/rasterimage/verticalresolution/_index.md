@@ -1,31 +1,32 @@
 ---
-title: RasterImage.VerticalResolution
-second_title: .NET API 참조용 Aspose.PSD
-description: RasterImage 재산. 수직 해상도인치당 픽셀 수를 가져오거나 설정합니다.RasterImage .
+title: "RasterImage.VerticalResolution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RasterImage 속성. 이 RasterImage의 인치당 픽셀 수로 세로 해상도를 가져오거나 설정합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.psd/rasterimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.VerticalResolution property
 
-수직 해상도(인치당 픽셀 수)를 가져오거나 설정합니다.[`RasterImage`](../) .
+이 [`RasterImage`](../)의 인치당 픽셀 수로 세로 해상도를 가져오거나 설정합니다.
 
 ```csharp
 public virtual double VerticalResolution { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수직 해상도입니다.
+세로 해상도.
 
-### 비고
+## 비고
 
-플랫폼마다 화면 해상도를 반환할 수 없으므로 기본적으로 이 값은 항상 96입니다. 단일 호출에서 두 해상도 값을 모두 업데이트하기 위해 SetResolution 메서드를 사용하는 것을 고려할 수 있습니다.
+참고: 기본값은 항상 96이며, 다양한 플랫폼이 화면 해상도를 반환할 수 없기 때문입니다. 두 해상도 값을 한 번에 업데이트하려면 SetResolution 메서드 사용을 고려하십시오.
 
-### 또한보십시오
+### 또 보기
 
 * class [RasterImage](../)
-* 네임스페이스 [Aspose.PSD](../../rasterimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

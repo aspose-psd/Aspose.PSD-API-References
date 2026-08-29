@@ -1,14 +1,15 @@
 ---
-title: Class PatternOverlayEffect
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect 수업. 패턴 레이어 effect
+title: "PatternOverlayEffect 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect 클래스. 패턴 레이어 효과"
 type: docs
-weight: 2180
+weight: 2380
 url: /ko/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-패턴 레이어 effect
+패턴 레이어 효과
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -18,15 +19,21 @@ public class PatternOverlayEffect : ILayerEffect
 
 | 이름 | 설명 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | 혼합 모드를 가져오거나 설정합니다. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | 효과 유형 가져오기 type |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | 블렌드 모드를 가져오거나 설정합니다. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | 효과 유형의 타입을 가져옵니다. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | 이 인스턴스가 표시되는지 여부를 나타내는 값을 가져오거나 설정합니다. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | 불투명도를 가져오거나 설정합니다. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | 설정을 가져오거나 설정합니다. |
 
-### 예
+## 메서드
 
-다음 코드는 패턴 오버레이 효과의 지원을 보여줍니다.
+| 이름 | 설명 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | 입력 레이어 픽셀 경계를 기반으로 효과 픽셀의 경계를 계산하고 가져옵니다. |
+
+## 예제
+
+다음 코드는 패턴 오버레이 효과 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // 테스트 편집
+    // 편집 테스트
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -149,10 +156,10 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ILayerEffect](../ilayereffect/)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

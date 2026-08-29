@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsMagentaGreenBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: BlncResource 재산. Shadows Magenta Green Balance. 를 가져오거나 설정합니다.
+title: "BlncResource.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlncResource 속성. Shadows Magenta Green Balance를 가져오거나 설정합니다"
 type: docs
-weight: 130
+weight: 110
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsMagentaGreenBalance property
 
-Shadows Magenta Green Balance. 를 가져오거나 설정합니다.
+Shadows Magenta Green Balance를 가져오거나 설정합니다.
 
 ```csharp
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-섀도우 마젠타 그린 밸런스.
+Shadows Magenta Green Balance.
 
-### 또한보십시오
+### 또 보기
 
 * class [BlncResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

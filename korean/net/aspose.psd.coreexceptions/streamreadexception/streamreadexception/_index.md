@@ -1,94 +1,95 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: .NET API 참조용 Aspose.PSD
-description: StreamReadException 건설자. 의 새 인스턴스를 초기화합니다.StreamReadException 클래스.
+title: "StreamReadException.StreamReadException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StreamReadException 생성자. StreamReadException 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.coreexceptions/streamreadexception/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException(string) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`StreamReadException`](../) 클래스.
+[`StreamReadException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamReadException(string message)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 메시지. |
+| 메시지 | String | 메시지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamReadException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`StreamReadException`](../) 클래스.
+[`StreamReadException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamReadException(string message, Exception innerException)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 메시지. |
+| 메시지 | String | 메시지입니다. |
 | innerException | Exception | 내부 예외. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamReadException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception, int, int) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`StreamReadException`](../) 클래스.
+[`StreamReadException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamReadException(string message, Exception innerException, int expectedReadCount, 
     int actualReadCount)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 메시지. |
+| 메시지 | String | 메시지입니다. |
 | innerException | Exception | 내부 예외. |
-| expectedReadCount | Int32 | 예상 읽기 수입니다. |
-| actualReadCount | Int32 | 실제 읽기 수입니다. |
+| expectedReadCount | Int32 | 예상 읽기 횟수입니다. |
+| actualReadCount | Int32 | 실제 읽기 횟수입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamReadException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, int, int) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`StreamReadException`](../) 클래스.
+[`StreamReadException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public StreamReadException(string message, int expectedReadCount, int actualReadCount)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 메시지. |
-| expectedReadCount | Int32 | 예상 읽기 수입니다. |
-| actualReadCount | Int32 | 실제 읽기 수입니다. |
+| 메시지 | String | 메시지입니다. |
+| expectedReadCount | Int32 | 예상 읽기 횟수입니다. |
+| actualReadCount | Int32 | 실제 읽기 횟수입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamReadException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

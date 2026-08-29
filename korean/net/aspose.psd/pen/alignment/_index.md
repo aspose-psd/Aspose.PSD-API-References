@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 이에 대한 정렬을 가져오거나 설정합니다.Pen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 이 Pen의 정렬을 가져오거나 설정합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-이에 대한 정렬을 가져오거나 설정합니다.[`Pen`](../) .
+이 [`Pen`](../)의 정렬을 가져오거나 설정합니다.
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`PenAlignment`](../../penalignment/) 이것에 대한 정렬을 나타내는[`Pen`](../).
+이 [`Pen`](../)에 대한 정렬을 나타내는 [`PenAlignment`](../../penalignment/)입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 그만큼`Alignment` 속성이 변경 불가능으로 설정됨[`Pen`](../) , 예를 들어[`Pen`](../) 수업. |
+| ArgumentException | `Alignment` 속성은 불변 [`Pen`](../)에 설정됩니다. 예를 들어 [`Pen`](../) 클래스에서 반환되는 객체와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

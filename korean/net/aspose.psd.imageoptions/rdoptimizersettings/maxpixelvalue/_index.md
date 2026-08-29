@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: .NET API 참조용 Aspose.PSD
-description: RdOptimizerSettings 재산. 최대 픽셀 값을 가져옵니다.
+title: "RdOptimizerSettings.MaxPixelValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RdOptimizerSettings 속성. 최대 픽셀 값을 가져옵니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxPixelValue property
 
 최대 픽셀 값을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 public int MaxPixelValue { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-최대 최대 픽셀 값입니다.
+최대 최대 픽셀 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [RdOptimizerSettings](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

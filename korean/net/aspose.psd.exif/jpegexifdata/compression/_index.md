@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Compression
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 압축을 가져오거나 설정합니다.
+title: "JpegExifData.Compression"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 압축을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
 압축을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.exif/jpegexifdata/compression/
 public ushort Compression { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 압축.
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

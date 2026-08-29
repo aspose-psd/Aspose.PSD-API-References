@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.TransferFunction
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. 전달 함수를 가져오거나 설정합니다.
+title: "JpegExifData.TransferFunction"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. 전송 함수를 가져오거나 설정합니다"
 type: docs
 weight: 210
 url: /ko/net/aspose.psd.exif/jpegexifdata/transferfunction/
 ---
+{{< psd/tize >}}
 ## JpegExifData.TransferFunction property
 
-전달 함수를 가져오거나 설정합니다.
+전송 함수를 가져오거나 설정합니다.
 
 ```csharp
 public ushort[] TransferFunction { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-전달 함수.
+전송 함수.
 
-### 또한보십시오
+### 또 보기
 
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Save
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorRangeHsl 방법. 지정된 스트림 컨테이너에 데이터를 저장합니다.
+title: "ColorRangeHsl.Save"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorRangeHsl 메서드. 지정된 스트림 컨테이너에 데이터를 저장합니다."
 type: docs
 weight: 120
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Save method
 
 지정된 스트림 컨테이너에 데이터를 저장합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save
 public void Save(StreamContainer streamContainer)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 스트림 컨테이너. |
+| streamContainer | StreamContainer | 스트림 컨테이너입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ColorRangeHsl](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: .NET API 참조용 Aspose.PSD
-description: ResolutionSetting 재산. 가로 해상도를 가져오거나 설정합니다.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResolutionSetting 속성. 수평 해상도를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
-가로 해상도를 가져오거나 설정합니다.
+수평 해상도를 가져오거나 설정합니다.
 
 ```csharp
 public double HorizontalResolution { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ResolutionSetting](../)
-* 네임스페이스 [Aspose.PSD](../../resolutionsetting/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

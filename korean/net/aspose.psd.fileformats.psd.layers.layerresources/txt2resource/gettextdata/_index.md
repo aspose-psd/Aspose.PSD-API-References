@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.GetTextData
-second_title: .NET API 참조용 Aspose.PSD
-description: Txt2Resource 방법. 리소스 데이터에서 텍스트 레코드를 가져옵니다.
+title: "Txt2Resource.GetTextData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Txt2Resource 메서드. 리소스 데이터에서 텍스트 레코드를 가져옵니다"
 type: docs
-weight: 80
+weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.GetTextData method
 
 리소스 데이터에서 텍스트 레코드를 가져옵니다.
@@ -16,12 +17,12 @@ public string[] GetTextData()
 
 ### 반환 값
 
-텍스트 레코드의 배열
+텍스트 레코드 배열
 
-### 또한보십시오
+### 또 보기
 
 * class [Txt2Resource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

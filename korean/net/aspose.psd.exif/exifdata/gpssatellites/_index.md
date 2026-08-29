@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSatellites
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 측정에 사용되는 GPS 위성을 가져오거나 설정합니다.
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 측정을 위해 사용되는 GPS 위성을 가져오거나 설정합니다."
 type: docs
 weight: 590
 url: /ko/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
-측정에 사용되는 GPS 위성을 가져오거나 설정합니다.
+측정을 위해 사용되는 GPS 위성을 가져오거나 설정합니다.
 
 ```csharp
 public string GPSSatellites { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-측정에 사용되는 GPS 위성입니다.
+측정을 위해 사용되는 GPS 위성.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

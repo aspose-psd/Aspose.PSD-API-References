@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Reverse
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientFillSettings 재산. 이 여부를 나타내는 값을 가져오거나 설정합니다.GradientFillSettings 반대입니다.
+title: "GradientFillSettings.Reverse"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientFillSettings 속성. 이 GradientFillSettings가 역방향인지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
-weight: 110
+weight: 100
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/reverse/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Reverse property
 
-이 여부를 나타내는 값을 가져오거나 설정합니다.[`GradientFillSettings`](../) 반대입니다.
+이 [`GradientFillSettings`](../)가 역방향인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 반대라면; 그렇지 않으면,`거짓` .
+`true`이면 역방향; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientFillSettings](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

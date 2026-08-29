@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: AiRasterImageSection 재산. 이미지 사각형을 가져옵니다.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiRasterImageSection 속성. 이미지 사각형을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 이미지 사각형을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 public Rectangle ImageRectangle { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이미지 사각형입니다.
+이미지 사각형.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

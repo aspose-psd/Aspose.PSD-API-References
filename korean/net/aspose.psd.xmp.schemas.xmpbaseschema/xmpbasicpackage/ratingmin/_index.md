@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpBasicPackage 필드. 등급 최소값.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpBasicPackage 필드. 최소 평점 값"
 type: docs
-weight: 110
+weight: 140
 url: /ko/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-등급 최소값.
+평점 최소값.
 
 ```csharp
 public const int RatingMin;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpBasicPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

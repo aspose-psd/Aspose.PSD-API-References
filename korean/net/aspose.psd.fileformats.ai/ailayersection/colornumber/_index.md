@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: .NET API 참조용 Aspose.PSD
-description: AiLayerSection 재산. 색상 번호를 가져오거나 설정합니다. 1은 Red Green Blue 속성의 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiLayerSection 속성. 색상 번호를 가져오거나 설정합니다. 1은 빨강, 초록, 파랑 속성에서 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다"
 type: docs
-weight: 20
+weight: 30
 url: /ko/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-색상 번호를 가져오거나 설정합니다. -1은 Red, Green, Blue 속성의 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다.
+색상 번호를 가져오거나 설정합니다. -1은 빨강, 초록, 파랑 속성에서 가져온 사용자 정의 색상 값입니다. 레이어의 색상 설정을 지정합니다.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-색상 번호입니다.
+색상 번호.
 
-### 예
+## 예제
 
-다음 예제는 AI 형식 파일의 레이어 지원을 보여줍니다.
+다음 예제는 AI 형식 파일에서 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiLayerSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

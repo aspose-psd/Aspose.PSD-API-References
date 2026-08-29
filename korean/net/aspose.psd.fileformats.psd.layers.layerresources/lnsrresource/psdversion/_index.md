@@ -1,23 +1,24 @@
 ---
-title: LnsrResource.PsdVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: LnsrResource 재산. psd 버전을 가져옵니다.
+title: "LnsrResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LnsrResource 속성. psd 버전을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LnsrResource.PsdVersion property
 
-psd 버전을 가져옵니다.
+PSD 버전을 가져옵니다.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LnsrResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

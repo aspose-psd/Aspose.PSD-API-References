@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 재산. 가져오기PixelDataFormat 시안 마젠타 노랑 및 검정 각각에 대해 8비트로 픽셀당 32비트로 정의됩니다.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 속성. 32비트당 픽셀에 대해 시안, 마젠타, 옐로우 및 블랙 각각 8비트로 정의된 PixelDataFormat을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-가져오기[`PixelDataFormat`](../) 시안, 마젠타, 노랑 및 검정 각각에 대해 8비트로 픽셀당 32비트로 정의됩니다.
+32비트당 픽셀에 대해 시안, 마젠타, 옐로우 및 블랙 각각 8비트로 정의된 [`PixelDataFormat`](../)을 가져옵니다.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-[`PixelDataFormat`](../) 시안, 마젠타, 노랑 및 검정 각각에 대해 8비트로 픽셀당 32비트로 정의됩니다.
+32비트당 픽셀에 대해 시안, 마젠타, 옐로우 및 블랙 각각 8비트로 정의된 [`PixelDataFormat`](../)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

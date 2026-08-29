@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.L
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorantLab 재산. L 구성 요소를 가져오거나 설정합니다.
+title: "ColorantLab.L"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorantLab 속성. L 구성 요소를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp.types.complex.colorant/colorantlab/l/
 ---
+{{< psd/tize >}}
 ## ColorantLab.L property
 
 L 구성 요소를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ L 구성 요소를 가져오거나 설정합니다.
 public float L { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-L 구성요소.
+L 구성 요소.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorantLab](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

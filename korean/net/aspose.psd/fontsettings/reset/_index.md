@@ -1,11 +1,12 @@
 ---
-title: FontSettings.Reset
-second_title: .NET API 참조용 Aspose.PSD
-description: FontSettings 방법. 글꼴 폴더와 기본 글꼴 이름을 시스템 기본값으로 재설정합니다.
+title: "FontSettings.Reset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FontSettings 메서드. 폰트 폴더와 기본 폰트 이름을 시스템 기본값으로 재설정합니다."
 type: docs
-weight: 90
+weight: 110
 url: /ko/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
 글꼴 폴더와 기본 글꼴 이름을 시스템 기본값으로 재설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/fontsettings/reset/
 public static void Reset()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [FontSettings](../)
-* 네임스페이스 [Aspose.PSD](../../fontsettings/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Enum SampleRoundingMode
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode 열거형. n비트 값이 8비트 값으로 변환되는 방식을 정의합니다.
+title: "열거형 SampleRoundingMode"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode 열거형. n비트 값을 8비트 값으로 변환하는 방식을 정의합니다."
 type: docs
-weight: 1530
+weight: 1540
 url: /ko/net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## SampleRoundingMode enumeration
 
-n비트 값이 8비트 값으로 변환되는 방식을 정의합니다.
+n비트 값을 8비트 값으로 변환하는 방법을 정의합니다.
 
 ```csharp
 public enum SampleRoundingMode
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Extrapolate | `0` | 8비트 값을 외삽하여 n비트에 맞춥니다. 여기서 1 &lt; n &lt; 8. 가능한 모든 8비트 값의 수는 1 &lt;&lt; 8 = 256, 0에서 255까지입니다. n비트 값은 1 &lt;&lt; n, 0에서 (1 &lt;&lt; n) - 1. 일부 8비트 값 V8에 해당하는 가장 합리적인 n비트 값 Vn은 Vn = V8 &gt;&gt; (8 - N). |
-| Truncate | `1` | 8비트 값을 잘라 n비트에 맞춥니다. 여기서 1 &lt; n &lt; 8. 가능한 모든 n비트 값의 수는 0에서 (1 &lt;&lt; n) - 1. 까지 1 &lt;&lt; n입니다. 일부 8비트 값 V8에 해당하는 가장 합리적인 n비트 값 Vn은 Vn = V8 &amp; ((1 &lt;&lt; n) - 1). |
+| Extrapolate | `0` | 1 < n < 8인 경우 8비트 값을 n비트에 맞게 외삽합니다. 가능한 모든 8비트 값의 수는 1 << 8 = 256이며, 0부터 255까지입니다. 가능한 모든 n비트 값의 수는 1 << n이며, 0부터 (1 << n) - 1까지입니다. 일부 8비트 값 V8에 해당하는 가장 합리적인 n비트 값 Vn은 Vn = V8 >> (8 - n)와 같습니다. |
+| Truncate | `1` | 1 < n < 8인 경우 8비트 값을 n비트에 맞게 잘라냅니다. 가능한 모든 n비트 값의 수는 1 << n이며, 0부터 (1 << n) - 1까지입니다. 일부 8비트 값 V8에 해당하는 가장 합리적인 n비트 값 Vn은 Vn = V8 & ((1 << n) - 1)와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: .NET API 참조용 Aspose.PSD
-description: SizeF 재산. 의 새 인스턴스를 가져옵니다.SizeF 가지고 있는 구조Width 그리고Height 0으로 설정된 값.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "SizeF 속성. Width와 Height 값이 0으로 설정된 새로운 SizeF 구조체 인스턴스를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-의 새 인스턴스를 가져옵니다.[`SizeF`](../) 가지고 있는 구조[`Width`](../width/) 그리고[`Height`](../height/) 0으로 설정된 값.
+`[`SizeF`](../)` 구조체의 새 인스턴스를 가져오며, 이 인스턴스는 [`Width`](../width/)와 [`Height`](../height/) 값이 0으로 설정됩니다.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../)
-* 네임스페이스 [Aspose.PSD](../../sizef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

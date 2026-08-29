@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceBlock 필드. ImageReady. 의 리소스 서명
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceBlock 필드. ImageReady의 리소스 서명"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-ImageReady. 의 리소스 서명
+ImageReady의 리소스 서명.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### 예
+## 예제
 
-다음 코드 예제는 MeSa 서명이 있는 리소스로 PSD 파일을 수정하고 저장하는 기능을 보여줍니다.
+다음 코드 예제는 MeSa 서명을 가진 리소스를 포함한 PSD 파일을 올바르게 로드하고 저장하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceBlock](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

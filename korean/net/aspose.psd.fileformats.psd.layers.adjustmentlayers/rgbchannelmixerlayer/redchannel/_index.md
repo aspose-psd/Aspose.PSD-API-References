@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.RedChannel
-second_title: .NET API 참조용 Aspose.PSD
-description: RgbChannelMixerLayer 재산. 빨간색 채널을 가져옵니다.
+title: "RgbChannelMixerLayer.RedChannel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RgbChannelMixerLayer 속성. 빨간색 채널을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/redchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.RedChannel property
 
-빨간색 채널을 가져옵니다.
+빨간 채널을 가져옵니다.
 
 ```csharp
 public RgbMixerChannel RedChannel { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-빨간색 채널입니다.
+빨간색 채널.
 
-### 또한보십시오
+### 또 보기
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

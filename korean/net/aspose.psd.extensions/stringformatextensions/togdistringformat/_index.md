@@ -1,32 +1,33 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: .NET API 참조용 Aspose.PSD
-description: StringFormatExtensions 방법. 변환StringFormat 로StringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StringFormatExtensions 메서드. StringFormat을 StringFormat으로 변환합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-변환[`StringFormat`](../../../aspose.psd/stringformat/) ~로StringFormat .
+[`StringFormat`](../../../aspose.psd/stringformat/)을 StringFormat으로 변환합니다.
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| stringFormat | StringFormat | 그만큼[`StringFormat`](../../../aspose.psd/stringformat/) 변환하다. |
+| stringFormat | StringFormat | 변환할 [`StringFormat`](../../../aspose.psd/stringformat/). |
 
 ### 반환 값
 
-개종자StringFormat.
+변환된 StringFormat.
 
-### 또한보십시오
+### 또 보기
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../stringformatextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

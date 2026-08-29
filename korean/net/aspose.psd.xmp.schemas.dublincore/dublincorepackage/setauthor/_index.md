@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: .NET API 참조용 Aspose.PSD
-description: DublinCorePackage 방법. 작성자를 추가합니다.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "DublinCorePackage 메서드. 저자를 추가합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 작성자를 추가합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 public void SetAuthor(string author)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| author | String | 저자. |
+| 저자 | String | 저자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetAuthor(string author)
 public void SetAuthor(string[] author)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| author | String[] | 저자. |
+| 저자 | String[] | 저자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [DublinCorePackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

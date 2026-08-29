@@ -1,11 +1,12 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: .NET API 참조용 Aspose.PSD
-description: VstkResource 재산. 스트로크 스타일 버전을 가져오거나 설정합니다.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VstkResource 속성. 스트로크 스타일 버전을 가져오거나 설정합니다"
 type: docs
-weight: 220
+weight: 200
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
 스트로크 스타일 버전을 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public int StrokeStyleVersion { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VstkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

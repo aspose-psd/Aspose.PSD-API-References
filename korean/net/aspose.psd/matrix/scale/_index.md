@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: .NET API 참조용 Aspose.PSD
-description: Matrix 방법. 지정된 배율 벡터scaleX 및 scaleY를 여기에 적용합니다.Matrix 지정된 order. 사용
+title: "Matrix.Scale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Matrix 메서드. 지정된 순서를 사용하여 이 Matrix에 지정된 스케일 벡터 scaleX와 scaleY를 적용합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-지정된 배율 벡터(scaleX 및 scaleY)를 여기에 적용합니다.[`Matrix`](../) 지정된 order. 사용
+지정된 순서를 사용하여 이 [`Matrix`](../)에 지정된 스케일 벡터 (scaleX와 scaleY)를 적용합니다.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| scaleX | Single | 스케일 X. |
-| scaleY | Single | 스케일 Y. |
+| scaleX | 단일 | 해당 scale X. |
+| scaleY | 단일 | 해당 scale Y. |
 | order | MatrixOrder | 순서. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-지정된 배율 벡터(scaleX 및 scaleY)를 (기본값) Prepend order. 를 사용하여 이 매트릭스에 적용합니다.
+이 Matrix에 (기본) Prepend 순서를 사용하여 지정된 스케일 벡터(scaleX 및 scaleY)를 적용합니다.
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| sx | Single | 섹스. 섹스. 섹스. |
-| sy | Single | 사이. 사이. 사이. |
+| sx | 단일 | 해당 sx. 해당 sx. 해당 sx. |
+| sy | 단일 | 해당 sy. 해당 sy. 해당 sy. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Matrix](../)
-* 네임스페이스 [Aspose.PSD](../../matrix/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

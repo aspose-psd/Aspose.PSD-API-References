@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator 수업. PSD 레이어용 해시 계산기. 다른 PSD 파일에서 같거나 다른 레이어를 찾는 데 사용할 수 있습니다
+title: "클래스 LayerHashCalculator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator 클래스. PSD 레이어용 해시 계산기. 서로 다른 PSD 파일에서 동일하거나 다른 레이어를 찾는 데 사용할 수 있습니다."
 type: docs
-weight: 2230
+weight: 2430
 url: /ko/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-PSD 레이어용 해시 계산기. 다른 PSD 파일에서 같거나 다른 레이어를 찾는 데 사용할 수 있습니다
+PSD 레이어용 해시 계산기. 서로 다른 PSD 파일에서 동일하거나 다른 레이어를 찾는 데 사용할 수 있습니다.
 
 ```csharp
 public class LayerHashCalculator
@@ -18,29 +19,29 @@ public class LayerHashCalculator
 
 | 이름 | 설명 |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | 의 새 인스턴스를 초기화합니다.`LayerHashCalculator` 클래스. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | `LayerHashCalculator` 클래스의 새 인스턴스를 초기화합니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | 혼합 해시를 가져옵니다. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | 블렌딩 해시를 가져옵니다. |
 | [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | 채널 해시를 가져옵니다. |
 | [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | 콘텐츠 해시를 가져옵니다. |
 
-### 예
+## 예제
 
-다음 코드는 다른 파일에서 유사한 레이어에 대한 고유 해시를 가져오는 API를 보여줍니다.
+다음 코드는 서로 다른 파일에서 유사한 레이어에 대한 고유 해시를 가져오는 API를 보여줍니다.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// 레이어 이름을 가져옵니다.
+/// 레이어의 이름을 가져옵니다.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="image">이미지입니다.</param>
-/// <param name="name">이름입니다.</param>
+/// <param name="image">이미지.</param>
+/// <param name="name">이름.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,12 +58,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Ares는 같지 않습니다.
+/// 같지 않음을 확인합니다.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">예상.</param>
-/// <param name="actual">실제입니다.</param>
-/// <exception cref="System.Exception">인수는 같지 않아야 합니다.</exception>
+/// <param name="expected">예상값.</param>
+/// <param name="actual">실제값.</param>
+/// <exception cref="System.Exception">인수가 같아서는 안 됩니다</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,12 +73,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// 동등합니다.
+/// 같음을 확인합니다.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">예상.</param>
-/// <param name="actual">실제입니다.</param>
-/// <exception cref="System.Exception">인수는 같아야 합니다.</exception>
+/// <param name="expected">예상값.</param>
+/// <param name="actual">실제값.</param>
+/// <exception cref="System.Exception">인수가 같아야 합니다</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -87,7 +88,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// 레이어 콘텐츠 해시 테스트를 정규화합니다.
+/// 일반 레이어 콘텐츠 해시 테스트.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -109,17 +110,17 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // 이 레이어의 해시는 동일합니다.
+        // 이 레이어들의 해시가 동일합니다.
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // 블렌딩 모드 해시 확인 
+        // 블렌딩 모드 해시를 확인하십시오 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // 그러나 포인터는 다릅니다.
+        // 하지만 포인터는 다릅니다.
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,7 +128,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 레이어 콘텐츠 해시 테스트를 채웁니다.
+/// 채우기 레이어 콘텐츠 해시 테스트.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -162,7 +163,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 개체 레이어 콘텐츠 해시 테스트를 스마트합니다.
+/// 스마트 객체 레이어 콘텐츠 해시 테스트.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // 레이어에 대한 채널 데이터와 Smart Object의 Createad가 동일합니다.
+        // 레이어와 그로부터 생성된 스마트 객체의 채널 데이터가 동일합니다.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Smart Object는 다른 데이터를 콘텐츠로 사용하기 때문에 콘텐츠 해시가 다릅니다.
+        // 스마트 객체가 다른 데이터를 콘텐츠로 사용하기 때문에 콘텐츠 해시가 다릅니다.
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // 그러나 혼합 해시는 비슷합니다. 스마트 레이어와 일반 레이어 모두 일반 혼합 모드와 불투명도 255를 가집니다.
+        // 하지만 블렌딩 해시는 유사합니다. 스마트와 일반 레이어 모두 Normal Blend 모드와 불투명도 255를 가집니다.
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // 레이어에 대한 채널 데이터와 Smart Object의 Createad가 동일합니다.
+        // 레이어와 그로부터 생성된 스마트 객체의 채널 데이터가 동일합니다.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Smart Object는 다른 데이터를 콘텐츠로 사용하기 때문에 콘텐츠 해시가 다릅니다.
+        // 스마트 객체가 다른 데이터를 콘텐츠로 사용하기 때문에 콘텐츠 해시가 다릅니다.
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // 그러나 혼합 해시는 비슷합니다. 스마트 레이어와 일반 레이어 모두 일반 혼합 모드와 불투명도 255를 가집니다.
+        // 하지만 블렌딩 해시는 유사합니다. 스마트와 일반 레이어 모두 Normal Blend 모드와 불투명도 255를 가집니다.
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,7 +215,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 레이어 콘텐츠 해시 테스트를 조정합니다.
+/// 조정 레이어 콘텐츠 해시 테스트.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -245,7 +246,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(adjustments[i]);
         }
 
-        // 모든 해시는 달라야 합니다.
+        // 모든 해시는 서로 달라야 합니다.
         for (int i = 0; i < length; i++)
         {
             for (int j = i + 1; j < length; j++)
@@ -258,7 +259,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// 레이어 콘텐츠 해시 테스트에 문자를 보냅니다.
+/// 레이어 콘텐츠 해시 테스트 텍스트.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -302,18 +303,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // 변환 행렬은 해시 계산에 사용되지 않습니다. 추가로 확인해야합니다
+        // 변환 행렬은 해시 계산에 사용되지 않습니다. 추가로 이를 확인해야 합니다.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
         // 이 경우 행렬에 회전이 있습니다.
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // 이 경우 번역만 있습니다(텍스트 레이어가 아래로 이동됨).
+        // 이 경우에는 오직 평행 이동만 있습니다 (아래에 텍스트 레이어가 이동됨).
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// 레이어 콘텐츠 해시 테스트를 그룹화합니다.
+/// 레이어 콘텐츠 해시 테스트 그룹.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -333,14 +334,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // 그룹 레이어 해시는 그 안의 레이어에서 계산됩니다.
+        // 그룹 레이어 해시는 그 안에 있는 레이어들로부터 계산됩니다.
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// 다른 파일 해시 테스트의 레이어 콘텐츠를 정규화합니다.
+/// 서로 다른 파일들의 레이어 콘텐츠 해시 테스트를 정규화합니다.
 /// </summary>
 /// <param name="fileName">파일 이름.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -361,10 +362,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // 레이어는 다른 포인터를 가집니다.
+                // 레이어들은 서로 다른 포인터를 가지고 있습니다.
                 AreNotEqual(layer, layer_copied);
 
-                // 그러나 레이어의 해시는 동일합니다.
+                // 하지만 레이어들의 해시는 동일합니다.
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -375,9 +376,9 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

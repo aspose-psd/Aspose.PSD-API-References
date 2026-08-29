@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.DataSize
-second_title: .NET API 참조용 Aspose.PSD
-description: GlobalAngleResource 재산. 리소스 데이터 크기를 바이트 단위로 가져옵니다.
+title: "GlobalAngleResource.DataSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GlobalAngleResource 속성. 리소스 데이터 크기를 바이트 단위로 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.resources/globalangleresource/datasize/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.DataSize property
 
 리소스 데이터 크기를 바이트 단위로 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/globalangleresource/datasize/
 public override int DataSize { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-리소스 데이터 크기입니다.
+리소스 데이터 크기.
 
-### 또한보십시오
+### 또 보기
 
 * class [GlobalAngleResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

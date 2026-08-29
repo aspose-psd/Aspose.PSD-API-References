@@ -1,28 +1,29 @@
 ---
-title: Enum ColorCompareMethod
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ColorCompareMethod 열거형. 가장 가까운 이웃으로 조정하기 위한 색상 비교 방법
+title: "열거형 ColorCompareMethod"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ColorCompareMethod 열거형. 가장 가까운 이웃에 맞추기 위한 색상 비교 방법"
 type: docs
 weight: 330
 url: /ko/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-가장 가까운 이웃으로 조정하기 위한 색상 비교 방법
+가장 가까운 이웃에 맞추기 위한 색상 비교 방법
 
 ```csharp
 public enum ColorCompareMethod
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Euclidian | `0` | 유클리드 방식 |
+| Euclidian | `0` | 유클리드 방법 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

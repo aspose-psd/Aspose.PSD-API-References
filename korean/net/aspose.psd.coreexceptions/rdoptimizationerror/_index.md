@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.RdOptimizationError 수업. RD 최적화 오류 예외 class
+title: "RdOptimizationError 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError 클래스. RD 최적화 오류 예외 클래스"
 type: docs
 weight: 670
 url: /ko/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-RD 최적화 오류 예외 class
+RD 최적화 오류 예외 클래스
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -18,11 +19,11 @@ public class RdOptimizationError : Exception
 
 | 이름 | 설명 |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | 의 새 인스턴스를 초기화합니다.`RdOptimizationError` 클래스. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | `RdOptimizationError` 클래스의 새 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

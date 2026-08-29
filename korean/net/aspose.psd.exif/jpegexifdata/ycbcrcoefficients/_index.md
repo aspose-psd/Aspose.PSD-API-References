@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.YCbCrCoefficients
-second_title: .NET API 참조용 Aspose.PSD
-description: JpegExifData 재산. RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수를 가져오거나 설정합니다.
+title: "JpegExifData.YCbCrCoefficients"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "JpegExifData 속성. RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수를 가져오거나 설정합니다"
 type: docs
 weight: 230
 url: /ko/net/aspose.psd.exif/jpegexifdata/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrCoefficients property
 
 RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수를 가�
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수입니다.
+RGB에서 YCbCr 이미지 데이터로 변환하기 위한 행렬 계수.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: .NET API 참조용 Aspose.PSD
-description: IAsyncTask 재산. 이 작업이 취소되었는지 여부를 나타내는 값을 가져옵니다.
+title: "IAsyncTask.IsCanceled"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IAsyncTask 속성. 이 작업이 취소되었는지 여부를 나타내는 값을 가져옵니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
 이 작업이 취소되었는지 여부를 나타내는 값을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.asynctask/iasynctask/iscanceled/
 public bool IsCanceled { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 이 작업이 취소된 경우 그렇지 않으면,`거짓` .
+`true` 이 작업이 취소되었을 경우; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IAsyncTask](../)
-* 네임스페이스 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

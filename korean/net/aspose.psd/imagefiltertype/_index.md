@@ -1,11 +1,12 @@
 ---
-title: Enum ImageFilterType
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageFilterType 열거형. 사용할 이미지 필터
+title: "열거형 ImageFilterType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageFilterType 열거형. 사용할 이미지 필터"
 type: docs
-weight: 4640
+weight: 5110
 url: /ko/net/aspose.psd/imagefiltertype/
 ---
+{{< psd/tize >}}
 ## ImageFilterType enumeration
 
 사용할 이미지 필터
@@ -14,17 +15,17 @@ url: /ko/net/aspose.psd/imagefiltertype/
 public enum ImageFilterType
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| None | `0` | 사용된 필터 없음 |
+| None | `0` | 필터가 사용되지 않음 |
 | BigRectangular | `1` | 큰 직사각형 필터 |
 | SmallRectangular | `2` | 작은 직사각형 필터 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

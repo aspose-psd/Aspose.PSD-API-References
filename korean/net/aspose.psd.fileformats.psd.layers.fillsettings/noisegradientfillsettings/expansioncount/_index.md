@@ -1,0 +1,71 @@
+---
+title: "NoiseGradientFillSettings.ExpansionCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NoiseGradientFillSettings property. Expansion count   2 for Photoshop 6.0을(를) 가져오거나 설정합니다."
+type: docs
+weight: 30
+url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/noisegradientfillsettings/expansioncount/
+---
+{{< psd/tize >}}
+## NoiseGradientFillSettings.ExpansionCount property
+
+확장 카운트를 가져오거나 설정합니다 ( = Photoshop 6.0의 경우 2).
+
+```csharp
+public short ExpansionCount { get; set; }
+```
+
+## 예제
+
+다음 코드는 Gradient map 레이어 지원을 보여줍니다.
+
+```csharp
+[C#]
+
+string sourceFile = "gradient_map_src.psd";
+string outputFile = "gradient_map_src_output.psd";
+
+using (PsdImage im = (PsdImage)Image.Load(sourceFile))
+{
+    // Gradient map 조정 레이어를 추가합니다.
+    GradientMapLayer layer = im.AddGradientMapAdjustmentLayer();
+    layer.GradientSettings.Reverse = true;
+    layer.Update();
+
+    im.Save(outputFile);
+}
+
+// 저장된 변경 사항 확인
+using (PsdImage im = (PsdImage)Image.Load(outputFile))
+{
+    GradientMapLayer gradientMapLayer = im.Layers[1] as GradientMapLayer;
+    GradientFillSettings gradientSettings = (GradientFillSettings)gradientMapLayer.GradientSettings;
+
+    AssertAreEqual(90.0, gradientSettings.Angle);
+    AssertAreEqual((short)4096, gradientSettings.Interpolation);
+    AssertAreEqual(true, gradientSettings.Reverse);
+    AssertAreEqual(true, gradientSettings.AlignWithLayer);
+    AssertAreEqual(false, gradientSettings.Dither);
+    AssertAreEqual(GradientType.Linear, gradientSettings.GradientType);
+    AssertAreEqual(100, gradientSettings.Scale);
+    AssertAreEqual(0.0, gradientSettings.HorizontalOffset);
+    AssertAreEqual(0.0, gradientSettings.VerticalOffset);
+    AssertAreEqual("Custom", gradientSettings.GradientName);
+}
+
+void AssertAreEqual(object expected, object actual, string message = null)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception(message ?? "Objects are not equal.");
+    }
+}
+```
+
+### 또 보기
+
+* class [NoiseGradientFillSettings](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
+
+

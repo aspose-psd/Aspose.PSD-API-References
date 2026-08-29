@@ -1,28 +1,29 @@
 ---
-title: Figure.Bounds
-second_title: .NET API 참조용 Aspose.PSD
-description: Figure 재산. 개체의 범위를 가져오거나 설정합니다.
+title: "Figure.Bounds"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Figure 속성. 객체 경계를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
-개체의 범위를 가져오거나 설정합니다.
+객체의 경계를 가져오거나 설정합니다.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-개체의 경계입니다.
+객체의 경계.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* 네임스페이스 [Aspose.PSD](../../figure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

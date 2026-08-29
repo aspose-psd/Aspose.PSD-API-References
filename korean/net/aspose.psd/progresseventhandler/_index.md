@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: .NET API 참조용 Aspose.PSD
-description: 진행 이벤트 핸들러 함수 reference
+title: "델리게이트 ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "진행 이벤트 핸들러 함수 참조"
 type: docs
-weight: 5280
+weight: 5780
 url: /ko/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-진행 이벤트 핸들러 함수 reference
+진행 이벤트 핸들러 함수 참조
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | 진행률 이벤트 처리기 데이터입니다. |
+| 정보 | ProgressEventHandlerInfo | 진행 이벤트 핸들러 데이터. |
 
-### 예
+## 예제
 
-다음 예는 문서 변환 진행이 예외 없이 올바르게 작동함을 보여줍니다.
+다음 예제는 문서 변환 진행 상황이 올바르게 작동하고 예외 없이 수행됨을 보여줍니다.
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

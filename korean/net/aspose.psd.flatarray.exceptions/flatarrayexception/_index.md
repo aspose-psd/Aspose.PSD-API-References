@@ -1,22 +1,23 @@
 ---
-title: Class FlatArrayException
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FlatArray.Exceptions.FlatArrayException 수업. 에 대한 특별 예외FlatArray 클래스.
+title: "클래스 FlatArrayException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FlatArray.Exceptions.FlatArrayException 클래스. FlatArray 클래스에 대한 특수 예외입니다"
 type: docs
-weight: 4270
+weight: 4740
 url: /ko/net/aspose.psd.flatarray.exceptions/flatarrayexception/
 ---
+{{< psd/tize >}}
 ## FlatArrayException class
 
-에 대한 특별 예외FlatArray 클래스.
+FlatArray 클래스에 대한 특수 예외입니다.
 
 ```csharp
 public class FlatArrayException : Exception
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FlatArray.Exceptions](../../aspose.psd.flatarray.exceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FlatArray.Exceptions](../../aspose.psd.flatarray.exceptions/)
+* assembly [Aspose.PSD](../../)
 
 

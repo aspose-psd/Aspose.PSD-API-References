@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: .NET API 참조용 Aspose.PSD
-description: MultiPageOptions 재산. 내보내기 영역을 가져오거나 설정합니다.
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "MultiPageOptions 속성. 내보내기 영역을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
 내보내기 영역을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 public Rectangle ExportArea { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-내보내기 영역입니다.
+내보내기 영역.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: .NET API 참조용 Aspose.PSD
-description: ImageCreateException 건설자. 의 새 인스턴스를 초기화합니다.ImageCreateException 클래스.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ImageCreateException 생성자. ImageCreateException 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`ImageCreateException`](../) 클래스.
+[`ImageCreateException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageCreateException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`ImageCreateException`](../) 클래스.
+[`ImageCreateException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 | innerException | Exception | 내부 예외. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageCreateException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

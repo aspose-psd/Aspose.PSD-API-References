@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: .NET API 참조용 Aspose.PSD
-description: PhotoshopPackage 방법. 기록을 설정합니다.
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhotoshopPackage 메서드. 기록을 설정합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
-기록을 설정합니다.
+히스토리를 설정합니다.
 
 ```csharp
 public void SetHistory(string history)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| history | String | 역사. |
+| history | String | 기록. |
 
-### 또한보십시오
+### 또 보기
 
 * class [PhotoshopPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.BrightnessValue
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 밝기 값을 가져오거나 설정합니다.
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 밝기 값을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
 밝기 값을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.exif/exifdata/brightnessvalue/
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-밝기 값입니다.
+밝기 값.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

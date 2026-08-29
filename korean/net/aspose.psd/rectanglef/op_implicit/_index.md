@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 방법. 지정된Rectangle 에 구조RectangleF구조.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 메서드. 지정된 Rectangle 구조를 RectangleF 구조로 변환합니다"
 type: docs
 weight: 280
 url: /ko/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-지정된[`Rectangle`](../../rectangle/) 에 구조[`RectangleF`](../)구조.
+지정된 [`Rectangle`](../../rectangle/) 구조를 [`RectangleF`](../) 구조로 변환합니다.
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rect | Rectangle | 그만큼[`Rectangle`](../../rectangle/) 변환하는 구조. |
+| rect | Rectangle | 변환할 [`Rectangle`](../../rectangle/) 구조. |
 
 ### 반환 값
 
-그만큼[`RectangleF`](../) 지정된 형식에서 변환되는 구조체[`Rectangle`](../../rectangle/) 구조.
+지정된 [`Rectangle`](../../rectangle/) 구조에서 변환된 [`RectangleF`](../) 구조.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LineSegment.StartPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: LineSegment 재산. 시작점을 가져옵니다.
+title: "LineSegment.StartPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LineSegment 속성. 시작점을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.shapesegments/linesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.StartPoint property
 
 시작점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapesegments/linesegment/startpoint/
 public override PointF StartPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-출발점.
+시작점.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* 네임스페이스 [Aspose.PSD.ShapeSegments](../../linesegment/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

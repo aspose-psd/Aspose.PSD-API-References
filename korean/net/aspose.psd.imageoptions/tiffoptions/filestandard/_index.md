@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FileStandard
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. TIFF 파일 표준을 가져오거나 설정합니다.
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. TIFF 파일 표준을 가져오거나 설정합니다"
 type: docs
-weight: 150
+weight: 160
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
 TIFF 파일 표준을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ TIFF 파일 표준을 가져오거나 설정합니다.
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 TIFF 파일 표준입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

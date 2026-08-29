@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifGainControl 열거형. exif 이득 제어 enum.
+title: "열거형 ExifGainControl"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl 열거형. exif 게인 제어 열거형"
 type: docs
-weight: 880
+weight: 890
 url: /ko/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif 이득 제어 enum.
+exif 이득 제어 열거형.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| None | `0` | 이득 제어 없음. |
-| LowGainUp | `1` | 낮은 게인 업. |
-| HighGainUp | `2` | 고이득 up. |
+| None | `0` | 게인 제어 없음. |
+| LowGainUp | `1` | 낮은 게인 상승. |
+| HighGainUp | `2` | 높은 게인 상승. |
 | LowGainDown | `3` | 낮은 게인 감소. |
-| HighGainDown | `4` | 하이게인 다운. |
+| HighGainDown | `4` | 높은 이득 감소. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

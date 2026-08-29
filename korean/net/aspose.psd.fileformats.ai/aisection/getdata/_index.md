@@ -1,11 +1,12 @@
 ---
-title: AiSection.GetData
-second_title: .NET API 참조용 Aspose.PSD
-description: AiSection 방법. 문자열 데이터를 가져옵니다.
+title: "AiSection.GetData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiSection method. 문자열 데이터를 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.ai/aisection/getdata/
 ---
+{{< psd/tize >}}
 ## AiSection.GetData method
 
 문자열 데이터를 가져옵니다.
@@ -18,10 +19,10 @@ public string GetData()
 
 섹션의 문자열 데이터
 
-### 또한보십시오
+### 또 보기
 
 * class [AiSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../aisection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

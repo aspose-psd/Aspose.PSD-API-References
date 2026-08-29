@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: .NET API 참조용 Aspose.PSD
-description: CmlsResource 건설자. 의 새 인스턴스를 초기화합니다.CmlsResource 클래스.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CmlsResource 생성자. CmlsResource 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-의 새 인스턴스를 초기화합니다.[`CmlsResource`](../) 클래스.
+[`CmlsResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| data | Byte[] | 리소스의 데이터입니다. |
+| 데이터 | Byte[] | 리소스의 데이터. |
 
-### 또한보십시오
+### 또 보기
 
 * class [CmlsResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

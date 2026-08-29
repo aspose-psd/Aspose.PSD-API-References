@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorBalanceAdjustmentLayer 재산. 중간톤 마젠타색 녹색 균형을 가져오거나 설정합니다.
+title: "ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorBalanceAdjustmentLayer 속성. Midtones Magenta Green Balance를 가져오거나 설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance property
 
-중간톤 마젠타색 녹색 균형을 가져오거나 설정합니다.
+Midtones Magenta Green Balance를 가져오거나 설정합니다.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-미드톤 마젠타 그린 밸런스.
+Midtones Magenta Green Balance.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | ArgumentOutOfRangeException | Midtones Magenta Green Balance는 -100에서 +100 사이여야 합니다. |
 
-### 예
+## 예제
 
 다음 코드는 ColorBalanceAdjustmentLayer에 대한 지원을 보여줍니다.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

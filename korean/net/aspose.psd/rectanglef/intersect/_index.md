@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: .NET API 참조용 Aspose.PSD
-description: RectangleF 방법. 반환RectangleF 두 직사각형의 교차점을 나타내는 구조체입니다. 교차점이 없고 비어 있는 경우RectangleF 반환됩니다.
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "RectangleF 메서드. 두 사각형의 교차 영역을 나타내는 RectangleF 구조를 반환합니다. 교차가 없을 경우 빈 RectangleF가 반환됩니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-반환[`RectangleF`](../) 두 직사각형의 교차점을 나타내는 구조체입니다. 교차점이 없고 비어 있는 경우[`RectangleF`](../) 반환됩니다.
+두 사각형의 교차 영역을 나타내는 [`RectangleF`](../) 구조를 반환합니다. 교차가 없을 경우 빈 [`RectangleF`](../)이 반환됩니다.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| a | RectangleF | 교차할 첫 번째 직사각형. |
-| b | RectangleF | 교차할 두 번째 직사각형. |
+| a | RectangleF | 교차할 첫 번째 사각형입니다. |
+| b | RectangleF | 교차할 두 번째 사각형입니다. |
 
 ### 반환 값
 
-세번째[`RectangleF`](../) 크기가 지정된 두 사각형의 겹친 영역을 나타내는 구조입니다.
+두 지정된 사각형의 겹친 영역을 나타내는 크기를 가진 세 번째 [`RectangleF`](../) 구조입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-이것을 대체합니다.[`RectangleF`](../)자신과 지정된 것이 교차하는 구조[`RectangleF`](../)구조.
+이 [`RectangleF`](../) 구조를 자체와 지정된 [`RectangleF`](../) 구조의 교차 영역으로 교체합니다.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | rect | RectangleF | 교차할 사각형입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../)
-* 네임스페이스 [Aspose.PSD](../../rectanglef/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

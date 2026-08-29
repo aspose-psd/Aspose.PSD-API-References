@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpRightsManagementPackage 방법. 권한 관리로 표시 content
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpRightsManagementPackage 메서드. 권리 관리 콘텐츠로 표시합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-권한 관리로 표시 content
+권리 관리 콘텐츠로 표시합니다.
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| value | Boolean | 로 설정된 경우`진실`이것은 권한 관리 리소스입니다. |
+| 값 | Boolean | `true` 로 설정하면 이것이 권리 관리 리소스임을 나타냅니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpRightsManagementPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: UnknownSmartFilter.Name
-second_title: .NET API 참조용 Aspose.PSD
-description: UnknownSmartFilter 재산. 스마트 필터 이름을 가져옵니다.
+title: "UnknownSmartFilter.Name"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "UnknownSmartFilter 속성. 스마트 필터 이름을 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.Name property
 
 스마트 필터 이름을 가져옵니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/n
 public override string Name { get; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [UnknownSmartFilter](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

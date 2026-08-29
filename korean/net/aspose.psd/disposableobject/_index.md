@@ -1,14 +1,15 @@
 ---
-title: Class DisposableObject
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.DisposableObject 수업. 일회용 개체를 나타냅니다.
+title: "클래스 DisposableObject"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.DisposableObject 클래스. 사용 후 해제 가능한 객체를 나타냅니다."
 type: docs
-weight: 750
+weight: 760
 url: /ko/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-일회용 개체를 나타냅니다.
+Disposable 객체를 나타냅니다.
 
 ```csharp
 public class DisposableObject : IDisposable
@@ -24,17 +25,17 @@ public class DisposableObject : IDisposable
 
 | 이름 | 설명 |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 삭제되었는지 여부를 나타내는 값을 가져옵니다. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 이 인스턴스가 해제되었는지 여부를 나타내는 값을 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 삭제합니다. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 현재 인스턴스를 해제합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

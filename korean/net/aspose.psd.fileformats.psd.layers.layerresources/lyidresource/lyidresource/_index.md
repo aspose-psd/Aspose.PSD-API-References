@@ -1,53 +1,54 @@
 ---
-title: LyidResource.LyidResource
-second_title: .NET API 참조용 Aspose.PSD
-description: LyidResource 건설자. 의 새 인스턴스를 초기화합니다.LyidResource 클래스.
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LyidResource 생성자. LyidResource 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`LyidResource`](../) 클래스.
+[`LyidResource`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LyidResource(int id)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| id | Int32 | 레이어의 식별자입니다. |
+| id | Int32 | 레이어의 식별자. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LyidResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`LyidResource`](../) class. 사용자 지정 또는 알 수 없는 값 사용
+[`LyidResource`](../) 클래스의 새 인스턴스를 초기화합니다. 사용자 지정 또는 알 수 없는 값과 함께
 
 ```csharp
 public LyidResource(byte[] bytes)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| bytes | Byte[] | 바이트. |
+| 바이트 | Byte[] | 바이트. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 잘못된 lyid 리소스 값 |
 
-### 또한보십시오
+### 또 보기
 
 * class [LyidResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.SubFileType
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 이 하위 파일에 포함된 데이터 종류에 대한 일반적인 표시를 가져오거나 설정합니다.
+title: "TiffOptions.SubFileType"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 이 서브파일에 포함된 데이터 종류에 대한 일반적인 표시를 가져오거나 설정합니다"
 type: docs
-weight: 480
+weight: 490
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/subfiletype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SubFileType property
 
-이 하위 파일에 포함된 데이터 종류에 대한 일반적인 표시를 가져오거나 설정합니다.
+이 서브파일에 포함된 데이터 종류에 대한 일반적인 표시를 가져오거나 설정합니다.
 
 ```csharp
 public TiffNewSubFileTypes SubFileType { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 서브파일에 포함된 데이터 종류의 일반적인 표시.
+이 서브파일에 포함된 데이터 종류에 대한 일반적인 표시입니다.
 
-### 또한보십시오
+### 또 보기
 
 * enum [TiffNewSubFileTypes](../../../aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

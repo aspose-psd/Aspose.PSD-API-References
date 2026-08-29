@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: PathGradientBrushBase 재산. 경로 그라데이션의 중심점을 가져오거나 설정합니다.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathGradientBrushBase 속성. 경로 그라디언트의 중심점을 가져오거나 설정합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-경로 그라데이션의 중심점을 가져오거나 설정합니다.
+경로 그라디언트의 중심점을 가져오거나 설정합니다.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`PointF`](../../../aspose.psd/pointf/) 경로 그래디언트의 중심점을 나타냅니다.
+경로 그라디언트의 중심점을 나타내는 [`PointF`](../../../aspose.psd/pointf/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: .NET API 참조용 Aspose.PSD
-description: ExpaResource 재산. 감마를 가져오거나 설정합니다.
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExpaResource 속성. 감마를 가져오거나 설정합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
 감마를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gamma
 public float GammaCorrection { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 감마.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExpaResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

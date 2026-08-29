@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: .NET API 참조용 Aspose.PSD
-description: ComplexTypeBase 재산. 기본 네임스페이스 URI를 가져옵니다.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ComplexTypeBase 속성. 기본 네임스페이스 URI를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
 기본 네임스페이스 URI를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 public string NamespaceUri { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-기본 네임스페이스 URI입니다.
+기본 네임스페이스 URI.
 
-### 또한보십시오
+### 또 보기
 
 * class [ComplexTypeBase](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

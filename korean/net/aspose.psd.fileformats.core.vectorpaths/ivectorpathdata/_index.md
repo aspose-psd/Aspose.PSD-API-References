@@ -1,14 +1,15 @@
 ---
-title: Interface IVectorPathData
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData 상호 작용. 벡터 경로 데이터에 액세스하기 위한 인터페이스입니다.
+title: "인터페이스 IVectorPathData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData 인터페이스. 벡터 경로 데이터에 액세스하기 위한 인터페이스"
 type: docs
-weight: 1350
+weight: 1360
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-벡터 경로 데이터에 액세스하기 위한 인터페이스입니다.
+벡터 경로 데이터에 접근하기 위한 인터페이스입니다.
 
 ```csharp
 public interface IVectorPathData
@@ -24,9 +25,9 @@ public interface IVectorPathData
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | 경로 레코드를 가져오거나 설정합니다. |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | 버전을 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-이 예는 자르기 작업의 올바른 작업을 위해 PsdImage.ImageResources에서 'WorkingPathResource' 리소스의 지원을 보여줍니다.
+이 예제는 Crop 작업이 올바르게 작동하도록 PsdImage.ImageResources에서 'WorkingPathResource' 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -57,7 +58,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// 저장된 이미지를 불러와 변경 사항을 확인합니다.
+// 저장된 이미지를 로드하고 변경 사항을 확인합니다.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // WorkingPathResource 리소스를 검색합니다.
@@ -80,9 +81,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

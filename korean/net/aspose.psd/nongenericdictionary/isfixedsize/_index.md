@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericDictionary 재산. 가IDictionary 개체의 크기가 고정되어 있습니다.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericDictionary 속성. IDictionary 객체가 고정 크기인지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-가IDictionary 개체의 크기가 고정되어 있습니다.
+IDictionary 객체가 고정 크기를 갖는지 여부를 나타내는 값을 가져옵니다.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -16,12 +17,12 @@ public bool IsFixedSize { get; }
 
 ### 반환 값
 
-참인 경우IDictionary 개체의 크기가 고정되어 있습니다. 그렇지 않으면 거짓입니다.
+IDictionary 객체가 고정 크기이면 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericDictionary](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericdictionary/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

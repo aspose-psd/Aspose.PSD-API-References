@@ -1,29 +1,30 @@
 ---
-title: Enum ExifCustomRendered
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered 열거형. exif 사용자 지정 렌더링 enum.
+title: "열거형 ExifCustomRendered"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered 열거형. exif 사용자 정의 렌더링 열거형"
 type: docs
-weight: 820
+weight: 830
 url: /ko/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-exif 사용자 지정 렌더링 enum.
+exif 사용자 정의 렌더링 열거형.
 
 ```csharp
 public enum ExifCustomRendered
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| NormalProcess | `0` | 일반 렌더링 프로세스. |
-| CustomProcess | `1` | 사용자 지정 렌더링 프로세스. |
+| NormalProcess | `0` | 보통 렌더링 프로세스. |
+| CustomProcess | `1` | 사용자 정의 렌더링 프로세스. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

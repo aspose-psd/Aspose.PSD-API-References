@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: .NET API 참조용 Aspose.PSD
-description: LinearGradientBrush 재산. 시작 그라데이션 색상을 가져오거나 설정합니다.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LinearGradientBrush 속성. 시작 그라디언트 색상을 가져오거나 설정합니다."
 type: docs
-weight: 40
+weight: 60
 url: /ko/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-시작 그라데이션 색상을 가져오거나 설정합니다.
+시작 그라디언트 색상을 가져오거나 설정합니다.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-시작 그라데이션 색상입니다.
+시작 그라디언트 색상입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Nominator
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffSRational 재산. 지명자를 가져옵니다.
+title: "TiffSRational.Nominator"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffSRational 속성. 분자를 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.tiff/tiffsrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Nominator property
 
-지명자를 가져옵니다.
+분자를 가져옵니다.
 
 ```csharp
 public int Nominator { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-지명자.
+분자입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffSRational](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

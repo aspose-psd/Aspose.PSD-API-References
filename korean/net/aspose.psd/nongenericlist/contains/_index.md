@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Contains
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 방법. 여부를 결정합니다.IList 특정 값을 포함합니다.
+title: "NonGenericList.Contains"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 메서드. IList에 특정 값이 포함되어 있는지 확인합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd/nongenericlist/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Contains method
 
-여부를 결정합니다.IList 특정 값을 포함합니다.
+IList가 특정 값을 포함하는지 여부를 결정합니다.
 
 ```csharp
 public bool Contains(object value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| value | Object | 그만큼Object에 위치시키다IList. |
+| 값 | Object | IList에서 찾을 객체. |
 
 ### 반환 값
 
-다음의 경우 참Object 에서 발견된다IList ; 그렇지 않으면 false.
+IList에서 객체를 찾으면 true; 그렇지 않으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IText.InsertPortion
-second_title: .NET API 참조용 Aspose.PSD
-description: IText 방법. 삽입ITextPortion 지정된 position 로
+title: "IText.InsertPortion"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IText 메서드. 지정된 위치에 ITextPortion을 삽입합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.fileformats.psd.layers.text/itext/insertportion/
 ---
+{{< psd/tize >}}
 ## IText.InsertPortion method
 
-삽입[`ITextPortion`](../../itextportion/) 지정된 position 로
+지정된 위치에 [`ITextPortion`](../../itextportion/)을 삽입합니다
 
 ```csharp
 public void InsertPortion(ITextPortion portion, int index)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| portion | ITextPortion | 부분. |
-| index | Int32 | 색인. |
+| 부분 | ITextPortion | 그 부분. |
+| index | Int32 | 인덱스. |
 
-### 예
+## 예제
 
-다음 코드 예제는 편집 텍스트 부분과 해당 텍스트 스타일을 보여줍니다.
+다음 코드 예제는 텍스트 부분과 해당 텍스트 스타일 편집을 보여줍니다.
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 모든 부분의 텍스트 확인
+            // 각 부분의 텍스트 확인
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -54,7 +55,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 단락 데이터 확인
-            // 단락마다 정당성이 다릅니다.
+            // 단락마다 정렬 방식이 다릅니다
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -64,7 +65,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 첫 번째와 두 번째 단락의 다른 모든 속성은 동일합니다.
+            // 첫 번째와 두 번째 단락의 다른 모든 속성은 동일합니다
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -88,7 +89,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -104,7 +105,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 스타일 데이터 확인
-            // 스타일은 색상과 글꼴 크기가 다릅니다.
+            // 스타일마다 색상과 글꼴 크기가 다릅니다
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -140,29 +141,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 텍스트 부분 제거 예시
+            // 텍스트 부분 삭제 예제
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 새로운 텍스트 부분을 추가하는 예
+            // 새 텍스트 부분 추가 예제
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 부분에 대한 단락 및 스타일 편집의 예
+            // 부분에 대한 단락 및 스타일 편집 예제
             // 오른쪽 정렬 설정
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 스타일마다 다른 색상. 이 변경되지만 렌더링이 완전히 지원되지는 않습니다.
+            // 각 스타일마다 다른 색상입니다. 변경되지만 렌더링이 완전히 지원되지 않습니다
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 다른 글꼴. 이 변경되지만 렌더링이 완전히 지원되지는 않습니다.
+            // 다른 글꼴입니다. 변경되지만 렌더링이 완전히 지원되지 않습니다
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -177,11 +178,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: .NET API 참조용 Aspose.PSD
-description: PointExtensions 방법. 변환PointF 에 배열PointF 배열.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PointExtensions 메서드. PointF 배열을 PointF 배열로 변환합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-변환[`PointF`](../../../aspose.psd/pointf/) 에 배열PointF 배열.
+`[`PointF`](../../../aspose.psd/pointf/)` 배열을 PointF 배열로 변환합니다.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| points | PointF[] | 그만큼[`PointF`](../../../aspose.psd/pointf/) 변환할 배열. |
+| points | PointF[] | 변환할 `[`PointF`](../../../aspose.psd/pointf/)` 배열. |
 
 ### 반환 값
 
-개종자PointF 정렬.
+변환된 PointF 배열.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* 네임스페이스 [Aspose.PSD.Extensions](../../pointextensions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum ExifContrast
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifContrast 열거형. exif 일반 소프트 하드 enum.
+title: "열거형 ExifContrast"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Exif.Enums.ExifContrast 열거형. exif 정상 부드러운 강한 열거형"
 type: docs
-weight: 810
+weight: 820
 url: /ko/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif 일반 소프트 하드 enum.
+exif 일반 소프트 하드 열거형.
 
 ```csharp
 public enum ExifContrast
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Normal | `0` | 일반 대비. |
+| Normal | `0` | 보통 대비. |
 | Low | `1` | 낮은 대비. |
-| High | `2` | 고대비. |
+| High | `2` | 높은 대비. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

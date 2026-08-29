@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.Rectangle
-second_title: .NET API 참조용 Aspose.PSD
-description: FilterEffectMaskData 재산. 채널 사각형을 가져옵니다.
+title: "FilterEffectMaskData.Rectangle"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FilterEffectMaskData 속성. 채널 사각형을 가져옵니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Rectangle property
 
 채널 사각형을 가져옵니다.
@@ -14,7 +15,7 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public Rectangle Rectangle { get; }
 ```
 
-### 예
+## 예제
 
 이 예제는 FXidResource 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FillOrder
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffOptions 재산. 바이트 비트 채우기 순서를 가져오거나 설정합니다.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffOptions 속성. 바이트 비트 채우기 순서를 가져오거나 설정합니다."
 type: docs
-weight: 160
+weight: 170
 url: /ko/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
 바이트 비트 채우기 순서를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-바이트 비트가 순서를 채웁니다.
+바이트 비트 채우기 순서.
 
-### 또한보십시오
+### 또 보기
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

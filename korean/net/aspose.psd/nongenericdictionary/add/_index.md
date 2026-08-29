@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.Add
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericDictionary 방법. 제공된 키와 값이 있는 요소를 에 추가합니다.IDictionary object.
+title: "NonGenericDictionary.Add"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericDictionary 메서드. 제공된 키와 값으로 요소를 IDictionary 객체에 추가합니다"
 type: docs
 weight: 100
 url: /ko/net/aspose.psd/nongenericdictionary/add/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Add method
 
-제공된 키와 값이 있는 요소를 에 추가합니다.IDictionary object.
+제공된 키와 값을 사용하여 IDictionary 객체에 요소를 추가합니다.
 
 ```csharp
 public void Add(object key, object value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| key | Object | Object 추가할 요소의 키로 사용합니다. |
-| value | Object | Object 추가할 요소의 값으로 사용합니다. |
+| 키 | Object | 추가할 요소의 키로 사용할 객체. |
+| 값 | Object | 추가할 요소의 값으로 사용할 객체. |
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericDictionary](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericdictionary/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

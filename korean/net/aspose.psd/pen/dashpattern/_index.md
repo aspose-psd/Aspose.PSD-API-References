@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 사용자 지정 대시 및 공백의 배열을 가져오거나 설정합니다.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 사용자 정의 대시와 공백 배열을 가져오거나 설정합니다."
 type: docs
 weight: 100
 url: /ko/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-사용자 지정 대시 및 공백의 배열을 가져오거나 설정합니다.
+사용자 정의 대시와 간격의 배열을 가져오거나 설정합니다.
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-점선에서 교대로 대시와 공백의 길이를 지정하는 실수 배열입니다.
+대시선에서 교대로 나타나는 대시와 공백의 길이를 지정하는 실수 배열입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 그만큼`DashPattern` 속성이 변경 불가능으로 설정됨[`Pen`](../) , 예를 들어[`Pen`](../) 수업. |
+| ArgumentException | 불변 [`Pen`](../)에 `DashPattern` 속성이 설정됩니다. 예를 들어 [`Pen`](../) 클래스에서 반환되는 객체와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: .NET API 참조용 Aspose.PSD
-description: TextureBrush 재산. 가져오기Image 이것과 관련된 객체TextureBrush object.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextureBrush 속성. 이 TextureBrush 객체와 연결된 Image 객체를 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-가져오기[`Image`](../../../aspose.psd/image/) 이것과 관련된 객체[`TextureBrush`](../) object.
+이 [`TextureBrush`](../) 객체와 연결된 [`Image`](../../../aspose.psd/image/) 객체를 가져옵니다.
 
 ```csharp
 public Image Image { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-안[`Image`](../../../aspose.psd/image/) 이 이미지를 나타내는 객체[`TextureBrush`](../) 개체가 도형을 채웁니다.
+이 [`TextureBrush`](../) 객체가 도형을 채우는 데 사용하는 이미지를 나타내는 [`Image`](../../../aspose.psd/image/) 객체입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../texturebrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

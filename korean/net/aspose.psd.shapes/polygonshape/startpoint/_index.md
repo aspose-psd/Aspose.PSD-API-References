@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.StartPoint
-second_title: .NET API 참조용 Aspose.PSD
-description: PolygonShape 재산. 시작 모양 점을 가져옵니다.
+title: "PolygonShape.StartPoint"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PolygonShape 속성. 시작 도형 점을 가져옵니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd.shapes/polygonshape/startpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.StartPoint property
 
 시작 모양 점을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/polygonshape/startpoint/
 public virtual PointF StartPoint { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-시작 셰이프 지점입니다.
+시작 도형 점입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../polygonshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

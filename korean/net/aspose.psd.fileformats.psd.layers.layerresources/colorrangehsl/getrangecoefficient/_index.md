@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorRangeHsl 방법. 범위 계수를 가져옵니다.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorRangeHsl 메서드. 범위 계수를 가져옵니다"
 type: docs
 weight: 90
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
 범위 계수를 가져옵니다.
@@ -14,18 +15,18 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getr
 public double GetRangeCoefficient(double hue)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| hue | Double | 색조 값입니다. |
+| 색조 | Double | 색조 값입니다. |
 
 ### 반환 값
 
-포화 범위 계수.
+채도 범위 계수.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorRangeHsl](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

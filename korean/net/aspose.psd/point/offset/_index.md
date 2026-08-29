@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: .NET API 참조용 Aspose.PSD
-description: Point 방법. 번역Point 지정된Point .
+title: "Point.Offset"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Point 메서드. 지정된 Point에 따라 이 Point를 이동시킵니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-번역[`Point`](../) 지정된[`Point`](../) .
+지정된 [`Point`](../)에 따라 이 [`Point`](../)를 이동시킵니다.
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| point | Point | 그만큼[`Point`](../) 이를 상쇄하기 위해 사용[`Point`](../). |
+| point | Point | 이 [`Point`](../)를 오프셋하는 데 사용되는 [`Point`](../). |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../)
-* 네임스페이스 [Aspose.PSD](../../point/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-번역[`Point`](../)지정된 금액만큼.
+지정된 양만큼 이 [`Point`](../)를 이동시킵니다.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| dx | Int32 | x 좌표를 오프셋할 양입니다. |
-| dy | Int32 | y 좌표를 오프셋할 양입니다. |
+| dx | Int32 | x 좌표를 오프셋할 양. |
+| dy | Int32 | y 좌표를 오프셋할 양. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../)
-* 네임스페이스 [Aspose.PSD](../../point/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

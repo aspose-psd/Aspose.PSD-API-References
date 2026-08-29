@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPointUnit
-second_title: .NET API 참조용 Aspose.PSD
-description: IPlacedLayerResource 재산. 수직 메쉬 포인트의 측정 단위를 가져오거나 설정합니다.
+title: "IPlacedLayerResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IPlacedLayerResource 속성. 수직 메시 포인트의 측정 단위를 가져오거나 설정합니다."
 type: docs
 weight: 220
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPointUnit property
 
-수직 메쉬 포인트의 측정 단위를 가져오거나 설정합니다.
+수직 메시 포인트의 측정 단위를 가져오거나 설정합니다.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-수직 메시 포인트의 측정 단위입니다.
+수직 메시 포인트의 측정 단위.
 
-### 또한보십시오
+### 또 보기
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

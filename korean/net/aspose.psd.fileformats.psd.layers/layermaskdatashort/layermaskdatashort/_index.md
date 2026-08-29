@@ -1,23 +1,24 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerMaskDataShort 건설자. 기본 생성자입니다.
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerMaskDataShort 생성자. LayerMaskDataShort 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-기본 생성자입니다.
+`[LayerMaskDataShort](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LayerMaskDataShort()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerMaskDataShort](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

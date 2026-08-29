@@ -1,14 +1,15 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: .NET API 참조용 Aspose.PSD
-description: IImageExporterDescriptor 방법. 새 내보내기 인스턴스를 만듭니다.
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IImageExporterDescriptor 메서드. 새로운 내보내기 인스턴스를 생성합니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-새 내보내기 인스턴스를 만듭니다.
+새 내보내기 인스턴스를 생성합니다.
 
 ```csharp
 public IImageExporter CreateInstance()
@@ -16,13 +17,13 @@ public IImageExporter CreateInstance()
 
 ### 반환 값
 
-새 내보내기 인스턴스.
+새로운 내보내기 인스턴스.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* 네임스페이스 [Aspose.PSD](../../iimageexporterdescriptor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

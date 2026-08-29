@@ -1,23 +1,24 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: .NET API 참조용 Aspose.PSD
-description: ThumbnailResource 방법. 리소스 값의 유효성을 검사합니다.
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ThumbnailResource 메서드. 리소스 값을 검증합니다"
 type: docs
 weight: 150
 url: /ko/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
-리소스 값의 유효성을 검사합니다.
+리소스 값을 검증합니다.
 
 ```csharp
 public override void ValidateValues()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ThumbnailResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

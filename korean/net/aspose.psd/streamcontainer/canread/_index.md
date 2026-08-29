@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.CanRead
-second_title: .NET API 참조용 Aspose.PSD
-description: StreamContainer 재산. 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다.
+title: "StreamContainer.CanRead"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StreamContainer 속성. 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다."
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/streamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanRead property
 
 스트림이 읽기를 지원하는지 여부를 나타내는 값을 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/streamcontainer/canread/
 public virtual bool CanRead { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 스트림이 읽기를 지원하는 경우; 그렇지 않으면,`거짓`.
+스트림이 읽기를 지원하면 `true`; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

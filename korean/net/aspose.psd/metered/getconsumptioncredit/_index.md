@@ -1,14 +1,15 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: .NET API 참조용 Aspose.PSD
-description: Metered 방법. 소비 credit 가져오기
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Metered 메서드. 사용량 크레딧을 가져옵니다."
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-소비 credit 가져오기
+소비 크레딧을 가져옵니다
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -16,12 +17,12 @@ public static decimal GetConsumptionCredit()
 
 ### 반환 값
 
-소비량
+사용량 수량
 
-### 또한보십시오
+### 또 보기
 
 * class [Metered](../)
-* 네임스페이스 [Aspose.PSD](../../metered/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

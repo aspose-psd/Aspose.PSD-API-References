@@ -1,14 +1,15 @@
 ---
-title: Class Frame
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame 수업. 타임 라인 프레임 항목의 옵션입니다.
+title: "클래스 Frame"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Frame 클래스. 타임라인 프레임 항목 옵션"
 type: docs
-weight: 1840
+weight: 1940
 url: /ko/net/aspose.psd.fileformats.psd.layers.animation/frame/
 ---
+{{< psd/tize >}}
 ## Frame class
 
-타임 라인 프레임 항목의 옵션입니다.
+타임라인 프레임 항목 옵션.
 
 ```csharp
 public sealed class Frame
@@ -18,20 +19,20 @@ public sealed class Frame
 
 | 이름 | 설명 |
 | --- | --- |
-| [Frame](frame/)(TimeLine) | 의 새 인스턴스를 초기화합니다.`Frame` 클래스. |
+| [Frame](frame/)() | 기본 생성자입니다. |
 
 ## 속성
 
 | 이름 | 설명 |
 | --- | --- |
-| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | 프레임 지연 값을 센타초 단위로 가져오거나 설정합니다. 예를 들어, 1초에는 100센타초가 포함됩니다. |
+| [Delay](../../aspose.psd.fileformats.psd.layers.animation/frame/delay/) { get; set; } | 프레임 지연 값을 센타초 단위로 가져오거나 설정합니다. 예를 들어, 1초는 100센타초를 포함합니다. |
 | [DisposalMethod](../../aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/) { get; set; } | 프레임의 폐기 방법을 가져오거나 설정합니다. |
 | [Id](../../aspose.psd.fileformats.psd.layers.animation/frame/id/) { get; set; } | 프레임 ID를 가져오거나 설정합니다. |
-| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; } | 프레임의 레이어 상태를 설정합니다. |
+| [LayerStates](../../aspose.psd.fileformats.psd.layers.animation/frame/layerstates/) { get; set; } | 프레임의 레이어 상태를 가져오거나 설정합니다. |
 
-### 예
+## 예제
 
-TimeLine 클래스는 특정 프레임에서 프레임 지연 변경 또는 레이어 상태 편집과 같이 PsdImage의 타임라인을 조작하는 고급 기능을 제공합니다.
+Timeline 클래스는 프레임 지연을 변경하거나 특정 프레임에서 레이어 상태를 편집하는 등 PsdImage의 타임라인을 조작할 수 있는 고수준 기능을 제공합니다.
 
 ```csharp
 [C#]
@@ -41,40 +42,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // 프레임 1의 dispose 방식 변경
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // 프레임 1의 폐기 방법을 변경합니다
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // 프레임 2의 지연 변경
-    timeLine.Frames[1].Delay = 15;
+    // 프레임 2의 지연을 변경합니다
+    timeline.Frames[1].Delay = 15;
 
-    // 프레임 2에서 '레이어 1'의 불투명도 변경
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // 프레임 2에서 'Layer 1'의 불투명도를 변경합니다
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // '레이어 1'을 프레임 3의 왼쪽 아래 모서리로 이동
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // 프레임 3에서 'Layer 1'을 좌하단 모서리로 이동합니다
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // 새 프레임 추가
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // 새 프레임을 추가합니다
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // 프레임 4에서 'Layer 1'의 blendMode 변경
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // 프레임 4에서 'Layer 1'의 blendMode를 변경합니다
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // 변경 사항을 PsdImage 인스턴스에 다시 적용
-    timeLine.ApplyTo(psdImage);
+    // 변경 사항을 PsdImage 인스턴스에 적용합니다
     psdImage.Save(outputPsd);
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

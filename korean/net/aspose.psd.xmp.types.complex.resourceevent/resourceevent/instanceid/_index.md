@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.InstanceId
-second_title: .NET API 참조용 Aspose.PSD
-description: ResourceEvent 재산. xmpMMInstanceId. 의 값을 가져오거나 설정합니다.
+title: "ResourceEvent.InstanceId"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResourceEvent 속성. xmpMMInstanceId 값을 가져오거나 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.InstanceId property
 
-xmpMM:InstanceId. 의 값을 가져오거나 설정합니다.
+xmpMM:InstanceId의 값을 가져오거나 설정합니다.
 
 ```csharp
 public Guid InstanceId { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-xmpMM:InstanceId. 의 값
+xmpMM:InstanceId의 값입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ResourceEvent](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

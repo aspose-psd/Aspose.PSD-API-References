@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffDataType 방법. 추가 태그 데이터를 씁니다.
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffDataType 메서드. 추가 태그 데이터를 기록합니다"
 type: docs
 weight: 130
 url: /ko/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
 추가 태그 데이터를 씁니다.
@@ -14,19 +15,19 @@ url: /ko/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | 데이터 스트림. |
 
 ### 반환 값
 
-기록된 실제 바이트입니다.
+실제로 기록된 바이트 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

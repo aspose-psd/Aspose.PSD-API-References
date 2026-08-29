@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: .NET API 참조용 Aspose.PSD
-description: BlackWhiteAdjustmentLayer 재산. 흑백 사전 설정 종류 값을 가져오거나 설정합니다.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "BlackWhiteAdjustmentLayer 속성. 가져오거나 설정합니다 흑백 프리셋 종류 값"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-흑백 사전 설정 종류 값을 가져오거나 설정합니다.
+흑백 프리셋 종류 값을 가져오거나 설정합니다.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-흑백 사전 설정 종류 값입니다.
+흑백 프리셋 종류 값.
 
-### 예
+## 예제
 
-다음 예는 Aspose.PSD에서 흑백 조정 레이어 속성을 조작하는 방법을 보여줍니다.
+다음 예제는 Aspose.PSD에서 흑백 조정 레이어 속성을 조작하는 방법을 보여줍니다
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

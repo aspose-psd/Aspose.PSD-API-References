@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.VerticalResolution
-second_title: .NET API 참조용 Aspose.PSD
-description: ResolutionSetting 재산. 수직 해상도를 가져오거나 설정합니다.
+title: "ResolutionSetting.VerticalResolution"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResolutionSetting 속성. 수직 해상도를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/resolutionsetting/verticalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.VerticalResolution property
 
 수직 해상도를 가져오거나 설정합니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd/resolutionsetting/verticalresolution/
 public double VerticalResolution { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ResolutionSetting](../)
-* 네임스페이스 [Aspose.PSD](../../resolutionsetting/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

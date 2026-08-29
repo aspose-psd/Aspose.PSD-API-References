@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 검정 흰색 조정 레이어를 추가합니다.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 흑백 조정 레이어를 추가합니다"
 type: docs
-weight: 290
+weight: 300
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-검정 흰색 조정 레이어를 추가합니다.
+흑백 조정 레이어를 추가합니다.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
@@ -16,11 +17,11 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### 반환 값
 
-생성된 검정 흰색 조정 레이어입니다.
+생성된 흑백 조정 레이어.
 
-### 예
+## 예제
 
-다음 예제는 Aspose.PSD에서 런타임 시 흑백 조정 레이어를 추가하는 방법을 보여줍니다.
+다음 예제는 Aspose.PSD에서 런타임에 black white adjustment layer를 추가하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: XmpPackageBaseCollection.Clear
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackageBaseCollection 방법. 모두 지우기XmpPackage 내부 컬렉션.
+title: "XmpPackageBaseCollection.Clear"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackageBaseCollection 메서드. 컬렉션 내 모든 XmpPackage를 정리합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Clear method
 
-모두 지우기[`XmpPackage`](../../xmppackage/) 내부 컬렉션.
+컬렉션 내 모든 [`XmpPackage`](../../xmppackage/)를 정리합니다.
 
 ```csharp
 public void Clear()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackageBaseCollection](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

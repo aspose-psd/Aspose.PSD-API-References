@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: .NET API 참조용 Aspose.PSD
-description: 네임스페이스 DIB 헤더 처리 중입니다.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "네임스페이스 DIB header processing"
 type: docs
-weight: 80
+weight: 90
 url: /ko/net/aspose.psd.evalute/
 ---
-네임스페이스 DIB 헤더 처리 중입니다.
+{{< psd/tize >}}
+네임스페이스는 DIB 헤더 처리를 담당합니다.
 
 ## 클래스
 
-| 수업 | 설명 |
+| 클래스 | 설명 |
 | --- | --- |
 | [EvalException](./evalexception/) | 평가 오류에 대한 사용자 정의 예외 |
 

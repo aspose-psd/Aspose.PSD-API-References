@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: .NET API 참조용 Aspose.PSD
-description: GridAndGuidesResouce 재산. 가이드를 가져오거나 설정합니다.
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GridAndGuidesResouce 속성. 가이드를 가져오거나 설정합니다"
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
 가이드를 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 public GuideResource[] Guides { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-가이드.
+가이드입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

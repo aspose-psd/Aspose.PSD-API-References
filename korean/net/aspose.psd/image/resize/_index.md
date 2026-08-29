@@ -1,50 +1,51 @@
 ---
-title: Image.Resize
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 이미지 크기를 조정합니다.
+title: "Image.Resize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 이미지를 크기 조정합니다."
 type: docs
-weight: 190
+weight: 200
 url: /ko/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-이미지 크기를 조정합니다.
+이미지를 크기 조정합니다.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
 | resizeType | ResizeType | 크기 조정 유형입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-이미지 크기를 조정합니다. 기본값LeftTopToLeftTop사용중입니다.
+이미지를 크기 조정합니다. 기본 NearestNeighbourResample이 사용됩니다.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
 
-### 예
+## 예제
 
-다음 예는 Aspose.PSD에서 얻은 PSD 이미지 및 결과의 크기를 조정하는 방법을 보여줍니다.
+다음 예제는 PSD 이미지를 크기 조정하는 방법과 Aspose.PSD를 통해 얻은 결과를 보여줍니다.
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -61,33 +62,33 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-이미지 크기를 조정합니다.
+이미지를 크기 조정합니다.
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newWidth | Int32 | 새 너비입니다. |
-| newHeight | Int32 | 새 높이입니다. |
-| settings | ImageResizeSettings | 크기 조정 설정입니다. |
+| newWidth | Int32 | 새로운 너비. |
+| newHeight | Int32 | 새로운 높이. |
+| 설정 | ImageResizeSettings | 크기 조정 설정입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

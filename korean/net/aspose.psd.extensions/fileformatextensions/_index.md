@@ -1,28 +1,29 @@
 ---
-title: Class FileFormatExtensions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Extensions.FileFormatExtensions 수업. 포함FileFormat 확장 방법.
+title: "클래스 FileFormatExtensions"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Extensions.FileFormatExtensions 클래스. FileFormat 확장 메서드를 포함합니다"
 type: docs
-weight: 1080
+weight: 1090
 url: /ko/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-포함[`FileFormat`](../../aspose.psd/fileformat/) 확장 방법.
+[`FileFormat`](../../aspose.psd/fileformat/) 확장 메서드를 포함합니다.
 
 ```csharp
 public static class FileFormatExtensions
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | 단일 파일 형식이 정의되었는지 여부를 결정합니다. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | 단일 파일 형식이 정의되어 있는지 확인합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Class Source
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.Source 수업. 소스는 개체 파이프에 대한 모든 관련 정보를 포함하는 데 사용됩니다.
+title: "클래스 Source"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.Source 클래스. 이 소스는 객체 파이프에 대한 모든 관련 정보를 포함하는 데 사용됩니다."
 type: docs
-weight: 5580
+weight: 6080
 url: /ko/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-소스는 개체 파이프에 대한 모든 관련 정보를 포함하는 데 사용됩니다.
+소스는 객체 파이프에 대한 모든 관련 정보를 포함하는 데 사용됩니다.
 
 ```csharp
 public abstract class Source
 ```
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | 스트림 컨테이너를 가져옵니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

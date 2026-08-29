@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.OutputHighlightLevel
-second_title: .NET API 참조용 Aspose.PSD
-description: LevelChannel 재산. 출력 하이라이트 레벨을 가져오거나 설정합니다.
+title: "LevelChannel.OutputHighlightLevel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LevelChannel 속성. 출력 하이라이트 레벨을 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputHighlightLevel property
 
 출력 하이라이트 레벨을 가져오거나 설정합니다.
@@ -14,20 +15,20 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outpu
 public short OutputHighlightLevel { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 출력 하이라이트 레벨.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | Output Highlight Level은 " + (this.OutputShadowLevel + 2) + " ~ 255 범위에서만 설정할 수 있습니다. |
+| ArgumentOutOfRangeException | 출력 하이라이트 레벨은 " + (this.OutputShadowLevel + 2) + " 에서 255까지의 범위에서만 설정할 수 있습니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [LevelChannel](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

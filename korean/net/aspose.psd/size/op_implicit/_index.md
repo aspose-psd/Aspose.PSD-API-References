@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 지정된Size 에게SizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 지정된 Size를 SizeF로 변환합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-지정된[`Size`](../) ~에게[`SizeF`](../../sizef/) .
+지정된 [`Size`](../)을 [`SizeF`](../../sizef/)로 변환합니다.
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size | Size | 그만큼[`Size`](../) 변환하다. |
+| size | Size | 변환할 [`Size`](../). |
 
 ### 반환 값
 
-그만큼[`SizeF`](../../sizef/) 이 연산자가 변환하는 구조체입니다.
+이 연산자가 변환하는 대상인 [`SizeF`](../../sizef/) 구조체.
 
-### 또한보십시오
+### 또 보기
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

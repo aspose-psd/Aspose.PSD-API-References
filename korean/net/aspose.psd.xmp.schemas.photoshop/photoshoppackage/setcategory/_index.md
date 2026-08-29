@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: .NET API 참조용 Aspose.PSD
-description: PhotoshopPackage 방법. 카테고리를 설정합니다.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PhotoshopPackage 메서드. 카테고리를 설정합니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 카테고리를 설정합니다.
@@ -14,20 +15,20 @@ url: /ko/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 public void SetCategory(string category)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
 | category | String | 카테고리. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | 범주; 범주는 3자로 제한됩니다. |
+| ArgumentOutOfRangeException | category;카테고리는 3자 이하로 제한됩니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [PhotoshopPackage](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: .NET API 참조용 Aspose.PSD
-description: AiLayerSection 재산. 이 레이어가 잠겨 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 항목에 대한 변경을 방지합니다.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiLayerSection 속성. 이 레이어가 잠겨 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 항목에 대한 변경을 방지합니다"
 type: docs
-weight: 60
+weight: 80
 url: /ko/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
 이 레이어가 잠겨 있는지 여부를 나타내는 값을 가져오거나 설정합니다. 항목에 대한 변경을 방지합니다.
@@ -14,13 +15,13 @@ url: /ko/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 public bool IsLocked { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 이 레이어가 잠겨 있으면 그렇지 않으면,`거짓` .
+`true` 이 레이어가 잠겨 있는 경우; 그렇지 않으면 `false`.
 
-### 예
+## 예제
 
-다음 예제는 AI 형식 파일의 레이어 지원을 보여줍니다.
+다음 예제는 AI 형식 파일에서 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiLayerSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

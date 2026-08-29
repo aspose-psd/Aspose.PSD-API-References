@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 생성된 스트림 EXIF 데이터가 big endian인지 여부를 나타내는 값을 가져오거나 설정합니다.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 스트림에서 생성된 EXIF 데이터가 빅 엔디안인지 여부를 나타내는 값을 가져오거나 설정합니다"
 type: docs
 weight: 690
 url: /ko/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-생성된 스트림 EXIF 데이터가 big endian인지 여부를 나타내는 값을 가져오거나 설정합니다.
+스트림에서 생성된 EXIF 데이터가 빅 엔디안인지 여부를 나타내는 값을 가져오거나 설정합니다.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-`진실` 생성된 스트림 EXIF 데이터가 빅 엔디안인 경우; 그렇지 않으면,`거짓` .
+`true`는 스트림에서 생성된 EXIF 데이터가 빅 엔디안인 경우; 그렇지 않으면 `false`.
 
-### 또한보십시오
+### 또 보기
 
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

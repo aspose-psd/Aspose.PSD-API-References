@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: .NET API 참조용 Aspose.PSD
-description: HueSaturationLayer 재산. 색조를 가져오거나 설정합니다.
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "HueSaturationLayer 속성. 색조를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
 색조를 가져오거나 설정합니다.
@@ -14,20 +15,20 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlay
 public short Hue { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-색조.
+색조입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | 색조는 -180에서 +180 사이여야 합니다. |
+| ArgumentOutOfRangeException | 색조는 -180에서 +180 사이여야 합니다 |
 
-### 또한보십시오
+### 또 보기
 
 * class [HueSaturationLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: .NET API 참조용 Aspose.PSD
-description: TextShape 재산. 텍스트를 그리는 데 사용되는 글꼴을 가져오거나 설정합니다.
+title: "TextShape.Font"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TextShape 속성. 텍스트를 그리는 데 사용되는 글꼴을 가져오거나 설정합니다."
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 텍스트를 그리는 데 사용되는 글꼴을 가져오거나 설정합니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.shapes/textshape/font/
 public Font Font { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 텍스트를 그리는 데 사용되는 글꼴입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* 네임스페이스 [Aspose.PSD.Shapes](../../textshape/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

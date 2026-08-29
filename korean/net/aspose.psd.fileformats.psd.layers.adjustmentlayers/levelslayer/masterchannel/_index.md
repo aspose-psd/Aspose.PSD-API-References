@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: .NET API 참조용 Aspose.PSD
-description: LevelsLayer 재산. 마스터 채널을 가져옵니다.
+title: "LevelsLayer.MasterChannel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LevelsLayer 속성. 마스터 채널을 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
 마스터 채널을 가져옵니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/mast
 public LevelChannel MasterChannel { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 마스터 채널.
 
-### 또한보십시오
+### 또 보기
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

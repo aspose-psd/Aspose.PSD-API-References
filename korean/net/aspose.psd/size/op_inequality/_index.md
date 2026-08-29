@@ -1,32 +1,33 @@
 ---
-title: Size.op_Inequality
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 두Size 구조가 다릅니다.
+title: "Size.op_Inequality"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 두 Size 구조체가 다른지 테스트합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.psd/size/op_inequality/
 ---
+{{< psd/tize >}}
 ## Size Inequality operator
 
-두[`Size`](../) 구조가 다릅니다.
+두 [`Size`](../) 구조체가 다른지 테스트합니다.
 
 ```csharp
 public static bool operator !=(Size size1, Size size2)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size1 | Size | 그만큼[`Size`](../) 부등식 연산자의 왼쪽에 있는 구조입니다. |
-| size2 | Size | 그만큼[`Size`](../) 부등식 연산자의 오른쪽 구조. |
+| size1 | Size | 부등호 연산자 왼쪽에 있는 [`Size`](../) 구조체. |
+| size2 | Size | 부등호 연산자 오른쪽에 있는 [`Size`](../) 구조체. |
 
 ### 반환 값
 
-참이면*size1* 그리고*size2* 너비 또는 높이가 다릅니다. 만약에 거짓*size1* 그리고*size2* 같다.
+*size1*과 *size2*가 너비 또는 높이 중 하나라도 다르면 true; *size1*과 *size2*가 같으면 false.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

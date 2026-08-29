@@ -1,30 +1,31 @@
 ---
-title: ChannelInformation.ChannelInformation
-second_title: .NET API 참조용 Aspose.PSD
-description: ChannelInformation 건설자. 의 새 인스턴스를 초기화합니다.ChannelInformation 클래스.
+title: "ChannelInformation.ChannelInformation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ChannelInformation 생성자. ChannelInformation 클래스의 새 인스턴스를 초기화합니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation constructor
 
-의 새 인스턴스를 초기화합니다.[`ChannelInformation`](../) 클래스.
+[`ChannelInformation`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| compressionMethod | CompressionMethod | 압축 방법. |
-| bitDepth | Int32 | 비트 심도. |
+| compressionMethod | CompressionMethod | 압축 방식입니다. |
+| bitDepth | Int32 | 비트 깊이입니다. |
 | psdVersion | Int32 | PSD 버전입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

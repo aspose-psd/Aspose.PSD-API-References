@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Save
-second_title: .NET API 참조용 Aspose.PSD
-description: StreamContainer 방법. 스트림의 데이터를 지정된 스트림에 저장복사합니다.
+title: "StreamContainer.Save"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "StreamContainer 메서드. 스트림 데이터를 지정된 스트림에 복사하여 저장합니다."
 type: docs
 weight: 130
 url: /ko/net/aspose.psd/streamcontainer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream, int, long) {#save_2}
 
 스트림의 데이터를 지정된 스트림에 저장(복사)합니다.
@@ -14,99 +15,99 @@ url: /ko/net/aspose.psd/streamcontainer/save/
 public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| destinationStream | Stream | 데이터를 저장할 스트림입니다. |
-| bufferSize | Int32 | 버퍼 크기입니다. 기본적으로[`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
-| length | Int64 | 복사할 스트림 데이터 길이입니다. 기본적으로 길이는[`Length`](../length/) 값. |
+| destinationStream | 스트림 | 데이터를 저장할 스트림. |
+| bufferSize | Int32 | 버퍼 크기. 기본적으로 [`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
+| length | Int64 | 복사할 스트림 데이터 길이. 기본적으로 길이는 [`Length`](../length/) 값으로 설정됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 기본 버퍼 크기 사용[`ReadWriteBytesCount`](../readwritebytescount/) 그리고 스트림[`Length`](../length/) 값.
+스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 기본 버퍼 크기 [`ReadWriteBytesCount`](../readwritebytescount/)와 스트림 [`Length`](../length/) 값을 사용합니다.
 
 ```csharp
 public virtual void Save(Stream destinationStream)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| destinationStream | Stream | 데이터를 저장할 스트림입니다. |
+| destinationStream | 스트림 | 데이터를 저장할 스트림. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-모든 스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 스트림 사용[`Length`](../length/) 값.
+지정된 스트림에 스트림의 모든 데이터를 저장(복사)합니다. 스트림 [`Length`](../length/) 값을 사용합니다.
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| destinationStream | Stream | 데이터를 저장할 스트림입니다. |
+| destinationStream | 스트림 | 데이터를 저장할 스트림. |
 | bufferSize | Int32 | 버퍼. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 기본 버퍼 크기 사용[`ReadWriteBytesCount`](../readwritebytescount/) 그리고 스트림[`Length`](../length/) 값.
+스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 기본 버퍼 크기 [`ReadWriteBytesCount`](../readwritebytescount/)와 스트림 [`Length`](../length/) 값을 사용합니다.
 
 ```csharp
 public virtual void Save(string filePath)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| filePath | String | 스트림 데이터를 저장할 파일 경로입니다. |
+| filePath | String | 스트림 데이터를 저장할 파일 경로. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-스트림의 데이터를 지정된 스트림에 저장(복사)합니다. 스트림 사용[`Length`](../length/) 값.
+지정된 스트림에 스트림 데이터를 저장(복사)합니다. 스트림 [`Length`](../length/) 값을 사용합니다.
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| filePath | String | 스트림 데이터를 저장할 파일 경로입니다. |
-| bufferSize | Int32 | 버퍼 크기입니다. 기본적으로[`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
+| filePath | String | 스트림 데이터를 저장할 파일 경로. |
+| bufferSize | Int32 | 버퍼 크기. 기본적으로 [`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -118,16 +119,16 @@ public virtual void Save(string filePath, int bufferSize)
 public virtual void Save(string filePath, int bufferSize, long length)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| filePath | String | 스트림 데이터를 저장할 파일 경로입니다. |
-| bufferSize | Int32 | 버퍼 크기입니다. 기본적으로[`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
-| length | Int64 | 복사할 스트림 데이터 길이입니다. 기본적으로 길이는[`Length`](../length/) 값. |
+| filePath | String | 스트림 데이터를 저장할 파일 경로. |
+| bufferSize | Int32 | 버퍼 크기. 기본적으로 [`ReadWriteBytesCount`](../readwritebytescount/) 값이 사용됩니다. |
+| length | Int64 | 복사할 스트림 데이터 길이. 기본적으로 길이는 [`Length`](../length/) 값으로 설정됩니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [StreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../streamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

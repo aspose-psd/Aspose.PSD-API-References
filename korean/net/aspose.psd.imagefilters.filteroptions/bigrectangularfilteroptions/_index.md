@@ -1,11 +1,12 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions 수업. 큰 직사각형 필터 옵션
+title: "BigRectangularFilterOptions 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions 클래스. 큰 직사각형 필터 옵션"
 type: docs
-weight: 4650
+weight: 5120
 url: /ko/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
 큰 직사각형 필터 옵션
@@ -20,10 +21,10 @@ public class BigRectangularFilterOptions : FilterOptionsBase
 | --- | --- |
 | [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | 기본 생성자입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 네임스페이스 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

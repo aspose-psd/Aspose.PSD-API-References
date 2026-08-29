@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: .NET API 참조용 Aspose.PSD
-description: TransformBrush 방법. 재설정Transform 신원에 재산.
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TransformBrush 메서드. Transform 속성을 항등 변환으로 재설정합니다."
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-재설정[`Transform`](../transform/) 신원에 재산.
+[`Transform`](../transform/) 속성을 항등 변환으로 재설정합니다.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [TransformBrush](../)
-* 네임스페이스 [Aspose.PSD.Brushes](../../transformbrush/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

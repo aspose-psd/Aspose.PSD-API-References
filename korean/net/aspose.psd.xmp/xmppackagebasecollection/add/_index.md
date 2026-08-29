@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPackageBaseCollection 방법. 의 새 인스턴스를 추가합니다.XmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPackageBaseCollection 메서드. XmpPackage의 새 인스턴스를 추가합니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-의 새 인스턴스를 추가합니다.[`XmpPackage`](../../xmppackage/) .
+[`XmpPackage`](../../xmppackage/)의 새 인스턴스를 추가합니다.
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| package | XmpPackage | 추가할 XMP 패키지입니다. |
+| 패키지 | XmpPackage | 추가할 XMP 패키지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

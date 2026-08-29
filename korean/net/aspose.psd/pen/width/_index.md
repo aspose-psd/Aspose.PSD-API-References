@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: .NET API 참조용 Aspose.PSD
-description: Pen 재산. 이 너비를 가져오거나 설정합니다.Pen  drawing. 에 사용되는 Graphics 객체 단위
+title: "Pen.Width"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Pen 속성. 그리기에 사용되는 Graphics 객체의 단위로 이 Pen의 너비를 가져오거나 설정합니다."
 type: docs
 weight: 180
 url: /ko/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-이 너비를 가져오거나 설정합니다.[`Pen`](../) , drawing. 에 사용되는 Graphics 객체 단위
+그리기에 사용되는 Graphics 객체의 단위로 이 [`Pen`](../)의 너비를 가져오거나 설정합니다.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이것의 폭[`Pen`](../).
+이 [`Pen`](../)의 너비입니다.
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentException | 그만큼`Width` 속성이 변경 불가능으로 설정됨[`Pen`](../) , 예를 들어[`Pen`](../) 수업. |
+| ArgumentException | `Width` 속성은 불변 [`Pen`](../)에 설정됩니다. 예를 들어 [`Pen`](../) 클래스에서 반환되는 경우와 같습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Pen](../)
-* 네임스페이스 [Aspose.PSD](../../pen/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

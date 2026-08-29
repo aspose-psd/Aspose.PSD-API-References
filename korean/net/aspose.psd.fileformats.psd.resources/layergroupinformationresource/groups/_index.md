@@ -1,11 +1,12 @@
 ---
-title: LayerGroupInformationResource.Groups
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerGroupInformationResource 재산. 그룹을 가져오거나 설정합니다.
+title: "LayerGroupInformationResource.Groups"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerGroupInformationResource 속성. 그룹을 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource.Groups property
 
 그룹을 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/
 public short[] Groups { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-그룹.
+그 그룹들.
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerGroupInformationResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

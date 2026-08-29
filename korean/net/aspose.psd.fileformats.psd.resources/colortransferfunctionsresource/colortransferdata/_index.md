@@ -1,11 +1,12 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: .NET API 참조용 Aspose.PSD
-description: ColorTransferFunctionsResource 재산. 색상 전송 데이터를 가져오거나 설정합니다.
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ColorTransferFunctionsResource 속성. 색상 전송 데이터를 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
 색상 전송 데이터를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource
 public byte[] ColorTransferData { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
 색상 전송 데이터입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ColorTransferFunctionsResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

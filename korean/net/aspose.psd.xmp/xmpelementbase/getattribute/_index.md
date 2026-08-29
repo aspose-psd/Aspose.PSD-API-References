@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpElementBase 방법. 속성을 가져옵니다.
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpElementBase 메서드. 속성을 가져옵니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
 속성을 가져옵니다.
@@ -14,18 +15,18 @@ url: /ko/net/aspose.psd.xmp/xmpelementbase/getattribute/
 public virtual string GetAttribute(string attribute)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| attribute | String | 속성. |
+| 속성 | String | 속성입니다. |
 
 ### 반환 값
 
-지정된 속성 이름의 속성을 반환합니다.
+지정된 속성 이름에 대한 속성을 반환합니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpElementBase](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmpelementbase/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

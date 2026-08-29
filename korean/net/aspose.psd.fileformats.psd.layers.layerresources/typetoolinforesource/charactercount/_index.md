@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: .NET API 참조용 Aspose.PSD
-description: TypeToolInfoResource 재산. 문자 수를 가져오거나 설정합니다.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TypeToolInfoResource 속성. 문자 수를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
 문자 수를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int CharacterCount { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-문자 수입니다.
+문자 수.
 
-### 또한보십시오
+### 또 보기
 
 * class [TypeToolInfoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: .NET API 참조용 Aspose.PSD
-description: TimeLine 재산. 루프 수를 가져오거나 설정합니다.
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Timeline 속성. 루프 수를 가져오거나 설정합니다"
 type: docs
-weight: 80
+weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
 루프 수를 가져오거나 설정합니다.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* class [TimeLine](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* 집회 [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

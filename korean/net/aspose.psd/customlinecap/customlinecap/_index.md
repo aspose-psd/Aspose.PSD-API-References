@@ -1,79 +1,80 @@
 ---
-title: CustomLineCap.CustomLineCap
-second_title: .NET API 참조용 Aspose.PSD
-description: CustomLineCap 건설자. 의 새 인스턴스를 초기화합니다.CustomLineCap 지정된 외곽선이 있는 클래스와 채우기.
+title: "CustomLineCap.CustomLineCap"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CustomLineCap 생성자. 지정된 외곽선과 채우기를 사용하여 CustomLineCap 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/customlinecap/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`CustomLineCap`](../) 지정된 외곽선이 있는 클래스와 채우기.
+지정된 외곽선과 채우기를 사용하여 [`CustomLineCap`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 채우기를 정의하는 개체입니다. |
-| strokePath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 윤곽선을 정의하는 개체입니다. |
+| fillPath | GraphicsPath | 사용자 정의 캡의 채우기를 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
+| strokePath | GraphicsPath | 사용자 정의 캡의 외곽선을 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* 네임스페이스 [Aspose.PSD](../../customlinecap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`CustomLineCap`](../) 지정된 기존의 클래스[`LineCap`](../../linecap/) 지정된 개요 및 채우기로 열거.
+지정된 기존 [`LineCap`](../../linecap/) 열거형과 지정된 외곽선 및 채우기를 사용하여 [`CustomLineCap`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 채우기를 정의하는 개체입니다. |
-| strokePath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 윤곽선을 정의하는 개체입니다. |
-| baseCap | LineCap | 사용자 정의 캡을 생성할 라인 캡입니다. |
+| fillPath | GraphicsPath | 사용자 정의 캡의 채우기를 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
+| strokePath | GraphicsPath | 사용자 정의 캡의 외곽선을 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
+| baseCap | LineCap | 사용자 정의 캡을 만들기 위한 라인 캡. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 네임스페이스 [Aspose.PSD](../../customlinecap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`CustomLineCap`](../) 지정된 기존의 클래스[`LineCap`](../../linecap/)지정된 외곽선, 채우기 및 인셋이 있는 열거.
+지정된 기존 [`LineCap`](../../linecap/) 열거형과 지정된 외곽선, 채우기 및 삽입값을 사용하여 [`CustomLineCap`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
     float baseInset)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 채우기를 정의하는 개체입니다. |
-| strokePath | GraphicsPath | ㅏ[`GraphicsPath`](../../graphicspath/) 사용자 정의 캡의 윤곽선을 정의하는 개체입니다. |
-| baseCap | LineCap | 사용자 정의 캡을 생성할 라인 캡입니다. |
-| baseInset | Single | 모자와 선 사이의 거리. |
+| fillPath | GraphicsPath | 사용자 정의 캡의 채우기를 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
+| strokePath | GraphicsPath | 사용자 정의 캡의 외곽선을 정의하는 [`GraphicsPath`](../../graphicspath/) 객체입니다. |
+| baseCap | LineCap | 사용자 정의 캡을 만들기 위한 라인 캡. |
+| baseInset | 단일 | 캡과 라인 사이의 거리. |
 
-### 또한보십시오
+### 또 보기
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 네임스페이스 [Aspose.PSD](../../customlinecap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: .NET API 참조용 Aspose.PSD
-description: FileStreamContainer 재산. 파일 경로를 가져옵니다.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "FileStreamContainer 속성. 파일 경로를 가져옵니다."
 type: docs
 weight: 30
 url: /ko/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
 파일 경로를 가져옵니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd/filestreamcontainer/filepath/
 public string FilePath { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-파일 경로입니다.
+파일 경로.
 
-### 또한보십시오
+### 또 보기
 
 * class [FileStreamContainer](../)
-* 네임스페이스 [Aspose.PSD](../../filestreamcontainer/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

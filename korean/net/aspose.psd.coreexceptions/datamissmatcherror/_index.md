@@ -1,14 +1,15 @@
 ---
-title: Class DataMissmatchError
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.CoreExceptions.DataMissmatchError 수업. 데이터 불일치 예외 class
+title: "DataMissmatchError 클래스"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError 클래스. 데이터 불일치 예외 클래스"
 type: docs
 weight: 470
 url: /ko/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-데이터 불일치 예외 class
+데이터 불일치 예외 클래스
 
 ```csharp
 public class DataMissmatchError : Exception
@@ -18,11 +19,11 @@ public class DataMissmatchError : Exception
 
 | 이름 | 설명 |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | 의 새 인스턴스를 초기화합니다.`DataMissmatchError` 클래스. |
+| [DataMissmatchError](datamissmatcherror/)(string) | `DataMissmatchError` 클래스의 새 인스턴스를 초기화합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

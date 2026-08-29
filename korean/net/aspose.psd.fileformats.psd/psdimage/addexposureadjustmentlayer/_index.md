@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 노출 조정 레이어를 추가합니다.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 노출 보정 레이어를 추가합니다"
 type: docs
-weight: 340
+weight: 350
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
 노출 조정 레이어를 추가합니다.
@@ -15,21 +16,21 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
     float gammaCorrection = 1)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| exposure | Single | 노출. |
-| offset | Single | 오프셋. |
-| gammaCorrection | Single | 감마 보정. |
+| 노출 | 단일 | 노출. |
+| offset | 단일 | 오프셋입니다. |
+| gammaCorrection | 단일 | 감마 보정입니다. |
 
 ### 반환 값
 
-노출 조정 레이어 생성
+노출 보정 레이어가 생성되었습니다
 
-### 또한보십시오
+### 또 보기
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

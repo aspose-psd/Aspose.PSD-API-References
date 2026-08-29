@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: .NET API 참조용 Aspose.PSD
-description: CustomLineCap 재산. 이 크기를 조정할 양을 가져오거나 설정합니다.CustomLineCap 너비에 대한 클래스 객체Pen object.
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CustomLineCap 속성. Pen 객체의 너비에 비례하여 이 CustomLineCap Class 객체를 확대/축소하는 양을 가져오거나 설정합니다."
 type: docs
 weight: 70
 url: /ko/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-이 크기를 조정할 양을 가져오거나 설정합니다.[`CustomLineCap`](../) 너비에 대한 클래스 객체Pen object.
+Pen 객체의 너비에 비례하여 이 [`CustomLineCap`](../) Class 객체를 확대/축소하는 양을 가져오거나 설정합니다.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-한도를 조정할 양입니다.
+캡을 확대/축소하는 양.
 
-### 또한보십시오
+### 또 보기
 
 * class [CustomLineCap](../)
-* 네임스페이스 [Aspose.PSD](../../customlinecap/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

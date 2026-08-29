@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.Progress
-second_title: .NET API 참조용 Aspose.PSD
-description: IAsyncTask 재산. 비동기 작업의 진행 상황을 가져옵니다.
+title: "IAsyncTask.Progress"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "IAsyncTask 속성. 비동기 작업의 진행률을 가져옵니다"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.asynctask/iasynctask/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Progress property
 
-비동기 작업의 진행 상황을 가져옵니다.
+비동기 작업의 진행률을 가져옵니다.
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-비동기 작업의 진행률입니다.
+비동기 작업의 진행률.
 
-### 또한보십시오
+### 또 보기
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTask](../)
-* 네임스페이스 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

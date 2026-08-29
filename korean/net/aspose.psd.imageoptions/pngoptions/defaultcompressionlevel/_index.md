@@ -1,11 +1,12 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: .NET API 참조용 Aspose.PSD
-description: PngOptions 필드. 기본 압축 수준입니다.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PngOptions 필드. 기본 압축 수준"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
 기본 압축 수준입니다.
@@ -14,10 +15,10 @@ url: /ko/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 public const int DefaultCompressionLevel;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PngOptions](../)
-* 네임스페이스 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

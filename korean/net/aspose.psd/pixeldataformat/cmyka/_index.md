@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: .NET API 참조용 Aspose.PSD
-description: PixelDataFormat 재산. acmyk를 가져옵니다.
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PixelDataFormat 속성. acmyk를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
 acmyk를 가져옵니다.
@@ -14,14 +15,14 @@ acmyk를 가져옵니다.
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-[`PixelDataFormat`](../) 알파, 시안, 마젠타, 노랑 및 검정 각각에 대해 8비트로 픽셀당 40비트로 정의됩니다.
+40비트당 픽셀에 대해 알파, 시안, 마젠타, 옐로우 및 블랙 각각 8비트로 정의된 [`PixelDataFormat`](../)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [PixelDataFormat](../)
-* 네임스페이스 [Aspose.PSD](../../pixeldataformat/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

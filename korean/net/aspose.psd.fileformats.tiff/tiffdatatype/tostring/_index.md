@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.ToString
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffDataType 방법. 반환String 이 instance. 를 나타냅니다.
+title: "TiffDataType.ToString"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffDataType 메서드. 이 인스턴스를 나타내는 문자열을 반환합니다"
 type: docs
 weight: 120
 url: /ko/net/aspose.psd.fileformats.tiff/tiffdatatype/tostring/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ToString method
 
-반환String 이 instance. 를 나타냅니다.
+이 인스턴스를 나타내는 문자열을 반환합니다.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 반환 값
 
-AString 이 instance. 를 나타냅니다.
+이 인스턴스를 나타내는 문자열입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

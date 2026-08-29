@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.AlignedDataSize
-second_title: .NET API 참조용 Aspose.PSD
-description: TiffDataType 재산. 추가 데이터 크기를 바이트 단위로 가져옵니다12바이트가 태그 데이터에 맞지 않는 경우.
+title: "TiffDataType.AlignedDataSize"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "TiffDataType 속성. 태그 데이터를 저장하기에 12바이트가 충분하지 않을 경우 추가 데이터 크기(바이트)를 가져옵니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.AlignedDataSize property
 
-추가 데이터 크기를 바이트 단위로 가져옵니다(12바이트가 태그 데이터에 맞지 않는 경우).
+태그 데이터를 저장하기에 12바이트가 부족한 경우를 대비해 추가 데이터 크기(바이트)를 가져옵니다.
 
 ```csharp
 public uint AlignedDataSize { get; }
 ```
 
-### 자산 가치
+### Property Value
 
 추가 데이터 크기(바이트).
 
-### 비고
+## 비고
 
-이것은 단어 경계에 정렬된 데이터 바이트 수입니다.
+이는 워드 경계에 맞춰 정렬된 데이터 바이트 수입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffDataType](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

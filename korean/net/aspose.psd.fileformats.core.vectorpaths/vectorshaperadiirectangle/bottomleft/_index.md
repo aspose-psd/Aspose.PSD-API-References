@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: .NET API 참조용 Aspose.PSD
-description: VectorShapeRadiiRectangle 재산. 바닥을 가져오거나 설정합니다.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VectorShapeRadiiRectangle 속성. 아래쪽을 가져오거나 설정합니다"
 type: docs
 weight: 20
 url: /ko/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-바닥을 가져오거나 설정합니다.
+아래쪽을 가져오거나 설정합니다.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-바닥.
+아래쪽.
 
-### 또한보십시오
+### 또 보기
 
 * class [VectorShapeRadiiRectangle](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

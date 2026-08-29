@@ -1,28 +1,29 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: .NET API 참조용 Aspose.PSD
-description: ObjectWithBounds 재산. 개체의 범위를 가져옵니다.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ObjectWithBounds 속성. 객체의 경계를 가져옵니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
-개체의 범위를 가져옵니다.
+객체의 경계를 가져옵니다.
 
 ```csharp
 public abstract RectangleF Bounds { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-개체의 경계입니다.
+객체의 경계.
 
-### 또한보십시오
+### 또 보기
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* 네임스페이스 [Aspose.PSD](../../objectwithbounds/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

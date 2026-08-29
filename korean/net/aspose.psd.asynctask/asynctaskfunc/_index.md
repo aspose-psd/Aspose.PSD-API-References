@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: .NET API 참조용 Aspose.PSD
-description: 제네릭 형식 결과가 있는 비동기 작업에 대한 긴 작업 대리자입니다.
+title: "델리게이트 AsyncTaskFunc"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "제네릭 타입 결과를 갖는 비동기 작업에 대한 장기 작업 델리게이트"
 type: docs
 weight: 50
 url: /ko/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-제네릭 형식 결과가 있는 비동기 작업에 대한 긴 작업 대리자입니다.
+제네릭 타입 결과를 갖는 비동기 작업에 대한 긴 작업 위임자.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | 비동기 작업의 상태입니다. |
+| taskState | IAsyncTaskState | 비동기 작업의 상태. |
 
 ### 반환 값
 
-긴 작업의 결과입니다.
+장기 작업의 결과.
 
-### 또한보십시오
+### 또 보기
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* 네임스페이스 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

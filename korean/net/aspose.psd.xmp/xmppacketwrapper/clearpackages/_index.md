@@ -1,23 +1,24 @@
 ---
-title: XmpPacketWrapper.ClearPackages
-second_title: .NET API 참조용 Aspose.PSD
-description: XmpPacketWrapper 방법. 모두 제거XmpPackage 내부 XMP.
+title: "XmpPacketWrapper.ClearPackages"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "XmpPacketWrapper 메서드. XMP 내부의 모든 XmpPackage를 제거합니다."
 type: docs
 weight: 80
 url: /ko/net/aspose.psd.xmp/xmppacketwrapper/clearpackages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ClearPackages method
 
-모두 제거[`XmpPackage`](../../xmppackage/) 내부 XMP.
+XMP 내부의 모든 [`XmpPackage`](../../xmppackage/)를 제거합니다.
 
 ```csharp
 public void ClearPackages()
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [XmpPacketWrapper](../)
-* 네임스페이스 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

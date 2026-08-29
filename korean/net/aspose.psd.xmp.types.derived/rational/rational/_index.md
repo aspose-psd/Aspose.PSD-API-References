@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: .NET API 참조용 Aspose.PSD
-description: Rational 건설자. 의 새 인스턴스를 초기화합니다.Rational 클래스.
+title: "Rational.Rational"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rational 생성자. Rational 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-의 새 인스턴스를 초기화합니다.[`Rational`](../) 클래스.
+`[`Rational`](../)` 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| numerator | Int32 | 분자. |
-| denominator | Int32 | 분모. |
+| 분자 | Int32 | 분자입니다. |
+| 분모 | Int32 | 분모입니다. |
 
 ### 예외
 
-| 예외 | 상태 |
+| 예외 | 조건 |
 | --- | --- |
-| ArgumentOutOfRangeException | numerator;Numberator는 더 큰 0이어야 합니다. 또는 denominator;Denominator는 더 큰 0이어야 합니다. |
+| ArgumentOutOfRangeException | 분자;Numberator는 0보다 커야 합니다. 또는 분모;Denominator는 0보다 커야 합니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [Rational](../)
-* 네임스페이스 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

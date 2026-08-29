@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: .NET API 참조용 Aspose.PSD
-description: ShmdResource 필드. 서브 리소스 헤더 length
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ShmdResource 필드. 하위 리소스 헤더 길이"
 type: docs
-weight: 90
+weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-서브 리소스 헤더 length
+하위 리소스 헤더 길이
 
 ```csharp
 public const int SubResourceHeaderLength;
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [ShmdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

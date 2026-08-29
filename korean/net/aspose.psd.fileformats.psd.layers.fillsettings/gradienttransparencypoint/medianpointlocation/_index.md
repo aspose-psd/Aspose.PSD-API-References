@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.MedianPointLocation
-second_title: .NET API 참조용 Aspose.PSD
-description: GradientTransparencyPoint 재산. 중간 지점 위치를 가져오거나 설정합니다.
+title: "GradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "GradientTransparencyPoint 속성. 중앙점 위치를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.MedianPointLocation property
 
-중간 지점 위치를 가져오거나 설정합니다.
+중간점 위치를 가져오거나 설정합니다.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-중간점 위치.
+중앙점 위치.
 
-### 또한보십시오
+### 또 보기
 
 * class [GradientTransparencyPoint](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

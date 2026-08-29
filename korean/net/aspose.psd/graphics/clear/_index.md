@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clear
-second_title: .NET API 참조용 Aspose.PSD
-description: Graphics 방법. 지정된 색상을 사용하여 그래픽 표면을 지웁니다.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Graphics 메서드. 지정된 색상을 사용하여 그래픽 표면을 지웁니다."
 type: docs
-weight: 150
+weight: 160
 url: /ko/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
 지정된 색상을 사용하여 그래픽 표면을 지웁니다.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd/graphics/clear/
 public void Clear(Color color)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| color | Color | 그래픽 표면을 지울 색상입니다. |
+| 색상 | 색상 | 그래픽 표면을 지우는 데 사용할 색상입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* 네임스페이스 [Aspose.PSD](../../graphics/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

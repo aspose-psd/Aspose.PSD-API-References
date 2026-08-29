@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.ImageResizeSettings 수업. 이미지 크기 조정 설정 class
+title: "클래스 ImageResizeSettings"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.ImageResizeSettings 클래스. 이미지 크기 조정 설정 클래스"
 type: docs
-weight: 5000
+weight: 5490
 url: /ko/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-이미지 크기 조정 설정 class
+이미지 크기 조정 설정 클래스
 
 ```csharp
 public class ImageResizeSettings
@@ -26,13 +27,13 @@ public class ImageResizeSettings
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | 색상 비교 방법을 가져오거나 설정합니다. |
 | [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | 색상 양자화 방법을 가져오거나 설정합니다. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | 항목 count 를 가져오거나 설정합니다. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | 항목 수를 가져오거나 설정합니다 |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | 필터 유형을 가져오거나 설정합니다. |
 | [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | 보간 모드를 가져오거나 설정합니다. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD](../../aspose.psd/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

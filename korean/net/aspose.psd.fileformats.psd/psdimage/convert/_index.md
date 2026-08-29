@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 이 이미지 형식을 options. 에 지정된 형식으로 변환합니다.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 옵션에 지정된 형식으로 이 이미지 포맷을 변환합니다."
 type: docs
-weight: 500
+weight: 560
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-이 이미지 형식을 options. 에 지정된 형식으로 변환합니다.
+이 이미지 형식을 옵션에 지정된 형식으로 변환합니다.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| newOptions | PsdOptions | 새로운 옵션. |
+| newOptions | PsdOptions | 새 옵션입니다. |
 
-### 예
+## 예제
 
-이 예는 PSD 이미지 형식을 다른 색상 모드/BitDepth로 변환하는 방법을 보여줍니다.
+이 예제들은 PSD 이미지 포맷을 다른 색상 모드/비트 깊이로 변환하는 방법을 보여줍니다.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public void Convert(PsdOptions newOptions)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// 이 예제는 PSD 이미지 형식을 다른 색상 모드/BitDepth로 변환하는 방법을 보여줍니다.
+// 이 예제들은 PSD 이미지 포맷을 다른 색상 모드/비트 깊이로 변환하는 방법을 보여줍니다.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// PSD로 저장한 후 저장된 파일을 불러와 PNG로 저장합니다.
+// PSD로 저장한 후 저장된 파일을 로드하고 PNG로 저장합니다.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

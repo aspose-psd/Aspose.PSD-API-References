@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: .NET API 참조용 Aspose.PSD
-description: LayerSelectionIdsResource 재산. 레이어 ID를 가져오거나 설정합니다.
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LayerSelectionIdsResource 속성. 레이어 ID를 가져오거나 설정합니다"
 type: docs
 weight: 40
 url: /ko/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
 레이어 ID를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/laye
 public int[] LayerIds { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-레이어 ID.
+레이어 ID입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [LayerSelectionIdsResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

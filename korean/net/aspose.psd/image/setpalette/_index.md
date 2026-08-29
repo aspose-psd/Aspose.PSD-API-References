@@ -1,11 +1,12 @@
 ---
-title: Image.SetPalette
-second_title: .NET API 참조용 Aspose.PSD
-description: Image 방법. 이미지 팔레트를 설정합니다.
+title: "Image.SetPalette"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Image 메서드. 이미지 팔레트를 설정합니다."
 type: docs
-weight: 240
+weight: 250
 url: /ko/net/aspose.psd/image/setpalette/
 ---
+{{< psd/tize >}}
 ## Image.SetPalette method
 
 이미지 팔레트를 설정합니다.
@@ -14,16 +15,16 @@ url: /ko/net/aspose.psd/image/setpalette/
 public abstract void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| palette | IColorPalette | 설정할 팔레트입니다. |
-| updateColors | Boolean | 로 설정된 경우`진실` 색상은 새 팔레트에 따라 업데이트됩니다. 그렇지 않으면 색상 인덱스가 변경되지 않습니다. 변경되지 않은 인덱스는 일부 인덱스에 해당 팔레트 항목이 없는 경우 로드 시 이미지와 충돌할 수 있습니다. |
+| 팔레트 | IColorPalette | 설정할 팔레트. |
+| updateColors | Boolean | `true` 로 설정하면 색상이 새 팔레트에 따라 업데이트됩니다; 그렇지 않으면 색인은 변경되지 않은 상태로 유지됩니다. 변경되지 않은 색인은 일부 색인에 해당하는 팔레트 항목이 없을 경우 로드 시 이미지가 충돌할 수 있습니다. |
 
-### 또한보십시오
+### 또 보기
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* 네임스페이스 [Aspose.PSD](../../image/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

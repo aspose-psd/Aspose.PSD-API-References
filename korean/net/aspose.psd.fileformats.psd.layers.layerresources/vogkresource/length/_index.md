@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Length
-second_title: .NET API 참조용 Aspose.PSD
-description: VogkResource 재산. 레이어 리소스 길이를 바이트 단위로 가져옵니다.
+title: "VogkResource.Length"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "VogkResource 속성. 레이어 리소스 길이를 바이트 단위로 가져옵니다."
 type: docs
-weight: 30
+weight: 20
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
 레이어 리소스 길이를 바이트 단위로 가져옵니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/lengt
 public override int Length { get; }
 ```
 
-### 예
+## 예제
 
-다음 예제는 VogkResource 리소스의 지원을 보여줍니다.
+다음 예제는 VogkResource 리소스 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 독서
+    // 읽기
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [VogkResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: .NET API 참조용 Aspose.PSD
-description: ResolutionInfoResource 재산. 수평 DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ResolutionInfoResource 속성. 가로 DPI"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
 수평 DPI.
@@ -14,15 +15,15 @@ url: /ko/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-가로 dpi.
+가로 DPI입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

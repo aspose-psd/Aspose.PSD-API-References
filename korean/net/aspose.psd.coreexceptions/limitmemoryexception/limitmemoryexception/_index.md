@@ -1,91 +1,92 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: .NET API 참조용 Aspose.PSD
-description: LimitMemoryException 건설자. 의 새 인스턴스를 초기화합니다.LimitMemoryException 클래스.
+title: "LimitMemoryException.LimitMemoryException"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "LimitMemoryException 생성자. LimitMemoryException 클래스의 새 인스턴스를 초기화합니다."
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.coreexceptions/limitmemoryexception/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException(string) {#constructor}
 
-의 새 인스턴스를 초기화합니다.[`LimitMemoryException`](../) 클래스.
+[`LimitMemoryException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LimitMemoryException(string message)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LimitMemoryException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception) {#constructor_2}
 
-의 새 인스턴스를 초기화합니다.[`LimitMemoryException`](../) 클래스.
+[`LimitMemoryException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 | innerException | Exception | 내부 예외. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LimitMemoryException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, long) {#constructor_1}
 
-의 새 인스턴스를 초기화합니다.[`LimitMemoryException`](../) 클래스.
+[`LimitMemoryException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LimitMemoryException(string message, long reduceMemoryFactor)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
-| reduceMemoryFactor | Int64 | 메모리 팩터를 줄입니다. |
+| 메시지 | String | 예외 메시지입니다. |
+| reduceMemoryFactor | Int64 | 메모리 감소 계수. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LimitMemoryException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception, int) {#constructor_3}
 
-의 새 인스턴스를 초기화합니다.[`LimitMemoryException`](../) 클래스.
+[`LimitMemoryException`](../) 클래스의 새 인스턴스를 초기화합니다.
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException, int reduceMemoryFactor)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| message | String | 예외 메시지입니다. |
+| 메시지 | String | 예외 메시지입니다. |
 | innerException | Exception | 내부 예외. |
-| reduceMemoryFactor | Int32 | 메모리 팩터를 줄입니다. |
+| reduceMemoryFactor | Int32 | 메모리 감소 계수. |
 
-### 또한보십시오
+### 또 보기
 
 * class [LimitMemoryException](../)
-* 네임스페이스 [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

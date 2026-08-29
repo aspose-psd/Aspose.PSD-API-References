@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: .NET API 참조용 Aspose.PSD
-description: ProgressEventHandlerInfo 재산. event 에 대한 설명을 가져옵니다.
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ProgressEventHandlerInfo 속성. 이벤트에 대한 설명을 가져옵니다"
 type: docs
 weight: 10
 url: /ko/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
-event 에 대한 설명을 가져옵니다.
+이벤트의 설명을 가져옵니다
 
 ```csharp
 public string Description { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-설명.
+설명입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [ProgressEventHandlerInfo](../)
-* 네임스페이스 [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

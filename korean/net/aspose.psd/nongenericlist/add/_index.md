@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: .NET API 참조용 Aspose.PSD
-description: NonGenericList 방법. 에 항목을 추가합니다.IList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "NonGenericList 메서드. IList에 항목을 추가합니다"
 type: docs
 weight: 80
 url: /ko/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-에 항목을 추가합니다.IList .
+IList에 항목을 추가합니다.
 
 ```csharp
 public int Add(object value)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| value | Object | 그만큼Object 에 추가하기 위해IList. |
+| 값 | Object | IList에 추가할 객체입니다. |
 
 ### 반환 값
 
 새 요소가 삽입된 위치입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [NonGenericList](../)
-* 네임스페이스 [Aspose.PSD](../../nongenericlist/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Size.op_Explicit
-second_title: .NET API 참조용 Aspose.PSD
-description: Size 방법. 지정된Size 에게Point .
+title: "Size.op_Explicit"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Size 메서드. 지정된 Size를 Point로 변환합니다."
 type: docs
 weight: 160
 url: /ko/net/aspose.psd/size/op_explicit/
 ---
+{{< psd/tize >}}
 ## Size Explicit operator
 
-지정된[`Size`](../) ~에게[`Point`](../../point/) .
+지정된 [`Size`](../)를 [`Point`](../../point/)으로 변환합니다.
 
 ```csharp
 public static explicit operator Point(Size size)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| size | Size | 그만큼[`Size`](../) 변환하다. |
+| size | Size | 변환할 [`Size`](../). |
 
 ### 반환 값
 
-그만큼[`Point`](../../point/) 이 연산자가 변환하는 구조체입니다.
+이 연산자가 변환하는 [`Point`](../../point/) 구조체.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* 네임스페이스 [Aspose.PSD](../../size/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

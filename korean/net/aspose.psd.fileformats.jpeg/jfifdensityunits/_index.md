@@ -1,30 +1,31 @@
 ---
-title: Enum JfifDensityUnits
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits 열거형. jfif 밀도 단위.
+title: "열거형 JfifDensityUnits"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits 열거형. jfif 밀도 단위"
 type: docs
-weight: 1480
+weight: 1490
 url: /ko/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
-jfif 밀도 단위.
+jfif 밀도 단위입니다.
 
 ```csharp
 public enum JfifDensityUnits : byte
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| NoUnits | `0` | 단위가 없습니다. |
+| NoUnits | `0` | 단위 없음. |
 | PixelsPerInch | `1` | 인치당 픽셀. |
-| PixelsPerCm | `2` | cm당 픽셀. |
+| PixelsPerCm | `2` | 센티미터당 픽셀. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

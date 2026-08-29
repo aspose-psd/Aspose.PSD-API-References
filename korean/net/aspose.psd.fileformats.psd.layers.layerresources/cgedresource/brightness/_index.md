@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Brightness
-second_title: .NET API 참조용 Aspose.PSD
-description: CgEdResource 재산. 밝기를 가져오거나 설정합니다.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CgEdResource 속성. 밝기를 가져오거나 설정합니다"
 type: docs
 weight: 30
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
 밝기를 가져오거나 설정합니다.
@@ -14,14 +15,14 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brigh
 public int Brightness { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-밝기.
+밝기입니다.
 
-### 또한보십시오
+### 또 보기
 
 * class [CgEdResource](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

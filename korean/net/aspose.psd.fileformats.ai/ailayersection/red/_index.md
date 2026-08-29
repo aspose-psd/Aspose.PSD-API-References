@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Red
-second_title: .NET API 참조용 Aspose.PSD
-description: AiLayerSection 재산. 빨간색 구성 요소를 가져오거나 설정합니다.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "AiLayerSection 속성. 빨간색 구성 요소를 가져오거나 설정합니다"
 type: docs
-weight: 130
+weight: 150
 url: /ko/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
 빨간색 구성 요소를 가져오거나 설정합니다.
@@ -14,13 +15,13 @@ url: /ko/net/aspose.psd.fileformats.ai/ailayersection/red/
 public int Red { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-빨간색 구성 요소입니다.
+빨간색 구성 요소.
 
-### 예
+## 예제
 
-다음 예제는 AI 형식 파일의 레이어 지원을 보여줍니다.
+다음 예제는 AI 형식 파일에서 레이어 지원을 보여줍니다.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [AiLayerSection](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

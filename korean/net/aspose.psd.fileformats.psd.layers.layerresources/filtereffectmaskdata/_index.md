@@ -1,14 +1,15 @@
 ---
-title: Class FilterEffectMaskData
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData 수업. 필터 마스크 데이터 클래스입니다.
+title: "클래스 FilterEffectMaskData"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData 클래스. 필터 마스크 데이터 클래스"
 type: docs
-weight: 2480
+weight: 2740
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData class
 
-필터 마스크 데이터 클래스입니다.
+필터 마스크 데이터 클래스.
 
 ```csharp
 public sealed class FilterEffectMaskData
@@ -18,7 +19,7 @@ public sealed class FilterEffectMaskData
 
 | 이름 | 설명 |
 | --- | --- |
-| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | 의 새 인스턴스를 초기화합니다.`FilterEffectMaskData` 클래스. |
+| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | `FilterEffectMaskData` 클래스의 새 인스턴스를 초기화합니다. |
 
 ## 속성
 
@@ -28,19 +29,19 @@ public sealed class FilterEffectMaskData
 | [GUID](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/) { get; } | GUID를 가져옵니다. |
 | [Length](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/) { get; } | 필터 마스크 데이터 길이를 바이트 단위로 가져옵니다. |
 | [MaskRectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/) { get; } | 시트 마스크 사각형을 가져옵니다. |
-| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | 최대 채널 수를 가져옵니다. |
+| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | 채널 수의 최대값을 가져옵니다. |
 | [PixelsDepth](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/) { get; } | 픽셀 깊이를 가져옵니다. |
 | [Rectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/) { get; } | 채널 사각형을 가져옵니다. |
 | [SheetMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/) { get; } | 시트 마스크를 가져옵니다. |
 | [UserMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/) { get; } | 사용자 마스크를 가져옵니다. |
 
-## 행동 양식
+## 메서드
 
 | 이름 | 설명 |
 | --- | --- |
 | [SaveData](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/)(StreamContainer) | 리소스를 지정된 스트림 컨테이너에 저장합니다. |
 
-### 예
+## 예제
 
 이 예제는 FXidResource 리소스의 속성을 가져오고 설정하는 방법을 보여줍니다.
 
@@ -51,7 +52,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -87,9 +88,9 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

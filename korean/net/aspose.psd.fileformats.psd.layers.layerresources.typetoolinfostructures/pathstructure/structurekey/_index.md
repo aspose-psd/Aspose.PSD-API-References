@@ -1,11 +1,12 @@
 ---
-title: PathStructure.StructureKey
-second_title: .NET API 참조용 Aspose.PSD
-description: PathStructure 필드. 구조 키를 식별합니다.
+title: "PathStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PathStructure 필드. 구조 키를 식별합니다."
 type: docs
 weight: 60
 url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PathStructure.StructureKey field
 
 구조 키를 식별합니다.
@@ -14,9 +15,9 @@ url: /ko/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### 예
+## 예제
 
-다음 코드는 PathStructure 구조로 파일을 로드하는 기능을 보여줍니다.
+다음 코드는 PathStructure 구조를 사용하여 파일을 로드하는 기능을 보여줍니다.
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 또한보십시오
+### 또 보기
 
 * class [PathStructure](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

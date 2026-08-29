@@ -1,29 +1,30 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs 열거형. 스토리지 조직. PLANARCONFIG 태그에 가능한 값.
+title: "열거형 TiffPlanarConfigs"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. 저장 조직. PLANARCONFIG 태그에 대한 가능한 값"
 type: docs
-weight: 4130
+weight: 4600
 url: /ko/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
-스토리지 조직. PLANARCONFIG 태그에 가능한 값.
+스토리지 구성. PLANARCONFIG 태그의 가능한 값들.
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
 | Contiguous | `1` | 단일 이미지 평면. |
-| Separate | `2` | 별도의 데이터 평면. |
+| Separate | `2` | 데이터의 개별 평면. |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

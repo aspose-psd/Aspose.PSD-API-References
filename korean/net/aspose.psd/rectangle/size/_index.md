@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Size
-second_title: .NET API 참조용 Aspose.PSD
-description: Rectangle 재산. 이 크기를 가져오거나 설정합니다.Rectangle .
+title: "Rectangle.Size"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Rectangle 속성. 이 Rectangle의 크기를 가져오거나 설정합니다."
 type: docs
 weight: 170
 url: /ko/net/aspose.psd/rectangle/size/
 ---
+{{< psd/tize >}}
 ## Rectangle.Size property
 
-이 크기를 가져오거나 설정합니다.[`Rectangle`](../) .
+이 [`Rectangle`](../)의 크기를 가져오거나 설정합니다.
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-ㅏ[`Size`](../../size/) 너비와 높이를 나타내는[`Rectangle`](../) 구조.
+이 [`Rectangle`](../) 구조의 너비와 높이를 나타내는 [`Size`](../../size/)입니다.
 
-### 또한보십시오
+### 또 보기
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* 네임스페이스 [Aspose.PSD](../../rectangle/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

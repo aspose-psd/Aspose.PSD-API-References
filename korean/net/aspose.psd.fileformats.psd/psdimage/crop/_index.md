@@ -1,28 +1,29 @@
 ---
-title: PsdImage.Crop
-second_title: .NET API 참조용 Aspose.PSD
-description: PsdImage 방법. 이미지 자르기.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "PsdImage 메서드. 이미지를 자릅니다"
 type: docs
-weight: 510
+weight: 570
 url: /ko/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
-이미지 자르기.
+이미지를 자릅니다.
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| 모수 | 유형 | 설명 |
+| 매개변수 | 형식 | 설명 |
 | --- | --- | --- |
-| rectangle | Rectangle | 직사각형. |
+| 사각형 | Rectangle | 직사각형입니다. |
 
-### 또한보십시오
+### 또 보기
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* 네임스페이스 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

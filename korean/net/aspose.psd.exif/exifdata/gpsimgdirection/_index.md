@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSImgDirection
-second_title: .NET API 참조용 Aspose.PSD
-description: ExifData 재산. 이미지가 캡처되었을 때 이미지의 GPS 방향을 가져오거나 설정합니다.
+title: "ExifData.GPSImgDirection"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "ExifData 속성. 이미지가 촬영될 때의 GPS 방향을 가져오거나 설정합니다"
 type: docs
 weight: 500
 url: /ko/net/aspose.psd.exif/exifdata/gpsimgdirection/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirection property
 
-이미지가 캡처되었을 때 이미지의 GPS 방향을 가져오거나 설정합니다.
+촬영 시 이미지의 GPS 방향을 가져오거나 설정합니다.
 
 ```csharp
 public TiffRational GPSImgDirection { get; set; }
 ```
 
-### 자산 가치
+### Property Value
 
-이미지가 캡처되었을 때의 GPS 방향입니다.
+이미지가 촬영될 때의 GPS 방향.
 
-### 또한보십시오
+### 또 보기
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 네임스페이스 [Aspose.PSD.Exif](../../exifdata/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

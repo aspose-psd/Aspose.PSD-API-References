@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: .NET API 참조용 Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats 열거형. 샘플 형식 enum
+title: "열거형 TiffSampleFormats"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats 열거형. 샘플 형식 열거형"
 type: docs
-weight: 4160
+weight: 4630
 url: /ko/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-샘플 형식 enum
+샘플 형식 열거형
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### 가치
+### 값들
 
 | 이름 | 값 | 설명 |
 | --- | --- | --- |
-| Uint | `1` | 부호 없는 정수 data |
-| Int | `2` | 부호 있는 정수 data |
-| IeeeFp | `3` | IEEE 부동 소수점 data |
-| Void | `4` | 형식화되지 않은 데이터 |
-| ComplexInt | `5` | 복소 부호 있는 int |
-| ComplexIeeeFp | `6` | 복잡한 ieee floating |
+| Uint | `1` | 부호 없는 정수 데이터 |
+| Int | `2` | 부호 있는 정수 데이터 |
+| IeeeFp | `3` | IEEE 부동 소수점 데이터 |
+| Void | `4` | 형식이 지정되지 않은 데이터 |
+| ComplexInt | `5` | 복합 부호 정수 |
+| ComplexIeeeFp | `6` | 복합 ieee 부동 |
 
-### 또한보십시오
+### 또 보기
 
-* 네임스페이스 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 집회 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

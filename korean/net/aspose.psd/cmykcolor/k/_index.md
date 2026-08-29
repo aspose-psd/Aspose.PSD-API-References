@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: .NET API 참조용 Aspose.PSD
-description: CmykColor 재산. 이것의 검은 구성 요소 값을 가져옵니다.Color구조.
+title: "CmykColor.K"
+second_title: "Aspose.PSD for .NET API 레퍼런스"
+description: "CmykColor 속성. 이 Color 구조체의 검은색 구성 요소 값을 가져옵니다"
 type: docs
-weight: 40
+weight: 50
 url: /ko/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-이것의 검은 구성 요소 값을 가져옵니다.[`Color`](../../color/)구조.
+이 [`Color`](../../color/) 구조체의 검은색 구성 요소 값을 가져옵니다.
 
 ```csharp
 public byte K { get; }
 ```
 
-### 자산 가치
+### Property Value
 
-이 블랙 컴포넌트 값[`Color`](../../color/) .
+이 [`Color`](../../color/)의 검은색 구성 요소 값.
 
-### 또한보십시오
+### 또 보기
 
 * struct [CmykColor](../)
-* 네임스페이스 [Aspose.PSD](../../cmykcolor/)
-* 집회 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
