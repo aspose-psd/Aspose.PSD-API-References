@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Aspose.PSD for .NET API 参考
-description: IPlacedLayerResource 财产. 获取或设置PSD图像中放置层的扭曲值
+title: "IPlacedLayerResource.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPlacedLayerResource 属性。获取或设置 PSD 图像中已放置图层的扭曲值"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
-获取或设置PSD图像中放置层的扭曲值。
+获取或设置 PSD 图像中已放置图层的扭曲值。
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-放置层的扭曲值。
+已放置图层的扭曲值。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPlacedLayerResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

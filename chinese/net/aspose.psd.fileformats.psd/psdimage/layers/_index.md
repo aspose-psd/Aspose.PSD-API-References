@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取或设置 PSD 图层
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。 获取或设置 PSD 图层"
 type: docs
 weight: 200
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
 获取或设置 PSD 图层。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/layers/
 public Layer[] Layers { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-PSD 层。
+PSD 图层。
 
-### 评论
+## 备注
 
-请注意，如果没有图层，图层和蒙版信息部分中的其他相关信息将不会被保留（图层蒙版、资源等）。
+请注意，如果没有图层，层和蒙版信息部分中的其他相关信息（图层蒙版、资源等）将不会被保留。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

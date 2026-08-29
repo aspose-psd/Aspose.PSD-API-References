@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.Length
-second_title: Aspose.PSD for .NET API 参考
-description: FilterEffectMaskData 财产. 获取以字节为单位的过滤器掩码数据长度
+title: "FilterEffectMaskData.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FilterEffectMaskData 属性。获取过滤掩码数据的字节长度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Length property
 
-获取以字节为单位的过滤器掩码数据长度。
+获取过滤遮罩数据的字节长度。
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterEffectMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

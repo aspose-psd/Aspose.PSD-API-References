@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 构造函数. 初始化一个新的实例Layer班级延迟初始化的构造函数.
+title: "Layer.Layer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 构造函数。初始化 Layer 类的新实例。用于延迟初始化的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-初始化一个新的实例[`Layer`](../)班级。延迟初始化的构造函数.
+初始化 [`Layer`](../) 类的新实例。用于延迟初始化的构造函数。
 
 ```csharp
 public Layer()
 ```
 
-### 例子
+## 示例
 
-下面的示例演示了如果在 Aspose.PSD 中使用简单的构造函数版本，您可以如何在新创建的图层上绘图
+以下示例演示了在 Aspose.PSD 中使用简易构造函数版本时，如何在新创建的图层上绘图
 
 ```csharp
 [C#]
@@ -35,40 +36,40 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // 用钢笔工具画一个矩形
+    // 使用 Pen 工具绘制矩形
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // 用蓝色实心画笔绘制另一个矩形
+    // 使用蓝色实心画刷绘制另一个矩形
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-初始化一个新的实例[`Layer`](../)类.
+初始化一个新的 [`Layer`](../) 类实例。
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | RasterImage | 图片。 |
-| disposeImage | Boolean | 如果设置为`真的` [处理图像]。 |
+| image | RasterImage | 图像。 |
+| disposeImage | 布尔 | 如果设置为 `true` [释放图像]。 |
 
-### 例子
+## 示例
 
-以下代码演示了无需直接加载即可将 JPEG/PNG/等图像文件加载到 PsdImage 的能力。
+以下代码演示了在不直接加载的情况下，将 JPEG/PNG 等图像文件加载到 PsdImage 的能力。
 
 ```csharp
 [C#]
@@ -100,30 +101,30 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-初始化一个新的实例[`Layer`](../)类.
+初始化一个新的 [`Layer`](../) 类实例。
 
 ```csharp
 public Layer(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 图像流 |
+| 流 | 流 | 图像流 |
 
-### 例子
+## 示例
 
-以下示例演示了如何将 Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 图像作为图层添加到 PsdImage
+以下示例演示如何将 Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 图像作为图层添加到 PsdImage
 
 ```csharp
 [C#]
@@ -170,23 +171,23 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-初始化一个新的实例[`Layer`](../)来自字节数组的类.
+从字节数组初始化一个新的 [`Layer`](../) 类实例。
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | bounds | Rectangle | 图层边界。 |
 | redBytes | Byte[] | 红色字节。 |
@@ -194,17 +195,17 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 | blueBytes | Byte[] | 蓝色字节。 |
 | name | String | 图层名称。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 字节数组不能为空 or 字节数组长度必须等于边界尺寸 (bounds.Width * bounds.Height) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 字节数组不能为空，或者字节数组长度必须等于边界尺寸 (bounds.Width * bounds.Height) |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

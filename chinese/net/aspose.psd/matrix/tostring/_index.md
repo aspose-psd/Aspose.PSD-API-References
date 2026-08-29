@@ -1,14 +1,15 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 方法. 返回一个String代表这个实例.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 方法。返回表示此实例的字符串"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-返回一个String代表这个实例.
+返回一个表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

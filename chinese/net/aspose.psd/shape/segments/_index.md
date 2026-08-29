@@ -1,11 +1,12 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD for .NET API 参考
-description: Shape 财产. 获取形状段
+title: "Shape.Segments"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Shape 属性。获取形状段"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
 获取形状段。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/shape/segments/
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 形状段。
 
-### 也可以看看
+### 另请参阅
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* 命名空间 [Aspose.PSD](../../shape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

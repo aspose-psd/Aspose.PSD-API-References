@@ -1,23 +1,24 @@
 ---
-title: Size.Height
-second_title: Aspose.PSD for .NET API 参考
-description: Size 财产. 获取或设置此的垂直分量Size .
+title: "Size.Height"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Size 属性。获取或设置此 Size 的垂直分量。"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-获取或设置此的垂直分量[`Size`](../) .
+获取或设置此 [`Size`](../) 的垂直分量。
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../)
-* 命名空间 [Aspose.PSD](../../size/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

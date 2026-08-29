@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 更新这个Region仅包含其内部不与指定的相交的部分RectangleF结构.
+title: "Region.Exclude"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。将此 Region 更新为仅包含其内部不与指定的 RectangleF 结构相交的部分"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-更新这个[`Region`](../)仅包含其内部不与指定的相交的部分[`RectangleF`](../../rectanglef/)结构.
+将此 [`Region`](../) 更新为仅包含其内部不与指定的 [`RectangleF`](../../rectanglef/) 结构相交的部分。
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 这[`RectangleF`](../../rectanglef/)从中排除的结构[`Region`](../). |
+| rect | RectangleF | 用于从此 [`Region`](../) 中排除的 [`RectangleF`](../../rectanglef/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-更新这个[`Region`](../)仅包含其内部不与指定的相交的部分[`Rectangle`](../../rectangle/)结构.
+将此 [`Region`](../) 更新为仅包含其内部不与指定的 [`Rectangle`](../../rectangle/) 结构相交的部分。
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../../rectangle/)从中排除的结构[`Region`](../). |
+| rect | Rectangle | 要从此 [`Region`](../) 中排除的 [`Rectangle`](../../rectangle/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-更新这个[`Region`](../)仅包含其内部不与指定的相交的部分[`GraphicsPath`](../../graphicspath/) .
+将此 [`Region`](../) 更新为仅包含其内部不与指定的 [`GraphicsPath`](../../graphicspath/) 相交的部分。
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath/)从中排除[`Region`](../). |
+| path | GraphicsPath | 要从此 [`Region`](../) 中排除的 [`GraphicsPath`](../../graphicspath/)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*为空。 |
+| ArgumentNullException | *path* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-更新这个[`Region`](../)仅包含其内部不与指定的相交的部分[`Region`](../) .
+将此 [`Region`](../) 更新为仅包含其内部不与指定的 [`Region`](../) 相交的部分。
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | 这[`Region`](../)从中排除[`Region`](../). |
+| region | Region | 要从此 [`Region`](../) 中排除的 [`Region`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*为空。 |
+| ArgumentNullException | *region* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

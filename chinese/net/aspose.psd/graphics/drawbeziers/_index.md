@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawBeziers
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 从数组中绘制一系列贝塞尔样条Point结构.
+title: "Graphics.DrawBeziers"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。从 Point 结构数组绘制一系列 Bézier 样条。"
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-从数组中绘制一系列贝塞尔样条[`Point`](../../point/)结构.
+从 [`Point`](../../point/) 结构数组绘制一系列 Bézier 样条。
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和样式。 |
-| points | Point[] | 阵列的[`Point`](../../point/)表示决定曲线的点的结构。 |
+| pen | Pen | 确定曲线的颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| points | Point[] | 由 [`Point`](../../point/) 结构组成的数组，表示决定曲线的点。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-从数组中绘制一系列贝塞尔样条[`PointF`](../../pointf/)结构.
+从 [`PointF`](../../pointf/) 结构数组绘制一系列 Bézier 样条。
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和样式。 |
-| points | PointF[] | 阵列的[`PointF`](../../pointf/)表示决定曲线的点的结构。 |
+| pen | Pen | 确定曲线的颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| points | PointF[] | 由 [`PointF`](../../pointf/) 结构组成的数组，表示决定曲线的点。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 按包加载部分像素
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。按包部分加载像素"
 type: docs
-weight: 390
+weight: 400
 url: /zh/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-按包加载部分像素。
+按包部分加载像素。
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | 所需的矩形。 |
 | pixelLoader | IPartialPixelLoader | 像素加载器。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

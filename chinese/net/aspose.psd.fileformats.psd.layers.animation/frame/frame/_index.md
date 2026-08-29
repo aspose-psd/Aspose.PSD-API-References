@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Aspose.PSD for .NET API 参考
-description: Frame 构造函数. 初始化一个新的实例Frame类.
+title: "Frame.Frame"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Frame 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-初始化一个新的实例[`Frame`](../)类.
+默认构造函数。
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| timeLine | TimeLine | 时间轴对象。 |
+### 另请参阅
 
-### 也可以看看
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

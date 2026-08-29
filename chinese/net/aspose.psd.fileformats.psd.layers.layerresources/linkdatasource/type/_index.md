@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD for .NET API 参考
-description: LinkDataSource 财产. 获取Adobe Photoshop 全局链接数据源类型可以是以下之一或无 PSD Lnk2Resource 对应的嵌入链接文件liFD PSD LnkeResource 对应的外部链接文件liFE 链接文件别名liFA
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkDataSource 属性。获取 Adobe Photoshop 全局链接数据源类型，可为以下之一或无：对应 PSD Lnk2Resource 的嵌入链接文件 liFD；对应 PSD LnkeResource 的外部链接文件 liFE；链接文件别名 liFA。"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-获取Adobe® Photoshop® 全局链接数据源类型，可以是以下之一或无： PSD Lnk2Resource 对应的嵌入链接文件liFD PSD LnkeResource 对应的外部链接文件liFE 链接文件别名liFA
+获取 Adobe® Photoshop® 全局链接数据源类型，该类型可以是以下之一或无：对应于 PSD Lnk2Resource 的嵌入链接文件 liFD，对应于 PSD LnkeResource 的外部链接文件 liFE，链接文件别名 liFA。
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 PSD 链接数据源类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

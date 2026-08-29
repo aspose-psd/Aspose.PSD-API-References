@@ -1,30 +1,31 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.HotkeyPrefix 枚举. 指定与文本相关的热键前缀的显示类型
+title: "枚举 HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.HotkeyPrefix 枚举。指定与文本相关的热键前缀的显示类型"
 type: docs
-weight: 4350
+weight: 4820
 url: /zh/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-指定与文本相关的热键前缀的显示类型。
+指定与文本相关的快捷键前缀的显示类型。
 
 ```csharp
 public enum HotkeyPrefix
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 没有热键前缀。 |
+| None | `0` | 无热键前缀。 |
 | Show | `1` | 显示热键前缀。 |
 | Hide | `2` | 不显示热键前缀。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

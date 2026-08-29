@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Sources.FileOpenSource 班级. 表示打开的文件源
+title: "类 FileOpenSource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Sources.FileOpenSource 类。表示用于打开的文件源。"
 type: docs
-weight: 5600
+weight: 6100
 url: /zh/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-表示打开的文件源。
+表示用于打开的文件源。
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -16,27 +17,27 @@ public sealed class FileOpenSource : FileSource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | 初始化一个新的实例`FileOpenSource`类. |
+| [FileOpenSource](fileopensource/)(string) | 初始化 `FileOpenSource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | 获取要打开的文件路径。 |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | 获取一个值，该值指示文件是否是临时的。 |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | 获取指示文件是否为临时的值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | 获取流容器。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FileSource](../filesource/)
-* 命名空间 [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

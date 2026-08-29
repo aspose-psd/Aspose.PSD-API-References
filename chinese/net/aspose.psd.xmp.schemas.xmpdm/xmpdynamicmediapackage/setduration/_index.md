@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDuration
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDynamicMediaPackage 方法. 设置持续时间
+title: "XmpDynamicMediaPackage.SetDuration"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDynamicMediaPackage 方法。设置持续时间"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDuration method
 
 设置持续时间。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration/
 public void SetDuration(Time duration)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| duration | Time | 持续时间。 |
+| 持续时间 | 时间 | 持续时间。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

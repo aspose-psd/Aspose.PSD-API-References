@@ -1,11 +1,12 @@
 ---
-title: VstkResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: VstkResource 财产. 获取图层资源键
+title: "VstkResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VstkResource 属性。获取图层资源键"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/
 ---
+{{< psd/tize >}}
 ## VstkResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vs
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VstkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

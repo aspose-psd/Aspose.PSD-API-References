@@ -1,34 +1,35 @@
 ---
-title: Rectangle.FromLeftTopRightBottom
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 创建一个Rectangle具有指定边缘位置的结构.
+title: "Rectangle.FromLeftTopRightBottom"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。使用指定的边缘位置创建一个 Rectangle 结构。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/rectangle/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromLeftTopRightBottom method
 
-创建一个[`Rectangle`](../)具有指定边缘位置的结构.
+使用指定的边缘位置创建一个 [`Rectangle`](../) 结构。
 
 ```csharp
 public static Rectangle FromLeftTopRightBottom(int left, int top, int right, int bottom)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Int32 | 这个的左上角的x坐标[`Rectangle`](../)结构。 |
-| top | Int32 | 这个的左上角的y坐标[`Rectangle`](../)结构。 |
-| right | Int32 | 这个的右下角的x坐标[`Rectangle`](../)结构。 |
-| bottom | Int32 | 这个右下角的y坐标[`Rectangle`](../)结构。 |
+| left | Int32 | 此 [`Rectangle`](../) 结构左上角的 x 坐标。 |
+| top | Int32 | 此 [`Rectangle`](../) 结构左上角的 y 坐标。 |
+| right | Int32 | 此[`Rectangle`](../)结构的右下角的 x 坐标。 |
+| bottom | Int32 | 此[`Rectangle`](../)结构的右下角的 y 坐标。 |
 
 ### 返回值
 
-新的[`Rectangle`](../)该方法创建的。
+此方法创建的新[`Rectangle`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

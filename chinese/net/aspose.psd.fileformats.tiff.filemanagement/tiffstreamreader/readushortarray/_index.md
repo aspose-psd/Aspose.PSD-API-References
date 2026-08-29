@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamReader 方法. 从流中读取一个无符号整数值数组
+title: "TiffStreamReader.ReadUShortArray"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamReader 方法。从流中读取无符号整数值数组。"
 type: docs
 weight: 220
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShortArray method
 
-从流中读取一个无符号整数值数组。
+从流中读取无符号整数数组。
 
 ```csharp
 public ushort[] ReadUShortArray(long position, long count)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| position | Int64 | 要读取的位置。 |
-| count | Int64 | 元素很重要。 |
+| 位置 | Int64 | 读取的位置。 |
+| count | Int64 | 元素计数。 |
 
 ### 返回值
 
 无符号整数值数组。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | count;总字节数为负数。 + 计数 + x2= + 总字节数 |
+| ArgumentOutOfRangeException | count;总字节计数为负数。+ count + x2= + totalBytes |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamReader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

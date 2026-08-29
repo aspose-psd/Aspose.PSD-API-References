@@ -1,57 +1,58 @@
 ---
-title: CmykColorHelper.ToArgb
-second_title: Aspose.PSD for .NET API 参考
-description: CmykColorHelper 方法. 从 CMYK 颜色到 ARGB 颜色的转换
+title: "CmykColorHelper.ToArgb"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykColorHelper 方法。将 CMYK 颜色转换为 ARGB 颜色。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/cmykcolorhelper/toargb/
 ---
+{{< psd/tize >}}
 ## ToArgb(int[]) {#toargb_1}
 
-从 CMYK 颜色到 ARGB 颜色的转换。
+CMYK 颜色到 ARGB 颜色的转换。
 
 ```csharp
 public static Color[] ToArgb(int[] cmykPixels)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK 颜色显示为 32 位整数值。 |
+| cmykPixels | Int32[] | 以 32 位整数值表示的 CMYK 颜色。 |
 
 ### 返回值
 
 ARGB 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 命名空间 [Aspose.PSD](../../cmykcolorhelper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgb(int) {#toargb}
 
-从 CMYK 颜色到 ARGB 颜色的转换。
+CMYK 颜色到 ARGB 颜色的转换。
 
 ```csharp
 public static Color ToArgb(int cmykPixel)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK 颜色显示为 32 位整数值。 |
+| cmykPixel | Int32 | 以 32 位整数值表示的 CMYK 颜色。 |
 
 ### 返回值
 
 ARGB 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 命名空间 [Aspose.PSD](../../cmykcolorhelper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

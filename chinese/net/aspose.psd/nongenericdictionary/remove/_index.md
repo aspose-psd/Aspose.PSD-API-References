@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 方法. 从 中删除具有指定键的元素IDictionary对象.
+title: "NonGenericDictionary.Remove"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 方法。从 IDictionary 对象中移除具有指定键的元素"
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-从 中删除具有指定键的元素IDictionary对象.
+从 IDictionary 对象中移除具有指定键的元素。
 
 ```csharp
 public void Remove(object key)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | Object | 要删除的元素的键。 |
+| 键 | Object | 要移除的元素的键。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

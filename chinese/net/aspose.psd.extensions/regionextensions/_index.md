@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Extensions.RegionExtensions 班级. 包含扩展方法Region类.
+title: "类 RegionExtensions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Extensions.RegionExtensions 类。包含针对 Region 类的扩展方法"
 type: docs
-weight: 1170
+weight: 1180
 url: /zh/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-包含扩展方法[`Region`](../../aspose.psd/region/)类.
+包含针对 [`Region`](../../aspose.psd/region/) 类的扩展方法。
 
 ```csharp
 public static class RegionExtensions
@@ -16,13 +17,13 @@ public static class RegionExtensions
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | 转换[`Region`](../../aspose.psd/region/)到Region . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | 将 [`Region`](../../aspose.psd/region/) 转换为 Region。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PathStructure.Prefix
-second_title: Aspose.PSD for .NET API 参考
-description: PathStructure 财产. 获取或设置路径前缀
+title: "PathStructure.Prefix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PathStructure 属性。获取或设置路径前缀"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
 获取或设置路径前缀。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string Prefix { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 完整路径。
 
-### 例子
+## 示例
 
-以下代码演示了加载具有 PathStructure 结构的文件的能力。
+以下代码演示了使用 PathStructure 结构加载文件的能力。
 
 ```csharp
 [C#]
@@ -34,10 +35,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PathStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

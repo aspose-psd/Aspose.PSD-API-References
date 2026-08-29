@@ -1,11 +1,12 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD for .NET API 参考
-description: LclrResource 财产. 获取或设置图层的颜色
+title: "LclrResource.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LclrResource 属性。获取或设置图层的颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
 获取或设置图层的颜色。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 例子
+## 示例
 
-以下示例演示如何更改 Aspose.PSD 中的工作表颜色突出显示（工作表颜色设置）
+以下示例演示了如何在 Aspose.PSD 中更改 Sheet Color Highlight（Sheet 颜色设置）。
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SheetColorHighlightEnum Color { get; set; }
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// 在文件中图层高亮的颜色是按照这个顺序的
+// 在文件中，图层高亮的颜色顺序如下：
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color 用于在视觉上突出显示图层。 
-// 例如，您可以更新 PSD 中的一些图层，然后用颜色突出显示您想要引起注意的图层。
+// 图层 Sheet Color 用于可视化地高亮图层。
+// 例如，您可以在 PSD 中更新某些图层，然后通过颜色高亮您想要吸引注意的图层。
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -50,7 +51,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // 颜色应该反转
+    // 颜色应当反转
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl 资源始终出现在 psd 文件资源列表中。
+            // lcrl 资源始终出现在 PSD 文件资源列表中。
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,11 +83,11 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

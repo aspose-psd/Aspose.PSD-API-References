@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.PSD for .NET API 参考
-description: ImageResizeSettings 财产. 获取或设置插值模式
+title: "ImageResizeSettings.Mode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageResizeSettings 属性。获取或设置插值模式"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
 获取或设置插值模式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/imageresizesettings/mode/
 public ResizeType Mode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* 命名空间 [Aspose.PSD](../../imageresizesettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

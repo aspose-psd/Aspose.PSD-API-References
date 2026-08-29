@@ -1,11 +1,12 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.PSD for .NET API 参考
-description: AdjustPalette 构造函数. 默认构造函数
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AdjustPalette 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 public AdjustPalette()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AdjustPalette](../)
-* 命名空间 [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

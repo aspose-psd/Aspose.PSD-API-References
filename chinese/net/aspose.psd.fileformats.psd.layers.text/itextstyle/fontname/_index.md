@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取或设置字体名称
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取或设置字体名称"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 获取或设置字体名称。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 public string FontName { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了在部分样式中更改字体名称的能力。
 
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

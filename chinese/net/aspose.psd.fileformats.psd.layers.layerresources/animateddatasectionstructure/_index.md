@@ -1,43 +1,44 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure 班级. 带有动画数据的部分
+title: "类 AnimatedDataSectionStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure 类。包含动画数据的部分。"
 type: docs
-weight: 2300
+weight: 2510
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
-带有动画数据的部分。
+包含动画数据的部分。
 
 ```csharp
 public class AnimatedDataSectionStructure : OSTypeStructure
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | 获取或设置动画数据部分结构。 |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | 获取或设置动画数据段结构。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | 获取结构键。 |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | 获取[`OSTypeStructure`](../ostypestructure/)字节长度. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 获取或设置键名称。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | 获取 [`OSTypeStructure`](../ostypestructure/) 的字节长度。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 获取标头长度。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 获取标题长度。 |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 将结构保存到指定的流容器中。 |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 将结构保存到指定的流容器中。 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | 标识 AnDs 的结构键。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | 识别 AnDs 的结构键。 |
 
-### 例子
+## 示例
 
 以下代码演示了如何在动画数据的时间轴帧中设置/更新延迟时间。
 
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 创建帧延迟记录，值为 100 厘秒，等于 1 秒。
+            // 创建帧延迟记录，值为 100 厘秒，即 1 秒。
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 以厘秒为单位设置时间。
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -105,10 +106,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../ostypestructure/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

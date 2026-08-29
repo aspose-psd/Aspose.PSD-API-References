@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取指示额外样本是否存在的值
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取一个值，指示是否存在额外样本"
 type: docs
-weight: 230
+weight: 240
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-获取指示额外样本是否存在的值。
+获取一个值，指示是否存在额外样本。
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果存在额外的样本；否则，`错误的` .
+`true` 如果存在额外样本；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

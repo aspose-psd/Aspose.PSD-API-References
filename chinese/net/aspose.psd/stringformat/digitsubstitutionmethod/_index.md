@@ -1,11 +1,12 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取或设置用于数字替换的方法
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取或设置用于数字替换的方法"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
 获取或设置用于数字替换的方法。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd/stringformat/digitsubstitutionmethod/
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`StringDigitSubstitute`](../../stringdigitsubstitute/)枚举值，指定如何替换字符串中因当前字体不支持而无法显示的字符。
+一个 [`StringDigitSubstitute`](../../stringdigitsubstitute/) 枚举值，指定如何替换因当前字体不支持而无法显示的字符串中的字符。
 
-### 评论
+## 备注
 
-setter 是为过时的方法 SetDigitSubstitution 引入的。
+为已废弃的方法 SetDigitSubstitution 引入了 setter。
 
-### 也可以看看
+### 另请参阅
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: AiImage.FileFormat
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取文件格式 的值
+title: "AiImage.FileFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取文件格式的值"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/fileformat/
 ---
+{{< psd/tize >}}
 ## AiImage.FileFormat property
 
-获取文件格式 的值
+获取文件格式的值。
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取表示图像是否平铺的值
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取指示图像是否平铺的值"
 type: docs
-weight: 240
+weight: 250
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-获取表示图像是否平铺的值。
+获取一个值，指示图像是否为平铺。
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果图像是平铺的；否则，`错误的` .
+`true` 如果图像是平铺的；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

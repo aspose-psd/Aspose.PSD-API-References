@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD for .NET API 参考
-description: PdfPackage 方法. 设置关键字
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PdfPackage 方法。设置关键字"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
 设置关键字。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 public void SetKeywords(string keywords)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| keywords | String | 关键字。 |
+| 关键字 | String | 关键字。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD for .NET API 参考
-description: UnitArrayStructure 财产. 获取值计数
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnitArrayStructure 属性。获取值的计数。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-获取值计数。
+获取值的计数。
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 单元数组结构中的值计数。
 
-### 例子
+## 示例
 
 以下代码演示了对 ObAr 和 UnFl 签名的支持。
 
@@ -72,10 +73,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitArrayStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

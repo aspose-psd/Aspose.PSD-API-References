@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD for .NET API 参考
-description: PolygonShape 财产. 获取或设置曲线点
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PolygonShape 属性。获取或设置曲线点"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
 获取或设置曲线点。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.shapes/polygonshape/points/
 public PointF[] Points { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 曲线点。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../polygonshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

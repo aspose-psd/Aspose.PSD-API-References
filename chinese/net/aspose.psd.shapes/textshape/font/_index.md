@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD for .NET API 参考
-description: TextShape 财产. 获取或设置用于绘制文本的字体
+title: "TextShape.Font"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextShape 属性。获取或设置用于绘制文本的字体"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 获取或设置用于绘制文本的字体。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.shapes/textshape/font/
 public Font Font { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 用于绘制文本的字体。
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../textshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

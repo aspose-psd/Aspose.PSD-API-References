@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Mode
-second_title: Aspose.PSD for .NET API 参考
-description: MultiPageOptions 财产. 获取或设置模式
+title: "MultiPageOptions.Mode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MultiPageOptions 属性。获取或设置模式"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/multipageoptions/mode/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Mode property
 
 获取或设置模式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/multipageoptions/mode/
 public MultiPageMode Mode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [MultiPageMode](../../multipagemode/)
 * class [MultiPageOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

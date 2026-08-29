@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode23976
-second_title: Aspose.PSD for .NET API 参考
-description: TimeFormat 财产. 获取时间码 23976.
+title: "TimeFormat.Timecode23976"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TimeFormat 属性。获取 timecode23976"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode23976/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode23976 property
 
-获取时间码 23976.
+获取 timecode23976。
 
 ```csharp
 public static TimeFormat Timecode23976 { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-时间码 23976.
+该 timecode23976。
 
-### 也可以看看
+### 另请参阅
 
 * class [TimeFormat](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

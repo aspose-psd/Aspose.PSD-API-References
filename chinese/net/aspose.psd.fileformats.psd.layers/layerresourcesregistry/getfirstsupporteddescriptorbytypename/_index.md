@@ -1,36 +1,37 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResourcesRegistry 方法. 通过其类型名称获取第一个支持的描述符
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResourcesRegistry 方法。获取按类型名称的第一个受支持的描述符"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-通过其类型名称获取第一个支持的描述符。
+通过类型名称获取第一个受支持的描述符。
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | descriptorTypeName | String | 描述符类型名称。 |
 
 ### 返回值
 
-第一个找到的开启者描述符或 null 如果没有找到这样的描述符。
+第一个找到的打开器描述符，如果未找到此类描述符则返回 null。
 
-### 评论
+## 备注
 
-第一个开启者描述符实际上是最后注册的。
+第一个打开器描述符实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

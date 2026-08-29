@@ -1,11 +1,12 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.BuildVersionInfo 班级. 包含当前构建版本信息
+title: "类 BuildVersionInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.BuildVersionInfo 类。包含当前构建版本信息"
 type: docs
 weight: 230
 url: /zh/net/aspose.psd/buildversioninfo/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo class
 
 包含当前构建版本信息。
@@ -16,7 +17,7 @@ public static class BuildVersionInfo
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | static readonly [AssemblyVersion](../../aspose.psd/buildversioninfo/assemblyversion/) | 程序集版本。 |
 | static readonly [FileVersion](../../aspose.psd/buildversioninfo/fileversion/) | 文件版本。 |
@@ -25,9 +26,9 @@ public static class BuildVersionInfo
 | static readonly [ProductMinor](../../aspose.psd/buildversioninfo/productminor/) | 次要产品版本。 |
 | static readonly [ReleaseDate](../../aspose.psd/buildversioninfo/releasedate/) | 产品发布日期。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

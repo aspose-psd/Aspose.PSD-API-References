@@ -1,11 +1,12 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD for .NET API 参考
-description: XmpInteger 财产. 获取或设置值
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpInteger 属性。获取或设置该值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
 获取或设置值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 public long Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-值。
+该值。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpInteger](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

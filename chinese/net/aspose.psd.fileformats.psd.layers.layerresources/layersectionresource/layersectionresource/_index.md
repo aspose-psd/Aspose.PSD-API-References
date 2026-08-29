@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: Aspose.PSD for .NET API 参考
-description: LayerSectionResource 构造函数. 初始化一个新的实例LayerSectionResource类.
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerSectionResource 构造函数。初始化 LayerSectionResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-初始化一个新的实例[`LayerSectionResource`](../)类.
+初始化 [`LayerSectionResource`](../) 类的新实例。
 
 ```csharp
 public LayerSectionResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerSectionResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

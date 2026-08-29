@@ -1,11 +1,12 @@
 ---
-title: Image.Height
-second_title: Aspose.PSD for .NET API 参考
-description: Image 财产. 获取图像高度
+title: "Image.Height"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 属性。获取图像高度"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
 获取图像高度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/image/height/
 public abstract int Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 图像高度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

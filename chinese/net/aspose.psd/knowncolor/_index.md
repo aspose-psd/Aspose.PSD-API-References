@@ -1,11 +1,12 @@
 ---
-title: Enum KnownColor
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.KnownColor 枚举. 指定已知的系统颜色
+title: "枚举 KnownColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.KnownColor 枚举。指定已知的系统颜色"
 type: docs
-weight: 5040
+weight: 5530
 url: /zh/net/aspose.psd/knowncolor/
 ---
+{{< psd/tize >}}
 ## KnownColor enumeration
 
 指定已知的系统颜色。
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd/knowncolor/
 public enum KnownColor
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Transparent | `27` | 系统定义的颜色。 |
 | AliceBlue | `28` | 系统定义的颜色。 |
@@ -160,9 +161,9 @@ public enum KnownColor
 | Yellow | `166` | 系统定义的颜色。 |
 | YellowGreen | `167` | 系统定义的颜色。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

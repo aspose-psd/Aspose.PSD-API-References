@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取光栅图像
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取光栅图像"
 type: docs
-weight: 120
+weight: 140
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-获取光栅图像。
+获取栅格图像。
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 光栅图像。
 
-### 例子
+## 示例
 
-下面的代码演示了如何在 AI 格式文件中加载光栅图像的设置。
+以下代码演示了如何在 AI 格式文件中加载栅格图像的设置。
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

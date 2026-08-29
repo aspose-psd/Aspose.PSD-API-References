@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolStyleInfo 财产. 获取或设置字距调整值
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolStyleInfo 属性。获取或设置字距值"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
-获取或设置字距调整值。
+获取或设置字距值。
 
 ```csharp
 public int KerningValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-字距调整值。
+字距值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolStyleInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置 ISO 速度
+title: "ExifData.ISOSpeed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置 ISO 速度"
 type: docs
 weight: 700
 url: /zh/net/aspose.psd.exif/exifdata/isospeed/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeed property
 
 获取或设置 ISO 速度
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/isospeed/
 public uint ISOSpeed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-ISO 感光度。
+ISO 速度。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

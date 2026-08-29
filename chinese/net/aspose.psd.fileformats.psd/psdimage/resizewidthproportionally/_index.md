@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 按比例调整宽度
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。按比例调整宽度"
 type: docs
-weight: 600
+weight: 660
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
 按比例调整宽度。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
-| settings | ImageResizeSettings | 图像调整大小设置。 |
+| 设置 | ImageResizeSettings | 图像调整大小的设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,16 +37,16 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | resizeType | ResizeType | 调整大小的类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

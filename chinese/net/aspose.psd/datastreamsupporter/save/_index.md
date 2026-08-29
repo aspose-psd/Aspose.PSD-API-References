@@ -1,44 +1,45 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD for .NET API 参考
-description: DataStreamSupporter 方法. 将对象的数据保存到当前DataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DataStreamSupporter 方法。将对象的数据保存到当前的 DataStreamSupporter。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-将对象的数据保存到当前[`DataStreamSupporter`](../) .
+将对象的数据保存到当前的 [`DataStreamSupporter`](../)。
 
 ```csharp
 public virtual void Save()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DataStreamSupporter](../)
-* 命名空间 [Aspose.PSD](../../datastreamsupporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-将对象的数据保存到指定的流中。
+将对象的数据保存到指定的流。
 
 ```csharp
 public virtual void Save(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 将对象数据保存到的流。 |
+| 流 | 流 | 用于保存对象数据的流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DataStreamSupporter](../)
-* 命名空间 [Aspose.PSD](../../datastreamsupporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -50,15 +51,15 @@ public virtual void Save(Stream stream)
 public void Save(string filePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存对象数据的文件路径。 |
+| filePath | String | 用于保存对象数据的文件路径。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DataStreamSupporter](../)
-* 命名空间 [Aspose.PSD](../../datastreamsupporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -70,15 +71,15 @@ public void Save(string filePath)
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存对象数据的文件路径。 |
-| overWrite | Boolean | 如果设置为`真的`覆盖文件内容，否则会发生追加。 |
+| filePath | String | 用于保存对象数据的文件路径。 |
+| overWrite | 布尔 | 如果设置为 `true`，则覆盖文件内容，否则将进行追加。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DataStreamSupporter](../)
-* 命名空间 [Aspose.PSD](../../datastreamsupporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

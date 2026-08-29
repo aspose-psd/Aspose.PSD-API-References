@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取或设置 BPP每像素位数比例因子
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取或设置 BPP 位每像素比例因子"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
 获取或设置 BPP（每像素位数）比例因子。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 public int BppScale { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 BPP 比例。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

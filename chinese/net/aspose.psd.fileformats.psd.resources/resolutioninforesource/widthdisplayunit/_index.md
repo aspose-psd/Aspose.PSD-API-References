@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Aspose.PSD for .NET API 参考
-description: ResolutionInfoResource 财产. 获取或设置宽度显示单位
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResolutionInfoResource 属性。获取或设置宽度显示单位"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
 获取或设置宽度显示单位。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdi
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 宽度显示单位。
 
-### 也可以看看
+### 另请参阅
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

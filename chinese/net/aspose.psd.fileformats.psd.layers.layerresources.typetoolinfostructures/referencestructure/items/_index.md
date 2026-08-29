@@ -1,11 +1,12 @@
 ---
-title: ReferenceStructure.Items
-second_title: Aspose.PSD for .NET API 参考
-description: ReferenceStructure 财产. 获取或设置结构数组的副本
+title: "ReferenceStructure.Items"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ReferenceStructure 属性。获取或设置结构数组的副本"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Items property
 
 获取或设置结构数组的副本。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-项目。
+这些项。
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ReferenceStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

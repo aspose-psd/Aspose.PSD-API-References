@@ -1,11 +1,12 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ColorQuantizationMethod 枚举. 颜色量化方法
+title: "枚举 ColorQuantizationMethod"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ColorQuantizationMethod 枚举。颜色量化方法"
 type: docs
 weight: 390
 url: /zh/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
 颜色量化方法
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd/colorquantizationmethod/
 public enum ColorQuantizationMethod
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 没有使用颜色量化方法 |
-| Popularity | `1` | 人气方法 |
+| None | `0` | 未使用颜色量化方法 |
+| Popularity | `1` | 流行度方法 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

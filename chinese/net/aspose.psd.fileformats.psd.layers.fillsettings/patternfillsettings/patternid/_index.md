@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternId
-second_title: Aspose.PSD for .NET API 参考
-description: PatternFillSettings 财产. 获取或设置模式标识符
+title: "PatternFillSettings.PatternId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PatternFillSettings 属性。获取或设置图案标识符"
 type: docs
-weight: 80
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternId property
 
-获取或设置模式标识符。
+获取或设置图案标识符。
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-模式标识符。
+图案标识符。
 
-### 例子
+## 示例
 
-以下代码演示了对 Fill Layer Pattern 编辑的支持。
+以下代码演示了对填充图层图案编辑的支持。
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // 编辑 
+            // 编辑
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD for .NET API 参考
-description: AudioChannelType 财产. 获取单声道音频通道
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AudioChannelType 属性。获取 mono 音频通道"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 获取单声道音频通道。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 public static AudioChannelType Mono { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-单声道音频通道。
+该 mono 音频通道。
 
-### 也可以看看
+### 另请参阅
 
 * class [AudioChannelType](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD for .NET API 参考
-description: GradientFillSettings 方法. 添加色点
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientFillSettings 方法。添加颜色点"
 type: docs
-weight: 160
+weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
-添加色点。
+添加颜色点。
 
 ```csharp
 public GradientTransparencyPoint AddTransparencyPoint()
@@ -16,13 +17,13 @@ public GradientTransparencyPoint AddTransparencyPoint()
 
 ### 返回值
 
-创建透明点
+已创建透明度点
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

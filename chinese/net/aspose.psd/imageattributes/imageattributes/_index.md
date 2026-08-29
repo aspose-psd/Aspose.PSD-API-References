@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Aspose.PSD for .NET API 参考
-description: ImageAttributes 构造函数. 默认构造函数
+title: "ImageAttributes.ImageAttributes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageAttributes 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/imageattributes/imageattributes/
 public ImageAttributes()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

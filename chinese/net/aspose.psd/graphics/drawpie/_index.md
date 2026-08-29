@@ -1,136 +1,137 @@
 ---
-title: Graphics.DrawPie
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 绘制由 a 指定的椭圆定义的饼形RectangleF结构和两条径向线.
+title: "Graphics.DrawPie"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。绘制由 RectangleF 结构指定的椭圆和两条径向线定义的饼形。"
 type: docs
-weight: 280
+weight: 290
 url: /zh/net/aspose.psd/graphics/drawpie/
 ---
+{{< psd/tize >}}
 ## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-绘制由 a 指定的椭圆定义的饼形[`RectangleF`](../../rectanglef/)结构和两条径向线.
+绘制由 [`RectangleF`](../../rectanglef/) 结构指定的椭圆和两条径向线定义的饼形。
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定饼图形状的颜色、宽度和样式。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)表示边界矩形的结构，该边界矩形定义饼图所来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图第一边的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 角度以度为单位顺时针从*startAngle*饼图第二面的参数。 |
+| pen | Pen | 决定饼形颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 结构，表示定义饼形来源椭圆的边界矩形。 |
+| startAngle | 单精度 | 角度，以度为单位，顺时针从 x 轴测量到饼形的第一条边。 |
+| sweepAngle | 单精度 | 角度，以度为单位，顺时针从 *startAngle* 参数测量到饼形的第二条边。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, float, float, float, float, float, float) {#drawpie_3}
 
-绘制由坐标对、宽度、高度和两条径向线指定的椭圆定义的饼形。
+绘制由坐标对、宽度、高度以及两条径向线指定的椭圆定义的饼形。
 
 ```csharp
 public void DrawPie(Pen pen, float x, float y, float width, float height, float startAngle, 
     float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定饼图形状的颜色、宽度和样式。 |
-| x | Single | 边界矩形左上角的 x 坐标，它定义了饼图所在的椭圆。 |
-| y | Single | 边界矩形左上角的 y 坐标，该边界矩形定义饼图所在的椭圆。 |
-| width | Single | 定义饼图来源的椭圆的边界矩形的宽度。 |
-| height | Single | 边界矩形的高度，用于定义饼图所在的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图第一边的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 角度以度为单位顺时针从*startAngle*饼图第二面的参数。 |
+| pen | Pen | 决定饼形颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| x | 单精度 | 定义饼形来源椭圆的边界矩形左上角的 x 坐标。 |
+| y | 单精度 | 定义饼形来源椭圆的边界矩形左上角的 y 坐标。 |
+| 宽度 | 单精度 | 定义饼形来源椭圆的边界矩形的宽度。 |
+| 高度 | 单精度 | 定义饼形来源椭圆的边界矩形的高度。 |
+| startAngle | 单精度 | 角度，以度为单位，顺时针从 x 轴测量到饼形的第一条边。 |
+| sweepAngle | 单精度 | 角度，以度为单位，顺时针从 *startAngle* 参数测量到饼形的第二条边。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-绘制由 a 指定的椭圆定义的饼形[`Rectangle`](../../rectangle/)结构和两条径向线.
+绘制由使用 [`Rectangle`](../../rectangle/) 结构指定的椭圆和两条径向线定义的饼形。
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定饼图形状的颜色、宽度和样式。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)表示边界矩形的结构，该边界矩形定义饼图所来自的椭圆。 |
-| startAngle | Single | 从 x 轴到饼图第一边的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 角度以度为单位顺时针从*startAngle*饼图第二面的参数。 |
+| pen | Pen | 决定饼形颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) 结构，表示定义饼形来源椭圆的边界矩形。 |
+| startAngle | 单精度 | 角度，以度为单位，顺时针从 x 轴测量到饼形的第一条边。 |
+| sweepAngle | 单精度 | 角度，以度为单位，顺时针从 *startAngle* 参数测量到饼形的第二条边。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, int, int, int, int, int, int) {#drawpie_2}
 
-绘制由坐标对、宽度、高度和两条径向线指定的椭圆定义的饼形。
+绘制由坐标对、宽度、高度以及两条径向线指定的椭圆定义的饼形。
 
 ```csharp
 public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定饼图形状的颜色、宽度和样式。 |
-| x | Int32 | 边界矩形左上角的 x 坐标，它定义了饼图所在的椭圆。 |
-| y | Int32 | 边界矩形左上角的 y 坐标，该边界矩形定义饼图所在的椭圆。 |
-| width | Int32 | 定义饼图来源的椭圆的边界矩形的宽度。 |
-| height | Int32 | 边界矩形的高度，用于定义饼图所在的椭圆。 |
-| startAngle | Int32 | 从 x 轴到饼图第一边的顺时针角度（以度为单位）。 |
-| sweepAngle | Int32 | 角度以度为单位顺时针从*startAngle*饼图第二面的参数。 |
+| pen | Pen | 决定饼形颜色、宽度和样式的 [`Pen`](../../pen/)。 |
+| x | Int32 | 定义饼形来源椭圆的边界矩形左上角的 x 坐标。 |
+| y | Int32 | 定义饼形来源椭圆的边界矩形左上角的 y 坐标。 |
+| 宽度 | Int32 | 定义饼形来源椭圆的边界矩形的宽度。 |
+| 高度 | Int32 | 定义饼形来源椭圆的边界矩形的高度。 |
+| startAngle | Int32 | 角度，以度为单位，顺时针从 x 轴测量到饼形的第一条边。 |
+| sweepAngle | Int32 | 角度，以度为单位，顺时针从 *startAngle* 参数测量到饼形的第二条边。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BmpImageException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException 班级. bmp 图像异常
+title: "类 BmpImageException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException 类。bmp 图像异常"
 type: docs
 weight: 510
 url: /zh/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException class
 
-bmp 图像异常。
+该 bmp 图像异常。
 
 ```csharp
 public class BmpImageException : ImageException
@@ -16,15 +17,15 @@ public class BmpImageException : ImageException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BmpImageException](bmpimageexception/#constructor)(string) | 初始化一个新的实例`BmpImageException`类. |
-| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | 初始化一个新的实例`BmpImageException`类. |
+| [BmpImageException](bmpimageexception/#constructor)(string) | 初始化 `BmpImageException` 类的新实例。 |
+| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | 初始化 `BmpImageException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

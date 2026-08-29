@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode5994
-second_title: Aspose.PSD for .NET API 参考
-description: TimeFormat 财产. 获取非掉落时间码5994.
+title: "TimeFormat.NonDropTimecode5994"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TimeFormat 属性。获取 non drop timecode5994"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode5994/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode5994 property
 
-获取非掉落时间码5994.
+获取 non drop timecode5994。
 
 ```csharp
 public static TimeFormat NonDropTimecode5994 { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-非掉落时间码5994.
+该 non drop timecode5994。
 
-### 也可以看看
+### 另请参阅
 
 * class [TimeFormat](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 方法. 添加 AI 层部分
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 方法。添加 AI 层部分"
 type: docs
-weight: 130
+weight: 160
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-添加 AI 层部分。
+添加 AI 图层段。
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | AiLayerSection | AI层部分。 |
+| 图层 | AiLayerSection | 该 AI 层部分。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

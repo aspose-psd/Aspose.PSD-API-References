@@ -1,27 +1,28 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取每像素计数的图像位数
+title: "Layer.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取图像每像素位数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
-获取每像素计数的图像位数。
+获取图像每像素位数的计数。
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-每像素计数的图像位数。
+图像每像素位数计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

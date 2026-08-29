@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置目标打印机
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置目标打印机"
 type: docs
-weight: 500
+weight: 510
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
 获取或设置目标打印机。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 public string TargetPrinter { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 目标打印机。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

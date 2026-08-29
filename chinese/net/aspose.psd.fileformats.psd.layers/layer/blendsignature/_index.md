@@ -1,23 +1,24 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 场地. 代表混合模式签名
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 字段。表示混合模式签名"
 type: docs
-weight: 390
+weight: 410
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-代表混合模式签名。
+表示混合模式签名。
 
 ```csharp
 public const int BlendSignature;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

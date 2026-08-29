@@ -1,20 +1,21 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD for .NET API 参考
-description: RgbChannelMixerLayer 方法. 获取通道索引返回 RgbMixerChannel
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RgbChannelMixerLayer 方法。获取通道的索引。返回 RgbMixerChannel"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-获取通道索引。返回 RgbMixerChannel
+获取通道的索引。返回 RgbMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 索引。 |
 
@@ -22,17 +23,17 @@ public override MixerChannel GetChannelByIndex(int index)
 
 [`RgbMixerChannel`](../../rgbmixerchannel/)
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer 的通道数不超过 3 个。第一个通道的索引为 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer 最多只有 3 个通道。第一个通道的索引是 0 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

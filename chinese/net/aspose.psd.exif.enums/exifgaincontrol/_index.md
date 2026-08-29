@@ -1,11 +1,12 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifGainControl 枚举. exif 增益控制枚举
+title: "枚举 ExifGainControl"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl 枚举。exif 增益控制枚举"
 type: docs
-weight: 880
+weight: 890
 url: /zh/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
 exif 增益控制枚举。
@@ -14,19 +15,19 @@ exif 增益控制枚举。
 public enum ExifGainControl
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 无增益控制。 |
-| LowGainUp | `1` | 低增益 up. |
-| HighGainUp | `2` | 高增益。 |
-| LowGainDown | `3` | 低增益下降. |
-| HighGainDown | `4` | 高增益下降. |
+| LowGainUp | `1` | 低增益提升。 |
+| HighGainUp | `2` | 高增益提升。 |
+| LowGainDown | `3` | 低增益降低。 |
+| HighGainDown | `4` | 高增益下降。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

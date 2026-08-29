@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Inequality
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 方法. 判断指定点的坐标是否不相等
+title: "PointF.op_Inequality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 方法。确定指定点的坐标是否不相等。"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/pointf/op_inequality/
 ---
+{{< psd/tize >}}
 ## PointF Inequality operator
 
-判断指定点的坐标是否不相等。
+确定指定点的坐标是否不相等。
 
 ```csharp
 public static bool operator !=(PointF point1, PointF point2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point1 | PointF | 第一[`PointF`](../)比较。 |
-| point2 | PointF | 一秒[`PointF`](../)比较。 |
+| point1 | PointF | 要比较的第一个 [`PointF`](../)。 |
+| point2 | PointF | 要比较的第二个 [`PointF`](../)。 |
 
 ### 返回值
 
-真实地表明[`X`](../x/)和[`Y`](../y/)的值*point1*和*point2*不相等；否则，假的。
+若 *point1* 和 *point2* 的 [`X`](../x/) 与 [`Y`](../y/) 值不相等，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

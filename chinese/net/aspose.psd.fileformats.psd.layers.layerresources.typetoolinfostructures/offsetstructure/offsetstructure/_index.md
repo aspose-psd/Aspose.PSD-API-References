@@ -1,29 +1,30 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Aspose.PSD for .NET API 参考
-description: OffsetStructure 构造函数. 初始化一个新的实例OffsetStructure类.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OffsetStructure 构造函数。初始化 OffsetStructure 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-初始化一个新的实例[`OffsetStructure`](../)类.
+初始化 [`OffsetStructure`](../) 类的新实例。
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
-| classID | ClassID | 类 ID。 |
+| keyName | ClassID | 键名。 |
+| classID | ClassID | 类标识。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

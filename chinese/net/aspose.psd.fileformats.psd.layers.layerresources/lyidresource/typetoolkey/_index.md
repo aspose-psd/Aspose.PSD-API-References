@@ -1,11 +1,12 @@
 ---
-title: LyidResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: LyidResource 场地. 类型工具信息键
+title: "LyidResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LyidResource 字段。类型工具信息键"
 type: docs
-weight: 80
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LyidResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LyidResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

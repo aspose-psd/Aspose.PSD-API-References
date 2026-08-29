@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含 Adobe Photoshop 使用的相关辅助类常量和方法
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含与 Adobe Photoshop 相关的帮助类、常量和方法。"
 type: docs
-weight: 550
+weight: 590
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/
 ---
-命名空间包含 Adobe Photoshop 使用的相关辅助类、常量和方法。
+{{< psd/tize >}}
+该命名空间包含 Adobe Photoshop 使用的相关帮助类、常量和方法。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [Layer](./layer/) | 代表Photoshop文本层。 |
+| [Layer](./layer/) | 表示 Photoshop 文本图层。 |
 | [PhotoshopPackage](./photoshoppackage/) | 表示 Adobe Photoshop 命名空间。 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [ColorMode](./colormode/) | 代表颜色模式在[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | 表示 [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) 中的颜色模式。 |
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.Create8BitGrayscale
-second_title: Aspose.PSD for .NET API 参考
-description: ColorPaletteHelper 方法. 创建 8 位灰度调色板
+title: "ColorPaletteHelper.Create8BitGrayscale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorPaletteHelper 方法。创建 8 位灰度调色板"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8BitGrayscale method
 
 创建 8 位灰度调色板。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd/colorpalettehelper/create8bitgrayscale/
 public static IColorPalette Create8BitGrayscale(bool minIsWhite)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| minIsWhite | Boolean | 如果设置为`真的`调色板以白色开头，否则以黑色开头。 |
+| minIsWhite | 布尔 | 如果设置为 `true`，调色板将以白色开始，否则以黑色开始。 |
 
 ### 返回值
 
 8 位灰度调色板。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* 命名空间 [Aspose.PSD](../../colorpalettehelper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

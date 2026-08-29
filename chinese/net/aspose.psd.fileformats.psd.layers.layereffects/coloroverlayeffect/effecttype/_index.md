@@ -1,20 +1,21 @@
 ---
-title: ColorOverlayEffect.EffectType
-second_title: Aspose.PSD for .NET API 参考
-description: ColorOverlayEffect 财产. 获取一种效果
+title: "ColorOverlayEffect.EffectType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorOverlayEffect 属性。获取效果的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.EffectType property
 
-获取一种效果
+获取一种效果类型
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对 ILayerEffect.EffectType 属性的支持。
 
@@ -40,18 +41,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // 它抓住了
+            // 已捕获
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [ColorOverlayEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CurvesManager.MaxChannelCount
-second_title: Aspose.PSD for .NET API 参考
-description: CurvesManager 财产. 获取最大通道数
+title: "CurvesManager.MaxChannelCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvesManager 属性。获取最大通道数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/
 ---
+{{< psd/tize >}}
 ## CurvesManager.MaxChannelCount property
 
 获取最大通道数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxc
 public int MaxChannelCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-最大通道数。
+最大通道计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvesManager](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpGraphicsThumbnail
-second_title: Aspose.PSD for .NET API 参考
-description: Namespaces 场地. XMP 图形命名空间
+title: "Namespaces.XmpGraphicsThumbnail"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Namespaces 字段。XMP 图形命名空间"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphicsThumbnail field
 
-XMP 图形命名空间。
+XMP graphics 命名空间。
 
 ```csharp
 public const string XmpGraphicsThumbnail;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Namespaces](../)
-* 命名空间 [Aspose.PSD.Xmp](../../namespaces/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

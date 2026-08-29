@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SamplesPerPixel
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取每个像素的样本要更改此属性值请使用BitsPerSample属性设置器.
+title: "TiffOptions.SamplesPerPixel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取每像素样本数。若要更改此属性值，请使用 BitsPerSample 属性设置器"
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SamplesPerPixel property
 
-获取每个像素的样本。要更改此属性值，请使用[`BitsPerSample`](../bitspersample/)属性设置器.
+获取每像素样本数。若要更改此属性值，请使用 [`BitsPerSample`](../bitspersample/) 属性设置器。
 
 ```csharp
 public ushort SamplesPerPixel { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-每个像素的样本。
+每像素的样本数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

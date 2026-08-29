@@ -1,14 +1,15 @@
 ---
-title: Class FilterEffectMaskData
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData 班级. 过滤器掩码数据类
+title: "类 FilterEffectMaskData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FilterEffectMaskData 类。过滤遮罩数据类"
 type: docs
-weight: 2480
+weight: 2740
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData class
 
-过滤器掩码数据类。
+滤镜蒙版数据类。
 
 ```csharp
 public sealed class FilterEffectMaskData
@@ -16,31 +17,31 @@ public sealed class FilterEffectMaskData
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | 初始化一个新的实例`FilterEffectMaskData`类. |
+| [FilterEffectMaskData](filtereffectmaskdata/)(string, Rectangle, int, int, ChannelInformation[], ChannelInformation, Rectangle, ChannelInformation) | 初始化 `FilterEffectMaskData` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Channels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/channels/) { get; } | 获取通道。 |
 | [GUID](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/) { get; } | 获取 GUID。 |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/) { get; } | 获取以字节为单位的过滤器掩码数据长度。 |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/) { get; } | 获取工作表蒙版矩形。 |
-| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | 获取最大通道数。 |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/) { get; } | 获取过滤遮罩数据的字节长度。 |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/) { get; } | 获取工作表遮罩矩形。 |
+| [MaxChannels](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/) { get; } | 获取通道计数的最大值。 |
 | [PixelsDepth](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/) { get; } | 获取像素深度。 |
 | [Rectangle](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/rectangle/) { get; } | 获取通道矩形。 |
-| [SheetMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/) { get; } | 获取工作表掩码。 |
-| [UserMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/) { get; } | 获取用户掩码。 |
+| [SheetMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/) { get; } | 获取工作表遮罩。 |
+| [UserMask](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/) { get; } | 获取用户遮罩。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [SaveData](../../aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/)(StreamContainer) | 将资源保存到指定的流容器中。 |
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 FXidResource 资源的属性。
 
@@ -51,7 +52,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -87,9 +88,9 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

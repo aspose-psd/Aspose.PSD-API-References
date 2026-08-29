@@ -1,20 +1,21 @@
 ---
-title: FXidResource.FilterEffectMasks
-second_title: Aspose.PSD for .NET API 参考
-description: FXidResource 财产. 获取滤镜效果遮罩
+title: "FXidResource.FilterEffectMasks"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FXidResource 属性。获取过滤效果掩码"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/
 ---
+{{< psd/tize >}}
 ## FXidResource.FilterEffectMasks property
 
-获取滤镜效果遮罩。
+获取滤镜效果蒙版。
 
 ```csharp
 public FilterEffectMaskData[] FilterEffectMasks { get; }
 ```
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 FXidResource 资源的属性。
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

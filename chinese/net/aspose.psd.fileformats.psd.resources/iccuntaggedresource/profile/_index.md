@@ -1,11 +1,12 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: Aspose.PSD for .NET API 参考
-description: IccUntaggedResource 财产. 获取或设置配置文件
+title: "IccUntaggedResource.Profile"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IccUntaggedResource 属性。获取或设置配置文件"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
 获取或设置配置文件。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 public byte Profile { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-配置文件.
+配置文件。
 
-### 也可以看看
+### 另请参阅
 
 * class [IccUntaggedResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class OperationInterruptedException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException 班级. 操作中断时发生
+title: "类 OperationInterruptedException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException 类。当操作被中断时发生。"
 type: docs
 weight: 660
 url: /zh/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-操作中断时发生。
+当操作被中断时发生。
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
@@ -16,15 +17,15 @@ public class OperationInterruptedException : FrameworkException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | 初始化一个新的实例`OperationInterruptedException`类. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | 初始化一个新的实例`OperationInterruptedException`类. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | 初始化 `OperationInterruptedException` 类的新实例。 |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | 初始化 `OperationInterruptedException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FrameworkException](../frameworkexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

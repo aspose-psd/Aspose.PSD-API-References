@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Aspose.PSD for .NET API 参考
-description: CaptionDigestResource 构造函数. 默认构造函数
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CaptionDigestResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiond
 public CaptionDigestResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CaptionDigestResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

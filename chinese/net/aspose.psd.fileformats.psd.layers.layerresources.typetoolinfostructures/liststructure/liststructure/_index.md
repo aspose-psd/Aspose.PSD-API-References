@@ -1,28 +1,29 @@
 ---
-title: ListStructure.ListStructure
-second_title: Aspose.PSD for .NET API 参考
-description: ListStructure 构造函数. 初始化一个新的实例ListStructure类.
+title: "ListStructure.ListStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ListStructure 构造函数。初始化 ListStructure 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure constructor
 
-初始化一个新的实例[`ListStructure`](../)类.
+初始化 [`ListStructure`](../) 类的新实例。
 
 ```csharp
 public ListStructure(ClassID keyName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
+| keyName | ClassID | 键名。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ListStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

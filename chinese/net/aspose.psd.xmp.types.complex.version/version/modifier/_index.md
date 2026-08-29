@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD for .NET API 参考
-description: Version 财产. 获取或设置修饰符
+title: "Version.Modifier"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Version 属性。获取或设置修饰符"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-获取或设置修饰符。
+获取或设置修改者。
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-修饰符.
+修饰符。
 
-### 也可以看看
+### 另请参阅
 
 * class [Version](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

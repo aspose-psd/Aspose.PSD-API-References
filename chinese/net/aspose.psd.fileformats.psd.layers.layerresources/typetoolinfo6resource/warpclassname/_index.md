@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.WarpClassName
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfo6Resource 财产. 获取或设置扭曲类名称
+title: "TypeToolInfo6Resource.WarpClassName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfo6Resource 属性。获取或设置 warp 类名"
 type: docs
-weight: 180
+weight: 150
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassName property
 
 获取或设置扭曲类名称。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resou
 public string WarpClassName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-扭曲类名称。
+warp 类名。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolInfo6Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

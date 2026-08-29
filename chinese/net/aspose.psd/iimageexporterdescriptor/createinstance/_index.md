@@ -1,11 +1,12 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API 参考
-description: IImageExporterDescriptor 方法. 创建一个新的导出器实例
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IImageExporterDescriptor 方法。创建一个新的导出器实例。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
 创建一个新的导出器实例。
@@ -18,11 +19,11 @@ public IImageExporter CreateInstance()
 
 一个新的导出器实例。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* 命名空间 [Aspose.PSD](../../iimageexporterdescriptor/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含由支持的文件格式之一抛出的异常
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含由受支持的文件格式之一抛出的异常"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.coreexceptions.imageformats/
 ---
-命名空间包含由支持的文件格式之一抛出的异常。
+{{< psd/tize >}}
+该命名空间包含由受支持的文件格式之一抛出的异常。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [BmpImageException](./bmpimageexception/) | bmp 图像异常。 |
-| [GifImageException](./gifimageexception/) | Gif 图片异常。 |
-| [Jpeg2000Exception](./jpeg2000exception/) | Jpeg 文件的例外情况 |
-| [JpegException](./jpegexception/) | Jpeg 文件的例外情况 |
-| [JpegLoadException](./jpegloadexception/) | 代表JPEG图片加载异常。 |
-| [PngImageException](./pngimageexception/) | png 图像异常。 |
-| [PsdImageArgumentException](./psdimageargumentexception/) | psd 图像参数异常。 |
-| [PsdImageException](./psdimageexception/) | psd图像异常. |
-| [PsdImageResourceException](./psdimageresourceexception/) | psd图片资源异常。 |
-| [TiffImageException](./tiffimageexception/) | Tiff 图像异常 |
+| [BmpImageException](./bmpimageexception/) | 该 bmp 图像异常。 |
+| [GifImageException](./gifimageexception/) | 该 Gif 图像异常。 |
+| [Jpeg2000Exception](./jpeg2000exception/) | 针对 Jpeg 文件的异常 |
+| [JpegException](./jpegexception/) | 针对 Jpeg 文件的异常 |
+| [JpegLoadException](./jpegloadexception/) | 表示 JPEG 图像加载异常。 |
+| [PngImageException](./pngimageexception/) | 该 png 图像异常。 |
+| [PsdImageArgumentException](./psdimageargumentexception/) | 该 psd 图像参数异常。 |
+| [PsdImageException](./psdimageexception/) | 该 psd 图像异常。 |
+| [PsdImageResourceException](./psdimageresourceexception/) | 该 psd 图像资源异常。 |
+| [TiffImageException](./tiffimageexception/) | 该 Tiff 图像异常 |
 
 

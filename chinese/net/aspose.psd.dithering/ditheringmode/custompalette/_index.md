@@ -1,24 +1,25 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: Aspose.PSD for .NET API 参考
-description: DitheringMode 财产. 用于抖动的自定义调色板
+title: "DitheringMode.CustomPalette"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DitheringMode 属性。用于抖动的自定义调色板"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
-用于抖动的自定义调色板。
+抖动的自定义调色板。
 
 ```csharp
 public IColorPalette CustomPalette { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* 命名空间 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

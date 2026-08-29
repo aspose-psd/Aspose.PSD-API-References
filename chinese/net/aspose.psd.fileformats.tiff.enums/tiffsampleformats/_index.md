@@ -1,33 +1,34 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats 枚举. 示例格式 enum
+title: "枚举 TiffSampleFormats"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats 枚举。样本格式枚举"
 type: docs
-weight: 4160
+weight: 4630
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-示例格式 enum
+样本格式枚举
 
 ```csharp
 public enum TiffSampleFormats
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Uint | `1` | 无符号整数数据 |
 | Int | `2` | 有符号整数数据 |
 | IeeeFp | `3` | IEEE 浮点数据 |
 | Void | `4` | 未类型化数据 |
-| ComplexInt | `5` | 复数有符号 int |
-| ComplexIeeeFp | `6` | 复杂的 ieee floating |
+| ComplexInt | `5` | 复数有符号整数 |
+| ComplexIeeeFp | `6` | 复数 ieee 浮点 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

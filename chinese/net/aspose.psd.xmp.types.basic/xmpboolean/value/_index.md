@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBoolean 财产. 获取或设置一个值指示是否这XmpBoolean是价值.
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBoolean 属性。获取或设置一个值，指示此 XmpBoolean 是否为 value"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-获取或设置一个值，指示是否这[`XmpBoolean`](../)是价值.
+获取或设置一个值，指示此 [`XmpBoolean`](../) 是否为 value。
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果值；否则，`错误的` .
+`true` 表示值；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBoolean](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

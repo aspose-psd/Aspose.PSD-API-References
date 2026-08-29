@@ -1,33 +1,34 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD for .NET API 参考
-description: FillLayer 方法. 根据实际更新填充图层像素数据IFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FillLayer 方法。根据当前 IFillSettings 更新填充层的像素数据"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-根据实际更新填充图层像素数据[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+根据当前 [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) 更新填充层的像素数据。
 
 ```csharp
 public void Update()
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 未知类型的 FillType |
+| ArgumentOutOfRangeException | 当遇到未知的 FillType 时抛出此异常。 |
 
-### 例子
+## 示例
 
-以下代码演示了填充图层的支持：颜色填充。
+下面的代码演示了对 Fill layers 的支持：颜色填充。
 
 ```csharp
 [C#]
 
-// 添加填充层的支持：颜色填充
+// 添加对 Fill layers 的支持：颜色填充。
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-下面的代码保存了不同类型渐变的图像，并展示了如何在 Aspose.PSD 中绘制渐变。
+以下代码保存不同类型渐变的图像，并展示 Aspose.PSD 如何绘制渐变。
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-下面的代码保存带有图案填充图层的图像，并演示 Aspose.PSD 如何渲染图案。
+以下代码保存带有图案填充图层的图像，并演示 Aspose.PSD 如何渲染图案。
 
 ```csharp
 [C#]
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FillLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

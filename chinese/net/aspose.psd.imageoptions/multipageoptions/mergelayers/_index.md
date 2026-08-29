@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD for .NET API 参考
-description: MultiPageOptions 财产. 获取或设置一个值该值指示是否 merege layers.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MultiPageOptions 属性。获取或设置指示是否合并图层的值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-获取或设置一个值，该值指示是否 [merege layers].
+获取或设置一个值，指示是否 [merege layers]。
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果 [merege 层];否则，`错误的` .
+`true` 如果 [merege layers]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [MultiPageOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

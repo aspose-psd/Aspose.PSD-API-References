@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: Aspose.PSD for .NET API 参考
-description: TimeLine 财产. 获取或设置循环次数
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Timeline 属性。获取或设置循环计数"
 type: docs
-weight: 80
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
 获取或设置循环次数。
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TimeLine](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* 部件 [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

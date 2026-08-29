@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Nominator
-second_title: Aspose.PSD for .NET API 参考
-description: TiffRational 财产. 获取提名人
+title: "TiffRational.Nominator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffRational 属性。获取分子。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.tiff/tiffrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Nominator property
 
-获取提名人。
+获取分子。
 
 ```csharp
 public uint Nominator { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-提名人.
+nominator。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.C
-second_title: Aspose.PSD for .NET API 参考
-description: CmykColor 财产. 获取this的青色分量值Color结构.
+title: "CmykColor.C"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykColor 属性。获取此 Color 结构的青色分量值。"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd/cmykcolor/c/
 ---
+{{< psd/tize >}}
 ## CmykColor.C property
 
-获取this的青色分量值[`Color`](../../color/)结构.
+获取此 [`Color`](../../color/) 结构的青色分量值。
 
 ```csharp
 public byte C { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-this的青色分量值[`Color`](../../color/) .
+此 [`Color`](../../color/) 的青色分量值。
 
-### 也可以看看
+### 另请参阅
 
 * struct [CmykColor](../)
-* 命名空间 [Aspose.PSD](../../cmykcolor/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

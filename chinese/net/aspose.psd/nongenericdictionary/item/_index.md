@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取或设置具有指定键的元素
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取或设置具有指定键的元素"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
 获取或设置具有指定键的元素。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd/nongenericdictionary/item/
 public object this[object key] { get; set; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| key | 元素键。 |
+| 键 | 元素键。 |
 
 ### 返回值
 
 具有指定键的元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

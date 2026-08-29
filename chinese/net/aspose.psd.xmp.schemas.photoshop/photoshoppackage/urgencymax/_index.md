@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMax
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 场地. 紧急最大值
+title: "PhotoshopPackage.UrgencyMax"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 字段。紧急程度最大值"
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMax field
 
-紧急最大值。
+紧急程度最大值。
 
 ```csharp
 public const int UrgencyMax;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

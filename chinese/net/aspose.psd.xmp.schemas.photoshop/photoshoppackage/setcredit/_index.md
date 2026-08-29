@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCredit
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置积分
+title: "PhotoshopPackage.SetCredit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置信用"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCredit method
 
-设置积分。
+设置信用。
 
 ```csharp
 public void SetCredit(string credit)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| credit | String | 信用。 |
+| 信用 | String | 该信用。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

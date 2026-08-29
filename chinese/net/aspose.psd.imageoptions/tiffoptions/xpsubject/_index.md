@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPSubject
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 Windows 资源管理器使用的图像信息
+title: "TiffOptions.XPSubject"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 Windows Explorer 使用的图像信息"
 type: docs
-weight: 630
+weight: 640
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/xpsubject/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPSubject property
 
-获取或设置 Windows 资源管理器使用的图像信息。
+获取或设置关于图像的信息，该信息被 Windows Explorer 使用。
 
 ```csharp
 public string XPSubject { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-有关图像的信息，由 Windows 资源管理器使用。
+图像信息，供 Windows Explorer 使用。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

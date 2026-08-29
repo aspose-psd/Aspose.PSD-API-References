@@ -1,33 +1,34 @@
 ---
-title: Enum CompositingQuality
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CompositingQuality 枚举. 指定合成期间要使用的质量级别
+title: "枚举 CompositingQuality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CompositingQuality 枚举。指定合成过程中使用的质量级别"
 type: docs
 weight: 420
 url: /zh/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-指定合成期间要使用的质量级别。
+指定在合成期间使用的质量级别。
 
 ```csharp
 public enum CompositingQuality
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Invalid | `-1` | 质量无效。 |
 | Default | `0` | 默认质量。 |
 | HighSpeed | `1` | 高速，低质量。 |
-| HighQuality | `2` | 高质量、低速合成。 |
-| GammaCorrected | `3` | 使用 Gamma 校正。 |
+| HighQuality | `2` | 高质量，低速合成。 |
+| GammaCorrected | `3` | 使用伽马校正。 |
 | AssumeLinear | `4` | 假设线性值。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

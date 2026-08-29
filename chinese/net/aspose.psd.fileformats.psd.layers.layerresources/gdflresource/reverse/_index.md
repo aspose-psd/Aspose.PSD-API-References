@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Reverse
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取或设置一个值指示是否这GdFlResource是反向的.
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取或设置指示此 GdFlResource 是否为反向的值"
 type: docs
-weight: 140
+weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-获取或设置一个值，指示是否这[`GdFlResource`](../)是反向的.
+获取或设置指示此 [`GdFlResource`](../) 是否为反向的值。
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果反转；否则，`错误的` .
+如果为反向，则为 `true`；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 GdFlResource 资源加载的支持。
+以下示例演示了 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 阅读
+                    // 读取
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

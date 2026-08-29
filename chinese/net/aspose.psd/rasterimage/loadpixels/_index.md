@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadPixels
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 加载像素
+title: "RasterImage.LoadPixels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。加载像素"
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.psd/rasterimage/loadpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPixels method
 
 加载像素。
@@ -14,67 +15,67 @@ url: /zh/net/aspose.psd/rasterimage/loadpixels/
 public Color[] LoadPixels(Rectangle rectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 从中加载像素的矩形。 |
+| 矩形 | Rectangle | 用于加载像素的矩形。 |
 
 ### 返回值
 
-加载的像素数组。
+已加载的像素数组。
 
-### 例子
+## 示例
 
-此示例显示如何加载类型颜色数组中的像素信息、操作数组并将其设置回图像。为执行这些操作，此示例使用 MemoryStream 对象创建了一个新的图像文件（PSD 格式）。
+此示例展示如何将像素信息加载到 Color 类型的数组中，操作该数组并将其设置回图像。为执行这些操作，示例使用 MemoryStream 对象创建一个新的 Image 文件（PSD 格式）。
 
 ```csharp
 [C#]
 
-//创建一个内存流实例
+//创建 MemoryStream 的实例
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
     //创建 PsdOptions 的实例并设置其各种属性，包括 Source 属性
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //创建图像实例
+    //创建 Image 的实例
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //通过指定区域作为图像边界获取图像的像素
+        //通过将区域指定为图像边界来获取图像的像素
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        //遍历数组并设置替代索引像素的颜色
+        //循环遍历数组并设置交替索引像素的颜色
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //设置索引像素颜色为黄色
+                //将索引像素的颜色设置为黄色
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //设置索引像素颜色为蓝色
+                //将索引像素的颜色设置为蓝色
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        //将像素变化应用于图像
+        //将像素更改应用于图像
         image.SavePixels(image.Bounds, pixels);
 
         // 保存所有更改。
         image.Save();
     }
 
-    //将内存流写入文件
+    //将 MemoryStream 写入文件
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

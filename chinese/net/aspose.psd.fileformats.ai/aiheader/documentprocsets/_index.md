@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置文档过程集
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置文档处理集合"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-获取或设置文档过程集。
+获取或设置文档 proc 集。
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文档过程集。
+文档处理集合。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

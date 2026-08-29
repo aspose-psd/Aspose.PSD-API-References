@@ -1,27 +1,28 @@
 ---
-title: Time.Value
-second_title: Aspose.PSD for .NET API 参考
-description: Time 财产. 获取或设置指定比例的时间值
+title: "Time.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Time 属性. 获取或设置指定比例中的时间值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
-获取或设置指定比例的时间值。
+获取或设置指定比例下的时间值。
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-指定刻度的时间值。
+指定比例中的时间值.
 
-### 也可以看看
+### 另请参阅
 
 * class [Time](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

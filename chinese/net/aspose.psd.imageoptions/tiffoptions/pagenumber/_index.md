@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置页码标记
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置页码标签"
 type: docs
-weight: 300
+weight: 310
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-获取或设置页码标记。
+获取或设置页码标签。
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-页码标记。
+页码标签。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 价值 |
-| ArgumentOutOfRangeException | 值；数组中应有 2 个值：PageNumber[0] 是页码，PageNumber[1] 是文档中的总页数。 |
+| ArgumentNullException | 值 |
+| ArgumentOutOfRangeException | value;数组中预期有 2 个值：PageNumber[0] 是页码，PageNumber[1] 是文档中的总页数。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

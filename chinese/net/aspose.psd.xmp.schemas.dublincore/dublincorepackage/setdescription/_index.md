@@ -1,48 +1,49 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Aspose.PSD for .NET API 参考
-description: DublinCorePackage 方法. 添加说明
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DublinCorePackage 方法。添加描述"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
-添加说明。
+添加描述。
 
 ```csharp
 public void SetDescription(string desc)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| desc | String | 说明。 |
+| 描述 | String | 描述。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetDescription(LangAlt) {#setdescription}
 
-添加说明。
+添加描述。
 
 ```csharp
 public void SetDescription(LangAlt desc)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| desc | LangAlt | 说明。 |
+| 描述 | LangAlt | 描述。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

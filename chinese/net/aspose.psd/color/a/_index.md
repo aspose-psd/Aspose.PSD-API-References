@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD for .NET API 参考
-description: Color 财产. 获取this的alpha分量值Color结构.
+title: "Color.A"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 属性。获取此 Color 结构的 alpha 分量值"
 type: docs
 weight: 1460
 url: /zh/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-获取this的alpha分量值[`Color`](../)结构.
+获取此 [`Color`](../) 结构的 alpha 分量值。
 
 ```csharp
 public byte A { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-this 的 alpha 分量值[`Color`](../).
+此 [`Color`](../) 的 alpha 分量值。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

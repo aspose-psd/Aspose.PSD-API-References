@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostLeftBorder
-second_title: Aspose.PSD for .NET API 参考
-description: ColorRangeHsl 财产. 获取或设置最左边框
+title: "ColorRangeHsl.MostLeftBorder"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorRangeHsl 属性。获取或设置最左边界"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostleftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostLeftBorder property
 
-获取或设置最左边框。
+获取或设置最左边界。
 
 ```csharp
 public short MostLeftBorder { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-最左边框.
+最左边界。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorRangeHsl](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

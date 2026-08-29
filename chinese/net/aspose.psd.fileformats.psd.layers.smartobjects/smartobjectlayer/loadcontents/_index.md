@@ -1,28 +1,29 @@
 ---
-title: SmartObjectLayer.LoadContents
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectLayer 方法. 获取智能对象层的嵌入或链接图像内容
+title: "SmartObjectLayer.LoadContents"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectLayer 方法。获取智能对象图层中嵌入或链接的图像内容"
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.LoadContents method
 
-获取智能对象层的嵌入或链接图像内容。
+获取智能对象图层的嵌入或链接图像内容。
 
 ```csharp
 public Image LoadContents(LoadOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | LoadOptions | 选项。 |
+| 选项 | LoadOptions | 选项。 |
 
 ### 返回值
 
-加载的[`Image`](../../../aspose.psd/image/)智能对象实例。
+已加载的 [`Image`](../../../aspose.psd/image/) 智能对象实例。
 
-### 例子
+## 示例
 
 以下代码演示了对嵌入式智能对象的支持。
 
@@ -37,7 +38,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 此示例演示如何更改 PSD 文件中的智能对象层以及导出/更新智能对象原始嵌入内容。
+// 此示例演示了如何更改 PSD 文件中的智能对象图层并导出/更新智能对象的原始嵌入内容。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -66,10 +67,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 让我们从 PSD 智能对象层导出嵌入的智能对象图像
+        // 让我们从 PSD 智能对象图层导出嵌入的智能对象图像
         smartObjectLayer.ExportContents(exportPath);
 
-        // 让我们检查原始图像是否正确保存
+        // 让我们检查原始图像是否已正确保存
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -88,23 +89,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // 让我们替换 PSD 层中嵌入的智能对象图像
+            // 让我们替换 PSD 图层中的嵌入智能对象图像
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 让我们检查更新的图像是否正确保存
+        // 让我们检查更新后的图像是否已正确保存
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../../../aspose.psd/image/)
 * class [LoadOptions](../../../aspose.psd/loadoptions/)
 * class [SmartObjectLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

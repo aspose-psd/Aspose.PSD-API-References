@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: Aspose.PSD for .NET API 参考
-description: ComplexTypeBase 财产. 获取前缀
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ComplexTypeBase 属性。获取前缀"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
 获取前缀。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 public string Prefix { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-前缀.
+前缀。
 
-### 也可以看看
+### 另请参阅
 
 * class [ComplexTypeBase](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

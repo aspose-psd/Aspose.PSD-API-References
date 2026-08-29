@@ -1,28 +1,29 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD for .NET API 参考
-description: FontSettings 方法. 通过字体系列名称获取 adobe 字体名称
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FontSettings 方法。获取按字体族名称对应的 Adobe 字体名称"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-通过字体系列名称获取 adobe 字体名称。
+根据字体族名称获取 Adobe 字体名称。
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontFamilyName | String | 字体系列名称。 |
+| fontFamilyName | String | 字体族名称。 |
 
 ### 返回值
 
-按字体系列名称排列的 adobe 字体名称。
+按字体族名称对应的 Adobe 字体名称。
 
-### 例子
+## 示例
 
 以下代码演示了在部分样式中更改字体名称的能力。
 
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FontSettings](../)
-* 命名空间 [Aspose.PSD](../../fontsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

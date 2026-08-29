@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD for .NET API 参考
-description: OSTypeStructure 财产. 获取或设置键名
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OSTypeStructure 属性。获取或设置键名"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
-获取或设置键名。
+获取或设置键名称。
 
 ```csharp
 public ClassID KeyName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-键名.
+键名。
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: Aspose.PSD for .NET API 参考
-description: CmxRasterizationOptions 财产. 获取或设置定位
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmxRasterizationOptions 属性。获取或设置定位"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
 获取或设置定位。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 public PositioningTypes Positioning { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-定位.
+定位。
 
-### 也可以看看
+### 另请参阅
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

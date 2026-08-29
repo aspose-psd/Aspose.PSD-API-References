@@ -1,11 +1,12 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD for .NET API 参考
-description: Thumbnail 财产. 获取或设置宽度
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Thumbnail 属性。获取或设置宽度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
 获取或设置宽度。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 public int Width { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-宽度.
+宽度。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 值；宽度不能小于零 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Thumbnail](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

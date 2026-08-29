@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层混合范围数据
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层混合范围数据"
 type: docs
-weight: 190
+weight: 200
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
 获取或设置图层混合范围数据。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 图层混合范围数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

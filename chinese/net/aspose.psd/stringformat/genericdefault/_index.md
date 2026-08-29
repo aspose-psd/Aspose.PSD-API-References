@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取通用默认值StringFormat对象.
+title: "StringFormat.GenericDefault"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取通用默认的 StringFormat 对象。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-获取通用默认值[`StringFormat`](../)对象.
+获取通用默认的 [`StringFormat`](../) 对象。
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-通用默认值[`StringFormat`](../)目的。
+通用默认的 [`StringFormat`](../) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

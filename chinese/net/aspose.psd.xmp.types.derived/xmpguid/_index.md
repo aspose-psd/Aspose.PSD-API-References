@@ -1,14 +1,15 @@
 ---
-title: Class XmpGuid
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.Derived.XmpGuid 班级. 代表XMP全球唯一标识符
+title: "类 XmpGuid"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpGuid 类。表示 XMP 全局唯一标识符"
 type: docs
-weight: 6160
+weight: 6660
 url: /zh/net/aspose.psd.xmp.types.derived/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid class
 
-代表XMP全球唯一标识符。
+表示 XMP 全局唯一标识符。
 
 ```csharp
 public sealed class XmpGuid : XmpTypeBase
@@ -16,28 +17,28 @@ public sealed class XmpGuid : XmpTypeBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XmpGuid](xmpguid/#constructor)(Guid) | 初始化一个新的实例`XmpGuid`类. |
-| [XmpGuid](xmpguid/#constructor_1)(string) | 初始化一个新的实例`XmpGuid`类. |
+| [XmpGuid](xmpguid/#constructor)(Guid) | 初始化 `XmpGuid` 类的新实例。 |
+| [XmpGuid](xmpguid/#constructor_1)(string) | 初始化 `XmpGuid` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | 获取或设置前缀如uuid. |
+| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | 获取或设置类似 uuid 的前缀。 |
 | [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | 获取或设置值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | 获取包含 XMP 格式的字符串值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | 获取 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

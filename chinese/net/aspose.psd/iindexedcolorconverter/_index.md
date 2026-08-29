@@ -1,14 +1,15 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IIndexedColorConverter 界面. 索引图像格式的颜色转换器
+title: "接口 IIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IIndexedColorConverter 接口。索引图像格式的颜色转换器"
 type: docs
-weight: 4470
+weight: 4940
 url: /zh/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-索引图像格式的颜色转换器。
+用于索引图像格式的颜色转换器。
 
 ```csharp
 public interface IIndexedColorConverter
@@ -16,13 +17,13 @@ public interface IIndexedColorConverter
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | 填充索引到索引图像转换映射。 |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | 填充索引到索引图像的转换映射。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

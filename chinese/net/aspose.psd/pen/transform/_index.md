@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置此几何变换的副本Pen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen属性。获取或设置此Pen的几何变换的副本。"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-获取或设置此几何变换的副本[`Pen`](../) .
+获取或设置此[`Pen`](../)的几何变换的副本。
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-的副本[`Matrix`](../../matrix/)代表这个的几何变换[`Pen`](../).
+一个[`Matrix`](../../matrix/)的副本，表示此[`Pen`](../)的几何变换。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`Transform`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `Transform`属性在不可变的[`Pen`](../)上设置，例如由[`Pen`](../)类返回的对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

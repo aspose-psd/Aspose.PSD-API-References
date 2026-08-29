@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetYcck
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 方法. 获取每个样本具有指定位数的 YCCK 颜色
+title: "PixelDataFormat.GetYcck"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 方法。获取具有指定每样本位数的 YCCK 颜色。"
 type: docs
 weight: 290
 url: /zh/net/aspose.psd/pixeldataformat/getycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetYcck method
 
-获取每个样本具有指定位数的 YCCK 颜色。
+获取具有指定每样本位数的 YCCK 颜色。
 
 ```csharp
 public static PixelDataFormat GetYcck(int bitsPerSample)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | bitsPerSample | Int32 | 每个样本的位数。 |
 
@@ -22,10 +23,10 @@ public static PixelDataFormat GetYcck(int bitsPerSample)
 
 YCCK 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

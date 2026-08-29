@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 财产. 获取或设置对象的边界
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 属性。获取或设置对象的边界"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
 获取或设置对象的边界。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/graphicspath/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 对象的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

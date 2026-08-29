@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeOriginSettings 财产. 获取或设置原点的类型
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeOriginSettings 属性。获取或设置原始的类型"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
 获取或设置原点的类型。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/o
 public int OriginType { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-原点的类型。
+原始的类型。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeOriginSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

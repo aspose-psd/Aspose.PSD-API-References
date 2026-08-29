@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Aspose.PSD for .NET API 参考
-description: ImageAttributesExtensions 方法. 转换ImageAttributes到ImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageAttributesExtensions 方法。将 ImageAttributes 转换为 ImageAttributes"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-转换[`ImageAttributes`](../../../aspose.psd/imageattributes/)到ImageAttributes .
+将 [`ImageAttributes`](../../../aspose.psd/imageattributes/) 转换为 ImageAttributes。
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | 这[`ImageAttributes`](../../../aspose.psd/imageattributes/)转换。 |
+| imageAttributes | ImageAttributes | 要转换的 [`ImageAttributes`](../../../aspose.psd/imageattributes/)。 |
 
 ### 返回值
 
-转换的ImageAttributes.
+已转换的 ImageAttributes。
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

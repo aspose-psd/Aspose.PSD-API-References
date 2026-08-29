@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Aspose.PSD for .NET API 参考
-description: LinkDataSource 财产. 获取 Adobe Photoshop 全局链接资源中数据源的原始文件名
+title: "LinkDataSource.OriginalFileName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkDataSource 属性。获取 Adobe Photoshop 全局链接资源中数据源的原始文件名"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
 获取 Adobe® Photoshop® 全局链接资源中数据源的原始文件名。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/ori
 public string OriginalFileName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-PSD格式LnkE/Lnk2资源中的原始文件名.
+PSD 格式 LnkE / Lnk2 资源中的原始文件名。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 您无法访问 OriginalFileName 属性。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 无法访问 OriginalFileName 属性。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkDataSource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

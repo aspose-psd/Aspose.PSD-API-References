@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance
-second_title: Aspose.PSD for .NET API 参考
-description: ColorBalanceAdjustmentLayer 财产. 获取或设置中间调黄蓝平衡
+title: "ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorBalanceAdjustmentLayer 属性。获取或设置 Midtones Yellow Blue Balance"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance property
 
-获取或设置中间调黄蓝平衡。
+获取或设置 Midtones Yellow Blue 平衡。
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-中间调黄蓝平衡。
+该 Midtones Yellow Blue Balance。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 中间调黄蓝平衡必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | Midtones Yellow Blue Balance 必须在 -100 到 +100 的范围内。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 ColorBalanceAdjustmentLayer 的支持。
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

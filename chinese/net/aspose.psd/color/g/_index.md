@@ -1,27 +1,28 @@
 ---
-title: Color.G
-second_title: Aspose.PSD for .NET API 参考
-description: Color 财产. 获取this的绿色分量值Color结构.
+title: "Color.G"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 属性。获取此 Color 结构的绿色分量值"
 type: docs
 weight: 1480
 url: /zh/net/aspose.psd/color/g/
 ---
+{{< psd/tize >}}
 ## Color.G property
 
-获取this的绿色分量值[`Color`](../)结构.
+获取此 [`Color`](../) 结构的绿色分量值。
 
 ```csharp
 public byte G { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的绿色分量值[`Color`](../).
+此 [`Color`](../) 的绿色分量值。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

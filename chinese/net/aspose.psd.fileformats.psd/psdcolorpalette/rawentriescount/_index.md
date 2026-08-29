@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 财产. 获取原始调色板条目计数
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 属性。获取原始颜色调色板条目计数"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-获取原始调色板条目计数。
+获取原始颜色调色板条目计数。
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-原始调色板条目计数。
+原始颜色调色板条目计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

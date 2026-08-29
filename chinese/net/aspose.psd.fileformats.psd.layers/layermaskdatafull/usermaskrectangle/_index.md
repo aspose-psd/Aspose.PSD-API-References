@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.UserMaskRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskDataFull 财产. 获取或设置 PSD 图像层中的用户遮罩封闭矩形..
+title: "LayerMaskDataFull.UserMaskRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskDataFull 属性。获取或设置 PSD 图像图层中用户蒙版的包围矩形"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/usermaskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.UserMaskRectangle property
 
-获取或设置 PSD 图像层中的用户遮罩（封闭）矩形..
+获取或设置 PSD 图像图层中的用户蒙版（包围）矩形。
 
 ```csharp
 public Rectangle UserMaskRectangle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-用户掩码[`Rectangle`](../../../aspose.psd/rectangle/) .
+用户蒙版 [`Rectangle`](../../../aspose.psd/rectangle/)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskDataFull](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

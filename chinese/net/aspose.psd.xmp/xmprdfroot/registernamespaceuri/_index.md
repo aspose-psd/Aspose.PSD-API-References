@@ -1,28 +1,29 @@
 ---
-title: XmpRdfRoot.RegisterNamespaceUri
-second_title: Aspose.PSD for .NET API 参考
-description: XmpRdfRoot 方法. 通过前缀添加名称空间 uri前缀可以在没有 xmlns. 的情况下开始
+title: "XmpRdfRoot.RegisterNamespaceUri"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpRdfRoot 方法。通过前缀添加命名空间 URI。前缀可能不以 xmlns 开头"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp/xmprdfroot/registernamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.RegisterNamespaceUri method
 
-通过前缀添加名称空间 uri。前缀可以在没有 xmlns. 的情况下开始
+通过前缀添加命名空间 URI。前缀可能不以 xmlns 开头。
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| prefix | String | 前缀。 |
-| namespaceUri | String | 包架构 uri。 |
+| 前缀 | String | 前缀。 |
+| namespaceUri | String | 包架构 URI。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpRdfRoot](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmprdfroot/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

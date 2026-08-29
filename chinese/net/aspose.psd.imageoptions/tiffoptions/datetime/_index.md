@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DateTime
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置日期和时间
+title: "TiffOptions.DateTime"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置日期和时间"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/datetime/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DateTime property
 
 获取或设置日期和时间。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/datetime/
 public string DateTime { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 日期和时间。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.FillColor
-second_title: Aspose.PSD for .NET API 参考
-description: OuterGlowEffect 财产. 获取或设置颜色
+title: "OuterGlowEffect.FillColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OuterGlowEffect 属性。获取或设置颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.FillColor property
 
 获取或设置颜色。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fill
 public IFillSettings FillColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 例子
+## 示例
 
-以下代码演示了 OuterGlowEffect 支持。
+以下代码演示了对 OuterGlowEffect 的支持。
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [OuterGlowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

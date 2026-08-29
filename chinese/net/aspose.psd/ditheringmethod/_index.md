@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.DitheringMethod 枚举. 抖动方法
+title: "枚举 DitheringMethod"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.DitheringMethod 枚举。抖动方法"
 type: docs
-weight: 770
+weight: 780
 url: /zh/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
 抖动方法。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd/ditheringmethod/
 public enum DitheringMethod
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ThresholdDithering | `0` | 阈值抖动。最简单和最快的抖动算法。 |
-| FloydSteinbergDithering | `1` | Floyd-Steinberg 抖动。更复杂的抖动算法，使用最近的邻居强度值。 |
+| ThresholdDithering | `0` | 阈值抖动。最简单、最快的抖动算法。 |
+| FloydSteinbergDithering | `1` | Floyd-Steinberg 抖动。更复杂的抖动算法，使用最近邻的强度值。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

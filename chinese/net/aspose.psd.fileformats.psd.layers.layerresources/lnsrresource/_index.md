@@ -1,14 +1,15 @@
 ---
-title: Class LnsrResource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource 班级. 类 lnsrResource.
+title: "类 LnsrResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource 类。类 lnsrResource"
 type: docs
-weight: 2750
+weight: 3060
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource class
 
-类 lnsrResource.
+类 lnsrResource。
 
 ```csharp
 public class LnsrResource : LayerResource
@@ -16,39 +17,39 @@ public class LnsrResource : LayerResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | 初始化一个新的实例`LnsrResource` class. 具有自定义或未知值 |
-| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | 初始化一个新的实例`LnsrResource`类. |
+| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | 初始化 `LnsrResource` 类的新实例。使用自定义或未知值 |
+| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | 初始化 `LnsrResource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | 获取原始数据。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | 获取以字节为单位的图层资源长度。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | 获取 psd 版本。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | 获取签名. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | 如果描述了相应的枚举，则获取 LnsrResourceType 的值。 否则返回 Unknown |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | 获取图层资源的字节长度。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 获取图层资源所需的最低 PSD 版本。0 表示没有限制。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 获取签名。 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | 如果对应的枚举已描述，则获取值为 LnsrResourceType。否则返回 Unknown。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个表示此实例的字符串。 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | 类型工具信息键。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

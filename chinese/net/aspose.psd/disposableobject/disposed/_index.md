@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD for .NET API 参考
-description: DisposableObject 财产. 获取一个值该值表示该实例是否被释放
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DisposableObject 属性。获取一个值，指示此实例是否已释放"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-获取一个值，该值表示该实例是否被释放。
+获取一个值，指示此实例是否已释放。
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果处置；否则，`错误的`.
+`true` 表示已释放；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [DisposableObject](../)
-* 命名空间 [Aspose.PSD](../../disposableobject/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD for .NET API 参考
-description: FixedPointDecimal 财产. 获取或设置分数
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FixedPointDecimal 属性。获取或设置小数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
 获取或设置分数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 public int Fraction { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-分数.
+小数。
 
-### 也可以看看
+### 另请参阅
 
 * class [FixedPointDecimal](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

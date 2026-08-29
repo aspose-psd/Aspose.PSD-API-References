@@ -1,11 +1,12 @@
 ---
-title: Lfx2Resource.Save
-second_title: Aspose.PSD for .NET API 参考
-description: Lfx2Resource 方法. 将资源保存到指定的流容器中
+title: "Lfx2Resource.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Lfx2Resource 方法。将资源保存到指定的流容器"
 type: docs
-weight: 70
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Save method
 
 将资源保存到指定的流容器中。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/save/
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 要保存到的流容器。 |
 | psdVersion | Int32 | PSD 版本。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lfx2Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

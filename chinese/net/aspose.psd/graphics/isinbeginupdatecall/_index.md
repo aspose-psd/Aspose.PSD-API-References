@@ -1,11 +1,12 @@
 ---
-title: Graphics.IsInBeginUpdateCall
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 财产. 获取一个值指示图形是否处于 BeginUpdate 调用状态
+title: "Graphics.IsInBeginUpdateCall"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 属性。获取一个值，指示 graphics 是否处于 BeginUpdate 调用状态。"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/graphics/isinbeginupdatecall/
 ---
+{{< psd/tize >}}
 ## Graphics.IsInBeginUpdateCall property
 
 获取一个值，指示图形是否处于 BeginUpdate 调用状态。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/graphics/isinbeginupdatecall/
 public bool IsInBeginUpdateCall { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果图形处于 BeginUpdate 调用状态；否则，`错误的` .
+`True` 如果 graphics 处于 BeginUpdate 调用状态；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Color
-second_title: Aspose.PSD for .NET API 参考
-description: SoCoResource 财产. 获取 RGB 颜色 .
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SoCoResource 属性。获取 RGB 颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-获取 RGB 颜色 .
+获取 RGB 颜色。
 
 ```csharp
 public Color Color { get; set; }
@@ -18,7 +19,7 @@ public Color Color { get; set; }
 
 RGB 颜色
 
-### 例子
+## 示例
 
 以下示例演示如何编辑 SoCoResource（颜色填充图层的图层资源）
 
@@ -35,13 +36,13 @@ using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // FillLayer 的查找
+        // 查找 FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // 在图层资源列表中查找SoCoResource
+                // 在图层资源列表中查找 SoCoResource
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // 设置 SoCoResource 颜色属性
+                    // 设置 SoCoResource 的 Color 属性
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -67,11 +68,11 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

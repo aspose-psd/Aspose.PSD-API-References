@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD for .NET API 参考
-description: Font 财产. 获取或设置字体类型
+title: "Font.FontType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Font 属性。获取或设置字体类型"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 获取或设置字体类型。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 public string FontType { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体类型。
 
-### 例子
+## 示例
 
-TrueType、Type 1、Open Type 等。
+TrueType、Type 1、Open Type 等等。
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 填充由指定的一系列矩形的内部Rectangle结构.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。填充由 Rectangle 结构指定的一系列矩形的内部"
 type: docs
-weight: 400
+weight: 410
 url: /zh/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-填充由指定的一系列矩形的内部[`Rectangle`](../../rectangle/)结构.
+填充由[`Rectangle`](../../rectangle/)结构指定的一系列矩形的内部。
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| rects | Rectangle[] | 阵列的[`Rectangle`](../../rectangle/)表示要填充的矩形的结构。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| rects | Rectangle[] | 表示要填充的矩形的 [`Rectangle`](../../rectangle/) 结构数组。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*为空或*rects*一片空白。 |
+| ArgumentNullException | *brush* 为 null 或 *rects* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-填充由指定的一系列矩形的内部[`RectangleF`](../../rectanglef/)结构.
+填充由[`RectangleF`](../../rectanglef/)结构指定的一系列矩形的内部。
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| rects | RectangleF[] | 阵列的[`Rectangle`](../../rectangle/)表示要填充的矩形的结构。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| rects | RectangleF[] | 表示要填充的矩形的 [`Rectangle`](../../rectangle/) 结构数组。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*为空或*rects*一片空白。 |
+| ArgumentNullException | *brush* 为 null 或 *rects* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

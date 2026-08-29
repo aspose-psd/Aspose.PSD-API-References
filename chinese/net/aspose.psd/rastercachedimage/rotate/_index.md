@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Aspose.PSD for .NET API 参考
-description: RasterCachedImage 方法. 围绕中心旋转图像
+title: "RasterCachedImage.Rotate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterCachedImage 方法。围绕中心旋转图像"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
 围绕中心旋转图像。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd/rastercachedimage/rotate/
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 以度为单位的旋转角度。正值将顺时针旋转。 |
-| resizeProportionally | Boolean | 如果设置为`真的`您将根据旋转的矩形（角点）投影更改图像大小，在其他情况下保持尺寸不变并且仅旋转内部图像内容。 |
-| backgroundColor | Color | 背景的颜色。 |
+| 角度 | 单精度 | 旋转角度（单位：度）。正值将顺时针旋转。 |
+| resizeProportionally | 布尔 | 如果设置为 `true`，图像尺寸将根据旋转矩形（角点）投影进行更改；否则，尺寸保持不变，仅内部图像内容被旋转。 |
+| backgroundColor | 颜色 | 背景颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

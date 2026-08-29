@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.CompressionType
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置压缩类型
+title: "JpegOptions.CompressionType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置压缩类型。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CompressionType property
 
 获取或设置压缩类型。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.imageoptions/jpegoptions/compressiontype/
 public JpegCompressionMode CompressionType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [JpegCompressionMode](../../../aspose.psd.fileformats.jpeg/jpegcompressionmode/)
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

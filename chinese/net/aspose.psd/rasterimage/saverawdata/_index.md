@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 保存原始数据
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。保存原始数据"
 type: docs
-weight: 530
+weight: 550
 url: /zh/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 保存原始数据。
@@ -15,19 +16,19 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
     RawDataSettings rawDataSettings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 原始数据。 |
+| 数据 | Byte[] | 原始数据。 |
 | dataOffset | Int32 | 起始原始数据偏移量。 |
-| rectangle | Rectangle | 原始数据矩形。 |
-| rawDataSettings | RawDataSettings | 数据所在的原始数据设置。 |
+| 矩形 | Rectangle | 原始数据矩形。 |
+| rawDataSettings | RawDataSettings | 原始数据所在的设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

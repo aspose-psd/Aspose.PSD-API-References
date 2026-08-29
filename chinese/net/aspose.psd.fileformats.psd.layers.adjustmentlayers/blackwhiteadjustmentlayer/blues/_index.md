@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: Aspose.PSD for .NET API 参考
-description: BlackWhiteAdjustmentLayer 财产. 获取或设置蓝调值
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlackWhiteAdjustmentLayer 属性。获取或设置蓝色值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-获取或设置蓝调值。
+获取或设置蓝色值。
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-蓝调值。
+蓝色值。
 
-### 例子
+## 示例
 
-以下示例演示了如何在运行时在 Aspose.PSD 中添加黑白调整层
+以下示例演示如何在运行时于 Aspose.PSD 中添加黑白调整图层。
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD 中操作黑白调整图层属性
+以下示例演示了如何在 Aspose.PSD 中操作黑白调整层属性。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

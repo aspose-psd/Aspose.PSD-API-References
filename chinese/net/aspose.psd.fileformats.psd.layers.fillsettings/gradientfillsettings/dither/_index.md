@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD for .NET API 参考
-description: GradientFillSettings 财产. 获取或设置一个值指示是否这GradientFillSettings是抖动.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientFillSettings 属性。获取或设置一个值，指示此 GradientFillSettings 是否为抖动"
 type: docs
-weight: 60
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-获取或设置一个值，指示是否这[`GradientFillSettings`](../)是抖动.
+获取或设置一个值，指示此 [`GradientFillSettings`](../) 是否为抖动。
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果抖动；否则，`错误的` .
+`true` 表示抖动；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Source.GetStreamContainer
-second_title: Aspose.PSD for .NET API 参考
-description: Source 方法. 获取流容器
+title: "Source.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Source 方法。获取流容器"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/source/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## Source.GetStreamContainer method
 
 获取流容器。
@@ -18,15 +19,15 @@ public abstract StreamContainer GetStreamContainer()
 
 流容器。
 
-### 评论
+## 备注
 
-谨慎使用。您将需要在检索后处理流容器。
+请谨慎使用。检索后您需要释放流容器。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* 命名空间 [Aspose.PSD](../../source/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

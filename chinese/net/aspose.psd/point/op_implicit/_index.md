@@ -1,32 +1,33 @@
 ---
-title: Point.op_Implicit
-second_title: Aspose.PSD for .NET API 参考
-description: Point 方法. 转换指定的Point结构到PointF结构.
+title: "Point.op_Implicit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Point 方法。将指定的 Point 结构转换为 PointF 结构。"
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/point/op_implicit/
 ---
+{{< psd/tize >}}
 ## Point Implicit operator
 
-转换指定的[`Point`](../)结构到[`PointF`](../../pointf/)结构.
+将指定的 [`Point`](../) 结构转换为 [`PointF`](../../pointf/) 结构。
 
 ```csharp
 public static implicit operator PointF(Point point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | 这[`Point`](../)被转换。 |
+| point | Point | 待转换的 [`Point`](../)。 |
 
 ### 返回值
 
-这[`PointF`](../../pointf/)这是转换的结果。
+转换后得到的 [`PointF`](../../pointf/)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* 命名空间 [Aspose.PSD](../../point/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

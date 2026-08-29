@@ -1,11 +1,12 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Aspose.PSD for .NET API 参考
-description: GaussWienerFilterOptions 财产. 获取或设置半径
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GaussWienerFilterOptions 属性。获取或设置半径"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
 获取或设置半径。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radi
 public int Radius { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-半径.
+半径。
 
-### 也可以看看
+### 另请参阅
 
 * class [GaussWienerFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

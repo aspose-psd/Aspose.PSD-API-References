@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD for .NET API 参考
-description: SharpenFilterOptions 财产. 获取或设置 sigma.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SharpenFilterOptions 属性。获取或设置 sigma"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-获取或设置 sigma.
+获取或设置 sigma。
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-西格玛.
+σ。
 
-### 也可以看看
+### 另请参阅
 
 * class [SharpenFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

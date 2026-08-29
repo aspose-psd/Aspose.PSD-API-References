@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDynamicMediaPackage 方法. 设置导演
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDynamicMediaPackage 方法。设置导演"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
 设置导演。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 public void SetDirector(string director)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| director | String | 导演。 |
+| 导演 | String | 导演。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDynamicMediaPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

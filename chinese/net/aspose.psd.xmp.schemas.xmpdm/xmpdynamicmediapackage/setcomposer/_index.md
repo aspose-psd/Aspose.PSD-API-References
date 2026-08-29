@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDynamicMediaPackage 方法. 设置作曲家
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDynamicMediaPackage 方法。设置作曲家"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
 设置作曲家。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 public void SetComposer(string composer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| composer | String | 作曲家。 |
+| 作曲家 | String | 作曲者。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDynamicMediaPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

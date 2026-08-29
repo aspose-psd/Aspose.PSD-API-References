@@ -1,14 +1,15 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.XmpArrayHelper 班级. 处理RDF逻辑的辅助类
+title: "类 XmpArrayHelper"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.XmpArrayHelper 类。用于处理 RDF 逻辑的辅助类"
 type: docs
-weight: 6220
+weight: 6720
 url: /zh/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-处理RDF逻辑的辅助类
+用于处理 RDF 逻辑的辅助类
 
 ```csharp
 public static class XmpArrayHelper
@@ -16,13 +17,13 @@ public static class XmpArrayHelper
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | 获取特定的 RDF 代码[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | 获取特定 [`XmpArrayType`](../xmparraytype/) 的 RDF 代码。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

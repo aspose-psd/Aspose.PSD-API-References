@@ -1,12 +1,13 @@
 ---
-title: TimeLine.FsID
-second_title: Aspose.PSD for .NET API 参考
-description: TimeLine 财产. 获取或设置 FsID 值
+title: "Timeline.FsID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Timeline 属性。获取或设置 FsID 值"
 type: docs
-weight: 60
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/timeline/fsid/
 ---
-## TimeLine.FsID property
+{{< psd/tize >}}
+## Timeline.FsID property
 
 获取或设置 FsID 值。
 
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.animation/timeline/fsid/
 public int FsID { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TimeLine](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* 部件 [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.Transform
-second_title: Aspose.PSD for .NET API 参考
-description: TransformBrush 财产. 获取或设置副本Matrix为此定义了局部几何变换TransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TransformBrush 属性。获取或设置一个副本 Matrix，定义此 TransformBrush 的本地几何变换"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-获取或设置副本[`Matrix`](../../../aspose.psd/matrix/)为此定义了局部几何变换[`TransformBrush`](../) .
+获取或设置一个副本 [`Matrix`](../../../aspose.psd/matrix/)，定义此 [`TransformBrush`](../) 的本地几何变换。
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,13 +17,13 @@ public Matrix Transform { get; set; }
 
 ### 返回值
 
-的副本[`Matrix`](../../../aspose.psd/matrix/)定义仅适用于用此绘制的填充的几何变换[`TransformBrush`](../).
+一个副本 [`Matrix`](../../../aspose.psd/matrix/)，定义仅适用于使用此 [`TransformBrush`](../) 绘制的填充的几何变换。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../transformbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

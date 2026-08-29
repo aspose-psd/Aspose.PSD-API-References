@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 方法. 将流容器插入指定位置
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 方法。将流容器插入指定位置"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
 将流容器插入指定位置。
@@ -14,23 +15,23 @@ url: /zh/net/aspose.psd/splitstreamcontainer/insert/
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| position | Int32 | 要插入的位置。 |
-| stream | StreamContainer | 要插入的流容器。 |
-| disposeStream | Boolean | 如果设置为`真的`处理流。 |
+| 位置 | Int32 | 要插入的位置。 |
+| 流 | StreamContainer | 要插入的流容器。 |
+| disposeStream | 布尔 | 如果设置为 `true`，则释放流。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBasicPackage 方法. 设置创建者工具
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBasicPackage 方法。设置创建者工具"
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
-设置创建者工具。
+设置创建工具。
 
 ```csharp
 public void SetCreatorTool(string creatorTool)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| creatorTool | String | 工具名称。 |
+| creatorTool | String | 工具的名称。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBasicPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

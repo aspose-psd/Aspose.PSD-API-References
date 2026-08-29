@@ -1,11 +1,12 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.CompressorException 班级. 压缩器异常
+title: "类 CompressorException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.CompressorException 类。压缩器异常。"
 type: docs
 weight: 430
 url: /zh/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
 压缩器异常。
@@ -16,15 +17,15 @@ public class CompressorException : FrameworkException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | 初始化一个新的实例`CompressorException`类. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | 初始化一个新的实例`CompressorException`类. |
+| [CompressorException](compressorexception/#constructor)(string) | 初始化 `CompressorException` 类的新实例。 |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | 初始化 `CompressorException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FrameworkException](../frameworkexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

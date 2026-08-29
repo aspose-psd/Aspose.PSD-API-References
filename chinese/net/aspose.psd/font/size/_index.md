@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD for .NET API 参考
-description: Font 财产. 获取 this 的 emsizeFont以指定的单位衡量Unit财产.
+title: "Font.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Font 属性。获取此 Font 的 em 大小，单位由 Unit 属性指定"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-获取 this 的 em-size[`Font`](../)以指定的单位衡量[`Unit`](../unit/)财产.
+获取此 [`Font`](../) 的 em 大小，单位由 [`Unit`](../unit/) 属性指定。
 
 ```csharp
 public float Size { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的em-size[`Font`](../).
+此 [`Font`](../) 的 em 大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../)
-* 命名空间 [Aspose.PSD](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

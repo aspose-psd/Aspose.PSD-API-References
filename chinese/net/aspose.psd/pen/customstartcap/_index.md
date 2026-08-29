@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置自定义上限以在使用此绘制的线条的开头使用Pen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 属性。获取或设置在此 Pen 绘制的线条起始处使用的自定义帽子。"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-获取或设置自定义上限以在使用此绘制的线条的开头使用[`Pen`](../) .
+获取或设置在此 [`Pen`](../) 绘制的线条起始处使用的自定义帽子。
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/)表示用它绘制的线条开头使用的上限[`Pen`](../).
+[`CustomLineCap`](../../customlinecap/) 表示此 [`Pen`](../) 绘制的线条起始处使用的帽子。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`CustomStartCap`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `CustomStartCap` 属性设置在不可变的 [`Pen`](../) 上，例如由 [`Pen`](../) 类返回的实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

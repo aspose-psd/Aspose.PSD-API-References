@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.Fractions
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 分数符号可以用特殊字形替换
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。分数符号可以替换为特殊字形"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-分数符号可以用特殊字形替换。
+分数字符可以替换为特殊字形。
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

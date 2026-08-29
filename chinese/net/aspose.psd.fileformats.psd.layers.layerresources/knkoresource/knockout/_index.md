@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD for .NET API 参考
-description: KnkoResource 财产. 获取或设置一个值指示是否混合内部元素.
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "KnkoResource 属性。获取或设置一个值，指示是否混合内部元素"
 type: docs
-weight: 30
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-获取或设置一个值，指示是否[混合内部元素].
+获取或设置一个值，指示是否 [blend interior elements]。
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[混合内部元素]；否则，`错误的` .
+`true` 表示 [blend interior elements]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [KnkoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

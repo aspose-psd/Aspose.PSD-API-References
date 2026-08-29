@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBoolean 构造函数. 初始化一个新的实例XmpBoolean基于布尔值的类.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBoolean 构造函数。基于布尔值初始化 XmpBoolean 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-初始化一个新的实例[`XmpBoolean`](../)基于布尔值的类.
+基于布尔值初始化 [`XmpBoolean`](../) 类的新实例。
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Boolean | 布尔值。允许的值为 True 或 False。 |
+| 值 | 布尔 | 布尔值。允许的值为 True 或 False。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBoolean](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-初始化一个新的实例[`XmpBoolean`](../)具有默认值的类.
+使用默认值初始化 [`XmpBoolean`](../) 类的新实例。
 
 ```csharp
 public XmpBoolean()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBoolean](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-初始化一个新的实例[`XmpBoolean`](../)类.
+初始化 [`XmpBoolean`](../) 类的新实例。
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 价值。 |
+| 值 | String | 该值。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 价值 |
-| ArgumentException | 无效的字符串值；值 |
+| ArgumentNullException | 值 |
+| ArgumentException | 无效的字符串值;value |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBoolean](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IImageExporter.Export
-second_title: Aspose.PSD for .NET API 参考
-description: IImageExporter 方法. 将指定的图像数据导出为指定的数据格式
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IImageExporter 方法。将指定的图像数据导出为指定的数据格式"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
 将指定的图像数据导出为指定的数据格式。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd/iimageexporter/export/
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | image | Image | 要导出的图像数据。 |
-| stream | Stream | 要将数据导出到的流。 |
-| optionsBase | ImageOptionsBase | 图像导出选项 |
+| 流 | 流 | 导出数据的目标流。 |
+| optionsBase | ImageOptionsBase | 图像导出的选项 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* 命名空间 [Aspose.PSD](../../iimageexporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,20 +40,20 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
     Rectangle boundsRectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | image | Image | 要导出的图像数据。 |
-| stream | Stream | 要将数据导出到的流。 |
-| optionsBase | ImageOptionsBase | 图像导出选项 |
+| 流 | 流 | 导出数据的目标流。 |
+| optionsBase | ImageOptionsBase | 图像导出的选项 |
 | boundsRectangle | Rectangle | 边界矩形。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* 命名空间 [Aspose.PSD](../../iimageexporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

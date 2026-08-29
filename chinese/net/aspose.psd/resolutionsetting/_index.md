@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ResolutionSetting 班级. 图像保存选项的分辨率设置
+title: "类 ResolutionSetting"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ResolutionSetting 类。图像保存选项的分辨率设置"
 type: docs
-weight: 5380
+weight: 5880
 url: /zh/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 图像保存选项的分辨率设置。
@@ -16,21 +17,21 @@ public class ResolutionSetting
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | 初始化一个新的实例`ResolutionSetting`类. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | 初始化一个新的实例`ResolutionSetting`类. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | 初始化 `ResolutionSetting` 类的新实例。 |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | 初始化 `ResolutionSetting` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | 获取或设置水平分辨率。 |
 | [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | 获取或设置垂直分辨率。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

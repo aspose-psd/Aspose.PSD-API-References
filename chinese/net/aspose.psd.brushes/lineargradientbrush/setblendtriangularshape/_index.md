@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD for .NET API 参考
-description: LinearGradientBrush 方法. 创建一个线性渐变中心颜色和线性衰减到两端的单一颜色
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinearGradientBrush 方法。创建具有中心颜色并在两端线性衰减到单一颜色的线性渐变。"
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-创建一个线性渐变，中心颜色和线性衰减到两端的单一颜色。
+创建具有中心颜色的线性渐变，并在两端线性衰减至单一颜色。
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| focus | Single | 一个从 0 到 1 的值，指定渐变的中心（渐变仅由结束颜色组成的点）。 |
+| 焦点 | 单精度 | 一个介于 0 到 1 之间的值，指定渐变的中心（仅由结束颜色组成的点）。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-创建一个线性渐变，中心颜色和线性衰减到两端的单一颜色。
+创建具有中心颜色的线性渐变，并在两端线性衰减至单一颜色。
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| focus | Single | 一个从 0 到 1 的值，指定渐变的中心（渐变仅由结束颜色组成的点）。 |
-| scale | Single | 一个从 0 到 1 的值，指定颜色从起始颜色衰减到*focus*（结束颜色） |
+| 焦点 | 单精度 | 一个介于 0 到 1 之间的值，指定渐变的中心（仅由结束颜色组成的点）。 |
+| scale | 单精度 | 一个介于 0 到 1 之间的值，指定颜色从起始颜色到 *focus*（结束颜色）的衰减速度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

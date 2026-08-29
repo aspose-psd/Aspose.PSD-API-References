@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Aspose.PSD for .NET API 参考
-description: ColorantCmyk 构造函数. 初始化一个新的实例ColorantCmyk类.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorantCmyk 构造函数。初始化 ColorantCmyk 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-初始化一个新的实例[`ColorantCmyk`](../)类.
+初始化 [`ColorantCmyk`](../) 类的新实例。
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantCmyk](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-初始化一个新的实例[`ColorantCmyk`](../)类.
+初始化 [`ColorantCmyk`](../) 类的新实例。
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| black | Single | 黑色分量值。 |
-| cyan | Single | 青色分量值。 |
-| magenta | Single | 品红色分量值。 |
-| yellow | Single | 黄色分量值。 |
+| 黑色 | 单精度 | 黑色分量值。 |
+| 青色 | 单精度 | 青色分量值。 |
+| 品红色 | 单精度 | 品红色分量值。 |
+| 黄色 | 单精度 | 黄色分量值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantCmyk](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

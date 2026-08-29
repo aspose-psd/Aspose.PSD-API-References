@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reset
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 清空图形路径并设置FillMode到Alternate .
+title: "GraphicsPath.Reset"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。清空图形路径并将 FillMode 设置为 Alternate"
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/graphicspath/reset/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reset method
 
-清空图形路径并设置[`FillMode`](../../fillmode/)到Alternate .
+清空图形路径并将 [`FillMode`](../../fillmode/) 设置为 Alternate。
 
 ```csharp
 public void Reset()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

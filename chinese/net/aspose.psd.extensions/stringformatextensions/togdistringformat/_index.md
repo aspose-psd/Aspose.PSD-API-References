@@ -1,32 +1,33 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormatExtensions 方法. 转换StringFormat到StringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormatExtensions 方法。将 StringFormat 转换为 StringFormat"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-转换[`StringFormat`](../../../aspose.psd/stringformat/)到StringFormat .
+将 [`StringFormat`](../../../aspose.psd/stringformat/) 转换为 StringFormat。
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stringFormat | StringFormat | 这[`StringFormat`](../../../aspose.psd/stringformat/)转换。 |
+| stringFormat | StringFormat | 要转换的 [`StringFormat`](../../../aspose.psd/stringformat/)。 |
 
 ### 返回值
 
-转换的StringFormat.
+已转换的 StringFormat。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../stringformatextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

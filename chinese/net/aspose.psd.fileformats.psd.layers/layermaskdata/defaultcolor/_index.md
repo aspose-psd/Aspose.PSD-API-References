@@ -1,11 +1,12 @@
 ---
-title: LayerMaskData.DefaultColor
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskData 财产. 获取或设置默认颜色
+title: "LayerMaskData.DefaultColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskData 属性。获取或设置默认颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DefaultColor property
 
 获取或设置默认颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 public byte DefaultColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 默认颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

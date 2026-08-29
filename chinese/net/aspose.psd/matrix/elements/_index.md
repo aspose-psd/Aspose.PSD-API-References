@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 财产. 获取表示此元素的浮点值数组Matrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 属性。获取一个浮点值数组，表示此 Matrix 的元素"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-获取表示此元素的浮点值数组[`Matrix`](../) .
+获取一个浮点值数组，表示此 [`Matrix`](../) 的元素。
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-表示此元素的浮点值数组[`Matrix`](../).
+一个浮点值数组，表示此 [`Matrix`](../) 的元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,81 +1,82 @@
 ---
-title: RectangleF.Contains
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 方法. 确定指定点是否包含在此RectangleF结构.
+title: "RectangleF.Contains"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 方法。确定指定点是否包含在此 RectangleF 结构中。"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/rectanglef/contains/
 ---
+{{< psd/tize >}}
 ## Contains(float, float) {#contains_2}
 
-确定指定点是否包含在此[`RectangleF`](../)结构.
+确定指定的点是否包含在此 [`RectangleF`](../) 结构中。
 
 ```csharp
 public bool Contains(float x, float y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 要测试的点的 x 坐标。 |
-| y | Single | 要测试的点的 y 坐标。 |
+| x | 单精度 | 要测试的点的 x 坐标。 |
+| y | 单精度 | 要测试的点的 y 坐标。 |
 
 ### 返回值
 
-如果由定义的点，则此方法返回 true*x*和*y*包含在这个[`RectangleF`](../)结构;否则为假。
+如果由 *x* 和 *y* 定义的点包含在此 [`RectangleF`](../) 结构中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(PointF) {#contains}
 
-确定指定点是否包含在此[`RectangleF`](../)结构.
+确定指定的点是否包含在此 [`RectangleF`](../) 结构中。
 
 ```csharp
 public bool Contains(PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 这[`PointF`](../../pointf/)去测试。 |
+| point | PointF | 要测试的 [`PointF`](../../pointf/)。 |
 
 ### 返回值
 
-如果由*point*参数包含在此[`RectangleF`](../)结构;否则为假。
+如果 *point* 参数表示的点包含在此 [`RectangleF`](../) 结构中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(RectangleF) {#contains_1}
 
-判断所代表的矩形区域是否*rect*完全包含在这个[`RectangleF`](../)结构.
+确定由 *rect* 表示的矩形区域是否完全包含在此 [`RectangleF`](../) 结构中。
 
 ```csharp
 public bool Contains(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 这[`RectangleF`](../)去测试。 |
+| rect | RectangleF | 要测试的 [`RectangleF`](../)。 |
 
 ### 返回值
 
-如果矩形区域由*rect*完全包含在由此代表的矩形区域内[`RectangleF`](../);否则为假。
+如果由 *rect* 表示的矩形区域完全包含在此 [`RectangleF`](../) 表示的矩形区域中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

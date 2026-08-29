@@ -1,29 +1,30 @@
 ---
-title: LineSegment.LineSegment
-second_title: Aspose.PSD for .NET API 参考
-description: LineSegment 构造函数. 初始化一个新的实例LineSegment类.
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LineSegment 构造函数。初始化 LineSegment 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-初始化一个新的实例[`LineSegment`](../)类.
+初始化 [`LineSegment`](../) 类的新实例。
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| startPoint | PointF | 起点。 |
-| endPoint | PointF | 终点。 |
+| startPoint | PointF | 起始点。 |
+| endPoint | PointF | 结束点。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* 命名空间 [Aspose.PSD.ShapeSegments](../../linesegment/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

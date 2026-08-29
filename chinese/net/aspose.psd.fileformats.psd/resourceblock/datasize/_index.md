@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.DataSize
-second_title: Aspose.PSD for .NET API 参考
-description: ResourceBlock 财产. 获取以字节为单位的资源数据大小
+title: "ResourceBlock.DataSize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResourceBlock 属性。获取资源数据大小（字节）"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd/resourceblock/datasize/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.DataSize property
 
-获取以字节为单位的资源数据大小。
+获取资源数据的字节大小。
 
 ```csharp
 public abstract int DataSize { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 资源数据大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceBlock](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

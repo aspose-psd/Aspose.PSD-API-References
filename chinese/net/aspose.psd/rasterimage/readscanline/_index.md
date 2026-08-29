@@ -1,20 +1,21 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 按指定扫描线索引读取整条扫描线
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。按指定的扫描线索引读取整条扫描线"
 type: docs
-weight: 440
+weight: 450
 url: /zh/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-按指定扫描线索引读取整条扫描线。
+按指定的扫描线索引读取整条扫描线。
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | scanLineIndex | Int32 | 扫描线的零基索引。 |
 
@@ -22,11 +23,11 @@ public Color[] ReadScanLine(int scanLineIndex)
 
 扫描线像素颜色值数组。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

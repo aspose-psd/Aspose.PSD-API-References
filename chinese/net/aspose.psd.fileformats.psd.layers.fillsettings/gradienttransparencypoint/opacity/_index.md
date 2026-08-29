@@ -1,11 +1,12 @@
 ---
-title: GradientTransparencyPoint.Opacity
-second_title: Aspose.PSD for .NET API 参考
-description: GradientTransparencyPoint 财产. 获取或设置颜色
+title: "GradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientTransparencyPoint 属性。获取或设置颜色"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Opacity property
 
 获取或设置颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparency
 public double Opacity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientTransparencyPoint](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

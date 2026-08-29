@@ -1,14 +1,15 @@
 ---
-title: Class ProjectLink
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink 班级. 代表工程路径
+title: "类 ProjectLink"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink 类。表示项目的路径"
 type: docs
-weight: 5860
+weight: 6360
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
-代表工程路径。
+表示项目的路径。
 
 ```csharp
 public sealed class ProjectLink : XmpTypeBase
@@ -16,27 +17,27 @@ public sealed class ProjectLink : XmpTypeBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ProjectLink](projectlink/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | 获取或设置项目的完整路径。 |
 | [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | 获取或设置文件类型。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | 以 XMP 格式返回包含字符串的值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | 返回 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

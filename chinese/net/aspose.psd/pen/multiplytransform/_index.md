@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 方法. 为此乘以变换矩阵Pen由指定的Matrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 方法。将此 Pen 的变换矩阵乘以指定的 Matrix。"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-为此乘以变换矩阵[`Pen`](../)由指定的[`Matrix`](../../matrix/) .
+将此[`Pen`](../)的变换矩阵乘以指定的[`Matrix`](../../matrix/)。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 这[`Matrix`](../../matrix/)乘以变换矩阵的对象。 |
+| matrix | Matrix | 用于乘以变换矩阵的[`Matrix`](../../matrix/)对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-为此乘以变换矩阵[`Pen`](../)由指定的[`Matrix`](../../matrix/)按指定顺序.
+按指定顺序将此[`Pen`](../)的变换矩阵乘以指定的[`Matrix`](../../matrix/)。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 这[`Matrix`](../../matrix/)乘以变换矩阵。 |
-| order | MatrixOrder | 执行乘法运算的顺序。 |
+| matrix | Matrix | 用于乘以变换矩阵的[`Matrix`](../../matrix/)。 |
+| order | MatrixOrder | 执行乘法操作的顺序。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

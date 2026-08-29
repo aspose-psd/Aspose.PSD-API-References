@@ -1,11 +1,12 @@
 ---
-title: BlncResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: BlncResource 场地. 类型工具信息键
+title: "BlncResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlncResource 字段。类型工具信息键"
 type: docs
-weight: 160
+weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlncResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlncResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

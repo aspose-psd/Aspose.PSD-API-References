@@ -1,11 +1,12 @@
 ---
-title: JpegLoadException.Reason
-second_title: Aspose.PSD for .NET API 参考
-description: JpegLoadException 财产. 获取或设置错误原因
+title: "JpegLoadException.Reason"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegLoadException 属性。获取或设置错误的原因"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.Reason property
 
 获取或设置错误原因。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 public ErrorReason Reason { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-错误原因。
+错误的原因。
 
-### 也可以看看
+### 另请参阅
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

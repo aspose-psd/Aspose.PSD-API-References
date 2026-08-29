@@ -1,31 +1,32 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 判断这个矩形是否与rect .
+title: "Rectangle.IntersectsWith"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。确定此矩形是否与 rect 相交。"
 type: docs
 weight: 250
 url: /zh/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-判断这个矩形是否与*rect* .
+确定此矩形是否与 *rect* 相交。
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rect | Rectangle | 要测试的矩形。 |
 
 ### 返回值
 
-如果有任何交集，此方法返回 true，否则返回 false。
+如果存在任何交叉，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

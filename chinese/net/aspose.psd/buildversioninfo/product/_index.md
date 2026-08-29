@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD for .NET API 参考
-description: BuildVersionInfo 场地. 产品标题
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BuildVersionInfo 字段。产品标题"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 产品标题。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/buildversioninfo/product/
 public static readonly string Product;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BuildVersionInfo](../)
-* 命名空间 [Aspose.PSD](../../buildversioninfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

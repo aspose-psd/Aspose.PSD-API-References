@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensSerialNumber
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置镜头序列号
+title: "ExifData.LensSerialNumber"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置镜头序列号"
 type: docs
 weight: 750
 url: /zh/net/aspose.psd.exif/exifdata/lensserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSerialNumber property
 
 获取或设置镜头序列号。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/lensserialnumber/
 public string LensSerialNumber { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 镜头序列号。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

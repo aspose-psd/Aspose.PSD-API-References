@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 压平所有层
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。合并所有图层"
 type: docs
-weight: 540
+weight: 600
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-压平所有层。
+合并所有图层。
 
 ```csharp
 public void FlattenImage()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

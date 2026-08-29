@@ -1,11 +1,12 @@
 ---
-title: LangAlt.AddLanguage
-second_title: Aspose.PSD for .NET API 参考
-description: LangAlt 方法. 添加语言
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LangAlt 方法。添加语言"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
 添加语言。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp/langalt/addlanguage/
 public virtual void AddLanguage(string language, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| language | String | 语言。 |
-| value | String | 语言价值。 |
+| 语言 | String | 该语言。 |
+| 值 | String | 语言值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LangAlt](../)
-* 命名空间 [Aspose.PSD.Xmp](../../langalt/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

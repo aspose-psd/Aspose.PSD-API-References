@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置作者位置
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置作者位置"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-设置作者位置。
+设置作者的位置。
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| authorsPosition | String | 作者的立场。 |
+| authorsPosition | String | 作者位置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

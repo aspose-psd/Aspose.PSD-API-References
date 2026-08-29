@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: Aspose.PSD for .NET API 参考
-description: AudioChannelType 财产. 获取另一个通道
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AudioChannelType 属性。获取其他通道"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
-获取另一个通道。
+获取其他通道。
 
 ```csharp
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-另一个通道。
+其他通道。
 
-### 也可以看看
+### 另请参阅
 
 * class [AudioChannelType](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

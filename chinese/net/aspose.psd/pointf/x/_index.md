@@ -1,23 +1,24 @@
 ---
-title: PointF.X
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 财产. 获取或设置此的 x 坐标PointF .
+title: "PointF.X"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 属性。获取或设置此 PointF 的 x 坐标。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/pointf/x/
 ---
+{{< psd/tize >}}
 ## PointF.X property
 
-获取或设置此的 x 坐标[`PointF`](../) .
+获取或设置此 [`PointF`](../) 的 x 坐标。
 
 ```csharp
 public float X { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

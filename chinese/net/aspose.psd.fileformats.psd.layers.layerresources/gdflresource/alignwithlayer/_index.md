@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取或设置一个值指示是否与图层对齐.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取或设置指示是否与图层对齐的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-获取或设置一个值，指示是否[与图层对齐].
+获取或设置一个值，指示是否 [align with layer]。
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[与层对齐]；否则，`错误的` .
+`true` 如果 [align with layer]；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 GdFlResource 资源加载的支持。
+以下示例演示了 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 阅读
+                    // 读取
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

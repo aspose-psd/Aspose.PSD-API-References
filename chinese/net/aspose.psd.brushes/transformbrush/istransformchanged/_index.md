@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Aspose.PSD for .NET API 参考
-description: TransformBrush 财产. 获取指示转换是否以某种方式更改的值例如设置转换矩阵或 调用任何改变转换矩阵的方法引入该属性是为了向后兼容 GDI.
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TransformBrush 属性。获取一个值，指示变换是否以某种方式被更改。例如设置变换矩阵或调用任何修改变换矩阵的方法。此属性为向后兼容 GDI 引入。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-获取指示转换是否以某种方式更改的值。例如设置转换矩阵或 调用任何改变转换矩阵的方法。引入该属性是为了向后兼容 GDI+.
+获取一个值，指示转换是否以某种方式被更改。例如设置转换矩阵或调用任何修改转换矩阵的方法。此属性为向后兼容 GDI+ 而引入。
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果转换被改变；否则，`错误的` .
+`True` 如果变换已更改；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TransformBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../transformbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

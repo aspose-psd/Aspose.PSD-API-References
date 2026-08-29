@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加默认参数的通道混合器调整层
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。使用默认参数添加通道混合器调整图层"
 type: docs
-weight: 310
+weight: 320
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-添加默认参数的通道混合器调整层
+添加带默认参数的通道混合器调整图层
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
@@ -16,13 +17,13 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### 返回值
 
-添加了通道混合器层
+已添加通道混合器图层
 
-### 也可以看看
+### 另请参阅
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

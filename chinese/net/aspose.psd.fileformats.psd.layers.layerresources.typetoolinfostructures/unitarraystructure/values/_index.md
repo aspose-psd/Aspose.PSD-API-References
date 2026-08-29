@@ -1,30 +1,31 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD for .NET API 参考
-description: UnitArrayStructure 财产. 获取或设置单元数组结构值
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnitArrayStructure 属性。获取或设置单元数组结构的值。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-获取或设置单元数组结构值。
+获取或设置单元数组结构的值。
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-单位数组结构值。
+单元数组结构的值。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 值属性不能为空。 |
+| ArgumentNullException | Values 属性不能为空。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 ObAr 和 UnFl 签名的支持。
 
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitArrayStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

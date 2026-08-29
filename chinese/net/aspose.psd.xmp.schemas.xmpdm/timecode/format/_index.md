@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: Aspose.PSD for .NET API 参考
-description: Timecode 财产. 获取或设置在TimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Timecode 属性。获取或设置在 TimeValue 中使用的格式"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-获取或设置在[`TimeValue`](../timevalue/) .
+获取或设置在 [`TimeValue`](../timevalue/) 中使用的格式。
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-中使用的格式[`TimeValue`](../timevalue/) .
+在 [`TimeValue`](../timevalue/) 中使用的格式。
 
-### 也可以看看
+### 另请参阅
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

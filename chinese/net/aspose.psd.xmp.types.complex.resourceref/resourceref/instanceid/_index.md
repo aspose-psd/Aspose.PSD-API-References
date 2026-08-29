@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Aspose.PSD for .NET API 参考
-description: ResourceRef 财产. 获取或设置实例标识符
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResourceRef 属性。获取或设置实例标识符"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
 获取或设置实例标识符。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 public string InstanceId { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 实例标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceRef](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

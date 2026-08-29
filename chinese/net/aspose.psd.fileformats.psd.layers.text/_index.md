@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含用于操作文本图层数据的 API
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含用于操作文本图层数据的 API。"
 type: docs
-weight: 340
+weight: 360
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/
 ---
-命名空间包含用于操作文本图层数据的 API
+{{< psd/tize >}}
+该命名空间包含用于操作文本图层数据的 API。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | 表示字体信息。此类不能被继承。 |
+| [TextFontInfo](./textfontinfo/) | 表示字体信息。此类不可被继承。 |
 ## 接口
 
-| 界面 | 描述 |
+| 接口 | 描述 |
 | --- | --- |
-| [IText](./itext/) | 文本图层文本编辑界面 |
-| [ITextParagraph](./itextparagraph/) | 使用段落 的界面 |
-| [ITextPortion](./itextportion/) | 操作文本部分的接口 |
-| [ITextStyle](./itextstyle/) | 使用文本 Style 的界面 |
+| [IText](./itext/) | 文本图层的文本编辑接口 |
+| [ITextParagraph](./itextparagraph/) | 用于处理段落的接口 |
+| [ITextPortion](./itextportion/) | 用于操作文本片段的接口 |
+| [ITextStyle](./itextstyle/) | 用于处理文本样式的接口 |
 
 

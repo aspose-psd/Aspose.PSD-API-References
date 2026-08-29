@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 偏移这个的坐标Region按指定数量.
+title: "Region.Translate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。按指定的量偏移此 Region 的坐标"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-偏移这个的坐标[`Region`](../)按指定数量.
+按指定的量偏移此 [`Region`](../) 的坐标。
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | 抵消这个的金额[`Region`](../)水平地。 |
-| dy | Single | 抵消这个的金额[`Region`](../)垂直。 |
+| dx | Single | 水平偏移此 [`Region`](../) 的量。 |
+| dy | Single | 垂直偏移此 [`Region`](../) 的量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-偏移这个的坐标[`Region`](../)按指定数量.
+按指定的量偏移此 [`Region`](../) 的坐标。
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Int32 | 抵消这个的金额[`Region`](../)水平地。 |
-| dy | Int32 | 抵消这个的金额[`Region`](../)垂直。 |
+| dx | Int32 | 水平偏移此 [`Region`](../) 的量。 |
+| dy | Int32 | 垂直偏移此 [`Region`](../) 的量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

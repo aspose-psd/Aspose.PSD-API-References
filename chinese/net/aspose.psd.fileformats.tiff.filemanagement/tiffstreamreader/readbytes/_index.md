@@ -1,59 +1,60 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamReader 方法. 从流中读取字节值数组
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamReader 方法。从流中读取字节值数组"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
-从流中读取字节值数组。
+从流中读取一个字节数组。
 
 ```csharp
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| array | Byte[] | 要填充的数组。 |
-| arrayIndex | Int32 | 开始将值放入的数组索引。 |
-| position | Int64 | 要读取的流位置。 |
-| count | Int64 | 元素计数阅读。 |
+| 数组 | Byte[] | 要填充的数组。 |
+| arrayIndex | Int32 | 开始放置值的数组索引。 |
+| 位置 | Int64 | 读取的流位置。 |
+| count | Int64 | 要读取的元素计数。 |
 
 ### 返回值
 
 字节值数组。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamReader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReadBytes(long, long) {#readbytes}
 
-从流中读取一个无符号字节值数组。
+从流中读取一个无符号字节数组。
 
 ```csharp
 public byte[] ReadBytes(long position, long count)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| position | Int64 | 要读取的位置。 |
-| count | Int64 | 元素很重要。 |
+| 位置 | Int64 | 读取的位置。 |
+| count | Int64 | 元素计数。 |
 
 ### 返回值
 
 无符号字节值数组。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamReader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

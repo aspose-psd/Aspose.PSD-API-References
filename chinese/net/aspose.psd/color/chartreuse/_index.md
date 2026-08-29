@@ -1,11 +1,12 @@
 ---
-title: Color.Chartreuse
-second_title: Aspose.PSD for .NET API 参考
-description: Color 财产. 获取系统定义的颜色
+title: "Color.Chartreuse"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色"
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/color/chartreuse/
 ---
+{{< psd/tize >}}
 ## Color.Chartreuse property
 
 获取系统定义的颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/color/chartreuse/
 public static Color Chartreuse { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`Color`](../)代表系统定义的颜色。
+一个表示系统定义颜色的 [`Color`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Aspose.PSD for .NET API 参考
-description: FontSettings 方法. 清除所有字体 replacements
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FontSettings 方法。清除所有字体替换。"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
-清除所有字体 replacements
+清除所有字体替换
 
 ```csharp
 public static void ClearFontReplacements()
 ```
 
-### 例子
+## 示例
 
-以下代码演示了以编程方式限制字体使用的能力。
+以下代码演示了使用编程方式限制字体的能力。
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FontSettings](../)
-* 命名空间 [Aspose.PSD](../../fontsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

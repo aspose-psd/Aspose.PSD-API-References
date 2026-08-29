@@ -1,14 +1,15 @@
 ---
-title: PointF.GetHashCode
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 方法. 返回一个散列码PointF结构.
+title: "PointF.GetHashCode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 方法。返回此 PointF 结构的哈希码。"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/pointf/gethashcode/
 ---
+{{< psd/tize >}}
 ## PointF.GetHashCode method
 
-返回一个散列码[`PointF`](../)结构.
+返回此 [`PointF`](../) 结构的哈希码。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 返回值
 
-指定此哈希值的整数值[`PointF`](../)结构。
+一个整数值，指定此 [`PointF`](../) 结构的哈希值。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

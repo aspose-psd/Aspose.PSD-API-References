@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Aspose.PSD for .NET API 参考
-description: ColorRangeHsl 财产. 获取或设置饱和度
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorRangeHsl 属性。获取或设置饱和度"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
 获取或设置饱和度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/satu
 public short Saturation { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-饱和度.
+饱和度。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorRangeHsl](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

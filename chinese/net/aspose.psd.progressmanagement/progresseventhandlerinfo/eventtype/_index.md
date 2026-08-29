@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.EventType
-second_title: Aspose.PSD for .NET API 参考
-description: ProgressEventHandlerInfo 财产. 获取事件的类型
+title: "ProgressEventHandlerInfo.EventType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ProgressEventHandlerInfo 属性。获取事件的类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.EventType property
 
 获取事件的类型。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/
 public EventType EventType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 事件的类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [EventType](../../eventtype/)
 * class [ProgressEventHandlerInfo](../)
-* 命名空间 [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

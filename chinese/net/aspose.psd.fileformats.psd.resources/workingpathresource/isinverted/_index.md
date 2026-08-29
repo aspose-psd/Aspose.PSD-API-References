@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsInverted
-second_title: Aspose.PSD for .NET API 参考
-description: WorkingPathResource 财产. 获取或设置一个值指示此实例是否反转
+title: "WorkingPathResource.IsInverted"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "WorkingPathResource 属性。获取或设置一个值，指示此实例是否已反转"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsInverted property
 
-获取或设置一个值，指示此实例是否反转。
+获取或设置一个值，以指示此实例是否已反转。
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例是倒置的；否则，`错误的` .
+`true` 表示此实例已反转；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [WorkingPathResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

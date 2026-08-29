@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD for .NET API 参考
-description: FileOpenSource 构造函数. 初始化一个新的实例FileOpenSource类.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileOpenSource 构造函数。初始化 FileOpenSource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-初始化一个新的实例[`FileOpenSource`](../)类.
+初始化 [`FileOpenSource`](../) 类的新实例。
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | filePath | String | 要打开的文件路径。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FileOpenSource](../)
-* 命名空间 [Aspose.PSD.Sources](../../fileopensource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

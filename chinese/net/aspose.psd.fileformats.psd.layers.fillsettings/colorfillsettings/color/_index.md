@@ -1,11 +1,12 @@
 ---
-title: ColorFillSettings.Color
-second_title: Aspose.PSD for .NET API 参考
-description: ColorFillSettings 财产. 获取或设置颜色
+title: "ColorFillSettings.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorFillSettings 属性. 获取或设置颜色"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings.Color property
 
 获取或设置颜色。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/co
 public Color Color { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../colorfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,53 +1,54 @@
 ---
-title: RectangleF.RectangleF
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 构造函数. 初始化一个新的实例RectangleF具有指定位置和大小的结构
+title: "RectangleF.RectangleF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 构造函数。使用指定的位置和大小初始化 RectangleF 结构的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/rectanglef/rectanglef/
 ---
+{{< psd/tize >}}
 ## RectangleF(float, float, float, float) {#constructor_1}
 
-初始化一个新的实例[`RectangleF`](../)具有指定位置和大小的结构。
+使用指定的位置和大小初始化 [`RectangleF`](../) 结构的新实例。
 
 ```csharp
 public RectangleF(float x, float y, float width, float height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 矩形左上角的 x 坐标。 |
-| y | Single | 矩形左上角的 y 坐标。 |
-| width | Single | 矩形的宽度。 |
-| height | Single | 矩形的高度。 |
+| x | 单精度 | 矩形左上角的 x 坐标。 |
+| y | 单精度 | 矩形左上角的 y 坐标。 |
+| 宽度 | 单精度 | 矩形的宽度。 |
+| 高度 | 单精度 | 矩形的高度。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleF(PointF, SizeF) {#constructor}
 
-初始化一个新的实例[`RectangleF`](../)具有指定位置和大小的结构。
+使用指定的位置和大小初始化 [`RectangleF`](../) 结构的新实例。
 
 ```csharp
 public RectangleF(PointF location, SizeF size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| location | PointF | A[`PointF`](../../pointf/)表示矩形区域的左上角。 |
-| size | SizeF | A[`SizeF`](../../sizef/)表示矩形区域的宽度和高度。 |
+| location | PointF | 一个表示矩形区域左上角的 [`PointF`](../../pointf/)。 |
+| size | SizeF | 一个表示矩形区域宽度和高度的 [`SizeF`](../../sizef/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

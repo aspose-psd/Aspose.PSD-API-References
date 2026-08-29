@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.ResolutionSettings
-second_title: Aspose.PSD for .NET API 参考
-description: ImageOptionsBase 财产. 获取或设置分辨率设置
+title: "ImageOptionsBase.ResolutionSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageOptionsBase 属性。获取或设置分辨率设置"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/imageoptionsbase/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ResolutionSettings property
 
 获取或设置分辨率设置。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd/imageoptionsbase/resolutionsettings/
 public virtual ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* 命名空间 [Aspose.PSD](../../imageoptionsbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

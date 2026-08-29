@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmykIccBytes
-second_title: Aspose.PSD for .NET API 参考
-description: CmykColorHelper 方法. 使用自定义 ICC 配置文件将 RGB 转换为 CMYK
+title: "CmykColorHelper.ToCmykIccBytes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykColorHelper 方法。使用自定义 ICC 配置文件将 RGB 转换为 CMYK"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/cmykcolorhelper/tocmykiccbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykIccBytes method
 
 使用自定义 ICC 配置文件将 RGB 转换为 CMYK。
@@ -15,22 +16,22 @@ public static byte[] ToCmykIccBytes(int[] pixels, int startIndex, int length, St
     Stream cmykIccStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pixels | Int32[] | RGB 颜色显示为 32 位整数值。 |
+| 像素 | Int32[] | RGB 颜色以 32 位整数值的形式呈现。 |
 | startIndex | Int32 | RGB 颜色的起始索引。 |
-| length | Int32 | 要转换的 RGB 像素数。 |
-| rgbIccStream | Stream | RGB 配置文件流。 |
-| cmykIccStream | Stream | CMYK 配置文件流。 |
+| 长度 | Int32 | 要转换的 RGB 像素数量。 |
+| rgbIccStream | 流 | RGB 配置文件流。 |
+| cmykIccStream | 流 | CMYK 配置文件流。 |
 
 ### 返回值
 
-以字节数组形式呈现的 CMYK 颜色。
+CMYK 颜色以字节数组的形式呈现。
 
-### 也可以看看
+### 另请参阅
 
 * class [CmykColorHelper](../)
-* 命名空间 [Aspose.PSD](../../cmykcolorhelper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

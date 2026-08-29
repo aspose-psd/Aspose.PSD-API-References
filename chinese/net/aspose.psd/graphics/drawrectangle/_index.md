@@ -1,66 +1,67 @@
 ---
-title: Graphics.DrawRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 绘制由a指定的矩形RectangleF结构.
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。绘制由 RectangleF 结构指定的矩形"
 type: docs
-weight: 300
+weight: 310
 url: /zh/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-绘制由a指定的矩形[`RectangleF`](../../rectanglef/)结构.
+绘制由 [`RectangleF`](../../rectanglef/) 结构指定的矩形。
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/)确定矩形的颜色、宽度和样式。 |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/)表示要绘制的矩形的结构。 |
+| pen | Pen | 一个 [`Pen`](../../pen/) 用于确定矩形的颜色、宽度和样式。 |
+| rect | RectangleF | 一个 [`RectangleF`](../../rectanglef/) 结构，表示要绘制的矩形。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-绘制由a指定的矩形[`Rectangle`](../../rectangle/)结构.
+绘制由 [`Rectangle`](../../rectangle/) 结构指定的矩形。
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/)确定矩形的颜色、宽度和样式。 |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/)表示要绘制的矩形的结构。 |
+| pen | Pen | 一个 [`Pen`](../../pen/) 用于确定矩形的颜色、宽度和样式。 |
+| rect | Rectangle | 一个表示要绘制的矩形的 [`Rectangle`](../../rectangle/) 结构。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,26 +73,26 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | A[`Pen`](../../pen/)确定矩形的颜色、宽度和样式。 |
-| x | Single | 要绘制的矩形左上角的 x 坐标。 |
-| y | Single | 要绘制的矩形左上角的 y 坐标。 |
-| width | Single | 要绘制的矩形的宽度。 |
-| height | Single | 要绘制的矩形的高度。 |
+| pen | Pen | 一个 [`Pen`](../../pen/) 用于确定矩形的颜色、宽度和样式。 |
+| x | 单精度 | 要绘制的矩形左上角的 x 坐标。 |
+| y | 单精度 | 要绘制的矩形左上角的 y 坐标。 |
+| 宽度 | 单精度 | 要绘制的矩形的宽度。 |
+| 高度 | 单精度 | 要绘制的矩形的高度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,25 +104,25 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定矩形的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen/) 用于确定矩形的颜色、宽度和样式。 |
 | x | Int32 | 要绘制的矩形左上角的 x 坐标。 |
 | y | Int32 | 要绘制的矩形左上角的 y 坐标。 |
-| width | Int32 | 要绘制的矩形的宽度。 |
-| height | Int32 | 要绘制的矩形的高度。 |
+| 宽度 | Int32 | 要绘制的矩形的宽度。 |
+| 高度 | Int32 | 要绘制的矩形的高度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

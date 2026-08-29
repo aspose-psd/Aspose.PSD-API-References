@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Animation
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含 PSD 调整层
+title: "Aspose.PSD.FileFormats.Psd.Layers.Animation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含 PSD 调整图层"
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/
 ---
-命名空间包含 PSD 调整层。
+{{< psd/tize >}}
+该命名空间包含 PSD 调整图层。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [Frame](./frame/) | 时间线框项目的选项。 |
-| [LayerState](./layerstate/) | 时间线图层状态选项。 |
+| [Frame](./frame/) | 时间线帧项的选项。 |
+| [LayerState](./layerstate/) | 时间线图层状态的选项。 |
 | [LayerStateEffects](./layerstateeffects/) | 图层状态效果。 |
-| [TimeLine](./timeline/) | 时间线选项模型。 |
+| [Timeline](./timeline/) | 时间线选项模型。 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [FrameDisposalMethod](./framedisposalmethod/) | 帧处理方法指定是否在显示下一帧之前丢弃当前帧。 您为包含背景透明度的动画选择处理方法以指定当前 帧是否通过下一帧的透明区域可见。 |
+| [FrameDisposalMethod](./framedisposalmethod/) | 帧处置方法指定是否在显示下一帧之前丢弃当前帧。对于包含背景透明度的动画，您可以选择处置方法，以指定当前帧是否会通过下一帧的透明区域可见。 |
 
 

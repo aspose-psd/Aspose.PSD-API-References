@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.GetRange
-second_title: Aspose.PSD for .NET API 参考
-description: HueSaturationLayer 方法. 获取范围
+title: "HueSaturationLayer.GetRange"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "HueSaturationLayer 方法。获取范围"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/getrange/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.GetRange method
 
 获取范围。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlay
 public ColorRangeHsl GetRange(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 索引。 |
 
@@ -22,11 +23,11 @@ public ColorRangeHsl GetRange(int index)
 
 颜色范围 Hsl
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorRangeHsl](../../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/)
 * class [HueSaturationLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

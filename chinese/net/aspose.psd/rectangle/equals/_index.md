@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 测试是否obj是一个Rectangle具有相同位置和大小的结构Rectangle结构.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。测试 obj 是否为具有相同位置和大小的 Rectangle 结构。"
 type: docs
 weight: 230
 url: /zh/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-测试是否*obj*是一个[`Rectangle`](../)具有相同位置和大小的结构[`Rectangle`](../)结构.
+测试 *obj* 是否为一个 [`Rectangle`](../) 结构，且具有与此 [`Rectangle`](../) 相同的位置和大小。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 这Object去测试。 |
+| obj | Object | 要测试的对象。 |
 
 ### 返回值
 
-如果*obj*是一个[`Rectangle`](../)结构及其[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/)， 和[`Height`](../height/)属性等于此的相应属性[`Rectangle`](../)结构;否则，假的。
+如果 *obj* 是一个 [`Rectangle`](../) 结构，并且其 [`X`](../x/)、[`Y`](../y/)、[`Width`](../width/) 和 [`Height`](../height/) 属性等于此 [`Rectangle`](../) 结构的相应属性，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

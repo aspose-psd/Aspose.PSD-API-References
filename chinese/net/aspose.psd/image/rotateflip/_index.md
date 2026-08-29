@@ -1,11 +1,12 @@
 ---
-title: Image.RotateFlip
-second_title: Aspose.PSD for .NET API 参考
-description: Image 方法. 旋转翻转或旋转并翻转图像
+title: "Image.RotateFlip"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 方法。旋转、翻转或同时旋转和翻转图像"
 type: docs
-weight: 220
+weight: 230
 url: /zh/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
 旋转、翻转或旋转并翻转图像。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd/image/rotateflip/
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | 旋转翻转的类型。 |
+| rotateFlipType | RotateFlipType | rotate flip 的类型。 |
 
-### 例子
+## 示例
 
-这个例子演示了在图像上使用旋转操作。示例从某个磁盘位置加载现有图像文件，并根据 Enum Aspose.PSD.RotateFlipType 的值对图像执行旋转操作
+此示例演示了在图像上使用 Rotate 操作。示例从某个磁盘位置加载现有图像文件，并根据枚举 Aspose.PSD.RotateFlipType 的值对图像执行 Rotate 操作
 
 ```csharp
 [C#]
 
-//创建一个image类的实例，通过File路径用一个已经存在的图片文件初始化
+//创建 image 类的实例，并通过文件路径使用现有图像文件进行初始化
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //图像绕X轴旋转180度
+    //将图像绕 X 轴旋转 180 度
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
     // 保存所有更改。
@@ -36,11 +37,11 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

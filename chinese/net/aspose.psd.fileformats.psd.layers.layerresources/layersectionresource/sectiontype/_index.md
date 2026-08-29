@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD for .NET API 参考
-description: LayerSectionResource 财产. 获取或设置节类型
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerSectionResource 属性。获取或设置节类型"
 type: docs
-weight: 60
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
 获取或设置节类型。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresour
 public LayerSectionType SectionType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

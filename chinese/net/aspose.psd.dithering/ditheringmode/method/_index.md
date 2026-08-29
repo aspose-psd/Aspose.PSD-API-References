@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Method
-second_title: Aspose.PSD for .NET API 参考
-description: DitheringMode 财产. 抖动算法选择
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DitheringMode 属性。抖动算法选择"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
 抖动算法选择。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.dithering/ditheringmode/method/
 public DitheringMethod Method { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* 命名空间 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD for .NET API 参考
-description: LayerGroup 财产. 获取或设置混合模式键
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerGroup 属性。获取或设置混合模式键"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
 获取或设置混合模式键。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 混合模式键。
 
-### 也可以看看
+### 另请参阅
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

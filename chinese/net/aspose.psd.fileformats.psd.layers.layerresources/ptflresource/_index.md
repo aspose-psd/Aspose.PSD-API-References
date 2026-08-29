@@ -1,11 +1,12 @@
 ---
-title: Class PtFlResource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource 班级. 类 PtFlResource包含图案填充图层数据
+title: "类 PtFlResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource 类。类 PtFlResource。包含图案填充图层数据"
 type: docs
-weight: 2960
+weight: 3310
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
+{{< psd/tize >}}
 ## PtFlResource class
 
 类 PtFlResource。包含图案填充图层数据。
@@ -16,41 +17,43 @@ public class PtFlResource : FillLayerResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PtFlResource](ptflresource/)(string, string) | 初始化一个新的实例`PtFlResource`类. |
+| [PtFlResource](ptflresource/#constructor)() | 初始化 `PtFlResource` 类的新实例。 |
+| [PtFlResource](ptflresource/#constructor_1)(string, string) | 初始化 `PtFlResource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | 获取或设置一个值，该值指示是否[与图层对齐]。 |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | 获取或设置一个值，该值指示该实例是否链接到图层。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | 获取以字节为单位的图层资源长度。 |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | 获取或设置一个值，指示是否 [align with layer]。 |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | 获取或设置角度。 |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | 获取或设置一个值，指示此实例是否与图层关联。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | 获取图层资源的字节长度。 |
 | [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | 获取或设置偏移量。 |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | 获取或设置模式标识符。 |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | 获取或设置模式的名称。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | 获取层资源所需的最小 psd 版本。 0 表示没有限制。 |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | 获取或设置图案标识符。 |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | 获取或设置图案的名称。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 获取图层资源所需的最低 PSD 版本。0 表示没有限制。 |
 | [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | 获取或设置比例。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | 获取图层资源签名。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 获取签名。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | 将资源保存到指定的流容器中。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个表示此实例的字符串。 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | 类型工具信息键。 |
 
-### 例子
+## 示例
 
-以下示例演示了对加载和编辑 PtFlResource 资源的支持。
+以下示例演示了对 PtFlResource 资源的加载和编辑支持。
 
 ```csharp
 [C#]
@@ -71,7 +74,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // 阅读
+                    // 读取
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -91,7 +94,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // 我们在 PattResource 中没有模式数据，所以我们可以添加它。
+                    // 我们在 PattResource 中没有图案数据，因此可以添加它。
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -116,11 +119,11 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

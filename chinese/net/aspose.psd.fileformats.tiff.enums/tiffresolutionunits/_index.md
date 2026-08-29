@@ -1,30 +1,31 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits 枚举. Tiff 解析单元枚举
+title: "枚举 TiffResolutionUnits"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits 枚举。Tiff 分辨率单位枚举"
 type: docs
-weight: 4150
+weight: 4620
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Tiff 解析单元枚举
+tiff 分辨率单位枚举
 
 ```csharp
 public enum TiffResolutionUnits : ushort
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `1` | 没有有意义的单位。 |
-| Inch | `2` | 英文系统. |
-| Centimeter | `3` | 公制。 |
+| None | `1` | 无有意义的单位。 |
+| Inch | `2` | 英制系统。 |
+| Centimeter | `3` | 公制系统。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

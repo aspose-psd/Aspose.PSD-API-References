@@ -1,31 +1,32 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 枚举. 为 PSD 链接资源中的数据源定义 LinkDataSourceType 枚举
+title: "枚举 LinkDataSourceType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType 枚举。定义 PSD 链接资源中数据源的 LinkDataSourceType 枚举"
 type: docs
-weight: 2700
+weight: 3000
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-为 PSD 链接资源中的数据源定义 LinkDataSourceType 枚举。
+定义 PSD 链接资源中数据源的 LinkDataSourceType 枚举。
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 空链接资源。 |
-| liFD | `1` | 嵌入链接文件数据 |
+| liFD | `1` | 嵌入的链接文件数据 |
 | liFE | `2` | 外部链接文件数据 |
-| liFA | `3` | 链接文件别名 data |
+| liFA | `3` | 链接文件别名数据 |
 
-### 例子
+## 示例
 
-下面的代码演示了 LnkeResource 资源的支持。
+以下代码演示了 LnkeResource 资源的支持。
 
 ```csharp
 [C#]
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

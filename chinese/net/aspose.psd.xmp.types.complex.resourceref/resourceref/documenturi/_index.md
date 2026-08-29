@@ -1,11 +1,12 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Aspose.PSD for .NET API 参考
-description: ResourceRef 财产. 获取或设置文档 URI
+title: "ResourceRef.DocumentUri"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResourceRef 属性。获取或设置文档 URI"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
 获取或设置文档 URI。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 public string DocumentUri { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文档 URI.
+文档 URI。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceRef](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

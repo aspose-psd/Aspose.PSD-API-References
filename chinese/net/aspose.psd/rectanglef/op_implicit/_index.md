@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 方法. 转换指定的Rectangle结构为RectangleF结构.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 方法。将指定的 Rectangle 结构转换为 RectangleF 结构。"
 type: docs
 weight: 280
 url: /zh/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-转换指定的[`Rectangle`](../../rectangle/)结构为[`RectangleF`](../)结构.
+将指定的 [`Rectangle`](../../rectangle/) 结构转换为 [`RectangleF`](../) 结构。
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../../rectangle/)要转换的结构。 |
+| rect | Rectangle | 要转换的 [`Rectangle`](../../rectangle/) 结构。 |
 
 ### 返回值
 
-这[`RectangleF`](../)从指定的转换而来的结构[`Rectangle`](../../rectangle/)结构。
+从指定的 [`Rectangle`](../../rectangle/) 结构转换而来的 [`RectangleF`](../) 结构。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

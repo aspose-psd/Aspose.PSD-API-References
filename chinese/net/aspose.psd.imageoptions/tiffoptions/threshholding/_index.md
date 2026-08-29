@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置阈值
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置阈值"
 type: docs
-weight: 510
+weight: 520
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-获取或设置阈值。
+获取或设置阈值处理。
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-阈值。
+该阈值。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurFilterOptions.Radius
-second_title: Aspose.PSD for .NET API 参考
-description: GaussianBlurFilterOptions 财产. 获取或设置半径
+title: "GaussianBlurFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GaussianBlurFilterOptions 属性。获取或设置半径"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Radius property
 
 获取或设置半径。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/rad
 public int Radius { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-半径.
+半径。
 
-### 也可以看看
+### 另请参阅
 
 * class [GaussianBlurFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

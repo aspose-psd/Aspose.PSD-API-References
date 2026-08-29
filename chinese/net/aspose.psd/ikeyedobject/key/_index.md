@@ -1,11 +1,12 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.PSD for .NET API 参考
-description: IKeyedObject 财产. 获取对象键
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IKeyedObject 属性。获取对象键"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
 获取对象键。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/ikeyedobject/key/
 public string Key { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 对象键。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IKeyedObject](../)
-* 命名空间 [Aspose.PSD](../../ikeyedobject/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

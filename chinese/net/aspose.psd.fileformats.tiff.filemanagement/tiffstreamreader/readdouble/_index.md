@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamReader 方法. 从流中读取单个双精度值
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamReader 方法。从流中读取单个 double 值"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-从流中读取单个双精度值。
+从流中读取单个 double 值。
 
 ```csharp
 public double ReadDouble(long position)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| position | Int64 | 要读取的位置。 |
+| 位置 | Int64 | 读取的位置。 |
 
 ### 返回值
 
-单双值。
+单个 double 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamReader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorMatrixExtensions.ToGdiColorMatrix
-second_title: Aspose.PSD for .NET API 参考
-description: ColorMatrixExtensions 方法. 转换ColorMatrix到ColorMatrix .
+title: "ColorMatrixExtensions.ToGdiColorMatrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorMatrixExtensions 方法。将 ColorMatrix 转换为 ColorMatrix。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
-转换[`ColorMatrix`](../../../aspose.psd/colormatrix/)到ColorMatrix .
+将 [`ColorMatrix`](../../../aspose.psd/colormatrix/) 转换为 ColorMatrix。
 
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | colorMatrix | ColorMatrix | 要转换的颜色矩阵。 |
 
 ### 返回值
 
-转换后的ColorMatrix .
+已转换的 ColorMatrix。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMatrix](../../../aspose.psd/colormatrix/)
 * class [ColorMatrixExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../colormatrixextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

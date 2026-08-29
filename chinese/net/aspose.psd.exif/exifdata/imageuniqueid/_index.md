@@ -1,11 +1,12 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置图像唯一标识符
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置图像唯一标识符。"
 type: docs
 weight: 680
 url: /zh/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
 获取或设置图像唯一标识符。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/imageuniqueid/
 public string ImageUniqueID { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像唯一标识符。
+该图像唯一标识符。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

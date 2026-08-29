@@ -1,11 +1,12 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层的显示名称
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层的显示名称"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
 获取或设置图层的显示名称。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 public string DisplayName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-层的显示名称。
+图层的显示名称。
 
-### 例子
+## 示例
 
-下面的示例演示了设置 DisplayName 值的能力，在什么图层名称中显示正确。
+以下示例演示了设置 DisplayName 值的能力，使图层名称正确显示。
 
 ```csharp
 [C#]
 
-// 更改图层名称并保存
+// 对图层名称进行更改并保存
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // 为 DisplayName 属性设置新值
+        // 将新值设置到 DisplayName 属性
         layer.DisplayName += "_changed";
     }
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

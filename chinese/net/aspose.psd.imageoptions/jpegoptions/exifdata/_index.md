@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ExifData
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置 exif 数据容器
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置 exif 数据容器。"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
 获取或设置 exif 数据容器
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 public JpegExifData ExifData { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Interfaces.IObjectWithSizeF 界面. 表示对象的大小以实数英寸表示
+title: "接口 IObjectWithSizeF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Interfaces.IObjectWithSizeF 接口。表示尺寸以英寸实数表示的对象。"
 type: docs
-weight: 5020
+weight: 5510
 url: /zh/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-表示对象的大小，以实数（英寸）表示。
+表示具有 Size（以实数（英寸）表示）的对象。
 
 ```csharp
 public interface IObjectWithSizeF
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | 获取对象高度，以英寸为单位。 |
-| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | 获取对象大小，以英寸为单位。 |
-| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | 获取对象宽度，以英寸为单位。 |
+| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | 获取对象的高度（英寸）。 |
+| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | 获取对象的尺寸（英寸）。 |
+| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | 获取对象的宽度（英寸）。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

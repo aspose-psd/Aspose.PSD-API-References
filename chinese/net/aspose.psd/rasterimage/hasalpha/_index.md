@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 财产. 获取一个值指示此实例是否具有 alpha.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 属性。获取一个值，指示此实例是否具有 alpha 通道。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-获取一个值，指示此实例是否具有 alpha.
+获取一个值，指示此实例是否具有 alpha 通道。
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例有 alpha；否则，`错误的` .
+`true` 如果此实例具有 alpha；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

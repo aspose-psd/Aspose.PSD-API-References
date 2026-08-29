@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层创建日期时间
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层创建日期时间"
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
 获取或设置图层创建日期时间。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-层的创建日期时间。如果没有关于创建 DateTime 的数据则首先返回 Unix 时间 epoch
+图层的创建日期时间。如果没有创建日期时间的数据，则返回 Unix 时间的起始纪元
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

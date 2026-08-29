@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 方法. 按指定因子缩放局部几何变换此方法将缩放矩阵添加到转换前
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 方法。按指定因子缩放局部几何变换。此方法将在变换前预置缩放矩阵。"
 type: docs
 weight: 220
 url: /zh/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-按指定因子缩放局部几何变换。此方法将缩放矩阵添加到转换前。
+按指定因子缩放本地几何变换。此方法将在变换前预先添加缩放矩阵。
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sx | Single | 在 x 轴方向上缩放变换的因子。 |
-| sy | Single | 在 y 轴方向上缩放变换的因子。 |
+| sx | 单精度 | 在 x 轴方向上缩放变换的因子。 |
+| sy | 单精度 | 在 y 轴方向上缩放变换的因子。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-按指定顺序按指定因子缩放局部几何变换。
+按指定顺序以指定因子缩放本地几何变换。
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sx | Single | 在 x 轴方向上缩放变换的因子。 |
-| sy | Single | 在 y 轴方向上缩放变换的因子。 |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/)指定是附加还是前置缩放矩阵。 |
+| sx | 单精度 | 在 x 轴方向上缩放变换的因子。 |
+| sy | 单精度 | 在 y 轴方向上缩放变换的因子。 |
+| order | MatrixOrder | 一个 [`MatrixOrder`](../../matrixorder/)，指定是追加还是预置缩放矩阵。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

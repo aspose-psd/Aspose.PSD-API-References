@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: Aspose.PSD for .NET API 参考
-description: Figure 方法. 反转此图形形状顺序和形状点顺序
+title: "Figure.Reverse"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Figure 方法。反转此图形的形状顺序以及形状点的顺序"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-反转此图形形状顺序和形状点顺序。
+反转此图形的形状顺序和形状点顺序。
 
 ```csharp
 public void Reverse()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Figure](../)
-* 命名空间 [Aspose.PSD](../../figure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

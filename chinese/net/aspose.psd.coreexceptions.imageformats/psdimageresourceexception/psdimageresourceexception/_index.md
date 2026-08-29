@@ -1,52 +1,53 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImageResourceException 构造函数. 初始化一个新的实例PsdImageResourceException类.
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImageResourceException 构造函数。初始化 PsdImageResourceException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-初始化一个新的实例[`PsdImageResourceException`](../)类.
+初始化 [`PsdImageResourceException`](../) 类的新实例。
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 异常消息。 |
-| resource | ResourceBlock | 资源。 |
+| 消息 | String | 异常消息。 |
+| 资源 | ResourceBlock | 资源。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-初始化一个新的实例[`PsdImageResourceException`](../)类.
+初始化 [`PsdImageResourceException`](../) 类的新实例。
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 异常消息。 |
-| resource | ResourceBlock | 资源。 |
-| innerException | Exception | 内部异常。 |
+| 消息 | String | 异常消息。 |
+| 资源 | ResourceBlock | 资源。 |
+| innerException | 异常 | 内部异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

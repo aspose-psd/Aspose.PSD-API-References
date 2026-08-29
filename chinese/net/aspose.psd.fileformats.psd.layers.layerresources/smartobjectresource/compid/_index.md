@@ -1,24 +1,25 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectResource 财产. 获取或设置当前为子文档选择的 comp 的 ID如果未选择则为 1 Comp 是设计人员可以创建的页面布局的组合使用图层复合您可以在单个 Adobe Photoshop 文件中创建管理和查看布局的多个版本 图层复合是图层面板状态的快照 Layer comps 保存三种类型的层选项但 此属性获取 PSD 文件中智能对象层的 Layer Comp 选择标识符 智能对象中的图层复合
+title: "SmartObjectResource.CompId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectResource 属性。获取或设置子文档当前选定的 comp 的 ID，如果未选中则为 1。Comp 是页面布局的组合，设计师可以创建。使用图层 comp，您可以在单个 Adobe Photoshop 文件中创建、管理和查看布局的多个版本。图层 comp 是图层面板状态的快照。图层 comp 保存三种图层选项，但此属性获取 PSD 文件中智能对象图层的图层 Comp 选择标识符。Smart Objects 中的图层 comp。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-获取或设置当前为子文档选择的 comp 的 ID，如果未选择，则为 -1。 Comp 是设计人员可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层复合是图层面板状态的快照。 Layer comps 保存三种类型的层选项，但 此属性获取 PSD 文件中智能对象层的 Layer Comp 选择标识符。 [智能对象中的图层复合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+获取或设置子文档当前选定的 comp ID，如果未选中则为 -1。Comp 是设计师可以创建的页面布局的组合。使用图层 comp，您可以在单个 Adobe Photoshop 文件中创建、管理和查看布局的多个版本。图层 comp 是图层面板状态的快照。图层 comp 保存三种图层选项，但此属性获取 PSD 文件中智能对象图层的图层 comp 选择标识符。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-当前为 PSD 图像中的子文档选择的 comp ID，如果没有选择，则为 -1。
+PSD 图像中子文档当前选定的 comp 的 ID，如果未选中则为 -1。
 
-### 例子
+## 示例
 
 以下代码演示了对 SoLEResource、SmartObjectResource 和 PlacedResource 资源的支持。
 
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // 这个值我们不会在资源中改变
+    // 这些值我们在资源中不更改。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-    // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+    // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+    // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 这个唯一的 Id 应该在引用中改变（如果有的话）
+    // 如果有引用，需要更改此唯一 Id。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 注意一些参数：保存的图像可能无法被 Adobe® Photoshop® 读取
-    ////资源.UOrder = 6;
-    ////资源.VOrder = 9;
+    // 请注意某些参数：保存的图像可能会导致 Adobe® Photoshop® 无法读取。
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // 不要改变这个，否则你将无法使用自由变换
-    // 或将下划线智能对象更改为矢量类型
+    // 不要更改此项，否则将无法使用自由变换。
+    // 或将底层智能对象更改为矢量类型。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // 应该有具有此唯一 ID 的有效 PlLdResource
+    // 应存在具有此唯一 Id 的有效 PlLdResource。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -323,12 +324,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下代码演示了对 SoLdResource 资源的支持。
+以下代码演示了 SoLdResource 资源的支持。
 
 ```csharp
 [C#]
 
-// 此示例显示如何获取或设置 PSD 文件的智能对象图层数据属性。
+// 此示例展示了如何获取或设置 PSD 文件的智能对象图层数据属性。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +563,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-                // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+                // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+                // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,18 +609,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // 这个唯一的 Id 应该在引用中改变（如果有的话）
+                // 如果有引用，需要更改此唯一 Id。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -632,10 +633,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

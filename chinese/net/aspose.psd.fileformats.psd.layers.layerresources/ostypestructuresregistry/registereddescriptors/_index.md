@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Aspose.PSD for .NET API 参考
-description: OSTypeStructuresRegistry 财产. 获取注册的描述符
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OSTypeStructuresRegistry 属性。获取已注册的描述符。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
-获取注册的描述符。
+获取已注册的描述符。
 
 ```csharp
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-注册的描述符。
+已注册的描述符。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

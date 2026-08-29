@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Spread
-second_title: Aspose.PSD for .NET API 参考
-description: DropShadowEffect 财产. 获取或设置百分比形式的强度
+title: "DropShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DropShadowEffect 属性。获取或设置以百分比表示的强度"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Spread property
 
-获取或设置百分比形式的强度。
+获取或设置强度（百分比）。
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-价差.
+扩散。
 
-### 也可以看看
+### 另请参阅
 
 * class [DropShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

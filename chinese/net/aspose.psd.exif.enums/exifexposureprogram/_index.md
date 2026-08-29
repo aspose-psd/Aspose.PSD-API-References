@@ -1,36 +1,37 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram 枚举. exif 曝光程序枚举.
+title: "枚举 ExifExposureProgram"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram 枚举。exif 曝光程序枚举"
 type: docs
-weight: 840
+weight: 850
 url: /zh/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
-exif 曝光程序枚举.
+exif 曝光程序枚举。
 
 ```csharp
 public enum ExifExposureProgram
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Notdefined | `0` | 未定义。 |
-| Manual | `1` | 手动程序. |
-| Auto | `2` | 自动曝光. |
-| Aperturepriority | `3` | 光圈优先. |
-| Shutterpriority | `4` | 快门优先. |
-| Creativeprogram | `5` | 创意程序. |
-| Actionprogram | `6` | 动作程序. |
-| Portraitmode | `7` | 肖像模式. |
-| Landscapemode | `8` | 横向模式. |
+| Manual | `1` | 手动程序。 |
+| Auto | `2` | 自动曝光。 |
+| Aperturepriority | `3` | 光圈优先。 |
+| Shutterpriority | `4` | 快门优先。 |
+| Creativeprogram | `5` | 创意程序。 |
+| Actionprogram | `6` | 动作程序。 |
+| Portraitmode | `7` | 人像模式。 |
+| Landscapemode | `8` | 风景模式。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

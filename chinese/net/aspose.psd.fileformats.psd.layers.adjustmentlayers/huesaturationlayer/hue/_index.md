@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Aspose.PSD for .NET API 参考
-description: HueSaturationLayer 财产. 获取或设置色调
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "HueSaturationLayer 属性。获取或设置色相"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
-获取或设置色调。
+获取或设置色相。
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-色调.
+色相。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 色调必须在 -180 到 +180 的范围内 |
+| ArgumentOutOfRangeException | 色相必须在 -180 到 +180 的范围内 |
 
-### 也可以看看
+### 另请参阅
 
 * class [HueSaturationLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

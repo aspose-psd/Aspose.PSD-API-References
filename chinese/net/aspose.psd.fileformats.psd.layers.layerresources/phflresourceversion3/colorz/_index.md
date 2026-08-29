@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorZ
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion3 财产. 获取或设置 Z 颜色
+title: "PhflResourceVersion3.ColorZ"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion3 属性。获取或设置 Z 颜色"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorZ property
 
 获取或设置 Z 颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public float ColorZ { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-Z 颜色.
+Z 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion3](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

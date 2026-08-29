@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.MaxChannels
-second_title: Aspose.PSD for .NET API 参考
-description: FilterEffectMaskData 财产. 获取最大通道数
+title: "FilterEffectMaskData.MaxChannels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FilterEffectMaskData 属性。获取通道计数的最大值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaxChannels property
 
-获取最大通道数。
+获取通道计数的最大值。
 
 ```csharp
 public int MaxChannels { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterEffectMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

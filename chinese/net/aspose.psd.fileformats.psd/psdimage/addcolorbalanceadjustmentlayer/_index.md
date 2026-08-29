@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加色彩平衡调整层
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加颜色平衡调整图层"
 type: docs
-weight: 320
+weight: 330
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-添加色彩平衡调整层。
+添加颜色平衡调整图层。
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
@@ -16,13 +17,13 @@ public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 
 ### 返回值
 
-新创建的色彩平衡层。
+新创建的颜色平衡图层。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取一个 ICollection包含 键的对象IDictionary对象.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取一个 ICollection 对象，其中包含 IDictionary 对象的键"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-获取一个 ICollection包含 键的对象IDictionary对象.
+获取一个包含 IDictionary 对象键的 ICollection 对象。
 
 ```csharp
 public ICollection Keys { get; }
@@ -16,12 +17,12 @@ public ICollection Keys { get; }
 
 ### 返回值
 
-一个ICollection包含键的对象IDictionary目的。
+一个包含 IDictionary 对象键的 ICollection 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

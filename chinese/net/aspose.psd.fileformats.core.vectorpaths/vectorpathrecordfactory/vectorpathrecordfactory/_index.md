@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Aspose.PSD for .NET API 参考
-description: VectorPathRecordFactory 构造函数. 默认构造函数
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorPathRecordFactory 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vec
 public VectorPathRecordFactory()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorPathRecordFactory](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

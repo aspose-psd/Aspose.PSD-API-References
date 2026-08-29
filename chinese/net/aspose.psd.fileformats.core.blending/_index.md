@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间处理混合类型类和其他实用程序 Aspose.PSD 支持所有 PSD 混合模式
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间处理混合类型类和其他实用工具。Aspose.PSD 支持所有 PSD 混合模式"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.psd.fileformats.core.blending/
 ---
-命名空间处理混合类型、类和其他实用程序。 Aspose.PSD 支持所有 PSD 混合模式。
+{{< psd/tize >}}
+该命名空间处理混合类型、类和其他实用工具。Aspose.PSD 支持所有 PSD 混合模式。
 
 ## 枚举
 

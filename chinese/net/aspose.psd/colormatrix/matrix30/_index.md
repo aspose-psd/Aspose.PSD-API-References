@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix30
-second_title: Aspose.PSD for .NET API 参考
-description: ColorMatrix 财产. 获取或设置第三行0零列的元素ColorMatrix .
+title: "ColorMatrix.Matrix30"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorMatrix 属性。获取或设置此 ColorMatrix 第三行第 0 列的元素"
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/colormatrix/matrix30/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix30 property
 
-获取或设置第三行0（零）列的元素[`ColorMatrix`](../) .
+获取或设置此 [`ColorMatrix`](../) 第三行第 0（零）列的元素。
 
 ```csharp
 public float Matrix30 { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-this第三行0列的元素[`ColorMatrix`](../).
+此 [`ColorMatrix`](../) 第三行第 0 列的元素。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMatrix](../)
-* 命名空间 [Aspose.PSD](../../colormatrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

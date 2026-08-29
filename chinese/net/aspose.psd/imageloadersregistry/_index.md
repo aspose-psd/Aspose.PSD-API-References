@@ -1,11 +1,12 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageLoadersRegistry 班级. 表示图像加载器注册表
+title: "ImageLoadersRegistry 类"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageLoadersRegistry 类。表示图像加载器注册表"
 type: docs
-weight: 4780
+weight: 5270
 url: /zh/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
 表示图像加载器注册表。
@@ -14,28 +15,28 @@ url: /zh/net/aspose.psd/imageloadersregistry/
 public static class ImageLoadersRegistry
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | 获取注册的描述符。 |
-| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | 获取注册的图片加载格式。 |
+| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | 获取已注册的描述符。 |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | 获取已注册的图像加载格式。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | 创建第一个找到的适合指定的加载器*stream*和可选的*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | 获取第一个找到的适合指定的支持描述符*stream*和可选的*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | 通过其类型名称获取第一个支持的文件格式。 |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | 通过其类型名称获取第一个支持的描述符。 |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | 创建第一个适用于指定 *stream* 且可选的 *loadOptions* 的加载器。 |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | 获取第一个适用于指定 *stream* 且可选的 *loadOptions* 的受支持描述符。 |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | 通过类型名称获取第一个受支持的文件格式。 |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | 通过类型名称获取第一个受支持的描述符。 |
 | static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | 注册指定的图像加载器描述符。 |
-| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | 注册加载程序。 |
-| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | 注销加载程序。 |
+| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | 注册加载器。 |
+| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | 注销加载器。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

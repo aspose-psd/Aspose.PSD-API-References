@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: Aspose.PSD for .NET API 参考
-description: LinearGradientBrushBase 财产. 获取或设置一个值指示是否为此启用伽玛校正LinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinearGradientBrushBase 属性。获取或设置指示是否为此 LinearGradientBrushBase 启用伽马校正的值。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-获取或设置一个值，指示是否为此启用伽玛校正[`LinearGradientBrushBase`](../) .
+获取或设置指示是否为此 [`LinearGradientBrushBase`](../) 启用伽马校正的值。
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-如果为此启用了伽马校正，则该值为真[`LinearGradientBrushBase`](../);否则，假的。
+如果为此 [`LinearGradientBrushBase`](../) 启用了伽马校正，则该值为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrushBase](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: Aspose.PSD for .NET API 参考
-description: TiffExifIfd 财产. 获取一个值表示这个实例是否有值
+title: "TiffExifIfd.HasValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffExifIfd 属性。获取一个值，指示此实例是否具有值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-获取一个值，表示这个实例是否有值。
+获取一个值，指示此实例是否具有值。
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例有价值；否则，`错误的` .
+`true` 表示此实例具有值；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffExifIfd](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

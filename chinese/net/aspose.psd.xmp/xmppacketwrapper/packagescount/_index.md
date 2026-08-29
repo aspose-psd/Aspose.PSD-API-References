@@ -1,27 +1,28 @@
 ---
-title: XmpPacketWrapper.PackagesCount
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPacketWrapper 财产. 获取 XMP 结构内的包数量
+title: "XmpPacketWrapper.PackagesCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPacketWrapper 属性。获取 XMP 结构中包的数量。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp/xmppacketwrapper/packagescount/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.PackagesCount property
 
-获取 XMP 结构内的包数量。
+获取 XMP 结构中包的数量。
 
 ```csharp
 public int PackagesCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-XMP 结构内的包数量。
+XMP 结构中包的数量。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPacketWrapper](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

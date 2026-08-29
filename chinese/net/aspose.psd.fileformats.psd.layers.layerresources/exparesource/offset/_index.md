@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD for .NET API 参考
-description: ExpaResource 财产. 获取或设置偏移量
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExpaResource 属性。获取或设置偏移量"
 type: docs
-weight: 60
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
 获取或设置偏移量。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offse
 public float Offset { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 偏移量。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExpaResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Aspose.PSD for .NET API 参考
-description: BritResource 财产. 获取或设置一个值指示是否 lab color.
+title: "BritResource.LabColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BritResource 属性。获取或设置指示是否为 Lab 颜色的值"
 type: docs
-weight: 50
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-获取或设置一个值，指示是否 [lab color].
+获取或设置一个值，指示是否为 [lab color]。
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[实验室颜色]；否则，`错误的` .
+`true` 如果是 [lab color]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [BritResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

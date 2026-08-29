@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD for .NET API 参考
-description: ImageOptionsBase 财产. 获取或设置一个值表示是否全帧.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageOptionsBase 属性。获取或设置指示是否为完整帧的值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-获取或设置一个值，表示是否[全帧].
+获取或设置一个值，指示是否为 [full frame]。
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[全画幅]；否则，`错误的` .
+`true` 如果是[full frame]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../)
-* 命名空间 [Aspose.PSD](../../imageoptionsbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

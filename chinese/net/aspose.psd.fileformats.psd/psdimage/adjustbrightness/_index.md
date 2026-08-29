@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 调整图像的亮度
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。调整图像的亮度"
 type: docs
-weight: 440
+weight: 500
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
 调整图像的亮度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 public override void AdjustBrightness(int brightness)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brightness | Int32 | 亮度值。 |
+| 亮度 | Int32 | 亮度值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

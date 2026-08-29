@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置类别
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置类别。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 设置类别。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 public void SetCategory(string category)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| category | String | 类别。 |
+| 类别 | String | 类别。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | category;类别限制为3个字符 |
+| ArgumentOutOfRangeException | category;类别限制为 3 个字符 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

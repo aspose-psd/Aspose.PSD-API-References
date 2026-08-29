@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.PSD for .NET API 参考
-description: PdfDocumentInfo 财产. 获取或设置文档的标题
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PdfDocumentInfo 属性。获取或设置文档的标题"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
 获取或设置文档的标题。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 public string Title { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

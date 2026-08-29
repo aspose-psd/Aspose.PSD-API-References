@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层名称
+title: "Layer.Name"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层名称"
 type: docs
-weight: 260
+weight: 270
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 获取或设置图层名称。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/name/
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图层名称.
+图层名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

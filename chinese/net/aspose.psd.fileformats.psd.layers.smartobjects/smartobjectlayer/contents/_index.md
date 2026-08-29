@@ -1,30 +1,31 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectLayer 财产. 获取或设置智能对象图层内容 嵌入的智能对象内容为嵌入的原始图像文件Data及其属性 链接的智能对象内容是链接图像文件的原始内容如果可用及其属性LiFeDataSource . 我们不支持从 Adobe. Photoshop. . 图形库加载时IsLibraryLink是真的 对于常规链接文件首先我们使用RelativePath在源图像路径中查找文件 relatively SourceImagePath  如果不可用我们看看FullPath 如果不是那么我们在图像所在的同一目录中查找链接文件SourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectLayer 属性。获取或设置智能对象图层的内容。嵌入的智能对象内容是嵌入的原始图像文件 Data 及其属性。链接的智能对象内容是链接的图像文件的原始内容（如果可用）及其属性 LiFeDataSource。我们不支持在 IsLibraryLink 为 true 时从 Adobe Photoshop 图形库加载。对于常规链接文件，首先使用 RelativePath 相对于源图像路径 SourceImagePath 查找文件，如果不可用则查找 FullPath，如果仍不可用则在与我们的图像相同的目录（SourceImagePath）中查找链接文件。"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-获取或设置智能对象图层内容。 嵌入的智能对象内容为嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/)及其属性。 链接的智能对象内容是链接图像文件的原始内容（如果可用）及其属性：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . 我们不支持从 Adobe. Photoshop. . 图形库加载时[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/)是真的。 对于常规链接文件，首先，我们使用[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/)在源图像路径中查找文件 relatively SourceImagePath , 如果不可用我们看看[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), 如果不是，那么我们在图像所在的同一目录中查找链接文件：SourceImagePath .
+获取或设置智能对象图层的内容。嵌入的智能对象内容是嵌入的原始图像文件：[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) 及其属性。链接的智能对象内容是链接的图像文件的原始内容（如果可用）及其属性：[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/)。当 [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) 为 true 时，我们不支持从 Adobe Photoshop 图形库加载。对于常规链接文件，首先使用 [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) 相对于源图像路径 SourceImagePath 查找文件，如果不可用则查找 [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/)，如果仍不可用则在我们的图像所在的同一目录（SourceImagePath）中查找链接文件。
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-的byte[]智能对象层内容.
+byte[] 智能对象图层内容。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| NotSupportedException | 无法从 Adobe® Photoshop® 库中获取内容。 |
+| NotSupportedException | 无法从 Adobe Photoshop 库获取内容。 |
 
-### 例子
+## 示例
 
 以下代码演示了对嵌入式智能对象的支持。
 
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 此示例演示如何更改 PSD 文件中的智能对象层以及导出/更新智能对象原始嵌入内容。
+// 此示例演示了如何更改 PSD 文件中的智能对象图层并导出/更新智能对象的原始嵌入内容。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 让我们从 PSD 智能对象层导出嵌入的智能对象图像
+        // 让我们从 PSD 智能对象图层导出嵌入的智能对象图像
         smartObjectLayer.ExportContents(exportPath);
 
-        // 让我们检查原始图像是否正确保存
+        // 让我们检查原始图像是否已正确保存
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -90,21 +91,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // 让我们替换 PSD 层中嵌入的智能对象图像
+            // 让我们替换 PSD 图层中的嵌入智能对象图像
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 让我们检查更新的图像是否正确保存
+        // 让我们检查更新后的图像是否已正确保存
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

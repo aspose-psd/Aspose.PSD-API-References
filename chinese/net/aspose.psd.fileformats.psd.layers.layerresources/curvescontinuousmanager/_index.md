@@ -1,14 +1,15 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager 班级. 操纵曲线的曲线调整图层管理器
+title: "类 CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager 类。用于操作曲线的曲线调整图层管理器。"
 type: docs
-weight: 2410
+weight: 2670
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-操纵曲线的曲线调整图层管理器
+曲线调整图层的管理器，用于操作曲线
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -16,30 +17,30 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | 初始化一个新的实例`CurvesContinuousManager`类. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | 初始化 `CurvesContinuousManager` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | 获取最大通道数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | 添加曲线点。 |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | 通过索引获取曲线点。 |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | 获取曲线点数。 |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | 删除曲线点。 |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | 按索引获取曲线点。 |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | 获取曲线点数量。 |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | 移除曲线点。 |
 | [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | 更新曲线点。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvesManager](../curvesmanager/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取图层部分
+title: "AiImage.Layers"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取图层部分"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-获取图层部分。
+获取图层段。
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 图层部分。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

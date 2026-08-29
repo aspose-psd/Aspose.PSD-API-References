@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置分辨率单位
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置分辨率单位"
 type: docs
-weight: 370
+weight: 380
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
 获取或设置分辨率单位。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 分辨率单位。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

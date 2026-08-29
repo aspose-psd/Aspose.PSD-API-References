@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleProjectedShape 财产. 获取矩形高度
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleProjectedShape 属性。获取矩形高度"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
 获取矩形高度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 public double RectangleHeight { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 矩形高度。
 
-### 也可以看看
+### 另请参阅
 
 * class [RectangleProjectedShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

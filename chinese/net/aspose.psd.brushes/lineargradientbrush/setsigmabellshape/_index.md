@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD for .NET API 参考
-description: LinearGradientBrush 方法. 基于钟形曲线创建渐变衰减
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinearGradientBrush 方法。基于钟形曲线创建渐变衰减。"
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
 基于钟形曲线创建渐变衰减。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 public void SetSigmaBellShape(float focus)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| focus | Single | 一个从 0 到 1 的值，指定渐变的中心（起始颜色和结束颜色均匀混合的点）。 |
+| 焦点 | 单精度 | 一个介于 0 到 1 之间的值，指定渐变的中心（起始颜色和结束颜色等比例混合的点）。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ public void SetSigmaBellShape(float focus)
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| focus | Single | 一个从 0 到 1 的值，指定渐变的中心（渐变仅由结束颜色组成的点）。 |
-| scale | Single | 一个从 0 到 1 的值，指定颜色从*focus*. |
+| 焦点 | 单精度 | 一个介于 0 到 1 之间的值，指定渐变的中心（仅由结束颜色组成的点）。 |
+| scale | 单精度 | 一个介于 0 到 1 之间的值，指定颜色从 *focus* 衰减的速度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取 Adobe Illustrator format 的版本
+title: "AiImage.Version"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取 Adobe Illustrator 格式的版本"
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-获取 Adobe Illustrator format 的版本
+获取 Adobe Illustrator 格式的版本。
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-版本.
+版本。
 
-### 也可以看看
+### 另请参阅
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

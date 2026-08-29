@@ -1,30 +1,31 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifColorSpace 枚举. exif 颜色空间枚举.
+title: "枚举 ExifColorSpace"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace 枚举。exif 颜色空间枚举"
 type: docs
-weight: 800
+weight: 810
 url: /zh/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-exif 颜色空间枚举.
+exif 颜色空间枚举。
 
 ```csharp
 public enum ExifColorSpace
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| SRgb | `1` | SRGB 色彩空间. |
-| AdobeRgb | `2` | Adobe rgb 色彩空间。 |
-| Uncalibrated | `65535` | 未校准的色彩空间。 |
+| SRgb | `1` | SRGB 颜色空间。 |
+| AdobeRgb | `2` | Adobe rgb 颜色空间。 |
+| Uncalibrated | `65535` | 未校准颜色空间。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

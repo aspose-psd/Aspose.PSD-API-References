@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternWidth
-second_title: Aspose.PSD for .NET API 参考
-description: IPatternFillSettings 财产. 获取或设置图案的宽度
+title: "IPatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPatternFillSettings 属性。获取或设置图案的宽度"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternWidth property
 
 获取或设置图案的宽度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int PatternWidth { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图案的宽度。
+模式的宽度。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

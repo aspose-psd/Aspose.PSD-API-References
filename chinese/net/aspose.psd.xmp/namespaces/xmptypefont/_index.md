@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD for .NET API 参考
-description: Namespaces 场地. XMP 字体类型
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Namespaces 字段。XMP 字体类型"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-XMP 字体类型。
+XMP Font 类型。
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Namespaces](../)
-* 命名空间 [Aspose.PSD.Xmp](../../namespaces/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

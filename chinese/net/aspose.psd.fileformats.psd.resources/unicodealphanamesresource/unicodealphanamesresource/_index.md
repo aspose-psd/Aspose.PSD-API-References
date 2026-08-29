@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.UnicodeAlphaNamesResource
-second_title: Aspose.PSD for .NET API 参考
-description: UnicodeAlphaNamesResource 构造函数. 默认构造函数
+title: "UnicodeAlphaNamesResource.UnicodeAlphaNamesResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnicodeAlphaNamesResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/unicodealphanamesresource/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/unic
 public UnicodeAlphaNamesResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnicodeAlphaNamesResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

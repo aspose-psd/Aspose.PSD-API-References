@@ -1,28 +1,29 @@
 ---
-title: ResourceBlock.Save
-second_title: Aspose.PSD for .NET API 参考
-description: ResourceBlock 方法. 将资源块保存到指定的流中
+title: "ResourceBlock.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResourceBlock 方法。将资源块保存到指定的流"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd/resourceblock/save/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Save method
 
-将资源块保存到指定的流中。
+将资源块保存到指定的流。
 
 ```csharp
 public void Save(StreamContainer stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | StreamContainer | 将资源块保存到的流。 |
+| 流 | StreamContainer | 用于保存资源块的流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ResourceBlock](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

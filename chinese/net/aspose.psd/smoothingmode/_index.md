@@ -1,33 +1,34 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.SmoothingMode 枚举. 指定是否将平滑抗锯齿应用于直线和曲线以及填充区域的边缘
+title: "枚举 SmoothingMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.SmoothingMode 枚举。指定是否对线条、曲线以及填充区域的边缘应用平滑抗锯齿。"
 type: docs
-weight: 5570
+weight: 6070
 url: /zh/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-指定是否将平滑（抗锯齿）应用于直线和曲线以及填充区域的边缘。
+指定是否对线条、曲线以及填充区域的边缘应用平滑（抗锯齿）。
 
 ```csharp
 public enum SmoothingMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Invalid | `-1` | 指定无效模式。 |
-| Default | `0` | 指定无抗锯齿。 |
-| HighSpeed | `1` | 指定无抗锯齿。 |
-| HighQuality | `2` | 指定抗锯齿渲染。 |
-| None | `3` | 指定无抗锯齿。 |
-| AntiAlias | `4` | 指定抗锯齿渲染。 |
+| Default | `0` | 指定不使用抗锯齿。 |
+| HighSpeed | `1` | 指定不使用抗锯齿。 |
+| HighQuality | `2` | 指定使用抗锯齿渲染。 |
+| None | `3` | 指定不使用抗锯齿。 |
+| AntiAlias | `4` | 指定使用抗锯齿渲染。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

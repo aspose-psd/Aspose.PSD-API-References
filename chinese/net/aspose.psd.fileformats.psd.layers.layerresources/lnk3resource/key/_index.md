@@ -1,11 +1,12 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: Lnk3Resource 财产. 获取图层资源键
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Lnk3Resource 属性。获取图层资源键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
 获取图层资源键。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 public override int Key { get; }
 ```
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 Lnk2Resource 和 Lnk3Resource 的属性。
 
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// 将 PSD 文件中智能对象的数据保存到文件中。
+// 将 PSD 文件中智能对象的数据保存到文件。
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// 获取和设置 PSD Lnk2 / Lnk3 资源的属性及其在 PSD 图像中的 liFD 数据源
+// 获取和设置 PSD 图像中 Lnk2 / Lnk3 资源及其 liFD 数据源的属性
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 尚不支持每通道保存 32 位
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 8 位的 liFD 数据源。
+// 此示例演示如何获取和设置 8 位每通道的 PSD Lnk2 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk3 资源的属性及其每通道 32 位的 liFD 数据源。
+// 此示例演示如何获取和设置 32 位每通道的 PSD Lnk3 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 16 位的 liFD 数据源。
+// 此示例演示如何获取和设置 16 位每通道的 PSD Lnk2 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Lnk3Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

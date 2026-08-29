@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置一个值指示该层是否为预览 以颜色而不是轮廓显示层中包含的图稿
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置指示此图层是否为预览的值。将层中包含的艺术作品以彩色显示，而不是轮廓。"
 type: docs
-weight: 70
+weight: 90
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-获取或设置一个值，指示该层是否为预览。 以颜色而不是轮廓显示层中包含的图稿。
+获取或设置一个值，指示此图层是否为预览。以彩色而非轮廓显示图层中的艺术作品。
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此层是预览；否则，`错误的` .
+`true` 如果此图层是预览；否则，`false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

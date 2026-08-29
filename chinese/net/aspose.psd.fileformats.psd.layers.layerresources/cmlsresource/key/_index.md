@@ -1,11 +1,12 @@
 ---
-title: CmlsResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: CmlsResource 财产. 获取图层资源键
+title: "CmlsResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmlsResource 属性。获取层资源键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key/
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CmlsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

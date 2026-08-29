@@ -1,23 +1,24 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: Aspose.PSD for .NET API 参考
-description: GuideResource 场地. 引导资源块大小
+title: "GuideResource.GuideResourceSize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GuideResource 字段。指南资源块的大小"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
-引导资源块大小。
+指南资源块的大小。
 
 ```csharp
 public const int GuideResourceSize;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GuideResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

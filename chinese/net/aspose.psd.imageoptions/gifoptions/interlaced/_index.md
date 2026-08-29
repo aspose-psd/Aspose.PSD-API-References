@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: Aspose.PSD for .NET API 参考
-description: GifOptions 财产. 如果图像应该交错则为真
+title: "GifOptions.Interlaced"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GifOptions 属性。如果图像应交错显示，则为 true。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-如果图像应该交错则为真。
+如果图像应交错，则为 true。
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GifOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DataSize
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskData 财产. 获取layer mask遮罩数据的大小
+title: "LayerMaskData.DataSize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskData 属性。获取图层蒙版数据的大小"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
-获取layer mask遮罩数据的大小。
+获取图层蒙版数据的大小。
 
 ```csharp
 public int DataSize { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-layer mask 掩码数据的大小。
+图层蒙版数据的大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

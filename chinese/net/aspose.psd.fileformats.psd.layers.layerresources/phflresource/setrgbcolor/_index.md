@@ -1,11 +1,12 @@
 ---
-title: PhflResource.SetRgbColor
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 方法. 设置 RGB 颜色
+title: "PhflResource.SetRgbColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResource 方法。设置 RGB 颜色"
 type: docs
-weight: 70
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.SetRgbColor method
 
 设置 RGB 颜色。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrg
 public abstract void SetRgbColor(Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | RGB 颜色。 |
+| 颜色 | 颜色 | RGB 颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.IsCreated
-second_title: Aspose.PSD for .NET API 参考
-description: FileStreamContainer 财产. 获取一个值指示是否显式创建了流
+title: "FileStreamContainer.IsCreated"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileStreamContainer 属性。获取指示流是否显式创建的值"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/filestreamcontainer/iscreated/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsCreated property
 
-获取一个值，指示是否显式创建了流。
+获取指示流是否显式创建的值。
 
 ```csharp
 public bool IsCreated { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果流是显式创建的；否则，`错误的` .
+`true` 如果流是显式创建的；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../filestreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

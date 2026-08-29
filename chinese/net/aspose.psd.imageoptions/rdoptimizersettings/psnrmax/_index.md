@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.PsnrMax
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取PSNR最大期望值
+title: "RdOptimizerSettings.PsnrMax"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取 PSNR 的最大预期值"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.PsnrMax property
 
-获取PSNR最大期望值。
+获取 PSNR 最大预期值。
 
 ```csharp
 public int PsnrMax { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 最大最大像素值。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Transform
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 将指定的变换应用于形状
+title: "GraphicsPath.Transform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。将指定的变换应用于形状。"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/graphicspath/transform/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Transform method
 
 将指定的变换应用于形状。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/graphicspath/transform/
 public override void Transform(Matrix transform)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | 要应用的转换。 |
+| 变换 | 矩阵 | 要应用的变换。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

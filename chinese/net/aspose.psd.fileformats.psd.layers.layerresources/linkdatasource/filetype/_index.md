@@ -1,11 +1,12 @@
 ---
-title: LinkDataSource.FileType
-second_title: Aspose.PSD for .NET API 参考
-description: LinkDataSource 财产. 获取或设置 Adobe Photoshop Lnk2 / LnkE 资源包含或链接的嵌入或外部文件的类型
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkDataSource 属性。获取或设置 Adobe Photoshop Lnk2 / LnkE 资源包含或链接的嵌入或外部文件的类型"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
 获取或设置 Adobe® Photoshop® Lnk2 / LnkE 资源包含或链接的嵌入或外部文件的类型。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/fil
 public string FileType { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 嵌入或外部链接文件的类型。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 您无法访问 FileType 属性。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 无法访问 FileType 属性。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkDataSource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

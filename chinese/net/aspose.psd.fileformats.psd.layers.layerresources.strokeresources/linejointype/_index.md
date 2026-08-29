@@ -1,30 +1,31 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType 枚举. 线连接类型
+title: "枚举 LineJoinType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType 枚举。线段连接类型"
 type: docs
-weight: 3050
+weight: 3410
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-线连接类型。
+线段连接类型。
 
 ```csharp
 public enum LineJoinType : short
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| BevelJoin | `0` | 斜面连接类型。 |
-| RoundJoin | `1` | 圆形连接类型。 |
+| BevelJoin | `0` | 斜角连接类型。 |
+| RoundJoin | `1` | 圆角连接类型。 |
 | MiterJoin | `2` | 斜接连接类型。 |
 
-### 例子
+## 示例
 
-下面的代码演示了对 VstkResource 资源的支持。
+以下代码演示了对 VstkResource 资源的支持。
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

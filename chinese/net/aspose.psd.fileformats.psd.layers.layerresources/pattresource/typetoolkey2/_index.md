@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey2
-second_title: Aspose.PSD for .NET API 参考
-description: PattResource 场地. 16 位的Pat2类型工具信息密钥
+title: "PattResource.TypeToolKey2"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PattResource 字段。16 位的 Pat2 类型工具信息键"
 type: docs
-weight: 90
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey2 field
 
-16 位的“Pat2”类型工具信息密钥。
+‘Pat2’ 类型工具信息键用于 16 位。
 
 ```csharp
 public const int TypeToolKey2;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PattResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FXidResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: FXidResource 财产. 获取图层资源键
+title: "FXidResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FXidResource 属性。获取图层资源键"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/
 ---
+{{< psd/tize >}}
 ## FXidResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FXidResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

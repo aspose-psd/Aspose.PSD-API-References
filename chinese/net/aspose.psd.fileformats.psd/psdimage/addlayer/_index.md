@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加图层
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加图层"
 type: docs
-weight: 370
+weight: 390
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 添加图层。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 public void AddLayer(Layer layer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | Layer | 图层。 |
+| 图层 | 图层 | 图层。 |
 
-### 例子
+## 示例
 
-下面的示例演示了如果在 Aspose.PSD 中使用简单的构造函数版本，您可以如何在新创建的图层上绘图
+以下示例演示了在 Aspose.PSD 中使用简易构造函数版本时，如何在新创建的图层上绘图
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // 用钢笔工具画一个矩形
+    // 使用 Pen 工具绘制矩形
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // 用蓝色实心画笔绘制另一个矩形
+    // 使用蓝色实心画刷绘制另一个矩形
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

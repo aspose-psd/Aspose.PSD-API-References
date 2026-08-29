@@ -1,11 +1,12 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD for .NET API 参考
-description: TiffImageException 财产. 获取 tiff 选项错误
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffImageException 属性。获取 tiff 选项错误"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
 获取 tiff 选项错误。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionser
 public TiffOptionsError OptionsError { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 tiff 选项错误。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

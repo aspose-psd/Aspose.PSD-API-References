@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Reverse
-second_title: Aspose.PSD for .NET API 参考
-description: PolygonShape 方法. 反转此形状的点顺序
+title: "PolygonShape.Reverse"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PolygonShape 方法。反转此形状的点顺序"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.shapes/polygonshape/reverse/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Reverse method
 
 反转此形状的点顺序。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.shapes/polygonshape/reverse/
 public void Reverse()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PolygonShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../polygonshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

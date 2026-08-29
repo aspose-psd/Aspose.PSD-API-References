@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取或设置自动字距调整
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取或设置自动字形间距"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-获取或设置自动字距调整。
+获取或设置自动字距。
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-两个字符之间的自动字距调整。
+两个字符之间的自动字形间距。
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -72,11 +73,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

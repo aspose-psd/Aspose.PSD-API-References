@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置艺术家
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置艺术家"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
 获取或设置艺术家。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/artist/
 public string Artist { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-艺术家.
+艺术家。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

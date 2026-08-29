@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Aspose.PSD for .NET API 参考
-description: LiFeDataSource 财产. 获取适用于 Adobe Photoshop CC 库的 adobe Stock 许可证的状态
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LiFeDataSource 属性。获取 Adobe Photoshop CC libraries 中可用的 Adobe Stock 许可证状态"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-获取适用于 Adobe® Photoshop® CC 库的 adobe Stock 许可证的状态。
+获取 Adobe® Photoshop® CC libraries 中可用的 Adobe Stock 许可证状态。
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-adobe 库存许可证的状态或空字符串（如果不可用）。
+Adobe Stock 许可证的状态，如果不可用则为空字符串。
 
-### 例子
+## 示例
 
-下面的代码演示了 LnkeResource 资源的支持。
+以下代码演示了 LnkeResource 资源的支持。
 
 ```csharp
 [C#]
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LiFeDataSource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

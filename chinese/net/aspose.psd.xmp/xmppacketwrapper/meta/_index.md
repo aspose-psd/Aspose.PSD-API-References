@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPacketWrapper 财产. 获取 XMP 元数据可选.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPacketWrapper 属性。获取 XMP 元数据。可选。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-获取 XMP 元数据。可选.
+获取 XMP 元数据。可选。
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-XMP 元数据。可选.
+XMP 元数据。可选。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

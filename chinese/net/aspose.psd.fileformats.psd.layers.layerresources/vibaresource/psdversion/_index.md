@@ -1,27 +1,28 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: VibAResource 财产. 获取 psd 版本
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VibAResource 属性。获取 PSD 版本"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
-获取 psd 版本。
+获取 PSD 版本。
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### 例子
+## 示例
 
 以下代码示例演示了对 VibAResource 资源的支持。
 
 ```csharp
 [C#]
 
-// 运行时支持读写振动资源的例子。
+// 运行时对 Vibration Resource 的读写支持示例。
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VibAResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

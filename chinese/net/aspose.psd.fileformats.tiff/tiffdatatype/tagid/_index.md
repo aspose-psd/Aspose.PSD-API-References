@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD for .NET API 参考
-description: TiffDataType 财产. 获取标签 id.
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffDataType 属性。获取标签 ID"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
-获取标签 id.
+获取标签 ID。
 
 ```csharp
 public TiffTags TagId { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-标签 id.
+标签 ID。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

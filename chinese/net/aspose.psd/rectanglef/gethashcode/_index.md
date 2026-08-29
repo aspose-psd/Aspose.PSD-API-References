@@ -1,14 +1,15 @@
 ---
-title: RectangleF.GetHashCode
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 方法. 获取这个的哈希码RectangleF结构.
+title: "RectangleF.GetHashCode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 方法。获取此 RectangleF 结构的哈希码"
 type: docs
 weight: 210
 url: /zh/net/aspose.psd/rectanglef/gethashcode/
 ---
+{{< psd/tize >}}
 ## RectangleF.GetHashCode method
 
-获取这个的哈希码[`RectangleF`](../)结构.
+获取此 [`RectangleF`](../) 结构的哈希码。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 返回值
 
-这个的哈希码[`RectangleF`](../).
+此 [`RectangleF`](../) 的哈希码。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

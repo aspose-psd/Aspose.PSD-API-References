@@ -1,11 +1,12 @@
 ---
-title: PostResource.PostResource
-second_title: Aspose.PSD for .NET API 参考
-description: PostResource 构造函数. 默认构造函数
+title: "PostResource.PostResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PostResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/postr
 public PostResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PostResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

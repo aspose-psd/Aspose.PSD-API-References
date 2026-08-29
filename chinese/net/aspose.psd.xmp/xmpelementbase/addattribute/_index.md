@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Aspose.PSD for .NET API 参考
-description: XmpElementBase 方法. 添加属性
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpElementBase 方法。添加属性"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 添加属性。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp/xmpelementbase/addattribute/
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attribute | String | 属性。 |
-| value | String | 价值。 |
+| 属性 | String | 该属性。 |
+| 值 | String | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpElementBase](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmpelementbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

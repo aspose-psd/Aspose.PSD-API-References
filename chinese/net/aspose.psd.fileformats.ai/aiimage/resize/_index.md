@@ -1,11 +1,12 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 方法. 调整图像大小
+title: "AiImage.Resize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 方法。调整图像大小"
 type: docs
-weight: 150
+weight: 180
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 调整图像大小。
@@ -14,24 +15,24 @@ url: /zh/net/aspose.psd.fileformats.ai/aiimage/resize/
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| resizeType | ResizeType | 调整大小类型。 |
+| resizeType | ResizeType | 调整类型。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| NotImplementedException | &gt;未实施 |
+| NotImplementedException | &gt;未实现 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| settings | ImageResizeSettings | 调整大小设置。 |
+| 设置 | ImageResizeSettings | 调整设置。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| NotImplementedException | &gt;未实施 |
+| NotImplementedException | &gt;未实现 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

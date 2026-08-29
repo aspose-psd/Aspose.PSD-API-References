@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 财产. 获取以字节为单位的原始行大小
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 属性。获取原始行大小（字节）"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-获取以字节为单位的原始行大小。
+获取原始行大小（字节）。
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-以字节为单位的原始行大小。
+原始行大小（字节）。
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

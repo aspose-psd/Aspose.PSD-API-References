@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Seek
-second_title: Aspose.PSD for .NET API 参考
-description: StreamContainer 方法. 设置当前流中的位置
+title: "StreamContainer.Seek"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamContainer 方法。设置当前流中的位置"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/streamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Seek method
 
 设置当前流中的位置。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd/streamcontainer/seek/
 public virtual long Seek(long offset, SeekOrigin origin)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| offset | Int64 | 相对于*origin*范围。此值表示从 StreamContainer 构造函数中传递的起始流位置的偏移量。 |
-| origin | SeekOrigin | 类型值SeekOrigin指示用于获取新位置的参考点。 |
+| offset | Int64 | 相对于 *origin* 参数的字节偏移量。此值表示相对于在 StreamContainer 构造函数中传入的起始流位置的偏移量。 |
+| origin | SeekOrigin | SeekOrigin 类型的值，指示用于获取新位置的参考点。 |
 
 ### 返回值
 
 当前流中的新位置。
 
-### 也可以看看
+### 另请参阅
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

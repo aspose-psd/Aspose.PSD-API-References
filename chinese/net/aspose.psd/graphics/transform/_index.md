@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 财产. 为此获取或设置几何世界变换的副本Graphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 属性。获取或设置此 Graphics 的几何世界变换的副本。"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-为此获取或设置几何世界变换的副本[`Graphics`](../) .
+获取或设置此 [`Graphics`](../) 的几何世界变换的副本。
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-的副本[`Matrix`](../../matrix/)表示为此的几何世界变换[`Graphics`](../) .
+此 [`Graphics`](../) 的几何世界变换的 [`Matrix`](../../matrix/) 副本。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

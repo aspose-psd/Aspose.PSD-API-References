@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取图层资源键
+title: "GdFlResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取层资源键"
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

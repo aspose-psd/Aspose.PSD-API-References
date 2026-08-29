@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置源
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置来源。"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
-设置源。
+设置来源。
 
 ```csharp
 public void SetSource(string source)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| source | String | 来源。 |
+| 来源 | String | 来源。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

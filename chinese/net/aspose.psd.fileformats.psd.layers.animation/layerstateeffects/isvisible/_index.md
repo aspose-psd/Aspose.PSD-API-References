@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.IsVisible
-second_title: Aspose.PSD for .NET API 参考
-description: LayerStateEffects 财产. 获取或设置一个值指示此实例是否可见
+title: "LayerStateEffects.IsVisible"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerStateEffects 属性。获取或设置一个值，指示此实例是否可见"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/isvisible/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.IsVisible property
 
-获取或设置一个值，指示此实例是否可见。
+获取或设置指示此实例是否可见的值。
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例可见；否则，`错误的` .
+`true` 表示此实例可见；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerStateEffects](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AiHeader.Creator
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置创建者
+title: "AiHeader.Creator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置创建者"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/creator/
 ---
+{{< psd/tize >}}
 ## AiHeader.Creator property
 
 获取或设置创建者。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/aiheader/creator/
 public string Creator { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-创作者.
+创建者。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

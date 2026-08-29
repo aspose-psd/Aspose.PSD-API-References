@@ -1,28 +1,29 @@
 ---
-title: Class EvalException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Evalute.EvalException 班级. 评估错误的自定义异常
+title: "类 EvalException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Evalute.EvalException 类。用于评估错误的自定义异常"
 type: docs
-weight: 790
+weight: 800
 url: /zh/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
-评估错误的自定义异常
+用于评估错误的自定义异常
 
 ```csharp
 public class EvalException : Exception
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | 获取与此异常相关联的消息 |
+| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | 获取与此异常关联的消息 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

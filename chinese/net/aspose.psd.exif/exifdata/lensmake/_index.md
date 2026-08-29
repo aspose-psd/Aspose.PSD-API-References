@@ -1,11 +1,12 @@
 ---
-title: ExifData.LensMake
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置镜头制造商
+title: "ExifData.LensMake"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置镜头制造商"
 type: docs
 weight: 730
 url: /zh/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
 获取或设置镜头制造商。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/lensmake/
 public string LensMake { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-镜头制造商.
+镜头制造商。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

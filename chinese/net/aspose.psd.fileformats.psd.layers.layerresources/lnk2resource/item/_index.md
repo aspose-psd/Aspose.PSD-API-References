@@ -1,32 +1,33 @@
 ---
-title: Lnk2Resource.Item
-second_title: Aspose.PSD for .NET API 参考
-description: Lnk2Resource 财产. 获取LiFdDataSource在指定的索引处.
+title: "Lnk2Resource.Item"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Lnk2Resource 属性。获取指定索引处的 LiFdDataSource"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource indexer
 
-获取[`LiFdDataSource`](../../lifddatasource/)在指定的索引处.
+获取指定索引处的 [`LiFdDataSource`](../../lifddatasource/)。
 
 ```csharp
 public LiFdDataSource this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
 | index | 索引。 |
 
 ### 返回值
 
-的[`LiFdDataSource`](../../lifddatasource/)实例.
+[`LiFdDataSource`](../../lifddatasource/) 实例。
 
-### 适当的价值
+### Property Value
 
-的[`LiFdDataSource`](../../lifddatasource/) .
+[`LiFdDataSource`](../../lifddatasource/)。
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 Lnk2Resource 和 Lnk3Resource 的属性。
 
@@ -43,90 +44,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// 将 PSD 文件中智能对象的数据保存到文件中。
+// 将 PSD 文件中智能对象的数据保存到文件。
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -146,7 +147,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// 获取和设置 PSD Lnk2 / Lnk3 资源的属性及其在 PSD 图像中的 liFD 数据源
+// 获取和设置 PSD 图像中 Lnk2 / Lnk3 资源及其 liFD 数据源的属性
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -208,28 +209,28 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 尚不支持每通道保存 32 位
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 8 位的 liFD 数据源。
+// 此示例演示如何获取和设置 8 位每通道的 PSD Lnk2 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk3 资源的属性及其每通道 32 位的 liFD 数据源。
+// 此示例演示如何获取和设置 32 位每通道的 PSD Lnk3 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// 此示例演示如何获取和设置 PSD Lnk2 资源的属性及其每通道 16 位的 liFD 数据源。
+// 此示例演示如何获取和设置 16 位每通道的 PSD Lnk2 资源及其 liFD 数据源的属性。
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LiFdDataSource](../../lifddatasource/)
 * class [Lnk2Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

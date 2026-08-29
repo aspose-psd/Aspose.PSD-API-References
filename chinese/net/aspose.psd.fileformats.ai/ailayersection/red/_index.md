@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置红色分量
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置红色分量"
 type: docs
-weight: 130
+weight: 150
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
 获取或设置红色分量。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.ai/ailayersection/red/
 public int Red { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 红色分量。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

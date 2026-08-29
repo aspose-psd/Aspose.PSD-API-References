@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Aspose.PSD for .NET API 参考
-description: ColorExtensions 方法. 转换Color数组到Color数组.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorExtensions 方法。将 Color 数组转换为 Color 数组"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-转换[`Color`](../../../aspose.psd/color/)数组到Color数组.
+将 [`Color`](../../../aspose.psd/color/) 数组转换为 Color 数组。
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colors | Color[] | 这[`Color`](../../../aspose.psd/color/)要转换的数组。 |
+| colors | Color[] | 要转换的[`Color`](../../../aspose.psd/color/) 数组。 |
 
 ### 返回值
 
-转换的Color大批。
+已转换的 Color 数组。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../colorextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

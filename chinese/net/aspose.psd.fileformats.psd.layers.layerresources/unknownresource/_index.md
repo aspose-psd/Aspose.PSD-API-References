@@ -1,11 +1,12 @@
 ---
-title: Class UnknownResource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource 班级. 未知资源
+title: "类 UnknownResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.UnknownResource 类。未知资源"
 type: docs
-weight: 3330
+weight: 3720
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
 未知资源。
@@ -16,31 +17,31 @@ public class UnknownResource : LayerResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [UnknownResource](unknownresource/)(int, int) | 初始化一个新的实例`UnknownResource`类. |
+| [UnknownResource](unknownresource/)(int, int) | 初始化 `UnknownResource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/data/) { get; set; } | 获取或设置数据。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/key/) { get; } | 获取图层资源键。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | 获取以字节为单位的图层资源长度。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/) { get; } | 获取层资源所需的最小 psd 版本。 0 表示没有限制。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | 获取图层资源键。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/) { get; } | 获取图层资源的字节长度。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | 获取图层资源所需的最低 PSD 版本。0 表示没有限制。 |
 | override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/) { get; } | 获取图层资源签名。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/)(StreamContainer, int) | 保存指定的流容器。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个String代表这个实例. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | 返回一个表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Aspose.PSD for .NET API 参考
-description: UnknownResource 构造函数. 初始化一个新的实例UnknownResource类.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnknownResource 构造函数。初始化 UnknownResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-初始化一个新的实例[`UnknownResource`](../)类.
+初始化 [`UnknownResource`](../) 类的新实例。
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| signature | Int32 | 签名。 |
-| key | Int32 | 资源密钥。 |
+| 签名 | Int32 | 签名。 |
+| 键 | Int32 | 资源键。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [UnknownResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

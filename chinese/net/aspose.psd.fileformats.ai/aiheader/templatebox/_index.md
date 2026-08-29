@@ -1,11 +1,12 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置模板框
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置模板框"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
 获取或设置模板框。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 public RectangleF TemplateBox { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 模板框。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yposition
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 y 位置
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 y 位置"
 type: docs
-weight: 680
+weight: 690
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
 获取或设置 y 位置。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/yposition/
 public TiffRational Yposition { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-y 位置.
+y 位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

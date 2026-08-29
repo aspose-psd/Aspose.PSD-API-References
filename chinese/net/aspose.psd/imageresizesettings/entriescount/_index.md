@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD for .NET API 参考
-description: ImageResizeSettings 财产. 获取或设置条目 count
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageResizeSettings 属性。获取或设置条目计数"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-获取或设置条目 count
+获取或设置条目计数
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 条目计数
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../)
-* 命名空间 [Aspose.PSD](../../imageresizesettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

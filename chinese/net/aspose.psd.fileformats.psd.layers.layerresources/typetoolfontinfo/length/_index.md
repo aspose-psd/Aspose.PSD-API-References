@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.Length
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolFontInfo 财产. 获取长度
+title: "TypeToolFontInfo.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolFontInfo 属性。获取长度"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Length property
 
 获取长度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/l
 public int Length { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-长度.
+长度。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

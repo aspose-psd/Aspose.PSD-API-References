@@ -1,11 +1,12 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.AutoKerning 枚举. Photoshop 自动字距调整模式符号之间的距离
+title: "枚举 AutoKerning"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning 枚举。Photoshop 自动字距模式，符号之间的距离"
 type: docs
-weight: 1600
+weight: 1610
 url: /zh/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
 Photoshop 自动字距调整模式（符号之间的距离）。
@@ -14,15 +15,15 @@ Photoshop 自动字距调整模式（符号之间的距离）。
 public enum AutoKerning
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Manual | `0` | 手动字距调整值。 |
-| Metric | `1` | 度量字距调整使用字距对，大多数字体（来自其设计者）都包含这些字距对。 |
-| Optical | `2` | 光学字距调整根据形状调整相邻字符之间的间距。 |
+| Manual | `0` | 手动字距值。 |
+| Metric | `1` | 度量字距使用字距对，这些对大多数字体（由其设计者提供）都包含在内。 |
+| Optical | `2` | 光学字距根据相邻字符的形状调整间距。 |
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

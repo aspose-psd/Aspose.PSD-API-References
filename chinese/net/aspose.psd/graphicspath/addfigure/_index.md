@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.AddFigure
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 添加一个新图形
+title: "GraphicsPath.AddFigure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。添加一个新图形"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/graphicspath/addfigure/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.AddFigure method
 
 添加一个新图形。
@@ -14,44 +15,44 @@ url: /zh/net/aspose.psd/graphicspath/addfigure/
 public void AddFigure(Figure figure)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| figure | Figure | 要添加的数字。 |
+| 图形 | 图形 | 要添加的图形。 |
 
-### 例子
+## 示例
 
-此示例使用 GraphicsPath 和 Graphics 类在图像表面上创建和操作图形。示例创建一个新图像并在 GraphicsPath 类的帮助下绘制路径。最后调用 Graphics 类公开的 DrawPath 方法以在表面上呈现路径。最后将图像导出为 Tiff 文件格式。
+此示例使用 GraphicsPath 和 Graphics 类在图像表面上创建和操作图形。示例创建一个新 Image 并借助 GraphicsPath 类绘制路径。最后调用 Graphics 类公开的 DrawPath 方法在表面上渲染路径。最终图像导出为 Tiff 文件格式。
 
 ```csharp
 [C#]
 
-//创建图像实例 
+//创建 Image 的实例
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //创建并初始化Graphics类的实例
+    //创建并初始化 Graphics 类的实例
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //清除图形表面
+    //清除 Graphics 表面
     graphics.Clear(Color.Wheat);
 
-    //创建GraphicsPath类的一个实例
+    //创建 GraphicsPath 类的实例
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //创建图类实例
+    //创建 Figure 类的实例
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    //将Shapes添加到Figure对象
+    //向 Figure 对象添加形状
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    //将Figure对象添加到GraphicsPath
+    //将 Figure 对象添加到 GraphicsPath
     graphicspath.AddFigure(figure);
 
-    //使用颜色为黑色的 Pen 对象绘制路径
+    //使用颜色为 Black 的 Pen 对象绘制路径
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    //创建一个 TiffOptions 实例并设置它的各种属性
+    //创建 TiffOptions 的实例并设置其各种属性
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
     // 保存所有更改。
@@ -59,11 +60,11 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Offset
-second_title: Aspose.PSD for .NET API 参考
-description: ExposureLayer 财产. 获取或设置偏移量对于 PS 偏移范围是从 0.5 到 0.5
+title: "ExposureLayer.Offset"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExposureLayer 属性。获取或设置 Offset。对于 PS，Offset 的范围是 0.5 到 0.5"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Offset property
 
-获取或设置偏移量。对于 PS 偏移范围是从 -0.5 到 +0.5
+获取或设置偏移。对于 Photoshop，偏移的范围是 -0.5 到 +0.5
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-偏移量.
+Offset。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExposureLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

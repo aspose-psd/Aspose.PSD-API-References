@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: Aspose.PSD for .NET API 参考
-description: VectorPathRecord 财产. 获取类型
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorPathRecord 属性。获取类型"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 获取类型。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 public abstract VectorPathType Type { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-矢量路径类型。
+向量路径类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

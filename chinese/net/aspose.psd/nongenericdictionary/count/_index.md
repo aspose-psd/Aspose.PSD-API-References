@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取 中包含的元素个数ICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取 ICollection 中包含的元素数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-获取 中包含的元素个数ICollection .
+获取 ICollection 中包含的元素数量。
 
 ```csharp
 public int Count { get; }
@@ -16,12 +17,12 @@ public int Count { get; }
 
 ### 返回值
 
-包含的元素个数ICollection.
+ICollection 中包含的元素数量。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

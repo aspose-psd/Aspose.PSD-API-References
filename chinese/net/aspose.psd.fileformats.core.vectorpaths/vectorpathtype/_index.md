@@ -1,11 +1,12 @@
 ---
-title: Enum VectorPathType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType 枚举. 根据 PSD 格式规范的矢量路径类型
+title: "枚举 VectorPathType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType 枚举。根据 PSD 格式规范的向量路径类型"
 type: docs
-weight: 1420
+weight: 1430
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
 根据 PSD 格式规范的矢量路径类型
@@ -14,23 +15,23 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 public enum VectorPathType : short
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | 闭合子路径长度record |
-| ClosedSubpathBezierKnotLinked | `1` | 闭合子路径贝塞尔结 linked |
-| ClosedSubpathBezierKnotUnlinked | `2` | 闭合子路径贝塞尔结 unlinked |
+| ClosedSubpathLengthRecord | `0` | 闭合子路径长度记录 |
+| ClosedSubpathBezierKnotLinked | `1` | 闭合子路径贝塞尔节点已链接 |
+| ClosedSubpathBezierKnotUnlinked | `2` | 闭合子路径贝塞尔节点未链接 |
 | OpenSubpathLengthRecord | `3` | 开放子路径长度记录 |
-| OpenSubpathBezierKnotLinked | `4` | 开放子路径贝塞尔结 linked |
-| OpenSubpathBezierKnotUnlinked | `5` | 开放子路径贝塞尔结 unlinked |
+| OpenSubpathBezierKnotLinked | `4` | 开放子路径贝塞尔节点已链接 |
+| OpenSubpathBezierKnotUnlinked | `5` | 开放子路径贝塞尔节点未链接 |
 | PathFillRuleRecord | `6` | 路径填充规则记录 |
 | ClipboardRecord | `7` | 剪贴板记录 |
 | InitialFillRuleRecord | `8` | 初始填充规则记录 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,0 +1,24 @@
+---
+title: "AbddResource.AbddResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AbddResource 构造函数。默认构造函数"
+type: docs
+weight: 10
+url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/abddresource/abddresource/
+---
+{{< psd/tize >}}
+## AbddResource constructor
+
+默认构造函数。
+
+```csharp
+public AbddResource()
+```
+
+### 另请参阅
+
+* class [AbddResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+

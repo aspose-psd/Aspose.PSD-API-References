@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Aspose.PSD for .NET API 参考
-description: ImageExportersRegistry 财产. 获取已注册的导出器描述符
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageExportersRegistry 属性。获取已注册的导出器描述符"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
 获取已注册的导出器描述符。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 已注册的导出器描述符。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageexportersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

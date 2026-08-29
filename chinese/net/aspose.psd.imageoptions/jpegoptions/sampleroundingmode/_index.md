@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.SampleRoundingMode
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置样本舍入模式以将 8 位值拟合到 n 位值BitsPerChannel
+title: "JpegOptions.SampleRoundingMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置采样舍入模式，以将 8 位值适配到 n 位值。BitsPerChannel"
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.SampleRoundingMode property
 
-获取或设置样本舍入模式以将 8 位值拟合到 n 位值。BitsPerChannel
+获取或设置采样四舍五入模式，以将 8 位值适配为 n 位值。BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

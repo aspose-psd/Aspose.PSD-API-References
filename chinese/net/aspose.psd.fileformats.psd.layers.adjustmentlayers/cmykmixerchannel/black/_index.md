@@ -1,11 +1,12 @@
 ---
-title: CmykMixerChannel.Black
-second_title: Aspose.PSD for .NET API 参考
-description: CmykMixerChannel 财产. 获取或设置黑色
+title: "CmykMixerChannel.Black"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykMixerChannel 属性。获取或设置黑色"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Black property
 
 获取或设置黑色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel
 public short Black { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-黑色.
+黑色。
 
-### 也可以看看
+### 另请参阅
 
 * class [CmykMixerChannel](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

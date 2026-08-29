@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD for .NET API 参考
-description: Point 方法. 转换指定的PointF到一个Point通过四舍五入对象Point值到最接近的整数.
+title: "Point.Round"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Point 方法。将指定的 PointF 转换为 Point 对象，方法是将 Point 值四舍五入到最近的整数。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-转换指定的[`PointF`](../../pointf/)到一个[`Point`](../)通过四舍五入对象[`Point`](../)值到最接近的整数.
+将指定的 [`PointF`](../../pointf/) 转换为 [`Point`](../) 对象，方法是将 [`Point`](../) 的值四舍五入到最近的整数。
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 这[`PointF`](../../pointf/)转换。 |
+| point | PointF | 要转换的 [`PointF`](../../pointf/)。 |
 
 ### 返回值
 
-这[`Point`](../)此方法转换为。
+此方法转换得到的 [`Point`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* 命名空间 [Aspose.PSD](../../point/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

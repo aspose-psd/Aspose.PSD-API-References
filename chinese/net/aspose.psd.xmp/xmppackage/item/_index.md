@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPackage 财产. 获取或设置Object使用指定的键.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPackage 属性。获取或设置具有指定键的 Object"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-获取或设置Object使用指定的键.
+获取或设置具有指定键的 Object。
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| key | 标识值的键。 |
+| 键 | 标识值的键。 |
 
 ### 返回值
 
-返回Object使用指定的键。
+返回具有指定键的 Object。
 
-### 适当的价值
+### Property Value
 
-的Object .
+该 Object。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackage](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

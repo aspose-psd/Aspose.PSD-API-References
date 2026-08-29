@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: NvrtResource 财产. 获取图层资源键
+title: "NvrtResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NvrtResource 属性。获取图层资源键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [NvrtResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

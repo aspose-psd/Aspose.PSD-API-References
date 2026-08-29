@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.JpegLsAllowedLossyError
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置近乎无损编码的 JPEGLS 差异边界来自 JPEGLS 规范的 NEAR 参数
+title: "JpegOptions.JpegLsAllowedLossyError"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置 JPEGLS 规范中用于近无损编码的 NEAR 参数的差值界限。"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/jpeglsallowedlossyerror/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsAllowedLossyError property
 
-获取或设置近乎无损编码的 JPEG-LS 差异边界（来自 JPEG-LS 规范的 NEAR 参数）。
+获取或设置 JPEG-LS 近无损编码的差值界限（JPEG-LS 规范中的 NEAR 参数）。
 
 ```csharp
 public int JpegLsAllowedLossyError { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

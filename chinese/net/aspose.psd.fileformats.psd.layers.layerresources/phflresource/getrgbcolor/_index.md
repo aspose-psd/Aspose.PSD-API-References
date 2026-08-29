@@ -1,14 +1,15 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 方法. 获取RGB的颜色
+title: "PhflResource.GetRgbColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResource 方法。获取 RGB 的颜色"
 type: docs
-weight: 60
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
-获取RGB的颜色。
+获取 RGB 的颜色。
 
 ```csharp
 public abstract Color GetRgbColor()
@@ -18,11 +19,11 @@ public abstract Color GetRgbColor()
 
 RGB 颜色
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

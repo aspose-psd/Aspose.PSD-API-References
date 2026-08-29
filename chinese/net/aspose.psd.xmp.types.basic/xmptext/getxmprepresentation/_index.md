@@ -1,14 +1,15 @@
 ---
-title: XmpText.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API 参考
-description: XmpText 方法. 获取包含 XMP 格式的字符串值
+title: "XmpText.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpText 方法。获取 XMP 格式的字符串值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpText.GetXmpRepresentation method
 
-获取包含 XMP 格式的字符串值。
+获取 XMP 格式中包含的字符串值。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 返回值
 
-返回包含 XMP 格式的字符串值。
+返回 XMP 格式的字符串包含值。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpText](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

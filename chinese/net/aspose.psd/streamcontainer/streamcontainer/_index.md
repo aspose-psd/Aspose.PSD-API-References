@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD for .NET API 参考
-description: StreamContainer 构造函数. 初始化一个新的实例StreamContainer类.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamContainer 构造函数。初始化 StreamContainer 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-初始化一个新的实例[`StreamContainer`](../)类.
+初始化 [`StreamContainer`](../) 类的新实例。
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | 流 | 流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-初始化一个新的实例[`StreamContainer`](../)类.
+初始化 [`StreamContainer`](../) 类的新实例。
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 数据流。 |
-| disposeStream | Boolean | 如果设置为`真的`处理容器时将处理流。 |
+| 流 | 流 | 数据流。 |
+| disposeStream | 布尔 | 如果设置为 `true`，当容器被释放时流也会被释放。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 测试这是否Region在指定的绘图表面上有一个无限的内部
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。测试此 Region 在指定绘图表面上是否具有无限内部"
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-测试这是否[`Region`](../)在指定的绘图表面上有一个无限的内部。
+测试此 [`Region`](../) 在指定绘图表面上是否具有无限内部。
 
 ```csharp
 public bool IsInfinite(Graphics g)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/)表示绘图表面。 |
+| g | Graphics | 一个表示绘图表面的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果内部为真[`Region`](../)当与关联的变换时是无限的*g*被申请;被应用;否则为 false.
+如果在应用与 *g* 关联的变换时此 [`Region`](../) 的内部是无限的，则为 true；否则为 false。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *g*为空。 |
+| ArgumentNullException | *g* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

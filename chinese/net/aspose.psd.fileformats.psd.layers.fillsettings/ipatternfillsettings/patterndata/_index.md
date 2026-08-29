@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD for .NET API 参考
-description: IPatternFillSettings 财产. 获取或设置模式数据
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPatternFillSettings 属性。获取图案数据"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-获取或设置模式数据。
+获取图案数据。
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 模式数据。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

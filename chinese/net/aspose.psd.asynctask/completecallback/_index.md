@@ -1,29 +1,30 @@
 ---
-title: Delegate CompleteCallback
-second_title: Aspose.PSD for .NET API 参考
-description: 接收任务完成事件的回调函数
+title: "委托 CompleteCallback"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "用于接收任务完成事件的回调函数"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.asynctask/completecallback/
 ---
+{{< psd/tize >}}
 ## CompleteCallback delegate
 
-接收任务完成事件的回调函数。
+用于接收任务完成事件的回调函数。
 
 ```csharp
 public delegate void CompleteCallback(IAsyncTask task, bool wasCancelled, Exception error);
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | task | IAsyncTask | 异步任务。 |
-| wasCancelled | Boolean | 如果设置为`真的` [被取消]。 |
-| error | Exception | 错误。 |
+| wasCancelled | 布尔 | 如果设置为 `true` [已取消]。 |
+| error | 异常 | 错误。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAsyncTask](../iasynctask/)
-* 命名空间 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 构造函数. 初始化一个新的实例JpegOptions类.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 构造函数。初始化 JpegOptions 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-初始化一个新的实例[`JpegOptions`](../)类.
+初始化 [`JpegOptions`](../) 类的新实例。
 
 ```csharp
 public JpegOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-初始化一个新的实例[`JpegOptions`](../)类.
+初始化 [`JpegOptions`](../) 类的新实例。
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | jpegOptions | JpegOptions | JPEG 选项。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

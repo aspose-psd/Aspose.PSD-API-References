@@ -1,11 +1,12 @@
 ---
-title: AiHeader.Title
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置标题
+title: "AiHeader.Title"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置标题"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
 获取或设置标题。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/aiheader/title/
 public string Title { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-标题.
+标题。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

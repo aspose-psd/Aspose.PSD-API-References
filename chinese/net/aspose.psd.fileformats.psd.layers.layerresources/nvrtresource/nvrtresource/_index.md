@@ -1,49 +1,50 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Aspose.PSD for .NET API 参考
-description: NvrtResource 构造函数. 初始化一个新的实例NvrtResource类.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NvrtResource 构造函数。初始化 NvrtResource 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-初始化一个新的实例[`NvrtResource`](../)类.
+初始化 [`NvrtResource`](../) 类的新实例。
 
 ```csharp
 public NvrtResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [NvrtResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-初始化一个新的实例[`NvrtResource`](../)类.
+初始化 [`NvrtResource`](../) 类的新实例。
 
 ```csharp
 public NvrtResource(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 资源的数据。 |
+| 数据 | Byte[] | 资源的数据。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 无效的 NvrtResource 数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [NvrtResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

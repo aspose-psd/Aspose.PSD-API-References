@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IRasterImageArgb32PixelLoader 界面. 光栅图像 32 位 ARGB 像素加载器
+title: "接口 IRasterImageArgb32PixelLoader"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IRasterImageArgb32PixelLoader 接口。光栅图像 32 位 ARGB 像素加载器"
 type: docs
-weight: 4560
+weight: 5030
 url: /zh/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
 光栅图像 32 位 ARGB 像素加载器。
@@ -16,14 +17,14 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | 部分加载 32 位 ARGB 像素（按块）。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

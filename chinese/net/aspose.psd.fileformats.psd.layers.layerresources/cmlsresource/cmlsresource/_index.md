@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Aspose.PSD for .NET API 参考
-description: CmlsResource 构造函数. 初始化一个新的实例CmlsResource类.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmlsResource 构造函数。初始化 CmlsResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-初始化一个新的实例[`CmlsResource`](../)类.
+初始化 [`CmlsResource`](../) 类的新实例。
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 资源的数据。 |
+| 数据 | Byte[] | 资源的数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CmlsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

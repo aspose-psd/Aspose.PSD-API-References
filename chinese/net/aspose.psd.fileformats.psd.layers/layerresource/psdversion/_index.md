@@ -1,23 +1,24 @@
 ---
-title: LayerResource.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResource 财产. 获取层资源所需的最小 psd 版本 0 表示没有限制
+title: "LayerResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResource 属性。获取层资源所需的最小 psd 版本。0 表示没有限制"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsdVersion property
 
-获取层资源所需的最小 psd 版本。 0 表示没有限制。
+获取图层资源所需的最低 PSD 版本。0 表示没有限制。
 
 ```csharp
-public abstract int PsdVersion { get; }
+public virtual int PsdVersion { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

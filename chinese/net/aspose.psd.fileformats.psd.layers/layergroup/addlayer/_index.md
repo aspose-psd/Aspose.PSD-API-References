@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD for .NET API 参考
-description: LayerGroup 方法. 将图层添加到图层组
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerGroup 方法。将图层添加到图层组"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 将图层添加到图层组。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 public void AddLayer(Layer layer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | Layer | 图层。 |
+| 图层 | 图层 | 图层。 |
 
-### 例子
+## 示例
 
-以下示例演示了如何将 Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 图像作为图层添加到 PsdImage
+以下示例演示如何将 Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 图像作为图层添加到 PsdImage
 
 ```csharp
 [C#]
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置GPS测量模式
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置 GPS 测量模式。"
 type: docs
 weight: 570
 url: /zh/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
-获取或设置GPS测量模式。
+获取或设置 GPS 测量模式。
 
 ```csharp
 public string GPSMeasureMode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-GPS测量模式。
+该 GPS 测量模式。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

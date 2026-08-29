@@ -1,38 +1,39 @@
 ---
-title: PsdColorPalette.GetColor
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 方法. 通过索引获取调色板颜色
+title: "PsdColorPalette.GetColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 方法。根据索引获取调色板颜色。"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetColor method
 
-通过索引获取调色板颜色。
+按索引获取调色板颜色。
 
 ```csharp
 public Color GetColor(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 调色板颜色索引。 |
 
 ### 返回值
 
-指定的调色板条目*index* .
+由 *index* 指定的调色板条目。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 如果调色板*index*指定的超出了调色板条目范围。 |
+| ArgumentOutOfRangeException | 如果指定的调色板 *index* 超出调色板条目范围。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

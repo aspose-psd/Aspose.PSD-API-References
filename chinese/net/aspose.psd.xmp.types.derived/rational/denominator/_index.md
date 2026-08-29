@@ -1,11 +1,12 @@
 ---
-title: Rational.Denominator
-second_title: Aspose.PSD for .NET API 参考
-description: Rational 财产. 获取或设置分母
+title: "Rational.Denominator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rational 属性。获取或设置分母"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
 获取或设置分母。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.derived/rational/denominator/
 public int Denominator { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-分母.
+denominator。
 
-### 也可以看看
+### 另请参阅
 
 * class [Rational](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

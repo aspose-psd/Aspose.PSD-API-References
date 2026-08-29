@@ -1,14 +1,15 @@
 ---
-title: Class ImageSaveException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageSaveException 班级. 图像保存异常在图像保存期间发生
+title: "类 ImageSaveException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException 类。图像保存异常。发生在图像保存过程中。"
 type: docs
 weight: 630
 url: /zh/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-图像保存异常。在图像保存期间发生。
+图像保存异常。发生在图像保存期间。
 
 ```csharp
 public class ImageSaveException : ImageException
@@ -16,15 +17,15 @@ public class ImageSaveException : ImageException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | 初始化一个新的实例`ImageSaveException`类. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | 初始化一个新的实例`ImageSaveException`类. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | 初始化 `ImageSaveException` 类的新实例。 |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | 初始化 `ImageSaveException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageException](../imageexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.AddDropShadow
-second_title: Aspose.PSD for .NET API 参考
-description: LayerStateEffects 方法. 添加阴影效果
+title: "LayerStateEffects.AddDropShadow"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerStateEffects 方法。添加投影阴影效果"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/adddropshadow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddDropShadow method
 
-添加阴影效果。
+添加投影效果。
 
 ```csharp
 public DropShadowEffect AddDropShadow()
@@ -16,11 +17,11 @@ public DropShadowEffect AddDropShadow()
 
 ### 返回值
 
-的新实例[`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/)班级。
+新的 [`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/) 类的实例。
 
-### 例子
+## 示例
 
-以下代码演示了对时间轴帧中效果的支持。
+以下代码演示了在 Timeline 帧中对效果的支持。
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DropShadowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/)
 * class [LayerStateEffects](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

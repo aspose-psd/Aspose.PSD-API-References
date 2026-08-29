@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 重置Transform属性到身份.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。将 Transform 属性重置为单位矩阵"
 type: docs
-weight: 430
+weight: 440
 url: /zh/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-重置[`Transform`](../transform/)属性到身份.
+将 [`Transform`](../transform/) 属性重置为单位矩阵。
 
 ```csharp
 public void ResetTransform()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置左图层位置
+title: "Layer.Left"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置左层位置。"
 type: docs
-weight: 240
+weight: 250
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-获取或设置左图层位置。
+获取或设置左侧图层位置。
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-左边图层位置.
+左层位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

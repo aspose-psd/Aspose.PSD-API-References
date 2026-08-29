@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD for .NET API 参考
-description: FileOpenSource 财产. 获取要打开的文件路径
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileOpenSource 属性。获取要打开的文件路径"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
 获取要打开的文件路径。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.sources/fileopensource/filepath/
 public string FilePath { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 要打开的文件路径。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileOpenSource](../)
-* 命名空间 [Aspose.PSD.Sources](../../fileopensource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

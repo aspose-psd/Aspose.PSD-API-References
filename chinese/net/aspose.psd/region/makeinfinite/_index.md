@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 初始化这个Region反对无限的内部.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。将此 Region 对象初始化为无限内部"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-初始化这个[`Region`](../)反对无限的内部.
+将此 [`Region`](../) 对象初始化为无限内部。
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

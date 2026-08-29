@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取通用排版StringFormat对象.
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取一个通用排版的 StringFormat 对象"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-获取通用排版[`StringFormat`](../)对象.
+获取一个通用排版的[`StringFormat`](../)对象。
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-通用排版[`StringFormat`](../)目的。
+一个通用排版的[`StringFormat`](../)对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

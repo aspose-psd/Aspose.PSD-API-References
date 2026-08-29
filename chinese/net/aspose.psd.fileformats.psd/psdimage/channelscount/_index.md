@@ -1,27 +1,28 @@
 ---
-title: PsdImage.ChannelsCount
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取 PSD 通道数
+title: "PsdImage.ChannelsCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。获取 PSD 通道数"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdImage.ChannelsCount property
 
-获取 PSD 通道数。
+获取 PSD 通道数量。
 
 ```csharp
 public int ChannelsCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-PSD 通道计数。
+PSD 通道数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

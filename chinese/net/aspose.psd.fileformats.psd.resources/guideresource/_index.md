@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource 班级. 指南资源块
+title: "类 GuideResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource 类。指南资源块"
 type: docs
-weight: 3750
+weight: 4220
 url: /zh/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-指南资源块。
+参考线资源块。
 
 ```csharp
 public sealed class GuideResource
@@ -16,26 +17,26 @@ public sealed class GuideResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [GuideResource](guideresource/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | 获取或设置向导的方向。 |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | 获取或设置指南的方向。 |
 | [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | 获取或设置指南在文档坐标中的位置。 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | 引导资源块大小。 |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | 指南资源块的大小。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

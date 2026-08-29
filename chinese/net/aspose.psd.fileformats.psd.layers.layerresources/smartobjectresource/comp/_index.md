@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectResource 财产. 获取或设置PSD文件中智能对象层数据的comp值 智能对象中的图层复合
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectResource 属性。获取或设置 PSD 文件中智能对象图层数据的 comp 值。Smart Objects 中的图层 comp。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-获取或设置PSD文件中智能对象层数据的comp值。 [智能对象中的图层复合](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+获取或设置 PSD 文件中智能对象图层数据的 comp 值。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-补偿值，如果没有则为 -1。
+comp 值，如果没有则为 -1。
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

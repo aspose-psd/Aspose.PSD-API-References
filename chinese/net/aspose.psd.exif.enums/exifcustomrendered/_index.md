@@ -1,11 +1,12 @@
 ---
-title: Enum ExifCustomRendered
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered 枚举. exif 自定义渲染枚举
+title: "枚举 ExifCustomRendered"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered 枚举。exif 自定义渲染 枚举"
 type: docs
-weight: 820
+weight: 830
 url: /zh/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
 exif 自定义渲染枚举。
@@ -14,16 +15,16 @@ exif 自定义渲染枚举。
 public enum ExifCustomRendered
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | NormalProcess | `0` | 正常渲染过程。 |
 | CustomProcess | `1` | 自定义渲染过程。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

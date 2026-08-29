@@ -1,22 +1,23 @@
 ---
-title: StrokeEffect.Position
-second_title: Aspose.PSD for .NET API 参考
-description: StrokeEffect 财产. 获取或设置描边效果的位置以控制你的描边与 PSD 图层内容的对齐方式 的值可以是Inside在 PSD 图层内容内绘制笔划 或Outside在 PSD 层内容周围绘制描边 和Center在内部和外部绘制笔划.
+title: "StrokeEffect.Position"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StrokeEffect 属性。获取或设置描边效果的位置，以控制描边相对于 PSD 图层内容的对齐方式。该值可以是 Inside，用于在 PSD 图层内容内部绘制描边，或 Outside，用于在 PSD 图层内容周围绘制描边，亦或是 Center，用于在内部和外部同时绘制描边"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Position property
 
-获取或设置描边效果的位置，以控制你的描边与 PSD 图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容内绘制笔划， 或Outside在 PSD 层内容周围绘制描边， 和Center在内部和外部绘制笔划.
+获取或设置描边效果的位置，以控制描边相对于 PSD 图层内容的对齐方式。该值可以是 Inside，以在 PSD 图层内容内部绘制描边，或者 Outside，以在 PSD 图层内容周围绘制描边，亦或是 Center，以在内部和外部同时绘制描边。
 
 ```csharp
 public StrokePosition Position { get; set; }
 ```
 
-### 例子
+## 示例
 
-此示例演示了使用不同类型的填充（如颜色、渐变或图案）添加描边效果的能力。
+此示例演示了使用不同填充类型（如 Color、Gradient 或 Pattern）添加描边效果的能力。
 
 ```csharp
 [C#]
@@ -28,28 +29,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. 在 Inside 位置添加颜色填充
+    // 1. 添加 Color 填充，位于 Inside 位置
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. 在外部位置添加颜色填充
+    // 2. 添加 Color 填充，位于 Outside 位置
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. 在中心位置添加颜色填充
+    // 3. 添加 Color 填充，位于 Center 位置
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. 在 Inside 位置添加渐变填充
+    // 4. 添加 Gradient 填充，位于 Inside 位置
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -57,7 +58,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. 在外部位置添加渐变填充
+    // 5. 添加 Gradient 填充，位于 Outside 位置
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. 在中心位置添加渐变填充
+    // 6. 添加 Gradient 填充，位于 Center 位置
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -73,21 +74,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. 在 Inside 位置添加图案填充
+    // 7. 添加 Pattern 填充，位于 Inside 位置
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. 在外部位置添加图案填充
+    // 8. 添加 Pattern 填充，位于 Outside 位置
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. 在中心位置添加图案填充
+    // 9. 添加 Pattern 填充，位于 Center 位置
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -98,11 +99,11 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [StrokePosition](../../strokeposition/)
 * class [StrokeEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD for .NET API 参考
-description: Color 方法. 测试是否指定了两个Color结构不同.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 方法。测试两个指定的 Color 结构是否不同"
 type: docs
-weight: 1630
+weight: 1650
 url: /zh/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-测试是否指定了两个[`Color`](../)结构不同.
+测试两个指定的 [`Color`](../) 结构是否不同。
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Color | 这[`Color`](../)即不等式运算符的左侧。 |
-| right | Color | 这[`Color`](../)那是在不等式运算符的右边。 |
+| left | Color | 位于不等运算符左侧的 [`Color`](../)。 |
+| right | Color | 位于不等运算符右侧的 [`Color`](../)。 |
 
 ### 返回值
 
-真如果两个[`Color`](../)结构不同；否则，假的。
+如果两个 [`Color`](../) 结构不同，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

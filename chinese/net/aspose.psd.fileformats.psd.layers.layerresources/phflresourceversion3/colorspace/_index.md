@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion3 财产. 获取颜色空间
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion3 属性。获取颜色空间"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
 获取颜色空间。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public short ColorSpace { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色空间.
+颜色空间。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion3](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

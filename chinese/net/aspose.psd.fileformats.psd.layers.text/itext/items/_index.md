@@ -1,11 +1,12 @@
 ---
-title: IText.Items
-second_title: Aspose.PSD for .NET API 参考
-description: IText 财产. 获取项目
+title: "IText.Items"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IText 属性。获取项"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itext/items/
 ---
+{{< psd/tize >}}
 ## IText.Items property
 
 获取项目。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itext/items/
 public ITextPortion[] Items { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-项目。
+这些项。
 
-### 例子
+## 示例
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+以下代码演示了 Aspose.PSD 如何获取文本图层内联格式的属性。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // 获取包含在文本层中的字体
+        // 获取文本图层中包含的字体
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码示例演示了编辑文本部分及其文本样式。
+以下代码示例演示了文本片段及其文本样式的编辑。
 
 ```csharp
 [C#]
@@ -97,7 +98,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 检查每一部分的文本
+            // 检查每个片段的文本
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -107,7 +108,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查段落数据
-            // 段落有不同的理由
+            // 段落的对齐方式不同
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -117,7 +118,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 第一段和第二段的所有其他属性都相等
+            // 第一段和第二段的所有其他属性相等
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -141,7 +142,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -157,7 +158,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查样式数据
-            // 样式有不同的颜色和字体大小
+            // 样式的颜色和字体大小不同
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -193,29 +194,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 文本部分删除示例
+            // 文本片段删除示例
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 添加新文本部分的示例
+            // 添加新文本片段的示例
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 部分段落和样式编辑示例
+            // 段落和样式编辑（针对片段）的示例
             // 设置右对齐
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 每种样式的不同颜色。将更改，但不完全支持渲染
+            // 每种样式的颜色不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 不同的字体。将更改，但不完全支持渲染
+            // 字体不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -230,11 +231,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

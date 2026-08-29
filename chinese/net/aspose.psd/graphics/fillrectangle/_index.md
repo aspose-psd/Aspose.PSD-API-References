@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 填充由 a 指定的矩形的内部Rectangle结构.
+title: "Graphics.FillRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。填充由 Rectangle 结构指定的矩形的内部。"
 type: docs
-weight: 390
+weight: 400
 url: /zh/net/aspose.psd/graphics/fillrectangle/
 ---
+{{< psd/tize >}}
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-填充由 a 指定的矩形的内部[`Rectangle`](../../rectangle/)结构.
+填充由 [`Rectangle`](../../rectangle/) 结构指定的矩形的内部。
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)表示要填充的矩形的结构。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) 结构，表示要填充的矩形。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-填充由 a 指定的矩形的内部[`RectangleF`](../../rectanglef/)结构.
+填充由 [`RectangleF`](../../rectanglef/) 结构指定的矩形内部。
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)表示要填充的矩形的结构。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 结构，表示要填充的矩形。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, float, float, float, float) {#fillrectangle_3}
 
-填充由一对坐标、宽度和高度指定的矩形的内部。
+填充由一对坐标、宽度和高度指定的矩形内部。
 
 ```csharp
 public void FillRectangle(Brush brush, float x, float y, float width, float height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| x | Single | 要填充的矩形左上角的 x 坐标。 |
-| y | Single | 要填充的矩形左上角的 y 坐标。 |
-| width | Single | 要填充的矩形的宽度。 |
-| height | Single | 要填充的矩形的高度。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| x | 单精度 | 要填充的矩形左上角的 x 坐标。 |
+| y | 单精度 | 要填充的矩形左上角的 y 坐标。 |
+| 宽度 | 单精度 | 要填充的矩形的宽度。 |
+| 高度 | 单精度 | 要填充的矩形的高度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, int, int, int, int) {#fillrectangle_2}
 
-填充由一对坐标、宽度和高度指定的矩形的内部。
+填充由一对坐标、宽度和高度指定的矩形内部。
 
 ```csharp
 public void FillRectangle(Brush brush, int x, int y, int width, int height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
 | x | Int32 | 要填充的矩形左上角的 x 坐标。 |
 | y | Int32 | 要填充的矩形左上角的 y 坐标。 |
-| width | Int32 | 要填充的矩形的宽度。 |
-| height | Int32 | 要填充的矩形的高度。 |
+| 宽度 | Int32 | 要填充的矩形的宽度。 |
+| 高度 | Int32 | 要填充的矩形的高度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

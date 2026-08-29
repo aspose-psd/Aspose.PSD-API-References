@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: Aspose.PSD for .NET API 参考
-description: IGradientFillSettings 财产. 获取颜色点
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IGradientFillSettings 属性。获取颜色点"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
 获取颜色点。
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色点.
+颜色点。
 
-### 例子
+## 示例
 
-以下示例演示了 Gradient FillLayer 支持和 IGradientFillSettings 编辑选项。
+以下示例演示了 Gradient FillLayer 的支持以及 IGradientFillSettings 的编辑选项。
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

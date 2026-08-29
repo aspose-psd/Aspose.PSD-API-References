@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 围绕中心旋转图像
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。 将图像围绕中心旋转"
 type: docs
-weight: 610
+weight: 670
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
 围绕中心旋转图像。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/rotate/
 public override void Rotate(float angle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 以度为单位的旋转角度。正值将顺时针旋转。 |
+| 角度 | 单精度 | 旋转角度（单位：度）。正值将顺时针旋转。 |
 
-### 例子
+## 示例
 
-以下代码演示了按特定角度值旋转图像的能力。
+以下代码演示了按特定角度值旋转图像的功能。
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-//图层旋转
+// 图层旋转
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -57,11 +58,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -73,17 +74,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 以度为单位的旋转角度。正值将顺时针旋转。 |
-| resizeProportionally | Boolean | 如果设置为`真的`您将根据旋转的矩形（角点）投影更改图像大小，在其他情况下保持尺寸不变并且仅旋转内部图像内容。 |
-| backgroundColor | Color | 背景的颜色。 |
+| 角度 | 单精度 | 旋转角度（单位：度）。正值将顺时针旋转。 |
+| resizeProportionally | 布尔 | 如果设置为 `true`，图像尺寸将根据旋转矩形（角点）投影进行更改；否则，尺寸保持不变，仅内部图像内容被旋转。 |
+| backgroundColor | 颜色 | 背景颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

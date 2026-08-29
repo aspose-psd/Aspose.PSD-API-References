@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfoResource 财产. 获取或设置字体
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfoResource 属性。获取或设置字体"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
 获取或设置字体。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

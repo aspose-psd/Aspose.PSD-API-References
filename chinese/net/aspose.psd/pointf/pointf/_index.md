@@ -1,28 +1,29 @@
 ---
-title: PointF.PointF
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 构造函数. 初始化一个新的实例PointF具有指定坐标的结构.
+title: "PointF.PointF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 构造函数。使用指定的坐标初始化 PointF 结构的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-初始化一个新的实例[`PointF`](../)具有指定坐标的结构.
+使用指定的坐标初始化 [`PointF`](../) 结构的新实例。
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 点的水平位置。 |
-| y | Single | 点的垂直位置。 |
+| x | 单精度 | 点的水平位置。 |
+| y | 单精度 | 点的垂直位置。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

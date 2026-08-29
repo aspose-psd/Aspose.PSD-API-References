@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置一个值指示组件是否必须预乘
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置一个值，指示组件是否必须预乘"
 type: docs
-weight: 350
+weight: 360
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
 获取或设置一个值，指示组件是否必须预乘。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 public bool PremultiplyComponents { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果组件必须预乘；否则，`错误的` .
+`true` 如果必须预乘组件；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

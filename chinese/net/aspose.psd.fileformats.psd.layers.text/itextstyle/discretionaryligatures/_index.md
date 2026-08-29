@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 用于连接字母的自由连字尤其是在脚本字体中
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。用于在连笔字体中连接字母的可选连字"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-用于连接字母的自由连字，尤其是在脚本字体中。
+用于连接字母的可选连字，尤其在手写体字体中。
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

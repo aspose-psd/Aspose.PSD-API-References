@@ -1,14 +1,15 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 方法. 创建一个深度克隆StringFormat对象.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 方法。创建此 StringFormat 对象的深度克隆"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-创建一个深度克隆[`StringFormat`](../)对象.
+创建此[`StringFormat`](../)对象的深度克隆。
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,12 +17,12 @@ public StringFormat DeepClone()
 
 ### 返回值
 
-当前的深度克隆[`StringFormat`](../) .
+当前[`StringFormat`](../)的深度克隆。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

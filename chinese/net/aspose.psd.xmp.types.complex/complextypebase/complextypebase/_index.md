@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD for .NET API 参考
-description: ComplexTypeBase 构造函数. 初始化一个新的实例ComplexTypeBase类.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ComplexTypeBase 构造函数。初始化 ComplexTypeBase 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-初始化一个新的实例[`ComplexTypeBase`](../)类.
+初始化 [`ComplexTypeBase`](../) 类的新实例。
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| prefix | String | 前缀。 |
+| 前缀 | String | 前缀。 |
 | namespaceUri | String | 命名空间 URI。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 前缀为 null or namespaceUri 为 null |
+| ArgumentNullException | 前缀为 null 或 namespaceUri 为 null |
 
-### 也可以看看
+### 另请参阅
 
 * class [ComplexTypeBase](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

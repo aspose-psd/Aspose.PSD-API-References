@@ -1,11 +1,12 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Aspose.PSD for .NET API 参考
-description: ColorOverlayEffect 财产. 获取或设置颜色
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorOverlayEffect 属性。获取或设置颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
 获取或设置颜色。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/c
 public Color Color { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

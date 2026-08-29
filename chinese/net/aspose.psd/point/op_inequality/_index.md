@@ -1,32 +1,33 @@
 ---
-title: Point.op_Inequality
-second_title: Aspose.PSD for .NET API 参考
-description: Point 方法. 比较两个Point对象结果指定的值是否X或者Y两者的属性Point对象不相等.
+title: "Point.op_Inequality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Point 方法。比较两个 Point 对象。结果指示这两个 Point 对象的 X 或 Y 属性的值是否不相等。"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd/point/op_inequality/
 ---
+{{< psd/tize >}}
 ## Point Inequality operator
 
-比较两个[`Point`](../)对象。结果指定的值是否[`X`](../x/)或者[`Y`](../y/)两者的属性[`Point`](../)对象不相等.
+比较两个 [`Point`](../) 对象。结果指示这两个 [`Point`](../) 对象的 [`X`](../x/) 或 [`Y`](../y/) 属性的值是否不相等。
 
 ```csharp
 public static bool operator !=(Point point1, Point point2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point1 | Point | 第一[`Point`](../)比较。 |
-| point2 | Point | 一秒[`Point`](../)比较。 |
+| point1 | Point | 要比较的第一个 [`Point`](../)。 |
+| point2 | Point | 要比较的第二个 [`Point`](../)。 |
 
 ### 返回值
 
-如果[`X`](../x/)属性或[`Y`](../y/)的属性*point1*和*point2*不同;否则，假的。
+如果 *point1* 和 *point2* 的 [`X`](../x/) 属性或 [`Y`](../y/) 属性的值任一不同，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../)
-* 命名空间 [Aspose.PSD](../../point/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class JpegLoadException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException 班级. 代表JPEG图片加载异常
+title: "类 JpegLoadException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadException 类。表示 JPEG 图像加载异常"
 type: docs
 weight: 550
 url: /zh/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException class
 
-代表JPEG图片加载异常。
+表示 JPEG 图像加载异常。
 
 ```csharp
 public class JpegLoadException : JpegException
@@ -16,23 +17,23 @@ public class JpegLoadException : JpegException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [JpegLoadException](jpegloadexception/#constructor)(string) | 初始化一个新的实例`JpegLoadException`类. |
-| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | 初始化一个新的实例`JpegLoadException`类. |
-| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | 初始化一个新的实例`JpegLoadException`类. |
-| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | 初始化一个新的实例`JpegLoadException`类. |
+| [JpegLoadException](jpegloadexception/#constructor)(string) | 初始化 `JpegLoadException` 类的新实例。 |
+| [JpegLoadException](jpegloadexception/#constructor_1)(string, ErrorReason) | 初始化 `JpegLoadException` 类的新实例。 |
+| [JpegLoadException](jpegloadexception/#constructor_2)(string, Exception) | 初始化 `JpegLoadException` 类的新实例。 |
+| [JpegLoadException](jpegloadexception/#constructor_3)(string, Exception, ErrorReason) | 初始化 `JpegLoadException` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Reason](../../aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/) { get; set; } | 获取或设置错误原因。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegException](../jpegexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

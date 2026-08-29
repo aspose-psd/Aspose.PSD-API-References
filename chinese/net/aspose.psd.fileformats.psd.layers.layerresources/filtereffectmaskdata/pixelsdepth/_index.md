@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.PixelsDepth
-second_title: Aspose.PSD for .NET API 参考
-description: FilterEffectMaskData 财产. 获取像素深度
+title: "FilterEffectMaskData.PixelsDepth"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FilterEffectMaskData 属性。获取像素深度"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.PixelsDepth property
 
 获取像素深度。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public int PixelsDepth { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterEffectMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

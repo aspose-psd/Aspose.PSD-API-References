@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResource 财产. 获取图层资源签名
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResource 属性。获取签名"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-获取图层资源签名。
+获取签名。
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

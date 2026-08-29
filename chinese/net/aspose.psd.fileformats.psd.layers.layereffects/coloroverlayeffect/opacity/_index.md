@@ -1,11 +1,12 @@
 ---
-title: ColorOverlayEffect.Opacity
-second_title: Aspose.PSD for .NET API 参考
-description: ColorOverlayEffect 财产. 获取或设置不透明度
+title: "ColorOverlayEffect.Opacity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorOverlayEffect 属性。获取或设置不透明度"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Opacity property
 
 获取或设置不透明度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/o
 public byte Opacity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 不透明度。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorOverlayEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

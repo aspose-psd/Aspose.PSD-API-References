@@ -1,14 +1,15 @@
 ---
-title: Color.GetSaturation
-second_title: Aspose.PSD for .NET API 参考
-description: Color 方法. 获取此色调饱和度亮度 HSB 饱和度值Color结构.
+title: "Color.GetSaturation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 方法。获取此 Color 结构的色相-饱和度-亮度（HSB）饱和度值"
 type: docs
 weight: 1580
 url: /zh/net/aspose.psd/color/getsaturation/
 ---
+{{< psd/tize >}}
 ## Color.GetSaturation method
 
-获取此色调-饱和度-亮度 (HSB) 饱和度值[`Color`](../)结构.
+获取此 [`Color`](../) 结构的色相-饱和度-亮度（HSB）饱和度值。
 
 ```csharp
 public float GetSaturation()
@@ -16,12 +17,12 @@ public float GetSaturation()
 
 ### 返回值
 
-这个的饱和度[`Color`](../).饱和度范围从 0.0 到 1.0，其中 0.0 是灰度，1.0 是最饱和的。
+此 [`Color`](../) 的饱和度。饱和度范围为 0.0 到 1.0，其中 0.0 为灰度，1.0 为最高饱和度。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

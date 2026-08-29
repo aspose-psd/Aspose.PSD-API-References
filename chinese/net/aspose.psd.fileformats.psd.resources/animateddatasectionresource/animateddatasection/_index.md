@@ -1,20 +1,21 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: Aspose.PSD for .NET API 参考
-description: AnimatedDataSectionResource 财产. 获取或设置动画数据部分结构
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AnimatedDataSectionResource 属性。获取或设置动画数据段结构"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-获取或设置动画数据部分结构。
+获取或设置动画数据段结构。
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了如何在动画数据的时间轴帧中设置/更新延迟时间。
 
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 创建帧延迟记录，值为 100 厘秒，等于 1 秒。
+            // 创建帧延迟记录，值为 100 厘秒，即 1 秒。
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 以厘秒为单位设置时间。
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: PhflResourceVersion2.PhflResourceVersion2
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion2 构造函数. 初始化一个新的实例PhflResourceVersion2类.
+title: "PhflResourceVersion2.PhflResourceVersion2"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion2 构造函数。初始化 PhflResourceVersion2 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/phflresourceversion2/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2() {#constructor}
 
-初始化一个新的实例[`PhflResourceVersion2`](../)类.
+初始化 [`PhflResourceVersion2`](../) 类的新实例。
 
 ```csharp
 public PhflResourceVersion2()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion2](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion2(byte[]) {#constructor_1}
 
-初始化一个新的实例[`PhflResourceVersion2`](../)类.
+初始化 [`PhflResourceVersion2`](../) 类的新实例。
 
 ```csharp
 public PhflResourceVersion2(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 资源的数据。 |
+| 数据 | Byte[] | 资源的数据。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 数据长度无效 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 无效的数据长度 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion2](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

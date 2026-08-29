@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置紧急程度
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置紧急程度。"
 type: docs
 weight: 200
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
 设置紧急程度。
@@ -14,24 +15,24 @@ url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 public void SetUrgency(int urgency)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| urgency | Int32 | 紧迫性。 |
+| 紧急程度 | Int32 | 紧急程度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 紧迫性；有效范围为 1 到 8 |
+| ArgumentOutOfRangeException | 紧急程度;有效范围是 1 到 8 |
 
-### 评论
+## 备注
 
-紧迫感应该从 1 到 8.
+紧急程度应在 1 到 8 之间。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

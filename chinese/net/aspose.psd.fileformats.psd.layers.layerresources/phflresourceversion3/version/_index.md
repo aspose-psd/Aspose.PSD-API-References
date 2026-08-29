@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion3.Version
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion3 财产. 获取版本默认为 2 或 3
+title: "PhflResourceVersion3.Version"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion3 属性。获取版本。默认值为 2 或 3"
 type: docs
-weight: 90
+weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Version property
 
-获取版本。默认为 2 或 3
+获取版本。默认是 2 或 3。
 
 ```csharp
 public override short Version { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-版本.
+版本。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | NotImplementedException |  |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion3](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType 枚举. 发现可能的 Lnsr 资源类型
+title: "枚举 LnsrResourceType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType 枚举。已发现可能的 Lnsr 资源类型。"
 type: docs
-weight: 2760
+weight: 3070
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-发现可能的 Lnsr 资源类型
+已发现可能的 Lnsr 资源类型
 
 ```csharp
 public enum LnsrResourceType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Rend | `0` | text 的撕裂 |
-| Cont | `1` | example 填充层的续集 |
-| Bgnd | `2` | 背景层的背景 |
-| Layr | `3` | 常规图像layer layr |
-| Unknown | `4` | Unknown 用于我们没有描述 enum 的情况 |
+| Rend | `0` | 文本的 rend |
+| Cont | `1` | 例如填充图层的 cont |
+| Bgnd | `2` | 背景图层的 Bgnd |
+| Layr | `3` | 普通图像图层的 layr |
+| Unknown | `4` | Unknown 用于我们未描述枚举的情况 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

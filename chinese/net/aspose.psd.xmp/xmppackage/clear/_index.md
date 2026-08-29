@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPackage 方法. 清除此实例
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPackage 方法。清除此实例"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
 清除此实例。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.xmp/xmppackage/clear/
 public virtual void Clear()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackage](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

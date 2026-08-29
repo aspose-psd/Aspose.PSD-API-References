@@ -1,11 +1,12 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageException 班级. 图像异常
+title: "类 ImageException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageException 类。图像异常。"
 type: docs
 weight: 500
 url: /zh/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
 图像异常。
@@ -16,14 +17,14 @@ public class ImageException : Exception
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | 初始化一个新的实例`ImageException`类. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | 初始化一个新的实例`ImageException`类. |
+| [ImageException](imageexception/#constructor)(string) | 初始化 `ImageException` 类的新实例。 |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | 初始化 `ImageException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

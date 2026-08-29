@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.BlendMode
-second_title: Aspose.PSD for .NET API 参考
-description: InnerShadowEffect 财产. 获取或设置混合模式
+title: "InnerShadowEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "InnerShadowEffect 属性。获取或设置混合模式"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.BlendMode property
 
 获取或设置混合模式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/bl
 public BlendMode BlendMode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 混合模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [InnerShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

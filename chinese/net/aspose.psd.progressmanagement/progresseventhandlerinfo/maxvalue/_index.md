@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PSD for .NET API 参考
-description: ProgressEventHandlerInfo 财产. 获取进度值上限
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ProgressEventHandlerInfo 属性。获取上限进度值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
-获取进度值上限。
+获取上限进度值。
 
 ```csharp
 public int MaxValue { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-进度值上限。
+上限进度值。
 
-### 也可以看看
+### 另请参阅
 
 * class [ProgressEventHandlerInfo](../)
-* 命名空间 [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: PattResource.Patterns
-second_title: Aspose.PSD for .NET API 参考
-description: PattResource 财产. 获取或设置形态数据
+title: "PattResource.Patterns"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PattResource 属性。获取或设置模式数据"
 type: docs
-weight: 40
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
-获取或设置形态数据；
+获取或设置模式数据;
 
 ```csharp
 public PattResourceData[] Patterns { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

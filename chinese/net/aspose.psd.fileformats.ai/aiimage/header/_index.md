@@ -1,28 +1,29 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取标题
+title: "AiImage.Header"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取标题"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
-获取标题。
+获取头部。
 
 ```csharp
 public AiHeader Header { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-标头.
+标题。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API 参考
-description: ImageCreatorsRegistry 方法. 获取第一个找到的适合指定的支持描述符
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageCreatorsRegistry 方法。获取第一个适用于指定条件的找到的受支持描述符"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-获取第一个找到的适合指定的支持描述符。
+获取第一个找到的适用于指定条件的受支持描述符。
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | 图像选项。 |
 
 ### 返回值
 
-支持指定的创建者描述符，如果未找到此类描述符，则为 null。
+支持指定条件的创建者描述符，如果未找到此类描述符则返回 null。
 
-### 评论
+## 备注
 
 第一个创建者描述符实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* 命名空间 [Aspose.PSD](../../imagecreatorsregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD for .NET API 参考
-description: Figure 财产. 获取整个图形段
+title: "Figure.Segments"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Figure 属性。获取整个图形的段。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-获取整个图形段。
+获取整个图形的段。
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图分段。
+图形段。
 
-### 也可以看看
+### 另请参阅
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* 命名空间 [Aspose.PSD](../../figure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

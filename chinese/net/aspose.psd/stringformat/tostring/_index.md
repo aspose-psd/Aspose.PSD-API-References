@@ -1,14 +1,15 @@
 ---
-title: StringFormat.ToString
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 方法. 转换这个StringFormat对象为人类可读的字符串
+title: "StringFormat.ToString"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 方法。将此 StringFormat 对象转换为人类可读的字符串。"
 type: docs
-weight: 150
+weight: 180
 url: /zh/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-转换这个[`StringFormat`](../)对象为人类可读的字符串。
+将此 [`StringFormat`](../) 对象转换为人类可读的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 返回值
 
-这个的字符串表示[`StringFormat`](../)对象.
+此 [`StringFormat`](../) 对象的字符串表示形式。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

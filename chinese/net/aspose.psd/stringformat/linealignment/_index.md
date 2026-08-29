@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取或设置直线在水平面上的对齐方式
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取或设置水平面上的行对齐方式。"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-获取或设置直线在水平面上的对齐方式。
+获取或设置水平平面上的行对齐方式。
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/)表示行对齐的枚举。
+表示行对齐方式的 [`StringAlignment`](../../stringalignment/) 枚举。
 
-### 也可以看看
+### 另请参阅
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

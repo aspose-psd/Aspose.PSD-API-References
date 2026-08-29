@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Aspose.PSD for .NET API 参考
-description: MultiPageOptions 财产. 获取或设置页面光栅化选项
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MultiPageOptions 属性。获取或设置页面光栅化选项"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
 获取或设置页面光栅化选项。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 页面光栅化选项。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum SeekOrigin
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.SeekOrigin 枚举. 提供表示参考点的字段StreamContainer寻求.
+title: "枚举 SeekOrigin"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.SeekOrigin 枚举。提供在 StreamContainer 中用于定位的参考点字段"
 type: docs
-weight: 5410
+weight: 5910
 url: /zh/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-提供表示参考点的字段[`StreamContainer`](../streamcontainer/)寻求.
+提供在 [`StreamContainer`](../streamcontainer/) 中用于定位的参考点字段。
 
 ```csharp
 public enum SeekOrigin
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Begin | `0` | 指定流的开头。 |
+| Begin | `0` | 指定流的起始位置。 |
 | Current | `1` | 指定流中的当前位置。 |
-| End | `2` | 指定流的结尾。 |
+| End | `2` | 指定流的结束位置。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

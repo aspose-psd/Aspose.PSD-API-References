@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.LoadEffectsResource
-second_title: Aspose.PSD for .NET API 参考
-description: PsdLoadOptions 财产. 获取或设置一个值该值指示是否加载效果资源默认情况下不加载资源设置此选项时只有支持的效果才会渲染到最终合并图像
+title: "PsdLoadOptions.LoadEffectsResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdLoadOptions 属性。获取或设置一个值，指示是否默认不加载效果资源。当设置此选项时，仅渲染受支持的效果到最终合并图像。"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.LoadEffectsResource property
 
-获取或设置一个值，该值指示是否[加载效果资源]（默认情况下不加载资源）。设置此选项时，只有支持的效果才会渲染到最终合并图像。
+获取或设置一个值，指示是否 [load effects resource]（默认情况下资源未加载）。设置此选项后，仅支持的效果将渲染到最终合并图像。
 
 ```csharp
 public bool LoadEffectsResource { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[加载效果资源]；否则，`错误的` .
+`true` 如果 [load effects resource]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdLoadOptions](../)
-* 命名空间 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

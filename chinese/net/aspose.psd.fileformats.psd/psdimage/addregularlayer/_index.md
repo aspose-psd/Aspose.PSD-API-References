@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加一个新的常规层
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加新常规图层"
 type: docs
-weight: 410
+weight: 440
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
-添加一个新的常规层。
+添加一个新的普通图层。
 
 ```csharp
 public Layer AddRegularLayer()
@@ -16,11 +17,11 @@ public Layer AddRegularLayer()
 
 ### 返回值
 
-创建了常规层。
+已创建常规图层。
 
-### 例子
+## 示例
 
-下面的代码展示了如何将新生成的常规层添加到 PsdImage 中。
+以下代码展示了如何将新生成的常规图层添加到 PsdImage。
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    //准备两个int数组
+    // 正在准备两个 int 数组
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -58,19 +59,19 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
     layer2.Bottom = 175;
     layer2.SaveArgb32Pixels(rect2, data2);
 
-    // 保存psd
+    // 保存 psd
     im.Save(exportPath, new PsdOptions());
 
-    // 保存png
+    // 保存 png
     im.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

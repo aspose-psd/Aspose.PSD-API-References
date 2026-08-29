@@ -1,11 +1,12 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.MatrixOrder 枚举. 指定矩阵变换操作的顺序
+title: "枚举 MatrixOrder"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.MatrixOrder 枚举。指定矩阵变换操作的顺序"
 type: docs
-weight: 5100
+weight: 5590
 url: /zh/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
 指定矩阵变换操作的顺序。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd/matrixorder/
 public enum MatrixOrder
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Prepend | `0` | 新操作在旧操作之前应用。 |
-| Append | `1` | 在旧操作之后应用新操作。 |
+| Append | `1` | 新操作在旧操作之后应用。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

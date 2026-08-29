@@ -1,32 +1,33 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD for .NET API 参考
-description: Point 方法. 转换指定的PointF到一个Point通过截断的值Point .
+title: "Point.Truncate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Point 方法。通过截断值，将指定的 PointF 转换为 Point。"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-转换指定的[`PointF`](../../pointf/)到一个[`Point`](../)通过截断的值[`Point`](../) .
+将指定的 [`PointF`](../../pointf/) 通过截断 [`Point`](../) 的值转换为 [`Point`](../)。
 
 ```csharp
 public static Point Truncate(PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 这[`PointF`](../../pointf/)转换。 |
+| point | PointF | 要转换的 [`PointF`](../../pointf/)。 |
 
 ### 返回值
 
-这[`Point`](../)此方法转换为。
+此方法转换得到的 [`Point`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* 命名空间 [Aspose.PSD](../../point/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

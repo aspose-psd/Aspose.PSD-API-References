@@ -1,28 +1,29 @@
 ---
-title: Interface IFillSettings
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings 界面. 填充设置的基本界面
+title: "接口 IFillSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IFillSettings 接口。填充设置的基础接口"
 type: docs
-weight: 2000
+weight: 2120
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/
 ---
+{{< psd/tize >}}
 ## IFillSettings interface
 
-填充设置的基本界面
+基础填充设置接口
 
 ```csharp
 public interface IFillSettings
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | 获取填充类型。 |
+| [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/) { get; } | 获取填充的类型。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

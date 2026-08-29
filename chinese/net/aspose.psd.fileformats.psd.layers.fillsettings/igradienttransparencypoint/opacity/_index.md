@@ -1,11 +1,12 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD for .NET API 参考
-description: IGradientTransparencyPoint 财产. 获取或设置不透明度
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IGradientTransparencyPoint 属性。获取或设置不透明度"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
 获取或设置不透明度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparenc
 public double Opacity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 不透明度。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientTransparencyPoint](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

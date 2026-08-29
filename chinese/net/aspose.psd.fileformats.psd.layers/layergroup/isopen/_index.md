@@ -1,27 +1,28 @@
 ---
-title: LayerGroup.IsOpen
-second_title: Aspose.PSD for .NET API 参考
-description: LayerGroup 财产. 获取或设置文件夹是否打开 如果设置为真的组在启动时将处于打开状态否则处于最小化状态
+title: "LayerGroup.IsOpen"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerGroup 属性。获取或设置文件夹是否打开；如果设置为 true，则组在启动时为打开状态，否则为最小化状态"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/isopen/
 ---
+{{< psd/tize >}}
 ## LayerGroup.IsOpen property
 
-获取或设置文件夹是否打开 如果设置为`真的`组在启动时将处于打开状态，否则处于最小化状态。
+获取或设置文件夹是否打开；如果设置为 `true`，则组在启动时为打开状态，否则为最小化状态。
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### 例子
+## 示例
 
-以下代码显示如何使用 IsOpen 属性打开和关闭图层组（文件夹）。
+以下代码演示如何使用 IsOpen 属性打开和关闭 LayerGroup (Folder)。
 
 ```csharp
 [C#]
 
-// 在运行时读取和写入 IsOpen 属性的示例。
+// 运行时读取和写入 IsOpen 属性的示例。
 string sourceFileName = "LayerGroupOpenClose.psd";
 string outputFileName = "OutputLayerGroupOpenClose.psd";
 
@@ -46,10 +47,10 @@ using (var image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerGroup](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

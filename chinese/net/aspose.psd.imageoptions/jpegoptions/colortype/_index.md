@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ColorType
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置 jpeg 图像的颜色类型
+title: "JpegOptions.ColorType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置 jpeg 图像的颜色类型。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/colortype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ColorType property
 
 获取或设置 jpeg 图像的颜色类型。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.imageoptions/jpegoptions/colortype/
 public JpegCompressionColorMode ColorType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [JpegCompressionColorMode](../../../aspose.psd.fileformats.jpeg/jpegcompressioncolormode/)
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Top
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 财产. 获取或设置此图上边缘的y坐标Rectangle结构.
+title: "Rectangle.Top"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 属性。获取或设置此 Rectangle 结构顶部边缘的 y 坐标。"
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/rectangle/top/
 ---
+{{< psd/tize >}}
 ## Rectangle.Top property
 
-获取或设置此图上边缘的y坐标[`Rectangle`](../)结构.
+获取或设置此 [`Rectangle`](../) 结构的顶部边缘的 y 坐标。
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个上边的y坐标[`Rectangle`](../)结构.
+此 [`Rectangle`](../) 结构的顶部边缘的 y 坐标。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

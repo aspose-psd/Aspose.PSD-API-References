@@ -1,33 +1,34 @@
 ---
-title: Enum DashStyle
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.DashStyle 枚举. 指定用 a 绘制的虚线的样式Pen对象.
+title: "枚举 DashStyle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.DashStyle 枚举。指定使用 Pen 对象绘制的虚线样式"
 type: docs
-weight: 720
+weight: 730
 url: /zh/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-指定用 a 绘制的虚线的样式[`Pen`](../pen/)对象.
+指定使用 [`Pen`](../pen/) 对象绘制的虚线样式。
 
 ```csharp
 public enum DashStyle
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Solid | `0` | 指定实线。 |
-| Dash | `1` | 指定由破折号组成的行。 |
-| Dot | `2` | 指定由点组成的行。 |
-| DashDot | `3` | 指定由重复的点划线模式组成的行。 |
-| DashDotDot | `4` | 指定由点划线的重复模式组成的行。 |
-| Custom | `5` | 指定用户定义的自定义破折号样式。 |
+| Dash | `1` | 指定由短划线组成的线。 |
+| Dot | `2` | 指定由点组成的线。 |
+| DashDot | `3` | 指定由短划线-点重复模式组成的线。 |
+| DashDotDot | `4` | 指定由短划线-点-点重复模式组成的线。 |
+| Custom | `5` | 指定用户自定义的虚线样式。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

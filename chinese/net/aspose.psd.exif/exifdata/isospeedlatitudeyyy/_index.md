@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置在 ISO 12232. 中定义的相机或输入设备的 ISO 速度纬度 yyy 值
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置相机或输入设备在 ISO 12232 中定义的 ISO 速度纬度 yyy 值。"
 type: docs
 weight: 710
 url: /zh/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-获取或设置在 ISO 12232. 中定义的相机或输入设备的 ISO 速度纬度 yyy 值
+获取或设置相机或输入设备在 ISO 12232 中定义的 ISO 速度纬度 yyy 值。
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-ISO 12232. 中定义的相机或输入设备的 ISO 速度纬度 yyy 值
+相机或输入设备在 ISO 12232 中定义的 ISO 速度纬度 yyy 值。
 
-### 评论
+## 备注
 
-没有 ISOSpeed 和 ISOSpeedLatitudezzz 不得记录此标签
+如果没有 ISOSpeed 和 ISOSpeedLatitudezzz，则不应记录此标签。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

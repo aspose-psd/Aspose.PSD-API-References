@@ -1,29 +1,30 @@
 ---
-title: SplitStreamContainer.Save
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 方法. 将流的数据保存复制到指定的流中
+title: "SplitStreamContainer.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 方法。将流的数据保存（复制）到指定的流中"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/splitstreamcontainer/save/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Save method
 
-将流的数据保存（复制）到指定的流中。
+将流的数据保存（复制）到指定的流。
 
 ```csharp
 public override void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationStream | Stream | 要将数据保存到的流。 |
-| bufferSize | Int32 | 缓冲区大小。默认情况下!:ReadWriteBytesCount值被使用。 |
-| length | Int64 | 要复制的流数据长度。默认情况下，长度设置为[`Length`](../length/)价值。 |
+| destinationStream | 流 | 用于保存数据的流。 |
+| bufferSize | Int32 | 缓冲区大小。默认使用 !:ReadWriteBytesCount 值。 |
+| length | Int64 | 要复制的流数据长度。默认长度设置为 [`Length`](../length/) 的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

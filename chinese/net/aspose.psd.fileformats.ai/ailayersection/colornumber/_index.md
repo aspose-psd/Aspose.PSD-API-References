@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置颜色编号 1 是来自红色绿色蓝色属性的自定义颜色值 指定图层的颜色设置
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置颜色编号。1 表示来自红绿蓝属性的自定义颜色值。指定图层的颜色设置"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-获取或设置颜色编号。 -1 是来自红色、绿色、蓝色属性的自定义颜色值。 指定图层的颜色设置。
+获取或设置颜色编号。-1 表示来自红、绿、蓝属性的自定义颜色值。指定图层的颜色设置。
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-色号.
+颜色编号。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

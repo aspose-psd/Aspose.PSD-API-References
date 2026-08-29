@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: IObjectWithBounds 财产. 获取对象边界
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IObjectWithBounds 属性。获取对象的边界"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
-获取对象边界。
+获取对象的边界。
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-对象边界。
+对象的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../iobjectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: PsdImage.VerticalResolution
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取或设置垂直分辨率以每英寸像素为单位PsdImage .
+title: "PsdImage.VerticalResolution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。获取或设置此 PsdImage 的垂直分辨率（每英寸像素数）"
 type: docs
-weight: 260
+weight: 270
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.VerticalResolution property
 
-获取或设置垂直分辨率，以每英寸像素为单位，[`PsdImage`](../) .
+获取或设置此 [`PsdImage`](../) 的垂直分辨率（每英寸像素数）。
 
 ```csharp
 public override double VerticalResolution { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 垂直分辨率。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | ResolutionInfo 资源未找到且无法设置正确的分辨率 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 未找到 ResolutionInfo 资源，无法设置正确的分辨率 |
 
-### 评论
+## 备注
 
-PSD 的默认值为 72，所以如果[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/)未找到，返回此值。
+PSD 的默认值为 72，因此如果未找到 [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/)，则返回此值。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

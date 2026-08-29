@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Magenta
-second_title: Aspose.PSD for .NET API 参考
-description: CmykMixerChannel 财产. 获取或设置洋红色
+title: "CmykMixerChannel.Magenta"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykMixerChannel 属性。获取或设置品红色"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Magenta property
 
-获取或设置洋红色。
+获取或设置品红色。
 
 ```csharp
 public short Magenta { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-洋红色.
+品红色。
 
-### 也可以看看
+### 另请参阅
 
 * class [CmykMixerChannel](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

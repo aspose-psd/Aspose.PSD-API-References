@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Aspose.PSD for .NET API 参考
-description: LayerStateInformationResource 财产. 获取或设置层的索引
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerStateInformationResource 属性。获取或设置图层的索引"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-获取或设置层的索引。
+获取或设置图层的索引。
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-层的索引。
+图层的索引。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerStateInformationResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum FontCaps
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.FontCaps 枚举. 这是字体基线
+title: "枚举 FontCaps"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.FontCaps 枚举。这是字体基线。"
 type: docs
-weight: 1640
+weight: 1680
 url: /zh/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
 这是字体基线。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd/fontcaps/
 public enum FontCaps
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 没有字体大写值。 |
 | SmallCaps | `1` | 小型大写字母。 |
-| AllCaps | `2` | 全部大写. |
+| AllCaps | `2` | 全部大写。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

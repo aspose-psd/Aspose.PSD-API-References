@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByte
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamWriter 方法. 将单个有符号字节值写入流
+title: "TiffStreamWriter.WriteSByte"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamWriter 方法。将单个有符号字节值写入流"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByte method
 
-将单个有符号字节值写入流。
+向流写入单个有符号字节值。
 
 ```csharp
 public void WriteSByte(sbyte data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | SByte | 要写入的值。 |
+| 数据 | SByte | 要写入的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamWriter](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

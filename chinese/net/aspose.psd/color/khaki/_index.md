@@ -1,11 +1,12 @@
 ---
-title: Color.Khaki
-second_title: Aspose.PSD for .NET API 参考
-description: Color 财产. 获取系统定义的颜色
+title: "Color.Khaki"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色"
 type: docs
 weight: 600
 url: /zh/net/aspose.psd/color/khaki/
 ---
+{{< psd/tize >}}
 ## Color.Khaki property
 
 获取系统定义的颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/color/khaki/
 public static Color Khaki { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`Color`](../)代表系统定义的颜色。
+一个表示系统定义颜色的 [`Color`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPacketWrapper 构造函数. 初始化一个新的实例XmpPacketWrapper类.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPacketWrapper 构造函数。初始化 XmpPacketWrapper 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-初始化一个新的实例[`XmpPacketWrapper`](../)类.
+初始化 [`XmpPacketWrapper`](../) 类的新实例。
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| header | XmpHeaderPi | 处理指令的 XMP 标头。 |
-| trailer | XmpTrailerPi | 处理指令的 XMP 尾部。 |
+| 头部 | XmpHeaderPi | 处理指令的 XMP 头部。 |
+| 尾部 | XmpTrailerPi | 处理指令的 XMP 尾部。 |
 | xmpMeta | XmpMeta | XMP 元数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-初始化一个新的实例[`XmpPacketWrapper`](../)类.
+初始化 [`XmpPacketWrapper`](../) 类的新实例。
 
 ```csharp
 public XmpPacketWrapper()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPacketWrapper](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

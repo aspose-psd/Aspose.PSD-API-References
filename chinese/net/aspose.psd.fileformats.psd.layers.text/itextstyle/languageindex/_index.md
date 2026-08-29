@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取语言索引
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取语言索引"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
 获取语言索引。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 public int LanguageIndex { get; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

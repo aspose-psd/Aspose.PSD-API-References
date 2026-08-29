@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillRegion
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 填充 a 的内部Region .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。填充一个 Region 的内部。"
 type: docs
-weight: 410
+weight: 420
 url: /zh/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-填充 a 的内部[`Region`](../../region/) .
+填充一个 [`Region`](../../region/) 的内部。
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)这决定了填充的特性。 |
-| region | Region | [`Region`](../../region/)表示要填充的区域。 |
+| brush | Brush | [`Brush`](../../brush/) 决定填充的特性。 |
+| region | Region | [`Region`](../../region/) 表示要填充的区域。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*为空。 -或- *region*一片空白。 |
+| ArgumentNullException | *brush* 为 null。或 *region* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

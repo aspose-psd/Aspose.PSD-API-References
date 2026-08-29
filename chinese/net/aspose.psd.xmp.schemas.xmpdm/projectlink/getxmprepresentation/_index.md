@@ -1,14 +1,15 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API 参考
-description: ProjectLink 方法. 以 XMP 格式返回包含字符串的值
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ProjectLink 方法。返回 XMP 格式中包含的字符串值"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-以 XMP 格式返回包含字符串的值。
+返回 XMP 格式中包含的字符串值。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,18 +17,18 @@ public override string GetXmpRepresentation()
 
 ### 返回值
 
-以 XMP 格式返回包含字符串的值。
+返回 XMP 格式中包含的字符串值。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | NotImplementedException |  |
 
-### 也可以看看
+### 另请参阅
 
 * class [ProjectLink](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

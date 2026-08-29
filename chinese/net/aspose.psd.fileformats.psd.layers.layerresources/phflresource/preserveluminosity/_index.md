@@ -1,27 +1,28 @@
 ---
-title: PhflResource.PreserveLuminosity
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 财产. 获取或设置一个值指示是否保持亮度.
+title: "PhflResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResource 属性。获取或设置指示是否保留亮度的值"
 type: docs
-weight: 30
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhflResource.PreserveLuminosity property
 
-获取或设置一个值，指示是否[保持亮度].
+获取或设置一个值，指示是否 [preserve luminosity]。
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[保持亮度]；否则，`错误的` .
+`true` 如果 [preserve luminosity]；否则，`false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

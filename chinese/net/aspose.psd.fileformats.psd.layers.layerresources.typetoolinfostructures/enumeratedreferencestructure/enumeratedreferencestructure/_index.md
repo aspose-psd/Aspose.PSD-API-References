@@ -1,32 +1,33 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedReferenceStructure
-second_title: Aspose.PSD for .NET API 参考
-description: EnumeratedReferenceStructure 构造函数. 初始化一个新的实例EnumeratedReferenceStructure类.
+title: "EnumeratedReferenceStructure.EnumeratedReferenceStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "EnumeratedReferenceStructure 构造函数。初始化 EnumeratedReferenceStructure 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure constructor
 
-初始化一个新的实例[`EnumeratedReferenceStructure`](../)类.
+初始化 [`EnumeratedReferenceStructure`](../) 类的新实例。
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
     ClassID enumName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥名称。 |
-| classID | ClassID | 类 ID。 |
-| typeID | ClassID | 类型标识。 |
+| keyName | ClassID | 键名。 |
+| classID | ClassID | 类标识。 |
+| typeID | ClassID | 类型 ID。 |
 | enumName | ClassID | 枚举名称。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

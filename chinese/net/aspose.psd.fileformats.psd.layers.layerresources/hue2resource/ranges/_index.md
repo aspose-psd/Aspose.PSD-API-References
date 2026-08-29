@@ -1,28 +1,29 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Aspose.PSD for .NET API 参考
-description: Hue2Resource 财产. 获取Hue/Saturation Adjustment Layer 的范围 PS 中的Ranges 会随着范围的改变而改变名称所以我们应该通过index 来工作
+title: "Hue2Resource.Ranges"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Hue2Resource 属性。获取 Hue/Saturation Adjustment Layer 的范围。如果在 PS 中范围被更改，名称可能会改变，因此我们应通过索引进行操作"
 type: docs
-weight: 80
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-获取Hue/Saturation Adjustment Layer 的范围。 PS 中的Ranges 会随着范围的改变而改变名称，所以我们应该通过index 来工作
+获取色相/饱和度调整图层的范围。PS 中的范围如果被更改名称会变化，因此我们应通过索引进行操作。
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-范围.
+范围。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

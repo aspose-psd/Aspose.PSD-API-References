@@ -1,52 +1,53 @@
 ---
-title: RasterImage.ReplaceColor
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 将一种颜色替换为具有允许差异的另一种颜色并保留原始 alpha 值以保存平滑的边缘
+title: "RasterImage.ReplaceColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。将一种颜色替换为另一种颜色，允许一定差异，并保留原始 alpha 值以保持平滑边缘"
 type: docs
-weight: 450
+weight: 460
 url: /zh/net/aspose.psd/rasterimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## ReplaceColor(Color, byte, Color) {#replacecolor}
 
-将一种颜色替换为具有允许差异的另一种颜色并保留原始 alpha 值以保存平滑的边缘。
+在允许的差异范围内将一种颜色替换为另一种颜色，并保留原始 alpha 值以保持平滑边缘。
 
 ```csharp
 public void ReplaceColor(Color oldColor, byte oldColorDiff, Color newColor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| oldColor | Color | 旧颜色要更换。 |
-| oldColorDiff | Byte | 允许旧颜色的差异能够扩大替换的色调。 |
-| newColor | Color | 用新颜色代替旧颜色。 |
+| oldColor | 颜色 | 要被替换的旧颜色。 |
+| oldColorDiff | 字节 | 允许的旧颜色差异，以便扩大替换后颜色的色调范围。 |
+| newColor | 颜色 | 用于替换旧颜色的新颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceColor(int, byte, int) {#replacecolor_1}
 
-将一种颜色替换为具有允许差异的另一种颜色并保留原始 alpha 值以保存平滑的边缘。
+在允许的差异范围内将一种颜色替换为另一种颜色，并保留原始 alpha 值以保持平滑边缘。
 
 ```csharp
 public virtual void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| oldColorArgb | Int32 | 要替换的旧颜色 ARGB 值。 |
-| oldColorDiff | Byte | 允许旧颜色的差异能够扩大替换的色调。 |
+| oldColorArgb | Int32 | 待替换的旧颜色 ARGB 值。 |
+| oldColorDiff | 字节 | 允许的旧颜色差异，以便扩大替换后颜色的色调范围。 |
 | newColorArgb | Int32 | 用于替换旧颜色的新颜色 ARGB 值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

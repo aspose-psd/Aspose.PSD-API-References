@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 alpha 存储选项以外的选项Unspecified 超过 3 个时使用SamplesPerPixel定义.
+title: "TiffOptions.AlphaStorage"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 alpha 存储选项。当定义的 SamplesPerPixel 超过 3 时，使用除 Unspecified 之外的选项。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-获取或设置 alpha 存储选项。以外的选项Unspecified 超过 3 个时使用[`SamplesPerPixel`](../samplesperpixel/)定义.
+获取或设置 alpha 存储选项。当定义的 [`SamplesPerPixel`](../samplesperpixel/) 超过 3 时，使用除 Unspecified 之外的选项。
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 alpha 存储选项。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorantBase.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API 参考
-description: ColorantBase 方法. 获取包含 XMP 格式的字符串值
+title: "ColorantBase.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorantBase 方法。获取 XMP 格式中包含的字符串值"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantBase.GetXmpRepresentation method
 
-获取包含 XMP 格式的字符串值。
+获取 XMP 格式中包含的字符串值。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 返回值
 
-以 XMP 格式返回包含字符串的值。
+返回 XMP 格式的字符串包含值。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantBase](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

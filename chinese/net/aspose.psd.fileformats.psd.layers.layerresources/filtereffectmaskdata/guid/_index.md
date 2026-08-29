@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.GUID
-second_title: Aspose.PSD for .NET API 参考
-description: FilterEffectMaskData 财产. 获取 GUID
+title: "FilterEffectMaskData.GUID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FilterEffectMaskData 属性。获取 GUID"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.GUID property
 
 获取 GUID。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public string GUID { get; }
 ```
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 FXidResource 资源的属性。
 
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,10 +62,10 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterEffectMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

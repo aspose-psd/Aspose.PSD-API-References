@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Xresolution
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 x 分辨率
+title: "TiffOptions.Xresolution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 x 分辨率"
 type: docs
-weight: 650
+weight: 660
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xresolution property
 
 获取或设置 x 分辨率。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 public TiffRational Xresolution { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-x 分辨率。
+该 x 分辨率。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

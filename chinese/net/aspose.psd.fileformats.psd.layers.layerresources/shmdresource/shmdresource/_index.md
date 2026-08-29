@@ -1,43 +1,44 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD for .NET API 参考
-description: ShmdResource 构造函数. 初始化一个新的实例ShmdResource类.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ShmdResource 构造函数。初始化 ShmdResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-初始化一个新的实例[`ShmdResource`](../)类.
+初始化 [`ShmdResource`](../) 类的新实例。
 
 ```csharp
 public ShmdResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ShmdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-初始化一个新的实例[`ShmdResource`](../)类.
+初始化 [`ShmdResource`](../) 类的新实例。
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 资源的数据。 |
+| 数据 | Byte[] | 资源的数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ShmdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

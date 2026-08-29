@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.ColorSpaceValue
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfoResource 财产. 获取或设置颜色空间值
+title: "TypeToolInfoResource.ColorSpaceValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfoResource 属性。获取或设置颜色空间值"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ColorSpaceValue property
 
 获取或设置颜色空间值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short ColorSpaceValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 颜色空间值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskDataShort 财产. 获取或设置图层蒙版填充
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskDataShort 属性。获取或设置图层蒙版填充"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-获取或设置图层蒙版填充。
+获取或设置图层遮罩填充。
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-层掩码填充.
+图层蒙版填充。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskDataShort](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

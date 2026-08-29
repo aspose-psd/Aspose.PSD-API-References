@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置用作参考高度的 GPS 高度
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置用作参考海拔的 GPS 海拔"
 type: docs
 weight: 370
 url: /zh/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-获取或设置用作参考高度的 GPS 高度。
+获取或设置用作参考海拔的GPS海拔。
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-用作参考高度的 GPS 高度。
+用作参考海拔的 GPS 海拔。
 
-### 也可以看看
+### 另请参阅
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

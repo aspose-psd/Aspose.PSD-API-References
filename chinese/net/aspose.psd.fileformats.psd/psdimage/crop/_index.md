@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 裁剪图像
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。裁剪图像"
 type: docs
-weight: 510
+weight: 570
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
 裁剪图像。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/crop/
 public override void Crop(Rectangle rectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 矩形。 |
+| 矩形 | Rectangle | 矩形。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

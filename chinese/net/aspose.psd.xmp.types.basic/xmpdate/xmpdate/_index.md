@@ -1,53 +1,54 @@
 ---
-title: XmpDate.XmpDate
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDate 构造函数. 初始化一个新的实例XmpDate类.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDate 构造函数。初始化 XmpDate 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-初始化一个新的实例[`XmpDate`](../)类.
+初始化 [`XmpDate`](../) 类的新实例。
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dateTime | DateTime | 使用 ISO RFC 8601 格式的子集表示的日期时间值。 |
+| dateTime | DateTime | 使用 ISO RFC 8601 格式子集表示的日期时间值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDate](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-初始化一个新的实例[`XmpDate`](../)类.
+初始化 [`XmpDate`](../) 类的新实例。
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | dateString | String | 日期的字符串表示形式。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 无效的日期格式；日期 |
+| ArgumentException | 无效的日期格式;date |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDate](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

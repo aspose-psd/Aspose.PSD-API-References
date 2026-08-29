@@ -1,11 +1,12 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD for .NET API 参考
-description: Image 财产. 获取图像宽度
+title: "Image.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 属性。获取图像宽度"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
 获取图像宽度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/image/width/
 public abstract int Width { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像宽度。
+该图像宽度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

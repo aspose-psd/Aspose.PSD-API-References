@@ -1,14 +1,15 @@
 ---
-title: IColorPalette.Entries
-second_title: Aspose.PSD for .NET API 参考
-description: IColorPalette 财产. 获取数组Color结构.
+title: "IColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IColorPalette 属性。获取 Color 结构的数组"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/icolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Entries property
 
-获取数组[`Color`](../../color/)结构.
+获取一个 [`Color`](../../color/) 结构的数组。
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,17 +17,17 @@ public Color[] Entries { get; }
 
 ### 返回值
 
-的数组[`Color`](../../color/)构成这个的结构[`ColorPalette`](../../colorpalette/) .
+由此 [`ColorPalette`](../../colorpalette/) 组成的 [`Color`](../../color/) 结构数组。
 
-### 适当的价值
+### Property Value
 
 条目。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* 命名空间 [Aspose.PSD](../../icolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

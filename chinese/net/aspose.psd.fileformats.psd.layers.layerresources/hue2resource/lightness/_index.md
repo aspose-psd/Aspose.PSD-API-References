@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Lightness
-second_title: Aspose.PSD for .NET API 参考
-description: Hue2Resource 财产. 获取或设置主亮度
+title: "Hue2Resource.Lightness"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Hue2Resource 属性。获取或设置主亮度"
 type: docs
-weight: 60
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Lightness property
 
 获取或设置主亮度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/light
 public short Lightness { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-主亮度。
+主光度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Hue2Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

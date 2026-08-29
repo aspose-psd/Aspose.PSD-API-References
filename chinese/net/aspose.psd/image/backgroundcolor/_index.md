@@ -1,11 +1,12 @@
 ---
-title: Image.BackgroundColor
-second_title: Aspose.PSD for .NET API 参考
-description: Image 财产. 获取或设置背景颜色的值
+title: "Image.BackgroundColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 属性。获取或设置背景颜色的值"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
 获取或设置背景颜色的值。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd/image/backgroundcolor/
 public virtual Color BackgroundColor { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

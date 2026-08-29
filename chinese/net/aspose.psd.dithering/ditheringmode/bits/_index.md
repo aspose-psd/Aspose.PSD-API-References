@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Bits
-second_title: Aspose.PSD for .NET API 参考
-description: DitheringMode 财产. 抖动图像的采样因子
+title: "DitheringMode.Bits"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DitheringMode 属性。抖动图像的采样因子"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.dithering/ditheringmode/bits/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Bits property
 
 抖动图像的采样因子。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.dithering/ditheringmode/bits/
 public int Bits { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DitheringMode](../)
-* 命名空间 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

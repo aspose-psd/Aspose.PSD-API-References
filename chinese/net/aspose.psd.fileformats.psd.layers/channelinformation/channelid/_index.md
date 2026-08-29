@@ -1,11 +1,12 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: Aspose.PSD for .NET API 参考
-description: ChannelInformation 财产. 获取或设置通道 ID
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ChannelInformation 属性。获取或设置通道 ID"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
 获取或设置通道 ID。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 public short ChannelID { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-频道 ID.
+通道 ID。
 
-### 也可以看看
+### 另请参阅
 
 * class [ChannelInformation](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

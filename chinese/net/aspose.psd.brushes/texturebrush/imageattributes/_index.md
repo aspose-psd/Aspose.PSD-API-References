@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Aspose.PSD for .NET API 参考
-description: TextureBrush 财产. 获取ImageAttributes与此有关TextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextureBrush 属性。获取与此 TextureBrush 关联的 ImageAttributes。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-获取`ImageAttributes`与此有关[`TextureBrush`](../) .
+获取与此 [`TextureBrush`](../) 关联的 `ImageAttributes`。
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这`ImageAttributes`.
+此 `ImageAttributes`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../texturebrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Aspose.PSD for .NET API 参考
-description: BlendingOptions 方法. 添加图案覆盖
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlendingOptions 方法。添加图案叠加"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-添加图案覆盖。
+添加图案叠加。
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
@@ -16,13 +17,13 @@ public PatternOverlayEffect AddPatternOverlay()
 
 ### 返回值
 
-已创建[`PatternOverlayEffect`](../../patternoverlayeffect/)对象
+已创建 [`PatternOverlayEffect`](../../patternoverlayeffect/) 对象
 
-### 也可以看看
+### 另请参阅
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

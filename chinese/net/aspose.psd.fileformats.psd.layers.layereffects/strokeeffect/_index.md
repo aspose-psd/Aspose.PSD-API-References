@@ -1,11 +1,12 @@
 ---
-title: Class StrokeEffect
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect 班级. PSD 图层的 Adobe Photoshop 描边效果
+title: "类 StrokeEffect"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect 类。Adobe Photoshop 对 PSD 图层的描边效果"
 type: docs
-weight: 2190
+weight: 2390
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
 PSD 图层的 Adobe® Photoshop® 描边效果。
@@ -14,27 +15,33 @@ PSD 图层的 Adobe® Photoshop® 描边效果。
 public class StrokeEffect : ILayerEffect
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | 获取或设置混合模式。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | 获取一种效果 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | 获取一种效果类型 |
 | [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | 获取或设置填充设置。 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | 获取或设置一个值，指示此实例是否可见。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | 获取或设置指示此实例是否可见的值。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | 获取或设置不透明度。 |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | 获取或设置一个值，指示是否这`StrokeEffect`将根据当前图层内容混合描边。 |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | 获取或设置描边效果的位置，以控制你的描边与 PSD 图层内容的对齐方式。 的值可以是Inside在 PSD 图层内容内绘制笔划， 或Outside在 PSD 层内容周围绘制描边， 和Center在内部和外部绘制笔划. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | 获取或设置一个值，指示此 `StrokeEffect` 是否会将描边与当前图层内容混合。 |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | 获取或设置描边效果的位置，以控制描边相对于 PSD 图层内容的对齐方式。该值可以是 Inside，以在 PSD 图层内容内部绘制描边，或者 Outside，以在 PSD 图层内容周围绘制描边，亦或是 Center，以在内部和外部同时绘制描边。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | 获取或设置描边效果的宽度。 |
 
-### 例子
+## 方法
 
-以下代码示例显示了使用颜色填充渲染笔触效果。
+| 名称 | 描述 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | 计算并获取基于输入图层像素边界的效果像素边界。 |
+
+## 示例
+
+以下代码示例展示了使用颜色填充渲染描边效果。
 
 ```csharp
 [C#]
 
-// 实现Stroke效果渲染，Color Fill导出
+// 实现使用颜色填充渲染描边效果以供导出
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -51,9 +58,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
         settings.Color = Color.DeepPink;
     }
 
-    // 保存psd
+    // 保存 psd
     im.Save(exportPath, new PsdOptions());
-    // 保存png
+    // 保存 png
     im.Save(exportPathPng, new PngOptions()
     {
         ColorType = PngColorType.TruecolorWithAlpha
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-以下代码演示了对填充类型为 Color 的笔触效果图层的支持。
+以下代码演示了使用填充类型 - Color 的描边效果图层支持。
 
 ```csharp
 [C#]
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-以下代码演示了对填充类型为 Pattern 的笔触效果图层的支持。
+以下代码演示了带有填充类型 - 图案的描边效果层的支持。
 
 ```csharp
 [C#]
@@ -150,7 +157,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// 准备新数据
+// 正在准备新数据
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -214,7 +221,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // 检查模式数据
+    // 检查图案数据
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-以下代码演示了对填充类型为渐变的笔触效果层的支持。
+以下代码演示了带填充类型为 Gradient 的描边效果图层的支持。
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -276,8 +282,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - fillSettings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
     AssertAreEqual(false, fillSettings.Reverse);
 
-    // 色点
-    var colorPoints = fillSettings.ColorPoints;
+    // 颜色点
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -288,8 +295,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(4096, colorPoints[1].Location);
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
-    // 透明点
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    // 透明度点
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -301,8 +308,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
     // 测试编辑
-    fillSettings.Color = Color.Green;
-
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -314,23 +319,23 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.VerticalOffset = 11;
     fillSettings.Reverse = true;
 
-    // 添加新的颜色点
-    var colorPoint = fillSettings.AddColorPoint();
+    // 添加新颜色点
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
-    // 改变上一个点的位置
-    fillSettings.ColorPoints[1].Location = 1899;
+    // 更改前一点的位置
+    solidGradient.ColorPoints[1].Location = 1899;
 
-    // 添加新的透明点
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    // 添加新透明度点
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // 改变前一个透明点的位置
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    // 更改前一个透明度点的位置
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
@@ -345,51 +350,51 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // 检查颜色点
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
     // 检查透明点
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ILayerEffect](../ilayereffect/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 方法. 返回一个遍历集合的枚举器
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
 返回一个遍历集合的枚举器。
@@ -16,12 +17,12 @@ public IEnumerator GetEnumerator()
 
 ### 返回值
 
-一个IEnumerator可用于遍历集合的对象。
+可用于遍历集合的 IEnumerator 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.PsdVersion 枚举. 文件格式版本
+title: "枚举 PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion 枚举。文件格式版本"
 type: docs
-weight: 3600
+weight: 4060
 url: /zh/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
 文件格式版本
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.fileformats.psd/psdversion/
 public enum PsdVersion : byte
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Psd | `1` | 默认 PSD 版本。 |
+| Psd | `1` | 默认的 PSD 版本。 |
 | Psb | `2` | PSB 版本。 |
 
-### 例子
+## 示例
 
-以下示例显示了将 PSD 文件转换为 PSB 的能力，反之亦然。
+以下示例展示了将 PSD 文件转换为 PSB 以及反向转换的能力。
 
 ```csharp
 [C#]
@@ -45,9 +46,9 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

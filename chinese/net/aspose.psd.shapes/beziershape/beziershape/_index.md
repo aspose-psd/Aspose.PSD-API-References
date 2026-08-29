@@ -1,66 +1,67 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD for .NET API 参考
-description: BezierShape 构造函数. 初始化一个新的实例BezierShape类.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BezierShape 构造函数。初始化 BezierShape 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-初始化一个新的实例[`BezierShape`](../)类.
+初始化 [`BezierShape`](../) 类的新实例。
 
 ```csharp
 public BezierShape()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BezierShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../beziershape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-初始化一个新的实例[`BezierShape`](../)类.
+初始化 [`BezierShape`](../) 类的新实例。
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
+| 点 | PointF[] | 点数组。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../beziershape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-初始化一个新的实例[`BezierShape`](../)类.
+初始化 [`BezierShape`](../) 类的新实例。
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
-| isClosed | Boolean | 如果设置为`真的`贝塞尔曲线是闭合的。 |
+| 点 | PointF[] | 点数组。 |
+| isClosed | 布尔 | 如果设置为 `true`，则贝塞尔样条闭合。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../beziershape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

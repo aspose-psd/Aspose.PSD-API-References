@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Extensions.ColorBlendExtensions 班级. 包含ColorBlend扩展方法.
+title: "类 ColorBlendExtensions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Extensions.ColorBlendExtensions 类。包含 ColorBlend 扩展方法"
 type: docs
-weight: 1040
+weight: 1050
 url: /zh/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-包含[`ColorBlend`](../../aspose.psd/colorblend/)扩展方法.
+包含 [`ColorBlend`](../../aspose.psd/colorblend/) 扩展方法。
 
 ```csharp
 public static class ColorBlendExtensions
@@ -16,13 +17,13 @@ public static class ColorBlendExtensions
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | 转换[`ColorBlend`](../../aspose.psd/colorblend/)到ColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | 将 [`ColorBlend`](../../aspose.psd/colorblend/) 转换为 ColorBlend。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

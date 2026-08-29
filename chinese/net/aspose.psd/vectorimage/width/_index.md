@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD for .NET API 参考
-description: VectorImage 财产. 获取图像宽度
+title: "VectorImage.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorImage 属性。获取图像的宽度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
 获取图像宽度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/vectorimage/width/
 public override int Width { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像宽度.
+该图像宽度。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorImage](../)
-* 命名空间 [Aspose.PSD](../../vectorimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

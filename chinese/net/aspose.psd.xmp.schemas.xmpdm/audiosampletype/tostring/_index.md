@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.ToString
-second_title: Aspose.PSD for .NET API 参考
-description: AudioSampleType 方法. 返回一个String代表这个实例.
+title: "AudioSampleType.ToString"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AudioSampleType 方法。返回表示此实例的 String"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-返回一个String代表这个实例.
+返回一个表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [AudioSampleType](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

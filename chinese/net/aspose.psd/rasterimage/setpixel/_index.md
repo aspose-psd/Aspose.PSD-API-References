@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 为指定位置设置图像像素
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。为指定位置设置图像像素。"
 type: docs
-weight: 560
+weight: 580
 url: /zh/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
 为指定位置设置图像像素。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd/rasterimage/setpixel/
 public void SetPixel(int x, int y, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Int32 | 像素 x 位置。 |
-| y | Int32 | 像素 y 位置。 |
-| color | Color | 指定位置的像素颜色。 |
+| x | Int32 | 像素的 x 坐标位置。 |
+| y | Int32 | 像素的 y 坐标位置。 |
+| 颜色 | 颜色 | 指定位置的像素颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

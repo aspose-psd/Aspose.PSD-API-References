@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Aspose.PSD for .NET API 参考
-description: ImageExportersRegistry 方法. 注销出口商
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageExportersRegistry 方法。注销导出器"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-注销出口商。
+注销导出器。
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | exporterDescriptor | IImageExporterDescriptor | 要注销的导出器描述符。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageexportersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

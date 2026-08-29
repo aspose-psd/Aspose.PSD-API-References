@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取每像素计数的图像位数
+title: "PsdImage.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。 获取图像的每像素位数"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-获取每像素计数的图像位数。
+获取图像每像素位数的计数。
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-每像素计数的图像位数。
+图像每像素位数计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Addition
-second_title: Aspose.PSD for .NET API 参考
-description: SizeF 方法. 加一个宽高SizeF结构到另一个的宽度和高度SizeF结构.
+title: "SizeF.op_Addition"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SizeF 方法。将一个 SizeF 结构的宽度和高度加到另一个 SizeF 结构的宽度和高度上。"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/sizef/op_addition/
 ---
+{{< psd/tize >}}
 ## SizeF Addition operator
 
-加一个宽高[`SizeF`](../)结构到另一个的宽度和高度[`SizeF`](../)结构.
+将一个 [`SizeF`](../) 结构的宽度和高度加到另一个 [`SizeF`](../) 结构的宽度和高度上。
 
 ```csharp
 public static SizeF operator +(SizeF size1, SizeF size2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size1 | SizeF | 首先[`SizeF`](../)加上。 |
-| size2 | SizeF | 第二[`SizeF`](../)加上。 |
+| size1 | SizeF | 第一个要相加的 [`SizeF`](../)。 |
+| size2 | SizeF | 第二个要相加的 [`SizeF`](../)。 |
 
 ### 返回值
 
-A[`SizeF`](../)结构是加法运算的结果。
+一个由加法运算产生的 [`SizeF`](../) 结构。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions 班级. 锐化滤镜选项
+title: "类 SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions 类。锐化滤波器选项"
 type: docs
-weight: 4740
+weight: 5210
 url: /zh/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-锐化滤镜选项
+锐化过滤器选项
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | 初始化一个新的实例`SharpenFilterOptions`类. 使用默认设置. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | 初始化一个新的实例`SharpenFilterOptions`类. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | 初始化 `SharpenFilterOptions` 类的新实例。使用默认设置。 |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | 初始化 `SharpenFilterOptions` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | 获取或设置偏差。 |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | 获取或设置偏置。 |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | 获取或设置因子。 |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | 获取或设置 sigma. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | 获取或设置 sigma。 |
 | [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | 获取或设置大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

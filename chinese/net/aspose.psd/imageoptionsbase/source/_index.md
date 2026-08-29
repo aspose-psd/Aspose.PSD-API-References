@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Aspose.PSD for .NET API 参考
-description: ImageOptionsBase 财产. 获取或设置创建图像的来源.
+title: "ImageOptionsBase.Source"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageOptionsBase 属性。获取或设置用于创建图像的来源"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
-获取或设置创建图像的来源.
+获取或设置用于创建图像的源。
 
 ```csharp
 public Source Source { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-在其中创建图像的来源。
+用于创建图像的来源。
 
-### 也可以看看
+### 另请参阅
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* 命名空间 [Aspose.PSD](../../imageoptionsbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

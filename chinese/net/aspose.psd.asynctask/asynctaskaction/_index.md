@@ -1,27 +1,28 @@
 ---
-title: Delegate AsyncTaskAction
-second_title: Aspose.PSD for .NET API 参考
-description: 没有任何结果的异步任务的长操作委托
+title: "委托 AsyncTaskAction"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "异步任务的长操作委托，无返回结果"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.asynctask/asynctaskaction/
 ---
+{{< psd/tize >}}
 ## AsyncTaskAction delegate
 
-没有任何结果的异步任务的长操作委托。
+用于异步任务且无返回结果的长操作委托。
 
 ```csharp
 public delegate void AsyncTaskAction(IAsyncTaskState taskState);
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | taskState | IAsyncTaskState | 异步任务的状态。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* 命名空间 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

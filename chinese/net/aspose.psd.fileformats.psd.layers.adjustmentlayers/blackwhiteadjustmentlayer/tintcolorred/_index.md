@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: Aspose.PSD for .NET API 参考
-description: BlackWhiteAdjustmentLayer 财产. 获取或设置 Red Tint Color 双精度值
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlackWhiteAdjustmentLayer 属性。获取或设置红色色调颜色的 double 值"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-获取或设置 Red Tint Color 双精度值。
+获取或设置 Red Tint Color 的 double 值。
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-Red Tint Color 双值。
+红色色调颜色的 double 值。
 
-### 例子
+## 示例
 
-以下示例演示了如何在 Aspose.PSD 中操作黑白调整图层属性
+以下示例演示了如何在 Aspose.PSD 中操作黑白调整层属性。
 
 ```csharp
 [C#]
@@ -151,10 +152,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

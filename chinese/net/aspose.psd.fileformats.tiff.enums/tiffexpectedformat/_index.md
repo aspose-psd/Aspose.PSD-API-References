@@ -1,11 +1,12 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat 枚举. 预期的 tiff 文件格式
+title: "枚举 TiffExpectedFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat 枚举。期望的 tiff 文件格式"
 type: docs
-weight: 4070
+weight: 4540
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
 预期的 tiff 文件格式。
@@ -14,30 +15,30 @@ url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 public enum TiffExpectedFormat
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Default | `0` | 默认的 tiff 格式是无压缩的，只有每像素 1 位黑白格式。您还可以使用此设置获取空选项并使用您的标签或其他设置进行初始化。 |
-| TiffLzwBw | `1` | 具有 LZW 压缩和 B/W 每像素 1 位格式的 tiff. |
-| TiffLzwRgb | `2` | 具有 LZW 压缩和 RGB 颜色格式的 tiff. |
-| TiffLzwRgba | `3` | 具有 LZW 压缩和具有透明颜色格式的 RGBA 的 tiff. |
-| TiffLzwCmyk | `4` | tiff LZW cmyk |
-| TiffCcittFax3 | `5` | tiff CCITT FAX3 编码。 B/W 每像素 1 位仅支持该方案。 |
-| TiffCcittFax4 | `6` | tiff CCITT FAX4 编码。 B/W 每像素 1 位仅支持该方案。 |
-| TiffDeflateBw | `7` | 具有放气压缩和 B/W 每像素 1 位格式的 tiff. |
-| TiffDeflateRgb | `8` | 具有 deflate 压缩和 RGB 颜色格式的 tiff. |
-| TiffDeflateRgba | `9` | 具有 deflate 压缩和 RGBA 颜色格式的 tiff. |
-| TiffCcitRle | `10` | tiff CCITT RLE 编码。 B/W 每像素 1 位仅支持该方案。 |
-| TiffJpegRgb | `11` | 具有 Jpeg 压缩和 RGB 颜色格式的 tiff. |
-| TiffJpegYCbCr | `12` | 具有 Jpeg 压缩和 YCBCR 颜色格式的 tiff. |
-| TiffNoCompressionBw | `13` | 未压缩的 tiff 和 B/W 仅每像素 1 位格式。 |
-| TiffNoCompressionRgb | `14` | 未压缩的 tiff 和 RGB 颜色格式。 |
-| TiffNoCompressionRgba | `15` | 具有透明颜色格式的未压缩 tiff 和 RGBA。 |
+| Default | `0` | 默认的 tiff 格式是不压缩，仅使用 B/W 1 位每像素的格式。您也可以使用此设置获取空选项，并使用您的标签或其他设置进行初始化。 |
+| TiffLzwBw | `1` | 使用 LZW 压缩且仅为 B/W 1 位每像素格式的 tiff。 |
+| TiffLzwRgb | `2` | 使用 LZW 压缩且为 RGB 彩色格式的 tiff。 |
+| TiffLzwRgba | `3` | 使用 LZW 压缩且为带透明度的 RGBA 彩色格式的 tiff。 |
+| TiffLzwCmyk | `4` | 使用 LZW 压缩的 CMYK tiff |
+| TiffCcittFax3 | `5` | 使用 CCITT FAX3 编码的 tiff。仅支持该方案的 B/W 1 位每像素。 |
+| TiffCcittFax4 | `6` | 使用 CCITT FAX4 编码的 tiff。仅支持该方案的 B/W 1 位每像素。 |
+| TiffDeflateBw | `7` | 使用 deflate 压缩且仅为 B/W 1 位每像素格式的 tiff。 |
+| TiffDeflateRgb | `8` | 具有 Deflate 压缩和 RGB 颜色格式的 tiff。 |
+| TiffDeflateRgba | `9` | 具有 Deflate 压缩和 RGBA 颜色格式的 tiff。 |
+| TiffCcitRle | `10` | tiff 使用 CCITT RLE 编码。仅支持该方案的 B/W 每像素 1 位。 |
+| TiffJpegRgb | `11` | 具有 Jpeg 压缩和 RGB 颜色格式的 tiff。 |
+| TiffJpegYCbCr | `12` | 具有 Jpeg 压缩和 YCBCR 颜色格式的 tiff。 |
+| TiffNoCompressionBw | `13` | 未压缩的 tiff，仅支持 B/W 每像素 1 位的格式。 |
+| TiffNoCompressionRgb | `14` | 未压缩的 tiff，RGB 颜色格式。 |
+| TiffNoCompressionRgba | `15` | 未压缩的 tiff，带透明度的 RGBA 颜色格式。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

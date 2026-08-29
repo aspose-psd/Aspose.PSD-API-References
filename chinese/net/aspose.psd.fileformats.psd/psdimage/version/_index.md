@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Version
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取或设置版本
+title: "PsdImage.Version"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。获取或设置版本"
 type: docs
-weight: 250
+weight: 260
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/version/
 ---
+{{< psd/tize >}}
 ## PsdImage.Version property
 
 获取或设置版本。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/version/
 public int Version { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 版本。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,25 +1,26 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD for .NET API 参考
-description: PlLdResource 方法. 将 PlLD 资源保存到指定的流容器中
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PlLdResource 方法。将 PlLD 资源保存到指定的流容器"
 type: docs
-weight: 50
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-将 PlLD 资源保存到指定的流容器中。
+将 PlLD 资源保存到指定的流容器。
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 要保存到的流容器。 |
 | psdVersion | Int32 | PSD 版本。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 PlLdResource 资源的支持。
 
@@ -203,15 +204,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -224,11 +225,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

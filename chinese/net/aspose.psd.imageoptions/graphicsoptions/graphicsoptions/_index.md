@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsOptions 构造函数. 默认构造函数
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 public GraphicsOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

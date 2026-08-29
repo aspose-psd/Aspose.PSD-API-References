@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Aspose.PSD for .NET API 参考
-description: CustomLineCap 财产. 获取或设置LineJoin确定组成此行的方式的枚举CustomLineCap对象被加入.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CustomLineCap 属性。获取或设置决定组成此 CustomLineCap 对象的线段如何连接的 LineJoin 枚举"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-获取或设置[`LineJoin`](../../linejoin/)确定组成此行的方式的枚举[`CustomLineCap`](../)对象被加入.
+获取或设置 [`LineJoin`](../../linejoin/) 枚举，该枚举决定组成此 [`CustomLineCap`](../) 对象的线段如何连接。
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这[`LineJoin`](../../linejoin/)枚举这个[`CustomLineCap`](../)对象用于连接线。
+此 [`CustomLineCap`](../) 对象使用的用于连接线段的 [`LineJoin`](../../linejoin/) 枚举。
 
-### 也可以看看
+### 另请参阅
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

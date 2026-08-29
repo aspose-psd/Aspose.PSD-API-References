@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Count
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 财产. 获取包含的元素个数ICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 属性。获取 ICollection 中包含的元素数量。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-获取包含的元素个数ICollection .
+获取 ICollection 中包含的元素数量。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

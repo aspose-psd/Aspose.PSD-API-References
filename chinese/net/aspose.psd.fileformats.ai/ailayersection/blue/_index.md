@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置蓝色分量
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置蓝色分量"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
 获取或设置蓝色分量。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/ailayersection/blue/
 public int Blue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 蓝色分量。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Aspose.PSD for .NET API 参考
-description: BuildVersionInfo 场地. 产品发布日期
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BuildVersionInfo 字段。产品发布日期"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
 产品发布日期。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/buildversioninfo/releasedate/
 public static readonly DateTime ReleaseDate;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BuildVersionInfo](../)
-* 命名空间 [Aspose.PSD](../../buildversioninfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

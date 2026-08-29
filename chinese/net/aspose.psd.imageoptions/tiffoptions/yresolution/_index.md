@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 y 分辨率
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 Y 分辨率"
 type: docs
-weight: 690
+weight: 700
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
 获取或设置 y 分辨率。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 public TiffRational Yresolution { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-y 分辨率。
+Y 分辨率。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

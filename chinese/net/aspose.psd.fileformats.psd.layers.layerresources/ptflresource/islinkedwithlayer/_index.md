@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PtFlResource 财产. 获取或设置一个值该值指示该实例是否链接到图层
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PtFlResource 属性。获取或设置指示此实例是否与图层链接的值"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
-获取或设置一个值，该值指示该实例是否链接到图层。
+获取或设置一个值，指示此实例是否与图层关联。
 
 ```csharp
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例与层链接；否则，`错误的` .
+`true` 如果此实例与图层链接；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对加载和编辑 PtFlResource 资源的支持。
+以下示例演示了对 PtFlResource 资源的加载和编辑支持。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // 阅读
+                    // 读取
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // 我们在 PattResource 中没有模式数据，所以我们可以添加它。
+                    // 我们在 PattResource 中没有图案数据，因此可以添加它。
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PtFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

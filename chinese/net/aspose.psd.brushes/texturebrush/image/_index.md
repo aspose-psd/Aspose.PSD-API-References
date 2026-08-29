@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD for .NET API 参考
-description: TextureBrush 财产. 获取Image与此关联的对象TextureBrush对象.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextureBrush 属性。获取与此 TextureBrush 对象关联的 Image 对象"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-获取[`Image`](../../../aspose.psd/image/)与此关联的对象[`TextureBrush`](../)对象.
+获取 [`Image`](../../../aspose.psd/image/) 对象，该对象与此 [`TextureBrush`](../) 对象关联。
 
 ```csharp
 public Image Image { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-一个[`Image`](../../../aspose.psd/image/)表示图像的对象[`TextureBrush`](../)对象填充形状。
+一个表示此 [`TextureBrush`](../) 对象用于填充形状的图像的 [`Image`](../../../aspose.psd/image/) 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../texturebrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

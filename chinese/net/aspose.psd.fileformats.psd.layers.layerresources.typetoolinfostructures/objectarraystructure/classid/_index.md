@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD for .NET API 参考
-description: ObjectArrayStructure 财产. 获取或设置对象数组类 ID
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ObjectArrayStructure 属性。获取或设置对象数组类标识符"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
 获取或设置对象数组类 ID。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-对象数组类 ID.
+对象数组类标识符。
 
-### 例子
+## 示例
 
 以下代码演示了对 ObAr 和 UnFl 签名的支持。
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

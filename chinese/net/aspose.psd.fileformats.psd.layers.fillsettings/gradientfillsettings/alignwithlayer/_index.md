@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD for .NET API 参考
-description: GradientFillSettings 财产. 获取或设置一个值指示是否与图层对齐.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientFillSettings 属性。获取或设置指示是否与图层对齐的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-获取或设置一个值，指示是否[与图层对齐].
+获取或设置一个值，指示是否 [align with layer]。
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[与层对齐]；否则，`错误的` .
+`true` 如果 [align with layer]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

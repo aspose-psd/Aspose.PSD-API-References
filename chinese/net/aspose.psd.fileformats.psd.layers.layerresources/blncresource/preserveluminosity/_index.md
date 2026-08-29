@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD for .NET API 参考
-description: BlncResource 财产. 获取或设置一个值指示是否这BlncResource保持亮度.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlncResource 属性。获取或设置一个值，指示此 BlncResource 是否保留亮度"
 type: docs
-weight: 100
+weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-获取或设置一个值，指示是否这[`BlncResource`](../)保持亮度.
+获取或设置一个值，指示此 [`BlncResource`](../) 是否保留亮度。
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果它保持亮度；否则，`错误的` .
+`true` 表示保留亮度；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [BlncResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

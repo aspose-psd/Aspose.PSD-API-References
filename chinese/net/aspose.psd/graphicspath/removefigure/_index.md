@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.RemoveFigure
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 删除图形
+title: "GraphicsPath.RemoveFigure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。移除一个图形"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/graphicspath/removefigure/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigure method
 
-删除图形。
+移除一个图形。
 
 ```csharp
 public void RemoveFigure(Figure figure)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| figure | Figure | 要删除的数字。 |
+| 图形 | 图形 | 要移除的图形。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

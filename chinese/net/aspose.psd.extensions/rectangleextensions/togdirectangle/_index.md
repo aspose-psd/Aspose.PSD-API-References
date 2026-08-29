@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleExtensions 方法. 转换Rectangle到Rectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleExtensions 方法。将 Rectangle 转换为 Rectangle。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-转换[`Rectangle`](../../../aspose.psd/rectangle/)到Rectangle .
+将 [`Rectangle`](../../../aspose.psd/rectangle/) 转换为 Rectangle。
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要转换的矩形。 |
+| 矩形 | Rectangle | 要转换的矩形。 |
 
 ### 返回值
 
-转换的Rectangle.
+已转换的 Rectangle。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../rectangleextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-转换[`RectangleF`](../../../aspose.psd/rectanglef/)到Rectangle .
+将 [`RectangleF`](../../../aspose.psd/rectanglef/) 转换为 Rectangle。
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | RectangleF | 要转换的矩形。 |
+| 矩形 | RectangleF | 要转换的矩形。 |
 
 ### 返回值
 
-转换的RectangleF.
+已转换的 RectangleF。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../rectangleextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

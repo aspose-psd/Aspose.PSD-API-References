@@ -1,11 +1,12 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD for .NET API 参考
-description: PngOptions 场地. 默认压缩级别
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PngOptions 字段。默认压缩级别"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
 默认压缩级别。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 public const int DefaultCompressionLevel;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PngOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

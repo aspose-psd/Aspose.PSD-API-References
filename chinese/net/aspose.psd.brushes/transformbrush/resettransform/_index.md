@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: Aspose.PSD for .NET API 参考
-description: TransformBrush 方法. 重置Transform属性到身份.
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TransformBrush 方法。将 Transform 属性重置为单位矩阵。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-重置[`Transform`](../transform/)属性到身份.
+将 [`Transform`](../transform/) 属性重置为单位矩阵。
 
 ```csharp
 public void ResetTransform()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TransformBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../transformbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

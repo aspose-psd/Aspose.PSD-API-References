@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.PhotometricInterpretation
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置光度解释
+title: "JpegExifData.PhotometricInterpretation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置光度解释"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PhotometricInterpretation property
 
 获取或设置光度解释。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/jpegexifdata/photometricinterpretation/
 public ushort PhotometricInterpretation { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 光度解释。
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

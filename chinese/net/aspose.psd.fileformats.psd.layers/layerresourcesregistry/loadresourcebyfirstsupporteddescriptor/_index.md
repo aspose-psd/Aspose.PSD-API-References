@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResourcesRegistry 方法. 负载LayerResource使用第一个找到的适合指定的开瓶器stream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResourcesRegistry 方法。使用第一个适用于指定流的找到的打开器加载 LayerResource"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-负载[`LayerResource`](../../layerresource/)使用第一个找到的适合指定的开瓶器*stream* .
+使用第一个适用于指定 *stream* 的找到的打开器加载 [`LayerResource`](../../layerresource/)。
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | 流 | 流。 |
 | psdVersion | Int32 | PSD 版本。 |
 
 ### 返回值
 
-已加载[`LayerResource`](../../layerresource/)如果没有找到开瓶器，则为 null.
+已加载的 [`LayerResource`](../../layerresource/) ，如果未找到打开器则为 null。
 
-### 评论
+## 备注
 
-第一个开启者实际上是最后一个注册的。
+第一个打开器实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

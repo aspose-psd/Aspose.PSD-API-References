@@ -1,14 +1,15 @@
 ---
-title: Class PdfDocumentInfo
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo 班级. 此类表示文档描述的元数据集
+title: "类 PdfDocumentInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Pdf.PdfDocumentInfo 类。此类表示用于文档描述的一组元数据。"
 type: docs
-weight: 1570
+weight: 1580
 url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo class
 
-此类表示文档描述的元数据集。
+此类表示文档描述的元数据集合。
 
 ```csharp
 public class PdfDocumentInfo
@@ -16,22 +17,22 @@ public class PdfDocumentInfo
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [PdfDocumentInfo](pdfdocumentinfo/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Author](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/author/) { get; set; } | 获取或设置文档的作者。 |
 | [Keywords](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/) { get; set; } | 获取或设置文档的关键字。 |
 | [Subject](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/) { get; set; } | 获取或设置文档的主题。 |
 | [Title](../../aspose.psd.fileformats.pdf/pdfdocumentinfo/title/) { get; set; } | 获取或设置文档的标题。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

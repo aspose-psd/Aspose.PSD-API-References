@@ -1,11 +1,12 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Aspose.PSD for .NET API 参考
-description: Image 方法. 按比例调整高度
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 方法。按比例调整高度"
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
 按比例调整高度。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/image/resizeheightproportionally/
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newHeight | Int32 | 新的高度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ public void ResizeHeightProportionally(int newHeight)
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newHeight | Int32 | 新的高度。 |
 | resizeType | ResizeType | 调整大小的类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeT
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newHeight | Int32 | 新的高度。 |
-| settings | ImageResizeSettings | 图像调整大小设置。 |
+| 设置 | ImageResizeSettings | 图像调整大小的设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

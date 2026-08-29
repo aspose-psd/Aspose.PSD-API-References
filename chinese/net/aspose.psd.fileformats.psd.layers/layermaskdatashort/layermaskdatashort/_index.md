@@ -1,23 +1,24 @@
 ---
-title: LayerMaskDataShort.LayerMaskDataShort
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskDataShort 构造函数. 默认构造函数
+title: "LayerMaskDataShort.LayerMaskDataShort"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskDataShort 构造函数。初始化 LayerMaskDataShort 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort constructor
 
-默认构造函数。
+初始化 [`LayerMaskDataShort`](../) 类的新实例。
 
 ```csharp
 public LayerMaskDataShort()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskDataShort](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

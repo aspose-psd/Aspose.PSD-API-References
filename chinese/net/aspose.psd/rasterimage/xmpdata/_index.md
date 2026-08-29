@@ -1,11 +1,12 @@
 ---
-title: RasterImage.XmpData
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 财产. 获取或设置 XMP 元数据
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 属性。获取或设置 XMP 元数据"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
 获取或设置 XMP 元数据。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/rasterimage/xmpdata/
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 XMP 元数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Subtraction
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 方法. 翻译一个PointF由给定的负Size .
+title: "PointF.op_Subtraction"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 方法。通过给定 Size 的相反值平移 PointF。"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/pointf/op_subtraction/
 ---
+{{< psd/tize >}}
 ## operator - {#op_subtraction}
 
-翻译一个[`PointF`](../)由给定的负[`Size`](../../size/) .
+通过给定 [`Size`](../../size/) 的相反值平移 [`PointF`](../)。
 
 ```csharp
 public static PointF operator -(PointF point, Size size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../)翻译。 |
-| size | Size | A[`Size`](../../size/)指定要从 x 和 y 坐标中减去的数字*point*. |
+| point | PointF | 一个用于平移的 [`PointF`](../)。 |
+| size | Size | 一个 [`Size`](../../size/)，指定从 *point* 的 x 和 y 坐标中减去的数值。 |
 
 ### 返回值
 
-翻译的[`PointF`](../).
+平移后的 [`PointF`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator - {#op_subtraction_1}
 
-翻译一个[`PointF`](../)由一个指定的负面[`SizeF`](../../sizef/) .
+通过指定的 [`SizeF`](../../sizef/) 的负值平移 [`PointF`](../)。
 
 ```csharp
 public static PointF operator -(PointF point, SizeF size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 这[`PointF`](../)翻译。 |
-| size | SizeF | 这[`SizeF`](../../sizef/)指定要从的坐标中减去的数字*point*. |
+| point | PointF | 要平移的 [`PointF`](../)。 |
+| size | SizeF | 指定从 *point* 坐标中减去的数值的 [`SizeF`](../../sizef/)。 |
 
 ### 返回值
 
-翻译的[`PointF`](../).
+平移后的 [`PointF`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance
-second_title: Aspose.PSD for .NET API 参考
-description: ColorBalanceAdjustmentLayer 财产. 获取或设置阴影青色红色平衡
+title: "ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorBalanceAdjustmentLayer 属性。获取或设置 Shadows Cyan Red Balance"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance property
 
-获取或设置阴影青色红色平衡。
+获取或设置 Shadows Cyan Red 平衡。
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-阴影青色红色平衡。
+该 Shadows Cyan Red Balance。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 阴影青色红色平衡必须在 -100 到 +100 的范围内。 |
+| ArgumentOutOfRangeException | Shadows Cyan Red Balance 必须在 -100 到 +100 的范围内。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 ColorBalanceAdjustmentLayer 的支持。
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

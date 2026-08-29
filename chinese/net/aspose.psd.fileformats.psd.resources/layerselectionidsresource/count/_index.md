@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Aspose.PSD for .NET API 参考
-description: LayerSelectionIdsResource 财产. 获取或设置计数
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerSelectionIdsResource 属性。获取或设置计数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
 获取或设置计数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/coun
 public short Count { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerSelectionIdsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

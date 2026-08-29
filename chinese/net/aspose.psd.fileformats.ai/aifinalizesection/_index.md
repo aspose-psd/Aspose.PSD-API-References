@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection 班级. Ai格式Finalize Section
+title: "类 AiFinalizeSection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection 类。Ai 格式终结部分"
 type: docs
-weight: 1230
+weight: 1240
 url: /zh/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Ai格式Finalize Section
+Ai 格式完成段
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiFinalizeSection : AiSection
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | 获取字符串数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [AiSection](../aisection/)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

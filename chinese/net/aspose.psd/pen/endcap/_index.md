@@ -1,34 +1,35 @@
 ---
-title: Pen.EndCap
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置用此绘制的线条末端使用的帽样式Pen .
+title: "Pen.EndCap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen属性。获取或设置使用此Pen绘制的线段末端的端帽样式。"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/pen/endcap/
 ---
+{{< psd/tize >}}
 ## Pen.EndCap property
 
-获取或设置用此绘制的线条末端使用的帽样式[`Pen`](../) .
+获取或设置使用此[`Pen`](../)绘制的线段末端的端帽样式。
 
 ```csharp
 public LineCap EndCap { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-中的一个[`LineCap`](../../linecap/)表示用此绘制的线条末尾使用的帽样式的值[`Pen`](../).
+[`LineCap`](../../linecap/)值之一，表示使用此[`Pen`](../)绘制的线段末端的端帽样式。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`EndCap`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `EndCap`属性在不可变的[`Pen`](../)上设置，例如由[`Pen`](../)类返回的对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

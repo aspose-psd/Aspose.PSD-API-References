@@ -1,27 +1,28 @@
 ---
-title: PsdImage.ReplaceNonTransparentColors
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 用新颜色替换所有非透明颜色并保留原始 alpha 值以保存平滑边缘 注意如果您在没有透明度的图像上使用它所有颜色将被替换为一个颜色
+title: "PsdImage.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。将所有非透明颜色替换为新颜色，并保留原始 alpha 值以保持平滑边缘。注意，如果在没有透明度的图像上使用，它会将所有颜色替换为单一颜色。"
 type: docs
-weight: 580
+weight: 640
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceNonTransparentColors method
 
-用新颜色替换所有非透明颜色并保留原始 alpha 值以保存平滑边缘。 注意：如果您在没有透明度的图像上使用它，所有颜色将被替换为一个颜色。
+将所有非透明颜色替换为新颜色，并保留原始 alpha 值以保持平滑边缘。注意：如果在没有透明度的图像上使用，它会将所有颜色替换为单一颜色。
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newColorArgb | Int32 | 用于替换非透明颜色的新颜色 ARGB 值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

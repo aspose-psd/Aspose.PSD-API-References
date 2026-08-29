@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD for .NET API 参考
-description: PlacedResource 财产. 获取PSD文件中放置图层的版本通常为3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PlacedResource 属性。获取 PSD 文件中已放置图层的版本，通常为 3"
 type: docs
-weight: 210
+weight: 200
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-获取PSD文件中放置图层的版本，通常为3.
+获取 PSD 文件中已放置图层的版本，通常为 3。
 
 ```csharp
 public int Version { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-放置层版本.
+已放置图层的版本。
 
-### 也可以看看
+### 另请参阅
 
 * class [PlacedResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord 班级. 贝塞尔结记录类
+title: "类 BezierKnotRecord"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord 类。Bezier Knot Record 类用于从资源读取/写入 Bezier 结点数据。"
 type: docs
-weight: 1330
+weight: 1340
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-贝塞尔结记录类
+Bezier Knot Record 类，用于从资源读取/写入 Bezier 节点数据。
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -16,25 +17,25 @@ public class BezierKnotRecord : VectorPathRecord
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | 初始化一个新的实例`BezierKnotRecord`类. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | 初始化一个新的实例`BezierKnotRecord`类. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | 初始化 `BezierKnotRecord` 类的新实例。 |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | 初始化 `BezierKnotRecord` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | 获取或设置一个值，指示此实例是否已关闭。 |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | 获取或设置一个值，指示此实例是否链接。 |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | 获取或设置一个值，指示此实例是否打开。 |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | 获取或设置一个值，指示此实例是否闭合。 |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | 获取或设置一个值，指示此实例是否已链接。 |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | 获取或设置一个值，指示此实例是否已打开。 |
 | [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | 获取或设置路径点。 |
 | [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | 获取或设置点。 |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | 获取类型。 |
 
-### 例子
+## 示例
 
-下面的例子演示了对 VmskResource 资源加载的支持。如何编辑路径。
+以下示例演示了 VmskResource 资源加载的支持。路径编辑的工作方式。
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // 阅读
+        // 读取
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // 路径填充规则不包含任何附加信息
+        // 路径填充规则不包含任何额外信息
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-以下示例演示了对 VsmsResource 资源加载的支持。如何编辑路径。
+以下示例演示了 VsmsResource 资源加载的支持。路径编辑的工作方式。
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ public void TestPsdNet140()
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // 阅读
+        // 读取
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // 路径填充规则不包含任何附加信息
+        // 路径填充规则不包含任何额外信息
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

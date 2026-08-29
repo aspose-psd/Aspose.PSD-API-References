@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD for .NET API 参考
-description: ColorantLab 财产. 获取或设置 A 组件
+title: "ColorantLab.A"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorantLab 属性。获取或设置 A 分量"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
-获取或设置 A 组件。
+获取或设置 A 分量。
 
 ```csharp
 public int A { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A 组件。
+A 分量。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantLab](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

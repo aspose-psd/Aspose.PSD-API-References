@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Aspose.PSD for .NET API 参考
-description: GradientColorPoint 财产. 获取或设置梯度上的点位置
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientColorPoint 属性. 获取或设置梯度上的点位置"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-获取或设置梯度上的点位置。
+获取或设置渐变上的点位置。
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientColorPoint](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

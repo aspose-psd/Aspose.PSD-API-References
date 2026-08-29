@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取图层选项
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取图层选项"
 type: docs
-weight: 230
+weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
 获取图层选项。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 public PsdOptions LayerOptions { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图层选项.
+图层选项。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDate 财产. 获取当前值的格式字符串
+title: "XmpDate.Format"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDate 属性。获取当前值的格式字符串"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 获取当前值的格式字符串。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.basic/xmpdate/format/
 public string Format { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 当前值的格式字符串。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDate](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

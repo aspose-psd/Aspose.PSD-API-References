@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.DataSize
-second_title: Aspose.PSD for .NET API 参考
-description: DocumentSpecificIdsResource 财产. 获取以字节为单位的资源数据大小
+title: "DocumentSpecificIdsResource.DataSize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DocumentSpecificIdsResource 属性。获取资源数据大小（字节）"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.DataSize property
 
-获取以字节为单位的资源数据大小。
+获取资源数据的字节大小。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 资源数据大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [DocumentSpecificIdsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

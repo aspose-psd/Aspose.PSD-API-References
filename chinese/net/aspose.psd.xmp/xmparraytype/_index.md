@@ -1,30 +1,31 @@
 ---
-title: Enum XmpArrayType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.XmpArrayType 枚举. 代表数组类型inXmpArray .
+title: "枚举 XmpArrayType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.XmpArrayType 枚举。表示 XmpArray 中的数组类型"
 type: docs
-weight: 6230
+weight: 6730
 url: /zh/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-代表数组类型in[`XmpArray`](../xmparray/) .
+表示 [`XmpArray`](../xmparray/) 中的数组类型。
 
 ```csharp
 public enum XmpArrayType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | UNORDERED | `0` | 无序数组。 |
 | ORDERED | `1` | 有序数组。 |
-| ALTERNATIVE | `2` | 替代数组。 |
+| ALTERNATIVE | `2` | 备选数组。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

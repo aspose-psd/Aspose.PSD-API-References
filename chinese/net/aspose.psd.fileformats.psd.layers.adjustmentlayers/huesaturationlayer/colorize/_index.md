@@ -1,27 +1,28 @@
 ---
-title: HueSaturationLayer.Colorize
-second_title: Aspose.PSD for .NET API 参考
-description: HueSaturationLayer 财产. 获取或设置一个值指示是否这HueSaturationLayer是 colorize.
+title: "HueSaturationLayer.Colorize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "HueSaturationLayer 属性。获取或设置一个值，指示此 HueSaturationLayer 是否为彩色化"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Colorize property
 
-获取或设置一个值，指示是否这[`HueSaturationLayer`](../)是 colorize.
+获取一个值，指示此 [`HueSaturationLayer`](../) 是否为彩色化。
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果着色；否则，`错误的` .
+`true` 表示彩色化；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [HueSaturationLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

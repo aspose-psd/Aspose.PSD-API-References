@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD for .NET API 参考
-description: FontSettings 方法. 获取最合适的替换字体 如果不允许所有替换则将返回第一个允许和可用的字体 如果没有可用字体则将从参数 返回字体
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FontSettings 方法。获取最合适的替代字体。如果所有替代字体均不被允许，则返回第一个允许且可用的字体。如果没有可用的字体，则返回参数中提供的字体。"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-获取最合适的替换字体。 如果不允许所有替换，则将返回第一个允许和可用的字体。 如果没有可用字体，则将从参数 返回字体
+获取最合适的替代字体。如果所有替代字体均不被允许，则返回第一个允许且可用的字体。如果没有可用的字体，则返回参数中的字体。
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | String | 字体名称。 |
+| fontName | String | 字体的名称。 |
 
 ### 返回值
 
-替换字体的名称
+被替换字体的名称
 
-### 例子
+## 示例
 
-以下代码演示了以编程方式限制字体使用的能力。
+以下代码演示了使用编程方式限制字体的能力。
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FontSettings](../)
-* 命名空间 [Aspose.PSD](../../fontsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

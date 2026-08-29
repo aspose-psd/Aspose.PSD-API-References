@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 方法. 比较两个PointF结构结果指定的值是否X和Y两者的属性PointF结构相等.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 方法。比较两个 PointF 结构。结果指示两个 PointF 结构的 X 和 Y 属性值是否相等。"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-比较两个[`PointF`](../)结构。结果指定的值是否[`X`](../x/)和[`Y`](../y/)两者的属性[`PointF`](../)结构相等.
+比较两个 [`PointF`](../) 结构。结果指示两个 [`PointF`](../) 结构的 [`X`](../x/) 和 [`Y`](../y/) 属性值是否相等。
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point1 | PointF | 第一[`PointF`](../)比较。 |
-| point2 | PointF | 一秒[`PointF`](../)比较。 |
+| point1 | PointF | 要比较的第一个 [`PointF`](../)。 |
+| point2 | PointF | 要比较的第二个 [`PointF`](../)。 |
 
 ### 返回值
 
-如果[`X`](../x/)和[`Y`](../y/)第一和第二的值[`PointF`](../)结构是平等的；否则，假的。
+如果第一个和第二个 [`PointF`](../) 结构的 [`X`](../x/) 和 [`Y`](../y/) 值相等，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

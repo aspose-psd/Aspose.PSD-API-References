@@ -1,32 +1,33 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: Aspose.PSD for .NET API 参考
-description: IImageCreatorDescriptor 方法. 确定图像创建者是否可以使用imageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IImageCreatorDescriptor 方法。确定图像创建器是否可以使用 imageOptions 创建新图像"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-确定图像创建者是否可以使用*imageOptions* .
+确定图像创建器是否可以使用 *imageOptions* 创建新图像。
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | 图像选项。 |
 
 ### 返回值
 
-`真的`如果由此描述符创建的图像创建者可以使用指定的创建图像数据*imageOptions*;否则，`错误的` .
+`True` 表示由此描述符创建的图像创建器可以使用指定的 *imageOptions* 创建图像数据；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* 命名空间 [Aspose.PSD](../../iimagecreatordescriptor/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

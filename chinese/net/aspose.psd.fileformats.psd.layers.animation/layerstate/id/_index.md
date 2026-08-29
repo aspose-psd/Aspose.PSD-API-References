@@ -1,23 +1,24 @@
 ---
-title: LayerState.Id
-second_title: Aspose.PSD for .NET API 参考
-description: LayerState 财产. 获取或设置 id.
+title: "LayerState.Id"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerState property. 获取或设置图层 ID"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 ---
+{{< psd/tize >}}
 ## LayerState.Id property
 
-获取或设置 id.
+获取或设置图层 ID。
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerState](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clip
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 财产. 获取或设置剪辑区域
+title: "Graphics.Clip"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 属性。获取或设置剪裁区域"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
 获取或设置剪辑区域。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/graphics/clip/
 public Region Clip { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-剪辑区域。
+剪裁区域。
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

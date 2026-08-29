@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveArgb32Pixels
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 保存 32 位 ARGB 像素
+title: "RasterImage.SaveArgb32Pixels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。保存 32 位 ARGB 像素"
 type: docs
-weight: 500
+weight: 510
 url: /zh/net/aspose.psd/rasterimage/saveargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveArgb32Pixels method
 
 保存 32 位 ARGB 像素。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd/rasterimage/saveargb32pixels/
 public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 要将像素保存到的矩形。 |
-| pixels | Int32[] | 32 位 ARGB 像素阵列。 |
+| 矩形 | Rectangle | 用于保存像素的矩形。 |
+| 像素 | Int32[] | 32 位 ARGB 像素数组。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

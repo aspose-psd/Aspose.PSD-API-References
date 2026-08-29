@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Aspose.PSD for .NET API 参考
-description: ClblResource 财产. 获取或设置一个值指示是否混合剪裁元素.
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ClblResource 属性。获取或设置指示是否混合裁剪元素的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-获取或设置一个值，指示是否[混合剪裁元素].
+获取或设置一个值，指示是否 [blend clipped elements]。
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[混合剪裁元素]；否则，`错误的` .
+`true` 如果 [blend clipped elements]；否则，`false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ClblResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

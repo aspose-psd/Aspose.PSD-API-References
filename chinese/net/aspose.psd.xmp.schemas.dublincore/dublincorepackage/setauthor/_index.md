@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD for .NET API 参考
-description: DublinCorePackage 方法. 添加作者
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DublinCorePackage 方法。添加作者"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 添加作者。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 public void SetAuthor(string author)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| author | String | 作者。 |
+| 作者 | String | 作者。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetAuthor(string author)
 public void SetAuthor(string[] author)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| author | String[] | 作者。 |
+| 作者 | String[] | 作者。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

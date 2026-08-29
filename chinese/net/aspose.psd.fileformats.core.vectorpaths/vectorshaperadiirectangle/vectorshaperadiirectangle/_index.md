@@ -1,11 +1,12 @@
 ---
-title: VectorShapeRadiiRectangle.VectorShapeRadiiRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeRadiiRectangle 构造函数. 默认构造函数
+title: "VectorShapeRadiiRectangle.VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeRadiiRectangle 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/v
 public VectorShapeRadiiRectangle()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeRadiiRectangle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

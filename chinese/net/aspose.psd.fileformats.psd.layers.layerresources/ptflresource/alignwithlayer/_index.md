@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.AlignWithLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PtFlResource 财产. 获取或设置一个值该值指示是否与图层对齐
+title: "PtFlResource.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PtFlResource 属性。获取或设置指示是否与图层对齐的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.AlignWithLayer property
 
-获取或设置一个值，该值指示是否[与图层对齐]。
+获取或设置一个值，指示是否 [align with layer]。
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[与层对齐]；否则，`错误的` .
+`true` 如果 [align with layer]；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对加载和编辑 PtFlResource 资源的支持。
+以下示例演示了对 PtFlResource 资源的加载和编辑支持。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // 阅读
+                    // 读取
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // 我们在 PattResource 中没有模式数据，所以我们可以添加它。
+                    // 我们在 PattResource 中没有图案数据，因此可以添加它。
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PtFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.PixelFormat
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取像素格式
+title: "PixelDataFormat.PixelFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取像素格式。"
 type: docs
 weight: 340
 url: /zh/net/aspose.psd/pixeldataformat/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.PixelFormat property
 
 获取像素格式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/pixeldataformat/pixelformat/
 public PixelFormat PixelFormat { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-像素格式。
+该像素格式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [PixelFormat](../../pixelformat/)
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD for .NET API 参考
-description: Rational 构造函数. 初始化一个新的实例Rational类.
+title: "Rational.Rational"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rational 构造函数。初始化 Rational 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-初始化一个新的实例[`Rational`](../)类.
+初始化 [`Rational`](../) 类的新实例。
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| numerator | Int32 | 分子。 |
-| denominator | Int32 | 分母。 |
+| 分子 | Int32 | 分子。 |
+| denominator | Int32 | denominator。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | numerator;Numberator should be grater zero. or denominator;Denominator should be grater zero. |
+| ArgumentOutOfRangeException | numerator;Numberator 应大于零。或 denominator;Denominator 应大于零。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Rational](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

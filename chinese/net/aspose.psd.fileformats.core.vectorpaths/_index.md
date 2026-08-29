@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含 PSD 矢量路径
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含 PSD 矢量路径"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-命名空间包含 PSD 矢量路径。
+{{< psd/tize >}}
+该命名空间包含 PSD 矢量路径。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | 贝塞尔结记录类 |
-| [ClipboardRecord](./clipboardrecord/) | 剪贴板记录类 |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | 初始填充规则记录类 |
-| [LengthRecord](./lengthrecord/) | 子路径长度记录类 |
-| [PathFillRuleRecord](./pathfillrulerecord/) | 路径填充规则记录类 |
-| [VectorPathRecord](./vectorpathrecord/) | 矢量路径记录类 |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | 向量路径记录工厂类 |
+| [BezierKnotRecord](./bezierknotrecord/) | Bezier Knot Record 类，用于从资源读取/写入 Bezier 节点数据。 |
+| [ClipboardRecord](./clipboardrecord/) | Clipboard Record 类 |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | Initial Fill Rule Record 类 |
+| [LengthRecord](./lengthrecord/) | Subpath Length Record 类。 |
+| [PathFillRuleRecord](./pathfillrulerecord/) | Path Fill Rule Record 类 |
+| [VectorPathRecord](./vectorpathrecord/) | Vector Path Record 类 |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory 类。 |
 | [VectorShapeBoundingBox](./vectorshapeboundingbox/) | 定义矢量形状边界框类。 |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | 矢量形状起源设置。 |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | 矢量形状起始设置。 |
 | [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | 定义矢量形状半径矩形类 |
-| [VectorShapeTransform](./vectorshapetransform/) | 定义矢量形状变换矩阵class |
+| [VectorShapeTransform](./vectorshapetransform/) | 定义矢量形状变换矩阵类 |
 ## 接口
 
-| 界面 | 描述 |
+| 接口 | 描述 |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata/) | 访问矢量路径数据的接口。 |
+| [IVectorPathData](./ivectorpathdata/) | 用于访问矢量路径数据的接口。 |
 ## 枚举
 
 | 枚举 | 描述 |

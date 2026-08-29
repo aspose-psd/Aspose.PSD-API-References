@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD for .NET API 参考
-description: AsyncTaskException 构造函数. 初始化一个新的实例AsyncTaskException类.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AsyncTaskException 构造函数。初始化 AsyncTaskException 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-初始化一个新的实例[`AsyncTaskException`](../)类.
+初始化一个 [`AsyncTaskException`](../) 类的新实例。
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 描述错误的消息。 |
+| 消息 | String | 描述错误的消息。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [AsyncTaskException](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

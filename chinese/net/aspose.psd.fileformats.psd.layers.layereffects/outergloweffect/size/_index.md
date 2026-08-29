@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD for .NET API 参考
-description: OuterGlowEffect 财产. 获取以像素为单位的模糊值
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OuterGlowEffect 属性。获取以像素为单位的模糊值"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
 获取以像素为单位的模糊值。
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-尺寸。
+大小。
 
-### 例子
+## 示例
 
-以下代码演示了 OuterGlowEffect 支持。
+以下代码演示了对 OuterGlowEffect 的支持。
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [OuterGlowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

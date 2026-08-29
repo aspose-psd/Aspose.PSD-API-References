@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ScaledQuality
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 缩放后的质量
+title: "JpegOptions.ScaledQuality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。缩放质量"
 type: docs
-weight: 190
+weight: 200
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ScaledQuality property
 
 缩放后的质量。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 public int ScaledQuality { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

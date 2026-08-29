@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API 参考
-description: RasterCachedImage 方法. 调整图像的亮度
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterCachedImage 方法。调整图像亮度"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
 调整图像的亮度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/rastercachedimage/adjustbrightness/
 public override void AdjustBrightness(int brightness)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brightness | Int32 | 亮度值。 |
+| 亮度 | Int32 | 亮度值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

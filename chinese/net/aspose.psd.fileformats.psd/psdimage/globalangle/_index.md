@@ -1,11 +1,12 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取或设置全局角度
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。获取或设置全局角度"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
 获取或设置全局角度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 public int GlobalAngle { get; set; }
 ```
 
-### 例子
+## 示例
 
-以下代码演示了对 PsdImage.GlobalAngle 属性的支持以更改全局角度值。
+以下代码演示了对 PsdImage.GlobalAngle 属性的支持，以更改全局角度值。
 
 ```csharp
 [C#]
 
-// 当 DropShadowEffect.UseGlobalLight 属性为“true”时，DropShadowEffect 对象使用 PsdImage.GlobalAngle 属性中的角度值。
+// 当 DropShadowEffect.UseGlobalLight 属性为 'true' 时，DropShadowEffect 对象将使用来自 PsdImage.GlobalAngle 属性的角度值。
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

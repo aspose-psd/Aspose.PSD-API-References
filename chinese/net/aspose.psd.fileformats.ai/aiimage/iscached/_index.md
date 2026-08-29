@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取对象数据当前是否缓存不需要读取数据的值
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取一个值，指示对象的数据当前是否已缓存且无需读取数据"
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-获取对象数据当前是否缓存，不需要读取数据的值。
+获取一个值，指示对象的数据当前是否已缓存且无需读取数据。
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果对象的数据被缓存；否则，`错误的` .
+`true` 表示对象的数据已缓存；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

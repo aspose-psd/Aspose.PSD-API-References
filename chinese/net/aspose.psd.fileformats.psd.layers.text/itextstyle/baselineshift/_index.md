@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 基线偏移
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。基线偏移"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
 基线偏移。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 public double BaselineShift { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ImageFilterType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageFilterType 枚举. 要使用的图像过滤器
+title: "枚举 ImageFilterType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageFilterType 枚举。要使用的图像过滤器"
 type: docs
-weight: 4640
+weight: 5110
 url: /zh/net/aspose.psd/imagefiltertype/
 ---
+{{< psd/tize >}}
 ## ImageFilterType enumeration
 
 要使用的图像过滤器
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd/imagefiltertype/
 public enum ImageFilterType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 未使用过滤器 |
 | BigRectangular | `1` | 大矩形过滤器 |
 | SmallRectangular | `2` | 小矩形过滤器 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

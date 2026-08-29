@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD for .NET API 参考
-description: IAsyncTask 方法. 运行此任务
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IAsyncTask 方法。运行此任务"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 运行此任务。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.asynctask/iasynctask/runasync/
 public void RunAsync()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAsyncTask](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ public void RunAsync()
 public void RunAsync(ThreadPriority priority)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| priority | ThreadPriority | 线程优先级。 |
+| 优先级 | ThreadPriority | 线程的优先级。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAsyncTask](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

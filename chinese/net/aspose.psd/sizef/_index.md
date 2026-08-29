@@ -1,14 +1,15 @@
 ---
-title: Struct SizeF
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.SizeF 结构. 存储一对有序的浮点数通常是矩形的宽度和高度
+title: "结构体 SizeF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.SizeF 结构体。存储一对有序的浮点数，通常表示矩形的宽度和高度。"
 type: docs
-weight: 5560
+weight: 6060
 url: /zh/net/aspose.psd/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF structure
 
-存储一对有序的浮点数，通常是矩形的宽度和高度。
+存储一对有序的浮点数，通常表示矩形的宽度和高度。
 
 ```csharp
 public struct SizeF
@@ -16,41 +17,41 @@ public struct SizeF
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | 初始化一个新的实例`SizeF`从指定的结构[`PointF`](../pointf/) . |
-| [SizeF](sizef/#constructor_1)(SizeF) | 初始化一个新的实例`SizeF`从指定的结构`SizeF` . |
-| [SizeF](sizef/#constructor_2)(float, float) | 初始化一个新的实例`SizeF`指定尺寸的结构. |
+| [SizeF](sizef/#constructor)(PointF) | 从指定的 [`PointF`](../pointf/) 初始化 `SizeF` 结构的新实例。 |
+| [SizeF](sizef/#constructor_1)(SizeF) | 从指定的 `SizeF` 初始化 `SizeF` 结构的新实例。 |
+| [SizeF](sizef/#constructor_2)(float, float) | 从指定的尺寸初始化 `SizeF` 结构的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty/) { get; } | 获取一个新的实例`SizeF`具有的结构[`Width`](./width/)和[`Height`](./height/)值设置为零. |
-| [Height](../../aspose.psd/sizef/height/) { get; set; } | 获取或设置此的垂直分量`SizeF` . |
-| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | 获取一个值，指示是否这`SizeF`宽度和高度为零. |
-| [Width](../../aspose.psd/sizef/width/) { get; set; } | 获取或设置这个的水平分量`SizeF` . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | 获取一个 `SizeF` 结构的新实例，其 [`Width`](./width/) 和 [`Height`](./height/) 值设为零。 |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | 获取或设置此 `SizeF` 的垂直分量。 |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | 获取一个值，指示此 `SizeF` 的宽度和高度是否为零。 |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | 获取或设置此 `SizeF` 的水平分量。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | 加一个宽高`SizeF`结构到另一个的宽度和高度`SizeF`结构. |
-| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | 宽高减一`SizeF`另一个结构的宽度和高度`SizeF`结构. |
-| override [Equals](../../aspose.psd/sizef/equals/)(object) | 测试指定对象是否是`SizeF`与此尺寸相同`SizeF` . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | 返回一个散列码[`Size`](../size/)结构. |
-| [ToPointF](../../aspose.psd/sizef/topointf/)() | 转换一个`SizeF`到一个[`PointF`](../pointf/) . |
-| [ToSize](../../aspose.psd/sizef/tosize/)() | 转换一个`SizeF`到一个[`Size`](../size/)具有截断大小值的结构. |
-| override [ToString](../../aspose.psd/sizef/tostring/)() | 创建一个人类可读的字符串来表示这个`SizeF` . |
-| [operator +](../../aspose.psd/sizef/op_addition/) | 加一个宽高`SizeF`结构到另一个的宽度和高度`SizeF`结构. |
-| [operator ==](../../aspose.psd/sizef/op_equality/) | 测试是否两个`SizeF`结构相等. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit/) | 转换指定的`SizeF`到一个[`PointF`](../pointf/) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality/) | 测试是否两个`SizeF`结构不同. |
-| [operator -](../../aspose.psd/sizef/op_subtraction/) | 宽高减一`SizeF`另一个结构的宽度和高度`SizeF`结构. |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | 将一个 `SizeF` 结构的宽度和高度添加到另一个 `SizeF` 结构的宽度和高度。 |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | 从另一个 `SizeF` 结构的宽度和高度中减去一个 `SizeF` 结构的宽度和高度。 |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | 测试指定的对象是否为具有与此 `SizeF` 相同尺寸的 `SizeF`。 |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | 返回此 [`Size`](../size/) 结构的哈希码。 |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | 将 `SizeF` 转换为 [`PointF`](../pointf/)。 |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | 将 `SizeF` 转换为具有截断尺寸值的 [`Size`](../size/) 结构。 |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | 创建一个可读的字符串，表示此 `SizeF`。 |
+| [operator +](../../aspose.psd/sizef/op_addition/) | 将一个 `SizeF` 结构的宽度和高度添加到另一个 `SizeF` 结构的宽度和高度。 |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | 测试两个 `SizeF` 结构是否相等。 |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | 将指定的 `SizeF` 转换为 [`PointF`](../pointf/)。 |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | 测试两个 `SizeF` 结构是否不同。 |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | 从另一个 `SizeF` 结构的宽度和高度中减去一个 `SizeF` 结构的宽度和高度。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

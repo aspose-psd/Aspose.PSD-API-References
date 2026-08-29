@@ -1,28 +1,29 @@
 ---
-title: LineSegment.EndPoint
-second_title: Aspose.PSD for .NET API 参考
-description: LineSegment 财产. 获取终点
+title: "LineSegment.EndPoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LineSegment 属性。获取结束点。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.shapesegments/linesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.EndPoint property
 
-获取终点。
+获取结束点。
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-终点。
+结束点。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* 命名空间 [Aspose.PSD.ShapeSegments](../../linesegment/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

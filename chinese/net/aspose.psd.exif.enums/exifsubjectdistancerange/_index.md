@@ -1,31 +1,32 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange 枚举. exif 主题距离范围枚举.
+title: "枚举 ExifSubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange 枚举。exif 主体距离范围枚举"
 type: docs
-weight: 950
+weight: 960
 url: /zh/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif 主题距离范围枚举.
+exif 主体距离范围枚举。
 
 ```csharp
 public enum ExifSubjectDistanceRange
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 未知的主体距离范围 |
+| Unknown | `0` | 未知主体距离范围 |
 | Macro | `1` | 宏观范围 |
-| CloseView | `2` | 关闭视图。 |
-| DistantView | `3` | 远景. |
+| CloseView | `2` | 近距离视图。 |
+| DistantView | `3` | 远距离视图。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

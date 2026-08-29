@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取有效标签计数这不是标签总数而是可以保留的标签数
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取有效标签计数。这不是标签的总计数，而是可能被保留的标签数量"
 type: docs
-weight: 570
+weight: 580
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-获取有效标签计数。这不是标签总数，而是可以保留的标签数。
+获取有效标签计数。这不是标签的总计数，而是可能被保留的标签数量。
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 有效标签计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

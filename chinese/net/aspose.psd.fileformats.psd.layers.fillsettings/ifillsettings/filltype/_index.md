@@ -1,28 +1,29 @@
 ---
-title: IFillSettings.FillType
-second_title: Aspose.PSD for .NET API 参考
-description: IFillSettings 财产. 获取填充类型
+title: "IFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IFillSettings 属性. 获取填充的类型"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## IFillSettings.FillType property
 
-获取填充类型。
+获取填充的类型。
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-填充类型。
+填充的类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [FillType](../../filltype/)
 * interface [IFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ifillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

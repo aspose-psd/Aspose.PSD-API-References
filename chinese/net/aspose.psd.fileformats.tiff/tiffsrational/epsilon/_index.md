@@ -1,23 +1,24 @@
 ---
-title: TiffSRational.Epsilon
-second_title: Aspose.PSD for .NET API 参考
-description: TiffSRational 场地. 分数计算的 epsilon
+title: "TiffSRational.Epsilon"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffSRational 字段。用于分数计算的 epsilon"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.tiff/tiffsrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Epsilon field
 
-分数计算的 epsilon
+用于分数计算的 epsilon 值
 
 ```csharp
 public const double Epsilon;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

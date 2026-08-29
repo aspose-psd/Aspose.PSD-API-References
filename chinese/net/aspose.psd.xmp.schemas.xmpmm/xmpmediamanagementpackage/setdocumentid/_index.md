@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDocumentId
-second_title: Aspose.PSD for .NET API 参考
-description: XmpMediaManagementPackage 方法. 设置文档标识符
+title: "XmpMediaManagementPackage.SetDocumentId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpMediaManagementPackage 方法。设置文档标识符"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumentid/
 ---
+{{< psd/tize >}}
 ## SetDocumentId(Guid) {#setdocumentid}
 
 设置文档标识符。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setdocumenti
 public void SetDocumentId(Guid guid)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | guid | Guid | 唯一标识符。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMediaManagementPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetDocumentId(Guid guid)
 public void SetDocumentId(string guid)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | guid | String | 唯一标识符。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMediaManagementPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class PropertyStructure
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PropertyStructure 班级. 属性结构
+title: "类 PropertyStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PropertyStructure 类。属性结构。"
 type: docs
-weight: 3230
+weight: 3620
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure class
 
 属性结构。
@@ -16,39 +17,39 @@ public sealed class PropertyStructure : OSTypeStructure
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PropertyStructure](propertystructure/)(ClassID, ClassID, ClassID) | 初始化一个新的实例`PropertyStructure`类. |
+| [PropertyStructure](propertystructure/)(ClassID, ClassID, ClassID) | 初始化 `PropertyStructure` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classid/) { get; set; } | 获取或设置类 ID。 |
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classname/) { get; set; } | 获取或设置类名。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/key/) { get; } | 获取结构键。 |
-| [KeyID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/) { get; set; } | 获取或设置密钥 ID。 |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 获取或设置键名。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/) { get; } | 获取[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)字节长度. |
+| [KeyID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/) { get; set; } | 获取或设置键 ID。 |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | 获取或设置键名称。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/length/) { get; } | 获取 [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 的字节长度。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 获取标头长度。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | 获取标题长度。 |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 将结构保存到指定的流容器中。 |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 将结构保存到指定的流容器中。 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/) | 标识结构键。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/structurekey/) | 识别结构键。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

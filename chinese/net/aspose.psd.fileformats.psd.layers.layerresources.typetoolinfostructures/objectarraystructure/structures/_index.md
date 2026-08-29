@@ -1,11 +1,12 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD for .NET API 参考
-description: ObjectArrayStructure 财产. 获取或设置结构数组的副本
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ObjectArrayStructure 属性。获取或设置结构数组的副本"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
 获取或设置结构数组的副本。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 对象数组结构中的子结构。
 
-### 例子
+## 示例
 
 以下代码演示了对 ObAr 和 UnFl 签名的支持。
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

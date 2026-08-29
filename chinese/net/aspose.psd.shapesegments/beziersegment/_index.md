@@ -1,14 +1,15 @@
 ---
-title: Class BezierSegment
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ShapeSegments.BezierSegment 班级. 从一个点到下一个点并使用两个控制点的贝塞尔曲线段
+title: "类 BezierSegment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ShapeSegments.BezierSegment 类。该贝塞尔段从一个点到下一个点，并使用两个控制点。"
 type: docs
-weight: 5440
+weight: 5940
 url: /zh/net/aspose.psd.shapesegments/beziersegment/
 ---
+{{< psd/tize >}}
 ## BezierSegment class
 
-从一个点到下一个点并使用两个控制点的贝塞尔曲线段。
+贝塞尔段从一个点到下一个点，并使用两个控制点。
 
 ```csharp
 public sealed class BezierSegment : LineSegment
@@ -16,23 +17,23 @@ public sealed class BezierSegment : LineSegment
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | 初始化一个新的实例`BezierSegment`类. |
+| [BezierSegment](beziersegment/)(PointF, PointF, PointF, PointF) | 初始化 `BezierSegment` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 获取终点。 |
-| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | 获取贝塞尔曲线的第一个控制点。 |
-| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | 获取贝塞尔曲线的第二个控制点。 |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 获取起点。 |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 获取结束点。 |
+| [FirstControlPoint](../../aspose.psd.shapesegments/beziersegment/firstcontrolpoint/) { get; } | 获取贝塞尔样条的第一个控制点。 |
+| [SecondControlPoint](../../aspose.psd.shapesegments/beziersegment/secondcontrolpoint/) { get; } | 获取贝塞尔样条的第二个控制点。 |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 获取起始点。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LineSegment](../linesegment/)
-* 命名空间 [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

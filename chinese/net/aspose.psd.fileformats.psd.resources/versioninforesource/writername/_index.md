@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Aspose.PSD for .NET API 参考
-description: VersionInfoResource 财产. 获取或设置作者的姓名
+title: "VersionInfoResource.WriterName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VersionInfoResource 属性。获取或设置写入器的名称"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-获取或设置作者的姓名。
+获取或设置写入器的名称。
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-作者的名字。
+写入器的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [VersionInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

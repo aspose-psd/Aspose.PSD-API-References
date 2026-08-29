@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD for .NET API 参考
-description: DisposableObject 方法. 处理当前实例
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DisposableObject 方法。释放当前实例"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-处理当前实例。
+释放当前实例。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DisposableObject](../)
-* 命名空间 [Aspose.PSD](../../disposableobject/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LinkResource.DataSourceCount
-second_title: Aspose.PSD for .NET API 参考
-description: LinkResource 财产. 获取索引器可以访问的链接数据源的个数
+title: "LinkResource.DataSourceCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkResource 属性。获取可通过索引器访问的链接数据源的计数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/
 ---
+{{< psd/tize >}}
 ## LinkResource.DataSourceCount property
 
-获取索引器可以访问的链接数据源的个数。
+获取可通过索引器访问的链接数据源的计数。
 
 ```csharp
 public int DataSourceCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 数据源计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Units
-second_title: Aspose.PSD for .NET API 参考
-description: Dimensions 财产. 获取或设置单位
+title: "Dimensions.Units"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Dimensions 属性。获取或设置单位"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 ---
+{{< psd/tize >}}
 ## Dimensions.Units property
 
 获取或设置单位。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 public string Units { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 单位。
 
-### 例子
+## 示例
 
-例如：inch, mm, pixel, pica, point etc.
+例如：英寸、毫米、像素、派卡、点等。
 
-### 也可以看看
+### 另请参阅
 
 * class [Dimensions](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

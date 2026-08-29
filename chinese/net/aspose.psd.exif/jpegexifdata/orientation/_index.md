@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置方向
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置方向"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
 获取或设置方向。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.exif/jpegexifdata/orientation/
 public ExifOrientation Orientation { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 方向。
 
-### 也可以看看
+### 另请参阅
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

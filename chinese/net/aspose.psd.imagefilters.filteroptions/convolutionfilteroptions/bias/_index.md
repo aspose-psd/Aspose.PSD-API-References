@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD for .NET API 参考
-description: ConvolutionFilterOptions 财产. 获取或设置偏差
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ConvolutionFilterOptions 属性。获取或设置偏差"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
-获取或设置偏差。
+获取或设置偏置。
 
 ```csharp
 public int Bias { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-偏差.
+偏差。
 
-### 也可以看看
+### 另请参阅
 
 * class [ConvolutionFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

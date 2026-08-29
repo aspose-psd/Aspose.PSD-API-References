@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Grayscale
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 将图像转换为灰度表示
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。将图像转换为灰度表示"
 type: docs
-weight: 550
+weight: 610
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
 将图像转换为灰度表示
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 public override void Grayscale()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

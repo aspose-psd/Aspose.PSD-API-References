@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取PixelDataFormat定义为每像素 32 位每个亮度蓝色差异红色差异和黑色色度分量为 8 位
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取定义为每像素 32 位、每个亮度、蓝差、红差和黑色色度分量各占 8 位的 PixelDataFormat"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-获取[`PixelDataFormat`](../)定义为每像素 32 位，每个亮度、蓝色差异、红色差异和黑色色度分量为 8 位。
+获取定义为每像素 32 位、每个亮度、蓝差、红差和黑色色度分量各占 8 位的 [`PixelDataFormat`](../)。
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的[`PixelDataFormat`](../)定义为每像素 32 位，每个亮度、蓝色差异、红色差异和黑色色度分量为 8 位。
+定义为每像素 32 位，每个亮度、蓝差、红差和黑色色度分量各 8 位的 [`PixelDataFormat`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

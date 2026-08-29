@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.TextVersion
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfo6Resource 财产. 获取或设置文本版本
+title: "TypeToolInfo6Resource.TextVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfo6Resource 属性。获取或设置文本版本"
 type: docs
-weight: 130
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TextVersion property
 
 获取或设置文本版本。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resou
 public short TextVersion { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文字版.
+文本版本。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolInfo6Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

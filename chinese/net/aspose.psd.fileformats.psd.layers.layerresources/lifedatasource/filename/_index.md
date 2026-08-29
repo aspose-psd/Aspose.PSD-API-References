@@ -1,11 +1,12 @@
 ---
-title: LiFeDataSource.FileName
-second_title: Aspose.PSD for .NET API 参考
-description: LiFeDataSource 财产. 获取或设置 PSD 链接资源中外部或嵌入文件的名称
+title: "LiFeDataSource.FileName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LiFeDataSource 属性。获取或设置 PSD 链接资源中外部或嵌入文件的名称"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FileName property
 
 获取或设置 PSD 链接资源中外部或嵌入文件的名称。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fil
 public string FileName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 外部或嵌入文件的名称。
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 Psd LnkE 资源的属性。
 
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 此示例演示如何获取和设置包含有关外部链接文件信息的 Psd LnkE 资源的属性。
+// 此示例演示如何获取和设置包含外部链接文件信息的 Psd LnkE 资源的属性。
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -111,7 +112,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// 此示例演示如何获取和设置包含有关外部链接的 JPEG 文件的信息的 Psd LnkeResource 的属性。
+// 此示例演示如何获取和设置包含外部链接 JPEG 文件信息的 Psd LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -130,7 +131,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// 此示例演示如何获取和设置包含有关外部链接 PNG 文件的信息的 PSD LnkeResource 的属性。
+// 此示例演示如何获取和设置包含外部链接 PNG 文件信息的 PSD LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -149,7 +150,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// 此示例演示如何获取和设置 PSD LnkeResource 的属性，该资源包含有关两个外部链接的 PNG 和 PSD 文件的信息。
+// 此示例演示如何获取和设置包含两个外部链接 PNG 和 PSD 文件信息的 PSD LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -168,7 +169,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// 此示例演示如何获取和设置 Photoshop Psd LnkeResource 的属性，其中包含有关外部链接的 CC Libraries 资源的信息。
+// 此示例演示如何获取和设置包含外部链接 CC Libraries 资产信息的 Photoshop Psd LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -188,7 +189,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-下面的代码演示了 LnkeResource 资源的支持。
+以下代码演示了 LnkeResource 资源的支持。
 
 ```csharp
 [C#]
@@ -410,10 +411,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LiFeDataSource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

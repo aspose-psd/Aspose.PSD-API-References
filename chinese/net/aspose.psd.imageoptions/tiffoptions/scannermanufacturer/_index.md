@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置扫描仪制造商
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置扫描仪制造商"
 type: docs
-weight: 410
+weight: 420
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
 获取或设置扫描仪制造商。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 public string ScannerManufacturer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 扫描仪制造商。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

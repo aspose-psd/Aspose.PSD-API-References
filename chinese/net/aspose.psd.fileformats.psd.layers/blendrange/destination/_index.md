@@ -1,11 +1,12 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD for .NET API 参考
-description: BlendRange 财产. 获取或设置目标混合范围
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlendRange 属性。获取或设置目标混合范围"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
 获取或设置目标混合范围。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 public int Destination { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 目标混合范围。
 
-### 也可以看看
+### 另请参阅
 
 * class [BlendRange](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

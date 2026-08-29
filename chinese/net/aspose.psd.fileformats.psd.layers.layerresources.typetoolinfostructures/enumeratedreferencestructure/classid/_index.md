@@ -1,11 +1,12 @@
 ---
-title: EnumeratedReferenceStructure.ClassID
-second_title: Aspose.PSD for .NET API 参考
-description: EnumeratedReferenceStructure 财产. 获取或设置类 ID
+title: "EnumeratedReferenceStructure.ClassID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "EnumeratedReferenceStructure 属性。获取或设置类标识"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/classid/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.ClassID property
 
 获取或设置类 ID。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-类 ID.
+类标识。
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

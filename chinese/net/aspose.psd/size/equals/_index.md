@@ -1,31 +1,32 @@
 ---
-title: Size.Equals
-second_title: Aspose.PSD for .NET API 参考
-description: Size 方法. 测试指定对象是否是Size与此尺寸相同Size .
+title: "Size.Equals"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Size 方法。测试指定的对象是否为具有与此 Size 相同尺寸的 Size。"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/size/equals/
 ---
+{{< psd/tize >}}
 ## Size.Equals method
 
-测试指定对象是否是[`Size`](../)与此尺寸相同[`Size`](../) .
+测试指定的对象是否为具有与此 [`Size`](../) 相同尺寸的 [`Size`](../)。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 这Object去测试。 |
+| obj | Object | 要测试的对象。 |
 
 ### 返回值
 
-真如果*obj*是一个[`Size`](../)并且具有与此相同的宽度和高度[`Size`](../);否则，假的。
+如果 *obj* 是一个 [`Size`](../) 并且其宽度和高度与此 [`Size`](../) 相同，则返回 True；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../)
-* 命名空间 [Aspose.PSD](../../size/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

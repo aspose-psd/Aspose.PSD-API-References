@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 图像的伽马校正
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。 对图像进行伽马校正"
 type: docs
-weight: 460
+weight: 520
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 图像的伽马校正。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 public override void AdjustGamma(float gamma)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| gamma | Single | 红色、绿色和蓝色通道系数的 Gamma |
+| 伽马 | 单精度 | 红、绿、蓝通道的伽马系数 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public override void AdjustGamma(float gamma)
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| gammaRed | Single | 红色通道系数的伽玛 |
-| gammaGreen | Single | 绿色通道系数的伽玛 |
-| gammaBlue | Single | 蓝色通道系数的伽玛 |
+| gammaRed | 单精度 | 红色通道的伽马系数 |
+| gammaGreen | 单精度 | 绿色通道的伽马系数 |
+| gammaBlue | 单精度 | 蓝色通道的伽马系数 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

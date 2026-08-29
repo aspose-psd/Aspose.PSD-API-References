@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Aspose.PSD for .NET API 参考
-description: BlackWhiteAdjustmentLayer 财产. 获取或设置黑白预设种类值
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlackWhiteAdjustmentLayer 属性。获取或设置黑白预设类型值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-获取或设置黑白预设种类值。
+获取或设置黑白预设类型值。
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-黑白预设种类值。
+黑白预设类型值。
 
-### 例子
+## 示例
 
-以下示例演示了如何在 Aspose.PSD 中操作黑白调整图层属性
+以下示例演示了如何在 Aspose.PSD 中操作黑白调整层属性。
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

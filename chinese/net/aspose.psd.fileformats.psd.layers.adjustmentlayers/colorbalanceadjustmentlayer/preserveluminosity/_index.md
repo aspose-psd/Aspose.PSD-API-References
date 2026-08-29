@@ -1,24 +1,25 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD for .NET API 参考
-description: ColorBalanceAdjustmentLayer 财产. 获取或设置一个值指示是否这BlncResource保持亮度.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorBalanceAdjustmentLayer 属性。获取或设置一个值，指示此 BlncResource 是否保留亮度"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-获取或设置一个值，指示是否这[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/)保持亮度.
+获取或设置一个值，指示此 [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) 是否保留亮度。
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果它保持亮度；否则，`错误的` .
+`true` 表示保留亮度；否则为 `false`。
 
-### 例子
+## 示例
 
 以下代码演示了对 ColorBalanceAdjustmentLayer 的支持。
 
@@ -51,10 +52,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD for .NET API 参考
-description: BorderInformationResource 财产. 获取或设置边框宽度
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BorderInformationResource 属性。获取或设置边框宽度"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
 获取或设置边框宽度。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/borderinformationresource/widt
 public double Width { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下示例演示了 BorderInformationResource 资源的支持。
 
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BorderInformationResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

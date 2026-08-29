@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolStyleInfo
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo 班级. 键入工具样式信息
+title: "类 TypeToolStyleInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo 类。类型工具样式信息"
 type: docs
-weight: 3320
+weight: 3710
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo class
 
-键入工具样式信息。
+文字工具样式信息。
 
 ```csharp
 public class TypeToolStyleInfo
@@ -16,33 +17,33 @@ public class TypeToolStyleInfo
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [TypeToolStyleInfo](typetoolstyleinfo/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | 获取或设置一个值，该值指示自动字距调整是打开还是关闭。 |
-| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | 获取或设置基数偏移值。 |
-| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | 获取或设置人脸标记值。 |
-| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | 获取或设置字距调整值。 |
-| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | 获取或设置主值。 |
+| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | 获取或设置一个值，指示自动字距调整是开启还是关闭。 |
+| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | 获取或设置基准位移值。 |
+| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | 获取或设置面标记值。 |
+| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | 获取或设置字距值。 |
+| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | 获取或设置行距值。 |
 | [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/) { get; set; } | 获取或设置标记值。 |
-| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | 获取或设置是否为向下旋转样式的值。 |
+| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | 获取或设置一个值，指示它是否为向下旋转样式。 |
 | [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/) { get; set; } | 获取或设置大小值。 |
 | [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/) { get; set; } | 获取或设置跟踪值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | 保存[`TypeToolFontInfo`](../typetoolfontinfo/)信息到指定的流容器. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | 将 [`TypeToolFontInfo`](../typetoolfontinfo/) 信息保存到指定的流容器中。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

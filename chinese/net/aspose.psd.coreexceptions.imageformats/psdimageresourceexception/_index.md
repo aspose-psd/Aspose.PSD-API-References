@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageResourceException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException 班级. psd图片资源异常
+title: "类 PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException 类。psd 图像资源异常"
 type: docs
 weight: 600
 url: /zh/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
-psd图片资源异常。
+该 psd 图像资源异常。
 
 ```csharp
 public class PsdImageResourceException : PsdImageException
@@ -16,21 +17,21 @@ public class PsdImageResourceException : PsdImageException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | 初始化一个新的实例`PsdImageResourceException`类. |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | 初始化一个新的实例`PsdImageResourceException`类. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | 初始化 `PsdImageResourceException` 类的新实例。 |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | 初始化 `PsdImageResourceException` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | 获取导致此异常的 psd 资源。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImageException](../psdimageexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

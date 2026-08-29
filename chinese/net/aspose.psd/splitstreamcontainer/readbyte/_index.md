@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.ReadByte
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 方法. 从流中读取一个字节并将流中的位置前进一个字节如果在流的末尾则返回 1
+title: "SplitStreamContainer.ReadByte"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 方法。从流中读取一个字节，并将流中的位置前移一个字节；如果已到流末尾则返回 1。"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/splitstreamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.ReadByte method
 
-从流中读取一个字节并将流中的位置前进一个字节，如果在流的末尾则返回 -1。
+从流中读取一个字节，并将流内的位置前移一个字节；如果已到流末尾则返回 -1。
 
 ```csharp
 public override int ReadByte()
@@ -16,12 +17,12 @@ public override int ReadByte()
 
 ### 返回值
 
-转换为 Int32 的无符号字节，如果在流的末尾则为 -1。
+无符号字节转换为 Int32，或在流末尾时返回 -1。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

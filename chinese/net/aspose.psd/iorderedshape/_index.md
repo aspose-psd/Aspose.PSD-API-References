@@ -1,36 +1,37 @@
 ---
-title: Interface IOrderedShape
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IOrderedShape 界面. 表示一个有序的形状有序形状是具有起点和终点的连续点集 使用特定规则连接的连续点集
+title: "接口 IOrderedShape"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IOrderedShape 接口。表示有序形状。有序形状是一组连续的点，具有起始点和结束点。该连续点集使用特定规则连接。"
 type: docs
-weight: 4500
+weight: 4970
 url: /zh/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-表示一个有序的形状。有序形状是具有起点和终点的连续点集。 使用特定规则连接的连续点集。
+表示有序形状。有序形状是一组连续的点，具有起始点和结束点。该连续点集使用特定规则连接。
 
 ```csharp
 public interface IOrderedShape
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | 获取结束形状点。 |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | 获取或设置一个值，指示有序形状是否闭合。处理闭合有序形状时，起点和终点没有意义。 |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | 获取起始形状点。 |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | 获取形状的结束点。 |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | 获取或设置一个值，指示有序形状是否闭合。处理闭合的有序形状时，起始点和结束点没有意义。 |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | 获取形状的起始点。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Reverse](../../aspose.psd/iorderedshape/reverse/)() | 反转此形状的点顺序。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

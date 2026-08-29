@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 财产. 获取路径数字
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 属性。获取路径图形"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-获取路径数字。
+获取路径图形。
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-路径数字。
+路径图形。
 
-### 也可以看看
+### 另请参阅
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

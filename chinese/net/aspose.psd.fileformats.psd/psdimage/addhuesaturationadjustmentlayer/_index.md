@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加色相/饱和度调整层
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加色相/饱和度调整图层"
 type: docs
-weight: 350
+weight: 370
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-添加色相/饱和度调整层。
+添加色相/饱和度调整图层。
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
@@ -16,13 +17,13 @@ public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 
 ### 返回值
 
-新创建的色相/饱和度层。
+新创建的色相/饱和度图层。
 
-### 也可以看看
+### 另请参阅
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

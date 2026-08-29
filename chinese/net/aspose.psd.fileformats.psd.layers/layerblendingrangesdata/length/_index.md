@@ -1,11 +1,12 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD for .NET API 参考
-description: LayerBlendingRangesData 财产. 获取图层混合范围数据的字节长度
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerBlendingRangesData 属性。获取图层混合范围数据的字节长度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
 获取图层混合范围数据的字节长度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 public int Length { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 图层混合范围数据的长度。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerBlendingRangesData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

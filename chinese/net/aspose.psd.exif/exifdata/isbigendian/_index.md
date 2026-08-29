@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置一个值该值指示创建的流 EXIF 数据是否为大端
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置一个值，指示所创建的流 EXIF 数据是否为大端序"
 type: docs
 weight: 690
 url: /zh/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-获取或设置一个值，该值指示创建的流 EXIF 数据是否为大端。
+获取或设置一个值，指示从中创建的流 EXIF 数据是否为大端序。
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果从中创建的流 EXIF 数据是大端；否则，`错误的` .
+`true` 表示流 EXIF 数据为大端序；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 更新这个Region联合减去自身与指定的交集RectangleF结构.
+title: "Region.Xor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。将此 Region 更新为自身与指定 RectangleF 结构的并集减去交集"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-更新这个[`Region`](../)联合减去自身与指定的交集[`RectangleF`](../../rectanglef/)结构.
+将此 [`Region`](../) 更新为自身与指定 [`RectangleF`](../../rectanglef/) 结构的并集减去交集。
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 这[`RectangleF`](../../rectanglef/)与此异或的结构[`Region`](../). |
+| rect | RectangleF | 用于与此 [`Region`](../) 进行异或的 [`RectangleF`](../../rectanglef/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-更新这个[`Region`](../)联合减去自身与指定的交集[`Rectangle`](../../rectangle/)结构.
+将此 [`Region`](../) 更新为自身与指定 [`Rectangle`](../../rectangle/) 结构的并集减去交集。
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../../rectangle/)与此异或的结构[`Region`](../). |
+| rect | Rectangle | 用于与此 [`Region`](../) 进行异或的 [`Rectangle`](../../rectangle/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-更新这个[`Region`](../)联合减去自身与指定的交集[`GraphicsPath`](../../graphicspath/) .
+将此 [`Region`](../) 更新为自身与指定 [`GraphicsPath`](../../graphicspath/) 的并集减去交集。
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath/)与这个异或[`Region`](../). |
+| path | GraphicsPath | 用于与此 [`Region`](../) 进行异或的 [`GraphicsPath`](../../graphicspath/)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*为空。 |
+| ArgumentNullException | *path* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-更新这个[`Region`](../)联合减去自身与指定的交集[`Region`](../) .
+将此 [`Region`](../) 更新为自身与指定 [`Region`](../) 的并集减去交集。
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | 这[`Region`](../)与这个异或[`Region`](../). |
+| region | Region | 用于与此 [`Region`](../) 进行异或的 [`Region`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*为空。 |
+| ArgumentNullException | *region* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

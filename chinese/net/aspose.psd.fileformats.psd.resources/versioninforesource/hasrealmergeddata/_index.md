@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.HasRealMergedData
-second_title: Aspose.PSD for .NET API 参考
-description: VersionInfoResource 财产. 获取或设置一个值指示此实例是否具有真正的合并数据
+title: "VersionInfoResource.HasRealMergedData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VersionInfoResource 属性。获取或设置一个值，指示此实例是否具有真实合并数据"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/hasrealmergeddata/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.HasRealMergedData property
 
-获取或设置一个值，指示此实例是否具有真正的合并数据。
+获取或设置一个值，指示此实例是否具有真实的合并数据。
 
 ```csharp
 public bool HasRealMergedData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例有真正的合并数据；否则，`错误的` .
+`true` 如果此实例具有真实合并数据；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [VersionInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

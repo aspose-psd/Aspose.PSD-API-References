@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.HorizontalScale
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 水平刻度.
+title: "ITextStyle.HorizontalScale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。水平比例"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.HorizontalScale property
 
-水平刻度.
+水平比例。
 
 ```csharp
 public double HorizontalScale { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

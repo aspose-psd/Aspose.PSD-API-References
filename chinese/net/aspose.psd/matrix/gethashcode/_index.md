@@ -1,11 +1,12 @@
 ---
-title: Matrix.GetHashCode
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 方法. 返回此实例的哈希码
+title: "Matrix.GetHashCode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 方法。返回此实例的哈希码。"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/matrix/gethashcode/
 ---
+{{< psd/tize >}}
 ## Matrix.GetHashCode method
 
 返回此实例的哈希码。
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 返回值
 
-此实例的哈希码，适用于哈希算法和哈希表等数据结构。
+此实例的哈希码，适用于哈希算法和诸如哈希表之类的数据结构。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

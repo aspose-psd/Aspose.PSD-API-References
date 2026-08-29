@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: Aspose.PSD for .NET API 参考
-description: Size 方法. 转换指定的Size到一个SizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Size 方法。将指定的 Size 转换为 SizeF"
 type: docs
 weight: 170
 url: /zh/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-转换指定的[`Size`](../)到一个[`SizeF`](../../sizef/) .
+将指定的 [`Size`](../) 转换为 [`SizeF`](../../sizef/)。
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Size | 这[`Size`](../)转换。 |
+| size | Size | 要转换的 [`Size`](../)。 |
 
 ### 返回值
 
-这[`SizeF`](../../sizef/)此运算符转换成的结构。
+此运算符转换到的 [`SizeF`](../../sizef/) 结构。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* 命名空间 [Aspose.PSD](../../size/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

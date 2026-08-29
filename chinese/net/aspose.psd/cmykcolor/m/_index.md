@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Aspose.PSD for .NET API 参考
-description: CmykColor 财产. 获取此品红分量值Color结构.
+title: "CmykColor.M"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykColor 属性。获取此 Color 结构的品红分量值。"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-获取此品红分量值[`Color`](../../color/)结构.
+获取此 [`Color`](../../color/) 结构的品红分量值。
 
 ```csharp
 public byte M { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的洋红色分量值[`Color`](../../color/) .
+此 [`Color`](../../color/) 的品红分量值。
 
-### 也可以看看
+### 另请参阅
 
 * struct [CmykColor](../)
-* 命名空间 [Aspose.PSD](../../cmykcolor/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

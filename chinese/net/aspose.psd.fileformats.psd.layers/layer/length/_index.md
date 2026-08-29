@@ -1,23 +1,24 @@
 ---
-title: Layer.Length
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取以字节为单位的总层长度
+title: "Layer.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取整体层长度（字节）"
 type: docs
-weight: 250
+weight: 260
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
+{{< psd/tize >}}
 ## Layer.Length property
 
-获取以字节为单位的总层长度。
+获取图层的整体长度（字节）。
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

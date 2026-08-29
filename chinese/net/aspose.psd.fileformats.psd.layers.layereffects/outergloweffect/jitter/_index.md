@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Jitter
-second_title: Aspose.PSD for .NET API 参考
-description: OuterGlowEffect 财产. 获取或设置噪声
+title: "OuterGlowEffect.Jitter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OuterGlowEffect 属性。获取或设置噪声"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Jitter property
 
 获取或设置噪声。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitt
 public int Jitter { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-噪音.
+噪声。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 噪声必须指定为 0 到 100 范围内的百分比 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 噪声必须以百分比形式指定，范围为 0 到 100 |
 
-### 例子
+## 示例
 
-以下代码演示了 OuterGlowEffect 支持。
+以下代码演示了对 OuterGlowEffect 的支持。
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [OuterGlowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

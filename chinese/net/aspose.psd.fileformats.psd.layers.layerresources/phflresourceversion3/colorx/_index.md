@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.ColorX
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion3 财产. 获取或设置 X 颜色
+title: "PhflResourceVersion3.ColorX"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion3 属性。获取或设置 X 颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorX property
 
 获取或设置 X 颜色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public float ColorX { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-X 颜色.
+X 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion3](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

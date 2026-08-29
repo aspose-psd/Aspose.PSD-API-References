@@ -1,11 +1,12 @@
 ---
-title: LinkResource.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: LinkResource 财产. 获取 PSD 格式版本
+title: "LinkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkResource 属性。获取 PSD 格式版本"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LinkResource.PsdVersion property
 
 获取 PSD 格式版本。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdve
 public override int PsdVersion { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

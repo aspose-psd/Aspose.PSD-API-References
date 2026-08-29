@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置缩略图
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置缩略图图像"
 type: docs
 weight: 200
 url: /zh/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
 获取或设置缩略图。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.exif/jpegexifdata/thumbnail/
 public RasterImage Thumbnail { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-缩略图.
+缩略图。
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

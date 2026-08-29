@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加亮度/对比度调整层
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。 添加亮度/对比度调整图层"
 type: docs
-weight: 300
+weight: 310
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-添加亮度/对比度调整层。
+添加亮度/对比度调整图层。
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brightness | Int32 | 亮度。 |
-| contrast | Int32 | 对比。 |
+| 亮度 | Int32 | 亮度。 |
+| 对比度 | Int32 | contrast。 |
 
 ### 返回值
 
-创建亮度/对比度层
+已创建亮度/对比度图层
 
-### 也可以看看
+### 另请参阅
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

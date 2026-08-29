@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Segments
-second_title: Aspose.PSD for .NET API 参考
-description: BezierShape 财产. 获取形状段
+title: "BezierShape.Segments"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BezierShape 属性。获取形状段"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.shapes/beziershape/segments/
 ---
+{{< psd/tize >}}
 ## BezierShape.Segments property
 
 获取形状段。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.shapes/beziershape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 形状段。
 
-### 也可以看看
+### 另请参阅
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [BezierShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../beziershape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

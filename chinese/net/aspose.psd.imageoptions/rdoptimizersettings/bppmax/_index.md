@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppMax
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取或设置以每像素位数为单位的最大 R 值
+title: "RdOptimizerSettings.BppMax"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取或设置以位每像素计的最大 R 值用于考虑"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/bppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppMax property
 
-获取或设置以每像素位数为单位的最大 R 值
+获取或设置用于考虑的最大 R 值，以位每像素为单位
 
 ```csharp
 public double BppMax { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-以每像素位数为单位的最大 R 值。
+用于考虑的最大 R 值（位每像素）。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

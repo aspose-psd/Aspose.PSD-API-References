@@ -1,11 +1,12 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Aspose.PSD for .NET API 参考
-description: ColorTransferFunctionsResource 财产. 获取或设置颜色传输数据
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorTransferFunctionsResource 属性。获取或设置颜色传输数据"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
 获取或设置颜色传输数据。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource
 public byte[] ColorTransferData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 颜色传输数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorTransferFunctionsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

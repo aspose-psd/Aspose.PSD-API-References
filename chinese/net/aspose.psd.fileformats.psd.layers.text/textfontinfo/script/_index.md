@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.Script
-second_title: Aspose.PSD for .NET API 参考
-description: TextFontInfo 财产. 获取脚本
+title: "TextFontInfo.Script"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextFontInfo 属性。获取脚本"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Script property
 
 获取脚本。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 public int Script { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 脚本。
 
-### 也可以看看
+### 另请参阅
 
 * class [TextFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

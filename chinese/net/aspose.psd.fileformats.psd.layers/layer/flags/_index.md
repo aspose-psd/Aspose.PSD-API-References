@@ -1,28 +1,29 @@
 ---
-title: Layer.Flags
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层标志 位 0  透明保护 位 1  可见 位 2  过时 位 3  1 对于 Photoshop 5.0 及更高版本指示位 4 是否有有用的信息 位 4 与文档外观无关的像素数据.
+title: "Layer.Flags"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层标志。 bit 0 透明受保护 bit 1 可见 bit 2 已废弃 bit 3 1 表示 Photoshop 5.0 及更高版本时指示 bit 4 是否包含有用信息 bit 4 与文档外观无关的像素数据"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
+{{< psd/tize >}}
 ## Layer.Flags property
 
-获取或设置图层标志。 位 0 = 透明保护； 位 1 = 可见； 位 2 = 过时； 位 3 = 1 对于 Photoshop 5.0 及更高版本，指示位 4 是否有有用的信息； 位 4 =与文档外观无关的像素数据.
+获取或设置图层标志。位 0 = 透明受保护；位 1 = 可见；位 2 = 已废弃；位 3 = 对 Photoshop 5.0 及更高版本为 1，指示位 4 是否包含有用信息；位 4 = 像素数据与文档外观无关。
 
 ```csharp
 public LayerFlags Flags { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图层标志.
+图层标志。
 
-### 也可以看看
+### 另请参阅
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

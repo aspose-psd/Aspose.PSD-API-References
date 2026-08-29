@@ -1,14 +1,15 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint 班级. 渐变色点
+title: "类 GradientColorPoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint 类。渐变颜色点"
 type: docs
-weight: 1950
+weight: 2060
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-渐变色点。
+渐变颜色点。
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
@@ -16,23 +17,24 @@ public class GradientColorPoint : IGradientColorPoint
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | 初始化一个新的实例`GradientColorPoint`类. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | 初始化一个新的实例`GradientColorPoint`类. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | 初始化 `GradientColorPoint` 类的新实例。 |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | 初始化 `GradientColorPoint` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | 获取或设置梯度上的点位置。 |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | 获取或设置中值梯度点位置。 |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | 颜色跟随的模式 |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | 获取或设置渐变上的点位置。 |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | 获取或设置中位渐变点的位置。 |
 | [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | 获取或设置原始颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

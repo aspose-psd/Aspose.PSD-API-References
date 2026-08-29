@@ -1,27 +1,28 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Aspose.PSD for .NET API 参考
-description: GifOptions 财产. 获取或设置一个值指示 GIF 是否有预告片
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GifOptions 属性。获取或设置一个值，指示 GIF 是否有尾部"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
-获取或设置一个值，指示 GIF 是否有预告片。
+获取或设置一个值，指示 GIF 是否具有尾部。
 
 ```csharp
 public bool HasTrailer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果 GIF 有预告片；否则，`错误的` .
+`true` 表示 GIF 有尾部；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [GifOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

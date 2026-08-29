@@ -1,33 +1,34 @@
 ---
-title: CmykColorHelper.ToCmykBytes
-second_title: Aspose.PSD for .NET API 参考
-description: CmykColorHelper 方法. 将 RGB 转换为 CMYK.
+title: "CmykColorHelper.ToCmykBytes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykColorHelper 方法。将 RGB 转换为 CMYK"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/cmykcolorhelper/tocmykbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykBytes method
 
-将 RGB 转换为 CMYK.
+将 RGB 转换为 CMYK。
 
 ```csharp
 public static byte[] ToCmykBytes(int[] argbPixels, int startIndex, int length)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| argbPixels | Int32[] | RGB 颜色显示为 32 位整数值。 |
+| argbPixels | Int32[] | RGB 颜色以 32 位整数值的形式呈现。 |
 | startIndex | Int32 | RGB 颜色的起始索引。 |
-| length | Int32 | 要转换的 RGB 像素数。 |
+| 长度 | Int32 | 要转换的 RGB 像素数量。 |
 
 ### 返回值
 
-以字节数组形式呈现的 CMYK 颜色。
+CMYK 颜色以字节数组的形式呈现。
 
-### 也可以看看
+### 另请参阅
 
 * class [CmykColorHelper](../)
-* 命名空间 [Aspose.PSD](../../cmykcolorhelper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhflResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 场地. 类型工具信息键
+title: "PhflResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResource 字段。类型工具信息键"
 type: docs
-weight: 80
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PhflResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

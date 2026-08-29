@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置Brush决定了这个的属性Pen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 属性。获取或设置决定此 Pen 属性的 Brush。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-获取或设置`Brush`决定了这个的属性[`Pen`](../) .
+获取或设置决定此[`Pen`](../)属性的 `Brush`。
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A`Brush`决定了这个的属性[`Pen`](../).
+一个决定此[`Pen`](../)属性的 `Brush`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`Brush`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `Brush` 属性设置在不可变的[`Pen`](../)上，例如由[`Pen`](../)类返回的那些。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

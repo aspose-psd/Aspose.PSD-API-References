@@ -1,11 +1,12 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectProvider 方法. 将图层转换为嵌入式智能对象
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectProvider 方法。将图层转换为嵌入式智能对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
 将图层转换为嵌入式智能对象。
@@ -14,26 +15,26 @@ url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layerNumbers | Int32[] | 层数。 |
+| layerNumbers | Int32[] | 图层编号。 |
 
 ### 返回值
 
-创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)实例.
+已创建的 [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) 实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 没有要转换的层。 or 层数超出范围。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 没有可转换的图层。或图层编号超出范围。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -45,26 +46,26 @@ public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | layers | Layer[] | 图层。 |
 
 ### 返回值
 
-创建的[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)实例.
+已创建的 [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) 实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 没有要转换的图层。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 没有可转换的图层。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
