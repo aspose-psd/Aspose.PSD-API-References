@@ -3,7 +3,7 @@ title: SmartFilter
 second_title: Aspose.PSD for Java API Reference
 description: The class to process a base logic of smart filters.
 type: docs
-weight: 13
+weight: 15
 url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/smartfilter/
 ---
 

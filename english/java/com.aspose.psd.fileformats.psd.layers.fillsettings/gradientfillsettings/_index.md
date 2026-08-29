@@ -47,6 +47,7 @@ Gradient fill effect settings.
 | [getScale()](#getScale--) | Gets or sets the  **normalized**  gradient scale (in percent) |
 | [getVerticalOffset()](#getVerticalOffset--) | Gets or sets the vertical offset in percentage. |
 | [hashCode()](#hashCode--) |  |
+| [isTransparentGradientContains_internalized()](#isTransparentGradientContains-internalized--) | Gets a value indicating whether the gradient contains any transparent points with opacity less than 100. |
 | [notify()](#notify--) |  |
 | [notifyAll()](#notifyAll--) |  |
 | [raiseValueChanged_internalized()](#raiseValueChanged-internalized--) | Raises the value changed. |
@@ -262,6 +263,16 @@ public native int hashCode()
 
 **Returns:**
 int
+### isTransparentGradientContains_internalized() {#isTransparentGradientContains-internalized--}
+```
+public final boolean isTransparentGradientContains_internalized()
+```
+
+
+Gets a value indicating whether the gradient contains any transparent points with opacity less than 100.
+
+**Returns:**
+boolean
 ### notify() {#notify--}
 ```
 public final native void notify()

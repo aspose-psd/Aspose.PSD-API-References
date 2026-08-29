@@ -1,26 +1,26 @@
 ---
-title: NoiseDistribution
+title: UndefinedAreas
 second_title: Aspose.PSD for Java API Reference
-description: The distribution of noise filter.
+description: Undefined areas enumeration.
 type: docs
-weight: 14
-url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/noisedistribution/
+weight: 16
+url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/undefinedareas/
 ---
 
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 ```
-public final class NoiseDistribution extends System.Enum
+public final class UndefinedAreas extends System.Enum
 ```
 
-The distribution of noise filter.
+Undefined areas enumeration.
 ## Fields
 
 | Field | Description |
 | --- | --- |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [Gaussian](#Gaussian) | The gaussian noise distribution. |
-| [Uniform](#Uniform) | The uniform noise distribution. |
+| [RepeatEdgePixels](#RepeatEdgePixels) | Repeat edge. |
+| [WrapAround](#WrapAround) | Repeat areas. |
 ## Methods
 
 | Method | Description |
@@ -71,21 +71,21 @@ public static final char[] EnumSeparatorCharArray
 ```
 
 
-### Gaussian {#Gaussian}
+### RepeatEdgePixels {#RepeatEdgePixels}
 ```
-public static final int Gaussian
-```
-
-
-The gaussian noise distribution.
-
-### Uniform {#Uniform}
-```
-public static final int Uniform
+public static final int RepeatEdgePixels
 ```
 
 
-The uniform noise distribution.
+Repeat edge.
+
+### WrapAround {#WrapAround}
+```
+public static final int WrapAround
+```
+
+
+Repeat areas.
 
 ### Clone() {#Clone--}
 ```

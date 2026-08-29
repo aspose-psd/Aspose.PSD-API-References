@@ -1,26 +1,26 @@
 ---
-title: NoiseDistribution
+title: DisplacementMethod
 second_title: Aspose.PSD for Java API Reference
-description: The distribution of noise filter.
+description: Displacement method enumeration.
 type: docs
-weight: 14
-url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/noisedistribution/
+weight: 12
+url: /java/com.aspose.psd.fileformats.psd.layers.smartfilters.filters/displacementmethod/
 ---
 
 **Inheritance:**
 java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
 ```
-public final class NoiseDistribution extends System.Enum
+public final class DisplacementMethod extends System.Enum
 ```
 
-The distribution of noise filter.
+Displacement method enumeration.
 ## Fields
 
 | Field | Description |
 | --- | --- |
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [Gaussian](#Gaussian) | The gaussian noise distribution. |
-| [Uniform](#Uniform) | The uniform noise distribution. |
+| [Stretch](#Stretch) | Stretch to fit. |
+| [Tile](#Tile) | Tile \\u2013 repeat/tile the image. |
 ## Methods
 
 | Method | Description |
@@ -71,21 +71,21 @@ public static final char[] EnumSeparatorCharArray
 ```
 
 
-### Gaussian {#Gaussian}
+### Stretch {#Stretch}
 ```
-public static final int Gaussian
-```
-
-
-The gaussian noise distribution.
-
-### Uniform {#Uniform}
-```
-public static final int Uniform
+public static final int Stretch
 ```
 
 
-The uniform noise distribution.
+Stretch to fit.
+
+### Tile {#Tile}
+```
+public static final int Tile
+```
+
+
+Tile \\u2013 repeat/tile the image.
 
 ### Clone() {#Clone--}
 ```
