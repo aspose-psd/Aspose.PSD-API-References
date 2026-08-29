@@ -1,0 +1,178 @@
+---
+title: "ImageExtensions"
+second_title: "Aspose.PSD for Java API Αναφορά"
+description: "Περιέχει μεθόδους επέκτασης για μετατροπές βασισμένες στο java.awt.Image και ."
+type: docs
+weight: 19
+url: /el/java/com.aspose.psd.extensions/imageextensions/
+---
+
+**Inheritance:**
+java.lang.Object
+```
+public final class ImageExtensions
+```
+
+Περιέχει μεθόδους επέκτασης για μετατροπές βασισμένες στο java.awt.Image και [Image](../../com.aspose.psd/image).
+## Μέθοδοι
+
+| Μέθοδος | Περιγραφή |
+| --- | --- |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [fromJava_internalized(BufferedImage image, Rectangle rect)](#fromJava-internalized-java.awt.image.BufferedImage-com.aspose.psd.Rectangle-) |  |
+| [getClass()](#getClass--) |  |
+| [hashCode()](#hashCode--) |  |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [toGdiImage(Image image)](#toGdiImage-com.aspose.psd.Image-) | Μετατρέπει το [Image](../../com.aspose.psd/image) σε java.awt.Image. |
+| [toGdiImage_internalized(Image image)](#toGdiImage-internalized-com.aspose.psd.Image-) |  |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### fromJava_internalized(BufferedImage image, Rectangle rect) {#fromJava-internalized-java.awt.image.BufferedImage-com.aspose.psd.Rectangle-}
+```
+public static RasterImage fromJava_internalized(BufferedImage image, Rectangle rect)
+```
+
+
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| εικόνα | java.awt.image.BufferedImage |  |
+| rect | [Rectangle](../../com.aspose.psd/rectangle) |  |
+
+**Returns:**
+[RasterImage](../../com.aspose.psd/rasterimage)
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### toGdiImage(Image image) {#toGdiImage-com.aspose.psd.Image-}
+```
+public static Image toGdiImage(Image image)
+```
+
+
+Μετατρέπει το [Image](../../com.aspose.psd/image) σε java.awt.Image.
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+|  | image | [Image](../../com.aspose.psd/image) | Το [Image](../../com.aspose.psd/image) για μετατροπή. |
+
+--------------------
+
+Προειδοποίηση, η εικόνα GDI μπορεί να έχει μικρότερα όρια από ό,τι έχει η  image . Για να λάβετε όλα τα μέρη της εικόνας χρησιμοποιήστε πιο ασφαλή μέθοδο επέκτασης ToGdiImageFull. |
+
+**Returns:**
+[Image](../../java.awt/image) - The converted java.awt.Image.
+### toGdiImage_internalized(Image image) {#toGdiImage-internalized-com.aspose.psd.Image-}
+```
+public static System.Drawing.Image toGdiImage_internalized(Image image)
+```
+
+
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| image | [Image](../../com.aspose.psd/image) |  |
+
+**Returns:**
+[Image](../../com.aspose.ms.system.drawing/image)
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
