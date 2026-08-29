@@ -1,0 +1,469 @@
+---
+title: "InnerShadowEffect"
+second_title: "Aspose.PSD für Java API-Referenz"
+description: "Inner-Shadow-Layer-Effekt"
+type: docs
+weight: 14
+url: /de/java/com.aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
+---
+
+**Inheritance:**
+java.lang.Object
+
+**All Implemented Interfaces:**
+[com.aspose.psd.fileformats.psd.layers.layereffects.IShadowEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect), com.aspose.internal.fileformats.psd.layers.layereffects.IInternalLayerEffect
+```
+public class InnerShadowEffect implements IShadowEffect, IInternalLayerEffect
+```
+
+Inner-Shadow-Layer-Effekt
+## Methoden
+
+| Methode | Beschreibung |
+| --- | --- |
+| [create_internalized(IEffectEntity entity)](#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity-) |  |
+| [equals(Object arg0)](#equals-java.lang.Object-) |  |
+| [getAngle()](#getAngle--) | Liest oder setzt den Winkel in Grad. |
+| [getBlendMode()](#getBlendMode--) | Liest oder setzt den Mischmodus. |
+| [getClass()](#getClass--) |  |
+| [getColor()](#getColor--) | Liest oder setzt die Farbe. |
+| [getDistance()](#getDistance--) | Liest oder setzt die Entfernung in Pixeln. |
+| [getEffectBounds(Rectangle layerBounds, int globalAngle)](#getEffectBounds-com.aspose.psd.Rectangle-int-) | Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel. |
+| [getEffectEntity_internalized()](#getEffectEntity-internalized--) | Ruft die Entität ab. |
+| [getEffectType()](#getEffectType--) | Liest einen Effekttyp |
+| [getNoise()](#getNoise--) | Liest oder setzt das Rauschen. |
+| [getOpacity()](#getOpacity--) | Liest oder setzt die Opazität. |
+| [getSize()](#getSize--) | Liest oder setzt den Unschärfewert in Pixeln. |
+| [getSpread()](#getSpread--) | Liest oder setzt die Ausdehnung (Choke) als Prozentsatz. |
+| [getUseGlobalLight()](#getUseGlobalLight--) | Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects]. |
+| [hashCode()](#hashCode--) |  |
+| [isVisible()](#isVisible--) | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [notify()](#notify--) |  |
+| [notifyAll()](#notifyAll--) |  |
+| [setAngle(int value)](#setAngle-int-) | Liest oder setzt den Winkel in Grad. |
+| [setBlendMode(long value)](#setBlendMode-long-) | Liest oder setzt den Mischmodus. |
+| [setColor(Color value)](#setColor-com.aspose.psd.Color-) | Liest oder setzt die Farbe. |
+| [setDistance(int value)](#setDistance-int-) | Liest oder setzt die Entfernung in Pixeln. |
+| [setNoise(int value)](#setNoise-int-) | Liest oder setzt das Rauschen. |
+| [setOpacity(byte value)](#setOpacity-byte-) | Liest oder setzt die Opazität. |
+| [setSize(int value)](#setSize-int-) | Liest oder setzt den Unschärfewert in Pixeln. |
+| [setSpread(int value)](#setSpread-int-) | Liest oder setzt die Ausdehnung (Choke) als Prozentsatz. |
+| [setUseGlobalLight(boolean value)](#setUseGlobalLight-boolean-) | Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects]. |
+| [setVisible(boolean value)](#setVisible-boolean-) | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [toString()](#toString--) |  |
+| [wait()](#wait--) |  |
+| [wait(long arg0)](#wait-long-) |  |
+| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+### create_internalized(IEffectEntity entity) {#create-internalized-com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity-}
+```
+public static InnerShadowEffect create_internalized(IEffectEntity entity)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Entität | com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity |  |
+
+**Returns:**
+[InnerShadowEffect](../../com.aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect)
+### equals(Object arg0) {#equals-java.lang.Object-}
+```
+public boolean equals(Object arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | java.lang.Object |  |
+
+**Returns:**
+boolean
+### getAngle() {#getAngle--}
+```
+public final int getAngle()
+```
+
+
+Liest oder setzt den Winkel in Grad.
+
+Wert: Der Winkel.
+
+**Returns:**
+int
+### getBlendMode() {#getBlendMode--}
+```
+public final long getBlendMode()
+```
+
+
+Liest oder setzt den Mischmodus.
+
+Wert: Der Mischmodus.
+
+**Returns:**
+long
+### getClass() {#getClass--}
+```
+public final native Class<?> getClass()
+```
+
+
+
+
+**Returns:**
+java.lang.Class<?>
+### getColor() {#getColor--}
+```
+public final Color getColor()
+```
+
+
+Liest oder setzt die Farbe.
+
+Wert: Die Farbe.
+
+**Returns:**
+[Color](../../com.aspose.psd/color)
+### getDistance() {#getDistance--}
+```
+public final int getDistance()
+```
+
+
+Liest oder setzt die Entfernung in Pixeln.
+
+Wert: Die Entfernung.
+
+**Returns:**
+int
+### getEffectBounds(Rectangle layerBounds, int globalAngle) {#getEffectBounds-com.aspose.psd.Rectangle-int-}
+```
+public final Rectangle getEffectBounds(Rectangle layerBounds, int globalAngle)
+```
+
+
+Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| layerBounds | [Rectangle](../../com.aspose.psd/rectangle) | Die Grenzen der Ebenenpixel. |
+| globalAngle | int | Der globale Winkel zur Berechnung des globalen Lichtwinkels. |
+
+**Returns:**
+[Rectangle](../../com.aspose.psd/rectangle) - The bounds of effect pixels based on input layer pixels bounds.
+### getEffectEntity_internalized() {#getEffectEntity-internalized--}
+```
+public final IEffectEntity getEffectEntity_internalized()
+```
+
+
+Ruft die Entität ab.
+
+**Returns:**
+com.aspose.internal.fileformats.psd.layers.layereffects.effectentities.IEffectEntity
+### getEffectType() {#getEffectType--}
+```
+public final int getEffectType()
+```
+
+
+Liest einen Effekttyp
+
+**Returns:**
+int
+### getNoise() {#getNoise--}
+```
+public final int getNoise()
+```
+
+
+Liest oder setzt das Rauschen.
+
+**Returns:**
+int
+### getOpacity() {#getOpacity--}
+```
+public final byte getOpacity()
+```
+
+
+Liest oder setzt die Opazität.
+
+Wert: Die Opazität.
+
+**Returns:**
+byte
+### getSize() {#getSize--}
+```
+public final int getSize()
+```
+
+
+Liest oder setzt den Unschärfewert in Pixeln.
+
+Wert: Die Größe.
+
+**Returns:**
+int
+### getSpread() {#getSpread--}
+```
+public final int getSpread()
+```
+
+
+Liest oder setzt die Ausdehnung (Choke) als Prozentsatz.
+
+Wert: Die Ausdehnung.
+
+**Returns:**
+int
+### getUseGlobalLight() {#getUseGlobalLight--}
+```
+public final boolean getUseGlobalLight()
+```
+
+
+Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects].
+
+Wert:  true  wenn [use global light]; andernfalls  false .
+
+**Returns:**
+boolean
+### hashCode() {#hashCode--}
+```
+public native int hashCode()
+```
+
+
+
+
+**Returns:**
+int
+### isVisible() {#isVisible--}
+```
+public final boolean isVisible()
+```
+
+
+Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist.
+
+Wert:  true  wenn diese Instanz sichtbar ist; andernfalls  false .
+
+**Returns:**
+boolean
+### notify() {#notify--}
+```
+public final native void notify()
+```
+
+
+
+
+### notifyAll() {#notifyAll--}
+```
+public final native void notifyAll()
+```
+
+
+
+
+### setAngle(int value) {#setAngle-int-}
+```
+public final void setAngle(int value)
+```
+
+
+Liest oder setzt den Winkel in Grad.
+
+Wert: Der Winkel.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | int |  |
+
+### setBlendMode(long value) {#setBlendMode-long-}
+```
+public final void setBlendMode(long value)
+```
+
+
+Liest oder setzt den Mischmodus.
+
+Wert: Der Mischmodus.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | long |  |
+
+### setColor(Color value) {#setColor-com.aspose.psd.Color-}
+```
+public final void setColor(Color value)
+```
+
+
+Liest oder setzt die Farbe.
+
+Wert: Die Farbe.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| value | [Color](../../com.aspose.psd/color) |  |
+
+### setDistance(int value) {#setDistance-int-}
+```
+public final void setDistance(int value)
+```
+
+
+Liest oder setzt die Entfernung in Pixeln.
+
+Wert: Die Entfernung.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | int |  |
+
+### setNoise(int value) {#setNoise-int-}
+```
+public final void setNoise(int value)
+```
+
+
+Liest oder setzt das Rauschen.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | int |  |
+
+### setOpacity(byte value) {#setOpacity-byte-}
+```
+public final void setOpacity(byte value)
+```
+
+
+Liest oder setzt die Opazität.
+
+Wert: Die Opazität.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | byte |  |
+
+### setSize(int value) {#setSize-int-}
+```
+public final void setSize(int value)
+```
+
+
+Liest oder setzt den Unschärfewert in Pixeln.
+
+Wert: Die Größe.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | int |  |
+
+### setSpread(int value) {#setSpread-int-}
+```
+public final void setSpread(int value)
+```
+
+
+Liest oder setzt die Ausdehnung (Choke) als Prozentsatz.
+
+Wert: Die Ausdehnung.
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | int |  |
+
+### setUseGlobalLight(boolean value) {#setUseGlobalLight-boolean-}
+```
+public final void setUseGlobalLight(boolean value)
+```
+
+
+Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects].
+
+Wert:  true  wenn [use global light]; andernfalls  false .
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | boolean |  |
+
+### setVisible(boolean value) {#setVisible-boolean-}
+```
+public final void setVisible(boolean value)
+```
+
+
+Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist.
+
+Wert:  true  wenn diese Instanz sichtbar ist; andernfalls  false .
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Wert | boolean |  |
+
+### toString() {#toString--}
+```
+public String toString()
+```
+
+
+
+
+**Returns:**
+java.lang.String
+### wait() {#wait--}
+```
+public final void wait()
+```
+
+
+
+
+### wait(long arg0) {#wait-long-}
+```
+public final void wait(long arg0)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | long |  |
+
+### wait(long arg0, int arg1) {#wait-long-int-}
+```
+public final void wait(long arg0, int arg1)
+```
+
+
+
+
+**Parameters:**
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| arg0 | long |  |
+| arg1 | int |  |
+
