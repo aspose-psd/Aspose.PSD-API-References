@@ -1,14 +1,15 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleExtensions methode. Konvertiert dieRectangle zumRectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleExtensions-Methode. Konvertiert das Rectangle in das Rectangle"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-Konvertiert die[`Rectangle`](../../../aspose.psd/rectangle/) zumRectangle .
+Konvertiert das [`Rectangle`](../../../aspose.psd/rectangle/) in das Rectangle.
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
@@ -16,24 +17,24 @@ public static Rectangle ToGdiRectangle(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das zu konvertierende Rechteck. |
+| Rechteck | Rectangle | Das Rechteck zum Konvertieren. |
 
 ### Rückgabewert
 
-Der konvertierteRectangle.
+Das konvertierte Rectangle.
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* namensraum [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-Konvertiert die[`RectangleF`](../../../aspose.psd/rectanglef/) zumRectangle .
+Konvertiert das [`RectangleF`](../../../aspose.psd/rectanglef/) in das Rectangle.
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
@@ -41,17 +42,17 @@ public static RectangleF ToGdiRectangle(RectangleF rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | RectangleF | Das zu konvertierende Rechteck. |
+| Rechteck | RectangleF | Das Rechteck zum Konvertieren. |
 
 ### Rückgabewert
 
-Der konvertierteRectangleF.
+Das konvertierte RectangleF.
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* namensraum [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

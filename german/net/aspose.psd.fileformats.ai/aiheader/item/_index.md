@@ -1,14 +1,15 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft ab oder setzt dieString mit dem angegebenen Eigenschaftsnamen.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt die Zeichenkette mit dem angegebenen Eigenschaftsnamen zurück oder legt sie fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Ruft ab oder setzt dieString mit dem angegebenen Eigenschaftsnamen.
+Liest oder setzt die Zeichenkette mit dem angegebenen Eigenschaftsnamen.
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -18,14 +19,14 @@ public string this[string propertyName] { get; set; }
 | --- | --- |
 | propertyName | Name der Eigenschaft. |
 
-### Eigentumswert
+### Property Value
 
-DieString .
+Die Zeichenkette.
 
 ### Siehe auch
 
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

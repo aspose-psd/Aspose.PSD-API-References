@@ -1,20 +1,21 @@
 ---
-title: Thumbnail.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Thumbnail eigendom. Ruft die Breite ab oder legt sie fest.
+title: "Thumbnail.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Thumbnail-Eigenschaft. Liest oder setzt die Breite"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Width property
 
-Ruft die Breite ab oder legt sie fest.
+Liest oder setzt die Breite.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Breite.
 
@@ -22,12 +23,12 @@ Die Breite.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | value;Width darf nicht kleiner als Null sein |
+| ArgumentOutOfRangeException | value;Breite darf nicht kleiner als Null sein |
 
 ### Siehe auch
 
 * class [Thumbnail](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

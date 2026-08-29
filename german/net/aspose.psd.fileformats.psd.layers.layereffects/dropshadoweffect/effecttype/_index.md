@@ -1,22 +1,23 @@
 ---
-title: DropShadowEffect.EffectType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Ruft eine Art Effekt ab
+title: "DropShadowEffect.EffectType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect-Eigenschaft. Liest den Typ des Effekts"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.EffectType property
 
-Ruft eine Art Effekt ab
+Liest einen Effekttyp
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code veranschaulicht die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
+Der folgende Code demonstriert die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
 
 ```csharp
 [C#]
@@ -33,17 +34,17 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Beispiel mit Deckkraft = 20
+    // Beispiel mit Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Beispiel mit Deckkraft = 200
+    // Beispiel mit Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType-Eigenschaft.
+Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType‑Eigenschaft.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // es hat gefangen
+            // es wurde abgefangen
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -76,9 +77,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Siehe auch
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: EnumeratedDescriptorStructure.StructureKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: EnumeratedDescriptorStructure veld. Der aufgezählte Deskriptorschlüssel.
+title: "EnumeratedDescriptorStructure.StructureKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "EnumeratedDescriptorStructure Feld. Der enumerierte Deskriptorschlüssel"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.StructureKey field
 
-Der aufgezählte Deskriptorschlüssel.
+Der enumerierte Deskriptorschlüssel.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Siehe auch
 
 * class [EnumeratedDescriptorStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

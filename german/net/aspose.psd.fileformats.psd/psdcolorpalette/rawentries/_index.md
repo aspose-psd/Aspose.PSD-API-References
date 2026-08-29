@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntries
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette eigendom. Ruft die Rohdaten der Farbpaletteneinträge ab.
+title: "PsdColorPalette.RawEntries"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette Eigenschaft. Gibt die Daten der rohen Farbpaletteneinträge zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntries property
 
-Ruft die Rohdaten der Farbpaletteneinträge ab.
+Ermittelt die Rohdaten der Farbpalletteinträge.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Rohfarbpalette enthält Daten.
+Die Rohdaten der Paletteneinträge.
 
 ### Siehe auch
 
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

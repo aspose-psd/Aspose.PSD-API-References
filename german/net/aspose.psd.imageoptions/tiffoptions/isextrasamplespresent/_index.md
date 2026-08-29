@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft einen Wert ab der angibt ob die zusätzlichen Proben vorhanden sind.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Gibt einen Wert zurück, der angibt, ob die zusätzlichen Proben vorhanden sind"
 type: docs
-weight: 230
+weight: 240
 url: /de/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-Ruft einen Wert ab, der angibt, ob die zusätzlichen Proben vorhanden sind.
+Liest einen Wert, der angibt, ob zusätzliche Proben vorhanden sind.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn die zusätzlichen Proben vorhanden sind; ansonsten,`FALSCH` .
+`true`, wenn die zusätzlichen Proben vorhanden sind; andernfalls `false`.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

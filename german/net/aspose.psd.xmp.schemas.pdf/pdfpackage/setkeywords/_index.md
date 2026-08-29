@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PdfPackage methode. Legt die Schlüsselwörter fest.
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PdfPackage-Methode. Legt die Schlüsselwörter fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
-Legt die Schlüsselwörter fest.
+Setzt die Schlüsselwörter.
 
 ```csharp
 public void SetKeywords(string keywords)
@@ -16,12 +17,12 @@ public void SetKeywords(string keywords)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| keywords | String | Die Schlüsselwörter. |
+| Schlüsselwörter | String | Die Schlüsselwörter. |
 
 ### Siehe auch
 
 * class [PdfPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

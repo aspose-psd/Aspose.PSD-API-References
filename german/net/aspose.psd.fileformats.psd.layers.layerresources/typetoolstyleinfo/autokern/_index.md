@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolStyleInfo eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob AutoKerning ein oder ausgeschaltet ist.
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolStyleInfo Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob automatisches Kerning ein- oder ausgeschaltet ist"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob Auto-Kerning ein- oder ausgeschaltet ist.
+Liest oder setzt einen Wert, der angibt, ob automatisches Kerning ein- oder ausgeschaltet ist.
 
 ```csharp
 public bool AutoKern { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Auto-Kerning eingeschaltet ist; ansonsten,`FALSCH` .
+`true`, wenn automatisches Kerning eingeschaltet ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [TypeToolStyleInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

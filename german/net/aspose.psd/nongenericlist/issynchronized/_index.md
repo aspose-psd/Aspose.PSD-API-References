@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.IsSynchronized
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericList eigendom. Ruft einen Wert ab der angibt ob der Zugriff auf dieICollection ist synchronisiert threadsicher.
+title: "NonGenericList.IsSynchronized"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericList Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Zugriff auf die ICollection synchronisiert und thread‑sicher ist"
 type: docs
 weight: 50
 url: /de/net/aspose.psd/nongenericlist/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsSynchronized property
 
-Ruft einen Wert ab, der angibt, ob der Zugriff auf dieICollection ist synchronisiert (threadsicher).
+Liest einen Wert, der angibt, ob der Zugriff auf das ICollection synchronisiert (thread‑sicher) ist.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -17,7 +18,7 @@ public bool IsSynchronized { get; }
 ### Siehe auch
 
 * class [NonGenericList](../)
-* namensraum [Aspose.PSD](../../nongenericlist/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

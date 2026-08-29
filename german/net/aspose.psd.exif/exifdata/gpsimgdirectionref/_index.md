@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSImgDirectionRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die GPSReferenz ab oder legt sie fest um die Richtung des Bildes anzugeben wenn es aufgenommen wird.
+title: "ExifData.GPSImgDirectionRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData property. Ruft die GPS-Referenz zur Angabe der Bildrichtung beim Aufnehmen ab oder legt sie fest."
 type: docs
 weight: 510
 url: /de/net/aspose.psd.exif/exifdata/gpsimgdirectionref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirectionRef property
 
-Ruft die GPS-Referenz ab oder legt sie fest, um die Richtung des Bildes anzugeben, wenn es aufgenommen wird.
+Liest oder setzt die GPS-Referenz zur Angabe der Bildrichtung bei der Aufnahme.
 
 ```csharp
 public string GPSImgDirectionRef { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die GPS-Referenz zur Angabe der Bildrichtung bei der Aufnahme.
+Die GPS-Referenz zur Angabe der Bildrichtung beim Aufnehmen.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

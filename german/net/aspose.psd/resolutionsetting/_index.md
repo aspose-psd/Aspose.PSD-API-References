@@ -1,11 +1,12 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ResolutionSetting klas. Die Auflösungseinstellung für Bildspeicheroptionen.
+title: "Klasse ResolutionSetting"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ResolutionSetting Klasse. Die Auflösungseinstellung für Bildspeicheroptionen"
 type: docs
-weight: 5380
+weight: 5880
 url: /de/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
 Die Auflösungseinstellung für Bildspeicheroptionen.
@@ -14,23 +15,23 @@ Die Auflösungseinstellung für Bildspeicheroptionen.
 public class ResolutionSetting
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | Initialisiert eine neue Instanz von`ResolutionSetting` Klasse. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initialisiert eine neue Instanz von`ResolutionSetting` Klasse. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | Initialisiert eine neue Instanz der `ResolutionSetting`-Klasse. |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | Initialisiert eine neue Instanz der `ResolutionSetting`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Ruft die horizontale Auflösung ab oder legt sie fest. |
-| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Ruft die vertikale Auflösung ab oder legt sie fest. |
+| [HorizontalResolution](../../aspose.psd/resolutionsetting/horizontalresolution/) { get; set; } | Liest oder setzt die horizontale Auflösung. |
+| [VerticalResolution](../../aspose.psd/resolutionsetting/verticalresolution/) { get; set; } | Liest oder setzt die vertikale Auflösung. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

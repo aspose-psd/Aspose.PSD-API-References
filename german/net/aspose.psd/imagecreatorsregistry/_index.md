@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageCreatorsRegistry klas. Repräsentiert die Registrierung des ImageErstellers.
+title: "Klasse ImageCreatorsRegistry"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageCreatorsRegistry‑Klasse. Stellt das Register der Bild-Ersteller dar"
 type: docs
-weight: 4620
+weight: 5090
 url: /de/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-Repräsentiert die Registrierung des Image-Erstellers.
+Stellt das Register der Bild-Ersteller dar.
 
 ```csharp
 public static class ImageCreatorsRegistry
@@ -18,22 +19,22 @@ public static class ImageCreatorsRegistry
 
 | Name | Beschreibung |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Ruft die registrierten Deskriptoren ab. |
-| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Ruft die registrierten Bilderzeugungsformate ab. |
+| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | Ermittelt die registrierten Deskriptoren. |
+| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | Gibt die registrierten Bild-Erstellungsformate zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Erstellt den ersten gefundenen Ersteller, der für die angegebenen geeignet ist. |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Ruft den ersten gefundenen unterstützten Deskriptor ab, der für den angegebenen geeignet ist. |
-| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Registriert den angegebenen Bildersteller-Deskriptor. |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | Erstellt den zuerst gefundenen Ersteller, der für das Angegebene geeignet ist. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | Gibt den zuerst gefundenen unterstützten Deskriptor zurück, der für das Angegebene geeignet ist. |
+| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | Registriert den angegebenen Bild-Ersteller‑Deskriptor. |
 | static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | Registriert den Ersteller. |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Hebt die Registrierung des Erstellers auf. |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | Deregistriert den Ersteller. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

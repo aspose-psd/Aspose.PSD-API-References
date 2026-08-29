@@ -1,14 +1,15 @@
 ---
-title: Enum ThumbnailFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat opsomming. Gibt das MiniaturbildDatenformat an.
+title: "Enum ThumbnailFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat Enum. Gibt das Datenformat des Thumbnails an"
 type: docs
-weight: 3900
+weight: 4370
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
-Gibt das Miniaturbild-Datenformat an.
+Gibt das Thumbnail-Datenformat an.
 
 ```csharp
 public enum ThumbnailFormat
@@ -18,12 +19,12 @@ public enum ThumbnailFormat
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| KRawRgb | `0` | Rohes RGB-Format. |
-| KJpegRgb | `1` | Komprimiertes JPEG-Format. |
+| KRawRgb | `0` | Roh‑RGB‑Format. |
+| KJpegRgb | `1` | Komprimiertes JPEG‑Format. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings klas. Einstellungen für Farbfülleffekte
+title: "Klasse ColorFillSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings Klasse. Einstellungen für Farbe-Füll-Effekt"
 type: docs
-weight: 1930
+weight: 2040
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Einstellungen für Farbfülleffekte
+Farbfüllungseffekt-Einstellungen
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Konstruktoren
+
+| Name | Beschreibung |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Der Standardkonstruktor. |
+
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Der Füllungstyp |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Liest oder setzt die Farbe. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Der Fülltyp |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Stricheffektebene mit dem Fülltyp „Farbe“.
+Der folgende Code demonstriert die Unterstützung der Strich-Effekt-Ebene mit dem Fülltyp - Farbe.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Datei nach Bearbeitung testen
+// Testdatei nach Bearbeitung
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -82,7 +89,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

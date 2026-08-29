@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrush eigendom. Ruft die Farbe in der Mitte des Pfadverlaufs ab oder legt sie fest.
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrush-Eigenschaft. Ruft die Farbe im Zentrum des Pfadverlaufs ab oder legt sie fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-Ruft die Farbe in der Mitte des Pfadverlaufs ab oder legt sie fest.
+Liest oder setzt die Farbe im Zentrum des Pfadverlaufs.
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Color`](../../../aspose.psd/color/) die die Farbe in der Mitte des Pfadgradienten darstellt.
+Ein [`Color`](../../../aspose.psd/color/), das die Farbe im Zentrum des Pfadverlaufs darstellt.
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

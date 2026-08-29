@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Model
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft das Modell ab oder legt es fest.
+title: "JpegExifData.Model"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Liest oder setzt das Modell"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
-Ruft das Modell ab oder legt es fest.
+Liest oder setzt das Modell.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Modell.
 
 ### Siehe auch
 
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

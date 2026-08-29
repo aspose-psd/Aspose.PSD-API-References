@@ -1,22 +1,23 @@
 ---
-title: PatternOverlayEffect.EffectType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternOverlayEffect eigendom. Ruft einen Effekttyp type ab
+title: "PatternOverlayEffect.EffectType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternOverlayEffect property. Gibt den Typ des Effekttyps zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.EffectType property
 
-Ruft einen Effekttyp type ab
+Liest einen Effekt-Typ.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType-Eigenschaft.
+Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType‑Eigenschaft.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // es hat gefangen
+            // es wurde abgefangen
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -49,9 +50,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Siehe auch
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [PatternOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

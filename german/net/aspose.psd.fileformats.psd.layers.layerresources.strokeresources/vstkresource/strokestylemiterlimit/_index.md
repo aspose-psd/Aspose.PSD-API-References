@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft die Gehrungsgrenze des Strichstils ab oder legt sie fest.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt das Kehlwinkel-Limit des Strichstils"
 type: docs
-weight: 170
+weight: 150
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
-Ruft die Gehrungsgrenze des Strichstils ab oder legt sie fest.
+Liest oder schreibt die Begrenzung des Strichstil‑Gehrungswinkels.
 
 ```csharp
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gehrungsgrenze des Strichstils.
+Der Gehrungswinkel des Strichstils.
 
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt ein Array von Ganzzahlwerten ohne Vorzeichen in den Stream.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt ein Array von vorzeichenlosen Ganzzahlwerten in den Stream"
 type: docs
 weight: 210
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-Schreibt ein Array von Ganzzahlwerten ohne Vorzeichen in den Stream.
+Schreibt ein Array von unsigned integer-Werten in den Stream.
 
 ```csharp
 public void WriteULongArray(uint[] data)
@@ -16,12 +17,12 @@ public void WriteULongArray(uint[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | UInt32[] | Das zu schreibende Array. |
+| Daten | UInt32[] | Das zu schreibende Array. |
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

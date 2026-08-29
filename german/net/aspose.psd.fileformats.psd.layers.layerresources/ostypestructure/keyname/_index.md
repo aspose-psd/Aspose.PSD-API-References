@@ -1,20 +1,21 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OSTypeStructure eigendom. Ruft den Schlüsselnamen ab oder legt ihn fest.
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OSTypeStructure Eigenschaft. Gibt den Schlüsselnamen zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
-Ruft den Schlüsselnamen ab oder legt ihn fest.
+Liest oder setzt den Schlüsselnamen.
 
 ```csharp
 public ClassID KeyName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Schlüsselname.
 
@@ -22,7 +23,7 @@ Der Schlüsselname.
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

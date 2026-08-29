@@ -1,14 +1,15 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Metered constructeur. Default_Constructor
+title: "Metered.Metered"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Metered-Konstruktor. Der Standardkonstruktor."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/metered/metered/
 ---
+{{< psd/tize >}}
 ## Metered constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public Metered()
@@ -17,7 +18,7 @@ public Metered()
 ### Siehe auch
 
 * class [Metered](../)
-* namensraum [Aspose.PSD](../../metered/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

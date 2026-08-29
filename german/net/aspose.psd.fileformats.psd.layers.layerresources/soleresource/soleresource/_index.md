@@ -1,14 +1,15 @@
 ---
-title: SoLeResource.SoLeResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SoLeResource constructeur. Initialisiert eine neue Instanz vonSoLeResource Klasse.
+title: "SoLeResource.SoLeResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SoLeResource-Konstruktor. Initialisiert eine neue Instanz der SoLeResource‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SoLeResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`SoLeResource`](../)-Klasse.
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,21 +17,21 @@ public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| uniqueId | Guid | Die eindeutige Kennung der platzierten Layer-Daten[`PlLdResource`](../../plldresource/). |
-| isCustom | Boolean | wenn eingestellt`WAHR` [ist Brauch]. |
-| hasCompInfo | Boolean | wenn eingestellt`WAHR` [hat Comp-Informationen]. |
+| uniqueId | Guid | Der eindeutige Bezeichner der platzierten Ebenendaten [`PlLdResource`](../../plldresource/). |
+| isCustom | Boolean | wenn auf `true` gesetzt [ist benutzerdefiniert]. |
+| hasCompInfo | Boolean | wenn auf `true` gesetzt [hat Komponenteninformationen]. |
 
 ### Siehe auch
 
 * class [SoLeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLeResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`SoLeResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`SoLeResource`](../)-Klasse.
 
 ```csharp
 public SoLeResource()
@@ -39,7 +40,7 @@ public SoLeResource()
 ### Siehe auch
 
 * class [SoLeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

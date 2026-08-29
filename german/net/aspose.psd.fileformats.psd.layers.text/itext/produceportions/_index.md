@@ -1,14 +1,15 @@
 ---
-title: IText.ProducePortions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IText methode. Erzeugt die neuen Portionen mit Eingabe oder Standardparametern.
+title: "IText.ProducePortions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IText-Methode. Erzeugt die neuen Portionen mit Eingabe- oder Standardparametern"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortions method
 
-Erzeugt die neuen Portionen mit Eingabe- oder Standardparametern.
+Erzeugt die neuen Abschnitte mit Eingabe- oder Standardparametern.
 
 ```csharp
 public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle stylePrototype, 
@@ -17,23 +18,23 @@ public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle styleP
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| portionsOfText | String[] | Die Textabschnitte neu erstellen[`ITextPortion`](../../itextportion/). |
-| stylePrototype | ITextStyle | Ein Stil, der, wenn er nicht null ist, im neuen angewendet wird, andernfalls wird Standard sein. |
-| paragraphPrototype | ITextParagraph | Ein Absatz, der, wenn er nicht null ist, im neuen angewendet wird, andernfalls wird Standard sein. |
+| portionsOfText | String[] | Die Textportionen, um neue [`ITextPortion`](../../itextportion/) zu erstellen. |
+| stylePrototype | ITextStyle | Ein Stil, der, falls nicht null, im neuen [`ITextPortion`](../../itextportion/) angewendet wird, andernfalls wird der Standardstil verwendet. |
+| paragraphPrototype | ITextParagraph | Ein Absatz, der, falls nicht null, im neuen [`ITextPortion`](../../itextportion/) angewendet wird, andernfalls wird der Standardabsatz verwendet. |
 
 ### Rückgabewert
 
-Gibt die neuen Portionen zurück[`ITextPortion`](../../itextportion/) basierend auf Eingabeparametern.
+Gibt die neuen Portionen [`ITextPortion`](../../itextportion/) basierend auf den Eingabeparametern zurück.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie verschiedene Stile in einer Textebene in Aspose.PSD rendern können
+Das folgende Beispiel zeigt, wie Sie verschiedene Stile in einer Textebene in Aspose.PSD rendern können.
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -56,12 +57,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // Textstil bearbeiten "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // Textstil "2\r" bearbeiten
-    newPortions[2].Style.FauxBold = true; // Textstil "Fett" bearbeiten
-    newPortions[3].Style.FauxItalic = true; // Textstil "Kursiv\r" bearbeiten
-    newPortions[3].Style.BaselineShift = -25; // Textstil "Kursiv\r" bearbeiten
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // Textstil "Lowercasetext" bearbeiten
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -79,7 +80,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

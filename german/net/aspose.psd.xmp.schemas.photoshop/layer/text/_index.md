@@ -1,27 +1,28 @@
 ---
-title: Layer.Text
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft den Textinhalt der Ebene ab oder legt ihn fest.
+title: "Layer.Text"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt den Textinhalt der Ebene zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
-Ruft den Textinhalt der Ebene ab oder legt ihn fest.
+Liest oder setzt den Textinhalt der Ebene.
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Textinhalt der Ebene.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

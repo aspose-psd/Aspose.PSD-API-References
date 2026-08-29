@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSLongArray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Liest ein Array von vorzeichenbehafteten Ganzzahlwerten aus dem Stream.
+title: "TiffStreamReader.ReadSLongArray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest ein Array von vorzeichenbehafteten Ganzzahlen aus dem Stream"
 type: docs
 weight: 140
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLongArray method
 
-Liest ein Array von vorzeichenbehafteten Ganzzahlwerten aus dem Stream.
+Liest ein Array von signierten integer-Werten aus dem Stream.
 
 ```csharp
 public int[] ReadSLongArray(long position, long count)
@@ -16,23 +17,23 @@ public int[] ReadSLongArray(long position, long count)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
-| count | Int64 | Die Elemente zählen. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
+| count | Int64 | Die Elementanzahl. |
 
 ### Rückgabewert
 
-Das Array von ganzzahligen Werten mit Vorzeichen.
+Das Array von vorzeichenbehafteten Ganzzahlen.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Die Gesamtzahl der Bytes ist negativ. + count + x4 = + totalBytes |
+| ArgumentOutOfRangeException | count;Die Gesamtanzahl der Bytes ist negativ. + count + x4= + totalBytes |
 
 ### Siehe auch
 
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

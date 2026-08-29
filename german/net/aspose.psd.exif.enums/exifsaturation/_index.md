@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifSaturation opsomming. ExifSättigungsaufzählung.
+title: "Aufzählung ExifSaturation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation Enum. Exif‑Sättigungs‑Enum"
 type: docs
-weight: 920
+weight: 930
 url: /de/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-Exif-Sättigungsaufzählung.
+exif Sättigungs-Enum.
 
 ```csharp
 public enum ExifSaturation
@@ -24,7 +25,7 @@ public enum ExifSaturation
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

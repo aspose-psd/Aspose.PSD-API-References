@@ -1,27 +1,28 @@
 ---
-title: IColorPalette.EntriesCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IColorPalette eigendom. Ruft die Anzahl der Einträge ab.
+title: "IColorPalette.EntriesCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IColorPalette-Eigenschaft. Gibt die Anzahl der Einträge zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/icolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## IColorPalette.EntriesCount property
 
-Ruft die Anzahl der Einträge ab.
+Gibt die Anzahl der Einträge zurück.
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Einträge zählen.
+Die Anzahl der Einträge.
 
 ### Siehe auch
 
 * interface [IColorPalette](../)
-* namensraum [Aspose.PSD](../../icolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

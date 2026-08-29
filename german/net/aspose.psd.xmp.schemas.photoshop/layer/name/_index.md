@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft den Namen der Textebene ab oder legt ihn fest.
+title: "Layer.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt den Namen der Textebene zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.schemas.photoshop/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-Ruft den Namen der Textebene ab oder legt ihn fest.
+Liest oder setzt den Namen der Textebene.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name der Textebene.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

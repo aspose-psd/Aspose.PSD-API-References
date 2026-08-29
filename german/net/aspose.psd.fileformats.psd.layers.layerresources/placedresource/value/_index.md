@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft den WarpWert der platzierten Ebene im PSDBild ab oder legt ihn fest.
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource Eigenschaft. Liest oder setzt den Verzerrungswert der platzierten Ebene im PSD-Bild"
 type: docs
-weight: 200
+weight: 190
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
-Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest.
+Liest oder legt den Warp-Wert der platzierten Ebene im PSD-Bild fest.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Warp-Wert der platzierten Ebene.
+Der Verzerrungswert der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

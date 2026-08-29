@@ -1,27 +1,28 @@
 ---
-title: UnitStructure.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitStructure eigendom. Ruft den Wert ab oder legt ihn fest.
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitStructure-Eigenschaft. Liest oder schreibt den Wert"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
-Ruft den Wert ab oder legt ihn fest.
+Liest oder setzt den Wert.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
 ### Siehe auch
 
 * class [UnitStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

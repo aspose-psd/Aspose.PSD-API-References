@@ -1,14 +1,15 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ComplexTypeBase constructeur. Initialisiert eine neue Instanz vonComplexTypeBase Klasse.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ComplexTypeBase-Konstruktor. Initialisiert eine neue Instanz der ComplexTypeBase-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Initialisiert eine neue Instanz von[`ComplexTypeBase`](../) Klasse.
+Initialisiert eine neue Instanz der [`ComplexTypeBase`](../)-Klasse.
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
@@ -23,12 +24,12 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Präfix ist null or namespaceUri ist null |
+| ArgumentNullException | prefix ist null oder namespaceUri ist null |
 
 ### Siehe auch
 
 * class [ComplexTypeBase](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

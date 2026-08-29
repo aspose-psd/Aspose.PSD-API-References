@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die planare Konfiguration ab oder legt sie fest.
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt die planare Konfiguration zurück oder legt sie fest"
 type: docs
-weight: 330
+weight: 340
 url: /de/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-Ruft die planare Konfiguration ab oder legt sie fest.
+Liest oder setzt die planare Konfiguration.
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die planare Konfiguration.
 
@@ -22,7 +23,7 @@ Die planare Konfiguration.
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

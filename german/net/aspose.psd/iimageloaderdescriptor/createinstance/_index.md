@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IImageLoaderDescriptor methode. Erstellt eine neue LoaderInstanz.
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IImageLoaderDescriptor-Methode. Erstellt eine neue Loader-Instanz."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
-Erstellt eine neue Loader-Instanz.
+Erstellt eine neue Lader‑Instanz.
 
 ```csharp
 public IImageLoader CreateInstance()
@@ -22,7 +23,7 @@ Eine neue Loader-Instanz.
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* namensraum [Aspose.PSD](../../iimageloaderdescriptor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

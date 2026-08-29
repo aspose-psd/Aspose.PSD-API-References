@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DitheringMode eigendom. Die benutzerdefinierte Palette für Dithering.
+title: "DitheringMode.CustomPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DitheringMode-Eigenschaft. Die benutzerdefinierte Palette für das Dithering"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
 Die benutzerdefinierte Palette für Dithering.
@@ -18,7 +19,7 @@ public IColorPalette CustomPalette { get; set; }
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* namensraum [Aspose.PSD.Dithering](../../ditheringmode/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

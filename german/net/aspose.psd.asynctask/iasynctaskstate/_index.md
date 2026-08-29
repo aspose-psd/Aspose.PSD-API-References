@@ -1,14 +1,15 @@
 ---
-title: Interface IAsyncTaskState
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.AsyncTask.IAsyncTaskState koppel. Bietet Zugriff auf den Status der asynchronen Aufgabe.
+title: "Schnittstelle IAsyncTaskState"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.AsyncTask.IAsyncTaskState Schnittstelle. Bietet Zugriff auf den Zustand der asynchronen Aufgabe."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.asynctask/iasynctaskstate/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState interface
 
-Bietet Zugriff auf den Status der asynchronen Aufgabe.
+Stellt Zugriff auf den Zustand der asynchronen Aufgabe bereit.
 
 ```csharp
 public interface IAsyncTaskState
@@ -18,18 +19,18 @@ public interface IAsyncTaskState
 
 | Name | Beschreibung |
 | --- | --- |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Ruft einen Wert ab, der angibt, ob die asynchrone Aufgabe abgebrochen wurde. |
-| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Ruft den Fortschritt der asynchronen Aufgabe ab. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Gibt einen Wert zurück, der angibt, ob die asynchrone Aufgabe abgebrochen wurde. |
+| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Gibt den Fortschritt der asynchronen Aufgabe zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Legt den Fortschritt der asynchronen Aufgabe fest. |
+| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Setzt den Fortschritt der asynchronen Aufgabe. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

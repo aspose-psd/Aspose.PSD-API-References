@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolStyleInfo eigendom. Ruft den KerningWert ab oder legt ihn fest.
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolStyleInfo-Eigenschaft. Gibt den Kerning-Wert zurück oder legt ihn fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
-Ruft den Kerning-Wert ab oder legt ihn fest.
+Liest oder setzt den Kerning-Wert.
 
 ```csharp
 public int KerningValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Kerning-Wert.
 
 ### Siehe auch
 
 * class [TypeToolStyleInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

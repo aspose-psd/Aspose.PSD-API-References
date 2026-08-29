@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykColor eigendom. Ruft den Schwarzkomponentenwert davon abColorStruktur.
+title: "CmykColor.K"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykColor-Eigenschaft. Gibt den Schwarzkomponentenwert dieser Color-Struktur zurück."
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-Ruft den Schwarzkomponentenwert davon ab[`Color`](../../color/)Struktur.
+Gibt den Schwarzkomponentenwert dieser [`Color`](../../color/) Struktur zurück.
 
 ```csharp
 public byte K { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Schwarzkomponentenwert davon[`Color`](../../color/) .
+Der Schwarzkomponentenwert dieser [`Color`](../../color/).
 
 ### Siehe auch
 
 * struct [CmykColor](../)
-* namensraum [Aspose.PSD](../../cmykcolor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

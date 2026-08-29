@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpBasicPackage methode. Fügt eine StringEigenschaft hinzu.
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpBasicPackage-Methode. Fügt String-Eigenschaft hinzu"
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
-Fügt eine String-Eigenschaft hinzu.
+Fügt eine Zeichenketten-Eigenschaft hinzu.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,19 +17,19 @@ public override void AddValue(string key, string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| key | String | Die Zeichenfolgendarstellung des Schlüssels, der mit Mehrwert gekennzeichnet ist. |
-| value | String | Der Zeichenfolgenwert. |
+| Schlüssel | String | Die Zeichenkettenrepräsentation des Schlüssels, die mit dem hinzugefügten Wert identifiziert wird. |
+| Wert | String | Der Zeichenkettenwert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | key;Metadatenschlüssel ist nicht angegeben |
+| ArgumentNullException | key;Metadaten-Schlüssel ist nicht angegeben |
 
 ### Siehe auch
 
 * class [XmpBasicPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

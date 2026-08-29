@@ -1,27 +1,28 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Bildbreite ab.
+title: "Layer.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Bildbreite zurück"
 type: docs
-weight: 320
+weight: 330
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
-Ruft die Bildbreite ab.
+Liest die Bildbreite.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildbreite.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

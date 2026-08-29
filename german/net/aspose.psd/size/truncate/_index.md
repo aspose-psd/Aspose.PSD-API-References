@@ -1,14 +1,15 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size methode. Konvertiert die angegebeneSizeF Struktur zu aSize Struktur durch Abschneiden der Werte derSizeF Struktur auf die nächstniedrigeren ganzzahligen Werte.
+title: "Size.Truncate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Methode. Konvertiert die angegebene SizeF-Struktur in eine Size-Struktur, indem die Werte der SizeF-Struktur auf die nächstniedrigeren Ganzzahlen abgeschnitten werden."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Konvertiert die angegebene[`SizeF`](../../sizef/) Struktur zu a[`Size`](../) Struktur durch Abschneiden der Werte der[`SizeF`](../../sizef/) Struktur auf die nächstniedrigeren ganzzahligen Werte.
+Konvertiert die angegebene [`SizeF`](../../sizef/)-Struktur in eine [`Size`](../)-Struktur, indem die Werte der [`SizeF`](../../sizef/)-Struktur auf die nächstniedrigeren Ganzzahlen abgeschnitten werden.
 
 ```csharp
 public static Size Truncate(SizeF size)
@@ -16,17 +17,17 @@ public static Size Truncate(SizeF size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| size | SizeF | Der[`SizeF`](../../sizef/) Struktur umzuwandeln. |
+| size | SizeF | Die [`SizeF`](../../sizef/) Struktur, die konvertiert werden soll. |
 
 ### Rückgabewert
 
-Der[`Size`](../) Struktur, in die diese Methode konvertiert.
+Die [`Size`](../) Struktur, in die diese Methode konvertiert.
 
 ### Siehe auch
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

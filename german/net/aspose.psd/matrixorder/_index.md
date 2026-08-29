@@ -1,14 +1,15 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.MatrixOrder opsomming. Gibt die Reihenfolge für Matrixtransformationsoperationen an.
+title: "Aufzählung MatrixOrder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.MatrixOrder enum. Gibt die Reihenfolge für Matrix-Transformationsoperationen an."
 type: docs
-weight: 5100
+weight: 5590
 url: /de/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-Gibt die Reihenfolge für Matrixtransformationsoperationen an.
+Gibt die Reihenfolge für Matrix-Transformationsoperationen an.
 
 ```csharp
 public enum MatrixOrder
@@ -23,7 +24,7 @@ public enum MatrixOrder
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

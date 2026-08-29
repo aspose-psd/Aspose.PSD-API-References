@@ -1,27 +1,28 @@
 ---
-title: IntegerStructure.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IntegerStructure eigendom. Ruft einen ganzzahligen Wert ab oder legt ihn fest.
+title: "IntegerStructure.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IntegerStructure-Eigenschaft. Ruft einen Ganzzahlwert ab oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
-Ruft einen ganzzahligen Wert ab oder legt ihn fest.
+Liest oder setzt einen Ganzzahlwert.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Ein ganzzahliger Wert.
+Ein Ganzzahlwert.
 
 ### Siehe auch
 
 * class [IntegerStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

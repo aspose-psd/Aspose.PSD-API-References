@@ -1,20 +1,21 @@
 ---
-title: AiImage.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft die Version von Adobe Illustrator format ab
+title: "AiImage.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt die Version des Adobe Illustrator-Formats zurück"
 type: docs
-weight: 110
+weight: 130
 url: /de/net/aspose.psd.fileformats.ai/aiimage/version/
 ---
+{{< psd/tize >}}
 ## AiImage.Version property
 
-Ruft die Version von Adobe Illustrator format ab
+Ruft die Version des Adobe Illustrator-Formats ab.
 
 ```csharp
 public AiFormatVersion Version { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Version.
 
@@ -22,7 +23,7 @@ Die Version.
 
 * enum [AiFormatVersion](../../aiformatversion/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

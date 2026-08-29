@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings eigendom. Ruft den FallbackIndex ab oder legt ihn fest der verwendet werden soll wenn der Palettenindex außerhalb der Grenzen liegt
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings-Eigenschaft. Gibt den Fallback-Index zurück oder legt ihn fest, der verwendet wird, wenn der Palettenindex außerhalb des gültigen Bereichs liegt."
 type: docs
 weight: 50
 url: /de/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-Ruft den Fallback-Index ab oder legt ihn fest, der verwendet werden soll, wenn der Palettenindex außerhalb der Grenzen liegt
+Liest oder setzt den Ersatzindex, der verwendet wird, wenn der Palettenindex außerhalb des Bereichs liegt
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der zu verwendende Fallback-Index, wenn der Palettenindex außerhalb der Grenzen liegt
+Der Fallback-Index, der verwendet wird, wenn der Palettenindex außerhalb des gültigen Bereichs liegt.
 
 ### Siehe auch
 
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

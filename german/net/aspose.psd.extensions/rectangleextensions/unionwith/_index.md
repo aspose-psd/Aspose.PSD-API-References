@@ -1,11 +1,12 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleExtensions methode. Vereint zwei Rechtecke.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleExtensions-Methode. Vereinigt zwei Rechtecke"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
 Vereint zwei Rechtecke.
@@ -16,7 +17,7 @@ public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectang
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | RectangleF | Das erste Rechteck. |
+| Rechteck | RectangleF | Das erste Rechteck. |
 | otherRectangle | RectangleF | Das zweite Rechteck. |
 
 ### Rückgabewert
@@ -27,7 +28,7 @@ Neues Rechteck als Ergebnis der Vereinigungsoperation
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* namensraum [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

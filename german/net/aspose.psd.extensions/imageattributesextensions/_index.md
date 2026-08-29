@@ -1,14 +1,15 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Extensions.ImageAttributesExtensions klas. Enthält Erweiterungsmethoden fürImageAttributes UndImageAttributes .
+title: "Klasse ImageAttributesExtensions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Extensions.ImageAttributesExtensions Klasse. Enthält Erweiterungsmethoden für ImageAttributes und ImageAttributes"
 type: docs
-weight: 1110
+weight: 1120
 url: /de/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-Enthält Erweiterungsmethoden für[`ImageAttributes`](../../aspose.psd/imageattributes/) UndImageAttributes .
+Enthält Erweiterungsmethoden für [`ImageAttributes`](../../aspose.psd/imageattributes/) und ImageAttributes.
 
 ```csharp
 public static class ImageAttributesExtensions
@@ -18,11 +19,11 @@ public static class ImageAttributesExtensions
 
 | Name | Beschreibung |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Konvertiert die[`ImageAttributes`](../../aspose.psd/imageattributes/) zumImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Konvertiert das [`ImageAttributes`](../../aspose.psd/imageattributes/) in die ImageAttributes. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

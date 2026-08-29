@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Ändert die Breite proportional.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Skaliert die Breite proportional."
 type: docs
-weight: 600
+weight: 660
 url: /de/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Ändert die Breite proportional.
+Skaliert die Breite proportional.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -17,20 +18,20 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
-| settings | ImageResizeSettings | Die Einstellungen zur Bildgrößenänderung. |
+| Einstellungen | ImageResizeSettings | Die Bildgrößen‑Einstellungen. |
 
 ### Siehe auch
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Ändert die Breite proportional.
+Skaliert die Breite proportional.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -39,13 +40,13 @@ public override void ResizeWidthProportionally(int newWidth, ResizeType resizeTy
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
-| resizeType | ResizeType | Art der Größenänderung. |
+| resizeType | ResizeType | Typ der Größenänderung. |
 
 ### Siehe auch
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

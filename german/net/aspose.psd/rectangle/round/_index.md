@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. Konvertiert die angegebeneRectangleF zu einemRectangle durch Runden derRectangleF Werte auf die nächsten ganzzahligen Werte.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Konvertiert das angegebene RectangleF in ein Rectangle, indem die RectangleF‑Werte auf die nächsten Ganzzahlen gerundet werden."
 type: docs
 weight: 80
 url: /de/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Konvertiert die angegebene[`RectangleF`](../../rectanglef/) zu einem[`Rectangle`](../) durch Runden der[`RectangleF`](../../rectanglef/) Werte auf die nächsten ganzzahligen Werte.
+Konvertiert das angegebene [`RectangleF`](../../rectanglef/) in ein [`Rectangle`](../), indem die [`RectangleF`](../../rectanglef/) Werte auf die nächsten Ganzzahlen gerundet werden.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
@@ -16,17 +17,17 @@ public static Rectangle Round(RectangleF value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | RectangleF | Der[`RectangleF`](../../rectanglef/) umgewandelt werden. |
+| value | RectangleF | Das zu konvertierende [`RectangleF`](../../rectanglef/). |
 
 ### Rückgabewert
 
-Ein neuer[`Rectangle`](../).
+Ein neues [`Rectangle`](../).
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

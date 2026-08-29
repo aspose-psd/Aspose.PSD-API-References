@@ -1,14 +1,15 @@
 ---
-title: PointF.Add
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PointF methode. Übersetzt eine gegebenePointF durch die angegebenenSize .
+title: "PointF.Add"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PointF-Methode. Verschiebt ein angegebenes PointF um die angegebene Größe."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Übersetzt eine gegebene[`PointF`](../) durch die angegebenen[`Size`](../../size/) .
+Verschiebt ein angegebenes [`PointF`](../) um die angegebene [`Size`](../../size/).
 
 ```csharp
 public static PointF Add(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF Add(PointF point, Size size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../) übersetzen. |
-| size | Size | Der[`Size`](../../size/) die die Zahlen angibt, die zu den Koordinaten von addiert werden sollen*point*. |
+| point | PointF | Das zu verschiebende [`PointF`](../). |
+| size | Size | Die [`Size`](../../size/), die die Zahlen angibt, die zu den Koordinaten von *point* hinzugefügt werden. |
 
 ### Rückgabewert
 
-Das übersetzte[`PointF`](../).
+Das verschobene [`PointF`](../).
 
 ### Siehe auch
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Übersetzt eine gegebene[`PointF`](../) durch eine angegebene[`SizeF`](../../sizef/) .
+Verschiebt ein angegebenes [`PointF`](../) um ein angegebenes [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF Add(PointF point, SizeF size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../) übersetzen. |
-| size | SizeF | Der[`SizeF`](../../sizef/) die die Zahlen angibt, die zu den Koordinaten von addiert werden sollen*point*. |
+| point | PointF | Das zu verschiebende [`PointF`](../). |
+| size | SizeF | Die [`SizeF`](../../sizef/), die die Zahlen angibt, die zu den Koordinaten von *point* hinzugefügt werden. |
 
 ### Rückgabewert
 
-Das übersetzte[`PointF`](../).
+Das verschobene [`PointF`](../).
 
 ### Siehe auch
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

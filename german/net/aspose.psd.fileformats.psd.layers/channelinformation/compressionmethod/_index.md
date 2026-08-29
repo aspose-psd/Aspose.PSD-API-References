@@ -1,20 +1,21 @@
 ---
-title: ChannelInformation.CompressionMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ChannelInformation eigendom. Ruft die Komprimierungsmethode ab oder legt sie fest.
+title: "ChannelInformation.CompressionMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ChannelInformation-Eigenschaft. Gibt die Kompressionsmethode zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.CompressionMethod property
 
-Ruft die Komprimierungsmethode ab oder legt sie fest.
+Liest oder setzt die Komprimierungsmethode.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Komprimierungsmethode.
 
@@ -22,7 +23,7 @@ Die Komprimierungsmethode.
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerBlendingRangesData eigendom. Ruft die Länge der LayerMischbereichsdaten in Byte ab.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerBlendingRangesData-Eigenschaft. Gibt die Länge der Layer-Blending-Range-Daten in Bytes zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Ruft die Länge der Layer-Mischbereichsdaten in Byte ab.
+Liest die Länge der Ebenen‑Mischbereichsdaten in Bytes.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Länge der Layer-Mischbereichsdaten.
+Die Länge der Layer-Blending-Range-Daten.
 
 ### Siehe auch
 
 * class [LayerBlendingRangesData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

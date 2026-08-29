@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.PathPoints
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrushBase eigendom. Ruft die Pfadpunkte ab auf denen dieser Pinsel erstellt wurde.
+title: "PathGradientBrushBase.PathPoints"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrushBase-Eigenschaft. Ruft die Pfadpunkte ab, auf denen dieser Pinsel aufgebaut ist."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.brushes/pathgradientbrushbase/pathpoints/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.PathPoints property
 
-Ruft die Pfadpunkte ab, auf denen dieser Pinsel erstellt wurde.
+Liest die Pfadpunkte, auf denen dieser Pinsel aufgebaut ist.
 
 ```csharp
 public PointF[] PathPoints { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Weg zeigt.
+Die Pfadpunkte.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlackWhiteAdjustmentLayer eigendom. Ruft den Dateinamen der SchwarzweißVoreinstellung ab oder legt ihn fest.
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlackWhiteAdjustmentLayer Eigenschaft. Gibt den Schwarz‑Weiß‑Voreinstellungsdateinamen zurück oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-Ruft den Dateinamen der Schwarzweiß-Voreinstellung ab oder legt ihn fest.
+Liest oder setzt den black and white Voreinstellungsdateinamen.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der voreingestellte Dateiname für Schwarzweiß.
+Der Schwarz‑Weiß‑Voreinstellungsdateiname.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie die Eigenschaften der Schwarz-Weiß-Anpassungsebene in Aspose.PSD bearbeiten können
+Das folgende Beispiel zeigt, wie Sie die Eigenschaften des Schwarz-Weiß-Anpassungslayers in Aspose.PSD manipulieren können.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

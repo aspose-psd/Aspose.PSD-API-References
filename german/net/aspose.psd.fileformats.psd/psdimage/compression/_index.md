@@ -1,20 +1,21 @@
 ---
-title: PsdImage.Compression
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft die Komprimierungsmethode ab.
+title: "PsdImage.Compression"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt die Komprimierungsmethode zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd/psdimage/compression/
 ---
+{{< psd/tize >}}
 ## PsdImage.Compression property
 
-Ruft die Komprimierungsmethode ab.
+Liest die Komprimierungsmethode.
 
 ```csharp
 public CompressionMethod Compression { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kompression.
 
@@ -22,7 +23,7 @@ Die Kompression.
 
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

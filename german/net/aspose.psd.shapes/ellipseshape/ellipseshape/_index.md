@@ -1,14 +1,15 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: EllipseShape constructeur. Initialisiert eine neue Instanz vonEllipseShape Klasse.
+title: "EllipseShape.EllipseShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "EllipseShape-Konstruktor. Initialisiert eine neue Instanz der EllipseShape-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-Initialisiert eine neue Instanz von[`EllipseShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`EllipseShape`](../)-Klasse.
 
 ```csharp
 public EllipseShape()
@@ -17,14 +18,14 @@ public EllipseShape()
 ### Siehe auch
 
 * class [EllipseShape](../)
-* namensraum [Aspose.PSD.Shapes](../../ellipseshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`EllipseShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`EllipseShape`](../)-Klasse.
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public EllipseShape(RectangleF rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | RectangleF | Das Rechteck. |
+| Rechteck | RectangleF | Das Rechteck. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* namensraum [Aspose.PSD.Shapes](../../ellipseshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

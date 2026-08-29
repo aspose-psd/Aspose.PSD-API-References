@@ -1,14 +1,15 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IImageCreatorDescriptor methode. Legt fest ob der Bildersteller ein neues Bild mit erstellen kannimageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IImageCreatorDescriptor-Methode. Bestimmt, ob der Bild-Ersteller ein neues Bild mit den imageOptions erstellen kann"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-Legt fest, ob der Bildersteller ein neues Bild mit erstellen kann*imageOptions* .
+Bestimmt, ob der Bild‑Ersteller ein neues Bild mit den *imageOptions* erstellen kann.
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
@@ -20,13 +21,13 @@ public bool CanCreate(ImageOptionsBase imageOptions)
 
 ### Rückgabewert
 
-`WAHR` wenn der durch diesen Deskriptor erstellte Bildersteller Bilddaten unter Verwendung der angegebenen erstellen kann*imageOptions* ; ansonsten,`FALSCH` .
+`True`, wenn der von diesem Deskriptor erstellte Bild-Ersteller Bilddaten mit den angegebenen *imageOptions* erstellen kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* namensraum [Aspose.PSD](../../iimagecreatordescriptor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

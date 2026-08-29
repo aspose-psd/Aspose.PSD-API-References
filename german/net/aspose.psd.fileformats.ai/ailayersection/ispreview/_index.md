@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob es sich bei dieser Ebene um eine Vorschau handelt. Zeigt die in der Ebene enthaltenen Grafiken in Farbe statt als Umrisse an.
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Ebene eine Vorschau ist. Zeigt die in der Ebene enthaltenen Kunstwerke in Farbe anstelle von Konturen."
 type: docs
-weight: 70
+weight: 90
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob es sich bei dieser Ebene um eine Vorschau handelt. Zeigt die in der Ebene enthaltenen Grafiken in Farbe statt als Umrisse an.
+Liest oder setzt einen Wert, der angibt, ob diese Ebene eine Vorschau ist. Zeigt die in der Ebene enthaltenen Grafiken in Farbe anstelle von Konturen.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Ebene eine Vorschau ist; ansonsten,`FALSCH` .
+`true` wenn diese Ebene eine Vorschau ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

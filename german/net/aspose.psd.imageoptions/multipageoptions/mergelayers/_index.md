@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MultiPageOptions eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Ebenen zusammenführen.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MultiPageOptions-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob Ebenen zusammengeführt werden"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Ebenen zusammenführen].
+Liest oder setzt einen Wert, der angibt, ob [merege layers].
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [Ebenen zusammenführen]; ansonsten,`FALSCH` .
+`true` wenn [Ebenen zusammenführen]; sonst `false`.
 
 ### Siehe auch
 
 * class [MultiPageOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

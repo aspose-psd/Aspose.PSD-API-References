@@ -1,11 +1,12 @@
 ---
-title: Namespaces.Xml
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Namespaces veld. XMLNamespace.
+title: "Namespaces.Xml"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Namespaces-Feld. XML-Namespace"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
 XML-Namespace.
@@ -17,7 +18,7 @@ public const string Xml;
 ### Siehe auch
 
 * class [Namespaces](../)
-* namensraum [Aspose.PSD.Xmp](../../namespaces/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

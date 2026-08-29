@@ -1,11 +1,12 @@
 ---
-title: IRasterImageRawDataLoader.LoadRawData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IRasterImageRawDataLoader methode. Lädt Rohdaten.
+title: "IRasterImageRawDataLoader.LoadRawData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IRasterImageRawDataLoader-Methode. Lädt Rohdaten"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/irasterimagerawdataloader/loadrawdata/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.LoadRawData method
 
 Lädt Rohdaten.
@@ -17,9 +18,9 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, aus dem Rohdaten geladen werden sollen. |
-| rawDataSettings | RawDataSettings | Die für geladene Daten zu verwendenden Rohdateneinstellungen. Beachten Sie, dass die Datenkonvertierung durchgeführt wird, wenn die Daten nicht im angegebenen Format vorliegen. |
-| rawDataLoader | IPartialRawDataLoader | Der Rohdatenlader. |
+| Rechteck | Rectangle | Das Rechteck, aus dem Rohdaten geladen werden sollen. |
+| rawDataSettings | RawDataSettings | Die Rohdaten‑Einstellungen, die für geladene Daten verwendet werden sollen. Hinweis: Wenn die Daten nicht im angegebenen Format vorliegen, wird eine Datenkonvertierung durchgeführt. |
+| rawDataLoader | IPartialRawDataLoader | Der Rohdaten‑Lader. |
 
 ### Siehe auch
 
@@ -27,7 +28,7 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * interface [IRasterImageRawDataLoader](../)
-* namensraum [Aspose.PSD](../../irasterimagerawdataloader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

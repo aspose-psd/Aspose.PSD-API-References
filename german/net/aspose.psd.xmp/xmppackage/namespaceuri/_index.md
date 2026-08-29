@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage eigendom. Ruft den NamespaceURI ab.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Eigenschaft. Gibt die Namespace-URI zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-Ruft den Namespace-URI ab.
+Liest die Namespace-URI.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Namespace-URI.
 
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

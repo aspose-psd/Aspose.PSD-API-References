@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FxrpResource eigendom. Liest oder setzt das x des Referenzpunktes
+title: "FxrpResource.X"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FxrpResource-Eigenschaft. Gibt das x des Referenzpunkts zurück oder legt es fest"
 type: docs
-weight: 60
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-Liest oder setzt das x des Referenzpunktes
+Liest oder setzt das x des Referenzpunkts
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das x des Referenzpunktes
+Das x des Referenzpunkts
 
 ### Siehe auch
 
 * class [FxrpResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Inequality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. Testet ob zweiRectangle Strukturen unterscheiden sich in Lage oder Größe.
+title: "Rectangle.op_Inequality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Prüft, ob sich zwei Rectangle‑Strukturen in Position oder Größe unterscheiden."
 type: docs
 weight: 300
 url: /de/net/aspose.psd/rectangle/op_inequality/
 ---
+{{< psd/tize >}}
 ## Rectangle Inequality operator
 
-Testet ob zwei[`Rectangle`](../) Strukturen unterscheiden sich in Lage oder Größe.
+Prüft, ob sich zwei [`Rectangle`](../) Strukturen in Position oder Größe unterscheiden.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator !=(Rectangle left, Rectangle right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Rectangle | Der[`Rectangle`](../) Struktur, die sich links vom Ungleichheitsoperator befindet. |
-| right | Rectangle | Der[`Rectangle`](../) Struktur, die rechts vom Ungleichheitsoperator steht. |
+| left | Rectangle | Die [`Rectangle`](../) Struktur, die links vom Ungleichheitsoperator steht. |
+| right | Rectangle | Die [`Rectangle`](../) Struktur, die rechts vom Ungleichheitsoperator steht. |
 
 ### Rückgabewert
 
-Dieser Operator gibt true zurück, wenn einer der[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) oder[`Height`](../height/) Eigenschaften der beiden[`Rectangle`](../) Strukturen sind ungleich; ansonsten falsch.
+Dieser Operator gibt true zurück, wenn einer der [`X`](../x/), [`Y`](../y/), [`Width`](../width/) oder [`Height`](../height/) Eigenschaften der beiden [`Rectangle`](../) Strukturen ungleich ist; andernfalls false.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

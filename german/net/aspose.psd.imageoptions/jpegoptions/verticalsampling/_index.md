@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Ruft die vertikalen Unterabtastungen für jede Komponente ab oder legt sie fest.
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions Eigenschaft. Liest oder setzt die vertikalen Subsamplings für jede Komponente"
 type: docs
-weight: 200
+weight: 210
 url: /de/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-Ruft die vertikalen Unterabtastungen für jede Komponente ab oder legt sie fest.
+Liest oder setzt die vertikalen Subsamplings für jede Komponente.
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
@@ -17,7 +18,7 @@ public byte[] VerticalSampling { get; set; }
 ### Siehe auch
 
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

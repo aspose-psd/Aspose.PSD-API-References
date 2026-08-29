@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlendingOptions eigendom. Ruft die Effekte ab.
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlendingOptions-Eigenschaft. Gibt die Effekte zurück."
 type: docs
-weight: 10
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
-Ruft die Effekte ab.
+Liest die Effekte.
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Auswirkungen.
+Die Effekte.
 
 ### Siehe auch
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

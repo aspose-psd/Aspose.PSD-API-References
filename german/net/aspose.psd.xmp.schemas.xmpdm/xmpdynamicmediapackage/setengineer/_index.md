@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetEngineer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Stellt den Techniker ein.
+title: "XmpDynamicMediaPackage.SetEngineer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Techniker"
 type: docs
 weight: 200
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setengineer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetEngineer method
 
-Stellt den Techniker ein.
+Legt den Techniker fest.
 
 ```csharp
 public void SetEngineer(string engineer)
@@ -16,12 +17,12 @@ public void SetEngineer(string engineer)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| engineer | String | Die Ingenieurin. |
+| Techniker | String | Der Techniker. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackageBaseCollection methode. Holen Sie sich ein Array vonXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackageBaseCollection-Methode. Gibt ein Array von XmpPackage zurück"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-Holen Sie sich ein Array von[`XmpPackage`](../../xmppackage/) .
+Gibt ein Array von [`XmpPackage`](../../xmppackage/) zurück.
 
 ```csharp
 public XmpPackage[] GetPackages()
@@ -22,7 +23,7 @@ Gibt ein Array von XMP-Paketen zurück.
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Version eigendom. Ruft den Modifikator ab oder legt ihn fest.
+title: "Version.Modifier"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Version-Eigenschaft. Gibt den Modifikator zurück oder legt ihn fest."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-Ruft den Modifikator ab oder legt ihn fest.
+Liest oder setzt den Bearbeiter.
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Modifikator.
 
 ### Siehe auch
 
 * class [Version](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

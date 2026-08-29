@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ClblResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob beschnittene Elemente überblenden.
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ClblResource Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob abgeschnittene Elemente gemischt werden"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [beschnittene Elemente überblenden].
+Liest oder setzt einen Wert, der angibt, ob [blend clipped elements].
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [beschnittene Elemente mischen]; ansonsten,`FALSCH` .
+`true` wenn [blend clipped elements]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ClblResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

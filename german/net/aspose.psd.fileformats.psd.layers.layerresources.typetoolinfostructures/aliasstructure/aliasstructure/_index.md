@@ -1,14 +1,15 @@
 ---
-title: AliasStructure.AliasStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AliasStructure constructeur. Initialisiert eine neue Instanz vonAliasStructure Klasse.
+title: "AliasStructure.AliasStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AliasStructure-Konstruktor. Initialisiert eine neue Instanz der AliasStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure constructor
 
-Initialisiert eine neue Instanz von[`AliasStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`AliasStructure`](../)-Klasse.
 
 ```csharp
 public AliasStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public AliasStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [AliasStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

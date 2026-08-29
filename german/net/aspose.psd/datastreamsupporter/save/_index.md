@@ -1,14 +1,15 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DataStreamSupporter methode. Speichert die Daten des Objekts im aktuellenDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DataStreamSupporter Methode. Speichert die Objektdaten im aktuellen DataStreamSupporter."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Speichert die Daten des Objekts im aktuellen[`DataStreamSupporter`](../) .
+Speichert die Daten des Objekts im aktuellen [`DataStreamSupporter`](../).
 
 ```csharp
 public virtual void Save()
@@ -17,14 +18,14 @@ public virtual void Save()
 ### Siehe auch
 
 * class [DataStreamSupporter](../)
-* namensraum [Aspose.PSD](../../datastreamsupporter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-Speichert die Daten des Objekts im angegebenen Stream.
+Speichert die Objektdaten in den angegebenen Stream.
 
 ```csharp
 public virtual void Save(Stream stream)
@@ -32,19 +33,19 @@ public virtual void Save(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, in dem die Daten des Objekts gespeichert werden sollen. |
+| Strom | Stream | Der Stream, in dem die Daten des Objekts gespeichert werden. |
 
 ### Siehe auch
 
 * class [DataStreamSupporter](../)
-* namensraum [Aspose.PSD](../../datastreamsupporter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_2}
 
-Speichert die Daten des Objekts am angegebenen Dateispeicherort.
+Speichert die Objektdaten am angegebenen Speicherort.
 
 ```csharp
 public void Save(string filePath)
@@ -52,19 +53,19 @@ public void Save(string filePath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filePath | String | Der Dateipfad zum Speichern der Objektdaten. |
+| filePath | String | Der Dateipfad, in dem die Daten des Objekts gespeichert werden. |
 
 ### Siehe auch
 
 * class [DataStreamSupporter](../)
-* namensraum [Aspose.PSD](../../datastreamsupporter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, bool) {#save_3}
 
-Speichert die Daten des Objekts am angegebenen Dateispeicherort.
+Speichert die Objektdaten am angegebenen Speicherort.
 
 ```csharp
 public virtual void Save(string filePath, bool overWrite)
@@ -72,13 +73,13 @@ public virtual void Save(string filePath, bool overWrite)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filePath | String | Der Dateipfad zum Speichern der Objektdaten. |
-| overWrite | Boolean | wenn eingestellt`WAHR` den Dateiinhalt überschreiben, andernfalls wird angehängt. |
+| filePath | String | Der Dateipfad, in dem die Daten des Objekts gespeichert werden. |
+| overWrite | Boolean | Wenn auf `true` gesetzt, werden die Dateiinhalte überschrieben, andernfalls wird angehängt. |
 
 ### Siehe auch
 
 * class [DataStreamSupporter](../)
-* namensraum [Aspose.PSD](../../datastreamsupporter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

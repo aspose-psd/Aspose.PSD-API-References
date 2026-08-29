@@ -1,14 +1,15 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OuterGlowEffect eigendom. Ruft einen Effekttyp type ab
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OuterGlowEffect Eigenschaft. Gibt den Typ des Effekts zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
-Ruft einen Effekttyp type ab
+Liest einen Effekt-Typ.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
@@ -16,9 +17,9 @@ public LayerEffectsTypes EffectType { get; }
 
 ### Siehe auch
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

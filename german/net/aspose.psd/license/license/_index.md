@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PSD für .NET-API-Referenz
-description: License constructeur. Initialisiert eine neue Instanz dieser Klasse.
+title: "License.License"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "License-Konstruktor. Initialisiert eine neue Instanz dieser Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 Initialisiert eine neue Instanz dieser Klasse.
@@ -14,9 +15,9 @@ Initialisiert eine neue Instanz dieser Klasse.
 public License()
 ```
 
-### Beispiele
+## Beispiele
 
-In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic in dem Ordner zu finden, der die Komponente enthält, in dem Ordner, der die aufrufende Assembly enthält, im Ordner des Eintrags Assembly und dann in die eingebetteten Ressourcen der aufrufenden Assembly.
+In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic im Ordner zu finden, der die Komponente enthält, im Ordner, der die aufrufende Assembly enthält, im Ordner der Einstieg-Assembly und anschließend in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ License.SetLicense("MyLicense.lic")
 ### Siehe auch
 
 * class [License](../)
-* namensraum [Aspose.PSD](../../license/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

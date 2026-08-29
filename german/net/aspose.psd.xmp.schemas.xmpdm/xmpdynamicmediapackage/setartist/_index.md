@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetArtist
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt den Künstler fest.
+title: "XmpDynamicMediaPackage.SetArtist"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Künstler"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setartist/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetArtist method
 
 Legt den Künstler fest.
@@ -16,12 +17,12 @@ public void SetArtist(string artist)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| artist | String | Der Künstler. |
+| Künstler | String | Der Künstler. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

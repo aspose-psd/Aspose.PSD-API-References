@@ -1,27 +1,28 @@
 ---
-title: CustResource.LayerCreatedDateTime
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CustResource eigendom. Ruft das Erstellungsdatum des Layers ab oder legt es fest.
+title: "CustResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CustResource Eigenschaft. Ruft das Erstellungsdatum der Ebene ab oder legt es fest"
 type: docs
-weight: 30
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## CustResource.LayerCreatedDateTime property
 
-Ruft das Erstellungsdatum des Layers ab oder legt es fest.
+Liest oder setzt das Erstellungsdatum der Ebene.
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Erstellungsdatum der Ebene.
 
 ### Siehe auch
 
 * class [CustResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

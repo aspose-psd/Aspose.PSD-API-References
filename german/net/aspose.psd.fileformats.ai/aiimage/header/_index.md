@@ -1,28 +1,29 @@
 ---
-title: AiImage.Header
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft den Header ab.
+title: "AiImage.Header"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt den Header zurück"
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
-Ruft den Header ab.
+Liest den Header.
 
 ```csharp
 public AiHeader Header { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Überschrift.
+Der Header.
 
 ### Siehe auch
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AdjustContrast
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Bildkontrast
+title: "PsdImage.AdjustContrast"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Bildkontrast."
 type: docs
-weight: 450
+weight: 510
 url: /de/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustContrast method
 
-Bildkontrast
+Bildkontrastierung
 
 ```csharp
 public override void AdjustContrast(float contrast)
@@ -16,12 +17,12 @@ public override void AdjustContrast(float contrast)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| contrast | Single | Kontrastwert (im Bereich [-100; 100]) |
+| Kontrast | Single | Kontrastwert (im Bereich [-100; 100]) |
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

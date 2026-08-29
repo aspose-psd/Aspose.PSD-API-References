@@ -1,14 +1,15 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitArrayStructure constructeur. Initialisiert eine neue Instanz vonUnitArrayStructure Klasse.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitArrayStructure Konstruktor. Initialisiert eine neue Instanz der UnitArrayStructure‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-Initialisiert eine neue Instanz von[`UnitArrayStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`UnitArrayStructure`](../) Klasse.
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
@@ -26,7 +27,7 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 | --- | --- |
 | ArgumentNullException | Werte dürfen nicht null sein |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -85,7 +86,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

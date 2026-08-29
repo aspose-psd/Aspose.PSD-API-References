@@ -1,20 +1,21 @@
 ---
-title: ExifData.GainControl
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Grad der allgemeinen Bildverstärkungsanpassung ab oder legt ihn fest.
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt den Grad der gesamten Bildverstärkungsanpassung"
 type: docs
 weight: 340
 url: /de/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-Ruft den Grad der allgemeinen Bildverstärkungsanpassung ab oder legt ihn fest.
+Liest oder setzt den Grad der Gesamtverstärkungsanpassung des Bildes.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Grad der gesamten Bildverstärkungsanpassung.
 
@@ -22,7 +23,7 @@ Der Grad der gesamten Bildverstärkungsanpassung.
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IImageCreator.Create
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IImageCreator methode. Erstellt eine neue Bildinstanz mitimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IImageCreator-Methode. Erstellt eine neue Bildinstanz mit imageOptions."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-Erstellt eine neue Bildinstanz mit*imageOptions* .
+Erstellt eine neue Bildinstanz mit *imageOptions*.
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
@@ -17,10 +18,10 @@ public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptio
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container zum Erstellen von Bilddaten. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem Bilddaten erstellt werden. |
 | imageOptions | ImageOptionsBase | Die Bildoptionen. |
-| width | Int32 | Breite des neuen Bildes |
-| height | Int32 | Höhe des neuen Bildes |
+| Breite | Int32 | Breite des neuen Bildes |
+| Höhe | Int32 | Höhe des neuen Bildes |
 
 ### Rückgabewert
 
@@ -32,7 +33,7 @@ Eine neue Bildinstanz.
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* namensraum [Aspose.PSD](../../iimagecreator/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

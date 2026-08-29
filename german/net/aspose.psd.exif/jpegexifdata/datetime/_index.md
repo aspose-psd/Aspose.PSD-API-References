@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.DateTime
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft die Datumszeit ab oder legt sie fest.
+title: "JpegExifData.DateTime"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft Datum und Uhrzeit ab oder legt sie fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.exif/jpegexifdata/datetime/
 ---
+{{< psd/tize >}}
 ## JpegExifData.DateTime property
 
-Ruft die Datumszeit ab oder legt sie fest.
+Liest oder setzt das Datum und die Uhrzeit.
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Datumszeit.
+Datum und Uhrzeit.
 
 ### Siehe auch
 
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

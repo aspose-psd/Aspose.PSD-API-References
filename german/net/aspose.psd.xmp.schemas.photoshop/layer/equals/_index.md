@@ -1,14 +1,15 @@
 ---
-title: Layer.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer methode. Bestimmt ob die angegebeneObject  entspricht dieser Instanz.
+title: "Layer.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Methode. Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.schemas.photoshop/layer/equals/
 ---
+{{< psd/tize >}}
 ## Equals(object) {#equals_1}
 
-Bestimmt, ob die angegebeneObject , entspricht dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,23 +17,23 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Object | Das Object zum Vergleich mit dieser Instanz. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene Object dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(Layer) {#equals}
 
-Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist.
 
 ```csharp
 public bool Equals(Layer other)
@@ -40,16 +41,16 @@ public bool Equals(Layer other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | Layer | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
+| other | Ebene | Ein Objekt zum Vergleich mit diesem Objekt. |
 
 ### Rückgabewert
 
-wahr, wenn das aktuelle Objekt gleich dem ist*other* Parameter; andernfalls falsch.
+true, wenn das aktuelle Objekt dem *other*-Parameter gleich ist; andernfalls false.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

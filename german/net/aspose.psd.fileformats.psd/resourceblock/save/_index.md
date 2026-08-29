@@ -1,14 +1,15 @@
 ---
-title: ResourceBlock.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceBlock methode. Speichert den Ressourcenblock im angegebenen Stream.
+title: "ResourceBlock.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceBlock-Methode. Speichert den Ressourcenblock in den angegebenen Stream"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd/resourceblock/save/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Save method
 
-Speichert den Ressourcenblock im angegebenen Stream.
+Speichert den Ressourcenblock in den angegebenen Stream.
 
 ```csharp
 public void Save(StreamContainer stream)
@@ -16,13 +17,13 @@ public void Save(StreamContainer stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | StreamContainer | Der Stream, in dem der Ressourcenblock gespeichert werden soll. |
+| Strom | StreamContainer | Der Stream, in den der Ressourcenblock gespeichert wird. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ResourceBlock](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

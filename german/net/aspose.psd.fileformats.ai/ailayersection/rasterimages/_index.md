@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft die Rasterbilder ab.
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt die Rasterbilder zurück."
 type: docs
-weight: 120
+weight: 140
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-Ruft die Rasterbilder ab.
+Liest die Rasterbilder.
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Rasterbilder.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Einstellungen von Rasterbildern in AI-Formatdateien geladen werden.
+Der folgende Code demonstriert, wie Einstellungen von Rasterbildern in AI‑Formatdateien geladen werden.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IPartialPixelLoader koppel. Entspricht den teilweise geladenen Pixeln.
+title: "Interface IPartialPixelLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IPartialPixelLoader‑Interface. Entspricht den teilweise geladenen Pixeln"
 type: docs
-weight: 4530
+weight: 5000
 url: /de/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
 Entspricht den teilweise geladenen Pixeln.
@@ -22,7 +23,7 @@ public interface IPartialPixelLoader
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

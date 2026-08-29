@@ -1,14 +1,15 @@
 ---
-title: Class FillLayerResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FillLayerResource klas. Basisklasse für FüllschichtRessourcen
+title: "Klasse FillLayerResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FillLayerResource Klasse. Basisklasse für Füllschicht-Ressourcen"
 type: docs
-weight: 2470
+weight: 2730
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/
 ---
+{{< psd/tize >}}
 ## FillLayerResource class
 
-Basisklasse für Füllschicht-Ressourcen
+Basisklasse für Füllebenen-Ressourcen.
 
 ```csharp
 public abstract class FillLayerResource : LayerResource
@@ -18,22 +19,22 @@ public abstract class FillLayerResource : LayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| abstract [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/filllayerresource/signature/) { get; } | Ruft die Signatur ab. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| abstract [Length](../../aspose.psd.fileformats.psd.layers/layerresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| abstract [Save](../../aspose.psd.fileformats.psd.layers/layerresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

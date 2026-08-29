@@ -1,20 +1,21 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage eigendom. Ruft das Rohdatenformat ab.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage Eigenschaft. Gibt das Rohdatenformat zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
-Ruft das Rohdatenformat ab.
+Liest das Rohdatenformat.
 
 ```csharp
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Rohdatenformat.
 
@@ -22,7 +23,7 @@ Das Rohdatenformat.
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

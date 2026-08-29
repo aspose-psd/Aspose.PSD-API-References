@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CgEdResource eigendom. Ruft die PSDVersion ab.
+title: "CgEdResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CgEdResource-Eigenschaft. Ruft die PSD-Version ab"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/
 ---
+{{< psd/tize >}}
 ## CgEdResource.PsdVersion property
 
-Ruft die PSD-Version ab.
+Gibt die PSD-Version zurück.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [CgEdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

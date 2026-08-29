@@ -1,14 +1,15 @@
 ---
-title: BooleanResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BooleanResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "BooleanResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BooleanResource-Eigenschaft. Gibt die Länge der Ebenenressource in Bytes zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [BooleanResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

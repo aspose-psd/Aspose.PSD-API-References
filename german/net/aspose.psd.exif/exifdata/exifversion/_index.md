@@ -1,27 +1,28 @@
 ---
-title: ExifData.ExifVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die EXIFVersion ab oder legt sie fest.
+title: "ExifData.ExifVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die EXIF-Version"
 type: docs
 weight: 180
 url: /de/net/aspose.psd.exif/exifdata/exifversion/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifVersion property
 
-Ruft die EXIF-Version ab oder legt sie fest.
+Liest oder setzt die EXIF-Version.
 
 ```csharp
 public byte[] ExifVersion { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die EXIF-Version.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

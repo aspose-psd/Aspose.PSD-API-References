@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.HorizontalMeshPoints
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPlacedLayerResource eigendom. Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSDDatei.
+title: "IPlacedLayerResource.HorizontalMeshPoints"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPlacedLayerResource Eigenschaft. Ruft die horizontalen Mesh-Punkte der platzierten Ebene in der PSD-Datei ab oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.HorizontalMeshPoints property
 
-Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei.
+Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei.
 
 ```csharp
 public double[] HorizontalMeshPoints { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die horizontalen Gitterpunkte der platzierten Ebene.
+Die horizontalen Netzpunkte der platzierten Ebene.
 
 ### Siehe auch
 
 * interface [IPlacedLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResourceData eigendom. Ruft die Musterkennung ab oder legt sie fest.
+title: "PattResourceData.PatternId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResourceData-Eigenschaft. Gibt die Musterkennung zurück oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternId property
 
-Ruft die Musterkennung ab oder legt sie fest.
+Liest oder setzt die Musterkennung.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Musterkennung.
+Der Musterbezeichner.
 
 ### Siehe auch
 
 * class [PattResourceData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Auflösungseinheit ab oder legt sie fest.
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Ruft die Auflösungseinheit ab oder legt sie fest"
 type: docs
-weight: 370
+weight: 380
 url: /de/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
-Ruft die Auflösungseinheit ab oder legt sie fest.
+Liest oder setzt die Auflösungseinheit.
 
 ```csharp
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Auflösungseinheit.
 
@@ -22,7 +23,7 @@ Die Auflösungseinheit.
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

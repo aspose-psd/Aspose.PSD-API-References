@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorRangeHsl eigendom. Ruft die Helligkeit ab oder legt sie fest.
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorRangeHsl-Eigenschaft. Gibt die Helligkeit zurück oder setzt sie"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
 Ruft die Helligkeit ab oder legt sie fest.
@@ -14,14 +15,14 @@ Ruft die Helligkeit ab oder legt sie fest.
 public short Lightness { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Leichtigkeit.
+Die Helligkeit.
 
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

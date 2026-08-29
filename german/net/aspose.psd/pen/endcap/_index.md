@@ -1,34 +1,35 @@
 ---
-title: Pen.EndCap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ermittelt oder setzt den Kappenstil der am Ende der damit gezeichneten Linien verwendet wirdPen .
+title: "Pen.EndCap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Gibt den Endkap-Stil zurück, der am Ende von mit diesem Pen gezeichneten Linien verwendet wird, oder legt ihn fest."
 type: docs
 weight: 120
 url: /de/net/aspose.psd/pen/endcap/
 ---
+{{< psd/tize >}}
 ## Pen.EndCap property
 
-Ermittelt oder setzt den Kappenstil, der am Ende der damit gezeichneten Linien verwendet wird[`Pen`](../) .
+Gibt den Kap-Stil zurück, der am Ende von mit diesem [`Pen`](../) gezeichneten Linien verwendet wird, oder legt ihn fest.
 
 ```csharp
 public LineCap EndCap { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Einer der[`LineCap`](../../linecap/) Werte, die den Kappenstil darstellen, der am Ende der damit gezeichneten Linien verwendet wird[`Pen`](../).
+Einer der [`LineCap`](../../linecap/)-Werte, der den Kap-Stil darstellt, der am Ende von mit diesem [`Pen`](../) gezeichneten Linien verwendet wird.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`EndCap` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `EndCap`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie zum Beispiel bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

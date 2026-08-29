@@ -1,27 +1,28 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpInteger eigendom. Ruft den Wert ab oder legt ihn fest.
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpInteger‑Eigenschaft. Gibt den Wert zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
-Ruft den Wert ab oder legt ihn fest.
+Liest oder setzt den Wert.
 
 ```csharp
 public long Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
 ### Siehe auch
 
 * class [XmpInteger](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

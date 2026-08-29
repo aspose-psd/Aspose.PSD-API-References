@@ -1,20 +1,21 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykChannelMixerLayer eigendom. Ruft den MagentaKanal ab.
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykChannelMixerLayer-Eigenschaft. Gibt den Magenta-Kanal zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
-Ruft den Magenta-Kanal ab.
+Liest den Magenta-Kanal.
 
 ```csharp
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Magenta-Kanal.
 
@@ -22,7 +23,7 @@ Der Magenta-Kanal.
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpTrailerPi.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpTrailerPi methode. Gibt an ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+title: "XmpTrailerPi.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpTrailerPi-Methode. Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp/xmptrailerpi/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpTrailerPi) {#equals}
 
-Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist.
+Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist.
 
 ```csharp
 public bool Equals(XmpTrailerPi other)
@@ -16,23 +17,23 @@ public bool Equals(XmpTrailerPi other)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| other | XmpTrailerPi | Ein Objekt, das mit diesem Objekt verglichen werden soll. |
+| other | XmpTrailerPi | Ein Objekt zum Vergleich mit diesem Objekt. |
 
 ### Rückgabewert
 
-wahr, wenn das aktuelle Objekt gleich dem ist*other* Parameter; andernfalls falsch.
+true, wenn das aktuelle Objekt dem *other*-Parameter gleich ist; andernfalls false.
 
 ### Siehe auch
 
 * class [XmpTrailerPi](../)
-* namensraum [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Bestimmt, ob die angegebeneObject , entspricht dieser Instanz.
+Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject mit dieser Instanz zu vergleichen. |
+| obj | Object | Das Object zum Vergleich mit dieser Instanz. |
 
 ### Rückgabewert
 
-`WAHR` wenn die angegebenObject ist gleich dieser Instanz; ansonsten,`FALSCH` .
+`true`, wenn das angegebene Object dieser Instanz gleich ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [XmpTrailerPi](../)
-* namensraum [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

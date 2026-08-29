@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LspfResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz zusammengesetzt geschützt ist.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LspfResource Eigenschaft. Liefert oder setzt einen Wert, der angibt, ob diese Instanz composite protected ist"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz zusammengesetzt geschützt ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz zusammengesetzt geschützt ist.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz zusammengesetzt geschützt ist; ansonsten,`FALSCH` .
+`true` wenn diese Instanz composite protected ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LspfResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

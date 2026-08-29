@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedMemoryBytesCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Cache eigendom. Ruft die Anzahl der zugewiesenen InMemoryBytes ab.
+title: "Cache.AllocatedMemoryBytesCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Cache-Eigenschaft. Gibt die zugewiesene In‑Memory‑Byte‑Anzahl zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/cache/allocatedmemorybytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedMemoryBytesCount property
 
-Ruft die Anzahl der zugewiesenen In-Memory-Bytes ab.
+Gibt die Anzahl der zugewiesenen In-Memory-Bytes zurück.
 
 ```csharp
 public static long AllocatedMemoryBytesCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzahl der zugewiesenen In-Memory-Bytes.
+Die zugewiesene In‑Memory‑Byte‑Anzahl.
 
 ### Siehe auch
 
 * class [Cache](../)
-* namensraum [Aspose.PSD](../../cache/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

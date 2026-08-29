@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifGainControl opsomming. ExifVerstärkungssteuerung enum.
+title: "Aufzählung ExifGainControl"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl Enum. Exif‑Verstärkungssteuerungs‑Enum"
 type: docs
-weight: 880
+weight: 890
 url: /de/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-Exif-Verstärkungssteuerung enum.
+exif Verstärkungssteuerungs-Enum.
 
 ```csharp
 public enum ExifGainControl
@@ -18,15 +19,15 @@ public enum ExifGainControl
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Keine Verstärkungsregelung. |
+| None | `0` | Keine Verstärkungssteuerung. |
 | LowGainUp | `1` | Niedrige Verstärkung nach oben. |
 | HighGainUp | `2` | Hohe Verstärkung nach oben. |
 | LowGainDown | `3` | Niedrige Verstärkung nach unten. |
-| HighGainDown | `4` | High Gain nach unten. |
+| HighGainDown | `4` | Hohe Verstärkung nach unten. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

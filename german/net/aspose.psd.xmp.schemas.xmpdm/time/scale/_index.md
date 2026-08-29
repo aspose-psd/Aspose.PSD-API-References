@@ -1,32 +1,33 @@
 ---
-title: Time.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Time eigendom. Ruft die Skala für den Zeitwert ab oder legt sie fest.
+title: "Time.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Time-Eigenschaft. Ruft die Skala für den Zeitwert ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/time/scale/
 ---
+{{< psd/tize >}}
 ## Time.Scale property
 
-Ruft die Skala für den Zeitwert ab oder legt sie fest.
+Liest oder setzt die Skalierung für den Zeitwert.
 
 ```csharp
 public Rational Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Skala für den Zeitwert.
 
-### Beispiele
+## Beispiele
 
-Verwenden Sie für NTSC 1001/30000 oder das weniger genaue 100/2997. Verwenden Sie für PAL 1/25.
+Für NTSC verwenden Sie 1001/30000 oder die weniger genaue 100/2997. Für PAL verwenden Sie 1/25.
 
 ### Siehe auch
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

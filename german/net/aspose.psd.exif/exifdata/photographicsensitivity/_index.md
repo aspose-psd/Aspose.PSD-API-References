@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die fotografische Empfindlichkeit ab oder legt sie fest.
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die fotografische Empfindlichkeit zurück oder legt sie fest"
 type: docs
 weight: 830
 url: /de/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-Ruft die fotografische Empfindlichkeit ab oder legt sie fest.
+Liest oder setzt die fotografische Empfindlichkeit.
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die fotografische Empfindlichkeit.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpRdfRoot methode. Ruft NamespaceURI nach spezifischem Präfix ab. Präfix darf ohne xmlns. beginnen
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpRdfRoot-Methode. Gibt den Namespace-URI anhand eines bestimmten Präfixes zurück. Das Präfix kann ohne xmlns beginnen."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-Ruft Namespace-URI nach spezifischem Präfix ab. Präfix darf ohne xmlns. beginnen
+Liefert den Namensraum‑URI anhand eines bestimmten Präfixes. Das Präfix kann ohne xmlns beginnen.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
@@ -20,12 +21,12 @@ public string GetNamespaceUri(string prefix)
 
 ### Rückgabewert
 
-Gibt einen Paketschema-URI zurück.
+Gibt einen Paket-Schema-URI zurück.
 
 ### Siehe auch
 
 * class [XmpRdfRoot](../)
-* namensraum [Aspose.PSD.Xmp](../../xmprdfroot/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.HotkeyPrefix opsomming. Gibt die Art der Anzeige für HotkeyPräfixe an die sich auf Text beziehen.
+title: "Aufzählung HotkeyPrefix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.HotkeyPrefix-Enum. Gibt den Anzeigetyp für Hotkey-Präfixe an, die sich auf Text beziehen."
 type: docs
-weight: 4350
+weight: 4820
 url: /de/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-Gibt die Art der Anzeige für Hotkey-Präfixe an, die sich auf Text beziehen.
+Gibt den Anzeigetyp für Tastenkombinationspräfixe an, die sich auf Text beziehen.
 
 ```csharp
 public enum HotkeyPrefix
@@ -19,12 +20,12 @@ public enum HotkeyPrefix
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | None | `0` | Kein Hotkey-Präfix. |
-| Show | `1` | Zeigt das Hotkey-Präfix an. |
-| Hide | `2` | Hotkey-Präfix nicht anzeigen. |
+| Show | `1` | Zeige das Hotkey-Präfix an. |
+| Hide | `2` | Zeige das Hotkey-Präfix nicht an. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

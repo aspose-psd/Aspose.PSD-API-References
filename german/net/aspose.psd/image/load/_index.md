@@ -1,11 +1,12 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Lädt ein neues Bild aus der angegebenen Datei.
+title: "Image.Load"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Lädt ein neues Bild aus der angegebenen Datei"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
 Lädt ein neues Bild aus der angegebenen Datei.
@@ -16,7 +17,7 @@ public static Image Load(string filePath, LoadOptions loadOptions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filePath | String | Der Dateipfad, aus dem das Bild geladen werden soll. |
+| filePath | String | Der Dateipfad, aus dem das Bild geladen wird. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Rückgabewert
@@ -27,8 +28,8 @@ Das geladene Bild.
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,28 +43,28 @@ public static Image Load(string filePath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filePath | String | Der Dateipfad, aus dem das Bild geladen werden soll. |
+| filePath | String | Der Dateipfad, aus dem das Bild geladen wird. |
 
 ### Rückgabewert
 
 Das geladene Bild.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt das Laden einer vorhandenen Bilddatei in eine Instanz von Aspose.PSD.Image unter Verwendung des angegebenen Dateipfads
+Dieses Beispiel demonstriert das Laden einer vorhandenen Image-Datei in eine Instanz von Aspose.PSD.Image unter Verwendung des angegebenen Dateipfads.
 
 ```csharp
 [C#]
 
-//Bildinstanz erstellen und mit einer vorhandenen Bilddatei vom Speicherort initialisieren
+//Erstelle eine Image-Instanz und initialisiere sie mit einer vorhandenen Bilddatei vom Festplattenspeicherort.
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // Bildverarbeitung durchführen
+    //Führe einige Bildverarbeitungen durch
 }
 ```
 
-Das folgende Beispiel zeigt, dass die Textausrichtung durch ITextPortion für rechts-nach-links-Sprachen ordnungsgemäß funktioniert.
+Das folgende Beispiel zeigt, dass die Textausrichtung über ITextPortion für Rechts-nach-Links-Sprachen korrekt funktioniert.
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Das folgende Beispiel zeigt, dass das Lesen und Speichern der Graustufen-16-Bit-PSD-Dateien in 16-Bit-RGB pro Kanal korrekt und ohne Ausnahme funktioniert.
+Das folgende Beispiel zeigt, dass das Lesen und Speichern von 16‑Bit‑Graustufen‑PSD‑Dateien in 16‑Bit‑pro‑Kanal‑RGB korrekt funktioniert und ohne Ausnahme.
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Hier sollte keine Ausnahme sein.
+    // Hier sollte keine Ausnahme auftreten.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Das folgende Beispiel zeigt, dass das Lesen und Speichern der Graustufen-16-Bit-PSD-Dateien in 8-Bit-Graustufen pro Kanal korrekt und ohne Ausnahme funktioniert.
+Das folgende Beispiel zeigt, dass das Lesen und Speichern von 16‑Bit‑Graustufen‑PSD‑Dateien in 8‑Bit‑pro‑Kanal‑Graustufen korrekt funktioniert und ohne Ausnahme.
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Hier sollte keine Ausnahme sein.
+    // Hier sollte keine Ausnahme auftreten.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Das folgende Beispiel zeigt, dass der Dokumentkonvertierungsfortschritt korrekt und ohne Ausnahme funktioniert.
+Das folgende Beispiel demonstriert, dass der Dokumentkonvertierungsfortschritt korrekt funktioniert und ohne Ausnahme.
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Das folgende Beispiel zeigt, dass das Lesen und Speichern der Graustufen-16-Bit-PSD-Dateien korrekt und ohne Ausnahme funktioniert.
+Das folgende Beispiel demonstriert, dass das Lesen und Speichern von 16‑Bit Graustufen‑PSD‑Dateien korrekt und ohne Ausnahme funktioniert.
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Hier sollte keine Ausnahme sein.
+        // Hier sollte keine Ausnahme auftreten.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -258,8 +259,8 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -273,7 +274,7 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, aus dem das Bild geladen werden soll. |
+| Strom | Stream | Der Stream, aus dem das Bild geladen wird. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Rückgabewert
@@ -284,8 +285,8 @@ Das geladene Bild.
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -299,26 +300,26 @@ public static Image Load(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, aus dem das Bild geladen werden soll. |
+| Strom | Stream | Der Stream, aus dem das Bild geladen wird. |
 
 ### Rückgabewert
 
 Das geladene Bild.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Verwendung von System.IO.Stream-Objekten zum Laden einer vorhandenen Bilddatei
+Dieses Beispiel demonstriert die Verwendung von System.IO.Stream-Objekten zum Laden einer vorhandenen Image-Datei.
 
 ```csharp
 [C#]
 
-//Eine Instanz von FileStream erstellen
+//Erstelle eine Instanz von FileStream.
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    //Eine Instanz der Image-Klasse erstellen und eine vorhandene Datei durch das FileStream-Objekt laden, indem die Load-Methode aufgerufen wird
+    //Erstelle eine Instanz der Image-Klasse und lade eine vorhandene Datei über ein FileStream-Objekt, indem du die Load-Methode aufrufst.
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        // Bildverarbeitung durchführen.
+        //Führe einige Bildverarbeitungen durch.
     }
 }
 ```
@@ -326,7 +327,7 @@ using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.ps
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

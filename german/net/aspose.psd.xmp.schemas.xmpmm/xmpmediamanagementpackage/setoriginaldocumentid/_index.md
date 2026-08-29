@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetOriginalDocumentId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpMediaManagementPackage methode. Legt die OriginaldokumentID fest.
+title: "XmpMediaManagementPackage.SetOriginalDocumentId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpMediaManagementPackage-Methode. Legt die ursprüngliche Dokumenten‑ID fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setoriginaldocumentid/
 ---
+{{< psd/tize >}}
 ## SetOriginalDocumentId(Guid) {#setoriginaldocumentid}
 
-Legt die Originaldokument-ID fest.
+Setzt die ursprüngliche Dokumenten-ID.
 
 ```csharp
 public void SetOriginalDocumentId(Guid guid)
@@ -16,19 +17,19 @@ public void SetOriginalDocumentId(Guid guid)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| guid | Guid | Die eindeutige Kennung. |
+| GUID | Guid | Der eindeutige Bezeichner. |
 
 ### Siehe auch
 
 * class [XmpMediaManagementPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetOriginalDocumentId(string) {#setoriginaldocumentid_1}
 
-Legt die Originaldokument-ID fest.
+Setzt die ursprüngliche Dokumenten-ID.
 
 ```csharp
 public void SetOriginalDocumentId(string guid)
@@ -36,12 +37,12 @@ public void SetOriginalDocumentId(string guid)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| guid | String | Die eindeutige Kennung. |
+| GUID | String | Der eindeutige Bezeichner. |
 
 ### Siehe auch
 
 * class [XmpMediaManagementPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

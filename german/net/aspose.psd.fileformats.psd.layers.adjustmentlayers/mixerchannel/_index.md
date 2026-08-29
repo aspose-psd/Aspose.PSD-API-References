@@ -1,14 +1,15 @@
 ---
-title: Class MixerChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel klas. MixerChannel. Es ist ein Wrapper für KanalRohdaten. Verwendet in MixrResource
+title: "Klasse MixerChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel Klasse. MixerChannel. Ihr Wrapper für Kanal-Rohdaten. Verwendet in MixrResource"
 type: docs
-weight: 1780
+weight: 1850
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
-MixerChannel. Es ist ein Wrapper für Kanal-Rohdaten. Verwendet in MixrResource
+MixerChannel. Es ist ein Wrapper für rohe Kanaldaten. Wird in MixrResource verwendet.
 
 ```csharp
 public abstract class MixerChannel
@@ -18,17 +19,17 @@ public abstract class MixerChannel
 
 | Name | Beschreibung |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Ruft die Konstante des Kanals ab oder setzt sie. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Liest oder setzt die Konstante des Kanals. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Ruft die Rohdaten ab. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Liest die Rohdaten. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

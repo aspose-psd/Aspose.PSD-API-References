@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IopaResource eigendom. Ruft die Deckkraft der Füllung ab oder legt sie fest.
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IopaResource Eigenschaft. Gibt die Füll-Opazität zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-Ruft die Deckkraft der Füllung ab oder legt sie fest.
+Liefert oder setzt die Füll‑Deckkraft.
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Deckkraft der Füllung.
+Die Füll-Opazität.
 
 ### Siehe auch
 
 * class [IopaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

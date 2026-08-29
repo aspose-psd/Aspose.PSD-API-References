@@ -1,14 +1,15 @@
 ---
-title: VectorPathDataResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorPathDataResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "VectorPathDataResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorPathDataResource-Eigenschaft. Gibt die Länge der Ebenenressource in Bytes zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [VectorPathDataResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

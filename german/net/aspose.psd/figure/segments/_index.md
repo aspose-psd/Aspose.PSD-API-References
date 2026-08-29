@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Figure eigendom. Ruft die ganzen Figursegmente ab.
+title: "Figure.Segments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Figure-Eigenschaft. Gibt die gesamten Figursegmente zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-Ruft die ganzen Figursegmente ab.
+Liest die gesamten Figursegmente.
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Figurensegmente.
+Die Figursegmente.
 
 ### Siehe auch
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* namensraum [Aspose.PSD](../../figure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

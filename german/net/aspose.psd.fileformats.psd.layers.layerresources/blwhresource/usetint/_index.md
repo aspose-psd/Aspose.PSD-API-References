@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlwhResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Tönungsfarbe verwendet wird.
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlwhResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob die Tönungsfarbe verwendet wird."
 type: docs
-weight: 130
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Tönungsfarbe] verwendet wird.
+Liest oder setzt einen Wert, der angibt, ob [tint color] verwendet wird.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` falls verwendet [Tönungsfarbe]; ansonsten,`FALSCH` .
+`true` wenn verwendet [tint color]; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie eine BlwhResource bearbeiten.
+Das folgende Beispiel zeigt, wie Sie ein BlwhResource bearbeiten.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Bearbeiten und Speichern testen
+                // Testen von Bearbeitung und Speicherung
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Siehe auch
 
 * class [BlwhResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

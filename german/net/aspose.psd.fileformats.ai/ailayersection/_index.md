@@ -1,14 +1,15 @@
 ---
-title: Class AiLayerSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection klas. Der Ebenenabschnitt im AiFormat
+title: "Klasse AiLayerSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection Klasse. Der Ai format Layer Section"
 type: docs
-weight: 1270
+weight: 1280
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
-Der Ebenenabschnitt im Ai-Format
+Der Ai-Format-Ebenenabschnitt
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
@@ -18,32 +19,34 @@ public sealed class AiLayerSection : AiDataSection
 
 | Name | Beschreibung |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Ruft die blaue Farbkomponente ab oder legt sie fest. |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Holt oder setzt die Farbnummer. -1 ist der benutzerdefinierte Farbwert aus den Eigenschaften Rot, Grün, Blau. Gibt die Farbeinstellung der Ebene an. |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Ruft den Dim-Wert als Prozentsatz ab oder setzt ihn. Reduziert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind, auf den angegebenen Prozentsatz. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Ruft die grüne Farbkomponente ab oder legt sie fest. |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene abgeblendet ist. Verringert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind. |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene gesperrt ist. Verhindert Änderungen am Element. |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob es sich bei dieser Ebene um eine Vorschau handelt. Zeigt die in der Ebene enthaltenen Grafiken in Farbe statt als Umrisse an. |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene gedruckt wird. Macht das in der Ebene enthaltene Bildmaterial druckbar, wenn wahr. |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene angezeigt wird. Zeigt alle in der Ebene enthaltenen Grafiken auf der Zeichenfläche an, falls wahr. |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene eine Vorlagenebene ist. |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Ruft den Ebenennamen ab oder legt ihn fest. Gibt den Namen des Elements an, wie er im Ebenenbedienfeld angezeigt wird. |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Ruft die Rasterbilder ab. |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Ruft die rote Farbkomponente ab oder legt sie fest. |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | Liest oder setzt die blaue Farbkomponente. |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | Liest oder setzt den Index der Farbe. Dieses Argument kann Werte zwischen –1 und 26 annehmen. Jeder Integer stellt eine Farbe dar, die der Ebene zur Benutzeridentifikation zugewiesen werden kann. |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | Liest oder setzt die Farbnummer. -1 ist der benutzerdefinierte Farbwert aus den Eigenschaften Rot, Grün, Blau. Gibt die Farbeinstellung der Ebene an. |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | Liest oder setzt den Dimmwert als Prozentsatz. Reduziert die Intensität verknüpfter Bilder und Bitmap‑Bilder, die in der Ebene enthalten sind, auf den angegebenen Prozentsatz. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde. |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | Liest oder setzt die grüne Farbkomponente. |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Instanz Mehrschichtmasken hat. |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene abgedunkelt ist. Reduziert die Intensität von verknüpften Bildern und Bitmap‑Bildern, die in der Ebene enthalten sind. |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene gesperrt ist. Verhindert Änderungen am Element. |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene eine Vorschau ist. Zeigt die in der Ebene enthaltenen Grafiken in Farbe anstelle von Konturen. |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene gedruckt wird. Macht die in der Ebene enthaltenen Grafiken druckbar, wenn wahr. |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene angezeigt wird. Zeigt alle in der Ebene enthaltenen Grafiken auf dem Zeichenbrett an, wenn wahr. |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Ebene eine Vorlagenebene ist. |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | Liest oder setzt den Ebenennamen. Gibt den Namen des Elements an, wie er im Ebenen‑Panel erscheint. |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | Liest die Rasterbilder. |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | Liest oder setzt die rote Farbkomponente. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | Fügt das Rasterbild hinzu. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Ruft die String-Daten ab. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Gibt die aktuelle Instanz frei. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Gibt die Zeichenkettendaten zurück. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Einstellungen von Rasterbildern in AI-Formatdateien geladen werden.
+Der folgende Code demonstriert, wie Einstellungen von Rasterbildern in AI‑Formatdateien geladen werden.
 
 ```csharp
 [C#]
@@ -89,7 +92,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 ### Siehe auch
 
 * class [AiDataSection](../aidatasection/)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.LineCap opsomming. Gibt die verfügbaren Kappenstile an mit denen aPen Objekt kann eine Zeile beenden.
+title: "Aufzählung LineCap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.LineCap Aufzählung. Gibt die verfügbaren Kap-Stile an, mit denen ein Pen-Objekt eine Linie beenden kann."
 type: docs
-weight: 5060
+weight: 5550
 url: /de/net/aspose.psd/linecap/
 ---
+{{< psd/tize >}}
 ## LineCap enumeration
 
-Gibt die verfügbaren Kappenstile an, mit denen a[`Pen`](../pen/) Objekt kann eine Zeile beenden.
+Gibt die verfügbaren Kap-Stile an, mit denen ein [`Pen`](../pen/)-Objekt eine Linie beenden kann.
 
 ```csharp
 public enum LineCap
@@ -18,21 +19,21 @@ public enum LineCap
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Flat | `0` | Gibt eine flache Linienobergrenze an. |
-| Square | `1` | Gibt eine quadratische Linienobergrenze an. |
-| Round | `2` | Gibt eine runde Linienkappe an. |
-| Triangle | `3` | Gibt eine dreieckige Linienkappe an. |
+| Flat | `0` | Gibt einen flachen Linienabschluss an. |
+| Square | `1` | Gibt einen quadratischen Linienabschluss an. |
+| Round | `2` | Gibt einen runden Linienabschluss an. |
+| Triangle | `3` | Gibt einen dreieckigen Linienabschluss an. |
 | NoAnchor | `16` | Gibt keinen Anker an. |
-| SquareAnchor | `17` | Gibt eine quadratische Ankerlinienkappe an. |
-| RoundAnchor | `18` | Gibt eine runde Ankerkappe an. |
-| DiamondAnchor | `19` | Gibt eine Diamantankerkappe an. |
-| ArrowAnchor | `20` | Gibt eine pfeilförmige Ankerkappe an. |
-| AnchorMask | `240` | Gibt eine benutzerdefinierte Zeilenbegrenzung an. |
-| Custom | `255` | Gibt eine Maske an, mit der überprüft wird, ob eine Linienkappe eine Ankerkappe ist. |
+| SquareAnchor | `17` | Gibt einen quadratischen Anker-Linienabschluss an. |
+| RoundAnchor | `18` | Gibt einen runden Ankerabschluss an. |
+| DiamondAnchor | `19` | Gibt einen diamantförmigen Ankerkopf an. |
+| ArrowAnchor | `20` | Gibt einen pfeilförmigen Ankerkopf an. |
+| AnchorMask | `240` | Gibt einen benutzerdefinierten Linienabschluss an. |
+| Custom | `255` | Gibt eine Maske an, die verwendet wird, um zu prüfen, ob ein Linienabschluss ein Ankerkopf ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

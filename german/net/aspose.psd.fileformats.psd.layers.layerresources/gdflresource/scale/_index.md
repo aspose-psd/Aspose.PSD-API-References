@@ -1,22 +1,23 @@
 ---
-title: GdFlResource.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "GdFlResource.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Ruft die Skalierung ab oder legt sie fest"
 type: docs
-weight: 150
+weight: 200
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die Skala.
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
 ### Ausnahmen
 
@@ -27,7 +28,7 @@ Die Waage.
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum SeekOrigin
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.SeekOrigin opsomming. Stellt die Felder bereit die Referenzpunkte in darstellenStreamContainer zum Suchen.
+title: "Aufzählung SeekOrigin"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.SeekOrigin Aufzählung. Stellt die Felder bereit, die Referenzpunkte im StreamContainer für das Suchen darstellen."
 type: docs
-weight: 5410
+weight: 5910
 url: /de/net/aspose.psd/seekorigin/
 ---
+{{< psd/tize >}}
 ## SeekOrigin enumeration
 
-Stellt die Felder bereit, die Referenzpunkte in darstellen[`StreamContainer`](../streamcontainer/) zum Suchen.
+Stellt die Felder bereit, die Referenzpunkte im [`StreamContainer`](../streamcontainer/) für das Suchen darstellen.
 
 ```csharp
 public enum SeekOrigin
@@ -24,7 +25,7 @@ public enum SeekOrigin
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

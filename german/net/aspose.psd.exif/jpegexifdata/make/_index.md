@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Make
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft den Hersteller des Aufzeichnungsgeräts ab oder legt ihn fest.
+title: "JpegExifData.Make"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft den Hersteller der Aufnahmeeinrichtung ab oder legt ihn fest"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
-Ruft den Hersteller des Aufzeichnungsgeräts ab oder legt ihn fest.
+Liest oder setzt den Hersteller der Aufnahmeeinrichtung.
 
 ```csharp
 public string Make { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Hersteller des Kontrollgeräts.
+Der Hersteller der Aufnahmeeinrichtung.
 
 ### Siehe auch
 
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

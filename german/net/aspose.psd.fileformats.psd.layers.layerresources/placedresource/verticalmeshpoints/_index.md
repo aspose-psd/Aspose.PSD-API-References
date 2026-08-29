@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VerticalMeshPoints
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSDDatei.
+title: "PlacedResource.VerticalMeshPoints"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource Eigenschaft. Liest oder setzt die horizontalen Netzpunkte der platzierten Ebene in der PSD-Datei"
 type: docs
-weight: 220
+weight: 210
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPoints property
 
-Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei.
+Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei.
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die horizontalen Gitterpunkte der platzierten Ebene.
+Die horizontalen Netzpunkte der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Shape eigendom. Ruft den Mittelpunkt der Form ab.
+title: "Shape.Center"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Shape‑Eigenschaft. Gibt das Zentrum der Shape zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
-Ruft den Mittelpunkt der Form ab.
+Liest das Zentrum der Form.
 
 ```csharp
 public abstract PointF Center { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Zentrum der Form.
 
@@ -22,7 +23,7 @@ Das Zentrum der Form.
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* namensraum [Aspose.PSD](../../shape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft Stilinformationen dafür abFont .
+title: "Font.Style"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Ermittelt Stilinformationen für diese Schriftart"
 type: docs
 weight: 80
 url: /de/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-Ruft Stilinformationen dafür ab[`Font`](../) .
+Ermittelt Stilinformationen für dieses [`Font`](../).
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`FontStyle`](../../fontstyle/) Enumeration, die Stilinformationen dafür enthält[`Font`](../).
+Eine [`FontStyle`](../../fontstyle/) Aufzählung, die Stilinformationen für dieses [`Font`](../) enthält.
 
 ### Siehe auch
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GuideResource eigendom. Ruft die Position der Hilfslinie in Dokumentkoordinaten ab oder legt sie fest.
+title: "GuideResource.Location"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GuideResource-Eigenschaft. Gibt den Ort des Leitfadens in Dokumentkoordinaten zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Ruft die Position der Hilfslinie in Dokumentkoordinaten ab oder legt sie fest.
+Ruft den Ort der Leitlinie in Dokumentkoordinaten ab oder legt ihn fest.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Führungsstandort.
+Der Ort des Leitfadens.
 
 ### Siehe auch
 
 * class [GuideResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Dimensions.Dimensions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Dimensions constructeur. Initialisiert eine neue Instanz vonDimensions Klasse.
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Dimensions-Konstruktor. Initialisiert eine neue Instanz der Dimensions-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-Initialisiert eine neue Instanz von[`Dimensions`](../) Klasse.
+Initialisiert eine neue Instanz der [`Dimensions`](../)-Klasse.
 
 ```csharp
 public Dimensions()
@@ -17,14 +18,14 @@ public Dimensions()
 ### Siehe auch
 
 * class [Dimensions](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Dimensions`](../) Klasse.
+Initialisiert eine neue Instanz der [`Dimensions`](../)-Klasse.
 
 ```csharp
 public Dimensions(float width, float height)
@@ -32,13 +33,13 @@ public Dimensions(float width, float height)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| width | Single | Die Breite. |
-| height | Single | Die Höhe. |
+| Breite | Single | Die Breite. |
+| Höhe | Single | Die Höhe. |
 
 ### Siehe auch
 
 * class [Dimensions](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PngOptions.CompressionLevel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PngOptions eigendom. Die PNGBildkomprimierungsstufe im Bereich von 0 bis 9 wobei 9 die maximale Komprimierung und 0 der Speichermodus ist.
+title: "PngOptions.CompressionLevel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PngOptions-Eigenschaft. Der PNG-Bildkomprimierungsgrad im Bereich 0‑9, wobei 9 maximale Kompression und 0 den Speicher‑Modus bedeutet"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.CompressionLevel property
 
-Die PNG-Bildkomprimierungsstufe im Bereich von 0 bis 9, wobei 9 die maximale Komprimierung und 0 der Speichermodus ist.
+Der PNG-Bildkomprimierungsgrad im Bereich 0‑9, wobei 9 maximale Kompression und 0 der Speicher‑Modus ist.
 
 ```csharp
 public int CompressionLevel { get; set; }
@@ -17,7 +18,7 @@ public int CompressionLevel { get; set; }
 ### Siehe auch
 
 * class [PngOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../pngoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TimeLine.LoopesCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TimeLine eigendom. Ruft die Anzahl der Schleifen ab oder legt sie fest.
+title: "Timeline.LoopesCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Timeline-Eigenschaft. Gibt die Anzahl der Schleifen zurück oder legt sie fest"
 type: docs
-weight: 80
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/
 ---
-## TimeLine.LoopesCount property
+{{< psd/tize >}}
+## Timeline.LoopesCount property
 
-Ruft die Anzahl der Schleifen ab oder legt sie fest.
+Liest oder setzt die Anzahl der Wiederholungen.
 
 ```csharp
-public int LoopesCount { get; set; }
+public ushort LoopesCount { get; set; }
 ```
 
 ### Siehe auch
 
-* class [TimeLine](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* Montage [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

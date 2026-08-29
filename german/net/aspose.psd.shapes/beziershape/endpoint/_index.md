@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BezierShape eigendom. Ruft den Endformpunkt ab.
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BezierShape-Eigenschaft. Gibt den Endpunkt der Form zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-Ruft den Endformpunkt ab.
+Liest den Endpunkt der Form.
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Endformpunkt.
+Der Endpunkt der Form.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* namensraum [Aspose.PSD.Shapes](../../beziershape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

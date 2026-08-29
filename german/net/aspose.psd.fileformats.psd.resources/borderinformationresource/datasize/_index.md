@@ -1,26 +1,27 @@
 ---
-title: BorderInformationResource.DataSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BorderInformationResource eigendom. Ruft die Ressourcendatengröße in Byte ab.
+title: "BorderInformationResource.DataSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BorderInformationResource-Eigenschaft. Gibt die Größe der Ressourcendaten in Bytes zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.DataSize property
 
-Ruft die Ressourcendatengröße in Byte ab.
+Ruft die Größe der Ressourcendaten in Bytes ab.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe der Ressourcendaten.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung der BorderInformationResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der BorderInformationResource‑Ressource.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [BorderInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalAltitudeResource eigendom. Holt oder setzt die Höhe.
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalAltitudeResource-Eigenschaft. Liest die Höhe aus oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-Holt oder setzt die Höhe.
+Liest oder setzt die Höhe.
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Höhe.
 
 ### Siehe auch
 
 * class [GlobalAltitudeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

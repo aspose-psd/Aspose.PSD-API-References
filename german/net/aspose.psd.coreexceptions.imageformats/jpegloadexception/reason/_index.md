@@ -1,28 +1,29 @@
 ---
-title: JpegLoadException.Reason
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegLoadException eigendom. Ruft die Fehlerursache ab oder legt sie fest.
+title: "JpegLoadException.Reason"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegLoadException-Eigenschaft. Liest oder schreibt den Grund des Fehlers."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.Reason property
 
-Ruft die Fehlerursache ab oder legt sie fest.
+Liest oder setzt den Grund des Fehlers.
 
 ```csharp
 public ErrorReason Reason { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Fehlerursache.
+Der Grund des Fehlers.
 
 ### Siehe auch
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

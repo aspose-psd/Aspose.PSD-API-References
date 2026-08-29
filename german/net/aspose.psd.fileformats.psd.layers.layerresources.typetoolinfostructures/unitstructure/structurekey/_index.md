@@ -1,14 +1,15 @@
 ---
-title: UnitStructure.StructureKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitStructure veld. Identifiziert den Strukturschlüssel.
+title: "UnitStructure.StructureKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitStructure Feld. Identifiziert den Struktur‑Schlüssel"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## UnitStructure.StructureKey field
 
-Identifiziert den Strukturschlüssel.
+Identifiziert den Struktur-Schlüssel.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Siehe auch
 
 * class [UnitStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

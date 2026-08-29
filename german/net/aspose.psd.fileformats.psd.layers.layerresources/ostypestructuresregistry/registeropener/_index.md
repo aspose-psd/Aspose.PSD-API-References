@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OSTypeStructuresRegistry methode. Registriert den Öffner.
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OSTypeStructuresRegistry-Methode. Registriert den Öffner."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
 Registriert den Öffner.
@@ -16,13 +17,13 @@ public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | Der zu registrierende Opener-Deskriptor. |
+| openerDescriptor | IOSTypeStructureLoader | Der Opener-Deskriptor zum Registrieren. |
 
 ### Siehe auch
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

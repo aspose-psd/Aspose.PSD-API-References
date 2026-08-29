@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Union
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF methode. Erstellt das kleinstmögliche dritte Rechteck das beide von zwei Rechtecken enthalten kann die eine Vereinigung bilden.
+title: "RectangleF.Union"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Methode. Erstellt das kleinste mögliche dritte Rechteck, das beide Rechtecke, die eine Vereinigung bilden, enthalten kann."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
-Erstellt das kleinstmögliche dritte Rechteck, das beide von zwei Rechtecken enthalten kann, die eine Vereinigung bilden.
+Erstellt das kleinste mögliche dritte Rechteck, das beide Rechtecke, die eine Vereinigung bilden, enthalten kann.
 
 ```csharp
 public static RectangleF Union(RectangleF a, RectangleF b)
@@ -21,12 +22,12 @@ public static RectangleF Union(RectangleF a, RectangleF b)
 
 ### Rückgabewert
 
-Ein Drittel[`RectangleF`](../) Struktur, die beide der beiden Rechtecke enthält, die die Vereinigung bilden.
+Eine dritte [`RectangleF`](../)-Struktur, die beide Rechtecke enthält, die die Vereinigung bilden.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

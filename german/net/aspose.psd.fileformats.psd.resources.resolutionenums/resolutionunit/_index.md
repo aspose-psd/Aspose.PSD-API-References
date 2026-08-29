@@ -1,14 +1,15 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit opsomming. Die Auflösungsinfo Auflösungseinheit
+title: "Enum ResolutionUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit Enum. Die Auflösungseinheit der Auflösungsinformationen"
 type: docs
-weight: 3870
+weight: 4340
 url: /de/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Die Auflösungsinfo Auflösungseinheit
+Die Auflösungseinheit der Auflösungsinformationen
 
 ```csharp
 public enum ResolutionUnit
@@ -23,7 +24,7 @@ public enum ResolutionUnit
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

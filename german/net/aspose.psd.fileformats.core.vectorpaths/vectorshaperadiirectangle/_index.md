@@ -1,43 +1,44 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle klas. Definiert Vektorform Radien Rechteck class
+title: "Klasse VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle class. Definiert die Klasse für ein Rechteck mit Vektorformen‑Radien."
 type: docs
-weight: 1450
+weight: 1460
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Definiert Vektorform Radien Rechteck class
+Definiert die Rechteck‑Klasse für Vektorform‑Radien
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Default_Constructor |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Ruft den Tiefstwert ab oder legt ihn fest. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Holt oder setzt die untere rechte Seite. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Ruft die Quad-Version des Einheitswerts ab oder legt sie fest. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Ruft die linke obere Ecke ab oder legt sie fest. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Ruft die obere rechte Seite ab oder legt sie fest. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Liest oder setzt den unteren Rand. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Liest oder setzt die untere rechte Ecke. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Liest oder setzt die Quad‑Version des Einheitwerts. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Liest oder setzt die obere linke Ecke. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Liest oder setzt die obere rechte Ecke. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, dass das Laden und Speichern des PSD-Bildes mit Formebenen und Vektorpfaden korrekt funktioniert.
+Dieses Beispiel zeigt, dass das Laden und Speichern des PSD‑Bildes mit Formebenen und Vektorpfaden korrekt funktioniert.
 
 ```csharp
 [C#]
 
-// Dieses Beispiel zeigt, dass das Laden und Speichern des PSD-Bildes mit Formebenen und Vektorpfaden korrekt funktioniert.
+// Dieses Beispiel zeigt, dass das Laden und Speichern des PSD‑Bildes mit Formebenen und Vektorpfaden korrekt funktioniert.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -164,7 +165,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

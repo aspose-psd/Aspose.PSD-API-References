@@ -1,20 +1,21 @@
 ---
-title: TextShape.Segments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextShape eigendom. Ruft die Formsegmente ab.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextShape-Eigenschaft. Gibt die Segmente der Form zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
-Ruft die Formsegmente ab.
+Liest die Segmente der Form.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Formsegmente.
 
@@ -22,7 +23,7 @@ Die Formsegmente.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* namensraum [Aspose.PSD.Shapes](../../textshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

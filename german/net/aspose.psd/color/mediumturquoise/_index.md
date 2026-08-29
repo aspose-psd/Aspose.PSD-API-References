@@ -1,11 +1,12 @@
 ---
-title: Color.MediumTurquoise
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft eine systemdefinierte Farbe ab.
+title: "Color.MediumTurquoise"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color Eigenschaft. Gibt eine systemdefinierte Farbe zurück."
 type: docs
 weight: 900
 url: /de/net/aspose.psd/color/mediumturquoise/
 ---
+{{< psd/tize >}}
 ## Color.MediumTurquoise property
 
 Ruft eine systemdefinierte Farbe ab.
@@ -14,14 +15,14 @@ Ruft eine systemdefinierte Farbe ab.
 public static Color MediumTurquoise { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Color`](../) eine systemdefinierte Farbe darstellt.
+Ein [`Color`](../), das eine systemdefinierte Farbe darstellt.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

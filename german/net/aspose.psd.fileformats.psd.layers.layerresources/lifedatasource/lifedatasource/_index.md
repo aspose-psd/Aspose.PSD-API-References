@@ -1,14 +1,15 @@
 ---
-title: LiFeDataSource.LiFeDataSource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LiFeDataSource constructeur. Initialisiert eine neue Instanz vonLiFeDataSource Klasse.
+title: "LiFeDataSource.LiFeDataSource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LiFeDataSource‑Konstruktor. Erstellt eine neue Instanz der LiFeDataSource‑Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource() {#constructor}
 
-Initialisiert eine neue Instanz von[`LiFeDataSource`](../) Klasse.
+Erstellt eine neue Instanz der [`LiFeDataSource`](../)‑Klasse.
 
 ```csharp
 public LiFeDataSource()
@@ -17,14 +18,14 @@ public LiFeDataSource()
 ### Siehe auch
 
 * class [LiFeDataSource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LiFeDataSource`](../) Klasse.
+Erstellt eine neue Instanz der [`LiFeDataSource`](../)‑Klasse.
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
@@ -34,7 +35,7 @@ public LiFeDataSource(int version, Guid uniqueId, string originalFileName, strin
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | version | Int32 | Die Version. |
-| uniqueId | Guid | Die eindeutige Kennung. |
+| uniqueId | Guid | Der eindeutige Bezeichner. |
 | originalFileName | String | Name der Originaldatei. |
 | fileType | String | Typ der Datei. |
 | fileCreator | String | Der Dateiersteller. |
@@ -42,7 +43,7 @@ public LiFeDataSource(int version, Guid uniqueId, string originalFileName, strin
 ### Siehe auch
 
 * class [LiFeDataSource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

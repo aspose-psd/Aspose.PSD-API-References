@@ -1,14 +1,15 @@
 ---
-title: Interface IColorPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IColorPalette koppel. Die Benutzeroberfläche der Farbpalette.
+title: "Schnittstelle IColorPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IColorPalette‑Schnittstelle. Die Farbpaletten‑Schnittstelle"
 type: docs
-weight: 4390
+weight: 4860
 url: /de/net/aspose.psd/icolorpalette/
 ---
+{{< psd/tize >}}
 ## IColorPalette interface
 
-Die Benutzeroberfläche der Farbpalette.
+Die Schnittstelle für Farbpaletten.
 
 ```csharp
 public interface IColorPalette
@@ -18,23 +19,23 @@ public interface IColorPalette
 
 | Name | Beschreibung |
 | --- | --- |
-| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | Ruft ein Array von 32-Bit-ARGB-Strukturen ab. |
-| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | Ruft ein Array von ab[`Color`](../color/) Strukturen. |
-| [EntriesCount](../../aspose.psd/icolorpalette/entriescount/) { get; } | Ruft die Anzahl der Einträge ab. |
-| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Ruft einen Wert ab, der angibt, ob die kompakte Palette verwendet wird. |
+| [Argb32Entries](../../aspose.psd/icolorpalette/argb32entries/) { get; } | Liefert ein Array von 32‑Bit‑ARGB‑Strukturen. |
+| [Entries](../../aspose.psd/icolorpalette/entries/) { get; } | Liefert ein Array von [`Color`](../color/)‑Strukturen. |
+| [EntriesCount](../../aspose.psd/icolorpalette/entriescount/) { get; } | Gibt die Anzahl der Einträge zurück. |
+| [IsCompactPalette](../../aspose.psd/icolorpalette/iscompactpalette/) { get; } | Gibt einen Wert zurück, der angibt, ob eine kompakte Palette verwendet wird. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | Ruft die 32-Bit-ARGB-Palettenfarbe nach Index ab. |
-| [GetColor](../../aspose.psd/icolorpalette/getcolor/)(int) | Ruft die Palettenfarbe nach Index ab. |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | Ruft den Index der nächsten Farbe ab. |
-| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | Ruft den Index der nächsten 32-Bit-ARGB-Farbe ab. |
+| [GetArgb32Color](../../aspose.psd/icolorpalette/getargb32color/)(int) | Liefert die 32‑Bit‑ARGB-Palettefarbe nach Index. |
+| [GetColor](../../aspose.psd/icolorpalette/getcolor/)(int) | Liefert die Palettenfarbe nach Index. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex)(Color) | Liefert den Index der nächstgelegenen Farbe. |
+| [GetNearestColorIndex](../../aspose.psd/icolorpalette/getnearestcolorindex/#getnearestcolorindex_1)(int) | Gibt den Index der nächstgelegenen 32‑Bit‑ARGB‑Farbe zurück. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

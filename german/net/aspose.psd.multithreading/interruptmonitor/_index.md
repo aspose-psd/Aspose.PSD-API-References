@@ -1,41 +1,42 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Multithreading.InterruptMonitor klas. Stellt Informationen zur Unterbrechung dar.
+title: "Klasse InterruptMonitor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Multithreading.InterruptMonitor Klasse. Stellt Informationen über Unterbrechungen dar."
 type: docs
-weight: 5130
+weight: 5620
 url: /de/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
-Stellt Informationen zur Unterbrechung dar.
+Stellt Informationen über eine Unterbrechung dar.
 
 ```csharp
 public class InterruptMonitor
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | Default_Constructor |
+| [InterruptMonitor](interruptmonitor/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Ruft die InterruptMonitor-Instanz ab oder legt sie fest, die für jeden Thread eindeutig ist. |
-| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Ruft den Wert ab, der angibt, ob Operationen unterbrochen werden sollen. |
+| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Liest oder setzt die InterruptMonitor-Instanz, die für jeden Thread eindeutig ist. |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Liest den Wert, der angibt, ob Vorgänge unterbrochen werden sollen. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Sendet eine Anfrage zur Unterbrechung des Betriebs. |
+| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Sendet eine Anfrage, um Vorgänge zu unterbrechen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LayerGroup.IsOpen
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerGroup eigendom. Ruft ab oder legt fest ob der Ordner geöffnet ist  wenn auf eingestelltWAHR Diese Gruppe befindet sich beim Start im geöffneten Zustand ansonsten im minimierten Zustand.
+title: "LayerGroup.IsOpen"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerGroup-Eigenschaft. Gibt zurück oder legt fest, ob der Ordner geöffnet ist; wenn auf true gesetzt, wird die Gruppe beim Start im geöffneten Zustand sein, andernfalls im minimierten Zustand."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers/layergroup/isopen/
 ---
+{{< psd/tize >}}
 ## LayerGroup.IsOpen property
 
-Ruft ab oder legt fest, ob der Ordner geöffnet ist , wenn auf eingestellt`WAHR` Diese Gruppe befindet sich beim Start im geöffneten Zustand, ansonsten im minimierten Zustand.
+Liest oder setzt, ob der Ordner geöffnet ist; wenn er auf `true` gesetzt wird, ist die Gruppe beim Start geöffnet, andernfalls im minimierten Zustand.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie LayerGroup (Folder) mithilfe der IsOpen-Eigenschaft geöffnet und geschlossen wird.
+Der folgende Code zeigt, wie man LayerGroup (Ordner) mit der IsOpen-Eigenschaft öffnet und schließt.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var image = (PsdImage) Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [LayerGroup](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillClosedCurve
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics methode. Füllt das Innere einer geschlossenen kardinalen SplineKurve die durch ein Array von definiert istPointF Strukturen. Diese Methode verwendet eine Standardspannung von 05 undAlternate Füllmodus.
+title: "Graphics.FillClosedCurve"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Methode. Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von PointF-Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 und den Alternativ-Füllmodus."
 type: docs
-weight: 340
+weight: 350
 url: /de/net/aspose.psd/graphics/fillclosedcurve/
 ---
+{{< psd/tize >}}
 ## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../../pointf/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`PointF`](../../pointf/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 und den Alternativ-Füllmodus.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points)
@@ -16,28 +17,28 @@ public void FillClosedCurve(Brush brush, PointF[] points)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | PointF[] | Anordnung von[`PointF`](../../pointf/) Strukturen, die den Spline definieren. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| points | PointF[] | Array von [`PointF`](../../pointf/) Strukturen, die die Spline definieren. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../../pointf/) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`PointF`](../../pointf/) Strukturen, unter Verwendung des angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
@@ -45,15 +46,15 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | PointF[] | Anordnung von[`PointF`](../../pointf/) Strukturen, die den Spline definieren. |
-| fillmode | FillMode | Mitglied von[`FillMode`](../../fillmode/) Enumeration, die bestimmt, wie die Kurve gefüllt wird. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| points | PointF[] | Array von [`PointF`](../../pointf/) Strukturen, die die Spline definieren. |
+| fillmode | FillMode | Mitglied der [`FillMode`](../../fillmode/) Aufzählung, die bestimmt, wie die Kurve gefüllt wird. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
@@ -61,14 +62,14 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`PointF`](../../pointf/) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`PointF`](../../pointf/) Strukturen, unter Verwendung des angegebenen Füllmodus und der Spannung.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, float tension)
@@ -76,16 +77,16 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | PointF[] | Anordnung von[`PointF`](../../pointf/) Strukturen, die den Spline definieren. |
-| fillmode | FillMode | Mitglied von[`FillMode`](../../fillmode/) Enumeration, die bestimmt, wie die Kurve gefüllt wird. |
-| tension | Single | Wert größer oder gleich 0,0 F, der die Spannung der Kurve angibt. |
+| brush | Brush | Ein [`Brush`](../../brush/) der die Eigenschaften der Füllung bestimmt. |
+| points | PointF[] | Array von [`PointF`](../../pointf/) Strukturen, die die Spline definieren. |
+| fillmode | FillMode | Mitglied der [`FillMode`](../../fillmode/) Aufzählung, die bestimmt, wie die Kurve gefüllt wird. |
+| Spannung | Single | Wert größer oder gleich 0.0F, der die Spannung der Kurve angibt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
@@ -93,14 +94,14 @@ public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, flo
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../../point/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 undAlternate Füllmodus.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`Point`](../../point/) Strukturen. Diese Methode verwendet eine Standardspannung von 0,5 und den Alternativ-Füllmodus.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points)
@@ -108,28 +109,28 @@ public void FillClosedCurve(Brush brush, Point[] points)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | Point[] | Anordnung von[`Point`](../../point/) Strukturen, die den Spline definieren. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| points | Point[] | Array von [`Point`](../../point/) Strukturen, die die Spline definieren. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../../point/) Strukturen mit dem angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`Point`](../../point/) Strukturen, unter Verwendung des angegebenen Füllmodus. Diese Methode verwendet eine Standardspannung von 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
@@ -137,15 +138,15 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | Point[] | Anordnung von[`Point`](../../point/) Strukturen, die den Spline definieren. |
-| fillmode | FillMode | Mitglied von[`FillMode`](../../fillmode/) Enumeration, die bestimmt, wie die Kurve gefüllt wird. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| points | Point[] | Array von [`Point`](../../point/) Strukturen, die die Spline definieren. |
+| fillmode | FillMode | Mitglied der [`FillMode`](../../fillmode/) Aufzählung, die bestimmt, wie die Kurve gefüllt wird. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
@@ -153,14 +154,14 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
 
-Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, die durch ein Array von definiert ist[`Point`](../../point/) Strukturen mit dem angegebenen Füllmodus und der angegebenen Spannung.
+Füllt das Innere einer geschlossenen kardinalen Spline-Kurve, definiert durch ein Array von [`Point`](../../point/) Strukturen, unter Verwendung des angegebenen Füllmodus und der Spannung.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, float tension)
@@ -168,16 +169,16 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| points | Point[] | Anordnung von[`Point`](../../point/) Strukturen, die den Spline definieren. |
-| fillmode | FillMode | Mitglied von[`FillMode`](../../fillmode/) Enumeration, die bestimmt, wie die Kurve gefüllt wird. |
-| tension | Single | Wert größer oder gleich 0,0 F, der die Spannung der Kurve angibt. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| points | Point[] | Array von [`Point`](../../point/) Strukturen, die die Spline definieren. |
+| fillmode | FillMode | Mitglied der [`FillMode`](../../fillmode/) Aufzählung, die bestimmt, wie die Kurve gefüllt wird. |
+| Spannung | Single | Wert größer oder gleich 0.0F, der die Spannung der Kurve angibt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *points* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *points* ist null. |
 
 ### Siehe auch
 
@@ -185,7 +186,7 @@ public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, floa
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage eigendom. Ruft die rohe Zeilengröße in Bytes ab.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Eigenschaft. Gibt die rohe Zeilengröße in Bytes zurück."
 type: docs
 weight: 120
 url: /de/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-Ruft die rohe Zeilengröße in Bytes ab.
+Liest die Rohzeilengröße in Bytes.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Rohzeilengröße in Byte.
+Die rohe Zeilengröße in Bytes.
 
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

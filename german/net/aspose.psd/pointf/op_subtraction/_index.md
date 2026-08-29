@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Subtraction
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PointF methode. übersetzt aPointF durch das Negativ eines GegebenenSize .
+title: "PointF.op_Subtraction"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PointF-Methode. Verschiebt ein PointF um das Negative einer angegebenen Size."
 type: docs
 weight: 140
 url: /de/net/aspose.psd/pointf/op_subtraction/
 ---
+{{< psd/tize >}}
 ## operator - {#op_subtraction}
 
-übersetzt a[`PointF`](../) durch das Negativ eines Gegebenen[`Size`](../../size/) .
+Verschiebt ein [`PointF`](../) um das Negative einer angegebenen [`Size`](../../size/).
 
 ```csharp
 public static PointF operator -(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF operator -(PointF point, Size size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../) übersetzen. |
-| size | Size | A[`Size`](../../size/)die die Zahlen angibt, die von den x- und y-Koordinaten der subtrahiert werden sollen*point*. |
+| point | PointF | Ein [`PointF`](../) zum Verschieben. |
+| size | Size | Ein [`Size`](../../size/), das die Zahlen angibt, die von den x- und y-Koordinaten des *Punktes* subtrahiert werden sollen. |
 
 ### Rückgabewert
 
-Das übersetzte[`PointF`](../).
+Das verschobene [`PointF`](../).
 
 ### Siehe auch
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator - {#op_subtraction_1}
 
-übersetzt a[`PointF`](../) durch das Negativ eines angegebenen[`SizeF`](../../sizef/) .
+Verschiebt ein [`PointF`](../) um das Negative einer angegebenen [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF operator -(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF operator -(PointF point, SizeF size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../) übersetzen. |
-| size | SizeF | Der[`SizeF`](../../sizef/) die die Zahlen angibt, die von den Koordinaten subtrahiert werden sollen*point*. |
+| point | PointF | Das zu verschiebende [`PointF`](../). |
+| size | SizeF | Das [`SizeF`](../../sizef/), das die Zahlen angibt, die von den Koordinaten des *Punktes* subtrahiert werden sollen. |
 
 ### Rückgabewert
 
-Das übersetzte[`PointF`](../).
+Das verschobene [`PointF`](../).
 
 ### Siehe auch
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rückruffunktion zum Empfangen des Ereignisses zur Änderung des Aufgabenfortschritts.
+title: "Delegat ProgressCallback"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Callback-Funktion zum Empfangen des Ereignisses für Fortschrittsänderungen der Aufgabe"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-Rückruffunktion zum Empfangen des Ereignisses zur Änderung des Aufgabenfortschritts.
+Rückruffunktion zum Empfangen des Aufgabenfortschrittsänderungsereignisses.
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
@@ -20,7 +21,7 @@ public delegate void ProgressCallback(int progressPercentage);
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

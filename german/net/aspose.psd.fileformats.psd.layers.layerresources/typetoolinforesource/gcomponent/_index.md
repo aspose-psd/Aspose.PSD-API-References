@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.GComponent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die gKomponente ab oder legt sie fest.
+title: "TypeToolInfoResource.GComponent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest oder legt die g-Komponente fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.GComponent property
 
-Ruft die g-Komponente ab oder legt sie fest.
+Liest oder setzt die g‑Komponente.
 
 ```csharp
 public short GComponent { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die g-Komponente.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

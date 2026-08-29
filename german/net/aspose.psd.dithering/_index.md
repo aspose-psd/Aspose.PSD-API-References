@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Dithering
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum bietet verschiedene Hilfsklassen für das Farbdithering.
+title: "Aspose.PSD.Dithering"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace stellt verschiedene Hilfsklassen für die Farbdithering bereit."
 type: docs
-weight: 70
+weight: 80
 url: /de/net/aspose.psd.dithering/
 ---
-Der Namensraum bietet verschiedene Hilfsklassen für das Farbdithering.
+{{< psd/tize >}}
+Der Namensraum stellt verschiedene Hilfsklassen für die Farbdithering bereit.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [DitheringMode](./ditheringmode/) | Dithering-Einstellungen, die beim Speichern auf das Bild angewendet werden sollen. |
+| [DitheringMode](./ditheringmode/) | Dithering-Einstellungen, die beim Speichern auf das Bild angewendet werden. |
 
 

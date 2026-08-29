@@ -1,14 +1,15 @@
 ---
-title: Class LinkedLayersManager
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager klas. Managerklasse für verknüpfte Ebenen.
+title: "Klasse LinkedLayersManager"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LinkedLayersManager Klasse. Verknüpfte Ebenen-Manager-Klasse"
 type: docs
-weight: 3400
+weight: 3800
 url: /de/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager class
 
-Managerklasse für verknüpfte Ebenen.
+Klasse für die Verwaltung verknüpfter Ebenen.
 
 ```csharp
 public sealed class LinkedLayersManager
@@ -18,14 +19,14 @@ public sealed class LinkedLayersManager
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Ruft Layer nach Linkgruppen-ID ab. |
-| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Ruft die der Ebene zugeordnete Linkgruppen-ID ab. |
+| [GetLayersByLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlayersbylinkgroupid/)(short) | Ruft Ebenen nach Linkgruppen-ID ab. |
+| [GetLinkGroupId](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/getlinkgroupid/)(Layer) | Gibt die mit der Ebene verknüpfte Linkgruppen-ID zurück. |
 | [LinkLayers](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/)(Layer[]) | Verknüpft die Eingabeschichten und gibt LingGroupId zurück. |
-| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Hebt die Verknüpfung der Ebene auf.. |
+| [UnlinkLayer](../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/unlinklayer/)(Layer) | Löst die Verknüpfung der Ebene.. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie verknüpfte Ebenen in Aspose.PSD manipulieren können
+Das folgende Beispiel zeigt, wie Sie verknüpfte Ebenen in Aspose.PSD manipulieren können.
 
 ```csharp
 [C#]
@@ -33,31 +34,31 @@ Das folgende Beispiel zeigt, wie Sie verknüpfte Ebenen in Aspose.PSD manipulier
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // Alle Ebenen in einer verknüpften Gruppe verknüpfen
+    // Verknüpfen Sie alle Ebenen in einer verknüpften Gruppe
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
-    // Ruft die ID für eine Ebene ab
+    // Ermittelt die ID für eine Ebene
     short linkGroupId = psd.LinkedLayersManager.GetLinkGroupId(layers[0]);
     if (layersLinkGroupId != linkGroupId)
     {
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // Ruft alle verknüpften Layer nach Linkgruppen-ID ab.
+    // Ermittelt alle verknüpften Ebenen anhand der Linkgruppen-ID.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // Jede Ebene von der Gruppe trennen
+    // Lösen Sie jede Ebene von der Gruppe
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // ruft NULL für eine Link-Gruppen-ID ab, die keine Layer in der Gruppe hat.
+    // Gibt NULL zurück für eine Linkgruppen-ID, die keine Ebenen in der Gruppe enthält.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -69,7 +70,7 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

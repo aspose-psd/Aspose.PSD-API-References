@@ -1,14 +1,15 @@
 ---
-title: FontSettings.UpdateFonts
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Aktualisiert den FontCache für PSDDateien die Textebenen enthalten. Diese Methode garantiert dass Schriftarten aus dem Ordner fontsFolder using Methode FontSettings.SetFontsFolderfontsFolder oder nach dem Zurücksetzen von Schriftarten mit FontSettings.Reset bei der Verarbeitung von PSDDateien berücksichtigt werden. Bitte verwenden Sie diese Methode jedes Mal wenn FontSettings.SetFontsFolderfontsFolder oder FontSettings.Reset für PSDBilder aufgerufen wird. Ohne Aufruf dieser Methode gibt es keine Garantie dass Schriftarten aktualisiert werden.
+title: "FontSettings.UpdateFonts"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Aktualisiert den Schriftarten-Cache für PSD‑Dateien, die Textebenen enthalten. Diese Methode stellt sicher, dass Schriftarten aus dem Ordner fontsFolder, die über die Methode FontSettings.SetFontsFolderfontsFolder festgelegt wurden, oder nach einem Zurücksetzen der Schriftarten mittels FontSettings.Reset, bei der Verarbeitung von PSD‑Dateien berücksichtigt werden. Bitte verwenden Sie diese Methode jedes Mal, wenn FontSettings.SetFontsFolderfontsFolder oder FontSettings.Reset für PSD‑Bilder aufgerufen wird. Ohne Aufruf dieser Methode gibt es keine Garantie, dass die Schriftarten aktualisiert werden."
 type: docs
-weight: 140
+weight: 160
 url: /de/net/aspose.psd/fontsettings/updatefonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.UpdateFonts method
 
-Aktualisiert den Font-Cache für PSD-Dateien, die Textebenen enthalten. Diese Methode garantiert, dass Schriftarten aus dem Ordner fontsFolder using Methode FontSettings.SetFontsFolder(fontsFolder) oder nach dem Zurücksetzen von Schriftarten mit FontSettings.Reset() bei der Verarbeitung von PSD-Dateien berücksichtigt werden. Bitte verwenden Sie diese Methode jedes Mal, wenn FontSettings.SetFontsFolder(fontsFolder) oder FontSettings.Reset() für PSD-Bilder aufgerufen wird. Ohne Aufruf dieser Methode gibt es keine Garantie, dass Schriftarten aktualisiert werden.
+Aktualisiert den Schriftarten-Cache für PSD-Dateien, die Textebenen enthalten. Diese Methode stellt sicher, dass Schriftarten aus dem Ordner fontsFolder, die über die Methode FontSettings.SetFontsFolder(fontsFolder) oder nach einem Zurücksetzen der Schriftarten mittels FontSettings.Reset() festgelegt wurden, bei der Verarbeitung von PSD-Dateien berücksichtigt werden. Bitte verwenden Sie diese Methode jedes Mal, wenn FontSettings.SetFontsFolder(fontsFolder) oder FontSettings.Reset() für PSD-Bilder aufgerufen wird. Ohne Aufruf dieser Methode gibt es keine Garantie, dass die Schriftarten aktualisiert werden.
 
 ```csharp
 public static void UpdateFonts()
@@ -17,7 +18,7 @@ public static void UpdateFonts()
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

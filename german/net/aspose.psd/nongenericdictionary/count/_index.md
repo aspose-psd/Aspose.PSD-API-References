@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericDictionary eigendom. Ruft die Anzahl der Elemente ab die in enthalten sindICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericDictionary-Eigenschaft. Gibt die Anzahl der im ICollection enthaltenen Elemente zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-Ruft die Anzahl der Elemente ab, die in enthalten sindICollection .
+Liest die Anzahl der im ICollection enthaltenen Elemente.
 
 ```csharp
 public int Count { get; }
@@ -16,12 +17,12 @@ public int Count { get; }
 
 ### Rückgabewert
 
-Die Anzahl der darin enthaltenen ElementeICollection.
+Die Anzahl der im ICollection enthaltenen Elemente.
 
 ### Siehe auch
 
 * class [NonGenericDictionary](../)
-* namensraum [Aspose.PSD](../../nongenericdictionary/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

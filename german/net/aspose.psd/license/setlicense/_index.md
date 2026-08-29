@@ -1,11 +1,12 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PSD für .NET-API-Referenz
-description: License methode. Lizenziert die Komponente.
+title: "License.SetLicense"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "License-Methode. Lizenziert die Komponente"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/license/setlicense/
 ---
+{{< psd/tize >}}
 ## SetLicense(string) {#setlicense_1}
 
 Lizenziert die Komponente.
@@ -14,29 +15,29 @@ Lizenziert die Komponente.
 public void SetLicense(string licenseName)
 ```
 
-### Bemerkungen
+## Hinweise
 
 Versucht, die Lizenz an den folgenden Orten zu finden:
 
-1. Explizite Pfad.
+1. Expliziter Pfad.
 
-2. Der Ordner, der die Aspose-Komponentenbaugruppe enthält.
+2. Der Ordner, der die Aspose-Komponenten‑Assembly enthält.
 
 3. Der Ordner, der die aufrufende Assembly des Clients enthält.
 
-4. Der Ordner, der den Eintrag (Startup) Assembly enthält.
+4. Der Ordner, der die Einstieg‑(Start‑)Assembly enthält.
 
 5. Eine eingebettete Ressource in der aufrufenden Assembly des Clients.
 
-**Notiz:**Versucht in .NET Compact Framework, die Lizenz nur an diesen Speicherorten zu finden:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
-1. Explizite Pfad.
+1. Expliziter Pfad.
 
 2. Eine eingebettete Ressource in der aufrufenden Assembly des Clients.
 
-### Beispiele
+## Beispiele
 
-In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic in dem Ordner zu finden, der die Komponente enthält, in dem Ordner, der die aufrufende Assembly enthält, im Ordner des Eintrags Assembly und dann in die eingebetteten Ressourcen der aufrufenden Assembly. Kann ein vollständiger oder kurzer Dateiname oder Name einer eingebetteten Ressource sein. Verwenden Sie eine leere Zeichenfolge, um in den Evaluierungsmodus zu wechseln.
+In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic im Ordner zu finden, der die Komponente enthält, im Ordner, der die aufrufende Assembly enthält, im Ordner der Einstieg-Assembly und anschließend in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```csharp
 [C#]
@@ -51,11 +52,13 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
+Kann ein vollständiger oder kurzer Dateiname oder der Name einer eingebetteten Ressource sein. Verwenden Sie eine leere Zeichenfolge, um in den Evaluierungsmodus zu wechseln.
+
 ### Siehe auch
 
 * class [License](../)
-* namensraum [Aspose.PSD](../../license/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -69,13 +72,13 @@ public void SetLicense(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Ein Stream, der die Lizenz enthält. |
+| Strom | Stream | Ein Stream, der die Lizenz enthält. |
 
-### Bemerkungen
+## Hinweise
 
 Verwenden Sie diese Methode, um eine Lizenz aus einem Stream zu laden.
 
-### Beispiele
+## Beispiele
 
 ```csharp
 [C#]
@@ -93,7 +96,7 @@ license.SetLicense(myStream)
 ### Siehe auch
 
 * class [License](../)
-* namensraum [Aspose.PSD](../../license/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

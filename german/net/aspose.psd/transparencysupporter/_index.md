@@ -1,11 +1,12 @@
 ---
-title: Class TransparencySupporter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.TransparencySupporter klas. Das Objekt das Transparenz unterstützt.
+title: "Klasse TransparencySupporter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.TransparencySupporter Klasse. Das Objekt, das Transparenz unterstützt."
 type: docs
-weight: 5710
+weight: 6210
 url: /de/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
 Das Objekt, das Transparenz unterstützt.
@@ -14,21 +15,21 @@ Das Objekt, das Transparenz unterstützt.
 public class TransparencySupporter
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TransparencySupporter](transparencysupporter/)() | Default_Constructor |
+| [TransparencySupporter](transparencysupporter/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Ruft die Deckkraft des Objekts ab oder legt sie fest. Der Wert sollte zwischen 0 und 1 liegen. Der Wert 0 bedeutet, dass das Objekt vollständig sichtbar ist, der Wert 1 bedeutet, dass das Objekt vollständig undurchsichtig ist. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Liest oder setzt die Deckkraft des Objekts. Der Wert sollte zwischen 0 und 1 liegen. Ein Wert von 0 bedeutet, dass das Objekt vollständig sichtbar ist, ein Wert von 1 bedeutet, dass das Objekt vollständig undurchsichtig ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

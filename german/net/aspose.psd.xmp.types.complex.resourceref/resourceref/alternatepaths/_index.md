@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceRef eigendom. Ruft das Array des alternativen Pfads ab oder legt es fest.
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceRef-Eigenschaft. Gibt das Array alternativer Pfade zurück oder legt es fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-Ruft das Array des alternativen Pfads ab oder legt es fest.
+Liest oder setzt das Array alternativer Pfade.
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Array alternativer Pfade.
 
 ### Siehe auch
 
 * class [ResourceRef](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

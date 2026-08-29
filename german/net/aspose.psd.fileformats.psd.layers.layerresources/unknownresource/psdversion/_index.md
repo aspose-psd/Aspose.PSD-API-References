@@ -1,14 +1,15 @@
 ---
-title: UnknownResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnknownResource eigendom. Ruft die minimale PSDVersion ab die für die LayerRessource erforderlich ist. 0 zeigt keine Einschränkungen an.
+title: "UnknownResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnknownResource-Eigenschaft. Gibt die minimale PSD-Version zurück, die für die Ebenenressource erforderlich ist. 0 bedeutet keine Einschränkungen"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/psdversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.PsdVersion property
 
-Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an.
+Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [UnknownResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage methode. Löscht diese Instanz.
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Methode. Löscht diese Instanz"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
 Löscht diese Instanz.
@@ -17,7 +18,7 @@ public virtual void Clear()
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

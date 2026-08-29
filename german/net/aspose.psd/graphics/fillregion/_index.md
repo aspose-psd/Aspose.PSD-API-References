@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRegion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics methode. Füllt das Innere von aRegion .
+title: "Graphics.FillRegion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Methode. Füllt das Innere einer Region."
 type: docs
-weight: 410
+weight: 420
 url: /de/net/aspose.psd/graphics/fillregion/
 ---
+{{< psd/tize >}}
 ## Graphics.FillRegion method
 
-Füllt das Innere von a[`Region`](../../region/) .
+Füllt das Innere einer [`Region`](../../region/).
 
 ```csharp
 public void FillRegion(Brush brush, Region region)
@@ -16,21 +17,21 @@ public void FillRegion(Brush brush, Region region)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| region | Region | [`Region`](../../region/) das den zu füllenden Bereich darstellt. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| region | Region | [`Region`](../../region/) die den zu füllenden Bereich darstellt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null. -oder- *region* ist Null. |
+| ArgumentNullException | *brush* ist null. -oder- *region* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * class [Region](../../region/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

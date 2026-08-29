@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die vom GPSEmpfänger verwendeten geodätischen GPSVermessungsdaten ab oder legt sie fest.
+title: "ExifData.GPSMapDatum"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die GPS-geodätischen Vermessungsdaten, die vom GPS-Empfänger verwendet werden."
 type: docs
 weight: 560
 url: /de/net/aspose.psd.exif/exifdata/gpsmapdatum/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMapDatum property
 
-Ruft die vom GPS-Empfänger verwendeten geodätischen GPS-Vermessungsdaten ab oder legt sie fest.
+Liest oder setzt die vom GPS-Empfänger verwendeten geodätischen Vermessungsdaten.
 
 ```csharp
 public string GPSMapDatum { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die vom GPS-Empfänger verwendeten geodätischen GPS-Vermessungsdaten.
+Die GPS-geodätischen Vermessungsdaten, die vom GPS-Empfänger verwendet werden.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

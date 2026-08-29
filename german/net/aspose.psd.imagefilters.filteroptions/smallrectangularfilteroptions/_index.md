@@ -1,11 +1,12 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions klas. Kleine rechteckige Filteroptionen
+title: "Klasse SmallRectangularFilterOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions Klasse. Kleine rechteckige Filteroptionen"
 type: docs
-weight: 4750
+weight: 5220
 url: /de/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
 Kleine rechteckige Filteroptionen
@@ -14,16 +15,16 @@ Kleine rechteckige Filteroptionen
 public class SmallRectangularFilterOptions : FilterOptionsBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Default_Constructor |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Der Standardkonstruktor. |
 
 ### Siehe auch
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

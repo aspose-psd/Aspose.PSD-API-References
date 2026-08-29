@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OSTypeStructuresRegistry methode. Ruft den ersten unterstützten OpenerDeskriptor ab.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OSTypeStructuresRegistry-Methode. Gibt den ersten unterstützten Öffner-Deskriptor zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptor method
 
-Ruft den ersten unterstützten Opener-Deskriptor ab.
+Ermittelt den ersten unterstützten Öffner-Deskriptor.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
@@ -16,21 +17,21 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 
 ### Rückgabewert
 
-Der Layer-Ressourcen-Loader-Deskriptor oder null, wenn kein Loader-Deskriptor für diesen Stream unterstützt wird.
+Der Layer-Resource-Loader-Deskriptor oder null, wenn kein Loader-Deskriptor für einen solchen Stream unterstützt wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Lader wird tatsächlich der letzte registrierte sein.
+Der erste Loader ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

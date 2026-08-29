@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Spread
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Holt oder setzt die Intensität in Prozent.
+title: "DropShadowEffect.Spread"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect-Eigenschaft. Liest oder setzt die Intensität als Prozentsatz"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Spread property
 
-Holt oder setzt die Intensität in Prozent.
+Liest oder setzt die Intensität als Prozentsatz.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Spread.
+Die Ausbreitung.
 
 ### Siehe auch
 
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

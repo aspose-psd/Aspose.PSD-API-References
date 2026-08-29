@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Magentas
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlwhResource eigendom. Ruft den MagentaWert ab oder legt ihn fest.
+title: "BlwhResource.Magentas"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlwhResource-Eigenschaft. Gibt den Magenta-Wert zurück oder legt ihn fest"
 type: docs
-weight: 90
+weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Magentas property
 
-Ruft den Magenta-Wert ab oder legt ihn fest.
+Liest oder setzt den magentas Wert.
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Magenta-Wert.
+Der Magentawert.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie eine BlwhResource bearbeiten.
+Das folgende Beispiel zeigt, wie Sie ein BlwhResource bearbeiten.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Bearbeiten und Speichern testen
+                // Testen von Bearbeitung und Speicherung
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Siehe auch
 
 * class [BlwhResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

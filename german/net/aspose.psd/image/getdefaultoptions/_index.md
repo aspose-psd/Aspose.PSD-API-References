@@ -1,14 +1,15 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Ruft die Standardoptionen ab.
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Gibt die Standardoptionen zurück"
 type: docs
-weight: 170
+weight: 180
 url: /de/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
-Ruft die Standardoptionen ab.
+Liefert die Standardoptionen.
 
 ```csharp
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
@@ -26,7 +27,7 @@ Standardoptionen
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

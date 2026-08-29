@@ -1,27 +1,28 @@
 ---
-title: Image.Height
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft die Bildhöhe ab.
+title: "Image.Height"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt die Bildhöhe zurück"
 type: docs
 weight: 110
 url: /de/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
-Ruft die Bildhöhe ab.
+Liefert die Bildhöhe.
 
 ```csharp
 public abstract int Height { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildhöhe.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

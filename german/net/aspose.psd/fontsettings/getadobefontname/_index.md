@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Ruft den Namen der AdobeSchriftart nach Namen der Schriftfamilie ab.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings‑Methode. Gibt den Adobe‑Schriftartnamen anhand des Schriftfamiliennamens zurück."
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Ruft den Namen der Adobe-Schriftart nach Namen der Schriftfamilie ab.
+Liefert den Adobe-Schriftartnamen anhand des Schriftfamiliennamens.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
@@ -16,15 +17,15 @@ public static string GetAdobeFontName(string fontFamilyName)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontFamilyName | String | Der Name der Schriftfamilie. |
+| fontFamilyName | String | Der Schriftfamilienname. |
 
 ### Rückgabewert
 
-Der Name der Adobe-Schriftart nach Name der Schriftfamilie.
+Der Adobe‑Schriftartname anhand des Schriftfamiliennamens.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, den Schriftartnamen im Abschnittsstil zu ändern.
+Der folgende Code demonstriert die Möglichkeit, den Schriftartnamen im Teilstil zu ändern.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -80,7 +81,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

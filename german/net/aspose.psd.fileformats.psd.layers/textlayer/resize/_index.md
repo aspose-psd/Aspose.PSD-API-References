@@ -1,14 +1,15 @@
 ---
-title: TextLayer.Resize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer methode. Ändert die Bildgröße. Der StandardLeftTopToLeftTopwird verwendet.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer-Methode. Ändert die Größe des Bildes. Der Standardwert LeftTopToLeftTop wird verwendet"
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Ändert die Bildgröße. Der StandardLeftTopToLeftTopwird verwendet.
+Skaliert das Bild. Der Standard LeftTopToLeftTop wird verwendet.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,11 +19,11 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
 | newHeight | Int32 | Die neue Höhe. |
-| resizeType | ResizeType | Der Typ der Transformation zur Größenänderung[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Der Typ der Größenänderungs-Transformation [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code veranschaulicht die TextLayer.Resize-Funktion mit dem Parameter zum Auswählen des Mechanismus zum Ändern der Größe.
+Der folgende Code demonstriert die TextLayer.Resize-Funktion mit dem Parameter zur Auswahl des Resizing-Mechanismus.
 
 ```csharp
 [C#]
@@ -34,14 +35,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // Es setzt die neue Größe der Textebene
+    // Sie legt die neue Größe der Textebene fest
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Es legt den Mechanismus fest, wie die Größenänderungsfunktion die Größe der Ebene ändert (Standardwert)
+    // Sie legt den Mechanismus fest, wie die Resize-Funktion die Ebene skalieren soll (Standardwert)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Neuer Mechanismus zur Größenänderung für die Textebene, der hier verwendet wird
+    // Neuer Mechanismus zum Ändern der Größe für die Textebene, der hier verwendet wird
     // Nicht nur die Ebene, sondern auch die Transformationsmatrix der Textebene wird geändert
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
@@ -52,13 +53,13 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 {
     TextLayer txtLayer = (TextLayer)image.Layers[1];
 
-    // Grund für Delta ist eine andere Standardschriftart
+    // Der Grund für das Delta ist eine andere Standardschriftart
     if (txtLayer.TransformMatrix[4] >= 65 
         && txtLayer.TransformMatrix[4] <= 67
         && txtLayer.TransformMatrix[5] >= 234
         && txtLayer.TransformMatrix[5] <= 237)
     {
-        // Alles ist ok
+        // Alles ist in Ordnung
     }
     else
     {
@@ -71,7 +72,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LnsrResource constructeur. Initialisiert eine neue Instanz vonLnsrResource Klasse.
+title: "LnsrResource.LnsrResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LnsrResource-Konstruktor. Initialisiert eine neue Instanz der Klasse LnsrResource"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Initialisiert eine neue Instanz von[`LnsrResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LnsrResource`](../)-Klasse.
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
@@ -22,20 +23,20 @@ public LnsrResource(LnsrResourceType lnsrResourceType)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Sie können lnsr nicht mit einem unbekannten Typwert erstellen |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Sie können kein lnsr mit unbekanntem Typwert erstellen |
 
 ### Siehe auch
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LnsrResource`](../) class. Mit benutzerdefiniertem oder unbekanntem Wert
+Initialisiert eine neue Instanz der [`LnsrResource`](../)-Klasse. Mit benutzerdefiniertem oder unbekanntem Wert
 
 ```csharp
 public LnsrResource(byte[] bytes)
@@ -43,18 +44,18 @@ public LnsrResource(byte[] bytes)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| bytes | Byte[] | Die Bytes. |
+| Bytes | Byte[] | Die Bytes. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| Exception | Ungültiger lnsr-Ressourcenwert |
+| Ausnahme | Ungültiger lnsr Resource-Wert |
 
 ### Siehe auch
 
 * class [LnsrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

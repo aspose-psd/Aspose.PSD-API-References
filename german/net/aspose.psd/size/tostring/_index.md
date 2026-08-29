@@ -1,14 +1,15 @@
 ---
-title: Size.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size methode. Erstellt eine für Menschen lesbare Zeichenfolge die dies darstelltSize .
+title: "Size.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Methode. Erstellt einen menschenlesbaren String, der diese Size darstellt"
 type: docs
 weight: 130
 url: /de/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-Erstellt eine für Menschen lesbare Zeichenfolge, die dies darstellt[`Size`](../) .
+Erstellt einen menschenlesbaren String, der diese [`Size`](../) darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-Eine Zeichenfolge, die dies darstellt[`Size`](../).
+Ein String, der diese [`Size`](../) darstellt.
 
 ### Siehe auch
 
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

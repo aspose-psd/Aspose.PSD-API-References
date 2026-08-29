@@ -1,14 +1,15 @@
 ---
-title: PathGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrush methode. Erstellt einen Verlaufspinsel der die Farbe ändert beginnend von der Mitte des Pfads nach außen bis zur Begrenzung des Pfads. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve.
+title: "PathGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrush-Methode. Erstellt einen Farbverlaufspinsel, der die Farbe vom Zentrum des Pfades nach außen bis zur Begrenzung des Pfades ändert. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd.brushes/pathgradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Erstellt einen Verlaufspinsel, der die Farbe ändert, beginnend von der Mitte des Pfads nach außen bis zur Begrenzung des Pfads. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve.
+Erstellt einen Farbverlauf-Pinsel, der die Farbe vom Zentrum des Pfades nach außen bis zur Pfadrand ändert. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
@@ -16,19 +17,19 @@ public void SetSigmaBellShape(float focus)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| focus | Single | Ein Wert zwischen 0 und 1, der angibt, wo entlang eines beliebigen Radials von der Mitte des Pfads bis zur Grenze des Pfads die mittlere Farbe die höchste Intensität aufweist. Ein Wert von 1 (Standardeinstellung) platziert die höchste Intensität in der Mitte des Pfads. |
+| Fokus | Single | Ein Wert von 0 bis 1, der angibt, wo entlang eines beliebigen Radius vom Zentrum des Pfades bis zur Begrenzung des Pfades die Mittelwertfarbe ihre höchste Intensität hat. Ein Wert von 1 (Standard) legt die höchste Intensität im Zentrum des Pfades fest. |
 
 ### Siehe auch
 
 * class [PathGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Erstellt einen Verlaufspinsel, der die Farbe ändert, beginnend von der Mitte des Pfads nach außen bis zur Begrenzung des Pfads. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve.
+Erstellt einen Farbverlauf-Pinsel, der die Farbe vom Zentrum des Pfades nach außen bis zur Pfadrand ändert. Der Übergang von einer Farbe zur anderen basiert auf einer glockenförmigen Kurve.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
@@ -36,13 +37,13 @@ public void SetSigmaBellShape(float focus, float scale)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| focus | Single | Ein Wert zwischen 0 und 1, der angibt, wo entlang eines beliebigen Radials von der Mitte des Pfads bis zur Grenze des Pfads die mittlere Farbe die höchste Intensität aufweist. Ein Wert von 1 (Standardeinstellung) platziert die höchste Intensität in der Mitte des Pfads. |
-| scale | Single | Ein Wert zwischen 0 und 1, der die maximale Intensität der Mittelfarbe angibt, die mit der Grenzfarbe gemischt wird. Ein Wert von 1 bewirkt die höchstmögliche Intensität der Center-Farbe und ist der Standardwert. |
+| Fokus | Single | Ein Wert von 0 bis 1, der angibt, wo entlang eines beliebigen Radius vom Zentrum des Pfades bis zur Begrenzung des Pfades die Mittelwertfarbe ihre höchste Intensität hat. Ein Wert von 1 (Standard) legt die höchste Intensität im Zentrum des Pfades fest. |
+| scale | Single | Ein Wert von 0 bis 1, der die maximale Intensität der Mittelwertfarbe angibt, die mit der Randfarbe gemischt wird. Ein Wert von 1 bewirkt die höchstmögliche Intensität der Mittelwertfarbe und ist der Standardwert. |
 
 ### Siehe auch
 
 * class [PathGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

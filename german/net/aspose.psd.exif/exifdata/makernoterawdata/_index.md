@@ -1,27 +1,28 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Rohdaten der Herstellernotiz ab oder legt sie fest.
+title: "ExifData.MakerNoteRawData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Rohdaten des Herstellerhinweises zurück oder legt sie fest"
 type: docs
 weight: 790
 url: /de/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
-Ruft die Rohdaten der Herstellernotiz ab oder legt sie fest.
+Liest oder setzt die rohen Maker-Notizdaten.
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Rohdaten der Herstellernotiz.
+Die Rohdaten des Herstellerhinweises.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

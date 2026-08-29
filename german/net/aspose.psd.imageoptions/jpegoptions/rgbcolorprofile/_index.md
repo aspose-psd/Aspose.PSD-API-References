@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.RgbColorProfile
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Das ZielRGBFarbprofil für CMYKJPEGBilder. Zum Speichern von Bildern verwenden. Muss für eine korrekte Farbkonvertierung mit CMYKColorProfile gepaart sein.
+title: "JpegOptions.RgbColorProfile"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions-Eigenschaft. Das Ziel‑RGB‑Farbprofil für CMYK‑JPEG‑Bilder. Wird zum Speichern von Bildern verwendet. Muss zusammen mit CMYKColorProfile für eine korrekte Farbumwandlung verwendet werden."
 type: docs
-weight: 170
+weight: 180
 url: /de/net/aspose.psd.imageoptions/jpegoptions/rgbcolorprofile/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RgbColorProfile property
 
-Das Ziel-RGB-Farbprofil für CMYK-JPEG-Bilder. Zum Speichern von Bildern verwenden. Muss für eine korrekte Farbkonvertierung mit CMYKColorProfile gepaart sein.
+Das Ziel-RGB-Farbprofil für CMYK-JPEG-Bilder. Wird zum Speichern von Bildern verwendet. Muss zusammen mit CMYKColorProfile für eine korrekte Farbumwandlung verwendet werden.
 
 ```csharp
 public StreamSource RgbColorProfile { get; set; }
@@ -18,7 +19,7 @@ public StreamSource RgbColorProfile { get; set; }
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

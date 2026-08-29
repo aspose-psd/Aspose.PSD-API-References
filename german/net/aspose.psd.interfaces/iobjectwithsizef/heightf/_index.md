@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IObjectWithSizeF eigendom. Ruft die Objekthöhe in Zoll ab.
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IObjectWithSizeF-Eigenschaft. Gibt die Objekt‑Höhe in Zoll zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-Ruft die Objekthöhe in Zoll ab.
+Ermittelt die Objekt-Höhe in Zoll.
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Objekthöhe in Zoll.
+Die Objekthöhe, in Zoll.
 
 ### Siehe auch
 
 * interface [IObjectWithSizeF](../)
-* namensraum [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PtFlResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz mit Layer verknüpft ist.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PtFlResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Instanz mit der Ebene verknüpft ist"
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz mit Layer verknüpft ist.
+Liefert oder setzt einen Wert, der angibt, ob diese Instanz mit dem Layer verknüpft ist.
 
 ```csharp
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz mit Layer verknüpft ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz mit der Ebene verknüpft ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource‑Ressource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -89,7 +90,7 @@ using (im)
 ### Siehe auch
 
 * class [PtFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

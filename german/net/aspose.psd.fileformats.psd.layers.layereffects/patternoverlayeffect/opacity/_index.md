@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternOverlayEffect eigendom. Ruft die Deckkraft ab oder legt sie fest.
+title: "PatternOverlayEffect.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternOverlayEffect property. Gibt einen Wert zurück oder legt ihn fest, die Deckkraft."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest.
+Liest oder setzt die Deckkraft.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
 ### Siehe auch
 
 * class [PatternOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

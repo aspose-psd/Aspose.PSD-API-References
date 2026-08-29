@@ -1,27 +1,28 @@
 ---
-title: Lfx2Resource.DescriptorVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Lfx2Resource eigendom. Ruft die Deskriptorversion ab.
+title: "Lfx2Resource.DescriptorVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Lfx2Resource-Eigenschaft. Liefert die Deskriptionsversion"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.DescriptorVersion property
 
-Ruft die Deskriptorversion ab.
+Ruft die Versionsbeschreibung ab.
 
 ```csharp
 public int DescriptorVersion { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Deskriptorversion.
+Die Deskriptor-Version.
 
 ### Siehe auch
 
 * class [Lfx2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

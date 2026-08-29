@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Holt oder setzt die Ausrichtung dafürPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Liest oder setzt die Ausrichtung für diesen Pen."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-Holt oder setzt die Ausrichtung dafür[`Pen`](../) .
+Liest oder setzt die Ausrichtung für diesen [`Pen`](../).
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`PenAlignment`](../../penalignment/) das stellt die Ausrichtung dafür dar[`Pen`](../).
+Ein [`PenAlignment`](../../penalignment/), das die Ausrichtung für diesen [`Pen`](../) darstellt.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`Alignment` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `Alignment`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class RawDataStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.RawDataStructure klas. Die Rohdatenstruktur.
+title: "Klasse RawDataStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.RawDataStructure Klasse. Die Rohdatenstruktur"
 type: docs
-weight: 3240
+weight: 3630
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/
 ---
+{{< psd/tize >}}
 ## RawDataStructure class
 
 Die Rohdatenstruktur.
@@ -14,26 +15,26 @@ Die Rohdatenstruktur.
 public sealed class RawDataStructure : OSTypeStructure
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [RawDataStructure](rawdatastructure/)(ClassID) | Initialisiert eine neue Instanz von`RawDataStructure` Klasse. |
+| [RawDataStructure](rawdatastructure/)(ClassID) | Initialisiert eine neue Instanz der `RawDataStructure` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/) { get; set; } | Ruft die Daten ab oder legt sie fest. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key/) { get; } | Ruft den Schlüssel ab. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Ruft den Schlüsselnamen ab oder legt ihn fest. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length/) { get; } | Ruft die ab[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) Länge in Bytes. |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/) { get; set; } | Liest oder setzt die Daten. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/key/) { get; } | Liest den Schlüssel. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Liest oder setzt den Schlüsselnamen. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/length/) { get; } | Liest die Länge des [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) in Bytes. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Ruft die Kopfzeilenlänge ab. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Liest die Header-Länge. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 
@@ -41,12 +42,12 @@ public sealed class RawDataStructure : OSTypeStructure
 
 | Name | Beschreibung |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/structurekey/) | Identifiziert den Strukturschlüssel. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/structurekey/) | Identifiziert den Struktur-Schlüssel. |
 
 ### Siehe auch
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

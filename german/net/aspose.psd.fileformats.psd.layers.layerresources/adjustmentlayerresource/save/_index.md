@@ -1,14 +1,15 @@
 ---
-title: AdjustmentLayerResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AdjustmentLayerResource methode. Speichert die Ressource im angegebenen StreamContainer.
+title: "AdjustmentLayerResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AdjustmentLayerResource-Methode. Speichert die Ressource im angegebenen Stream-Container"
 type: docs
-weight: 20
+weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Save method
 
-Speichert die Ressource im angegebenen Stream-Container.
+Speichert die Ressource in den angegebenen Stream-Container.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [AdjustmentLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

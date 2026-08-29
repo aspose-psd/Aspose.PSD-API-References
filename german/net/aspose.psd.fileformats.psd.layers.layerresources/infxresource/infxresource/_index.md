@@ -1,14 +1,15 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InfxResource constructeur. Initialisiert eine neue Instanz vonInfxResource Klasse.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InfxResource-Konstruktor. Initialisiert eine neue Instanz der InfxResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`InfxResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`InfxResource`](../)-Klasse.
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
@@ -16,19 +17,19 @@ public InfxResource(bool blendInteriorElements)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | wenn eingestellt`WAHR` [Interieurelemente mischen]. |
+| blendInteriorElements | Boolean | wenn auf `true` gesetzt [blend interior elements]. |
 
 ### Siehe auch
 
 * class [InfxResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`InfxResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`InfxResource`](../)-Klasse.
 
 ```csharp
 public InfxResource()
@@ -37,14 +38,14 @@ public InfxResource()
 ### Siehe auch
 
 * class [InfxResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`InfxResource`](../) class. Mit benutzerdefiniertem oder unbekanntem Wert
+Initialisiert eine neue Instanz der [`InfxResource`](../)-Klasse. Mit benutzerdefiniertem oder unbekanntem Wert
 
 ```csharp
 public InfxResource(byte[] data)
@@ -52,7 +53,7 @@ public InfxResource(byte[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Byte[] | Die Ressourcendaten. |
+| Daten | Byte[] | Die Ressourcendaten. |
 
 ### Ausnahmen
 
@@ -63,7 +64,7 @@ public InfxResource(byte[] data)
 ### Siehe auch
 
 * class [InfxResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

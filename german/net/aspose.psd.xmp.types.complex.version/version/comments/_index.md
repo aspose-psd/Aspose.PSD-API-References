@@ -1,27 +1,28 @@
 ---
-title: Version.Comments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Version eigendom. Ruft die Kommentare ab oder legt sie fest.
+title: "Version.Comments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Version-Eigenschaft. Gibt die Kommentare zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex.version/version/comments/
 ---
+{{< psd/tize >}}
 ## Version.Comments property
 
-Ruft die Kommentare ab oder legt sie fest.
+Liest oder setzt die Kommentare.
 
 ```csharp
 public string Comments { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kommentare.
 
 ### Siehe auch
 
 * class [Version](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

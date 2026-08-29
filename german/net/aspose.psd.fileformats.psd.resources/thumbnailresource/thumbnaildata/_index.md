@@ -1,20 +1,21 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource eigendom. Ruft die ThumbnailDaten ab oder legt sie fest.
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Eigenschaft. Gibt die Thumbnail-Daten zurück oder legt sie fest"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
-Ruft die Thumbnail-Daten ab oder legt sie fest.
+Liest oder setzt die Thumbnail-Daten.
 
 ```csharp
 public Color[] ThumbnailData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Thumbnail-Daten.
 
@@ -22,7 +23,7 @@ Die Thumbnail-Daten.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

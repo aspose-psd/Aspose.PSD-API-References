@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FillLayer methode. Aktualisiert die Pixeldaten der Füllebene entsprechend der tatsächlichenIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FillLayer-Methode. Aktualisiert die Pixeldaten der Füllschicht basierend auf den aktuellen IFillSettings"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Aktualisiert die Pixeldaten der Füllebene entsprechend der tatsächlichen[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Aktualisiert die Pixeldaten der Füllschicht basierend auf den aktuellen [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -18,16 +19,16 @@ public void Update()
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Unbekannter FillType-Typ |
+| ArgumentOutOfRangeException | Wird ausgelöst, wenn ein unbekannter FillType auftritt. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung von Füllebenen: Farbfüllung.
+Der folgende Code demonstriert die Unterstützung von Fill-Layern: Color fill.
 
 ```csharp
 [C#]
 
-// Unterstützung von Füllebenen hinzufügen: Farbfüllung
+// Unterstützung von Fill-Layern hinzufügen: Color fill
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Der folgende Code speichert Bilder mit verschiedenen Farbverlaufstypen und zeigt, wie Aspose.PSD den Farbverlauf zeichnet.
+Der folgende Code speichert Bilder mit unterschiedlichen Verlaufsarten und zeigt, wie Aspose.PSD den Verlauf zeichnet.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code speichert Bilder mit Musterfüllebene und zeigt, wie Aspose.PSD das Muster rendert.
+Der folgende Code speichert Bilder mit Muster‑Füll‑Ebene und demonstriert, wie Aspose.PSD das Muster rendert.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -134,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Siehe auch
 
 * class [FillLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.DataSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffDataType eigendom. Ruft die zusätzliche Datengröße in Bytes ab falls die 12 Bytes nicht ausreichen um die TagDaten aufzunehmen.
+title: "TiffDataType.DataSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffDataType-Eigenschaft. Gibt die zusätzliche Datenmenge in Bytes zurück, falls die 12 Bytes nicht ausreichen, um die Tag-Daten zu speichern"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.tiff/tiffdatatype/datasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DataSize property
 
-Ruft die zusätzliche Datengröße in Bytes ab (falls die 12 Bytes nicht ausreichen, um die Tag-Daten aufzunehmen).
+Gibt die zusätzliche Datengröße in Bytes zurück (falls die 12 Bytes nicht ausreichen, um die Tag-Daten zu speichern).
 
 ```csharp
 public abstract uint DataSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die zusätzliche Datengröße in Bytes.
+Die zusätzliche Datenmenge in Bytes.
 
-### Bemerkungen
+## Hinweise
 
-Dies ist die genaue Byteanzahl.
+Dies ist die genaue Byte-Anzahl.
 
 ### Siehe auch
 
 * class [TiffDataType](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

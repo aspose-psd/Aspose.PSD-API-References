@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.RemoveTransparencyPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientFillSettings methode. Entfernt den Transparenzpunkt.
+title: "GradientFillSettings.RemoveTransparencyPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientFillSettings Methode. Entfernt den Transparenzpunkt"
 type: docs
-weight: 180
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveTransparencyPoint method
 
 Entfernt den Transparenzpunkt.
@@ -16,13 +17,13 @@ public void RemoveTransparencyPoint(IGradientTransparencyPoint point)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | IGradientTransparencyPoint | Der Punkt. |
+| Punkt | IGradientTransparencyPoint | Der Punkt. |
 
 ### Siehe auch
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

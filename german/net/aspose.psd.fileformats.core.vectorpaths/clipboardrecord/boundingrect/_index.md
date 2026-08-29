@@ -1,20 +1,21 @@
 ---
-title: ClipboardRecord.BoundingRect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ClipboardRecord eigendom. Ruft das Begrenzungsrechteck ab oder legt es fest.
+title: "ClipboardRecord.BoundingRect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ClipboardRecord-Eigenschaft. Liest oder setzt das Begrenzungsrechteck"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.BoundingRect property
 
-Ruft das Begrenzungsrechteck ab oder legt es fest.
+Liest oder setzt das Begrenzungsrechteck.
 
 ```csharp
 public RectangleF BoundingRect { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Begrenzungsrechteck.
 
@@ -22,7 +23,7 @@ Das Begrenzungsrechteck.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomLeft
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeRadiiRectangle eigendom. Ruft den Tiefstwert ab oder legt ihn fest.
+title: "VectorShapeRadiiRectangle.BottomLeft"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeRadiiRectangle Eigenschaft. Liest oder setzt den unteren Wert"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomLeft property
 
-Ruft den Tiefstwert ab oder legt ihn fest.
+Liest oder setzt den unteren Rand.
 
 ```csharp
 public double BottomLeft { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Unten.
+Der untere Teil.
 
 ### Siehe auch
 
 * class [VectorShapeRadiiRectangle](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

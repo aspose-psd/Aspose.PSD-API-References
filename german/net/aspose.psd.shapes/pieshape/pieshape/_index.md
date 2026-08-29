@@ -1,14 +1,15 @@
 ---
-title: PieShape.PieShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PieShape constructeur. Initialisiert eine neue Instanz vonPieShape Klasse.
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PieShape-Konstruktor. Initialisiert eine neue Instanz der PieShape-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-Initialisiert eine neue Instanz von[`PieShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`PieShape`](../)-Klasse.
 
 ```csharp
 public PieShape()
@@ -17,14 +18,14 @@ public PieShape()
 ### Siehe auch
 
 * class [PieShape](../)
-* namensraum [Aspose.PSD.Shapes](../../pieshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PieShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`PieShape`](../)-Klasse.
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -32,7 +33,7 @@ public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | RectangleF | Das Rechteck. |
+| Rechteck | RectangleF | Das Rechteck. |
 | startAngle | Single | Der Startwinkel. |
 | sweepAngle | Single | Der Sweep-Winkel. |
 
@@ -40,7 +41,7 @@ public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* namensraum [Aspose.PSD.Shapes](../../pieshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

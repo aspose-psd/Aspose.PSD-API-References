@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die yAuflösung ab oder legt sie fest.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt die Y-Auflösung zurück oder legt sie fest"
 type: docs
-weight: 690
+weight: 700
 url: /de/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-Ruft die y-Auflösung ab oder legt sie fest.
+Liest oder setzt die y-Auflösung.
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die y-Auflösung.
+Die Y-Auflösung.
 
 ### Siehe auch
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectLayer eigendom. Ruft den Inhalt der SmartObjektEbene ab oder legt ihn fest. Der Inhalt des eingebetteten SmartObjekts ist die eingebettete RohbilddateiData und seine Eigenschaften. Der Inhalt des verknüpften SmartObjekts ist der Rohinhalt der verknüpften Bilddatei sofern verfügbar und seine EigenschaftenLiFeDataSource . Wir unterstützen das Laden aus der Adobe Photoshop  Grafikbibliothek nicht wennIsLibraryLink ist wahr. Für normale LinkDateien verwenden wir zunächstRelativePath um die Datei relativ zum Quellbildpfad zu suchenSourceImagePath  wenn es nicht verfügbar ist schauen wir uns anFullPath  Wenn nicht suchen wir die Linkdatei im selben Verzeichnis in dem sich unser Bild befindetSourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectLayer-Eigenschaft. Liest oder legt den Inhalt der SmartObjectLayer fest. Der eingebettete SmartObject-Inhalt ist die eingebettete Rohbilddatei Data und deren Eigenschaften. Der verknüpfte SmartObject-Inhalt ist der Rohinhalt der verknüpften Bilddatei, falls verfügbar, und dessen Eigenschaften LiFeDataSource. Das Laden aus der Adobe Photoshop Graphics Library wird nicht unterstützt, wenn IsLibraryLink wahr ist. Für reguläre Verknüpfungsdateien verwenden wir zunächst RelativePath, um die Datei relativ zum Quellbildpfad SourceImagePath zu suchen; ist sie nicht verfügbar, prüfen wir FullPath; ist auch das nicht vorhanden, suchen wir die Verknüpfungsdatei im selben Verzeichnis wie unser Bild: SourceImagePath."
 type: docs
-weight: 10
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-Ruft den Inhalt der Smart-Objekt-Ebene ab oder legt ihn fest. Der Inhalt des eingebetteten Smart-Objekts ist die eingebettete Rohbilddatei:[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) und seine Eigenschaften. Der Inhalt des verknüpften Smart-Objekts ist der Rohinhalt der verknüpften Bilddatei, sofern verfügbar, und seine Eigenschaften:[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Wir unterstützen das Laden aus der Adobe� Photoshop� �� Grafikbibliothek nicht, wenn[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) ist wahr. Für normale Link-Dateien verwenden wir zunächst[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) um die Datei relativ zum Quellbildpfad zu suchenSourceImagePath , wenn es nicht verfügbar ist, schauen wir uns an[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , Wenn nicht, suchen wir die Linkdatei im selben Verzeichnis, in dem sich unser Bild befindet:SourceImagePath .
+Liest oder legt den Inhalt der SmartObjectLayer fest. Der eingebettete SmartObject-Inhalt ist die eingebettete Rohbilddatei: [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) und deren Eigenschaften. Der verknüpfte SmartObject-Inhalt ist der Rohinhalt der verknüpften Bilddatei, falls verfügbar, und dessen Eigenschaften: [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Das Laden aus der Adobe Photoshop Graphics Library wird nicht unterstützt, wenn [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) wahr ist. Für reguläre Verknüpfungsdateien verwenden wir zunächst [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/), um die Datei relativ zum Quellbildpfad SourceImagePath zu suchen; ist sie nicht verfügbar, prüfen wir [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), andernfalls suchen wir die Verknüpfungsdatei im selben Verzeichnis wie unser Bild: SourceImagePath.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Diebyte[] Inhalt der intelligenten Objektebene.
+Der byte[]-Inhalt der SmartObjectLayer.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| NotSupportedException | Inhalte aus der Adobe� Photoshop� ��-Bibliothek können nicht abgerufen werden. |
+| NotSupportedException | Inhalte können nicht aus der Adobe Photoshop Bibliothek abgerufen werden. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung eingebetteter Smart-Objekte.
+Der folgende Code demonstriert die Unterstützung eingebetteter Smart‑Objekte.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie die Smart-Objekt-Ebene in der PSD-Datei geändert und der ursprünglich eingebettete Inhalt des Smart-Objekts exportiert/aktualisiert wird.
+// Dieses Beispiel zeigt, wie man die Smart‑Object‑Ebene in der PSD‑Datei ändert und die ursprünglichen eingebetteten Inhalte des Smart‑Objects exportiert / aktualisiert.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Lassen Sie uns das eingebettete Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene exportieren
+        // Exportieren wir das eingebettete Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene.
         smartObjectLayer.ExportContents(exportPath);
 
-        // Prüfen wir, ob das Originalbild korrekt gespeichert wurde
+        // Überprüfen wir, ob das Originalbild korrekt gespeichert wurde
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Lassen Sie uns das ursprüngliche Smart-Objekt-Bild invertieren
+            // Lassen Sie das ursprüngliche Smart‑Object‑Bild invertieren
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,11 +91,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lassen Sie das eingebettete Smart‑Object‑Bild in der PSD‑Ebene ersetzen
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Prüfen wir, ob das aktualisierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das aktualisierte Bild korrekt gespeichert wurde
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -104,7 +105,7 @@ foreach (FileFormat format in formats)
 ### Siehe auch
 
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

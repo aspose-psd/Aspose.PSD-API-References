@@ -1,57 +1,61 @@
 ---
-title: Class StringFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.StringFormat klas. Kapselt Textlayoutinformationen z. B. Ausrichtung Ausrichtung und Tabstopps Anzeigemanipulationen z. B. Einfügen von Auslassungspunkten und nationale Ziffernersetzung und OpenTypeFunktionen. Diese Klasse kann nicht vererbt werden.
+title: "Klasse StringFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.StringFormat Klasse. Kapselt Informationen zur Textlayout, wie Ausrichtungsorientierung und Tabulatoren, Anzeige-Manipulationen wie das Einfügen von Auslassungszeichen, nationale Ziffernersetzung und OpenType‑Funktionen. Diese Klasse kann nicht abgeleitet werden."
 type: docs
-weight: 5670
+weight: 6170
 url: /de/net/aspose.psd/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat class
 
-Kapselt Textlayoutinformationen (z. B. Ausrichtung, Ausrichtung und Tabstopps), Anzeigemanipulationen (z. B. Einfügen von Auslassungspunkten und nationale Ziffernersetzung) und OpenType-Funktionen. Diese Klasse kann nicht vererbt werden.
+Kapselt Textlayout-Informationen (wie Ausrichtung, Orientierung und Tabulatoren), Anzeige-Manipulationen (wie Ellipsen-Einfügung und nationale Ziffernersetzung) und OpenType-Funktionen. Diese Klasse kann nicht vererbt werden.
 
 ```csharp
 public sealed class StringFormat : DisposableObject
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [StringFormat](stringformat/#constructor)() | Initialisiert eine neue`StringFormat` Objekt. |
-| [StringFormat](stringformat/#constructor_1)(StringFormat) | Initialisiert eine neue`StringFormat` Objekt aus dem angegebenen vorhandenen`StringFormat` Objekt. |
-| [StringFormat](stringformat/#constructor_2)(StringFormatFlags) | Initialisiert eine neue`StringFormat` Objekt mit dem angegebenen[`StringFormatFlags`](../stringformatflags/) Aufzählung und Sprache. |
+| [StringFormat](stringformat/#constructor)() | Initialisiert ein neues `StringFormat`‑Objekt. |
+| [StringFormat](stringformat/#constructor_1)(StringFormat) | Initialisiert ein neues `StringFormat`‑Objekt aus dem angegebenen vorhandenen `StringFormat`‑Objekt. |
+| [StringFormat](stringformat/#constructor_2)(StringFormatFlags) | Initialisiert ein neues `StringFormat`‑Objekt mit der angegebenen [`StringFormatFlags`](../stringformatflags/)‑Aufzählung und Sprache. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | Ruft einen generischen Standardwert ab`StringFormat` Objekt. |
-| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | Ruft eine generische Typografie ab`StringFormat` Objekt. |
-| [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | Ruft Informationen zur Textausrichtung auf der vertikalen Ebene ab oder legt sie fest. |
+| static [GenericDefault](../../aspose.psd/stringformat/genericdefault/) { get; } | Ruft ein generisches Standard‑`StringFormat`‑Objekt ab. |
+| static [GenericTypographic](../../aspose.psd/stringformat/generictypographic/) { get; } | Ruft ein generisches typografisches `StringFormat`‑Objekt ab. |
+| [Alignment](../../aspose.psd/stringformat/alignment/) { get; set; } | Ruft Textausrichtungsinformationen in der Vertikalebene ab oder legt sie fest. |
+| [CustomCharIdent](../../aspose.psd/stringformat/customcharident/) { get; set; } | Ruft die benutzerdefinierte Zeichen‑Identität ab oder legt sie fest. |
 | [DigitSubstitutionLanguage](../../aspose.psd/stringformat/digitsubstitutionlanguage/) { get; set; } | Ruft die Sprache ab oder legt sie fest, die verwendet wird, wenn lokale Ziffern durch westliche Ziffern ersetzt werden. |
-| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | Ruft die für die Ziffernersetzung zu verwendende Methode ab oder legt sie fest. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
-| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset/) { get; } | Ruft die Anzahl der Leerzeichen zwischen dem Anfang einer Textzeile und dem ersten Tabstopp ab. |
-| [FormatFlags](../../aspose.psd/stringformat/formatflags/) { get; set; } | Holt oder setzt a[`StringFormatFlags`](../stringformatflags/) Aufzählung, die Formatierungsinformationen enthält. |
-| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix/) { get; set; } | Ruft ab oder setzt die[`HotkeyPrefix`](../hotkeyprefix/) Objekt dazu`StringFormat` Objekt. |
-| [LineAlignment](../../aspose.psd/stringformat/linealignment/) { get; set; } | Ruft die Linienausrichtung auf der horizontalen Ebene ab oder legt sie fest. |
-| [TabStops](../../aspose.psd/stringformat/tabstops/) { get; } | Ruft ein Array von Abständen zwischen Tabstopps in den Einheiten ab, die von angegeben wurden[`PageUnit`](../graphics/pageunit/) Eigentum. |
-| [Trimming](../../aspose.psd/stringformat/trimming/) { get; set; } | Ruft ab oder setzt die[`StringTrimming`](../stringtrimming/) Aufzählung dazu`StringFormat` Objekt. |
+| [DigitSubstitutionMethod](../../aspose.psd/stringformat/digitsubstitutionmethod/) { get; set; } | Ruft die Methode ab oder legt sie fest, die für die Ziffernersetzung verwendet wird. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde. |
+| [FirstTabOffset](../../aspose.psd/stringformat/firsttaboffset/) { get; } | Ruft die Anzahl der Leerzeichen zwischen dem Beginn einer Textzeile und dem ersten Tabulator ab. |
+| [FormatFlags](../../aspose.psd/stringformat/formatflags/) { get; set; } | Ruft eine [`StringFormatFlags`](../stringformatflags/)‑Aufzählung ab oder legt sie fest, die Formatierungsinformationen enthält. |
+| [HotkeyPrefix](../../aspose.psd/stringformat/hotkeyprefix/) { get; set; } | Ruft das [`HotkeyPrefix`](../hotkeyprefix/)‑Objekt für dieses `StringFormat`‑Objekt ab oder legt es fest. |
+| [LineAlignment](../../aspose.psd/stringformat/linealignment/) { get; set; } | Ruft die Zeilenausrichtung in der Horizontalebene ab oder legt sie fest. |
+| [TabStops](../../aspose.psd/stringformat/tabstops/) { get; } | Ruft ein Array von Abständen zwischen Tabulatoren in den durch die [`PageUnit`](../graphics/pageunit/)‑Eigenschaft angegebenen Einheiten ab. |
+| [Trimming](../../aspose.psd/stringformat/trimming/) { get; set; } | Ruft die [`StringTrimming`](../stringtrimming/)‑Aufzählung für dieses `StringFormat`‑Objekt ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [DeepClone](../../aspose.psd/stringformat/deepclone/)() | Erstellt einen tiefen Klon davon`StringFormat` Objekt. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
-| [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | Setzt dafür Tabstopps`StringFormat` Objekt. |
-| override [ToString](../../aspose.psd/stringformat/tostring/)() | Konvertiert dies`StringFormat` Objekt in eine für Menschen lesbare Zeichenfolge. |
+| [DeepClone](../../aspose.psd/stringformat/deepclone/)() | Erstellt eine tiefe Kopie dieses `StringFormat`-Objekts. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Gibt die aktuelle Instanz frei. |
+| override [Equals](../../aspose.psd/stringformat/equals/)(object) | Prüfen, ob Objekte gleich sind. |
+| override [GetHashCode](../../aspose.psd/stringformat/gethashcode/)() | Hashcode des aktuellen Objekts abrufen. |
+| [SetTabStops](../../aspose.psd/stringformat/settabstops/)(float, float[]) | Setzt Tabulatoren für dieses `StringFormat`-Objekt. |
+| override [ToString](../../aspose.psd/stringformat/tostring/)() | Konvertiert dieses `StringFormat`-Objekt in eine menschenlesbare Zeichenkette. |
 
 ### Siehe auch
 
 * class [DisposableObject](../disposableobject/)
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

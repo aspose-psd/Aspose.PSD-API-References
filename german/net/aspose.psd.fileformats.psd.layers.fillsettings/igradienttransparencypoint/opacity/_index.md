@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IGradientTransparencyPoint eigendom. Ruft die Deckkraft ab oder legt sie fest.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IGradientTransparencyPoint-Eigenschaft. Liest oder setzt die Deckkraft"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest.
+Liest oder setzt die Deckkraft.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
 ### Siehe auch
 
 * interface [IGradientTransparencyPoint](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: StrokeEffect.EffectType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StrokeEffect eigendom. Ruft eine Art Effekt ab
+title: "StrokeEffect.EffectType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StrokeEffect-Eigenschaft. Ruft einen Effekttyp ab"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.EffectType property
 
-Ruft eine Art Effekt ab
+Liest einen Effekttyp
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType-Eigenschaft.
+Der folgende Code demonstriert die Unterstützung der ILayerEffect.EffectType‑Eigenschaft.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // es hat gefangen
+            // es wurde abgefangen
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -49,9 +50,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### Siehe auch
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [StrokeEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

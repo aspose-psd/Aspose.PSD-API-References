@@ -1,11 +1,12 @@
 ---
-title: Enum KnownColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.KnownColor opsomming. Gibt die bekannten Systemfarben an.
+title: "Enum KnownColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.KnownColor enum. Gibt die bekannten Systemfarben an."
 type: docs
-weight: 5040
+weight: 5530
 url: /de/net/aspose.psd/knowncolor/
 ---
+{{< psd/tize >}}
 ## KnownColor enumeration
 
 Gibt die bekannten Systemfarben an.
@@ -162,7 +163,7 @@ public enum KnownColor
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FauxBold
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft ab oder legt fest dass Faux Bold aktiviert ist.
+title: "ITextStyle.FauxBold"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle-Eigenschaft. Gibt an, ob der Schein‑Fettstil aktiviert ist, oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxBold property
 
-Ruft ab oder legt fest, dass Faux Bold aktiviert ist.
+Liest oder setzt, ob Faux‑Bold aktiviert ist.
 
 ```csharp
 public bool FauxBold { get; set; }
@@ -17,7 +18,7 @@ public bool FauxBold { get; set; }
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

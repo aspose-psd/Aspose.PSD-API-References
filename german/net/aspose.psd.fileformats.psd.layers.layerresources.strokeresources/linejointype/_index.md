@@ -1,14 +1,15 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType opsomming. Linienverbindungstyp.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Linientyp"
 type: docs
-weight: 3050
+weight: 3410
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-Linienverbindungstyp.
+Linienverbindungs-Typ.
 
 ```csharp
 public enum LineJoinType : short
@@ -19,10 +20,10 @@ public enum LineJoinType : short
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | BevelJoin | `0` | Fasenverbindungstyp. |
-| RoundJoin | `1` | Round-Join-Typ. |
+| RoundJoin | `1` | Runder Verbindungstyp. |
 | MiterJoin | `2` | Gehrungsverbindungstyp. |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der VstkResource-Ressource.
 
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

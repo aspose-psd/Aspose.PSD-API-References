@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Zeilen ab oder legt sie fest.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Ruft die Zeilen ab oder legt sie fest"
 type: docs
-weight: 140
+weight: 130
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-Ruft die Zeilen ab oder legt sie fest.
+Liest oder setzt die Zeilen.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Linien.
+Die Zeilen.
 
 ### Siehe auch
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

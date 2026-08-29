@@ -1,14 +1,15 @@
 ---
-title: TiffRational.TiffRational
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffRational constructeur. Initialisiert eine neue Instanz vonTiffRational Klasse.
+title: "TiffRational.TiffRational"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffRational-Konstruktor. Initialisiert eine neue Instanz der TiffRational-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-Initialisiert eine neue Instanz von[`TiffRational`](../) Klasse.
+Initialisiert eine neue Instanz der [`TiffRational`](../)-Klasse.
 
 ```csharp
 public TiffRational()
@@ -17,14 +18,14 @@ public TiffRational()
 ### Siehe auch
 
 * class [TiffRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`TiffRational`](../) Klasse.
+Initialisiert eine neue Instanz der [`TiffRational`](../)-Klasse.
 
 ```csharp
 public TiffRational(uint value)
@@ -32,23 +33,23 @@ public TiffRational(uint value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | UInt32 | Der Nominatorwert. |
+| Wert | UInt32 | Der Zählerwert. |
 
-### Bemerkungen
+## Hinweise
 
-Der Nenner wird als angegebener Wert verwendet und der Nenner ist gleich 1.
+Der Zähler wird als der angegebene Wert verwendet und der Nenner ist gleich 1.
 
 ### Siehe auch
 
 * class [TiffRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`TiffRational`](../) Klasse.
+Initialisiert eine neue Instanz der [`TiffRational`](../)-Klasse.
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
@@ -56,13 +57,13 @@ public TiffRational(uint nominator, uint denominator)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| nominator | UInt32 | Der Nominator. |
-| denominator | UInt32 | Der Nenner. |
+| Zähler | UInt32 | Der Zähler. |
+| Nenner | UInt32 | Der Nenner. |
 
 ### Siehe auch
 
 * class [TiffRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

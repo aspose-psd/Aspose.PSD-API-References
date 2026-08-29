@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Xposition
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die xPosition ab oder legt sie fest.
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt die x-Position zurück oder legt sie fest"
 type: docs
-weight: 620
+weight: 630
 url: /de/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
-Ruft die x-Position ab oder legt sie fest.
+Liest oder setzt die x-Position.
 
 ```csharp
 public TiffRational Xposition { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die x-Position.
 
@@ -22,7 +23,7 @@ Die x-Position.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

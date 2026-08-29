@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsFaulted
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IAsyncTask eigendom. Ruft einen Wert ab der angibt ob diese Aufgabe fehlerhaft war.
+title: "IAsyncTask.IsFaulted"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IAsyncTask-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Aufgabe fehlerhaft war."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.asynctask/iasynctask/isfaulted/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsFaulted property
 
-Ruft einen Wert ab, der angibt, ob diese Aufgabe fehlerhaft war.
+Gibt einen Wert zurück, der angibt, ob diese Aufgabe fehlerhaft war.
 
 ```csharp
 public bool IsFaulted { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Aufgabe fehlerhaft war; ansonsten,`FALSCH` .
+`true`, wenn diese Aufgabe fehlerhaft war; andernfalls `false`.
 
 ### Siehe auch
 
 * interface [IAsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

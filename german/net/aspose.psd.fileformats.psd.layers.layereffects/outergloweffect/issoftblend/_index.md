@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OuterGlowEffect eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob knocks out.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OuterGlowEffect Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob ein Knockout durchgeführt wird"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [knocks out].
+Liest oder setzt einen Wert, der angibt, ob [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR`wenn [ausschlägt]; ansonsten,`FALSCH` .
+`true` wenn [knocks out]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [OuterGlowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

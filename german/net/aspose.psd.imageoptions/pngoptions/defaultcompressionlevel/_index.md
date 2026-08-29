@@ -1,14 +1,15 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PngOptions veld. Die Standardkomprimierungsstufe.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PngOptions-Feld. Der Standardkomprimierungsgrad"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
-Die Standardkomprimierungsstufe.
+Der Standardkomprimierungsgrad.
 
 ```csharp
 public const int DefaultCompressionLevel;
@@ -17,7 +18,7 @@ public const int DefaultCompressionLevel;
 ### Siehe auch
 
 * class [PngOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../pngoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

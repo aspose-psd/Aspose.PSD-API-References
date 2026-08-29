@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteDouble
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt einen einzelnen DoubleWert in den Stream.
+title: "TiffStreamWriter.WriteDouble"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt einen einzelnen Double-Wert in den Stream"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDouble method
 
-Schreibt einen einzelnen Double-Wert in den Stream.
+Schreibt einen einzelnen double-Wert in den Stream.
 
 ```csharp
 public void WriteDouble(double data)
@@ -16,12 +17,12 @@ public void WriteDouble(double data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Double | Der zu schreibende Wert. |
+| Daten | Doppelt | Der zu schreibende Wert. |
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

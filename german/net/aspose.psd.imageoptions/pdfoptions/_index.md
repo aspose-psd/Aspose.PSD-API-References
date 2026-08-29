@@ -1,11 +1,12 @@
 ---
-title: Class PdfOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageOptions.PdfOptions klas. Die PDFOptionen.
+title: "Klasse PdfOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageOptions.PdfOptions class. Die PDF-Optionen"
 type: docs
-weight: 4870
+weight: 5360
 url: /de/net/aspose.psd.imageoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions class
 
 Die PDF-Optionen.
@@ -14,41 +15,41 @@ Die PDF-Optionen.
 public class PdfOptions : ImageOptionsBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfOptions](pdfoptions/)() | Default_Constructor |
+| [PdfOptions](pdfoptions/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Ruft die Standard-Ersatzschriftart ab oder legt sie fest (Schriftart, die zum Zeichnen von Text beim Exportieren in Raster verwendet wird, wenn die vorhandene Layer-Schriftart in der PSD-Datei nicht im System angezeigt wird). Um den richtigen Namen der Standardschriftart zu übernehmen, kann das nächste Code-Snippet verwendet werden : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] Familie = col.Families; string defaultFontName = Familie[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Vollbild]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Die mehrseitigen Optionen |
-| [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | Ruft die Größe der Seite ab oder legt sie fest. |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Ruft die Farbpalette ab oder legt sie fest. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Liest oder setzt den Hinweis zur Puffergröße, der die maximal zulässige Größe für alle internen Puffer definiert. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Liest oder setzt die standardmäßige Ersatzschriftart (Schriftart, die zum Zeichnen von Text beim Export in Raster verwendet wird, wenn die vorhandene Ebenen-Schriftart in der PSD-Datei im System nicht vorhanden ist). Um den korrekten Namen der Standardschriftart zu erhalten, kann das folgende Code‑Snippet verwendet werden: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Die Mehrseitenoptionen |
+| [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | Liest oder setzt die Größe der Seite. |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Liest oder setzt die Farbpalette. |
 | [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/) { get; set; } | Die PDF-Kernoptionen |
-| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | Ruft Metadaten für das Dokument ab oder legt sie fest. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Ruft den Fortschrittsereignishandler ab oder legt ihn fest. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Ruft die Auflösungseinstellungen ab oder legt sie fest. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Ruft die Quelle zum Erstellen des Bildes ab oder legt sie fest. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Ruft die Optionen für die Vektorrasterung ab oder legt sie fest. |
-| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | Ruft den XMP-Metadatencontainer ab oder legt ihn fest. |
+| [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | Liest oder setzt Metadaten für das Dokument. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Liest oder setzt den Fortschritts-Event-Handler. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Liest oder setzt die Auflösungseinstellungen. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Liest oder setzt die Quelle, in der das Bild erstellt wird. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Liest oder setzt die Vektor‑Rasterisierungsoptionen. |
+| virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | Liest oder setzt den XMP‑Metadaten‑Container. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Klont diese Instanz. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Klonen Sie diese Instanz. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Gibt die aktuelle Instanz frei. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie Adobe Illustrator-Dateien in das PDF-Format in Aspose.PSD exportieren können
+Das folgende Beispiel zeigt, wie Sie Adobe Illustrator‑Dateien mit Aspose.PSD in das PDF‑Format exportieren können.
 
 ```csharp
 [C#]
@@ -61,7 +62,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-Das folgende Beispiel zeigt, dass AsposePSD den Export von PSB-Dateien in ein PSD-Format unterstützt.
+Das folgende Beispiel demonstriert, dass AsposePSD den Export von PSB‑Dateien in das PSD‑Format unterstützt.
 
 ```csharp
 [C#]
@@ -76,12 +77,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Der folgende Code speichert PsdImage als PDF-Dokument mit auswählbarem Text.
+Der folgende Code speichert PsdImage als PDF‑Dokument mit auswählbarem Text.
 
 ```csharp
 [C#]
 
-// Beim Speichern von PSD in PDF wird kein auswählbarer Text bereitgestellt
+// Das Speichern von PSD in PDF liefert keinen auswählbaren Text.
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -91,7 +92,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Das folgende Beispiel demonstriert die Unterstützung des Exports von PsdImage in das PDF-Format.
+Das folgende Beispiel demonstriert die Unterstützung des Exports von PsdImage in das PDF‑Format.
 
 ```csharp
 [C#]
@@ -120,7 +121,7 @@ for (int i = 0; i < sourcesFiles.Length; i++)
 ### Siehe auch
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

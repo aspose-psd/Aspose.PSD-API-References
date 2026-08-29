@@ -1,14 +1,15 @@
 ---
-title: XmpDate.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDate methode. Gibt den in der Zeichenfolge enthaltenen Wert im XMPFormat zurück.
+title: "XmpDate.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDate-Methode. Gibt den in einem String enthaltenen Wert im XMP-Format zurück."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpDate.GetXmpRepresentation method
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den in einem String enthaltenen Wert im XMP-Format zurück.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt einen in einer Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den in einem String enthaltenen Wert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [XmpDate](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

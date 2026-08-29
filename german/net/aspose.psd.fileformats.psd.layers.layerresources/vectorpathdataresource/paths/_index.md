@@ -1,20 +1,21 @@
 ---
-title: VectorPathDataResource.Paths
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorPathDataResource eigendom. Ruft die Pfaddatensätze ab oder legt sie fest.
+title: "VectorPathDataResource.Paths"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorPathDataResource-Eigenschaft. Gibt die Pfaddatensätze zurück oder legt sie fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Paths property
 
-Ruft die Pfaddatensätze ab oder legt sie fest.
+Liest oder legt die Pfad-Datensätze fest.
 
 ```csharp
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Pfade.
 
@@ -22,7 +23,7 @@ Die Pfade.
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [VectorPathDataResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

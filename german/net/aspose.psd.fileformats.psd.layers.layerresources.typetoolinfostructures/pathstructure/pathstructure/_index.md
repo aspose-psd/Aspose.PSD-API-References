@@ -1,14 +1,15 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathStructure constructeur. Initialisiert eine neue Instanz vonPathStructure Klasse.
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathStructure-Konstruktor. Initialisiert eine neue Instanz der PathStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-Initialisiert eine neue Instanz von[`PathStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`PathStructure`](../)-Klasse.
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -18,9 +19,9 @@ public PathStructure(ClassID keyName)
 | --- | --- | --- |
 | keyName | ClassID | Der Schlüsselname. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Fähigkeit, Dateien mit der PathStructure-Struktur zu laden.
+Der folgende Code demonstriert die Fähigkeit, eine Datei mit der PathStructure-Struktur zu laden.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

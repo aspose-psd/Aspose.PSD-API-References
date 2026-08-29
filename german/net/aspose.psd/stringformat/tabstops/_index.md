@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat eigendom. Ruft ein Array von Abständen zwischen Tabstopps in den Einheiten ab die von angegeben wurdenPageUnit Eigentum.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Eigenschaft. Gibt ein Array von Abständen zwischen Tabulatoren in den durch die PageUnit‑Eigenschaft angegebenen Einheiten zurück."
 type: docs
-weight: 110
+weight: 120
 url: /de/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Ruft ein Array von Abständen zwischen Tabstopps in den Einheiten ab, die von angegeben wurden[`PageUnit`](../../graphics/pageunit/) Eigentum.
+Gibt ein Array von Abständen zwischen Tabulatoren in den durch die [`PageUnit`](../../graphics/pageunit/)-Eigenschaft angegebenen Einheiten zurück.
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Tab stoppt.
+Die Tabulatoren.
 
-### Bemerkungen
+## Hinweise
 
-Die Eigenschaft wird für die entfernte Methode GetTabStops eingeführt.
+Die Eigenschaft wurde für die entfernte Methode GetTabStops eingeführt.
 
 ### Siehe auch
 
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

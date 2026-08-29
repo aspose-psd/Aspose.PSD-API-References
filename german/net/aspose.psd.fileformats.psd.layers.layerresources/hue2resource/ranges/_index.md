@@ -1,20 +1,21 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource eigendom. Ruft die Bereiche der Farbton/SättigungsAnpassungsebene ab. Bereiche in PS können Namen ändern wenn der Bereich geändert wird also sollten wir mit index arbeiten
+title: "Hue2Resource.Ranges"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Eigenschaft. Gibt die Bereiche der Hue/Saturation Adjustment Layer zurück. Bereiche in PS können ihre Namen ändern, wenn ein Bereich geändert wird, daher sollten wir nach Index arbeiten"
 type: docs
-weight: 80
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-Ruft die Bereiche der Farbton-/Sättigungs-Anpassungsebene ab. Bereiche in PS können Namen ändern, wenn der Bereich geändert wird, also sollten wir mit index arbeiten
+Liest die Bereiche der Farbton-/Sättigungs-Anpassungsebene. Bereiche in PS können ihre Namen ändern, wenn der Bereich geändert wird, daher sollten wir nach Index arbeiten.
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bereiche.
 
@@ -22,7 +23,7 @@ Die Bereiche.
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

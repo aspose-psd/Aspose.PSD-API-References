@@ -1,42 +1,43 @@
 ---
-title: Class Time
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time klas. Darstellung eines Zeitwertes in Sekunden.
+title: "Klasse Time"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.Time Klasse. Darstellung eines Zeitwerts in Sekunden."
 type: docs
-weight: 5880
+weight: 6380
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
-Darstellung eines Zeitwertes in Sekunden.
+Darstellung eines Zeitwerts in Sekunden.
 
 ```csharp
 public sealed class Time : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Time](time/)(Rational, int) | Initialisiert eine neue Instanz von`Time` Klasse. |
+| [Time](time/)(Rational, int) | Initialisiert eine neue Instanz der `Time`‑Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Ruft die Skala für den Zeitwert ab oder legt sie fest. |
-| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Ruft den Zeitwert in der angegebenen Skala ab oder legt ihn fest. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Liest oder setzt die Skalierung für den Zeitwert. |
+| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Liest oder setzt den Zeitwert in der angegebenen Skalierung. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericList methode. Entfernt dieIList Element am angegebenen Index.
+title: "NonGenericList.RemoveAt"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericList Methode. Entfernt das IList-Element am angegebenen Index"
 type: docs
 weight: 160
 url: /de/net/aspose.psd/nongenericlist/removeat/
 ---
+{{< psd/tize >}}
 ## NonGenericList.RemoveAt method
 
-Entfernt dieIList Element am angegebenen Index.
+Entfernt das IList-Element am angegebenen Index.
 
 ```csharp
 public void RemoveAt(int index)
@@ -21,7 +22,7 @@ public void RemoveAt(int index)
 ### Siehe auch
 
 * class [NonGenericList](../)
-* namensraum [Aspose.PSD](../../nongenericlist/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

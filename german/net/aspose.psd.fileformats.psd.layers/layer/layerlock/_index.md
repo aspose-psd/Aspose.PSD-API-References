@@ -1,20 +1,21 @@
 ---
-title: Layer.LayerLock
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die LayerSperre ab oder setzt sie. Beachten Sie dass wenn das Flag LayerFlags.TransparencyProtected gesetzt ist es durch das LayerSperrFlag überschrieben wird. Um das LayerFlags.TransparencyProtectedFlag zurückzugeben muss die LayerOption layer.Flags  LayerFlags.TransparencyProtected angewendet werden
+title: "Layer.LayerLock"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Ebenensperre zurück oder legt sie fest. Hinweis: Wenn das Flag LayerFlags.TransparencyProtected gesetzt ist, wird es durch das Ebenensperr-Flag überschrieben. Um das Flag LayerFlags.TransparencyProtected zurückzugeben, muss die Ebenenoption layer.Flags angewendet werden  LayerFlags.TransparencyProtected"
 type: docs
-weight: 210
+weight: 220
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layerlock/
 ---
+{{< psd/tize >}}
 ## Layer.LayerLock property
 
-Ruft die Layer-Sperre ab oder setzt sie. Beachten Sie, dass wenn das Flag LayerFlags.TransparencyProtected gesetzt ist, es durch das Layer-Sperr-Flag überschrieben wird. Um das LayerFlags.TransparencyProtected-Flag zurückzugeben, muss die Layer-Option layer.Flags &#x7C;= LayerFlags.TransparencyProtected angewendet werden
+Liefert oder setzt die Ebenensperre. Hinweis, dass wenn das Flag LayerFlags.TransparencyProtected gesetzt ist, es durch das Ebenensperre‑Flag überschrieben wird. Um das Flag LayerFlags.TransparencyProtected zurückzugeben, muss die Ebenenoption layer.Flags &#x7C;= LayerFlags.TransparencyProtected angewendet werden.
 
 ```csharp
 public LayerLockType LayerLock { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Ebenensperre.
 
@@ -22,7 +23,7 @@ Die Ebenensperre.
 
 * enum [LayerLockType](../../../aspose.psd.fileformats.psd.layers.layerresources/layerlocktype/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

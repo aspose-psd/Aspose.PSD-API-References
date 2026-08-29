@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt den Verlauf fest.
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt die Historie"
 type: docs
 weight: 130
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
-Legt den Verlauf fest.
+Setzt die Historie.
 
 ```csharp
 public void SetHistory(string history)
@@ -16,12 +17,12 @@ public void SetHistory(string history)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| history | String | Die Geschichte. |
+| Verlauf | String | Der Verlauf. |
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

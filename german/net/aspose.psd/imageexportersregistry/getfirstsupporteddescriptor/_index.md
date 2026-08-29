@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageExportersRegistry methode. Ruft den ersten gefundenen unterstützten Deskriptor ab der für die angegebenen Speicheroptionen und das angegebene Bild geeignet ist.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageExportersRegistry-Methode. Gibt den zuerst gefundenen unterstützten Deskriptor zurück, der für die angegebenen Speicheroptionen und das Bild geeignet ist."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-Ruft den ersten gefundenen unterstützten Deskriptor ab, der für die angegebenen Speicheroptionen und das angegebene Bild geeignet ist.
+Liefert den zuerst gefundenen unterstützten Deskriptor, der für die angegebenen Speicheroptionen und das Bild geeignet ist.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
@@ -18,15 +19,15 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu exportierende Bild. |
-| options | ImageOptionsBase | Die Optionen. |
+| Optionen | ImageOptionsBase | Die Optionen. |
 
 ### Rückgabewert
 
-Der Exporter-Deskriptor, der das angegebene Bild und die Speicheroptionen unterstützt, oder null, wenn kein solcher Deskriptor gefunden wird.
+Der Exporter-Deskriptor, der das angegebene Bild und die Speicheroptionen unterstützt, oder null, falls kein solcher Deskriptor gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Exporteur-Deskriptor ist tatsächlich der letzte registrierte.
+Der zuerst gefundene Exporter-Deskriptor ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
@@ -34,7 +35,7 @@ Der erste Exporteur-Deskriptor ist tatsächlich der letzte registrierte.
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* namensraum [Aspose.PSD](../../imageexportersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: IVectorPathData.IsInverted
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IVectorPathData eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz invertiert ist.
+title: "IVectorPathData.IsInverted"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IVectorPathData Eigenschaft. Liest einen Wert aus oder legt ihn fest, der angibt, ob diese Instanz invertiert ist"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsInverted property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist.
+Liest oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist.
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz invertiert ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz invertiert ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathResource“ in PsdImage.ImageResources für das korrekte Funktionieren des Crop-Vorgangs.
+Dieses Beispiel demonstriert die Unterstützung der 'WorkingPathResource'-Ressource in PsdImage.ImageResources für das korrekte Funktionieren der Zuschneide-Operation.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathReso
 // Bild zuschneiden und speichern.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Gespeichertes Bild laden und die Änderungen überprüfen.
+// Lade das gespeicherte Bild und prüfe die Änderungen.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Siehe auch
 
 * interface [IVectorPathData](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerResource.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerResource methode. Gibt a zurückString die diese Instanz darstellt.
+title: "LayerResource.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerResource-Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers/layerresource/tostring/
 ---
+{{< psd/tize >}}
 ## LayerResource.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Eine Zeichenkette, die diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [LayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

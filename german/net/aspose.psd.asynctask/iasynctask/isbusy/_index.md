@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsBusy
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IAsyncTask eigendom. Ruft einen Wert ab der angibt ob diese Aufgabe derzeit ausgeführt wird.
+title: "IAsyncTask.IsBusy"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IAsyncTask-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Aufgabe gerade ausgeführt wird"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.asynctask/iasynctask/isbusy/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsBusy property
 
-Ruft einen Wert ab, der angibt, ob diese Aufgabe derzeit ausgeführt wird.
+Gibt einen Wert zurück, der angibt, ob diese Aufgabe gerade ausgeführt wird.
 
 ```csharp
 public bool IsBusy { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` ob diese Aufgabe gerade läuft; ansonsten,`FALSCH` .
+`true`, wenn diese Aufgabe gerade ausgeführt wird; andernfalls `false`.
 
 ### Siehe auch
 
 * interface [IAsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

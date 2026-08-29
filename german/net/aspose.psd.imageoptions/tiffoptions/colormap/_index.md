@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ColorMap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Farbkarte ab oder legt sie fest.
+title: "TiffOptions.ColorMap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Liest oder setzt die Farbkarte"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.imageoptions/tiffoptions/colormap/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ColorMap property
 
-Ruft die Farbkarte ab oder legt sie fest.
+Liest oder setzt die Farbkarte.
 
 ```csharp
 public ushort[] ColorMap { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbkarte.
 
@@ -23,13 +24,13 @@ Die Farbkarte.
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Wert |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Die Farbtabelle kann nur für Samples pro Pixel gleich 1 definiert werden. oder Die Bits pro Sample sind nicht definiert. |
-| ArgumentOutOfRangeException | value;Die Arraylänge muss folgender Formel entsprechen: 3 * (2**BitsPerSample). |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Die Farbkarte darf nur definiert werden, wenn Samples per Pixel gleich 1 ist. oder Die Bits pro Sample sind nicht definiert. |
+| ArgumentOutOfRangeException | value;Die Array-Länge muss der folgenden Formel entsprechen: 3 * (2**BitsPerSample). |
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

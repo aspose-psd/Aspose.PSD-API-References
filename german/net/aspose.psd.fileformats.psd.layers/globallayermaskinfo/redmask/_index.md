@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalLayerMaskInfo eigendom. Ruft die rote Maske ab oder setzt sie.
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalLayerMaskInfo-Eigenschaft. Liest oder setzt die Rot-Maske."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
-Ruft die rote Maske ab oder setzt sie.
+Liest oder setzt die rote Maske.
 
 ```csharp
 public short RedMask { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die rote Maske.
+Die Rot-Maske.
 
 ### Siehe auch
 
 * class [GlobalLayerMaskInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

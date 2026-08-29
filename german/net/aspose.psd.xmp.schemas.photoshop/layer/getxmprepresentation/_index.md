@@ -1,14 +1,15 @@
 ---
-title: Layer.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer methode. Gibt den in der Zeichenfolge enthaltenen Wert im XMPFormat zurück.
+title: "Layer.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Methode. Gibt den im String enthaltenen Wert im XMP-Format zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Layer.GetXmpRepresentation method
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den in einem String enthaltenen Wert im XMP-Format zurück.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt einen in einer Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den in einem String enthaltenen Wert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

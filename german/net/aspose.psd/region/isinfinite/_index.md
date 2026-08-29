@@ -1,14 +1,15 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region methode. Testet ob diesRegion hat einen unendlichen Innenraum auf der angegebenen Zeichenfläche.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region-Methode. Prüft, ob dieses Region eine unendliche Innenfläche auf der angegebenen Zeichenfläche hat."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-Testet ob dies[`Region`](../) hat einen unendlichen Innenraum auf der angegebenen Zeichenfläche.
+Prüft, ob dieses [`Region`](../) eine unendliche Innenfläche auf der angegebenen Zeichenfläche hat.
 
 ```csharp
 public bool IsInfinite(Graphics g)
@@ -16,11 +17,11 @@ public bool IsInfinite(Graphics g)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) die eine Zeichenfläche darstellt. |
+| g | Graphics | Ein [`Graphics`](../../graphics/), das eine Zeichenfläche darstellt. |
 
 ### Rückgabewert
 
-wahr, wenn das Innere davon[`Region`](../) ist unendlich, wenn die Transformation mit verbunden ist*g* wird angewandt; andernfalls falsch.
+Wahr, wenn die Innenfläche dieses [`Region`](../) unendlich ist, wenn die mit *g* verbundene Transformation angewendet wird; andernfalls falsch.
 
 ### Ausnahmen
 
@@ -32,7 +33,7 @@ wahr, wenn das Innere davon[`Region`](../) ist unendlich, wenn die Transformatio
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

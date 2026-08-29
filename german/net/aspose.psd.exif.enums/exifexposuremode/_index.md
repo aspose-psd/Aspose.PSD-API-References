@@ -1,14 +1,15 @@
 ---
-title: Enum ExifExposureMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifExposureMode opsomming. exif Belichtungsmodus enum.
+title: "Enum ExifExposureMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode Enum. Exif-Belichtungsmodus-Enum"
 type: docs
-weight: 830
+weight: 840
 url: /de/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-exif Belichtungsmodus enum.
+exif Belichtungsmodus-Enum.
 
 ```csharp
 public enum ExifExposureMode
@@ -20,11 +21,11 @@ public enum ExifExposureMode
 | --- | --- | --- |
 | Auto | `0` | Automatische Belichtung. |
 | Manual | `1` | Manuelle Belichtung. |
-| AutoBracket | `2` | Automatische Belichtungsreihe. |
+| AutoBracket | `2` | Automatisches Belichtungsintervall. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

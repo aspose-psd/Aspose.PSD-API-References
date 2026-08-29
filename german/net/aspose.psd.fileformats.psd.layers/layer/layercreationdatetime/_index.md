@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Uhrzeit der Erstellung des Layers ab oder legt sie fest.
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt das Erstellungsdatum und die -uhrzeit der Ebene zurück oder legt sie fest"
 type: docs
-weight: 200
+weight: 210
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-Ruft die Uhrzeit der Erstellung des Layers ab oder legt sie fest.
+Liefert oder setzt das Erstellungsdatum und die -zeit der Ebene.
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Erstellungsdatumszeit des Layers. Wenn keine Daten über die Erstellung von DateTime vorhanden sind, wird die Unix-Zeit zuerst zurückgegeben epoch
+Das Erstellungsdatum und die -zeit der Ebene. Wenn keine Daten zum Erstellungszeitpunkt vorhanden sind, wird die Unix Time des ersten Epoch zurückgegeben
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

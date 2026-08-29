@@ -1,20 +1,21 @@
 ---
-title: BezierKnotRecord.Type
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BezierKnotRecord eigendom. Ruft den Typ ab.
+title: "BezierKnotRecord.Type"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BezierKnotRecord-Eigenschaft. Gibt den Typ zurück."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Type property
 
-Ruft den Typ ab.
+Liefert den Typ.
 
 ```csharp
 public override VectorPathType Type { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ.
 
@@ -22,7 +23,7 @@ Der Typ.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [BezierKnotRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

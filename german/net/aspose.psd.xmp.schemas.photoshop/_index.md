@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält verwandte Hilfsklassen Konstanten und Methoden die von Adobe Photoshop verwendet werden.
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält zugehörige Hilfsklassen, Konstanten und Methoden, die von Adobe Photoshop verwendet werden."
 type: docs
-weight: 550
+weight: 590
 url: /de/net/aspose.psd.xmp.schemas.photoshop/
 ---
-Der Namespace enthält verwandte Hilfsklassen, Konstanten und Methoden, die von Adobe Photoshop verwendet werden.
+{{< psd/tize >}}
+Der Namensraum enthält verwandte Hilfsklassen, Konstanten und Methoden, die von Adobe Photoshop verwendet werden.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [Layer](./layer/) | Stellt die Photoshop-Textebene dar. |
-| [PhotoshopPackage](./photoshoppackage/) | Repräsentiert den Adobe Photoshop-Namespace. |
+| [Layer](./layer/) | Stellt eine Photoshop-Textschicht dar. |
+| [PhotoshopPackage](./photoshoppackage/) | Stellt den Adobe Photoshop-Namespace dar. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [ColorMode](./colormode/) | Repräsentiert den Farbmodus in[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | Stellt den Farbmodus in [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) dar. |
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection klas. Das AiFormat Abschnitt fertigstellen
+title: "Klasse AiFinalizeSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection Klasse. Der Finalize‑Abschnitt des Ai‑Formats"
 type: docs
-weight: 1230
+weight: 1240
 url: /de/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Das Ai-Format Abschnitt fertigstellen
+Der Ai-Format-Abschlussabschnitt
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -18,12 +19,12 @@ public sealed class AiFinalizeSection : AiSection
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Ruft die String-Daten ab. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Gibt die Zeichenkettendaten zurück. |
 
 ### Siehe auch
 
 * class [AiSection](../aisection/)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

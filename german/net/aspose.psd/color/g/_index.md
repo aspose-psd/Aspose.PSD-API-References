@@ -1,27 +1,28 @@
 ---
-title: Color.G
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft den grünen Komponentenwert davon abColorStruktur.
+title: "Color.G"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color property. Gibt den Grünkomponentenwert dieser Color-Struktur zurück"
 type: docs
 weight: 1480
 url: /de/net/aspose.psd/color/g/
 ---
+{{< psd/tize >}}
 ## Color.G property
 
-Ruft den grünen Komponentenwert davon ab[`Color`](../)Struktur.
+Gibt den Grünkomponentenwert dieser [`Color`](../)-Struktur zurück.
 
 ```csharp
 public byte G { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der grüne Anteilswert davon[`Color`](../).
+Der Grünkomponentenwert dieser [`Color`](../).
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

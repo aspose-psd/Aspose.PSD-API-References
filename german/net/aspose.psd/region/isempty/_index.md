@@ -1,14 +1,15 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region methode. Testet ob diesRegion hat einen leeren Innenraum auf der angegebenen Zeichenfläche.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region‑Methode. Prüft, ob diese Region auf der angegebenen Zeichenfläche ein leeres Inneres hat."
 type: docs
-weight: 70
+weight: 80
 url: /de/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Testet ob dies[`Region`](../) hat einen leeren Innenraum auf der angegebenen Zeichenfläche.
+Prüft, ob diese [`Region`](../) auf der angegebenen Zeichenfläche ein leeres Inneres hat.
 
 ```csharp
 public bool IsEmpty(Graphics g)
@@ -16,11 +17,11 @@ public bool IsEmpty(Graphics g)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) die eine Zeichenfläche darstellt. |
+| g | Graphics | Ein [`Graphics`](../../graphics/), das eine Zeichenfläche darstellt. |
 
 ### Rückgabewert
 
-wahr, wenn das Innere davon[`Region`](../) ist leer, wenn die Transformation zugeordnet ist*g* wird angewandt; andernfalls falsch.
+true, wenn das Innere dieser [`Region`](../) leer ist, wenn die mit *g* verbundene Transformation angewendet wird; andernfalls false.
 
 ### Ausnahmen
 
@@ -32,7 +33,7 @@ wahr, wenn das Innere davon[`Region`](../) ist leer, wenn die Transformation zug
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LengthRecord eigendom. Ruft den Index der aktuellen Pfadform in der Ebene ab oder legt ihn fest.
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LengthRecord-Eigenschaft. Liest oder legt den Index der aktuellen Pfadform in der Ebene fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-Ruft den Index der aktuellen Pfadform in der Ebene ab oder legt ihn fest.
+Liest oder setzt den Index der aktuellen Pfadform in der Ebene.
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Codebeispiel veranschaulicht die Unterstützung der neuen LengthRecord-Eigenschaften PathOperations (boolesche Operationen), ShapeIndex und BezierKnotRecordsCount.
+Das folgende Codebeispiel demonstriert die Unterstützung neuer LengthRecord‑Eigenschaften, PathOperations (boolesche Operationen), ShapeIndex und BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Hier ändern wir den Weg zum Kombinieren zwischen Formen.
+    // Hier ändern wir die Art und Weise, Formen zu kombinieren.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -52,7 +53,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [LengthRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

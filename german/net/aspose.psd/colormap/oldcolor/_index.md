@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMap eigendom. Holt oder setzt das VorhandeneColor zu konvertierende Struktur.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMap-Eigenschaft. Gibt die vorhandene Color-Struktur zurück, die konvertiert werden soll, oder legt sie fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-Holt oder setzt das Vorhandene[`Color`](../../color/) zu konvertierende Struktur.
+Gibt die vorhandene [`Color`](../../color/)-Struktur zurück, die konvertiert werden soll, oder legt sie fest.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die bestehende[`Color`](../../color/) Struktur umgewandelt werden.
+Die vorhandene [`Color`](../../color/) Struktur, die konvertiert werden soll.
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* namensraum [Aspose.PSD](../../colormap/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

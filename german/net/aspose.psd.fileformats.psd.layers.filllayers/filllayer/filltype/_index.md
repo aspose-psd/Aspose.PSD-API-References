@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FillLayer eigendom. Ruft den Füllungstyp ab.
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FillLayer-Eigenschaft. Gibt den Typ der Füllung zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-Ruft den Füllungstyp ab.
+Gibt den Typ der Füllung zurück.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Art der Füllung.
+Der Typ der Füllung.
 
 ### Siehe auch
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

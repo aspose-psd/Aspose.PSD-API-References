@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeOriginSettings eigendom. Ruft das UrsprungsradiusRechteck ab oder legt es fest.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeOriginSettings Eigenschaft. Gibt das Ursprung‑Radius‑Rechteck zurück oder legt es fest"
 type: docs
 weight: 130
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-Ruft das Ursprungsradius-Rechteck ab oder legt es fest.
+Liest oder legt das Ursprung‑Radius‑Rechteck fest.
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Rechteck der Ursprungsradien.
+Das Ursprung‑Radius‑Rechteck.
 
 ### Siehe auch
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

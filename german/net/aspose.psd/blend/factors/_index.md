@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Blend eigendom. Ruft das Array der Mischfaktoren für den Farbverlauf ab oder legt es fest.
+title: "Blend.Factors"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Blend-Eigenschaft. Liest oder schreibt das Array der Blend-Faktoren für den Verlauf."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-Ruft das Array der Mischfaktoren für den Farbverlauf ab oder legt es fest.
+Liest oder setzt das Array der Blend-Faktoren für den Farbverlauf.
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Array von Mischfaktoren, die die Prozentsätze der Startfarbe und der Endfarbe angeben, die an der entsprechenden Position verwendet werden sollen.
+Das Array der Blend-Faktoren, das die Prozentsätze der Startfarbe und der Endfarbe angibt, die an der jeweiligen Position verwendet werden.
 
 ### Siehe auch
 
 * class [Blend](../)
-* namensraum [Aspose.PSD](../../blend/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

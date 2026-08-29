@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UrlListResource eigendom. Ruft die Anzahl ab oder legt sie fest.
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UrlListResource-Eigenschaft. Gibt die Anzahl zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-Ruft die Anzahl ab oder legt sie fest.
+Liest oder setzt die Anzahl.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Anzahl.
 
 ### Siehe auch
 
 * class [UrlListResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

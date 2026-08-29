@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DisposableObject eigendom. Ruft einen Wert ab der angibt ob diese Instanz verworfen wird.
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DisposableObject-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Instanz freigegeben wurde"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird.
+Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde.
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn entsorgt; ansonsten,`FALSCH`.
+`true`, wenn freigegeben; andernfalls `false`.
 
 ### Siehe auch
 
 * class [DisposableObject](../)
-* namensraum [Aspose.PSD](../../disposableobject/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

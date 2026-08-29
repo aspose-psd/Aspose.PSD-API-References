@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternHeight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPatternFillSettings eigendom. Ruft die Höhe des Musters ab oder legt sie fest.
+title: "IPatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPatternFillSettings-Eigenschaft. Ruft die Höhe des Musters ab oder legt sie fest"
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternHeight property
 
-Ruft die Höhe des Musters ab oder legt sie fest.
+Liest oder setzt die Höhe des Musters.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Höhe des Musters.
 
 ### Siehe auch
 
 * interface [IPatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

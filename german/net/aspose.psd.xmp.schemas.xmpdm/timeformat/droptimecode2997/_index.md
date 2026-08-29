@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TimeFormat eigendom. Ruft den DropTimecode 2997 ab.
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TimeFormat-Eigenschaft. Gibt den drop timecode2997 zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-Ruft den Drop-Timecode 2997 ab.
+Gibt den Drop‑Zeitcode2997 zurück.
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Drop-Timecode2997.
+Der drop timecode2997.
 
 ### Siehe auch
 
 * class [TimeFormat](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

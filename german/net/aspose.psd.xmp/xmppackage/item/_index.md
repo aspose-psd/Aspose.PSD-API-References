@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage eigendom. Ruft ab oder setzt dieObject mit dem angegebenen Schlüssel.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Eigenschaft. Ruft das Objekt mit dem angegebenen Schlüssel ab oder legt es fest."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Ruft ab oder setzt dieObject mit dem angegebenen Schlüssel.
+Liest oder setzt das Objekt mit dem angegebenen Schlüssel.
 
 ```csharp
 public virtual object this[string key] { get; set; }
@@ -16,20 +17,20 @@ public virtual object this[string key] { get; set; }
 
 | Parameter | Beschreibung |
 | --- | --- |
-| key | Der Schlüssel, der den Wert identifiziert. |
+| Schlüssel | Der Schlüssel, der den Wert identifiziert. |
 
 ### Rückgabewert
 
-Gibt die zurückObject mit dem angegebenen Schlüssel.
+Gibt das Objekt mit dem angegebenen Schlüssel zurück.
 
-### Eigentumswert
+### Property Value
 
-DieObject .
+Das Objekt.
 
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

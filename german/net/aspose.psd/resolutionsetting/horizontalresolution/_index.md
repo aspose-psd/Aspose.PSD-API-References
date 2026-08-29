@@ -1,14 +1,15 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResolutionSetting eigendom. Ruft die horizontale Auflösung ab oder legt sie fest.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResolutionSetting-Eigenschaft. Ruft die horizontale Auflösung ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
-Ruft die horizontale Auflösung ab oder legt sie fest.
+Liest oder setzt die horizontale Auflösung.
 
 ```csharp
 public double HorizontalResolution { get; set; }
@@ -17,7 +18,7 @@ public double HorizontalResolution { get; set; }
 ### Siehe auch
 
 * class [ResolutionSetting](../)
-* namensraum [Aspose.PSD](../../resolutionsetting/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

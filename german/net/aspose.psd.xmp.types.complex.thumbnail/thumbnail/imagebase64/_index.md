@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Thumbnail eigendom. Ruft das Bild im Base64Format ab oder legt es fest.
+title: "Thumbnail.ImageBase64"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Thumbnail Eigenschaft. Gibt das Bild im Base64-Format zurück oder legt es fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
-Ruft das Bild im Base64-Format ab oder legt es fest.
+Liest oder setzt das Bild im Base64-Format.
 
 ```csharp
 public string ImageBase64 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Bild im base64-Format.
+Das Bild im Base64-Format.
 
 ### Siehe auch
 
 * class [Thumbnail](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Top
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfo6Resource eigendom. Ruft die oberste Position ab oder legt sie fest.
+title: "TypeToolInfo6Resource.Top"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfo6Resource Eigenschaft. Liest oder legt den oberen Ort fest"
 type: docs
-weight: 140
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Top property
 
-Ruft die oberste Position ab oder legt sie fest.
+Liest oder legt die obere Position fest.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Top-Standort.
+Der obere Ort.
 
 ### Siehe auch
 
 * class [TypeToolInfo6Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,46 +1,47 @@
 ---
-title: Class ComplexTypeBase
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase klas. Repräsentiert die Basisabstraktion für den komplexen XMPWerttyp.
+title: "Klasse ComplexTypeBase"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase Klasse. Stellt die Basisabstraktion für den XMP Complex-Werttyp dar"
 type: docs
-weight: 6050
+weight: 6550
 url: /de/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
-Repräsentiert die Basisabstraktion für den komplexen XMP-Werttyp.
+Stellt die Basisklasse für den XMP-Komplexwerttyp dar.
 
 ```csharp
 public class ComplexTypeBase : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | Initialisiert eine neue Instanz von`ComplexTypeBase` Klasse. |
+| [ComplexTypeBase](complextypebase/)(string, string) | Initialisiert eine neue Instanz der `ComplexTypeBase` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Ruft den Standard-Namespace-URI ab. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ruft das Präfix ab. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Liest die Standard-Namespace-URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Liest das Präfix. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
-### Bemerkungen
+## Hinweise
 
-Siehe mehr: XMP-Spezifikation Teil 2, Kapitel 1.2.2
+Mehr sehen: XMP Specification Part 2, Kapitel 1.2.2
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

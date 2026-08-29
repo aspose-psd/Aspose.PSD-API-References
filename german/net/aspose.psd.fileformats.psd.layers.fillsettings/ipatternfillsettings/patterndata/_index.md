@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPatternFillSettings eigendom. Ruft die Musterdaten ab oder legt sie fest.
+title: "IPatternFillSettings.PatternData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPatternFillSettings-Eigenschaft. Gibt die Musterdaten zurück"
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternData property
 
-Ruft die Musterdaten ab oder legt sie fest.
+Liest die Musterdaten.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Musterdaten.
 
 ### Siehe auch
 
 * interface [IPatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

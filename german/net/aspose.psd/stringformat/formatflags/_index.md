@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat eigendom. Holt oder setzt aStringFormatFlags Aufzählung die Formatierungsinformationen enthält.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Eigenschaft. Ruft eine StringFormatFlags‑Aufzählung ab, die Formatierungsinformationen enthält, oder legt sie fest."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Holt oder setzt a[`StringFormatFlags`](../../stringformatflags/) Aufzählung, die Formatierungsinformationen enthält.
+Ruft eine [`StringFormatFlags`](../../stringformatflags/)-Aufzählung ab, die Formatierungsinformationen enthält, oder legt sie fest.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`StringFormatFlags`](../../stringformatflags/) Enumeration, die Formatierungsinformationen enthält.
+Eine [`StringFormatFlags`](../../stringformatflags/) Aufzählung, die Formatierungsinformationen enthält.
 
 ### Siehe auch
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

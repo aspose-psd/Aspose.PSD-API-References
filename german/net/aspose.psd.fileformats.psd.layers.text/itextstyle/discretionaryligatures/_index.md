@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Die bedingten Ligaturen die verwendet werden um Buchstaben zu verbinden insbesondere in Skriptschriften.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle property. Die fakultativen Ligaturen, die verwendet werden, um Buchstaben insbesondere in Schreibschrift-Fonts zu verbinden"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-Die bedingten Ligaturen, die verwendet werden, um Buchstaben zu verbinden, insbesondere in Skriptschriften.
+Die fakultativen Ligaturen, die zum Verbinden von Buchstaben verwendet werden, insbesondere in Schreibschriftarten.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsPath eigendom. Ruft die Wegzahlen ab.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsPath-Eigenschaft. Ruft die Pfadfiguren ab"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Ruft die Wegzahlen ab.
+Liefert die Pfadfiguren.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Wegfiguren.
+Die Pfadfiguren.
 
 ### Siehe auch
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

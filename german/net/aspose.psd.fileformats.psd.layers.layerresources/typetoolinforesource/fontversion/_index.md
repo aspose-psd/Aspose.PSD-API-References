@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.FontVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Schriftartversion ab oder legt sie fest.
+title: "TypeToolInfoResource.FontVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Gibt die Schriftversion zurück oder setzt sie"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontVersion property
 
-Ruft die Schriftartversion ab oder legt sie fest.
+Liest oder setzt die Schriftartversion.
 
 ```csharp
 public short FontVersion { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Schriftartversion.
+Die Schriftversion.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

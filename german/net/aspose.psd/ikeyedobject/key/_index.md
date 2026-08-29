@@ -1,27 +1,28 @@
 ---
-title: IKeyedObject.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IKeyedObject eigendom. Ruft den Objektschlüssel ab.
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IKeyedObject-Eigenschaft. Liest den Objektschlüssel"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
-Ruft den Objektschlüssel ab.
+Gibt den Objektschlüssel zurück.
 
 ```csharp
 public string Key { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Objektschlüssel.
 
 ### Siehe auch
 
 * interface [IKeyedObject](../)
-* namensraum [Aspose.PSD](../../ikeyedobject/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

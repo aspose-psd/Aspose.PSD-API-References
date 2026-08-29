@@ -1,14 +1,15 @@
 ---
-title: VectorShapeRadiiRectangle.VectorShapeRadiiRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeRadiiRectangle constructeur. Default_Constructor
+title: "VectorShapeRadiiRectangle.VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeRadiiRectangle Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public VectorShapeRadiiRectangle()
@@ -17,7 +18,7 @@ public VectorShapeRadiiRectangle()
 ### Siehe auch
 
 * class [VectorShapeRadiiRectangle](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

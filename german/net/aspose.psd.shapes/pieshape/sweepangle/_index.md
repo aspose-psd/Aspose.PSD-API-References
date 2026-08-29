@@ -1,11 +1,12 @@
 ---
-title: PieShape.SweepAngle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PieShape eigendom. Ruft den SweepWinkel ab oder legt ihn fest.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PieShape-Eigenschaft. Gibt den Sweep-Winkel zurück oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
 Ruft den Sweep-Winkel ab oder legt ihn fest.
@@ -14,14 +15,14 @@ Ruft den Sweep-Winkel ab oder legt ihn fest.
 public float SweepAngle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Sweep-Winkel.
 
 ### Siehe auch
 
 * class [PieShape](../)
-* namensraum [Aspose.PSD.Shapes](../../pieshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

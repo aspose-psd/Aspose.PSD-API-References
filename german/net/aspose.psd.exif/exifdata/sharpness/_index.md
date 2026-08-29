@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Schärfe ab oder legt sie fest.
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft die Schärfe ab oder legt sie fest"
 type: docs
 weight: 940
 url: /de/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-Ruft die Schärfe ab oder legt sie fest.
+Liest oder setzt die Schärfe.
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schärfe.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

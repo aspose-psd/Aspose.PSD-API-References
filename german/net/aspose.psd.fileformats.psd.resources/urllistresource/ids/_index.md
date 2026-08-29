@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UrlListResource eigendom. Ruft die IDs ab oder legt sie fest.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UrlListResource Eigenschaft. Ruft die IDs ab oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-Ruft die IDs ab oder legt sie fest.
+Liest oder setzt die IDs.
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die IDs.
 
 ### Siehe auch
 
 * class [UrlListResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

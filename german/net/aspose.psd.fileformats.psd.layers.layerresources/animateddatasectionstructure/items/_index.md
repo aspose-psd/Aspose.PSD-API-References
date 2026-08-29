@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AnimatedDataSectionStructure eigendom. Ruft die animierten Datenabschnittsstrukturen ab oder legt sie fest.
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AnimatedDataSectionStructure-Eigenschaft. Gibt die animierten Datenabschnittsstrukturen zurück oder legt sie fest."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
-Ruft die animierten Datenabschnittsstrukturen ab oder legt sie fest.
+Liest oder setzt die Strukturen des animierten Datenabschnitts.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie die Verzögerungszeit im Zeitachsenrahmen von animierten Daten festgelegt/aktualisiert wird.
+Der folgende Code zeigt, wie die Verzögerungszeit im Zeitleisten‑Frame animierter Daten gesetzt/aktualisiert wird.
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Erstellt den Frame-Delay-Record mit dem Wert 100 Zenti-Sekunde, was 1 Sekunde entspricht.
+            // Erstellt den Frame‑Verzögerungsdatensatz mit dem Wert 100 Zentisekunden, was 1 Sekunde entspricht.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // Zeit in Centisekunden einstellen.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

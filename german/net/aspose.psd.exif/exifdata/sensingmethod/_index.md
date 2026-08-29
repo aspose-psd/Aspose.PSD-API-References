@@ -1,20 +1,21 @@
 ---
-title: ExifData.SensingMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Erkennungsmethode ab oder legt sie fest.
+title: "ExifData.SensingMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Erfassungsmethode zurück oder legt sie fest"
 type: docs
 weight: 920
 url: /de/net/aspose.psd.exif/exifdata/sensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.SensingMethod property
 
-Ruft die Erkennungsmethode ab oder legt sie fest.
+Liest oder setzt die Erfassungsmethode.
 
 ```csharp
 public ExifSensingMethod SensingMethod { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Erfassungsmethode.
 
@@ -22,7 +23,7 @@ Die Erfassungsmethode.
 
 * enum [ExifSensingMethod](../../../aspose.psd.exif.enums/exifsensingmethod/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ISmartFilterRenderer.Render
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ISmartFilterRenderer methode. Rendert den aktuellen Smartfilter für die Pixeldaten.
+title: "ISmartFilterRenderer.Render"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ISmartFilterRenderer-Methode. Rendert den aktuellen Smart-Filter auf den Pixeldaten."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer.Render method
 
-Rendert den aktuellen Smartfilter für die Pixeldaten.
+Rendert den aktuellen Smart-Filter auf den Pixeldaten.
 
 ```csharp
 public PixelsData Render(PixelsData pixelsData)
@@ -22,16 +23,16 @@ public PixelsData Render(PixelsData pixelsData)
 
 Gibt verarbeitete Pixeldaten zurück.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt Ihnen, wie Sie einen benutzerdefinierten Smartfilter erstellen, der über einen benutzerdefinierten Renderer verfügt.
+Der folgende Code zeigt, wie man einen benutzerdefinierten Smart-Filter erstellt, der einen benutzerdefinierten Renderer hat.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter am Eingabe-Array
+    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter im Eingabearray
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // die 'Crystallize'-Smart-Filter-ID.
@@ -92,7 +93,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // Filterstruktur abrufen
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Wert der Kristallisationsgröße abrufen
+        // Wert von Crystallize Size abrufen
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -112,7 +113,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 * class [PixelsData](../../../aspose.psd/pixelsdata/)
 * interface [ISmartFilterRenderer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../ismartfilterrenderer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode opsomming. exif Messmodus enum.
+title: "Enum ExifMeteringMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode enum. Exif-Belichtungsmodus-Enum"
 type: docs
-weight: 900
+weight: 910
 url: /de/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-exif Messmodus enum.
+exif Messmodus-Enum.
 
 ```csharp
 public enum ExifMeteringMode
@@ -19,17 +20,17 @@ public enum ExifMeteringMode
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Unknown | `0` | Undefinierter Modus |
-| Average | `1` | Durchschnittliche Messung |
-| Centerweightedaverage | `2` | Zentrumsgewichteter Durchschnitt. |
-| Spot | `3` | Spotmessung |
-| MultiSpot | `4` | Multispotmessung |
-| MultiSegment | `5` | Mehrsegmentmessung. |
-| Partial | `6` | Teilmessung. |
+| Average | `1` | Durchschnittsbelichtung |
+| Centerweightedaverage | `2` | Zentral gewichteter Durchschnitt. |
+| Spot | `3` | Spot-Messung |
+| MultiSpot | `4` | Mehrfach-Spot-Messung |
+| MultiSegment | `5` | Mehrsegment-Messung. |
+| Partial | `6` | Partielle Messung. |
 | Other | `255` | Für andere Modi. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

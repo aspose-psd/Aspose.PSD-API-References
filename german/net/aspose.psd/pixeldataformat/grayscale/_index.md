@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat eigendom. Ruft die abPixelDataFormatdefiniert für 8 Bit pro Pixel wobei 8 Bit die Graustufenintensität im Intervall 0255 darstellen.
+title: "PixelDataFormat.Grayscale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Eigenschaft. Gibt das PixelDataFormat zurück, das für 8 Bit pro Pixel definiert ist, wobei 8 Bit die Graustufenintensität im Intervall 0‑255 darstellen."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-Ruft die ab[`PixelDataFormat`](../)definiert für 8 Bit pro Pixel, wobei 8 Bit die Graustufenintensität im Intervall 0-255 darstellen.
+Gibt das [`PixelDataFormat`](../) zurück, das für 8 Bit pro Pixel definiert ist, wobei 8 Bit die Graustufenintensität im Intervall 0‑255 darstellen.
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`PixelDataFormat`](../)definiert für 8 Bit pro Pixel, wobei 8 Bit die Graustufenintensität im Intervall 0-255 darstellen.
+Das [`PixelDataFormat`](../), das für 8 Bit pro Pixel definiert ist, wobei 8 Bit die Graustufenintensität im Intervall 0‑255 darstellen.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

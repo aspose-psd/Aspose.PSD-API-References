@@ -1,20 +1,21 @@
 ---
-title: PieShape.Segments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PieShape eigendom. Ruft die Formsegmente ab.
+title: "PieShape.Segments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PieShape-Eigenschaft. Gibt die Segmente der Form zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
-Ruft die Formsegmente ab.
+Liest die Segmente der Form.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Formsegmente.
 
@@ -22,7 +23,7 @@ Die Formsegmente.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* namensraum [Aspose.PSD.Shapes](../../pieshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

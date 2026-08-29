@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource methode. Speichert den angegebenen StreamContainer.
+title: "TypeToolInfoResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Methode. Speichert den angegebenen Stream-Container"
 type: docs
-weight: 270
+weight: 240
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/save/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Save method
 
 Speichert den angegebenen Stream-Container.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container. |
+| `streamContainer` | StreamContainer | Der StreamContainer. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

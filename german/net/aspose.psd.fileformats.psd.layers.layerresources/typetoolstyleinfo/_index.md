@@ -1,48 +1,49 @@
 ---
-title: Class TypeToolStyleInfo
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo klas. Informationen zum Werkzeugstil eingeben.
+title: "Klasse TypeToolStyleInfo"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolStyleInfo Klasse. Informationen zum Stil des Typwerkzeugs."
 type: docs
-weight: 3320
+weight: 3710
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo class
 
-Informationen zum Werkzeugstil eingeben.
+Typwerkzeug‑Stilinformationen.
 
 ```csharp
 public class TypeToolStyleInfo
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TypeToolStyleInfo](typetoolstyleinfo/)() | Default_Constructor |
+| [TypeToolStyleInfo](typetoolstyleinfo/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob Auto-Kerning ein- oder ausgeschaltet ist. |
-| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | Ruft den Basisverschiebungswert ab oder legt ihn fest. |
-| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | Ruft den Gesichtsmarkierungswert ab oder legt ihn fest. |
-| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | Ruft den Kerning-Wert ab oder legt ihn fest. |
-| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | Ruft den Leitwert ab oder setzt ihn. |
-| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/) { get; set; } | Ruft den Markierungswert ab oder setzt ihn. |
-| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob es sich um einen nach unten drehenden Stil handelt. |
-| [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/) { get; set; } | Ruft den Größenwert ab oder legt ihn fest. |
-| [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/) { get; set; } | Ruft den Tracking-Wert ab oder legt ihn fest. |
+| [AutoKern](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob automatisches Kerning ein- oder ausgeschaltet ist. |
+| [BaseShiftValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/) { get; set; } | Liest oder setzt den Basisverschiebungswert. |
+| [FaceMarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/) { get; set; } | Liest oder setzt den Gesichtsmarkierungswert. |
+| [KerningValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/) { get; set; } | Liest oder setzt den Kerning-Wert. |
+| [LeadingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/) { get; set; } | Liest oder setzt den Zeilenabstandswert. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/) { get; set; } | Liest oder setzt den Markierungswert. |
+| [RotateDown](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob es sich um einen nach unten rotierenden Stil handelt. |
+| [SizeValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/) { get; set; } | Liest oder setzt den Größenwert. |
+| [TrackingValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/trackingvalue/) { get; set; } | Liest oder setzt den Tracking-Wert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | Speichert die[`TypeToolFontInfo`](../typetoolfontinfo/) Informationen zum angegebenen Stream-Container. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/save/)(StreamContainer, int) | Speichert die [`TypeToolFontInfo`](../typetoolfontinfo/) Informationen in den angegebenen Stream-Container. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

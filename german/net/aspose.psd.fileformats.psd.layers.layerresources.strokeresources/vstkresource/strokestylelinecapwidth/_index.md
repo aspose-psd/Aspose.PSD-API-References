@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleLineCapWidth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft die Breite der Strichlinie ab oder legt sie fest.
+title: "VstkResource.StrokeStyleLineCapWidth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt die Linienabschlussbreite des Strichs"
 type: docs
-weight: 120
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapWidth property
 
-Ruft die Breite der Strichlinie ab oder legt sie fest.
+Liest oder schreibt die Breite des Strich‑Linienabschlusses.
 
 ```csharp
 public double StrokeStyleLineCapWidth { get; set; }
@@ -17,7 +18,7 @@ public double StrokeStyleLineCapWidth { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

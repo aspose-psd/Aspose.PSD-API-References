@@ -1,22 +1,23 @@
 ---
-title: PhflResourceVersion2.ComponentA
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhflResourceVersion2 eigendom. Ruft die AKomponente von color ab oder setzt sie
+title: "PhflResourceVersion2.ComponentA"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhflResourceVersion2-Eigenschaft. Gibt die A-Komponente der Farbe zurück oder setzt sie"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componenta/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentA property
 
-Ruft die A-Komponente von color ab oder setzt sie
+Liefert oder setzt die A‑Komponente der Farbe
 
 ```csharp
 public short ComponentA { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die A-Komponente.
+Die A‑Komponente.
 
 ### Ausnahmen
 
@@ -27,7 +28,7 @@ Die A-Komponente.
 ### Siehe auch
 
 * class [PhflResourceVersion2](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

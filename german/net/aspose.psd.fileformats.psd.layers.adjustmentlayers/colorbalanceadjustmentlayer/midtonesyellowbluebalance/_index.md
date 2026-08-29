@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorBalanceAdjustmentLayer eigendom. Ruft die GelbBlauBalance der Mitteltöne ab oder legt sie fest.
+title: "ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorBalanceAdjustmentLayer property. Ruft den Midtones Yellow Blue Balance ab oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesYellowBlueBalance property
 
-Ruft die Gelb-Blau-Balance der Mitteltöne ab oder legt sie fest.
+Ruft den Mitten‑Gelb‑Blau‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Mitteltöne Gelb-Blau-Balance.
+Der Midtones Yellow Blue Balance.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Mitteltöne Gelb-Blau-Balance muss im Bereich von -100 bis +100 liegen. |
+| ArgumentOutOfRangeException | Midtones Yellow Blue Balance muss im Bereich von -100 bis +100 liegen. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung für ColorBalanceAdjustmentLayer.
+Der folgende Code demonstriert die Unterstützung für die ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Siehe auch
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

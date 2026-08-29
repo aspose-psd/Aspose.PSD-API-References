@@ -1,22 +1,23 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MlstResource eigendom. Holt oder setzt die Strukturen.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MlstResource-Eigenschaft. Ruft die Strukturen ab oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
-Holt oder setzt die Strukturen.
+Liest oder setzt die Strukturen.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der MlstResource-Ressource, die einen Low-Level-Mechanismus zum Bearbeiten der Layer-Zustände bereitstellt.
+Der folgende Code demonstriert die Unterstützung der MlstResource-Ressource, die einen Low-Level-Mechanismus zum Manipulieren des Ebenenzustands bietet.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Layer 1 auf Frame 1 deaktivieren
+    // Deaktiviere Ebene 1 im Frame 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

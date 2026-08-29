@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den GPSLängengrad ab oder legt ihn als östlichen oder westlichen Längengrad fest.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft ab oder legt fest, ob die GPS-Längengradangabe östlich oder westlich ist"
 type: docs
 weight: 550
 url: /de/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-Ruft den GPS-Längengrad ab oder legt ihn als östlichen oder westlichen Längengrad fest.
+Liest oder setzt den GPS-Längengrad, ob östlicher oder westlicher Längengrad ist.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der GPS-Längengrad ist der östliche oder westliche Längengrad.
+Die GPS-Längengradangabe ist östlich oder westlich.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

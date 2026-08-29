@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.ImageData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerMaskData eigendom. Ruft die Ebenenmaskendaten oder die kombinierte / endgültige Maske wenn eine Vektormaske vorhanden ist in der PSDDatei ab oder legt sie fest.
+title: "LayerMaskData.ImageData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerMaskData-Eigenschaft. Gibt oder setzt die Ebenenmaskendaten oder die kombinierte / endgültige Maske, wenn im PSD‑Datei ein Vektormask vorhanden ist."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.ImageData property
 
-Ruft die Ebenenmaskendaten (oder die kombinierte / endgültige Maske, wenn eine Vektormaske vorhanden ist) in der PSD-Datei ab oder legt sie fest.
+Liest oder setzt die Ebenenmaskendaten (oder kombinierte / finale Maske, falls eine Vektormaske vorhanden ist) in der PSD‑Datei.
 
 ```csharp
 public byte[] ImageData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ebenenmaskendaten im PSD-Bild.
+Die Ebenenmaskendaten im PSD‑Bild.
 
 ### Siehe auch
 
 * class [LayerMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

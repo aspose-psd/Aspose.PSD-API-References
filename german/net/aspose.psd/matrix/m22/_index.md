@@ -1,14 +1,15 @@
 ---
-title: Matrix.M22
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix eigendom. Ruft das Matrixelement in der zweiten Zeile und zweiten Spalte ab. Stellt die Skalierung entlang der YAchse dar.
+title: "Matrix.M22"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Eigenschaft. Gibt das Matrixelement in der zweiten Zeile und zweiten Spalte zurück. Stellt die Skalierung entlang der Y-Achse dar"
 type: docs
 weight: 60
 url: /de/net/aspose.psd/matrix/m22/
 ---
+{{< psd/tize >}}
 ## Matrix.M22 property
 
-Ruft das Matrixelement in der zweiten Zeile und zweiten Spalte ab. Stellt die Skalierung entlang der Y-Achse dar.
+Liefert das Matrix-Element in der zweiten Zeile, zweiten Spalte. Stellt die Skalierung entlang der Y-Achse dar.
 
 ```csharp
 public float M22 { get; }
@@ -17,7 +18,7 @@ public float M22 { get; }
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

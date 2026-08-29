@@ -1,20 +1,21 @@
 ---
-title: EnumeratedDescriptorStructure.TypeID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: EnumeratedDescriptorStructure eigendom. Ruft die TypID ab oder legt sie fest.
+title: "EnumeratedDescriptorStructure.TypeID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "EnumeratedDescriptorStructure Eigenschaft. Ruft die Typ-ID ab oder legt sie fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.TypeID property
 
-Ruft die Typ-ID ab oder legt sie fest.
+Liest oder setzt die Typ-ID.
 
 ```csharp
 public ClassID TypeID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Typ-ID.
 
@@ -22,7 +23,7 @@ Die Typ-ID.
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Brightness
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CgEdResource eigendom. Ruft die Helligkeit ab oder setzt sie.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CgEdResource-Eigenschaft. Gibt die Helligkeit zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
-Ruft die Helligkeit ab oder setzt sie.
+Liest oder schreibt die Helligkeit.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Helligkeit.
 
 ### Siehe auch
 
 * class [CgEdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

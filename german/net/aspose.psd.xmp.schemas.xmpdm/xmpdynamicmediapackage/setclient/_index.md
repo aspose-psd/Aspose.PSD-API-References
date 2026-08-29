@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetClient
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt den Client fest.
+title: "XmpDynamicMediaPackage.SetClient"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Client"
 type: docs
 weight: 140
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetClient method
 
-Legt den Client fest.
+Legt den Kunden fest.
 
 ```csharp
 public void SetClient(string client)
@@ -16,12 +17,12 @@ public void SetClient(string client)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| client | String | Der Kunde. |
+| Client | String | Der Client. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

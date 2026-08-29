@@ -1,27 +1,28 @@
 ---
-title: Font.FontFileName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft den Namen der Schriftartdatei ohne vollständigen Pfad ab oder legt ihn fest.
+title: "Font.FontFileName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Liest oder setzt den Schriftdateinamen ohne vollständigen Pfad"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 ---
+{{< psd/tize >}}
 ## Font.FontFileName property
 
-Ruft den Namen der Schriftartdatei ohne vollständigen Pfad ab oder legt ihn fest.
+Liest oder setzt den Schriftdateinamen ohne vollständigen Pfad.
 
 ```csharp
 public string FontFileName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Schriftartdateiname ohne vollständigen Pfad.
+Der Schriftdateiname ohne vollständigen Pfad.
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

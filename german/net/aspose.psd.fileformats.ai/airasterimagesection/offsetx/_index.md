@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiRasterImageSection eigendom. Ruft den Offset X ab.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiRasterImageSection-Eigenschaft. Gibt den X-Versatz zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
-Ruft den Offset X ab.
+Gibt den X‑Versatz zurück.
 
 ```csharp
 public double OffsetX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Versatz X.
+Der X-Versatz.
 
 ### Siehe auch
 
 * class [AiRasterImageSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

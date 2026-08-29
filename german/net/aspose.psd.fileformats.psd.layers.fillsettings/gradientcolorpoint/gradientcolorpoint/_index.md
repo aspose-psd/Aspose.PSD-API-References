@@ -1,14 +1,15 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientColorPoint constructeur. Initialisiert eine neue Instanz vonGradientColorPoint Klasse.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientColorPoint-Konstruktor. Initialisiert eine neue Instanz der Klasse GradientColorPoint"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-Initialisiert eine neue Instanz von[`GradientColorPoint`](../) Klasse.
+Initialisiert eine neue Instanz der [`GradientColorPoint`](../)-Klasse.
 
 ```csharp
 public GradientColorPoint()
@@ -17,14 +18,14 @@ public GradientColorPoint()
 ### Siehe auch
 
 * class [GradientColorPoint](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`GradientColorPoint`](../) Klasse.
+Initialisiert eine neue Instanz der [`GradientColorPoint`](../)-Klasse.
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
@@ -32,13 +33,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | Farbpunkt auf Farbverlauf. |
-| location | Int32 | Die Position des Farbpunkts auf dem Farbverlauf. |
-| medianPointLocation | Int32 | Die Position des mittleren Gradientenpunkts. |
+| Farbe | Farbe | Farbpunkt im Farbverlauf. |
+| Position | Int32 | Die Position des Farbpunktes im Farbverlauf. |
+| medianPointLocation | Int32 | Der Median-Gradient-Punkt-Standort. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie das GradientOverlayEffect-Effektobjekt in einer Ebene erstellt/bearbeitet wird.
+Das folgende Beispiel zeigt, wie man das GradientOverlayEffect-Effektobjekt in einer Ebene erstellt/bearbeitet.
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ Das folgende Beispiel zeigt, wie das GradientOverlayEffect-Effektobjekt in einer
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// Erstellt/erhält und bearbeitet den Verlaufsüberlagerungseffekt in einer Ebene.
+// Erstellt/Abruft und bearbeitet den Gradient-Overlay-Effekt in einer Ebene.
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // GradientOverlayEffect in einer Ebene suchen.
+    // Suche GradientOverlayEffect in einer Ebene.
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -64,38 +65,39 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     if (gradientOverlayEffect == null)
     {
-        // Sie können einen neuen GradientOverlayEffect erstellen, falls er nicht existiert.
+        // Sie können ein neues GradientOverlayEffect erstellen, falls es nicht existiert.
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // Fügen Sie dem Effekt etwas Transparenz hinzu.
+    // Fügen Sie dem Effekt ein wenig Transparenz hinzu.
     gradientOverlayEffect.Opacity = 200;
 
-    // Ändern Sie den Mischmodus des Verlaufseffekts.
+    // Ändern Sie den Mischmodus des Gradient-Effekts.
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // Ruft das GradientFillSettings-Objekt ab, um die Verlaufsüberlagerungseinstellungen zu konfigurieren.
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // Ruft das GradientFillSettings-Objekt ab, um die Gradient-Overlay-Einstellungen zu konfigurieren.
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
-    // Setzen eines neuen Farbverlaufs mit zwei Farben.
-    settings.ColorPoints = new IGradientColorPoint[]
+    // Festlegen eines neuen Gradienten mit zwei Farben.
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // Legt eine Neigung des Farbverlaufs in einem Winkel von 80 Grad fest.
+    // Setzt die Neigung des Gradienten auf einen Winkel von 80 Grad.
     settings.Angle = 80;
 
-    // Gradienteneffekt bis zu 150 % skalieren.
+    // Skaliert den Gradient-Effekt bis zu 150 %.
     settings.Scale = 150;
 
-    // Legt die Art des Farbverlaufs fest.
+    // Setzt den Typ des Gradienten.
     settings.GradientType = GradientType.Linear;
 
-    // Machen Sie den Farbverlauf undurchsichtig, indem Sie die Deckkraft an jedem Transparenzpunkt auf 100 % setzen.
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // Machen Sie den Gradient undurchsichtig, indem Sie die Opazität an jedem Transparenzpunkt auf 100 % setzen.
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
@@ -105,7 +107,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

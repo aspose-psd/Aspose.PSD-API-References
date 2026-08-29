@@ -1,14 +1,15 @@
 ---
-title: Enum WarpMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.WarpMode opsomming. Gibt den Typ der angewendeten WarpTransformation an.
+title: "Enum WarpMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.WarpMode enum. Gibt den Typ der angewendeten Warp-Transformation an."
 type: docs
-weight: 5730
+weight: 6230
 url: /de/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-Gibt den Typ der angewendeten Warp-Transformation an.
+Gibt den Typ der angewendeten Verzerrungstransformation an.
 
 ```csharp
 public enum WarpMode
@@ -23,7 +24,7 @@ public enum WarpMode
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

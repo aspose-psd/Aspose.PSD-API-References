@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace behandelt die Verarbeitung des BmpDateiformats.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace verarbeitet die Bmp-Dateiformatverarbeitung"
 type: docs
-weight: 130
+weight: 140
 url: /de/net/aspose.psd.fileformats.bmp/
 ---
-Der Namespace behandelt die Verarbeitung des Bmp-Dateiformats.
+{{< psd/tize >}}
+Der Namensraum verarbeitet das Bmp‑Dateiformat.
 
 ## Aufzählung
 

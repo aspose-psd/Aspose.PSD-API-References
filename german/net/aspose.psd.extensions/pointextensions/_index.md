@@ -1,14 +1,15 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Extensions.PointExtensions klas. Enthält Erweiterungsmethoden fürPoint UndPointF Strukturen.
+title: "Klasse PointExtensions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Extensions.PointExtensions Klasse. Enthält Erweiterungsmethoden für Point- und PointF-Strukturen"
 type: docs
-weight: 1150
+weight: 1160
 url: /de/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-Enthält Erweiterungsmethoden für[`Point`](../../aspose.psd/point/) Und[`PointF`](../../aspose.psd/pointf/) Strukturen.
+Enthält Erweiterungsmethoden für die [`Point`](../../aspose.psd/point/) und [`PointF`](../../aspose.psd/pointf/) Strukturen.
 
 ```csharp
 public static class PointExtensions
@@ -18,13 +19,13 @@ public static class PointExtensions
 
 | Name | Beschreibung |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Konvertiert die[`PointF`](../../aspose.psd/pointf/) ZuPointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Konvertiert die[`PointF`](../../aspose.psd/pointf/) Array zumPointF array. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Konvertiert die[`Point`](../../aspose.psd/point/) Array zum[`PointF`](../../aspose.psd/pointf/) array. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Konvertiert das [`PointF`](../../aspose.psd/pointf/) in PointF. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Konvertiert das [`PointF`](../../aspose.psd/pointf/) Array in das PointF-Array. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Konvertiert das [`Point`](../../aspose.psd/point/) Array in das [`PointF`](../../aspose.psd/pointf/) Array. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

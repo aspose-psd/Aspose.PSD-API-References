@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Xmp.Types
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält Klassen die die Werte von XMPEigenschaften in drei grundlegenden Kategorien darstellen Basistypen komplexe und abgeleitete Typen.
+title: "Aspose.PSD.Xmp.Types"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält Klassen, die die Werte von XMP-Eigenschaften in drei Grundkategorien darstellen: Basistypen, komplexe Typen und abgeleitete Typen."
 type: docs
-weight: 600
+weight: 640
 url: /de/net/aspose.psd.xmp.types/
 ---
-Der Namensraum enthält Klassen, die die Werte von XMP-Eigenschaften in drei grundlegenden Kategorien darstellen: Basistypen, komplexe und abgeleitete Typen.
+{{< psd/tize >}}
+Der Namensraum enthält Klassen, die die Werte von XMP-Eigenschaften in drei Grundkategorien darstellen: Basistypen, komplexe und abgeleitete Typen.
 
 ## Klassen
 

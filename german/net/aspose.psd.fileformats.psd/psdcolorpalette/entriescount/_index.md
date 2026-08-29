@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.EntriesCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette eigendom. Ruft die Anzahl der Einträge ab.
+title: "PsdColorPalette.EntriesCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette Eigenschaft. Gibt die Anzahl der Einträge zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.EntriesCount property
 
-Ruft die Anzahl der Einträge ab.
+Gibt die Anzahl der Einträge zurück.
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Einträge zählen.
+Die Anzahl der Einträge.
 
 ### Siehe auch
 
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlncResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlncResource veld. Die TypeToolInfoTaste.
+title: "BlncResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlncResource Feld. Der Typ-Tool-Info-Schlüssel"
 type: docs
-weight: 160
+weight: 140
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlncResource.TypeToolKey field
 
-Die Type-Tool-Info-Taste.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [BlncResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

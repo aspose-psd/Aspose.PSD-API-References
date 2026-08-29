@@ -1,14 +1,15 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Legt fest ob das Bild aus dem angegebenen Dateipfad geladen werden kann.
+title: "Image.CanLoad"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Bestimmt, ob das Bild vom angegebenen Dateipfad geladen werden kann."
 type: docs
-weight: 250
+weight: 260
 url: /de/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
-Legt fest, ob das Bild aus dem angegebenen Dateipfad geladen werden kann.
+Bestimmt, ob das Bild aus dem angegebenen Dateipfad geladen werden kann.
 
 ```csharp
 public static bool CanLoad(string filePath)
@@ -20,19 +21,19 @@ public static bool CanLoad(string filePath)
 
 ### Rückgabewert
 
-`WAHR` wenn das Bild aus der angegebenen Datei geladen werden kann; ansonsten,`FALSCH` .
+`true` wenn das Bild vom angegebenen Dateipfad geladen werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(string, LoadOptions) {#canload_3}
 
-Legt fest, ob das Bild aus dem angegebenen Dateipfad und optional unter Verwendung der angegebenen Öffnungsoptionen geladen werden kann.
+Bestimmt, ob das Bild aus dem angegebenen Dateipfad geladen werden kann und optional die angegebenen Öffnungsoptionen verwendet.
 
 ```csharp
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
@@ -45,14 +46,14 @@ public static bool CanLoad(string filePath, LoadOptions loadOptions)
 
 ### Rückgabewert
 
-`WAHR` wenn das Bild aus der angegebenen Datei geladen werden kann; ansonsten,`FALSCH` .
+`true` wenn das Bild vom angegebenen Dateipfad geladen werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -66,23 +67,23 @@ public static bool CanLoad(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, aus dem geladen werden soll. |
+| Strom | Stream | Der Stream, aus dem geladen werden soll. |
 
 ### Rückgabewert
 
-`WAHR` wenn das Bild aus dem angegebenen Stream geladen werden kann; ansonsten,`FALSCH` .
+`true` wenn das Bild vom angegebenen Stream geladen werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-Legt fest, ob das Bild aus dem angegebenen Stream geladen werden kann und optional den angegebenen verwendet*loadOptions* .
+Bestimmt, ob das Bild aus dem angegebenen Stream geladen werden kann und optional die angegebenen *loadOptions* verwendet.
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
@@ -90,18 +91,18 @@ public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, aus dem geladen werden soll. |
+| Strom | Stream | Der Stream, aus dem geladen werden soll. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Rückgabewert
 
-`WAHR` wenn das Bild aus dem angegebenen Stream geladen werden kann; ansonsten,`FALSCH` .
+`true` wenn das Bild vom angegebenen Stream geladen werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

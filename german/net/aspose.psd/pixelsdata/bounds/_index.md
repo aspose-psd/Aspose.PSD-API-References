@@ -1,29 +1,30 @@
 ---
-title: PixelsData.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelsData eigendom. Ruft die Grenzen von Pixeldaten ab oder legt sie fest.
+title: "PixelsData.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelsData-Eigenschaft. Gibt die Grenzen der Pixeldaten zurück oder legt sie fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/pixelsdata/bounds/
 ---
+{{< psd/tize >}}
 ## PixelsData.Bounds property
 
-Ruft die Grenzen von Pixeldaten ab oder legt sie fest.
+Ermittelt oder legt die Grenzen der Pixel‑Daten fest.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt Ihnen, wie Sie einen benutzerdefinierten Smartfilter erstellen, der über einen benutzerdefinierten Renderer verfügt.
+Der folgende Code zeigt, wie man einen benutzerdefinierten Smart-Filter erstellt, der einen benutzerdefinierten Renderer hat.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter am Eingabe-Array
+    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter im Eingabearray
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // die 'Crystallize'-Smart-Filter-ID.
@@ -84,7 +85,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // Filterstruktur abrufen
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Wert der Kristallisationsgröße abrufen
+        // Wert von Crystallize Size abrufen
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -104,7 +105,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* namensraum [Aspose.PSD](../../pixelsdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

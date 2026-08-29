@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Tags ab oder legt sie fest.
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt die Tags zurück oder legt sie fest"
 type: docs
-weight: 490
+weight: 500
 url: /de/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-Ruft die Tags ab oder legt sie fest.
+Liest oder setzt die Tags.
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Tags.
 
@@ -22,7 +23,7 @@ Die Tags.
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

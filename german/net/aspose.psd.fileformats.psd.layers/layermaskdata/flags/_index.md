@@ -1,28 +1,29 @@
 ---
-title: LayerMaskData.Flags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerMaskData eigendom. Ruft die EbenenmaskenFlags ab oder setzt sie.
+title: "LayerMaskData.Flags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerMaskData-Eigenschaft. Gibt oder setzt die Ebenenmasken‑Flags."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
-Ruft die Ebenenmasken-Flags ab oder setzt sie.
+Liest oder setzt die Flags der Ebenenmaske.
 
 ```csharp
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ebenenmasken-Flags.
+Die Ebenenmasken‑Flags.
 
 ### Siehe auch
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

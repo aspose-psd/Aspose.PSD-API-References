@@ -1,43 +1,50 @@
 ---
-title: Class PixelsData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.PixelsData klas. Die Klasse zum Speichern von Bildpixeldaten und deren Grenzen.
+title: "Klasse PixelsData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.PixelsData‑Klasse. Die Klasse zum Speichern von Bildpixel‑Daten und deren Grenzen"
 type: docs
-weight: 5250
+weight: 5740
 url: /de/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-Die Klasse zum Speichern von Bildpixeldaten und deren Grenzen.
+Die Klasse zum Speichern von Bildpixeldaten und deren Begrenzungen.
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | Initialisiert eine neue Instanz von`PixelsData` Klasse. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Initialisiert eine neue Instanz von`PixelsData` Klasse. |
+| [PixelsData](pixelsdata/#constructor)() | Initialisiert eine neue Instanz der `PixelsData`‑Klasse. |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | Initialisiert eine neue Instanz der `PixelsData`‑Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Ruft die Grenzen von Pixeldaten ab oder legt sie fest. |
-| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Ruft die Pixeldaten ab oder legt sie fest. |
+| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | Ermittelt oder legt die Grenzen der Pixel‑Daten fest. |
+| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | Ermittelt oder legt die Pixel‑Daten fest. |
 
-### Beispiele
+## Methoden
 
-Der folgende Code zeigt Ihnen, wie Sie einen benutzerdefinierten Smartfilter erstellen, der über einen benutzerdefinierten Renderer verfügt.
+| Name | Beschreibung |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | Erstellt eine vollständige Kopie der Instanz |
+
+## Beispiele
+
+Der folgende Code zeigt, wie man einen benutzerdefinierten Smart-Filter erstellt, der einen benutzerdefinierten Renderer hat.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter am Eingabe-Array
+    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter im Eingabearray
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // die 'Crystallize'-Smart-Filter-ID.
@@ -98,7 +105,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // Filterstruktur abrufen
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Wert der Kristallisationsgröße abrufen
+        // Wert von Crystallize Size abrufen
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -116,7 +123,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

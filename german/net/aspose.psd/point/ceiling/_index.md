@@ -1,14 +1,15 @@
 ---
-title: Point.Ceiling
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Point methode. Konvertiert die angegebenePointF zu einemPoint durch Rundung der Werte derPointF zu den nächsthöheren ganzzahligen Werten.
+title: "Point.Ceiling"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Point‑Methode. Konvertiert das angegebene PointF in ein Point, indem die Werte des PointF auf die nächsthöheren Ganzzahlen gerundet werden."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/point/ceiling/
 ---
+{{< psd/tize >}}
 ## Point.Ceiling method
 
-Konvertiert die angegebene[`PointF`](../../pointf/) zu einem[`Point`](../) durch Rundung der Werte der[`PointF`](../../pointf/) zu den nächsthöheren ganzzahligen Werten.
+Konvertiert das angegebene [`PointF`](../../pointf/) in ein [`Point`](../), indem die Werte des [`PointF`](../../pointf/) auf die nächsthöheren Ganzzahlen gerundet werden.
 
 ```csharp
 public static Point Ceiling(PointF point)
@@ -16,17 +17,17 @@ public static Point Ceiling(PointF point)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../../pointf/) umwandeln. |
+| point | PointF | Das zu konvertierende [`PointF`](../../pointf/). |
 
 ### Rückgabewert
 
-Der[`Point`](../) Diese Methode konvertiert in.
+Das [`Point`](../), in das diese Methode konvertiert.
 
 ### Siehe auch
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* namensraum [Aspose.PSD](../../point/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

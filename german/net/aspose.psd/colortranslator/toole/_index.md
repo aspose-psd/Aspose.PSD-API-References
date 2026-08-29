@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToOle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorTranslator methode. Übersetzt OLEFarbe in Farbe.
+title: "ColorTranslator.ToOle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorTranslator-Methode. Übersetzt OLE-Farbe in Farbe"
 type: docs
 weight: 50
 url: /de/net/aspose.psd/colortranslator/toole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToOle method
 
 Übersetzt OLE-Farbe in Farbe.
@@ -16,7 +17,7 @@ public static int ToOle(Color c)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| c | Color | Die Farbe. |
+| c | Farbe | Die Farbe. |
 
 ### Rückgabewert
 
@@ -26,7 +27,7 @@ Die OLE-Farbe.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* namensraum [Aspose.PSD](../../colortranslator/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

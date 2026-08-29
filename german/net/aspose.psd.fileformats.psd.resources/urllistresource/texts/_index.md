@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Texts
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UrlListResource eigendom. Liest oder setzt die Texte.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UrlListResource-Eigenschaft. Gibt die Texte zurück oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
 Liest oder setzt die Texte.
@@ -14,14 +15,14 @@ Liest oder setzt die Texte.
 public string[] Texts { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Texte.
 
 ### Siehe auch
 
 * class [UrlListResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

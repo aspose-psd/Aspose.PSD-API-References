@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Warp
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsPath methode. Wendet eine durch ein Rechteck und ein Parallelogramm definierte WarpTransformation darauf anGraphicsPath .
+title: "GraphicsPath.Warp"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsPath-Methode. Wendet eine Verzerrungstransformation an, die durch ein Rechteck und ein Parallelogramm definiert ist, auf diesen GraphicsPath."
 type: docs
 weight: 180
 url: /de/net/aspose.psd/graphicspath/warp/
 ---
+{{< psd/tize >}}
 ## Warp(PointF[], RectangleF) {#warp}
 
-Wendet eine durch ein Rechteck und ein Parallelogramm definierte Warp-Transformation darauf an[`GraphicsPath`](../) .
+Wendet eine Verzerrungstransformation, definiert durch ein Rechteck und ein Parallelogramm, auf dieses [`GraphicsPath`](../) an.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect)
@@ -16,22 +17,22 @@ public void Warp(PointF[] destPoints, RectangleF srcRect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| destPoints | PointF[] | Eine Reihe von[`PointF`](../../pointf/) Strukturen, die ein Parallelogramm definieren, zu dem das Rechteck definiert ist*srcRect*wird transformiert. Das Array kann entweder drei oder vier Elemente enthalten. Wenn das Array drei Elemente enthält, wird die untere rechte Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) das das Rechteck darstellt, das in das durch definierte Parallelogramm transformiert wird*destPoints*. |
+| destPoints | PointF[] | Ein Array von [`PointF`](../../pointf/)-Strukturen, die ein Parallelogramm definieren, zu dem das durch *srcRect* definierte Rechteck transformiert wird. Das Array kann drei oder vier Elemente enthalten. Enthält das Array drei Elemente, wird die rechte untere Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
+| srcRect | RectangleF | Ein [`RectangleF`](../../rectanglef/), der das Rechteck darstellt, das in das durch *destPoints* definierte Parallelogramm transformiert wird. |
 
 ### Siehe auch
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix) {#warp_1}
 
-Wendet eine durch ein Rechteck und ein Parallelogramm definierte Warp-Transformation darauf an[`GraphicsPath`](../) .
+Wendet eine Verzerrungstransformation, definiert durch ein Rechteck und ein Parallelogramm, auf dieses [`GraphicsPath`](../) an.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
@@ -39,9 +40,9 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| destPoints | PointF[] | Eine Reihe von[`PointF`](../../pointf/) Strukturen, die ein Parallelogramm definieren, zu dem das Rechteck definiert ist*srcRect*wird transformiert. Das Array kann entweder drei oder vier Elemente enthalten. Wenn das Array drei Elemente enthält, wird die untere rechte Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) das das Rechteck darstellt, das in das durch definierte Parallelogramm transformiert wird*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
+| destPoints | PointF[] | Ein Array von [`PointF`](../../pointf/)-Strukturen, die ein Parallelogramm definieren, zu dem das durch *srcRect* definierte Rechteck transformiert wird. Das Array kann drei oder vier Elemente enthalten. Enthält das Array drei Elemente, wird die rechte untere Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
+| srcRect | RectangleF | Ein [`RectangleF`](../../rectanglef/), der das Rechteck darstellt, das in das durch *destPoints* definierte Parallelogramm transformiert wird. |
+| matrix | Matrix | Eine [`Matrix`](../../matrix/), die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
 
 ### Siehe auch
 
@@ -49,14 +50,14 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix)
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode) {#warp_2}
 
-Wendet eine durch ein Rechteck und ein Parallelogramm definierte Warp-Transformation darauf an[`GraphicsPath`](../) .
+Wendet eine Verzerrungstransformation, definiert durch ein Rechteck und ein Parallelogramm, auf dieses [`GraphicsPath`](../) an.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode)
@@ -64,10 +65,10 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| destPoints | PointF[] | Eine Reihe von[`PointF`](../../pointf/) Strukturen, die ein Parallelogramm definieren, zu dem das Rechteck definiert ist*srcRect*wird transformiert. Das Array kann entweder drei oder vier Elemente enthalten. Wenn das Array drei Elemente enthält, wird die untere rechte Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) das das Rechteck darstellt, das in das durch definierte Parallelogramm transformiert wird*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
-| warpMode | WarpMode | A[`WarpMode`](../../warpmode/) Enumeration, die angibt, ob dieser Warp-Vorgang den perspektivischen oder den bilinearen Modus verwendet. |
+| destPoints | PointF[] | Ein Array von [`PointF`](../../pointf/)-Strukturen, das ein Parallelogramm definiert, zu dem das durch *srcRect* definierte Rechteck transformiert wird. Das Array kann drei oder vier Elemente enthalten. Enthält das Array drei Elemente, wird die rechte untere Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
+| srcRect | RectangleF | Ein [`RectangleF`](../../rectanglef/), der das Rechteck darstellt, das in das durch *destPoints* definierte Parallelogramm transformiert wird. |
+| matrix | Matrix | Eine [`Matrix`](../../matrix/), die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
+| warpMode | WarpMode | Eine [`WarpMode`](../../warpmode/)-Aufzählung, die angibt, ob diese Verzerrungsoperation den Perspektiv- oder den bilinearen Modus verwendet. |
 
 ### Siehe auch
 
@@ -76,14 +77,14 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Warp(PointF[], RectangleF, Matrix, WarpMode, float) {#warp_3}
 
-Wendet eine durch ein Rechteck und ein Parallelogramm definierte Warp-Transformation darauf an[`GraphicsPath`](../) .
+Wendet eine Verzerrungstransformation, definiert durch ein Rechteck und ein Parallelogramm, auf dieses [`GraphicsPath`](../) an.
 
 ```csharp
 public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMode warpMode, 
@@ -92,11 +93,11 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| destPoints | PointF[] | Eine Reihe von[`PointF`](../../pointf/) Strukturen, die ein Parallelogramm definieren, zu dem das Rechteck definiert ist*srcRect*wird transformiert. Das Array kann entweder drei oder vier Elemente enthalten. Wenn das Array drei Elemente enthält, wird die untere rechte Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
-| srcRect | RectangleF | A[`RectangleF`](../../rectanglef/) das das Rechteck darstellt, das in das durch definierte Parallelogramm transformiert wird*destPoints*. |
-| matrix | Matrix | A[`Matrix`](../../matrix/) die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
-| warpMode | WarpMode | A[`WarpMode`](../../warpmode/) Enumeration, die angibt, ob dieser Warp-Vorgang den perspektivischen oder den bilinearen Modus verwendet. |
-| flatness | Single | Ein Wert zwischen 0 und 1, der angibt, wie flach der resultierende Pfad ist. Weitere Informationen finden Sie unter[`Flatten`](../flatten/) Methoden. |
+| destPoints | PointF[] | Ein Array von [`PointF`](../../pointf/)-Strukturen, die ein Parallelogramm definieren, zu dem das durch *srcRect* definierte Rechteck transformiert wird. Das Array kann drei oder vier Elemente enthalten. Enthält das Array drei Elemente, wird die rechte untere Ecke des Parallelogramms durch die ersten drei Punkte impliziert. |
+| srcRect | RectangleF | Ein [`RectangleF`](../../rectanglef/), der das Rechteck darstellt, das in das durch *destPoints* definierte Parallelogramm transformiert wird. |
+| matrix | Matrix | Eine [`Matrix`](../../matrix/), die eine geometrische Transformation angibt, die auf den Pfad angewendet werden soll. |
+| warpMode | WarpMode | Eine [`WarpMode`](../../warpmode/)-Aufzählung, die angibt, ob diese Verzerrungsoperation den Perspektiv- oder den bilinearen Modus verwendet. |
+| flatness | Single | Ein Wert von 0 bis 1, der angibt, wie flach der resultierende Pfad ist. Weitere Informationen finden Sie in den [`Flatten`](../flatten/)-Methoden. |
 
 ### Siehe auch
 
@@ -105,7 +106,7 @@ public void Warp(PointF[] destPoints, RectangleF srcRect, Matrix matrix, WarpMod
 * class [Matrix](../../matrix/)
 * enum [WarpMode](../../warpmode/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

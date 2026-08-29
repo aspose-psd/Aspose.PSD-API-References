@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiX
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft die horizontale Auflösung dieser Aspose.PSD.Graphics ab.
+title: "Graphics.DpiX"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Ruft die horizontale Auflösung dieses Aspose.PSD.Graphics ab."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/graphics/dpix/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiX property
 
-Ruft die horizontale Auflösung dieser Aspose.PSD.Graphics ab.
+Liest die horizontale Auflösung dieses Aspose.PSD.Graphics.
 
 ```csharp
 public float DpiX { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Wert in Punkten pro Zoll für die horizontale Auflösung, die von dieser Aspose.PSD.Graphics unterstützt wird.
+Der Wert in Punkten pro Zoll für die von diesem Aspose.PSD.Graphics unterstützte horizontale Auflösung.
 
 ### Siehe auch
 
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

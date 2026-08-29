@@ -1,14 +1,15 @@
 ---
-title: Namespaces.Rdf
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Namespaces veld. FrameworkNamespace der Ressourcendefinition.
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Namespaces-Feld. Ressourcen-Definitions-Framework-Namespace"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
-Framework-Namespace der Ressourcendefinition.
+Resource-Definition-Framework-Namespace.
 
 ```csharp
 public const string Rdf;
@@ -17,7 +18,7 @@ public const string Rdf;
 ### Siehe auch
 
 * class [Namespaces](../)
-* namensraum [Aspose.PSD.Xmp](../../namespaces/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

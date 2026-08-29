@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Zeilen pro Streifen ab oder legt sie fest.
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt die Zeilen pro Streifen zurück oder legt sie fest"
 type: docs
-weight: 380
+weight: 390
 url: /de/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-Ruft die Zeilen pro Streifen ab oder legt sie fest.
+Liest oder setzt die Zeilen pro Streifen.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Reihen pro Streifen.
+Die Zeilen pro Streifen.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

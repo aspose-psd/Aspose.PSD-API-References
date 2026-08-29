@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternFillSettings eigendom. Ruft die Höhe des Musters ab oder legt sie fest.
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternFillSettings-Eigenschaft. Gibt die Höhe des Musters zurück oder legt sie fest"
 type: docs
-weight: 70
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
-Ruft die Höhe des Musters ab oder legt sie fest.
+Liest oder setzt die Höhe des Musters.
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Höhe des Musters.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Bearbeitung von Füllebenenmustern.
+Der folgende Code demonstriert die Unterstützung der Bearbeitung des Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Bearbeiten 
+            // Bearbeitung 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Siehe auch
 
 * class [PatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

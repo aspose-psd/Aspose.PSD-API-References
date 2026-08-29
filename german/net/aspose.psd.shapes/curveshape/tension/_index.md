@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurveShape eigendom. Holt oder setzt die Kurvenspannung.
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurveShape-Eigenschaft. Gibt die Kurvenspannung zurück oder legt sie fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-Holt oder setzt die Kurvenspannung.
+Ruft die Kurvenspannung ab oder legt sie fest.
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kurvenspannung.
 
 ### Siehe auch
 
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

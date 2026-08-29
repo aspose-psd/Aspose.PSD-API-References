@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.op_Equality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Gibt das Ergebnis der Gleichheit von zwei zurückPixelDataFormat Klassen.
+title: "PixelDataFormat.op_Equality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt das Ergebnis des Gleichheitsvergleichs für zwei PixelDataFormat‑Klassen zurück."
 type: docs
 weight: 380
 url: /de/net/aspose.psd/pixeldataformat/op_equality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Equality operator
 
-Gibt das Ergebnis der Gleichheit von zwei zurück[`PixelDataFormat`](../) Klassen.
+Gibt das Ergebnis des Gleichheitsvergleichs für zwei [`PixelDataFormat`](../)-Klassen zurück.
 
 ```csharp
 public static bool operator ==(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
@@ -16,17 +17,17 @@ public static bool operator ==(PixelDataFormat pixelFormat1, PixelDataFormat pix
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | Der erste[`PixelDataFormat`](../) vergleichen. |
-| pixelFormat2 | PixelDataFormat | Der Zweite[`PixelDataFormat`](../) vergleichen. |
+| pixelFormat1 | PixelDataFormat | Das erste [`PixelDataFormat`](../) zum Vergleichen. |
+| pixelFormat2 | PixelDataFormat | Das zweite [`PixelDataFormat`](../) zum Vergleichen. |
 
 ### Rückgabewert
 
-Stimmt, wenn beides*pixelFormat1* Und*pixelFormat2* gleiche Daten enthalten oder beide Parameter sind null.
+Wahr, wenn sowohl *pixelFormat1* als auch *pixelFormat2* gleiche Daten enthalten oder beide Parameter null sind.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

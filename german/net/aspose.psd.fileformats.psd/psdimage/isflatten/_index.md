@@ -1,27 +1,28 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft einen Wert ab der angibt ob das PSDBild reduziert wird.
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt einen Wert zurück, der angibt, ob das PSD-Bild flachgelegt ist."
 type: docs
 weight: 190
 url: /de/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
-Ruft einen Wert ab, der angibt, ob das PSD-Bild reduziert wird.
+Liest einen Wert, der angibt, ob das PSD-Bild abgeflacht ist.
 
 ```csharp
 public bool IsFlatten { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz abgeflacht ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz flachgelegt ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

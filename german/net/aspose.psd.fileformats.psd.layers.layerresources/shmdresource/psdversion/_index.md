@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ShmdResource eigendom. Ruft die PSDVersion ab.
+title: "ShmdResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ShmdResource-Eigenschaft. Gibt die PSD-Version zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion/
 ---
+{{< psd/tize >}}
 ## ShmdResource.PsdVersion property
 
-Ruft die PSD-Version ab.
+Gibt die PSD-Version zurück.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [ShmdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource eigendom. Ruft die MasterSättigung ab oder legt sie fest.
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Eigenschaft. Gibt die Master-Sättigung zurück oder legt sie fest"
 type: docs
-weight: 90
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-Ruft die Master-Sättigung ab oder legt sie fest.
+Liest oder setzt die Master-Sättigung.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Master-Sättigung.
 
 ### Siehe auch
 
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

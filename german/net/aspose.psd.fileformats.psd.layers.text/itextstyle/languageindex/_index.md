@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.LanguageIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft den Sprachindex ab.
+title: "ITextStyle.LanguageIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle property. Gibt den Sprachindex zurück"
 type: docs
 weight: 190
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.LanguageIndex property
 
-Ruft den Sprachindex ab.
+Liest den Sprachindex.
 
 ```csharp
 public int LanguageIndex { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

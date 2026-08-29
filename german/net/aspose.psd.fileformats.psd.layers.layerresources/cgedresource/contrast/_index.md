@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CgEdResource eigendom. Ruft den Kontrast ab oder legt ihn fest.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CgEdResource-Eigenschaft. Ruft den Kontrast ab oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
-Ruft den Kontrast ab oder legt ihn fest.
+Liest oder schreibt den Kontrast.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Kontrast.
 
 ### Siehe auch
 
 * class [CgEdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

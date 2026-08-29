@@ -1,27 +1,28 @@
 ---
-title: Cache.CacheFolder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Cache eigendom. Ruft den CacheOrdner ab oder legt ihn fest.
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Cache-Eigenschaft. Gibt den Cache‑Ordner zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
-Ruft den Cache-Ordner ab oder legt ihn fest.
+Liest oder setzt den Cache-Ordner.
 
 ```csharp
 public static string CacheFolder { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Cache-Ordner.
+Der Cache‑Ordner.
 
 ### Siehe auch
 
 * class [Cache](../)
-* namensraum [Aspose.PSD](../../cache/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

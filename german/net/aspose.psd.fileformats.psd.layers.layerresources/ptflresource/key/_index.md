@@ -1,14 +1,15 @@
 ---
-title: PtFlResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PtFlResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "PtFlResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PtFlResource-Eigenschaft. Gibt den Ebenenressourcen-Schlüssel zurück"
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [PtFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

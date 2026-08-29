@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerGroup methode. Fügt die Ebene der Ebenengruppe hinzu.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerGroup Methode. Fügt die Ebene zur Ebenengruppe hinzu."
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 Fügt die Ebene der Ebenengruppe hinzu.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| layer | Layer | Die Schicht. |
+| Ebene | Ebene | Die Ebene. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- und Gif-Bilder als Ebenen zu PsdImage hinzufügen können
+Das folgende Beispiel zeigt, wie Sie Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- und Gif‑Bilder als Ebenen zu PsdImage hinzufügen können.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

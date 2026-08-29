@@ -1,14 +1,15 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font constructeur. Initialisiert eine neueFont die die angegebene vorhandene verwendetFont UndFontStyle Aufzählung.
+title: "Font.Font"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Konstruktor. Initialisiert einen neuen Font, der den angegebenen vorhandenen Font und die FontStyle-Aufzählung verwendet."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/font/font/
 ---
+{{< psd/tize >}}
 ## Font(Font, FontStyle) {#constructor}
 
-Initialisiert eine neue[`Font`](../) die die angegebene vorhandene verwendet[`Font`](../) Und[`FontStyle`](../../fontstyle/) Aufzählung.
+Initialisiert einen neuen [`Font`](../), der den angegebenen vorhandenen [`Font`](../) und die [`FontStyle`](../../fontstyle/)-Aufzählung verwendet.
 
 ```csharp
 public Font(Font prototype, FontStyle newStyle)
@@ -16,27 +17,27 @@ public Font(Font prototype, FontStyle newStyle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| prototype | Font | Die bestehende[`Font`](../) aus der das Neue entsteht[`Font`](../). |
-| newStyle | FontStyle | Der[`FontStyle`](../../fontstyle/) auf das Neue anwenden[`Font`](../) . Mehrere Werte der[`FontStyle`](../../fontstyle/) Enumeration kann mit dem OR-Operator kombiniert werden. |
+| prototype | Font | Der vorhandene [`Font`](../), aus dem der neue [`Font`](../) erstellt wird. |
+| newStyle | FontStyle | Der [`FontStyle`](../../fontstyle/), der auf den neuen [`Font`](../) angewendet wird. Mehrere Werte der [`FontStyle`](../../fontstyle/)-Aufzählung können mit dem ODER-Operator kombiniert werden. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *prototype* ist Null. |
+| ArgumentNullException | *prototype* ist null. |
 
 ### Siehe auch
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float) {#constructor_1}
 
-Initialisiert eine neue[`Font`](../) unter Verwendung einer bestimmten Größe. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint , den Schriftstil zuRegular .
+Initialisiert einen neuen [`Font`](../) mit einer angegebenen Größe. Der Zeichensatz wird auf Default, die Grafikeinheit auf Point und der Font-Stil auf Regular gesetzt.
 
 ```csharp
 public Font(string fontName, float emSize)
@@ -44,27 +45,27 @@ public Font(string fontName, float emSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontName | String | Eine Zeichenfolgendarstellung der[`Font`](../) Name. |
-| emSize | Single | Die Em-Größe der neuen Schriftart in Punkt. |
+| fontName | String | Eine Zeichenkettenrepräsentation des [`Font`](../)-Namens. |
+| emSize | Single | Die Em-Größe des neuen Fonts in Punkten. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* kleiner oder gleich 0 ist, zu unendlich ausgewertet wird oder keine gültige Zahl ist. |
-| ArgumentNullException | *fontName* ist Null. |
+| ArgumentOutOfRangeException | *emSize* ist kleiner oder gleich 0, ergibt unendlich oder ist keine gültige Zahl. |
+| ArgumentNullException | *fontName* ist null. |
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle) {#constructor_2}
 
-Initialisiert eine neue[`Font`](../) unter Verwendung einer bestimmten Größe und eines bestimmten Stils. Der Zeichensatz ist eingestellt aufDefault , die Grafikeinheit anPoint .
+Initialisiert einen neuen [`Font`](../) mit einer angegebenen Größe und einem Stil. Der Zeichensatz wird auf Default und die Grafikeinheit auf Point gesetzt.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style)
@@ -72,29 +73,29 @@ public Font(string fontName, float emSize, FontStyle style)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontName | String | Eine Zeichenfolgendarstellung der[`Font`](../) Name. |
-| emSize | Single | Die Em-Größe der neuen Schriftart in Punkt. |
-| style | FontStyle | Der[`FontStyle`](../../fontstyle/) der neuen Schriftart. |
+| fontName | String | Eine Zeichenkettenrepräsentation des [`Font`](../)-Namens. |
+| emSize | Single | Die Em-Größe des neuen Fonts in Punkten. |
+| style | FontStyle | Der [`FontStyle`](../../fontstyle/) des neuen Fonts. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* kleiner oder gleich 0 ist, zu unendlich ausgewertet wird oder keine gültige Zahl ist. |
-| ArgumentNullException | *fontName* ist Null. |
+| ArgumentOutOfRangeException | *emSize* ist kleiner oder gleich 0, ergibt unendlich oder ist keine gültige Zahl. |
+| ArgumentNullException | *fontName* ist null. |
 
 ### Siehe auch
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, GraphicsUnit) {#constructor_5}
 
-Initialisiert eine neue[`Font`](../) unter Verwendung einer bestimmten Größe und Einheit. Der Zeichensatz ist eingestellt aufDefault der Stil ist eingestellt aufRegular .
+Initialisiert einen neuen [`Font`](../) mit einer angegebenen Größe und Einheit. Der Zeichensatz wird auf Default und der Stil auf Regular gesetzt.
 
 ```csharp
 public Font(string fontName, float emSize, GraphicsUnit unit)
@@ -102,29 +103,29 @@ public Font(string fontName, float emSize, GraphicsUnit unit)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontName | String | Eine Zeichenfolgendarstellung der[`Font`](../) Name. |
-| emSize | Single | Die em-Größe der neuen Schriftart in den von der angegebenen Einheiten*unit* Parameter. |
-| unit | GraphicsUnit | Der[`GraphicsUnit`](../../graphicsunit/) der neuen Schriftart. |
+| fontName | String | Eine Zeichenkettenrepräsentation des [`Font`](../)-Namens. |
+| emSize | Single | Die Em-Größe des neuen Fonts in den durch den *unit*-Parameter angegebenen Einheiten. |
+| unit | GraphicsUnit | Der [`GraphicsUnit`](../../graphicsunit/) des neuen Fonts. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* kleiner oder gleich 0 ist, zu unendlich ausgewertet wird oder keine gültige Zahl ist. |
-| ArgumentNullException | *fontName* ist Null. |
+| ArgumentOutOfRangeException | *emSize* ist kleiner oder gleich 0, ergibt unendlich oder ist keine gültige Zahl. |
+| ArgumentNullException | *fontName* ist null. |
 
 ### Siehe auch
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit, CharacterSet) {#constructor_4}
 
-Initialisiert eine neue[`Font`](../) Verwenden einer bestimmten Größe, eines Stils, einer Einheit und eines Zeichensatzes.
+Initialisiert ein neues [`Font`](../) mit einer angegebenen Größe, einem Stil, einer Einheit und einem Zeichensatz.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit, 
@@ -133,18 +134,18 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontName | String | Eine Zeichenfolgendarstellung der[`Font`](../) Name. |
-| emSize | Single | Die em-Größe der neuen Schriftart in den von der angegebenen Einheiten*unit* Parameter. |
-| style | FontStyle | Der[`FontStyle`](../../fontstyle/) der neuen Schriftart. |
-| unit | GraphicsUnit | Der[`GraphicsUnit`](../../graphicsunit/) der neuen Schriftart. |
-| characterSet | CharacterSet | Ein für diese Schriftart zu verwendender Zeichensatz. |
+| fontName | String | Eine Zeichenkettenrepräsentation des [`Font`](../)-Namens. |
+| emSize | Single | Die Em-Größe des neuen Fonts in den durch den *unit*-Parameter angegebenen Einheiten. |
+| style | FontStyle | Der [`FontStyle`](../../fontstyle/) des neuen Fonts. |
+| unit | GraphicsUnit | Der [`GraphicsUnit`](../../graphicsunit/) des neuen Fonts. |
+| characterSet | CharacterSet | Ein Zeichensatz, der für diese Schriftart verwendet wird. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* kleiner oder gleich 0 ist, zu unendlich ausgewertet wird oder keine gültige Zahl ist. |
-| ArgumentNullException | *fontName* ist Null. |
+| ArgumentOutOfRangeException | *emSize* ist kleiner oder gleich 0, ergibt unendlich oder ist keine gültige Zahl. |
+| ArgumentNullException | *fontName* ist null. |
 
 ### Siehe auch
 
@@ -152,14 +153,14 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit,
 * enum [GraphicsUnit](../../graphicsunit/)
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string, float, FontStyle, GraphicsUnit) {#constructor_3}
 
-Initialisiert eine neue[`Font`](../) unter Verwendung einer bestimmten Größe, eines Stils und einer Einheit.
+Initialisiert ein neues [`Font`](../) mit einer angegebenen Größe, einem Stil und einer Einheit.
 
 ```csharp
 public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
@@ -167,24 +168,24 @@ public Font(string fontName, float emSize, FontStyle style, GraphicsUnit unit)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fontName | String | Eine Zeichenfolgendarstellung der[`Font`](../) Name. |
-| emSize | Single | Die em-Größe der neuen Schriftart in den von der angegebenen Einheiten*unit* Parameter. |
-| style | FontStyle | Der[`FontStyle`](../../fontstyle/) der neuen Schriftart. |
-| unit | GraphicsUnit | Der[`GraphicsUnit`](../../graphicsunit/) der neuen Schriftart. |
+| fontName | String | Eine Zeichenkettenrepräsentation des [`Font`](../)-Namens. |
+| emSize | Single | Die Em-Größe des neuen Fonts in den durch den *unit*-Parameter angegebenen Einheiten. |
+| style | FontStyle | Der [`FontStyle`](../../fontstyle/) des neuen Fonts. |
+| unit | GraphicsUnit | Der [`GraphicsUnit`](../../graphicsunit/) des neuen Fonts. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | *emSize* kleiner oder gleich 0 ist, zu unendlich ausgewertet wird oder keine gültige Zahl ist. |
-| ArgumentNullException | *fontName* ist Null. |
+| ArgumentOutOfRangeException | *emSize* ist kleiner oder gleich 0, ergibt unendlich oder ist keine gültige Zahl. |
+| ArgumentNullException | *fontName* ist null. |
 
 ### Siehe auch
 
 * enum [FontStyle](../../fontstyle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

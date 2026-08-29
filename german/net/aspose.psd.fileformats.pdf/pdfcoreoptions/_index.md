@@ -1,38 +1,39 @@
 ---
-title: Class PdfCoreOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Pdf.PdfCoreOptions klas. Die allgemeinen Optionen für die Konvertierung in PDF
+title: "Klasse PdfCoreOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Pdf.PdfCoreOptions Klasse. Die allgemeinen Optionen für die Konvertierung zu PDF"
 type: docs
-weight: 1560
+weight: 1570
 url: /de/net/aspose.psd.fileformats.pdf/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions class
 
-Die allgemeinen Optionen für die Konvertierung in PDF
+Die gängigen Optionen für die Konvertierung zu PDF.
 
 ```csharp
 public class PdfCoreOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PdfCoreOptions](pdfcoreoptions/)() | Default_Constructor |
+| [PdfCoreOptions](pdfcoreoptions/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/) { get; set; } | Gibt an, auf welcher Ebene in der Dokumentgliederung Lesezeichenobjekte angezeigt werden. 0 – nicht angezeigt. 1 auf der ersten Ebene usw. Standard ist 0. |
-| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels/) { get; set; } | Gibt an, wie viele Ebenen in der Dokumentgliederung erweitert angezeigt werden, wenn die PDF-Datei angezeigt wird. 0 – Die Dokumentgliederung wird nicht erweitert. 1 – Elemente der ersten Ebene im Dokument werden erweitert usw. Standard ist 0. |
-| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/) { get; set; } | Gibt an, wie viele Ebenen von Gliederungselementen in die Dokumentgliederung aufgenommen werden sollen. 0 – keine Gliederung, 1 – eine Gliederungsebene usw. Der Standardwert ist 0. |
-| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/) { get; set; } | Gibt die Qualität der JPEG-Komprimierung für Bilder an (falls JPEG-Komprimierung verwendet wird). Standard ist 95. |
-| [PdfCompliance](../../aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/) { get; set; } | Ruft die PDF-Konformität ab oder legt sie fest. |
+| [BookmarksOutlineLevel](../../aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/) { get; set; } | Gibt an, auf welcher Ebene im Dokumenten‑Inhaltsverzeichnis Lesezeichenobjekte angezeigt werden sollen. 0 – nicht angezeigt. 1 – auf der ersten Ebene usw. Standardwert ist 0. |
+| [ExpandedOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/expandedoutlinelevels/) { get; set; } | Gibt an, wie viele Ebenen im Dokumenten‑Inhaltsverzeichnis beim Anzeigen der PDF‑Datei erweitert angezeigt werden sollen. 0 – das Inhaltsverzeichnis ist nicht erweitert. 1 – Elemente der ersten Ebene werden erweitert usw. Standardwert ist 0. |
+| [HeadingsOutlineLevels](../../aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/) { get; set; } | Gibt an, wie viele Ebenen von Inhaltsverzeichniselementen im Dokumenten‑Inhaltsverzeichnis enthalten sein sollen. 0 – kein Inhaltsverzeichnis, 1 – eine Ebene usw. Standardwert ist 0. |
+| [JpegQuality](../../aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/) { get; set; } | Gibt die Qualität der JPEG‑Kompression für Bilder an (falls JPEG‑Kompression verwendet wird). Standardwert ist 95. |
+| [PdfCompliance](../../aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/) { get; set; } | Liest oder setzt die PDF‑Konformität. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../)
 
 

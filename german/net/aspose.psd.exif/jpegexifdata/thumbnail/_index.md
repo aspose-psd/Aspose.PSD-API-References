@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft das Miniaturbild ab oder legt es fest.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Liest oder setzt das Vorschaubild"
 type: docs
 weight: 200
 url: /de/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-Ruft das Miniaturbild ab oder legt es fest.
+Liest oder setzt das Vorschaubild.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Miniaturbild.
+Das Vorschaubild.
 
 ### Siehe auch
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

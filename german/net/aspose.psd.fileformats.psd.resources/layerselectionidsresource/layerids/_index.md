@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerSelectionIdsResource eigendom. Ruft die LayerIDs ab oder legt sie fest.
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerSelectionIdsResource Eigenschaft. Gibt die Layer-IDs zurück oder setzt sie"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
-Ruft die Layer-IDs ab oder legt sie fest.
+Liest oder setzt die Ebenen-IDs.
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Layer-IDs.
 
 ### Siehe auch
 
 * class [LayerSelectionIdsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

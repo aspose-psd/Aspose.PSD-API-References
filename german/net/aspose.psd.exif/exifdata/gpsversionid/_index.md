@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die GPSVersionskennung ab oder legt sie fest.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den GPS-Versionsbezeichner"
 type: docs
 weight: 670
 url: /de/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-Ruft die GPS-Versionskennung ab oder legt sie fest.
+Liest oder setzt die GPS-Versionskennung.
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Kennung der GPS-Version.
+Der GPS-Versionsbezeichner.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

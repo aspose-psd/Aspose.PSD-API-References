@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft den Mischmodusschlüssel ab oder legt ihn fest.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt den Blendmodus-Schlüssel zurück oder legt ihn fest"
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Ruft den Mischmodusschlüssel ab oder legt ihn fest.
+Liest oder setzt den Schlüssel des Mischmodus.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Mischmodusschlüssel.
+Der Blendmodus-Schlüssel.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie den PassThrough-Ebenenmischmodus in Aspose.PSD verwenden können
+Das folgende Beispiel zeigt, wie Sie den PassThrough‑Ebenen‑Blendmodus in Aspose.PSD verwenden können.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

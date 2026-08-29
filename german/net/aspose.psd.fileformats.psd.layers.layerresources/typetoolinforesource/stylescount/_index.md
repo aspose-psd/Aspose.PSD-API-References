@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfoResource.StylesCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Stilanzahl ab.
+title: "TypeToolInfoResource.StylesCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest die Anzahl der Stile"
 type: docs
-weight: 220
+weight: 190
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.StylesCount property
 
-Ruft die Stilanzahl ab.
+Liefert die Anzahl der Stile.
 
 ```csharp
 public short StylesCount { get; }
@@ -17,7 +18,7 @@ public short StylesCount { get; }
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

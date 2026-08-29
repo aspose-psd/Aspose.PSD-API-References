@@ -1,14 +1,15 @@
 ---
-title: ExifData.RemoveTag
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData methode. Tag aus Container entfernen
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Methode. Entfernt das Tag aus dem Container"
 type: docs
 weight: 1090
 url: /de/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
-Tag aus Container entfernen
+Tag aus dem Container entfernen
 
 ```csharp
 public void RemoveTag(ExifProperties tag)
@@ -16,20 +17,20 @@ public void RemoveTag(ExifProperties tag)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| tag | ExifProperties | Das zu entfernende Tag |
+| Tag | ExifProperties | Das zu entfernende Tag |
 
 ### Siehe auch
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RemoveTag(ushort) {#removetag_1}
 
-Tag aus Container entfernen
+Tag aus dem Container entfernen
 
 ```csharp
 public void RemoveTag(ushort tagId)
@@ -37,12 +38,12 @@ public void RemoveTag(ushort tagId)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| tagId | UInt16 | Die zu entfernende Tag-ID. |
+| tagId | UInt16 | Der zu entfernende Tag-Identifikator. |
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

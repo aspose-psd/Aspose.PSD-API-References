@@ -1,27 +1,28 @@
 ---
-title: Font.FontFace
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft die Schriftart ab oder legt sie fest.
+title: "Font.FontFace"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Liest oder setzt die Schriftart"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.font/font/fontface/
 ---
+{{< psd/tize >}}
 ## Font.FontFace property
 
-Ruft die Schriftart ab oder legt sie fest.
+Liest oder setzt die Schriftart.
 
 ```csharp
 public string FontFace { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schriftart.
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

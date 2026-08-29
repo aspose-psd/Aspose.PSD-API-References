@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrack
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Bewegungsrichtung des GPSEmpfängers ab oder legt sie fest.
+title: "ExifData.GPSTrack"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Richtung der GPS-Empfängerbewegung zurück oder legt sie fest"
 type: docs
 weight: 650
 url: /de/net/aspose.psd.exif/exifdata/gpstrack/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrack property
 
-Ruft die Bewegungsrichtung des GPS-Empfängers ab oder legt sie fest.
+Liest oder setzt die Richtung der GPS-Empfängerbewegung.
 
 ```csharp
 public string GPSTrack { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Bewegungsrichtung des GPS-Empfängers.
+Die Richtung der GPS-Empfängerbewegung.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

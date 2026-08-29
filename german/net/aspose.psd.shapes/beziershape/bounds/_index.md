@@ -1,20 +1,21 @@
 ---
-title: BezierShape.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BezierShape eigendom. Ruft die Grenzen des Objekts ab.
+title: "BezierShape.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BezierShape-Eigenschaft. Gibt die Grenzen des Objekts zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.shapes/beziershape/bounds/
 ---
+{{< psd/tize >}}
 ## BezierShape.Bounds property
 
-Ruft die Grenzen des Objekts ab.
+Liest die Begrenzungen des Objekts.
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Grenzen des Objekts.
 
@@ -22,7 +23,7 @@ Die Grenzen des Objekts.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [BezierShape](../)
-* namensraum [Aspose.PSD.Shapes](../../beziershape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

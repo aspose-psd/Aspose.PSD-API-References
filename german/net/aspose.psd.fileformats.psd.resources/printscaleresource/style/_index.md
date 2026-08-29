@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Style
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PrintScaleResource eigendom. Ruft den Stil ab oder legt ihn fest.
+title: "PrintScaleResource.Style"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PrintScaleResource property. Gibt oder setzt den Stil"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
-Ruft den Stil ab oder legt ihn fest.
+Liest oder setzt den Stil.
 
 ```csharp
 public short Style { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Stil.
 
 ### Siehe auch
 
 * class [PrintScaleResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

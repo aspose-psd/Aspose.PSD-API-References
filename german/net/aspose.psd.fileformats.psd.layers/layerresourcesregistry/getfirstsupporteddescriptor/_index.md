@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerResourcesRegistry methode. Ruft den ersten unterstützten OpenerDeskriptor ab.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerResourcesRegistry-Methode. Gibt den ersten unterstützten Öffner-Deskriptor zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-Ruft den ersten unterstützten Opener-Deskriptor ab.
+Ermittelt den ersten unterstützten Öffner-Deskriptor.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
@@ -16,22 +17,22 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Rückgabewert
 
-Der Layer-Ressourcen-Loader-Deskriptor oder null, wenn kein Loader-Deskriptor für diesen Stream unterstützt wird.
+Der Layer-Resource-Loader-Deskriptor oder null, wenn kein Loader-Deskriptor für einen solchen Stream unterstützt wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Lader wird tatsächlich der letzte registrierte sein.
+Der erste Loader ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

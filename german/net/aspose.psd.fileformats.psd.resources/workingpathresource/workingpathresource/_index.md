@@ -1,14 +1,15 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: WorkingPathResource constructeur. Initialisiert eine neue Instanz vonWorkingPathResource Klasse.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "WorkingPathResource-Konstruktor. Initialisiert eine neue Instanz der Klasse WorkingPathResource."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-Initialisiert eine neue Instanz von[`WorkingPathResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`WorkingPathResource`](../)-Klasse.
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
@@ -16,11 +17,11 @@ public WorkingPathResource(byte[] dataBytes)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| dataBytes | Byte[] | Die Daten des Vektorpfades. |
+| dataBytes | Byte[] | Die Daten des Vektorpfads. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathResource“ in PsdImage.ImageResources für das korrekte Funktionieren des Crop-Vorgangs.
+Dieses Beispiel demonstriert die Unterstützung der 'WorkingPathResource'-Ressource in PsdImage.ImageResources für das korrekte Funktionieren der Zuschneide-Operation.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathReso
 // Bild zuschneiden und speichern.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Gespeichertes Bild laden und die Änderungen überprüfen.
+// Lade das gespeicherte Bild und prüfe die Änderungen.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### Siehe auch
 
 * class [WorkingPathResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

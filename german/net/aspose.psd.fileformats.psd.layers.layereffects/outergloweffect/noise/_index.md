@@ -1,32 +1,33 @@
 ---
-title: OuterGlowEffect.Noise
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OuterGlowEffect eigendom. Ruft das Rauschen ab oder legt es fest.
+title: "OuterGlowEffect.Noise"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OuterGlowEffect Eigenschaft. Gibt das Rauschen zurück oder legt es fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Noise property
 
-Ruft das Rauschen ab oder legt es fest.
+Liest oder setzt das Rauschen.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Lärm.
+Das Rauschen.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Das Rauschen muss in Prozent im Bereich von 0 bis 100 angegeben werden |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Rauschen muss als Prozentsatz im Bereich von 0 bis 100 angegeben werden. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die OuterGlowEffect-Unterstützung.
+Der folgende Code demonstriert die Unterstützung von OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Siehe auch
 
 * class [OuterGlowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

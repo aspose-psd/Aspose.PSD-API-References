@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternFillSettings eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternFillSettings-Eigenschaft. Liest oder setzt die Skalierung"
 type: docs
-weight: 120
+weight: 140
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die Skala.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Bearbeitung von Füllebenenmustern.
+Der folgende Code demonstriert die Unterstützung der Bearbeitung des Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Bearbeiten 
+            // Bearbeitung 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Siehe auch
 
 * class [PatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

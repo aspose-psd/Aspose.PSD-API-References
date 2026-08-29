@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.GdFlResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource constructeur. Default_Constructor
+title: "GdFlResource.GdFlResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public GdFlResource()
@@ -17,7 +18,7 @@ public GdFlResource()
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

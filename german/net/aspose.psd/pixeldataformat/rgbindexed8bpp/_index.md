@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed8Bpp
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat eigendom. Ruft die abPixelDataFormat definiert für indizierte 8 Bit pro Farbe. Der indizierte Pixeldatenspeicher soll das Speichern und Abrufen von Daten überall dort ermöglichen wo die Farbpalette verwendet wird. Mit Vorsicht verwenden da möglicherweise eine Konvertierung von einer Palette in eine andere oder von RGBA in ein indiziertes Farbmodell erforderlich ist .
+title: "PixelDataFormat.RgbIndexed8Bpp"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Eigenschaft. Gibt das PixelDataFormat zurück, das für indizierte 8‑Bit‑Farben definiert ist. Der indizierte Pixeldatenspeicher ist dafür vorgesehen, Datenspeicherung und -abruf überall dort zu ermöglichen, wo die Farbpalette verwendet wird. Mit Vorsicht verwenden, da eine Konvertierung von einer Palette zur anderen oder von RGBA zum indizierten Farbmodell erforderlich sein kann."
 type: docs
 weight: 150
 url: /de/net/aspose.psd/pixeldataformat/rgbindexed8bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed8Bpp property
 
-Ruft die ab[`PixelDataFormat`](../) definiert für indizierte 8 Bit pro Farbe. Der indizierte Pixeldatenspeicher soll das Speichern und Abrufen von Daten überall dort ermöglichen, wo die Farbpalette verwendet wird. Mit Vorsicht verwenden, da möglicherweise eine Konvertierung von einer Palette in eine andere oder von RGBA in ein indiziertes Farbmodell erforderlich ist .
+Gibt das [`PixelDataFormat`](../) zurück, das für indizierte 8‑Bit‑Farben definiert ist. Der indizierte Pixeldatenspeicher ist dafür vorgesehen, Datenspeicherung und -abruf überall dort zu ermöglichen, wo die Farbpalette verwendet wird. Mit Vorsicht verwenden, da eine Konvertierung von einer Palette zur anderen oder von RGBA zum indizierten Farbmodell erforderlich sein kann.
 
 ```csharp
 public static PixelDataFormat RgbIndexed8Bpp { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`PixelDataFormat`](../) definiert für indizierte 8 Bit pro Farbe.
+Das [`PixelDataFormat`](../) ist für indizierte 8‑Bit‑Farben definiert.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Size.Ceiling
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size methode. Konvertiert die angegebeneSizeF Struktur zu aSize Struktur durch Rundung der Werte derSize Struktur auf die nächsthöheren ganzzahligen Werte.
+title: "Size.Ceiling"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Methode. Konvertiert die angegebene SizeF-Struktur in eine Size-Struktur, indem die Werte der Size-Struktur auf die nächsthöheren Ganzzahlen gerundet werden."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/size/ceiling/
 ---
+{{< psd/tize >}}
 ## Size.Ceiling method
 
-Konvertiert die angegebene[`SizeF`](../../sizef/) Struktur zu a[`Size`](../) Struktur durch Rundung der Werte der[`Size`](../) Struktur auf die nächsthöheren ganzzahligen Werte.
+Konvertiert die angegebene [`SizeF`](../../sizef/) Struktur in eine [`Size`](../) Struktur, indem die Werte der [`Size`](../) Struktur auf die nächsthöheren Ganzzahlen gerundet werden.
 
 ```csharp
 public static Size Ceiling(SizeF size)
@@ -16,17 +17,17 @@ public static Size Ceiling(SizeF size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| size | SizeF | Der[`SizeF`](../../sizef/) Struktur umzuwandeln. |
+| size | SizeF | Die [`SizeF`](../../sizef/) Struktur, die konvertiert werden soll. |
 
 ### Rückgabewert
 
-Der[`Size`](../) Struktur, in die diese Methode konvertiert.
+Die [`Size`](../) Struktur, in die diese Methode konvertiert.
 
 ### Siehe auch
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

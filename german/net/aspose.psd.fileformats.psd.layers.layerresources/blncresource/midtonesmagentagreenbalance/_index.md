@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesMagentaGreenBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlncResource eigendom. Ruft die MagentaGrünBalance für Mitteltöne ab oder legt sie fest.
+title: "BlncResource.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlncResource Eigenschaft. Liest oder setzt den Midtones Magenta Green Balance"
 type: docs
-weight: 80
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesMagentaGreenBalance property
 
-Ruft die Magenta-Grün-Balance für Mitteltöne ab oder legt sie fest.
+Ruft den Mitten‑Magenta‑Grün‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Mitteltöne Magenta Green Balance.
+Die Mitten-Magenta-Grün-Balance.
 
 ### Siehe auch
 
 * class [BlncResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

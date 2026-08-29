@@ -1,27 +1,28 @@
 ---
-title: UnknownStructure.Data
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnknownStructure eigendom. Ruft die Daten ab oder legt sie fest.
+title: "UnknownStructure.Data"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnknownStructure-Eigenschaft. Gibt die Daten zurück oder setzt sie"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Data property
 
-Ruft die Daten ab oder legt sie fest.
+Liest oder setzt die Daten.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Daten.
 
 ### Siehe auch
 
 * class [UnknownStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

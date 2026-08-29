@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Red
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantRgb eigendom. Ruft den roten Komponentenwert ab oder legt ihn fest.
+title: "ColorantRgb.Red"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantRgb-Eigenschaft. Ruft den Rotkomponentenwert ab oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/red/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Red property
 
-Ruft den roten Komponentenwert ab oder legt ihn fest.
+Liest oder legt den Rot‑Komponentenwert fest.
 
 ```csharp
 public byte Red { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der rote Komponentenwert.
+Der Rotkomponentenwert.
 
 ### Siehe auch
 
 * class [ColorantRgb](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

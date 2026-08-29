@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Holt oder setzt die Hervorhebung der Dekorationsblattfarbe in der Ebenenliste
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt oder setzt die dekorative Blattfarb-Hervorhebung in der Ebenenliste"
 type: docs
-weight: 300
+weight: 310
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-Holt oder setzt die Hervorhebung der Dekorationsblattfarbe in der Ebenenliste
+Liest oder setzt die dekorative Blattfarb-Hervorhebung in der Ebenenliste
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Hervorhebung der Blattfarbe.
+Die Blattfarb-Hervorhebung.
 
 ### Siehe auch
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

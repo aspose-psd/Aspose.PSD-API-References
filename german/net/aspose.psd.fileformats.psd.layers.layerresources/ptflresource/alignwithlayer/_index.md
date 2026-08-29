@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.AlignWithLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PtFlResource eigendom. Ruft einen Wert ab der angibt ob an Ebene ausrichten oder legt diesen fest.
+title: "PtFlResource.AlignWithLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PtFlResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob mit der Ebene ausgerichtet wird"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.AlignWithLayer property
 
-Ruft einen Wert ab, der angibt, ob [an Ebene ausrichten], oder legt diesen fest.
+Liest oder setzt einen Wert, der angibt, ob [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [an Ebene ausrichten]; ansonsten,`FALSCH` .
+`true`, wenn [align with layer]; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource‑Ressource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -89,7 +90,7 @@ using (im)
 ### Siehe auch
 
 * class [PtFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

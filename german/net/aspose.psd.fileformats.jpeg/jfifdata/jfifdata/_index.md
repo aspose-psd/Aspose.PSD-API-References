@@ -1,14 +1,15 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JFIFData constructeur. Initialisiert eine neue Instanz vonJFIFData Klasse.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JFIFData-Konstruktor. Initialisiert eine neue Instanz der JFIFData-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-Initialisiert eine neue Instanz von[`JFIFData`](../) Klasse.
+Initialisiert eine neue Instanz der [`JFIFData`](../)-Klasse.
 
 ```csharp
 public JFIFData()
@@ -17,7 +18,7 @@ public JFIFData()
 ### Siehe auch
 
 * class [JFIFData](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

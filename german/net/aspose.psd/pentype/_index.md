@@ -1,14 +1,15 @@
 ---
-title: Enum PenType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.PenType opsomming. Gibt die Art der Füllung an aPen Objekt verwendet um Zeilen zu füllen.
+title: "Enum PenType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.PenType Enum. Gibt den Typ der Füllung an, den ein Pen-Objekt zum Füllen von Linien verwendet."
 type: docs
-weight: 5220
+weight: 5710
 url: /de/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-Gibt die Art der Füllung an a[`Pen`](../pen/) Objekt verwendet, um Zeilen zu füllen.
+Gibt den Typ der Füllung an, den ein [`Pen`](../pen/)-Objekt zum Füllen von Linien verwendet.
 
 ```csharp
 public enum PenType
@@ -18,15 +19,15 @@ public enum PenType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| SolidColor | `0` | Gibt eine durchgehende Füllung an. |
-| HatchFill | `1` | Gibt eine Schraffurfüllung an. |
+| SolidColor | `0` | Gibt eine einfarbige Füllung an. |
+| HatchFill | `1` | Gibt eine Schraffierfüllung an. |
 | TextureFill | `2` | Gibt eine Bitmap-Texturfüllung an. |
-| PathGradient | `3` | Gibt eine Pfadverlaufsfüllung an. |
-| LinearGradient | `4` | Gibt eine lineare Verlaufsfüllung an. |
+| PathGradient | `3` | Gibt eine Pfadverlauffüllung an. |
+| LinearGradient | `4` | Gibt eine lineare Verlauffüllung an. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AddNoiseSmartFilter eigendom. Ruft den Wert von monochromatisch ab oder legt ihn fest.
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AddNoiseSmartFilter-Eigenschaft. Liest oder schreibt den monochromen Wert"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-Ruft den Wert von monochromatisch ab oder legt ihn fest.
+Liest oder setzt den Wert von monochrom.
 
 ```csharp
 public bool IsMonochromatic { get; set; }
@@ -17,7 +18,7 @@ public bool IsMonochromatic { get; set; }
 ### Siehe auch
 
 * class [AddNoiseSmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

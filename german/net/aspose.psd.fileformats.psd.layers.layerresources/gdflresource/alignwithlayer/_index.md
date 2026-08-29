@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob an Ebene ausrichten.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob mit Ebene ausgerichtet wird"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [an Ebene ausrichten].
+Liest oder setzt einen Wert, der angibt, ob [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [an Ebene ausrichten]; ansonsten,`FALSCH` .
+`true`, wenn [align with layer]; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource-Ressourcen.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource Ressourcen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

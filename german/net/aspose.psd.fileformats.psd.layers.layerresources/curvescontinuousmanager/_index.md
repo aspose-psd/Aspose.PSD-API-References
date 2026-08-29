@@ -1,45 +1,46 @@
 ---
-title: Class CurvesContinuousManager
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager klas. Manager für die Kurvenanpassungsebene die Kurven manipuliert
+title: "Klasse CurvesContinuousManager"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager Klasse. Manager für Curves-Anpassungsebene, der Kurven manipuliert"
 type: docs
-weight: 2410
+weight: 2670
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-Manager für die Kurvenanpassungsebene, die Kurven manipuliert
+Manager für die Kurven‑Anpassungsebene, der Kurven manipuliert.
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Initialisiert eine neue Instanz von`CurvesContinuousManager` Klasse. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | Initialisiert eine neue Instanz der `CurvesContinuousManager`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Ruft die maximale Kanalzahl ab. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Liest die maximale Kanalanzahl. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | Fügt den Kurvenpunkt hinzu. |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Ruft den Kurvenpunkt nach Index ab. |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Ruft die Anzahl der Kurvenpunkte ab. |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Entfernt den Kurvenpunkt. |
-| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Aktualisiert den Kurvenpunkt. |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | Liest den Kurvenpunkt nach Index. |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | Liest die Anzahl der Kurvenpunkte. |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | Entfernt den Punkt der Kurve. |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | Aktualisiert den Punkt der Kurve. |
 
 ### Siehe auch
 
 * class [CurvesManager](../curvesmanager/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,42 +1,43 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal klas. steht für XMP Real.
+title: "Klasse XmpReal"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpReal Klasse. Stellt XMP Real dar"
 type: docs
-weight: 5970
+weight: 6470
 url: /de/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-steht für XMP Real.
+Stellt XMP Real dar.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Initialisiert eine neue Instanz von`XmpReal` Klasse. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Initialisiert eine neue Instanz von`XmpReal` Klasse. |
+| [XmpReal](xmpreal/#constructor)(float) | Initialisiert eine neue Instanz der `XmpReal`-Klasse. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Initialisiert eine neue Instanz der `XmpReal`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Ruft den Float-Wert ab oder legt ihn fest. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Liest oder setzt den float-Wert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

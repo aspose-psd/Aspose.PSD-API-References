@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Holt oder setzt die Farbnummer. 1 ist der benutzerdefinierte Farbwert aus den Eigenschaften Rot Grün Blau. Gibt die Farbeinstellung der Ebene an.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection Eigenschaft. Gibt die Farbnummer zurück oder legt sie fest. 1 ist der benutzerdefinierte Farbwert aus den Rot‑Grün‑Blau‑Eigenschaften. Gibt die Farbeinstellung der Ebene an."
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Holt oder setzt die Farbnummer. -1 ist der benutzerdefinierte Farbwert aus den Eigenschaften Rot, Grün, Blau. Gibt die Farbeinstellung der Ebene an.
+Liest oder setzt die Farbnummer. -1 ist der benutzerdefinierte Farbwert aus den Eigenschaften Rot, Grün, Blau. Gibt die Farbeinstellung der Ebene an.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbnummer.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpAgentName constructeur. Initialisiert eine neue Instanz vonXmpAgentName Klasse.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpAgentName-Konstruktor. Initialisiert eine neue Instanz der Klasse XmpAgentName"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-Initialisiert eine neue Instanz von[`XmpAgentName`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpAgentName`](../)-Klasse.
 
 ```csharp
 public XmpAgentName(string value)
@@ -16,12 +17,12 @@ public XmpAgentName(string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | String | Der Wert. |
+| Wert | String | Der Wert. |
 
 ### Siehe auch
 
 * class [XmpAgentName](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

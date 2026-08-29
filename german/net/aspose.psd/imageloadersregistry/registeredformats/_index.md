@@ -1,20 +1,21 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageLoadersRegistry eigendom. Ruft die registrierten Bildladeformate ab.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageLoadersRegistry Eigenschaft. Gibt die registrierten Bildladeformate zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-Ruft die registrierten Bildladeformate ab.
+Liest die registrierten Bildladeformate.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die registrierten Bildladeformate.
 
@@ -22,7 +23,7 @@ Die registrierten Bildladeformate.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* namensraum [Aspose.PSD](../../imageloadersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

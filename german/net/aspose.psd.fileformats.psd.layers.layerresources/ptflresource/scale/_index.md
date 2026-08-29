@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PtFlResource eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "PtFlResource.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PtFlResource-Eigenschaft. Gibt die Skalierung zurück oder legt sie fest"
 type: docs
-weight: 100
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die Skala.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource‑Ressource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -89,7 +90,7 @@ using (im)
 ### Siehe auch
 
 * class [PtFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

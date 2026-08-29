@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft den Ebenennamen ab oder legt ihn fest. Gibt den Namen des Elements an wie er im Ebenenbedienfeld angezeigt wird.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt den Ebenennamen zurück oder legt ihn fest. Gibt den Namen des Elements an, wie er im Ebenen‑Panel erscheint."
 type: docs
-weight: 110
+weight: 130
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Ruft den Ebenennamen ab oder legt ihn fest. Gibt den Namen des Elements an, wie er im Ebenenbedienfeld angezeigt wird.
+Liest oder setzt den Ebenennamen. Gibt den Namen des Elements an, wie er im Ebenen‑Panel erscheint.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Ebenenname.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

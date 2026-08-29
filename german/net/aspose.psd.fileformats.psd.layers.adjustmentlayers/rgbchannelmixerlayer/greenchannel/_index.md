@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.GreenChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RgbChannelMixerLayer eigendom. Ruft den grünen Kanal ab.
+title: "RgbChannelMixerLayer.GreenChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RgbChannelMixerLayer-Eigenschaft. Gibt den Grünkanal zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/greenchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GreenChannel property
 
-Ruft den grünen Kanal ab.
+Liest den grünen Kanal.
 
 ```csharp
 public RgbMixerChannel GreenChannel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der grüne Kanal.
+Der Grünkanal.
 
 ### Siehe auch
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiRasterImageSection eigendom. Ruft die Breite ab.
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiRasterImageSection-Eigenschaft. Gibt die Breite zurück"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
-Ruft die Breite ab.
+Gibt die Breite zurück.
 
 ```csharp
 public double Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Breite.
 
 ### Siehe auch
 
 * class [AiRasterImageSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

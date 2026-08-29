@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft die Breite des Rechtecks ab.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape-Eigenschaft. Gibt die Breite des Rechtecks zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
-Ruft die Breite des Rechtecks ab.
+Liest die Rechteckbreite.
 
 ```csharp
 public double RectangleWidth { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Rechteckbreite.
+Die Breite des Rechtecks.
 
 ### Siehe auch
 
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

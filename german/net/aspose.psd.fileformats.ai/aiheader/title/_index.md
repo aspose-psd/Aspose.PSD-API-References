@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Title
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft den Titel ab oder legt ihn fest.
+title: "AiHeader.Title"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt den Titel zurück oder legt ihn fest"
 type: docs
 weight: 120
 url: /de/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
-Ruft den Titel ab oder legt ihn fest.
+Liest oder setzt den Titel.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Titel.
 
 ### Siehe auch
 
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

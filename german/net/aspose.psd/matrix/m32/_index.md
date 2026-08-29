@@ -1,14 +1,15 @@
 ---
-title: Matrix.M32
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix eigendom. Ruft das Matrixelement in der ersten Spalte der dritten Zeile ab. Stellt die Verschiebung entlang der YAchse dar.
+title: "Matrix.M32"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix‑Eigenschaft. Gibt das Matrixelement in der dritten Zeile, ersten Spalte zurück. Stellt die Verschiebung entlang der Y‑Achse dar."
 type: docs
 weight: 80
 url: /de/net/aspose.psd/matrix/m32/
 ---
+{{< psd/tize >}}
 ## Matrix.M32 property
 
-Ruft das Matrixelement in der ersten Spalte der dritten Zeile ab. Stellt die Verschiebung entlang der Y-Achse dar.
+Liefert das Matrix-Element in der dritten Zeile, ersten Spalte. Stellt die Translation entlang der Y-Achse dar.
 
 ```csharp
 public float M32 { get; }
@@ -17,7 +18,7 @@ public float M32 { get; }
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

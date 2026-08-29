@@ -1,56 +1,57 @@
 ---
-title: Class VsmsResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource klas. Klasse VsmsResource. Diese Ressource enthält Informationen über die Vektorebenenmaske
+title: "Klasse VsmsResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.VsmsResource Klasse. Klasse VsmsResource. Diese Ressource enthält Informationen über die Vektor-Ebenenmaske"
 type: docs
-weight: 3380
+weight: 3780
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/
 ---
+{{< psd/tize >}}
 ## VsmsResource class
 
-Klasse VsmsResource. Diese Ressource enthält Informationen über die Vektorebenenmaske
+Klasse **VsmsResource**. Diese Ressource enthält Informationen über die Vektor‑Ebenenmaske.
 
 ```csharp
 public class VsmsResource : VectorPathDataResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [VsmsResource](vsmsresource/#constructor)() | Initialisiert eine neue Instanz von`VsmsResource` Klasse. |
-| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz von`VsmsResource` Klasse. |
+| [VsmsResource](vsmsresource/#constructor)() | Initialisiert eine neue Instanz der `VsmsResource` Klasse. |
+| [VsmsResource](vsmsresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz der `VsmsResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz deaktiviert ist. |
-| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist. |
-| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz nicht verknüpft ist. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Ruft die Pfaddatensätze ab oder legt sie fest. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/signature/) { get; } | Ruft die Signatur ab. |
+| [IsDisabled](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/) { get; set; } | Liest oder legt einen Wert fest, der angibt, ob diese Instanz deaktiviert ist. |
+| [IsInverted](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/) { get; set; } | Liest oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist. |
+| [IsNotLinked](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isnotlinked/) { get; set; } | Liest oder legt einen Wert fest, der angibt, ob diese Instanz nicht verknüpft ist. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| [Paths](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/) { get; set; } | Liest oder legt die Pfad-Datensätze fest. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/version/) { get; set; } | Ruft die Version ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung des Ladens von VsmsResource-Ressourcen. Wie funktioniert die Bearbeitung von Pfaden.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens der VsmsResource-Ressource. Wie die Bearbeitung von Pfaden funktioniert.
 
 ```csharp
 [C#]
@@ -58,14 +59,14 @@ Das folgende Beispiel veranschaulicht die Unterstützung des Ladens von VsmsReso
 [Test]
 public void TestPsdNet140()
 {
-    // VsmsResource-Unterstützung
+    // VsmsResource Unterstützung
     string sourceFileName = "EmptyRectangle.psd";
     string exportPath = "EmptyRectangle_changed.psd";
     var im = (PsdImage)Image.Load(sourceFileName);
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // Lektüre
+        // Lesen
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -85,7 +86,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // Pfadfüllregel enthält keine zusätzlichen Informationen
+        // Die Pfadfüllregel enthält keine zusätzlichen Informationen.
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -135,7 +136,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 
 * class [VectorPathDataResource](../vectorpathdataresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

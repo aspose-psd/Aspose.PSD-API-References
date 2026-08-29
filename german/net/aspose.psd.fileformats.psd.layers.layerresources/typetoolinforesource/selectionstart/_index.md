@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft den Auswahlstart ab oder legt ihn fest.
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Ruft den Auswahlstart ab oder legt ihn fest"
 type: docs
-weight: 190
+weight: 170
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
-Ruft den Auswahlstart ab oder legt ihn fest.
+Liest oder setzt den Auswahlbeginn.
 
 ```csharp
 public int SelectionStart { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Auswahl beginnt.
+Der Auswahlstart.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InterruptMonitor eigendom. Ruft die InterruptMonitorInstanz ab oder legt sie fest die für jeden Thread eindeutig ist.
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InterruptMonitor-Eigenschaft. Gibt die InterruptMonitor-Instanz zurück oder legt sie fest, die für jeden Thread eindeutig ist."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.ThreadLocalInstance property
 
-Ruft die InterruptMonitor-Instanz ab oder legt sie fest, die für jeden Thread eindeutig ist.
+Liest oder setzt die InterruptMonitor-Instanz, die für jeden Thread eindeutig ist.
 
 ```csharp
 public static InterruptMonitor ThreadLocalInstance { get; set; }
@@ -17,7 +18,7 @@ public static InterruptMonitor ThreadLocalInstance { get; set; }
 ### Siehe auch
 
 * class [InterruptMonitor](../)
-* namensraum [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

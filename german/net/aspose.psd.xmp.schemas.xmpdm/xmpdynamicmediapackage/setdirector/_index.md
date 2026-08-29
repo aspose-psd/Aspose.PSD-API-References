@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt den Regisseur fest.
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Regisseur"
 type: docs
 weight: 170
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
 Legt den Regisseur fest.
@@ -16,12 +17,12 @@ public void SetDirector(string director)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| director | String | Der Direktor. |
+| Regisseur | String | Der Regisseur. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

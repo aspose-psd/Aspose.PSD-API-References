@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die untere Position der platzierten Ebene im PSDBild ab oder legt sie fest.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt den unteren Standort der platzierten Ebene im PSD-Bild zurück oder setzt ihn."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest.
+Liest oder setzt die untere Position der platzierten Ebene im PSD‑Bild.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die untere Position der platzierten Ebene.
+Der untere Standort der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

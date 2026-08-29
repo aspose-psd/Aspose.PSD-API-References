@@ -1,11 +1,12 @@
 ---
-title: ExifData.FocalLength
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Liest oder setzt die Brennweite.
+title: "ExifData.FocalLength"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die Brennweite"
 type: docs
 weight: 290
 url: /de/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
 Liest oder setzt die Brennweite.
@@ -14,7 +15,7 @@ Liest oder setzt die Brennweite.
 public TiffRational FocalLength { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Länge der Brennweite.
 
@@ -22,7 +23,7 @@ Die Länge der Brennweite.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

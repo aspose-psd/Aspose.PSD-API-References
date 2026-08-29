@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.FocusScales
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrushBase eigendom. Ruft den Fokuspunkt für den Verlaufsabfall ab oder legt ihn fest.
+title: "PathGradientBrushBase.FocusScales"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrushBase-Eigenschaft. Ruft den Fokuspunkt für den Verlaufabfall ab oder legt ihn fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.brushes/pathgradientbrushbase/focusscales/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.FocusScales property
 
-Ruft den Fokuspunkt für den Verlaufsabfall ab oder legt ihn fest.
+Liest oder setzt den Fokuspunkt für den Verlaufabfall.
 
 ```csharp
 public PointF FocusScales { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`PointF`](../../../aspose.psd/pointf/) das den Fokuspunkt für den Gradientenabfall darstellt.
+Ein [`PointF`](../../../aspose.psd/pointf/) der den Fokuspunkt für den Verlaufabfall darstellt.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

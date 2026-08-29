@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FixedPointDecimal eigendom. Ruft die Ganzzahl ab oder legt sie fest.
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FixedPointDecimal-Eigenschaft. Gibt die Ganzzahl zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-Ruft die Ganzzahl ab oder legt sie fest.
+Liest oder setzt die Ganzzahl.
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Ganzzahl.
 
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

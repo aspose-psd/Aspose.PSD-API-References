@@ -1,14 +1,15 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft einen Wert von Dateiformat ab
+title: "Image.FileFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt einen Wert des Dateiformats zurück"
 type: docs
 weight: 90
 url: /de/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-Ruft einen Wert von Dateiformat ab
+Liefert einen Wert des Dateiformats
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
@@ -18,7 +19,7 @@ public virtual FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

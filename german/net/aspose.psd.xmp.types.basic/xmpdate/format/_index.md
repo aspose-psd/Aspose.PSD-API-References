@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDate eigendom. Ruft die Formatzeichenfolge für den aktuellen Wert ab.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDate‑Eigenschaft. Gibt die Formatzeichenkette für den aktuellen Wert zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
-Ruft die Formatzeichenfolge für den aktuellen Wert ab.
+Liest die Formatzeichenfolge für den aktuellen Wert.
 
 ```csharp
 public string Format { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Formatzeichenfolge für den aktuellen Wert.
+Die Formatzeichenkette für den aktuellen Wert.
 
 ### Siehe auch
 
 * class [XmpDate](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

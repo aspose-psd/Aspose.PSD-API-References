@@ -1,20 +1,21 @@
 ---
-title: ListStructure.Types
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ListStructure eigendom. Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+title: "ListStructure.Types"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ListStructure-Eigenschaft. Gibt eine Kopie eines Arrays von Strukturen zurück oder setzt sie."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/
 ---
+{{< psd/tize >}}
 ## ListStructure.Types property
 
-Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+Liest oder setzt eine Kopie eines Arrays von Strukturen.
 
 ```csharp
 public OSTypeStructure[] Types { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Typen.
 
@@ -22,7 +23,7 @@ Die Typen.
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ListStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

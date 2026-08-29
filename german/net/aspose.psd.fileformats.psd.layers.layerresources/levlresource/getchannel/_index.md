@@ -1,14 +1,15 @@
 ---
-title: LevlResource.GetChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LevlResource methode. Ruft den Kanal ab.
+title: "LevlResource.GetChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LevlResource-Methode. Gibt den Kanal zurück"
 type: docs
-weight: 60
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/
 ---
+{{< psd/tize >}}
 ## LevlResource.GetChannel method
 
-Ruft den Kanal ab.
+Liest den Kanal.
 
 ```csharp
 public LevelChannel GetChannel(int channelIndex)
@@ -20,13 +21,13 @@ public LevelChannel GetChannel(int channelIndex)
 
 ### Rückgabewert
 
-Pegeldaten des Kanals
+Level-Daten des Kanals
 
 ### Siehe auch
 
 * class [LevelChannel](../../levelchannel/)
 * class [LevlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

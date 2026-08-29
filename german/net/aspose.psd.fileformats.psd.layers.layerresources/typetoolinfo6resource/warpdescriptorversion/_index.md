@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpDescriptorVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfo6Resource eigendom. Ruft die Version des WarpDeskriptors ab oder legt sie fest.
+title: "TypeToolInfo6Resource.WarpDescriptorVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfo6Resource property. Ruft die Warp-Deskriptors-Version ab oder legt sie fest"
 type: docs
-weight: 190
+weight: 160
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpDescriptorVersion property
 
-Ruft die Version des Warp-Deskriptors ab oder legt sie fest.
+Liest oder legt die Version des Warp-Deskriptors fest.
 
 ```csharp
 public int WarpDescriptorVersion { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Version des Warp-Deskriptors.
+Die Warp-Deskriptors-Version.
 
 ### Siehe auch
 
 * class [TypeToolInfo6Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

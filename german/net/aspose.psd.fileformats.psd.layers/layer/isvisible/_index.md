@@ -1,26 +1,27 @@
 ---
-title: Layer.IsVisible
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob die Ebene sichtbar ist
+title: "Layer.IsVisible"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob die Ebene sichtbar ist"
 type: docs
-weight: 170
+weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/isvisible/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisible property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die Ebene sichtbar ist
+Liefert oder setzt einen Wert, der angibt, ob die Ebene sichtbar ist
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz sichtbar ist; ansonsten,`FALSCH` .
+`true` wenn diese Instanz sichtbar ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie die LayerGroup-Sichtbarkeit in Aspose.PSD ändern können
+Das folgende Beispiel zeigt, wie Sie die Sichtbarkeit von LayerGroup in Aspose.PSD ändern können
 
 ```csharp
 [C#]
@@ -28,14 +29,14 @@ Das folgende Beispiel zeigt, wie Sie die LayerGroup-Sichtbarkeit in Aspose.PSD �
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// Änderungen an den Ebenennamen vornehmen und speichern
+// Nehmen Sie Änderungen an Ebenennamen vor und speichern Sie sie
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // Alles innerhalb einer Gruppe ausschalten
+        // Schalten Sie alles innerhalb einer Gruppe aus
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -49,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

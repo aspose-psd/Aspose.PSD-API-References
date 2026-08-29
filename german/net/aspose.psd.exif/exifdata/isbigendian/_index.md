@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob die EXIFDaten des Streams aus denen erstellt wird Big Endian sind.
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData Eigenschaft. Liest oder setzt einen Wert, der angibt, ob die aus dem Stream erstellten EXIF-Daten big endian sind."
 type: docs
 weight: 690
 url: /de/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die EXIF-Daten des Streams, aus denen erstellt wird, Big Endian sind.
+Liest oder setzt einen Wert, der angibt, ob die aus dem Stream erzeugten EXIF-Daten big endian sind.
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn die EXIF-Daten des Streams, aus denen erstellt wurde, Big Endian sind; ansonsten,`FALSCH` .
+`true` wenn die aus dem Stream erstellten EXIF-Daten big endian sind; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

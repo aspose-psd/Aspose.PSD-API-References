@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPatternFillSettings eigendom. Ruft den vertikalen Offset ab oder legt ihn fest.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPatternFillSettings-Eigenschaft. Gibt den vertikalen Versatz zurück oder legt ihn fest"
 type: docs
-weight: 100
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
-Ruft den vertikalen Offset ab oder legt ihn fest.
+Liest oder setzt den vertikalen Versatz.
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der vertikale Versatz.
 
 ### Siehe auch
 
 * interface [IPatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

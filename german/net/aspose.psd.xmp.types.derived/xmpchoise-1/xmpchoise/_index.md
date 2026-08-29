@@ -1,14 +1,15 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpChoise constructeur. Default_Constructor
+title: "XmpChoise1.XmpChoise"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpChoise-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public XmpChoise()
@@ -17,7 +18,7 @@ public XmpChoise()
 ### Siehe auch
 
 * class [XmpChoise&lt;T&gt;](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

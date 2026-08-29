@@ -1,14 +1,15 @@
 ---
-title: RasterImage.BinarizeBradley
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Binarisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung des integralen Bildschwellenwerts
+title: "RasterImage.BinarizeBradley"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage Methode. Binärisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung der Integralbild‑Schwellenwertbestimmung"
 type: docs
 weight: 210
 url: /de/net/aspose.psd/rasterimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-Binarisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung des integralen Bildschwellenwerts
+Binarisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung der Integralbild‑Schwellenwertbestimmung
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
@@ -16,20 +17,20 @@ public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brightnessDifference | Double | Der Helligkeitsunterschied zwischen Pixel und dem Durchschnitt eines sxs-Fensters von Pixeln, die um dieses Pixel herum zentriert sind. |
-| windowSize | Int32 | Die Größe des sxs-Fensters von Pixeln, die um dieses Pixel zentriert sind |
+| brightnessDifference | Doppelt | Der Helligkeitsunterschied zwischen dem Pixel und dem Durchschnitt eines s × s‑Fensters von Pixeln, das um diesen Pixel zentriert ist. |
+| windowSize | Int32 | Die Größe des s × s‑Fensters von Pixeln, das um diesen Pixel zentriert ist. |
 
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-Binarisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung des integralen Bildschwellenwerts
+Binarisierung eines Bildes mit Bradleys adaptivem Schwellenwertalgorithmus unter Verwendung der Integralbild‑Schwellenwertbestimmung
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference)
@@ -37,12 +38,12 @@ public virtual void BinarizeBradley(double brightnessDifference)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brightnessDifference | Double | Der Helligkeitsunterschied zwischen Pixel und dem Durchschnitt eines sxs-Fensters von Pixeln, die um dieses Pixel herum zentriert sind. |
+| brightnessDifference | Doppelt | Der Helligkeitsunterschied zwischen dem Pixel und dem Durchschnitt eines s × s‑Fensters von Pixeln, das um diesen Pixel zentriert ist. |
 
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

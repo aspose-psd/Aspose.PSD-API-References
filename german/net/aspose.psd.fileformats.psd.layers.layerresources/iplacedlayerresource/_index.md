@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource koppel. Definiert die IPlacedLayerResourceSchnittstelle die Informationen über eine platzierte Ebene in der PSDDatei enthält. Ist eine MarkupSchnittstelle die verwendet wird um PlLd Verkauft und SoleRessourcen in den Adobe PhotoshopBildern zu kennzeichnen. Wird verwendet um intelligente Objektebenen zu unterstützen die Adobe PhotoshopBilder.
+title: "Schnittstelle IPlacedLayerResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource Schnittstelle. Definiert die IPlacedLayerResource Schnittstelle, die Informationen über eine platzierte Ebene in der PSD-Datei enthält. Es ist eine Markup‑Schnittstelle, die verwendet wird, um PlLd Sold und Sole Ressourcen in den Adobe Photoshop‑Bildern zu kennzeichnen. Sie wird verwendet, um Smart‑Object‑Ebenen in den Adobe Photoshop‑Bildern zu unterstützen."
 type: docs
-weight: 2530
+weight: 2820
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Definiert die IPlacedLayerResource-Schnittstelle, die Informationen über eine platzierte Ebene in der PSD-Datei enthält. Ist eine Markup-Schnittstelle, die verwendet wird, um PlLd-, Verkauft- und Sole-Ressourcen in den Adobe® Photoshop®-Bildern zu kennzeichnen. Wird verwendet, um intelligente Objektebenen zu unterstützen die Adobe® Photoshop®-Bilder.
+Definiert die Schnittstelle **IPlacedLayerResource**, die Informationen über eine platzierte Ebene in der PSD‑Datei enthält. Es ist eine Markup‑Schnittstelle, die verwendet wird, um PlLd-, Sold‑ und Sole‑Ressourcen in den Adobe® Photoshop®‑Bildern zu kennzeichnen. Sie wird verwendet, um Smart‑Object‑Ebenen in den Adobe® Photoshop®‑Bildern zu unterstützen.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -18,38 +19,38 @@ public interface IPlacedLayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Ruft die Anti-Alias-Richtlinie der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Ruft die Warp-Elemente ab oder legt sie fest. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Ruft die Seitenzahl der platzierten Ebene in der PSD-Datei ab oder setzt sie. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Ruft die globale eindeutige Kennung der oder der platzierten Smart-Objekt-Ebene im PSD-Bild ab oder legt sie fest. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Liest oder setzt die Antialias‑Richtlinie der platzierten Ebene im PSD‑Bild. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Liest oder setzt die untere Position der platzierten Ebene im PSD‑Bild. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Liest oder setzt die Begrenzungen der platzierten Ebene in der PSD‑Datei. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Liest oder legt die Maßeinheit der horizontalen Maschenpunkte fest. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Liest oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn true, enthält er Maschenpunkte. Wenn auf false gesetzt, löscht er Maschenpunkte. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Liest oder legt die Warp-Elemente fest. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Liest oder legt die linke Position der platzierten Ebene in der PSD-Datei fest. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Liest oder legt die Seitenzahl der platzierten Ebene in der PSD-Datei fest. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Liest oder legt den Perspektivwert der platzierten Ebene in der PSD-Datei fest. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Liest oder legt den anderen Perspektivwert der platzierten Ebene in der PSD-Datei fest. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Liest oder legt den Typ der platzierten Ebene in der PSD-Datei fest. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Liest oder legt die rechte Position der platzierten Ebene in der PSD-Datei fest. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Liest oder legt die obere Position der platzierten Ebene im PSD-Bild fest. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Liest oder legt die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei fest. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Liest oder legt die Transformationsmatrix der platzierten Ebene in der PSD-Datei fest. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Liest oder setzt den globalen eindeutigen Bezeichner der platzierten Smart‑Object‑Ebene im PSD‑Bild. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Liest oder legt den U-Ordnungswert der platzierten Ebene in der PSD-Datei fest. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Liest oder legt den Warp-Wert der platzierten Ebene im PSD-Bild fest. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Liest die Version der platzierten Ebene in der PSD‑Datei, normalerweise 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Liest oder legt die Maßeinheit der vertikalen Maschenpunkte fest. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Liest oder legt den V-Ordnungswert der platzierten Ebene in der PSD-Datei fest. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der SoLdResource-Ressource.
+Der folgende Code demonstriert die Unterstützung der SoLdResource‑Ressource.
 
 ```csharp
 [C#]
 
-// Dieses Beispiel zeigt, wie die Dateneigenschaften der Smart-Objektebene der PSD-Datei abgerufen oder festgelegt werden.
+// Dieses Beispiel zeigt, wie man die Eigenschaften der Smart‑Object‑Ebenen‑Daten der PSD‑Datei liest oder setzt.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden
-                // und einige von ihnen müssen mit dem unterstreichenden Smart-Objekt in der LinkDataSource übereinstimmen
+                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden.
+                // und einige davon müssen mit dem zugrunde liegenden Smart‑Object in der LinkDataSource übereinstimmen.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,18 +330,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Diese eindeutige ID sollte gegebenenfalls in Referenzen geändert werden
+                // Diese eindeutige Id sollte in Verweisen, falls vorhanden, geändert werden.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -355,7 +357,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

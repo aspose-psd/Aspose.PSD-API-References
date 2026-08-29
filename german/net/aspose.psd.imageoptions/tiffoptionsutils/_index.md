@@ -1,34 +1,35 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils klas. Die Dienstprogrammklasse TIFFDateiformatoptionen.
+title: "Klasse TiffOptionsUtils"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils Klasse. Die Dienstprogramklasse für TIFF-Dateiformatoptionen"
 type: docs
-weight: 4960
+weight: 5450
 url: /de/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-Die Dienstprogrammklasse TIFF-Dateiformatoptionen.
+Die TIFF-Datei-Formatoptionen-Hilfsklasse.
 
 ```csharp
 public class TiffOptionsUtils
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Default_Constructor |
+| [TiffOptionsUtils](tiffoptionsutils/)() | Der Standardkonstruktor. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Ruft die Anzahl gültiger Tags ab. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Ermittelt die gültige Anzahl von Tags. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

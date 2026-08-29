@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlendRange eigendom. Ruft den ZielMischbereich ab oder legt ihn fest.
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlendRange-Eigenschaft. Gibt den Ziel‑Blend‑Bereich zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-Ruft den Ziel-Mischbereich ab oder legt ihn fest.
+Ermittelt oder setzt den Ziel-Blendbereich.
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Ziel-Mischbereich.
+Der Ziel‑Blend‑Bereich.
 
 ### Siehe auch
 
 * class [BlendRange](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

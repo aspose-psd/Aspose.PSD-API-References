@@ -1,20 +1,21 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorOverlayEffect eigendom. Ruft die Farbe ab oder legt sie fest.
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorOverlayEffect property. Ruft die Farbe ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
-Ruft die Farbe ab oder legt sie fest.
+Liest oder setzt die Farbe.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbe.
 
@@ -22,7 +23,7 @@ Die Farbe.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

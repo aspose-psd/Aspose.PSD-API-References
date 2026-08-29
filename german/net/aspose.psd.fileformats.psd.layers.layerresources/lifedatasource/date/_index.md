@@ -1,32 +1,33 @@
 ---
-title: LiFeDataSource.Date
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LiFeDataSource eigendom. Ruft Datum und Uhrzeit des letzten Schreibens der externen Datei in der LiFEDatenquelle der PSDLnkERessource ab oder legt sie fest.
+title: "LiFeDataSource.Date"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LiFeDataSource Eigenschaft. Gibt das Datum und die Uhrzeit des letzten Schreibvorgangs der externen Datei in der LiFE-Datenquelle der PSD LnkE-Ressource zurück oder legt sie fest."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.Date property
 
-Ruft Datum und Uhrzeit des letzten Schreibens der externen Datei in der LiFE-Datenquelle der PSD-LnkE-Ressource ab oder legt sie fest.
+Liest oder setzt das Datum und die Uhrzeit der letzten Schreiboperation der externen Datei in der LiFE‑Datenquelle der PSD‑LnkE‑Ressource.
 
 ```csharp
 public DateTime Date { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Datum und Uhrzeit des letzten Schreibvorgangs der externen Datei.
+Das Datum und die Uhrzeit des letzten Schreibvorgangs der externen Datei.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sie können nicht auf die Date-Eigenschaft zugreifen, sie ist nur für die LIFE-Datenquelle mit Version 3 oder höher verfügbar |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sie können nicht auf die Date-Eigenschaft zugreifen, sie ist nur für LiFE-Datenquellen mit Version 3 oder höher verfügbar. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkE-Ressource abgerufen und festgelegt werden.
+Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkE Resource abgerufen und gesetzt werden.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkE-Ressource abgerufen und festgelegt werden, die Informationen zu einer extern verknüpften Datei enthält.
+// Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkE Resource, die Informationen über eine extern verknüpfte Datei enthält, abgerufen und gesetzt werden.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkeResource abgerufen und festgelegt werden, die Informationen über extern verknüpfte JPEG-Dateien enthält.
+// Dieses Beispiel zeigt, wie Eigenschaften der Psd LnkeResource, die Informationen über eine extern verknüpfte JPEG-Datei enthält, abgerufen und gesetzt werden.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Dieses Beispiel zeigt, wie Eigenschaften der PSD LnkeResource abgerufen und festgelegt werden, die Informationen zu einer extern verknüpften PNG-Datei enthält.
+// Dieses Beispiel zeigt, wie Eigenschaften der PSD LnkeResource, die Informationen über eine extern verknüpfte PNG-Datei enthält, abgerufen und gesetzt werden.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Dieses Beispiel zeigt, wie Eigenschaften der PSD LnkeResource abgerufen und festgelegt werden, die Informationen zu zwei extern verknüpften PNG- und PSD-Dateien enthält.
+// Dieses Beispiel zeigt, wie Eigenschaften der PSD LnkeResource, die Informationen über zwei extern verknüpfte PNG- und PSD-Dateien enthält, abgerufen und gesetzt werden.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Dieses Beispiel zeigt, wie Eigenschaften der Photoshop Psd LnkeResource abgerufen und festgelegt werden, die Informationen zu einem extern verknüpften CC Libraries-Asset enthält.
+// Dieses Beispiel zeigt, wie Eigenschaften der Photoshop Psd LnkeResource, die Informationen über ein extern verknüpftes CC Libraries‑Asset enthält, abgerufen und gesetzt werden.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -197,7 +198,7 @@ ExampleOfLnkEResourceSupport(
 ### Siehe auch
 
 * class [LiFeDataSource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

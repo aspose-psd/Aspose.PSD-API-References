@@ -1,14 +1,15 @@
 ---
-title: FXidResource.FEidTypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FXidResource veld. Der Typ Werkzeuginfoschlüssel FEid.
+title: "FXidResource.FEidTypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FXidResource-Feld. Der Typwerkzeug-Info-Schlüssel FEid"
 type: docs
-weight: 90
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FEidTypeToolKey field
 
-Der Typ Werkzeuginfoschlüssel FEid.
+Der Typwerkzeug-Info-Schlüssel FEid.
 
 ```csharp
 public const int FEidTypeToolKey;
@@ -17,7 +18,7 @@ public const int FEidTypeToolKey;
 ### Siehe auch
 
 * class [FXidResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

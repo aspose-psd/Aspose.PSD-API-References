@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Left
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle eigendom. Holt oder setzt die xKoordinate der linken Kante davonRectangleStruktur.
+title: "Rectangle.Left"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Eigenschaft. Gibt die x‑Koordinate der linken Kante dieser Rectangle-Struktur zurück oder setzt sie."
 type: docs
 weight: 140
 url: /de/net/aspose.psd/rectangle/left/
 ---
+{{< psd/tize >}}
 ## Rectangle.Left property
 
-Holt oder setzt die x-Koordinate der linken Kante davon[`Rectangle`](../)Struktur.
+Gibt die x‑Koordinate der linken Kante dieser [`Rectangle`](../)-Struktur zurück oder setzt sie.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die x-Koordinate des linken Randes davon[`Rectangle`](../) Struktur.
+Die x‑Koordinate der linken Kante dieser [`Rectangle`](../)-Struktur.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

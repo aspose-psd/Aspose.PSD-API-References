@@ -1,14 +1,15 @@
 ---
-title: Thumbnail.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Thumbnail methode. Ruft den in der Zeichenfolge enthaltenen Wert im XMPFormat ab.
+title: "Thumbnail.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Thumbnail Methode. Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Thumbnail.GetXmpRepresentation method
 
-Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab.
+Liest den enthaltenen Zeichenfolgenwert im XMP-Format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [Thumbnail](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

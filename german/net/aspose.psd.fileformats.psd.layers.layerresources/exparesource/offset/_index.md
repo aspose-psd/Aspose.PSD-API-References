@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Offset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExpaResource eigendom. Ruft den Offset ab oder legt ihn fest.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExpaResource-Eigenschaft. Liest oder schreibt den Offset"
 type: docs
-weight: 60
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
-Ruft den Offset ab oder legt ihn fest.
+Liest oder setzt den Versatz.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Versatz.
 
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

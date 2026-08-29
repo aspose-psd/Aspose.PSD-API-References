@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.WidthDisplayUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResolutionInfoResource eigendom. Ruft die Anzeigeeinheit für die Breite ab oder legt sie fest.
+title: "ResolutionInfoResource.WidthDisplayUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResolutionInfoResource property. Gibt die Anzeigeeinheit der Breite zurück oder legt sie fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/widthdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.WidthDisplayUnit property
 
-Ruft die Anzeigeeinheit für die Breite ab oder legt sie fest.
+Liest oder setzt die Anzeigeeinheit für die Breite.
 
 ```csharp
 public PhysicalUnit WidthDisplayUnit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzeigeeinheit für die Breite.
+Die Anzeigeeinheit der Breite.
 
 ### Siehe auch
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [ResolutionInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

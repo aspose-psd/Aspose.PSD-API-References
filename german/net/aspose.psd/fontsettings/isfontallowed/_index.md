@@ -1,14 +1,15 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Bestimmt ob die Schriftart zulässig ist der angegebene Schriftartname.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Bestimmt, ob die angegebene Schriftart zulässig ist."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Bestimmt, ob [die Schriftart zulässig ist] [der angegebene Schriftartname].
+Bestimmt, ob [die Schriftart erlaubt] [der angegebene Schriftartname] ist.
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
@@ -20,11 +21,11 @@ public static bool IsFontAllowed(string fontName)
 
 ### Rückgabewert
 
-`WAHR` if [ist Schriftart erlaubt] [der angegebene Schriftartname]; ansonsten,`FALSCH` .
+`true` wenn [is font allowed] [the specified font name]; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die Verwendung von Schriftarten programmgesteuert einzuschränken.
+Der folgende Code demonstriert die Möglichkeit, Schriftarten programmgesteuert zu begrenzen.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

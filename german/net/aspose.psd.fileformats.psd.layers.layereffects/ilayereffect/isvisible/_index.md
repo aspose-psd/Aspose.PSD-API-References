@@ -1,27 +1,28 @@
 ---
-title: ILayerEffect.IsVisible
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ILayerEffect eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz sichtbar ist.
+title: "ILayerEffect.IsVisible"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ILayerEffect Eigenschaft. Ruft einen Wert ab oder legt ihn fest, der angibt, ob diese Instanz sichtbar ist"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.IsVisible property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz sichtbar ist; ansonsten,`FALSCH` .
+`true` wenn diese Instanz sichtbar ist; andernfalls `false`.
 
 ### Siehe auch
 
 * interface [ILayerEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

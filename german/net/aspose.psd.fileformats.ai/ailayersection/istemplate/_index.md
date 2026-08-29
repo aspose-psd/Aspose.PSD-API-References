@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Ebene eine Vorlagenebene ist.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Ebene eine Vorlagenebene ist"
 type: docs
-weight: 100
+weight: 120
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene eine Vorlagenebene ist.
+Liest oder setzt einen Wert, der angibt, ob diese Ebene eine Vorlagenebene ist.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Ebene eine Vorlage ist; ansonsten,`FALSCH` .
+`true`, wenn diese Ebene eine Vorlage ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IRasterImageRawDataLoader koppel. Der RasterbildRohdatenlader.
+title: "Schnittstelle IRasterImageRawDataLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IRasterImageRawDataLoader Schnittstelle. Der Rohdatenlader für Rasterbilder."
 type: docs
-weight: 4580
+weight: 5050
 url: /de/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
-Der Rasterbild-Rohdatenlader.
+Der Rasterbild-Rohdaten-Lader.
 
 ```csharp
 public interface IRasterImageRawDataLoader
@@ -18,8 +19,8 @@ public interface IRasterImageRawDataLoader
 
 | Name | Beschreibung |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Ruft einen Wert ab, der angibt, ob das Laden von Rohdaten unterstützt wird. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Ruft die aktuellen Rohdateneinstellungen ab. Beachten Sie, dass bei Verwendung dieser Einstellungen die Daten ohne Konvertierung geladen werden. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Gibt einen Wert zurück, der angibt, ob das Laden von Rohdaten unterstützt wird. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Liest die aktuellen Rohdaten-Einstellungen. Hinweis: Beim Verwenden dieser Einstellungen werden die Daten ohne Konvertierung geladen. |
 
 ## Methoden
 
@@ -29,7 +30,7 @@ public interface IRasterImageRawDataLoader
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

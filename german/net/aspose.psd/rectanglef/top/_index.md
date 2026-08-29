@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Top
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF eigendom. Holt oder setzt die yKoordinate der Oberkante davonRectangleFStruktur.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Eigenschaft. Gibt die y‑Koordinate der oberen Kante dieser RectangleF-Struktur zurück oder legt sie fest."
 type: docs
 weight: 150
 url: /de/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Holt oder setzt die y-Koordinate der Oberkante davon[`RectangleF`](../)Struktur.
+Gibt die y‑Koordinate der oberen Kante dieser [`RectangleF`](../)-Struktur zurück oder legt sie fest.
 
 ```csharp
 public float Top { get; set; }
@@ -16,12 +17,12 @@ public float Top { get; set; }
 
 ### Rückgabewert
 
-Die y-Koordinate der Oberkante davon[`RectangleF`](../) Struktur.
+Die y‑Koordinate der oberen Kante dieser [`RectangleF`](../)-Struktur.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.MinimalVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: WatermarkResource eigendom. Ruft die minimal erforderliche PSDVersion ab.
+title: "WatermarkResource.MinimalVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "WatermarkResource-Eigenschaft. Gibt die minimal erforderliche PSD-Version zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/watermarkresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.MinimalVersion property
 
 Ruft die minimal erforderliche PSD-Version ab.
@@ -14,14 +15,14 @@ Ruft die minimal erforderliche PSD-Version ab.
 public override int MinimalVersion { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die minimale PSD-Version.
 
 ### Siehe auch
 
 * class [WatermarkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

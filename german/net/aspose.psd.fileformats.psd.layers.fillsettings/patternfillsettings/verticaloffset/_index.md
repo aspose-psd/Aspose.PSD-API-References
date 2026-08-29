@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.VerticalOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternFillSettings eigendom. Ruft den vertikalen Offset ab oder legt ihn fest.
+title: "PatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternFillSettings-Eigenschaft. Gibt den vertikalen Versatz zurück oder legt ihn fest"
 type: docs
-weight: 130
+weight: 150
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.VerticalOffset property
 
-Ruft den vertikalen Offset ab oder legt ihn fest.
+Liest oder setzt den vertikalen Versatz.
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der vertikale Versatz.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Bearbeitung von Füllebenenmustern.
+Der folgende Code demonstriert die Unterstützung der Bearbeitung des Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Bearbeiten 
+            // Bearbeitung 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Siehe auch
 
 * class [PatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

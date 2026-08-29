@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält Hilfsklassen Konstanten und Methoden für Dublin CoreMetadaten.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält mit Dublin‑Core‑Metadaten verbundene Hilfsklassen, Konstanten und Methoden."
 type: docs
-weight: 530
+weight: 570
 url: /de/net/aspose.psd.xmp.schemas.dublincore/
 ---
-Der Namensraum enthält Hilfsklassen, Konstanten und Methoden für Dublin Core-Metadaten.
+{{< psd/tize >}}
+Der Namensraum enthält Dublin-Core-Metadaten-bezogene Hilfsklassen, Konstanten und Methoden.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [DublinCorePackage](./dublincorepackage/) | Repräsentiert Dublic-Core-Schema. |
+| [DublinCorePackage](./dublincorepackage/) | Stellt das Dublic‑Core‑Schema dar. |
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat eigendom. Ruft die abPixelDataFormat definiert für 32 Bit pro Pixel mit jeweils 8 Bit für Cyan Magenta Gelb und Schwarz.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Eigenschaft. Gibt das PixelDataFormat zurück, das für 32 Bit pro Pixel mit 8 Bit für jeweils Cyan, Magenta, Gelb und Schwarz definiert ist."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Ruft die ab[`PixelDataFormat`](../) definiert für 32 Bit pro Pixel mit jeweils 8 Bit für Cyan, Magenta, Gelb und Schwarz.
+Gibt das [`PixelDataFormat`](../) zurück, das für 32 Bit pro Pixel mit 8 Bit für jeweils Cyan, Magenta, Gelb und Schwarz definiert ist.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`PixelDataFormat`](../) definiert für 32 Bit pro Pixel mit jeweils 8 Bit für Cyan, Magenta, Gelb und Schwarz.
+Der [`PixelDataFormat`](../) definiert für 32 Bit pro Pixel mit 8 Bit für jeweils Cyan, Magenta, Gelb und Schwarz.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

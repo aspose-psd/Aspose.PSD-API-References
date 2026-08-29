@@ -1,14 +1,15 @@
 ---
-title: Blend.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Blend methode. Testet ob das angegebene Objekt a istBlend Klasse und entspricht dieserBlend Klasse.
+title: "Blend.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Blend-Methode. Prüft, ob das angegebene Objekt eine Blend‑Klasse ist und dieser Blend‑Klasse entspricht."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-Testet, ob das angegebene Objekt a ist[`Blend`](../) Klasse und entspricht dieser[`Blend`](../) Klasse.
+Prüft, ob das angegebene Objekt eine [`Blend`](../)-Klasse ist und dieser [`Blend`](../)-Klasse entspricht.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,12 +21,12 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-Wahr, wenn*obj* ist ein[`Blend`](../) Klasse dazu gleichwertig[`Blend`](../) Klasse; andernfalls falsch.
+Wahr, wenn *obj* eine [`Blend`](../)-Klasse ist, die dieser [`Blend`](../)-Klasse entspricht; andernfalls falsch.
 
 ### Siehe auch
 
 * class [Blend](../)
-* namensraum [Aspose.PSD](../../blend/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

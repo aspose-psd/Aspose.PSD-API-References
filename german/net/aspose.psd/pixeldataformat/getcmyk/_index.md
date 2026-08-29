@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetCmyk
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft CMYKFarbe mit einer angegebenen Anzahl von Bits pro Muster ab.
+title: "PixelDataFormat.GetCmyk"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt eine CMYK-Farbe mit einer angegebenen Bitanzahl pro Sample zurück."
 type: docs
 weight: 210
 url: /de/net/aspose.psd/pixeldataformat/getcmyk/
 ---
+{{< psd/tize >}}
 ## GetCmyk(int) {#getcmyk}
 
-Ruft CMYK-Farbe mit einer angegebenen Anzahl von Bits pro Muster ab.
+Ermittelt CMYK-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerSample)
@@ -25,14 +26,14 @@ Die CMYK-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCmyk(int, int, int, int) {#getcmyk_1}
 
-Ruft CMYK-Farbe mit einer angegebenen Anzahl von Bits pro Muster ab.
+Ermittelt CMYK-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
@@ -43,8 +44,8 @@ public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagenta
 | --- | --- | --- |
 | bitsPerCyanChannel | Int32 | Die Anzahl der Bits pro Cyan-Kanal. |
 | bitsPerMagentaChannel | Int32 | Die Anzahl der Bits pro Magenta-Kanal. |
-| bitsPerYellowChannel | Int32 | Die Anzahl der Bits pro Yellow-Kanal. |
-| bitsPerKeyChannel | Int32 | Die Anzahl der Bits pro Schlüsselkanal. |
+| bitsPerYellowChannel | Int32 | Die Anzahl der Bits pro Gelb-Kanal. |
+| bitsPerKeyChannel | Int32 | Die Anzahl der Bits pro Key-Kanal. |
 
 ### Rückgabewert
 
@@ -53,7 +54,7 @@ Die CMYK-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

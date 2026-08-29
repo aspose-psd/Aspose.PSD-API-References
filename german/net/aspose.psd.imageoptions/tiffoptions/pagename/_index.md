@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den Seitennamen ab oder legt ihn fest.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt den Seitennamen zurück oder legt ihn fest."
 type: docs
-weight: 290
+weight: 300
 url: /de/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
-Ruft den Seitennamen ab oder legt ihn fest.
+Liest oder setzt den Seitennamen.
 
 ```csharp
 public string PageName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Seitenname.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

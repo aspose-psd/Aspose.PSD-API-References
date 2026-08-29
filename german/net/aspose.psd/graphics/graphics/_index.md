@@ -1,14 +1,15 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics constructeur. Initialisiert eine neue Instanz vonGraphics Klasse.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Konstruktor. Initialisiert eine neue Instanz der Graphics-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-Initialisiert eine neue Instanz von[`Graphics`](../) Klasse.
+Initialisiert eine neue Instanz der [`Graphics`](../)-Klasse.
 
 ```csharp
 public Graphics(Image sourceImage)
@@ -22,7 +23,7 @@ public Graphics(Image sourceImage)
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

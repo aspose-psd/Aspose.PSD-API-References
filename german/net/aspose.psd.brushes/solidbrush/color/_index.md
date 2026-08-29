@@ -1,28 +1,29 @@
 ---
-title: SolidBrush.Color
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SolidBrush eigendom. Ruft die Pinselfarbe ab oder legt sie fest.
+title: "SolidBrush.Color"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SolidBrush-Eigenschaft. Ruft die Pinsel­farbe ab oder legt sie fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.brushes/solidbrush/color/
 ---
+{{< psd/tize >}}
 ## SolidBrush.Color property
 
-Ruft die Pinselfarbe ab oder legt sie fest.
+Liest oder legt die Farbe des Pinsels fest.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Pinselfarbe.
+Die Pinsel­farbe.
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../solidbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

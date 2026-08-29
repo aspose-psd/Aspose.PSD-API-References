@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PrintFlagsResource eigendom. Ruft die Breite des Anschnitts ab oder legt sie fest.
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PrintFlagsResource-Eigenschaft. Gibt die Breite des Beschnitts zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-Ruft die Breite des Anschnitts ab oder legt sie fest.
+Liest oder setzt die Breite des Beschnitts.
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Breite des Anschnitts.
+Die Breite des Beschnitts.
 
 ### Siehe auch
 
 * class [PrintFlagsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

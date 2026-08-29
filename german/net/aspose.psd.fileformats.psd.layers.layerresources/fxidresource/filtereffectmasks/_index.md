@@ -1,22 +1,23 @@
 ---
-title: FXidResource.FilterEffectMasks
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FXidResource eigendom. Ruft die Filtereffektmasken ab.
+title: "FXidResource.FilterEffectMasks"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FXidResource-Eigenschaft. Gibt die Filtereffektmasken zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/
 ---
+{{< psd/tize >}}
 ## FXidResource.FilterEffectMasks property
 
-Ruft die Filtereffektmasken ab.
+Liest die Filtereffekt-Masken.
 
 ```csharp
 public FilterEffectMaskData[] FilterEffectMasks { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Eigenschaften der FXidResource-Ressource abgerufen und festgelegt werden.
+Dieses Beispiel zeigt, wie Eigenschaften der FXidResource-Ressource gelesen und geschrieben werden.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// Nach dem Speichern prüfen
+// nach dem Speichern prüfen
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

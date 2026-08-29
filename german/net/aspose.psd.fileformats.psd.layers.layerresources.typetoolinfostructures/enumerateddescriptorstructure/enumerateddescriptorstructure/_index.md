@@ -1,14 +1,15 @@
 ---
-title: EnumeratedDescriptorStructure.EnumeratedDescriptorStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: EnumeratedDescriptorStructure constructeur. Initialisiert eine neue Instanz vonEnumeratedDescriptorStructure Klasse.
+title: "EnumeratedDescriptorStructure.EnumeratedDescriptorStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "EnumeratedDescriptorStructure Konstruktor. Erstellt eine neue Instanz der Klasse EnumeratedDescriptorStructure"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumerateddescriptorstructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure constructor
 
-Initialisiert eine neue Instanz von[`EnumeratedDescriptorStructure`](../) Klasse.
+Erstellt eine neue Instanz der Klasse [`EnumeratedDescriptorStructure`](../).
 
 ```csharp
 public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID enumName)
@@ -18,13 +19,13 @@ public EnumeratedDescriptorStructure(ClassID keyName, ClassID typeID, ClassID en
 | --- | --- | --- |
 | keyName | ClassID | Der Schlüsselname. |
 | typeID | ClassID | Die Typ-ID. |
-| enumName | ClassID | Der Aufzählungsname. |
+| enumName | ClassID | Der Enum-Name. |
 
 ### Siehe auch
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

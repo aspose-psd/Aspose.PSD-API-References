@@ -1,14 +1,15 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle koppel. Schnittstelle zum Arbeiten mit Textstil
+title: "Schnittstelle ITextStyle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle Schnittstelle. Schnittstelle zur Arbeit mit Textstil"
 type: docs
-weight: 3540
+weight: 3960
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-Schnittstelle zum Arbeiten mit Textstil
+Schnittstelle zur Arbeit mit Textstil
 
 ```csharp
 public interface ITextStyle
@@ -18,33 +19,33 @@ public interface ITextStyle
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Ruft das automatische Kerning ab oder legt es fest. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatischer Zeilenabstand]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Die Grundlinienverschiebung. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Die kontextbezogenen Alternativen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Die bedingten Ligaturen, die verwendet werden, um Buchstaben zu verbinden, insbesondere in Skriptschriften. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Ruft ab oder legt fest, dass Faux Bold aktiviert ist. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Ruft die Farbe der Füllung ab oder legt sie fest. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Die Grundlinie der Schriftart. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Die Schrift in Großbuchstaben. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Ruft den Schriftindex ab. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Ruft den Schriftartnamen ab oder legt ihn fest. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Ruft die Schriftgröße ab oder legt sie fest. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Die Bruchsymbole können durch spezielle Glyphen ersetzt werden. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Hindi-Zahlen]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Die horizontale Skala. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Ruft die standardmäßige vertikale römische Ausrichtung ab oder legt sie fest. Dies basiert auf dem Ressourcenwert BaselineDirection und gilt nur, wenn die Textausrichtung aktiviert istVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Ruft das Kerning ab oder legt es fest. |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Ruft den Sprachindex ab. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Ruft den Zeilenabstand ab oder legt ihn fest. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Ruft ab oder legt den No-Break-Wert fest. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Die standardmäßigen kontextuellen Ligaturen, die verwendet werden, um Buchstaben miteinander zu verbinden. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [durchgestrichen]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Ruft die Farbe des Strichs ab oder legt sie fest. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Ruft das Tracking ab oder legt es fest. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [underline]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Die vertikale Skala. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Liest oder setzt das automatische Kerning. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [automatic leading]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Der Grundlinienversatz. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Die kontextabhängigen Alternativen, die zum Verbinden von Buchstaben verwendet werden. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Die fakultativen Ligaturen, die zum Verbinden von Buchstaben verwendet werden, insbesondere in Schreibschriftarten. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Liest oder setzt, ob Faux‑Bold aktiviert ist. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Liest oder setzt, ob Faux‑Bold aktiviert ist. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Liest oder setzt die Füllfarbe. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Die Schriftgrundlinie. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Die Großbuchstaben der Schrift. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Liest den Schriftindex. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Liest oder setzt den Schriftnamen. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Liest oder setzt die Größe der Schriftart. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Die Bruchzeichen können durch ein spezielles Glyph ersetzt werden. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [hindi numbers]. |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Die horizontale Skalierung. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Liest oder setzt die standardmäßige vertikale römische Ausrichtung. Dieser, basierend auf dem BaselineDirection-Ressourcenwert, gilt nur, wenn die Textausrichtung vertikal ist. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Liest oder setzt das Kerning. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Liest den Sprachindex. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Liest oder setzt den Zeilenabstand. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Liest oder setzt den No-Break-Wert. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Die standardmäßigen kontextuellen Ligaturen, die zum Verbinden von Buchstaben verwendet werden. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [strikethrough]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Liest oder setzt die Farbe des Strichs. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Liest oder setzt das Tracking. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Die vertikale Skalierung. |
 
 ## Methoden
 
@@ -53,15 +54,15 @@ public interface ITextStyle
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Wendet den angegebenen Stil an. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Bestimmt, ob der angegebene Stil gleich ist. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie verschiedene Stile in einer Textebene in Aspose.PSD rendern können
+Das folgende Beispiel zeigt, wie Sie verschiedene Stile in einer Textebene in Aspose.PSD rendern können.
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // Textstil bearbeiten "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // Textstil "2\r" bearbeiten
-    newPortions[2].Style.FauxBold = true; // Textstil "Fett" bearbeiten
-    newPortions[3].Style.FauxItalic = true; // Textstil "Kursiv\r" bearbeiten
-    newPortions[3].Style.BaselineShift = -25; // Textstil "Kursiv\r" bearbeiten
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // Textstil "Lowercasetext" bearbeiten
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,7 +102,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie Sie die Schriftgröße für einen beliebigen Textabschnitt in der Textebene abrufen.
+Der folgende Code zeigt, wie man die Schriftgröße für beliebige Textabschnitte in der Textebene ermittelt.
 
 ```csharp
 [C#]
@@ -114,19 +115,19 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Alte API (mit der Schriftart des ersten Absatzes)
+    // Alte API (Verwendung der ersten Absatzschriftart)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Überprüfen der Basisschriftgröße
+    // Überprüfung der Basis-Schriftgröße
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Überprüfen der tatsächlichen Schriftgröße
+    // Überprüfung der tatsächlichen Schriftgröße
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -137,13 +138,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Überprüfen der Schriftgröße des Basisteils
+    // Überprüfung der Basis-Abschnittsschriftgröße
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Überprüfung der Schriftgröße des realen Teils
+    // Überprüfung der tatsächlichen Abschnittsschriftgröße
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Das folgende Codebeispiel veranschaulicht die Bearbeitung von Textabschnitten und deren Textstil.
+Das folgende Codebeispiel demonstriert das Bearbeiten von Textabschnitten und deren Textstil.
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Prüfen des Textes jedes Teils
+            // Überprüfen des Textes jedes Abschnitts
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -183,8 +184,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Absatzdaten prüfen
-            // Absätze haben unterschiedliche Begründung
+            // Überprüfen der Absatzdaten
+            // Absätze haben unterschiedliche Ausrichtung
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -233,8 +234,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Stildaten prüfen
-            // Stile haben unterschiedliche Farben und Schriftgrößen
+            // Überprüfen der Stildaten
+            // Stile haben unterschiedliche Farben und Schriftgröße
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -266,11 +267,11 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Beispiel für Textbearbeitung
+            // Beispiel für die Textbearbeitung
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Beispiel für das Entfernen von Textteilen
+            // Beispiel für das Entfernen von Textabschnitten
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -281,18 +282,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Beispiel für die Bearbeitung von Absätzen und Stilen für Portionen
-            // Richtige Ausrichtung setzen
+            // Beispiel für Absatz- und Stilbearbeitung für Abschnitte
+            // Rechte Ausrichtung festlegen
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Unterschiedliche Farben für jeden Stil. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Unterschiedliche Farben für jeden Stil. Diese werden geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Andere Schriftart. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Andere Schriftart. Diese wird geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -309,7 +310,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

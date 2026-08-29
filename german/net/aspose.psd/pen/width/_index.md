@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Holt oder setzt die Breite davonPen  in Einheiten des GraphicsObjekts das zum Zeichnen verwendet wird.
+title: "Pen.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Gibt die Breite dieses Pen zurück oder legt sie fest, gemessen in Einheiten des zum Zeichnen verwendeten Graphics-Objekts."
 type: docs
 weight: 180
 url: /de/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-Holt oder setzt die Breite davon[`Pen`](../) , in Einheiten des Graphics-Objekts, das zum Zeichnen verwendet wird.
+Gibt die Breite dieses [`Pen`](../) zurück oder legt sie fest, gemessen in Einheiten des zum Zeichnen verwendeten Graphics-Objekts.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Breite davon[`Pen`](../).
+Die Breite dieses [`Pen`](../).
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`Width` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `Width`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie z. B. bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

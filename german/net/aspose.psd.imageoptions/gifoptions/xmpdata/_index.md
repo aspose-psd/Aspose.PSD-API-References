@@ -1,20 +1,21 @@
 ---
-title: GifOptions.XmpData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GifOptions eigendom. Ruft den XMPMetadatencontainer ab oder legt ihn fest.
+title: "GifOptions.XmpData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GifOptions-Eigenschaft. Gibt den XMP-Metadatencontainer zurück oder legt ihn fest"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## GifOptions.XmpData property
 
-Ruft den XMP-Metadatencontainer ab oder legt ihn fest.
+Liest oder setzt den XMP‑Metadaten‑Container.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der XMP-Datencontainer.
 
@@ -22,7 +23,7 @@ Der XMP-Datencontainer.
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

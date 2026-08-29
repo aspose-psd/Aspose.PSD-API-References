@@ -1,28 +1,29 @@
 ---
-title: ExifData.CommonTags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Holt oder setzt Tags die zu einem gemeinsamen Abschnitt gehören. Dies gilt nur für JPEGBilder im TIFFFormat werden stattdessen tiffOptions verwendet
+title: "ExifData.CommonTags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft Tags ab oder legt sie fest, die zum gemeinsamen Abschnitt gehören. Dies gilt nur für JPEG-Bilder im TIFF-Format, wenn stattdessen tiffOptions verwendet werden"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.exif/exifdata/commontags/
 ---
+{{< psd/tize >}}
 ## ExifData.CommonTags property
 
-Holt oder setzt Tags, die zu einem gemeinsamen Abschnitt gehören. Dies gilt nur für JPEG-Bilder, im TIFF-Format werden stattdessen tiffOptions verwendet
+Liest oder setzt Tags, die zum gemeinsamen Abschnitt gehören. Dies gilt nur für jpeg Bilder; im tiff-Format werden stattdessen tiffOptions verwendet
 
 ```csharp
 public TiffDataType[] CommonTags { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die allgemeinen Abschnitts-Tags.
+Die Tags des gemeinsamen Abschnitts.
 
 ### Siehe auch
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

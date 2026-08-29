@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Bild zuschneiden.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Zuschneiden des Bildes"
 type: docs
-weight: 510
+weight: 570
 url: /de/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
-Bild zuschneiden.
+Zuschneiden des Bildes.
 
 ```csharp
 public override void Crop(Rectangle rectangle)
@@ -16,13 +17,13 @@ public override void Crop(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck. |
+| Rechteck | Rectangle | Das Rechteck. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

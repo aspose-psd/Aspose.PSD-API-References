@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DublinCorePackage methode. Fügt den Autor hinzu.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DublinCorePackage-Methode. Fügt den Autor hinzu"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
 Fügt den Autor hinzu.
@@ -21,8 +22,8 @@ public void SetAuthor(string author)
 ### Siehe auch
 
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,7 +42,7 @@ public void SetAuthor(string[] author)
 ### Siehe auch
 
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

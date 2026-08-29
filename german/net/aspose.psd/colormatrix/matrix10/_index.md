@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix10
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMatrix eigendom. Holt oder setzt das Element in der ersten Zeile und 0 NullSpalte davonColorMatrix .
+title: "ColorMatrix.Matrix10"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMatrix-Eigenschaft. Liest oder legt das Element in der ersten Zeile und Spalte 0 (null) dieser ColorMatrix fest."
 type: docs
 weight: 80
 url: /de/net/aspose.psd/colormatrix/matrix10/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix10 property
 
-Holt oder setzt das Element in der ersten Zeile und 0 (Null)-Spalte davon[`ColorMatrix`](../) .
+Liest oder legt das Element in der ersten Zeile und Spalte 0 (null) dieses [`ColorMatrix`](../) fest.
 
 ```csharp
 public float Matrix10 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Element in der ersten Zeile und 0-Spalte davon[`ColorMatrix`](../).
+Das Element in der ersten Zeile und Spalte 0 dieses [`ColorMatrix`](../).
 
 ### Siehe auch
 
 * class [ColorMatrix](../)
-* namensraum [Aspose.PSD](../../colormatrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

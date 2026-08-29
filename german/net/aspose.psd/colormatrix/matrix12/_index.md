@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix12
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMatrix eigendom. Holt oder setzt das Element in der ersten Zeile und zweiten Spalte davonColorMatrix .
+title: "ColorMatrix.Matrix12"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMatrix-Eigenschaft. Ruft das Element in der ersten Zeile und zweiten Spalte dieser ColorMatrix ab oder legt es fest."
 type: docs
 weight: 100
 url: /de/net/aspose.psd/colormatrix/matrix12/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix12 property
 
-Holt oder setzt das Element in der ersten Zeile und zweiten Spalte davon[`ColorMatrix`](../) .
+Ruft das Element in der ersten Zeile und zweiten Spalte dieses [`ColorMatrix`](../) ab oder legt es fest.
 
 ```csharp
 public float Matrix12 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Element in der ersten Reihe und zweiten Spalte davon[`ColorMatrix`](../).
+Das Element in der ersten Zeile und zweiten Spalte dieses [`ColorMatrix`](../).
 
 ### Siehe auch
 
 * class [ColorMatrix](../)
-* namensraum [Aspose.PSD](../../colormatrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

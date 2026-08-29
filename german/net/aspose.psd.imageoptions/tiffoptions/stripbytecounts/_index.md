@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Anzahl der StripBytes ab oder legt sie fest.
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Ruft ab oder legt die Strip-Byte-Anzahlen fest"
 type: docs
-weight: 460
+weight: 470
 url: /de/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-Ruft die Anzahl der Strip-Bytes ab oder legt sie fest.
+Liest oder setzt die Byte-Anzahl der Streifen.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Stripbyte zählt.
+Die Strip-Byte-Anzahlen.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerSectionResource eigendom. Ruft den Mischmodusschlüssel ab oder legt ihn fest.
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerSectionResource-Eigenschaft. Gibt den Blendmodus‑Schlüssel zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
-Ruft den Mischmodusschlüssel ab oder legt ihn fest.
+Liest oder setzt den Schlüssel des Mischmodus.
 
 ```csharp
 public BlendMode BlendModeKey { get; set; }
@@ -24,7 +25,7 @@ public BlendMode BlendModeKey { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

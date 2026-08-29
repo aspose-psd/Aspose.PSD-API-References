@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantBase eigendom. Ruft den Namen des Farbfelds ab oder legt ihn fest.
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantBase-Eigenschaft. Ruft den Namen des Farbfelds ab oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Ruft den Namen des Farbfelds ab oder legt ihn fest.
+Liest oder legt den Namen des Farbfelds fest.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Name des Musters.
+Der Name des Farbfelds.
 
 ### Siehe auch
 
 * class [ColorantBase](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

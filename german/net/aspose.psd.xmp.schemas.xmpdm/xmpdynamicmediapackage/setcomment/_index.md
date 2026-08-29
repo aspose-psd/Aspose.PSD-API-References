@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Setzt den Kommentar.
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Kommentar"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
-Setzt den Kommentar.
+Legt den Kommentar fest.
 
 ```csharp
 public void SetComment(string comment)
@@ -16,12 +17,12 @@ public void SetComment(string comment)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| comment | String | Der Kommentar. |
+| Kommentar | String | Der Kommentar. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

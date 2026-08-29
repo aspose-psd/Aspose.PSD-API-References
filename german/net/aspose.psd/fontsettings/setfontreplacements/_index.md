@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Legt die Schriftersetzungsliste fest. Wenn die Schriftart nicht erlaubt ist wird ein Ersatz gesucht. Die erste Schriftart in der Liste wird zuerst verwendet. Wenn es auch eingeschränkt ist wird die nächste Schriftart aus der Liste ausgewählt. Wenn die Schriftart keine Ersetzungen hat oder alle Ersetzungen nicht zulässig sind wird die erste zulässige Schriftart aus der Liste der zulässigen Schriftarten verwendet. Wenn es keine zulässigen und verfügbaren Schriftarten gibt wird die Bibliothek dies tun Versuchen Sie die Standardschriftart des Systems zu verwenden auch wenn dies nicht zulässig ist.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Legt die Liste der Schriftart-Ersetzungen fest. Wenn eine Schriftart nicht zulässig ist, wird eine Ersatzschriftart gesucht. Die erste Schriftart in der Liste wird zuerst verwendet. Ist diese ebenfalls eingeschränkt, wird die nächste Schriftart aus der Liste ausgewählt. Wenn eine Schriftart keine Ersetzungen hat oder alle Ersetzungen nicht zulässig sind, wird die erste zulässige Schriftart aus der erlaubten Schriftartenliste verwendet. Gibt es weder zulässige noch verfügbare Schriftarten, versucht die Bibliothek, die systemweite Standardschriftart zu verwenden, selbst wenn diese nicht zulässig ist."
 type: docs
-weight: 110
+weight: 130
 url: /de/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-Legt die Schriftersetzungsliste fest. Wenn die Schriftart nicht erlaubt ist, wird ein Ersatz gesucht. Die erste Schriftart in der Liste wird zuerst verwendet. Wenn es auch eingeschränkt ist, wird die nächste Schriftart aus der Liste ausgewählt. Wenn die Schriftart keine Ersetzungen hat oder alle Ersetzungen nicht zulässig sind, wird die erste zulässige Schriftart aus der Liste der zulässigen Schriftarten verwendet. Wenn es keine zulässigen und verfügbaren Schriftarten gibt, wird die Bibliothek dies tun Versuchen Sie, die Standardschriftart des Systems zu verwenden, auch wenn dies nicht zulässig ist.
+Setzt die Liste der Schriftart-Ersetzungen. Wenn eine Schriftart nicht zulässig ist, wird eine Ersatzschriftart gefunden. Die erste Schriftart in der Liste wird zuerst verwendet. Wenn sie ebenfalls eingeschränkt ist, wird die nächste Schriftart aus der Liste ausgewählt. Hat die Schriftart keine Ersetzungen oder sind alle Ersetzungen nicht zulässig, wird die zuerst zulässige Schriftart aus der zulässigen Schriftartenliste verwendet. Gibt es keine zulässigen und verfügbaren Schriftarten, versucht die Bibliothek, die systemweite Standardschriftart zu verwenden, selbst wenn sie nicht zulässig ist.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
@@ -17,17 +18,17 @@ public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | fontToReplace | String | Die zu ersetzende Schriftart. |
-| fontNames | String[] | Die Namen der Ersatzschriftarten in der Reihenfolge ihrer Ähnlichkeit. |
+| fontNames | String[] | Die Ersatz‑Schriftartnamen in Reihenfolge der Ähnlichkeit. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Die Länge des Font-Arrays und des Font-Unterschiede-Arrays muss gleich sein |
+| ArgumentException | Die Länge des Font‑Arrays und des Font‑Differenzen‑Arrays muss gleich sein. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die Verwendung von Schriftarten programmgesteuert einzuschränken.
+Der folgende Code demonstriert die Möglichkeit, Schriftarten programmgesteuert zu begrenzen.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -65,7 +67,7 @@ finally
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Ruft eine Kopie des Arrays ab das die Liste der Ordner enthält in denen Aspose.Words nach TrueTypeSchriftarten sucht.
+title: "FontSettings.GetFontsFolders"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Gibt eine Kopie des Arrays zurück, das die Liste der Ordner enthält, in denen Aspose.Words nach TrueType‑Schriftarten sucht."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
-Ruft eine Kopie des Arrays ab, das die Liste der Ordner enthält, in denen Aspose.Words nach TrueType-Schriftarten sucht.
+Gibt eine Kopie des Arrays zurück, das die Liste der Ordner enthält, in denen Aspose.Words nach TrueType-Schriftarten sucht.
 
 ```csharp
 public static string[] GetFontsFolders()
@@ -16,16 +17,16 @@ public static string[] GetFontsFolders()
 
 ### Rückgabewert
 
-Eine Kopie der aktuellen Schriftartpositionen.
+Eine Kopie der aktuellen Schriftart-Standorte.
 
-### Bemerkungen
+## Hinweise
 
-Der zurückgegebene Wert ist eine Kopie der Daten, die Aspose.Words verwendet. Wenn Sie die Einträge im zurückgegebenen Array ändern, hat dies keine Auswirkung auf die Wiedergabe des Dokuments. Verwenden Sie zum Festlegen neuer Schriftartpositionen die[`SetFontsFolders`](../setfontsfolders/) Methode.
+Der zurückgegebene Wert ist eine Kopie der Daten, die Aspose.Words verwendet. Wenn Sie die Einträge im zurückgegebenen Array ändern, hat dies keine Auswirkung auf die Dokumentdarstellung. Um neue Schriftart-Standorte anzugeben, verwenden Sie die [`SetFontsFolders`](../setfontsfolders/)‑Methode.
 
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

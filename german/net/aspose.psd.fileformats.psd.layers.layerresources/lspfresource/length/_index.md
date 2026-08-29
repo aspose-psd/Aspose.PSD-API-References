@@ -1,14 +1,15 @@
 ---
-title: LspfResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LspfResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "LspfResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LspfResource-Eigenschaft. Gibt die Länge der Ebenenressource in Bytes zurück"
 type: docs
-weight: 60
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/length/
 ---
+{{< psd/tize >}}
 ## LspfResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [LspfResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

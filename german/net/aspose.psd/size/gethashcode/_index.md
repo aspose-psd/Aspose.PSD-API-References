@@ -1,14 +1,15 @@
 ---
-title: Size.GetHashCode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size methode. Gibt dafür einen Hashcode zurückSizeStruktur.
+title: "Size.GetHashCode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Methode. Gibt einen Hashcode für diese Size-Struktur zurück."
 type: docs
 weight: 120
 url: /de/net/aspose.psd/size/gethashcode/
 ---
+{{< psd/tize >}}
 ## Size.GetHashCode method
 
-Gibt dafür einen Hashcode zurück[`Size`](../)Struktur.
+Gibt einen Hashcode für diese [`Size`](../)-Struktur zurück.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Rückgabewert
 
-Ein ganzzahliger Wert, der einen Hash-Wert dafür angibt[`Size`](../) Struktur.
+Ein ganzzahliger Wert, der einen Hashwert für diese [`Size`](../)-Struktur angibt.
 
 ### Siehe auch
 
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

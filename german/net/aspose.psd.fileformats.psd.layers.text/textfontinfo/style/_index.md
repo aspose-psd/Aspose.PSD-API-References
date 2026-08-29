@@ -1,26 +1,27 @@
 ---
-title: TextFontInfo.Style
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextFontInfo eigendom. Ruft den Schriftstil ab der aus der Unterfamilie name geparst wurde
+title: "TextFontInfo.Style"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextFontInfo-Eigenschaft. Gibt den Schriftstil zurück, der aus dem Subfamiliennamen geparst wurde."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/style/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Style property
 
-Ruft den Schriftstil ab, der aus der Unterfamilie name geparst wurde
+Ruft den Schriftstil ab, der aus dem Subfamiliennamen geparst wurde
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Schriftstil aus Unterfamilie name geparst
+Schriftstil, aus dem Subfamiliennamen geparst
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Aspose.PSD Eigenschaften der Inline-Formatierung der Textebene erhält.
+Der folgende Code zeigt, wie Aspose.PSD die Eigenschaften der Inline-Formatierung der Textebene abruft.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // Ruft Schriftarten ab, die in der Textebene enthalten sind
+        // Ermittelt Schriftarten, die in der Textebene enthalten sind
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * enum [FontStyle](../../../aspose.psd/fontstyle/)
 * class [TextFontInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPlacedLayerResource eigendom. Ruft den Typ der platzierten Ebene in der PSDDatei ab oder legt ihn fest.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPlacedLayerResource-Eigenschaft. Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest."
 type: docs
 weight: 120
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
-Ruft den Typ der platzierten Ebene in der PSD-Datei ab oder legt ihn fest.
+Liest oder legt den Typ der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ der platzierten Ebene.
 
@@ -22,7 +23,7 @@ Der Typ der platzierten Ebene.
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

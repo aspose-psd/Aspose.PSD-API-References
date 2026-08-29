@@ -1,11 +1,12 @@
 ---
-title: Class Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Complex.Version.Version klas. Beschreibt eine Version eines Dokuments.
+title: "Klasse Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Complex.Version.Version class. Beschreibt eine Version eines Dokuments"
 type: docs
-weight: 6110
+weight: 6610
 url: /de/net/aspose.psd.xmp.types.complex.version/version/
 ---
+{{< psd/tize >}}
 ## Version class
 
 Beschreibt eine Version eines Dokuments.
@@ -14,34 +15,34 @@ Beschreibt eine Version eines Dokuments.
 public sealed class Version : ComplexTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Version](version/)() | Default_Constructor |
+| [Version](version/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Comments](../../aspose.psd.xmp.types.complex.version/version/comments/) { get; set; } | Ruft die Kommentare ab oder legt sie fest. |
-| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | Ruft das Änderungsdatum ab oder legt es fest. |
-| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | Ruft den Modifikator ab oder legt ihn fest. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Ruft den Standard-Namespace-URI ab. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ruft das Präfix ab. |
-| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | Ruft ab oder setzt die[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) . |
-| [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext/) { get; set; } | Ruft den Versionstext ab oder legt ihn fest. |
+| [Comments](../../aspose.psd.xmp.types.complex.version/version/comments/) { get; set; } | Liest oder setzt die Kommentare. |
+| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | Liest oder setzt das Änderungsdatum. |
+| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | Liest oder setzt den Bearbeiter. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Liest die Standard-Namespace-URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Liest das Präfix. |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | Liest oder setzt das [`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/). |
+| [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext/) { get; set; } | Liest oder setzt den Versionstext. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../)
 
 

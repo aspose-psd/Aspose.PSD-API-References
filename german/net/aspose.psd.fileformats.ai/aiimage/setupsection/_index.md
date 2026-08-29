@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft den SetupAbschnitt ab.
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt den Setup-Abschnitt zurück"
 type: docs
-weight: 100
+weight: 120
 url: /de/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
 Ruft den Setup-Abschnitt ab.
@@ -14,15 +15,15 @@ Ruft den Setup-Abschnitt ab.
 public AiSetupSection SetupSection { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Setup-Bereich.
+Der Setup-Abschnitt.
 
 ### Siehe auch
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

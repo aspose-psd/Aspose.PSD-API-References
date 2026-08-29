@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.MostRightBorder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorRangeHsl eigendom. Ruft den äußerst rechten Rand ab oder legt ihn fest.
+title: "ColorRangeHsl.MostRightBorder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorRangeHsl-Eigenschaft. Gibt den am weitesten rechts liegenden Rand zurück oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/mostrightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.MostRightBorder property
 
-Ruft den äußerst rechten Rand ab oder legt ihn fest.
+Liest oder setzt die äußerste rechte Grenze.
 
 ```csharp
 public short MostRightBorder { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Rand ganz rechts.
+Der am weitesten rechts liegende Rand.
 
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Artist
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den Künstler ab oder legt ihn fest.
+title: "TiffOptions.Artist"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt den Künstler zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.imageoptions/tiffoptions/artist/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Artist property
 
-Ruft den Künstler ab oder legt ihn fest.
+Liest oder setzt den Künstler.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Künstler.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

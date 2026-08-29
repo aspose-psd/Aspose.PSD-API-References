@@ -1,20 +1,21 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageExportersRegistry eigendom. Ruft die registrierten Exportformate ab.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageExportersRegistry-Eigenschaft. Gibt die registrierten Exportformate zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-Ruft die registrierten Exportformate ab.
+Liefert die registrierten Exportformate.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die registrierten Exportformate.
 
@@ -22,7 +23,7 @@ Die registrierten Exportformate.
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* namensraum [Aspose.PSD](../../imageexportersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

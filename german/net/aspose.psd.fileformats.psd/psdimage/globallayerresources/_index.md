@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GlobalLayerResources
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft die globalen LayerRessourcen ab oder legt sie fest.
+title: "PsdImage.GlobalLayerResources"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Ruft die globalen Ebenenressourcen ab oder legt sie fest"
 type: docs
 weight: 120
 url: /de/net/aspose.psd.fileformats.psd/psdimage/globallayerresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerResources property
 
-Ruft die globalen Layer-Ressourcen ab oder legt sie fest.
+Liest oder setzt die globalen Ebenenressourcen.
 
 ```csharp
 public LayerResource[] GlobalLayerResources { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ressourcen der globalen Ebene.
+Die globalen Ebenenressourcen.
 
 ### Siehe auch
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

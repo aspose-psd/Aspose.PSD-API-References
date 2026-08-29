@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix veld. Diese Konstante ist eine Bitmaske für eines der RotationsFlagBits.
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Feld. Diese Konstante ist eine Bitmaske für alle Rotations‑Flag‑Bits."
 type: docs
 weight: 250
 url: /de/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-Diese Konstante ist eine Bitmaske für eines der Rotations-Flag-Bits.
+Diese Konstante ist eine Bitmaske für beliebige Rotations‑Flag‑Bits.
 
 ```csharp
 public const int TypeMaskRotation;
@@ -17,7 +18,7 @@ public const int TypeMaskRotation;
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

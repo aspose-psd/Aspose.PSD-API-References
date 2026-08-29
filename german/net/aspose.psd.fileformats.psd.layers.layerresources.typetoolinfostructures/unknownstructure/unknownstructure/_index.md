@@ -1,14 +1,15 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnknownStructure constructeur. Initialisiert eine neue Instanz vonUnknownStructure Klasse.
+title: "UnknownStructure.UnknownStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnknownStructure-Konstruktor. Initialisiert eine neue Instanz der UnknownStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-Initialisiert eine neue Instanz von[`UnknownStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`UnknownStructure`](../)-Klasse.
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
@@ -17,13 +18,13 @@ public UnknownStructure(ClassID keyName, int key)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | keyName | ClassID | Der Schlüsselname. |
-| key | Int32 | Der Strukturschlüssel. |
+| Schlüssel | Int32 | Der Struktur‑Schlüssel. |
 
 ### Siehe auch
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

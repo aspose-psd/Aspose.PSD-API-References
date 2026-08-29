@@ -1,14 +1,15 @@
 ---
-title: EnumeratedDescriptorStructure.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: EnumeratedDescriptorStructure eigendom. Ruft die abOSTypeStructure Länge in Bytes.
+title: "EnumeratedDescriptorStructure.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "EnumeratedDescriptorStructure Eigenschaft. Liest die OSTypeStructure-Länge in Bytes"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/length/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.Length property
 
-Ruft die ab[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) Länge in Bytes.
+Gibt die Länge des [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) in Bytes zurück.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [EnumeratedDescriptorStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType opsomming. Mögliche LnsrRessourcentypen entdeckt
+title: "Aufzählung LnsrResourceType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType Aufzählung. Entdeckte mögliche Lnsr‑Ressourcentypen."
 type: docs
-weight: 2760
+weight: 3070
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-Mögliche Lnsr-Ressourcentypen entdeckt
+Entdeckte mögliche Lnsr-Ressourcentypen
 
 ```csharp
 public enum LnsrResourceType
@@ -18,15 +19,15 @@ public enum LnsrResourceType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Rend | `0` | Der Render für text |
-| Cont | `1` | Der Fortsatz für die Füllebene zum Beispiel |
-| Bgnd | `2` | Der Hintergrund für die Hintergrundebene |
-| Layr | `3` | Die Ebene für reguläre Bildebene |
-| Unknown | `4` | Das Unbekannte ist für Situationen, in denen wir enum nicht beschrieben haben |
+| Rend | `0` | Das Rendering für Text. |
+| Cont | `1` | Der cont für Füllebene zum Beispiel |
+| Bgnd | `2` | Der Bgnd für Hintergrund-Ebene |
+| Layr | `3` | Der layr für reguläre Bildebene |
+| Unknown | `4` | Der Unknown ist für Situationen, in denen wir das Enum nicht beschrieben haben |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

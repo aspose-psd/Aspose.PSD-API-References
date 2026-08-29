@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.ActionDate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceEvent eigendom. Ruft das Aktionsdatum ab oder legt es fest.
+title: "ResourceEvent.ActionDate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceEvent-Eigenschaft. Gibt das Aktionsdatum zurück oder legt es fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.ActionDate property
 
-Ruft das Aktionsdatum ab oder legt es fest.
+Liest oder setzt das Aktionsdatum.
 
 ```csharp
 public DateTime ActionDate { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Aktionsdatum.
 
 ### Siehe auch
 
 * class [ResourceEvent](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

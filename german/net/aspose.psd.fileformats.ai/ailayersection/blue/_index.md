@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft die blaue Farbkomponente ab oder legt sie fest.
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt den blauen Farbanteil zurück oder legt ihn fest."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-Ruft die blaue Farbkomponente ab oder legt sie fest.
+Liest oder setzt die blaue Farbkomponente.
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die blaue Farbkomponente.
+Der blaue Farbanteil.
 
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

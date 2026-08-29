@@ -1,14 +1,15 @@
 ---
-title: BmpImageException.BmpImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BmpImageException constructeur. Initialisiert eine neue Instanz vonBmpImageException Klasse.
+title: "BmpImageException.BmpImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BmpImageException Konstruktor. Initialisiert eine neue Instanz der BmpImageException-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException(string) {#constructor}
 
-Initialisiert eine neue Instanz von[`BmpImageException`](../) Klasse.
+Initialisiert eine neue Instanz der [`BmpImageException`](../)-Klasse.
 
 ```csharp
 public BmpImageException(string message)
@@ -16,19 +17,19 @@ public BmpImageException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
+| Nachricht | String | Die Ausnahmemeldung. |
 
 ### Siehe auch
 
 * class [BmpImageException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BmpImageException(string, Exception) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`BmpImageException`](../) Klasse.
+Initialisiert eine neue Instanz der [`BmpImageException`](../)-Klasse.
 
 ```csharp
 public BmpImageException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public BmpImageException(string message, Exception innerException)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
-| innerException | Exception | Die innere Ausnahme. |
+| Nachricht | String | Die Ausnahmemeldung. |
+| innerException | Ausnahme | Die innere Ausnahme. |
 
 ### Siehe auch
 
 * class [BmpImageException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../bmpimageexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LclrResource.LclrResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LclrResource constructeur. Initialisiert eine neue Instanz vonLclrResource Klasse.
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LclrResource-Konstruktor. Initialisiert eine neue Instanz der LclrResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`LclrResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LclrResource`](../)-Klasse.
 
 ```csharp
 public LclrResource()
@@ -17,14 +18,14 @@ public LclrResource()
 ### Siehe auch
 
 * class [LclrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LclrResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LclrResource`](../)-Klasse.
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
@@ -32,20 +33,20 @@ public LclrResource(SheetColorHighlightEnum color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | Die Farbe. |
+| Farbe | SheetColorHighlightEnum | Die Farbe. |
 
 ### Siehe auch
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`LclrResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LclrResource`](../)-Klasse.
 
 ```csharp
 public LclrResource(byte[] data)
@@ -53,18 +54,18 @@ public LclrResource(byte[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Byte[] | Die Ressourcendaten. |
+| Daten | Byte[] | Die Ressourcendaten. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ungültiger Lclr-Ressourcenwert |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Ungültiger Lclr Resource-Wert |
 
 ### Siehe auch
 
 * class [LclrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

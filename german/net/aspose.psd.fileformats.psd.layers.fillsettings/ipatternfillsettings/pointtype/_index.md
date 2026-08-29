@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PointType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPatternFillSettings eigendom. Ruft den Punkttyp ab oder legt ihn fest.
+title: "IPatternFillSettings.PointType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPatternFillSettings-Eigenschaft. Ruft den Typ des Punktes ab oder legt ihn fest"
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PointType property
 
-Ruft den Punkttyp ab oder legt ihn fest.
+Liest oder setzt den Typ des Punktes.
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ des Punktes.
 
 ### Siehe auch
 
 * interface [IPatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

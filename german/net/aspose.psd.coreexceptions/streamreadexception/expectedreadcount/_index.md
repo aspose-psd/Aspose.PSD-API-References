@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamReadException eigendom. Ruft die erwartete Anzahl gelesener Bytes ab.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamReadException-Eigenschaft. Ruft die erwartete gelesene Byte-Anzahl ab"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Ruft die erwartete Anzahl gelesener Bytes ab.
+Gibt die erwartete gelesene Byte‑Anzahl zurück.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die erwartete Anzahl gelesener Bytes.
+Die erwartete gelesene Byte-Anzahl.
 
 ### Siehe auch
 
 * class [StreamReadException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die rKomponente ab oder legt sie fest.
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest oder legt die r-Komponente fest"
 type: docs
-weight: 160
+weight: 140
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
-Ruft die r-Komponente ab oder legt sie fest.
+Liest oder setzt die r‑Komponente.
 
 ```csharp
 public short RComponent { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die r-Komponente.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

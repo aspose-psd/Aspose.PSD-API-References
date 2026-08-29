@@ -1,14 +1,15 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DublinCorePackage methode. Fügt den Herausgeber hinzu.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DublinCorePackage-Methode. Fügt den Herausgeber hinzu"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
-Fügt den Herausgeber hinzu.
+Fügt den Verlag hinzu.
 
 ```csharp
 public void SetPublisher(string publisher)
@@ -21,14 +22,14 @@ public void SetPublisher(string publisher)
 ### Siehe auch
 
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetPublisher(string[]) {#setpublisher_1}
 
-Fügt den Herausgeber hinzu.
+Fügt den Verlag hinzu.
 
 ```csharp
 public void SetPublisher(string[] publisher)
@@ -42,12 +43,12 @@ public void SetPublisher(string[] publisher)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Herausgeber |
+| ArgumentNullException | publisher |
 
 ### Siehe auch
 
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

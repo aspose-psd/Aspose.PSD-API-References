@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.BlendMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilter eigendom. Ruft den Mischmodus ab oder legt ihn fest.
+title: "SmartFilter.BlendMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilter-Eigenschaft. Gibt den Mischmodus zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
-Ruft den Mischmodus ab oder legt ihn fest.
+Liefert oder setzt den Mischmodus.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode BlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

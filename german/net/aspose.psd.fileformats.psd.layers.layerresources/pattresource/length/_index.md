@@ -1,14 +1,15 @@
 ---
-title: PattResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "PattResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResource-Eigenschaft. Gibt die Schichtressourcenlänge in Bytes zurück"
 type: docs
-weight: 30
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/
 ---
+{{< psd/tize >}}
 ## PattResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [PattResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadUShortArray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Liest ein Array von vorzeichenlosen ganzzahligen Werten aus dem Stream.
+title: "TiffStreamReader.ReadUShortArray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest ein Array von unsigned integer-Werten aus dem Stream"
 type: docs
 weight: 220
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadUShortArray method
 
-Liest ein Array von vorzeichenlosen ganzzahligen Werten aus dem Stream.
+Liest ein Array von vorzeichenlosen Ganzzahlwerten aus dem Stream.
 
 ```csharp
 public ushort[] ReadUShortArray(long position, long count)
@@ -16,23 +17,23 @@ public ushort[] ReadUShortArray(long position, long count)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
-| count | Int64 | Die Elemente zählen. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
+| count | Int64 | Die Elementanzahl. |
 
 ### Rückgabewert
 
-Das Array von Ganzzahlwerten ohne Vorzeichen.
+Das Array von unsigned integer-Werten.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | count;Die Gesamtzahl der Bytes ist negativ. + count + x2 = + totalBytes |
+| ArgumentOutOfRangeException | count;Die Gesamtanzahl der Bytes ist negativ. + count + x2= + totalBytes |
 
 ### Siehe auch
 
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

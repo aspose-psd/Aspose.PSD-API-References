@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.FilePath
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FileCreateSource eigendom. Ruft den zu erstellenden Dateipfad ab.
+title: "FileCreateSource.FilePath"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FileCreateSource-Eigenschaft. Gibt den Dateipfad zum Erstellen zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.sources/filecreatesource/filepath/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.FilePath property
 
-Ruft den zu erstellenden Dateipfad ab.
+Ermittelt den zu erstellenden Dateipfad.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der zu erstellende Dateipfad.
+Der Dateipfad zum Erstellen.
 
 ### Siehe auch
 
 * class [FileCreateSource](../)
-* namensraum [Aspose.PSD.Sources](../../filecreatesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

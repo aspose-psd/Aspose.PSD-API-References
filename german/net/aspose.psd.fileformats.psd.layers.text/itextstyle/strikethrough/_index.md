@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob durchgestrichen.
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle-Eigenschaft. Gibt einen Wert zurück, der angibt, ob durchgestrichen ist, oder legt ihn fest"
 type: docs
 weight: 230
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [durchgestrichen].
+Liest oder setzt einen Wert, der angibt, ob [strikethrough].
 
 ```csharp
 public bool Strikethrough { get; set; }
@@ -17,7 +18,7 @@ public bool Strikethrough { get; set; }
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

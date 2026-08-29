@@ -1,11 +1,12 @@
 ---
-title: Interface ILayerEffect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect koppel. Schnittstelle für Ebeneneffekte
+title: "Schnittstelle ILayerEffect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect Schnittstelle. Schnittstelle für Ebeneneffekte"
 type: docs
-weight: 2140
+weight: 2330
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
+{{< psd/tize >}}
 ## ILayerEffect interface
 
 Schnittstelle für Ebeneneffekte
@@ -18,14 +19,20 @@ public interface ILayerEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | Ruft eine Art Effekt ab |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | Ruft die Deckkraft ab oder legt sie fest, wobei 255 = 100 % |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | Liest oder setzt den Mischmodus. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | Liest einen Effekttyp |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | Liest oder setzt die Deckkraft, wobei 255 = 100%. |
+
+## Methoden
+
+| Name | Beschreibung |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/geteffectbounds/)(Rectangle, int) | Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

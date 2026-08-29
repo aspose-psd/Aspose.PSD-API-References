@@ -1,14 +1,15 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.SmoothingMode opsomming. Gibt an ob Glättung Antialiasing auf Linien und Kurven und die Kanten gefüllter Bereiche angewendet wird.
+title: "Aufzählung SmoothingMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.SmoothingMode enum. Gibt an, ob Glättungs‑Antialiasing auf Linien und Kurven und die Kanten gefüllter Flächen angewendet wird."
 type: docs
-weight: 5570
+weight: 6070
 url: /de/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-Gibt an, ob Glättung (Antialiasing) auf Linien und Kurven und die Kanten gefüllter Bereiche angewendet wird.
+Gibt an, ob Glättung (Antialiasing) auf Linien und Kurven sowie die Kanten gefüllter Bereiche angewendet wird.
 
 ```csharp
 public enum SmoothingMode
@@ -21,13 +22,13 @@ public enum SmoothingMode
 | Invalid | `-1` | Gibt einen ungültigen Modus an. |
 | Default | `0` | Gibt kein Antialiasing an. |
 | HighSpeed | `1` | Gibt kein Antialiasing an. |
-| HighQuality | `2` | Gibt Antialiasing-Rendering an. |
+| HighQuality | `2` | Gibt antialiasiertes Rendering an. |
 | None | `3` | Gibt kein Antialiasing an. |
-| AntiAlias | `4` | Gibt Antialiasing-Rendering an. |
+| AntiAlias | `4` | Gibt antialiasiertes Rendering an. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

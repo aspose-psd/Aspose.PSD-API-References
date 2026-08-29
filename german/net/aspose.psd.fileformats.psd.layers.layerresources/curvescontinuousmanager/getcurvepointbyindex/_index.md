@@ -1,14 +1,15 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurvesContinuousManager methode. Ruft den Kurvenpunkt nach Index ab.
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurvesContinuousManager-Methode. Gibt den Kurvenpunkt nach Index zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-Ruft den Kurvenpunkt nach Index ab.
+Liest den Kurvenpunkt nach Index.
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
@@ -27,7 +28,7 @@ Kurvenpunkt nach Index des Kanals
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

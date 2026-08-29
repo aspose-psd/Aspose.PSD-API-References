@@ -1,14 +1,15 @@
 ---
-title: Class LinkResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkResource klas. Definiert die LinkResourceKlasse die Informationen über verknüpfte oder eingebettete Dateien im Bild im PSDFormat enthält. Die LinkRessource kann mehrere enthaltenLinkDataSource Instanzen auf die von Indexern in jeder abgeleiteten Klasse zugegriffen werden kann.
+title: "Klasse LinkResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkResource Klasse. Definiert die LinkResource Klasse, die Informationen über verknüpfte oder eingebettete Dateien im PSD‑Format‑Bild enthält. Die Link‑Ressource kann mehrere LinkDataSource‑Instanzen enthalten, auf die über Indexer in jeder abgeleiteten Klasse zugegriffen werden kann."
 type: docs
-weight: 2710
+weight: 3010
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/
 ---
+{{< psd/tize >}}
 ## LinkResource class
 
-Definiert die LinkResource-Klasse, die Informationen über verknüpfte oder eingebettete Dateien im Bild im PSD-Format enthält. Die Link-Ressource kann mehrere enthalten[`LinkDataSource`](../linkdatasource/) Instanzen, auf die von Indexern in jeder abgeleiteten Klasse zugegriffen werden kann.
+Definiert die LinkResource Klasse, die Informationen über verknüpfte oder eingebettete Dateien im PSD‑Format‑Bild enthält. Die Link‑Ressource kann mehrere [`LinkDataSource`](../linkdatasource/) Instanzen enthalten, auf die über Indexer in jeder abgeleiteten Klasse zugegriffen werden kann.
 
 ```csharp
 public abstract class LinkResource : LayerResource
@@ -18,25 +19,25 @@ public abstract class LinkResource : LayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Ruft die Anzahl der Link-Datenquellen ab, auf die der Indexer zugreifen kann. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Ruft einen Wert ab, der angibt, ob diese Link-Ressourceninstanz leer ist. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/) { get; } | Ruft die ab[`LinkDataSource`](../linkdatasource/) am angegebenen Index, der die eindeutige Kennung der Linkdatenquelle ist.. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ruft die globale PSD-Link-Ressourcenlänge in Byte ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Ruft die Version im PSD-Format ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Ruft die Signatur der globalen PSD-Link-Ressource ab. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Liest die Anzahl der Link‑Datenquellen, auf die über den Indexer zugegriffen werden kann. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Liest einen Wert, der angibt, ob diese Link‑Ressourcen‑Instanz leer ist. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/) { get; } | Liest das [`LinkDataSource`](../linkdatasource/) am angegebenen Index, das die eindeutige Kennung der Link‑Datenquelle ist.. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ermittelt die Länge der globalen PSD-Link-Ressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Speichert die Ressourcenblockdaten. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Speichert die Daten des Ressourcenblocks. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ### Siehe auch
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

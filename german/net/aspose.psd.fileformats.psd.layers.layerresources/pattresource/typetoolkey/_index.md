@@ -1,14 +1,15 @@
 ---
-title: PattResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResource veld. Der WerkzeugInfoSchlüssel vom Typ Patt für 8Bit.
+title: "PattResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResource-Feld. Der Patt-Typ-Tool-Info-Schlüssel für 8‑Bit"
 type: docs
-weight: 80
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey field
 
-Der Werkzeug-Info-Schlüssel vom Typ „Patt“ für 8-Bit.
+Der 'Patt'-Typ-Werkzeuginfo‑Schlüssel für 8‑Bit.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [PattResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

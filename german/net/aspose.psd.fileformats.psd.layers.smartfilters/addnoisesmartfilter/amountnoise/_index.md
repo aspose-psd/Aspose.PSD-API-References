@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AddNoiseSmartFilter eigendom. Ruft den Rauschwertbetrag ab oder legt ihn fest.
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AddNoiseSmartFilter-Eigenschaft. Liest oder schreibt die Menge des Rauschwerts"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-Ruft den Rauschwertbetrag ab oder legt ihn fest.
+Liest oder setzt die Menge des Rauschwerts.
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Schnittstelle für intelligente Filter.
+Dieses Beispiel demonstriert die Unterstützung der Smart-Filter-Schnittstelle.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // intelligente Filter bearbeiten
+    // Smart-Filter bearbeiten
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // Filterwerte prüfen
@@ -53,13 +54,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // neue Filterelemente hinzufügen
+    // Neue Filterelemente hinzufügen
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // Änderungen übernehmen
+    // Änderungen anwenden
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Filter anwenden
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Siehe auch
 
 * class [AddNoiseSmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DoubleStructure.DoubleStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DoubleStructure constructeur. Initialisiert eine neue Instanz vonDoubleStructure Klasse.
+title: "DoubleStructure.DoubleStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DoubleStructure Konstruktor. Initialisiert eine neue Instanz der Klasse DoubleStructure"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure constructor
 
-Initialisiert eine neue Instanz von[`DoubleStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`DoubleStructure`](../) Klasse.
 
 ```csharp
 public DoubleStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public DoubleStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [DoubleStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

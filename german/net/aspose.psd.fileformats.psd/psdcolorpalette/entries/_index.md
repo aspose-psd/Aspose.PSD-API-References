@@ -1,14 +1,15 @@
 ---
-title: PsdColorPalette.Entries
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette eigendom. Ruft ein Array von abColor Strukturen.
+title: "PsdColorPalette.Entries"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette-Eigenschaft. Gibt ein Array von Color-Strukturen zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Entries property
 
-Ruft ein Array von ab[`Color`](../../../aspose.psd/color/) Strukturen.
+Gibt ein Array von [`Color`](../../../aspose.psd/color/) Strukturen zurück.
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,9 +17,9 @@ public Color[] Entries { get; }
 
 ### Rückgabewert
 
-Das Array von[`Color`](../../../aspose.psd/color/) Struktur, die dies ausmachen[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Das Array von [`Color`](../../../aspose.psd/color/) Strukturen, die diese [`ColorPalette`](../../../aspose.psd/colorpalette/) bilden.
 
-### Eigentumswert
+### Property Value
 
 Die Einträge.
 
@@ -26,7 +27,7 @@ Die Einträge.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

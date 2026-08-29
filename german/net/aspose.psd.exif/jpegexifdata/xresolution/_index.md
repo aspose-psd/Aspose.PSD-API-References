@@ -1,20 +1,21 @@
 ---
-title: JpegExifData.XResolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft die xAuflösung ab oder legt sie fest.
+title: "JpegExifData.XResolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft die x-Auflösung ab oder legt sie fest"
 type: docs
 weight: 220
 url: /de/net/aspose.psd.exif/jpegexifdata/xresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.XResolution property
 
-Ruft die x-Auflösung ab oder legt sie fest.
+Liest oder setzt die x-Auflösung.
 
 ```csharp
 public TiffRational XResolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die x-Auflösung.
 
@@ -22,7 +23,7 @@ Die x-Auflösung.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Left
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF eigendom. Holt oder setzt die xKoordinate der linken Kante davonRectangleFStruktur.
+title: "RectangleF.Left"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Eigenschaft. Liest oder schreibt die x‑Koordinate der linken Kante dieser RectangleF‑Struktur."
 type: docs
 weight: 110
 url: /de/net/aspose.psd/rectanglef/left/
 ---
+{{< psd/tize >}}
 ## RectangleF.Left property
 
-Holt oder setzt die x-Koordinate der linken Kante davon[`RectangleF`](../)Struktur.
+Liest oder schreibt die x‑Koordinate der linken Kante dieser [`RectangleF`](../)-Struktur.
 
 ```csharp
 public float Left { get; set; }
@@ -16,12 +17,12 @@ public float Left { get; set; }
 
 ### Rückgabewert
 
-Die x-Koordinate des linken Randes davon[`RectangleF`](../) Struktur.
+Die x‑Koordinate der linken Kante dieser [`RectangleF`](../)-Struktur.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

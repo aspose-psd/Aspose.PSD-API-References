@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanSeek
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SplitStreamContainer eigendom. Ruft einen Wert ab der angibt ob der Stream die Suche unterstützt.
+title: "SplitStreamContainer.CanSeek"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SplitStreamContainer-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Stream das Suchen unterstützt"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/splitstreamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanSeek property
 
-Ruft einen Wert ab, der angibt, ob der Stream die Suche unterstützt.
+Gibt einen Wert zurück, der angibt, ob der Stream das Suchen unterstützt.
 
 ```csharp
 public override bool CanSeek { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn der Stream das Suchen unterstützt; ansonsten,`FALSCH`.
+`true`, wenn der Stream das Suchen unterstützt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

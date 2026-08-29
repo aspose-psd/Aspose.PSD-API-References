@@ -1,14 +1,15 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleShape constructeur. Initialisiert eine neue Instanz vonRectangleShape Klasse.
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleShape-Konstruktor. Initialisiert eine neue Instanz der RectangleShape-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-Initialisiert eine neue Instanz von[`RectangleShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`RectangleShape`](../)-Klasse.
 
 ```csharp
 public RectangleShape()
@@ -17,14 +18,14 @@ public RectangleShape()
 ### Siehe auch
 
 * class [RectangleShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`RectangleShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`RectangleShape`](../)-Klasse.
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
@@ -32,13 +33,13 @@ public RectangleShape(RectangleF rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | RectangleF | Das Rechteck. |
+| Rechteck | RectangleF | Das Rechteck. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

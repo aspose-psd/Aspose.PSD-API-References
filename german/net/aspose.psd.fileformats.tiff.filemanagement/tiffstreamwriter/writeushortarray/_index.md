@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteUShortArray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt ein Array von vorzeichenlosen kurzen Werten in den Stream.
+title: "TiffStreamWriter.WriteUShortArray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt ein Array von unsigned short-Werten in den Stream"
 type: docs
 weight: 230
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShortArray method
 
-Schreibt ein Array von vorzeichenlosen kurzen Werten in den Stream.
+Schreibt ein Array von unsigned short-Werten in den Stream.
 
 ```csharp
 public void WriteUShortArray(ushort[] data)
@@ -16,12 +17,12 @@ public void WriteUShortArray(ushort[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | UInt16[] | Das zu schreibende Array. |
+| Daten | UInt16[] | Das zu schreibende Array. |
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

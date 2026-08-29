@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den GPSWert ab oder legt ihn fest der angibt ob der Breitengrad des Zielpunkts der nördliche oder der südliche Breitengrad ist.
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData Eigenschaft. Liest oder setzt den GPS-Wert, der angibt, ob der Breitengrad des Zielpunkts nördlich oder südlich ist."
 type: docs
 weight: 450
 url: /de/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
-Ruft den GPS-Wert ab oder legt ihn fest, der angibt, ob der Breitengrad des Zielpunkts der nördliche oder der südliche Breitengrad ist.
+Liest oder setzt den GPS-Wert, der angibt, ob der Breitengrad des Zielpunkts nördlich oder südlich liegt.
 
 ```csharp
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der GPS-Wert, der angibt, ob der Breitengrad des Zielpunkts der nördliche oder der südliche Breitengrad ist.
+Der GPS-Wert, der angibt, ob der Breitengrad des Zielpunkts nördlich oder südlich ist.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

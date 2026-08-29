@@ -1,22 +1,23 @@
 ---
-title: TextLayer.TextData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer eigendom. Ruft die Textteile ab.
+title: "TextLayer.TextData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer-Eigenschaft. Gibt die Textabschnitte zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextData property
 
-Ruft die Textteile ab.
+Liest die Textabschnitte.
 
 ```csharp
 public IText TextData { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Aspose.PSD Eigenschaften der Inline-Formatierung der Textebene erhält.
+Der folgende Code zeigt, wie Aspose.PSD die Eigenschaften der Inline-Formatierung der Textebene abruft.
 
 ```csharp
 [C#]
@@ -26,7 +27,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // Ruft Schriftarten ab, die in der Textebene enthalten sind
+        // Ermittelt Schriftarten, die in der Textebene enthalten sind
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -70,7 +71,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Das folgende Codebeispiel veranschaulicht die Bearbeitung von Textabschnitten und deren Textstil.
+Das folgende Codebeispiel demonstriert das Bearbeiten von Textabschnitten und deren Textstil.
 
 ```csharp
 [C#]
@@ -93,7 +94,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Prüfen des Textes jedes Teils
+            // Überprüfen des Textes jedes Abschnitts
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -102,8 +103,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Absatzdaten prüfen
-            // Absätze haben unterschiedliche Begründung
+            // Überprüfen der Absatzdaten
+            // Absätze haben unterschiedliche Ausrichtung
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -137,7 +138,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,8 +153,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Stildaten prüfen
-            // Stile haben unterschiedliche Farben und Schriftgrößen
+            // Überprüfen der Stildaten
+            // Stile haben unterschiedliche Farben und Schriftgröße
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -185,11 +186,11 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Beispiel für Textbearbeitung
+            // Beispiel für die Textbearbeitung
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Beispiel für das Entfernen von Textteilen
+            // Beispiel für das Entfernen von Textabschnitten
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -200,18 +201,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Beispiel für die Bearbeitung von Absätzen und Stilen für Portionen
-            // Richtige Ausrichtung setzen
+            // Beispiel für Absatz- und Stilbearbeitung für Abschnitte
+            // Rechte Ausrichtung festlegen
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Unterschiedliche Farben für jeden Stil. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Unterschiedliche Farben für jeden Stil. Diese werden geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Andere Schriftart. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Andere Schriftart. Diese wird geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -230,7 +231,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [IText](../../../aspose.psd.fileformats.psd.layers.text/itext/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

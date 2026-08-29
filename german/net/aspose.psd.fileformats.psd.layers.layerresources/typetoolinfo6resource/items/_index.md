@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.Items
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfo6Resource eigendom. Ruft die Elemente ab oder legt sie fest.
+title: "TypeToolInfo6Resource.Items"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfo6Resource Eigenschaft. Liest oder legt die Elemente fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Items property
 
-Ruft die Elemente ab oder legt sie fest.
+Liest oder setzt die Elemente.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gegenstände.
+Die Elemente.
 
 ### Siehe auch
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PointF.Empty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PointF eigendom. Ruft eine neue Instanz von abPointF Struktur die hatX UndY Werte auf Null gesetzt.
+title: "PointF.Empty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PointF-Eigenschaft. Gibt eine neue Instanz der PointF-Struktur zurück, deren X- und Y-Werte auf Null gesetzt sind."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-Ruft eine neue Instanz von ab[`PointF`](../) Struktur, die hat[`X`](../x/) Und[`Y`](../y/) Werte auf Null gesetzt.
+Gibt eine neue Instanz der [`PointF`](../) Struktur zurück, deren [`X`](../x/) und [`Y`](../y/) Werte auf Null gesetzt sind.
 
 ```csharp
 public static PointF Empty { get; }
@@ -17,7 +18,7 @@ public static PointF Empty { get; }
 ### Siehe auch
 
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

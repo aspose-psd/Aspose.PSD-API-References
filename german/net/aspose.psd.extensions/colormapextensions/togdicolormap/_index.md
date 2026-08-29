@@ -1,14 +1,15 @@
 ---
-title: ColorMapExtensions.ToGdiColorMap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMapExtensions methode. Konvertiert dieColorMap zumColorMap .
+title: "ColorMapExtensions.ToGdiColorMap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMapExtensions-Methode. Konvertiert die ColorMap in die ColorMap"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMap method
 
-Konvertiert die[`ColorMap`](../../../aspose.psd/colormap/) zumColorMap .
+Konvertiert das [`ColorMap`](../../../aspose.psd/colormap/) in die ColorMap.
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
@@ -16,17 +17,17 @@ public static ColorMap ToGdiColorMap(ColorMap colorMap)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| colorMap | ColorMap | Die zu konvertierende Farbkarte. |
+| colorMap | ColorMap | Die Farbkarte zum Konvertieren. |
 
 ### Rückgabewert
 
-Die umgewandeltColorMap .
+Die konvertierte ColorMap.
 
 ### Siehe auch
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* namensraum [Aspose.PSD.Extensions](../../colormapextensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

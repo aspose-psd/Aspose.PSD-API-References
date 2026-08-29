@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft den StrokeMischmodus ab oder legt ihn fest.
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt den Mischmodus des Strichs zurück oder legt ihn fest"
 type: docs
-weight: 80
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-Ruft den Stroke-Mischmodus ab oder legt ihn fest.
+Liest oder schreibt den Strich‑Blend‑Modus.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode StrokeStyleBlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

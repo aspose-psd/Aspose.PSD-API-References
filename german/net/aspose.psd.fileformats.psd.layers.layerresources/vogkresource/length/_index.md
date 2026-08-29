@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VogkResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "VogkResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VogkResource Eigenschaft. Gibt die Länge der Ebenenressource in Bytes zurück."
 type: docs
-weight: 30
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung der VogkResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der VogkResource‑Ressource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Lektüre
+    // Lesen
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [VogkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

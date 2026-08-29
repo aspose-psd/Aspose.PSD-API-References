@@ -1,14 +1,15 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage methode. Ändert die Bildgröße.
+title: "AiImage.Resize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Methode. Ändert die Größe des Bildes"
 type: docs
-weight: 150
+weight: 180
 url: /de/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-Ändert die Bildgröße.
+Ändert die Größe des Bildes.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
@@ -18,7 +19,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
 | newHeight | Int32 | Die neue Höhe. |
-| resizeType | ResizeType | Der Größenänderungstyp. |
+| resizeType | ResizeType | Der Skalierungstyp. |
 
 ### Ausnahmen
 
@@ -30,14 +31,14 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-Ändert die Bildgröße.
+Ändert die Größe des Bildes.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
@@ -47,7 +48,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
 | newHeight | Int32 | Die neue Höhe. |
-| settings | ImageResizeSettings | Die Größenänderungseinstellungen. |
+| Einstellungen | ImageResizeSettings | Die Skalierungseinstellungen. |
 
 ### Ausnahmen
 
@@ -59,7 +60,7 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

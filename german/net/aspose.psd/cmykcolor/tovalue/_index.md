@@ -1,14 +1,15 @@
 ---
-title: CmykColor.ToValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykColor methode. Der bisWert.
+title: "CmykColor.ToValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykColor-Methode. Der Rückgabewert"
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-Der bis-Wert.
+Der Rückgabewert.
 
 ```csharp
 public long ToValue()
@@ -16,12 +17,12 @@ public long ToValue()
 
 ### Rückgabewert
 
-DieInt64 .
+Der Int64.
 
 ### Siehe auch
 
 * struct [CmykColor](../)
-* namensraum [Aspose.PSD](../../cmykcolor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

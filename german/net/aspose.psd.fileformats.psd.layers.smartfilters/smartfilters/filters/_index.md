@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.Filters
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilters eigendom. Ruft die intelligenten Filter ab oder legt sie fest.
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilters-Eigenschaft. Liest oder setzt die Smart-Filter."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-Ruft die intelligenten Filter ab oder legt sie fest.
+Liefert oder setzt die Smart‑Filter.
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
@@ -18,7 +19,7 @@ public SmartFilter[] Filters { get; set; }
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

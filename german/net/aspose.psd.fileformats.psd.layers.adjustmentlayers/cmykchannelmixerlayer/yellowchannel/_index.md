@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.YellowChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykChannelMixerLayer eigendom. Ruft den gelben Kanal ab.
+title: "CmykChannelMixerLayer.YellowChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykChannelMixerLayer-Eigenschaft. Gibt den Gelb-Kanal zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/yellowchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.YellowChannel property
 
-Ruft den gelben Kanal ab.
+Liest den Gelb-Kanal.
 
 ```csharp
 public CmykMixerChannel YellowChannel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der gelbe Kanal.
+Der Gelb-Kanal.
 
 ### Siehe auch
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,62 +1,63 @@
 ---
-title: Class BlncResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource klas. BlncResourceKlasse ist eine Ressource der Farbanpassungsebene.
+title: "Klasse BlncResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource class. BlncResource class ist eine Ressource des Color Adjustment Layer."
 type: docs
-weight: 2310
+weight: 2570
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource class
 
-BlncResource-Klasse ist eine Ressource der Farbanpassungsebene.
+Die Klasse BlncResource ist eine Ressource der Farb‑Anpassungsebene.
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlncResource](blncresource/)() | Initialisiert eine neue Instanz von`BlncResource` Klasse. |
+| [BlncResource](blncresource/)() | Initialisiert eine neue Instanz der `BlncResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Ruft die Highlights-Cyan-Rot-Balance ab oder legt sie fest. |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Ruft die Magenta-Grün-Balance der Highlights ab oder legt sie fest. |
-| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Ruft die Highlights Gelb-Blau-Balance ab oder legt sie fest. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Ruft die Cyan-Rot-Balance für Mitteltöne ab oder legt sie fest. |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Ruft die Magenta-Grün-Balance für Mitteltöne ab oder legt sie fest. |
-| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Ruft die Gelb-Blau-Balance der Mitteltöne ab oder legt sie fest. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`BlncResource` bewahrt die Leuchtkraft. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Ruft die Schatten-Cyan-Rot-Balance ab oder legt sie fest. |
-| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Ruft die Magenta-Grün-Balance von Shadows ab oder legt sie fest. |
-| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Ruft die Schatten-Gelb-Blau-Balance ab oder legt sie fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Ruft die Signatur ab. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Liest oder setzt den Highlights Cyan Red Balance. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Ruft den Highlights‑Magenta‑Grün‑Ausgleich ab oder legt ihn fest. |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Ruft den Highlights‑Gelb‑Blau‑Ausgleich ab oder legt ihn fest. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Ruft den Mitten‑Cyan‑Rot‑Ausgleich ab oder legt ihn fest. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Ruft den Mitten‑Magenta‑Grün‑Ausgleich ab oder legt ihn fest. |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Ruft den Mitten‑Gelb‑Blau‑Ausgleich ab oder legt ihn fest. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob dieses `BlncResource` die Leuchtkraft beibehält. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Ruft den Schatten‑Cyan‑Rot‑Ausgleich ab oder legt ihn fest. |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Ruft den Schatten‑Magenta‑Grün‑Ausgleich ab oder legt ihn fest. |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Liest oder setzt das Schatten‑Gelb‑Blau‑Gleichgewicht. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Die Type-Tool-Info-Taste. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
 ### Siehe auch
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

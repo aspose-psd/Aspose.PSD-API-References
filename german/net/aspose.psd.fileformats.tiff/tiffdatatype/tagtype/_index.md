@@ -1,20 +1,21 @@
 ---
-title: TiffDataType.TagType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffDataType eigendom. Ruft den TagTyp ab.
+title: "TiffDataType.TagType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffDataType-Eigenschaft. Gibt den Tag-Typ zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.tiff/tiffdatatype/tagtype/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagType property
 
-Ruft den Tag-Typ ab.
+Gibt den Tag-Typ zurück.
 
 ```csharp
 public abstract TiffDataTypes TagType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Tag-Typ.
 
@@ -22,7 +23,7 @@ Der Tag-Typ.
 
 * enum [TiffDataTypes](../../../aspose.psd.fileformats.tiff.enums/tiffdatatypes/)
 * class [TiffDataType](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

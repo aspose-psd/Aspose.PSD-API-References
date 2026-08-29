@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Ebenenoptionen ab.
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Layer-Optionen zurück"
 type: docs
-weight: 230
+weight: 240
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-Ruft die Ebenenoptionen ab.
+Liefert die Ebenenoptionen.
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ebenenoptionen.
+Die Layer-Optionen.
 
 ### Siehe auch
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.ChannelsCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Anzahl der Kanäle der Ebene ab.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Anzahl der Kanäle der Ebene zurück"
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
-Ruft die Anzahl der Kanäle der Ebene ab.
+Liest die Anzahl der Kanäle der Ebene.
 
 ```csharp
 public ushort ChannelsCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Anzahl der Kanäle des Layers.
+Die Kanalanzahl der Ebene.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

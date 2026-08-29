@@ -1,14 +1,15 @@
 ---
-title: SizeF.Add
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SizeF methode. Addiert die Breite und Höhe um einsSizeF Struktur auf die Breite und Höhe einer anderenSizeFStruktur.
+title: "SizeF.Add"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SizeF-Methode. Fügt die Breite und Höhe einer SizeF-Struktur zur Breite und Höhe einer anderen SizeF-Struktur hinzu."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/sizef/add/
 ---
+{{< psd/tize >}}
 ## SizeF.Add method
 
-Addiert die Breite und Höhe um eins[`SizeF`](../) Struktur auf die Breite und Höhe einer anderen[`SizeF`](../)Struktur.
+Fügt die Breite und Höhe einer [`SizeF`](../)-Struktur zur Breite und Höhe einer anderen [`SizeF`](../)-Struktur hinzu.
 
 ```csharp
 public static SizeF Add(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static SizeF Add(SizeF size1, SizeF size2)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| size1 | SizeF | Der erste[`SizeF`](../) hinzufügen. |
-| size2 | SizeF | Der Zweite[`SizeF`](../) hinzufügen. |
+| size1 | SizeF | Das erste [`SizeF`](../) zum Hinzufügen. |
+| size2 | SizeF | Das zweite [`SizeF`](../) zum Hinzufügen. |
 
 ### Rückgabewert
 
-A[`SizeF`](../) Struktur, die das Ergebnis der Additionsoperation ist.
+Eine [`SizeF`](../)-Struktur, die das Ergebnis der Additionsoperation ist.
 
 ### Siehe auch
 
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

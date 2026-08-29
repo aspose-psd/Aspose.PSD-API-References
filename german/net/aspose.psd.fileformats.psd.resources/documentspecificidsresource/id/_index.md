@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DocumentSpecificIdsResource eigendom. Ruft den Bezeichner ab oder setzt ihn.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DocumentSpecificIdsResource-Eigenschaft. Ruft den Bezeichner ab oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
-Ruft den Bezeichner ab oder setzt ihn.
+Liest oder setzt den Bezeichner.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Kennung.
+Der Bezeichner.
 
 ### Siehe auch
 
 * class [DocumentSpecificIdsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

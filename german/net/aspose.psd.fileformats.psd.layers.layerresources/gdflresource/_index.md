@@ -1,63 +1,73 @@
 ---
-title: Class GdFlResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource klas. Klasse GdFlResource. Diese Ressource enthält Informationen zum Mischen von abgeschnittenen Elementen.
+title: "Klasse GdFlResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource Klasse. Klasse GdFlResource. Diese Ressource enthält Informationen über das Blending des beschnittenen Elements"
 type: docs
-weight: 2500
+weight: 2760
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource class
 
-Klasse GdFlResource. Diese Ressource enthält Informationen zum Mischen von abgeschnittenen Elementen.
+Klasse GdFlResource. Diese Ressource enthält Informationen über die Mischung des beschnittenen Elements.
 
 ```csharp
 public class GdFlResource : FillLayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [GdFlResource](gdflresource/)() | Default_Constructor |
+| [GdFlResource](gdflresource/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [an Ebene ausrichten]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Ruft den Winkel ab oder legt ihn fest. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Ruft die Farbe des RGB ab. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Ruft die Farbpunkte ab. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`GdFlResource` ist Zittern. |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Ruft das Gradientenintervall ab oder legt es fest. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Ruft den Namen des Farbverlaufs ab oder legt ihn fest. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Ruft den Verlaufstyp ab oder legt ihn fest. |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Ruft den horizontalen Versatz ab oder legt ihn fest. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`GdFlResource` ist umgekehrt. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | Ruft die Layer-Ressourcensignatur ab. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Ruft die Transparenzpunkte ab. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | Ruft den vertikalen Offset ab oder legt ihn fest. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [align with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Liest oder setzt den Winkel. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Gibt die Farbe des RGB zurück. |
+| [ColorModel](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colormodel/) { get; set; } | Farbmodell - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Gibt die Farbpunkte zurück. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob dieses `GdFlResource` dither ist. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Liest oder setzt das Gradientintervall. |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientmode/) { get; set; } | Modus für dieses Gradient. Bestimmt 'Gradient Type' = 'Solid/Noise' = "CstS"/"ClNs". |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Liest oder setzt den Namen des Verlaufs. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Liest oder setzt den Typ des Verlaufs. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Liest oder setzt den horizontalen Versatz. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/interpolationmethod/) { get; set; } | Liest oder setzt die Interpolationsmethode für den Gradient. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/) { get; set; } | Maximale Farbe des PixelDataFormat. |
+| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/minimumcolor/) { get; set; } | Minimale Farbe des PixelDataFormat. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob dieses `GdFlResource` umgekehrt ist. |
+| [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/rndnumberseed/) { get; set; } | Der Zufallszahl-Seed, der verwendet wird, um Farben für das Noise-Gradient zu erzeugen. |
+| [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/roughness/) { get; set; } | Rauheitsfaktor. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Liest oder setzt die Skala. |
+| [ShowTransparency](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/showtransparency/) { get; set; } | Flag zum Anzeigen von Transparenz. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Gibt die Transparenzpunkte zurück. |
+| [UseVectorColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/usevectorcolor/) { get; set; } | Flag für die Verwendung von Vektorfarbe. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | Liest oder setzt den vertikalen Versatz. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource-Ressourcen.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource Ressourcen.
 
 ```csharp
 [C#]
@@ -77,7 +87,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -155,7 +165,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

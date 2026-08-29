@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.MinimalVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BackgroundColorResource eigendom. Ruft die minimal erforderliche PSDVersion ab.
+title: "BackgroundColorResource.MinimalVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BackgroundColorResource-Eigenschaft. Gibt die minimal erforderliche PSD-Version zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.MinimalVersion property
 
 Ruft die minimal erforderliche PSD-Version ab.
@@ -14,13 +15,13 @@ Ruft die minimal erforderliche PSD-Version ab.
 public override int MinimalVersion { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die minimale PSD-Version.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung der BackgroundColorResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der BackgroundColorResource-Ressource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [BackgroundColorResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

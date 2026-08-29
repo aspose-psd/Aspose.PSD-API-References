@@ -1,14 +1,15 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SolidBrush constructeur. Initialisiert eine neue Instanz vonSolidBrush Klasse.
+title: "SolidBrush.SolidBrush"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SolidBrush-Konstruktor. Initialisiert eine neue Instanz der SolidBrush-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-Initialisiert eine neue Instanz von[`SolidBrush`](../) Klasse.
+Initialisiert eine neue Instanz der [`SolidBrush`](../)-Klasse.
 
 ```csharp
 public SolidBrush()
@@ -17,14 +18,14 @@ public SolidBrush()
 ### Siehe auch
 
 * class [SolidBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../solidbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SolidBrush`](../) Klasse.
+Initialisiert eine neue Instanz der [`SolidBrush`](../)-Klasse.
 
 ```csharp
 public SolidBrush(Color color)
@@ -32,13 +33,13 @@ public SolidBrush(Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | Die solide Pinselfarbe. |
+| Farbe | Farbe | Die Farbe des SolidBrush. |
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../solidbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

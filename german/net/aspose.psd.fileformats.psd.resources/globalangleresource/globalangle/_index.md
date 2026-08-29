@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalAngleResource eigendom. Ruft den globalen Winkel ab oder legt ihn fest.
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalAngleResource-Eigenschaft. Gibt den globalen Winkel zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-Ruft den globalen Winkel ab oder legt ihn fest.
+Liest oder setzt den globalen Winkel.
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der globale Winkel.
 
 ### Siehe auch
 
 * class [GlobalAngleResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

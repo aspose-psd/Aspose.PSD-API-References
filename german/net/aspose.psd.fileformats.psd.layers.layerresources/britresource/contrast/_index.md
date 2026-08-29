@@ -1,27 +1,28 @@
 ---
-title: BritResource.Contrast
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BritResource eigendom. Ruft den Kontrast ab oder legt ihn fest.
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BritResource-Eigenschaft. Liest oder setzt den Kontrast"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
-Ruft den Kontrast ab oder legt ihn fest.
+Liest oder schreibt den Kontrast.
 
 ```csharp
 public short Contrast { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Kontrast.
 
 ### Siehe auch
 
 * class [BritResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

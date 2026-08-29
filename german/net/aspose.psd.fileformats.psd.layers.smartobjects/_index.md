@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält API zum Bearbeiten von SmartObjectLayerDaten
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält eine API zum Manipulieren von Smart-Object-Ebenendaten."
 type: docs
-weight: 330
+weight: 350
 url: /de/net/aspose.psd.fileformats.psd.layers.smartobjects/
 ---
-Der Namespace enthält API zum Bearbeiten von Smart-Object-Layer-Daten
+{{< psd/tize >}}
+Der Namespace enthält eine API zum Manipulieren von Smart-Object-Ebenendaten.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [SmartObjectLayer](./smartobjectlayer/) | Definiert die SmartObjectLayer-Klasse, die in der PSD-Datei eingebettete oder verknüpfte Smart-Objekte in der externen Datei enthält. Mit Smart-Objekten können Sie: zerstörungsfreie Transformationen durchführen. Sie können eine Ebene skalieren, drehen, neigen, verzerren, perspektivisch transformieren oder verzerren , ohne die Originalbilddaten oder -qualität zu verlieren, da die Transformationen die Originaldaten nicht beeinflussen. Arbeiten Sie mit Vektordaten, z. B. Vektorgrafiken aus Illustrator, andernfalls würde gerastert werden. Führen Sie zerstörungsfreie Filterung durch. Sie können auf Smart Objects angewendete Filter jederzeit bearbeiten. Bearbeiten Sie ein Smart Object und aktualisieren Sie automatisch alle seine verknüpften Instanzen. Wenden Sie eine Ebenenmaske an, die entweder mit der Smart Object-Ebene verknüpft oder nicht verknüpft ist. Probieren Sie verschiedene Designs mit niedrigen Auflösung Platzhalterbilder, die Sie später durch endgültige Versionen ersetzen. In Adobe� Photoshop� können Sie den Inhalt eines Bildes in ein PSD-Dokument einbetten. Weitere Informationen finden Sie hier:[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Ein Layer mit einem eingebetteten Smart-Objekt enthält platzierte (PlLd) und SoLd-Ressourcen mit Smart-Objekt-Eigenschaften. Die PlLd-Ressource kann für PSD-Versionen älter als 10 alleine sein. Diese Ressourcen enthalten die UniqueId der LiFdDataSource in der globalen Lnk2Resource mit der eingebetteten filename und andere Parameter, einschließlich der eingebetteten Dateiinhalte im Originalformat als Byte-Array. |
+| [SmartObjectLayer](./smartobjectlayer/) | Definiert die Klasse SmartObjectLayer, die ein im PSD‑Datei eingebettetes oder in einer externen Datei verknüpftes Smart‑Object enthält. Mit Smart Objects können Sie: Nicht‑destruktive Transformationen durchführen. Sie können eine Ebene skalieren, drehen, kippen, verzerren, perspektivisch transformieren oder verformen, ohne die ursprünglichen Bilddaten oder die Qualität zu verlieren, da die Transformationen die Originaldaten nicht beeinflussen. Mit Vektordaten arbeiten, z. B. Vektorgrafiken aus Illustrator, die sonst gerastert würden. Nicht‑destruktive Filterung durchführen. Sie können Filter, die auf Smart Objects angewendet wurden, jederzeit bearbeiten. Ein Smart Object bearbeiten und automatisch alle verknüpften Instanzen aktualisieren. Eine Ebenenmaske anwenden, die entweder mit dem Smart‑Object‑Layer verknüpft oder nicht verknüpft ist. Verschiedene Designs mit niedrigauflösenden Platzhalter‑Bildern ausprobieren, die Sie später durch Endversionen ersetzen. In Adobe Photoshop können Sie den Inhalt eines Bildes in ein PSD‑Dokument einbetten. Weitere Informationen finden Sie hier: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Eine Ebene mit einem eingebetteten Smart Object enthält placed (PlLd)‑ und SoLd‑Ressourcen mit Smart‑Object‑Eigenschaften. Die PlLd‑Ressource kann allein für PSD‑Versionen älter als 10 sein. Diese Ressourcen enthalten die UniqueId der LiFdDataSource im globalen Lnk2Resource mit dem eingebetteten Dateinamen und anderen Parametern, einschließlich des eingebetteten Dateiinhalts im Originalformat als Byte‑Array. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [SmartObjectType](./smartobjecttype/) | Definiert die SmartObjectType-Enumeration für Smart-Objekt-Inhaltstyp |
+| [SmartObjectType](./smartobjecttype/) | Definiert die Aufzählung SmartObjectType für den Inhaltstyp von Smart Objects |
 
 

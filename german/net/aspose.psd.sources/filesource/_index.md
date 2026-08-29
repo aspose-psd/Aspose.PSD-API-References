@@ -1,14 +1,15 @@
 ---
-title: Class FileSource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Sources.FileSource klas. Stellt eine Dateiquelle dar die Dateien manipulieren kann.
+title: "Klasse FileSource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Sources.FileSource class. Stellt eine Dateiquelle dar, die in der Lage ist, Dateien zu manipulieren"
 type: docs
-weight: 5610
+weight: 6110
 url: /de/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
-Stellt eine Dateiquelle dar, die Dateien manipulieren kann.
+Stellt eine Dateiquelle dar, die zur Dateimanipulation fähig ist.
 
 ```csharp
 public abstract class FileSource : Source
@@ -18,18 +19,18 @@ public abstract class FileSource : Source
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Ruft einen Wert ab, der angibt, ob die Datei temporal sein wird. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Ermittelt einen Wert, der angibt, ob die Datei temporär sein wird. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Ruft den Stream-Container ab. |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Ermittelt den Stream-Container. |
 
 ### Siehe auch
 
 * class [Source](../../aspose.psd/source/)
-* namensraum [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

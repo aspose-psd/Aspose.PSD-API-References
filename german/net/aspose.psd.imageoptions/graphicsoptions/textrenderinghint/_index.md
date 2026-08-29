@@ -1,14 +1,15 @@
 ---
-title: GraphicsOptions.TextRenderingHint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsOptions eigendom. Ruft Textdarstellungshinweis ab oder legt diesen fest.
+title: "GraphicsOptions.TextRenderingHint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsOptions-Eigenschaft. Ruft den Text-Rendering-Hinweis ab oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imageoptions/graphicsoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.TextRenderingHint property
 
-Ruft Textdarstellungshinweis ab oder legt diesen fest.
+Liest oder setzt den Textdarstellungs‑Hinweis.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
@@ -18,7 +19,7 @@ public TextRenderingHint TextRenderingHint { get; set; }
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [GraphicsOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

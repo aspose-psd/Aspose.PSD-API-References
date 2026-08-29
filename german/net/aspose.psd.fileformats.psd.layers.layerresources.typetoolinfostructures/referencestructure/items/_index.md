@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.Items
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ReferenceStructure eigendom. Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+title: "ReferenceStructure.Items"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ReferenceStructure-Eigenschaft. Liest oder schreibt eine Kopie eines Arrays von Strukturen"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Items property
 
-Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+Liest oder setzt eine Kopie eines Arrays von Strukturen.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gegenstände.
+Die Elemente.
 
 ### Siehe auch
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ReferenceStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ruft eine benutzerdefinierte Obergrenze ab oder legt sie fest die am Anfang der damit gezeichneten Linien verwendet wirdPen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Ruft einen benutzerdefinierten Cap ab, der am Anfang von Linien verwendet wird, die mit diesem Pen gezeichnet werden, oder legt ihn fest."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-Ruft eine benutzerdefinierte Obergrenze ab oder legt sie fest, die am Anfang der damit gezeichneten Linien verwendet wird[`Pen`](../) .
+Ruft einen benutzerdefinierten Cap ab, der am Anfang von Linien verwendet wird, die mit diesem [`Pen`](../) gezeichnet werden, oder legt ihn fest.
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) das die Kappe darstellt, die am Anfang der damit gezeichneten Linien verwendet wird[`Pen`](../).
+Ein [`CustomLineCap`](../../customlinecap/), der den Cap darstellt, der am Anfang von Linien verwendet wird, die mit diesem [`Pen`](../) gezeichnet werden.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`CustomStartCap` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `CustomStartCap`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie z. B. bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

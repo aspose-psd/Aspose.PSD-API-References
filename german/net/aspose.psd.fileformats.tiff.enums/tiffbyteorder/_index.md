@@ -1,11 +1,12 @@
 ---
-title: Enum TiffByteOrder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder opsomming. Die ByteReihenfolge für das TIFFBild
+title: "Aufzählung TiffByteOrder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffByteOrder enum. Die Byte-Reihenfolge für das tiff-Bild"
 type: docs
-weight: 4040
+weight: 4510
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffbyteorder/
 ---
+{{< psd/tize >}}
 ## TiffByteOrder enumeration
 
 Die Byte-Reihenfolge für das TIFF-Bild
@@ -23,7 +24,7 @@ public enum TiffByteOrder
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

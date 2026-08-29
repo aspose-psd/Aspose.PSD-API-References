@@ -1,11 +1,12 @@
 ---
-title: LineSegment.EndPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LineSegment eigendom. Ruft den Endpunkt ab.
+title: "LineSegment.EndPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LineSegment-Eigenschaft. Gibt den Endpunkt zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.shapesegments/linesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## LineSegment.EndPoint property
 
 Ruft den Endpunkt ab.
@@ -14,7 +15,7 @@ Ruft den Endpunkt ab.
 public override PointF EndPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Endpunkt.
 
@@ -22,7 +23,7 @@ Der Endpunkt.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* namensraum [Aspose.PSD.ShapeSegments](../../linesegment/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

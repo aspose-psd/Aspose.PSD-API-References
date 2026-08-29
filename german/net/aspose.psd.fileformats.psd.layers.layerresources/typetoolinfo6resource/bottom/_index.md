@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Bottom
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfo6Resource eigendom. Ruft die unterste Position ab oder legt sie fest.
+title: "TypeToolInfo6Resource.Bottom"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfo6Resource Eigenschaft. Liest oder legt den unteren Ort fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Bottom property
 
-Ruft die unterste Position ab oder legt sie fest.
+Liest oder setzt die untere Position.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die unterste Position.
+Der untere Ort.
 
 ### Siehe auch
 
 * class [TypeToolInfo6Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TiffNewSubFileTypes
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes opsomming. Der neue TiffUnterdateityp enum.
+title: "Enum TiffNewSubFileTypes"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffNewSubFileTypes enum. Das TIFF neue Unterdateityp-Enum"
 type: docs
-weight: 4100
+weight: 4570
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/
 ---
+{{< psd/tize >}}
 ## TiffNewSubFileTypes enumeration
 
-Der neue Tiff-Unterdateityp enum.
+Die neue TIFF-Unterdateityp-Aufzählung.
 
 ```csharp
 public enum TiffNewSubFileTypes : uint
@@ -18,15 +19,15 @@ public enum TiffNewSubFileTypes : uint
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| FileTypeDefault | `0` | Der Standarddateityp. |
-| FileTypeReducedImage | `1` | Der reduzierte Bilddateityp. |
-| FileTypePage | `2` | Der Dateityp der Seite. |
-| FileTypeMask | `4` | Der Maskendateityp. |
+| FileTypeDefault | `0` | Der Standard-Dateityp. |
+| FileTypeReducedImage | `1` | Der reduzierte Bild-Dateityp. |
+| FileTypePage | `2` | Der Seiten-Dateityp. |
+| FileTypeMask | `4` | Der Masken-Dateityp. |
 | FileTypeLast | `5` | Der letzte Dateityp. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

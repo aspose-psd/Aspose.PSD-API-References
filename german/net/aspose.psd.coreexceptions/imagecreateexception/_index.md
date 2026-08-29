@@ -1,30 +1,31 @@
 ---
-title: Class ImageCreateException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageCreateException klas. Die Bilderstellungsausnahme. Tritt während der ImageErstellung auf.
+title: "Klasse ImageCreateException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageCreateException Klasse. Die Bild-Erstellungs‑Ausnahme. Tritt während der Bildgenerierung auf."
 type: docs
 weight: 490
 url: /de/net/aspose.psd.coreexceptions/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException class
 
-Die Bilderstellungsausnahme. Tritt während der Image-Erstellung auf.
+Die Bild-Erstellungs-Ausnahme. Tritt während der Bild-Erstellung auf.
 
 ```csharp
 public class ImageCreateException : ImageException
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImageCreateException](imagecreateexception/#constructor)(string) | Initialisiert eine neue Instanz von`ImageCreateException` Klasse. |
-| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz von`ImageCreateException` Klasse. |
+| [ImageCreateException](imagecreateexception/#constructor)(string) | Initialisiert eine neue Instanz der `ImageCreateException` Klasse. |
+| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz der `ImageCreateException` Klasse. |
 
 ### Siehe auch
 
 * class [ImageException](../imageexception/)
-* namensraum [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

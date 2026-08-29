@@ -1,14 +1,15 @@
 ---
-title: CmlsResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmlsResource methode. Speichert die Ressource im angegebenen StreamContainer.
+title: "CmlsResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmlsResource Methode. Speichert die Ressource im angegebenen Stream-Container"
 type: docs
-weight: 60
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Save method
 
-Speichert die Ressource im angegebenen Stream-Container.
+Speichert die Ressource in den angegebenen Stream-Container.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [CmlsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

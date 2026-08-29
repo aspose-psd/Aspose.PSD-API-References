@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanRead
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SplitStreamContainer eigendom. Ruft einen Wert ab der angibt ob der Stream das Lesen unterstützt.
+title: "SplitStreamContainer.CanRead"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SplitStreamContainer-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Stream Lesevorgänge unterstützt"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/splitstreamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanRead property
 
-Ruft einen Wert ab, der angibt, ob der Stream das Lesen unterstützt.
+Gibt einen Wert zurück, der angibt, ob der Stream das Lesen unterstützt.
 
 ```csharp
 public override bool CanRead { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if stream unterstützt das Lesen; ansonsten,`FALSCH`.
+`true`, wenn der Stream Lesen unterstützt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

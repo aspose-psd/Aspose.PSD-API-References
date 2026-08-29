@@ -1,11 +1,12 @@
 ---
-title: Class PsdImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException klas. Die PSDBildausnahme.
+title: "Klasse PsdImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException Klasse. Die PSD-Bildausnahme"
 type: docs
 weight: 590
 url: /de/net/aspose.psd.coreexceptions.imageformats/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException class
 
 Die PSD-Bildausnahme.
@@ -14,17 +15,17 @@ Die PSD-Bildausnahme.
 public class PsdImageException : ImageException
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PsdImageException](psdimageexception/#constructor)(string) | Initialisiert eine neue Instanz von`PsdImageException` Klasse. |
-| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz von`PsdImageException` Klasse. |
+| [PsdImageException](psdimageexception/#constructor)(string) | Initialisiert eine neue Instanz der `PsdImageException`-Klasse. |
+| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz der `PsdImageException`-Klasse. |
 
 ### Siehe auch
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

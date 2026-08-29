@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics methode. Füllt das Innere einer Reihe von Rechtecken die durch angegeben werdenRectangle Strukturen.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics‑Methode. Füllt die Innenbereiche einer Reihe von Rechtecken, die durch Rectangle‑Strukturen angegeben werden."
 type: docs
-weight: 400
+weight: 410
 url: /de/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-Füllt das Innere einer Reihe von Rechtecken, die durch angegeben werden[`Rectangle`](../../rectangle/) Strukturen.
+Füllt die Innenbereiche einer Reihe von Rechtecken, die durch [`Rectangle`](../../rectangle/) Strukturen angegeben werden.
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
@@ -16,28 +17,28 @@ public void FillRectangles(Brush brush, Rectangle[] rects)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| rects | Rectangle[] | Anordnung von[`Rectangle`](../../rectangle/) Strukturen, die die zu füllenden Rechtecke darstellen. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| rects | Rectangle[] | Array von [`Rectangle`](../../rectangle/) Strukturen, die die zu füllenden Rechtecke darstellen. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null oder*rects* ist Null. |
+| ArgumentNullException | *brush* ist null oder *rects* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-Füllt das Innere einer Reihe von Rechtecken, die durch angegeben werden[`RectangleF`](../../rectanglef/) Strukturen.
+Füllt die Innenbereiche einer Reihe von Rechtecken, die durch [`RectangleF`](../../rectanglef/) Strukturen angegeben werden.
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
@@ -45,21 +46,21 @@ public void FillRectangles(Brush brush, RectangleF[] rects)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)die die Eigenschaften der Füllung bestimmt. |
-| rects | RectangleF[] | Anordnung von[`Rectangle`](../../rectangle/) Strukturen, die die zu füllenden Rechtecke darstellen. |
+| brush | Brush | [`Brush`](../../brush/) bestimmt die Eigenschaften der Füllung. |
+| rects | RectangleF[] | Array von [`Rectangle`](../../rectangle/) Strukturen, die die zu füllenden Rechtecke darstellen. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist null oder*rects* ist Null. |
+| ArgumentNullException | *brush* ist null oder *rects* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

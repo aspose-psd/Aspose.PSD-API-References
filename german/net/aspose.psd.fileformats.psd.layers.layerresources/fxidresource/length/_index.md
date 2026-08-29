@@ -1,14 +1,15 @@
 ---
-title: FXidResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FXidResource eigendom. Ruft die LayerRessourcenlänge in Bytes ab.
+title: "FXidResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FXidResource-Eigenschaft. Gibt die Länge der Ebenenressource in Bytes zurück"
 type: docs
-weight: 40
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/
 ---
+{{< psd/tize >}}
 ## FXidResource.Length property
 
-Ruft die Layer-Ressourcenlänge in Bytes ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [FXidResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

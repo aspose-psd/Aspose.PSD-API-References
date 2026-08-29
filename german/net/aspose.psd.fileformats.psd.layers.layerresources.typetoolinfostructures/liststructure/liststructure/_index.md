@@ -1,14 +1,15 @@
 ---
-title: ListStructure.ListStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ListStructure constructeur. Initialisiert eine neue Instanz vonListStructure Klasse.
+title: "ListStructure.ListStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ListStructure-Konstruktor. Initialisiert eine neue Instanz der ListStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure constructor
 
-Initialisiert eine neue Instanz von[`ListStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`ListStructure`](../)-Klasse.
 
 ```csharp
 public ListStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public ListStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ListStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

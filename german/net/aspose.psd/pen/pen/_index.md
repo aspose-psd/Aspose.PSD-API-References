@@ -1,14 +1,15 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen constructeur. Initialisiert eine neue Instanz vonPen Klasse mit der angegebenen Farbe.
+title: "Pen.Pen"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Konstruktor. Initialisiert eine neue Instanz der Pen-Klasse mit der angegebenen Farbe."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Pen`](../) Klasse mit der angegebenen Farbe.
+Initialisiert eine neue Instanz der [`Pen`](../)-Klasse mit der angegebenen Farbe.
 
 ```csharp
 public Pen(Color color)
@@ -16,20 +17,20 @@ public Pen(Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) Struktur, die die Farbe davon anzeigt[`Pen`](../). |
+| color | Color | Eine [`Color`](../color/)-Struktur, die die Farbe dieses [`Pen`](../) angibt. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Pen`](../) Klasse mit den angegebenen[`Color`](../color/) Und[`Width`](../width/) Eigenschaften.
+Initialisiert eine neue Instanz der [`Pen`](../)-Klasse mit den angegebenen [`Color`](../color/)- und [`Width`](../width/)-Eigenschaften.
 
 ```csharp
 public Pen(Color color, float width)
@@ -37,21 +38,21 @@ public Pen(Color color, float width)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/) Struktur, die die Farbe davon anzeigt[`Pen`](../). |
-| width | Single | Ein Wert, der die Breite davon angibt[`Pen`](../). |
+| color | Color | Eine [`Color`](../color/)-Struktur, die die Farbe dieses [`Pen`](../) angibt. |
+| width | Single | Ein Wert, der die Breite dieses [`Pen`](../) angibt. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Initialisiert eine neue Instanz von[`Pen`](../) Klasse mit den angegebenen[`Brush`](../brush/) .
+Initialisiert eine neue Instanz der [`Pen`](../)-Klasse mit dem angegebenen [`Brush`](../brush/).
 
 ```csharp
 public Pen(Brush brush)
@@ -59,26 +60,26 @@ public Pen(Brush brush)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) das bestimmt die Fülleigenschaften davon[`Pen`](../). |
+| brush | Brush | Ein [`Brush`](../brush/), der die Fülleigenschaften dieses [`Pen`](../) bestimmt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist Null. |
+| ArgumentNullException | *brush* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Pen`](../) Klasse mit den angegebenen[`Brush`](../brush/) Und[`Width`](../width/) .
+Initialisiert eine neue Instanz der [`Pen`](../)-Klasse mit dem angegebenen [`Brush`](../brush/) und [`Width`](../width/).
 
 ```csharp
 public Pen(Brush brush, float width)
@@ -86,20 +87,20 @@ public Pen(Brush brush, float width)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/) das bestimmt die Eigenschaften davon[`Pen`](../). |
-| width | Single | Die Breite des Neuen[`Pen`](../). |
+| brush | Brush | Ein [`Brush`](../brush/), der die Eigenschaften dieses [`Pen`](../) bestimmt. |
+| width | Single | Die Breite des neuen [`Pen`](../). |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *brush* ist Null. |
+| ArgumentNullException | *brush* ist null. |
 
 ### Siehe auch
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

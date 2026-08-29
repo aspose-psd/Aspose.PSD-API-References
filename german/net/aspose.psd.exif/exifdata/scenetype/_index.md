@@ -1,27 +1,28 @@
 ---
-title: ExifData.SceneType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Szenentyp ab oder legt ihn fest.
+title: "ExifData.SceneType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft den Szenentyp ab oder legt ihn fest"
 type: docs
 weight: 910
 url: /de/net/aspose.psd.exif/exifdata/scenetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneType property
 
-Ruft den Szenentyp ab oder legt ihn fest.
+Liest oder setzt den Szenentyp.
 
 ```csharp
 public byte SceneType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Szenentyp.
+Der Typ der Szene.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft die rote Farbkomponente ab oder legt sie fest.
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt den roten Farbanteil zurück oder legt ihn fest."
 type: docs
-weight: 130
+weight: 150
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-Ruft die rote Farbkomponente ab oder legt sie fest.
+Liest oder setzt die rote Farbkomponente.
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die rote Farbkomponente.
+Der rote Farbanteil.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

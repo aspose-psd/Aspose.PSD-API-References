@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die GPSEntfernung zum Zielpunkt ab oder legt sie fest.
+title: "ExifData.GPSDestDistance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die GPS-Entfernung zum Zielpunkt"
 type: docs
 weight: 420
 url: /de/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
-Ruft die GPS-Entfernung zum Zielpunkt ab oder legt sie fest.
+Liest oder setzt die GPS-Entfernung zum Zielpunkt.
 
 ```csharp
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die GPS-Entfernung zum Zielpunkt.
 
@@ -22,7 +23,7 @@ Die GPS-Entfernung zum Zielpunkt.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

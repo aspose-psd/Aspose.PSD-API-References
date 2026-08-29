@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt das Genre fest.
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt das Genre."
 type: docs
 weight: 220
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
 Legt das Genre fest.
@@ -16,12 +17,12 @@ public void SetGenre(string genre)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| genre | String | Das Genre. |
+| Genre | String | Das Genre. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class StrokeEffect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect klas. Der Adobe PhotoshopStricheffekt für die PSDEbene.
+title: "Klasse StrokeEffect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect Klasse. Der Adobe Photoshop Kontur-Effekt für die PSD-Ebene"
 type: docs
-weight: 2190
+weight: 2390
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
-Der Adobe® Photoshop®-Stricheffekt für die PSD-Ebene.
+Der Adobe® Photoshop®‑Strich‑Effekt für die PSD‑Ebene.
 
 ```csharp
 public class StrokeEffect : ILayerEffect
@@ -18,23 +19,29 @@ public class StrokeEffect : ILayerEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | Ruft eine Art Effekt ab |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Ruft die Fülleinstellungen ab oder legt sie fest. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | Ruft die Deckkraft ab oder legt sie fest. |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`StrokeEffect` wird Striche mit aktuellen Ebeneninhalten mischen. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Ruft die Position des Stricheffekts ab oder legt sie fest, um die Ausrichtung Ihres Strichs am Inhalt der PSD-Ebene zu steuern. Der Wert kann seinInside Um einen Strich innerhalb des Inhalts der PSD-Ebene zu zeichnen, oderOutside Um einen Strich um den Inhalt der PSD-Ebene zu zeichnen, undCenter um Striche sowohl innen als auch außen zu zeichnen. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Ruft die Breite des Stricheffekts ab oder legt sie fest. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | Liest oder setzt den Mischmodus. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | Liest einen Effekttyp |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Liest oder setzt die Füll-Einstellungen. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | Liest oder setzt die Deckkraft. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob dieser `StrokeEffect` die Kontur mit dem aktuellen Ebeneninhalt mischt. |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | Liest oder legt die Position des Strich‑Effekts fest, um die Ausrichtung Ihres Strichs am PSD‑Ebeneninhalt zu steuern. Der Wert kann Inside sein, um den Strich innerhalb des PSD‑Ebeneninhalts zu zeichnen, Outside, um den Strich um den PSD‑Ebeneninhalt zu zeichnen, und Center, um den Strich sowohl innerhalb als auch außerhalb zu zeichnen. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | Liest oder legt die Breite des Strich‑Effekts fest. |
 
-### Beispiele
+## Methoden
 
-Das folgende Codebeispiel zeigt das Rendern des Stroke-Effekts mit Farbfüllung.
+| Name | Beschreibung |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel. |
+
+## Beispiele
+
+Das folgende Codebeispiel zeigt die Darstellung des Stroke‑Effekts mit Color Fill.
 
 ```csharp
 [C#]
 
-// Rendern des Stroke-Effekts mit Farbfüllung für den Export implementieren
+// Implementieren Sie die Darstellung des Stroke‑Effekts mit Color Fill für den Export
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -53,7 +60,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 
     // PSD speichern
     im.Save(exportPath, new PsdOptions());
-    // png speichern
+    // PNG speichern
     im.Save(exportPathPng, new PngOptions()
     {
         ColorType = PngColorType.TruecolorWithAlpha
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-Der folgende Code demonstriert die Unterstützung der Stricheffektebene mit dem Fülltyp „Farbe“.
+Der folgende Code demonstriert die Unterstützung der Strich-Effekt-Ebene mit dem Fülltyp - Farbe.
 
 ```csharp
 [C#]
@@ -101,7 +108,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Datei nach Bearbeitung testen
+// Testdatei nach Bearbeitung
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Der folgende Code demonstriert die Unterstützung der Stricheffektebene mit dem Fülltyp Muster.
+Der folgende Code demonstriert die Unterstützung der Strich-Effekt-Ebene mit Fülltyp - Pattern.
 
 ```csharp
 [C#]
@@ -195,7 +202,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Datei nach Bearbeitung testen
+// Testdatei nach Bearbeitung
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -214,7 +221,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Überprüfen Sie die Musterdaten
+    // Prüfen Sie die Musterdaten
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-Der folgende Code demonstriert die Unterstützung der Stricheffektebene mit dem Fülltyp „Verlauf“.
+Der folgende Code demonstriert die Unterstützung der Strich‑Effekt‑Ebene mit Fülltyp – Gradient.
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -277,7 +283,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // Farbpunkte
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -289,7 +296,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // Transparenzpunkte
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -300,9 +307,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // Bearbeitung testen
-    fillSettings.Color = Color.Green;
-
+    // Testbearbeitung
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -315,27 +320,27 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.Reverse = true;
 
     // Neuen Farbpunkt hinzufügen
-    var colorPoint = fillSettings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // Position des vorherigen Punktes ändern
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
     // Neuen Transparenzpunkt hinzufügen
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
     // Position des vorherigen Transparenzpunkts ändern
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
 
-// Datei nach Bearbeitung testen
+// Testdatei nach Bearbeitung
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var gradientStroke = (StrokeEffect)im.Layers[2].BlendingOptions.Effects[0];
@@ -345,41 +350,41 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // Farbpunkte prüfen
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // Transparente Punkte prüfen
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // Transparenzpunkte prüfen
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
@@ -389,7 +394,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Siehe auch
 
 * interface [ILayerEffect](../ilayereffect/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

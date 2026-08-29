@@ -1,11 +1,12 @@
 ---
-title: Interface IColorConverter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IColorConverter koppel. Der Farbkonverter.
+title: "Interface IColorConverter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IColorConverter Schnittstelle. Der Farbkonverter"
 type: docs
-weight: 4380
+weight: 4850
 url: /de/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
 Der Farbkonverter.
@@ -22,7 +23,7 @@ public interface IColorConverter
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

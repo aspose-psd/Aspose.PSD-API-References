@@ -1,11 +1,12 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat opsomming. Das erwartete TIFFDateiformat.
+title: "Aufzählung TiffExpectedFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat enum. Das erwartete TIFF-Dateiformat"
 type: docs
-weight: 4070
+weight: 4540
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
 Das erwartete TIFF-Dateiformat.
@@ -18,26 +19,26 @@ public enum TiffExpectedFormat
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Default | `0` | Das Standard-TIFF-Format ist keine Komprimierung mit nur S/W-1-Bit-pro-Pixel-Format. Sie können diese Einstellung auch verwenden, um leere Optionen zu erhalten und mit Ihren Tags oder anderen Einstellungen zu initialisieren. |
-| TiffLzwBw | `1` | Das TIFF-Format mit LZW-Komprimierung und nur S/W-1-Bit-pro-Pixel-Format. |
-| TiffLzwRgb | `2` | Das TIFF mit LZW-Komprimierung und RGB-Farbformat. |
-| TiffLzwRgba | `3` | Das TIFF mit LZW-Komprimierung und RGBA mit transparentem Farbformat. |
-| TiffLzwCmyk | `4` | Das Tiff-LZW cmyk |
-| TiffCcittFax3 | `5` | Die tiff CCITT FAX3-Kodierung. S/W 1 Bit pro Pixel wird nur für dieses Schema unterstützt. |
-| TiffCcittFax4 | `6` | Die tiff CCITT FAX4-Kodierung. S/W 1 Bit pro Pixel wird nur für dieses Schema unterstützt. |
-| TiffDeflateBw | `7` | Das TIFF-Format mit Deflate-Komprimierung und nur S/W-Format mit 1 Bit pro Pixel. |
-| TiffDeflateRgb | `8` | Das TIFF mit Deflate-Komprimierung und RGB-Farbformat. |
-| TiffDeflateRgba | `9` | Das TIFF mit Deflate-Komprimierung und RGBA-Farbformat. |
-| TiffCcitRle | `10` | Die tiff-CCITT-RLE-Codierung. S/W 1 Bit pro Pixel wird nur für dieses Schema unterstützt. |
-| TiffJpegRgb | `11` | Das TIFF mit JPEG-Komprimierung und RGB-Farbformat. |
-| TiffJpegYCbCr | `12` | Die TIFF-Datei mit JPEG-Komprimierung und YCBCR-Farbformat. |
-| TiffNoCompressionBw | `13` | Das unkomprimierte TIFF- und S/W-Format nur 1 Bit pro Pixel. |
-| TiffNoCompressionRgb | `14` | Das unkomprimierte TIFF- und RGB-Farbformat. |
-| TiffNoCompressionRgba | `15` | Das unkomprimierte TIFF- und RGBA-Farbformat mit Transparenz. |
+| Default | `0` | Das Standard-TIFF-Format ist unkomprimiert mit ausschließlich B/W 1-Bit-pro-Pixel-Format. Sie können diese Einstellung auch verwenden, um leere Optionen zu erhalten und mit Ihren Tags oder anderen Einstellungen zu initialisieren. |
+| TiffLzwBw | `1` | Das TIFF mit LZW-Kompression und ausschließlich B/W 1-Bit-pro-Pixel-Format. |
+| TiffLzwRgb | `2` | Das TIFF mit LZW-Kompression und RGB-Farbformat. |
+| TiffLzwRgba | `3` | Das TIFF mit LZW-Kompression und RGBA mit Transparenzfarbformat. |
+| TiffLzwCmyk | `4` | Das tiff LZW cmyk |
+| TiffCcittFax3 | `5` | Das tiff CCITT FAX3 Encoding. Nur B/W 1 Bit pro Pixel wird für dieses Schema unterstützt. |
+| TiffCcittFax4 | `6` | Das tiff CCITT FAX4 Encoding. Nur B/W 1 Bit pro Pixel wird für dieses Schema unterstützt. |
+| TiffDeflateBw | `7` | Das tiff mit Deflate-Kompression und nur B/W 1 Bit pro Pixel Format. |
+| TiffDeflateRgb | `8` | Das tiff mit Deflate-Kompression und RGB-Farbformat. |
+| TiffDeflateRgba | `9` | Das tiff mit Deflate-Kompression und RGBA-Farbformat. |
+| TiffCcitRle | `10` | Das tiff CCITT RLE Encoding. Nur B/W 1 Bit pro Pixel wird für dieses Schema unterstützt. |
+| TiffJpegRgb | `11` | Das tiff mit JPEG-Kompression und RGB-Farbformat. |
+| TiffJpegYCbCr | `12` | Das tiff mit JPEG-Kompression und YCBCR-Farbformat. |
+| TiffNoCompressionBw | `13` | Das unkomprimierte tiff und nur B/W 1 Bit pro Pixel Format. |
+| TiffNoCompressionRgb | `14` | Das unkomprimierte tiff und RGB-Farbformat. |
+| TiffNoCompressionRgba | `15` | Das unkomprimierte tiff und RGBA mit Transparenz-Farbformat. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

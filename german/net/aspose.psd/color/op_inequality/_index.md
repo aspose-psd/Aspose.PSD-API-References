@@ -1,14 +1,15 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color methode. Testet ob zwei angegeben sindColor Strukturen sind unterschiedlich.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color-Methode. Prüft, ob zwei angegebene Color-Strukturen unterschiedlich sind."
 type: docs
-weight: 1630
+weight: 1650
 url: /de/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Testet, ob zwei angegeben sind[`Color`](../) Strukturen sind unterschiedlich.
+Prüft, ob zwei angegebene [`Color`](../)-Strukturen unterschiedlich sind.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator !=(Color left, Color right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Color | Der[`Color`](../) das ist links vom Ungleichheitsoperator. |
-| right | Color | Der[`Color`](../) das ist rechts vom Ungleichheitsoperator. |
+| left | Color | Das [`Color`](../), das sich links vom Ungleichheitsoperator befindet. |
+| right | Color | Das [`Color`](../), das sich rechts vom Ungleichheitsoperator befindet. |
 
 ### Rückgabewert
 
-Stimmt, wenn die beiden[`Color`](../) Strukturen sind unterschiedlich; andernfalls falsch.
+Wahr, wenn die beiden [`Color`](../)-Strukturen unterschiedlich sind; andernfalls falsch.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TiffSampleFormats
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats opsomming. Beispielformat enum
+title: "Enum TiffSampleFormats"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffSampleFormats enum. Beispiel-Format-Enum"
 type: docs
-weight: 4160
+weight: 4630
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffsampleformats/
 ---
+{{< psd/tize >}}
 ## TiffSampleFormats enumeration
 
-Beispielformat enum
+Sample-Format-Aufzählung
 
 ```csharp
 public enum TiffSampleFormats
@@ -18,16 +19,16 @@ public enum TiffSampleFormats
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Uint | `1` | Ganzzahl ohne Vorzeichen data |
-| Int | `2` | Ganzzahl mit Vorzeichen data |
+| Uint | `1` | Vorzeichenlose Ganzzahldaten |
+| Int | `2` | Vorzeichenbehaftete Ganzzahldaten |
 | IeeeFp | `3` | IEEE-Gleitkommadaten |
-| Void | `4` | Untypisierte Daten |
-| ComplexInt | `5` | Komplex vorzeichenbehaftet int |
-| ComplexIeeeFp | `6` | Komplex ieee Floating |
+| Void | `4` | Nicht typisierte Daten |
+| ComplexInt | `5` | Komplexe vorzeichenbehaftete Ganzzahl |
+| ComplexIeeeFp | `6` | Komplexes IEEE-Gleitkomma |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

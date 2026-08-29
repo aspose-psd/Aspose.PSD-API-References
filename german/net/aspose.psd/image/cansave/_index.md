@@ -1,14 +1,15 @@
 ---
-title: Image.CanSave
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Legt fest ob das Bild in dem angegebenen Dateiformat gespeichert werden kann das durch die übergebenen Speicheroptionen repräsentiert wird.
+title: "Image.CanSave"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Bestimmt, ob das Bild im angegebenen Dateiformat, das durch die übergebenen Speicheroptionen repräsentiert wird, gespeichert werden kann"
 type: docs
-weight: 160
+weight: 170
 url: /de/net/aspose.psd/image/cansave/
 ---
+{{< psd/tize >}}
 ## Image.CanSave method
 
-Legt fest, ob das Bild in dem angegebenen Dateiformat gespeichert werden kann, das durch die übergebenen Speicheroptionen repräsentiert wird.
+Bestimmt, ob das Bild im angegebenen Dateiformat, das durch die übergebenen Speicheroptionen dargestellt wird, gespeichert werden kann.
 
 ```csharp
 public bool CanSave(ImageOptionsBase options)
@@ -16,17 +17,17 @@ public bool CanSave(ImageOptionsBase options)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| options | ImageOptionsBase | Die zu verwendenden Speicheroptionen. |
+| Optionen | ImageOptionsBase | Die zu verwendenden Speicheroptionen. |
 
 ### Rückgabewert
 
-`WAHR` wenn das Bild in dem angegebenen Dateiformat gespeichert werden kann, das durch die übergebenen Speicheroptionen dargestellt wird; ansonsten,`FALSCH` .
+`true`, wenn das Bild im angegebenen Dateiformat, das durch die übergebenen Speicheroptionen repräsentiert wird, gespeichert werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

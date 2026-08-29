@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorBalanceAdjustmentLayer eigendom. Ruft die MagentaGrünBalance für Mitteltöne ab oder legt sie fest.
+title: "ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorBalanceAdjustmentLayer-Eigenschaft. Ruft die Mitten-Magenta-Grün-Balance ab oder legt sie fest."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance property
 
-Ruft die Magenta-Grün-Balance für Mitteltöne ab oder legt sie fest.
+Ruft den Mitten‑Magenta‑Grün‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-The Midtones Magenta Green Balance.
+Die Mitten-Magenta-Grün-Balance.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Mitteltöne Magenta Grün Balance muss im Bereich von -100 bis +100 liegen. |
+| ArgumentOutOfRangeException | Mitten-Magenta-Grün-Balance muss im Bereich von -100 bis +100 liegen. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung für ColorBalanceAdjustmentLayer.
+Der folgende Code demonstriert die Unterstützung für die ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Siehe auch
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

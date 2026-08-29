@@ -1,14 +1,15 @@
 ---
-title: Point.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Point methode. Gibt an ob diesPoint enthält dieselben Koordinaten wie die angegebenenObject .
+title: "Point.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Point-Methode. Gibt an, ob dieser Point dieselben Koordinaten wie das angegebene Objekt enthält"
 type: docs
 weight: 110
 url: /de/net/aspose.psd/point/equals/
 ---
+{{< psd/tize >}}
 ## Point.Equals method
 
-Gibt an, ob dies[`Point`](../) enthält dieselben Koordinaten wie die angegebenenObject .
+Gibt an, ob dieser [`Point`](../) dieselben Koordinaten wie das angegebene Objekt enthält.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject zu testen. |
+| obj | Object | Das Objekt zum Testen. |
 
 ### Rückgabewert
 
-Wahr, wenn*obj* ist ein[`Point`](../) und hat die gleichen Koordinaten wie diese[`Point`](../).
+Wahr, wenn *obj* ein [`Point`](../) ist und dieselben Koordinaten wie dieses [`Point`](../) hat.
 
 ### Siehe auch
 
 * struct [Point](../)
-* namensraum [Aspose.PSD](../../point/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

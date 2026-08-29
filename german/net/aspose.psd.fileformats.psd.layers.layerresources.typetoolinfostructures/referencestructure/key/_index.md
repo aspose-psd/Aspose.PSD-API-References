@@ -1,14 +1,15 @@
 ---
-title: ReferenceStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ReferenceStructure eigendom. Ruft den Strukturschlüssel ab.
+title: "ReferenceStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ReferenceStructure-Eigenschaft. Gibt den Strukturschlüssel zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/key/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Key property
 
-Ruft den Strukturschlüssel ab.
+Liest den Struktur-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [ReferenceStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

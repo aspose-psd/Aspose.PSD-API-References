@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlackWhiteAdjustmentLayer eigendom. Ruft den BluesWert ab oder setzt ihn.
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlackWhiteAdjustmentLayer Eigenschaft. Gibt den Blauwert zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-Ruft den Blues-Wert ab oder setzt ihn.
+Liest oder setzt den blues Wert.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Blues-Wert.
+Der Blauwert.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie die Schwarz-Weiß-Anpassungsebene zur Laufzeit in Aspose.PSD hinzufügen können
+Das folgende Beispiel zeigt, wie Sie die black white Anpassungsebene zur Laufzeit in Aspose.PSD hinzufügen können.
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Das folgende Beispiel zeigt, wie Sie die Eigenschaften der Schwarz-Weiß-Anpassungsebene in Aspose.PSD bearbeiten können
+Das folgende Beispiel zeigt, wie Sie die Eigenschaften des Schwarz-Weiß-Anpassungslayers in Aspose.PSD manipulieren können.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

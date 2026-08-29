@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageLoadersRegistry methode. Hebt die Registrierung des Loaders auf.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageLoadersRegistry-Methode. Entfernt die Registrierung des Loaders."
 type: docs
 weight: 90
 url: /de/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-Hebt die Registrierung des Loaders auf.
+Meldet den Lader ab.
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Der Loader-Deskriptor, dessen Registrierung aufgehoben werden soll. |
+| loaderDescriptor | IImageLoaderDescriptor | Der Loader-Deskriptor, der abgemeldet werden soll. |
 
 ### Siehe auch
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namensraum [Aspose.PSD](../../imageloadersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

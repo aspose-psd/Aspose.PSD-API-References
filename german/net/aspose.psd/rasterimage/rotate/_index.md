@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Bild um die Mitte drehen.
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage Methode. Bild um das Zentrum drehen"
 type: docs
-weight: 480
+weight: 490
 url: /de/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Bild um die Mitte drehen.
+Dreht das Bild um die Mitte.
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,9 +17,9 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| angle | Single | Der Drehwinkel in Grad. Positive Werte rotieren im Uhrzeigersinn. |
-| resizeProportionally | Boolean | wenn eingestellt`WAHR` Sie werden Ihre Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) ändern lassen, in einem anderen Fall, der die Abmessungen unberührt lässt und nur interne Bildinhalte gedreht werden. |
-| backgroundColor | Color | Farbe des Hintergrunds. |
+| Winkel | Single | Der Drehwinkel in Grad. Positive Werte drehen im Uhrzeigersinn. |
+| resizeProportionally | Boolean | Wenn auf `true` gesetzt, wird die Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) geändert; andernfalls bleiben die Abmessungen unverändert und nur der interne Bildinhalt wird gedreht. |
+| backgroundColor | Farbe | Farbe des Hintergrunds. |
 
 ### Ausnahmen
 
@@ -30,14 +31,14 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Bild um die Mitte drehen.
+Dreht das Bild um die Mitte.
 
 ```csharp
 public virtual void Rotate(float angle)
@@ -45,12 +46,12 @@ public virtual void Rotate(float angle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| angle | Single | Der Drehwinkel in Grad. Positive Werte rotieren im Uhrzeigersinn. |
+| Winkel | Single | Der Drehwinkel in Grad. Positive Werte drehen im Uhrzeigersinn. |
 
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

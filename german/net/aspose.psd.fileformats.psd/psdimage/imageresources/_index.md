@@ -1,20 +1,21 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft die PSDBildressourcen ab oder legt sie fest.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt die PSD-Bildressourcen zurück oder legt sie fest"
 type: docs
 weight: 180
 url: /de/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-Ruft die PSD-Bildressourcen ab oder legt sie fest.
+Liest oder setzt die PSD-Bildressourcen.
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die PSD-Bildressourcen.
 
@@ -22,7 +23,7 @@ Die PSD-Bildressourcen.
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

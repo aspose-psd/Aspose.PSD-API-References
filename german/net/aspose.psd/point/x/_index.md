@@ -1,14 +1,15 @@
 ---
-title: Point.X
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Point eigendom. Holt oder setzt die xKoordinate davonPoint .
+title: "Point.X"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Point-Eigenschaft. Liest oder schreibt die x-Koordinate dieses Point."
 type: docs
 weight: 90
 url: /de/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-Holt oder setzt die x-Koordinate davon[`Point`](../) .
+Liest oder setzt die X‑Koordinate dieses [`Point`](../).
 
 ```csharp
 public int X { get; set; }
@@ -17,7 +18,7 @@ public int X { get; set; }
 ### Siehe auch
 
 * struct [Point](../)
-* namensraum [Aspose.PSD](../../point/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

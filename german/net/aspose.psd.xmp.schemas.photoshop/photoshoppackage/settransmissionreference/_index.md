@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Setzt die Sendereferenz.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt die Übertragungsreferenz"
 type: docs
 weight: 190
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
-Setzt die Sendereferenz.
+Setzt die Übertragungsreferenz.
 
 ```csharp
 public void SetTransmissionReference(string transmissionReference)
@@ -21,7 +22,7 @@ public void SetTransmissionReference(string transmissionReference)
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

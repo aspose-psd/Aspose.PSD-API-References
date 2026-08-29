@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Animation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält PSDAnpassungsebenen.
+title: "Aspose.PSD.FileFormats.Psd.Layers.Animation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält PSD-Anpassungsebenen"
 type: docs
-weight: 230
+weight: 250
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/
 ---
-Der Namensraum enthält PSD-Anpassungsebenen.
+{{< psd/tize >}}
+Der Namespace enthält PSD-Anpassungsebenen.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [Frame](./frame/) | Die Optionen des Zeitlinienrahmenelements. |
-| [LayerState](./layerstate/) | Die Optionen für den Status der Zeitachsenebene. |
-| [LayerStateEffects](./layerstateeffects/) | Die Ebenenstatuseffekte. |
-| [TimeLine](./timeline/) | Das Zeitlinienoptionsmodell. |
+| [Frame](./frame/) | Die Optionen des Zeitlinien-Frame-Elements. |
+| [LayerState](./layerstate/) | Die Optionen des Zeitlinien-Layer-Zustands. |
+| [LayerStateEffects](./layerstateeffects/) | Die Effekte des Layer-Zustands. |
+| [Timeline](./timeline/) | Das Modell der Zeitlinienoptionen. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [FrameDisposalMethod](./framedisposalmethod/) | Die Frame-Entsorgungsmethode gibt an, ob der aktuelle Frame verworfen werden soll, bevor der nächste Frame angezeigt wird. Sie wählen eine Entsorgungsmethode für Animationen mit Hintergrundtransparenz aus, um anzugeben, ob der aktuelle Frame durch die transparenten Bereiche des nächsten Frames sichtbar ist. |
+| [FrameDisposalMethod](./framedisposalmethod/) | Die Frame-Entsorgungsmethode gibt an, ob das aktuelle Frame verworfen werden soll, bevor das nächste Frame angezeigt wird. Sie wählen eine Entsorgungsmethode für Animationen mit Hintergrundtransparenz, um festzulegen, ob das aktuelle Frame durch die transparenten Bereiche des nächsten Frames sichtbar sein wird. |
 
 

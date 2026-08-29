@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.BottomRight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeRadiiRectangle eigendom. Holt oder setzt die untere rechte Seite.
+title: "VectorShapeRadiiRectangle.BottomRight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeRadiiRectangle Eigenschaft. Liest oder setzt den unteren rechten Wert"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.BottomRight property
 
-Holt oder setzt die untere rechte Seite.
+Liest oder setzt die untere rechte Ecke.
 
 ```csharp
 public double BottomRight { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Unten rechts.
+Der untere rechte Teil.
 
 ### Siehe auch
 
 * class [VectorShapeRadiiRectangle](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ProjectLink eigendom. Ruft den Dateityp ab oder legt ihn fest.
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ProjectLink-Eigenschaft. Liest oder schreibt den Dateityp."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
-Ruft den Dateityp ab oder legt ihn fest.
+Liest oder setzt den Dateityp.
 
 ```csharp
 public ProjectType Type { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Dateityp.
 
@@ -22,7 +23,7 @@ Der Dateityp.
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

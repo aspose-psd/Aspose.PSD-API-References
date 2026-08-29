@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.ChannelId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: QuickMaskInformationResource eigendom. Ruft die Kanalkennung ab oder legt sie fest.
+title: "QuickMaskInformationResource.ChannelId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "QuickMaskInformationResource-Eigenschaft. Liest die Kanalkennung aus oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.ChannelId property
 
-Ruft die Kanalkennung ab oder legt sie fest.
+Liest oder setzt den Kanalbezeichner.
 
 ```csharp
 public short ChannelId { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kanalkennung.
 
 ### Siehe auch
 
 * class [QuickMaskInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

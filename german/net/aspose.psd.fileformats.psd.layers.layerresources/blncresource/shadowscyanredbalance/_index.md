@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlncResource eigendom. Ruft die SchattenCyanRotBalance ab oder legt sie fest.
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlncResource-Eigenschaft. Gibt das Schatten‑Cyan‑Rot‑Gleichgewicht zurück oder setzt es"
 type: docs
-weight: 120
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-Ruft die Schatten-Cyan-Rot-Balance ab oder legt sie fest.
+Ruft den Schatten‑Cyan‑Rot‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Shadows Cyan-Rot-Balance.
+Die Schatten-Cyan-Rot-Balance.
 
 ### Siehe auch
 
 * class [BlncResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

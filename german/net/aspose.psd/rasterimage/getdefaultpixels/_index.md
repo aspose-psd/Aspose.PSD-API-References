@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultPixels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Ruft das StandardPixelArray mit partiellem PixelLoader ab.
+title: "RasterImage.GetDefaultPixels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Gibt das Standard‑Pixel‑Array unter Verwendung des partiellen Pixel‑Loaders zurück."
 type: docs
 weight: 290
 url: /de/net/aspose.psd/rasterimage/getdefaultpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultPixels method
 
-Ruft das Standard-Pixel-Array mit partiellem Pixel-Loader ab.
+Liefert das Standard‑Pixel‑Array unter Verwendung eines partiellen Pixel‑Laders.
 
 ```csharp
 public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader partialPixelLoader)
@@ -16,7 +17,7 @@ public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader part
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das Pixel abgerufen werden sollen. |
+| Rechteck | Rectangle | Das Rechteck, für das die Pixel abgerufen werden sollen. |
 | partialPixelLoader | IPartialArgb32PixelLoader | Der partielle Pixel-Loader. |
 
 ### Siehe auch
@@ -24,7 +25,7 @@ public void GetDefaultPixels(Rectangle rectangle, IPartialArgb32PixelLoader part
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialArgb32PixelLoader](../../ipartialargb32pixelloader/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

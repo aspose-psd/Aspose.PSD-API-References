@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.PostScriptName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextFontInfo eigendom. Ruft den PostScriptNamen ab
+title: "TextFontInfo.PostScriptName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextFontInfo-Eigenschaft. Gibt den PostScript-Namen zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.PostScriptName property
 
 Ruft den PostScript-Namen ab
@@ -14,14 +15,14 @@ Ruft den PostScript-Namen ab
 public string PostScriptName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 PostScript-Name
 
 ### Siehe auch
 
 * class [TextFontInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

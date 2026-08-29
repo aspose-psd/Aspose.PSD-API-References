@@ -1,20 +1,21 @@
 ---
-title: ExifData.ColorSpace
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Farbraum ab oder legt ihn fest.
+title: "ExifData.ColorSpace"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den Farbraum."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.exif/exifdata/colorspace/
 ---
+{{< psd/tize >}}
 ## ExifData.ColorSpace property
 
-Ruft den Farbraum ab oder legt ihn fest.
+Liest oder setzt den Farbraum.
 
 ```csharp
 public ExifColorSpace ColorSpace { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Farbraum.
 
@@ -22,7 +23,7 @@ Der Farbraum.
 
 * enum [ExifColorSpace](../../../aspose.psd.exif.enums/exifcolorspace/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft die Ausrichtung ab oder legt sie fest.
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft die Orientierung ab oder legt sie fest"
 type: docs
 weight: 120
 url: /de/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
-Ruft die Ausrichtung ab oder legt sie fest.
+Liest oder setzt die Orientierung.
 
 ```csharp
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ausrichtung.
+Die Orientierung.
 
 ### Siehe auch
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

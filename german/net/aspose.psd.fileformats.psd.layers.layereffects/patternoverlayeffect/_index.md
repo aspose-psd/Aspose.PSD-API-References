@@ -1,14 +1,15 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect klas. Musterebeneneffekt
+title: "Klasse PatternOverlayEffect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect Klasse. Pattern Ebenen-Effekt"
 type: docs
-weight: 2180
+weight: 2380
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Musterebeneneffekt
+Muster‑Ebeneneffekt
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -18,15 +19,21 @@ public class PatternOverlayEffect : ILayerEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Ruft einen Effekttyp type ab |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Ruft die Deckkraft ab oder legt sie fest. |
-| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Ruft die Einstellungen ab oder legt sie fest. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Liest oder setzt den Mischmodus. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Liest einen Effekt-Typ. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Liest oder setzt die Deckkraft. |
+| [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Liest oder setzt die Einstellungen. |
 
-### Beispiele
+## Methoden
 
-Der folgende Code demonstriert die Unterstützung des Musterüberlagerungseffekts.
+| Name | Beschreibung |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel. |
+
+## Beispiele
+
+Der folgende Code demonstriert die Unterstützung des Pattern-Overlay-Effekts.
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // Bearbeitung testen
+    // Testbearbeitung
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -114,7 +121,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Datei nach Bearbeitung testen
+// Testdatei nach Bearbeitung
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternOverlay = (PatternOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -141,7 +148,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // Überprüfen Sie die Musterdaten
+    // Prüfen Sie die Musterdaten
     AssertAreEqual(newPattern, resource.Patterns[1].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[1].Width, resource.Patterns[1].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[1].PatternId);
@@ -152,7 +159,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### Siehe auch
 
 * interface [ILayerEffect](../ilayereffect/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

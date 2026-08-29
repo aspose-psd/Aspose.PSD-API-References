@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextureBrush eigendom. Ruft die abRectangle damit verbundenTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextureBrush-Eigenschaft. Gibt das Rectangle zurück, das mit diesem TextureBrush verknüpft ist."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-Ruft die ab[`Rectangle`](../../../aspose.psd/rectangle/) damit verbunden[`TextureBrush`](../) .
+Gibt das [`Rectangle`](../../../aspose.psd/rectangle/) zurück, das mit diesem [`TextureBrush`](../) verknüpft ist.
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der[`Rectangle`](../../../aspose.psd/rectangle/).
+Das [`Rectangle`](../../../aspose.psd/rectangle/).
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

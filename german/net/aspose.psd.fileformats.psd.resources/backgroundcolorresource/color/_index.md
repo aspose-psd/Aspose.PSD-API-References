@@ -1,22 +1,23 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BackgroundColorResource eigendom. Ruft die Hintergrundfarbe ab oder legt sie fest.
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BackgroundColorResource-Eigenschaft. Gibt die Hintergrundfarbe zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-Ruft die Hintergrundfarbe ab oder legt sie fest.
+Liest oder setzt die Hintergrundfarbe.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung der BackgroundColorResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der BackgroundColorResource-Ressource.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

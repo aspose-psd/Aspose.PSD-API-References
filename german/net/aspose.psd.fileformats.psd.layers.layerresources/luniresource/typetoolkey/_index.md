@@ -1,14 +1,15 @@
 ---
-title: LuniResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LuniResource veld. Der TypToolInfoSchlüssel.
+title: "LuniResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LuniResource-Feld. Der Typwerkzeug-Info-Schlüssel."
 type: docs
-weight: 80
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LuniResource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [LuniResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

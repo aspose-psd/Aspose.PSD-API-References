@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputShadowLevel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LevelChannel eigendom. Ruft die Eingangsschattenstufe ab oder legt sie fest.
+title: "LevelChannel.InputShadowLevel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LevelChannel‑Eigenschaft. Gibt den Eingabe‑Schatten‑Level zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputShadowLevel property
 
-Ruft die Eingangsschattenstufe ab oder legt sie fest.
+Liest oder setzt den Eingabe-Schattenwert.
 
 ```csharp
 public short InputShadowLevel { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Eingangsschattenstufe.
+Der Eingabe‑Schatten‑Level.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Shadow Level kann nur im Bereich von 0 bis " + gesetzt werden (this.InputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Der Eingabe‑Schatten‑Level kann nur im Bereich von 0 bis " + (this.InputHighlightLevel - 2) festgelegt werden |
 
 ### Siehe auch
 
 * class [LevelChannel](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

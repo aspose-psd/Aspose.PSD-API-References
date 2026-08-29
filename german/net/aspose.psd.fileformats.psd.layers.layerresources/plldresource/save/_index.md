@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlLdResource methode. Speichert die PlLDRessource im angegebenen StreamContainer.
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlLdResource-Methode. Speichert die PlLD-Ressource in den angegebenen Stream-Container"
 type: docs
-weight: 50
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-Speichert die PlLD-Ressource im angegebenen Stream-Container.
+Speichert die PlLD‑Ressource im angegebenen Stream‑Container.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,10 +17,10 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
 | psdVersion | Int32 | Die PSD-Version. |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der PlLdResource-Ressource.
 
@@ -203,15 +204,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,7 +230,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

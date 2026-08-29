@@ -1,14 +1,15 @@
 ---
-title: TimeLine.ApplyTo
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TimeLine methode. Wende aktuelle Zeitlinienwerte auf die Eingabe anPsdImage .
+title: "TimeLine.ApplyTo"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TimeLine-Methode. Wendet aktuelle Zeitlinienwerte auf das Eingabe-PsdImage an"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/timeline/applyto/
 ---
+{{< psd/tize >}}
 ## TimeLine.ApplyTo method
 
-Wende aktuelle Zeitlinienwerte auf die Eingabe an[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/) .
+Wendet aktuelle Zeitlinienwerte auf das Eingabe-[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/).
 
 ```csharp
 public void ApplyTo(PsdImage psdImage)
@@ -16,11 +17,11 @@ public void ApplyTo(PsdImage psdImage)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| psdImage | PsdImage | Das psd-Bild. |
+| psdImage | PsdImage | Das psd‑Bild. |
 
-### Beispiele
+## Beispiele
 
-Die TimeLine-Klasse bietet eine allgemeine Möglichkeit, die Zeitleiste von PsdImage zu manipulieren, z. B. das Ändern der Frame-Verzögerung oder das Bearbeiten des Ebenenstatus auf einem bestimmten Frame.
+Die TimeLine‑Klasse bietet eine hochrangige Möglichkeit, die Timeline von PsdImage zu manipulieren, z. B. die Bildverzögerung zu ändern oder den Layer‑Zustand in einem bestimmten Bild zu bearbeiten.
 
 ```csharp
 [C#]
@@ -32,26 +33,26 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
     TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
 
-    // Löschmethode von Frame 1 ändern
+    // Ändere die Dispose-Methode von Frame 1
     timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Verzögerung von Frame 2 ändern
+    // Ändere die Verzögerung von Frame 2
     timeLine.Frames[1].Delay = 15;
 
-    // Deckkraft von 'Layer 1' auf Frame 2 ändern
+    // Ändere die Deckkraft von 'Layer 1' in Frame 2
     LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
     layerState11.Opacity = 50;
 
-    // 'Layer 1' in die linke untere Ecke von Frame 3 verschieben
+    // Verschiebe 'Layer 1' in die linke untere Ecke in Frame 3
     LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Fügt einen neuen Rahmen hinzu
+    // Fügt einen neuen Frame hinzu
     List<Frame> frames = new List<Frame>(timeLine.Frames);
     frames.Add(new Frame(timeLine));
     timeLine.Frames = frames.ToArray();
 
-    // BlendMode von 'Layer 1' auf Frame 4 ändern
+    // Ändere den blendMode von 'Layer 1' in Frame 4
     LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
     layerState31.BlendMode = BlendMode.Dissolve;
 
@@ -65,7 +66,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [TimeLine](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

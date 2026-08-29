@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginShapeBox
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeOriginSettings eigendom. Ruft den Begrenzungsrahmen der Ursprungsform ab oder legt ihn fest.
+title: "VectorShapeOriginSettings.OriginShapeBox"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeOriginSettings-Eigenschaft. Gibt die Begrenzungsbox der Ursprungform zurück oder legt sie fest"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginShapeBox property
 
-Ruft den Begrenzungsrahmen der Ursprungsform ab oder legt ihn fest.
+Liest oder setzt den Begrenzungsrahmen der Ursprungsgestalt.
 
 ```csharp
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Ursprungsformfeld.
+Die Ursprung-Form-Box.
 
 ### Siehe auch
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

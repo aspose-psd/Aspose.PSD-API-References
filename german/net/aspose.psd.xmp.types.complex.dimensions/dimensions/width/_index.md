@@ -1,20 +1,21 @@
 ---
-title: Dimensions.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Dimensions eigendom. Ruft die Breite ab oder legt sie fest.
+title: "Dimensions.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Dimensions-Eigenschaft. Gibt die Breite zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
-Ruft die Breite ab oder legt sie fest.
+Liest oder setzt die Breite.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Breite.
 
@@ -22,12 +23,12 @@ Die Breite.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | value;Width darf nicht kleiner als Null sein |
+| ArgumentOutOfRangeException | value;Breite darf nicht kleiner als Null sein |
 
 ### Siehe auch
 
 * class [Dimensions](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleStrokeAdjust
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft die Hubeinstellung ab oder legt sie fest.
+title: "VstkResource.StrokeStyleStrokeAdjust"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt die Strichanpassung zurück oder legt sie fest"
 type: docs
-weight: 210
+weight: 190
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleStrokeAdjust property
 
-Ruft die Hubeinstellung ab oder legt sie fest.
+Liest oder setzt die Strichanpassung.
 
 ```csharp
 public bool StrokeStyleStrokeAdjust { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeStyleStrokeAdjust { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

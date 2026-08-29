@@ -1,38 +1,39 @@
 ---
-title: Class JpegLsPresetCodingParameters
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters klas. Definiert die voreingestellten JPEGLSCodierungsparameter wie in ISO/IEC 144951 C.2.4.1.1 definiert. JPEGLS definiert einen Standardsatz von Parametern es können jedoch benutzerdefinierte Parameter verwendet werden. Bei Verwendung werden diese Parameter geschrieben in den kodierten Bitstrom da sie für den Dekodierungsprozess benötigt werden.
+title: "Klasse JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters Klasse. Definiert die JPEGLS‑Voreinstellungs‑Codierungsparameter gemäß ISO/IEC 144951 C.2.4.1.1. JPEGLS definiert einen Standardsatz von Parametern, aber benutzerdefinierte Parameter können verwendet werden. Bei Verwendung werden diese Parameter in den codierten Bitstrom geschrieben, da sie für den Dekodierungsprozess benötigt werden."
 type: docs
-weight: 1520
+weight: 1530
 url: /de/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters class
 
-Definiert die voreingestellten JPEG-LS-Codierungsparameter, wie in ISO/IEC 14495-1, C.2.4.1.1 definiert. JPEG-LS definiert einen Standardsatz von Parametern, es können jedoch benutzerdefinierte Parameter verwendet werden. Bei Verwendung werden diese Parameter geschrieben in den kodierten Bitstrom, da sie für den Dekodierungsprozess benötigt werden.
+Definiert die JPEG-LS-Voreinstellungs-Codierungsparameter wie in ISO/IEC 14495-1, C.2.4.1.1 definiert. JPEG-LS definiert einen Standardsatz von Parametern, aber benutzerdefinierte Parameter können verwendet werden. Wenn sie verwendet werden, werden diese Parameter in den codierten Bitstrom geschrieben, da sie für den Dekodierungsprozess benötigt werden.
 
 ```csharp
 public class JpegLsPresetCodingParameters
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [JpegLsPresetCodingParameters](jpeglspresetcodingparameters/)() | Default_Constructor |
+| [JpegLsPresetCodingParameters](jpeglspresetcodingparameters/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Ruft den maximal möglichen Wert für jedes Bildmuster in einem Scan ab oder legt ihn fest. Dieser muss größer oder gleich dem tatsächlichen Maximalwert für die Komponenten in einem Scan sein. |
-| [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/) { get; set; } | Holt oder setzt den Wert, bei dem die Zähler A, B und N halbiert werden. |
-| [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/) { get; set; } | Ruft den ersten Quantisierungsschwellenwert für die lokalen Gradienten ab oder setzt ihn. |
-| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/) { get; set; } | Ruft den zweiten Quantisierungsschwellenwert für die lokalen Gradienten ab oder setzt ihn. |
-| [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3/) { get; set; } | Ruft den dritten Quantisierungsschwellenwert für die lokalen Gradienten ab oder setzt ihn. |
+| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Liest oder setzt den maximal möglichen Wert für jedes Bildsample in einem Scan. Dieser muss größer oder gleich dem tatsächlichen Maximalwert der Komponenten in einem Scan sein. |
+| [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/) { get; set; } | Liest oder setzt den Wert, bei dem die Zähler A, B und N halbiert werden. |
+| [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/) { get; set; } | Liest oder setzt den ersten Quantisierungsschwellenwert für die lokalen Gradienten. |
+| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/) { get; set; } | Liest oder setzt den zweiten Quantisierungsschwellenwert für die lokalen Gradienten. |
+| [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3/) { get; set; } | Liest oder setzt den dritten Quantisierungsschwellenwert für die lokalen Gradienten. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

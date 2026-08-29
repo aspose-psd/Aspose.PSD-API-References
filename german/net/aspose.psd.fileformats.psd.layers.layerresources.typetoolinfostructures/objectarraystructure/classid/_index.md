@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectArrayStructure eigendom. Ruft die ObjektArrayKlassenID ab oder legt sie fest.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectArrayStructure-Eigenschaft. Liest die Objektarray-Klassen-ID aus oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Ruft die Objekt-Array-Klassen-ID ab oder legt sie fest.
+Liest oder setzt die Klassen-ID des Objektarray.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Klassen-ID des Objekt-Arrays.
+Die Objektarray-Klassen-ID.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

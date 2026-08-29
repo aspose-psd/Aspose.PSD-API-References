@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BorderInformationResource eigendom. Ruft die Grenzeinheiten ab oder legt sie fest.
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BorderInformationResource-Eigenschaft. Gibt die Rand-Einheiten zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Ruft die Grenzeinheiten ab oder legt sie fest.
+Liest oder setzt die Rand‑Einheiten.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung der BorderInformationResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der BorderInformationResource‑Ressource.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

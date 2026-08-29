@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die Belichtungsanpassungsebene hinzu.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Fügt die Belichtungseinstellungsebene hinzu"
 type: docs
-weight: 340
+weight: 350
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-Fügt die Belichtungsanpassungsebene hinzu.
+Fügt die Belichtungs‑Anpassungsebene hinzu.
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
@@ -17,19 +18,19 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| exposure | Single | Die Belichtung. |
+| Belichtung | Single | Die Belichtung. |
 | offset | Single | Der Versatz. |
 | gammaCorrection | Single | Die Gammakorrektur. |
 
 ### Rückgabewert
 
-Belichtungsanpassungsebene erstellt
+Erstellte Belichtungseinstellungsebene
 
 ### Siehe auch
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

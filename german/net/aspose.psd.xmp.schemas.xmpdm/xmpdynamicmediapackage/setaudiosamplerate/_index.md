@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt die Audioabtastrate fest.
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt die Audio-Abtastrate."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-Legt die Audioabtastrate fest.
+Legt die Audio-Abtastrate fest.
 
 ```csharp
 public void SetAudioSampleRate(int rate)
@@ -16,12 +17,12 @@ public void SetAudioSampleRate(int rate)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rate | Int32 | Die Audio-Samplerate. |
+| rate | Int32 | Die Audio-Abtastrate. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

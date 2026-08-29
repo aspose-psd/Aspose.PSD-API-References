@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Schränkt die Verwendung von Schriftarten durch eine Liste von Schriftarten ein. Bitte überprüfen Sie die Namen der echten Schriftarten bevor
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Beschränkt die Verwendung von Schriftarten anhand einer Schriftartenliste. Bitte prüfen Sie die tatsächlichen Schriftartnamen vor der Einschränkung. Setzen Sie die zulässige Schriftartenliste auf Null, um Einschränkungen zu entfernen."
 type: docs
-weight: 100
+weight: 120
 url: /de/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Schränkt die Verwendung von Schriftarten durch eine Liste von Schriftarten ein. Bitte überprüfen Sie die Namen der echten Schriftarten, bevor
+Beschränkt die Schriftart anhand einer Schriftartenliste. Bitte prüfen Sie die tatsächlichen Schriftartnamen vor der Einschränkung. Setzen Sie die zulässige Schriftartenliste auf Null, um Einschränkungen zu entfernen.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
@@ -18,9 +19,9 @@ public static void SetAllowedFonts(string[] fontList)
 | --- | --- | --- |
 | fontList | String[] | Die Schriftartenliste. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die Verwendung von Schriftarten programmgesteuert einzuschränken.
+Der folgende Code demonstriert die Möglichkeit, Schriftarten programmgesteuert zu begrenzen.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -58,7 +60,7 @@ finally
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

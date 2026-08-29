@@ -1,14 +1,15 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpReal constructeur. Initialisiert eine neue Instanz vonXmpReal Klasse.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpReal Konstruktor. Initialisiert eine neue Instanz der XmpReal-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpReal`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpReal`](../)-Klasse.
 
 ```csharp
 public XmpReal(float value)
@@ -16,19 +17,19 @@ public XmpReal(float value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Single | Float-Wert. |
+| Wert | Single | Float-Wert. |
 
 ### Siehe auch
 
 * class [XmpReal](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpReal`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpReal`](../)-Klasse.
 
 ```csharp
 public XmpReal(string value)
@@ -36,19 +37,19 @@ public XmpReal(string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | String | Der Wert. |
+| Wert | String | Der Wert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Wert ist null. |
-| ArgumentException | Ungültiger Wert. Sollte schweben. |
+| ArgumentException | Ungültiger Wert. Sollte ein Float sein. |
 
 ### Siehe auch
 
 * class [XmpReal](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

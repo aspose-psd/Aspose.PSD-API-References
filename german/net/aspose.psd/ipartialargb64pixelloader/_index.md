@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IPartialArgb64PixelLoader koppel. Der 64BitARGBPixellader.
+title: "Schnittstelle IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IPartialArgb64PixelLoader‑Schnittstelle. Der 64‑Bit‑ARGB‑Pixel‑Lader"
 type: docs
-weight: 4520
+weight: 4990
 url: /de/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-Der 64-Bit-ARGB-Pixellader.
+Der 64‑Bit‑ARGB‑Pixel‑Loader.
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
@@ -23,7 +24,7 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 ### Siehe auch
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

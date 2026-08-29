@@ -1,20 +1,21 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Lichtquelle ab oder legt sie fest.
+title: "ExifData.LightSource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData Eigenschaft. Liest oder setzt die Lichtquelle."
 type: docs
 weight: 770
 url: /de/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
-Ruft die Lichtquelle ab oder legt sie fest.
+Liest oder setzt die Lichtquelle.
 
 ```csharp
 public ExifLightSource LightSource { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Lichtquelle.
 
@@ -22,7 +23,7 @@ Die Lichtquelle.
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

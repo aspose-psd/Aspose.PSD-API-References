@@ -1,31 +1,32 @@
 ---
-title: GifOptions.PixelAspectRatio
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GifOptions eigendom. Ruft das GIFPixelSeitenverhältnis ab oder legt es fest.
+title: "GifOptions.PixelAspectRatio"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GifOptions-Eigenschaft. Ruft das Pixel-Seitenverhältnis des GIFs ab oder legt es fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.imageoptions/gifoptions/pixelaspectratio/
 ---
+{{< psd/tize >}}
 ## GifOptions.PixelAspectRatio property
 
-Ruft das GIF-Pixel-Seitenverhältnis ab oder legt es fest.
+Liest oder setzt das Pixel‑Seitenverhältnis des GIF.
 
 ```csharp
 public byte PixelAspectRatio { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das GIF-Pixel-Seitenverhältnis.
+Das Pixel-Seitenverhältnis des GIFs.
 
-### Bemerkungen
+## Hinweise
 
-Pixel-Seitenverhältnis - Faktor, der verwendet wird, um eine Annäherung des Seitenverhältnisses des Pixels im Originalbild zu berechnen. Wenn der Wert des Felds nicht 0 ist, wird diese Annäherung des Seitenverhältnisses basierend auf der Formel berechnet: Seitenverhältnis = (Pixel-Seitenverhältnis + 15) / 64 Das Pixel-Seitenverhältnis ist definiert als der Quotient des Pixels. s Breite über seine Höhe. Der Wertebereich in diesem Feld erlaubt die Angabe vom breitesten Pixel von 4:1 bis zum höchsten Pixel von 1:4 in 1/64-Schritten. Werte : 0 - Es wird keine Angabe des Seitenverhältnisses gemacht. 1..255 - Bei der Berechnung verwendeter Wert.
+Pixel Aspect Ratio - Faktor, der verwendet wird, um eine Annäherung des Seitenverhältnisses des Pixels im Originalbild zu berechnen. Wenn der Wert des Feldes nicht 0 ist, wird diese Annäherung des Seitenverhältnisses anhand der Formel berechnet: Aspect Ratio = (Pixel Aspect Ratio + 15) / 64. Das Pixel Aspect Ratio ist definiert als das Verhältnis der Pixelbreite zur Pixelhöhe. Der Wertebereich dieses Feldes ermöglicht die Angabe des breitesten Pixels von 4:1 bis zum höchsten Pixel von 1:4 in Schritten von 1/64. Werte: 0 - Es werden keine Informationen zum Seitenverhältnis angegeben. 1..255 - Wert, der in der Berechnung verwendet wird.
 
 ### Siehe auch
 
 * class [GifOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

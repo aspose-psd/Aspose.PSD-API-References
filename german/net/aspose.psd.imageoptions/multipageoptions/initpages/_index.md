@@ -1,14 +1,15 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MultiPageOptions methode. Initialisiert die Seiten aus den Bereichen array
+title: "MultiPageOptions.InitPages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MultiPageOptions-Methode. Initialisiert die Seiten aus dem Ranges-Array"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-Initialisiert die Seiten aus den Bereichen array
+Initialisiert die Seiten aus dem Bereichsarray
 
 ```csharp
 public void InitPages(IntRange[] ranges)
@@ -16,13 +17,13 @@ public void InitPages(IntRange[] ranges)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| ranges | IntRange[] | Die Reichweiten. |
+| Bereiche | IntRange[] | Die Bereiche. |
 
 ### Siehe auch
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PolygonShape eigendom. Holt oder setzt die Kurvenpunkte.
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PolygonShape Eigenschaft. Gibt die Kurvenpunkte zurück oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
-Holt oder setzt die Kurvenpunkte.
+Ruft die Kurvenpunkte ab oder legt sie fest.
 
 ```csharp
 public PointF[] Points { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Kurvenpunkte.
 
@@ -22,7 +23,7 @@ Die Kurvenpunkte.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namensraum [Aspose.PSD.Shapes](../../polygonshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

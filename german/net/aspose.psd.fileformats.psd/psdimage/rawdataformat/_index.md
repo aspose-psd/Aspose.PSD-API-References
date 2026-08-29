@@ -1,20 +1,21 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft das Rohdatenformat ab.
+title: "PsdImage.RawDataFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt das Rohdatenformat zurück"
 type: docs
 weight: 220
 url: /de/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
-Ruft das Rohdatenformat ab.
+Liest das Rohdatenformat.
 
 ```csharp
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Rohdatenformat.
 
@@ -22,7 +23,7 @@ Das Rohdatenformat.
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations opsomming. Bildausrichtung. Mögliche Werte für das ORIENTATIONTag.
+title: "Enum TiffOrientations"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations enum. Bildorientierung. Mögliche Werte für das ORIENTATION-Tag"
 type: docs
-weight: 4110
+weight: 4580
 url: /de/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
+{{< psd/tize >}}
 ## TiffOrientations enumeration
 
-Bildausrichtung. Mögliche Werte für das ORIENTATION-Tag.
+Bildorientierung. Mögliche Werte für das Tag ORIENTATION.
 
 ```csharp
 public enum TiffOrientations : ushort
@@ -29,7 +30,7 @@ public enum TiffOrientations : ushort
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

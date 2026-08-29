@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorPower
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BilateralSmoothingFilterOptions eigendom. Ruft die Farbstärke ab oder legt sie fest.
+title: "BilateralSmoothingFilterOptions.ColorPower"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BilateralSmoothingFilterOptions-Eigenschaft. Ruft die Farbleistung ab oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorPower property
 
-Ruft die Farbstärke ab oder legt sie fest.
+Liest oder setzt die Farbintensität.
 
 ```csharp
 public double ColorPower { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Farbkraft.
+Die Farbleistung.
 
 ### Siehe auch
 
 * class [BilateralSmoothingFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

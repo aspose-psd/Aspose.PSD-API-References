@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Left
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPlacedLayerResource eigendom. Ruft die linke Position der platzierten Ebene in der PSDDatei ab oder legt sie fest.
+title: "IPlacedLayerResource.Left"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPlacedLayerResource-Eigenschaft. Ruft den linken Standort der platzierten Ebene in der PSD-Datei ab oder legt ihn fest."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Left property
 
-Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest.
+Liest oder legt die linke Position der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die linke Position der platzierten Ebene.
+Der linke Standort der platzierten Ebene.
 
 ### Siehe auch
 
 * interface [IPlacedLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

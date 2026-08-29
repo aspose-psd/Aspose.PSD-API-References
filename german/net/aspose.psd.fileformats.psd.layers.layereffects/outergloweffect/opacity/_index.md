@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OuterGlowEffect eigendom. Ruft die Deckkraft ab oder legt sie fest.
+title: "OuterGlowEffect.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OuterGlowEffect property. Gibt einen Wert zurück oder legt ihn fest, die Deckkraft."
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest.
+Liest oder setzt die Deckkraft.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
 ### Siehe auch
 
 * class [OuterGlowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

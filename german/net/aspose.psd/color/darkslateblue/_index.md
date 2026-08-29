@@ -1,11 +1,12 @@
 ---
-title: Color.DarkSlateBlue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft eine systemdefinierte Farbe ab.
+title: "Color.DarkSlateBlue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color Eigenschaft. Gibt eine systemdefinierte Farbe zurück."
 type: docs
 weight: 350
 url: /de/net/aspose.psd/color/darkslateblue/
 ---
+{{< psd/tize >}}
 ## Color.DarkSlateBlue property
 
 Ruft eine systemdefinierte Farbe ab.
@@ -14,14 +15,14 @@ Ruft eine systemdefinierte Farbe ab.
 public static Color DarkSlateBlue { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Color`](../) eine systemdefinierte Farbe darstellt.
+Ein [`Color`](../), das eine systemdefinierte Farbe darstellt.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

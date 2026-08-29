@@ -1,27 +1,28 @@
 ---
-title: ILayerEffect.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ILayerEffect eigendom. Ruft die Deckkraft ab oder legt sie fest wobei 255  100 
+title: "ILayerEffect.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ILayerEffect Eigenschaft. Ruft die Deckkraft ab oder legt sie fest, wobei 255  100"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest, wobei 255 = 100 %
+Liest oder setzt die Deckkraft, wobei 255 = 100%.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
 ### Siehe auch
 
 * interface [ILayerEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

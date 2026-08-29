@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalLayerMaskInfo eigendom. Ruft den OverlayFarbraum ab oder legt ihn fest undokumentierter Wert.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalLayerMaskInfo-Eigenschaft. Gibt den OverlayColorSpace zurück oder legt ihn fest, undokumentierter Wert"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-Ruft den Overlay-Farbraum ab oder legt ihn fest (undokumentierter Wert).
+Liest oder setzt den Overlay‑Farbraum (undokumentierter Wert).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Overlay-Farbraum.
 
 ### Siehe auch
 
 * class [GlobalLayerMaskInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

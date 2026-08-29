@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OSTypeStructuresRegistry methode. Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OSTypeStructuresRegistry-Methode. Gibt den ersten unterstützten Deskriptor anhand seines Typnamens zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+Ermittelt den ersten unterstützten Deskriptor anhand seines Typnamens.
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
@@ -17,21 +18,21 @@ public static IOSTypeStructureLoader GetFirstSupportedDescriptorByTypeName(
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| descriptorTypeName | String | Der Name des Deskriptortyps. |
+| descriptorTypeName | String | Der Deskriptortyp-Name. |
 
 ### Rückgabewert
 
-Der erste gefundene Opener-Deskriptor oder null, wenn kein solcher Deskriptor gefunden wird.
+Der zuerst gefundene Öffner-Deskriptor oder null, wenn ein solcher Deskriptor nicht gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Öffner-Deskriptor wird tatsächlich der letzte registrierte sein.
+Der erste Öffner-Deskriptor ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

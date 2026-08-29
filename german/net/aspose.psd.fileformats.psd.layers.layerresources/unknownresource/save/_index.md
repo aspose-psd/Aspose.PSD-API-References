@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnknownResource methode. Speichert den angegebenen StreamContainer.
+title: "UnknownResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnknownResource-Methode. Speichert den angegebenen Stream-Container"
 type: docs
-weight: 70
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/save/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Save method
 
 Speichert den angegebenen Stream-Container.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container. |
+| `streamContainer` | StreamContainer | Der StreamContainer. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [UnknownResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

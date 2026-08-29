@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PrintScaleResource eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PrintScaleResource property. Gibt oder setzt die Skalierung"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die Skala.
 
 ```csharp
 public float Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
 ### Siehe auch
 
 * class [PrintScaleResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

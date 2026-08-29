@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Holt oder setzt die StreifenOffsets.
+title: "TiffOptions.StripOffsets"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Ruft die Strip-Offsets ab oder legt sie fest."
 type: docs
-weight: 470
+weight: 480
 url: /de/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
-Holt oder setzt die Streifen-Offsets.
+Liest oder setzt die Streifen-Offsets.
 
 ```csharp
 public uint[] StripOffsets { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Streifenversätze.
+Die Strip-Offsets.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

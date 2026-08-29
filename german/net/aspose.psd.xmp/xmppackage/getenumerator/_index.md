@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.GetEnumerator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage methode. Gibt einen Enumerator zurück der die Sammlung durchläuft.
+title: "XmpPackage.GetEnumerator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Methode. Gibt einen Enumerator zurück, der die Sammlung durchläuft."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.xmp/xmppackage/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetEnumerator method
 
 Gibt einen Enumerator zurück, der die Sammlung durchläuft.
@@ -16,12 +17,12 @@ public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 
 ### Rückgabewert
 
-AIEnumerator die verwendet werden kann, um die Sammlung zu durchlaufen.
+Ein IEnumerator, der verwendet werden kann, um die Sammlung zu durchlaufen.
 
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageLoadersRegistry methode. Erstellt den ersten gefundenen Lader der für die angegebenen geeignet iststream und optional dieloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageLoadersRegistry Methode. Erstellt den ersten gefundenen Loader, der für den angegebenen *stream* geeignet ist und optional die *loadOptions*."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-Erstellt den ersten gefundenen Lader, der für die angegebenen geeignet ist*stream* und optional die*loadOptions* .
+Erstellt den zuerst gefundenen Loader, der für den angegebenen *stream* geeignet ist und optional die *loadOptions*.
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
@@ -16,23 +17,23 @@ public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Rückgabewert
 
-Der Lader, der die angegebenen unterstützt*stream* Und*loadOptions* oder null, wenn kein solcher Loader gefunden wird.
+Der Loader, der den angegebenen *stream* und die *loadOptions* unterstützt, oder null, wenn kein solcher Loader gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Lader wird tatsächlich der letzte registrierte sein.
+Der erste Loader ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* namensraum [Aspose.PSD](../../imageloadersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

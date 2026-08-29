@@ -1,14 +1,15 @@
 ---
-title: FillLayer.CreateInstance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FillLayer methode. Erstellen Sie eine neue Instanz derFillLayer Klasse nach Art der Füllung.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FillLayer-Methode. Erstellt eine neue Instanz der FillLayer-Klasse basierend auf dem Fülltyp."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-Erstellen Sie eine neue Instanz der[`FillLayer`](../) Klasse nach Art der Füllung.
+Erstellt eine neue Instanz der [`FillLayer`](../)-Klasse basierend auf dem Fülltyp.
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
@@ -20,11 +21,11 @@ public static FillLayer CreateInstance(FillType fillType)
 
 ### Rückgabewert
 
-Gibt eine neue Instanz von zurück[`FillLayer`](../) Klasse nach Art der Füllung.
+Gibt eine neue Instanz der [`FillLayer`](../)-Klasse zurück, basierend auf dem Fülltyp.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie die Ebene vom Typ FillLayer zur Laufzeit hinzufügen.
+Das folgende Beispiel demonstriert, wie man den FillLayer-Typ zur Laufzeit hinzufügt.
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (var image = new PsdImage(100, 100))
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

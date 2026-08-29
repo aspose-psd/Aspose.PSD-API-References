@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Yposition
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die yPosition ab oder legt sie fest.
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Ruft ab oder legt die y-Position fest"
 type: docs
-weight: 680
+weight: 690
 url: /de/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
-Ruft die y-Position ab oder legt sie fest.
+Liest oder setzt die y-Position.
 
 ```csharp
 public TiffRational Yposition { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die y-Position.
 
@@ -22,7 +23,7 @@ Die y-Position.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

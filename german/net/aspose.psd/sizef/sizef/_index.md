@@ -1,14 +1,15 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SizeF constructeur. Initialisiert eine neue Instanz vonSizeF Struktur aus der angegebenenSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SizeF-Konstruktor. Initialisiert eine neue Instanz der SizeF-Struktur aus dem angegebenen SizeF."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SizeF`](../) Struktur aus der angegebenen[`SizeF`](../) .
+Initialisiert eine neue Instanz der [`SizeF`](../)-Struktur aus dem angegebenen [`SizeF`](../).
 
 ```csharp
 public SizeF(SizeF size)
@@ -16,19 +17,19 @@ public SizeF(SizeF size)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| size | SizeF | Der[`SizeF`](../) aus der das Neue entsteht[`SizeF`](../). |
+| size | SizeF | Das [`SizeF`](../), aus dem das neue [`SizeF`](../) erstellt wird. |
 
 ### Siehe auch
 
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-Initialisiert eine neue Instanz von[`SizeF`](../) Struktur aus der angegebenen[`PointF`](../../pointf/) .
+Initialisiert eine neue Instanz der [`SizeF`](../)-Struktur aus dem angegebenen [`PointF`](../../pointf/).
 
 ```csharp
 public SizeF(PointF point)
@@ -36,20 +37,20 @@ public SizeF(PointF point)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../../pointf/) von wo aus dies initialisiert werden kann[`SizeF`](../). |
+| point | PointF | Der [`PointF`](../../pointf/), aus dem dieses [`SizeF`](../) initialisiert wird. |
 
 ### Siehe auch
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`SizeF`](../) Struktur aus den angegebenen Abmessungen.
+Initialisiert eine neue Instanz der [`SizeF`](../)-Struktur aus den angegebenen Abmessungen.
 
 ```csharp
 public SizeF(float width, float height)
@@ -57,13 +58,13 @@ public SizeF(float width, float height)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| width | Single | Die Breitenkomponente des neuen[`SizeF`](../). |
-| height | Single | Die Höhenkomponente des neuen[`SizeF`](../). |
+| width | Single | Die Breitenkomponente der neuen [`SizeF`](../). |
+| height | Single | Die Höhenkomponente der neuen [`SizeF`](../). |
 
 ### Siehe auch
 
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

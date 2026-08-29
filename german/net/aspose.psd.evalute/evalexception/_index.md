@@ -1,11 +1,12 @@
 ---
-title: Class EvalException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Evalute.EvalException klas. Benutzerdefinierte Ausnahme für Bewertungsfehler
+title: "Klasse EvalException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Evalute.EvalException Klasse. Benutzerdefinierte Ausnahme für Evaluierungsfehler"
 type: docs
-weight: 790
+weight: 800
 url: /de/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
 Benutzerdefinierte Ausnahme für Bewertungsfehler
@@ -18,11 +19,11 @@ public class EvalException : Exception
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Ruft die dieser Ausnahme zugeordnete Nachricht ab |
+| override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Gibt die mit dieser Ausnahme verbundene Meldung zurück |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

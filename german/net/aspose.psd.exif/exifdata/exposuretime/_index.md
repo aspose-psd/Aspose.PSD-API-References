@@ -1,20 +1,21 @@
 ---
-title: ExifData.ExposureTime
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Belichtungszeit ab oder setzt sie.
+title: "ExifData.ExposureTime"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Belichtungszeit zurück oder legt sie fest"
 type: docs
 weight: 230
 url: /de/net/aspose.psd.exif/exifdata/exposuretime/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureTime property
 
-Ruft die Belichtungszeit ab oder setzt sie.
+Liest oder setzt die Belichtungszeit.
 
 ```csharp
 public TiffRational ExposureTime { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Belichtungszeit.
 
@@ -22,7 +23,7 @@ Die Belichtungszeit.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

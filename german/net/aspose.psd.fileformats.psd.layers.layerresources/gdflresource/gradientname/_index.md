@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft den Namen des Farbverlaufs ab oder legt ihn fest.
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt den Namen des Farbverlaufs zurück oder legt ihn fest"
 type: docs
-weight: 80
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-Ruft den Namen des Farbverlaufs ab oder legt ihn fest.
+Liest oder setzt den Namen des Verlaufs.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Farbverlaufs.
 
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

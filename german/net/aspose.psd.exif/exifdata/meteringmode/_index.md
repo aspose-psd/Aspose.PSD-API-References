@@ -1,20 +1,21 @@
 ---
-title: ExifData.MeteringMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Messmodus ab oder legt ihn fest.
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt den Messmodus"
 type: docs
 weight: 810
 url: /de/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-Ruft den Messmodus ab oder legt ihn fest.
+Liest oder setzt den Messmodus.
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Messmodus.
 
@@ -22,7 +23,7 @@ Der Messmodus.
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

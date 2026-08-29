@@ -1,28 +1,29 @@
 ---
-title: Class TiffDataTypeController
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.TiffDataTypeController klas. Repräsentiert die allgemeine Klasse für die Arbeit mit TIFFDatentypen.
+title: "Klasse TiffDataTypeController"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.TiffDataTypeController Klasse. Stellt eine allgemeine Klasse für die Arbeit mit Tiff-Datentypen dar."
 type: docs
-weight: 1020
+weight: 1030
 url: /de/net/aspose.psd.exif/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController class
 
-Repräsentiert die allgemeine Klasse für die Arbeit mit TIFF-Datentypen.
+Stellt eine allgemeine Klasse für die Arbeit mit TIFF-Datentypen dar.
 
 ```csharp
 public class TiffDataTypeController
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TiffDataTypeController](tiffdatatypecontroller/)() | Default_Constructor |
+| [TiffDataTypeController](tiffdatatypecontroller/)() | Der Standardkonstruktor. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif](../../aspose.psd.exif/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif](../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../)
 
 

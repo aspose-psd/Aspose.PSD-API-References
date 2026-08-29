@@ -1,14 +1,15 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix methode. Gibt a zurückString die diese Instanz darstellt.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Methode. Gibt einen String zurück, der diese Instanz darstellt."
 type: docs
 weight: 170
 url: /de/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Eine Zeichenkette, die diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

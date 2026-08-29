@@ -1,20 +1,21 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Thumbnail eigendom. Ruft die Höhe ab oder legt sie fest.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Thumbnail-Eigenschaft. Liest oder setzt die Höhe"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-Ruft die Höhe ab oder legt sie fest.
+Liest oder setzt die Höhe.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Höhe.
 
@@ -27,7 +28,7 @@ Die Höhe.
 ### Siehe auch
 
 * class [Thumbnail](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

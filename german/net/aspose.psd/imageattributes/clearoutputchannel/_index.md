@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearOutputChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageAttributes methode. Löscht die CMYKAusgabekanaleinstellung CyanMagentaGelbSchwarz für die Standardkategorie.
+title: "ImageAttributes.ClearOutputChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageAttributes-Methode. Löscht die CMYK‑cyanmagentayellowblack Ausgabekanal‑Einstellung für die Standardkategorie"
 type: docs
 weight: 70
 url: /de/net/aspose.psd/imageattributes/clearoutputchannel/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannel() {#clearoutputchannel}
 
-Löscht die CMYK-Ausgabekanaleinstellung (Cyan-Magenta-Gelb-Schwarz) für die Standardkategorie.
+Löscht die CMYK (Cyan-Magenta-Gelb-Schwarz) Ausgabekanal-Einstellung für die Standardkategorie.
 
 ```csharp
 public void ClearOutputChannel()
@@ -17,14 +18,14 @@ public void ClearOutputChannel()
 ### Siehe auch
 
 * class [ImageAttributes](../)
-* namensraum [Aspose.PSD](../../imageattributes/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannel(ColorAdjustType) {#clearoutputchannel_1}
 
-Löscht die Ausgabekanaleinstellung (Cyan-Magenta-Gelb-Schwarz) für eine bestimmte Kategorie.
+Löscht die (Cyan-Magenta-Gelb-Schwarz) Ausgabekanal-Einstellung für eine angegebene Kategorie.
 
 ```csharp
 public void ClearOutputChannel(ColorAdjustType type)
@@ -32,13 +33,13 @@ public void ClearOutputChannel(ColorAdjustType type)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| type | ColorAdjustType | Ein Element von[`ColorAdjustType`](../../coloradjusttype/) die die Kategorie angibt, für die die Ausgangskanaleinstellung gelöscht wird. |
+| type | ColorAdjustType | Ein Element von [`ColorAdjustType`](../../coloradjusttype/), das die Kategorie angibt, für die die Ausgabekanal‑Einstellung gelöscht wird. |
 
 ### Siehe auch
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namensraum [Aspose.PSD](../../imageattributes/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

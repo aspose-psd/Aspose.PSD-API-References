@@ -1,14 +1,15 @@
 ---
-title: Frame.Delay
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Frame eigendom. Ruft den FrameVerzögerungswert in CentaSekunden ab oder legt ihn fest. Beispielsweise enthält 1 Sekunde 100 CentaSekunden.
+title: "Frame.Delay"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Frame-Eigenschaft. Gibt den Frame-Verzögerungswert in Zentisekunden zurück oder legt ihn fest. Zum Beispiel enthält 1 Sekunde 100 Zentisekunden."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-Ruft den Frame-Verzögerungswert in Centa-Sekunden ab oder legt ihn fest. Beispielsweise enthält 1 Sekunde 100 Centa-Sekunden.
+Liest oder setzt den Frame-Verzögerungswert in Zentisekunden. Zum Beispiel enthält 1 Sekunde 100 Zentisekunden.
 
 ```csharp
 public int Delay { get; set; }
@@ -17,7 +18,7 @@ public int Delay { get; set; }
 ### Siehe auch
 
 * class [Frame](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

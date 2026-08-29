@@ -1,14 +1,15 @@
 ---
-title: RawDataSettings.RawDataSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings constructeur. Default_Constructor
+title: "RawDataSettings.RawDataSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/rawdatasettings/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public RawDataSettings()
@@ -17,7 +18,7 @@ public RawDataSettings()
 ### Siehe auch
 
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Daten der Ebenenüberblendungsbereiche ab oder legt sie fest.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt oder setzt die Layer-Blending-Bereichsdaten"
 type: docs
-weight: 190
+weight: 200
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Ruft die Daten der Ebenenüberblendungsbereiche ab oder legt sie fest.
+Liefert oder setzt die Daten der Ebenen‑Blending‑Bereiche.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Layer-Mischbereichsdaten.
+Die Daten der Ebenen‑Blending‑Bereiche.
 
 ### Siehe auch
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

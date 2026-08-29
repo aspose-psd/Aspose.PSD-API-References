@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt die Dringlichkeit fest.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt die Dringlichkeit"
 type: docs
 weight: 200
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
-Legt die Dringlichkeit fest.
+Setzt die Dringlichkeit.
 
 ```csharp
 public void SetUrgency(int urgency)
@@ -16,22 +17,22 @@ public void SetUrgency(int urgency)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| urgency | Int32 | Die Dringlichkeit. |
+| Dringlichkeit | Int32 | Die Dringlichkeit. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Dringlichkeit; Der gültige Bereich liegt zwischen 1 und 8 |
+| ArgumentOutOfRangeException | Dringlichkeit;Gültiger Bereich ist von 1 bis 8 |
 
-### Bemerkungen
+## Hinweise
 
-Dringlichkeit sollte vom 1. bis 8. in Wut sein
+Die Dringlichkeit sollte im Bereich von 1 bis 8 liegen.
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

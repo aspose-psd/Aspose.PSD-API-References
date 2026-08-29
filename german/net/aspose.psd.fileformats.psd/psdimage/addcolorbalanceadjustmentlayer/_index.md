@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die FarbbalanceAnpassungsebene hinzu.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Fügt die Farbbalance-Anpassungsebene hinzu"
 type: docs
-weight: 320
+weight: 330
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-Fügt die Farbbalance-Anpassungsebene hinzu.
+Fügt die Farbtonwertausgleich‑Anpassungsebene hinzu.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
@@ -22,7 +23,7 @@ Eine neu erstellte Farbbalance-Ebene.
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

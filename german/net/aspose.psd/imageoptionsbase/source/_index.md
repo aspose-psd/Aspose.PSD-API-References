@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.Source
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageOptionsBase eigendom. Ruft die Quelle zum Erstellen des Bildes ab oder legt sie fest.
+title: "ImageOptionsBase.Source"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageOptionsBase-Eigenschaft. Liest oder schreibt die Quelle, in der das Bild erstellt wird"
 type: docs
 weight: 80
 url: /de/net/aspose.psd/imageoptionsbase/source/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Source property
 
-Ruft die Quelle zum Erstellen des Bildes ab oder legt sie fest.
+Liest oder setzt die Quelle, in der das Bild erstellt wird.
 
 ```csharp
 public Source Source { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Quelle, in der das Bild erstellt werden soll.
+Die Quelle, in der das Bild erstellt wird.
 
 ### Siehe auch
 
 * class [Source](../../source/)
 * class [ImageOptionsBase](../)
-* namensraum [Aspose.PSD](../../imageoptionsbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

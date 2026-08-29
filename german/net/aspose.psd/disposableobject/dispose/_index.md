@@ -1,14 +1,15 @@
 ---
-title: DisposableObject.Dispose
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DisposableObject methode. Verwirft die aktuelle Instanz.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DisposableObject-Methode. Entsorgt die aktuelle Instanz"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Verwirft die aktuelle Instanz.
+Gibt die aktuelle Instanz frei.
 
 ```csharp
 public void Dispose()
@@ -17,7 +18,7 @@ public void Dispose()
 ### Siehe auch
 
 * class [DisposableObject](../)
-* namensraum [Aspose.PSD](../../disposableobject/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPacketWrapper methode. Bestimmt ob das Paket im xmpWrapper vorhanden ist.
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPacketWrapper Methode. Bestimmt, ob ein Paket im XMP-Wrapper existiert"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-Bestimmt, ob das Paket im xmp-Wrapper vorhanden ist.
+Bestimmt, ob ein Paket im XMP-Wrapper existiert.
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
@@ -16,16 +17,16 @@ public bool ContainsPackage(string namespaceUri)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| namespaceUri | String | Paketschema uri. |
+| namespaceUri | String | Paket-Schema-URI. |
 
 ### Rückgabewert
 
-Gibt „true“ zurück, wenn das Paket mit dem angegebenen Namespace-URI im XMP-Wrapper vorhanden ist.
+Gibt true zurück, wenn ein Paket mit der angegebenen Namespace-URI im XMP-Wrapper existiert.
 
 ### Siehe auch
 
 * class [XmpPacketWrapper](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

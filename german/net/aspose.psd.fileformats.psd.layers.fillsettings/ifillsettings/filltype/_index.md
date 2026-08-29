@@ -1,28 +1,29 @@
 ---
-title: IFillSettings.FillType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IFillSettings eigendom. Ruft den Füllungstyp ab.
+title: "IFillSettings.FillType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IFillSettings-Eigenschaft. Gibt den Typ der Füllung zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## IFillSettings.FillType property
 
-Ruft den Füllungstyp ab.
+Gibt den Typ der Füllung zurück.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Art der Füllung.
+Der Typ der Füllung.
 
 ### Siehe auch
 
 * enum [FillType](../../filltype/)
 * interface [IFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ifillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

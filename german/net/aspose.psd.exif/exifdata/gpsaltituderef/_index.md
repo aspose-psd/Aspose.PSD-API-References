@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die als Referenzhöhe verwendete GPSHöhe ab oder legt sie fest.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt die GPS-Höhe, die als Referenzhöhe verwendet wird"
 type: docs
 weight: 370
 url: /de/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-Ruft die als Referenzhöhe verwendete GPS-Höhe ab oder legt sie fest.
+Liest oder setzt die GPS-Höhe, die als Referenzhöhe verwendet wird.
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die als Referenzhöhe verwendete GPS-Höhe.
+Die GPS-Höhe, die als Referenzhöhe verwendet wird.
 
 ### Siehe auch
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob rote grüne und blaue Komponenten mit einer Hintergrundfarbe gemischt werden sollen wenn ein Alphakanal vorhanden ist.
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob Rot‑, Grün‑ und Blau‑Komponenten mit einer Hintergrundfarbe gemischt werden sollen, wenn ein Alphakanal vorhanden ist."
 type: docs
-weight: 130
+weight: 140
 url: /de/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob rote, grüne und blaue Komponenten mit einer Hintergrundfarbe gemischt werden sollen, wenn ein Alphakanal vorhanden ist.
+Liest oder setzt einen Wert, der angibt, ob Rot-, Grün- und Blau-Komponenten mit einer Hintergrundfarbe gemischt werden sollen, wenn ein Alpha-Kanal vorhanden ist.
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
@@ -17,7 +18,7 @@ public bool PreblendAlphaIfPresent { get; set; }
 ### Siehe auch
 
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

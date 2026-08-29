@@ -1,14 +1,15 @@
 ---
-title: Enum PenAlignment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.PenAlignment opsomming. Gibt die Ausrichtung von a anPen Objekt in Bezug auf die theoretische Linie mit Nullbreite.
+title: "Enum PenAlignment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.PenAlignment enum. Gibt die Ausrichtung eines Pen-Objekts in Bezug auf die theoretische Nullbreitenlinie an."
 type: docs
-weight: 5210
+weight: 5700
 url: /de/net/aspose.psd/penalignment/
 ---
+{{< psd/tize >}}
 ## PenAlignment enumeration
 
-Gibt die Ausrichtung von a an[`Pen`](../pen/) Objekt in Bezug auf die theoretische Linie mit Nullbreite.
+Gibt die Ausrichtung eines [`Pen`](../pen/) Objekts in Bezug auf die theoretische, nullbreite Linie an.
 
 ```csharp
 public enum PenAlignment
@@ -18,15 +19,15 @@ public enum PenAlignment
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Center | `0` | Gibt an, dass die[`Pen`](../pen/) Objekt wird über der theoretischen Linie zentriert. |
-| Inset | `1` | Gibt an, dass die[`Pen`](../pen/) wird auf der Innenseite der theoretischen Linie positioniert. |
-| Outset | `2` | Gibt die an[`Pen`](../pen/)wird außerhalb der theoretischen Linie positioniert. |
-| Left | `3` | Gibt die an[`Pen`](../pen/) wird links von der theoretischen Linie positioniert. |
-| Right | `4` | Gibt die an[`Pen`](../pen/) wird rechts von der theoretischen Linie positioniert. |
+| Center | `0` | Gibt an, dass das [`Pen`](../pen/) Objekt zentriert über der theoretischen Linie liegt. |
+| Inset | `1` | Gibt an, dass das [`Pen`](../pen/) innerhalb der theoretischen Linie positioniert ist. |
+| Outset | `2` | Gibt an, dass das [`Pen`](../pen/) außerhalb der theoretischen Linie positioniert ist. |
+| Left | `3` | Gibt an, dass das [`Pen`](../pen/) links von der theoretischen Linie positioniert ist. |
+| Right | `4` | Gibt an, dass das [`Pen`](../pen/) rechts von der theoretischen Linie positioniert ist. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

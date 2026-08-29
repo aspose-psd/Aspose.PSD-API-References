@@ -1,43 +1,44 @@
 ---
-title: Class FixedPointDecimal
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal klas. FestkommaDezimalzahl mit 16BitGanzzahl und 16BitBruch.
+title: "Klasse FixedPointDecimal"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Resources.FixedPointDecimal Klasse. Festkommazahl mit 16‑Bit‑Ganzzahl und 16‑Bit‑Bruchteil"
 type: docs
-weight: 3700
+weight: 4170
 url: /de/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal class
 
-Festkomma-Dezimalzahl, mit 16-Bit-Ganzzahl und 16-Bit-Bruch.
+Festkommazahl, mit 16-Bit-Ganzzahl und 16-Bit-Bruchteil.
 
 ```csharp
 public class FixedPointDecimal
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initialisiert eine neue Instanz von`FixedPointDecimal` Klasse. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initialisiert eine neue Instanz von`FixedPointDecimal` Klasse. Teilen Sie die hohen und niedrigen Wörter einer 32-Bit-Ganzzahl in eine Festkommazahl auf. |
-| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initialisiert eine neue Instanz von`FixedPointDecimal` Klasse. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor)(double) | Initialisiert eine neue Instanz der `FixedPointDecimal` Klasse. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_2)(long) | Initialisiert eine neue Instanz der `FixedPointDecimal` Klasse. Teilt die hohen und niedrigen Wörter eines 32‑Bit‑Ganzzahlwertes in eine Festkommazahl auf. |
+| [FixedPointDecimal](fixedpointdecimal/#constructor_1)(int, int) | Initialisiert eine neue Instanz der `FixedPointDecimal` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Ruft den Bruch ab oder legt ihn fest. |
-| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Ruft die Ganzzahl ab oder legt sie fest. |
+| [Fraction](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/) { get; set; } | Liest oder setzt den Bruchteil. |
+| [Integer](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/) { get; set; } | Liest oder setzt die Ganzzahl. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Wandelt die aktuelle Festkomma-Dezimalzahl in Double um. |
+| [ToDouble](../../aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/)() | Konvertiert die aktuelle Festkommazahl in einen double. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

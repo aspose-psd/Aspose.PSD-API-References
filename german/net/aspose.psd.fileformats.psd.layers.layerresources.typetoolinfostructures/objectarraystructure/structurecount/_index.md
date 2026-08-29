@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectArrayStructure eigendom. Ruft die Unterstrukturanzahl des ObjektArrays ab.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectArrayStructure Eigenschaft. Ruft die Unterstrukturanzahl des Objektarrays ab"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-Ruft die Unterstrukturanzahl des Objekt-Arrays ab.
+Liest die Anzahl der Untersubstrukturen des Objektarray.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzahl der Unterstrukturen in der Objekt-Array-Struktur.
+Die Unterstrukturanzahl in der Objektarraystruktur.
 
 ### Siehe auch
 
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

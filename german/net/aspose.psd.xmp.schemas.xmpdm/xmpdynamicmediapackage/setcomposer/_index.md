@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Legt den Composer fest.
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt den Komponisten"
 type: docs
 weight: 160
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
-Legt den Composer fest.
+Legt den Komponisten fest.
 
 ```csharp
 public void SetComposer(string composer)
@@ -16,12 +17,12 @@ public void SetComposer(string composer)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| composer | String | Der Komponist. |
+| Komponist | String | Der Komponist. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions klas. Der Faltungsfilter.
+title: "Klasse ConvolutionFilterOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions Klasse. Der Convolution-Filter"
 type: docs
-weight: 4670
+weight: 5140
 url: /de/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
 Der Faltungsfilter.
@@ -14,23 +15,23 @@ Der Faltungsfilter.
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initialisiert eine neue Instanz von`ConvolutionFilterOptions` Klasse. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Initialisiert eine neue Instanz der `ConvolutionFilterOptions` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Ruft den Bias ab oder legt ihn fest. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Liest oder setzt den Bias. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Liest oder setzt den Faktor. |
 
 ### Siehe auch
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

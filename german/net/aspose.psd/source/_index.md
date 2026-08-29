@@ -1,14 +1,15 @@
 ---
-title: Class Source
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Source klas. Die Quelle wird verwendet um alle relevanten Informationen für eine Objektleitung zu enthalten.
+title: "Klasse Source"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Source Klasse. Die Quelle wird verwendet, um alle relevanten Informationen für eine Objekt-Pipeline zu enthalten"
 type: docs
-weight: 5580
+weight: 6080
 url: /de/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-Die Quelle wird verwendet, um alle relevanten Informationen für eine Objektleitung zu enthalten.
+Die Quelle wird verwendet, um alle relevanten Informationen für eine Objekt-Pipeline zu enthalten.
 
 ```csharp
 public abstract class Source
@@ -18,11 +19,11 @@ public abstract class Source
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Ruft den Stream-Container ab. |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Ermittelt den Stream-Container. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

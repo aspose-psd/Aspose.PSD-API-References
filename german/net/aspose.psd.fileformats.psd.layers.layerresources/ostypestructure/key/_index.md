@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OSTypeStructure eigendom. Ruft den Strukturschlüssel ab.
+title: "OSTypeStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OSTypeStructure Eigenschaft. Gibt den Strukturschlüssel zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/key/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Key property
 
-Ruft den Strukturschlüssel ab.
+Liest den Struktur-Schlüssel.
 
 ```csharp
 public abstract int Key { get; }
@@ -17,7 +18,7 @@ public abstract int Key { get; }
 ### Siehe auch
 
 * class [OSTypeStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

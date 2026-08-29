@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternFillSettings eigendom. Ruft die Musterdaten ab oder legt sie fest.
+title: "PatternFillSettings.PatternData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternFillSettings-Eigenschaft. Gibt die Musterdaten zurück oder legt sie fest"
 type: docs
-weight: 60
+weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternData property
 
-Ruft die Musterdaten ab oder legt sie fest.
+Liest oder setzt die Musterdaten.
 
 ```csharp
 public int[] PatternData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Musterdaten.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Bearbeitung von Füllebenenmustern.
+Der folgende Code demonstriert die Unterstützung der Bearbeitung des Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Bearbeiten 
+            // Bearbeitung 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### Siehe auch
 
 * class [PatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

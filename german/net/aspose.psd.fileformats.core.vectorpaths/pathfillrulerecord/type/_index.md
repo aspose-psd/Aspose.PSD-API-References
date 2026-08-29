@@ -1,20 +1,21 @@
 ---
-title: PathFillRuleRecord.Type
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathFillRuleRecord eigendom. Ruft den Typ ab.
+title: "PathFillRuleRecord.Type"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathFillRuleRecord Eigenschaft. Gibt den Typ zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord.Type property
 
-Ruft den Typ ab.
+Liefert den Typ.
 
 ```csharp
 public override VectorPathType Type { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Typ.
 
@@ -22,7 +23,7 @@ Der Typ.
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [PathFillRuleRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

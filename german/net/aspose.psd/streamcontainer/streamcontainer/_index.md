@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamContainer constructeur. Initialisiert eine neue Instanz vonStreamContainer Klasse.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamContainer Konstruktor. Initialisiert eine neue Instanz der Klasse StreamContainer."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-Initialisiert eine neue Instanz von[`StreamContainer`](../) Klasse.
+Initialisiert eine neue Instanz der Klasse [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
@@ -16,19 +17,19 @@ public StreamContainer(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 
 ### Siehe auch
 
 * class [StreamContainer](../)
-* namensraum [Aspose.PSD](../../streamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`StreamContainer`](../) Klasse.
+Initialisiert eine neue Instanz der Klasse [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
@@ -36,13 +37,13 @@ public StreamContainer(Stream stream, bool disposeStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Datenstrom. |
-| disposeStream | Boolean | wenn eingestellt`WAHR` Der Strom wird entsorgt, wenn der Behälter entsorgt wird. |
+| Strom | Stream | Der Datenstrom. |
+| disposeStream | Boolean | Wenn auf `true` gesetzt, wird der Stream freigegeben, wenn der Container freigegeben wird. |
 
 ### Siehe auch
 
 * class [StreamContainer](../)
-* namensraum [Aspose.PSD](../../streamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

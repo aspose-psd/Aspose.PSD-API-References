@@ -1,51 +1,52 @@
 ---
-title: Class NvrtResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource klas. Klasse NvrtResource. Ressource für Anpassungsebene umkehren.
+title: "Klasse NvrtResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource Klasse. Klasse NvrtResource. Ressource der Invert-Anpassungsebene"
 type: docs
-weight: 2840
+weight: 3180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-Klasse NvrtResource. Ressource für Anpassungsebene umkehren.
+Klasse NvrtResource. Ressource der Invert-Anpassungsebene.
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | Initialisiert eine neue Instanz von`NvrtResource` Klasse. |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz von`NvrtResource` Klasse. |
+| [NvrtResource](nvrtresource/#constructor)() | Initialisiert eine neue Instanz der `NvrtResource`-Klasse. |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz der `NvrtResource`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Ruft die Signatur ab. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | Die Type-Tool-Info-Taste. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie NvrtResource abgerufen wird.
+Das folgende Beispiel demonstriert, wie man NvrtResource erhält.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
             {
                 if (layerResource is NvrtResource)
                 {
-                    // Die NvrtResource wird unterstützt.
+                    // NvrtResource wird unterstützt.
                     resource = (NvrtResource)layerResource;
                     break;
                 }
@@ -76,7 +77,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

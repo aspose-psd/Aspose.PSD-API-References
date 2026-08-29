@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob knocks out.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect property. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob ein Knockout durchgeführt wird."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [knocks out].
+Liest oder setzt einen Wert, der angibt, ob [knocks out].
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR`wenn [ausschlägt]; ansonsten,`FALSCH` .
+`true` wenn [knocks out]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

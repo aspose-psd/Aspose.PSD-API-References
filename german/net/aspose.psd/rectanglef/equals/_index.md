@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF methode. Testet obobj ist einRectangleF mit der gleichen Lage und Größe von diesemRectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Methode. Prüft, ob obj ein RectangleF mit derselben Position und Größe wie dieses RectangleF ist"
 type: docs
 weight: 200
 url: /de/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-Testet ob*obj* ist ein[`RectangleF`](../) mit der gleichen Lage und Größe von diesem[`RectangleF`](../) .
+Prüft, ob *obj* ein [`RectangleF`](../) mit derselben Position und Größe wie dieses [`RectangleF`](../) ist.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| obj | Object | DerObject zu testen. |
+| obj | Object | Das Objekt zum Testen. |
 
 ### Rückgabewert
 
-Diese Methode gibt true zurück, wenn*obj* ist ein[`RectangleF`](../) und seine Eigenschaften X, Y, Breite und Höhe sind gleich den entsprechenden Eigenschaften von this[`RectangleF`](../); andernfalls falsch.
+Diese Methode gibt true zurück, wenn *obj* ein [`RectangleF`](../) ist und seine X-, Y-, Width- und Height-Eigenschaften den entsprechenden Eigenschaften dieses [`RectangleF`](../) entsprechen; andernfalls false.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

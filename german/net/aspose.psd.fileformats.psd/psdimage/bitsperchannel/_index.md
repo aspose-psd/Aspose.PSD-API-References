@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft die Bits pro Kanal ab.
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt die Bits pro Kanal zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-Ruft die Bits pro Kanal ab.
+Liest die Bits pro Kanal.
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bits pro Kanal.
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

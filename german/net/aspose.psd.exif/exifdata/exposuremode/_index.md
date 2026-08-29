@@ -1,20 +1,21 @@
 ---
-title: ExifData.ExposureMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Belichtungsmodus ab oder legt ihn fest.
+title: "ExifData.ExposureMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den Belichtungsmodus."
 type: docs
 weight: 210
 url: /de/net/aspose.psd.exif/exifdata/exposuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureMode property
 
-Ruft den Belichtungsmodus ab oder legt ihn fest.
+Liest oder setzt den Belichtungsmodus.
 
 ```csharp
 public ExifExposureMode ExposureMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Belichtungsmodus.
 
@@ -22,7 +23,7 @@ Der Belichtungsmodus.
 
 * enum [ExifExposureMode](../../../aspose.psd.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

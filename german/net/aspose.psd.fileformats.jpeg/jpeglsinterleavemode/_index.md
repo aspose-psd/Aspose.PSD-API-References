@@ -1,14 +1,15 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode opsomming. Definiert den InterleaveModus für MehrkomponentenFarbPixeldaten.
+title: "Enum JpegLsInterleaveMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Definiert den Interleavemodus für mehrkomponentige Farbpixel-Daten."
 type: docs
-weight: 1510
+weight: 1520
 url: /de/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
-Definiert den Interleave-Modus für Mehrkomponenten-(Farb-)Pixeldaten.
+Definiert den Interleavemodus für mehrkomponentige (Farb‑)Pixeldaten.
 
 ```csharp
 public enum JpegLsInterleaveMode
@@ -18,13 +19,13 @@ public enum JpegLsInterleaveMode
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Die Daten werden codiert und als Komponente für Komponente gespeichert: RRRGGGBBB. |
-| Line | `1` | Der Interleave-Modus ist zeilenweise. Eine vollständige Zeile jeder Komponente wird codiert, bevor zur nächsten Zeile übergegangen wird. |
-| Sample | `2` | Die Daten werden stichprobenweise verschlüsselt und gespeichert. Für Farbbilder ist dies das Format wie RGBRGBRGB. |
+| None | `0` | Die Daten werden komponentenweise kodiert und gespeichert: RRRGGGBBB. |
+| Line | `1` | Der Interleavemodus ist zeilenweise. Eine komplette Zeile jeder Komponente wird kodiert, bevor zur nächsten Zeile gewechselt wird. |
+| Sample | `2` | Die Daten werden nach Sample kodiert und gespeichert. Für Farbbilder ist dies das Format wie RGBRGBRGB. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

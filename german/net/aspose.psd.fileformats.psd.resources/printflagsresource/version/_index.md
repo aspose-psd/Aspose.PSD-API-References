@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PrintFlagsResource eigendom. Ruft die Version ab oder legt sie fest.
+title: "PrintFlagsResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PrintFlagsResource-Eigenschaft. Gibt die Version zurück oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.resources/printflagsresource/version/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.Version property
 
 Ruft die Version ab oder legt sie fest.
@@ -14,14 +15,14 @@ Ruft die Version ab oder legt sie fest.
 public short Version { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Version.
 
 ### Siehe auch
 
 * class [PrintFlagsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

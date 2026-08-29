@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorRangeHsl constructeur. Initialisiert eine neue Instanz vonColorRangeHsl Klasse.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorRangeHsl-Konstruktor. Initialisiert eine neue Instanz der ColorRangeHsl-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-Initialisiert eine neue Instanz von[`ColorRangeHsl`](../) Klasse.
+Initialisiert eine neue Instanz der [`ColorRangeHsl`](../)-Klasse.
 
 ```csharp
 public ColorRangeHsl()
@@ -17,14 +18,14 @@ public ColorRangeHsl()
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ColorRangeHsl`](../) Klasse.
+Initialisiert eine neue Instanz der [`ColorRangeHsl`](../)-Klasse.
 
 ```csharp
 public ColorRangeHsl(byte[] data)
@@ -32,18 +33,18 @@ public ColorRangeHsl(byte[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Byte[] | Die Farbbereichsdaten. |
+| Daten | Byte[] | Die Farbbereichsdaten. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Die erwartete Länge von " + this.GetType() + " ist 14 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Erwartete Länge von " + this.GetType() + " ist 14 |
 
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

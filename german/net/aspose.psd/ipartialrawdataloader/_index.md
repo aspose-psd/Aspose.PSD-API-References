@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IPartialRawDataLoader koppel. Der partielle Datenlader.
+title: "Schnittstelle IPartialRawDataLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IPartialRawDataLoader Schnittstelle. Der partielle Datenlader"
 type: docs
-weight: 4540
+weight: 5010
 url: /de/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-Der partielle Datenlader.
+Der Teil-Daten‑Loader.
 
 ```csharp
 public interface IPartialRawDataLoader
@@ -23,7 +24,7 @@ public interface IPartialRawDataLoader
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

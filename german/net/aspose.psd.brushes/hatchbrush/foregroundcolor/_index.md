@@ -1,20 +1,21 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: HatchBrush eigendom. Ruft die Farbe der Schraffurlinien ab oder legt sie fest.
+title: "HatchBrush.ForegroundColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "HatchBrush-Eigenschaft. Gibt die Farbe der Schraffurlinien zurück oder legt sie fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-Ruft die Farbe der Schraffurlinien ab oder legt sie fest.
+Ruft ab oder legt die Farbe der Schraffurlinien fest.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbe der Schraffurlinien.
 
@@ -22,7 +23,7 @@ Die Farbe der Schraffurlinien.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../hatchbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

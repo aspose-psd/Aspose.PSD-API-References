@@ -1,14 +1,15 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpGuid constructeur. Initialisiert eine neue Instanz vonXmpGuid Klasse.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpGuid-Konstruktor. Initialisiert eine neue Instanz der XmpGuid-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpGuid`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpGuid`](../)-Klasse.
 
 ```csharp
 public XmpGuid(string value)
@@ -16,26 +17,26 @@ public XmpGuid(string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | String | Der Wert. |
+| Wert | String | Der Wert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Wert ist null. |
-| ArgumentException | Ungültiger Führungswert;Wert |
+| ArgumentException | Ungültiger GUID-Wert;value |
 
 ### Siehe auch
 
 * class [XmpGuid](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpGuid`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpGuid`](../)-Klasse.
 
 ```csharp
 public XmpGuid(Guid guid)
@@ -43,12 +44,12 @@ public XmpGuid(Guid guid)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| guid | Guid | Die eindeutige Kennung. |
+| GUID | Guid | Der eindeutige Bezeichner. |
 
 ### Siehe auch
 
 * class [XmpGuid](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph koppel. Die Schnittstelle zum Arbeiten mit Absatz
+title: "Schnittstelle ITextParagraph"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph Schnittstelle. Die Schnittstelle zum Arbeiten mit Absätzen"
 type: docs
-weight: 3520
+weight: 3940
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-Die Schnittstelle zum Arbeiten mit Absatz
+Die Schnittstelle zur Arbeit mit Absätzen
 
 ```csharp
 public interface ITextParagraph
@@ -18,24 +19,24 @@ public interface ITextParagraph
 
 | Name | Beschreibung |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [automatische Silbentrennung]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Holt oder setzt den automatischen Zeilenabstand. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`ITextParagraph`ist burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Holt oder setzt die aufeinanderfolgenden Bindestriche. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Ruft den Einzug am Ende ab oder legt ihn fest. |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [jeder Zeilenkomponist]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Holt oder setzt den Einzug der ersten Zeile. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, ob [automatic hyphenate]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Ruft den automatischen Zeilenabstand ab oder legt ihn fest. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, ob dieses `ITextParagraph` burasagiri ist. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Ruft die aufeinanderfolgenden Bindestriche ab oder legt sie fest. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Ruft den Endeinzug ab oder legt ihn fest. |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, ob [every line composer]. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Ruft den Erstzeileneinzug ab oder legt ihn fest. |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Ruft den Glyphenabstand ab oder legt ihn fest. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`ITextParagraph` hängt. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Ruft die Größe des Worts mit Bindestrich ab oder legt sie fest. |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Ruft die Begründung ab oder legt sie fest. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Ruft den Wert ab oder legt ihn fest, der angibt, ob dieses `ITextParagraph` hängend ist. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Ruft die Größe des getrennten Wortes ab oder legt sie fest. |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Ruft die Ausrichtung ab oder legt sie fest. |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Ruft die Kinsoku-Reihenfolge ab oder legt sie fest. |
 | [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Ruft den Typ des Zeilenabstands ab oder legt ihn fest. |
 | [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Ruft den Buchstabenabstand ab oder legt ihn fest. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Ruft den Post-Bindestrich ab oder legt ihn fest. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Ruft den Prä-Bindestrich ab oder legt ihn fest. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Ruft das Leerzeichen danach ab oder legt es fest. |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Holt oder setzt das Leerzeichen davor. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Ruft den nachfolgenden Bindestrich ab oder legt ihn fest. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Ruft den vorangestellten Bindestrich ab oder legt ihn fest. |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Ruft den Abstand danach ab oder legt ihn fest. |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Ruft den Abstand davor ab oder legt ihn fest. |
 | [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Ruft den Starteinzug ab oder legt ihn fest. |
 | [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Ruft den Wortabstand ab oder legt ihn fest. |
 | [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Ruft die Zone ab oder legt sie fest. |
@@ -47,9 +48,9 @@ public interface ITextParagraph
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Wendet den angegebenen Absatz an. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Bestimmt, ob der angegebene Absatz gleich ist. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, dass die Textausrichtung durch ITextPortion für rechts-nach-links-Sprachen ordnungsgemäß funktioniert.
+Das folgende Beispiel zeigt, dass die Textausrichtung über ITextPortion für Rechts-nach-Links-Sprachen korrekt funktioniert.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Das folgende Codebeispiel veranschaulicht die Bearbeitung von Textabschnitten und deren Textstil.
+Das folgende Codebeispiel demonstriert das Bearbeiten von Textabschnitten und deren Textstil.
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Prüfen des Textes jedes Teils
+            // Überprüfen des Textes jedes Abschnitts
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Absatzdaten prüfen
-            // Absätze haben unterschiedliche Begründung
+            // Überprüfen der Absatzdaten
+            // Absätze haben unterschiedliche Ausrichtung
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -151,8 +152,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Stildaten prüfen
-            // Stile haben unterschiedliche Farben und Schriftgrößen
+            // Überprüfen der Stildaten
+            // Stile haben unterschiedliche Farben und Schriftgröße
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -184,11 +185,11 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // Beispiel für Textbearbeitung
+            // Beispiel für die Textbearbeitung
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // Beispiel für das Entfernen von Textteilen
+            // Beispiel für das Entfernen von Textabschnitten
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
@@ -199,18 +200,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Beispiel für die Bearbeitung von Absätzen und Stilen für Portionen
-            // Richtige Ausrichtung setzen
+            // Beispiel für Absatz- und Stilbearbeitung für Abschnitte
+            // Rechte Ausrichtung festlegen
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Unterschiedliche Farben für jeden Stil. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Unterschiedliche Farben für jeden Stil. Diese werden geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Andere Schriftart. Das wird geändert, aber das Rendern wird nicht vollständig unterstützt
+            // Andere Schriftart. Diese wird geändert, aber die Darstellung wird nicht vollständig unterstützt
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -227,7 +228,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

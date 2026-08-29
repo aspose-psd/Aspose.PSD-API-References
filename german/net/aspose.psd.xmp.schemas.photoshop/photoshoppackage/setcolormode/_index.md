@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetColorMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt den Farbmodus fest.
+title: "PhotoshopPackage.SetColorMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt den Farbmodus"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetColorMode method
 
-Legt den Farbmodus fest.
+Setzt den Farbmodus.
 
 ```csharp
 public void SetColorMode(ColorMode colorMode)
@@ -16,13 +17,13 @@ public void SetColorMode(ColorMode colorMode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| colorMode | ColorMode | Der Farbmodus. |
+| Farbmodus | ColorMode | Der Farbmodus. |
 
 ### Siehe auch
 
 * enum [ColorMode](../../colormode/)
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

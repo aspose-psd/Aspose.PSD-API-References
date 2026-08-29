@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeDigitized
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Bruchteile von Sekunden für das DateTimeDigitalizedTag ab oder legt sie fest.
+title: "ExifData.SubsecTimeDigitized"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft die Sekundenbruchteile für das DateTimeDigitized-Tag ab oder legt sie fest"
 type: docs
 weight: 1040
 url: /de/net/aspose.psd.exif/exifdata/subsectimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeDigitized property
 
-Ruft die Bruchteile von Sekunden für das DateTimeDigitalized-Tag ab oder legt sie fest.
+Liest oder setzt die Sekundenbruchteile für das DateTimeDigitized-Tag.
 
 ```csharp
 public string SubsecTimeDigitized { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Bruchteile von Sekunden für das DateTimeDigitalized-Tag.
+Die Sekundenbruchteile für das DateTimeDigitized-Tag.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

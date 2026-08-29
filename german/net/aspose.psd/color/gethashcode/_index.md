@@ -1,14 +1,15 @@
 ---
-title: Color.GetHashCode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color methode. Gibt dafür einen Hashcode zurückColorStruktur.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color-Methode. Gibt einen Hashcode für diese Color-Struktur zurück."
 type: docs
 weight: 1560
 url: /de/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-Gibt dafür einen Hashcode zurück[`Color`](../)Struktur.
+Gibt einen Hashcode für diese [`Color`](../)-Struktur zurück.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Rückgabewert
 
-Ein ganzzahliger Wert, der den Hashcode dafür angibt[`Color`](../).
+Ein ganzzahliger Wert, der den Hashcode für diese [`Color`](../) angibt.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

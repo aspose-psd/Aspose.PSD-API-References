@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. Testet ob zweiRectangle Strukturen haben dieselbe Position und Größe.
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Prüft, ob zwei Rectangle-Strukturen dieselbe Lage und Größe haben."
 type: docs
 weight: 290
 url: /de/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-Testet ob zwei[`Rectangle`](../) Strukturen haben dieselbe Position und Größe.
+Prüft, ob zwei [`Rectangle`](../)-Strukturen dieselbe Lage und Größe haben.
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator ==(Rectangle left, Rectangle right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Rectangle | Der[`Rectangle`](../) Struktur, die sich links vom Gleichheitsoperator befindet. |
-| right | Rectangle | Der[`Rectangle`](../)Struktur, die sich rechts vom Gleichheitsoperator befindet. |
+| left | Rectangle | Die [`Rectangle`](../)-Struktur, die sich links vom Gleichheitsoperator befindet. |
+| right | Rectangle | Die [`Rectangle`](../)-Struktur, die sich rechts vom Gleichheitsoperator befindet. |
 
 ### Rückgabewert
 
-Dieser Operator gibt true zurück, wenn die beiden[`Rectangle`](../) Strukturen haben gleich[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Und[`Height`](../height/) Eigenschaften.
+Dieser Operator gibt true zurück, wenn die beiden [`Rectangle`](../)-Strukturen gleiche [`X`](../x/), [`Y`](../y/), [`Width`](../width/)- und [`Height`](../height/)-Eigenschaften haben.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

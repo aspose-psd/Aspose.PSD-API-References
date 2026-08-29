@@ -1,11 +1,12 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ShapeSegments.LineSegment klas. Stellt ein Segment dar das direkt von einem bestimmten Punkt zum nächsten Punkt führt.
+title: "Klasse LineSegment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ShapeSegments.LineSegment Klasse. Stellt ein Segment dar, das direkt von einem bestimmten Punkt zum nächsten Punkt führt."
 type: docs
-weight: 5450
+weight: 5950
 url: /de/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
 Stellt ein Segment dar, das direkt von einem bestimmten Punkt zum nächsten Punkt führt.
@@ -14,11 +15,11 @@ Stellt ein Segment dar, das direkt von einem bestimmten Punkt zum nächsten Punk
 public class LineSegment : ShapeSegment
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Initialisiert eine neue Instanz von`LineSegment` Klasse. |
+| [LineSegment](linesegment/)(PointF, PointF) | Initialisiert eine neue Instanz der `LineSegment`-Klasse. |
 
 ## Eigenschaften
 
@@ -30,7 +31,7 @@ public class LineSegment : ShapeSegment
 ### Siehe auch
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* namensraum [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

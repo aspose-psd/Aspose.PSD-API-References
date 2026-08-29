@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. GammaKorrektur eines Bildes.
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Gammakorrektur eines Bildes"
 type: docs
-weight: 460
+weight: 520
 url: /de/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Gamma-Korrektur eines Bildes.
@@ -16,13 +17,13 @@ public override void AdjustGamma(float gamma)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| gamma | Single | Gamma für Rot-, Grün- und Blaukanalkoeffizient |
+| Gamma | Single | Gamma‑Koeffizient für die Rot-, Grün- und Blaukanäle |
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBl
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| gammaRed | Single | Gamma für Rotkanalkoeffizient |
-| gammaGreen | Single | Gamma für Grünkanalkoeffizient |
-| gammaBlue | Single | Gamma für den Koeffizienten des blauen Kanals |
+| gammaRed | Single | Gamma‑Koeffizient für den Rotkanal |
+| gammaGreen | Single | Gamma‑Koeffizient für den Grünkanal |
+| gammaBlue | Single | Gamma‑Koeffizient für den Blaukanal |
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

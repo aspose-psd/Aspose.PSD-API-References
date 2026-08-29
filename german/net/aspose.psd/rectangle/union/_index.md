@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Union
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. erhält aRectangle Struktur die die Vereinigung von zwei enthältRectangle Strukturen.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Gibt eine Rectangle-Struktur zurück, die die Vereinigung zweier Rectangle-Strukturen enthält"
 type: docs
 weight: 100
 url: /de/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-erhält a[`Rectangle`](../) Struktur, die die Vereinigung von zwei enthält[`Rectangle`](../) Strukturen.
+Gibt eine [`Rectangle`](../)-Struktur zurück, die die Vereinigung zweier [`Rectangle`](../)-Strukturen enthält.
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
@@ -21,12 +22,12 @@ public static Rectangle Union(Rectangle a, Rectangle b)
 
 ### Rückgabewert
 
-A[`Rectangle`](../) Struktur, die die Vereinigung der beiden begrenzt[`Rectangle`](../) Strukturen.
+Eine [`Rectangle`](../)-Struktur, die die Vereinigung der beiden [`Rectangle`](../)-Strukturen begrenzt.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

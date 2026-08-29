@@ -1,29 +1,30 @@
 ---
-title: Class PngImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException klas. Die PNGBildAusnahme.
+title: "Klasse PngImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PngImageException Klasse. Die png-Bildausnahme"
 type: docs
 weight: 570
 url: /de/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-Die PNG-Bild-Ausnahme.
+Die PNG-Bildausnahme.
 
 ```csharp
 public class PngImageException : Exception
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | Initialisiert eine neue Instanz von`PngImageException` Klasse. |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz von`PngImageException` Klasse. |
+| [PngImageException](pngimageexception/#constructor)(string) | Initialisiert eine neue Instanz der `PngImageException`-Klasse. |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz der `PngImageException`-Klasse. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

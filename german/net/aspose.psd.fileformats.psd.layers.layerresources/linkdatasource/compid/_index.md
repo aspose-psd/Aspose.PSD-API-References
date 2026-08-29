@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.CompId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinkDataSource eigendom. Erhält oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument die 1 ist wenn keine ausgewählt ist. Kompositionen sind Kompositionen eines Seitenlayouts die Designer erstellen können. Mithilfe von Ebenenkompositionen können Sie mehrere Versionen eines Layouts in einer einzigen Adobe PhotoshopDatei erstellen verwalten und anzeigen. Eine Ebenenkomposition ist eine Momentaufnahme eines Zustands des Ebenenbedienfelds. Ebenenkompositionen speichern drei Arten von Ebenenoptionen aber diese Eigenschaft erhält die Auswahlkennung der Ebenenkomposition für Smart Objects. Ebenenkompositionen in Smart Objects
+title: "LinkDataSource.CompId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinkDataSource-Eigenschaft. Gibt die ID der derzeit ausgewählten Comp für das untergeordnete Dokument zurück oder legt sie fest; sie ist 1, wenn keine ausgewählt ist. Comps sind Zusammensetzungen eines Seitenlayouts, die Designer erstellen können. Mit Layer-Comps können Sie mehrere Versionen eines Layouts in einer einzigen Adobe Photoshop‑Datei erstellen, verwalten und anzeigen. Ein Layer-Comp ist ein Schnappschuss eines Zustands des Ebenen‑Panels. Layer-Comps speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft liefert die Auswahl‑Kennung des Layer-Comp für Smart Objects. Layer-Comps in Smart Objects"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.CompId property
 
-Erhält oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist. Kompositionen sind Kompositionen eines Seitenlayouts, die Designer erstellen können. Mithilfe von Ebenenkompositionen können Sie mehrere Versionen eines Layouts in einer einzigen Adobe® Photoshop®-Datei erstellen, verwalten und anzeigen. Eine Ebenenkomposition ist eine Momentaufnahme eines Zustands des Ebenenbedienfelds. Ebenenkompositionen speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft erhält die Auswahlkennung der Ebenenkomposition für Smart Objects. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Liest oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist. Kompositionen (Comps) sind Zusammensetzungen eines Seitenlayouts, die Designer erstellen können. Mit Layer‑Comps können Sie mehrere Versionen eines Layouts in einer einzigen Adobe® Photoshop®‑Datei erstellen, verwalten und anzeigen. Ein Layer‑Comp ist ein Schnappschuss eines Zustands des Ebenen‑Panels. Layer‑Comps speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft liest die Auswahl‑ID des Layer‑Comp für Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist.
+Die ID der derzeit ausgewählten Comp für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sie können nicht auf die CompId-Eigenschaft zugreifen |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Auf die CompId‑Eigenschaft kann nicht zugegriffen werden. |
 
 ### Siehe auch
 
 * class [LinkDataSource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

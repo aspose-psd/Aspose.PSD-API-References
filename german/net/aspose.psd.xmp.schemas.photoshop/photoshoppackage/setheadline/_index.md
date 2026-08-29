@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt die Überschrift fest.
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Legt die Überschrift fest"
 type: docs
 weight: 120
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
-Legt die Überschrift fest.
+Setzt die Überschrift.
 
 ```csharp
 public void SetHeadline(string headline)
@@ -16,12 +17,12 @@ public void SetHeadline(string headline)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| headline | String | Die Schlagzeile. |
+| headline | String | Die Überschrift. |
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

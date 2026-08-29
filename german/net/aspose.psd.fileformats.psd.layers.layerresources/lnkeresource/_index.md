@@ -1,54 +1,55 @@
 ---
-title: Class LnkeResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource klas. Definiert die Klasse LnkeResource die Informationen über extern verknüpfte Dateien oder Assets im Bild im PSDFormat enthält. Die LinkRessource kann mehrere enthaltenLiFeDataSource Instanzen auf die der Indexer zugreifen kann. Dies ist ein Teil der PSDDateiformatManipulationsAPI die dabei hilft Adobe PhotoshopDateien programmgesteuert zu ändern
+title: "Klasse LnkeResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource Klasse. Definiert die LnkeResource‑Klasse, die Informationen über externe verknüpfte Dateien oder Assets im PSD‑Format‑Bild enthält. Die Link‑Ressource kann mehrere LiFeDataSource‑Instanzen enthalten, auf die über den Indexer zugegriffen werden kann. Dies ist ein Teil der PSD File Format Manipulation API, die dabei hilft, Adobe‑Photoshop‑Dateien programmgesteuert zu ändern."
 type: docs
-weight: 2740
+weight: 3050
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-Definiert die Klasse LnkeResource, die Informationen über extern verknüpfte Dateien oder Assets im Bild im PSD-Format enthält. Die Link-Ressource kann mehrere enthalten[`LiFeDataSource`](../lifedatasource/) Instanzen, auf die der Indexer zugreifen kann. Dies ist ein Teil der PSD-Dateiformat-Manipulations-API, die dabei hilft, Adobe® Photoshop®-Dateien programmgesteuert zu ändern
+Definiert die LnkeResource‑Klasse, die Informationen über externe verknüpfte Dateien oder Assets im PSD‑Format‑Bild enthält. Die Link‑Ressource kann mehrere [`LiFeDataSource`](../lifedatasource/) Instanzen enthalten, auf die über den Indexer zugegriffen werden kann. Dies ist ein Teil der PSD File Format Manipulation API, die dabei hilft, Adobe® Photoshop®‑Dateien programmgesteuert zu ändern.
 
 ```csharp
 public class LnkeResource : LinkResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | Initialisiert eine neue Instanz von`LnkeResource` Klasse. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initialisiert eine neue Instanz von`LnkeResource` Klasse. |
+| [LnkeResource](lnkeresource/#constructor)() | Initialisiert eine neue Instanz der `LnkeResource` Klasse. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Initialisiert eine neue Instanz der `LnkeResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Ruft die Anzahl der Link-Datenquellen ab, auf die der Indexer zugreifen kann. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Ruft einen Wert ab, der angibt, ob diese Link-Ressourceninstanz leer ist. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Ruft die ab[`LiFeDataSource`](../lifedatasource/) am angegebenen Index. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Ruft den globalen Adobe® Photoshop®-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ruft die globale PSD-Link-Ressourcenlänge in Byte ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Ruft die Version im PSD-Format ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Ruft die Signatur der globalen PSD-Link-Ressource ab. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Liest die Anzahl der Link‑Datenquellen, auf die über den Indexer zugegriffen werden kann. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Liest einen Wert, der angibt, ob diese Link‑Ressourcen‑Instanz leer ist. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Liest das [`LiFeDataSource`](../lifedatasource/) am angegebenen Index. (2 Indexer) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ermittelt die Länge der globalen PSD-Link-Ressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Speichert die Ressourcenblockdaten. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Speichert die Daten des Ressourcenblocks. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der LnkeResource-Ressource.
+Der folgende Code demonstriert die Unterstützung der LnkeResource‑Ressource.
 
 ```csharp
 [C#]
@@ -274,7 +275,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

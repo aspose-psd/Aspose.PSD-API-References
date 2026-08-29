@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion2.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhflResourceVersion2 eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "PhflResourceVersion2.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhflResourceVersion2-Eigenschaft. Gibt den Schlüssel der Ebenenressource zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/key/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [PhflResourceVersion2](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceRef eigendom. Ruft den DateipfadURI ab oder legt ihn fest.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceRef-Eigenschaft. Gibt die Dateipfad-URI zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-Ruft den Dateipfad-URI ab oder legt ihn fest.
+Liest oder setzt die Dateipfad-URI.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Dateipfad-URI.
+Die Dateipfad-URI.
 
 ### Siehe auch
 
 * class [ResourceRef](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

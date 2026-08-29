@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiRasterImageSection eigendom. Ruft den Namen des Rasterbildes ab.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiRasterImageSection-Eigenschaft. Gibt den Namen des Rasterbildes zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
-Ruft den Namen des Rasterbildes ab.
+Gibt den Namen des Rasterbildes zurück.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Rasterbildes.
 
 ### Siehe auch
 
 * class [AiRasterImageSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

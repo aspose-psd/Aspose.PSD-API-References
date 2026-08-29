@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt die Anweisungen fest.
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt die Anweisungen"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
-Legt die Anweisungen fest.
+Setzt die Anweisungen.
 
 ```csharp
 public void SetInstructions(string instructions)
@@ -16,12 +17,12 @@ public void SetInstructions(string instructions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| instructions | String | Die Anleitungen. |
+| Anweisungen | String | Die Anweisungen. |
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

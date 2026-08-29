@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VOrder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft den Wert der VOrdnung der platzierten Ebene in der PSDDatei ab oder legt ihn fest.
+title: "PlacedResource.VOrder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource Eigenschaft. Liest oder setzt den V-Ordnungswert der platzierten Ebene in der PSD-Datei"
 type: docs
-weight: 240
+weight: 230
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VOrder property
 
-Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest.
+Liest oder legt den V-Ordnungswert der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der V-Ordnungswert der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

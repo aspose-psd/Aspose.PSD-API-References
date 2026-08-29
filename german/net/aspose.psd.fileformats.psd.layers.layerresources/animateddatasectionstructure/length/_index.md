@@ -1,14 +1,15 @@
 ---
-title: AnimatedDataSectionStructure.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AnimatedDataSectionStructure eigendom. Ruft die abOSTypeStructure Länge in Bytes.
+title: "AnimatedDataSectionStructure.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AnimatedDataSectionStructure-Eigenschaft. Gibt die Länge der OSTypeStructure in Bytes zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Length property
 
-Ruft die ab[`OSTypeStructure`](../../ostypestructure/) Länge in Bytes.
+Gibt die Länge der [`OSTypeStructure`](../../ostypestructure/) in Bytes zurück.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [AnimatedDataSectionStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die xDimension des Pixels ab oder legt sie fest.
+title: "ExifData.PixelXDimension"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt die Pixel-X-Dimension"
 type: docs
 weight: 840
 url: /de/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
-Ruft die x-Dimension des Pixels ab oder legt sie fest.
+Liest oder setzt die Pixel‑X‑Dimension.
 
 ```csharp
 public uint PixelXDimension { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Pixel-x-Abmessung.
+Die Pixel-X-Dimension.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

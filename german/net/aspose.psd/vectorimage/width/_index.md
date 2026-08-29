@@ -1,27 +1,28 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorImage eigendom. Ruft die Bildbreite ab.
+title: "VectorImage.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorImage-Eigenschaft. Gibt die Bildbreite zurück."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
-Ruft die Bildbreite ab.
+Liest die Bildbreite.
 
 ```csharp
 public override int Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildbreite.
 
 ### Siehe auch
 
 * class [VectorImage](../)
-* namensraum [Aspose.PSD](../../vectorimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

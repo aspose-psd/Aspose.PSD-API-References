@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorRangeHsl methode. Bestimmt ob der Farbton in einem großen Bereich liegt.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorRangeHsl-Methode. Bestimmt, ob der Farbton im großen Bereich liegt"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Bestimmt, ob der Farbton in einem großen Bereich liegt.
+Bestimmt, ob der Farbton im großen Bereich liegt.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
@@ -16,16 +17,16 @@ public bool IsHueInBigRange(double hue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| hue | Double | Der Farbwert. |
+| Farbton | Doppelt | Der Farbtonwert. |
 
 ### Rückgabewert
 
-`WAHR` wenn Farbton in großem Bereich; ansonsten,`FALSCH` .
+`true`, wenn der Farbton im großen Bereich liegt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

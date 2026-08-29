@@ -1,14 +1,15 @@
 ---
-title: GuideResource.GuideResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GuideResource constructeur. Default_Constructor
+title: "GuideResource.GuideResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GuideResource-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/guideresource/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public GuideResource()
@@ -17,7 +18,7 @@ public GuideResource()
 ### Siehe auch
 
 * class [GuideResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

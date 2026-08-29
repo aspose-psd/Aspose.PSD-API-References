@@ -1,14 +1,15 @@
 ---
-title: Pen.ScaleTransform
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen methode. Skaliert die lokale geometrische Transformation um die angegebenen Faktoren. Diese Methode stellt der Transformation die Skalierungsmatrix voran.
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Methode. Skaliert die lokale geometrische Transformation um die angegebenen Faktoren. Diese Methode fügt die Skalierungsmatrix an den Anfang der Transformation ein."
 type: docs
 weight: 220
 url: /de/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Skaliert die lokale geometrische Transformation um die angegebenen Faktoren. Diese Methode stellt der Transformation die Skalierungsmatrix voran.
+Skaliert die lokale geometrische Transformation um die angegebenen Faktoren. Diese Methode fügt die Skalierungsmatrix der Transformation voran.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
@@ -16,14 +17,14 @@ public void ScaleTransform(float sx, float sy)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sx | Single | Der Faktor, um den die Transformation in Richtung der x-Achse skaliert werden soll. |
-| sy | Single | Der Faktor, um den die Transformation in Richtung der y-Achse skaliert werden soll. |
+| sx | Single | Der Faktor, um den die Transformation in x‑Richtung skaliert wird. |
+| sy | Single | Der Faktor, um den die Transformation in y‑Richtung skaliert wird. |
 
 ### Siehe auch
 
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -37,15 +38,15 @@ public void ScaleTransform(float sx, float sy, MatrixOrder order)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sx | Single | Der Faktor, um den die Transformation in Richtung der x-Achse skaliert werden soll. |
-| sy | Single | Der Faktor, um den die Transformation in Richtung der y-Achse skaliert werden soll. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) die angibt, ob die Skalierungsmatrix angehängt oder vorangestellt werden soll. |
+| sx | Single | Der Faktor, um den die Transformation in x‑Richtung skaliert wird. |
+| sy | Single | Der Faktor, um den die Transformation in y‑Richtung skaliert wird. |
+| order | MatrixOrder | Ein [`MatrixOrder`](../../matrixorder/) der angibt, ob die Skalierungsmatrix angehängt oder vorangestellt wird. |
 
 ### Siehe auch
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

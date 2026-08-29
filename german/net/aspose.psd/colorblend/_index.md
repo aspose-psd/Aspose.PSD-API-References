@@ -1,43 +1,44 @@
 ---
-title: Class ColorBlend
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorBlend klas. Definiert Arrays von Farben und Positionen die zum Interpolieren von Farbmischungen in einem mehrfarbigen Farbverlauf verwendet werden. Diese Klasse kann nicht vererbt werden.
+title: "Klasse ColorBlend"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorBlend Klasse. Definiert Arrays von Farben und Positionen, die für die Interpolation von Farbverläufen in einem mehrfarbigen Gradient verwendet werden. Diese Klasse kann nicht abgeleitet werden."
 type: docs
 weight: 310
 url: /de/net/aspose.psd/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend class
 
-Definiert Arrays von Farben und Positionen, die zum Interpolieren von Farbmischungen in einem mehrfarbigen Farbverlauf verwendet werden. Diese Klasse kann nicht vererbt werden.
+Definiert Arrays von Farben und Positionen, die zum Interpolieren von Farbmischungen in einem mehrfarbigen Verlauf verwendet werden. Diese Klasse kann nicht abgeleitet werden.
 
 ```csharp
 public sealed class ColorBlend
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ColorBlend](colorblend/#constructor)() | Initialisiert eine neue Instanz von`ColorBlend` Klasse. |
-| [ColorBlend](colorblend/#constructor_1)(int) | Initialisiert eine neue Instanz von`ColorBlend` Klasse mit der angegebenen Anzahl von Farben und Positionen. |
+| [ColorBlend](colorblend/#constructor)() | Initialisiert eine neue Instanz der `ColorBlend`‑Klasse. |
+| [ColorBlend](colorblend/#constructor_1)(int) | Initialisiert eine neue Instanz der `ColorBlend`‑Klasse mit der angegebenen Anzahl von Farben und Positionen. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | Ruft ein Array von Farben ab oder legt es fest, das die Farben darstellt, die an entsprechenden Positionen entlang eines Farbverlaufs verwendet werden sollen. |
-| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | Ruft die Positionen entlang einer Verlaufslinie ab oder legt sie fest. |
+| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | Ruft ein Array von Farben ab oder legt es fest, das die an den entsprechenden Positionen entlang eines Gradienten zu verwendenden Farben darstellt. |
+| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | Ruft die Positionen entlang einer Gradientenlinie ab oder legt sie fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Equals](../../aspose.psd/colorblend/equals/)(object) | Testet, ob das angegebene Objekt a ist`ColorBlend` Klasse und entspricht dieser`ColorBlend` Klasse. |
-| override [GetHashCode](../../aspose.psd/colorblend/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
+| override [Equals](../../aspose.psd/colorblend/equals/)(object) | Prüft, ob das angegebene Objekt eine `ColorBlend`‑Klasse ist und dieser `ColorBlend`‑Klasse entspricht. |
+| override [GetHashCode](../../aspose.psd/colorblend/gethashcode/)() | Gibt einen Hashcode für diese Instanz zurück. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

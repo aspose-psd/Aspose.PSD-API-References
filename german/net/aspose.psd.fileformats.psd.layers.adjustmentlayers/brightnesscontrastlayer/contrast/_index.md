@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BrightnessContrastLayer eigendom. Ruft den Kontrast ab oder setzt ihn. Für PS liegt der Kontrastbereich zwischen 50 und 100. Aber wir ignorieren das.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BrightnessContrastLayer-Eigenschaft. Gibt den Kontrast zurück oder legt ihn fest. Für PS liegt der Bereich des Kontrasts zwischen 50 und 100. Wir ignorieren dies jedoch"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-Ruft den Kontrast ab oder setzt ihn. Für PS liegt der Kontrastbereich zwischen -50 und +100. Aber wir ignorieren das.
+Liest oder setzt den Kontrast. Für PS liegt der Bereich des Kontrasts von -50 bis +100. Wir ignorieren dies jedoch.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Kontrast.
 
 ### Siehe auch
 
 * class [BrightnessContrastLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Cyans
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlackWhiteAdjustmentLayer eigendom. Ruft den Cyanwert ab oder legt ihn fest.
+title: "BlackWhiteAdjustmentLayer.Cyans"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlackWhiteAdjustmentLayer Eigenschaft. Gibt den Cyanwert zurück oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/cyans/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Cyans property
 
-Ruft den Cyanwert ab oder legt ihn fest.
+Liest oder setzt den cyans Wert.
 
 ```csharp
 public int Cyans { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Cyanwert.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie die Schwarz-Weiß-Anpassungsebene zur Laufzeit in Aspose.PSD hinzufügen können
+Das folgende Beispiel zeigt, wie Sie die black white Anpassungsebene zur Laufzeit in Aspose.PSD hinzufügen können.
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Das folgende Beispiel zeigt, wie Sie die Eigenschaften der Schwarz-Weiß-Anpassungsebene in Aspose.PSD bearbeiten können
+Das folgende Beispiel zeigt, wie Sie die Eigenschaften des Schwarz-Weiß-Anpassungslayers in Aspose.PSD manipulieren können.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [BlackWhiteAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

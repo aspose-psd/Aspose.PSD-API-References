@@ -1,14 +1,15 @@
 ---
-title: XmpTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpTypeBase methode. Ruft den in der Zeichenfolge enthaltenen Wert im XMPFormat ab.
+title: "XmpTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpTypeBase-Methode. Gibt den im String enthaltenen Wert im XMP-Format zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types/xmptypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase.GetXmpRepresentation method
 
-Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab.
+Liest den enthaltenen Zeichenfolgenwert im XMP-Format.
 
 ```csharp
 public abstract string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public abstract string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [XmpTypeBase](../)
-* namensraum [Aspose.PSD.Xmp.Types](../../xmptypebase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types](../../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../../)
 
 

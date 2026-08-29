@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamContainer eigendom. Ruft einen Wert ab der angibt ob dieser Stream beim Schließen verworfen wird.
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamContainer-Eigenschaft. Gibt einen Wert zurück, der angibt, ob dieser Stream beim Schließen freigegeben wird"
 type: docs
 weight: 50
 url: /de/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-Ruft einen Wert ab, der angibt, ob dieser Stream beim Schließen verworfen wird.
+Gibt einen Wert zurück, der angibt, ob dieser Stream beim Schließen freigegeben wird.
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn der Strom beim Schließen entsorgt wird; ansonsten,`FALSCH`.
+`true`, wenn der Stream beim Schließen freigegeben wird; andernfalls `false`.
 
 ### Siehe auch
 
 * class [StreamContainer](../)
-* namensraum [Aspose.PSD](../../streamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

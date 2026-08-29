@@ -1,11 +1,12 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IIndexedColorConverter koppel. Der Farbkonverter für indizierte Bildformate.
+title: "Schnittstelle IIndexedColorConverter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IIndexedColorConverter Schnittstelle. Der Farbkonverter für indizierte Bildformate"
 type: docs
-weight: 4470
+weight: 4940
 url: /de/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
 Der Farbkonverter für indizierte Bildformate.
@@ -18,11 +19,11 @@ public interface IIndexedColorConverter
 
 | Name | Beschreibung |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Füllt die Konvertierungskarte von indiziert zu indiziertem Bild. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Füllt die Index-zu-Index-Bildkonvertierungskarte. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

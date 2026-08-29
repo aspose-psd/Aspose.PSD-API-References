@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerStateEffects methode. Entfernt den Ebeneneffekt am spezifischen Index.
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerStateEffects-Methode. Entfernt den Ebeneneffekt am angegebenen Index"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
-Entfernt den Ebeneneffekt am spezifischen Index.
+Entfernt den Layer-Effekt am angegebenen Index.
 
 ```csharp
 public void RemoveEffectAt(int index)
@@ -21,7 +22,7 @@ public void RemoveEffectAt(int index)
 ### Siehe auch
 
 * class [LayerStateEffects](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

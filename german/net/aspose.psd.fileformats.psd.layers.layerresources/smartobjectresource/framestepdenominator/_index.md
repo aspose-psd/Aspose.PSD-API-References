@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepDenominator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectResource eigendom. Ruft den FrameSchrittNenner ab oder setzt ihn.
+title: "SmartObjectResource.FrameStepDenominator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectResource-Eigenschaft. Liest oder schreibt den Nenner des Frame-Schritts."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepDenominator property
 
-Ruft den Frame-Schritt-Nenner ab oder setzt ihn.
+Liest oder setzt den Nenner des Bildschritts.
 
 ```csharp
 public int FrameStepDenominator { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Frame-Schritt-Nenner.
+Der Nenner des Frame-Schritts.
 
 ### Siehe auch
 
 * class [SmartObjectResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

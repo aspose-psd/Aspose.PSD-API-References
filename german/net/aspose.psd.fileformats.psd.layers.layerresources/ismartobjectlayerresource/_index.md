@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource koppel. Definiert die ISmartObjectLayerResourceSchnittstelle die Informationen über eine SmartObjectLayerRessource in der PSDDatei enthält. Dies ist auch eine MarkupSchnittstelle die verwendet wird um sowohl verkaufte als auch alleinige Ressourcen in den Adobe PhotoshopBildern zu kennzeichnen.
+title: "Schnittstelle ISmartObjectLayerResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource Schnittstelle. Definiert die ISmartObjectLayerResource Schnittstelle, die Informationen über eine Smart‑Object‑Ebenenressource in der PSD‑Datei enthält. Sie ist außerdem eine Markup‑Schnittstelle, die verwendet wird, um sowohl Sold als auch Sole Ressourcen in den Adobe Photoshop Bildern zu kennzeichnen."
 type: docs
-weight: 2540
+weight: 2830
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-Definiert die ISmartObjectLayerResource-Schnittstelle, die Informationen über eine Smart-Object-Layer-Ressource in der PSD-Datei enthält. Dies ist auch eine Markup-Schnittstelle, die verwendet wird, um sowohl verkaufte als auch alleinige Ressourcen in den Adobe® Photoshop®-Bildern zu kennzeichnen.
+Definiert die Schnittstelle **ISmartObjectLayerResource**, die Informationen über eine Smart‑Object‑Ebenen‑Ressource in der PSD‑Datei enthält. Es ist außerdem eine Markup‑Schnittstelle, die verwendet wird, um sowohl Sold‑ als auch Sole‑Ressourcen in den Adobe® Photoshop®‑Bildern zu kennzeichnen.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -18,11 +19,11 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 | Name | Beschreibung |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Ruft die eindeutige Kennung dieser Smart-Objekt-Layer-Daten im PSD-Bild ab oder legt sie fest. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Liest oder setzt den eindeutigen Bezeichner dieser Smart‑Object‑Ebenendaten im PSD‑Bild. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung eingebetteter Smart-Objekte.
+Der folgende Code demonstriert die Unterstützung eingebetteter Smart‑Objekte.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie die Smart-Objekt-Ebene in der PSD-Datei geändert und der ursprünglich eingebettete Inhalt des Smart-Objekts exportiert/aktualisiert wird.
+// Dieses Beispiel zeigt, wie man die Smart‑Object‑Ebene in der PSD‑Datei ändert und die ursprünglichen eingebetteten Inhalte des Smart‑Objects exportiert / aktualisiert.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Lassen Sie uns das eingebettete Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene exportieren
+        // Exportieren wir das eingebettete Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene.
         smartObjectLayer.ExportContents(exportPath);
 
-        // Prüfen wir, ob das Originalbild korrekt gespeichert wurde
+        // Überprüfen wir, ob das Originalbild korrekt gespeichert wurde
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Lassen Sie uns das ursprüngliche Smart-Objekt-Bild invertieren
+            // Lassen Sie das ursprüngliche Smart‑Object‑Bild invertieren
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,11 +87,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lassen Sie das eingebettete Smart‑Object‑Bild in der PSD‑Ebene ersetzen
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Prüfen wir, ob das aktualisierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das aktualisierte Bild korrekt gespeichert wurde
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -100,7 +101,7 @@ foreach (FileFormat format in formats)
 ### Siehe auch
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

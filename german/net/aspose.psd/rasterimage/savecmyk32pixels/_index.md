@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Speichert die Pixel.
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Speichert die Pixel"
 type: docs
-weight: 510
+weight: 520
 url: /de/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
 Speichert die Pixel.
@@ -16,14 +17,14 @@ public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, in dem Pixel gespeichert werden sollen. |
-| pixels | Int32[] | Die CMYK-Pixel werden als ganzzahlige 32-Bit-Werte dargestellt. |
+| Rechteck | Rectangle | Das Rechteck, in dem die Pixel gespeichert werden. |
+| Pixel | Int32[] | Die CMYK‑Pixel, dargestellt als 32‑Bit‑Ganzzahlwerte. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

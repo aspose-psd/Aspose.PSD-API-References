@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.DescriptorStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DescriptorStructure constructeur. Initialisiert eine neue Instanz vonDescriptorStructure Klasse.
+title: "DescriptorStructure.DescriptorStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DescriptorStructure-Konstruktor. Initialisiert eine neue Instanz der DescriptorStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/descriptorstructure/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure constructor
 
-Initialisiert eine neue Instanz von[`DescriptorStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`DescriptorStructure`](../)-Klasse.
 
 ```csharp
 public DescriptorStructure(ClassID keyName, ClassID classID, string className, 
@@ -18,9 +19,9 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | keyName | ClassID | Der Schlüsselname. |
-| classID | ClassID | Die Klassenkennung. |
+| classID | ClassID | Der Klassenidentifikator. |
 | className | String | Name der Klasse. |
-| structures | OSTypeStructure[] | Die Strukturen. |
+| Strukturen | OSTypeStructure[] | Die Strukturen. |
 
 ### Ausnahmen
 
@@ -33,7 +34,7 @@ public DescriptorStructure(ClassID keyName, ClassID classID, string className,
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [DescriptorStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

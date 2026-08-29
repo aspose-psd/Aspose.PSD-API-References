@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Offset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExposureLayer eigendom. Holt oder setzt den Offset. Für PS reicht der Offset von 05 bis 05
+title: "ExposureLayer.Offset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExposureLayer-Eigenschaft. Gibt den Offset zurück oder legt ihn fest. Für PS liegt der Bereich des Offsets zwischen 0.5 und 0.5"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Offset property
 
-Holt oder setzt den Offset. Für PS reicht der Offset von -0,5 bis +0,5
+Liest oder setzt den Versatz. Für PS liegt der Bereich des Versatzes von -0,5 bis +0,5.
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Versatz.
+Der Offset.
 
 ### Siehe auch
 
 * class [ExposureLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

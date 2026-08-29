@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.Equals
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorBlend methode. Testet ob das angegebene Objekt a istColorBlend Klasse und entspricht dieserColorBlend Klasse.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorBlend-Methode. Prüft, ob das angegebene Objekt eine ColorBlend-Klasse ist und dieser ColorBlend-Klasse entspricht."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-Testet, ob das angegebene Objekt a ist[`ColorBlend`](../) Klasse und entspricht dieser[`ColorBlend`](../) Klasse.
+Prüft, ob das angegebene Objekt eine [`ColorBlend`](../)-Klasse ist und dieser [`ColorBlend`](../)-Klasse entspricht.
 
 ```csharp
 public override bool Equals(object obj)
@@ -20,12 +21,12 @@ public override bool Equals(object obj)
 
 ### Rückgabewert
 
-Wahr, wenn*obj* ist ein[`ColorBlend`](../) Klasse dazu gleichwertig[`ColorBlend`](../) Klasse; andernfalls falsch.
+Wahr, wenn *obj* eine [`ColorBlend`](../)-Klasse ist, die dieser [`ColorBlend`](../)-Klasse entspricht; andernfalls falsch.
 
 ### Siehe auch
 
 * class [ColorBlend](../)
-* namensraum [Aspose.PSD](../../colorblend/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

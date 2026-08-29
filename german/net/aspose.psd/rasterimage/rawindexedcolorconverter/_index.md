@@ -1,20 +1,21 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage eigendom. Holt oder setzt den indizierten Farbkonverter
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Eigenschaft. Ruft den indizierten Farbkonverter ab oder legt ihn fest"
 type: docs
 weight: 110
 url: /de/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-Holt oder setzt den indizierten Farbkonverter
+Liest oder setzt den indizierten Farbkonverter
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der indizierte Farbkonverter
 
@@ -22,7 +23,7 @@ Der indizierte Farbkonverter
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress klas. Stellt Fortschrittsinformationen für die asynchrone Aufgabe bereit.
+title: "Klasse AsyncTaskProgress"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.AsyncTask.AsyncTaskProgress Klasse. Liefert Fortschrittsinformationen für die asynchrone Aufgabe"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
 Stellt Fortschrittsinformationen für die asynchrone Aufgabe bereit.
@@ -14,11 +15,11 @@ Stellt Fortschrittsinformationen für die asynchrone Aufgabe bereit.
 public class AsyncTaskProgress
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Initialisiert eine neue Instanz von`AsyncTaskProgress` Klasse. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Initialisiert eine neue Instanz der `AsyncTaskProgress` Klasse. |
 
 ## Felder
 
@@ -29,7 +30,7 @@ public class AsyncTaskProgress
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

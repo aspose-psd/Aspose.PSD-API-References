@@ -1,51 +1,52 @@
 ---
-title: Class SoCoResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource klas. Klasse SoCoResource. Diese Ressource enthält Informationen zu Farbfüllebenen
+title: "Klasse SoCoResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoCoResource Klasse. Klasse SoCoResource. Diese Ressource enthält Informationen über Farbfüllschichten"
 type: docs
-weight: 3010
+weight: 3360
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource class
 
-Klasse SoCoResource. Diese Ressource enthält Informationen zu Farbfüllebenen
+Klasse **SoCoResource**. Diese Ressource enthält Informationen über Farbfüll‑Ebenen.
 
 ```csharp
 public class SoCoResource : FillLayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [SoCoResource](socoresource/)() | Initialisiert eine neue Instanz von`SoCoResource` Klasse. |
+| [SoCoResource](socoresource/)() | Initialisiert eine neue Instanz der `SoCoResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Ruft die RGB-Farbe ab . |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die Layer-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/) { get; } | Ruft die Layer-Ressourcensignatur ab. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/) { get; set; } | Liest die RGB-Farbe. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Speichert die Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/save/)(StreamContainer, int) | Speichert die Ressource in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie SoCoResource (Ebenenressource für Farbfüllungsebene) bearbeiten.
+Das folgende Beispiel demonstriert, wie Sie SoCoResource bearbeiten (Layer-Ressource für Farbfüllschicht)
 
 ```csharp
 [C#]
@@ -53,20 +54,20 @@ Das folgende Beispiel zeigt, wie Sie SoCoResource (Ebenenressource für Farbfül
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
 {
     foreach (var layer in im.Layers)
     {
-        // Finden von FillLayer
+        // Suche nach FillLayer
         if (layer is FillLayer)
         {
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Finden von SoCoResource in der Layer-Ressourcenliste
+                // Suche nach SoCoResource in der Layer-Ressourcenliste
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -80,7 +81,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Festlegen der SoCoResource Color-Eigenschaft
+                    // Festlegen der SoCoResource-Farbeigenschaft
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -96,7 +97,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

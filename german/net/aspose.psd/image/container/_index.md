@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft die abImage Container.
+title: "Image.Container"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt den Image-Container zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Ruft die ab[`Image`](../) Container.
+Gibt den [`Image`](../)-Container zurück.
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`Image`](../) Container.
+Der [`Image`](../)-Container.
 
-### Bemerkungen
+## Hinweise
 
-Wenn diese Eigenschaft nicht null ist, zeigt dies an, dass das Bild in einem anderen Bild enthalten ist.
+Wenn diese Eigenschaft nicht null ist, bedeutet dies, dass das Bild in einem anderen Bild enthalten ist.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

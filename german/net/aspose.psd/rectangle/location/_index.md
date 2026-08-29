@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle eigendom. Holt oder setzt die Koordinaten der oberen linken Ecke davonRectangleStruktur.
+title: "Rectangle.Location"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Eigenschaft. Gibt die Koordinaten der oberen linken Ecke dieser Rectangle-Struktur zurück oder legt sie fest."
 type: docs
 weight: 150
 url: /de/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-Holt oder setzt die Koordinaten der oberen linken Ecke davon[`Rectangle`](../)Struktur.
+Gibt die Koordinaten der oberen linken Ecke dieser [`Rectangle`](../)-Struktur zurück oder legt sie fest.
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Point`](../../point/) das stellt die obere linke Ecke davon dar[`Rectangle`](../) Struktur.
+Ein [`Point`](../../point/), der die obere linke Ecke dieser [`Rectangle`](../)-Struktur darstellt.
 
 ### Siehe auch
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

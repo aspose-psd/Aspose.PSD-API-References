@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlLdResource veld. Der TypToolInfoSchlüssel.
+title: "PlLdResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlLdResource-Feld. Der Typwerkzeug-Info-Schlüssel"
 type: docs
-weight: 60
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PlLdResource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [PlLdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Bildbreite ab oder legt sie fest.
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt die Bildbreite zurück oder legt sie fest"
 type: docs
-weight: 210
+weight: 220
 url: /de/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
-Ruft die Bildbreite ab oder legt sie fest.
+Liest oder setzt die Bildbreite.
 
 ```csharp
 public uint ImageWidth { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildbreite.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

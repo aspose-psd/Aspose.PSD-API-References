@@ -1,14 +1,15 @@
 ---
-title: AiDataSection.GetData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiDataSection methode. Ruft die StringDaten ab.
+title: "AiDataSection.GetData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiDataSection Methode. Gibt die Zeichenkettendaten zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.ai/aidatasection/getdata/
 ---
+{{< psd/tize >}}
 ## AiDataSection.GetData method
 
-Ruft die String-Daten ab.
+Gibt die Zeichenkettendaten zurück.
 
 ```csharp
 public string GetData()
@@ -16,12 +17,12 @@ public string GetData()
 
 ### Rückgabewert
 
-Die Zeichenfolgendaten des Abschnitts
+Die Zeichenkettendaten des Abschnitts
 
 ### Siehe auch
 
 * class [AiDataSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aidatasection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

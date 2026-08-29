@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die TileByteAnzahl ab oder legt sie fest.
+title: "TiffOptions.TileByteCounts"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Ruft ab oder legt die Tile-Byte-Anzahlen fest"
 type: docs
-weight: 520
+weight: 530
 url: /de/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-Ruft die Tile-Byte-Anzahl ab oder legt sie fest.
+Liest oder setzt die Byte-Anzahl der Kacheln.
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
@@ -17,7 +18,7 @@ public uint[] TileByteCounts { get; set; }
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

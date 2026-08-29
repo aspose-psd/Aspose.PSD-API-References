@@ -1,27 +1,28 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MixerChannel eigendom. Ruft die Konstante des Kanals ab oder setzt sie.
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MixerChannel-Eigenschaft. Gibt die Konstante des Kanals zurück oder legt sie fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
-Ruft die Konstante des Kanals ab oder setzt sie.
+Liest oder setzt die Konstante des Kanals.
 
 ```csharp
 public short Constant { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Konstante.
 
 ### Siehe auch
 
 * class [MixerChannel](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Image.BufferSizeHint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft den Puffergrößenhinweis ab oder legt ihn fest der als maximal zulässige Größe für alle internen Puffer definiert ist.
+title: "Image.BufferSizeHint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt den Hinweis zur Puffergröße zurück oder setzt ihn, der als maximal zulässige Größe für alle internen Puffer definiert ist."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/image/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Image.BufferSizeHint property
 
-Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist.
+Liest oder setzt den Hinweis zur Puffergröße, der die maximal zulässige Größe für alle internen Puffer definiert.
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Puffergrößenhinweis in Megabyte. Nicht positiver Wert bedeutet keine Speicherbegrenzung für interne Puffer
+Der Puffergrößen-Hinweis in Megabyte. Ein nicht-positiver Wert bedeutet keine Speicherbegrenzung für interne Puffer.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.DataSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceBlock eigendom. Ruft die Ressourcendatengröße in Byte ab.
+title: "ResourceBlock.DataSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceBlock-Eigenschaft. Gibt die Größe der Ressourcendaten in Bytes zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd/resourceblock/datasize/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.DataSize property
 
-Ruft die Ressourcendatengröße in Byte ab.
+Ruft die Größe der Ressourcendaten in Bytes ab.
 
 ```csharp
 public abstract int DataSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ressourcendatengröße.
+Die Größe der Ressourcendaten.
 
 ### Siehe auch
 
 * class [ResourceBlock](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
