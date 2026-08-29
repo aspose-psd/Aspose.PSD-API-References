@@ -1,0 +1,38 @@
+---
+title: "PsdImageArgumentException Sınıfı"
+type: docs
+weight: 70
+url: /tr/python-net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/
+---
+
+**Summary:** The psd image argument exception.
+
+**Module:** [aspose.psd.coreexceptions.imageformats](/psd/python-net/aspose.psd.coreexceptions.imageformats/)
+
+**Full Name:** aspose.psd.coreexceptions.imageformats.PsdImageArgumentException
+
+**Inheritance:** PsdImageException
+
+**Aspose.PSD Version:** 24.12.0
+
+## **Constructors**
+| **Name** | **Açıklama** |
+| :- | :- |
+| [PsdImageArgumentException(message)](#PsdImageArgumentException_message_1) | Yeni bir [PsdImageArgumentException](/psd/python-net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) sınıfının bir örneğini başlatır. |
+
+
+### Constructor: PsdImageArgumentException(message) {#PsdImageArgumentException_message_1}
+
+
+```
+ PsdImageArgumentException(message) 
+```
+
+Yeni bir [PsdImageArgumentException](/psd/python-net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) sınıfının bir örneğini başlatır.
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| mesaj | string | İstisna mesajı. |
+
