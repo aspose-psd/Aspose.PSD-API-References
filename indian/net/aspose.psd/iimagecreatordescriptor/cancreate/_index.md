@@ -1,32 +1,33 @@
 ---
-title: IImageCreatorDescriptor.CanCreate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageCreatorDescriptor तरक. यह नर्धरत करत है क छव नर्मत इसक उपयग करके एक नई छव बन सकत है य नहंimageOptions .
+title: "IImageCreatorDescriptor.CanCreate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageCreatorDescriptor मेथड। निर्धारित करता है कि इमेज क्रिएटर imageOptions का उपयोग करके नई इमेज बना सकता है या नहीं।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iimagecreatordescriptor/cancreate/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CanCreate method
 
-यह निर्धारित करता है कि छवि निर्माता इसका उपयोग करके एक नई छवि बना सकता है या नहीं*imageOptions* .
+निर्धारित करता है कि इमेज क्रिएटर *imageOptions* का उपयोग करके नई इमेज बना सकता है या नहीं।
 
 ```csharp
 public bool CanCreate(ImageOptionsBase imageOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| imageOptions | ImageOptionsBase | छवि विकल्प। |
+| imageOptions | ImageOptionsBase | इमेज विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि इस डिस्क्रिप्टर द्वारा निर्मित छवि निर्माता निर्दिष्ट का उपयोग करके छवि डेटा बना सकता है*imageOptions* ; अन्यथा,`असत्य` .
+यदि इस डिस्क्रिप्टर द्वारा बनाया गया इमेज क्रिएटर निर्दिष्ट *imageOptions* का उपयोग करके इमेज डेटा बना सकता है तो `True`; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreatorDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimagecreatordescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

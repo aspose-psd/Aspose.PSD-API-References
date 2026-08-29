@@ -1,14 +1,15 @@
 ---
-title: Class CgEdResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource कक्ष. वर्ग CgEdResource. समग्र जेनरेटर अतरक्त डेट फ़टशप CS5
+title: "क्लास CgEdResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CgEdResource क्लास। क्लास CgEdResource। कंटेंट जेनरेटर एक्स्ट्रा डेटा Photoshop CS5"
 type: docs
-weight: 2350
+weight: 2610
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource class
 
-वर्ग CgEdResource. सामग्री जेनरेटर अतिरिक्त डेटा (फ़ोटोशॉप CS5)
+क्लास CgEdResource। कंटेंट जेनरेटर एक्स्ट्रा डेटा (Photoshop CS5)।
 
 ```csharp
 public class CgEdResource : AdjustmentLayerResource
@@ -18,42 +19,42 @@ public class CgEdResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [CgEdResource](cgedresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [CgEdResource](cgedresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`CgEdResource` स्वचालित है. |
-| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | चमक प्राप्त या सेट करता है। |
-| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | कंट्रास्ट प्राप्त या सेट करता है. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | यह दर्शाता है कि [प्रयोगशाला रंग] का उपयोग किया गया है या नहीं, एक मान प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | चमक और कंट्रास्ट के लिए माध्य मान प्राप्त या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि [लीगेसी का उपयोग करें]. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | संस्करण प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Auto](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/) { get; set; } | यह `CgEdResource` ऑटोमैटिक है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Brightness](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/) { get; set; } | ब्राइटनेस को प्राप्त करता है या सेट करता है। |
+| [Contrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/) { get; set; } | कॉन्ट्रास्ट को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| [LabColor](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/) { get; set; } | [lab color] उपयोग किया जाता है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [MeanValueForBrightnessAndContrast](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/) { get; set; } | ब्राइटनेस और कॉन्ट्रास्ट के लिए औसत मान को प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [UseLegacy](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/) { get; set; } | [use legacy] उपयोग किया जाता है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/version/) { get; set; } | संस्करण को प्राप्त करता है या सेट करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ISmartObjectLayerResource संपत्त. PSD इमेज में इस स्मर्ट ऑब्जेक्ट लेयर डेट क वशष्ट पहचनकर्त प्रप्त य सेट करत है
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ISmartObjectLayerResource प्रॉपर्टी। इस स्मार्ट ऑब्जेक्ट लेयर डेटा का अद्वितीय पहचानकर्ता प्राप्त या सेट करता है PSD छवि में"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-PSD इमेज में इस स्मार्ट ऑब्जेक्ट लेयर डेटा का विशिष्ट पहचानकर्ता प्राप्त या सेट करता है।
+PSD इमेज में इस स्मार्ट ऑब्जेक्ट लेयर डेटा की विशिष्ट पहचानकर्ता को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इस स्मार्ट ऑब्जेक्ट लेयर रिसोर्स का विशिष्ट पहचानकर्ता।
+इस स्मार्ट ऑब्जेक्ट लेयर संसाधन का अद्वितीय पहचानकर्ता।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड एंबेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड एम्बेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// यह उदाहरण दर्शाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत को कैसे बदलना है और स्मार्ट ऑब्जेक्ट मूल एम्बेडेड सामग्री को निर्यात / अपडेट करना है।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर को कैसे बदलें और स्मार्ट ऑब्जेक्ट की मूल एम्बेडेड सामग्री को निर्यात/अपडेट करें।
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // चलिए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को एक्सपोर्ट करते हैं
+        // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को निर्यात करें
         smartObjectLayer.ExportContents(exportPath);
 
-        // आइए देखें कि मूल छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि मूल इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उल्टा करें
+            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उलटें
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,21 +85,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // आइए एम्बेडेड स्मार्ट ऑब्जेक्ट छवि को PSD परत में बदलें
+            // आइए PSD लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को बदलें
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // देखते हैं कि अपडेट की गई छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि अपडेटेड इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ISmartObjectLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

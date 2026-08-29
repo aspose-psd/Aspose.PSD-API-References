@@ -1,40 +1,41 @@
 ---
-title: ISmartFilterRenderer.Render
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ISmartFilterRenderer तरक. पक्सेल डेट पर वर्तमन स्मर्ट फ़ल्टर प्रस्तुत करत है.
+title: "ISmartFilterRenderer.Render"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ISmartFilterRenderer मेथड। वर्तमान स्मार्ट फ़िल्टर को पिक्सेल डेटा पर रेंडर करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer.Render method
 
-पिक्सेल डेटा पर वर्तमान स्मार्ट फ़िल्टर प्रस्तुत करता है.
+वर्तमान स्मार्ट फ़िल्टर को पिक्सेल डेटा पर रेंडर करता है।
 
 ```csharp
 public PixelsData Render(PixelsData pixelsData)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | pixelsData | PixelsData | पिक्सेल डेटा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-संसाधित पिक्सेल डेटा लौटाता है।
+प्रोसेस किए गए पिक्सेल डेटा को रिटर्न करता है।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड आपको दिखाता है कि कस्टम रेंडरर वाला कस्टम स्मार्ट फ़िल्टर कैसे बनाया जाए।
+निम्नलिखित कोड दिखाता है कि कैसे एक कस्टम रेंडरर वाला कस्टम स्मार्ट फ़िल्टर बनाया जाए।
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // इनपुट ऐरे पर असमर्थित 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर शुरू करता है
+    // इनपुट एरे पर असमर्थित 'Crystallize' स्मार्ट फ़िल्टर को इनिट करता है।
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर आईडी।
+        // 'Crystallize' स्मार्ट फ़िल्टर आईडी।
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -64,10 +65,10 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // लेयर मास्क पर फिल्टर लगाएं
+        // लेयर मास्क पर फ़िल्टर लागू करें
         smartFilter.ApplyToMask(maskLayer);
 
-        // परत पर फ़िल्टर लागू करें
+        //लेयर पर फ़िल्टर लागू करें
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -84,7 +85,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर आईडी।
+        // 'Crystallize' स्मार्ट फ़िल्टर आईडी।
         get { return 1131574132; }
     }
 
@@ -92,7 +93,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // फ़िल्टर संरचना प्राप्त करें
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // क्रिस्टलाइज़ आकार का मान प्राप्त करें
+        // Crystallize आकार का मान प्राप्त करें
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,11 +109,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelsData](../../../aspose.psd/pixelsdata/)
 * interface [ISmartFilterRenderer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../ismartfilterrenderer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../../)
 
 

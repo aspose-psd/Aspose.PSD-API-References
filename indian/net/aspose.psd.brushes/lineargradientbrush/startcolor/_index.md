@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrush संपत्त. प्ररंभक ढल रंग प्रप्त य सेट करत है
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrush प्रॉपर्टी. प्राप्त करता है या सेट करता है प्रारंभिक ग्रेडिएंट रंग"
 type: docs
-weight: 40
+weight: 60
 url: /hi/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-प्रारंभिक ढाल रंग प्राप्त या सेट करता है।
+प्रारंभिक ग्रेडिएंट रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रारंभिक ढाल रंग।
+प्रारंभिक ग्रेडिएंट रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

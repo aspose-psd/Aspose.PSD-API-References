@@ -1,43 +1,44 @@
 ---
-title: XmpMeta.XmpMeta
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpMeta नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpMeta वर्ग.
+title: "XmpMeta.XmpMeta"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpMeta कन्स्ट्रक्टर। XmpMeta क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmpmeta/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpMeta`](../) वर्ग.
+[`XmpMeta`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpMeta(string toolkitVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| toolkitVersion | String | एडोब एक्सएमपी टूलकिट संस्करण। |
+| toolkitVersion | String | Adobe XMP टूलकिट संस्करण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMeta](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpmeta/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpMeta() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpMeta`](../) वर्ग.
+[`XmpMeta`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpMeta()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMeta](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpmeta/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason एनुम. त्रुट के करणं क प्रतनधत्व करत है
+title: "एनम JpegLoadException.ErrorReason"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason एनम। त्रुटि के कारणों का प्रतिनिधित्व करता है"
 type: docs
 weight: 560
 url: /hi/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
 त्रुटि के कारणों का प्रतिनिधित्व करता है।
@@ -16,15 +17,15 @@ public enum ErrorReason
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| BasicError | `0` | मूल त्रुटि प्रकार। |
+| BasicError | `0` | बेसिक त्रुटि प्रकार। |
 | NotEnoughData | `1` | स्ट्रीम में पर्याप्त डेटा नहीं है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLoadException](../jpegloadexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

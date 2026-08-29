@@ -1,11 +1,12 @@
 ---
-title: SmartFilters.IsMaskEnabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters संपत्त. स्मर्ट फ़ल्टर क मस्क सक्षम स्थत प्रप्त करत है
+title: "SmartFilters.IsMaskEnabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters प्रॉपर्टी. स्मार्ट फ़िल्टर की मास्क सक्षम स्थिति प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskEnabled property
 
 स्मार्ट फ़िल्टर की मास्क सक्षम स्थिति प्राप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaske
 public bool IsMaskEnabled { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum CompositingQuality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CompositingQuality एनुम. कंपज़टंग के दरन उपयग करने के लए गुणवत्त स्तर नर्दष्ट करत है
+title: "एनम CompositingQuality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CompositingQuality एनम। कॉम्पोज़िटिंग के दौरान उपयोग किए जाने वाले गुणवत्ता स्तर को निर्दिष्ट करता है"
 type: docs
 weight: 420
 url: /hi/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-कंपोज़िटिंग के दौरान उपयोग करने के लिए गुणवत्ता स्तर निर्दिष्ट करता है।
+संयोजन के दौरान उपयोग किए जाने वाले गुणवत्ता स्तर को निर्दिष्ट करता है।
 
 ```csharp
 public enum CompositingQuality
@@ -16,18 +17,18 @@ public enum CompositingQuality
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Invalid | `-1` | अमान्य गुणवत्ता. |
+| Invalid | `-1` | अमान्य गुणवत्ता। |
 | Default | `0` | डिफ़ॉल्ट गुणवत्ता। |
-| HighSpeed | `1` | उच्च गति, निम्न गुणवत्ता। |
-| HighQuality | `2` | उच्च गुणवत्ता, कम गति कंपोजिंग। |
-| GammaCorrected | `3` | गामा सुधार का उपयोग किया जाता है। |
-| AssumeLinear | `4` | रैखिक मान मान लें। |
+| HighSpeed | `1` | उच्च गति, कम गुणवत्ता। |
+| HighQuality | `2` | उच्च गुणवत्ता, कम गति कॉम्पोज़िटिंग। |
+| GammaCorrected | `3` | गामा सुधार उपयोग किया जाता है। |
+| AssumeLinear | `4` | रैखिक मान मानें। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

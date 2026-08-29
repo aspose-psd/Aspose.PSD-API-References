@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IPartialRawDataLoader इंटरफेस. आंशक डेट लडर.
+title: "इंटरफ़ेस IPartialRawDataLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IPartialRawDataLoader इंटरफ़ेस। आंशिक डेटा लोडर"
 type: docs
-weight: 4540
+weight: 5010
 url: /hi/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-आंशिक डेटा लोडर.
+आंशिक डेटा लोडर।
 
 ```csharp
 public interface IPartialRawDataLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | लोड किए गए डेटा को संसाधित करता है। |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | लोड किए गए डेटा को संसाधित करता है। |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | लोड किए गए डेटा को प्रोसेस करता है। |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | लोड किए गए डेटा को प्रोसेस करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

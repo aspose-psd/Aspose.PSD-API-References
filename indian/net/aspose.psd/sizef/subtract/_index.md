@@ -1,32 +1,33 @@
 ---
-title: SizeF.Subtract
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. एक क चड़ई और ऊंचई घटत हैSizeF दूसरे क चड़ई और ऊंचई से संरचनSizeFसंरचन.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। एक SizeF संरचना की चौड़ाई और ऊँचाई को दूसरी SizeF संरचना की चौड़ाई और ऊँचाई से घटाता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-एक की चौड़ाई और ऊंचाई घटाता है[`SizeF`](../) दूसरे की चौड़ाई और ऊंचाई से संरचना[`SizeF`](../)संरचना.
+एक [`SizeF`](../) संरचना की चौड़ाई और ऊँचाई को दूसरी [`SizeF`](../) संरचना की चौड़ाई और ऊँचाई से घटाता है।
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | SizeF | [`SizeF`](../) घटाव ऑपरेटर के बाईं ओर संरचना। |
-| size2 | SizeF | [`SizeF`](../) घटाव ऑपरेटर के दाईं ओर संरचना। |
+| size1 | SizeF | घटाव ऑपरेटर के बाएँ पक्ष पर स्थित [`SizeF`](../) संरचना। |
+| size2 | SizeF | घटाव ऑपरेटर के दाएँ पक्ष पर स्थित [`SizeF`](../) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`SizeF`](../)यह घटाव ऑपरेशन का परिणाम है।
+घटाव ऑपरेशन का परिणाम स्वरूप [`SizeF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

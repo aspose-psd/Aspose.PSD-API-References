@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन Psd संसधन संकल्प इकइयं क संभलत है
+title: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह namespace Psd रिसोर्स रेज़ोल्यूशन यूनिट्स को संभालता है।"
 type: docs
-weight: 360
+weight: 400
 url: /hi/net/aspose.psd.fileformats.psd.resources.resolutionenums/
 ---
-नामस्थान Psd संसाधन संकल्प इकाइयों को संभालता है
+{{< psd/tize >}}
+यह namespace Psd रिसोर्स रेज़ोल्यूशन यूनिट्स को संभालता है।
 
-## गणना
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [PhysicalUnit](./physicalunit/) | resolutionInfo भौतिक इकाई enum |
-| [ResolutionUnit](./resolutionunit/) | रिज़ॉल्यूशन जानकारी रिज़ॉल्यूशन यूनिट |
+| [PhysicalUnit](./physicalunit/) | यह resoulutionInfo भौतिक इकाई enum |
+| [ResolutionUnit](./resolutionunit/) | यह resolution info resolution इकाई |
 
 

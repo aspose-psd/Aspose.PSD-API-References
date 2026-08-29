@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. छव ववरण प्रप्त य सेट करत है
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इमेज विवरण को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 190
+weight: 200
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
-छवि विवरण प्राप्त या सेट करता है।
+छवि विवरण को प्राप्त या सेट करता है।
 
 ```csharp
 public string ImageDescription { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि विवरण।
+इमेज विवरण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

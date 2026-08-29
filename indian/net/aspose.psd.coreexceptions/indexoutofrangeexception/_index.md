@@ -1,14 +1,15 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException कक्ष. कंप्रेसर अपवद
+title: "क्लास IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException क्लास। कम्प्रेसर अपवाद।"
 type: docs
 weight: 640
 url: /hi/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
-कंप्रेसर अपवाद।
+कम्प्रेसर अपवाद।
 
 ```csharp
 public class IndexOutOFRangeException : Exception
@@ -18,12 +19,12 @@ public class IndexOutOFRangeException : Exception
 
 | नाम | विवरण |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है[`CompressorException`](../compressorexception/) वर्ग. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है[`CompressorException`](../compressorexception/) वर्ग. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | नया [`CompressorException`](../compressorexception/) क्लास का उदाहरण प्रारंभ करता है। |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | नया [`CompressorException`](../compressorexception/) क्लास का उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

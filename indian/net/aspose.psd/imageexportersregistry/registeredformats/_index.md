@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageExportersRegistry संपत्त. पंजकृत नर्यत प्ररूप प्रप्त करत है
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageExportersRegistry प्रॉपर्टी। पंजीकृत निर्यात फ़ॉर्मेट प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
-पंजीकृत निर्यात प्रारूप प्राप्त करता है।
+पंजीकृत निर्यात फ़ॉर्मेट प्राप्त करता है।
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंजीकृत निर्यात प्रारूप।
+पंजीकृत निर्यात फ़ॉर्मेट।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageexportersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

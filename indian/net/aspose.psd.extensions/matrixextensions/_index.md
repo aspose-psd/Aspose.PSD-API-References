@@ -1,28 +1,29 @@
 ---
-title: Class MatrixExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.MatrixExtensions कक्ष. इसमें शमल हैMatrix क्लस एक्सटेंशन.
+title: "क्लास MatrixExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.MatrixExtensions क्लास। इसमें Matrix क्लास के एक्सटेंशन शामिल हैं।"
 type: docs
-weight: 1130
+weight: 1140
 url: /hi/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-इसमें शामिल है[`Matrix`](../../aspose.psd/matrix/) क्लास एक्सटेंशन.
+शामिल हैं [`Matrix`](../../aspose.psd/matrix/) क्लास के एक्सटेंशन।
 
 ```csharp
 public static class MatrixExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | परिवर्तित करता है[`Matrix`](../../aspose.psd/matrix/) तकMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | [`Matrix`](../../aspose.psd/matrix/) को Matrix में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

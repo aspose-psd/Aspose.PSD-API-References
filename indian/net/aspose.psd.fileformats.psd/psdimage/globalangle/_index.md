@@ -1,27 +1,28 @@
 ---
-title: PsdImage.GlobalAngle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. वैश्वक कण प्रप्त य सेट करत है
+title: "PsdImage.GlobalAngle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। ग्लोबल एंगल प्राप्त करता या सेट करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/globalangle/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalAngle property
 
-वैश्विक कोण प्राप्त या सेट करता है।
+ग्लोबल एंगल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड वैश्विक कोण मान को बदलने के लिए PsdImage.GlobalAngle गुण के लिए समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड PsdImage.GlobalAngle प्रॉपर्टी के समर्थन को दर्शाता है ताकि वैश्विक कोण मान बदला जा सके।
 
 ```csharp
 [C#]
 
-// जब DropShadowEffect.UseGlobalLight गुण 'true' है, तो DropShadowEffect ऑब्जेक्ट PsdImage.GlobalAngle गुण से कोण मान का उपयोग करता है।
+// जब DropShadowEffect.UseGlobalLight प्रॉपर्टी 'true' हो, तो DropShadowEffect ऑब्जेक्ट PsdImage.GlobalAngle प्रॉपर्टी से कोण मान का उपयोग करता है।
 
 using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 {
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load("4.psd"))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

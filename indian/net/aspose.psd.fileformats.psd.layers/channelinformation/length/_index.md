@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelInformation संपत्त. बइट्स में चैनल क लंबई प्रप्त करत है
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelInformation प्रॉपर्टी। चैनल की लंबाई बाइट्स में प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
 बाइट्स में चैनल की लंबाई प्राप्त करता है।
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लंबाई.
+लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ChannelInformation](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

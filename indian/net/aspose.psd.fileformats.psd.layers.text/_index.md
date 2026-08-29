@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में पठ परतं के डेट में हेरफेर करने के लए एपआई शमल है
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में टेक्स्ट लेयर्स डेटा को मैनिपुलेट करने के लिए API शामिल है।"
 type: docs
-weight: 340
+weight: 360
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/
 ---
-नामस्थान में पाठ परतों के डेटा में हेरफेर करने के लिए एपीआई शामिल है
+{{< psd/tize >}}
+यह namespace टेक्स्ट लेयर्स के डेटा को हेरफेर करने के लिए API शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | फ़ॉन्ट के बारे में जानकारी का प्रतिनिधित्व करता है। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-## इंटरफेस
+| [TextFontInfo](./textfontinfo/) | फ़ॉन्ट के बारे में जानकारी का प्रतिनिधित्व करता है। इस क्लास को विरासत में नहीं लिया जा सकता। |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [IText](./itext/) | पाठ परतों के लिए पाठ संपादन के लिए इंटरफ़ेस |
-| [ITextParagraph](./itextparagraph/) | इंटरफ़ेस के साथ काम करने के लिए इंटरफ़ेस |
-| [ITextPortion](./itextportion/) | इंटरफ़ेस पाठ भागों में हेरफेर करने के लिए |
-| [ITextStyle](./itextstyle/) | टेक्स्ट स्टाइल के साथ काम करने के लिए इंटरफ़ेस |
+| [IText](./itext/) | टेक्स्ट लेयर्स के लिए टेक्स्ट एडिटिंग का इंटरफ़ेस |
+| [ITextParagraph](./itextparagraph/) | पैराग्राफ के साथ काम करने के लिए इंटरफ़ेस |
+| [ITextPortion](./itextportion/) | टेक्स्ट भागों को संशोधित करने का इंटरफ़ेस |
+| [ITextStyle](./itextstyle/) | टेक्स्ट स्टाइल के साथ काम करने का इंटरफ़ेस |
 
 

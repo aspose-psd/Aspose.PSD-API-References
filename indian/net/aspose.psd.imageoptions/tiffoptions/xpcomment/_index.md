@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. छव पर टप्पण प्रप्त य सेट करत है जसक उपयग वंडज एक्सप्लरर द्वर कय जत है
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इमेज पर टिप्पणी प्राप्त करता है या सेट करता है जिसे Windows Explorer द्वारा उपयोग किया जाता है"
 type: docs
-weight: 600
+weight: 610
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-छवि पर टिप्पणी प्राप्त या सेट करता है, जिसका उपयोग विंडोज एक्सप्लोरर द्वारा किया जाता है।
+इमेज पर टिप्पणी को प्राप्त करता है या सेट करता है, जिसे विंडोज़ एक्सप्लोरर द्वारा उपयोग किया जाता है।
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-विंडोज एक्सप्लोरर द्वारा उपयोग की जाने वाली छवि पर टिप्पणी करें।
+छवि पर टिप्पणी, Windows Explorer द्वारा उपयोग की जाती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

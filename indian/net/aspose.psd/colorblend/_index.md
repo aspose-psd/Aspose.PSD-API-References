@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlend
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ColorBlend कक्ष. एक बहुरंग ग्रेडएंट में रंग सम्मश्रण क प्रक्षेपत करने के लए उपयग कए जने वले रंगं और स्थतयं क सरणयं क परभषत करत है इस वर्ग क इनहेरट नहं कय ज सकत.
+title: "क्लास ColorBlend"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ColorBlend क्लास। बहु-रंग ग्रेडिएंट में रंग मिश्रण को इंटरपोलेट करने के लिए उपयोग किए जाने वाले रंगों और स्थितियों के एरे को परिभाषित करता है। इस क्लास को विरासत में नहीं लिया जा सकता।"
 type: docs
 weight: 310
 url: /hi/net/aspose.psd/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend class
 
-एक बहुरंगा ग्रेडिएंट में रंग सम्मिश्रण को प्रक्षेपित करने के लिए उपयोग किए जाने वाले रंगों और स्थितियों की सरणियों को परिभाषित करता है। इस वर्ग को इनहेरिट नहीं किया जा सकता.
+बहु-रंग ग्रेडिएंट में रंग मिश्रण को इंटरपोलेट करने के लिए उपयोग किए जाने वाले रंगों और स्थितियों के एरे को परिभाषित करता है। यह क्लास विरासत में नहीं ली जा सकती।
 
 ```csharp
 public sealed class ColorBlend
@@ -18,26 +19,26 @@ public sealed class ColorBlend
 
 | नाम | विवरण |
 | --- | --- |
-| [ColorBlend](colorblend/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`ColorBlend` वर्ग. |
-| [ColorBlend](colorblend/#constructor_1)(int) | का एक नया उदाहरण प्रारंभ करता है`ColorBlend` रंग और स्थिति की निर्दिष्ट संख्या के साथ वर्ग। |
+| [ColorBlend](colorblend/#constructor)() | `ColorBlend` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [ColorBlend](colorblend/#constructor_1)(int) | `ColorBlend` क्लास का एक नया इंस्टेंस निर्दिष्ट संख्या में रंगों और स्थितियों के साथ इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | रंगों की एक सरणी प्राप्त या सेट करता है जो ग्रेडिएंट के साथ संगत स्थिति में उपयोग करने के लिए रंगों का प्रतिनिधित्व करता है। |
-| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | एक ढाल रेखा के साथ स्थिति प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Equals](../../aspose.psd/colorblend/equals/)(object) | परीक्षण करता है कि निर्दिष्ट वस्तु एक है या नहीं`ColorBlend` वर्ग और इसके बराबर है`ColorBlend` वर्ग. |
+| [Colors](../../aspose.psd/colorblend/colors/) { get; set; } | ग्रेडिएंट के साथ संबंधित स्थितियों पर उपयोग करने वाले रंगों को दर्शाने वाले रंगों के एरे को प्राप्त करता है या सेट करता है। |
+| [Positions](../../aspose.psd/colorblend/positions/) { get; set; } | ग्रेडिएंट रेखा के साथ स्थितियों को प्राप्त करता है या सेट करता है। |
+
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [Equals](../../aspose.psd/colorblend/equals/)(object) | परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट `ColorBlend` क्लास है और यह `ColorBlend` क्लास के बराबर है या नहीं। |
 | override [GetHashCode](../../aspose.psd/colorblend/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

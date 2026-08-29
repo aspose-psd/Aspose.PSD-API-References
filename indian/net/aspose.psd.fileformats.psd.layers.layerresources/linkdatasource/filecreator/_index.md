@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. फ़इल नर्मत क PSD प्ररूप LnkE / Lnk2 संसधन में प्रप्त य सेट करत है
+title: "LinkDataSource.FileCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। PSD फ़ॉर्मेट LnkE / Lnk2 रिसोर्स में फ़ाइल निर्माता प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-फ़ाइल निर्माता को PSD प्रारूप LnkE / Lnk2 संसाधन में प्राप्त या सेट करता है।
+PSD फ़ॉर्मेट LnkE / Lnk2 रिसोर्स में फ़ाइल निर्माता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ाइल निर्माता जिसमें PSD LiFE / LiFD डेटा स्रोत शामिल है।
+फ़ाइल निर्माता जो PSD LiFE / LiFD डेटा स्रोत में शामिल है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप FileCreator प्रॉपर्टी तक नहीं पहुंच सकते. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप FileCreator प्रॉपर्टी तक पहुँच नहीं सकते। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

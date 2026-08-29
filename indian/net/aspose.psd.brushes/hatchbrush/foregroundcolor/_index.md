@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: HatchBrush संपत्त. हैच लइन क रंग प्रप्त य सेट करत है
+title: "HatchBrush.ForegroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "HatchBrush प्रॉपर्टी। हैच लाइनों का रंग प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-हैच लाइन का रंग प्राप्त या सेट करता है।
+हैच लाइनों का रंग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 हैच लाइनों का रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../hatchbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

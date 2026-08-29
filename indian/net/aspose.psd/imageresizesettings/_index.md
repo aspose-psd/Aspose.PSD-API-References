@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageResizeSettings कक्ष. छव आकर बदलने क सेटंग class
+title: "क्लास ImageResizeSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageResizeSettings क्लास। इमेज रिसाइज़ सेटिंग्स क्लास"
 type: docs
-weight: 5000
+weight: 5490
 url: /hi/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-छवि आकार बदलने की सेटिंग class
+इमेज रिसाइज़ सेटिंग्स क्लास
 
 ```csharp
 public class ImageResizeSettings
@@ -18,21 +19,21 @@ public class ImageResizeSettings
 
 | नाम | विवरण |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [ImageResizeSettings](imageresizesettings/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | रंग तुलना विधि प्राप्त या सेट करता है। |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | रंग परिमाणीकरण विधि प्राप्त या सेट करता है। |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | प्रविष्टियों की संख्या प्राप्त या सेट करता है |
-| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | फ़िल्टर के प्रकार को प्राप्त या सेट करता है। |
-| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | इंटरपोलेशन मोड प्राप्त या सेट करता है। |
+| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | रंग तुलना विधि प्राप्त करता है या सेट करता है। |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | रंग क्वांटाइज़ेशन विधि प्राप्त करता है या सेट करता है। |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | प्रविष्टियों की गिनती प्राप्त करता है या सेट करता है |
+| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | फ़िल्टर के प्रकार को प्राप्त करता है या सेट करता है। |
+| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | इंटरपोलेशन मोड प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

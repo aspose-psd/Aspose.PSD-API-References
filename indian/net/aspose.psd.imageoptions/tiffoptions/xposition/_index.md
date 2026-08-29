@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Xposition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. x स्थत प्रप्त य सेट करत है
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। x पोजीशन को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 620
+weight: 630
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
-x स्थिति प्राप्त या सेट करता है।
+x स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational Xposition { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक्स स्थिति।
+x पोजीशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

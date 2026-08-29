@@ -1,29 +1,30 @@
 ---
-title: Class AiFinalizeSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection कक्ष. एआई प्ररूप क अंतम रूप दें
+title: "क्लास AiFinalizeSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection क्लास। Ai फ़ॉर्मेट फ़ाइनलाइज़ सेक्शन"
 type: docs
-weight: 1230
+weight: 1240
 url: /hi/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-एआई प्रारूप को अंतिम रूप दें
+Ai फ़ॉर्मेट फाइनलाइज़ सेक्शन
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | स्ट्रिंग डेटा प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiSection](../aisection/)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

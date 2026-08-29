@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. PSD LnkE / Lnk2 संसधन में डेट स्रत क संस्करण प्रप्त करत है
+title: "LinkDataSource.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। PSD LnkE / Lnk2 रिसोर्स में डेटा स्रोत का संस्करण प्राप्त करता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Version property
 
-PSD LnkE / Lnk2 संसाधन में डेटा स्रोत का संस्करण प्राप्त करता है।
+PSD LnkE / Lnk2 रिसोर्स में डेटा स्रोत का संस्करण प्राप्त करता है।
 
 ```csharp
 public int Version { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 LiFE / LiFD लिंक डेटा स्रोत संस्करण संख्या।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप वर्शन गुण तक नहीं पहुंच सकते. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप Version प्रॉपर्टी तक पहुँच नहीं सकते। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

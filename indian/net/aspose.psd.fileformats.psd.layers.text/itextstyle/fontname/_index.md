@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.FontName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. फ़न्ट नम प्रप्त य सेट करत है
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। फ़ॉन्ट नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
-फ़ॉन्ट नाम प्राप्त या सेट करता है।
+फ़ॉन्ट नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भाग शैली में फ़ॉन्ट नाम बदलने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड भाग शैली में फ़ॉन्ट नाम बदलने की क्षमता को दर्शाता है।
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

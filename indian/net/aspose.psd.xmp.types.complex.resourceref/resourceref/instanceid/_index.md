@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.InstanceId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceRef संपत्त. उदहरण पहचनकर्त प्रप्त य सेट करत है
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceRef property. इंस्टेंस पहचानकर्ता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
-उदाहरण पहचानकर्ता प्राप्त या सेट करता है।
+इंस्टेंस पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string InstanceId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उदाहरण पहचानकर्ता.
+इंस्टेंस पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceRef](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

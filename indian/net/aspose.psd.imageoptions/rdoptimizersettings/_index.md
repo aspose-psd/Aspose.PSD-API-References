@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizerSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.RdOptimizerSettings कक्ष. आरड अनुकूलक सेटंग्स वर्ग
+title: "क्लास RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.RdOptimizerSettings क्लास. RD ऑप्टिमाइज़र सेटिंग्स क्लास"
 type: docs
-weight: 4910
+weight: 5400
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings class
 
-आरडी अनुकूलक सेटिंग्स वर्ग
+RD ऑप्टिमाइज़र सेटिंग्स क्लास
 
 ```csharp
 public class RdOptimizerSettings
@@ -18,29 +19,29 @@ public class RdOptimizerSettings
 
 | नाम | विवरण |
 | --- | --- |
-| [RdOptimizerSettings](rdoptimizersettings/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [RdOptimizerSettings](rdoptimizersettings/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | बिट्स प्रति पिक्सेल में विचार के लिए अधिकतम आर मान प्राप्त या सेट करता है |
-| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | बीपीपी (बिट्स प्रति पिक्सेल) स्केल फैक्टर प्राप्त या सेट करता है। |
-| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | विचार के लिए अधिकतम R मान प्राप्त करता है। |
-| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | अधिकतम पिक्सेल मान प्राप्त करता है. |
-| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | अधिकतम परिमाणीकरण मान प्राप्त या सेट करता है। |
-| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | न्यूनतम अनुमत परिमाणीकरण मान प्राप्त करता है। |
+| [BppMax](../../aspose.psd.imageoptions/rdoptimizersettings/bppmax/) { get; set; } | प्राप्त करता है या सेट करता है अधिकतम R मान पर विचार के लिए बिट प्रति पिक्सेल में |
+| [BppScale](../../aspose.psd.imageoptions/rdoptimizersettings/bppscale/) { get; set; } | प्राप्त करता है या सेट करता है BPP (bits per pixel) स्केल फैक्टर। |
+| [DiscretizedBppMax](../../aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/) { get; } | अधिकतम R मान पर विचार के लिए प्राप्त करता है। |
+| [MaxPixelValue](../../aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/) { get; } | अधिकतम पिक्सेल मान प्राप्त करता है। |
+| [MaxQ](../../aspose.psd.imageoptions/rdoptimizersettings/maxq/) { get; set; } | प्राप्त करता है या सेट करता है अधिकतम क्वांटाइज़ेशन मान। |
+| [MinQ](../../aspose.psd.imageoptions/rdoptimizersettings/minq/) { get; } | न्यूनतम अनुमत क्वांटाइज़ेशन मान प्राप्त करता है। |
 | [PsnrMax](../../aspose.psd.imageoptions/rdoptimizersettings/psnrmax/) { get; } | PSNR अधिकतम अपेक्षित मान प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | static [Create](../../aspose.psd.imageoptions/rdoptimizersettings/create/)() | इस उदाहरण को बनाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

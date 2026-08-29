@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. पठ क एक पंक्त क शुरुआत और पहले टैब स्टप के बच रक्त स्थन क संख्य प्रप्त करत है
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। एक पंक्ति के पाठ की शुरुआत और पहले टैब स्टॉप के बीच स्पेस की संख्या प्राप्त करता है।"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-पाठ की एक पंक्ति की शुरुआत और पहले टैब स्टॉप के बीच रिक्त स्थान की संख्या प्राप्त करता है।
+टेक्स्ट की एक पंक्ति की शुरुआत और पहले टैब स्टॉप के बीच स्पेस की संख्या प्राप्त करता है।
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पहला टैब ऑफ़सेट।
+पहला टैब ऑफसेट।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-संपत्ति को हटाए गए विधि GetTabStops के लिए पेश किया गया है।
+यह प्रॉपर्टी हटाए गए मेथड GetTabStops के लिए पेश की गई है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

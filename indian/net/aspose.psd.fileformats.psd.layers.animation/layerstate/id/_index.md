@@ -1,23 +1,24 @@
 ---
-title: LayerState.Id
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerState संपत्त. आईड प्रप्त करत है य सेट करत है
+title: "LayerState.Id"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerState प्रॉपर्टी. लेयर आईडी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 ---
+{{< psd/tize >}}
 ## LayerState.Id property
 
-आईडी प्राप्त करता है या सेट करता है।
+लेयर आईडी को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerState](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

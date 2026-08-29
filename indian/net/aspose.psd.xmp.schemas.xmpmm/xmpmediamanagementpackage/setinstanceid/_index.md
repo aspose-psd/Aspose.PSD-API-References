@@ -1,47 +1,48 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpMediaManagementPackage तरक. उदहरण आईड सेट करत है.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpMediaManagementPackage मेथड। इंस्टेंस आईडी सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
-उदाहरण आईडी सेट करता है.
+इंस्टेंस आईडी सेट करता है।
 
 ```csharp
 public void SetInstanceId(Guid guid)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | guid | Guid | अद्वितीय पहचानकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMediaManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetInstanceId(string) {#setinstanceid_1}
 
-उदाहरण आईडी सेट करता है.
+इंस्टेंस आईडी सेट करता है।
 
 ```csharp
 public void SetInstanceId(string guid)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | guid | String | अद्वितीय पहचानकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMediaManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: UnknownSmartFilter.FilterId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownSmartFilter संपत्त. स्मर्ट फ़ल्टर प्रकर पहचनकर्त प्रप्त करत है
+title: "UnknownSmartFilter.FilterId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownSmartFilter प्रॉपर्टी. स्मार्ट फ़िल्टर प्रकार पहचानकर्ता प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.FilterId property
 
 स्मार्ट फ़िल्टर प्रकार पहचानकर्ता प्राप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/f
 public override int FilterId { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnknownSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

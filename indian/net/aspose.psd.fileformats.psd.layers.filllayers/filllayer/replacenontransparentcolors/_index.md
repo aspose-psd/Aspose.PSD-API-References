@@ -1,31 +1,36 @@
 ---
-title: FillLayer.ReplaceNonTransparentColors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FillLayer तरक. सभ गैरपरदर्श रंगं क नए रंग से बदल देत है और चकन कनरं क बचने के लए मूल अल्फ मन क संरक्षत करत है
+title: "FillLayer.ReplaceNonTransparentColors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FillLayer मेथड। सभी गैर-पारदर्शी रंगों को नए रंग से बदलता है और स्मूद किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित रखता है। नोट: यदि आप इसे बिना पारदर्शिता वाली छवियों पर उपयोग करते हैं तो सभी रंग एक ही रंग में बदल जाएंगे।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/replacenontransparentcolors/
 ---
+{{< psd/tize >}}
 ## FillLayer.ReplaceNonTransparentColors method
 
-सभी गैर-पारदर्शी रंगों को नए रंग से बदल देता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है।
+सभी गैर-ट्रांसपेरेंट रंगों को नए रंग से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। नोट: यदि आप इसे बिना ट्रांसपेरेंसी वाली इमेज पर उपयोग करते हैं, तो सभी रंग एक ही रंग से बदल दिए जाएंगे।
 
 ```csharp
 public override void ReplaceNonTransparentColors(int newColorArgb)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newColorArgb | Int32 | गैर पारदर्शी रंगों को बदलने के लिए नया रंग ARGB मान। |
+| newColorArgb | Int32 | गैर-पारदर्शी रंगों को बदलने के लिए नया रंग ARGB मान। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड CMYK ColorMode 16 बिट के समर्थन और Aspose.PSD.Graphics वर्ग का उपयोग करके ड्राइंग करने की क्षमता को प्रदर्शित करता है।
+निम्नलिखित कोड CMYK कलरमोड 16 बिट के समर्थन और Aspose.PSD.Graphics क्लास का उपयोग करके ड्रॉइंग की क्षमता को दर्शाता है।
 
 ```csharp
 [C#]
 
-using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
+string srcFile = "cub16bit_cmyk.psd";
+string outputPsd = "output.psd";
+string outputPng = "output.png";
+
+using (PsdImage image = (PsdImage)Image.Load(srcFile))
 {
     RasterCachedImage raster = image.Layers[0];
     Aspose.PSD.Graphics graphics = new Graphics(raster);
@@ -33,15 +38,15 @@ using (PsdImage image = (PsdImage)Image.Load("cub16bit_cmyk.psd"))
     int height = raster.Height;
     Rectangle rect = new Rectangle(width / 3, height / 3, width - (2 * (width / 3)) - 1, height - (2 * (height / 3)) - 1);
     graphics.DrawRectangle(new Aspose.PSD.Pen(Color.DarkGray, 1), rect);
-    image.Save("output.psd");
-    image.Save("output.png", new PngOptions());
+    image.Save(outputPsd);
+    image.Save(outputPng, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FillLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

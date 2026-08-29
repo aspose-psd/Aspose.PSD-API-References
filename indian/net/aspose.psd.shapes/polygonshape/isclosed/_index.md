@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape संपत्त. आकर बंद है य नहं यह इंगत करने वल मन प्रप्त य सेट करत है
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो दर्शाता है कि आकार बंद है या नहीं"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-आकार बंद है या नहीं यह इंगित करने वाला मान प्राप्त या सेट करता है।
+एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि आकार बंद है या नहीं।
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर आकार बंद है; अन्यथा,`असत्य`.
+`true` यदि आकार बंद है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

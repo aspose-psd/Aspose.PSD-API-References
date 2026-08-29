@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. धर में अहस्तक्षरत तर्कसंगत मनं क एक सरण लखत है
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter मेथड। स्ट्रिम में अनसाइन्ड रैशनल मानों की एरे लिखता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-धारा में अहस्ताक्षरित तर्कसंगत मानों की एक सरणी लिखता है।
+स्ट्रीम में अनसाइन्ड रैशनल मानों की एक एरे लिखता है।
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | TiffRational[] | लिखने के लिए सरणी। |
+| डेटा | TiffRational[] | लिखने के लिए एरे। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

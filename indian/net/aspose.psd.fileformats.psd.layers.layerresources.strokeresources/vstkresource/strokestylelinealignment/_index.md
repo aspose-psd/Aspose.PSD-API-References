@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक स्टइल लइन संरेखण प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक स्टाइल लाइन अलाइनमेंट प्राप्त करता है या सेट करता है"
 type: docs
-weight: 100
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-स्ट्रोक स्टाइल लाइन संरेखण प्राप्त या सेट करता है।
+स्ट्रोक शैली की लाइन संरेखण प्राप्त करता या सेट करता है।
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड VstkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड VstkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DitheringMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Dithering.DitheringMode कक्ष. सहेजते समय चत्र पर लगू हने वल डथरंग सेटंग.
+title: "क्लास DitheringMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Dithering.DitheringMode क्लास। सहेजते समय छवि पर लागू करने के लिए डिथरिंग सेटिंग्स।"
 type: docs
-weight: 760
+weight: 770
 url: /hi/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
-सहेजते समय चित्र पर लागू होने वाली डिथरिंग सेटिंग.
+सेव करने पर इमेज पर लागू होने वाली डिथरिंग सेटिंग्स।
 
 ```csharp
 public class DitheringMode
@@ -18,19 +19,19 @@ public class DitheringMode
 
 | नाम | विवरण |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [DitheringMode](ditheringmode/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | बिगड़ी हुई इमेज का सैंपलिंग फ़ैक्टर. |
-| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | डाइथरिंग के लिए कस्टम पैलेट. |
-| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | डिथरिंग एल्गोरिथम चयन। |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | डिथर किए गए चित्र का सैंपलिंग फैक्टर। |
+| [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | डिथरिंग के लिए कस्टम पैलेट। |
+| [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | डिथरिंग एल्गोरिदम चयन। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

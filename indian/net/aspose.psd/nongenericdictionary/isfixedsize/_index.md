@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary संपत्त. एक मन प्रप्त करत है ज दर्शत है क IDictionary वस्तु क एक नश्चत आकर है
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary प्रॉपर्टी। यह एक मान प्राप्त करती है जो दर्शाता है कि IDictionary ऑब्जेक्ट का आकार स्थिर है या नहीं।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-एक मान प्राप्त करता है जो दर्शाता है कि IDictionary वस्तु का एक निश्चित आकार है।
+एक मान प्राप्त करता है जो दर्शाता है कि IDictionary ऑब्जेक्ट का आकार स्थिर है या नहीं।
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगरIDictionary वस्तु का एक निश्चित आकार होता है; अन्यथा झूठा।
+यदि IDictionary ऑब्जेक्ट का आकार स्थिर है तो true; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

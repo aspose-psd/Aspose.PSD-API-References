@@ -1,32 +1,33 @@
 ---
-title: Color.FromKnownColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. एक बनत हैColor नर्दष्ट पूर्वनर्धरत रंग से संरचन.
+title: "Color.FromKnownColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color मेथड। निर्दिष्ट पूर्वनिर्धारित रंग से एक Color संरचना बनाता है।"
 type: docs
 weight: 1440
 url: /hi/net/aspose.psd/color/fromknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.FromKnownColor method
 
-एक बनाता है[`Color`](../) निर्दिष्ट पूर्वनिर्धारित रंग से संरचना.
+निर्दिष्ट पूर्वनिर्धारित रंग से एक [`Color`](../) संरचना बनाता है।
 
 ```csharp
 public static Color FromKnownColor(KnownColor color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | KnownColor | का एक तत्व[`KnownColor`](../../knowncolor/) गणना। |
+| color | KnownColor | `[`KnownColor`](../../knowncolor/)` एनीमरेशन का एक तत्व है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Color`](../) कि यह विधि बनाती है।
+यह मेथड द्वारा निर्मित [`Color`](../) है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

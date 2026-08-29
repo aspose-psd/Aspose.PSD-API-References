@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetInstrument
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. उपकरण सेट करत है
+title: "XmpDynamicMediaPackage.SetInstrument"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। वाद्य सेट करता है।"
 type: docs
 weight: 240
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetInstrument method
 
-उपकरण सेट करता है।
+वाद्य को सेट करता है।
 
 ```csharp
 public void SetInstrument(string instrument)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| instrument | String | यंत्र। |
+| वाद्य | String | वाद्य। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

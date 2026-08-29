@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. PSD फ़इल में स्मर्ट ऑब्जेक्ट लेयर डेट क कम्प वैल्यू प्रप्त य सेट करत है स्मर्ट ऑब्जेक्ट्स में लेयर कंप्स
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource प्रॉपर्टी। PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के कंप मान को प्राप्त करता है या सेट करता है। लेयर कंप Smart Objects में"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का कॉम्प वैल्यू प्राप्त या सेट करता है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के कंप मान को प्राप्त करता है या सेट करता है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कॉम्प मान, -1 है यदि कोई नहीं है।
+कंप मान, यदि कोई नहीं है तो -1 है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

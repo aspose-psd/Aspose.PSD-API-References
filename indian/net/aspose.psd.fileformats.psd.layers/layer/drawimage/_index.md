@@ -1,36 +1,37 @@
 ---
-title: Layer.DrawImage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer तरक. परत पर चत्र बनत है.
+title: "Layer.DrawImage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer मेथड। लेयर पर इमेज ड्रॉ करता है।"
 type: docs
-weight: 340
+weight: 360
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/drawimage/
 ---
+{{< psd/tize >}}
 ## Layer.DrawImage method
 
-परत पर चित्र बनाता है.
+लेयर पर छवि को ड्रॉ करता है।
 
 ```csharp
 public void DrawImage(Point location, RasterImage image)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| location | Point | स्थान। |
-| image | RasterImage | छवि। |
+| स्थान | बिंदु | स्थान। |
+| छवि | RasterImage | छवि। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | स्थान गैर-ऋणात्मक होना चाहिए |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | स्थान गैर-नकारात्मक होना चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum FontCaps
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.FontCaps एनुम. यह फ़न्ट आधर रेख है
+title: "Enum FontCaps"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.FontCaps enum. यह फ़ॉन्ट बेसलाइन है"
 type: docs
-weight: 1640
+weight: 1680
 url: /hi/net/aspose.psd.fileformats.psd/fontcaps/
 ---
+{{< psd/tize >}}
 ## FontCaps enumeration
 
-यह फ़ॉन्ट आधार रेखा है।
+यह फ़ॉन्ट बेसलाइन है।
 
 ```csharp
 public enum FontCaps
@@ -16,15 +17,15 @@ public enum FontCaps
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | कोई फ़ॉन्ट कैप मान नहीं। |
-| SmallCaps | `1` | छोटे कैप। |
-| AllCaps | `2` | बड़े अक्षर. |
+| None | `0` | फ़ॉन्ट कैप्स मान नहीं है। |
+| SmallCaps | `1` | छोटे कैप्स। |
+| AllCaps | `2` | सभी कैप्स। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. बइट्स में कच्च रेख क आकर प्रप्त करत है
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। बाइट्स में रॉ लाइन साइज प्राप्त करता है।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-बाइट्स में कच्ची रेखा का आकार प्राप्त करता है।
+बाइट्स में कच्ची लाइन आकार प्राप्त करता है।
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बाइट्स में कच्ची रेखा का आकार।
+बाइट्स में रॉ लाइन साइज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

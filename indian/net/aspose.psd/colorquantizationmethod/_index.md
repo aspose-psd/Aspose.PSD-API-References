@@ -1,14 +1,15 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ColorQuantizationMethod एनुम. रंग परमणकरण के तरके
+title: "एन्यूम ColorQuantizationMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ColorQuantizationMethod एन्यूम। रंग क्वांटाइज़ेशन विधियाँ"
 type: docs
 weight: 390
 url: /hi/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
-रंग परिमाणीकरण के तरीके
+रंग क्वांटाइज़ेशन विधियाँ
 
 ```csharp
 public enum ColorQuantizationMethod
@@ -16,14 +17,14 @@ public enum ColorQuantizationMethod
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | कुछ भी रंग परिमाणीकरण विधि का उपयोग नहीं किया जाता है |
-| Popularity | `1` | लोकप्रियता पद्धति |
+| None | `0` | कोई रंग क्वांटाइज़ेशन विधि उपयोग नहीं की गई है |
+| Popularity | `1` | लोकप्रियता विधि |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum FillType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType एनुम. भरण प्रकर
+title: "Enum FillType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. भराव प्रकार"
 type: docs
-weight: 1940
+weight: 2050
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
-भरण प्रकार
+फ़िल प्रकार
 
 ```csharp
 public enum FillType
@@ -16,15 +17,15 @@ public enum FillType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Color | `0` | कलर फिल टाइप |
-| Gradient | `1` | ग्रेडिएंट फिल टाइप |
-| Pattern | `2` | पैटर्न भरण प्रकार |
+| Color | `0` | रंग भराव प्रकार |
+| Gradient | `1` | ग्रेडिएंट भराव प्रकार |
+| Pattern | `2` | पैटर्न भराव प्रकार |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

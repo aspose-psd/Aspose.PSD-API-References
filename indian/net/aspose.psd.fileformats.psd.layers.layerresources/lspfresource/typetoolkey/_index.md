@@ -1,23 +1,24 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LspfResource मैदन. टइप टूल इंफ क 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LspfResource फ़ील्ड। प्रकार टूल जानकारी कुंजी 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
-टाइप टूल इंफो की 1819504742
+प्रकार टूल जानकारी कुंजी 1819504742
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

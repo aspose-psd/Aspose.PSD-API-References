@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.UnregisterOpener
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerResourcesRegistry तरक. ओपनर क पंजकरण रद्द करत है
+title: "LayerResourcesRegistry.UnregisterOpener"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerResourcesRegistry मेथड। ओपनर को अनरजिस्टर करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.UnregisterOpener method
 
-ओपनर का पंजीकरण रद्द करता है।
+ओपनर को अनपंजीकृत करता है।
 
 ```csharp
 public static void UnregisterOpener(ILayerResourceLoader openerDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | अपंजीकृत करने के लिए ओपनर डिस्क्रिप्टर। |
+| openerDescriptor | ILayerResourceLoader | ओपनर डिस्क्रिप्टर जिसे अनरजिस्टर करना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits एनुम. झगड़ संकल्प इकई Enum
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff Resolution Unit Enum"
 type: docs
-weight: 4150
+weight: 4620
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-झगड़ा संकल्प इकाई Enum
+Tiff रिज़ॉल्यूशन यूनिट एनेम
 
 ```csharp
 public enum TiffResolutionUnits : ushort
@@ -16,15 +17,15 @@ public enum TiffResolutionUnits : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `1` | कोई सार्थक इकाई नहीं। |
-| Inch | `2` | अंग्रेजी प्रणाली। |
-| Centimeter | `3` | मीट्रिक सिस्टम. |
+| None | `1` | कोई सार्थक इकाइयाँ नहीं। |
+| Inch | `2` | अंग्रेज़ी प्रणाली। |
+| Centimeter | `3` | मीट्रिक प्रणाली। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

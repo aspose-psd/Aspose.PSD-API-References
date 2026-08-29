@@ -1,35 +1,36 @@
 ---
-title: IImageLoader.Load
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageLoader तरक. के सथ एक नई छव खलत हैloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageLoader विधि। loadOptions के साथ नई इमेज खोलता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-के साथ एक नई छवि खोलता है*loadOptions* .
+नई छवि *loadOptions* के साथ खोलता है।
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
 | loadOptions | LoadOptions | लोड विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया खुला छवि उदाहरण।
+एक नया खोला गया इमेज इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* नाम स्थान [Aspose.PSD](../../iimageloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

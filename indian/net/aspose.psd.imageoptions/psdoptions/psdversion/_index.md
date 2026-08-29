@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. फ़इल स्वरूप संस्करण प्रप्त य सेट करत है यह PSD य PSB. ह सकत है
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। फ़ाइल फ़ॉर्मेट संस्करण को प्राप्त करता है या सेट करता है। यह PSD या PSB हो सकता है।"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-फ़ाइल स्वरूप संस्करण प्राप्त या सेट करता है। यह PSD या PSB. हो सकता है
+फ़ाइल फ़ॉर्मेट संस्करण प्राप्त करता है या सेट करता है। यह PSD या PSB हो सकता है।
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ाइल स्वरूप संस्करण.
+फ़ाइल फ़ॉर्मेट संस्करण।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण PSD फ़ाइल को PSB और इसके विपरीत में कनवर्ट करने की क्षमता दिखाता है।
+निम्नलिखित उदाहरण दिखाता है कि PSD फ़ाइल को PSB में और इसके विपरीत कैसे परिवर्तित किया जा सकता है।
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

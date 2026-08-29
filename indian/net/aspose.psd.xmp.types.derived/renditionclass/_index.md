@@ -1,14 +1,15 @@
 ---
-title: Class RenditionClass
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Derived.RenditionClass कक्ष. XMP प्रतपदन क प्रतनधत्व करत है
+title: "क्लास RenditionClass"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Derived.RenditionClass क्लास। XMP Rendition का प्रतिनिधित्व करता है।"
 type: docs
-weight: 6130
+weight: 6630
 url: /hi/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass class
 
-XMP प्रतिपादन का प्रतिनिधित्व करता है।
+XMP Rendition का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class RenditionClass : XmpTypeBase
@@ -18,27 +19,27 @@ public sealed class RenditionClass : XmpTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [RenditionClass](renditionclass/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`RenditionClass` वर्ग. |
-| [RenditionClass](renditionclass/#constructor_1)(string, string) | का एक नया उदाहरण प्रारंभ करता है`RenditionClass` वर्ग. |
+| [RenditionClass](renditionclass/#constructor)() | `RenditionClass` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
+| [RenditionClass](renditionclass/#constructor_1)(string, string) | `RenditionClass` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | टोकन प्राप्त करता है या सेट करता है। |
-| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | मान प्राप्त करता है या सेट करता है। |
+| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | टोकन को प्राप्त करता है या सेट करता है। |
+| [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | मान को प्राप्त करता है या सेट करता है। |
 | static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | परिभाषित मान |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

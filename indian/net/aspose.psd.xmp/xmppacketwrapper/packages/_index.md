@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper संपत्त. क सरण प्रप्त करत हैXmpPackage XMP. के अंदर
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper प्रॉपर्टी। XMP के भीतर XmpPackage की एरे प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-की सरणी प्राप्त करता है[`XmpPackage`](../../xmppackage/) XMP. के अंदर
+XMP के भीतर [`XmpPackage`](../../xmppackage/) की एरे प्राप्त करता है।
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-की सरणी[`XmpPackage`](../../xmppackage/) XMP. के अंदर
+XMP के भीतर [`XmpPackage`](../../xmppackage/) की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

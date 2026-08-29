@@ -1,23 +1,24 @@
 ---
-title: VstkResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. हस्तक्षर ह जत है
+title: "VstkResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। सिग्नेचर प्राप्त करता है"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/
 ---
+{{< psd/tize >}}
 ## VstkResource.Signature property
 
-हस्ताक्षर हो जाता है।
+हस्ताक्षर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

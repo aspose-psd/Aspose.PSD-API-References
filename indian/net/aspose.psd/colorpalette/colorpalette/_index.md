@@ -1,91 +1,92 @@
 ---
-title: ColorPalette.ColorPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPalette नर्मत. क एक नय उदहरण प्ररंभ करत हैColorPalette वर्ग.
+title: "ColorPalette.ColorPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPalette कंस्ट्रक्टर। ColorPalette क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/colorpalette/colorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPalette(int[], bool) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorPalette`](../) वर्ग.
+[`ColorPalette`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorPalette(int[] argb32Entries, bool isCompactPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argb32Entries | Int32[] | 32-बिट ARGB रंग पैलेट प्रविष्टियाँ। |
-| isCompactPalette | Boolean | संकेत दे रहा है कि यह पैलेट कॉम्पैक्ट है या नहीं। |
+| argb32Entries | Int32[] | 32-बिट ARGB कलर पैलेट एंट्रीज़। |
+| isCompactPalette | बूलियन | यह दर्शाता है कि पैलेट कॉम्पैक्ट है या नहीं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(int[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorPalette`](../) वर्ग और IsCompactPalette गलत है।
+[`ColorPalette`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है और IsCompactPalette false है।
 
 ```csharp
 public ColorPalette(int[] argb32Entries)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argb32Entries | Int32[] | 32-बिट ARGB रंग पैलेट प्रविष्टियाँ। |
+| argb32Entries | Int32[] | 32-बिट ARGB कलर पैलेट एंट्रीज़। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[], bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorPalette`](../) वर्ग.
+[`ColorPalette`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorPalette(Color[] entries, bool isCompactPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| entries | Color[] | रंग पैलेट प्रविष्टियाँ। |
-| isCompactPalette | Boolean | संकेत दे रहा है कि यह पैलेट कॉम्पैक्ट है या नहीं। |
+| entries | Color[] | कलर पैलेट एंट्रीज़। |
+| isCompactPalette | बूलियन | यह दर्शाता है कि पैलेट कॉम्पैक्ट है या नहीं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorPalette(Color[]) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorPalette`](../) वर्ग और IsCompactPalette गलत है।
+[`ColorPalette`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है और IsCompactPalette false है।
 
 ```csharp
 public ColorPalette(Color[] entries)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| entries | Color[] | रंग पैलेट प्रविष्टियाँ। |
+| entries | Color[] | कलर पैलेट एंट्रीज़। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

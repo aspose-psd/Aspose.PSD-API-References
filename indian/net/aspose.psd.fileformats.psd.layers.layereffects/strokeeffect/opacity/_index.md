@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.Opacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StrokeEffect संपत्त. अस्पष्टत प्रप्त य सेट करत है
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StrokeEffect property. अपारदर्शिता को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
-अस्पष्टता प्राप्त या सेट करता है।
+अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अपारदर्शिता.
+अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StrokeEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions संपत्त. एक मन प्रप्त य सेट करत है ज दर्शत है क क्य मेयर लेयर्स.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि लेयरों को मिलाया जाए"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-एक मान प्राप्त या सेट करता है जो दर्शाता है कि क्या [मेयर लेयर्स].
+एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [merege layers]।
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [मार्ज परतें]; अन्यथा,`असत्य` .
+`true` यदि [merege layers]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

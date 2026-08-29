@@ -1,14 +1,15 @@
 ---
-title: Class XmpGuid
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Derived.XmpGuid कक्ष. XMP वैश्वक अद्वतय पहचनकर्त क प्रतनधत्व करत है
+title: "क्लास XmpGuid"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpGuid क्लास। XMP वैश्विक अद्वितीय पहचानकर्ता का प्रतिनिधित्व करता है"
 type: docs
-weight: 6160
+weight: 6660
 url: /hi/net/aspose.psd.xmp.types.derived/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid class
 
-XMP वैश्विक अद्वितीय पहचानकर्ता का प्रतिनिधित्व करता है।
+XMP ग्लोबल यूनिक आइडेंटिफ़ायर का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class XmpGuid : XmpTypeBase
@@ -18,26 +19,26 @@ public sealed class XmpGuid : XmpTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpGuid](xmpguid/#constructor)(Guid) | का एक नया उदाहरण प्रारंभ करता है`XmpGuid` वर्ग. |
-| [XmpGuid](xmpguid/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpGuid` वर्ग. |
+| [XmpGuid](xmpguid/#constructor)(Guid) | `XmpGuid` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [XmpGuid](xmpguid/#constructor_1)(string) | `XmpGuid` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | uuid. जैसे उपसर्ग प्राप्त करता है या सेट करता है |
-| [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | मान प्राप्त करता है या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | uuid जैसी उपसर्ग प्राप्त करता है या सेट करता है। |
+| [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | मान को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
+
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

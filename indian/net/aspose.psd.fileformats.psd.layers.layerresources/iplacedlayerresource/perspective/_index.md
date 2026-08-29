@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Perspective
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. PSD फ़इल में रख गई परत क परप्रेक्ष्य मन प्रप्त य सेट करत है
+title: "IPlacedLayerResource.Perspective"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी। PSD फ़ाइल में रखी गई लेयर के परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Perspective property
 
-PSD फ़ाइल में रखी गई परत का परिप्रेक्ष्य मान प्राप्त या सेट करता है।
+PSD फ़ाइल में रखी गई लेयर के परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Perspective { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत का परिप्रेक्ष्य मान।
+स्थापित लेयर का परिप्रेक्ष्य मान।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LangAlt.GetXmlValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LangAlt तरक. XMP मन क XML प्रस्तुतकरण में कनवर्ट करत है.
+title: "LangAlt.GetXmlValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LangAlt मेथड। XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/langalt/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## LangAlt.GetXmlValue method
 
-XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है.
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है।
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक्सएमएल प्रतिनिधित्व में परिवर्तित एक्सएमपी मान लौटाता है।
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करके लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LangAlt](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../langalt/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

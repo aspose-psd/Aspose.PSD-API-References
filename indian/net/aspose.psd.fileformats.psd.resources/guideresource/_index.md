@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource कक्ष. गइड संसधन ब्लक.
+title: "क्लास GuideResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource class. गाइड संसाधन ब्लॉक"
 type: docs
-weight: 3750
+weight: 4220
 url: /hi/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-गाइड संसाधन ब्लॉक.
+गाइड संसाधन ब्लॉक।
 
 ```csharp
 public sealed class GuideResource
@@ -18,24 +19,24 @@ public sealed class GuideResource
 
 | नाम | विवरण |
 | --- | --- |
-| [GuideResource](guideresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [GuideResource](guideresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | गाइड की दिशा प्राप्त या सेट करता है। |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | दस्तावेज़ निर्देशांक में गाइड का स्थान प्राप्त या सेट करता है। |
-
-## खेत
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | गाइड संसाधन ब्लॉक आकार. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | गाइड की दिशा को प्राप्त करता है या सेट करता है। |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | दस्तावेज़ निर्देशांक में गाइड के स्थान को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | गाइड संसाधन ब्लॉक आकार। |
+
+### देखें भी
+
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

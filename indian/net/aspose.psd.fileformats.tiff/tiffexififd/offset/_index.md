@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffExifIfd संपत्त. पइंटर क EXIF IFD. पर ले जत है य सेट करत है
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffExifIfd प्रॉपर्टी। EXIF IFD के पॉइंटर को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-पॉइंटर को EXIF IFD. पर ले जाता है या सेट करता है
+EXIF IFD के पॉइंटर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-EXIF IFD. के लिए सूचक
+EXIF IFD का पॉइंटर।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | EXIF IFD के लिए कोई संकेतक नहीं है। |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | EXIF IFD का कोई पॉइंटर नहीं है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffExifIfd](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

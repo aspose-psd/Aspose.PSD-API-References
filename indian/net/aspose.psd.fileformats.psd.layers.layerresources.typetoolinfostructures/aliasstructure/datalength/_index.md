@@ -1,11 +1,12 @@
 ---
-title: AliasStructure.DataLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AliasStructure संपत्त. बइट्स में सटक डेट लंबई प्रप्त करत है
+title: "AliasStructure.DataLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AliasStructure प्रॉपर्टी। सटीक डेटा लंबाई बाइट्स में प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
+{{< psd/tize >}}
 ## AliasStructure.DataLength property
 
 बाइट्स में सटीक डेटा लंबाई प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int DataLength { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बाइट्स में डेटा की लंबाई।
+डेटा लंबाई बाइट्स में।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AliasStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

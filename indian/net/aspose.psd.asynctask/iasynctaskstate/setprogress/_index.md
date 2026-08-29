@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTaskState तरक. अतुल्यकलक कर्य क प्रगत नर्धरत करत है
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTaskState मेथड। असिंक्रोनस टास्क की प्रगति सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
-अतुल्यकालिक कार्य की प्रगति निर्धारित करता है।
+असिंक्रोनस टास्क की प्रोग्रेस सेट करता है।
 
 ```csharp
 public void SetProgress(int progressPercentage)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| progressPercentage | Int32 | प्रगति प्रतिशत। |
+| progressPercentage | Int32 | प्रोग्रेस प्रतिशत। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTaskState](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

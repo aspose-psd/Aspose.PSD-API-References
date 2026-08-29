@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoCoResource संपत्त. परत संसधन के लए आवश्यक न्यूनतम PSD संस्करण प्रप्त करत है 0 कई प्रतबंध नहं दर्शत है
+title: "SoCoResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoCoResource प्रॉपर्टी। लेयर रिसोर्स के लिए आवश्यक न्यूनतम psd संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SoCoResource.PsdVersion property
 
-परत संसाधन के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है।
+लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoCoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

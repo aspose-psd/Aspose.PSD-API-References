@@ -1,14 +1,15 @@
 ---
-title: Class Jpeg2000Exception
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception कक्ष. जेपईज फइलं के लए अपवद
+title: "क्लास Jpeg2000Exception"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception क्लास। Jpeg फ़ाइलों के लिए एक्सेप्शन"
 type: docs
 weight: 530
 url: /hi/net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Exception class
 
-जेपीईजी फाइलों के लिए अपवाद
+Jpeg फ़ाइलों के लिए एक्सेप्शन।
 
 ```csharp
 public class Jpeg2000Exception : ImageException
@@ -18,13 +19,13 @@ public class Jpeg2000Exception : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`Jpeg2000Exception` वर्ग. |
-| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`Jpeg2000Exception` वर्ग. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | `Jpeg2000Exception` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | `Jpeg2000Exception` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpBasicPackage वर्ग.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage कन्स्ट्रक्टर। XmpBasicPackage क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpBasicPackage`](../) वर्ग.
+[`XmpBasicPackage`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpBasicPackage()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpBasicPackage`](../) वर्ग.
+[`XmpBasicPackage`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| prefix | String | उपसर्ग। |
-| namespaceUri | String | नाम स्थान URI. |
+| प्रीफ़िक्स | String | प्रीफ़िक्स। |
+| नेमस्पेसURI | String | यह नेमस्पेस URI। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource संपत्त. मस्टर संतृप्त प्रप्त य सेट करत है
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource प्रॉपर्टी। मास्टर सैचुरेशन प्राप्त करता या सेट करता है।"
 type: docs
-weight: 90
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-मास्टर संतृप्ति प्राप्त या सेट करता है।
+मास्टर सैचुरेशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मास्टर संतृप्ति।
+मुख्य संतृप्ति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

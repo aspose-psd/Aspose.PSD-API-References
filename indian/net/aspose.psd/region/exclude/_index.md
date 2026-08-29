@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे अपडेट करत हैRegion इसके इंटरयर क केवल वह हस्स शमल करने के लए ज नर्दष्ट के सथ प्रतच्छेद नहं करत हैRectangleFसंरचन.
+title: "Region.Exclude"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region को केवल उसके अंदरूनी हिस्से के उस भाग को रखने के लिए अपडेट करता है जो निर्दिष्ट RectangleF संरचना के साथ प्रतिच्छेद नहीं करता।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-इसे अपडेट करता है[`Region`](../) इसके इंटीरियर का केवल वह हिस्सा शामिल करने के लिए जो निर्दिष्ट के साथ प्रतिच्छेद नहीं करता है[`RectangleF`](../../rectanglef/)संरचना.
+इस [`Region`](../) को केवल उसके अंदरूनी हिस्से के उस भाग को रखने के लिए अपडेट करता है जो निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) इससे बाहर करने के लिए संरचना[`Region`](../). |
+| rect | RectangleF | इस [`Region`](../) से बाहर करने के लिए [`RectangleF`](../../rectanglef/) संरचना। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-इसे अपडेट करता है[`Region`](../) इसके इंटीरियर का केवल वह हिस्सा शामिल करने के लिए जो निर्दिष्ट के साथ प्रतिच्छेद नहीं करता है[`Rectangle`](../../rectangle/)संरचना.
+इस [`Region`](../) को केवल उसके अंदरूनी हिस्से के उस भाग को रखने के लिए अपडेट करता है जो निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) इससे बाहर करने के लिए संरचना[`Region`](../). |
+| rect | Rectangle | इस [`Region`](../) से बाहर करने के लिए [`Rectangle`](../../rectangle/) संरचना। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-इसे अपडेट करता है[`Region`](../) इसके इंटीरियर का केवल वह हिस्सा शामिल करने के लिए जो निर्दिष्ट के साथ प्रतिच्छेद नहीं करता है[`GraphicsPath`](../../graphicspath/) .
+इस [`Region`](../) को केवल उसके अंदरूनी हिस्से के उस भाग को रखने के लिए अपडेट करता है जो निर्दिष्ट [`GraphicsPath`](../../graphicspath/) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) इससे बाहर करने के लिए[`Region`](../). |
+| path | GraphicsPath | इस [`Region`](../) से बाहर करने के लिए [`GraphicsPath`](../../graphicspath/)। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *path* रिक्त है. |
+| ArgumentNullException | *path* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-इसे अपडेट करता है[`Region`](../) इसके इंटीरियर का केवल वह हिस्सा शामिल करने के लिए जो निर्दिष्ट के साथ प्रतिच्छेद नहीं करता है[`Region`](../) .
+इस [`Region`](../) को अपडेट करता है ताकि यह केवल उसके अंदरूनी हिस्से का वह भाग रखे जो निर्दिष्ट [`Region`](../) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) इससे बाहर करने के लिए[`Region`](../). |
+| region | Region | इस [`Region`](../) से बाहर करने के लिए [`Region`](../)। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *region* रिक्त है. |
+| ArgumentNullException | *region* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

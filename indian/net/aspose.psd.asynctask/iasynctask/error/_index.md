@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask संपत्त. कर्य त्रुट प्रप्त करत है ज कर्य पूर हने के बद उपलब्ध हत है
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask प्रॉपर्टी। कार्य त्रुटि प्राप्त करता है जो कार्य पूरा होने के बाद उपलब्ध होती है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-कार्य त्रुटि प्राप्त करता है जो कार्य पूरा होने के बाद उपलब्ध होता है।
+टास्क पूर्ण होने के बाद उपलब्ध टास्क त्रुटि प्राप्त करता है।
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कार्य त्रुटि.
+कार्य त्रुटि।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

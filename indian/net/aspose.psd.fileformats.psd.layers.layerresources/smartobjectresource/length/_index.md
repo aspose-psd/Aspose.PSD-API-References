@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. बइट्स में स्मर्ट ऑब्जेक्ट संसधन लंबई प्रप्त करत है
+title: "SmartObjectResource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource प्रॉपर्टी। स्मार्ट ऑब्जेक्ट संसाधन की लंबाई बाइट्स में प्राप्त करता है।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Length property
 
-बाइट्स में स्मार्ट ऑब्जेक्ट संसाधन लंबाई प्राप्त करता है।
+स्मार्ट ऑब्जेक्ट संसाधन की लंबाई बाइट्स में प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

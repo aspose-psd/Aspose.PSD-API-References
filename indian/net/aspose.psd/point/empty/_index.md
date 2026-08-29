@@ -1,23 +1,24 @@
 ---
-title: Point.Empty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point संपत्त. क एक नय उदहरण प्रप्त करत हैPoint संरचन जसमें हैX औरY मन शून्य पर सेट.
+title: "Point.Empty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point प्रॉपर्टी। एक नई Point संरचना का उदाहरण प्राप्त करता है जिसमें X और Y मान शून्य पर सेट होते हैं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/point/empty/
 ---
+{{< psd/tize >}}
 ## Point.Empty property
 
-का एक नया उदाहरण प्राप्त करता है[`Point`](../) संरचना जिसमें है[`X`](../x/) और[`Y`](../y/) मान शून्य पर सेट.
+एक नई [`Point`](../) संरचना का उदाहरण प्राप्त करता है जिसमें [`X`](../x/) और [`Y`](../y/) मान शून्य पर सेट होते हैं।
 
 ```csharp
 public static Point Empty { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: FxrpResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource संपत्त. हस्तक्षर ह जत है
+title: "FxrpResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource प्रॉपर्टी। हस्ताक्षर प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Signature property
 
-हस्ताक्षर हो जाता है।
+हस्ताक्षर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

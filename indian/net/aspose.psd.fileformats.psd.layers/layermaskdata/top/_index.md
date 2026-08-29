@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. शर्ष परत मुखट स्थत प्रप्त य सेट करत है
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। शीर्ष लेयर मास्क की स्थिति को प्राप्त या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-शीर्ष परत मुखौटा स्थिति प्राप्त या सेट करता है।
+ऊपर की लेयर मास्क स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शीर्ष परत मुखौटा स्थिति।
+शीर्ष लेयर मास्क की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

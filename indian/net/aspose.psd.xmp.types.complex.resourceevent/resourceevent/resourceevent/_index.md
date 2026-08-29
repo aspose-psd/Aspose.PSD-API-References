@@ -1,23 +1,24 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent कंस्ट्रक्टर। डिफ़ॉल्ट कंस्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public ResourceEvent()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

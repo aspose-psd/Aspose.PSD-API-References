@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator कक्ष. SmartResourceCreator वर्ग क परभषत करत है ज PlLd SoLd और SoLe संसधनं क बन सकत है क उपयग Adobe Photoshop छवयं में स्मर्ट ऑब्जेक्ट परतं क समर्थन करने के लए कय जत है
+title: "क्लास SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator क्लास। SmartResourceCreator क्लास को परिभाषित करता है जो PlLd, SoLd और SoLe संसाधन बना सकता है। यह Adobe Photoshop छवियों में स्मार्ट ऑब्जेक्ट लेयर्स को समर्थन देने के लिए उपयोग किया जाता है।"
 type: docs
-weight: 3000
+weight: 3350
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-SmartResourceCreator वर्ग को परिभाषित करता है जो PlLd, SoLd और SoLe संसाधनों को बना सकता है। का उपयोग Adobe® Photoshop® छवियों में स्मार्ट ऑब्जेक्ट परतों का समर्थन करने के लिए किया जाता है।
+SmartResourceCreator क्लास को परिभाषित करता है जो PlLd, SoLd और SoLe संसाधन बना सकता है। यह Adobe® Photoshop® छवियों में स्मार्ट ऑब्जेक्ट लेयर्स को समर्थन देने के लिए उपयोग किया जाता है।
 
 ```csharp
 public class SmartResourceCreator
@@ -18,21 +19,21 @@ public class SmartResourceCreator
 
 | नाम | विवरण |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`SmartResourceCreator` वर्ग. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | का एक नया उदाहरण प्रारंभ करता है`SmartResourceCreator` class दिए गए टेम्पलेट के साथ. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | का एक नया उदाहरण प्रारंभ करता है`SmartResourceCreator` वर्ग. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | `SmartResourceCreator` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | दिए गए टेम्पलेट के साथ `SmartResourceCreator` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | `SmartResourceCreator` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | रखे गए संसाधन उत्पन्न करता है। |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | एम्बेडेड स्मार्ट ऑब्जेक्ट संसाधन उत्पन्न करता है। |
-| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | बाहरी स्मार्ट ऑब्जेक्ट संसाधन उत्पन्न करता है। |
+| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | प्लेस्ड रिसोर्स उत्पन्न करता है। |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | एम्बेडेड स्मार्ट ऑब्जेक्ट रिसोर्स उत्पन्न करता है। |
+| [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | एक्सटर्नल स्मार्ट ऑब्जेक्ट रिसोर्स उत्पन्न करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड SoLEResource, SmartObjectResource और PlacedResource संसाधनों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLEResource, SmartObjectResource और PlacedResource रिसोर्सेज के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // यह मान हम संसाधन में नहीं बदलते हैं
+    // इन मानों को हम रिसोर्स में नहीं बदलते।
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,8 +127,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+    // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+    // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,16 +164,18 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // कुछ मापदंडों से सावधान रहें: सहेजी गई छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+    // कुछ पैरामीटरों के साथ सावधान रहें: सेव किया गया इमेज Adobe® Photoshop® द्वारा पढ़ा नहीं जा सकता।
     ////resource.UOrder = 6;
-    ////संसाधन। VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-    // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+    // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+    // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-    ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+    // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -335,12 +338,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

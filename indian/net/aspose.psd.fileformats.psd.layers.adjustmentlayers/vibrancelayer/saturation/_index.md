@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Saturation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VibranceLayer संपत्त. संतृप्त प्रप्त य सेट करत है
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VibranceLayer प्रॉपर्टी। संतृप्ति प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
-संतृप्ति प्राप्त या सेट करता है।
+सैचुरेशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संतृप्ति।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentOutOfRangeException | संतृप्ति -100 से +100 की सीमा में होनी चाहिए |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड उदाहरण वाइब्रेंसलेयर परत के समर्थन और इस समायोजन को संपादित करने की क्षमता को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण VibranceLayer लेयर के समर्थन और इस एडजस्टमेंट को संपादित करने की क्षमता को दर्शाता है।
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // एक नई वाइब्रेंसलेयर बनाना
+    // एक नया VibranceLayer बनाना
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VibranceLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

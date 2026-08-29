@@ -1,28 +1,29 @@
 ---
-title: RectangleF.Location
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. इसके ऊपरबएँ कने के नर्देशंक प्रप्त य सेट करत हैRectangleFसंरचन.
+title: "RectangleF.Location"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के ऊपरी-बाएँ कोने के निर्देशांक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/rectanglef/location/
 ---
+{{< psd/tize >}}
 ## RectangleF.Location property
 
-इसके ऊपरी-बाएँ कोने के निर्देशांक प्राप्त या सेट करता है[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के ऊपरी-बाएँ कोने के निर्देशांक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PointF Location { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`PointF`](../../pointf/) जो इसके ऊपरी-बाएँ कोने का प्रतिनिधित्व करता है[`RectangleF`](../) संरचना।
+एक [`PointF`](../../pointf/) जो इस [`RectangleF`](../) संरचना के ऊपरी-बाएँ कोने का प्रतिनिधित्व करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: RasterImage.GetArgb32Pixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. 32बट ARGB पक्सेल क छव प्रप्त करत है.
+title: "RasterImage.GetArgb32Pixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage method. इमेज का 32-बिट ARGB पिक्सेल प्राप्त करता है"
 type: docs
 weight: 270
 url: /hi/net/aspose.psd/rasterimage/getargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetArgb32Pixel method
 
-32-बिट ARGB पिक्सेल की छवि प्राप्त करता है.
+एक छवि का 32-बिट ARGB पिक्सेल प्राप्त करता है।
 
 ```csharp
 public int GetArgb32Pixel(int x, int y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | पिक्सेल एक्स स्थान। |
-| y | Int32 | पिक्सेल वाई स्थान। |
+| x | Int32 | पिक्सेल का x स्थान। |
+| y | Int32 | पिक्सेल का y स्थान। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्दिष्ट स्थान के लिए 32-बिट ARGB पिक्सेल।
+निर्दिष्ट स्थान के लिए 32-बिट ARGB पिक्सेल.
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

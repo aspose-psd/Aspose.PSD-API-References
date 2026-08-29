@@ -1,43 +1,44 @@
 ---
-title: BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BilateralSmoothingFilterOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैBilateralSmoothingFilterOptions वर्ग.
+title: "BilateralSmoothingFilterOptions.BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BilateralSmoothingFilterOptions constructor. BilateralSmoothingFilterOptions क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions(int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`BilateralSmoothingFilterOptions`](../) वर्ग.
+[`BilateralSmoothingFilterOptions`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public BilateralSmoothingFilterOptions(int size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | Int32 | कर्नेल का आकार। |
+| आकार | Int32 | कर्नेल का आकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [BilateralSmoothingFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BilateralSmoothingFilterOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`BilateralSmoothingFilterOptions`](../) वर्ग.
+[`BilateralSmoothingFilterOptions`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public BilateralSmoothingFilterOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BilateralSmoothingFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IopaResource.FillOpacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IopaResource संपत्त. फल अपरदर्शत प्रप्त य सेट करत है
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IopaResource प्रॉपर्टी। भराव अपारदर्शिता प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
-फिल अपारदर्शिता प्राप्त या सेट करता है।
+फ़िल अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte FillOpacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फिल अपारदर्शिता.
+भराव अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [IopaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. एक्सएमप संस्करण
+title: "Namespaces.XmpTypeVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP संस्करण"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.xmp/namespaces/xmptypeversion/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeVersion field
 
-एक्सएमपी संस्करण।
+XMP संस्करण।
 
 ```csharp
 public const string XmpTypeVersion;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

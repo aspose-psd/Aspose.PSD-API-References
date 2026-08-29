@@ -1,27 +1,28 @@
 ---
-title: VectorImage.HeightF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorImage संपत्त. वस्तु क ऊंचई इंच में प्रप्त करत है
+title: "VectorImage.HeightF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorImage property. वस्तु की ऊँचाई इंच में प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/vectorimage/heightf/
 ---
+{{< psd/tize >}}
 ## VectorImage.HeightF property
 
-वस्तु की ऊंचाई इंच में प्राप्त करता है।
+इंच में वस्तु की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public virtual float HeightF { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑब्जेक्ट की ऊंचाई, इंच में.
+वस्तु की ऊँचाई, इंच में।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorImage](../)
-* नाम स्थान [Aspose.PSD](../../vectorimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BrightnessContrastLayer संपत्त. कंट्रस्ट प्रप्त य सेट करत है PS के लए कंट्रस्ट क रेंज 50 से 100 तक है लेकन हम इस पर ध्यन नहं देते.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BrightnessContrastLayer प्रॉपर्टी। contrast प्राप्त करता है या सेट करता है। PS के लिए contrast की सीमा 50 से 100 तक है। लेकिन हम इसे नजरअंदाज करते हैं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-कंट्रास्ट प्राप्त या सेट करता है। PS के लिए कंट्रास्ट की रेंज -50 से +100 तक है। लेकिन हम इस पर ध्यान नहीं देते.
+कॉन्ट्रास्ट प्राप्त करता है या सेट करता है। PS में कॉन्ट्रास्ट की सीमा -50 से +100 तक है। लेकिन हम इसे नजरअंदाज करते हैं।
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कंट्रास्ट.
+contrast।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BrightnessContrastLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

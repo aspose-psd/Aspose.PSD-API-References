@@ -1,43 +1,44 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpTrailerPi नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpTrailerPi वर्ग.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpTrailerPi कंस्ट्रक्टर। XmpTrailerPi क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpTrailerPi`](../) वर्ग.
+[`XmpTrailerPi`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| isWritable | Boolean | इंगित करता है कि ट्रेलर लिखने योग्य है या नहीं। |
+| isWritable | बूलियन | ट्रेलर लिखने योग्य है या नहीं दर्शाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTrailerPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpTrailerPi`](../) वर्ग.
+[`XmpTrailerPi`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTrailerPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

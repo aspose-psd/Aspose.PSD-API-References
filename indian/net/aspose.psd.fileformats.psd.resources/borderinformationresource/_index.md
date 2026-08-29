@@ -1,11 +1,12 @@
 ---
-title: Class BorderInformationResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.BorderInformationResource कक्ष. छव प्रंट सेटंग्स क सम जनकर वल संसधन
+title: "क्लास BorderInformationResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.BorderInformationResource क्लास। इमेज प्रिंट सेटिंग्स की बॉर्डर जानकारी वाला संसाधन"
 type: docs
-weight: 3650
+weight: 4110
 url: /hi/net/aspose.psd.fileformats.psd.resources/borderinformationresource/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource class
 
 छवि प्रिंट सेटिंग्स की सीमा जानकारी वाला संसाधन।
@@ -18,31 +19,31 @@ public sealed class BorderInformationResource : ResourceBlock
 
 | नाम | विवरण |
 | --- | --- |
-| [BorderInformationResource](borderinformationresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [BorderInformationResource](borderinformationresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/) { get; } | बाइट्स में संसाधन डेटा आकार प्राप्त करता है। |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता प्राप्त या सेट करता है। |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion/) { get; } | न्यूनतम आवश्यक PSD संस्करण प्राप्त करता है। |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम प्राप्त या सेट करता है। पास्कल स्ट्रिंग, आकार को समान बनाने के लिए गद्देदार (शून्य नाम में 0 के दो बाइट होते हैं). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर प्राप्त करता है। हमेशा '8BIM' होना चाहिए. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | अपने डेटा सहित बाइट्स में संसाधन ब्लॉक आकार प्राप्त करता है। |
-| [Unit](../../aspose.psd.fileformats.psd.resources/borderinformationresource/unit/) { get; set; } | सीमा इकाइयों को प्राप्त या सेट करता है। |
-| [Width](../../aspose.psd.fileformats.psd.resources/borderinformationresource/width/) { get; set; } | सीमा चौड़ाई प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | संसाधन ब्लॉक को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों की पुष्टि करता है. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/) { get; } | संसाधन डेटा आकार को बाइट्स में प्राप्त करता है। |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता को प्राप्त करता है या सेट करता है। |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion/) { get; } | आवश्यक न्यूनतम PSD संस्करण को प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम को प्राप्त करता है या सेट करता है। पास्कल स्ट्रिंग, आकार को सम बनाने के लिए पैड किया गया (एक शून्य नाम दो बाइट्स 0 से बना होता है)। |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा '8BIM' होना चाहिए। |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | डेटा सहित संसाधन ब्लॉक आकार को बाइट्स में प्राप्त करता है। |
+| [Unit](../../aspose.psd.fileformats.psd.resources/borderinformationresource/unit/) { get; set; } | बॉर्डर इकाइयों को प्राप्त करता है या सेट करता है। |
+| [Width](../../aspose.psd.fileformats.psd.resources/borderinformationresource/width/) { get; set; } | बॉर्डर चौड़ाई को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-निम्न उदाहरण BorderInformationResource संसाधन के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम में संसाधन ब्लॉक को सहेजता है। |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों को मान्य करता है। |
+
+## उदाहरण
+
+निम्नलिखित उदाहरण BorderInformationResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // अद्यतन सीमा सूचना संसाधन
+    // BorderInformationResource को अपडेट करें
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -71,10 +72,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

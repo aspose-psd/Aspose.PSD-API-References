@@ -1,28 +1,29 @@
 ---
-title: CurvesContinuousManager.RemoveCurvePoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesContinuousManager तरक. वक्र के बंदु क हटत है
+title: "CurvesContinuousManager.RemoveCurvePoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesContinuousManager मेथड। वक्र का बिंदु हटाता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.RemoveCurvePoint method
 
-वक्र के बिंदु को हटाता है।
+कर्व का बिंदु हटाता है।
 
 ```csharp
 public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
 | pointIndex | Int32 | बिंदु का सूचकांक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesContinuousManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

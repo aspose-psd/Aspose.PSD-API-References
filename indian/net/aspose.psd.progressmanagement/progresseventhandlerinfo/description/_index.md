@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ProgressEventHandlerInfo संपत्त. घटन क ववरण प्रप्त करत है
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ProgressEventHandlerInfo प्रॉपर्टी। इवेंट का विवरण प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
-घटना का विवरण प्राप्त करता है
+इवेंट का विवरण प्राप्त करता है।
 
 ```csharp
 public string Description { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 विवरण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ProgressEventHandlerInfo](../)
-* नाम स्थान [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

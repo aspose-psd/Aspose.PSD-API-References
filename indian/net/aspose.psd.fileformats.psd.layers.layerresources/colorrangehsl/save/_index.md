@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl तरक. डेट क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "ColorRangeHsl.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl मेथड. निर्दिष्ट स्ट्रीम कंटेनर में डेटा सहेजता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Save method
 
 डेटा को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save
 public void Save(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

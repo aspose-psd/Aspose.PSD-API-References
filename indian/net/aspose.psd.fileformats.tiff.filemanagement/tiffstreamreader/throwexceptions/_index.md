@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.ThrowExceptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क गलत डेट प्रसेसंग रड य रइट टू स्ट्रम पर अपवद फेंके गए हैं य नहं
+title: "TiffStreamReader.ThrowExceptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader प्रॉपर्टी। एक मान प्राप्त करता या सेट करता है जो यह दर्शाता है कि क्या स्ट्रीम पर डेटा प्रोसेसिंग में त्रुटि पढ़ने या लिखने के दौरान अपवाद फेंके जाते हैं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/throwexceptions/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ThrowExceptions property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि गलत डेटा प्रोसेसिंग (रीड या राइट टू स्ट्रीम) पर अपवाद फेंके गए हैं या नहीं।
+एक मान प्राप्त करता या सेट करता है जो यह दर्शाता है कि क्या गलत डेटा प्रोसेसिंग (स्ट्रीम को पढ़ने या लिखने) पर एक्सेप्शन फेंके जाते हैं।
 
 ```csharp
 public bool ThrowExceptions { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि गलत डेटा प्रोसेसिंग पर अपवाद फेंके जाते हैं; अन्यथा, त्रुटि स्थितियों को चुपचाप अनदेखा कर दिया जाता है।
+`true` यदि डेटा प्रोसेसिंग में त्रुटि पर अपवाद फेंके जाते हैं; अन्यथा, त्रुटि स्थितियों को चुपचाप अनदेखा किया जाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

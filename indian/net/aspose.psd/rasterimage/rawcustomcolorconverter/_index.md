@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawCustomColorConverter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. कस्टम कलर कन्वर्टर प्रप्त य सेट करत है
+title: "RasterImage.RawCustomColorConverter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। कस्टम कलर कनवर्टर को प्राप्त करता या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/rasterimage/rawcustomcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawCustomColorConverter property
 
-कस्टम कलर कन्वर्टर प्राप्त या सेट करता है
+कस्टम रंग कनवर्टर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public IColorConverter RawCustomColorConverter { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कस्टम कलर कन्वर्टर
+कस्टम कलर कन्वर्टर।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

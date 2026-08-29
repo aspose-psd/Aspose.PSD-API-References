@@ -1,68 +1,69 @@
 ---
-title: TiffRational.TiffRational
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffRational नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffRational वर्ग.
+title: "TiffRational.TiffRational"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffRational कंस्ट्रक्टर। TiffRational क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/tiffrational/
 ---
+{{< psd/tize >}}
 ## TiffRational() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffRational`](../) वर्ग.
+[`TiffRational`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffRational()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffRational`](../) वर्ग.
+[`TiffRational`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffRational(uint value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | UInt32 | नामांकित व्यक्ति मूल्य। |
+| मान | UInt32 | नॉमिनेटर मान। |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-नॉमिनेटर का उपयोग निर्दिष्ट मान के रूप में किया जाएगा और हर 1 के बराबर होगा।
+नॉमिनेटर को निर्दिष्ट मान के रूप में उपयोग किया जाएगा और डिनॉमिनेटर 1 के बराबर होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffRational(uint, uint) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffRational`](../) वर्ग.
+[`TiffRational`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffRational(uint nominator, uint denominator)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| nominator | UInt32 | नामांकित व्यक्ति। |
-| denominator | UInt32 | भाजक। |
+| नॉमिनेटर | UInt32 | नॉमिनेटर। |
+| डिनॉमिनेटर | UInt32 | हर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

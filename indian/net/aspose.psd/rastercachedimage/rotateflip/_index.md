@@ -1,26 +1,27 @@
 ---
-title: RasterCachedImage.RotateFlip
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage तरक. छव क घुमत है फ़्लप करत है य घुमत है और फ़्लप करत है.
+title: "RasterCachedImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage मेथड। इमेज को घुमाता, फ़्लिप करता या घुमाता और फ़्लिप करता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/rastercachedimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.RotateFlip method
 
-छवि को घुमाता है, फ़्लिप करता है या घुमाता है और फ़्लिप करता है.
+इमेज को घुमाता है, फ़्लिप करता है, या घुमाकर फ़्लिप करता है।
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | रोटेट फ्लिप प्रकार। |
+| rotateFlipType | RotateFlipType | रोटेट फ़्लिप प्रकार। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दिखाता है कि छवि को कैसे घुमाएं।
+निम्नलिखित कोड दिखाता है कि इमेज को कैसे घुमाया जाए।
 
 ```csharp
 [C#]
@@ -40,11 +41,11 @@ using (var im = (PsdImage)(Image.Load(sourceFile)))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

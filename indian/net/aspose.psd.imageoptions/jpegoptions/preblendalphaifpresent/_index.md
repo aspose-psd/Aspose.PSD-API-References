@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.PreblendAlphaIfPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क अल्फ चैनल मजूद हने पर लल हरे और नले घटकं क पृष्ठभूम रंग के सथ मश्रत कय जन चहए य नहं
+title: "JpegOptions.PreblendAlphaIfPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि क्या लाल, हरा और नीला घटक अल्फा चैनल मौजूद होने पर पृष्ठभूमि रंग के साथ मिश्रित किए जाने चाहिए"
 type: docs
-weight: 130
+weight: 140
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/preblendalphaifpresent/
 ---
+{{< psd/tize >}}
 ## JpegOptions.PreblendAlphaIfPresent property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि अल्फा चैनल मौजूद होने पर लाल, हरे और नीले घटकों को पृष्ठभूमि रंग के साथ मिश्रित किया जाना चाहिए या नहीं।
+लाल, हरे और नीले घटकों को पृष्ठभूमि रंग के साथ मिलाया जाना चाहिए या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है, यदि अल्फा चैनल मौजूद हो।
 
 ```csharp
 public bool PreblendAlphaIfPresent { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

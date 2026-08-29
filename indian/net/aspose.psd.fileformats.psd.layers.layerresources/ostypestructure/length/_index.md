@@ -1,23 +1,24 @@
 ---
-title: OSTypeStructure.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructure संपत्त. ह जत हैOSTypeStructure बइट्स में लंबई.
+title: "OSTypeStructure.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructure प्रॉपर्टी. OSTypeStructure लंबाई बाइट्स में प्राप्त करता है."
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Length property
 
-हो जाता है[`OSTypeStructure`](../) बाइट्स में लंबाई.
+[`OSTypeStructure`](../) की लंबाई बाइट्स में प्राप्त करता है.
 
 ```csharp
 public abstract int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

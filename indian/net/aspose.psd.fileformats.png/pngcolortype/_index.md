@@ -1,14 +1,15 @@
 ---
-title: Enum PngColorType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Png.PngColorType एनुम. PNG छव रंग प्रकर क प्रतनधत्व करत है
+title: "Enum PngColorType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Png.PngColorType enum. PNG छवि रंग प्रकार का प्रतिनिधित्व करता है"
 type: docs
-weight: 1580
+weight: 1590
 url: /hi/net/aspose.psd.fileformats.png/pngcolortype/
 ---
+{{< psd/tize >}}
 ## PngColorType enumeration
 
-PNG छवि रंग प्रकार का प्रतिनिधित्व करता है।
+PNG इमेज कलर टाइप का प्रतिनिधित्व करता है।
 
 ```csharp
 public enum PngColorType
@@ -16,17 +17,17 @@ public enum PngColorType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Grayscale | `0` | रंग प्रकार का प्रतिनिधित्व करता है जहां प्रत्येक पिक्सेल एक ग्रेस्केल नमूना है। |
-| Truecolor | `2` | उस रंग प्रकार का प्रतिनिधित्व करता है जहां प्रत्येक पिक्सेल एक R,G,B ट्रिपल है। |
-| IndexedColor | `3` | उस रंग प्रकार का प्रतिनिधित्व करता है जहां प्रत्येक पिक्सेल एक पैलेट इंडेक्स है; एक PLTE हिस्सा दिखाई देगा. |
-| GrayscaleWithAlpha | `4` | रंग प्रकार का प्रतिनिधित्व करता है जहां प्रत्येक पिक्सेल एक ग्रेस्केल नमूना होता है जिसके बाद एक अल्फा नमूना होता है। |
-| TruecolorWithAlpha | `6` | उस रंग प्रकार का प्रतिनिधित्व करता है जहां प्रत्येक पिक्सेल एक आर, जी, बी ट्रिपल होता है जिसके बाद एक अल्फा नमूना होता है। |
+| Grayscale | `0` | उस रंग प्रकार का प्रतिनिधित्व करता है जहाँ प्रत्येक पिक्सेल एक ग्रेस्केल नमूना है। |
+| Truecolor | `2` | उस रंग प्रकार का प्रतिनिधित्व करता है जहाँ प्रत्येक पिक्सेल एक R,G,B त्रिपल है। |
+| IndexedColor | `3` | उस रंग प्रकार का प्रतिनिधित्व करता है जहाँ प्रत्येक पिक्सेल एक पैलेट इंडेक्स है; एक PLTE चंक उपस्थित होगा। |
+| GrayscaleWithAlpha | `4` | उस रंग प्रकार का प्रतिनिधित्व करता है जहाँ प्रत्येक पिक्सेल एक ग्रेस्केल नमूना है, जिसके बाद एक अल्फा नमूना आता है। |
+| TruecolorWithAlpha | `6` | उस रंग प्रकार का प्रतिनिधित्व करता है जहाँ प्रत्येक पिक्सेल एक R,G,B त्रिपल है, जिसके बाद एक अल्फा नमूना आता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

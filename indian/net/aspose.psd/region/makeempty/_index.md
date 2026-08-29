@@ -1,23 +1,24 @@
 ---
-title: Region.MakeEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे आरंभ करत हैRegion एक खल इंटरयर के लए.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region को खाली आंतरिक भाग में प्रारंभ करता है"
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-इसे आरंभ करता है[`Region`](../) एक खाली इंटीरियर के लिए.
+इस [`Region`](../) को खाली आंतरिक भाग में प्रारंभ करता है।
 
 ```csharp
 public void MakeEmpty()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

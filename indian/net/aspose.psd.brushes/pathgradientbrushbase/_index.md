@@ -1,57 +1,58 @@
 ---
-title: Class PathGradientBrushBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Brushes.PathGradientBrushBase कक्ष. एक क प्रतनधत्व करत हैBrush आधर पथ ढल कर्यक्षमत के सथ.
+title: "क्लास PathGradientBrushBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Brushes.PathGradientBrushBase क्लास। बेस पाथ ग्रेडिएंट कार्यक्षमता वाला ब्रश दर्शाता है।"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd.brushes/pathgradientbrushbase/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase class
 
-एक का प्रतिनिधित्व करता है[`Brush`](../../aspose.psd/brush/) आधार पथ ढाल कार्यक्षमता के साथ.
+बेस पाथ ग्रेडिएंट कार्यक्षमता वाला एक [`Brush`](../../aspose.psd/brush/) दर्शाता है।
 
 ```csharp
 public abstract class PathGradientBrushBase : TransformBrush
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | पथ ढाल का केंद्र बिंदु प्राप्त या सेट करता है। |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
-| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | ग्रेडिएंट फ़ॉलऑफ़ के लिए फ़ोकस पॉइंट प्राप्त या सेट करता है। |
-| [GraphicsPath](../../aspose.psd.brushes/pathgradientbrushbase/graphicspath/) { get; } | उस ग्राफ़िक्स पथ को प्राप्त करता है जिस पर यह ब्रश बनाया गया था। |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | एक मान प्राप्त करता है जो इंगित करता है कि परिवर्तन किसी तरह से बदले गए थे या नहीं। उदाहरण के लिए ट्रांसफ़ॉर्मेशन मैट्रिक्स सेट करना or ट्रांसफ़ॉर्मेशन मैट्रिक्स को बदलने के किसी भी तरीके को कॉल करना। GDI+. के साथ पिछड़े संगतता के लिए गुण पेश किया गया है |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | ब्रश अपारदर्शिता प्राप्त या सेट करता है। मान 0 और 1 के बीच होना चाहिए। 0 के मान का अर्थ है कि ब्रश पूरी तरह से दिखाई दे रहा है, 1 के मान का अर्थ है कि ब्रश पूरी तरह से अपारदर्शी है। |
-| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | उस पथ बिंदु को प्राप्त करता है जिस पर यह ब्रश बनाया गया था। |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | कॉपी प्राप्त या सेट करता है[`Matrix`](../../aspose.psd/matrix/) जो इसके लिए एक स्थानीय ज्यामितीय परिवर्तन को परिभाषित करता है[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | हो जाता है या सेट करता है[`WrapMode`](../../aspose.psd/wrapmode/) एन्यूमरेशन जो इसके लिए रैप मोड को इंगित करता है[`TransformBrush`](../transformbrush/) . |
+| [CenterPoint](../../aspose.psd.brushes/pathgradientbrushbase/centerpoint/) { get; set; } | पाथ ग्रेडिएंट के केंद्र बिंदु को प्राप्त करता है या सेट करता है। |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
+| [FocusScales](../../aspose.psd.brushes/pathgradientbrushbase/focusscales/) { get; set; } | ग्रेडिएंट फॉलऑफ़ के लिए फोकस बिंदु को प्राप्त करता है या सेट करता है। |
+| [GraphicsPath](../../aspose.psd.brushes/pathgradientbrushbase/graphicspath/) { get; } | इस ब्रश द्वारा निर्मित ग्राफिक्स पाथ को प्राप्त करता है। |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि ट्रांसफ़ॉर्मेशन किसी न किसी तरह बदले गए थे या नहीं। उदाहरण के लिए, ट्रांसफ़ॉर्मेशन मैट्रिक्स सेट करना या ट्रांसफ़ॉर्मेशन मैट्रिक्स को बदलने वाले किसी भी मेथड को कॉल करना। यह प्रॉपर्टी GDI+ के साथ पीछे की संगतता के लिए पेश की गई है। |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | ब्रश की अपारदर्शिता प्राप्त करता है या सेट करता है। मान 0 और 1 के बीच होना चाहिए। 0 का मान मतलब ब्रश पूरी तरह से दिखाई देता है, 1 का मान मतलब ब्रश पूरी तरह से अपारदर्शी है। |
+| [PathPoints](../../aspose.psd.brushes/pathgradientbrushbase/pathpoints/) { get; } | इस ब्रश द्वारा निर्मित पाथ पॉइंट्स को प्राप्त करता है। |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | इस [`TransformBrush`](../transformbrush/) के लिए स्थानीय ज्यामितीय रूपांतरण को परिभाषित करने वाली एक प्रति [`Matrix`](../../aspose.psd/matrix/) को प्राप्त करता है या सेट करता है। |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | इस [`TransformBrush`](../transformbrush/) के लिए रैप मोड को दर्शाने वाली एक [`WrapMode`](../../aspose.psd/wrapmode/) एन्यूमरेशन को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | वर्तमान का एक नया गहरा क्लोन बनाता है[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | गुणा करता है[`Matrix`](../../aspose.psd/matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`LinearGradientBrush`](../lineargradientbrush/) निर्दिष्ट द्वारा[`Matrix`](../../aspose.psd/matrix/) निर्दिष्ट तैयार करके[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | गुणा करता है[`Matrix`](../../aspose.psd/matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`LinearGradientBrush`](../lineargradientbrush/) निर्दिष्ट द्वारा[`Matrix`](../../aspose.psd/matrix/) निर्दिष्ट क्रम में. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | रीसेट करता है[`Transform`](../transformbrush/transform/) पहचान के लिए संपत्ति। |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | निर्दिष्ट राशि से स्थानीय ज्यामितीय परिवर्तन को घुमाता है। यह विधि रोटेशन को परिवर्तन से पहले जोड़ती है। |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | निर्दिष्ट क्रम में निर्दिष्ट राशि द्वारा स्थानीय ज्यामितीय परिवर्तन को घुमाता है। |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | निर्दिष्ट राशियों द्वारा स्थानीय ज्यामितीय परिवर्तन को मापता है। यह विधि स्केलिंग मैट्रिक्स को ट्रांसफ़ॉर्म करने के लिए तैयार करती है। |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | निर्दिष्ट क्रम में निर्दिष्ट मात्रा द्वारा स्थानीय ज्यामितीय परिवर्तन को स्केल करता है। |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | निर्दिष्ट आयामों द्वारा स्थानीय ज्यामितीय परिवर्तन का अनुवाद करता है। यह विधि ट्रांस्फ़ॉर्म के लिए अनुवाद को आगे बढ़ाती है. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | निर्दिष्ट क्रम में निर्दिष्ट आयामों द्वारा स्थानीय ज्यामितीय परिवर्तन का अनुवाद करता है। |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | वर्तमान [`Brush`](../../aspose.psd/brush/) की एक नई डीप क्लोन बनाता है। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | इस [`LinearGradientBrush`](../lineargradientbrush/) के स्थानीय ज्यामितीय रूपांतरण को दर्शाने वाले [`Matrix`](../../aspose.psd/matrix/) को निर्दिष्ट किए गए [`Matrix`](../../aspose.psd/matrix/) से गुणा करता है, निर्दिष्ट किए गए [`Matrix`](../../aspose.psd/matrix/) को पहले जोड़कर। |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | इस [`LinearGradientBrush`](../lineargradientbrush/) के स्थानीय ज्यामितीय रूपांतरण को दर्शाने वाले [`Matrix`](../../aspose.psd/matrix/) को निर्दिष्ट किए गए क्रम में निर्दिष्ट किए गए [`Matrix`](../../aspose.psd/matrix/) से गुणा करता है। |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | [`Transform`](../transformbrush/transform/) प्रॉपर्टी को पहचान पर रीसेट करता है। |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट मात्रा से घुमाता है। यह मेथड घूर्णन को रूपांतरण के पहले जोड़ता है। |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट क्रम में निर्दिष्ट मात्रा से घुमाता है। |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट मात्राओं से स्केल करता है। यह मेथड स्केलिंग मैट्रिक्स को रूपांतरण के पहले जोड़ता है। |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट क्रम में निर्दिष्ट मात्राओं से स्केल करता है। |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट आयामों से अनुवादित करता है। यह मेथड ट्रांसलेशन को रूपांतरण के पहले जोड़ता है। |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट क्रम में निर्दिष्ट आयामों से अनुवादित करता है। |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-ध्यान दें कि बनाते समय`PathGradientBrushBase` कक्षा इसे कम से कम 2 बिंदुओं के साथ प्रारंभ किया जाना चाहिए। बनाया गया आंतरिक पथ हमेशा एक बंद आंकड़ा होगा, अंतिम बिंदु पहले बिंदु को जोड़ता है। इसी से वह आकृति भर जाती है`PathGradientBrushBase`. GDI+ कार्यान्वयन एक फेंकता हैOutOfMemoryException खाली सरणियों या समान निर्देशांक वाले बिंदुओं में गुजरते समय। द`PathGradientBrushBase` एक अपवाद फेंकता है जब बिंदु सरणी में 2 अंक से कम होते हैं,ArgumentException is इसके बजाय फेंका गयाOutOfMemoryException जब बिंदु सरणी अस्वीकार्य है। केंद्र बिंदु की गणना डिफ़ॉल्ट रूप से पारित बिंदुओं के द्रव्यमान के केंद्र के रूप में की जाती है। एक उपयोगकर्ता इस बिंदु को बाद में बदल सकता है। फोकस स्केल डिफ़ॉल्ट रूप से एक खाली बिंदु (0.0, 0.0) है।
+ध्यान दें कि `PathGradientBrushBase` क्लास बनाते समय इसे कम से कम 2 बिंदुओं से प्रारंभ किया जाना चाहिए। निर्मित आंतरिक पाथ हमेशा एक बंद आकृति होगी, अंतिम बिंदु पहला बिंदु से जुड़ता है। वह आकार इस `PathGradientBrushBase` से भरा जाता है। GDI+ कार्यान्वयन खाली एरे या समान निर्देशांक वाले बिंदुओं के सेट को पास करने पर OutOfMemoryException फेंकता है। जब बिंदुओं की एरे में 2 से कम बिंदु होते हैं तो `PathGradientBrushBase` एक अपवाद फेंकता है; ऐसे मामलों में ArgumentException फेंका जाता है, OutOfMemoryException नहीं। केंद्र बिंदु डिफ़ॉल्ट रूप से पास किए गए बिंदुओं के द्रव्यमान के केंद्र के रूप में गणना किया जाता है। उपयोगकर्ता बाद में इस बिंदु को बदल सकता है। फोकस स्केल डिफ़ॉल्ट रूप से एक खाली बिंदु (0.0, 0.0) है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransformBrush](../transformbrush/)
-* नाम स्थान [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

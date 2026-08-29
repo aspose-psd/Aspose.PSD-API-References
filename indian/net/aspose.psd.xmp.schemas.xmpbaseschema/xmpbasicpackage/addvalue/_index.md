@@ -1,34 +1,35 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage तरक. स्ट्रंग गुण जड़त है.
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage मेथड। स्ट्रिंग प्रॉपर्टी जोड़ता है"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
-स्ट्रिंग गुण जोड़ता है.
+स्ट्रिंग प्रॉपर्टी जोड़ता है।
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जो अतिरिक्त मूल्य के साथ पहचाना जाता है। |
-| value | String | स्ट्रिंग मान। |
+| कुंजी | String | जोड़े गए मान के साथ पहचाने गए कुंजी का स्ट्रिंग प्रतिनिधित्व। |
+| मान | String | स्ट्रिंग मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कुंजी; मेटाडेटा कुंजी प्रदान नहीं की गई है |
+| ArgumentNullException | key;मेटाडेटा कुंजी प्रदान नहीं की गई |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

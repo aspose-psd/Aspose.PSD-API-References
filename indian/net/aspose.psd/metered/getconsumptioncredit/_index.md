@@ -1,11 +1,12 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Metered तरक. उपभग क्रेडट प्रप्त करत है
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Metered विधि। उपभोग क्रेडिट प्राप्त करती है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
 उपभोग क्रेडिट प्राप्त करता है
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/metered/getconsumptioncredit/
 public static decimal GetConsumptionCredit()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-खपत मात्रा
+उपभोग मात्रा
 
-### यह सभी देखें
+### देखें भी
 
 * class [Metered](../)
-* नाम स्थान [Aspose.PSD](../../metered/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

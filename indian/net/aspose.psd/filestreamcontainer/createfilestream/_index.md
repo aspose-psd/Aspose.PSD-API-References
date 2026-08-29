@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileStreamContainer तरक. एक नई फ़इल स्ट्रम बनत है
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileStreamContainer मेथड। एक नया फ़ाइल स्ट्रीम बनाता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
 एक नई फ़ाइल स्ट्रीम बनाता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd/filestreamcontainer/createfilestream/
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fileLocation | String | फ़ाइल स्थान। |
-| isTemporal | Boolean | अगर सेट है`सत्य` फ़ाइल स्ट्रीम कंटेनर अस्थायी है। |
+| isTemporal | बूलियन | यदि `true` सेट किया गया है तो फ़ाइल स्ट्रीम कंटेनर अस्थायी है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 फ़ाइल स्ट्रीम कंटेनर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

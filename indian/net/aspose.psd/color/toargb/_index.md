@@ -1,27 +1,28 @@
 ---
-title: Color.ToArgb
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. इसक 32बट ARGB मन प्रप्त करत हैColorसंरचन.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color विधि। इस Color संरचना का 32-बिट ARGB मान प्राप्त करता है"
 type: docs
 weight: 1590
 url: /hi/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-इसका 32-बिट ARGB मान प्राप्त करता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना का 32-बिट ARGB मान प्राप्त करता है।
 
 ```csharp
 public int ToArgb()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसका 32-बिट ARGB मान[`Color`](../).
+इस [`Color`](../) का 32-बिट ARGB मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

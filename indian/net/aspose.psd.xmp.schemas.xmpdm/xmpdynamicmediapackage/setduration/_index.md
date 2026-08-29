@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetDuration
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. अवध नर्धरत करत है
+title: "XmpDynamicMediaPackage.SetDuration"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। अवधि सेट करता है"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDuration method
 
-अवधि निर्धारित करता है।
+अवधि को सेट करता है।
 
 ```csharp
 public void SetDuration(Time duration)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| duration | Time | अवधि। |
+| अवधि | समय | अवधि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

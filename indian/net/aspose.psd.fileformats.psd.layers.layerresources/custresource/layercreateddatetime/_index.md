@@ -1,27 +1,28 @@
 ---
-title: CustResource.LayerCreatedDateTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustResource संपत्त. परत नर्मत हने क तथ प्रप्त य सेट करत है.
+title: "CustResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustResource प्रॉपर्टी। लेयर बनायी गई तिथि प्राप्त या सेट करता है।"
 type: docs
-weight: 30
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## CustResource.LayerCreatedDateTime property
 
-परत निर्मित होने की तिथि प्राप्त या सेट करता है.
+लेयर बनाये जाने की तिथि को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत बनने की तारीख.
+लेयर बनायी गई तिथि।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CustResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

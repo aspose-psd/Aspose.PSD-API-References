@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेयर मस्क डेट प्रप्त य सेट करत है
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर मास्क डेटा को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 220
+weight: 230
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-लेयर मास्क डेटा प्राप्त या सेट करता है।
+लेयर मास्क डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर मास्क डेटा.
+लेयर मास्क डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

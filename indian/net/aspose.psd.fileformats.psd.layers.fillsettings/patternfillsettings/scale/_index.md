@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. स्केल प्रप्त करत है य सेट करत है
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी। स्केल प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-स्केल प्राप्त करता है या सेट करता है।
+स्केल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पैमाना।
+स्केल।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भरण परत पैटर्न संपादन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड Fill Layer Pattern संपादन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

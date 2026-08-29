@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक स्टइल संस्करण प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक शैली संस्करण प्राप्त करता है या सेट करता है"
 type: docs
-weight: 220
+weight: 200
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-स्ट्रोक स्टाइल संस्करण प्राप्त या सेट करता है।
+स्ट्रोक शैली संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

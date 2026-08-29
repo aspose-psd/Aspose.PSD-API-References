@@ -1,28 +1,29 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection तरक. रेखपुंज छव जड़त है
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection मेथड। रास्टर इमेज जोड़ता है"
 type: docs
-weight: 140
+weight: 160
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
-रेखापुंज छवि जोड़ता है।
+रास्टर छवि जोड़ता है।
 
 ```csharp
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rasterImage | AiRasterImageSection | रेखापुंज छवि। |
+| rasterImage | AiRasterImageSection | रास्टर इमेज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

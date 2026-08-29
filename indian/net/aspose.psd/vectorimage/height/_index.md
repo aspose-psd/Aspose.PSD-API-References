@@ -1,27 +1,28 @@
 ---
-title: VectorImage.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorImage संपत्त. छव ऊंचई प्रप्त करत है
+title: "VectorImage.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorImage property. छवि की ऊँचाई प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/vectorimage/height/
 ---
+{{< psd/tize >}}
 ## VectorImage.Height property
 
-छवि ऊंचाई प्राप्त करता है।
+छवि की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public override int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि ऊंचाई.
+चित्र की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorImage](../)
-* नाम स्थान [Aspose.PSD](../../vectorimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

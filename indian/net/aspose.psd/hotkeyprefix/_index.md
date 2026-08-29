@@ -1,14 +1,15 @@
 ---
-title: Enum HotkeyPrefix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.HotkeyPrefix एनुम. पठ से संबंधत हटकुंज उपसर्गं के लए प्रदर्शन के प्रकर क नर्दष्ट करत है
+title: "Enum HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.HotkeyPrefix enum. टेक्स्ट से संबंधित हॉटकी प्रीफ़िक्स के प्रदर्शन प्रकार को निर्दिष्ट करता है।"
 type: docs
-weight: 4350
+weight: 4820
 url: /hi/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-पाठ से संबंधित हॉट-कुंजी उपसर्गों के लिए प्रदर्शन के प्रकार को निर्दिष्ट करता है।
+टेक्स्ट से संबंधित हॉट-की प्रीफ़िक्स के प्रदर्शन प्रकार को निर्दिष्ट करता है।
 
 ```csharp
 public enum HotkeyPrefix
@@ -16,15 +17,15 @@ public enum HotkeyPrefix
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | कोई हॉट-कुंजी उपसर्ग नहीं। |
-| Show | `1` | हॉट-कुंजी उपसर्ग प्रदर्शित करें। |
-| Hide | `2` | हॉट-कुंजी उपसर्ग प्रदर्शित न करें। |
+| None | `0` | कोई हॉट-की प्रीफ़िक्स नहीं। |
+| Show | `1` | हॉट-की प्रीफ़िक्स प्रदर्शित करें। |
+| Hide | `2` | हॉट-की प्रीफ़िक्स न प्रदर्शित करें। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

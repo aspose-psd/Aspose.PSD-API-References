@@ -1,65 +1,66 @@
 ---
-title: AiImage.Resize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage तरक. छव क आकर बदलत है
+title: "AiImage.Resize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage मेथड। छवि को रिसाइज़ करता है।"
 type: docs
-weight: 150
+weight: 180
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-छवि का आकार बदलता है।
+इमेज का आकार बदलता है।
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| newHeight | Int32 | नई ऊंचाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | रिसाइज़ प्रकार। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| NotImplementedException | &gt; लागू नहीं किया गया |
+| NotImplementedException | &gt;लागू नहीं किया गया |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-छवि का आकार बदलता है।
+इमेज का आकार बदलता है।
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| newHeight | Int32 | नई ऊंचाई। |
-| settings | ImageResizeSettings | आकार बदलें सेटिंग्स। |
+| newHeight | Int32 | नई ऊँचाई। |
+| सेटिंग्स | ImageResizeSettings | रिसाइज़ सेटिंग्स। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| NotImplementedException | &gt; लागू नहीं किया गया |
+| NotImplementedException | &gt;लागू नहीं किया गया |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

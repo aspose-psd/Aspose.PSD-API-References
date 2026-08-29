@@ -1,64 +1,65 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैPsdOptions वर्ग.
+title: "PsdOptions.PsdOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions कंस्ट्रक्टर। PsdOptions क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdOptions`](../) वर्ग.
+[`PsdOptions`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PsdOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdOptions`](../) वर्ग.
+[`PsdOptions`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PsdOptions(PsdOptions options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| options | PsdOptions | विकल्प। |
+| विकल्प | PsdOptions | विकल्प। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdOptions`](../) वर्ग.
+[`PsdOptions`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PsdOptions(PsdImage image)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| image | PsdImage | छवि। |
+| छवि | PsdImage | छवि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

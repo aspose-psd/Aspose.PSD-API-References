@@ -1,51 +1,52 @@
 ---
-title: Matrix.Translate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix तरक. नर्दष्ट अनुवद वेक्टर क नर्दष्ट क्रम में इस मैट्रक्स पर लगू करत है
+title: "Matrix.Translate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix मेथड। निर्दिष्ट क्रम में इस मैट्रिक्स पर निर्दिष्ट ट्रांसलेशन वेक्टर लागू करता है।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/matrix/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-निर्दिष्ट अनुवाद वेक्टर को निर्दिष्ट क्रम में इस मैट्रिक्स पर लागू करता है।
+निर्दिष्ट अनुवाद वेक्टर को इस Matrix पर निर्दिष्ट क्रम में लागू करता है।
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| offsetX | Single | ऑफसेट एक्स. |
-| offsetY | Single | ऑफसेट वाई. |
-| order | MatrixOrder | आदेश। |
+| offsetX | Single | ऑफ़सेट X। |
+| offsetY | Single | ऑफ़सेट Y। |
+| order | MatrixOrder | क्रम। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(float, float) {#translate}
 
-निर्दिष्ट अनुवाद वेक्टर को इसमें लागू करता है[`Matrix`](../) (डिफ़ॉल्ट) का उपयोग करके प्रीपेंड ऑर्डर.
+निर्दिष्ट ट्रांसलेशन वेक्टर को इस [`Matrix`](../) पर (डिफ़ॉल्ट) Prepend क्रम का उपयोग करके लागू करता है।
 
 ```csharp
 public void Translate(float tx, float ty)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tx | Single | टीएक्स। टीएक्स। टीएक्स। |
-| ty | Single | टाई। टाई। टाई। |
+| tx | Single | यह tx। यह tx। यह tx। |
+| ty | Single | यह ty। यह ty। यह ty। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

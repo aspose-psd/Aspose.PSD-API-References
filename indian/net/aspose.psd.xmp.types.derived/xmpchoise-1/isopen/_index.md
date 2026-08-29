@@ -1,27 +1,28 @@
 ---
-title: XmpChoise1.IsOpen
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpChoise संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क पसंदद मनं क बढ़य ज सकत है य नहं
+title: "XmpChoise1.IsOpen"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpChoise property. यह दर्शाने वाला मान प्राप्त या सेट करता है कि पसंदीदा मानों का विस्तार किया जा सकता है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.derived/xmpchoise-1/isopen/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.IsOpen property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि पसंदीदा मानों को बढ़ाया जा सकता है या नहीं।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि पसंदीदा मानों का विस्तार किया जा सकता है या नहीं।
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर पसंदीदा मान बढ़ाया जा सकता है; अन्यथा,`असत्य` .
+`true` यदि पसंदीदा मानों का विस्तार किया जा सकता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpChoise&lt;T&gt;](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

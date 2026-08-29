@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके सथ खंच गई धरशय रेखओं के लए उपयग क जने वल शैल क प्रप्त य सेट करत हैPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen द्वारा खींची गई डैश्ड लाइनों के लिए उपयोग की जाने वाली शैली को प्राप्त या सेट करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-इसके साथ खींची गई धराशायी रेखाओं के लिए उपयोग की जाने वाली शैली को प्राप्त या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) द्वारा खींची गई डैश्ड लाइनों के लिए उपयोग की जाने वाली शैली को प्राप्त या सेट करता है।
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए`DashStyle` जो इसके साथ खींची गई धराशायी रेखाओं के लिए उपयोग की जाने वाली शैली का प्रतिनिधित्व करता है[`Pen`](../).
+`DashStyle` वह शैली है जो इस [`Pen`](../) द्वारा खींची गई डैश्ड लाइनों के लिए उपयोग की जाती है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `DashStyle` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | यह `DashStyle` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि उन [`Pen`](../) क्लास द्वारा लौटाए गए हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

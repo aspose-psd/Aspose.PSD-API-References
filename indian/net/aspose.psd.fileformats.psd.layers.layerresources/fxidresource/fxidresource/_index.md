@@ -1,28 +1,29 @@
 ---
-title: FXidResource.FXidResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FXidResource नर्मत. क एक नय उदहरण प्ररंभ करत हैFXidResource वर्ग.
+title: "FXidResource.FXidResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FXidResource कंस्ट्रक्टर। FXidResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`FXidResource`](../) वर्ग.
+[`FXidResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FXidResource(int key, int version, FilterEffectMaskData[] filterEffectMasks)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | Int32 | संसाधन कुंजी। |
-| version | Int32 | संस्करण। |
+| कुंजी | Int32 | संसाधन कुंजी। |
+| संस्करण | Int32 | संस्करण. |
 | filterEffectMasks | FilterEffectMaskData[] | फ़िल्टर प्रभाव मास्क। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि FXidResource संसाधन के गुणों को कैसे प्राप्त और सेट किया जाए।
+यह उदाहरण दिखाता है कि FXidResource संसाधन की गुणों को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -54,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// सेव करने के बाद चेक करें
+// सहेजने के बाद जाँच करें
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -67,11 +68,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

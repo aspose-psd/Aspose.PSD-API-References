@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesMagentaGreenBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlncResource संपत्त. मडटन मैजेंट ग्रन बैलेंस प्रप्त य सेट करत है
+title: "BlncResource.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlncResource प्रॉपर्टी। मिडटोन्स मैजेंटा ग्रीन बैलेंस प्राप्त करता है या सेट करता है"
 type: docs
-weight: 80
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesMagentaGreenBalance property
 
-मिडटोन मैजेंटा ग्रीन बैलेंस प्राप्त या सेट करता है।
+मिडटोन मैजेंटा ग्रीन बैलेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द मिडटोन्स मैजेंटा ग्रीन बैलेंस।
+यह Midtones Magenta Green Balance।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlncResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

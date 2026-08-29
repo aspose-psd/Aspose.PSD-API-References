@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientFillSettings संपत्त. स्केल प्रप्त करत है य सेट करत है
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientFillSettings प्रॉपर्टी। प्रतिशत में सामान्यीकृत ग्रेडिएंट स्केल प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-स्केल प्राप्त करता है या सेट करता है।
+**normalized** ग्रेडिएंट स्केल (प्रतिशत में) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पैमाना।
+स्केल।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | स्केल 1 से 1000 के बीच होना चाहिए। |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | स्केल 1 से 1000 की सीमा में होना चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

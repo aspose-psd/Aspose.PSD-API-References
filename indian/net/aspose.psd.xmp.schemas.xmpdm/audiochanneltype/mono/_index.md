@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType संपत्त. मन ऑडय चैनल प्रप्त करत है
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType property. मोनो ऑडियो चैनल प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 मोनो ऑडियो चैनल प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 public static AudioChannelType Mono { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मोनो ऑडियो चैनल.
+मोनो ऑडियो चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

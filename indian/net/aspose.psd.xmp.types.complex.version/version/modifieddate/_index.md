@@ -1,27 +1,28 @@
 ---
-title: Version.ModifiedDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Version संपत्त. संशधत दनंक प्रप्त य सेट करत है
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Version प्रॉपर्टी। संशोधित तिथि को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
-संशोधित दिनांक प्राप्त या सेट करता है।
+संशोधित तिथि को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public DateTime ModifiedDate { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संशोधित तिथि।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Version](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

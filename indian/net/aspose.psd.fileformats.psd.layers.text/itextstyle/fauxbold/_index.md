@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.FauxBold
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. ह जत है य गलत बल्ड सक्षम है सेट करत है
+title: "ITextStyle.FauxBold"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। फ़ॉक्स बोल्ड सक्षम है या नहीं, प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxBold property
 
-हो जाता है या गलत बोल्ड सक्षम है सेट करता है।
+फ़ॉक्स बोल्ड को सक्षम होने के लिए प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool FauxBold { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. नर्दष्ट क एक बढ़ हुई प्रत बनत है और लटत हैRectangleसंरचन कप नर्दष्ट रश से फुलय जत है मूलRectangle संरचन अपरवर्तत बन हुई है
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle विधि. निर्दिष्ट Rectangle संरचना की एक फुली हुई प्रति बनाता और लौटाता है। प्रति निर्दिष्ट मात्रा से फुली हुई है। मूल Rectangle संरचना अपरिवर्तित रहती है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-निर्दिष्ट की एक बढ़ी हुई प्रति बनाता है और लौटाता है[`Rectangle`](../)संरचना। कॉपी निर्दिष्ट राशि से फुलाया जाता है। मूल[`Rectangle`](../) संरचना अपरिवर्तित बनी हुई है।
+निर्दिष्ट [`Rectangle`](../) संरचना की एक फुली हुई प्रति बनाता और लौटाता है। प्रति निर्दिष्ट मात्रा से फुली हुई है। मूल [`Rectangle`](../) संरचना अपरिवर्तित रहती है।
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../) जिसके साथ शुरू करना है। यह आयत संशोधित नहीं है। |
-| x | Int32 | इसे फुलाए जाने की राशि[`Rectangle`](../) क्षैतिज रूप से। |
-| y | Int32 | इसे फुलाए जाने की राशि[`Rectangle`](../) लंबवत। |
+| rect | Rectangle | शुरू करने के लिए उपयोग किया जाने वाला [`Rectangle`](../)। यह आयत अपरिवर्तित रहती है। |
+| x | Int32 | इस [`Rectangle`](../) को क्षैतिज रूप से फुलाने की मात्रा। |
+| y | Int32 | इस [`Rectangle`](../) को लंबवत रूप से फुलाने की मात्रा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फुलाया हुआ[`Rectangle`](../).
+फुली हुई [`Rectangle`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-इसे फुलाता है[`Rectangle`](../)निर्दिष्ट राशि से.
+निर्दिष्ट मात्रा से इस [`Rectangle`](../) को फुलाता है।
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Int32 | इसे फुलाए जाने की राशि[`Rectangle`](../) क्षैतिज रूप से। |
-| height | Int32 | इसे फुलाए जाने की राशि[`Rectangle`](../) लंबवत। |
+| width | Int32 | इस [`Rectangle`](../) को क्षैतिज रूप से फुलाने की मात्रा। |
+| height | Int32 | इस [`Rectangle`](../) को लंबवत रूप से फुलाने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-इसे फुलाता है[`Rectangle`](../)निर्दिष्ट राशि से.
+निर्दिष्ट मात्रा से इस [`Rectangle`](../) को फुलाता है।
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | Size | इस आयत को फुलाने के लिए राशि। |
+| आकार | आकार | इस आयत को फुलाने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

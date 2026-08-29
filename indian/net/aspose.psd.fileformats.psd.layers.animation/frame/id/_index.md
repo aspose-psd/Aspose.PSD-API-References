@@ -1,23 +1,24 @@
 ---
-title: Frame.Id
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Frame संपत्त. फ्रेम आईड प्रप्त य सेट करत है
+title: "Frame.Id"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Frame प्रॉपर्टी. फ्रेम आईडी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/frame/id/
 ---
+{{< psd/tize >}}
 ## Frame.Id property
 
-फ्रेम आईडी प्राप्त या सेट करता है।
+फ़्रेम आईडी को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Frame](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,125 +1,126 @@
 ---
-title: Graphics.DrawClosedCurve
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. एक सरण द्वर परभषत एक बंद कर्डनल स्पलइन बनत हैPointF संरचनएं यह वध 0.5 और के डफ़ल्ट तनव क उपयग करत हैAlternate भरण मड.
+title: "Graphics.DrawClosedCurve"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। PointF स्ट्रक्चर की एक एरे द्वारा परिभाषित बंद कार्डिनल स्प्लाइन को ड्रॉ करता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और Alternate फ़िल मोड का उपयोग करता है।"
 type: docs
-weight: 190
+weight: 200
 url: /hi/net/aspose.psd/graphics/drawclosedcurve/
 ---
+{{< psd/tize >}}
 ## DrawClosedCurve(Pen, PointF[]) {#drawclosedcurve}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन बनाता है[`PointF`](../../pointf/) संरचनाएं। यह विधि 0.5 और के डिफ़ॉल्ट तनाव का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`PointF`](../../pointf/) स्ट्रक्चर द्वारा परिभाषित बंद कार्डिनल स्प्लाइन को ड्रॉ करता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और Alternate फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और ऊंचाई को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो वक्र का रंग, चौड़ाई और ऊँचाई निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, PointF[], float) {#drawclosedcurve_1}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन बनाता है[`PointF`](../../pointf/) एक निर्दिष्ट तनाव का उपयोग कर संरचनाएं। यह विधि डिफ़ॉल्ट का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`PointF`](../../pointf/) स्ट्रक्चर द्वारा परिभाषित बंद कार्डिनल स्प्लाइन को निर्दिष्ट टेंशन के साथ ड्रॉ करता है। यह मेथड डिफ़ॉल्ट Alternate फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और ऊंचाई को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| tension | Single | 0.0F से अधिक या उसके बराबर मान जो वक्र के तनाव को निर्दिष्ट करता है। |
+| pen | Pen | [`Pen`](../../pen/) जो वक्र का रंग, चौड़ाई और ऊँचाई निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| तनाव | Single | 0.0F या उससे अधिक का मान जो वक्र की टेंशन को निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[]) {#drawclosedcurve_2}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन बनाता है[`Point`](../../point/) संरचनाएं। यह विधि 0.5 और के डिफ़ॉल्ट तनाव का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`Point`](../../point/) स्ट्रक्चर द्वारा परिभाषित बंद कार्डिनल स्प्लाइन को ड्रॉ करता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और Alternate फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और ऊंचाई को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो वक्र का रंग, चौड़ाई और ऊँचाई निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[], float) {#drawclosedcurve_3}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन बनाता है[`Point`](../../point/) एक निर्दिष्ट तनाव का उपयोग कर संरचनाएं। यह विधि डिफ़ॉल्ट का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`Point`](../../point/) स्ट्रक्चर द्वारा परिभाषित बंद कार्डिनल स्प्लाइन को निर्दिष्ट टेंशन के साथ ड्रॉ करता है। यह मेथड डिफ़ॉल्ट Alternate फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और ऊंचाई को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| tension | Single | 0.0F से अधिक या उसके बराबर मान जो वक्र के तनाव को निर्दिष्ट करता है। |
+| pen | Pen | [`Pen`](../../pen/) जो वक्र का रंग, चौड़ाई और ऊँचाई निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| तनाव | Single | 0.0F या उससे अधिक का मान जो वक्र की टेंशन को निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

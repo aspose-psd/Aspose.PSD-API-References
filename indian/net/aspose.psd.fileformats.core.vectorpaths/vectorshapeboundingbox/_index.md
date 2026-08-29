@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox कक्ष. वेक्टर शेप बउंडंग बक्स क्लस क परभषत करत है
+title: "क्लास VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox क्लास। वेक्टर आकार बाउंडिंग बॉक्स क्लास को परिभाषित करता है।"
 type: docs
-weight: 1430
+weight: 1440
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
-वेक्टर शेप बाउंडिंग बॉक्स क्लास को परिभाषित करता है।
+वेक्टर शैप बाउंडिंग बॉक्स क्लास को परिभाषित करता है।
 
 ```csharp
 public sealed class VectorShapeBoundingBox
@@ -18,27 +19,28 @@ public sealed class VectorShapeBoundingBox
 
 | नाम | विवरण |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | नीचे जाता है या सेट करता है। |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | शेप बाउंडिंग बॉक्स की सीमा प्राप्त या सेट करता है। |
-| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | बाएं हो जाता है या सेट करता है। |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | इकाई मान क्वाड संस्करण प्राप्त या सेट करता है। |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | सही हो जाता है या सेट हो जाता है। |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | शीर्ष प्राप्त करता है या सेट करता है। |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | नीचे को प्राप्त करता है या सेट करता है। |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | आकार बाउंडिंग बॉक्स की सीमाओं को प्राप्त करता है या सेट करता है। |
+| [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | बाएँ को प्राप्त करता है या सेट करता है। |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | बॉक्स के कोनों को निर्धारित करने वाले पॉइंट्स की इकाई प्रकार को प्राप्त करता है या सेट करता है। |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | इकाई मान क्वाड संस्करण को प्राप्त करता है या सेट करता है। |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | दाएँ को प्राप्त करता है या सेट करता है। |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | ऊपर को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि आकार परतों और सदिश पथों के साथ PSD छवि को लोड करना और सहेजना सही ढंग से काम करता है।
+यह उदाहरण दर्शाता है कि आकार लेयर और वेक्टर पाथ के साथ PSD छवि को लोड और सहेजना सही ढंग से काम करता है।
 
 ```csharp
 [C#]
 
-// यह उदाहरण प्रदर्शित करता है कि आकार परतों और सदिश पथों के साथ PSD छवि को लोड करना और सहेजना सही ढंग से काम करता है।
+// यह उदाहरण दर्शाता है कि आकार लेयर और वेक्टर पाथ के साथ PSD छवि को लोड और सहेजना सही ढंग से काम करता है।
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

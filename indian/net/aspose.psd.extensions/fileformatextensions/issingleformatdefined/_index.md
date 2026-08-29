@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileFormatExtensions तरक. नर्धरत करत है क एकल फ़इल प्ररूप परभषत है य नहं
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileFormatExtensions मेथड। निर्धारित करता है कि क्या एकल फ़ाइल फ़ॉर्मेट परिभाषित है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-निर्धारित करता है कि एकल फ़ाइल प्रारूप परिभाषित है या नहीं।
+निर्धारित करता है कि क्या एकल फ़ाइल फ़ॉर्मेट परिभाषित है।
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fileFormat | FileFormat | जांच करने के लिए फ़ाइल स्वरूप। |
+| fileFormat | FileFormat | जाँचने के लिए फ़ाइल फ़ॉर्मेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि एकल फ़ाइल स्वरूप परिभाषित किया गया है; अन्यथा,`असत्य` .
+`True` यदि एकल फ़ाइल फ़ॉर्मेट परिभाषित है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../fileformatextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

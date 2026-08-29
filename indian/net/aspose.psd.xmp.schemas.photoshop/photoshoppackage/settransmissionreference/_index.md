@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. ट्रंसमशन संदर्भ सेट करत है
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। ट्रांसमिशन रेफ़रेंस सेट करता है"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
-ट्रांसमिशन संदर्भ सेट करता है।
+प्रसारण संदर्भ को सेट करता है।
 
 ```csharp
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| transmissionReference | String | संचरण संदर्भ। |
+| transmissionReference | String | ट्रांसमिशन रेफ़रेंस। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

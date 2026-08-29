@@ -1,31 +1,32 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData तरक. EXIF डेट क क्रमबद्ध करत है टैग मन और समग्र लखत है थंबनेल टैग समग्र सबसे प्रभवशल आकर टैग है
+title: "JpegExifData.SerializeExifData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData method. EXIF डेटा को सीरियलाइज़ करता है। टैग मान और सामग्री लिखता है। सबसे अधिक आकार को प्रभावित करने वाला टैग थंबनेल टैग की सामग्री है"
 type: docs
 weight: 270
 url: /hi/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-EXIF डेटा को क्रमबद्ध करता है। टैग मान और सामग्री लिखता है। थंबनेल टैग सामग्री सबसे प्रभावशाली आकार टैग है।
+EXIF डेटा को सीरियलाइज़ करता है। टैग मान और सामग्री लिखता है। सबसे अधिक प्रभावी आकार टैग थंबनेल टैग सामग्री है।
 
 ```csharp
 public byte[] SerializeExifData()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-क्रमबद्ध EXIF डेटा।
+सीरियलाइज़्ड EXIF डेटा।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-सही jpeg छवि बनाने के लिए समग्र खंड का आकार MaxExifSegmentSize बाइट्स से कम या बराबर होना चाहिए।
+समग्र सेगमेंट आकार को सही jpeg छवि उत्पन्न करने के लिए MaxExifSegmentSize बाइट्स से कम या बराबर होना चाहिए। संकेत: यदि EXIF सेक्शन आकार बहुत बड़ा है तो थंबनेल आकार को कम करने या उसके संपीड़न को बदलने का प्रयास करें।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

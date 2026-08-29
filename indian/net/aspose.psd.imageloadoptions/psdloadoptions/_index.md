@@ -1,14 +1,15 @@
 ---
-title: Class PsdLoadOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions कक्ष. Psd लड वकल्प
+title: "क्लास PsdLoadOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageLoadOptions.PsdLoadOptions क्लास. Psd लोड विकल्प"
 type: docs
-weight: 4770
+weight: 5250
 url: /hi/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
-Psd लोड विकल्प
+PSD लोड विकल्प
 
 ```csharp
 public class PsdLoadOptions : LoadOptions
@@ -18,25 +19,27 @@ public class PsdLoadOptions : LoadOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [PsdLoadOptions](psdloadoptions/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [PsdLoadOptions](psdloadoptions/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | प्राप्त करता है या सेट करता है कि प्रदान की गई छवि को ताना परिवर्तन के साथ या उसके बिना सहेजना है या नहीं। |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | हो जाता है या सेट करता है[`Image`](../../aspose.psd/image/) पृष्ठभूमि[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | डेटा रिकवरी मोड प्राप्त या सेट करता है। |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | यह इंगित करने वाला मान प्राप्त या सेट करता है कि क्या [अल्फ़ा चैनल को अनदेखा करें]. |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि PSD पाठ परत निश्चित चौड़ाई को UpdateText ऑपरेशन निष्पादन पर अनदेखा किया जाएगा या नहीं। |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि [लोड प्रभाव संसाधन] (डिफ़ॉल्ट रूप से संसाधन लोड नहीं होता है)। इस विकल्प को सेट करने पर केवल समर्थित प्रभाव ही अंतिम मर्ज की गई छवि के लिए रेंडर किए जाएंगे. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | प्रगति ईवेंट हैंडलर प्राप्त या सेट करता है। |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि [केवल पढ़ने के लिए मोड का उपयोग करें]। यह रीड-ओनली मोड है, जो Adobe Photoshop के साथ समान संगतता के लिए समर्थित है। जब यह विकल्प सेट किया जाता है, तो परतों के लिए लागू किए गए सभी परिवर्तन अंतिम छवि में सहेजे नहीं जाएंगे। सभी डेटा का उपयोग इमेजडेटा सेक्शन से किया जाता है, इसलिए यह फोटोशॉप के समान है। डिफ़ॉल्ट रूप से सभी लोड की गई छवियां Adobe Photoshop संगत के समान नहीं हैं। |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि [लोड प्रभाव संसाधन के लिए डिस्क का उपयोग करें] (डिफ़ॉल्ट रूप से डिस्क का उपयोग प्रभाव संसाधन को लोड करने के लिए किया जाता है, लेकिन यदि यह मान गलत पर सेट करके पर्याप्त है तो मेमोरी का उपयोग किया जा सकता है)। |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | एक मान प्राप्त या सेट करता है जो दर्शाता है कि ICC प्रोफ़ाइल रूपांतरण लागू किया जाना चाहिए या नहीं। |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | यदि लेयर में कोई बदलाव नहीं किया गया है तो रेंडरिंग के दौरान मूल लेयर पिक्सेल को संरक्षित करना चाहिए या नहीं, इसे प्राप्त करता है या सेट करता है। |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | रेंडर की गई इमेज के साथ, वॉर्प ट्रांसफ़ॉर्म के साथ या बिना, सहेजना चाहिए या नहीं, इसे प्राप्त करता है या सेट करता है। |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | [`Image`](../../aspose.psd/image/) पृष्ठभूमि [`Color`](../../aspose.psd/color/) को प्राप्त करता है या सेट करता है। |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | डेटा रिकवरी मोड को प्राप्त करता है या सेट करता है। |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [अल्फा चैनल को अनदेखा करें]। |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि UpdateText ऑपरेशन के निष्पादन पर PSD टेक्स्ट लेयर की निश्चित चौड़ाई को अनदेखा किया जाएगा या नहीं। |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [इफ़ेक्ट्स रिसोर्स लोड करें] (डिफ़ॉल्ट रूप से रिसोर्स लोड नहीं होता)। जब यह विकल्प सेट किया जाता है, तो केवल समर्थित इफ़ेक्ट्स को अंतिम मर्ज्ड इमेज में रेंडर किया जाएगा। |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | प्रोग्रेस इवेंट हैंडलर को प्राप्त करता है या सेट करता है। |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [रीड‑ओनली मोड का उपयोग करें]। यह रीड‑ओनली मोड है, जो Adobe Photoshop के साथ समान संगतता के लिए समर्थित है। जब यह विकल्प सेट किया जाता है, तो लेयर्स पर लागू सभी परिवर्तन अंतिम इमेज में सहेजे नहीं जाते। सभी डेटा ImageData सेक्शन से उपयोग किया जाता है, इसलिए यह Photoshop के समान है। डिफ़ॉल्ट रूप से सभी लोड की गई इमेजेज Adobe Photoshop के साथ संगत नहीं होतीं। |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | PSD इमेज लोड करते समय उपयोग किए जाने वाले रीड‑ओनली मोड को प्राप्त करता है या सेट करता है। |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [इफ़ेक्ट्स रिसोर्स लोड करने के लिए डिस्क का उपयोग करें] (डिफ़ॉल्ट रूप से इफ़ेक्ट्स रिसोर्स लोड करने के लिए डिस्क उपयोग की जाती है, लेकिन यदि यह पर्याप्त हो तो इस मान को false सेट करके मेमोरी उपयोग की जा सकती है)। |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि ICC प्रोफ़ाइल रूपांतरण लागू किया जाना चाहिए या नहीं। |
 
-### उदाहरण
+## उदाहरण
 
 निम्न उदाहरण दर्शाता है कि दस्तावेज़ रूपांतरण प्रगति सही ढंग से और बिना किसी अपवाद के काम करती है।
 
@@ -82,10 +85,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* नाम स्थान [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

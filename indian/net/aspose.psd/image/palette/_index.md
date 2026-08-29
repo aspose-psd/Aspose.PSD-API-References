@@ -1,28 +1,29 @@
 ---
-title: Image.Palette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. कलर पैलेट प्रप्त य सेट करत है रंग पैलेट क उपयग तब नहं कय जत है जब पक्सेल क सधे प्रदर्शत कय जत है.
+title: "Image.Palette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। रंग पैलेट को प्राप्त या सेट करता है। जब पिक्सेल सीधे प्रतिनिधित्व किए जाते हैं तो रंग पैलेट का उपयोग नहीं किया जाता।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/image/palette/
 ---
+{{< psd/tize >}}
 ## Image.Palette property
 
-कलर पैलेट प्राप्त या सेट करता है। रंग पैलेट का उपयोग तब नहीं किया जाता है जब पिक्सेल को सीधे प्रदर्शित किया जाता है.
+रंग पैलेट को प्राप्त करता है या सेट करता है। जब पिक्सेल सीधे प्रतिनिधित्व किए जाते हैं तो रंग पैलेट का उपयोग नहीं किया जाता।
 
 ```csharp
 public IColorPalette Palette { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 रंग पैलेट।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

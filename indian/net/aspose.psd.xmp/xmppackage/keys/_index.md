@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Keys
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage संपत्त. XMP पैकेज में कुंज प्रप्त करत है
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage प्रॉपर्टी। XMP पैकेज में कुंजियों को प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
-XMP पैकेज में कुंजी प्राप्त करता है।
+XMP पैकेज में कुंजियों को प्राप्त करता है।
 
 ```csharp
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-XMP पैकेज में कुंजियाँ.
+XMP पैकेज में कुंजियां।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस मन प्रप्त य सेट करत है ज इंगत करत है क गंतव्य बंदु क अक्षंश उत्तर य दक्षण अक्षंश है
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS मान को प्राप्त करता है या सेट करता है जो दर्शाता है कि गंतव्य बिंदु की अक्षांश उत्तर है या दक्षिण अक्षांश"
 type: docs
 weight: 450
 url: /hi/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
-जीपीएस मान प्राप्त या सेट करता है जो इंगित करता है कि गंतव्य बिंदु का अक्षांश उत्तर या दक्षिण अक्षांश है।
+गंतव्य बिंदु की अक्षांश उत्तर या दक्षिण है यह दर्शाने वाले GPS मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस मान जो इंगित करता है कि गंतव्य बिंदु का अक्षांश उत्तर या दक्षिण अक्षांश है।
+GPS मान जो दर्शाता है कि गंतव्य बिंदु की अक्षांश उत्तर है या दक्षिण अक्षांश।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

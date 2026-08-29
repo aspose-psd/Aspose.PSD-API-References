@@ -1,39 +1,40 @@
 ---
-title: IText.ProducePortions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IText तरक. इनपुट य डफ़ल्ट पैरमटर के सथ नए हस्से तैयर करत है.
+title: "IText.ProducePortions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IText मेथड। इनपुट या डिफ़ॉल्ट पैरामीटर के साथ नए भाग उत्पन्न करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortions method
 
-इनपुट या डिफ़ॉल्ट पैरामीटर के साथ नए हिस्से तैयार करता है.
+इनपुट या डिफ़ॉल्ट पैरामीटर के साथ नई भाग उत्पन्न करता है।
 
 ```csharp
 public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle stylePrototype, 
     ITextParagraph paragraphPrototype)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| portionsOfText | String[] | नया बनाने के लिए पाठ के भाग[`ITextPortion`](../../itextportion/). |
-| stylePrototype | ITextStyle | एक शैली जो, यदि अशक्त नहीं है, नए में लागू की जाएगी, अन्यथा डिफ़ॉल्ट होगा। |
-| paragraphPrototype | ITextParagraph | एक पैराग्राफ जो, यदि शून्य नहीं है, नए में लागू किया जाएगा, अन्यथा डिफ़ॉल्ट होगा। |
+| portionsOfText | String[] | नए [`ITextPortion`](../../itextportion/) बनाने के लिए टेक्स्ट के भाग। |
+| stylePrototype | ITextStyle | एक स्टाइल जो, यदि नल नहीं है, तो नए [`ITextPortion`](../../itextportion/) में लागू होगी, अन्यथा डिफ़ॉल्ट होगी। |
+| paragraphPrototype | ITextParagraph | एक पैराग्राफ जो, यदि नल नहीं है, तो नए [`ITextPortion`](../../itextportion/) में लागू होगा, अन्यथा डिफ़ॉल्ट होगा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नए हिस्से लौटाता है[`ITextPortion`](../../itextportion/) इनपुट मापदंडों के आधार पर।
+इनपुट पैरामीटर के आधार पर नए भाग [`ITextPortion`](../../itextportion/) लौटाता है।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक पाठ परत में विभिन्न शैलियों को कैसे प्रस्तुत कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक टेक्स्ट लेयर में विभिन्न शैलियों को कैसे रेंडर कर सकते हैं।
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -56,12 +57,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // पाठ शैली संपादित करें "ई = एमसी"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // पाठ शैली संपादित करें "2\r"
-    newPortions[2].Style.FauxBold = true; // पाठ शैली संपादित करें "बोल्ड"
-    newPortions[3].Style.FauxItalic = true; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[3].Style.BaselineShift = -25; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // पाठ शैली संपादित करें "लोअरकेसटेक्स्ट"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -73,13 +74,13 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextPortion](../../itextportion/)
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

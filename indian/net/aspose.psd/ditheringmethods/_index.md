@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethods
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.DitheringMethods एनुम. रंग रूपंतरण क नयंत्रत करने के लए उपयग क जने वल डथरंग वधयँ
+title: "एनम DitheringMethods"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.DitheringMethods एनम। रंग रूपांतरण को नियंत्रित करने के लिए उपयोग की जाने वाली डिथरिंग विधियाँ।"
 type: docs
-weight: 780
+weight: 790
 url: /hi/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
 रंग रूपांतरण को नियंत्रित करने के लिए उपयोग की जाने वाली डिथरिंग विधियाँ।
@@ -16,15 +17,15 @@ public enum DitheringMethods
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | PaletteIgnore | `0` | पैलेट को अनदेखा किया गया है |
-| PaletteConversion | `1` | पैलेट को नजरअंदाज नहीं किया जाता है और बुद्धिमान रंग रूपांतरण लागू किया जाना चाहिए। |
-| CustomConverter | `2` | कस्टम कन्वर्टर. |
+| PaletteConversion | `1` | पैलेट को अनदेखा नहीं किया गया है और उचित रंग रूपांतरण लागू किया जाना चाहिए। |
+| CustomConverter | `2` | कस्टम कनवर्टर। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

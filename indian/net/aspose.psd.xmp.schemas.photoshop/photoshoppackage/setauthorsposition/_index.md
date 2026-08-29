@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. लेखकं क स्थत नर्धरत करत है
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड. लेखकों की स्थिति सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-लेखकों की स्थिति निर्धारित करता है।
+लेखकों की स्थिति सेट करता है।
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| authorsPosition | String | लेखकों की स्थिति। |
+| authorsPosition | String | लेखकों की स्थिति. |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

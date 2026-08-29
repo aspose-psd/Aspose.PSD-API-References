@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ProductMinor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. गण उत्पद संस्करण
+title: "BuildVersionInfo.ProductMinor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। छोटा उत्पाद संस्करण"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/buildversioninfo/productminor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMinor field
 
-गौण उत्पाद संस्करण।
+उप-उत्पाद संस्करण।
 
 ```csharp
 public static readonly int ProductMinor;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

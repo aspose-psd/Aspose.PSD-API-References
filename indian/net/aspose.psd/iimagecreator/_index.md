@@ -1,11 +1,12 @@
 ---
-title: Interface IImageCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IImageCreator इंटरफेस. छव नर्मत
+title: "इंटरफ़ेस IImageCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IImageCreator इंटरफ़ेस। इमेज क्रिएटर।"
 type: docs
-weight: 4400
+weight: 4870
 url: /hi/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
 छवि निर्माता।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd/iimagecreator/
 public interface IImageCreator
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | के साथ एक नया इमेज इंस्टेंस बनाता है*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | *imageOptions* के साथ एक नई इमेज इंस्टेंस बनाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

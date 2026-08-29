@@ -1,29 +1,30 @@
 ---
-title: TypeToolInfo6Resource.TypeToolInfo6Resource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource नर्मत. क एक नय उदहरण प्ररंभ करत हैTypeToolInfo6Resource वर्ग.
+title: "TypeToolInfo6Resource.TypeToolInfo6Resource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource कंस्ट्रक्टर। TypeToolInfo6Resource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolinfo6resource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`TypeToolInfo6Resource`](../) वर्ग.
+[`TypeToolInfo6Resource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | ClassID | कक्षा आईडी। |
-| warpClassID | ClassID | ताना वर्ग आईडी। |
+| classID | ClassID | क्लास आईडी। |
+| warpClassID | ClassID | वॉर्प क्लास ID। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

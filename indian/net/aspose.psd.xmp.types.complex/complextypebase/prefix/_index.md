@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.Prefix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ComplexTypeBase संपत्त. उपसर्ग प्रप्त करत है
+title: "ComplexTypeBase.Prefix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ComplexTypeBase प्रॉपर्टी। प्रीफ़िक्स को प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.complex/complextypebase/prefix/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.Prefix property
 
-उपसर्ग प्राप्त करता है।
+प्रिफिक्स को प्राप्त करता है।
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उपसर्ग।
+प्रीफ़िक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ComplexTypeBase](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

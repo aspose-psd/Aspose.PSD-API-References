@@ -1,127 +1,128 @@
 ---
-title: Graphics.DrawRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. द्वर नर्दष्ट एक आयत बनत हैRectangleFसंरचन.
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। एक RectangleF संरचना द्वारा निर्दिष्ट आयत को खींचता है।"
 type: docs
-weight: 300
+weight: 310
 url: /hi/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-द्वारा निर्दिष्ट एक आयत बनाता है[`RectangleF`](../../rectanglef/)संरचना.
+एक [`RectangleF`](../../rectanglef/) संरचना द्वारा निर्दिष्ट आयत को खींचता है।
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) जो आयत के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| rect | RectangleF | ए[`RectangleF`](../../rectanglef/) संरचना जो आकर्षित करने के लिए आयत का प्रतिनिधित्व करती है। |
+| pen | Pen | एक [`Pen`](../../pen/) जो आयत का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| rect | RectangleF | एक [`RectangleF`](../../rectanglef/) संरचना जो खींचने के लिए आयत का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-द्वारा निर्दिष्ट एक आयत बनाता है[`Rectangle`](../../rectangle/)संरचना.
+एक [`Rectangle`](../../rectangle/) संरचना द्वारा निर्दिष्ट आयत को खींचता है।
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) जो आयत के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| rect | Rectangle | ए[`Rectangle`](../../rectangle/) संरचना जो आकर्षित करने के लिए आयत का प्रतिनिधित्व करती है। |
+| pen | Pen | एक [`Pen`](../../pen/) जो आयत का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| rect | Rectangle | एक [`Rectangle`](../../rectangle/) संरचना जो खींचने के लिए आयत का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, float, float, float, float) {#drawrectangle_3}
 
-एक निर्देशांक जोड़ी, एक चौड़ाई और एक ऊंचाई द्वारा निर्दिष्ट एक आयत बनाता है।
+एक निर्देशांक युग्म, चौड़ाई और ऊँचाई द्वारा निर्दिष्ट आयत बनाती है।
 
 ```csharp
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) जो आयत के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| x | Single | आरेखित किए जाने वाले आयत के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| y | Single | आरेखित करने के लिए आयत के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| width | Single | आरेखित करने के लिए आयत की चौड़ाई। |
-| height | Single | ड्रा करने के लिए आयत की ऊंचाई। |
+| pen | Pen | एक [`Pen`](../../pen/) जो आयत का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| x | Single | खींचने के लिए आयत के ऊपर-बाएँ कोने का x-निर्देशांक। |
+| y | Single | खींचने के लिए आयत के ऊपर-बाएँ कोने का y-निर्देशांक। |
+| चौड़ाई | Single | ड्रॉ करने के लिए आयत की चौड़ाई। |
+| ऊँचाई | Single | ड्रॉ करने के लिए आयत की ऊँचाई। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, int, int, int, int) {#drawrectangle_2}
 
-एक निर्देशांक जोड़ी, एक चौड़ाई और एक ऊंचाई द्वारा निर्दिष्ट एक आयत बनाता है।
+एक निर्देशांक युग्म, चौड़ाई और ऊँचाई द्वारा निर्दिष्ट आयत बनाती है।
 
 ```csharp
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो आयत के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| x | Int32 | आरेखित किए जाने वाले आयत के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| y | Int32 | आरेखित करने के लिए आयत के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| width | Int32 | आरेखित करने के लिए आयत की चौड़ाई। |
-| height | Int32 | खींचने के लिए आयत की ऊँचाई। |
+| pen | Pen | [`Pen`](../../pen/) जो आयत का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| x | Int32 | खींचने के लिए आयत के ऊपर-बाएँ कोने का x-निर्देशांक। |
+| y | Int32 | खींचने के लिए आयत के ऊपर-बाएँ कोने का y-निर्देशांक। |
+| चौड़ाई | Int32 | ड्रॉ करने के लिए आयत की चौड़ाई। |
+| ऊँचाई | Int32 | ड्रॉ करने के लिए आयत की ऊँचाई। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

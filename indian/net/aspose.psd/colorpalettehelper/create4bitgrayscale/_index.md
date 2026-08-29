@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.Create4BitGrayscale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPaletteHelper तरक. 4 बट ग्रेस्केल पैलेट बनत है
+title: "ColorPaletteHelper.Create4BitGrayscale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPaletteHelper मेथड। 4 बिट ग्रेस्केल पैलेट बनाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/colorpalettehelper/create4bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4BitGrayscale method
 
 4 बिट ग्रेस्केल पैलेट बनाता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd/colorpalettehelper/create4bitgrayscale/
 public static IColorPalette Create4BitGrayscale(bool minIsWhite)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| minIsWhite | Boolean | अगर सेट है`सत्य` पैलेट सफेद रंग से शुरू होता है, अन्यथा यह काले रंग से शुरू होता है। |
+| minIsWhite | बूलियन | यदि `true` पर सेट किया गया है तो पैलेट सफेद रंग से शुरू होता है, अन्यथा यह काले रंग से शुरू होता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-4 बिट ग्रेस्केल पैलेट.
+4 बिट ग्रेस्केल पैलेट।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

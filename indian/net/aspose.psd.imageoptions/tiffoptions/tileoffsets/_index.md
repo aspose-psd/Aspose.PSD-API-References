@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileOffsets
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. टइल ऑफ़सेट प्रप्त य सेट करत है.
+title: "TiffOptions.TileOffsets"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। टाइल ऑफ़सेट्स को प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 540
+weight: 550
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/tileoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileOffsets property
 
-टाइल ऑफ़सेट प्राप्त या सेट करता है.
+टाइल ऑफ़सेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint[] TileOffsets { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

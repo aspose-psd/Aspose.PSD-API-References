@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions संपत्त. नर्यत क्षेत्र प्रप्त य सेट करत है
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions प्रॉपर्टी। एक्सपोर्ट एरिया प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
-निर्यात क्षेत्र प्राप्त या सेट करता है।
+एक्सपोर्ट एरिया को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Rectangle ExportArea { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-निर्यात क्षेत्र।
+एक्सपोर्ट एरिया।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

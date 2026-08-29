@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. परत जड़त है.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage विधि. परत जोड़ता है"
 type: docs
-weight: 370
+weight: 390
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
-परत जोड़ता है.
+लेयर जोड़ता है।
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layer | Layer | परत। |
+| लेयर | लेयर | लेयर। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण प्रदर्शित करता है कि यदि Aspose.PSD में सरल कन्स्ट्रक्टर संस्करण का उपयोग किया जाता है तो आप नई बनाई गई परत पर कैसे आकर्षित कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में सरल कंस्ट्रक्टर संस्करण का उपयोग करने पर नए बनाए गए लेयर पर कैसे ड्रॉ कर सकते हैं
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // पेन टूल के साथ एक आयत बनाएं
+    // Pen टूल से एक आयत बनाएं
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // सॉलिड ब्रश के साथ नीले रंग में एक और आयत बनाएं
+    // नीले रंग में Solid Brush से एक और आयत बनाएं
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

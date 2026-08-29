@@ -1,23 +1,24 @@
 ---
-title: LyidResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LyidResource मैदन. टइप टूल इंफ क.
+title: "LyidResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LyidResource फ़ील्ड। टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 80
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LyidResource.TypeToolKey field
 
-टाइप टूल इंफो की.
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LyidResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

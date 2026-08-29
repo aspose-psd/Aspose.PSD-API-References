@@ -1,14 +1,15 @@
 ---
-title: Class BmpImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException कक्ष. बएमप छव अपवद
+title: "क्लास BmpImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.BmpImageException क्लास। bmp इमेज अपवाद"
 type: docs
 weight: 510
 url: /hi/net/aspose.psd.coreexceptions.imageformats/bmpimageexception/
 ---
+{{< psd/tize >}}
 ## BmpImageException class
 
-बीएमपी छवि अपवाद।
+bmp इमेज एक्सेप्शन।
 
 ```csharp
 public class BmpImageException : ImageException
@@ -18,13 +19,13 @@ public class BmpImageException : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [BmpImageException](bmpimageexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`BmpImageException` वर्ग. |
-| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`BmpImageException` वर्ग. |
+| [BmpImageException](bmpimageexception/#constructor)(string) | `BmpImageException` क्लास का नया उदाहरण आरंभ करता है। |
+| [BmpImageException](bmpimageexception/#constructor_1)(string, Exception) | `BmpImageException` क्लास का नया उदाहरण आरंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

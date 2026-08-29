@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.StructureKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AnimatedDataSectionStructure मैदन. AnDs. क संरचन कुंज क पहचन करत है
+title: "AnimatedDataSectionStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AnimatedDataSectionStructure फ़ील्ड। AnDs की संरचना कुंजी की पहचान करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.StructureKey field
 
-AnDs. की संरचना कुंजी की पहचान करता है
+AnDs की संरचना कुंजी की पहचान करता है।
 
 ```csharp
 public const int StructureKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AnimatedDataSectionStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CgEdResource संपत्त. यह दर्शत है क प्रयगशल रंग क उपयग कय गय है य नहं एक मन प्रप्त य सेट करत है
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CgEdResource प्रॉपर्टी। लैब रंग उपयोग किया गया है या नहीं यह दर्शाने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-यह दर्शाता है कि [प्रयोगशाला रंग] का उपयोग किया गया है या नहीं, एक मान प्राप्त या सेट करता है।
+[lab color] उपयोग किया जाता है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य`अगर इस्तेमाल किया [प्रयोगशाला रंग]; अन्यथा,`असत्य` .
+`true` यदि उपयोग किया गया है [lab color]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [CgEdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GifOptions संपत्त. पैलेट प्रवष्टयं क सर्ट कय गय है य नहं यह इंगत करने वल मन प्रप्त य सेट करत है
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GifOptions प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि पैलेट प्रविष्टियाँ क्रमबद्ध हैं या नहीं"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-पैलेट प्रविष्टियों को सॉर्ट किया गया है या नहीं यह इंगित करने वाला मान प्राप्त या सेट करता है।
+पैलेट प्रविष्टियों का क्रमबद्ध होना दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर पैलेट प्रविष्टियां क्रमबद्ध हैं; अन्यथा,`असत्य` .
+`true` यदि पैलेट प्रविष्टियाँ क्रमबद्ध हैं; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../gifoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

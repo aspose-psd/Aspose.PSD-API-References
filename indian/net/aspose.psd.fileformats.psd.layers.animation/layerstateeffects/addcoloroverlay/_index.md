@@ -1,26 +1,27 @@
 ---
-title: LayerStateEffects.AddColorOverlay
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerStateEffects तरक. रंग ओवरले प्रभव जड़त है
+title: "LayerStateEffects.AddColorOverlay"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerStateEffects मेथड। कलर ओवरले इफ़ेक्ट जोड़ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddColorOverlay method
 
-रंग ओवरले प्रभाव जोड़ता है।
+कलर ओवरले इफ़ेक्ट जोड़ता है।
 
 ```csharp
 public ColorOverlayEffect AddColorOverlay()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-का नया उदाहरण[`ColorOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/) कक्षा।
+नया इंस्टेंस [`ColorOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/) क्लास का।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड टाइमलाइन फ़्रेम में प्रभावों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड टाइमलाइन फ्रेम्स में इफ़ेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/)
 * class [LayerStateEffects](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

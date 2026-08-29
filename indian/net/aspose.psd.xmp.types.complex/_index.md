@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वे वर्ग शमल हैं ज XMP गुणं के जटल प्रकर के मनं क प्रतनधत्व करते हैं
+title: "Aspose.PSD.Xmp.Types.Complex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में क्लासेस शामिल हैं जो XMP प्रॉपर्टीज़ के कॉम्प्लेक्स टाइप मानों का प्रतिनिधित्व करती हैं"
 type: docs
-weight: 620
+weight: 660
 url: /hi/net/aspose.psd.xmp.types.complex/
 ---
-नामस्थान में वे वर्ग शामिल हैं जो XMP गुणों के जटिल प्रकार के मानों का प्रतिनिधित्व करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो XMP प्रॉपर्टीज़ के कॉम्प्लेक्स टाइप मानों को दर्शाते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [ComplexTypeBase](./complextypebase/) | एक्सएमपी कॉम्प्लेक्स वैल्यू टाइप के लिए बेस एब्स्ट्रैक्शन का प्रतिनिधित्व करता है। |
+| [ComplexTypeBase](./complextypebase/) | XMP कॉम्प्लेक्स वैल्यू टाइप के लिए बेस एब्स्ट्रैक्शन का प्रतिनिधित्व करता है। |
 
 

@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.JpegQuality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfCoreOptions संपत्त. छवयं के लए जेपईज संपड़न क गुणवत्त नर्दष्ट करत है यद जेपईज संपड़न क उपयग कय जत है डफ़ल्ट 95 है
+title: "PdfCoreOptions.JpegQuality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfCoreOptions प्रॉपर्टी। यदि JPEG संपीड़न उपयोग किया जाता है तो छवियों के लिए JPEG संपीड़न की गुणवत्ता निर्दिष्ट करता है। डिफ़ॉल्ट 95 है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.pdf/pdfcoreoptions/jpegquality/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.JpegQuality property
 
-छवियों के लिए जेपीईजी संपीड़न की गुणवत्ता निर्दिष्ट करता है (यदि जेपीईजी संपीड़न का उपयोग किया जाता है)। डिफ़ॉल्ट 95 है।
+छवियों के लिए JPEG संपीड़न की गुणवत्ता निर्दिष्ट करता है (यदि JPEG संपीड़न उपयोग किया गया हो)। डिफ़ॉल्ट 95 है।
 
 ```csharp
 public int JpegQuality { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfCoreOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerResourcesRegistry तरक. भरLayerResource नर्दष्ट के लए उपयुक्त पहले पए गए सलम बल्लेबज क उपयग करनstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerResourcesRegistry मेथड। निर्दिष्ट स्ट्रीम के लिए उपयुक्त पहला मिला ओपनर उपयोग करके LayerResource लोड करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-भार[`LayerResource`](../../layerresource/) निर्दिष्ट के लिए उपयुक्त पहले पाए गए सलामी बल्लेबाज का उपयोग करना*stream* .
+पहला मिला उपयुक्त ओपनर उपयोग करके निर्दिष्ट *स्ट्रीम* के लिए [`LayerResource`](../../layerresource/) लोड करता है।
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| stream | Stream | स्ट्रीम। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई[`LayerResource`](../../layerresource/) या शून्य यदि कोई ओपनर नहीं मिला है।
+लोड किया गया [`LayerResource`](../../layerresource/) या null यदि कोई ओपनर नहीं मिला।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला ओपनर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

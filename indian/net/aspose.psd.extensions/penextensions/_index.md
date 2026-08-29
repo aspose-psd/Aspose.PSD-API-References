@@ -1,28 +1,29 @@
 ---
-title: Class PenExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.PenExtensions कक्ष. के लए वस्तर वधयँ शमल हैंPen औरPen .
+title: "क्लास PenExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.PenExtensions क्लास। इसमें Pen और Pen के लिए एक्सटेंशन मेथड्स शामिल हैं"
 type: docs
-weight: 1140
+weight: 1150
 url: /hi/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Pen`](../../aspose.psd/pen/) औरPen .
+[`Pen`](../../aspose.psd/pen/) और Pen के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class PenExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | परिवर्तित करता है[`Pen`](../../aspose.psd/pen/) तकPen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | `[`Pen`](../../aspose.psd/pen/)` को Pen में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

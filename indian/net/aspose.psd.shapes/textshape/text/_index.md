@@ -1,27 +1,28 @@
 ---
-title: TextShape.Text
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape संपत्त. खंच हुआ पठ प्रप्त य सेट करत है
+title: "TextShape.Text"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape प्रॉपर्टी। खींचा गया पाठ प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.shapes/textshape/text/
 ---
+{{< psd/tize >}}
 ## TextShape.Text property
 
-खींचा हुआ पाठ प्राप्त या सेट करता है।
+ड्रॉ किया गया पाठ प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-खींचा हुआ पाठ।
+खींचा गया पाठ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

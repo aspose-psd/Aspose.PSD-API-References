@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. इसके चेहरे क नम प्रप्त करत हैFont .
+title: "Font.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font प्रॉपर्टी। इस Font का फेस नाम प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-इसके चेहरे का नाम प्राप्त करता है[`Font`](../) .
+इस [`Font`](../) का फेस नाम प्राप्त करता है।
 
 ```csharp
 public string Name { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसके चेहरे के नाम का एक स्ट्रिंग प्रतिनिधित्व[`Font`](../).
+इस [`Font`](../) के फेस नाम का स्ट्रिंग प्रतिनिधित्व।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

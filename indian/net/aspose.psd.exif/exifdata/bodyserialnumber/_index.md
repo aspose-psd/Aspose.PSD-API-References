@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. कैमर बड सरयल नंबर प्रप्त य सेट करत है
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। कैमरा बॉडी सीरियल नंबर को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-कैमरा बॉडी सीरियल नंबर प्राप्त या सेट करता है।
+कैमरा बॉडी का सीरियल नंबर प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 बॉडी सीरियल नंबर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

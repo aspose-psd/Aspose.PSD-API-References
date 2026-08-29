@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageOptionsBase संपत्त. कलर पैलेट प्रप्त य सेट करत है
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageOptionsBase प्रॉपर्टी। रंग पैलेट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
-कलर पैलेट प्राप्त या सेट करता है।
+रंग पैलेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### संपत्ति मूल्य
-
-रंग पैलेट।
-
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* नाम स्थान [Aspose.PSD](../../imageoptionsbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

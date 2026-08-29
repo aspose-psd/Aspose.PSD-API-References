@@ -1,14 +1,15 @@
 ---
-title: Enum ExifCustomRendered
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifCustomRendered एनुम. एक्सफ कस्टम रेंडर एनम.
+title: "Enum ExifCustomRendered"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifCustomRendered enum. exif कस्टम रेंडर्ड enum"
 type: docs
-weight: 820
+weight: 830
 url: /hi/net/aspose.psd.exif.enums/exifcustomrendered/
 ---
+{{< psd/tize >}}
 ## ExifCustomRendered enumeration
 
-एक्सिफ कस्टम रेंडर एनम.
+exif कस्टम रेंडर्ड एनेम.
 
 ```csharp
 public enum ExifCustomRendered
@@ -16,14 +17,14 @@ public enum ExifCustomRendered
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | NormalProcess | `0` | सामान्य रेंडर प्रक्रिया। |
-| CustomProcess | `1` | कस्टम रेंडर प्रक्रिया. |
+| CustomProcess | `1` | कस्टम रेंडर प्रक्रिया। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

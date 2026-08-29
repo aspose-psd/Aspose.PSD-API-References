@@ -1,91 +1,92 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LimitMemoryException नर्मत. क एक नय उदहरण प्ररंभ करत हैLimitMemoryException वर्ग.
+title: "LimitMemoryException.LimitMemoryException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LimitMemoryException कंस्ट्रक्टर। LimitMemoryException क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/limitmemoryexception/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LimitMemoryException`](../) वर्ग.
+[`LimitMemoryException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public LimitMemoryException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LimitMemoryException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`LimitMemoryException`](../) वर्ग.
+[`LimitMemoryException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LimitMemoryException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, long) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LimitMemoryException`](../) वर्ग.
+[`LimitMemoryException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public LimitMemoryException(string message, long reduceMemoryFactor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| reduceMemoryFactor | Int64 | कम स्मृति कारक। |
+| reduceMemoryFactor | Int64 | रिड्यूस मेमोरी फैक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LimitMemoryException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception, int) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`LimitMemoryException`](../) वर्ग.
+[`LimitMemoryException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException, int reduceMemoryFactor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
-| reduceMemoryFactor | Int32 | कम स्मृति कारक। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
+| reduceMemoryFactor | Int32 | रिड्यूस मेमोरी फैक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LimitMemoryException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

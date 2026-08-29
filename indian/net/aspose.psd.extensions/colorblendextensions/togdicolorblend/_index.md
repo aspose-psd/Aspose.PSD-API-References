@@ -1,32 +1,33 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorBlendExtensions तरक. परवर्तत करत हैColorBlend कColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorBlendExtensions मेथड। ColorBlend को ColorBlend में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-परिवर्तित करता है[`ColorBlend`](../../../aspose.psd/colorblend/) कोColorBlend .
+[`ColorBlend`](../../../aspose.psd/colorblend/) को ColorBlend में परिवर्तित करता है।
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | colorBlend | ColorBlend | रंग मिश्रण। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितColorBlend.
+परिवर्तित ColorBlend।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../colorblendextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

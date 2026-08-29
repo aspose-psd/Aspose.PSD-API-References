@@ -1,28 +1,29 @@
 ---
-title: OffsetStructure.ClassID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OffsetStructure संपत्त. क्लस आईड प्रप्त य सेट करत है
+title: "OffsetStructure.ClassID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OffsetStructure प्रॉपर्टी। क्लास आईडी प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassID property
 
-क्लास आईडी प्राप्त या सेट करता है।
+क्लास ID को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्लास आईडी.
+क्लास आईडी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

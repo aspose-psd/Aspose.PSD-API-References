@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileOpenSource नर्मत. क एक नय उदहरण प्ररंभ करत हैFileOpenSource वर्ग.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileOpenSource कंस्ट्रक्टर। FileOpenSource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`FileOpenSource`](../) वर्ग.
+[`FileOpenSource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | खोलने के लिए फ़ाइल पथ। |
+| filePath | String | खोलने के लिए फ़ाइल पाथ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileOpenSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../fileopensource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

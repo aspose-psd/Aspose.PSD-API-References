@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructure संपत्त. कुंज नम प्रप्त य सेट करत है
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructure प्रॉपर्टी. कुंजी नाम को प्राप्त या सेट करता है."
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
-कुंजी नाम प्राप्त या सेट करता है।
+कुंजी नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ClassID KeyName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कुंजी नाम.
+कुंजी नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

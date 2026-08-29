@@ -1,38 +1,39 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper तरक. नेमस्पेस URI. द्वर पैकेज प्रप्त करत है
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper मेथड। नेमस्पेस URI द्वारा पैकेज प्राप्त करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-नेमस्पेस URI. द्वारा पैकेज प्राप्त करता है
+नेमस्पेस URI द्वारा पैकेज प्राप्त करता है।
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| namespaceUri | String | पैकेज स्कीमा URI. |
+| नेमस्पेसURI | String | पैकेज स्कीमा URI। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्दिष्ट नाम स्थान URI के लिए XMP पैकेज लौटाता है।
+निर्दिष्ट नेमस्पेस URI के लिए XMP पैकेज लौटाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | नेमस्पेसUri |
+| ArgumentNullException | नेमस्पेसURI |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. तन संस्करण प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.WarpVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource property. प्राप्त करता है या सेट करता है वार्प संस्करण"
 type: docs
-weight: 210
+weight: 180
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpVersion property
 
-ताना संस्करण प्राप्त या सेट करता है।
+वॉर्प संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short WarpVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ताना संस्करण।
+वार्प संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

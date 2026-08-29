@@ -1,66 +1,67 @@
 ---
-title: GraphicsPath.Flatten
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. इस पथ में प्रत्येक वक्र क कनेक्टेड लइन सेगमेंट के अनुक्रम में परवर्तत करत है
+title: "GraphicsPath.Flatten"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। इस पाथ में प्रत्येक वक्र को जुड़े हुए रेखा खंडों की श्रृंखला में बदलता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/graphicspath/flatten/
 ---
+{{< psd/tize >}}
 ## Flatten() {#flatten}
 
-इस पथ में प्रत्येक वक्र को कनेक्टेड लाइन सेगमेंट के अनुक्रम में परिवर्तित करता है।
+इस पथ में प्रत्येक वक्र को जुड़े हुए रेखा खंडों की श्रृंखला में बदलता है।
 
 ```csharp
 public void Flatten()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix) {#flatten_1}
 
-निर्दिष्ट परिवर्तन लागू करता है और फिर इसमें प्रत्येक वक्र को परिवर्तित करता है[`GraphicsPath`](../) कनेक्टेड लाइन सेगमेंट के अनुक्रम में।
+निर्दिष्ट ट्रांसफ़ॉर्म लागू करता है और फिर इस [`GraphicsPath`](../) में प्रत्येक वक्र को जुड़े हुए रेखा खंडों की श्रृंखला में बदलता है।
 
 ```csharp
 public void Flatten(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | ए[`Matrix`](../../matrix/) जिससे इसे रूपांतरित किया जा सके[`GraphicsPath`](../) समतल करने से पहले। |
+| matrix | Matrix | एक [`Matrix`](../../matrix/) जिससे इस [`GraphicsPath`](../) को फ्लैटन करने से पहले ट्रांसफ़ॉर्म किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix, float) {#flatten_2}
 
-इसमें प्रत्येक वक्र को परिवर्तित करता है[`GraphicsPath`](../) कनेक्टेड लाइन सेगमेंट के अनुक्रम में।
+इस [`GraphicsPath`](../) में प्रत्येक वक्र को जुड़े हुए रेखा खंडों की श्रृंखला में बदलता है।
 
 ```csharp
 public void Flatten(Matrix matrix, float flatness)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | ए[`Matrix`](../../matrix/) जिससे इसे रूपांतरित किया जा सके[`GraphicsPath`](../) समतल करने से पहले। |
-| flatness | Single | वक्र और उसके समतल सन्निकटन के बीच अधिकतम अनुमत त्रुटि निर्दिष्ट करता है। 0.25 का मान डिफ़ॉल्ट है। समतलता मान को कम करने से सन्निकटन में रेखा खंडों की संख्या में वृद्धि होगी। |
+| matrix | Matrix | एक [`Matrix`](../../matrix/) जिससे इस [`GraphicsPath`](../) को फ्लैटन करने से पहले ट्रांसफ़ॉर्म किया जाता है। |
+| समतलता | Single | वक्र और उसके फ्लैटन किए गए अनुमान के बीच अधिकतम अनुमत त्रुटि को निर्दिष्ट करता है। 0.25 का मान डिफ़ॉल्ट है। फ्लैटननेस मान को कम करने से अनुमान में रेखा खंडों की संख्या बढ़ेगी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DeconvolutionFilterOptions संपत्त. एक मन प्रप्त करत है ज इंगत करत है क यह उदहरण आंशक रूप से लड है य नहं
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DeconvolutionFilterOptions प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस आंशिक रूप से लोड है या नहीं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-एक मान प्राप्त करता है जो इंगित करता है कि यह उदाहरण आंशिक रूप से लोड है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि यह उदाहरण आंशिक रूप से लोड है या नहीं।
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण आंशिक रूप से भरा हुआ है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस आंशिक रूप से लोड है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeconvolutionFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

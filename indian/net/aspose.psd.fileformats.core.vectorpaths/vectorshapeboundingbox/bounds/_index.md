@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeBoundingBox संपत्त. शेप बउंडंग बक्स क सम प्रप्त य सेट करत है
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeBoundingBox प्रॉपर्टी। आकार बाउंडिंग बॉक्स की सीमाएँ प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-शेप बाउंडिंग बॉक्स की सीमा प्राप्त या सेट करता है।
+आकार बाउंडिंग बॉक्स की सीमाओं को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शेप बाउंडिंग बॉक्स बाउंड.
+आकार बाउंडिंग बॉक्स की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

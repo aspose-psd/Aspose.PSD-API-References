@@ -1,14 +1,15 @@
 ---
-title: Enum ResourceBlock.ResourceBlockState
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState एनुम. संसधन ब्लक स्थत क प्रतनधत्व करत है
+title: "Enum ResourceBlock.ResourceBlockState"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.ResourceBlockResourceBlockState एन्नुम। रिसोर्स ब्लॉक की स्थिति को दर्शाता है।"
 type: docs
-weight: 3620
+weight: 4080
 url: /hi/net/aspose.psd.fileformats.psd/resourceblock.resourceblockstate/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResourceBlockState enumeration
 
-संसाधन ब्लॉक स्थिति का प्रतिनिधित्व करता है।
+रिसोर्स ब्लॉक स्थिति को दर्शाता है।
 
 ```csharp
 public enum ResourceBlockState
@@ -16,15 +17,15 @@ public enum ResourceBlockState
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Normal | `0` | विशिष्ट स्थिति। |
+| Normal | `0` | सामान्य स्थिति। |
 | Cached | `1` | कैश्ड स्थिति। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../resourceblock/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

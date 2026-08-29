@@ -1,24 +1,25 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: प्रगत ईवेंट हैंडलर फ़ंक्शन संदर्भ
+title: "डेलीगेट ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "प्रोग्रेस इवेंट हैंडलर फ़ंक्शन संदर्भ"
 type: docs
-weight: 5280
+weight: 5780
 url: /hi/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-प्रगति ईवेंट हैंडलर फ़ंक्शन संदर्भ
+प्रोग्रेस इवेंट हैंडलर फ़ंक्शन संदर्भ
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | प्रगति ईवेंट हैंडलर डेटा। |
+| सूचना | ProgressEventHandlerInfo | प्रोग्रेस इवेंट हैंडलर डेटा। |
 
-### उदाहरण
+## उदाहरण
 
 निम्न उदाहरण दर्शाता है कि दस्तावेज़ रूपांतरण प्रगति सही ढंग से और बिना किसी अपवाद के काम करती है।
 
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

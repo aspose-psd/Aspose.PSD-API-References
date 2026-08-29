@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.WrapMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush संपत्त. ह जत है य सेट करत हैWrapMode एन्यूमरेशन ज इसके लए रैप मड क इंगत करत हैTransformBrush .
+title: "TransformBrush.WrapMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush प्रॉपर्टी। एक WrapMode एनीमरेशन प्राप्त करता है या सेट करता है जो इस TransformBrush के लिए रैप मोड को दर्शाता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.brushes/transformbrush/wrapmode/
 ---
+{{< psd/tize >}}
 ## TransformBrush.WrapMode property
 
-हो जाता है या सेट करता है[`WrapMode`](../../../aspose.psd/wrapmode/) एन्यूमरेशन जो इसके लिए रैप मोड को इंगित करता है[`TransformBrush`](../) .
+एक [`WrapMode`](../../../aspose.psd/wrapmode/) एनीमरेशन प्राप्त करता है या सेट करता है जो इस [`TransformBrush`](../) के लिए रैप मोड को दर्शाता है।
 
 ```csharp
 public WrapMode WrapMode { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`WrapMode`](../../../aspose.psd/wrapmode/) यह निर्दिष्ट करता है कि इससे कैसे भरा जाता है[`TransformBrush`](../) टाइल किए गए हैं।
+एक [`WrapMode`](../../../aspose.psd/wrapmode/) जो यह निर्दिष्ट करता है कि इस [`TransformBrush`](../) के साथ खींचे गए फ़िल कैसे टाइल किए जाते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

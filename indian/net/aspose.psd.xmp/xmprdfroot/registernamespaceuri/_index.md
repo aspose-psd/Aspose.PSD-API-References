@@ -1,28 +1,29 @@
 ---
-title: XmpRdfRoot.RegisterNamespaceUri
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRdfRoot तरक. उपसर्ग द्वर नमस्थन यूर जड़त है उपसर्ग बन xmlns. के प्ररंभ ह सकत है
+title: "XmpRdfRoot.RegisterNamespaceUri"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRdfRoot मेथड। प्रीफ़िक्स द्वारा नेमस्पेस URI जोड़ता है। प्रीफ़िक्स बिना xmlns के शुरू हो सकता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp/xmprdfroot/registernamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.RegisterNamespaceUri method
 
-उपसर्ग द्वारा नामस्थान यूरी जोड़ता है। उपसर्ग बिना xmlns. के प्रारंभ हो सकता है
+प्रीफ़िक्स द्वारा नेमस्पेस यूआरआई जोड़ता है। प्रीफ़िक्स बिना xmlns के शुरू हो सकता है।
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| prefix | String | उपसर्ग। |
-| namespaceUri | String | पैकेज स्कीमा uri. |
+| प्रीफ़िक्स | String | प्रीफ़िक्स। |
+| नेमस्पेसURI | String | पैकेज स्कीमा यूआरआई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRdfRoot](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmprdfroot/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: QuickMaskInformationResource.ChannelId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: QuickMaskInformationResource संपत्त. चैनल पहचनकर्त प्रप्त य सेट करत है
+title: "QuickMaskInformationResource.ChannelId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "QuickMaskInformationResource प्रॉपर्टी। चैनल पहचानकर्ता को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.ChannelId property
 
-चैनल पहचानकर्ता प्राप्त या सेट करता है।
+चैनल पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ChannelId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चैनल पहचानकर्ता.
+चैनल पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [QuickMaskInformationResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. एम्बेडेड य बहर फ़इल के प्रकर क प्रप्त य सेट करत है जसमें Adobe Photoshop Lnk2 / LnkE संसधन शमल है य लंक करत है
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। एम्बेडेड या बाहरी फ़ाइल का प्रकार प्राप्त करता है या सेट करता है जिसे Adobe Photoshop Lnk2 / LnkE रिसोर्स में शामिल या लिंक किया गया है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-एम्बेडेड या बाहरी फ़ाइल के प्रकार को प्राप्त या सेट करता है जिसमें Adobe® Photoshop® Lnk2 / LnkE संसाधन शामिल है या लिंक करता है।
+Adobe® Photoshop® Lnk2 / LnkE रिसोर्स द्वारा शामिल या लिंक की गई एम्बेडेड या बाहरी फ़ाइल का प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एम्बेडेड या बाहरी लिंक की गई फ़ाइल का प्रकार।
+एम्बेडेड या बाहरी लिंक्ड फ़ाइल का प्रकार।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप FileType गुण तक नहीं पहुंच सकते. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप FileType प्रॉपर्टी तक पहुँच नहीं सकते। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

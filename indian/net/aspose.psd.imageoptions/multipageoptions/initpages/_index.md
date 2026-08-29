@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions तरक. पृष्ठं क श्रेण से प्ररंभ करत है array
+title: "MultiPageOptions.InitPages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions मेथड। रेंजेस एरे से पृष्ठों को प्रारंभ करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-पृष्ठों को श्रेणी से प्रारंभ करता है array
+रेंज एरे से पृष्ठों को प्रारंभ करता है।
 
 ```csharp
 public void InitPages(IntRange[] ranges)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ranges | IntRange[] | श्रेणियाँ। |
+| रेंजेस | IntRange[] | रेंजेस। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

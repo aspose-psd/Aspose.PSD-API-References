@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. परक्षण करत है क नर्दष्ट कय गय है य नहंRegion इसके समन हैRegion नर्दष्ट आरेखण सतह पर.
+title: "Region.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region मेथड। परीक्षण करता है कि क्या निर्दिष्ट Region इस Region के समान है निर्दिष्ट ड्रॉइंग सतह पर"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-परीक्षण करता है कि निर्दिष्ट किया गया है या नहीं[`Region`](../) इसके समान है[`Region`](../) निर्दिष्ट आरेखण सतह पर.
+परीक्षण करता है कि निर्दिष्ट [`Region`](../) इस [`Region`](../) के समान है निर्दिष्ट ड्रॉइंग सतह पर।
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) परीक्षा करना। |
-| g | Graphics | ए[`Graphics`](../../graphics/) जो एक ड्राइंग सतह का प्रतिनिधित्व करता है। |
+| region | Region | परीक्षण के लिए [`Region`](../)। |
+| g | Graphics | एक [`Graphics`](../../graphics/) जो ड्राइंग सतह का प्रतिनिधित्व करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सत्य है यदि क्षेत्र का आंतरिक भाग इस क्षेत्र के आंतरिक भाग के समान है जब रूपांतरण से जुड़ा है*g*पैरामीटर लागू होता है; अन्यथा, असत्य.
+यदि region का आंतरिक भाग इस region के आंतरिक भाग के समान है जब *g* पैरामीटर के साथ जुड़े परिवर्तन लागू किया जाता है तो True; अन्यथा false।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *g *या* region* शून्य है। |
+| ArgumentNullException | *g *or* region* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+जाँचें कि ऑब्जेक्ट समान हैं या नहीं।
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| obj | ऑब्जेक्ट | दूसरा ऑब्जेक्ट। |
+
+### रिटर्न वैल्यू
+
+समानता तुलना परिणाम।
+
+### देखें भी
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

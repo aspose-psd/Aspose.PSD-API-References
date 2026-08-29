@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorZ
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion3 संपत्त. Z रंग प्रप्त य सेट करत है
+title: "PhflResourceVersion3.ColorZ"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion3 गुण। Z रंग प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorz/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorZ property
 
-Z रंग प्राप्त या सेट करता है।
+Z रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float ColorZ { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-Z रंग.
+Z रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion3](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

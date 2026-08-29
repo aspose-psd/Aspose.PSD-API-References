@@ -1,38 +1,39 @@
 ---
-title: Class OSTypeStructuresRegistry
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry कक्ष. क प्रतनधत्व करत हैOSTypeStructure संसधन रजस्ट्र.
+title: "क्लास OSTypeStructuresRegistry"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry क्लास। OSTypeStructure संसाधन रजिस्ट्री का प्रतिनिधित्व करता है।"
 type: docs
-weight: 2860
+weight: 3200
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry class
 
-का प्रतिनिधित्व करता है[`OSTypeStructure`](../ostypestructure/) संसाधन रजिस्ट्री.
+[`OSTypeStructure`](../ostypestructure/) संसाधन रजिस्ट्री का प्रतिनिधित्व करता है।
 
 ```csharp
 public static class OSTypeStructuresRegistry
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | पंजीकृत वर्णनकर्ता प्राप्त करता है। |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | पंजीकृत डिस्क्रिप्टर प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | पहला समर्थित ओपनर डिस्क्रिप्टर प्राप्त करता है। |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | इसके प्रकार के नाम से पहला समर्थित विवरणक प्राप्त करता है। |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | भार[`OSTypeStructure`](../ostypestructure/) निर्दिष्ट के लिए उपयुक्त पहले पाए गए सलामी बल्लेबाज का उपयोग करना*stream* . |
-| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | सलामी बल्लेबाज को पंजीकृत करता है। |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | ओपनर का पंजीकरण रद्द करता है। |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | उसके प्रकार नाम द्वारा पहला समर्थित डिस्क्रिप्टर प्राप्त करता है। |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | निर्दिष्ट *stream* के लिए उपयुक्त पहला मिला ओपनर उपयोग करके [`OSTypeStructure`](../ostypestructure/) लोड करता है। |
+| static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | ओपनर को पंजीकृत करता है। |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | ओपनर को अनपंजीकृत करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

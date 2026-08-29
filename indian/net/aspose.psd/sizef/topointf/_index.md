@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToPointF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. परवर्तत करत है aSizeF एक के लएPointF .
+title: "SizeF.ToPointF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। एक SizeF को PointF में परिवर्तित करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/sizef/topointf/
 ---
+{{< psd/tize >}}
 ## SizeF.ToPointF method
 
-परिवर्तित करता है a[`SizeF`](../) एक के लिए[`PointF`](../../pointf/) .
+`[`SizeF`](../)` को `[`PointF`](../../pointf/)` में परिवर्तित करता है।
 
 ```csharp
 public PointF ToPointF()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रिटर्न ए[`PointF`](../../pointf/) संरचना।
+`[`PointF`](../../pointf/)` संरचना लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: XmpPackage.Clear
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. इस उदहरण क सफ़ करत है
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। इस उदाहरण को साफ़ करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
-इस उदाहरण को साफ़ करता है।
+इस इंस्टेंस को साफ करता है।
 
 ```csharp
 public virtual void Clear()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

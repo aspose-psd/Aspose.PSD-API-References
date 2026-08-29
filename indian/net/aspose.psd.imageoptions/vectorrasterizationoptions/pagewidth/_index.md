@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.PageWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. पृष्ठ क चड़ई प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.PageWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। पृष्ठ की चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/pagewidth/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageWidth property
 
-पृष्ठ की चौड़ाई प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है पृष्ठ चौड़ाई।
 
 ```csharp
 public float PageWidth { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

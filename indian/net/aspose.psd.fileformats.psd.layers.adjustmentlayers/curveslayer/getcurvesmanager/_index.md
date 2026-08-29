@@ -1,28 +1,29 @@
 ---
-title: CurvesLayer.GetCurvesManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesLayer तरक. वक्र प्रबंधक प्रप्त करत है
+title: "CurvesLayer.GetCurvesManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesLayer विधि। कर्व्स मैनेजर प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/getcurvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.GetCurvesManager method
 
-वक्र प्रबंधक प्राप्त करता है।
+कर्व्स प्रबंधक प्राप्त करता है।
 
 ```csharp
 public CurvesManager GetCurvesManager()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/) या[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/) जो कि IsDiscreteManagerUsed और IsContinuousManagerUsed संपत्ति पर निर्भर करता है
+[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/) or [`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/) that depends on IsDiscreteManagerUsed and IsContinuousManagerUsed property
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesManager](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/)
 * class [CurvesLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

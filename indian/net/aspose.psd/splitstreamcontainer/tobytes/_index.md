@@ -1,52 +1,53 @@
 ---
-title: SplitStreamContainer.ToBytes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer तरक. स्ट्रम डेट क इसमें कनवर्ट करत हैByte सरण.
+title: "SplitStreamContainer.ToBytes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer विधि. स्ट्रीम डेटा को बाइट एरे में परिवर्तित करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/splitstreamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-स्ट्रीम डेटा को इसमें कनवर्ट करता हैByte सरणी.
+स्ट्रीम डेटा को बाइट एरे में परिवर्तित करता है।
 
 ```csharp
 public override byte[] ToBytes()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-स्ट्रीम डेटा में कनवर्ट किया गयाByte सरणी.
+बाइट एरे में परिवर्तित स्ट्रीम डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-स्ट्रीम डेटा को इसमें कनवर्ट करता हैByte सरणी.
+स्ट्रीम डेटा को बाइट एरे में परिवर्तित करता है।
 
 ```csharp
 public override byte[] ToBytes(long position, long bytesCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | बाइट पढ़ना शुरू करने की स्थिति। |
-| bytesCount | Int64 | बाइट्स पढ़ने के लिए गिने जाते हैं। |
+| स्थिति | Int64 | बाइट पढ़ना शुरू करने की स्थिति। |
+| bytesCount | Int64 | पढ़ने के लिए बाइट्स की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-स्ट्रीम डेटा में कनवर्ट किया गयाByte सरणी.
+बाइट एरे में परिवर्तित स्ट्रीम डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

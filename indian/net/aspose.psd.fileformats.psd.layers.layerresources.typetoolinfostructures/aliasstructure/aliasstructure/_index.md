@@ -1,28 +1,29 @@
 ---
-title: AliasStructure.AliasStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AliasStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैAliasStructure वर्ग.
+title: "AliasStructure.AliasStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AliasStructure कंस्ट्रक्टर। AliasStructure क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/aliasstructure/
 ---
+{{< psd/tize >}}
 ## AliasStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`AliasStructure`](../) वर्ग.
+[`AliasStructure`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public AliasStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [AliasStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

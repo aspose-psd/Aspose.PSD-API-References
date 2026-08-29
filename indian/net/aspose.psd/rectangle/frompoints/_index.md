@@ -1,33 +1,34 @@
 ---
-title: Rectangle.FromPoints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. एक नय बनत हैRectangle नर्दष्ट द बंदुओं से नर्मत के द कर्यक्षेत्रRectangle उत्तर्ण के बरबर हगpoint1 औरpoint2 . ये वशष्ट रूप से वपरत शर्ष हंगे.
+title: "Rectangle.FromPoints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle मेथड। निर्दिष्ट दो बिंदुओं से एक नया Rectangle बनाता है। बनाए गए Rectangle की दो लंबवत रेखाएँ पास किए गए *point1* और *point2* के बराबर होंगी। ये सामान्यतः विपरीत शीर्ष बिंदु होते हैं।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/rectangle/frompoints/
 ---
+{{< psd/tize >}}
 ## Rectangle.FromPoints method
 
-एक नया बनाता है[`Rectangle`](../) निर्दिष्ट दो बिंदुओं से। निर्मित के दो कार्यक्षेत्र[`Rectangle`](../) उत्तीर्ण के बराबर होगा*point1* और*point2* . ये विशिष्ट रूप से विपरीत शीर्ष होंगे.
+निर्दिष्ट दो बिंदुओं से एक नया [`Rectangle`](../) बनाता है। बनाए गए [`Rectangle`](../) की दो लंबवत रेखाएँ पास किए गए *point1* और *point2* के बराबर होंगी। ये सामान्यतः विपरीत शीर्ष बिंदु होते हैं।
 
 ```csharp
 public static Rectangle FromPoints(Point point1, Point point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | Point | पहला[`Point`](../../point/) नए आयत के लिए। |
-| point2 | Point | दूसरा[`Point`](../../point/) नए आयत के लिए। |
+| point1 | Point | नए Rectangle के लिए पहला [`Point`](../../point/)। |
+| point2 | Point | नए Rectangle के लिए दूसरा [`Point`](../../point/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नव निर्मित[`Rectangle`](../).
+एक नया निर्मित [`Rectangle`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.ReferenceBlackWhite
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. संदर्भ कल सफेद ह जत है य सेट करत है
+title: "JpegExifData.ReferenceBlackWhite"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData property. रेफ़रेंस ब्लैक व्हाइट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.exif/jpegexifdata/referenceblackwhite/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ReferenceBlackWhite property
 
-संदर्भ काला सफेद हो जाता है या सेट करता है।
+रेफ़रेंस ब्लैक व्हाइट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational[] ReferenceBlackWhite { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संदर्भ काला सफ़ेद.
+रेफ़रेंस ब्लैक व्हाइट.
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

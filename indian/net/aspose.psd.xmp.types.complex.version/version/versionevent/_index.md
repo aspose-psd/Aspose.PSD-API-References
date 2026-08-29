@@ -1,28 +1,29 @@
 ---
-title: Version.VersionEvent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Version संपत्त. ह जत है य सेट करत हैResourceEvent .
+title: "Version.VersionEvent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Version प्रॉपर्टी। ResourceEvent को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.types.complex.version/version/versionevent/
 ---
+{{< psd/tize >}}
 ## Version.VersionEvent property
 
-हो जाता है या सेट करता है[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) .
+[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ResourceEvent VersionEvent { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण घटना।
+संस्करण इवेंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

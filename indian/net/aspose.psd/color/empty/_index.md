@@ -1,27 +1,28 @@
 ---
-title: Color.Empty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. एक खल ह जत हैColor .
+title: "Color.Empty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। एक खाली Color प्राप्त करता है"
 type: docs
 weight: 430
 url: /hi/net/aspose.psd/color/empty/
 ---
+{{< psd/tize >}}
 ## Color.Empty property
 
-एक खाली हो जाता है[`Color`](../) .
+एक खाली [`Color`](../) प्राप्त करता है।
 
 ```csharp
 public static Color Empty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द एम्प्टी[`Color`](../).
+खाली [`Color`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

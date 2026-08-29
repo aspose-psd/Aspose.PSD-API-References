@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix12
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix संपत्त. तत्व क इसक पहल पंक्त और दूसरे कलम में प्रप्त य सेट करत हैColorMatrix .
+title: "ColorMatrix.Matrix12"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix प्रॉपर्टी. इस ColorMatrix की पहली पंक्ति और दूसरे स्तंभ में तत्व को प्राप्त करता है या सेट करता है."
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/colormatrix/matrix12/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix12 property
 
-तत्व को इसकी पहली पंक्ति और दूसरे कॉलम में प्राप्त या सेट करता है[`ColorMatrix`](../) .
+इस [`ColorMatrix`](../) की पहली पंक्ति और दूसरे स्तंभ में तत्व को प्राप्त करता है या सेट करता है.
 
 ```csharp
 public float Matrix12 { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसकी पहली पंक्ति और दूसरे कॉलम में तत्व[`ColorMatrix`](../).
+इस [`ColorMatrix`](../) की पहली पंक्ति और दूसरे स्तंभ में तत्व.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VibAResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "VibAResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VibAResource प्रॉपर्टी। लेयर रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/key/
 ---
+{{< psd/tize >}}
 ## VibAResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण VibAResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण VibAResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// रनटाइम पर कंपन संसाधन पढ़ने और लिखने के समर्थन का उदाहरण।
+// रनटाइम पर पढ़ने और लिखने वाले Vibration संसाधन के समर्थन का उदाहरण।
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VibAResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

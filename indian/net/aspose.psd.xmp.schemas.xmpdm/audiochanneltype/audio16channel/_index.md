@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio16Channel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType संपत्त. 16 ऑडय चैनल प्रप्त करत है
+title: "AudioChannelType.Audio16Channel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType property. 16 ऑडियो चैनल प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio16Channel property
 
 16 ऑडियो चैनल प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/
 public static AudioChannelType Audio16Channel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-16 ऑडियो चैनल.
+16 ऑडियो चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

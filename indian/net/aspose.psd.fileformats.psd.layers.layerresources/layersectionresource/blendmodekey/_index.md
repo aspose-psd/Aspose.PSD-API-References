@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSectionResource संपत्त. ब्लेंड मड कुंज प्रप्त य सेट करत है
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSectionResource प्रॉपर्टी। ब्लेंड मोड कुंजी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
-ब्लेंड मोड कुंजी प्राप्त या सेट करता है।
+ब्लेंड मोड कुंजी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public BlendMode BlendModeKey { get; set; }
@@ -16,15 +17,15 @@ public BlendMode BlendModeKey { get; set; }
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | BlendModeKey की लंबाई 4 वर्ण होनी चाहिए। |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | BlendModeKey की लंबाई 4 अक्षरों की होनी चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

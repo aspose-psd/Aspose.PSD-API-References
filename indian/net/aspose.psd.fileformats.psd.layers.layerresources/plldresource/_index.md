@@ -1,67 +1,68 @@
 ---
-title: Class PlLdResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource कक्ष. PlLdResource वर्ग क परभषत करत है जसमें PSD फ़इल में रख गई परत के बरे में जनकर हत है क उपयग Adobe Photoshop छवयं में स्मर्ट ऑब्जेक्ट परतं क समर्थन करने के लए कय जत है इसे Adobe Photoshop CS3 में SoLdResource द्वर प्रतस्थपत कय गय थ
+title: "क्लास PlLdResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource क्लास। PlLdResource क्लास को परिभाषित करता है जो PSD फ़ाइल में एक प्लेस्ड लेयर के बारे में जानकारी रखता है। यह Adobe Photoshop छवियों में स्मार्ट ऑब्जेक्ट लेयर्स को समर्थन देने के लिए उपयोग किया जाता है। इसे Adobe Photoshop CS3 में SoLdResource द्वारा प्रतिस्थापित किया गया था।"
 type: docs
-weight: 2920
+weight: 3270
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-PlLdResource वर्ग को परिभाषित करता है जिसमें PSD फ़ाइल में रखी गई परत के बारे में जानकारी होती है। का उपयोग Adobe® Photoshop® छवियों में स्मार्ट ऑब्जेक्ट परतों का समर्थन करने के लिए किया जाता है। इसे Adobe® Photoshop® CS3 में SoLdResource द्वारा प्रतिस्थापित किया गया था।
+PlLdResource क्लास को परिभाषित करता है जो PSD फ़ाइल में प्लेस्ड लेयर के बारे में जानकारी रखता है। यह Adobe® Photoshop® छवियों में स्मार्ट ऑब्जेक्ट लेयर्स को सपोर्ट करने के लिए उपयोग किया जाता है। इसे Adobe® Photoshop® CS3 में SoLdResource द्वारा प्रतिस्थापित किया गया था।
 
 ```csharp
 public class PlLdResource : PlacedResource
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD छवि में रखी गई परत की अन्य उपनाम नीति को प्राप्त या सेट करता है। |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD छवि में रखी परत के निचले स्थान को प्राप्त या सेट करता है। |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD फ़ाइल में रखी परत की सीमा प्राप्त या सेट करता है। |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई परत के क्षैतिज जाल बिंदुओं को प्राप्त या सेट करता है। |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | क्षैतिज जाल बिंदुओं की माप इकाई प्राप्त या सेट करता है। |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि क्या यह उदाहरण ताना शैली कस्टम है। यदि सही है तो इसमें जाल बिंदु शामिल हैं। अगर असत्य पर सेट किया जाता है तो यह जाली बिंदुओं को मिटा देता है. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | ताना आइटम प्राप्त या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | पीएलडी संसाधन कुंजी प्राप्त करता है। |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD फ़ाइल में रखी गई परत के बाएं स्थान को प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | बाइट्स में PlLd संसाधन लंबाई प्राप्त करता है। |
-| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD फ़ाइल में रखी गई परत की पृष्ठ संख्या प्राप्त या सेट करता है। |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD फ़ाइल में रखी गई परत का परिप्रेक्ष्य मान प्राप्त या सेट करता है। |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD फ़ाइल में रखी गई परत के परिप्रेक्ष्य को अन्य मान देता है या सेट करता है। |
-| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD फ़ाइल में रखी गई परत के प्रकार को प्राप्त या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | पीएलडी संसाधन के लिए आवश्यक न्यूनतम पीएसडी संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है। |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD फ़ाइल में रखी गई परत का सही स्थान प्राप्त या सेट करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | पीएलडी संसाधन हस्ताक्षर प्राप्त करता है। |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD छवि में रखी परत के शीर्ष स्थान को प्राप्त या सेट करता है। |
-| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | PSD फ़ाइल में रखी गई परत के कुल पृष्ठों को प्राप्त या सेट करता है। |
-| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | PSD फ़ाइल में रखी गई परत के ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त या सेट करता है। |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | PSD छवि में रखी गई परत का वैश्विक अद्वितीय पहचानकर्ता प्राप्त या सेट करता है। |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD फ़ाइल में रखी गई परत का यू ऑर्डर मान प्राप्त या सेट करता है। |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD छवि में रखी गई परत का ताना मान प्राप्त करता है या सेट करता है। |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD फ़ाइल में रखी गई परत का संस्करण प्राप्त करता है, आमतौर पर 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई परत के क्षैतिज जाल बिंदुओं को प्राप्त या सेट करता है। |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | ऊर्ध्वाधर जाल बिंदुओं की माप इकाई प्राप्त या सेट करता है। |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD फ़ाइल में रखी परत का V क्रम मान प्राप्त या सेट करता है। |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | PSD छवि में रखी गई लेयर की एंटी-एलियास नीति को प्राप्त करता है या सेट करता है। |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD छवि में रखी गई लेयर के नीचे स्थान को प्राप्त करता है या सेट करता है। |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD फ़ाइल में रखी गई लेयर की सीमाओं को प्राप्त करता है या सेट करता है। |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के क्षैतिज मेष बिंदुओं को प्राप्त करता है या सेट करता है। |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | क्षैतिज मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है। |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | इस उदाहरण के वार्प शैली कस्टम है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। यदि true है तो इसमें मेष बिंदु होते हैं। यदि false सेट किया जाता है तो मेष बिंदु मिटा दिए जाते हैं। |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | वार्प आइटम्स को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के बाएँ स्थान को प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | PlLd संसाधन की लंबाई बाइट्स में प्राप्त करता है। |
+| virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | PSD फ़ाइल में रखी गई लेयर का पृष्ठ संख्या प्राप्त करता है या सेट करता है। |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है। |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के अन्य परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है। |
+| virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के प्रकार को प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के दाएँ स्थान को प्राप्त करता है या सेट करता है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | स्थापित लेयर की शीर्ष स्थिति को प्राप्त करता है या सेट करता है PSD छवि में। |
+| virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | स्थापित लेयर के कुल पृष्ठों को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
+| virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | स्थापित लेयर के ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | स्थापित लेयर के वैश्विक अद्वितीय पहचानकर्ता को प्राप्त करता है या सेट करता है PSD छवि में। |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | स्थापित लेयर के U क्रम मान को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | स्थापित लेयर के वार्प मान को प्राप्त करता है या सेट करता है PSD छवि में। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | स्थापित लेयर का संस्करण प्राप्त करता है PSD फ़ाइल में, आमतौर पर 3। |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के क्षैतिज मेष बिंदुओं को प्राप्त करता है या सेट करता है। |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | ऊर्ध्वाधर मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है। |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | स्थापित लेयर के V क्रम मान को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
 
-## तरीकों
-
-| नाम | विवरण |
-| --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | PlLD संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
-
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में PlLD संसाधन को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्नलिखित कोड PlLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित कोड PlLdResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -243,16 +244,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -264,10 +267,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlacedResource](../placedresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

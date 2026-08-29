@@ -1,70 +1,71 @@
 ---
-title: StringFormat.StringFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat नर्मत. एक नय आरंभ करत हैStringFormat वस्तु.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat कन्स्ट्रक्टर। एक नया StringFormat ऑब्जेक्ट इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-एक नया आरंभ करता है[`StringFormat`](../) वस्तु.
+एक नया [`StringFormat`](../) ऑब्जेक्ट इनिशियलाइज़ करता है।
 
 ```csharp
 public StringFormat()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-एक नया आरंभ करता है[`StringFormat`](../) निर्दिष्ट के साथ वस्तु[`StringFormatFlags`](../../stringformatflags/) गणना और भाषा.
+निर्दिष्ट [`StringFormatFlags`](../../stringformatflags/) एनेमरेशन और भाषा के साथ एक नया [`StringFormat`](../) ऑब्जेक्ट इनिशियलाइज़ करता है।
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| options | StringFormatFlags | [`StringFormatFlags`](../../stringformatflags/) नए के लिए गणना[`StringFormat`](../) वस्तु। |
+| options | StringFormatFlags | नए [`StringFormat`](../) ऑब्जेक्ट के लिए [`StringFormatFlags`](../../stringformatflags/) एनेमरेशन। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-एक नया आरंभ करता है[`StringFormat`](../) निर्दिष्ट मौजूदा से वस्तु[`StringFormat`](../) वस्तु.
+निर्दिष्ट मौजूदा [`StringFormat`](../) ऑब्जेक्ट से एक नया [`StringFormat`](../) ऑब्जेक्ट इनिशियलाइज़ करता है।
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| format | StringFormat | [`StringFormat`](../) वह वस्तु जिससे नया आरंभ करना है[`StringFormat`](../) वस्तु। |
+| format | StringFormat | वह [`StringFormat`](../) ऑब्जेक्ट जिससे नया [`StringFormat`](../) ऑब्जेक्ट इनिशियलाइज़ किया जाता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *format* शून्य है। |
+| ArgumentNullException | *format* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

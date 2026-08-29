@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.BitsPixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ThumbnailResource संपत्त. बट्स पक्सेल प्रप्त य सेट करत है
+title: "ThumbnailResource.BitsPixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ThumbnailResource प्रॉपर्टी। बिट्स पिक्सेल को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.BitsPixel property
 
-बिट्स पिक्सेल प्राप्त या सेट करता है।
+बिट्स पिक्सेल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short BitsPixel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 थंबनेल बिट्स पिक्सेल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ThumbnailResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

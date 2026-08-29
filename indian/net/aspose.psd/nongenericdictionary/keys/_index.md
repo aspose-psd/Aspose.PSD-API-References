@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary संपत्त. क मलत हैICollection ऑब्जेक्ट जसमें क कुंजयँ हैंIDictionary वस्तु.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary प्रॉपर्टी। एक ICollection ऑब्जेक्ट प्राप्त करता है जिसमें IDictionary ऑब्जेक्ट की कुंजियाँ होती हैं"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-को मिलता हैICollection ऑब्जेक्ट जिसमें की कुंजियाँ हैंIDictionary वस्तु.
+IDictionary ऑब्जेक्ट की कुंजियों को शामिल करने वाला ICollection ऑब्जेक्ट प्राप्त करता है।
 
 ```csharp
 public ICollection Keys { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एकICollection कुंजी युक्त वस्तुIDictionary वस्तु।
+IDictionary ऑब्जेक्ट की कुंजियों को सम्मिलित करने वाला एक ICollection ऑब्जेक्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. रेखपुंज छव क नम प्रप्त करत है
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। रास्टर इमेज का नाम प्राप्त करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
-रेखापुंज छवि का नाम प्राप्त करता है।
+रास्टर इमेज का नाम प्राप्त करता है।
 
 ```csharp
 public string Name { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रेखापुंज छवि का नाम।
+रास्टर इमेज का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. गुण करत हैMatrix ज इसके स्थनय ज्यमतय परवर्तन क प्रतनधत्व करत हैGraphics नर्दष्ट द्वरMatrix नर्दष्ट तैयर करकेMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। इस Graphics के स्थानीय ज्यामितीय ट्रांसफ़ॉर्म का प्रतिनिधित्व करने वाले Matrix को निर्दिष्ट Matrix द्वारा, निर्दिष्ट Matrix को पहले जोड़कर (prepend) गुणा करता है।"
 type: docs
-weight: 420
+weight: 430
 url: /hi/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-गुणा करता है[`Matrix`](../../matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`Graphics`](../) निर्दिष्ट द्वारा[`Matrix`](../../matrix/) निर्दिष्ट तैयार करके[`Matrix`](../../matrix/) .
+[`Matrix`](../../matrix/) जो इस [`Graphics`](../) के स्थानीय ज्यामितीय ट्रांसफ़ॉर्म का प्रतिनिधित्व करता है, उसे निर्दिष्ट [`Matrix`](../../matrix/) द्वारा, निर्दिष्ट [`Matrix`](../../matrix/) को पहले जोड़कर (prepend) गुणा करता है।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) जिससे ज्यामितीय परिवर्तन को गुणा किया जा सके। |
+| matrix | Matrix | ज्यामितीय ट्रांसफ़ॉर्म को गुणा करने के लिए [`Matrix`](../../matrix/)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-गुणा करता है[`Matrix`](../../matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`Graphics`](../) निर्दिष्ट द्वारा[`Matrix`](../../matrix/) निर्दिष्ट क्रम में.
+इस [`Graphics`](../) के स्थानीय ज्यामितीय ट्रांसफ़ॉर्म का प्रतिनिधित्व करने वाले [`Matrix`](../../matrix/) को निर्दिष्ट क्रम में निर्दिष्ट [`Matrix`](../../matrix/) द्वारा गुणा करता है।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) जिससे ज्यामितीय परिवर्तन को गुणा किया जा सके। |
-| order | MatrixOrder | ए[`MatrixOrder`](../../matrixorder/) यह निर्दिष्ट करता है कि किस क्रम में दो मैट्रिसेस को गुणा करना है। |
+| matrix | Matrix | ज्यामितीय ट्रांसफ़ॉर्म को गुणा करने के लिए [`Matrix`](../../matrix/)। |
+| order | MatrixOrder | एक [`MatrixOrder`](../../matrixorder/) जो दो मैट्रिसेज़ को किस क्रम में गुणा करना है, निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

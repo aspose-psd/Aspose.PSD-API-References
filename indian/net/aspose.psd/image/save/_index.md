@@ -1,43 +1,44 @@
 ---
-title: Image.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. छव डेट क अंतर्नहत स्ट्रम में सहेजत है
+title: "Image.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। छवि डेटा को अंतर्निहित स्ट्रीम में सहेजता है।"
 type: docs
-weight: 230
+weight: 240
 url: /hi/net/aspose.psd/image/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-छवि डेटा को अंतर्निहित स्ट्रीम में सहेजता है।
+इमेज डेटा को अंतर्निहित स्ट्रीम में सहेजता है।
 
 ```csharp
 public void Save()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है।
+ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है।
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | फ़ाइल पथ. |
-| options | ImageOptionsBase | विकल्प। |
+| filePath | String | फ़ाइल पथ। |
+| विकल्प | ImageOptionsBase | विकल्प। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण प्रदर्शित करता है कि कैसे आप Adobe Illustrator फ़ाइलों को Aspose.PSD में PDF स्वरूप में निर्यात कर सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप Adobe Illustrator फ़ाइलों को Aspose.PSD में PDF फ़ॉर्मेट में कैसे निर्यात कर सकते हैं।
 
 ```csharp
 [C#]
@@ -50,12 +51,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि AsposePSD PSB फ़ाइलों को PSD प्रारूप में निर्यात करने का समर्थन करता है।
+निम्नलिखित उदाहरण दर्शाता है कि AsposePSD PSB फ़ाइलों को PSD फ़ॉर्मेट में निर्यात करने का समर्थन करता है।
 
 ```csharp
 [C#]
 
-// पीएसबी को पीडीएफ के रूप में सहेजने का समर्थन करें
+// PSB को PDF के रूप में सहेजने का समर्थन
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -65,12 +66,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-चयन योग्य पाठ के साथ PsdImage को PDF दस्तावेज़ के रूप में सहेजने वाला निम्न कोड।
+निम्नलिखित कोड PsdImage को चयन योग्य टेक्स्ट के साथ PDF दस्तावेज़ के रूप में सहेजता है।
 
 ```csharp
 [C#]
 
-// PSD को PDF में सहेजना चयन करने योग्य पाठ प्रदान नहीं करता है
+// PSD को PDF में सहेजने से चयन योग्य टेक्स्ट उपलब्ध नहीं होता है
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -80,7 +81,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि कैसे आप AI फ़ाइल को Aspose.PSD में PSD और PNG प्रारूप में निर्यात कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में AI फ़ाइल को PSD और PNG फ़ॉर्मेट में कैसे निर्यात कर सकते हैं।
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि दाएँ-से-बाएँ भाषाओं के लिए ITextPortion के माध्यम से पाठ संरेखण ठीक से काम करता है।
+निम्न उदाहरण दर्शाता है कि दाएँ‑से‑बाएँ भाषाओं के लिए ITextPortion के माध्यम से टेक्स्ट अलाइनमेंट सही ढंग से काम करता है।
 
 ```csharp
 [C#]
@@ -114,23 +115,23 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-यह उदाहरण एक छवि को बचाने के सरल चरणों को दिखाता है। इस ऑपरेशन को प्रदर्शित करने के लिए, हम किसी डिस्क स्थान से एक मौजूदा फ़ाइल को लोड करते हैं, छवि पर रोटेट ऑपरेशन करते हैं और फ़ाइल पथ का उपयोग करके जेपीईजी फ़ाइल प्रारूप में छवि को सहेजते हैं।
+यह उदाहरण एक Image को Save करने के सरल चरण दिखाता है। इस ऑपरेशन को प्रदर्शित करने के लिए, हम किसी डिस्क स्थान से मौजूदा फ़ाइल लोड करते हैं, Image पर Rotate ऑपरेशन करते हैं और File Path का उपयोग करके JPEG फ़ाइल फ़ॉर्मेट में Image को Save करते हैं।
 
 ```csharp
 [C#]
 
-// छवि वर्ग का एक उदाहरण बनाएं और इसे फ़ाइल पथ के माध्यम से मौजूदा फ़ाइल के साथ प्रारंभ करें
+//Image क्लास की एक इंस्टेंस बनाएं और इसे File path के माध्यम से मौजूदा फ़ाइल से इनिशियलाइज़ करें।
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // एक्स अक्ष के बारे में छवि को 180 डिग्री पर घुमाएं
+    //इमेज को X अक्ष के बारे में 180 डिग्री घुमाएँ
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    // छवि को Jpeg के रूप में फ़ाइल पथ में डिफ़ॉल्ट JpegOptions सेटिंग्स के साथ सहेजें
+    //Image को Jpeg के रूप में File Path पर डिफ़ॉल्ट JpegOptions सेटिंग्स के साथ Save करें।
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में LayerGroup दृश्यता को कैसे बदल सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में LayerGroup की दृश्यता को कैसे बदल सकते हैं।
 
 ```csharp
 [C#]
@@ -138,14 +139,14 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// लेयर के नाम में बदलाव करें और इसे सेव करें
+// लेयर नामों में परिवर्तन करें और इसे सहेजें
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // एक समूह के अंदर सब कुछ बंद कर दें
+        // समूह के भीतर सभी चीज़ों को बंद करें
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -156,7 +157,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्न उदाहरण प्रदर्शित करता है कि यदि Aspose.PSD में सरल कन्स्ट्रक्टर संस्करण का उपयोग किया जाता है तो आप नई बनाई गई परत पर कैसे आकर्षित कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में सरल कंस्ट्रक्टर संस्करण का उपयोग करने पर नए बनाए गए लेयर पर कैसे ड्रॉ कर सकते हैं
 
 ```csharp
 [C#]
@@ -175,17 +176,17 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // पेन टूल के साथ एक आयत बनाएं
+    // Pen टूल से एक आयत बनाएं
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // सॉलिड ब्रश के साथ नीले रंग में एक और आयत बनाएं
+    // नीले रंग में Solid Brush से एक और आयत बनाएं
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 16 बिट प्रति चैनल आरजीबी में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 16 बिट प्रति चैनल RGB में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -218,7 +219,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 8 बिट प्रति चैनल ग्रेस्केल में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 8 बिट प्रति चैनल Grayscale में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -251,7 +252,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं।
 
 ```csharp
 [C#]
@@ -398,126 +399,126 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है।
+ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है।
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | filePath | String | फ़ाइल पथ। |
-| options | ImageOptionsBase | विकल्प। |
-| boundsRectangle | Rectangle | गंतव्य छवि आयत को सीमित करती है। स्रोत सीमा का उपयोग करने के लिए खाली आयत सेट करें। |
+| विकल्प | ImageOptionsBase | विकल्प। |
+| boundsRectangle | Rectangle | गंतव्य छवि सीमाओं का आयत। स्रोत सीमाओं के उपयोग के लिए खाली आयत सेट करें। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | विकल्प |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | छवि सहेजना विफल रहा. |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | छवि सहेजना विफल रहा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase) {#save_2}
 
-इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है।
+इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है।
 
 ```csharp
 public void Save(Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | छवि के डेटा को सहेजने के लिए स्ट्रीम। |
+| stream | Stream | इमेज डेटा को सहेजने के लिए स्ट्रीम। |
 | optionsBase | ImageOptionsBase | सेव विकल्प। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | optionsBase |
-| ArgumentException | निर्दिष्ट प्रारूप में सहेजा नहीं जा सकता क्योंकि यह इस समय समर्थित नहीं है। विकल्पबेस |
+| ArgumentException | वर्तमान में यह समर्थित नहीं होने के कारण निर्दिष्ट प्रारूप में सहेज नहीं सकता।;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | छवि निर्यात विफल रहा। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण इमेज को मेमोरीस्ट्रीम में सेव करने की प्रक्रिया को दिखाता है। इस ऑपरेशन को प्रदर्शित करने के लिए, उदाहरण किसी डिस्क स्थान से मौजूदा फ़ाइल को लोड करता है, इमेज पर रोटेट ऑपरेशन करता है और इमेज को Gif फॉर्मेट में सेव करता है
+यह उदाहरण छवि को MemoryStream में सहेजने की प्रक्रिया दिखाता है। इस ऑपरेशन को प्रदर्शित करने के लिए, उदाहरण किसी डिस्क स्थान से मौजूदा फ़ाइल लोड करता है, छवि पर Rotate ऑपरेशन करता है और छवि को Gif प्रारूप में सहेजता है।
 
 ```csharp
 [C#]
 
-// मेमोरीस्ट्रीम का एक उदाहरण बनाएं
+//MemoryStream का एक इंस्टेंस बनाएँ।
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // छवि वर्ग का एक उदाहरण बनाएं और इसे फ़ाइल पथ के माध्यम से मौजूदा फ़ाइल के साथ प्रारंभ करें
+    //Image क्लास की एक इंस्टेंस बनाएं और इसे File path के माध्यम से मौजूदा फ़ाइल से इनिशियलाइज़ करें।
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     {
-        // एक्स अक्ष के बारे में छवि को 180 डिग्री पर घुमाएं
+        //इमेज को X अक्ष के बारे में 180 डिग्री घुमाएँ
         image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-        // छवि को डिफ़ॉल्ट GifOptions सेटिंग्स के साथ PSD के रूप में मेमोरीस्ट्रीम में सहेजें
+        //डिफ़ॉल्ट GifOptions सेटिंग्स के साथ छवि को PSD के रूप में MemoryStream में सहेजें
         image.Save(stream, new Aspose.PSD.ImageOptions.GifOptions());
     }
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है।
+इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है।
 
 ```csharp
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | छवि के डेटा को सहेजने के लिए स्ट्रीम। |
+| stream | Stream | इमेज डेटा को सहेजने के लिए स्ट्रीम। |
 | optionsBase | ImageOptionsBase | सेव विकल्प। |
-| boundsRectangle | Rectangle | गंतव्य छवि आयत को सीमित करती है। स्रोत सीमा का उपयोग करने के लिए खाली आयत सेट करें। |
+| boundsRectangle | Rectangle | गंतव्य इमेज बाउंड्स आयत। स्रोत बाउंड्स के उपयोग के लिए खाली आयत सेट करें। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | optionsBase |
-| ArgumentException | निर्दिष्ट प्रारूप में सहेजा नहीं जा सकता क्योंकि यह इस समय समर्थित नहीं है। विकल्पबेस |
+| ArgumentException | वर्तमान में यह समर्थित नहीं होने के कारण निर्दिष्ट प्रारूप में सहेज नहीं सकता।;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | छवि निर्यात विफल रहा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

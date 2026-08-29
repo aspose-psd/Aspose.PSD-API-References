@@ -1,14 +1,15 @@
 ---
-title: Enum ResizeType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ResizeType एनुम. आकर बदलने के प्रकर क नर्दष्ट करत है
+title: "एनम ResizeType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ResizeType एनम। री-साइज़ प्रकार निर्दिष्ट करता है।"
 type: docs
-weight: 5370
+weight: 5870
 url: /hi/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-आकार बदलने के प्रकार को निर्दिष्ट करता है।
+रिसाइज़ प्रकार को निर्दिष्ट करता है।
 
 ```csharp
 public enum ResizeType
@@ -16,29 +17,29 @@ public enum ResizeType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | आकार बदलने की प्रक्रिया के दौरान पिक्सेल संरक्षित नहीं होते हैं। |
-| LeftTopToLeftTop | `1` | नई छवि का बायां शीर्ष बिंदु मूल छवि के बाएं शीर्ष बिंदु से मिल जाएगा। आवश्यकता पड़ने पर फसल होगी। |
-| RightTopToRightTop | `2` | नई छवि का दायां शीर्ष बिंदु मूल छवि के दाएं शीर्ष बिंदु से मिल जाएगा। आवश्यकता पड़ने पर फसल होगी। |
-| RightBottomToRightBottom | `3` | नई छवि का दायां निचला बिंदु मूल छवि के दाएं निचले बिंदु से मिल जाएगा। आवश्यकता पड़ने पर फसल होगी। |
-| LeftBottomToLeftBottom | `4` | नई छवि का बायां निचला बिंदु मूल छवि के बाएं निचले बिंदु के साथ मिल जाएगा। आवश्यकता पड़ने पर फसल होगी। |
-| CenterToCenter | `5` | नई छवि का केंद्र मूल छवि के केंद्र के साथ मिल जाएगा। आवश्यकता पड़ने पर फसल होगी। |
-| LanczosResample | `6` | एक = 3. के साथ लैंक्ज़ोस एल्गोरिथम का उपयोग करके पुन: नमूना |
-| NearestNeighbourResample | `7` | निकटतम पड़ोसी एल्गोरिथम का उपयोग करके पुन: नमूना करें। |
-| AdaptiveResample | `8` | भारित और मिश्रित तर्कसंगत फ़ंक्शन और lanczos3 इंटरपोलेशन एल्गोरिदम के आधार पर अनुकूली एल्गोरिदम का उपयोग करके पुन: नमूना। |
-| BilinearResample | `9` | बिलिनियर इंटरपोलेशन का उपयोग करके पुनः नमूना लें। छवि पूर्व-फ़िल्टरिंग को आवश्यकता होने पर पुनः नमूना लेने से पहले शोर को हटाने की अनुमति है |
-| HighQualityResample | `10` | उच्च गुणवत्ता वाला नमूना |
-| CatmullRom | `11` | कैटमुल-रोम क्यूबिक इंटरपोलेशन विधि। |
-| CubicConvolution | `12` | क्यूबिक कनवल्शन इंटरपोलेशन विधि |
-| CubicBSpline | `13` | क्यूबिकबीस्पलाइन क्यूबिक इंटरपोलेशन विधि |
-| Mitchell | `14` | मिचेल क्यूबिक इंटरपोलेशन विधि |
-| SinC | `15` | सिनक (लैंक्ज़ोस3) क्यूबिक इंटरपोलेशन विधि |
-| Bell | `16` | बेल प्रक्षेप विधि |
+| None | `0` | री-साइज़ ऑपरेशन के दौरान पिक्सेल संरक्षित नहीं होते हैं। |
+| LeftTopToLeftTop | `1` | नई इमेज का बायाँ ऊपर बिंदु मूल इमेज के बाएँ ऊपर बिंदु के साथ मेल खाएगा। आवश्यकता होने पर क्रॉप किया जाएगा। |
+| RightTopToRightTop | `2` | नई इमेज का दायाँ ऊपर बिंदु मूल इमेज के दाएँ ऊपर बिंदु के साथ मेल खाएगा। आवश्यकता होने पर क्रॉप किया जाएगा। |
+| RightBottomToRightBottom | `3` | नई इमेज का दायाँ नीचे बिंदु मूल इमेज के दाएँ नीचे बिंदु के साथ मेल खाएगा। आवश्यकता होने पर क्रॉप किया जाएगा। |
+| LeftBottomToLeftBottom | `4` | नई छवि का बायाँ निचला बिंदु मूल छवि के बाएँ निचले बिंदु के साथ मेल खाएगा। आवश्यकता होने पर क्रॉप किया जाएगा। |
+| CenterToCenter | `5` | नई छवि का केंद्र मूल छवि के केंद्र के साथ मेल खाएगा। आवश्यकता होने पर क्रॉप किया जाएगा। |
+| LanczosResample | `6` | a=3 के साथ लैंज़ोस एल्गोरिद्म का उपयोग करके पुनः नमूना लें। |
+| NearestNeighbourResample | `7` | निकटतम पड़ोसी एल्गोरिद्म का उपयोग करके पुनः नमूना लें। |
+| AdaptiveResample | `8` | वज़नित और मिश्रित रैशनल फ़ंक्शन तथा लैंज़ोस3 इंटरपोलेशन एल्गोरिद्म पर आधारित अनुकूलन एल्गोरिद्म का उपयोग करके पुनः नमूना लें। |
+| BilinearResample | `9` | बिलीनियर इंटरपोलेशन का उपयोग करके पुनः नमूना लें। आवश्यकता होने पर पुनः नमूना से पहले शोर हटाने के लिए छवि प्री‑फ़िल्टरिंग की अनुमति है। |
+| HighQualityResample | `10` | उच्च गुणवत्ता वाला पुनः नमूना |
+| CatmullRom | `11` | Catmull‑Rom क्यूबिक इंटरपोलेशन विधि। |
+| CubicConvolution | `12` | Cubic Convolution इंटरपोलेशन विधि |
+| CubicBSpline | `13` | CubicBSpline क्यूबिक इंटरपोलेशन विधि |
+| Mitchell | `14` | Mitchell क्यूबिक इंटरपोलेशन विधि |
+| SinC | `15` | Sinc (Lanczos3) क्यूबिक इंटरपोलेशन विधि |
+| Bell | `16` | Bell इंटरपोलेशन विधि |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दर्शाता है कि एक नए SinC आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई SinC रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ public enum ResizeType
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड दर्शाता है कि एक नए बेल आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई Bell रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड दर्शाता है कि एक नए मिशेल आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई Mitchell रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए CatmullRom आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CatmullRom रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए क्यूबिकबीस्पलाइन आकार बदलने के प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CubicBSpline रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए क्यूबिक कनवॉल्यूशन आकार बदलने के प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CubicConvolution रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -134,9 +135,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size नर्मत. क एक नय उदहरण प्ररंभ करत हैSize नर्दष्ट से संरचनPoint .
+title: "Size.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size कंस्ट्रक्टर। निर्दिष्ट Point से Size संरचना का नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Size`](../) निर्दिष्ट से संरचना[`Point`](../../point/) .
+निर्दिष्ट [`Point`](../../point/) से [`Size`](../) संरचना का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Size(Point point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | [`Point`](../../point/) जिससे इसे प्रारंभ करना है[`Size`](../). |
+| point | Point | यह [`Size`](../) प्रारंभ करने के लिए उपयोग किया जाने वाला [`Point`](../../point/)। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Size`](../) निर्दिष्ट आयामों से संरचना।
+निर्दिष्ट आयामों से [`Size`](../) संरचना का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Int32 | नए का चौड़ाई घटक[`Size`](../). |
-| height | Int32 | नए का ऊंचाई घटक[`Size`](../). |
+| width | Int32 | नए [`Size`](../) का चौड़ाई घटक। |
+| height | Int32 | नए [`Size`](../) का ऊँचाई घटक। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

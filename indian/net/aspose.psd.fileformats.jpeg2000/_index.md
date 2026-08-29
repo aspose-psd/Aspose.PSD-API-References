@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन Jpeg2000 फ़इल प्ररूप प्रसंस्करण क संभलत है
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस Jpeg2000 फ़ाइल फ़ॉर्मेट प्रोसेसिंग को संभालता है"
 type: docs
-weight: 170
+weight: 180
 url: /hi/net/aspose.psd.fileformats.jpeg2000/
 ---
-नामस्थान Jpeg2000 फ़ाइल प्रारूप प्रसंस्करण को संभालता है।
+{{< psd/tize >}}
+नामस्थान JPEG2000 फ़ाइल स्वरूप प्रोसेसिंग को संभालता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg कोड उत्पन्न अपवाद |
-## गणना
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg कोड द्वारा उत्पन्न अपवाद |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [Jpeg2000Codec](./jpeg2000codec/) | JPEG2000 छवि प्रकार का प्रतिनिधित्व करता है |
+| [Jpeg2000Codec](./jpeg2000codec/) | JPEG2000 इमेज प्रकार का प्रतिनिधित्व करता है |
 
 

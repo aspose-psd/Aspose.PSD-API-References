@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. थंबनेल छव प्रप्त य सेट करत है
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। थंबनेल इमेज प्राप्त करता है या सेट करता है"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-थंबनेल छवि प्राप्त या सेट करता है।
+थंबनेल छवि को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-थंबनेल.
+थंबनेल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

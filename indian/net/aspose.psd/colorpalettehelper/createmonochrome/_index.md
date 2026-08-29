@@ -1,28 +1,29 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPaletteHelper तरक. एक मनक्रम रंग पैलेट बनत है जसमें केवल 2 रंग हते हैं
+title: "ColorPaletteHelper.CreateMonochrome"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPaletteHelper मेथड। केवल 2 रंगों वाला मोनोक्रोम रंग पैलेट बनाता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/colorpalettehelper/createmonochrome/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.CreateMonochrome method
 
-एक मोनोक्रोम रंग पैलेट बनाता है जिसमें केवल 2 रंग होते हैं।
+केवल 2 रंगों वाला मोनोक्रोम रंग पैलेट बनाता है।
 
 ```csharp
 public static IColorPalette CreateMonochrome()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 मोनोक्रोम छवियों के लिए रंग पैलेट।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

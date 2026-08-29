@@ -1,23 +1,24 @@
 ---
-title: InfxResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InfxResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "InfxResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InfxResource प्रॉपर्टी। लेयर रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/
 ---
+{{< psd/tize >}}
 ## InfxResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InfxResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClipboardRecord नर्मत. क एक नय उदहरण प्ररंभ करत हैClipboardRecord वर्ग.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClipboardRecord कंस्ट्रक्टर। ClipboardRecord क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClipboardRecord`](../) वर्ग.
+[`ClipboardRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ClipboardRecord()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClipboardRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClipboardRecord`](../) वर्ग.
+[`ClipboardRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रिकॉर्ड डेटा। |
+| डेटा | Byte[] | रिकॉर्ड डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClipboardRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

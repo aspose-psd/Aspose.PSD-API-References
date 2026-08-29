@@ -1,44 +1,45 @@
 ---
-title: EllipseShape.EllipseShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: EllipseShape नर्मत. क एक नय उदहरण प्ररंभ करत हैEllipseShape वर्ग.
+title: "EllipseShape.EllipseShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "EllipseShape कंस्ट्रक्टर। EllipseShape क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/ellipseshape/ellipseshape/
 ---
+{{< psd/tize >}}
 ## EllipseShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`EllipseShape`](../) वर्ग.
+[`EllipseShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public EllipseShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [EllipseShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../ellipseshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## EllipseShape(RectangleF) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`EllipseShape`](../) वर्ग.
+[`EllipseShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public EllipseShape(RectangleF rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
+| आयत | RectangleF | आयत। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [EllipseShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../ellipseshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

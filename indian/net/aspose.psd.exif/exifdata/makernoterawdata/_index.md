@@ -1,27 +1,28 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. मेकर नट कच्चे डेट क प्रप्त य सेट करत है
+title: "ExifData.MakerNoteRawData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। मेकर नोट कच्चा डेटा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 790
 url: /hi/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
-मेकर नोट कच्चे डेटा को प्राप्त या सेट करता है।
+निर्माता नोट कच्चा डेटा प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-निर्माता कच्चे डेटा को नोट करता है।
+मेकर नोट कच्चा डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,55 @@
 ---
-title: PostResource.Levels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PostResource संपत्त. पस्टरइज परत के स्तर
+title: "PostResource.Levels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PostResource प्रॉपर्टी। पोस्टराइज़ लेयर के लेवल्स"
 type: docs
-weight: 40
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/
 ---
+{{< psd/tize >}}
 ## PostResource.Levels property
 
-पोस्टराइज परत के स्तर।
+पोस्टराइज़ लेयर के स्तर।
 
 ```csharp
 public short Levels { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-स्तर int मान
+लेवल्स int मान
 
-### यह सभी देखें
+## उदाहरण
+
+निम्नलिखित कोड PostResource के हेरफेर की क्षमता को दर्शाता है।
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### देखें भी
 
 * class [PostResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

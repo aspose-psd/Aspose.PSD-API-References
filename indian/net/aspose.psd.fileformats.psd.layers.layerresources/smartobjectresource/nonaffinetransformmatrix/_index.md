@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.NonAffineTransformMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. PSD फ़इल में स्मर्ट ऑब्जेक्ट लेयर डेट के नन एफइन ट्रंसफ़र्म मैट्रक्स क प्रप्त य सेट करत है
+title: "SmartObjectResource.NonAffineTransformMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource property. प्राप्त करता है या सेट करता है PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का नॉन-अफ़ाइन ट्रांसफ़ॉर्म मैट्रिक्स"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.NonAffineTransformMatrix property
 
-PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के नॉन एफाइन ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त या सेट करता है।
+PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के नॉन‑अफ़ाइन ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्मार्ट ऑब्जेक्ट लेयर का नॉन एफाइन ट्रांसफॉर्म मैट्रिक्स।
+स्मार्ट ऑब्जेक्ट लेयर का नॉन-अफ़ाइन ट्रांसफ़ॉर्म मैट्रिक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

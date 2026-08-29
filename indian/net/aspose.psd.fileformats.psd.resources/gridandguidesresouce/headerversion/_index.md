@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GridAndGuidesResouce संपत्त. हेडर संस्करण प्रप्त य सेट करत है यह मन हमेश 1. हन चहए
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GridAndGuidesResouce प्रॉपर्टी। हेडर संस्करण को प्राप्त करता है या सेट करता है। यह मान हमेशा 1 होना चाहिए।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
-हेडर संस्करण प्राप्त या सेट करता है। यह मान हमेशा 1. होना चाहिए
+हेडर संस्करण को प्राप्त करता है या सेट करता है। यह मान हमेशा 1 होना चाहिए।
 
 ```csharp
 public int HeaderVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 हेडर संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GridAndGuidesResouce](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

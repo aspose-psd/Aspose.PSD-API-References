@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. कले सफेद समयजन परत जड़त है
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। black white समायोजन लेयर जोड़ता है"
 type: docs
-weight: 290
+weight: 300
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-काले सफेद समायोजन परत जोड़ता है।
+ब्लैक व्हाइट एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाई गई काली सफेद समायोजन परत।
+बनाया गया black white समायोजन लेयर।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में रनटाइम पर काले सफेद समायोजन परत को कैसे जोड़ सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप रनटाइम में Aspose.PSD में ब्लैक व्हाइट एडजस्टमेंट लेयर कैसे जोड़ सकते हैं।
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfPackage तरक. पडएफ संस्करण सेट करत है
+title: "PdfPackage.SetPdfVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfPackage मेथड। PDF संस्करण सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
-पीडीएफ संस्करण सेट करता है।
+PDF संस्करण सेट करता है।
 
 ```csharp
 public void SetPdfVersion(string version)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| version | String | पीडीएफ संस्करण, उदाहरण के लिए: 1.0, 1.3 आदि। |
+| संस्करण | String | PDF संस्करण, उदाहरण के लिए: 1.0, 1.3 आदि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

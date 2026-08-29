@@ -1,32 +1,33 @@
 ---
-title: LiFeDataSource.AdobeStockId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LiFeDataSource संपत्त. Adobe Photoshop CC लइब्रेर के लए ग्रफक्स लइब्रेर AdobeStockId प्रप्त य सेट करत है
+title: "LiFeDataSource.AdobeStockId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LiFeDataSource प्रॉपर्टी। Adobe Photoshop CC लाइब्रेरीज़ के लिए ग्राफ़िक्स लाइब्रेरी AdobeStockId प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockId property
 
-Adobe® Photoshop® CC लाइब्रेरी के लिए ग्राफिक्स लाइब्रेरी AdobeStockId प्राप्त या सेट करता है।
+Adobe® Photoshop® CC लाइब्रेरीज़ के लिए ग्राफ़िक्स लाइब्रेरी AdobeStockId को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string AdobeStockId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ग्राफिक्स लाइब्रेरी एडोब स्टॉक आइडेंटिफ़ायर।
+ग्राफ़िक्स लाइब्रेरी Adobe Stock पहचानकर्ता।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AdobeStockId संपत्ति तक नहीं पहुंच सकते, यह केवल liFE डेटा स्रोत के लिए उपलब्ध है जब IsLibrary true है |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AdobeStockId प्रॉपर्टी तक पहुंच नहीं सकते, यह केवल तब उपलब्ध है जब IsLibrary सत्य हो और liFE डेटा स्रोत हो। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि Psd LnkE संसाधन के गुणों को कैसे प्राप्त और सेट किया जाए।
+यह उदाहरण दिखाता है कि Psd LnkE रिसोर्स की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// यह उदाहरण दर्शाता है कि Psd LnkE संसाधन के गुणों को कैसे प्राप्त और सेट किया जाए जिसमें बाहरी लिंक की गई फ़ाइल के बारे में जानकारी हो।
+// यह उदाहरण दिखाता है कि बाहरी लिंक्ड फ़ाइल की जानकारी वाले Psd LnkE रिसोर्स की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// यह उदाहरण दर्शाता है कि Psd LnkeResource के गुणों को कैसे प्राप्त और सेट किया जाए जिसमें बाहरी लिंक की गई JPEG फ़ाइल के बारे में जानकारी हो।
+// यह उदाहरण दिखाता है कि बाहरी लिंक्ड JPEG फ़ाइल की जानकारी वाले Psd LnkeResource की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// यह उदाहरण दर्शाता है कि PSD LnkeResource के गुणों को कैसे प्राप्त और सेट किया जाए जिसमें बाहरी लिंक की गई PNG फ़ाइल के बारे में जानकारी हो।
+// यह उदाहरण दिखाता है कि बाहरी लिंक्ड PNG फ़ाइल की जानकारी वाले PSD LnkeResource की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// यह उदाहरण दर्शाता है कि PSD LnkeResource के गुणों को कैसे प्राप्त और सेट किया जाए जिसमें दो बाहरी लिंक की गई PNG और PSD फ़ाइलों के बारे में जानकारी हो।
+// यह उदाहरण दिखाता है कि कैसे PSD LnkeResource की प्रॉपर्टीज़ को प्राप्त और सेट किया जाए, जो दो बाहरी लिंक्ड PNG और PSD फ़ाइलों के बारे में जानकारी रखता है।
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// यह उदाहरण दर्शाता है कि फोटोशॉप Psd LnkeResource के गुणों को कैसे प्राप्त और सेट किया जाए जिसमें बाहरी लिंक्ड सीसी लाइब्रेरी एसेट के बारे में जानकारी हो।
+// यह उदाहरण दिखाता है कि कैसे Photoshop Psd LnkeResource की प्रॉपर्टीज़ को प्राप्त और सेट किया जाए, जो एक बाहरी लिंक्ड CC Libraries एसेट के बारे में जानकारी रखता है।
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,7 +195,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-निम्न कोड LnkeResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न कोड LnkeResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -416,10 +417,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LiFeDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

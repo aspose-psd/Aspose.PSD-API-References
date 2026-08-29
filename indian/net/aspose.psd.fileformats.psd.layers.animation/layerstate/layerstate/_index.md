@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerState नर्मत. क एक नय उदहरण प्ररंभ करत हैLayerState वर्ग.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerState कंस्ट्रक्टर. डिफ़ॉल्ट कंस्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`LayerState`](../) वर्ग.
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| पैरामीटर | प्रकार | विवरण |
-| --- | --- | --- |
-| layerId | Int32 | आईडी संबंधित परत की स्थिति की पहचान करने के लिए। |
-
-### यह सभी देखें
+### देखें भी
 
 * class [LayerState](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

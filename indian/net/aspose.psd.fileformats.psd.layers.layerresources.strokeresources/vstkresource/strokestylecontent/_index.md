@@ -1,24 +1,110 @@
 ---
-title: VstkResource.StrokeStyleContent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक इकई प्रप्त य सेट करत है गुण स्ट्रक क भरण सेटंग नर्धरत करत है.
+title: "VstkResource.StrokeStyleContent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक एंटिटी प्राप्त करता है या सेट करता है। प्रॉपर्टी स्ट्रोक की फ़िल सेटिंग्स निर्धारित करती है"
 type: docs
-weight: 90
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleContent property
 
-स्ट्रोक इकाई प्राप्त या सेट करता है। गुण स्ट्रोक की भरण सेटिंग निर्धारित करता है.
+स्ट्रोक एंटिटी प्राप्त करता या सेट करता है। प्रॉपर्टी स्ट्रोक की फ़िल सेटिंग्स निर्धारित करती है।
 
 ```csharp
+[Obsolete]
 public DescriptorStructure StrokeStyleContent { get; set; }
 ```
 
-### यह सभी देखें
+## उदाहरण
+
+निम्नलिखित कोड शैप स्ट्रोक के रेंडरिंग समर्थन को दर्शाता है।
+
+```csharp
+[C#]
+
+string sourceFile = "StrokeShapeTest.psd";
+string outputFilePsd = "StrokeShapeTest.out.psd";
+string outputFilePng = "StrokeShapeTest.out.png";
+
+using (PsdImage image = (PsdImage)Image.Load(sourceFile))
+{
+    Layer layer = image.Layers[1];
+    ShapeLayer shapeLayer = (ShapeLayer)image.Layers[1];
+    ColorFillSettings fillSettings = (ColorFillSettings)shapeLayer.Fill;
+    fillSettings.Color = Color.GreenYellow;
+    shapeLayer.Update();
+
+    ShapeLayer shapeLayer2 = (ShapeLayer)image.Layers[3];
+    GradientFillSettings gradientSettings = (GradientFillSettings)shapeLayer2.Fill;
+    SolidGradient solidGradient = (SolidGradient)gradientSettings.Gradient;
+    gradientSettings.Dither = true;
+    gradientSettings.Reverse = true;
+    gradientSettings.AlignWithLayer = false;
+    gradientSettings.Angle = 20;
+    gradientSettings.Scale = 50;
+    solidGradient.ColorPoints[0].Location = 100;
+    solidGradient.ColorPoints[1].Location = 4000;
+    solidGradient.TransparencyPoints[0].Location = 200;
+    solidGradient.TransparencyPoints[1].Location = 3800;
+    solidGradient.TransparencyPoints[0].Opacity = 90;
+    solidGradient.TransparencyPoints[1].Opacity = 10;
+    shapeLayer2.Update();
+
+    ShapeLayer shapeLayer3 = (ShapeLayer)image.Layers[5];
+    StrokeSettings strokeSettings = (StrokeSettings)shapeLayer3.Stroke;
+    strokeSettings.Size = 15;
+    ColorFillSettings strokeFillSettings = (ColorFillSettings)strokeSettings.Fill;
+    strokeFillSettings.Color = Color.GreenYellow;
+    shapeLayer3.Update();
+
+    image.Save(outputFilePsd);
+    image.Save(outputFilePng, new PngOptions());
+}
+
+// बदलाव डेटा की जाँच करें।
+using (PsdImage image = (PsdImage)Image.Load(outputFilePsd))
+{
+    ShapeLayer shapeLayer = (ShapeLayer)image.Layers[1];
+    ColorFillSettings fillSettings = (ColorFillSettings)shapeLayer.Fill;
+    AssertAreEqual(Color.GreenYellow, fillSettings.Color);
+
+    ShapeLayer shapeLayer2 = (ShapeLayer)image.Layers[3];
+    GradientFillSettings gradientSettings = (GradientFillSettings)shapeLayer2.Fill;
+    SolidGradient solidGradient = (SolidGradient)gradientSettings.Gradient;
+    AssertAreEqual(true, gradientSettings.Dither);
+    AssertAreEqual(true, gradientSettings.Reverse);
+    AssertAreEqual(false, gradientSettings.AlignWithLayer);
+    AssertAreEqual(20.0, gradientSettings.Angle);
+    AssertAreEqual(50, gradientSettings.Scale);
+    AssertAreEqual(100, solidGradient.ColorPoints[0].Location);
+    AssertAreEqual(4000, solidGradient.ColorPoints[1].Location);
+    AssertAreEqual(200, solidGradient.TransparencyPoints[0].Location);
+    AssertAreEqual(3800, solidGradient.TransparencyPoints[1].Location);
+    AssertAreEqual(90.0, solidGradient.TransparencyPoints[0].Opacity);
+    AssertAreEqual(10.0, solidGradient.TransparencyPoints[1].Opacity);
+
+    ShapeLayer shapeLayer3 = (ShapeLayer)image.Layers[5];
+    StrokeSettings strokeSettings = (StrokeSettings)shapeLayer3.Stroke;
+    ColorFillSettings strokeFillSettings = (ColorFillSettings)strokeSettings.Fill;
+    AssertAreEqual(15.0, strokeSettings.Size);
+    AssertAreEqual(Color.GreenYellow, strokeFillSettings.Color);
+}
+
+void AssertAreEqual(object expected, object actual, string message = null)
+{
+    if (!object.Equals(expected, actual))
+    {
+        throw new Exception(message ?? "Objects are not equal.");
+    }
+}
+```
+
+### देखें भी
 
 * class [DescriptorStructure](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/)
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

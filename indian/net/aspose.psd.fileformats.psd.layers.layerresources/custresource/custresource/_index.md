@@ -1,43 +1,44 @@
 ---
-title: CustResource.CustResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustResource नर्मत. क एक नय उदहरण प्ररंभ करत हैCustResource वर्ग.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustResource कंस्ट्रक्टर। CustResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`CustResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`CustResource`](../) क्लास का।
 
 ```csharp
 public CustResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [CustResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`CustResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`CustResource`](../) क्लास का।
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CustResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

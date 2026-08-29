@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में वे वर्ग हैं ज दस्तवेज़ के एक संस्करण क वर्णन करते हैं
+title: "Aspose.PSD.Xmp.Types.Complex.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में क्लासेज़ हैं जो दस्तावेज़ के एक संस्करण का वर्णन करती हैं"
 type: docs
-weight: 690
+weight: 730
 url: /hi/net/aspose.psd.xmp.types.complex.version/
 ---
-नाम स्थान में वे वर्ग हैं जो दस्तावेज़ के एक संस्करण का वर्णन करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो दस्तावेज़ के एक संस्करण का वर्णन करती हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
 | [Version](./version/) | दस्तावेज़ के एक संस्करण का वर्णन करता है। |
 

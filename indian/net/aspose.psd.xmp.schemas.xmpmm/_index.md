@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpMm
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में संबंधत सहयक वर्ग स्थरंक और वधयँ शमल हैं ज मुख्य रूप से डजटल एसेट मैनेजमेंट DAM सस्टम द्वर उपयग क जत हैं
+title: "Aspose.PSD.Xmp.Schemas.XmpMm"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह namespace संबंधित सहायक क्लास, स्थिरांक और मेथड्स को शामिल करता है जो मुख्य रूप से डिजिटल एसेट मैनेजमेंट DAM सिस्टम द्वारा उपयोग किया जाता है"
 type: docs
-weight: 580
+weight: 620
 url: /hi/net/aspose.psd.xmp.schemas.xmpmm/
 ---
-नामस्थान में संबंधित सहायक वर्ग, स्थिरांक और विधियाँ शामिल हैं जो मुख्य रूप से डिजिटल एसेट मैनेजमेंट (DAM) सिस्टम द्वारा उपयोग की जाती हैं।
+{{< psd/tize >}}
+Namespace में डिजिटल एसेट मैनेजमेंट (DAM) सिस्टम्स द्वारा मुख्यतः उपयोग की जाने वाली संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स शामिल हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | XMP मीडिया प्रबंधन नामस्थान का प्रतिनिधित्व करता है। |
+| [XmpMediaManagementPackage](./xmpmediamanagementpackage/) | XMP Media Management namespace का प्रतिनिधित्व करता है। |
 
 

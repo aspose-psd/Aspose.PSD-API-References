@@ -1,29 +1,30 @@
 ---
-title: Class BaseFillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings कक्ष. आधर भरण प्रभव सेटंग
+title: "क्लास BaseFillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings क्लास। बेस फ़िल इफ़ेक्ट सेटिंग्स"
 type: docs
-weight: 1920
+weight: 2030
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-आधार भरण प्रभाव सेटिंग
+बेस फ़िल इफ़ेक्ट सेटिंग्स
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | भरण का प्रकार प्राप्त करता है। |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | फ़िल का प्रकार प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IFillSettings](../ifillsettings/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,66 +1,67 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape नर्मत. क एक नय उदहरण प्ररंभ करत हैPolygonShape वर्ग.
+title: "PolygonShape.PolygonShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape कंस्ट्रक्टर। PolygonShape क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PolygonShape`](../) वर्ग.
+[`PolygonShape`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PolygonShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PolygonShape`](../) वर्ग.
+[`PolygonShape`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PolygonShape(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`PolygonShape`](../) वर्ग.
+[`PolygonShape`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
-| isClosed | Boolean | अगर सेट है`सत्य` बहुभुज बंद है। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
+| isClosed | बूलियन | यदि `true` पर सेट किया गया है तो बहुभुज बंद है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

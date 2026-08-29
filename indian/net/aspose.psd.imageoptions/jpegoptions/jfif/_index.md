@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.Jfif
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. jfif. प्रप्त य सेट करत है
+title: "JpegOptions.Jfif"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। jfif को प्राप्त या सेट करता है"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/jfif/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Jfif property
 
-jfif. प्राप्त या सेट करता है
+JFIF को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public JFIFData Jfif { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JFIFData](../../../aspose.psd.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

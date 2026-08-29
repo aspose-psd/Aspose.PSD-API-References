@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory कक्ष. वेक्टर पथ रकर्ड फ़ैक्टर क्लस
+title: "क्लास VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory क्लास। वेक्टर पाथ रिकॉर्ड फैक्ट्री क्लास"
 type: docs
-weight: 1410
+weight: 1420
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-वेक्टर पाथ रिकॉर्ड फ़ैक्टरी क्लास
+Vector Path Record Factory क्लास।
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
 
-## कंस्ट्रक्टर्स
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | पथ रिकॉर्ड उत्पन्न करता है। |
 
-## तरीकों
+### देखें भी
 
-| नाम | विवरण |
-| --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | पथ रिकॉर्ड बनाता है। |
-
-### यह सभी देखें
-
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

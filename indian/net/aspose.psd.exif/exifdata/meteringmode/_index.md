@@ -1,28 +1,29 @@
 ---
-title: ExifData.MeteringMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. मटरंग मड प्रप्त य सेट करत है
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. मीटरिंग मोड प्राप्त करता है या सेट करता है"
 type: docs
 weight: 810
 url: /hi/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
-मीटरिंग मोड प्राप्त या सेट करता है।
+मीटरिंग मोड प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मीटरिंग मोड.
+मीटरिंग मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

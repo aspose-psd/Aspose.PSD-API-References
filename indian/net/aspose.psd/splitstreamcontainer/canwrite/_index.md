@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer संपत्त. एक मन प्रप्त करत है ज दर्शत है क धर लेखन क समर्थन करत है य नहं
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि स्ट्रीम लेखन का समर्थन करता है या नहीं।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
-एक मान प्राप्त करता है जो दर्शाता है कि धारा लेखन का समर्थन करती है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि स्ट्रीम लिखने का समर्थन करता है या नहीं।
 
 ```csharp
 public override bool CanWrite { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर धारा लेखन का समर्थन करती है; अन्यथा,`असत्य`.
+स्ट्रीम लेखन का समर्थन करता है तो `true`; अन्यथा `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

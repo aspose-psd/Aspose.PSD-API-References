@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FixedPointDecimal संपत्त. अंश प्रप्त य सेट करत है
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FixedPointDecimal प्रॉपर्टी। भिन्न को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-अंश प्राप्त या सेट करता है।
+भिन्न को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंश.
+भिन्न।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

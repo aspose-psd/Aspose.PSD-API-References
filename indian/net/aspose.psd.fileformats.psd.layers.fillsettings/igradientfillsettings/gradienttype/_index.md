@@ -1,28 +1,59 @@
 ---
-title: IGradientFillSettings.GradientType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IGradientFillSettings संपत्त. ग्रेडएंट के प्रकर क प्रप्त य सेट करत है
+title: "IGradientFillSettings.GradientType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IGradientFillSettings प्रॉपर्टी। प्राप्त करता है या सेट करता है ग्रेडिएंट का प्रकार"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientType property
 
-ग्रेडिएंट के प्रकार को प्राप्त या सेट करता है।
+ग्रेडिएंट का प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public GradientType GradientType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 ग्रेडिएंट का प्रकार।
 
-### यह सभी देखें
+## उदाहरण
+
+निम्नलिखित कोड विभिन्न प्रकार के ग्रेडिएंट के साथ छवियों को सहेजता है और दिखाता है कि Aspose.PSD ग्रेडिएंट को कैसे ड्रॉ करता है।
+
+```csharp
+[C#]
+
+string fileName = "FillLayerGradient.psd";
+string sourceFile = fileName;
+GradientType[] gradientTypes = new[]
+{
+    GradientType.Linear, GradientType.Radial, GradientType.Angle, GradientType.Reflected, GradientType.Diamond
+};
+using (var image = Image.Load(sourceFile))
+{
+    PsdImage psdImage = (PsdImage)image;
+    FillLayer fillLayer = (FillLayer)psdImage.Layers[0];
+    GradientFillSettings fillSettings = (GradientFillSettings)fillLayer.FillSettings;
+    foreach (var gradientType in gradientTypes)
+    {
+        fillSettings.GradientType = gradientType;
+        fillLayer.Update();
+
+        string resultFile = fileName + "_" + gradientType.ToString() + ".png";
+        resultFile = resultFile;
+        psdImage.Save(resultFile, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+    }
+}
+```
+
+### देखें भी
 
 * enum [GradientType](../../gradienttype/)
 * interface [IGradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

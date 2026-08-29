@@ -1,14 +1,15 @@
 ---
-title: Class GifImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException कक्ष. Gif इमेज अपवद.
+title: "क्लास GifImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.GifImageException क्लास। Gif इमेज अपवाद"
 type: docs
 weight: 520
 url: /hi/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
-Gif इमेज अपवाद.
+Gif इमेज एक्सेप्शन।
 
 ```csharp
 public class GifImageException : ImageException
@@ -18,13 +19,13 @@ public class GifImageException : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`GifImageException` वर्ग. |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`GifImageException` वर्ग. |
+| [GifImageException](gifimageexception/#constructor)(string) | `GifImageException` क्लास का नया उदाहरण आरंभ करता है। |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | `GifImageException` क्लास का नया उदाहरण आरंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

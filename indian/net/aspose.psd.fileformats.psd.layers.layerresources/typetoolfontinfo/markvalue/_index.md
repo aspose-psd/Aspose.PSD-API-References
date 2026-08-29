@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.MarkValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolFontInfo संपत्त. मर्क वैल्यू प्रप्त य सेट करत है
+title: "TypeToolFontInfo.MarkValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolFontInfo प्रॉपर्टी। मार्क मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.MarkValue property
 
-मार्क वैल्यू प्राप्त या सेट करता है।
+मार्क मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short MarkValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मार्क वैल्यू।
+मार्क मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

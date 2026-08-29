@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Spread
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IShadowEffect संपत्त. तव्रत क प्रतशत के रूप में प्रप्त य सेट करत है
+title: "IShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IShadowEffect प्रॉपर्टी। तीव्रता को प्रतिशत के रूप में प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
-तीव्रता को प्रतिशत के रूप में प्राप्त या सेट करता है।
+तीव्रता को प्रतिशत के रूप में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फैलाव।
+फ़ैलाव।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

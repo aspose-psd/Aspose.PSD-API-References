@@ -1,14 +1,15 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum एनुम. शट रंग सेटंग के संभवत रंग यह PS में परतं क सूच में परत क यूआई सजवट रंग है
+title: "एनम SheetColorHighlightEnum"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum एनम। शीट रंग सेटिंग के संभावित रंग। यह PS में लेयर सूची में लेयर का UI सजावटी रंग है।"
 type: docs
-weight: 2970
+weight: 3320
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-शीट रंग सेटिंग के संभावित रंग। यह PS में परतों की सूची में परत का यूआई सजावटी रंग है
+शीट रंग सेटिंग के संभावित रंग। यह PS में लेयर्स की सूची में लेयर का UI सजावटी रंग है।
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -16,7 +17,7 @@ public enum SheetColorHighlightEnum : short
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | NoColor | `0` | रंग निर्दिष्ट नहीं है। |
 | Red | `1` | लाल रंग। |
@@ -25,11 +26,11 @@ public enum SheetColorHighlightEnum : short
 | Green | `4` | हरा रंग। |
 | Blue | `5` | नीला रंग। |
 | Violet | `6` | बैंगनी रंग। |
-| Gray | `7` | ग्रे रंग। |
+| Gray | `7` | धूसर रंग। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD (शीट रंग सेटिंग) में शीट रंग हाइलाइट को कैसे बदल सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में शीट रंग हाइलाइट (शीट रंग सेटिंग) को कैसे बदल सकते हैं।
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ public enum SheetColorHighlightEnum : short
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// फाइल में लेयर्स के हाईलाइटिंग के रंग इसी क्रम में होते हैं
+// फ़ाइल में लेयरों के हाइलाइटिंग के रंग इस क्रम में हैं।
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// लेयर शीट कलर का उपयोग परतों को नेत्रहीन रूप से हाइलाइट करने के लिए किया जाता है। 
-// उदाहरण के लिए आप PSD में कुछ परतों को अपडेट कर सकते हैं और फिर उस परत को रंग से हाइलाइट कर सकते हैं जिसे आप ध्यान आकर्षित करना चाहते हैं।
+// लेयर शीट रंग का उपयोग लेयरों को दृश्य रूप से हाइलाइट करने के लिए किया जाता है।
+// उदाहरण के लिए आप PSD में कुछ लेयरों को अपडेट कर सकते हैं और फिर उस लेयर को रंग से हाइलाइट कर सकते हैं जिसे आप ध्यान आकर्षित करना चाहते हैं।
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // रंग उलटा होना चाहिए
+    // रंगों को उलटा होना चाहिए
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // एलसीआरएल संसाधन हमेशा पीएसडी फ़ाइल संसाधन सूची में प्रस्तुत करता है।
+            // lcrl संसाधन हमेशा PSD फ़ाइल संसाधन सूची में मौजूद रहता है।
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // स्टाइल शीट रंगों का उल्टा। परत रंग हाइलाइट की स्थापना।
+                // स्टाइल शीट रंगों का उलटा। लेयर रंग हाइलाइट की सेटिंग।
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

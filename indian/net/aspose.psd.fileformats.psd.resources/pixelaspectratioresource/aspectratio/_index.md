@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelAspectRatioResource संपत्त. पहलू अनुपत प्रप्त य सेट करत है
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelAspectRatioResource प्रॉपर्टी। एस्पेक्ट रेशियो को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
-पहलू अनुपात प्राप्त या सेट करता है।
+आस्पेक्ट अनुपात को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double AspectRatio { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पहलू अनुपात।
+एस्पेक्ट रेशियो।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelAspectRatioResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

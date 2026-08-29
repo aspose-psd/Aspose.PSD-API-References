@@ -1,11 +1,12 @@
 ---
-title: Enum MultiPageMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.MultiPageMode एनुम. मल्टपेज मड क प्रतनधत्व करत है
+title: "Enum MultiPageMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.MultiPageMode enum. मल्टीपेज मोड का प्रतिनिधित्व करता है"
 type: docs
-weight: 4850
+weight: 5340
 url: /hi/net/aspose.psd.imageoptions/multipagemode/
 ---
+{{< psd/tize >}}
 ## MultiPageMode enumeration
 
 मल्टीपेज मोड का प्रतिनिधित्व करता है
@@ -16,16 +17,16 @@ public enum MultiPageMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Pages | `0` | प्रयुक्त पृष्ठ सूचक |
-| Titles | `1` | प्रयुक्त पृष्ठ शीर्षक |
-| Range | `2` | पृष्ठों की प्रयुक्त सीमा |
-| AllPages | `3` | सभी पृष्ठों का उपयोग किया |
+| Pages | `0` | उपयोग किए गए पृष्ठ सूचकांक |
+| Titles | `1` | उपयोग किए गए पृष्ठ शीर्षक |
+| Range | `2` | उपयोग किए गए पृष्ठों की रेंज |
+| AllPages | `3` | सभी पृष्ठों का उपयोग किया गया |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

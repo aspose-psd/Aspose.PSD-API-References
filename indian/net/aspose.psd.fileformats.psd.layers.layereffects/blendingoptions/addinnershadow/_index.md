@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions तरक. आंतरक छय प्रभव जड़त है
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions मेथड। अंदर की छाया प्रभाव जोड़ता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
-आंतरिक छाया प्रभाव जोड़ता है।
+इंटर शैडो इफ़ेक्ट जोड़ता है।
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`InnerShadowEffect`](../../innershadoweffect/) वस्तु
+निर्मित [`InnerShadowEffect`](../../innershadoweffect/) ऑब्जेक्ट
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

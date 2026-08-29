@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. 64बट ARGB पक्सेल लड करत है.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। 64 बिट ARGB पिक्सेल लोड करता है।"
 type: docs
 weight: 360
 url: /hi/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-64-बिट ARGB पिक्सेल लोड करता है.
+64-बिट ARGB पिक्सेल लोड करता है।
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | वह आयत जिससे पिक्सेल लोड करना है। |
+| आयत | Rectangle | पिक्सेल लोड करने के लिए आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई 64-बिट ARGB पिक्सेल सरणी.
+लोड किया गया 64-बिट ARGB पिक्सेल एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

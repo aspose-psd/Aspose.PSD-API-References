@@ -1,28 +1,29 @@
 ---
-title: ListStructure.Types
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ListStructure संपत्त. संरचनओं क एक सरण क प्रतलप प्रप्त य सेट करत है
+title: "ListStructure.Types"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ListStructure प्रॉपर्टी। स्ट्रक्चर की एक एरे की कॉपी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/
 ---
+{{< psd/tize >}}
 ## ListStructure.Types property
 
-संरचनाओं की एक सरणी की प्रतिलिपि प्राप्त या सेट करता है।
+संरचनाओं की एरे की एक प्रति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public OSTypeStructure[] Types { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ListStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

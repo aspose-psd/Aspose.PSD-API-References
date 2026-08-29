@@ -1,32 +1,33 @@
 ---
-title: ChannelMixerLayer.GetChannelByIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelMixerLayer तरक. द्वर चैनल क इंडेक्स प्रप्त करत है RgbMixerChannel य CmykMixerChannel वपस कर सकते हैं
+title: "ChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelMixerLayer विधि। चैनल का इंडेक्स प्राप्त करता है। RgbMixerChannel या CmykMixerChannel लौटाया जा सकता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.GetChannelByIndex method
 
-द्वारा चैनल का इंडेक्स प्राप्त करता है। RgbMixerChannel या CmykMixerChannel वापस कर सकते हैं
+चैनल का इंडेक्स प्राप्त करता है। यह RgbMixerChannel या CmykMixerChannel वापस कर सकता है।
 
 ```csharp
 public abstract MixerChannel GetChannelByIndex(int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | अनुक्रमणिका। |
+| index | Int32 | इंडेक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 [`MixerChannel`](../../mixerchannel/)
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixerChannel](../../mixerchannel/)
 * class [ChannelMixerLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

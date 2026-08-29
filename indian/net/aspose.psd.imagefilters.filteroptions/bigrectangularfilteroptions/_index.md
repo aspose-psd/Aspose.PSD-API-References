@@ -1,14 +1,15 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions कक्ष. बड़ आयतकर फ़ल्टर वकल्प
+title: "क्लास BigRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions क्लास। Big Rectangular Filter Options"
 type: docs
-weight: 4650
+weight: 5120
 url: /hi/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
-बड़ा आयताकार फ़िल्टर विकल्प
+बड़े आयताकार फ़िल्टर विकल्प
 
 ```csharp
 public class BigRectangularFilterOptions : FilterOptionsBase
@@ -18,12 +19,12 @@ public class BigRectangularFilterOptions : FilterOptionsBase
 
 | नाम | विवरण |
 | --- | --- |
-| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

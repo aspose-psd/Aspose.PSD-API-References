@@ -1,32 +1,33 @@
 ---
-title: SizeF.Add
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. एक क चड़ई और ऊंचई जड़त हैSizeF दूसरे क चड़ई और ऊंचई क संरचनSizeFसंरचन.
+title: "SizeF.Add"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। एक SizeF संरचना की चौड़ाई और ऊँचाई को दूसरी SizeF संरचना की चौड़ाई और ऊँचाई में जोड़ता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/sizef/add/
 ---
+{{< psd/tize >}}
 ## SizeF.Add method
 
-एक की चौड़ाई और ऊंचाई जोड़ता है[`SizeF`](../) दूसरे की चौड़ाई और ऊंचाई की संरचना[`SizeF`](../)संरचना.
+एक [`SizeF`](../) संरचना की चौड़ाई और ऊँचाई को दूसरी [`SizeF`](../) संरचना की चौड़ाई और ऊँचाई में जोड़ता है।
 
 ```csharp
 public static SizeF Add(SizeF size1, SizeF size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | SizeF | पहला[`SizeF`](../) जमा करना। |
-| size2 | SizeF | दूसरा[`SizeF`](../) जमा करना। |
+| size1 | SizeF | पहला जोड़ने वाला [`SizeF`](../)। |
+| size2 | SizeF | दूसरा जोड़ने वाला [`SizeF`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`SizeF`](../) संरचना जो अतिरिक्त ऑपरेशन का परिणाम है।
+एक [`SizeF`](../) संरचना जो जोड़ ऑपरेशन का परिणाम है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

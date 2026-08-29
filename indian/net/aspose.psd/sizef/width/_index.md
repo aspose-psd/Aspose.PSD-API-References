@@ -1,27 +1,28 @@
 ---
-title: SizeF.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF संपत्त. इसके क्षैतज घटक क प्रप्त य सेट करत हैSizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF प्रॉपर्टी। इस SizeF का क्षैतिज घटक प्राप्त या सेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-इसके क्षैतिज घटक को प्राप्त या सेट करता है[`SizeF`](../) .
+इस [`SizeF`](../) का क्षैतिज घटक प्राप्त या सेट करता है।
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसका क्षैतिज घटक[`SizeF`](../), आमतौर पर पिक्सेल में मापा जाता है।
+इस [`SizeF`](../) का क्षैतिज घटक, आमतौर पर पिक्सेल में मापा जाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

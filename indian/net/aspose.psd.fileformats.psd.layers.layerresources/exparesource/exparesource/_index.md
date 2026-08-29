@@ -1,71 +1,72 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExpaResource नर्मत. क एक नय उदहरण प्ररंभ करत हैExpaResource वर्ग.
+title: "ExpaResource.ExpaResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExpaResource कंस्ट्रक्टर। ExpaResource क्लास का नया इंस्टेंस प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ExpaResource`](../) वर्ग.
+[`ExpaResource`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public ExpaResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`ExpaResource`](../) वर्ग.
+[`ExpaResource`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| exposure | Single | जोखिम। |
-| offset | Single | ऑफसेट। |
-| gamma | Single | गामा। |
+| एक्सपोज़र | Single | एक्सपोज़र। |
+| offset | Single | ऑफ़सेट। |
+| गामा | Single | गामा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ExpaResource`](../) वर्ग.
+[`ExpaResource`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public ExpaResource(byte[] bytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bytes | Byte[] | बाइट्स। |
+| बाइट्स | Byte[] | बाइट्स। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Expa संसाधन डेटा |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Expa Resource डेटा |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

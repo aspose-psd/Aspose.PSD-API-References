@@ -1,30 +1,31 @@
 ---
-title: RasterImage.SetPixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. नर्दष्ट स्थन के लए एक छव पक्सेल सेट करत है
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। निर्दिष्ट स्थिति के लिए छवि पिक्सेल सेट करता है"
 type: docs
-weight: 560
+weight: 580
 url: /hi/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
-निर्दिष्ट स्थान के लिए एक छवि पिक्सेल सेट करता है।
+निर्दिष्ट स्थिति के लिए इमेज पिक्सेल सेट करता है।
 
 ```csharp
 public void SetPixel(int x, int y, Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | पिक्सेल एक्स स्थान। |
-| y | Int32 | पिक्सेल वाई स्थान। |
-| color | Color | निर्दिष्ट स्थान के लिए पिक्सेल रंग। |
+| x | Int32 | पिक्सेल का x स्थान। |
+| y | Int32 | पिक्सेल का y स्थान। |
+| रंग | रंग | निर्दिष्ट स्थिति के लिए पिक्सेल रंग। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

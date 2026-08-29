@@ -1,14 +1,15 @@
 ---
-title: Class ImageSaveException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageSaveException कक्ष. इमेज सेव अपवद छव बचत के दरन हत है.
+title: "क्लास ImageSaveException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException क्लास। इमेज सहेजने का अपवाद। इमेज सहेजने के दौरान यह उत्पन्न होता है।"
 type: docs
 weight: 630
 url: /hi/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-इमेज सेव अपवाद। छवि बचत के दौरान होता है.
+छवि सहेजने का अपवाद। छवि सहेजने के दौरान होता है।
 
 ```csharp
 public class ImageSaveException : ImageException
@@ -18,13 +19,13 @@ public class ImageSaveException : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`ImageSaveException` वर्ग. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`ImageSaveException` वर्ग. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | नया `ImageSaveException` क्लास का उदाहरण प्रारंभ करता है। |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | नया `ImageSaveException` क्लास का उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

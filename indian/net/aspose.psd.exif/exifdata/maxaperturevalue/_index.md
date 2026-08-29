@@ -1,28 +1,29 @@
 ---
-title: ExifData.MaxApertureValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. अधकतम एपर्चर मन प्रप्त य सेट करत है
+title: "ExifData.MaxApertureValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। अधिकतम अपर्चर मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 800
 url: /hi/net/aspose.psd.exif/exifdata/maxaperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.MaxApertureValue property
 
-अधिकतम एपर्चर मान प्राप्त या सेट करता है।
+अधिकतम अपर्चर मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational MaxApertureValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अधिकतम एपर्चर मान।
+अधिकतम अपर्चर मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Class ShapeSegment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ShapeSegment कक्ष. एक आकर खंड क प्रतनधत्व करत है एक खंड द बंदुओं क जड़ने वल रेख य वक्र है
+title: "क्लास ShapeSegment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ShapeSegment class. एक शैप सेगमेंट का प्रतिनिधित्व करता है। एक सेगमेंट दो बिंदुओं को जोड़ने वाली रेखा या वक्र है।"
 type: docs
-weight: 5430
+weight: 5930
 url: /hi/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
-एक आकार खंड का प्रतिनिधित्व करता है। एक खंड दो बिंदुओं को जोड़ने वाली रेखा या वक्र है।
+आकृति सेगमेंट का प्रतिनिधित्व करता है। एक सेगमेंट दो बिंदुओं को जोड़ने वाली रेखा या वक्र है।
 
 ```csharp
 public abstract class ShapeSegment
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | अंतिम बिंदु प्राप्त करता है। |
-| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | प्रारंभिक बिंदु प्राप्त करता है। |
+| abstract [EndPoint](../../aspose.psd/shapesegment/endpoint/) { get; } | समाप्ति बिंदु प्राप्त करता है। |
+| abstract [StartPoint](../../aspose.psd/shapesegment/startpoint/) { get; } | प्रारंभ बिंदु प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

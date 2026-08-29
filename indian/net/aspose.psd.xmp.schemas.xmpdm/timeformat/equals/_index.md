@@ -1,55 +1,56 @@
 ---
-title: TimeFormat.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeFormat तरक. इंगत करत है क क्य वर्तमन वस्तु उस प्रकर क दूसर वस्तु के बरबर है
+title: "TimeFormat.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TimeFormat method. दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
-इंगित करता है कि क्या वर्तमान वस्तु उसी प्रकार की दूसरी वस्तु के बराबर है।
+यह दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं।
 
 ```csharp
 public bool Equals(TimeFormat other)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| other | TimeFormat | इस वस्तु के साथ तुलना करने के लिए एक वस्तु। |
+| other | TimeFormat | एक ऑब्जेक्ट जिसे इस ऑब्जेक्ट के साथ तुलना किया जाता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर वर्तमान वस्तु के बराबर है*other* पैरामीटर; अन्यथा, असत्य.
+सही यदि वर्तमान ऑब्जेक्ट *other* पैरामीटर के बराबर है; अन्यथा, गलत।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject , इस उदाहरण के बराबर है।
+निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object इस उदाहरण के साथ तुलना करने के लिए। |
+| obj | ऑब्जेक्ट | इस उदाहरण के साथ तुलना करने के लिए ऑब्जेक्ट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि निर्दिष्टObject इस उदाहरण के बराबर है; अन्यथा,`असत्य` .
+`true` यदि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

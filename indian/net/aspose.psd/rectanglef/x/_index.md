@@ -1,27 +1,28 @@
 ---
-title: RectangleF.X
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. इसके ऊपरबएँ कने क xनर्देशंक प्रप्त य सेट करत हैRectangleFसंरचन.
+title: "RectangleF.X"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के ऊपरी-बाएँ कोने के x-निर्देशांक को प्राप्त या सेट करता है।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/rectanglef/x/
 ---
+{{< psd/tize >}}
 ## RectangleF.X property
 
-इसके ऊपरी-बाएँ कोने का x-निर्देशांक प्राप्त या सेट करता है[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के ऊपरी-बाएँ कोने के x-निर्देशांक को प्राप्त या सेट करता है।
 
 ```csharp
 public float X { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसके ऊपरी-बाएँ कोने का x-निर्देशांक[`RectangleF`](../) संरचना।
+इस [`RectangleF`](../) संरचना के ऊपरी-बाएँ कोने का x-निर्देशांक।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

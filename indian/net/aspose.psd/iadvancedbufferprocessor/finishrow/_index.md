@@ -1,11 +1,12 @@
 ---
-title: IAdvancedBufferProcessor.FinishRow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAdvancedBufferProcessor तरक. पंक्त क समप्त करत है
+title: "IAdvancedBufferProcessor.FinishRow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAdvancedBufferProcessor method. पंक्ति को समाप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iadvancedbufferprocessor/finishrow/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRow method
 
 पंक्ति को समाप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd/iadvancedbufferprocessor/finishrow/
 public void FinishRow()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAdvancedBufferProcessor](../)
-* नाम स्थान [Aspose.PSD](../../iadvancedbufferprocessor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

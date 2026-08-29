@@ -1,14 +1,15 @@
 ---
-title: Enum LnsrResourceType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType एनुम. संभवत एलएनएसआर संसधन प्रकर क खज
+title: "एनम LnsrResourceType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType एनम। संभावित Lnsr संसाधन प्रकारों की खोज की गई।"
 type: docs
-weight: 2760
+weight: 3070
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-संभावित एलएनएसआर संसाधन प्रकार की खोज
+संभावित Lnsr संसाधन प्रकारों की खोज की गई
 
 ```csharp
 public enum LnsrResourceType
@@ -16,17 +17,17 @@ public enum LnsrResourceType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Rend | `0` | पाठ के लिए प्रस्तुत |
-| Cont | `1` | उदाहरण के लिए परत भरने के लिए सामग्री |
-| Bgnd | `2` | पृष्ठभूमि परत के लिए बीजीएनडी |
-| Layr | `3` | नियमित छवि परत के लिए परत |
-| Unknown | `4` | अज्ञात स्थिति के लिए है जब हमने enum का वर्णन नहीं किया |
+| Rend | `0` | पाठ के लिए rend |
+| Cont | `1` | उदाहरण के लिए फ़िल लेयर के लिए cont |
+| Bgnd | `2` | Background लेयर के लिए Bgnd |
+| Layr | `3` | सामान्य इमेज लेयर के लिए layr |
+| Unknown | `4` | Unknown उन स्थितियों के लिए है जब हमने enum का वर्णन नहीं किया। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

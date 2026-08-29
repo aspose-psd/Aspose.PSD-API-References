@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpDm
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. XMP डयनेमक मडय नेमस्पेस.
+title: "Namespaces.XmpDm"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP डायनेमिक मीडिया नेमस्पेस"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
-XMP डायनेमिक मीडिया नेमस्पेस.
+XMP डायनेमिक मीडिया नेमस्पेस।
 
 ```csharp
 public const string XmpDm;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

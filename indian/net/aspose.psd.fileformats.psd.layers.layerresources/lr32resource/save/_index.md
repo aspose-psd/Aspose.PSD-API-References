@@ -1,35 +1,36 @@
 ---
-title: Lr32Resource.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Lr32Resource तरक. परत रकर्ड सहेजत है.
+title: "Lr32Resource.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Lr32Resource मेथड। लेयर रिकॉर्ड को सहेजता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Save method
 
-परत रिकॉर्ड सहेजता है.
+लेयर रिकॉर्ड को सहेजता है।
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| psdVersion | Int32 | psd संस्करण. |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| NotImplementedException | 32 बिट चैनलों की बचत लागू नहीं की गई है |
+| NotImplementedException | 32 बिट चैनलों को सहेजना लागू नहीं किया गया है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lr32Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

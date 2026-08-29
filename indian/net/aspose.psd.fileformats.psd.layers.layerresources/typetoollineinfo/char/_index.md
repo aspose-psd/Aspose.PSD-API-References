@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolLineInfo संपत्त. चर ह जत है य सेट करत है
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolLineInfo प्रॉपर्टी। अक्षर प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-चार हो जाता है या सेट करता है।
+चर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चार.
+अक्षर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolLineInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

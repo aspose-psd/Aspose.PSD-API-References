@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. दस्तवेज़ पूर्वजं क सेट करत है
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। दस्तावेज़ के पूर्वज सेट करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
-दस्तावेज़ पूर्वजों को सेट करता है।
+दस्तावेज़ पूर्वज सेट करता है।
 
 ```csharp
 public void SetDocumentAncestors(string[] ancestors)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ancestors | String[] | पूर्वजों। |
+| पूर्वज | String[] | पूर्वज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

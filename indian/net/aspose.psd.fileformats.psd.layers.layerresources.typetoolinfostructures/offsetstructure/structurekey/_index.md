@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.StructureKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OffsetStructure मैदन. संरचन कुंज क पहचन करत है
+title: "OffsetStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OffsetStructure फ़ील्ड। संरचना कुंजी की पहचान करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.StructureKey field
 
 संरचना कुंजी की पहचान करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OffsetStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

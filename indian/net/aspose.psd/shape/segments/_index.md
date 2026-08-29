@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Shape संपत्त. आकर खंड प्रप्त करत है
+title: "Shape.Segments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Shape प्रॉपर्टी। आकार के सेगमेंट प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-आकार खंड प्राप्त करता है।
+आकार के खंडों को प्राप्त करता है।
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकार खंड।
+आकार के खंड।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* नाम स्थान [Aspose.PSD](../../shape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

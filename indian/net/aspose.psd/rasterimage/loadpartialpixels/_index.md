@@ -1,30 +1,31 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. पक्सेल क आंशक रूप से पैक द्वर लड करत है.
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। पैक्स द्वारा आंशिक रूप से पिक्सेल लोड करता है"
 type: docs
-weight: 390
+weight: 400
 url: /hi/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-पिक्सेल को आंशिक रूप से पैक द्वारा लोड करता है.
+पैक्स द्वारा आंशिक रूप से पिक्सेल लोड करता है।
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | वांछित आयत। |
 | pixelLoader | IPartialPixelLoader | पिक्सेल लोडर। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

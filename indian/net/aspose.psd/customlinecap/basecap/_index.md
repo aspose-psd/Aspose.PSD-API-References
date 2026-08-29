@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustomLineCap संपत्त. ह जत है य सेट करत हैLineCap गणन जस पर यहCustomLineCap आधरत है.
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustomLineCap प्रॉपर्टी। इस CustomLineCap पर आधारित LineCap एन्यूमरेशन को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-हो जाता है या सेट करता है[`LineCap`](../../linecap/) गणना जिस पर यह[`CustomLineCap`](../) आधारित है.
+इस [`CustomLineCap`](../) पर आधारित [`LineCap`](../../linecap/) एन्यूमरेशन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-[`LineCap`](../../linecap/) गणना जिस पर यह[`CustomLineCap`](../) आधारित है।
+यह [`CustomLineCap`](../) जिस पर आधारित है, वह [`LineCap`](../../linecap/) एन्यूमरेशन।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* नाम स्थान [Aspose.PSD](../../customlinecap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

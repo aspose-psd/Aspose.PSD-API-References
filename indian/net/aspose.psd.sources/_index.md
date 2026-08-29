@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.Sources
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वभन्न स्ट्रम स्रत हैं ज इनपुट य आउटपुट डेट प्रवह के लए उपयुक्त हैं
+title: "Aspose.PSD.Sources"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस विभिन्न स्ट्रीम स्रोतों को शामिल करता है जो इनपुट या आउटपुट डेटा प्रवाह के लिए उपयुक्त हैं।"
 type: docs
-weight: 510
+weight: 550
 url: /hi/net/aspose.psd.sources/
 ---
-नामस्थान में विभिन्न स्ट्रीम स्रोत हैं जो इनपुट या आउटपुट डेटा प्रवाह के लिए उपयुक्त हैं।
+{{< psd/tize >}}
+Namespace में विभिन्न स्ट्रीम स्रोत शामिल हैं जो इनपुट या आउटपुट डेटा प्रवाह के लिए उपयुक्त हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [FileCreateSource](./filecreatesource/) | निर्माण के लिए फ़ाइल स्रोत का प्रतिनिधित्व करता है। |
-| [FileOpenSource](./fileopensource/) | खोलने के लिए फ़ाइल स्रोत का प्रतिनिधित्व करता है। |
-| [FileSource](./filesource/) | एक फ़ाइल स्रोत का प्रतिनिधित्व करता है जो फ़ाइलों में हेरफेर करने में सक्षम है। |
-| [StreamSource](./streamsource/) | स्ट्रीम स्रोत का प्रतिनिधित्व करता है। |
+| [FileCreateSource](./filecreatesource/) | निर्माण के लिए फ़ाइल स्रोत को दर्शाता है। |
+| [FileOpenSource](./fileopensource/) | खोलने के लिए फ़ाइल स्रोत को दर्शाता है। |
+| [FileSource](./filesource/) | फ़ाइलों के हेरफेर में सक्षम फ़ाइल स्रोत को दर्शाता है। |
+| [StreamSource](./streamsource/) | स्ट्रीम स्रोत को दर्शाता है। |
 
 

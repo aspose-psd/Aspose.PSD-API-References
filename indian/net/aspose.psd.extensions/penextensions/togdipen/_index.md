@@ -1,32 +1,33 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PenExtensions तरक. परवर्तत करत हैPen तकPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PenExtensions मेथड। Pen को Pen में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-परिवर्तित करता है[`Pen`](../../../aspose.psd/pen/) तकPen .
+[`Pen`](../../../aspose.psd/pen/) को Pen में परिवर्तित करता है।
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../../aspose.psd/pen/) रूपान्तरण करने के लिए। |
+| pen | Pen | परिवर्तित करने के लिए [`Pen`](../../../aspose.psd/pen/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितPen.
+परिवर्तित Pen।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../penextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

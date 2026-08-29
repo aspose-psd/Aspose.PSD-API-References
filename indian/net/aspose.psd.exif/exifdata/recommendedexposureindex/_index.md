@@ -1,27 +1,28 @@
 ---
-title: ExifData.RecommendedExposureIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. अनुशंसत एक्सपजर इंडेक्स प्रप्त य सेट करत है
+title: "ExifData.RecommendedExposureIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। अनुशंसित एक्सपोज़र इंडेक्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 870
 url: /hi/net/aspose.psd.exif/exifdata/recommendedexposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.RecommendedExposureIndex property
 
-अनुशंसित एक्सपोजर इंडेक्स प्राप्त या सेट करता है।
+सिफ़ारिश किया गया एक्सपोज़र इंडेक्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint RecommendedExposureIndex { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अनुशंसित एक्सपोजर इंडेक्स।
+अनुशंसित एक्सपोज़र इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

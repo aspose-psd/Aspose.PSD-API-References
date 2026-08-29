@@ -1,29 +1,30 @@
 ---
-title: Interface IColorFillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings इंटरफेस. भरने क सेटंग के लए बेस इंटरफ़ेस
+title: "इंटरफ़ेस IColorFillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings इंटरफ़ेस। फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस"
 type: docs
-weight: 1990
+weight: 2110
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-भरने की सेटिंग के लिए बेस इंटरफ़ेस
+फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | रंग प्राप्त या सेट करता है। |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | रंग प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IFillSettings](../ifillsettings/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

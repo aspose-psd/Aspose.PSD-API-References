@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. यह इंगत करत है क यह परत लक है य नहं यह मन प्रप्त य सेट करत है आइटम में परवर्तन रकत है
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। यह मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह लेयर लॉक है या नहीं। आइटम में परिवर्तन को रोकता है"
 type: docs
-weight: 60
+weight: 80
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-यह इंगित करता है कि यह परत लॉक है या नहीं, यह मान प्राप्त या सेट करता है। आइटम में परिवर्तन रोकता है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर लॉक है या नहीं। आइटम में परिवर्तन को रोकता है।
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह परत बंद है; अन्यथा,`असत्य` .
+`true` यदि यह लेयर लॉक है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

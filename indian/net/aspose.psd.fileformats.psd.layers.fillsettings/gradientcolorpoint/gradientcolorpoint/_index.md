@@ -1,44 +1,45 @@
 ---
-title: GradientColorPoint.GradientColorPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientColorPoint नर्मत. क एक नय उदहरण प्ररंभ करत हैGradientColorPoint वर्ग.
+title: "GradientColorPoint.GradientColorPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientColorPoint कंस्ट्रक्टर। GradientColorPoint क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`GradientColorPoint`](../) वर्ग.
+[`GradientColorPoint`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public GradientColorPoint()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientColorPoint](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GradientColorPoint(Color, int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`GradientColorPoint`](../) वर्ग.
+[`GradientColorPoint`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public GradientColorPoint(Color color, int location, int medianPointLocation)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | ढाल पर रंग बिंदु। |
-| location | Int32 | ढाल पर रंग बिंदु का स्थान। |
-| medianPointLocation | Int32 | औसत ढाल बिंदु स्थान। |
+| रंग | रंग | ग्रेडिएंट पर रंग बिंदु। |
+| स्थान | Int32 | ग्रेडिएंट पर रंग बिंदु का स्थान। |
+| medianPointLocation | Int32 | मध्य ग्रेडिएंट बिंदु का स्थान। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि कैसे परत में GradientOverlayEffect प्रभाव वस्तु को बनाया/संपादित किया जाए।
+निम्नलिखित उदाहरण दर्शाता है कि लेयर में GradientOverlayEffect प्रभाव ऑब्जेक्ट को कैसे बनाएं/संपादित करें।
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ public GradientColorPoint(Color color, int location, int medianPointLocation)
 string sourceFilePath = "psdnet256.psd";
 string outputFilePath = "psdnet256.psd_output.psd";
 
-// एक परत में ढाल ओवरले प्रभाव बनाता/प्राप्त करता है और संपादित करता है।
+// लेयर में ग्रेडिएंट ओवरले प्रभाव को बनाता/प्राप्त करता और संपादित करता है।
 using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() { LoadEffectsResource = true }))
 {
     BlendingOptions layerBlendOptions = psdImage.Layers[1].BlendingOptions;
     GradientOverlayEffect gradientOverlayEffect = null;
 
-    // एक लेयर में GradientOverlayEffect खोजें।
+    // लेयर में GradientOverlayEffect खोजें।
     foreach (ILayerEffect effect in layerBlendOptions.Effects)
     {
         gradientOverlayEffect = effect as GradientOverlayEffect;
@@ -64,48 +65,49 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath, new PsdLoadOptions() 
 
     if (gradientOverlayEffect == null)
     {
-        // यदि यह मौजूद नहीं है तो आप एक नया GradientOverlayEffect बना सकते हैं।
+        // यदि यह मौजूद नहीं है तो आप नया GradientOverlayEffect बना सकते हैं।
         gradientOverlayEffect = layerBlendOptions.AddGradientOverlay();
     }
 
-    // प्रभाव में थोड़ी पारदर्शिता जोड़ें।
+    // प्रभाव में थोड़ा पारदर्शिता जोड़ें।
     gradientOverlayEffect.Opacity = 200;
 
-    // ग्रेडिएंट इफेक्ट के ब्लेंड मोड को बदलें।
+    // ग्रेडिएंट प्रभाव का ब्लेंड मोड बदलें।
     gradientOverlayEffect.BlendMode = BlendMode.Hue;
 
-    // ढाल ओवरले सेटिंग्स को कॉन्फ़िगर करने के लिए GradientFillSettings ऑब्जेक्ट प्राप्त करें।
-    GradientFillSettings settings = gradientOverlayEffect.Settings;
+    // ग्रेडिएंट ओवरले सेटिंग्स को कॉन्फ़िगर करने के लिए GradientFillSettings ऑब्जेक्ट प्राप्त करता है।
+    GradientFillSettings settings = (GradientFillSettings)gradientOverlayEffect.Settings;
+    SolidGradient solidGradient = (SolidGradient)settings.Gradient;
 
-    // दो रंगों के साथ एक नया ग्रेडिएंट सेट करना।
-    settings.ColorPoints = new IGradientColorPoint[]
+    // दो रंगों के साथ नया ग्रेडिएंट सेट करना।
+    solidGradient.ColorPoints = new IGradientColorPoint[]
     {
         new GradientColorPoint(Color.GreenYellow, 0, 50),
         new GradientColorPoint(Color.BlueViolet, 4096, 50),
     };
 
-    // ग्रेडिएंट का झुकाव 80 डिग्री के कोण पर सेट करता है।
+    // ग्रेडिएंट को 80 डिग्री के कोण पर झुकाव सेट करता है।
     settings.Angle = 80;
 
-    // स्केल ग्रेडिएंट प्रभाव 150% तक।
+    // ग्रेडिएंट प्रभाव को 150% तक स्केल करें।
     settings.Scale = 150;
 
-    // ढाल का प्रकार सेट करता है।
+    // ग्रेडिएंट का प्रकार सेट करता है।
     settings.GradientType = GradientType.Linear;
 
-    // प्रत्येक पारदर्शिता बिंदु पर अपारदर्शिता को 100% पर सेट करके ग्रेडिएंट को अपारदर्शी बनाएं।
-    settings.TransparencyPoints[0].Opacity = 100;
-    settings.TransparencyPoints[1].Opacity = 100;
+    // प्रत्येक पारदर्शिता बिंदु पर अपारदर्शिता को 100% सेट करके ग्रेडिएंट को अपारदर्शी बनाएं।
+    solidGradient.TransparencyPoints[0].Opacity = 100;
+    solidGradient.TransparencyPoints[1].Opacity = 100;
 
     psdImage.Save(outputFilePath);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GradientColorPoint](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

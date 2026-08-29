@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreatorsRegistry तरक. नर्मत क पंजकरण रद्द करत है
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreatorsRegistry विधि। निर्माता को पंजीकरण से हटाता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-निर्माता का पंजीकरण रद्द करता है।
+क्रिएटर को अनरजिस्टर करता है।
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | रचनाकार वर्णनकर्ता। |
+| creatorDescriptor | IImageCreatorDescriptor | निर्माता विवरणकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imagecreatorsregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

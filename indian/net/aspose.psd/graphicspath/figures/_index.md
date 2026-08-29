@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath संपत्त. पथ आंकड़े प्रप्त करत है
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath प्रॉपर्टी। पाथ फ़िगर्स को प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-पथ आंकड़े प्राप्त करता है।
+पाथ फ़िगर्स को प्राप्त करता है।
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पथ आंकड़े।
+पाथ फ़िगर्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

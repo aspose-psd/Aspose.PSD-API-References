@@ -1,58 +1,59 @@
 ---
-title: PixelDataFormat.GetRgb
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat तरक. प्रत नमूने बट्स क नर्दष्ट संख्य के सथ आरजब रंग प्रप्त करत है
+title: "PixelDataFormat.GetRgb"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat मेथड। निर्दिष्ट नमूना प्रति बिट संख्या के साथ RGB रंग प्राप्त करता है।"
 type: docs
 weight: 250
 url: /hi/net/aspose.psd/pixeldataformat/getrgb/
 ---
+{{< psd/tize >}}
 ## GetRgb(int) {#getrgb}
 
-प्रति नमूने बिट्स की निर्दिष्ट संख्या के साथ आरजीबी रंग प्राप्त करता है।
+निर्दिष्ट नमूना बिट्स की संख्या के साथ RGB रंग प्राप्त करता है।
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerSample)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bitsPerSample | Int32 | प्रति नमूने बिट्स की संख्या। |
+| bitsPerSample | Int32 | प्रति सैंपल बिट्स की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आरजीबी रंग।
+RGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgb(int, int, int) {#getrgb_1}
 
-प्रति नमूने बिट्स की निर्दिष्ट संख्या के साथ आरजीबी रंग प्राप्त करता है।
+निर्दिष्ट नमूना बिट्स की संख्या के साथ RGB रंग प्राप्त करता है।
 
 ```csharp
 public static PixelDataFormat GetRgb(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | प्रति रेड चैनल बिट्स की संख्या। |
-| bitsPerGreenChannel | Int32 | प्रति ग्रीन चैनल बिट्स की संख्या। |
-| bitsPerBlueChannel | Int32 | प्रति ब्लू चैनल बिट्स की संख्या। |
+| bitsPerRedChannel | Int32 | प्रत्येक रेड चैनल के लिए बिट्स की संख्या। |
+| bitsPerGreenChannel | Int32 | प्रत्येक ग्रीन चैनल के लिए बिट्स की संख्या। |
+| bitsPerBlueChannel | Int32 | नीले चैनल प्रति बिट की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आरजीबी रंग।
+RGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

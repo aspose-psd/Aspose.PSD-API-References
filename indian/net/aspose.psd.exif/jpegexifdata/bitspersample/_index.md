@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.BitsPerSample
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. प्रत नमून बट्स प्रप्त य सेट करत है
+title: "JpegExifData.BitsPerSample"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। प्रति सैंपल बिट्स प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.exif/jpegexifdata/bitspersample/
 ---
+{{< psd/tize >}}
 ## JpegExifData.BitsPerSample property
 
-प्रति नमूना बिट्स प्राप्त या सेट करता है।
+सैंपल प्रति बिट्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिट्स प्रति नमूना.
+प्रति सैंपल बिट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

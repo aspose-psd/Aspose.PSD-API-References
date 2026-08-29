@@ -1,14 +1,15 @@
 ---
-title: Class License
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.License कक्ष. घटक क लइसेंस देने के तरके प्रदन करत है
+title: "क्लास License"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.License क्लास। घटक को लाइसेंस करने के लिए मेथड प्रदान करता है।"
 type: docs
-weight: 5050
+weight: 5540
 url: /hi/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
-घटक को लाइसेंस देने के तरीके प्रदान करता है।
+घटक को लाइसेंस करने के लिए मेथड्स प्रदान करता है।
 
 ```csharp
 public class License
@@ -18,18 +19,18 @@ public class License
 
 | नाम | विवरण |
 | --- | --- |
-| [License](license/)() | इस वर्ग का एक नया उदाहरण आरंभ करता है। |
+| [License](license/)() | इस क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | घटक को लाइसेंस देता है। |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | घटक को लाइसेंस देता है। |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | घटक को लाइसेंस करता है। |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | घटक को लाइसेंस करता है। |
 
-### उदाहरण
+## उदाहरण
 
-इस उदाहरण में, MyLicense.lic नामक एक लाइसेंस फ़ाइल को उस फ़ोल्डर में खोजने का प्रयास किया जाएगा जिसमें घटक शामिल है, उस फ़ोल्डर में जिसमें कॉलिंग असेंबली, प्रविष्टि असेंबली के फ़ोल्डर में और फिर अंदर कॉलिंग असेंबली के एम्बेडेड संसाधन।
+इस उदाहरण में, घटक वाली फ़ोल्डर, कॉलिंग असेंबली वाली फ़ोल्डर, एंट्री असेंबली वाली फ़ोल्डर, और फिर कॉलिंग असेंबली के एम्बेडेड रिसोर्सेज़ में MyLicense.lic नाम की लाइसेंस फ़ाइल खोजने का प्रयास किया जाएगा।
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

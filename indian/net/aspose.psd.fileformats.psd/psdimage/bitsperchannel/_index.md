@@ -1,11 +1,12 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. प्रत चैनल बट्स प्रप्त करत है
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। प्रति चैनल बिट्स प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
 प्रति चैनल बिट्स प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 public int BitsPerChannel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिट्स प्रति चैनल।
+प्रति चैनल बिट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

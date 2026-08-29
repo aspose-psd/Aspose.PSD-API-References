@@ -1,27 +1,28 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. फ़्लैश पक्स संस्करण प्रप्त य सेट करत है
+title: "ExifData.FlashpixVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। फ्लैश पिक्स संस्करण को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 270
 url: /hi/net/aspose.psd.exif/exifdata/flashpixversion/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashpixVersion property
 
-फ़्लैश पिक्स संस्करण प्राप्त या सेट करता है।
+फ़्लैश पिक्स संस्करण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] FlashpixVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फ्लैश पिक्स संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Layer.BlendSignature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer मैदन. मश्रण मड हस्तक्षर क प्रतनधत्व करत है
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer field. ब्लेंड मोड सिग्नेचर का प्रतिनिधित्व करता है"
 type: docs
-weight: 390
+weight: 410
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-मिश्रण मोड हस्ताक्षर का प्रतिनिधित्व करता है।
+ब्लेंड मोड सिग्नेचर को दर्शाता है।
 
 ```csharp
 public const int BlendSignature;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

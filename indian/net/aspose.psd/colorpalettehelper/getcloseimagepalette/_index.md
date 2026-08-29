@@ -1,95 +1,96 @@
 ---
-title: ColorPaletteHelper.GetCloseImagePalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPaletteHelper तरक. रस्टर इमेज से कलर पैलेट प्रप्त करत है इमेज क पैलेटइज करत है अगर इमेज में एक नहं है यद पैलेट मजूद है त इसक उपयग गणन करने के बजय कय जएग
+title: "ColorPaletteHelper.GetCloseImagePalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPaletteHelper मेथड। रास्टर इमेज से रंग पैलेट प्राप्त करता है; यदि इमेज के पास पैलेट नहीं है तो इमेज को पैलेटाइज़ करता है। यदि पैलेट मौजूद है तो गणनाएँ करने के बजाय उसका उपयोग किया जाएगा।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
+{{< psd/tize >}}
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-रास्टर इमेज से कलर पैलेट प्राप्त करता है (इमेज को पैलेटाइज करता है) अगर इमेज में एक नहीं है। यदि पैलेट मौजूद है तो इसका उपयोग गणना करने के बजाय किया जाएगा।
+रास्टर इमेज से रंग पैलेट प्राप्त करता है (इमेज को पैलेटाइज़ करता है) यदि इमेज में पैलेट नहीं है। यदि पैलेट मौजूद है तो गणनाएँ करने के बजाय इसका उपयोग किया जाएगा।
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| image | RasterImage | रेखापुंज छवि। |
-| entriesCount | Int32 | वांछित प्रविष्टियों की गिनती। |
+| छवि | RasterImage | रास्टर इमेज। |
+| entriesCount | Int32 | वांछित एंट्रीज़ की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वह रंग पटल जो सबसे लगातार रंगों से शुरू होता है*image* और शामिल है*entriesCount* प्रविष्टियां.
+रंग पैलेट जो *image* से सबसे अधिक बार आने वाले रंगों से शुरू होता है और *entriesCount* एंट्रीज़ रखता है।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-रास्टर इमेज से कलर पैलेट प्राप्त करता है (इमेज को पैलेटाइज करता है) अगर इमेज में एक नहीं है। यदि पैलेट मौजूद है तो इसका उपयोग गणना करने के बजाय किया जाएगा।
+रास्टर इमेज से रंग पैलेट प्राप्त करता है (इमेज को पैलेटाइज़ करता है) यदि इमेज में पैलेट नहीं है। यदि पैलेट मौजूद है तो गणनाएँ करने के बजाय इसका उपयोग किया जाएगा।
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| image | RasterImage | रेखापुंज छवि। |
-| destBounds | Rectangle | गंतव्य छवि सीमा। |
-| entriesCount | Int32 | वांछित प्रविष्टियों की गिनती। |
+| छवि | RasterImage | रास्टर इमेज। |
+| destBounds | Rectangle | गंतव्य इमेज की सीमाएँ। |
+| entriesCount | Int32 | वांछित एंट्रीज़ की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वह रंग पटल जो सबसे लगातार रंगों से शुरू होता है*image* और शामिल है*entriesCount* प्रविष्टियां.
+रंग पैलेट जो *image* से सबसे अधिक बार आने वाले रंगों से शुरू होता है और *entriesCount* एंट्रीज़ रखता है।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-रास्टर इमेज से कलर पैलेट प्राप्त करता है (इमेज को पैलेटाइज करता है) अगर इमेज में एक नहीं है। यदि पैलेट मौजूद है तो इसका उपयोग गणना करने के बजाय किया जाएगा।
+रास्टर इमेज से रंग पैलेट प्राप्त करता है (इमेज को पैलेटाइज़ करता है) यदि इमेज में पैलेट नहीं है। यदि पैलेट मौजूद है तो गणनाएँ करने के बजाय इसका उपयोग किया जाएगा।
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount, bool useImagePalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| image | RasterImage | रेखापुंज छवि। |
-| destBounds | Rectangle | गंतव्य छवि सीमा। |
-| entriesCount | Int32 | वांछित प्रविष्टियों की गिनती। |
-| useImagePalette | Boolean | यदि सेट किया गया है, तो उपलब्ध होने पर यह अपनी स्वयं की छवि पैलेट का उपयोग करेगा |
+| छवि | RasterImage | रास्टर इमेज। |
+| destBounds | Rectangle | गंतव्य इमेज की सीमाएँ। |
+| entriesCount | Int32 | वांछित एंट्रीज़ की संख्या। |
+| useImagePalette | बूलियन | यदि सेट किया गया है, तो यह उपलब्ध होने पर अपना स्वयं का इमेज पैलेट उपयोग करेगा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वह रंग पटल जो सबसे लगातार रंगों से शुरू होता है*image* और शामिल है*entriesCount* प्रविष्टियां.
+रंग पैलेट जो *image* से सबसे अधिक बार आने वाले रंगों से शुरू होता है और *entriesCount* एंट्रीज़ रखता है।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

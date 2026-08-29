@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Script
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextFontInfo संपत्त. स्क्रप्ट प्रप्त करत है.
+title: "TextFontInfo.Script"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextFontInfo प्रॉपर्टी। स्क्रिप्ट प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/script/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Script property
 
-स्क्रिप्ट प्राप्त करता है.
+स्क्रिप्ट प्राप्त करता है।
 
 ```csharp
 public int Script { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्क्रिप्ट.
+स्क्रिप्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

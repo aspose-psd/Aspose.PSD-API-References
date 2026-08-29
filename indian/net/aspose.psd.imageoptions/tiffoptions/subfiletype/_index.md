@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.SubFileType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. इस सबफइल में नहत डेट के प्रकर क समन्य संकेत देत है य सेट करत है
+title: "TiffOptions.SubFileType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इस सबफ़ाइल में सम्मिलित डेटा के प्रकार का सामान्य संकेत प्राप्त करता है या सेट करता है"
 type: docs
-weight: 480
+weight: 490
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/subfiletype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SubFileType property
 
-इस सबफाइल में निहित डेटा के प्रकार का सामान्य संकेत देता है या सेट करता है।
+इस सबफ़ाइल में मौजूद डेटा के प्रकार का सामान्य संकेत प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffNewSubFileTypes SubFileType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इस सबफाइल में निहित डेटा के प्रकार का सामान्य संकेत।
+इस सबफ़ाइल में सम्मिलित डेटा के प्रकार का सामान्य संकेत।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffNewSubFileTypes](../../../aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

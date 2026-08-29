@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteDouble
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम के लए एक डबल मन लखत है
+title: "TiffStreamWriter.WriteDouble"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter मेथड। स्ट्रीम में एकल डबल मान लिखता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDouble method
 
-स्ट्रीम के लिए एक डबल मान लिखता है।
+स्ट्रीम में एकल डबल मान लिखता है।
 
 ```csharp
 public void WriteDouble(double data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Double | लिखने का मूल्य। |
+| डेटा | Double | लिखने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

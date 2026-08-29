@@ -1,23 +1,24 @@
 ---
-title: CmykColor.Empty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor संपत्त. खल ह जत है
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor प्रॉपर्टी। खाली मान प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-खाली हो जाता है।
+खाली प्राप्त करता है।
 
 ```csharp
 public static CmykColor Empty { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

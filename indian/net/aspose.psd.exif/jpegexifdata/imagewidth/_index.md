@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. छव चड़ई प्रप्त य सेट करत है
+title: "JpegExifData.ImageWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। छवि की चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
-छवि चौड़ाई प्राप्त या सेट करता है।
+छवि चौड़ाई को प्राप्त या सेट करता है।
 
 ```csharp
 public uint ImageWidth { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि की चौड़ाई.
+छवि की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

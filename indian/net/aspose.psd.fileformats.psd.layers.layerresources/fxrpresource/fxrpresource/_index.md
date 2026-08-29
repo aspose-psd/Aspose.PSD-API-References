@@ -1,70 +1,71 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource नर्मत. क एक नय उदहरण प्ररंभ करत हैFxrpResource वर्ग.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource कंस्ट्रक्टर। FxrpResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`FxrpResource`](../) वर्ग.
+[`FxrpResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Double | संदर्भ बिंदु का x निर्देशांक |
-| y | Double | संदर्भ बिंदु का y निर्देशांक |
+| x | Double | रेफ़रेंस पॉइंट का x निर्देशांक |
+| y | Double | रेफ़रेंस पॉइंट का y निर्देशांक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`FxrpResource`](../) वर्ग.
+[`FxrpResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FxrpResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`FxrpResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+[`FxrpResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। कस्टम या अज्ञात मान के साथ
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Fxrp संसाधन मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

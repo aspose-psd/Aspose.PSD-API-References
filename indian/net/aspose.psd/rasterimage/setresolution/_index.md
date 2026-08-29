@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. इसके लए संकल्प सेट करत हैRasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। इस RasterImage के लिए रिज़ॉल्यूशन सेट करता है"
 type: docs
-weight: 570
+weight: 590
 url: /hi/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-इसके लिए संकल्प सेट करता है[`RasterImage`](../) .
+इस [`RasterImage`](../) के लिए रिज़ॉल्यूशन सेट करता है।
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dpiX | Double | क्षैतिज संकल्प, प्रति इंच डॉट्स में[`RasterImage`](../). |
-| dpiY | Double | ऊर्ध्वाधर संकल्प, डॉट्स प्रति इंच में[`RasterImage`](../). |
+| dpiX | Double | [`RasterImage`](../) की क्षैतिज रिज़ॉल्यूशन, डॉट्स प्रति इंच में। |
+| dpiY | Double | [`RasterImage`](../) की लंबवत रिज़ॉल्यूशन, डॉट्स प्रति इंच में। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

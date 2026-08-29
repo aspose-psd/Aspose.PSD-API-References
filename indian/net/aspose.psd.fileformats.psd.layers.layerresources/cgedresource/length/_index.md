@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CgEdResource संपत्त. बइट्स में परत संसधन लंबई प्रप्त करत है
+title: "CgEdResource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CgEdResource प्रॉपर्टी। लेयर रिसोर्स की लंबाई बाइट्स में प्राप्त करता है"
 type: docs
-weight: 70
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Length property
 
-बाइट्स में परत संसाधन लंबाई प्राप्त करता है।
+बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [CgEdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.PathOperations
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LengthRecord संपत्त. पथ संचलन प्रप्त य सेट करत है
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LengthRecord प्रॉपर्टी। पाथ ऑपरेशन्स प्राप्त करता या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
-पथ संचालन प्राप्त या सेट करता है।
+path operations प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PathOperations PathOperations { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण नई लेंथरेकॉर्ड गुणों, पाथऑपरेशन (बूलियन ऑपरेशंस), शेपइंडेक्स और बेज़ियर नॉट रिकॉर्ड्सकाउंट के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण नई LengthRecord गुणों, PathOperations (बूलियन ऑपरेशन्स), ShapeIndex और BezierKnotRecordsCount के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // यहां हम आकृतियों के बीच संयोजन करने का तरीका बदलते हैं।
+    // यहाँ हम आकारों के बीच संयोजन के तरीके को बदल रहे हैं।
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,11 +50,11 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

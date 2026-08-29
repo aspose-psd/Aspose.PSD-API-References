@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Spread
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InnerShadowEffect संपत्त. स्प्रेड चक क प्रतशत के रूप में प्रप्त य सेट करत है
+title: "InnerShadowEffect.Spread"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InnerShadowEffect प्रॉपर्टी। प्राप्त करता है या सेट करता है स्प्रेड चोक को प्रतिशत के रूप में"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Spread property
 
-स्प्रेड (चोक) को प्रतिशत के रूप में प्राप्त या सेट करता है।
+स्प्रेड (चोक) को प्रतिशत के रूप में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फैलाव।
+फ़ैलाव।
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

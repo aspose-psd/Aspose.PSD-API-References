@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में मल्टथ्रेडंग क्लसेस हैं
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस मल्टीथ्रेडिंग क्लासेज़ को शामिल करता है।"
 type: docs
-weight: 460
+weight: 500
 url: /hi/net/aspose.psd.multithreading/
 ---
-नामस्थान में मल्टीथ्रेडिंग क्लासेस हैं।
+{{< psd/tize >}}
+यह namespace मल्टीथ्रेडिंग क्लासेस को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/) | रुकावट के बारे में जानकारी का प्रतिनिधित्व करता है। |
+| [InterruptMonitor](./interruptmonitor/) | विच्छेदन के बारे में जानकारी का प्रतिनिधित्व करता है। |
 
 

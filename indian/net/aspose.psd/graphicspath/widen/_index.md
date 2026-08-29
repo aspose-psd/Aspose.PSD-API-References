@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Widen
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. पथ में एक अतरक्त रूपरेख जड़त है
+title: "GraphicsPath.Widen"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। पाथ में एक अतिरिक्त रूपरेखा जोड़ता है।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
 पथ में एक अतिरिक्त रूपरेखा जोड़ता है।
@@ -14,62 +15,62 @@ url: /hi/net/aspose.psd/graphicspath/widen/
 public void Widen(Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) यह पथ की मूल रूपरेखा और इस पद्धति द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई को निर्दिष्ट करता है। |
+| pen | Pen | एक [`Pen`](../../pen/) जो पाथ की मूल रूपरेखा और इस मेथड द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-में एक अतिरिक्त रूपरेखा जोड़ता है[`GraphicsPath`](../) .
+एक अतिरिक्त रूपरेखा को [`GraphicsPath`](../) में जोड़ता है।
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) यह पथ की मूल रूपरेखा और इस पद्धति द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई को निर्दिष्ट करता है। |
-| matrix | Matrix | ए[`Matrix`](../../matrix/) जो विस्तार करने से पहले पथ पर लागू करने के लिए परिवर्तन निर्दिष्ट करता है। |
+| pen | Pen | एक [`Pen`](../../pen/) जो पाथ की मूल रूपरेखा और इस मेथड द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई निर्दिष्ट करता है। |
+| matrix | Matrix | एक [`Matrix`](../../matrix/) जो वाइडनिंग से पहले पाथ पर लागू करने के लिए ट्रांसफ़ॉर्म निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-इसे बदलता है[`GraphicsPath`](../) वक्र के साथ जो उस क्षेत्र को घेरता है जो निर्दिष्ट पेन द्वारा इस पथ को खींचे जाने पर भर जाता है।
+इस [`GraphicsPath`](../) को उन वक्रों से बदलता है जो उस क्षेत्र को घेरते हैं जो निर्दिष्ट पेन द्वारा इस पथ को खींचे जाने पर भरा जाता है।
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | ए[`Pen`](../../pen/) यह पथ की मूल रूपरेखा और इस पद्धति द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई को निर्दिष्ट करता है। |
-| matrix | Matrix | ए[`Matrix`](../../matrix/) जो विस्तार करने से पहले पथ पर लागू करने के लिए परिवर्तन निर्दिष्ट करता है। |
-| flatness | Single | एक मान जो वक्रों के लिए समतलता निर्दिष्ट करता है। |
+| pen | Pen | एक [`Pen`](../../pen/) जो पाथ की मूल रूपरेखा और इस मेथड द्वारा बनाई गई नई रूपरेखा के बीच की चौड़ाई निर्दिष्ट करता है। |
+| matrix | Matrix | एक [`Matrix`](../../matrix/) जो वाइडनिंग से पहले पाथ पर लागू करने के लिए ट्रांसफ़ॉर्म निर्दिष्ट करता है। |
+| समतलता | Single | वक्रों के लिए समतलता निर्दिष्ट करने वाला मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

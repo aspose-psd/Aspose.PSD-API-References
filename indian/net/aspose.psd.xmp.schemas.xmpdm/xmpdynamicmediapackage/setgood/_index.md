@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. अच्छ सेट करत है
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। सेट करता है अच्छा"
 type: docs
 weight: 230
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
-अच्छा सेट करता है।
+गुड को सेट करता है।
 
 ```csharp
 public void SetGood(bool good)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| good | Boolean | अगर सेट है`सत्य` एक शॉट एक रक्षक है। |
+| अच्छा | बूलियन | यदि `true` पर सेट किया जाए तो एक शॉट रखी जाने वाला है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

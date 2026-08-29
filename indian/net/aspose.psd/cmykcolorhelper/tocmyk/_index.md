@@ -1,105 +1,106 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColorHelper तरक. ARGB रंगं से CMYK रंगं में रूपंतरण.
+title: "CmykColorHelper.ToCmyk"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColorHelper मेथड। ARGB रंगों से CMYK रंगों में परिवर्तन।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
-ARGB रंगों से CMYK रंगों में रूपांतरण.
+ARGB रंगों से CMYK रंगों में रूपांतरण।
 
 ```csharp
 public static int[] ToCmyk(int[] argbPixels)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argbPixels | Int32[] | ARGB रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए। |
+| argbPixels | Int32[] | ARGB रंग 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किए गए हैं। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सीएमवाईके रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए।
+CMYK रंगों को 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किया गया है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmyk(int) {#tocmyk_1}
 
-ARGB रंग से CMYK रंग में परिवर्तन.
+ARGB रंग से CMYK रंग में रूपांतरण।
 
 ```csharp
 public static int ToCmyk(int argbPixel)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argbPixel | Int32 | ARGB रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया। |
+| argbPixel | Int32 | ARGB रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सीएमवाईके रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया।
+CMYK रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmyk(Color) {#tocmyk}
 
-ARGB रंग से CMYK रंग में परिवर्तन.
+ARGB रंग से CMYK रंग में रूपांतरण।
 
 ```csharp
 public static int ToCmyk(Color pixel)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pixel | Color | एआरबीबी रंग। |
+| pixel | रंग | ARGB रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सीएमवाईके रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया।
+CMYK रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmyk(Color[]) {#tocmyk_2}
 
-ARGB रंगों से CMYK रंगों में रूपांतरण.
+ARGB रंगों से CMYK रंगों में रूपांतरण।
 
 ```csharp
 public static int[] ToCmyk(Color[] pixels)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pixels | Color[] | एआरबीबी रंग। |
+| पिक्सेल | Color[] | ARGB रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सीएमवाईके रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए।
+CMYK रंगों को 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किया गया है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

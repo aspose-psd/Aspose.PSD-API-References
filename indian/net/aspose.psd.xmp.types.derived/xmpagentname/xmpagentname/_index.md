@@ -1,27 +1,28 @@
 ---
-title: XmpAgentName.XmpAgentName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpAgentName नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpAgentName वर्ग.
+title: "XmpAgentName.XmpAgentName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpAgentName कंस्ट्रक्टर. XmpAgentName क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.derived/xmpagentname/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpAgentName`](../) वर्ग.
+[`XmpAgentName`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public XmpAgentName(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpAgentName](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpagentname/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

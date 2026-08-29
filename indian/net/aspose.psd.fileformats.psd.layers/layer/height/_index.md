@@ -1,27 +1,28 @@
 ---
-title: Layer.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. छव ऊंचई प्रप्त करत है
+title: "Layer.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. चित्र की ऊँचाई को प्राप्त करता है"
 type: docs
-weight: 160
+weight: 170
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
-छवि ऊंचाई प्राप्त करता है।
+छवि की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public override int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि ऊंचाई.
+चित्र की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

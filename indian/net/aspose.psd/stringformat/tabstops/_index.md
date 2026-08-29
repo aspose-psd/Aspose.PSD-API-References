@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. द्वर नर्दष्ट इकइयं में टैब स्टप के बच क दूर क एक सरण प्रप्त करत हैPageUnit संपत्त.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। टैब स्टॉप्स के बीच की दूरी की एक सरणी प्राप्त करता है, जो PageUnit प्रॉपर्टी द्वारा निर्दिष्ट इकाइयों में होती है।"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-द्वारा निर्दिष्ट इकाइयों में टैब स्टॉप के बीच की दूरी की एक सरणी प्राप्त करता है[`PageUnit`](../../graphics/pageunit/) संपत्ति.
+टैब स्टॉप्स के बीच की दूरी की एक सरणी प्राप्त करता है, जो [`PageUnit`](../../graphics/pageunit/) प्रॉपर्टी द्वारा निर्दिष्ट इकाइयों में होती है।
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टैब रुक जाता है।
+टैब स्टॉप्स।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-संपत्ति को हटाए गए विधि GetTabStops के लिए पेश किया गया है।
+यह प्रॉपर्टी हटाए गए मेथड GetTabStops के लिए पेश की गई है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

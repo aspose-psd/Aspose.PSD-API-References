@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetMarkedAsRightManagement
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRightsManagementPackage तरक. सह प्रबंधन समग्र के रूप में चह्नत करत है
+title: "XmpRightsManagementPackage.SetMarkedAsRightManagement"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRightsManagementPackage विधि। राइट मैनेजमेंट सामग्री के रूप में चिह्नित करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setmarkedasrightmanagement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetMarkedAsRightManagement method
 
-सही प्रबंधन सामग्री के रूप में चिह्नित करता है
+राइट मैनेजमेंट कंटेंट के रूप में चिह्नित करता है
 
 ```csharp
 public void SetMarkedAsRightManagement(bool value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Boolean | अगर सेट है`सत्य`कि यह एक अधिकार-प्रबंधित संसाधन है। |
+| मान | बूलियन | यदि `true` पर सेट किया गया है तो यह एक राइट्स-मैनेज्ड संसाधन है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRightsManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

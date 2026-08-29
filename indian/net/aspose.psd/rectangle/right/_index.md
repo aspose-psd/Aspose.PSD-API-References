@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle संपत्त. xनर्देशंक प्रप्त करत है य सेट करत है ज क यग हैX औरWidth इस के संपत्त मूल्यRectangleसंरचन.
+title: "Rectangle.Right"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle प्रॉपर्टी। इस Rectangle संरचना के X और Width गुण मानों के योग वाले x-निर्देशांक को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-x-निर्देशांक प्राप्त करता है या सेट करता है जो कि योग है[`X`](../x/) और[`Width`](../width/) इस के संपत्ति मूल्य[`Rectangle`](../)संरचना.
+इस [`Rectangle`](../) संरचना के [`X`](../x/) और [`Width`](../width/) गुण मानों के योग वाले x-निर्देशांक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक्स-निर्देशांक जो का योग है[`X`](../x/) और[`Width`](../width/) इस का[`Rectangle`](../) .
+इस [`Rectangle`](../) का x-निर्देशांक जो [`X`](../x/) और [`Width`](../width/) के योग से प्राप्त होता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

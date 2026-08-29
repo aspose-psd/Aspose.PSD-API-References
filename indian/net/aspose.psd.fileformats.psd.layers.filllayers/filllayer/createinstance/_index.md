@@ -1,30 +1,31 @@
 ---
-title: FillLayer.CreateInstance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FillLayer तरक. क एक नय उदहरण बनएँFillLayer भरण के प्रकर के अनुसर वर्ग.
+title: "FillLayer.CreateInstance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FillLayer मेथड। फ़िल प्रकार द्वारा FillLayer क्लास का नया इंस्टेंस बनाएं।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/createinstance/
 ---
+{{< psd/tize >}}
 ## FillLayer.CreateInstance method
 
-का एक नया उदाहरण बनाएँ[`FillLayer`](../) भरण के प्रकार के अनुसार वर्ग.
+फ़िल प्रकार द्वारा [`FillLayer`](../) क्लास का नया इंस्टेंस बनाएं।
 
 ```csharp
 public static FillLayer CreateInstance(FillType fillType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fillType | FillType | भरण परत का प्रकार। |
+| fillType | FillType | फ़िल लेयर का प्रकार। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-का एक नया उदाहरण देता है[`FillLayer`](../) भरण के प्रकार से वर्ग।
+फ़िल प्रकार द्वारा [`FillLayer`](../) क्लास का नया इंस्टेंस लौटाता है।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि कैसे रनटाइम पर फिललेयर प्रकार की परत को जोड़ना है।
+निम्नलिखित उदाहरण दर्शाता है कि रनटाइम पर FillLayer प्रकार की लेयर कैसे जोड़ें।
 
 ```csharp
 [C#]
@@ -50,11 +51,11 @@ using (var image = new PsdImage(100, 100))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

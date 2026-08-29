@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GdFlResource संपत्त. ग्रेडएंट अंतरल प्रप्त य सेट करत है
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GdFlResource प्रॉपर्टी. ग्रेडिएंट अंतराल प्राप्त करता है या सेट करता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-ग्रेडिएंट अंतराल प्राप्त या सेट करता है।
+ग्रेडिएंट अंतराल प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ढाल अंतराल।
+ग्रेडिएंट अंतराल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GdFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

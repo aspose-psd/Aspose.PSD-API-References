@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Blues
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlackWhiteAdjustmentLayer संपत्त. ब्लूज़ मन प्रप्त य सेट करत है
+title: "BlackWhiteAdjustmentLayer.Blues"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlackWhiteAdjustmentLayer प्रॉपर्टी। नीले मान को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blues/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Blues property
 
-ब्लूज़ मान प्राप्त या सेट करता है।
+ब्लू मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 ब्लूज़ मान।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में रनटाइम पर काले सफेद समायोजन परत को कैसे जोड़ सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप रनटाइम में Aspose.PSD में ब्लैक व्हाइट एडजस्टमेंट लेयर कैसे जोड़ सकते हैं।
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में काले सफेद समायोजन परत गुणों में हेरफेर कैसे कर सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में ब्लैक व्हाइट एडजस्टमेंट लेयर प्रॉपर्टीज़ को कैसे नियंत्रित कर सकते हैं।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlackWhiteAdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

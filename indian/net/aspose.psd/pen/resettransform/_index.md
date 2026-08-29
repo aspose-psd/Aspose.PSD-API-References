@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen तरक. इसके लए ज्यमतय परवर्तन मैट्रक्स क रसेट करत हैPen पहचन के लए.
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen मेथड। इस Pen के लिए ज्यामितीय ट्रांसफ़ॉर्मेशन मैट्रिक्स को पहचान (identity) पर रीसेट करता है।"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-इसके लिए ज्यामितीय परिवर्तन मैट्रिक्स को रीसेट करता है[`Pen`](../) पहचान के लिए.
+इस [`Pen`](../) के लिए ज्यामितीय ट्रांसफ़ॉर्मेशन मैट्रिक्स को पहचान पर रीसेट करता है।
 
 ```csharp
 public void ResetTransform()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

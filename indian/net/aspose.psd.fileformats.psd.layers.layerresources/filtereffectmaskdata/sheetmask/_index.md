@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FilterEffectMaskData संपत्त. शट मस्क प्रप्त करत है
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FilterEffectMaskData प्रॉपर्टी। शीट मास्क प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
 शीट मास्क प्राप्त करता है।
@@ -14,11 +15,11 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskda
 public ChannelInformation SheetMask { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

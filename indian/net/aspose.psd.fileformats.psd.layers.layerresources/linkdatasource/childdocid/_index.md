@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.ChildDocId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. Lnk2 / LnkE Adobe Photoshop संसधन के liFE य liFD डेट स्रत में बल दस्तवेज़ पहचनकर्त प्रप्त य सेट करत है
+title: "LinkDataSource.ChildDocId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। यह liFE या liFD डेटा स्रोत में Lnk2 / LnkE Adobe Photoshop संसाधन के चाइल्ड डॉक्यूमेंट पहचानकर्ता को प्राप्त या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.ChildDocId property
 
-Lnk2 / LnkE Adobe® Photoshop® संसाधन के liFE या liFD डेटा स्रोत में बाल दस्तावेज़ पहचानकर्ता प्राप्त या सेट करता है।
+Lnk2 / LnkE Adobe® Photoshop® रिसोर्स के liFE या liFD डेटा स्रोत में चाइल्ड डॉक्यूमेंट पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string ChildDocId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-PSD Lnk2 / LnkE संसाधन के liFE या liFD डेटा स्रोत में बाल दस्तावेज़ पहचानकर्ता।
+PSD Lnk2 / LnkE संसाधन के liFE या liFD डेटा स्रोत में चाइल्ड डॉक्यूमेंट पहचानकर्ता।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप ChildDocId संपत्ति तक नहीं पहुंच सकते, यह केवल संस्करण 5 या अधिक के साथ लीएफई या एलआईएफडी डेटा स्रोत के लिए उपलब्ध है। |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप ChildDocId प्रॉपर्टी तक पहुँच नहीं सकते; यह केवल संस्करण 5 या उससे अधिक वाले liFE या liFD डेटा स्रोत के लिए उपलब्ध है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

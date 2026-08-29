@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointExtensions तरक. परवर्तत करत हैPoint सरण के लएPointF सरण.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointExtensions मेथड। Point array को PointF array में परिवर्तित करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-परिवर्तित करता है[`Point`](../../../aspose.psd/point/) सरणी के लिए[`PointF`](../../../aspose.psd/pointf/) सरणी.
+[`Point`](../../../aspose.psd/point/) एरे को [`PointF`](../../../aspose.psd/pointf/) एरे में परिवर्तित करता है।
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | Point[] | [`Point`](../../../aspose.psd/point/) कनवर्ट करने के लिए सरणी। |
+| points | Point[] | [`Point`](../../../aspose.psd/point/) एरे को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तित[`PointF`](../../../aspose.psd/pointf/) सरणी।
+परिवर्तित [`PointF`](../../../aspose.psd/pointf/) एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../pointextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

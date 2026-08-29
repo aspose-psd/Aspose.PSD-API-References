@@ -1,23 +1,24 @@
 ---
-title: GifOptions.Interlaced
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GifOptions संपत्त. सच है अगर छव इंटरलेस्ड हन चहए
+title: "GifOptions.Interlaced"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GifOptions प्रॉपर्टी। यदि छवि को इंटरलेस किया जाना चाहिए तो सत्य"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.imageoptions/gifoptions/interlaced/
 ---
+{{< psd/tize >}}
 ## GifOptions.Interlaced property
 
-सच है अगर छवि इंटरलेस्ड होनी चाहिए।
+यदि छवि को इंटरलेस्ड होना चाहिए तो सत्य।
 
 ```csharp
 public bool Interlaced { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../gifoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

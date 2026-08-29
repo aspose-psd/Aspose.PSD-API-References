@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExpaResource संपत्त. ऑफसेट ह जत है य सेट करत है
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExpaResource प्रॉपर्टी। ऑफ़सेट प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
-ऑफसेट हो जाता है या सेट करता है।
+ऑफ़सेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑफसेट.
+ऑफ़सेट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

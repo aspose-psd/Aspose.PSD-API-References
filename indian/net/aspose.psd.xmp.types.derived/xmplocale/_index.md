@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale कक्ष. भष कड क प्रतनधत्व करत है
+title: "क्लास XmpLocale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale क्लास। भाषा कोड का प्रतिनिधित्व करता है।"
 type: docs
-weight: 6170
+weight: 6670
 url: /hi/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 भाषा कोड का प्रतिनिधित्व करता है।
@@ -18,28 +19,28 @@ public sealed class XmpLocale : XmpText
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpLocale` वर्ग. |
+| [XmpLocale](xmplocale/)(string) | `XmpLocale` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | टेक्स्ट मान प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | टेक्स्ट मान को प्राप्त करता है या सेट करता है। |
 
-### टिप्पणियों
+## मेथड्स
 
-IETF RFC 3066 देखें.
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+## टिप्पणियाँ
+
+देखें IETF RFC 3066।
+
+### देखें भी
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

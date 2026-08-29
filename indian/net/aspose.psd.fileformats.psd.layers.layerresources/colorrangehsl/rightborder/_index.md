@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.RightBorder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl संपत्त. सह सम प्रप्त करत है य सेट करत है
+title: "ColorRangeHsl.RightBorder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl प्रॉपर्टी. दायां सीमा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.RightBorder property
 
-सही सीमा प्राप्त करता है या सेट करता है।
+दाएँ सीमा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short RightBorder { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दायां बॉर्डर.
+दायां सीमा.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. इसके लए स्टइल क जनकर प्रप्त करत हैFont .
+title: "Font.Style"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font प्रॉपर्टी। इस Font के लिए शैली जानकारी प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-इसके लिए स्टाइल की जानकारी प्राप्त करता है[`Font`](../) .
+इस [`Font`](../) के लिए शैली जानकारी प्राप्त करता है।
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`FontStyle`](../../fontstyle/) गणना जिसमें इसके लिए शैली की जानकारी है[`Font`](../).
+एक [`FontStyle`](../../fontstyle/) एनेमरेशन जिसमें इस [`Font`](../) के लिए शैली जानकारी शामिल है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. XMP आयम प्रकर.
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP Dimensions टाइप"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-XMP आयाम प्रकार.
+XMP डाइमेंशन्स टाइप।
 
 ```csharp
 public const string XmpTypeDimensions;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

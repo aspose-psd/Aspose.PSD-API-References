@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. रूपंतरण मैट्रक्स प्रप्त य सेट करत है
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। ट्रांसफ़ॉर्म मैट्रिक्स प्राप्त करता है या सेट करता है"
 type: docs
-weight: 230
+weight: 200
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
-रूपांतरण मैट्रिक्स प्राप्त या सेट करता है।
+ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रूपांतरण मैट्रिक्स।
+ट्रांसफ़ॉर्म मैट्रिक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

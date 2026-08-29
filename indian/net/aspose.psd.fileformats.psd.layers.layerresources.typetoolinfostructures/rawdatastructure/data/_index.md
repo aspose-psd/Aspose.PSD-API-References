@@ -1,27 +1,28 @@
 ---
-title: RawDataStructure.Data
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataStructure संपत्त. डेट प्रप्त य सेट करत है
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataStructure प्रॉपर्टी। डेटा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
-डेटा प्राप्त या सेट करता है।
+डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेटा.
+डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RawDataStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

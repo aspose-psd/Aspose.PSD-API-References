@@ -1,27 +1,28 @@
 ---
-title: Layer.Text
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत क टेक्स्ट समग्र प्रप्त य सेट करत है
+title: "Layer.Text"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर की टेक्स्ट सामग्री प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
-परत की टेक्स्ट सामग्री प्राप्त या सेट करता है।
+लेयर की टेक्स्ट सामग्री प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत की पाठ्य सामग्री.
+लेयर की टेक्स्ट सामग्री।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

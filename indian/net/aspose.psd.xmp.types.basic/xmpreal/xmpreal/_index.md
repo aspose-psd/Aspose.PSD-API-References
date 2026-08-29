@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpReal नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpReal वर्ग.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpReal कन्स्ट्रक्टर। XmpReal क्लास का नया उदाहरण आरंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpReal`](../) वर्ग.
+[`XmpReal`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Single | फ्लोट वैल्यू। |
+| मान | Single | फ़्लोट मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpReal](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpReal`](../) वर्ग.
+[`XmpReal`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | मान शून्य है। |
-| ArgumentException | अमान्य मूल्य। तैरना चाहिए। |
+| ArgumentNullException | मान null है। |
+| ArgumentException | अमान्य मान। फ़्लोट होना चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpReal](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

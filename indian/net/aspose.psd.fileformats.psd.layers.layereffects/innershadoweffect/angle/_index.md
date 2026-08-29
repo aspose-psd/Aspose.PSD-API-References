@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InnerShadowEffect संपत्त. कण क डग्र में प्रप्त य सेट करत है
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InnerShadowEffect प्रॉपर्टी। प्राप्त करता है या सेट करता है कोण को डिग्री में"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
-कोण को डिग्री में प्राप्त या सेट करता है।
+डिग्री में कोण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कोण.
+कोण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

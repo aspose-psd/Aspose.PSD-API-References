@@ -1,91 +1,92 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffStreamReader वर्ग.
+title: "TiffStreamReader.TiffStreamReader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader कंस्ट्रक्टर। TiffStreamReader क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffStreamReader`](../) वर्ग.
+[`TiffStreamReader`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffStreamReader(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | बाइट सरणी डेटा। |
+| डेटा | Byte[] | बाइट एरे डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffStreamReader`](../) वर्ग.
+[`TiffStreamReader`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | बाइट सरणी डेटा। |
-| startIndex | Int32 | प्रारंभ सूचकांक में*data*. |
+| डेटा | Byte[] | बाइट एरे डेटा। |
+| startIndex | Int32 | डेटा में प्रारंभिक सूचकांक *data*। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int, int) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffStreamReader`](../) वर्ग.
+[`TiffStreamReader`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | बाइट सरणी डेटा। |
-| startIndex | Int32 | प्रारंभ सूचकांक में*data*. |
+| डेटा | Byte[] | बाइट एरे डेटा। |
+| startIndex | Int32 | डेटा में प्रारंभिक सूचकांक *data*। |
 | dataLength | Int32 | डेटा की लंबाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(StreamContainer) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffStreamReader`](../) वर्ग.
+[`TiffStreamReader`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffStreamReader(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

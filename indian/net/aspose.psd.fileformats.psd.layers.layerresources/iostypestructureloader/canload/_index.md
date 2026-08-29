@@ -1,32 +1,33 @@
 ---
-title: IOSTypeStructureLoader.CanLoad
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IOSTypeStructureLoader तरक. नर्धरत करत है क क्यOSTypeStructure संसधन नर्दष्ट से लड कय ज सकत हैStreamContainer .
+title: "IOSTypeStructureLoader.CanLoad"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IOSTypeStructureLoader मेथड। निर्धारित करता है कि निर्दिष्ट StreamContainer से OSTypeStructure रिसोर्स लोड किया जा सकता है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.CanLoad method
 
-निर्धारित करता है कि क्या[`OSTypeStructure`](../../ostypestructure/) संसाधन निर्दिष्ट से लोड किया जा सकता है[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+निर्धारित करता है कि निर्दिष्ट [`StreamContainer`](../../../aspose.psd/streamcontainer/) से [`OSTypeStructure`](../../ostypestructure/) रिसोर्स लोड किया जा सकता है या नहीं।
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` अगर[`OSTypeStructure`](../../ostypestructure/) संसाधन निर्दिष्ट से लोड किया जा सकता है[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; अन्यथा,`असत्य` .
+`true` यदि [`OSTypeStructure`](../../ostypestructure/) रिसोर्स निर्दिष्ट [`StreamContainer`](../../../aspose.psd/streamcontainer/) से लोड किया जा सकता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

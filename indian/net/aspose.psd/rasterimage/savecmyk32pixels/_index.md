@@ -1,29 +1,30 @@
 ---
-title: RasterImage.SaveCmyk32Pixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. पक्सेल सहेजत है.
+title: "RasterImage.SaveCmyk32Pixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। पिक्सेल सहेजता है।"
 type: docs
-weight: 510
+weight: 520
 url: /hi/net/aspose.psd/rasterimage/savecmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveCmyk32Pixels method
 
-पिक्सेल सहेजता है.
+पिक्सेल को सहेजता है।
 
 ```csharp
 public void SaveCmyk32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | वह आयत जिसमें पिक्सेल सहेजना है। |
-| pixels | Int32[] | CMYK पिक्सेल 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए। |
+| आयत | Rectangle | पिक्सेल सहेजने के लिए आयत। |
+| पिक्सेल | Int32[] | CMYK पिक्सेल को 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किया गया है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

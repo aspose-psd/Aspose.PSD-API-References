@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Pdf
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में पडएफ फइल प्ररूप एककरण के लए कक्षएं हैं
+title: "Aspose.PSD.FileFormats.Pdf"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में PDF फ़ाइल फ़ॉर्मेट इंटीग्रेशन के लिए क्लासेस शामिल हैं।"
 type: docs
-weight: 180
+weight: 190
 url: /hi/net/aspose.psd.fileformats.pdf/
 ---
-नामस्थान में पीडीएफ फाइल प्रारूप एकीकरण के लिए कक्षाएं हैं।
+{{< psd/tize >}}
+यह namespace PDF फ़ाइल फ़ॉर्मेट एकीकरण के लिए क्लासेस शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [PdfCoreOptions](./pdfcoreoptions/) | PDF में कनवर्ट करने के लिए सामान्य विकल्प |
-| [PdfDocumentInfo](./pdfdocumentinfo/) | यह वर्ग दस्तावेज़ विवरण के लिए मेटाडेटा के सेट का प्रतिनिधित्व करता है। |
+| [PdfCoreOptions](./pdfcoreoptions/) | PDF में रूपांतरण के सामान्य विकल्प। |
+| [PdfDocumentInfo](./pdfdocumentinfo/) | यह क्लास दस्तावेज़ विवरण के लिए मेटाडेटा सेट को दर्शाती है। |
 
 

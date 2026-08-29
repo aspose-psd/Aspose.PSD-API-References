@@ -1,27 +1,28 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings संपत्त. फ़न्ट क डफ़ल्ट नम प्रप्त य सेट करत है
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings property. फ़ॉन्ट के डिफ़ॉल्ट नाम को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
-फ़ॉन्ट का डिफ़ॉल्ट नाम प्राप्त या सेट करता है।
+फ़ॉन्ट का डिफ़ॉल्ट नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public static string DefaultFontName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फ़ॉन्ट का डिफ़ॉल्ट नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

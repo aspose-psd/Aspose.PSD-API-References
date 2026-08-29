@@ -1,33 +1,34 @@
 ---
-title: Layer.FillOpacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. फल अपरदर्शत प्रप्त य सेट करत है
+title: "Layer.FillOpacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। फ़िल ओपेसिटी को प्राप्त या सेट करता है।"
 type: docs
-weight: 130
+weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
-फिल अपारदर्शिता प्राप्त या सेट करता है।
+फ़िल अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int FillOpacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-0 से 100 की सीमा में भरण अपारदर्शिता
+फ़िल ओपेसिटी 0 से 100 की सीमा में है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | भरण अपारदर्शिता केवल 0 से 100 की सीमा में हो सकती है |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | फ़िल ओपेसिटी केवल 0 से 100 की सीमा में हो सकती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

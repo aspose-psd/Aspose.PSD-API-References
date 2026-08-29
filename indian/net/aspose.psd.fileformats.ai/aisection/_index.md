@@ -1,28 +1,29 @@
 ---
-title: Class AiSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiSection कक्ष. एआई प्ररूप आधर अनुभग
+title: "क्लास AiSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiSection क्लास. Ai फ़ॉर्मेट बेस सेक्शन"
 type: docs
-weight: 1290
+weight: 1300
 url: /hi/net/aspose.psd.fileformats.ai/aisection/
 ---
+{{< psd/tize >}}
 ## AiSection class
 
-एआई प्रारूप आधार अनुभाग
+Ai फ़ॉर्मेट बेस सेक्शन
 
 ```csharp
 public abstract class AiSection
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | स्ट्रिंग डेटा प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

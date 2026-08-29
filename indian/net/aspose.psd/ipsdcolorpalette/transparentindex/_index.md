@@ -1,11 +1,12 @@
 ---
-title: IPsdColorPalette.TransparentIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPsdColorPalette संपत्त. परदर्श रंग क सूचकंक प्रप्त करत है
+title: "IPsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPsdColorPalette प्रॉपर्टी। पारदर्शी रंग का सूचकांक प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/ipsdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentIndex property
 
 पारदर्शी रंग का सूचकांक प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/ipsdcolorpalette/transparentindex/
 public short TransparentIndex { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पारदर्शी रंग का सूचकांक।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPsdColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../ipsdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

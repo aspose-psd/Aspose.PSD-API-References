@@ -1,32 +1,33 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormatExtensions तरक. परवर्तत करत हैStringFormat तकStringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormatExtensions मेथड। StringFormat को StringFormat में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-परिवर्तित करता है[`StringFormat`](../../../aspose.psd/stringformat/) तकStringFormat .
+[`StringFormat`](../../../aspose.psd/stringformat/) को StringFormat में परिवर्तित करता है।
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stringFormat | StringFormat | [`StringFormat`](../../../aspose.psd/stringformat/) रूपान्तरण करने के लिए। |
+| stringFormat | StringFormat | [`StringFormat`](../../../aspose.psd/stringformat/) को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितStringFormat.
+परिवर्तित StringFormat।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../stringformatextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

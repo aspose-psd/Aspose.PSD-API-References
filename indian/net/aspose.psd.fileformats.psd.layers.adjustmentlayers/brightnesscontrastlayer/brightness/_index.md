@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Brightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BrightnessContrastLayer संपत्त. चमक प्रप्त य सेट करत है पएस के लए चमक क सम 150 से 150 तक है लेकन हम इस पर ध्यन नहं देते.
+title: "BrightnessContrastLayer.Brightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BrightnessContrastLayer प्रॉपर्टी। brightness प्राप्त करता है या सेट करता है। PS के लिए brightness की सीमा 150 से 150 तक है। लेकिन हम इसे नजरअंदाज करते हैं।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Brightness property
 
-चमक प्राप्त या सेट करता है। पीएस के लिए चमक की सीमा -150 से +150 तक है। लेकिन हम इस पर ध्यान नहीं देते.
+ब्राइटनेस प्राप्त करता है या सेट करता है। PS में ब्राइटनेस की सीमा -150 से +150 तक है। लेकिन हम इसे नजरअंदाज करते हैं।
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 चमक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BrightnessContrastLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

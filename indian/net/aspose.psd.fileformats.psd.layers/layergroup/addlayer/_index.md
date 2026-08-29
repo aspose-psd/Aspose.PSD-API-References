@@ -1,26 +1,27 @@
 ---
-title: LayerGroup.AddLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerGroup तरक. परत क परत समूह में जड़त है.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerGroup मेथड। लेयर को लेयर समूह में जोड़ता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
-परत को परत समूह में जोड़ता है.
+लेयर को लेयर समूह में जोड़ता है।
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layer | Layer | परत। |
+| लेयर | लेयर | लेयर। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि कैसे आप Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif छवियों को PsdImage में परतों के रूप में जोड़ सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif छवियों को PsdImage में लेयर्स के रूप में कैसे जोड़ सकते हैं
 
 ```csharp
 [C#]
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

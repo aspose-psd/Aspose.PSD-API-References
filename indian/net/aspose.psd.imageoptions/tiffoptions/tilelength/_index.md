@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. टइल क लंबई नर्धरत करत है
+title: "TiffOptions.TileLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। टाइल लंबाई को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 530
+weight: 540
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-टाइल की लंबाई निर्धारित करता है।
+टाइल लंबाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint TileLength { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

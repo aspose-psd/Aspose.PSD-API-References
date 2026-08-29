@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य इस उदहरण में अल्फ़ है.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि इस इंस्टेंस में अल्फा है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में अल्फ़ा है.
+एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस अल्फा रखता है या नहीं।
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण में अल्फ़ा है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में अल्फा है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

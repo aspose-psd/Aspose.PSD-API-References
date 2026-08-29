@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.ChannelBlendRanges
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerBlendingRangesData संपत्त. चैनल ब्लेंड रेंज प्रप्त य सेट करत है
+title: "LayerBlendingRangesData.ChannelBlendRanges"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerBlendingRangesData प्रॉपर्टी। चैनल ब्लेंड रेंजेज को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.ChannelBlendRanges property
 
-चैनल ब्लेंड रेंज प्राप्त या सेट करता है।
+चैनल ब्लेंड रेंजेज़ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चैनल ब्लेंड रेंज।
+चैनल ब्लेंड रेंजेज़।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

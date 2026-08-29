@@ -1,34 +1,35 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRightsManagementPackage तरक. उपयग क शर्तें नर्धरत करत है
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRightsManagementPackage विधि। उपयोग शर्तें सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
-उपयोग की शर्तें निर्धारित करता है।
+उपयोग शर्तों को सेट करता है।
 
 ```csharp
 public void SetUsageTerms(LangAlt usageTerms)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| usageTerms | LangAlt | उपयोग की शर्तें। |
+| usageTerms | LangAlt | उपयोग शर्तें। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | उपयोग की शर्तें |
+| ArgumentNullException | usageTerms |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

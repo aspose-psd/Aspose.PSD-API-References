@@ -1,23 +1,24 @@
 ---
-title: SoLdResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoLdResource संपत्त. सल्ड स्मर्ट ऑब्जेक्ट लेयर संसधन कुंज प्रप्त करत है
+title: "SoLdResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoLdResource प्रॉपर्टी। SoLd स्मार्ट ऑब्जेक्ट लेयर रिसोर्स की कुंजी प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/key/
 ---
+{{< psd/tize >}}
 ## SoLdResource.Key property
 
-सोल्ड स्मार्ट ऑब्जेक्ट लेयर संसाधन कुंजी प्राप्त करता है।
+SoLd स्मार्ट ऑब्जेक्ट लेयर रिसोर्स की कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

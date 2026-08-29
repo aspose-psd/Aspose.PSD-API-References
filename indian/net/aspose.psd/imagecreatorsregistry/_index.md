@@ -1,39 +1,40 @@
 ---
-title: Class ImageCreatorsRegistry
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageCreatorsRegistry कक्ष. छव नर्मत रजस्ट्र क प्रतनधत्व करत है
+title: "क्लास ImageCreatorsRegistry"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageCreatorsRegistry क्लास। इमेज क्रिएटर्स रजिस्ट्री का प्रतिनिधित्व करता है"
 type: docs
-weight: 4620
+weight: 5090
 url: /hi/net/aspose.psd/imagecreatorsregistry/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry class
 
-छवि निर्माता रजिस्ट्री का प्रतिनिधित्व करता है।
+इमेज क्रिएटर्स रजिस्ट्री का प्रतिनिधित्व करता है।
 
 ```csharp
 public static class ImageCreatorsRegistry
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | पंजीकृत वर्णनकर्ता प्राप्त करता है। |
-| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | पंजीकृत छवि निर्माण प्रारूप प्राप्त करता है। |
+| static [RegisteredDescriptors](../../aspose.psd/imagecreatorsregistry/registereddescriptors/) { get; } | पंजीकृत डिस्क्रिप्टर प्राप्त करता है। |
+| static [RegisteredFormats](../../aspose.psd/imagecreatorsregistry/registeredformats/) { get; } | पंजीकृत इमेज निर्माण फ़ॉर्मेट प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | पहले पाए गए निर्माता को निर्दिष्ट के लिए उपयुक्त बनाता है। |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर निर्दिष्ट के लिए उपयुक्त हो जाता है। |
-| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | निर्दिष्ट छवि निर्माता वर्णनकर्ता पंजीकृत करता है। |
-| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | निर्माता को पंजीकृत करता है। |
-| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | निर्माता का पंजीकरण रद्द करता है। |
+| static [CreateFirstSupportedCreator](../../aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/)(ImageOptionsBase) | निर्दिष्ट के लिए उपयुक्त पहला मिला क्रिएटर बनाता है। |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/)(ImageOptionsBase) | निर्दिष्ट के लिए उपयुक्त पहला मिला समर्थित डिस्क्रिप्टर प्राप्त करता है। |
+| static [Register](../../aspose.psd/imagecreatorsregistry/register/)(IImageCreatorDescriptor) | निर्दिष्ट इमेज क्रिएटर डिस्क्रिप्टर को रजिस्टर करता है। |
+| static [RegisterCreator](../../aspose.psd/imagecreatorsregistry/registercreator/)(IImageCreatorDescriptor) | क्रिएटर को रजिस्टर करता है। |
+| static [UnregisterCreator](../../aspose.psd/imagecreatorsregistry/unregistercreator/)(IImageCreatorDescriptor) | क्रिएटर को अनरजिस्टर करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

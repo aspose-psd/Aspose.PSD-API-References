@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Angle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IShadowEffect संपत्त. कण क डग्र में प्रप्त य सेट करत है
+title: "IShadowEffect.Angle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IShadowEffect प्रॉपर्टी। कोण को डिग्री में प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Angle property
 
-कोण को डिग्री में प्राप्त या सेट करता है।
+डिग्री में कोण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कोण.
+कोण।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

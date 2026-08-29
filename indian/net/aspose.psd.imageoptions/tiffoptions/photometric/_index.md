@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. फटमेट्रक प्रप्त य सेट करत है
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। फोटोमेट्रिक को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 320
+weight: 330
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-फोटोमेट्रिक प्राप्त या सेट करता है।
+फोटोमेट्रिक को प्राप्त या सेट करता है।
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फोटोमेट्रिक।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

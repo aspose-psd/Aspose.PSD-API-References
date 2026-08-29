@@ -1,14 +1,15 @@
 ---
-title: Class CmykMixerChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel कक्ष. सएमवईके चैनल यह चैनल र डेट के लए रैपर है MixrResource में प्रयुक्त
+title: "क्लास CmykMixerChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.CmykMixerChannel class. CmykChannel. चैनल कच्चा डेटा के लिए इसका रैपर। MixrResource में उपयोग किया गया।"
 type: docs
-weight: 1710
+weight: 1760
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel class
 
-सीएमवाईके चैनल। यह चैनल रॉ डेटा के लिए रैपर है। MixrResource में प्रयुक्त
+CmykChannel। यह चैनल कच्चे डेटा के लिए रैपर है। MixrResource में उपयोग किया जाता है।
 
 ```csharp
 public class CmykMixerChannel : MixerChannel
@@ -18,28 +19,28 @@ public class CmykMixerChannel : MixerChannel
 
 | नाम | विवरण |
 | --- | --- |
-| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`CmykMixerChannel` वर्ग. |
+| [CmykMixerChannel](cmykmixerchannel/)(byte[]) | `CmykMixerChannel` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | काला हो जाता है या सेट हो जाता है। |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | चैनल का स्थिरांक प्राप्त या सेट करता है। |
-| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | सियान को प्राप्त या सेट करता है। |
-| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | मैजेंटा प्राप्त करता है या सेट करता है. |
-| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | पीला हो जाता है या सेट हो जाता है। |
+| [Black](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/) { get; set; } | काले को प्राप्त करता है या सेट करता है। |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | constant.of चैनल को प्राप्त करता है या सेट करता है। |
+| [Cyan](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/) { get; set; } | सियान को प्राप्त करता है या सेट करता है। |
+| [Magenta](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/) { get; set; } | मैजेंटा को प्राप्त करता है या सेट करता है। |
+| [Yellow](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/) { get; set; } | पीले को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | कच्चा डेटा प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixerChannel](../mixerchannel/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorPathRecordFactory तरक. पथ रकर्ड बनत है
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorPathRecordFactory विधि. पथ रिकॉर्ड बनाता है"
 type: docs
-weight: 20
+weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
-पथ रिकॉर्ड बनाता है।
+पथ रिकॉर्ड उत्पन्न करता है।
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रिकॉर्ड डेटा। |
+| डेटा | Byte[] | रिकॉर्ड डेटा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया था[`VectorPathRecord`](../../vectorpathrecord/)
+बनाया गया [`VectorPathRecord`](../../vectorpathrecord/).
 
-### अपवाद
-
-| अपवाद | स्थिति |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
-
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

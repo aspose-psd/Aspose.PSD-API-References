@@ -1,28 +1,29 @@
 ---
-title: SmartResourceCreator.GeneratePlacedResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartResourceCreator तरक. रखे गए संसधन उत्पन्न करत है
+title: "SmartResourceCreator.GeneratePlacedResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartResourceCreator मेथड। प्लेस्ड रिसोर्स उत्पन्न करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GeneratePlacedResource method
 
-रखे गए संसाधन उत्पन्न करता है।
+प्लेस्ड रिसोर्स उत्पन्न करता है।
 
 ```csharp
 public PlLdResource GeneratePlacedResource()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-उत्पन्न[`PlLdResource`](../../plldresource/) उदाहरण।
+जनरेट किया गया [`PlLdResource`](../../plldresource/) इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

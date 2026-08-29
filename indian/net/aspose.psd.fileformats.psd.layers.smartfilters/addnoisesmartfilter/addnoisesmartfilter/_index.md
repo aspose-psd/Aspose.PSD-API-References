@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.AddNoiseSmartFilter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AddNoiseSmartFilter नर्मत. क एक नय उदहरण प्ररंभ करत हैAddNoiseSmartFilter वर्ग.
+title: "AddNoiseSmartFilter.AddNoiseSmartFilter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AddNoiseSmartFilter कन्स्ट्रक्टर। AddNoiseSmartFilter क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/addnoisesmartfilter/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`AddNoiseSmartFilter`](../) वर्ग.
+[`AddNoiseSmartFilter`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public AddNoiseSmartFilter()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AddNoiseSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

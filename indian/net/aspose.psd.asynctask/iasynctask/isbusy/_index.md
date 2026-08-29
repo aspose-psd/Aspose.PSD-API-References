@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsBusy
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask संपत्त. यह इंगत करने वल मन प्रप्त करत है क यह कर्य वर्तमन में चल रह है य नहं
+title: "IAsyncTask.IsBusy"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि यह कार्य वर्तमान में चल रहा है या नहीं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.asynctask/iasynctask/isbusy/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsBusy property
 
-यह इंगित करने वाला मान प्राप्त करता है कि यह कार्य वर्तमान में चल रहा है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि यह टास्क वर्तमान में चल रहा है या नहीं।
 
 ```csharp
 public bool IsBusy { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह कार्य वर्तमान में चल रहा है; अन्यथा,`असत्य` .
+`true` यदि यह कार्य वर्तमान में चल रहा है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

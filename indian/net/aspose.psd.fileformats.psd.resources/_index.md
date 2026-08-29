@@ -1,55 +1,56 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में PSD फ़इल स्वरूप संसधन नकय शमल हैं.
+title: "Aspose.PSD.FileFormats.Psd.Resources"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में PSD फ़ाइल स्वरूप संसाधन इकाइयाँ शामिल हैं"
 type: docs
-weight: 350
+weight: 380
 url: /hi/net/aspose.psd.fileformats.psd.resources/
 ---
-नामस्थान में PSD फ़ाइल स्वरूप संसाधन निकाय शामिल हैं.
+{{< psd/tize >}}
+यह namespace PSD फ़ाइल फ़ॉर्मेट रिसोर्स इकाइयों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [AnimatedDataSectionResource](./animateddatasectionresource/) | एनिमेटेड डेटा अनुभाग प्लग-इन संसाधन। |
+| [AnimatedDataSectionResource](./animateddatasectionresource/) | Animated Data Section Plug-In संसाधन। |
 | [BackgroundColorResource](./backgroundcolorresource/) | छवि प्रिंट सेटिंग्स की सीमा जानकारी वाला संसाधन। |
 | [BorderInformationResource](./borderinformationresource/) | छवि प्रिंट सेटिंग्स की सीमा जानकारी वाला संसाधन। |
 | [CaptionDigestResource](./captiondigestresource/) | CaptionDigest संसाधन |
-| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | हाफ़टोनिंग संसाधन |
-| [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | कलर ट्रांसफर रिसोर्स |
-| [DocumentSpecificIdsResource](./documentspecificidsresource/) | दस्तावेज़ विशिष्ट आईडी संसाधन |
-| [FixedPointDecimal](./fixedpointdecimal/) | फिक्स्ड-पॉइंट दशमलव, 16-बिट पूर्णांक और 16-बिट अंश के साथ। |
-| [GlobalAltitudeResource](./globalaltituderesource/) | वैश्विक ऊंचाई संसाधन |
-| [GlobalAngleResource](./globalangleresource/) | वैश्विक कोण संसाधन |
-| [GridAndGuidesResouce](./gridandguidesresouce/) | ग्रिड का प्रतिनिधित्व करता है और संसाधनों का मार्गदर्शन करता है। |
-| [GuideResource](./guideresource/) | गाइड संसाधन ब्लॉक. |
-| [IccProfileResource](./iccprofileresource/) | आईसीसी प्रोफ़ाइल संसाधन का प्रतिनिधित्व करता है। |
-| [IccUntaggedResource](./iccuntaggedresource/) | आईसीसी टैग न किए गए संसाधन |
-| [LayerGroupInformationResource](./layergroupinformationresource/) | परत समूह सूचना संसाधन |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | परत समूह सक्षम संसाधन |
-| [LayerSelectionIdsResource](./layerselectionidsresource/) | परत चयन आईडी संसाधन |
-| [LayerStateInformationResource](./layerstateinformationresource/) | परत स्थिति सूचना संसाधन |
-| [PixelAspectRatioResource](./pixelaspectratioresource/) | पिक्सेल पहलू राशन संसाधन |
-| [PrintFlagsResource](./printflagsresource/) | झंडे प्रिंट करें संसाधन |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Halftoning संसाधन |
+| [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Color transfer संसाधन |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Document Specific Ids संसाधन |
+| [FixedPointDecimal](./fixedpointdecimal/) | फ़िक्स्ड-पॉइंट दशमलव, 16-बिट पूर्णांक और 16-बिट अंश के साथ। |
+| [GlobalAltitudeResource](./globalaltituderesource/) | Global altitude संसाधन |
+| [GlobalAngleResource](./globalangleresource/) | Global angle संसाधन |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | ग्रिड और गाइड्स संसाधन का प्रतिनिधित्व करता है। |
+| [GuideResource](./guideresource/) | गाइड संसाधन ब्लॉक। |
+| [IccProfileResource](./iccprofileresource/) | ICC प्रोफ़ाइल संसाधन का प्रतिनिधित्व करता है। |
+| [IccUntaggedResource](./iccuntaggedresource/) | Icc अनटैग्ड संसाधन |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | लेयर समूह जानकारी संसाधन |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | लेयर समूह सक्षम संसाधन |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | लेयर चयन IDs संसाधन |
+| [LayerStateInformationResource](./layerstateinformationresource/) | लेयर स्थिति जानकारी संसाधन |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Pixel aspect ratio संसाधन |
+| [PrintFlagsResource](./printflagsresource/) | Print flags संसाधन |
 | [PrintScaleResource](./printscaleresource/) | प्रिंट स्केल संसाधन |
-| [QuickMaskInformationResource](./quickmaskinformationresource/) | त्वरित मास्क सूचना संसाधन |
-| [ResolutionInfoResource](./resolutioninforesource/) | संकल्प जानकारी संसाधन |
-| [Thumbnail4Resource](./thumbnail4resource/) | पीएसडी 4.0. के लिए थंबनेल संसाधन का प्रतिनिधित्व करता है |
-| [ThumbnailResource](./thumbnailresource/) | थंबनेल संसाधन ब्लॉक. |
-| [TransparencyIndexResource](./transparencyindexresource/) | पारदर्शिता सूचकांक संसाधन ब्लॉक. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | यूनिकोड अल्फा नाम संसाधन |
-| [UnknownResource](./unknownresource/) | अज्ञात संसाधन। जब एक रिसोर्स ब्लॉक की पहचान नहीं होती है तो यह रिसोर्स ब्लॉक बनाया जाता है. |
-| [UrlListResource](./urllistresource/) | यूआरएल सूची संसाधन |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | त्वरित मास्क जानकारी संसाधन |
+| [ResolutionInfoResource](./resolutioninforesource/) | रिज़ॉल्यूशन जानकारी संसाधन |
+| [Thumbnail4Resource](./thumbnail4resource/) | psd 4.0 के लिए थंबनेल संसाधन का प्रतिनिधित्व करता है। |
+| [ThumbnailResource](./thumbnailresource/) | थंबनेल संसाधन ब्लॉक। |
+| [TransparencyIndexResource](./transparencyindexresource/) | ट्रांसपैरेंसी इंडेक्स संसाधन ब्लॉक। |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode अल्फा नाम संसाधन |
+| [UnknownResource](./unknownresource/) | अज्ञात संसाधन। जब कोई संसाधन ब्लॉक पहचाना नहीं जाता है तो यह संसाधन ब्लॉक बनाया जाता है। |
+| [UrlListResource](./urllistresource/) | URL सूची संसाधन |
 | [VersionInfoResource](./versioninforesource/) | संस्करण जानकारी संसाधन |
 | [WatermarkResource](./watermarkresource/) | वॉटरमार्क संसाधन |
-| [WorkingPathResource](./workingpathresource/) | कार्य पथ संसाधन. |
+| [WorkingPathResource](./workingpathresource/) | कार्य पथ संसाधन। |
 | [XmpResource](./xmpresource/) | XMP मेटाडेटा संसाधन का प्रतिनिधित्व करता है। |
-## गणना
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
 | [GuideDirection](./guidedirection/) | गाइड दिशा। |
-| [ThumbnailFormat](./thumbnailformat/) | थंबनेल डेटा प्रारूप निर्दिष्ट करता है। |
+| [ThumbnailFormat](./thumbnailformat/) | थंबनेल डेटा फ़ॉर्मेट निर्दिष्ट करता है। |
 
 

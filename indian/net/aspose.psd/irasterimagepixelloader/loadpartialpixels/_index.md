@@ -1,30 +1,31 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IRasterImagePixelLoader तरक. पक्सल क आंशक रूप से लड करत है ब्लक द्वर
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IRasterImagePixelLoader मेथड। पिक्सेल को ब्लॉकों द्वारा आंशिक रूप से लोड करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-पिक्सल को आंशिक रूप से लोड करता है (ब्लॉक द्वारा)।
+पिक्सेल को आंशिक रूप से (ब्लॉकों द्वारा) लोड करता है।
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | वह आयत जिससे पिक्सेल लोड करना है। |
+| आयत | Rectangle | पिक्सेल लोड करने के लिए आयत। |
 | partialPixelLoader | IPartialPixelLoader | आंशिक पिक्सेल लोडर। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* नाम स्थान [Aspose.PSD](../../irasterimagepixelloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,116 +1,117 @@
 ---
-title: PathGradientBrush.PathGradientBrush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathGradientBrush नर्मत. क एक नय उदहरण प्ररंभ करत हैPathGradientBrush वर्ग नर्दष्ट अंक के सथ.
+title: "PathGradientBrush.PathGradientBrush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathGradientBrush कन्स्ट्रक्टर। निर्दिष्ट बिंदुओं के साथ PathGradientBrush क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/pathgradientbrush/pathgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush(PointF[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathGradientBrush`](../) वर्ग निर्दिष्ट अंक के साथ.
+निर्दिष्ट बिंदुओं के साथ [`PathGradientBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathGradientBrush(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | की सरणी[`PointF`](../../../aspose.psd/pointf/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| points | PointF[] | एक एरे जिसमें [`PointF`](../../../aspose.psd/pointf/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathGradientBrush`](../) वर्ग निर्दिष्ट अंक और रैप मोड के साथ .
+निर्दिष्ट बिंदुओं और रैप मोड के साथ [`PathGradientBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | की सरणी[`PointF`](../../../aspose.psd/pointf/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
-| wrapMode | WrapMode | ए[`WrapMode`](../../../aspose.psd/wrapmode/) यह निर्दिष्ट करता है कि इससे कैसे भरा जाता है[`PathGradientBrush`](../) टाइल किए गए हैं। |
+| points | PointF[] | एक एरे जिसमें [`PointF`](../../../aspose.psd/pointf/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
+| wrapMode | WrapMode | एक [`WrapMode`](../../../aspose.psd/wrapmode/) जो यह निर्दिष्ट करता है कि इस [`PathGradientBrush`](../) के साथ खींचे गए फिल्स कैसे टाइल किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[]) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathGradientBrush`](../) वर्ग निर्दिष्ट अंक के साथ.
+निर्दिष्ट बिंदुओं के साथ [`PathGradientBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathGradientBrush(Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | Point[] | की सरणी[`Point`](../../../aspose.psd/point/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| points | Point[] | एक एरे जिसमें [`Point`](../../../aspose.psd/point/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(Point[], WrapMode) {#constructor_4}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathGradientBrush`](../) वर्ग निर्दिष्ट अंक और रैप मोड के साथ .
+निर्दिष्ट बिंदुओं और रैप मोड के साथ [`PathGradientBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | Point[] | की सरणी[`Point`](../../../aspose.psd/point/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
-| wrapMode | WrapMode | ए[`WrapMode`](../../../aspose.psd/wrapmode/) यह निर्दिष्ट करता है कि इससे कैसे भरा जाता है[`PathGradientBrush`](../) टाइल किए गए हैं। |
+| points | Point[] | एक एरे जिसमें [`Point`](../../../aspose.psd/point/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
+| wrapMode | WrapMode | एक [`WrapMode`](../../../aspose.psd/wrapmode/) जो यह निर्दिष्ट करता है कि इस [`PathGradientBrush`](../) के साथ खींचे गए फिल्स कैसे टाइल किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathGradientBrush(GraphicsPath) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathGradientBrush`](../) वर्ग निर्दिष्ट पथ के साथ.
+निर्दिष्ट पथ के साथ [`PathGradientBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathGradientBrush(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath/) जो इससे भरे हुए क्षेत्र को परिभाषित करता है[`PathGradientBrush`](../). |
+| path | GraphicsPath | यह [`GraphicsPath`](../../../aspose.psd/graphicspath/) जो इस [`PathGradientBrush`](../) द्वारा भरे गए क्षेत्र को परिभाषित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक लइन क चड़ई प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक लाइन चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
-weight: 160
+weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-स्ट्रोक लाइन की चौड़ाई प्राप्त या सेट करता है।
+स्ट्रोक लाइन की चौड़ाई प्राप्त करता या सेट करता है।
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड VstkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड VstkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

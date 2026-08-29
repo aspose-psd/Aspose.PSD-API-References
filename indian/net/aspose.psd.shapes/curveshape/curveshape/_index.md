@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurveShape नर्मत. क एक नय उदहरण प्ररंभ करत हैCurveShape वर्ग.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurveShape कंस्ट्रक्टर। CurveShape क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurveShape`](../) वर्ग.
+[`CurveShape`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public CurveShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurveShape`](../) कक्षा। 0.5 के डिफ़ॉल्ट तनाव का उपयोग किया जाता है।
+[`CurveShape`](../) क्लास का नया उदाहरण प्रारंभ करता है। डिफ़ॉल्ट तनाव 0.5 उपयोग किया जाता है।
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurveShape`](../) कक्षा। 0.5 के डिफ़ॉल्ट तनाव का उपयोग किया जाता है।
+[`CurveShape`](../) क्लास का नया उदाहरण प्रारंभ करता है। डिफ़ॉल्ट तनाव 0.5 उपयोग किया जाता है।
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
-| isClosed | Boolean | अगर सेट है`सत्य` वक्र बंद है। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
+| isClosed | बूलियन | यदि `true` सेट किया जाता है तो कर्व बंद हो जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurveShape`](../) वर्ग.
+[`CurveShape`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
-| tension | Single | वक्र तनाव। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
+| तनाव | Single | कर्व का तनाव। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurveShape`](../) वर्ग.
+[`CurveShape`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
-| tension | Single | वक्र तनाव। |
-| isClosed | Boolean | अगर सेट है`सत्य` वक्र बंद है। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
+| तनाव | Single | कर्व का तनाव। |
+| isClosed | बूलियन | यदि `true` सेट किया जाता है तो कर्व बंद हो जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

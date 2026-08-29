@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix तरक. मैट्रक्स मन प्रप्त करत है
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix मेथड। मैट्रिक्स मान प्राप्त करता है।"
 type: docs
 weight: 280
 url: /hi/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
-मैट्रिक्स मान प्राप्त करता है।
+मैट्रिक्स मानों को प्राप्त करता है।
 
 ```csharp
 public float[][] GetMatrix()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-मैट्रिक्स मान सरणी।
+मैट्रिक्स मानों की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

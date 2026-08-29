@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.HasTransparentColors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPaletteHelper तरक. नर्धरत करत है क नर्दष्ट पैलेट में परदर्श रंग हैं य नहं
+title: "ColorPaletteHelper.HasTransparentColors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPaletteHelper मेथड। निर्धारित करता है कि निर्दिष्ट पैलेट में पारदर्शी रंग हैं या नहीं।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.HasTransparentColors method
 
 निर्धारित करता है कि निर्दिष्ट पैलेट में पारदर्शी रंग हैं या नहीं।
@@ -14,25 +15,25 @@ url: /hi/net/aspose.psd/colorpalettehelper/hastransparentcolors/
 public static bool HasTransparentColors(IColorPalette palette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| palette | IColorPalette | पैलेट। |
+| पैलेट | IColorPalette | पैलेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि निर्दिष्ट पैलेट में पारदर्शी रंग हैं; अन्यथा,`असत्य` .
+`true` यदि निर्दिष्ट पैलेट में पारदर्शी रंग हैं; अन्यथा, `false`।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *palette* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

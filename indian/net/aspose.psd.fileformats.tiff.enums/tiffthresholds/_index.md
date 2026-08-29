@@ -1,14 +1,15 @@
 ---
-title: Enum TiffThresholds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds एनुम. डेट पर उपयग क जने वल थ्रेशल्डंग.
+title: "एनम TiffThresholds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds एनम। डेटा पर उपयोग किया गया थ्रेशहोल्डिंग"
 type: docs
-weight: 4180
+weight: 4650
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-डेटा पर उपयोग की जाने वाली थ्रेशोल्डिंग.
+डेटा पर उपयोग किया गया थ्रेशहोल्डिंग।
 
 ```csharp
 public enum TiffThresholds : ushort
@@ -16,15 +17,15 @@ public enum TiffThresholds : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| NoDithering | `1` | कोई डाइथरिंग नहीं की जाती है। |
-| HalfTone | `2` | डिथर्ड स्कैन। |
-| ErrorDiffuse | `3` | आमतौर पर फ़्लॉइड-स्टाइनबर्ग. |
+| NoDithering | `1` | कोई डिथरिंग नहीं की गई। |
+| HalfTone | `2` | डिथर किया गया स्कैन। |
+| ErrorDiffuse | `3` | आमतौर पर Floyd-Steinberg। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

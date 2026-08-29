@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PremultiplyComponents
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क घटकं क पूर्वगुण कय जन चहए
+title: "TiffOptions.PremultiplyComponents"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि घटकों को पूर्व-गुणा किया जाना चाहिए या नहीं"
 type: docs
-weight: 350
+weight: 360
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PremultiplyComponents property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि घटकों को पूर्व-गुणा किया जाना चाहिए।
+किसी मान को प्राप्त करता है या सेट करता है जो दर्शाता है कि घटकों को प्रीमल्टिप्लाई किया जाना चाहिए या नहीं।
 
 ```csharp
 public bool PremultiplyComponents { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि घटकों को पूर्वगुणित किया जाना चाहिए; अन्यथा,`असत्य` .
+`true` यदि घटकों को पूर्व-गुणा किया जाना चाहिए; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

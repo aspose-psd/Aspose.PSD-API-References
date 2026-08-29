@@ -1,27 +1,28 @@
 ---
-title: DataStreamSupporter.IsCached
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DataStreamSupporter संपत्त. एक मन प्रप्त करत है ज इंगत करत है क वस्तु क डेट वर्तमन में कैश कय गय है और कई डेट पढ़ने क आवश्यकत नहं है
+title: "DataStreamSupporter.IsCached"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DataStreamSupporter प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि ऑब्जेक्ट का डेटा वर्तमान में कैश किया गया है और डेटा पढ़ने की आवश्यकता नहीं है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/datastreamsupporter/iscached/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.IsCached property
 
-एक मान प्राप्त करता है जो इंगित करता है कि वस्तु का डेटा वर्तमान में कैश किया गया है और कोई डेटा पढ़ने की आवश्यकता नहीं है।
+एक मान प्राप्त करता है जो दर्शाता है कि ऑब्जेक्ट का डेटा वर्तमान में कैश किया गया है और डेटा पढ़ना आवश्यक नहीं है।
 
 ```csharp
 public abstract bool IsCached { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर वस्तु का डेटा कैश किया गया है; अन्यथा,`असत्य` .
+`true` यदि ऑब्जेक्ट का डेटा कैश किया गया है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DataStreamSupporter](../)
-* नाम स्थान [Aspose.PSD](../../datastreamsupporter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

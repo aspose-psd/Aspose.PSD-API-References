@@ -1,23 +1,24 @@
 ---
-title: VstkResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. पएसड संस्करण प्रप्त करत है
+title: "VstkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। psd संस्करण प्राप्त करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.PsdVersion property
 
-पीएसडी संस्करण प्राप्त करता है।
+PSD संस्करण प्राप्त करता है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. ह जत हैPixelDataFormat प्रत्येक लूम ब्लूडफरेंस रेडडफरेंस और ब्लैक क्रम घटकं के लए 8 बट्स के सथ 32 बट्स प्रत पक्सेल के लए परभषत कय गय है
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। वह PixelDataFormat प्राप्त करता है जो 32 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें ल्यूमा, ब्लू-डिफरेंस, रेड-डिफरेंस और ब्लैक क्रोमा घटकों के प्रत्येक के लिए 8 बिट होते हैं।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-हो जाता है[`PixelDataFormat`](../) प्रत्येक लूमा, ब्लू-डिफरेंस, रेड-डिफरेंस और ब्लैक क्रोमा घटकों के लिए 8 बिट्स के साथ 32 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है।
+32 बिट प्रति पिक्सेल के लिए परिभाषित [`PixelDataFormat`](../) प्राप्त करता है, जिसमें ल्यूमा, ब्लू-डिफरेंस, रेड-डिफरेंस और ब्लैक क्रोमा घटकों के प्रत्येक के लिए 8 बिट होते हैं।
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`PixelDataFormat`](../) प्रत्येक लूमा, ब्लू-डिफरेंस, रेड-डिफरेंस और ब्लैक क्रोमा घटकों के लिए 8 बिट्स के साथ 32 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है।
+32 बिट प्रति पिक्सेल के लिए परिभाषित [`PixelDataFormat`](../), जिसमें ल्यूमा, ब्लू-डिफरेंस, रेड-डिफरेंस और ब्लैक क्रोमा घटकों के प्रत्येक के लिए 8 बिट होते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

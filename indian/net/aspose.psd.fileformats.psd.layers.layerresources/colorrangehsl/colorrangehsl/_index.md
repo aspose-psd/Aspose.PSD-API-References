@@ -1,49 +1,50 @@
 ---
-title: ColorRangeHsl.ColorRangeHsl
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl नर्मत. क एक नय उदहरण प्ररंभ करत हैColorRangeHsl वर्ग.
+title: "ColorRangeHsl.ColorRangeHsl"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl कंस्ट्रक्टर। ColorRangeHsl क्लास का नया उदाहरण इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorRangeHsl`](../) वर्ग.
+[`ColorRangeHsl`](../) क्लास का नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorRangeHsl()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorRangeHsl(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorRangeHsl`](../) वर्ग.
+[`ColorRangeHsl`](../) क्लास का नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorRangeHsl(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रंग सीमा डेटा। |
+| डेटा | Byte[] | रंग रेंज डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | "+ this.GetType() +" की अपेक्षित लंबाई 14 है |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अपेक्षित लंबाई " + this.GetType() + " है 14 |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Remove
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. कस वशष्ट वस्तु क पहल घटन क हटत हैIList .
+title: "NonGenericList.Remove"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। IList से किसी विशिष्ट ऑब्जेक्ट की पहली घटना को हटाता है"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/nongenericlist/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Remove method
 
-किसी विशिष्ट वस्तु की पहली घटना को हटाता हैIList .
+IList से किसी विशिष्ट वस्तु की पहली उपस्थिति हटाता है।
 
 ```csharp
 public void Remove(object value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Object | Object से हटाना हैIList. |
+| मान | ऑब्जेक्ट | IList से हटाने के लिए ऑब्जेक्ट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IntegerStructure.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IntegerStructure संपत्त. एक पूर्णंक मन प्रप्त य सेट करत है
+title: "IntegerStructure.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IntegerStructure प्रॉपर्टी। एक पूर्णांक मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
-एक पूर्णांक मान प्राप्त या सेट करता है।
+एक पूर्णांक मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 एक पूर्णांक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [IntegerStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

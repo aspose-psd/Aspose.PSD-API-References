@@ -1,26 +1,28 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में परतं में नहत PSD फ़इल स्वरूप नकय शमल हैं.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में लेयर्स में शामिल PSD फ़ाइल फ़ॉर्मेट इकाइयाँ होती हैं।"
 type: docs
-weight: 310
+weight: 330
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/
 ---
-नामस्थान में परतों में निहित PSD फ़ाइल स्वरूप निकाय शामिल हैं.
+{{< psd/tize >}}
+यह namespace लेयर्स में मौजूद PSD फ़ाइल फ़ॉर्मेट इकाइयों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [AddNoiseSmartFilter](./addnoisesmartfilter/) | AddNoise स्मार्ट फ़िल्टर. |
-| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | गॉसियनब्लर स्मार्ट फ़िल्टर. |
-| [SmartFilter](./smartfilter/) | स्मार्ट फ़िल्टर के आधार तर्क को संसाधित करने के लिए वर्ग। |
-| [SmartFilters](./smartfilters/) | के स्मार्ट फिल्टर[`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) . |
-| [UnknownSmartFilter](./unknownsmartfilter/) | वर्ग अज्ञात स्मार्ट फ़िल्टर डेटा रखने के लिए। |
-## गणना
+| [AddNoiseSmartFilter](./addnoisesmartfilter/) | AddNoise स्मार्ट फ़िल्टर। |
+| [GaussianBlurSmartFilter](./gaussianblursmartfilter/) | GaussianBlur स्मार्ट फ़िल्टर। |
+| [SharpenSmartFilter](./sharpensmartfilter/) | Sharpen स्मार्ट फ़िल्टर। |
+| [SmartFilter](./smartfilter/) | स्मार्ट फ़िल्टरों की मूल लॉजिक को प्रोसेस करने के लिए क्लास। |
+| [SmartFilters](./smartfilters/) | [`SmartObjectLayer`](../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) के स्मार्ट फ़िल्टर। |
+| [UnknownSmartFilter](./unknownsmartfilter/) | अज्ञात स्मार्ट फ़िल्टर डेटा को रखने के लिए क्लास। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [NoiseDistribution](./noisedistribution/) | शोर फिल्टर का वितरण। |
+| [NoiseDistribution](./noisedistribution/) | नॉइज़ फ़िल्टर का वितरण। |
 
 

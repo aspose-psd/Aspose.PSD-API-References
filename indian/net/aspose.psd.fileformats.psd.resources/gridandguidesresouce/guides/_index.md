@@ -1,28 +1,29 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GridAndGuidesResouce संपत्त. गइड प्रप्त करत है य सेट करत है
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GridAndGuidesResouce प्रॉपर्टी। गाइड्स को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
-गाइड प्राप्त करता है या सेट करता है।
+गाइड्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public GuideResource[] Guides { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मार्गदर्शक।
+गाइड्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

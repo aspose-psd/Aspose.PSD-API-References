@@ -1,40 +1,41 @@
 ---
-title: Aspose.PSD.ImageOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वभन्न फ़इल स्वरूपं के नर्यत सहेजने य नर्मण के लए उपयुक्त वर्ग हैं
+title: "Aspose.PSD.ImageOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में विभिन्न फ़ाइल फ़ॉर्मेट के निर्यात, सहेजने या निर्माण के लिए उपयुक्त क्लासेस शामिल हैं।"
 type: docs
-weight: 430
+weight: 470
 url: /hi/net/aspose.psd.imageoptions/
 ---
-नामस्थान में विभिन्न फ़ाइल स्वरूपों के निर्यात, सहेजने या निर्माण के लिए उपयुक्त वर्ग हैं।
+{{< psd/tize >}}
+यह namespace विभिन्न फ़ाइल फ़ॉर्मेट के निर्यात, सहेजने या निर्माण के लिए उपयुक्त क्लासेस शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BmpOptions](./bmpoptions/) | बीएमपी फ़ाइल प्रारूप निर्माण विकल्प। |
-| [CmxRasterizationOptions](./cmxrasterizationoptions/) | सीएमएक्स निर्यातक विकल्प। |
-| [GifOptions](./gifoptions/) | जीआईएफ फ़ाइल प्रारूप निर्माण विकल्प। |
-| [GraphicsOptions](./graphicsoptions/) | एम्बेडेड बिटमैप के लिए ग्राफिक्स विकल्पों का प्रतिनिधित्व करता है। |
-| [Jpeg2000Options](./jpeg2000options/) | Jpeg2000 फ़ाइल स्वरूप विकल्प. |
-| [JpegOptions](./jpegoptions/) | जेपीईजी फ़ाइल प्रारूप विकल्प बनाते हैं। |
-| [MultiPageOptions](./multipageoptions/) | एकाधिक पृष्ठों के लिए समर्थित स्वरूपों के लिए आधार वर्ग |
-| [PdfOptions](./pdfoptions/) | पीडीएफ विकल्प। |
-| [PngOptions](./pngoptions/) | पीएनजी फ़ाइल प्रारूप विकल्प बनाता है। |
-| [PsdOptions](./psdoptions/) | PSD फ़ाइल स्वरूप विकल्प बनाता है। |
-| [RdOptimizerSettings](./rdoptimizersettings/) | आरडी अनुकूलक सेटिंग्स वर्ग |
-| [RenderResult](./renderresult/) | रेंडरिंग के परिणामों के साथ सूचना का प्रतिनिधित्व करता है |
-| [TiffOptions](./tiffoptions/) | टिफ फ़ाइल प्रारूप विकल्प। ध्यान दें कि चौड़ाई और ऊंचाई टैग चौड़ाई और ऊंचाई पैरामीटर द्वारा छवि निर्माण पर अधिलेखित हो जाएंगे, इसलिए उन्हें सीधे निर्दिष्ट करने की कोई आवश्यकता नहीं है। ध्यान दें कि कई विकल्प डिफ़ॉल्ट मान लौटाते हैं लेकिन इसका मतलब यह नहीं है यह विकल्प स्पष्ट रूप से टैग मान के रूप में सेट किया गया है। यह सत्यापित करने के लिए कि टैग मौजूद है, टैग गुण या संबंधित IsTagPresent पद्धति का उपयोग करें. |
-| [TiffOptionsUtils](./tiffoptionsutils/) | झगड़ा फ़ाइल प्रारूप विकल्प उपयोगिता वर्ग। |
-| [VectorRasterizationOptions](./vectorrasterizationoptions/) | वेक्टर रेखांकन विकल्प। |
-## गणना
+| [BmpOptions](./bmpoptions/) | BMP फ़ाइल फ़ॉर्मेट निर्माण विकल्प। |
+| [CmxRasterizationOptions](./cmxrasterizationoptions/) | CMX एक्सपोर्टर विकल्प। |
+| [GifOptions](./gifoptions/) | GIF फ़ाइल फ़ॉर्मेट निर्माण विकल्प। |
+| [GraphicsOptions](./graphicsoptions/) | एम्बेडेड बिटमैप के लिए ग्राफ़िक्स विकल्प का प्रतिनिधित्व करता है। |
+| [Jpeg2000Options](./jpeg2000options/) | Jpeg2000 फ़ाइल फ़ॉर्मेट विकल्प। |
+| [JpegOptions](./jpegoptions/) | jpeg फ़ाइल फ़ॉर्मेट निर्माण विकल्प। |
+| [MultiPageOptions](./multipageoptions/) | एकाधिक पृष्ठों के समर्थित स्वरूपों के लिए बेस क्लास |
+| [PdfOptions](./pdfoptions/) | PDF विकल्प। |
+| [PngOptions](./pngoptions/) | png फ़ाइल फ़ॉर्मेट निर्माण विकल्प। |
+| [PsdOptions](./psdoptions/) | psd फ़ाइल फ़ॉर्मेट निर्माण विकल्प। |
+| [RdOptimizerSettings](./rdoptimizersettings/) | RD ऑप्टिमाइज़र सेटिंग्स क्लास |
+| [RenderResult](./renderresult/) | रेंडरिंग के परिणामों के साथ जानकारी का प्रतिनिधित्व करता है |
+| [TiffOptions](./tiffoptions/) | tiff फ़ाइल फ़ॉर्मेट विकल्प। ध्यान दें कि चौड़ाई और ऊँचाई टैग छवि निर्माण के दौरान चौड़ाई और ऊँचाई पैरामीटर द्वारा ओवरराइट हो जाएंगे, इसलिए उन्हें सीधे निर्दिष्ट करने की आवश्यकता नहीं है। ध्यान दें कि कई विकल्प डिफ़ॉल्ट मान लौटाते हैं, लेकिन इसका अर्थ यह नहीं है कि यह विकल्प टैग मान के रूप में स्पष्ट रूप से सेट किया गया है। यह जांचने के लिए कि टैग मौजूद है, Tags प्रॉपर्टी या संबंधित IsTagPresent मेथड का उपयोग करें। |
+| [TiffOptionsUtils](./tiffoptionsutils/) | tiff फ़ाइल फ़ॉर्मेट विकल्प यूटिलिटी क्लास। |
+| [VectorRasterizationOptions](./vectorrasterizationoptions/) | वेक्टर रास्टराइज़ेशन विकल्प। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
 | [MultiPageMode](./multipagemode/) | मल्टीपेज मोड का प्रतिनिधित्व करता है |
-| [PositioningTypes](./positioningtypes/) | ग्राफिक्स दृश्य के लिए स्थिति निर्धारण और आकार प्रकार। |
-| [RenderErrorCode](./rendererrorcode/) | सीएडी फ़ाइल में संभावित लापता वर्गों का प्रतिनिधित्व करता है |
-| [TiffOptionsError](./tiffoptionserror/) | झगड़ा विकल्प त्रुटि कोड। |
-| [TypeOfEntities](./typeofentities/) | प्रस्तुत करने के लिए संस्थाओं के प्रकार का प्रतिनिधित्व करता है |
+| [PositioningTypes](./positioningtypes/) | ग्राफ़िक्स सीन के लिए पोजिशनिंग और आकार प्रकार। |
+| [RenderErrorCode](./rendererrorcode/) | CAD फ़ाइल में संभावित गायब सेक्शन का प्रतिनिधित्व करता है |
+| [TiffOptionsError](./tiffoptionserror/) | tiff विकल्प त्रुटि कोड। |
+| [TypeOfEntities](./typeofentities/) | रेंडर करने वाले एंटिटीज़ के प्रकार का प्रतिनिधित्व करता है |
 
 

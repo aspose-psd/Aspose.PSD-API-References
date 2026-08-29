@@ -1,28 +1,29 @@
 ---
-title: TextShape.Center
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape संपत्त. आकर क केंद्र प्रप्त करत है
+title: "TextShape.Center"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape प्रॉपर्टी। आकार का केंद्र प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
-आकार का केंद्र प्राप्त करता है।
+आकार के केंद्र को प्राप्त करता है।
 
 ```csharp
 public override PointF Center { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकृति का केंद्र।
+आकार का केंद्र।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

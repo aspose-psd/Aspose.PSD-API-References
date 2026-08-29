@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddLevelsAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. स्तर समयजन परत जड़त है
+title: "PsdImage.AddLevelsAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। Levels समायोजन लेयर जोड़ता है"
 type: docs
-weight: 390
+weight: 410
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addlevelsadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLevelsAdjustmentLayer method
 
-स्तर समायोजन परत जोड़ता है।
+लेवल्स एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public LevelsLayer AddLevelsAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नव निर्मित स्तर परत
+एक नया बनाया गया Levels लेयर
 
-### यह सभी देखें
+### देखें भी
 
 * class [LevelsLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

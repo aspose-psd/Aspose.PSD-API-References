@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ShmdResource मैदन. उप संसधन शर्षलेख लंबई
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ShmdResource फ़ील्ड। उप-संसाधन हेडर की लंबाई"
 type: docs
-weight: 90
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-उप संसाधन शीर्षलेख लंबाई
+उप-संसाधन हेडर की लंबाई
 
 ```csharp
 public const int SubResourceHeaderLength;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShmdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

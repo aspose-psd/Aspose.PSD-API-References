@@ -1,69 +1,70 @@
 ---
-title: ClblResource.ClblResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClblResource नर्मत. क एक नय उदहरण प्ररंभ करत हैClblResource वर्ग.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClblResource कन्स्ट्रक्टर। ClblResource क्लास का एक नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-का एक नया उदाहरण प्रारंभ करता है[`ClblResource`](../) वर्ग.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| पैरामीटर | प्रकार | विवरण |
-| --- | --- | --- |
-| blendClippedElements | Boolean | अगर सेट है`सत्य` [क्लिप किए गए तत्वों को मिलाएं]। |
-
-### यह सभी देखें
-
-* class [ClblResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* सभा [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClblResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClblResource`](../) क्लास का।
 
 ```csharp
 public ClblResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClblResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+एक नया उदाहरण प्रारंभ करता है [`ClblResource`](../) क्लास का।
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| blendClippedElements | बूलियन | यदि `true` पर सेट किया गया है [blend clipped elements]। |
+
+### देखें भी
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClblResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+एक नया उदाहरण प्रारंभ करता है [`ClblResource`](../) क्लास का। कस्टम या अज्ञात मान के साथ।
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | अमान्य सीएलबीएल संसाधन मान |
+| ArgumentException | अमान्य clbl रिसोर्स मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClblResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

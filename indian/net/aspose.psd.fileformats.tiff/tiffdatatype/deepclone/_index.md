@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType तरक. इस उदहरण क गहर क्लन करत है
+title: "TiffDataType.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType मेथड. इस इंस्टेंस की डीप क्लोन करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/deepclone/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DeepClone method
 
-इस उदाहरण का गहरा क्लोन करता है।
+इस उदाहरण की गहरी क्लोन बनाता है।
 
 ```csharp
 public virtual TiffDataType DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वर्तमान उदाहरण का एक गहरा क्लोन।
+वर्तमान इंस्टेंस की एक डीप क्लोन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. मूल के प्रकर क प्रप्त य सेट करत है
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। मूल का प्रकार प्राप्त करता है या सेट करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
-मूल के प्रकार को प्राप्त या सेट करता है।
+origin का प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int OriginType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उत्पत्ति का प्रकार।
+मूल का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

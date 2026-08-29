@@ -1,28 +1,29 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IBufferProcessor तरक. बफर क संसधत करत है
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IBufferProcessor मेथड। बफ़र को प्रोसेस करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
-बफर को संसाधित करता है।
+बफ़र को प्रोसेस करता है।
 
 ```csharp
 public void ProcessBuffer(byte[] buffer, int bufferLength)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| buffer | Byte[] | संसाधित करने के लिए बफर। |
-| bufferLength | Int32 | संसाधित करने के लिए बफर लंबाई। |
+| बफ़र | Byte[] | प्रोसेस करने के लिए बफ़र। |
+| bufferLength | Int32 | प्रोसेस करने के लिए बफ़र की लंबाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IBufferProcessor](../)
-* नाम स्थान [Aspose.PSD](../../ibufferprocessor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

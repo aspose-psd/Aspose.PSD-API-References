@@ -1,27 +1,28 @@
 ---
-title: Font.FontFileName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. बन पूर्ण पथ के फ़न्ट फ़इल नम प्रप्त य सेट करत है
+title: "Font.FontFileName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font property. फ़ॉन्ट फ़ाइल नाम (पूरा पथ बिना) प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 ---
+{{< psd/tize >}}
 ## Font.FontFileName property
 
-बिना पूर्ण पथ के फ़ॉन्ट फ़ाइल नाम प्राप्त या सेट करता है।
+पूर्ण पाथ के बिना फ़ॉन्ट फ़ाइल नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string FontFileName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिना पूर्ण पथ के फ़ॉन्ट फ़ाइल नाम.
+पूरा पथ बिना फ़ॉन्ट फ़ाइल नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

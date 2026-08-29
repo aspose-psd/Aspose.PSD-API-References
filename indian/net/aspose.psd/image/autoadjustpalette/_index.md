@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क स्वचलत समयजन पैलेट है य नहं
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि स्वचालित रूप से पैलेट समायोजित किया जाता है या नहीं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि स्वचालित समायोजन पैलेट है या नहीं।
+स्वचालित समायोजन पैलेट को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि स्वत: समायोजन पैलेट सक्षम करें; अन्यथा,`असत्य` .
+`true` यदि स्वचालित रूप से पैलेट समायोजन सक्षम है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

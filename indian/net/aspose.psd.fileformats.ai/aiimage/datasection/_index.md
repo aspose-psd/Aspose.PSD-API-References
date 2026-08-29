@@ -1,28 +1,29 @@
 ---
-title: AiImage.DataSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. डेट अनुभग प्रप्त करत है
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। डेटा सेक्शन प्राप्त करता है।"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
-डेटा अनुभाग प्राप्त करता है।
+डेटा सेक्शन प्राप्त करता है।
 
 ```csharp
 public AiDataSection DataSection { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेटा अनुभाग।
+डेटा सेक्शन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

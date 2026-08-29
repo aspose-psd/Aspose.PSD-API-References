@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IGradientTransparencyPoint संपत्त. अस्पष्टत प्रप्त य सेट करत है
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IGradientTransparencyPoint प्रॉपर्टी। अपारदर्शिता को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-अस्पष्टता प्राप्त या सेट करता है।
+अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अपारदर्शिता.
+अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientTransparencyPoint](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

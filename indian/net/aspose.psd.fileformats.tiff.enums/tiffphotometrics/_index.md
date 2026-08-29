@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPhotometrics
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPhotometrics एनुम. फटमेट्रक इंटरपलेशन एनम
+title: "Enum TiffPhotometrics"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPhotometrics enum. फोटोमेट्रिक इंटरपोलेशन enum"
 type: docs
-weight: 4120
+weight: 4590
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffphotometrics/
 ---
+{{< psd/tize >}}
 ## TiffPhotometrics enumeration
 
-फोटोमेट्रिक इंटरपोलेशन एनम
+फोटोमेट्रिक इंटरपोलेशन एनेम
 
 ```csharp
 public enum TiffPhotometrics : ushort
@@ -16,24 +17,24 @@ public enum TiffPhotometrics : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| MinIsWhite | `0` | न्यूनतम मान सफ़ेद है. |
+| MinIsWhite | `0` | न्यूनतम मान सफेद है। |
 | MinIsBlack | `1` | न्यूनतम मान काला है। |
-| Rgb | `2` | आरजीबी रंग मॉडल. |
-| Palette | `3` | रंग नक्शा अनुक्रमित। |
-| Mask | `4` | [TIFF रेव द्वारा अप्रचलित। 6.0] होल्डआउट मास्क. |
+| Rgb | `2` | RGB रंग मॉडल। |
+| Palette | `3` | रंग मानचित्र अनुक्रमित। |
+| Mask | `4` | [obsoleted by TIFF rev. 6.0] होल्डआउट मास्क। |
 | Separated | `5` | रंग पृथक्करण। |
-| Ycbcr | `6` | सीसीआईआर 601. |
-| Cielab | `8` | 1976 सीआईई एल*ए*बी*. |
-| Icclab | `9` | आईसीसी एल * ए * बी *। Adobe TIFF Technote 4. द्वारा TIFF Rev 6.0 के बाद पेश किया गया |
-| Itulab | `10` | आईटीयू एल*ए*बी*. |
-| Logl | `32844` | सीआईई लॉग2(एल). |
-| Logluv | `32845` | सीआईई लॉग2(एल) (यू',वी'). |
+| Ycbcr | `6` | यह CCIR 601। |
+| Cielab | `8` | 1976 CIE L*a*b*। |
+| Icclab | `9` | ICC L*a*b*. TIFF rev 6.0 के बाद Adobe TIFF Technote 4 द्वारा प्रस्तुत किया गया। |
+| Itulab | `10` | ITU L*a*b*। |
+| Logl | `32844` | CIE Log2(L)। |
+| Logluv | `32845` | CIE Log2(L) (u',v')। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

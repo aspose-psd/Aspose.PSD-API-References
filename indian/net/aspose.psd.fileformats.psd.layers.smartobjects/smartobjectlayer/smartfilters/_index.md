@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.SmartFilters
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectLayer संपत्त. स्मर्ट फ़ल्टर प्रप्त करत है
+title: "SmartObjectLayer.SmartFilters"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectLayer प्रॉपर्टी। स्मार्ट फ़िल्टर को प्राप्त करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.SmartFilters property
 
 स्मार्ट फ़िल्टर प्राप्त करता है।
@@ -14,9 +15,9 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/sma
 public SmartFilters SmartFilters { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को प्रदर्शित करता है।
+यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -36,16 +37,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // स्मार्ट फिल्टर संपादित करें
+    // स्मार्ट फ़िल्टर संपादित करें
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // अद्यतन फ़िल्टर मान
+    // फ़िल्टर मान अपडेट करें
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -86,11 +87,11 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/)
 * class [SmartObjectLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

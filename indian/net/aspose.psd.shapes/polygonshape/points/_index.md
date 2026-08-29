@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Points
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape संपत्त. वक्र बंदु प्रप्त य सेट करत है
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape प्रॉपर्टी। वक्र बिंदुओं को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
-वक्र बिंदु प्राप्त या सेट करता है।
+वक्र बिंदुओं को प्राप्त करता या सेट करता है।
 
 ```csharp
 public PointF[] Points { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 वक्र बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

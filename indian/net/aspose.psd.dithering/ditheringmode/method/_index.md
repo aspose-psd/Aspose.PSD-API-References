@@ -1,24 +1,25 @@
 ---
-title: DitheringMode.Method
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DitheringMode संपत्त. डथरंग एल्गरथम चयन
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DitheringMode प्रॉपर्टी। डिथरिंग एल्गोरिदम चयन"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
-डिथरिंग एल्गोरिथम चयन।
+डिथरिंग एल्गोरिदम चयन।
 
 ```csharp
 public DitheringMethod Method { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* नाम स्थान [Aspose.PSD.Dithering](../../ditheringmode/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

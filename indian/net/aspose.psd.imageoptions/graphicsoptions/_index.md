@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.GraphicsOptions कक्ष. एम्बेडेड बटमैप के लए ग्रफक्स वकल्पं क प्रतनधत्व करत है
+title: "क्लास GraphicsOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.GraphicsOptions क्लास। एम्बेडेड बिटमैप के लिए ग्राफ़िक्स विकल्पों का प्रतिनिधित्व करता है।"
 type: docs
-weight: 4820
+weight: 5310
 url: /hi/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
-एम्बेडेड बिटमैप के लिए ग्राफिक्स विकल्पों का प्रतिनिधित्व करता है।
+एम्बेडेड बिटमैप के लिए ग्राफ़िक्स विकल्प का प्रतिनिधित्व करता है।
 
 ```csharp
 public class GraphicsOptions
@@ -18,19 +19,19 @@ public class GraphicsOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [GraphicsOptions](graphicsoptions/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [GraphicsOptions](graphicsoptions/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | इंटरपोलेशन मोड प्राप्त या सेट करता है। |
-| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | स्मूथिंग मोड प्राप्त या सेट करता है। |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | टेक्स्ट रेंडरिंग संकेत प्राप्त या सेट करता है। |
+| [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | इंटरपोलेशन मोड को प्राप्त करता है या सेट करता है। |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | स्मूदिंग मोड को प्राप्त करता है या सेट करता है। |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | टेक्स्ट रेंडरिंग संकेत को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

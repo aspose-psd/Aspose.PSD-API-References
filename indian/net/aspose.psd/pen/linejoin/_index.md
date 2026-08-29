@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके सथ खंच गई लगतर द पंक्तयं के सरं के लए ज्वइन स्टइल प्रप्त य सेट करत हैPen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen से खींची गई दो क्रमिक लाइनों के अंतों के लिए जॉइन शैली को प्राप्त या सेट करता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-इसके साथ खींची गई लगातार दो पंक्तियों के सिरों के लिए ज्वाइन स्टाइल प्राप्त या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) से खींची गई दो क्रमिक लाइनों के अंतों के लिए जॉइन शैली को प्राप्त या सेट करता है।
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए`LineJoin` जो इसके साथ खींची गई दो लगातार रेखाओं के सिरों के लिए जुड़ने की शैली का प्रतिनिधित्व करता है[`Pen`](../).
+`LineJoin` वह है जो इस [`Pen`](../) से खींची गई दो क्रमिक लाइनों के अंतों के लिए जॉइन शैली को दर्शाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `LineJoin` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `LineJoin` प्रॉपर्टी को एक अपरिवर्तनीय [`Pen`](../) पर सेट किया जाता है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

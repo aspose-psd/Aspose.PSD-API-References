@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions तरक. ग्रेडएंट ओवरले जड़त है
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions मेथड। ग्रेडिएंट ओवरले जोड़ता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
 ग्रेडिएंट ओवरले जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addg
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`GradientOverlayEffect`](../../gradientoverlayeffect/) वस्तु
+निर्मित [`GradientOverlayEffect`](../../gradientoverlayeffect/) ऑब्जेक्ट
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,95 +1,96 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileCreateSource नर्मत. क एक नय उदहरण प्ररंभ करत हैFileCreateSource वर्ग.
+title: "FileCreateSource.FileCreateSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileCreateSource कन्स्ट्रक्टर। FileCreateSource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`FileCreateSource`](../) वर्ग.
+[`FileCreateSource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FileCreateSource(string filePath)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | बनाने के लिए फ़ाइल पथ। |
+| filePath | String | निर्माण के लिए फ़ाइल पथ। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण BmpOptions उदाहरण के स्रोत गुण द्वारा निर्दिष्ट डिस्क स्थान पर एक नई छवि फ़ाइल बनाता है। यदि दूसरा पैरामीटर FileCreateSource के कंस्ट्रक्टर को पास नहीं किया गया है, तो डिफ़ॉल्ट रूप से बनाई जाने वाली फ़ाइल में संपत्ति IsTemporal True पर सेट है। IsTemporal को True पर सेट करने के साथ, निष्पादन के अंत में डिस्क पर कोई फ़ाइल सहेजी नहीं जाएगी।
+यह उदाहरण BmpOptions इंस्टेंस की Source प्रॉपर्टी द्वारा निर्दिष्ट डिस्क स्थान पर एक नई Image फ़ाइल बनाता है। यदि FileCreateSource के कन्स्ट्रक्टर को दूसरा पैरामीटर नहीं दिया जाता है, तो डिफ़ॉल्ट रूप से बनाई जाने वाली फ़ाइल की IsTemporal प्रॉपर्टी True पर सेट होती है। जब IsTemporal True पर सेट हो, तो निष्पादन के अंत में कोई फ़ाइल डिस्क पर सहेजी नहीं जाएगी।
 
 ```csharp
 [C#]
 
 string path = "C:\\temp\\image.psd";
     
-// PsdOptions का एक उदाहरण बनाता है और इसके विभिन्न गुणों को सेट करता है
+//PsdOptions का एक इंस्टेंस बनाता है और उसकी विभिन्न प्रॉपर्टीज़ सेट करता है।
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// FileCreateSource का एक उदाहरण बनाएं और इसे PsdOptions के उदाहरण के लिए स्रोत के रूप में असाइन करें
-// यदि दूसरा पैरामीटर पास नहीं हुआ है, तो डिफ़ॉल्ट रूप से फ़ाइल में IsTemporal को True पर सेट किया गया है
+//FileCreateSource का एक इंस्टेंस बनाएँ और उसे PsdOptions इंस्टेंस के लिए Source के रूप में असाइन करें।
+//यदि दूसरा पैरामीटर नहीं दिया जाता है, तो डिफ़ॉल्ट रूप से फ़ाइल की IsTemporal True पर सेट होती है।
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\output.bmp");
 
-// छवि का एक उदाहरण बनाता है 
+//Image का एक इंस्टेंस बनाता है।
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // कुछ इमेज प्रोसेसिंग करें
+    //कुछ छवि प्रसंस्करण करें।
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileCreateSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../filecreatesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`FileCreateSource`](../) वर्ग.
+[`FileCreateSource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | बनाने के लिए फ़ाइल पथ। |
-| isTemporal | Boolean | अगर सेट है`सत्य` बनाई गई फ़ाइल अस्थायी होगी। |
+| filePath | String | निर्माण के लिए फ़ाइल पथ। |
+| isTemporal | बूलियन | यदि `true` पर सेट किया जाता है, तो बनाई गई फ़ाइल अस्थायी होगी। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण PsdOptions उदाहरण के स्रोत गुण द्वारा निर्दिष्ट डिस्क स्थान पर एक नई छवि फ़ाइल बनाता है। वास्तविक छवि बनाने से पहले PsdOptions उदाहरण के लिए कई गुण सेट किए गए हैं। विशेष रूप से स्रोत संपत्ति, जो इस मामले में वास्तविक डिस्क स्थान को संदर्भित करती है।
+यह उदाहरण PsdOptions इंस्टेंस की Source प्रॉपर्टी द्वारा निर्दिष्ट डिस्क स्थान पर एक नई Image फ़ाइल बनाता है। वास्तविक इमेज बनाने से पहले PsdOptions इंस्टेंस की कई प्रॉपर्टी सेट की जाती हैं। विशेष रूप से Source प्रॉपर्टी, जो इस मामले में वास्तविक डिस्क स्थान को दर्शाती है।
 
 ```csharp
 [C#]
 
-// PsdOptions का एक उदाहरण बनाएं और इसके विभिन्न गुणों को सेट करें
+//PsdOptions का एक इंस्टेंस बनाएँ और उसकी विभिन्न प्रॉपर्टी सेट करें।
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// FileCreateSource का एक उदाहरण बनाएं और इसे PsdOptions के उदाहरण के लिए स्रोत के रूप में असाइन करें
-// दूसरा बूलियन पैरामीटर निर्धारित करता है कि बनाई जाने वाली फ़ाइल टेम्पोरल है या नहीं
+//FileCreateSource का एक इंस्टेंस बनाएँ और उसे PsdOptions इंस्टेंस के लिए Source के रूप में असाइन करें।
+//दूसरा Boolean पैरामीटर निर्धारित करता है कि बनाई जाने वाली फ़ाइल अस्थायी है या नहीं।
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-// इमेज का एक उदाहरण बनाएं और क्रिएट मेथड को कॉल करके PsdOptions के उदाहरण के साथ इसे इनिशियलाइज़ करें
+//Image का एक इंस्टेंस बनाएँ और Create मेथड को कॉल करके उसे PsdOptions के इंस्टेंस से इनिशियलाइज़ करें।
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // कुछ इमेज प्रोसेसिंग करें
+    //कुछ छवि प्रसंस्करण करें।
 
-    // सभी परिवर्तनों को सहेजें
+    // सभी परिवर्तन सहेजें।
     image.Save();
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileCreateSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../filecreatesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

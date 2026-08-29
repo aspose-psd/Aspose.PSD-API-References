@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. नर्दष्ट घटव क परणम लटत हैSize नर्दष्ट सेPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। निर्दिष्ट Size को निर्दिष्ट Point से घटाने का परिणाम लौटाता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-निर्दिष्ट घटाव का परिणाम लौटाता है[`Size`](../../size/) निर्दिष्ट से[`Point`](../) .
+निर्दिष्ट [`Size`](../../size/) को निर्दिष्ट [`Point`](../) से घटाने का परिणाम लौटाता है।
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | [`Point`](../) से घटाया जाना है। |
-| size | Size | [`Size`](../../size/) से घटाना है*point*. |
+| point | Point | वह [`Point`](../) जिससे घटाया जाएगा। |
+| size | Size | वह [`Size`](../../size/) जिसे *point* से घटाया जाएगा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Point`](../) यह घटाव ऑपरेशन का परिणाम है।
+वह [`Point`](../) जो घटाव ऑपरेशन का परिणाम है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

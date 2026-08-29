@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MinB
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantLab मैदन. न्यूनतम ब घटक मन
+title: "ColorantLab.MinB"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantLab फ़ील्ड. न्यूनतम B घटक मान"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minb/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinB field
 
-न्यूनतम बी घटक मान
+न्यूनतम B घटक मान
 
 ```csharp
 public const int MinB;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

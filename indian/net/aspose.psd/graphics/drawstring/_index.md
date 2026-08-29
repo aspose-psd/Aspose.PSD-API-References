@@ -1,239 +1,240 @@
 ---
-title: Graphics.DrawString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. नर्दष्ट पठ स्ट्रंग क नर्दष्ट स्थन पर नर्दष्ट के सथ आरेखत करत हैBrush औरFont वस्तुओं.
+title: "Graphics.DrawString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट Brush और Font ऑब्जेक्ट्स के साथ ड्रॉ करता है।"
 type: docs
-weight: 320
+weight: 330
 url: /hi/net/aspose.psd/graphics/drawstring/
 ---
+{{< psd/tize >}}
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) वस्तुओं.
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| x | Single | खींचे गए पाठ के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| y | Single | खींचे गए पाठ के ऊपरी-बाएँ कोने का y-निर्देशांक। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| x | Single | ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने का x-निर्देशांक। |
+| y | Single | ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने का y-निर्देशांक। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) वस्तुओं.
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| point | PointF | [`PointF`](../../pointf/) संरचना जो खींचे गए पाठ के ऊपरी-बाएँ कोने को निर्दिष्ट करती है। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| point | PointF | [`PointF`](../../pointf/) स्ट्रक्चर जो ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने को निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण छवि सतह पर तार खींचने के लिए फ़ॉन्ट और सॉलिडब्रश वर्ग के उपयोग को प्रदर्शित करता है। उदाहरण एक नई छवि बनाता है और आंकड़े और ग्राफिक्सपाथ का उपयोग करके आकृतियाँ बनाता है
+यह उदाहरण फ़ॉन्ट और SolidBrush क्लास का उपयोग करके इमेज सतह पर स्ट्रिंग्स ड्रॉ करने को दर्शाता है। उदाहरण एक नई इमेज बनाता है और फ़िगर्स तथा GraphicsPath का उपयोग करके आकार ड्रॉ करता है।
 
 ```csharp
 [C#]
 
-// छवि का एक उदाहरण बनाता है
+//Image का एक इंस्टेंस बनाता है
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // ग्राफिक्स वर्ग का एक उदाहरण बनाता है और आरंभ करता है
+    //Graphics क्लास का एक इंस्टेंस बनाता है और इनिशियलाइज़ करता है
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // ग्राफिक्स की सतह को साफ करता है
+    //Graphics सतह को साफ़ करता है
     graphics.Clear(Color.Wheat);
 
-    // फ़ॉन्ट का एक उदाहरण बनाता है
+    //Font का एक इंस्टेंस बनाता है
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    // लाल रंग वाले सॉलिडब्रश का एक उदाहरण बनाएं
+    //लाल रंग वाला SolidBrush का एक इंस्टेंस बनाता है
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    // एक स्ट्रिंग ड्रा करें
+    //एक स्ट्रिंग ड्रॉ करता है
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // निर्यात विकल्प बनाएँ।
+    // एक्सपोर्ट विकल्प बनाता है।
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
-    // सभी परिवर्तनों को सहेजें
+    // सभी परिवर्तन सहेजें।
     image.Save("C:\\temp\\output.gif", options);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) निर्दिष्ट स्वरूपण विशेषताओं का उपयोग करके ऑब्जेक्ट[`StringFormat`](../../stringformat/) .
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स का उपयोग करके, निर्दिष्ट [`StringFormat`](../../stringformat/) के फ़ॉर्मेटिंग एट्रिब्यूट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| x | Single | खींचे गए पाठ के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| y | Single | खींचे गए पाठ के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| format | StringFormat | [`StringFormat`](../../stringformat/) जो प्रारूपण विशेषताओं को निर्दिष्ट करता है, जैसे पंक्ति रिक्ति और संरेखण, जो आरेखित पाठ पर लागू होते हैं। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| x | Single | ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने का x-निर्देशांक। |
+| y | Single | ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने का y-निर्देशांक। |
+| format | StringFormat | [`StringFormat`](../../stringformat/) जो फ़ॉर्मेटिंग एट्रिब्यूट्स, जैसे लाइन स्पेसिंग और अलाइनमेंट, को निर्दिष्ट करता है, जो ड्रॉ किए गए टेक्स्ट पर लागू होते हैं। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) निर्दिष्ट स्वरूपण विशेषताओं का उपयोग करके ऑब्जेक्ट[`StringFormat`](../../stringformat/) .
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट स्थान पर निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स का उपयोग करके, निर्दिष्ट [`StringFormat`](../../stringformat/) के फ़ॉर्मेटिंग एट्रिब्यूट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| point | PointF | [`PointF`](../../pointf/) संरचना जो खींचे गए पाठ के ऊपरी-बाएँ कोने को निर्दिष्ट करती है। |
-| format | StringFormat | [`StringFormat`](../../stringformat/) जो प्रारूपण विशेषताओं को निर्दिष्ट करता है, जैसे पंक्ति रिक्ति और संरेखण, जो आरेखित पाठ पर लागू होते हैं। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| point | PointF | [`PointF`](../../pointf/) स्ट्रक्चर जो ड्रॉ किए गए टेक्स्ट के ऊपरी-बाएँ कोने को निर्दिष्ट करता है। |
+| format | StringFormat | [`StringFormat`](../../stringformat/) जो फ़ॉर्मेटिंग एट्रिब्यूट्स, जैसे लाइन स्पेसिंग और अलाइनमेंट, को निर्दिष्ट करता है, जो ड्रॉ किए गए टेक्स्ट पर लागू होते हैं। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट आयत में निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) वस्तुओं.
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट आयत में निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) संरचना जो खींचे गए पाठ के स्थान को निर्दिष्ट करती है। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) स्ट्रक्चर जो ड्रॉ किए गए टेक्स्ट का स्थान निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-निर्दिष्ट पाठ स्ट्रिंग को निर्दिष्ट आयत में निर्दिष्ट के साथ आरेखित करता है[`Brush`](../../brush/) और[`Font`](../../font/) निर्दिष्ट स्वरूपण विशेषताओं का उपयोग करके ऑब्जेक्ट[`StringFormat`](../../stringformat/) .
+निर्दिष्ट टेक्स्ट स्ट्रिंग को निर्दिष्ट आयत में निर्दिष्ट [`Brush`](../../brush/) और [`Font`](../../font/) ऑब्जेक्ट्स का उपयोग करके, निर्दिष्ट [`StringFormat`](../../stringformat/) के फ़ॉर्मेटिंग एट्रिब्यूट्स के साथ ड्रॉ करता है।
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
     StringFormat format)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| s | String | खींचने के लिए तार। |
-| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फॉर्मेट को परिभाषित करता है। |
-| brush | Brush | [`Brush`](../../brush/) जो खींचे गए पाठ के रंग और बनावट को निर्धारित करता है। |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) संरचना जो खींचे गए पाठ के स्थान को निर्दिष्ट करती है। |
-| format | StringFormat | [`StringFormat`](../../stringformat/) जो प्रारूपण विशेषताओं को निर्दिष्ट करता है, जैसे पंक्ति रिक्ति और संरेखण, जो आरेखित पाठ पर लागू होते हैं। |
+| s | String | ड्रॉ करने के लिए स्ट्रिंग। |
+| font | Font | [`Font`](../../font/) जो स्ट्रिंग के टेक्स्ट फ़ॉर्मेट को परिभाषित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो ड्रॉ किए गए टेक्स्ट का रंग और बनावट निर्धारित करता है। |
+| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) स्ट्रक्चर जो ड्रॉ किए गए टेक्स्ट का स्थान निर्दिष्ट करता है। |
+| format | StringFormat | [`StringFormat`](../../stringformat/) जो फ़ॉर्मेटिंग एट्रिब्यूट्स, जैसे लाइन स्पेसिंग और अलाइनमेंट, को निर्दिष्ट करता है, जो ड्रॉ किए गए टेक्स्ट पर लागू होते हैं। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *s* शून्य है। -या- *brush* शून्य है। |
+| ArgumentNullException | *brush* null है। -or- *s* null है। -or- *brush* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

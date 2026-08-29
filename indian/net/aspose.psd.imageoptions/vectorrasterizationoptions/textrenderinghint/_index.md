@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. टेक्स्ट रेंडरंग संकेत प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। टेक्स्ट रेंडरिंग संकेत प्राप्त करता है या सेट करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
-टेक्स्ट रेंडरिंग संकेत प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है पाठ रेंडरिंग संकेत।
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टेक्स्ट रेंडरिंग संकेत.
+टेक्स्ट रेंडरिंग संकेत।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

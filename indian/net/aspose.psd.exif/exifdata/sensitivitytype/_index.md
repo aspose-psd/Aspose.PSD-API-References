@@ -1,27 +1,28 @@
 ---
-title: ExifData.SensitivityType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. संवेदनशलत प्रकर प्रप्त य सेट करत है
+title: "ExifData.SensitivityType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। संवेदनशीलता प्रकार प्राप्त करता है या सेट करता है"
 type: docs
 weight: 930
 url: /hi/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
-संवेदनशीलता प्रकार प्राप्त या सेट करता है।
+संवेदनशीलता प्रकार को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort SensitivityType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संवेदनशीलता का प्रकार.
+संवेदनशीलता का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

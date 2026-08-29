@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode23976
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeFormat संपत्त. टइमकड23976. प्रप्त करत है
+title: "TimeFormat.Timecode23976"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TimeFormat property. प्राप्त करता है timecode23976"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode23976/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode23976 property
 
-टाइमकोड23976. प्राप्त करता है
+टाइमकोड23976 प्राप्त करता है।
 
 ```csharp
 public static TimeFormat Timecode23976 { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टाइमकोड23976.
+यह timecode23976।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

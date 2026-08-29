@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.Effects
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions संपत्त. प्रभव प्रप्त करत है
+title: "BlendingOptions.Effects"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions प्रॉपर्टी। प्रभाव प्राप्त करता है"
 type: docs
-weight: 10
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.Effects property
 
-प्रभाव प्राप्त करता है।
+इफ़ेक्ट्स को प्राप्त करता है।
 
 ```csharp
-public ILayerEffect[] Effects { get; }
+public ILayerEffect[] Effects { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 प्रभाव।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ILayerEffect](../../ilayereffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

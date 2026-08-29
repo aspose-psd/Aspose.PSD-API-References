@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. a द्वर नर्दष्ट आयत के आंतरक भग क भरत हैRectangleसंरचन.
+title: "Graphics.FillRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। एक Rectangle संरचना द्वारा निर्दिष्ट आयत के अंदरूनी भाग को भरता है।"
 type: docs
-weight: 390
+weight: 400
 url: /hi/net/aspose.psd/graphics/fillrectangle/
 ---
+{{< psd/tize >}}
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-a द्वारा निर्दिष्ट आयत के आंतरिक भाग को भरता है[`Rectangle`](../../rectangle/)संरचना.
+एक [`Rectangle`](../../rectangle/) संरचना द्वारा निर्दिष्ट आयत के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
 | rect | Rectangle | [`Rectangle`](../../rectangle/) संरचना जो भरने के लिए आयत का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-a द्वारा निर्दिष्ट आयत के आंतरिक भाग को भरता है[`RectangleF`](../../rectanglef/)संरचना.
+एक [`RectangleF`](../../rectanglef/) संरचना द्वारा निर्दिष्ट आयत के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
 | rect | RectangleF | [`RectangleF`](../../rectanglef/) संरचना जो भरने के लिए आयत का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, float, float, float, float) {#fillrectangle_3}
 
-निर्देशांक, चौड़ाई और ऊंचाई की एक जोड़ी द्वारा निर्दिष्ट आयत के इंटीरियर को भरता है।
+एक जोड़े निर्देशांक, चौड़ाई और ऊँचाई द्वारा निर्दिष्ट आयत के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangle(Brush brush, float x, float y, float width, float height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
 | x | Single | भरने के लिए आयत के ऊपरी-बाएँ कोने का x-निर्देशांक। |
 | y | Single | भरने के लिए आयत के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| width | Single | भरने के लिए आयत की चौड़ाई। |
-| height | Single | भरने के लिए आयत की ऊँचाई। |
+| चौड़ाई | Single | भरे जाने वाले आयत की चौड़ाई। |
+| ऊँचाई | Single | भरे जाने वाले आयत की ऊँचाई। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, int, int, int, int) {#fillrectangle_2}
 
-निर्देशांक, चौड़ाई और ऊंचाई की एक जोड़ी द्वारा निर्दिष्ट आयत के इंटीरियर को भरता है।
+एक जोड़े निर्देशांक, चौड़ाई और ऊँचाई द्वारा निर्दिष्ट आयत के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangle(Brush brush, int x, int y, int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
 | x | Int32 | भरने के लिए आयत के ऊपरी-बाएँ कोने का x-निर्देशांक। |
 | y | Int32 | भरने के लिए आयत के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| width | Int32 | भरने के लिए आयत की चौड़ाई। |
-| height | Int32 | भरने के लिए आयत की ऊँचाई। |
+| चौड़ाई | Int32 | भरे जाने वाले आयत की चौड़ाई। |
+| ऊँचाई | Int32 | भरे जाने वाले आयत की ऊँचाई। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

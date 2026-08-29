@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle संपत्त. वईनर्देशंक प्रप्त करत है य सेट करत है ज क यग हैY औरHeight इस के संपत्त मूल्यRectangleसंरचन.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle प्रॉपर्टी. इस Rectangle संरचना के Y और Height प्रॉपर्टी मानों के योग वाले y-निर्देशांक को प्राप्त या सेट करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-वाई-निर्देशांक प्राप्त करता है या सेट करता है जो कि योग है[`Y`](../y/) और[`Height`](../height/) इस के संपत्ति मूल्य[`Rectangle`](../)संरचना.
+इस [`Rectangle`](../) संरचना के [`Y`](../y/) और [`Height`](../height/) प्रॉपर्टी मानों के योग वाले y-निर्देशांक को प्राप्त या सेट करता है।
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-y-निर्देशांक का योग है[`Y`](../y/) और[`Height`](../height/) इस का[`Rectangle`](../) .
+इस [`Rectangle`](../) का y-निर्देशांक जो [`Y`](../y/) और [`Height`](../height/) के योग से बनता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,51 @@
 ---
-title: Image.Resize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. छव क आकर बदलत है डफ़ल्टLeftTopToLeftTopप्रयग कय जत है.
+title: "Image.Resize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। छवि का आकार बदलता है"
 type: docs
-weight: 190
+weight: 200
 url: /hi/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
+## Resize(int, int, ResizeType) {#resize_2}
+
+इमेज का आकार बदलता है।
+
+```csharp
+public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| newWidth | Int32 | नई चौड़ाई। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | रिसाइज़ प्रकार। |
+
+### देखें भी
+
+* enum [ResizeType](../../resizetype/)
+* class [Image](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
 ## Resize(int, int) {#resize}
 
-छवि का आकार बदलता है। डिफ़ॉल्टLeftTopToLeftTopप्रयोग किया जाता है.
+इमेज का आकार बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है।
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newWidth | Int32 | नई चौड़ाई. |
-| newHeight | Int32 | नई ऊंचाई. |
+| newWidth | Int32 | नई चौड़ाई। |
+| newHeight | Int32 | नई ऊँचाई। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण प्रदर्शित करता है कि कैसे PSD छवि का आकार बदलना है और परिणाम हम Aspose.PSD द्वारा प्राप्त करते हैं
+निम्नलिखित उदाहरण दर्शाता है कि PSD छवि का आकार कैसे बदलें और Aspose.PSD द्वारा प्राप्त परिणाम।
 
 ```csharp
 [C#]
@@ -30,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -38,56 +62,33 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
-
----
-
-## Resize(int, int, ResizeType) {#resize_2}
-
-छवि का आकार बदलता है।
-
-```csharp
-public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
-```
-
-| पैरामीटर | प्रकार | विवरण |
-| --- | --- | --- |
-| newWidth | Int32 | नई चौड़ाई. |
-| newHeight | Int32 | नई ऊंचाई. |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
-
-### यह सभी देखें
-
-* enum [ResizeType](../../resizetype/)
-* class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-छवि का आकार बदलता है।
+इमेज का आकार बदलता है।
 
 ```csharp
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| newHeight | Int32 | नई ऊंचाई। |
-| settings | ImageResizeSettings | आकार बदलें सेटिंग्स। |
+| newHeight | Int32 | नई ऊँचाई। |
+| सेटिंग्स | ImageResizeSettings | रिसाइज़ सेटिंग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

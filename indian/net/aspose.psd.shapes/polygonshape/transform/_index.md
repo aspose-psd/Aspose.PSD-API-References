@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape तरक. नर्दष्ट परवर्तन क आकर में लगू करत है
+title: "PolygonShape.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape मेथड। निर्दिष्ट परिवर्तन को आकार पर लागू करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.shapes/polygonshape/transform/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Transform method
 
-निर्दिष्ट परिवर्तन को आकार में लागू करता है।
+निर्दिष्ट परिवर्तन को आकार पर लागू करता है।
 
 ```csharp
 public override void Transform(Matrix transform)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| transform | Matrix | लागू करने के लिए परिवर्तन। |
+| transform | Matrix | लागू करने के लिए रूपांतरण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

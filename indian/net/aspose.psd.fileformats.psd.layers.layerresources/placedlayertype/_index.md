@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType एनुम. प्लेस्ड लेयर टइप एन्यूमरेशन क प्लेस्ड लेयर PlLd संसधन के लए परभषत करत है
+title: "एनम PlacedLayerType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType एनम। PlLd संसाधन के प्लेस्ड लेयर के लिए PlacedLayerType एनीमरेशन को परिभाषित करता है।"
 type: docs
-weight: 2930
+weight: 3280
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-प्लेस्ड लेयर टाइप एन्यूमरेशन को प्लेस्ड लेयर PlLd संसाधन के लिए परिभाषित करता है।
+PlacedLayerType एनेमरेशन को PlLd रखी गई लेयर संसाधन के लिए परिभाषित करता है।
 
 ```csharp
 public enum PlacedLayerType
@@ -16,16 +17,16 @@ public enum PlacedLayerType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Unknown | `0` | अज्ञात रखी गई परत प्रकार |
-| Vector | `1` | वेक्टर प्लेस्ड लेयर टाइप |
-| Raster | `2` | रेखापुंज रखा परत प्रकार |
-| ImageStack | `3` | इमेज स्टैक प्लेस्ड लेयर टाइप |
+| Unknown | `0` | अज्ञात प्लेस्ड लेयर प्रकार |
+| Vector | `1` | वेक्टर प्लेस्ड लेयर प्रकार |
+| Raster | `2` | रास्टर प्लेस्ड लेयर प्रकार |
+| ImageStack | `3` | इमेज स्टैक प्लेस्ड लेयर प्रकार |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड PlLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड PlLdResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -207,16 +208,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,9 +231,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

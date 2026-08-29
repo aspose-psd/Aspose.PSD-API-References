@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurveShape संपत्त. वक्र तनव प्रप्त य सेट करत है
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurveShape प्रॉपर्टी। कर्व के तनाव को प्राप्त या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-वक्र तनाव प्राप्त या सेट करता है।
+वक्र तनाव को प्राप्त करता या सेट करता है।
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वक्र तनाव।
+कर्व का तनाव।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

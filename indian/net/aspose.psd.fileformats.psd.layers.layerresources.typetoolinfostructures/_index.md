@@ -1,39 +1,41 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में PSD फ़इल स्वरूप प्रकर उपकरण संसधन नकय शमल हैं.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में PSD फ़ाइल फ़ॉर्मेट टाइप टूल रिसोर्स एंटिटीज़ शामिल हैं"
 type: docs
-weight: 300
+weight: 320
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/
 ---
-नामस्थान में PSD फ़ाइल स्वरूप प्रकार उपकरण संसाधन निकाय शामिल हैं.
+{{< psd/tize >}}
+यह namespace PSD फ़ाइल फ़ॉर्मेट टाइप टूल रिसोर्स इकाइयों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
 | [AliasStructure](./aliasstructure/) | उपनाम संरचना। |
 | [BooleanStructure](./booleanstructure/) | बूलियन संरचना। |
-| [ClassStructure](./classstructure/) | वर्ग संरचना। |
+| [ClassStructure](./classstructure/) | क्लास संरचना। |
 | [DescriptorStructure](./descriptorstructure/) | डिस्क्रिप्टर संरचना |
-| [DoubleStructure](./doublestructure/) | दोहरी संरचना। |
-| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | प्रगणित वर्णनकर्ता संरचना। |
-| [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | प्रगणित संदर्भ संरचना। |
-| [IntegerStructure](./integerstructure/) | पूर्णांक संरचना। |
+| [DoubleStructure](./doublestructure/) | डबल संरचना। |
+| [EnumeratedDescriptorStructure](./enumerateddescriptorstructure/) | एन्यूमरेटेड डिस्क्रिप्टर संरचना। |
+| [EnumeratedReferenceStructure](./enumeratedreferencestructure/) | एन्यूमरेटेड रेफ़रेंस संरचना। |
+| [IntegerStructure](./integerstructure/) | इंटीजर संरचना। |
 | [ListStructure](./liststructure/) | सूची संरचना। |
-| [ObjectArrayStructure](./objectarraystructure/) | ObjectArrayStructure क्लास को परिभाषित करता है जो आमतौर पर धारण करता है[`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) array. इसका उपयोग PSD फ़ाइल संसाधनों में किया जाता है, जैसे PlLd Resource और SoLd Resource. |
-| [OffsetStructure](./offsetstructure/) | ऑफ़सेट संरचना. |
-| [PathStructure](./pathstructure/) | पथ संरचना। |
-| [PropertyStructure](./propertystructure/) | संपत्ति संरचना। |
+| [NameStructure](./namestructure/) | Name संरचना (key: 0x6E616D65, जो ASCII में "name" को दर्शाता है) एक सरल संरचना है जिसका उपयोग यूनिकोड या पास्कल-शैली स्ट्रिंग को संग्रहीत करने के लिए किया जाता है, जो किसी तत्व का नाम दर्शाती है, जैसे लेयर, पाथ, या एडजस्टमेंट। |
+| [ObjectArrayStructure](./objectarraystructure/) | ObjectArrayStructure क्लास को परिभाषित करता है जो आमतौर पर [`UnitArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/) एरे को रखती है। यह PSD फ़ाइल संसाधनों में उपयोग होती है, जैसे PlLd रिसोर्स और SoLd रिसोर्स। |
+| [OffsetStructure](./offsetstructure/) | ऑफ़सेट संरचना। |
+| [PathStructure](./pathstructure/) | पाथ संरचना। |
+| [PropertyStructure](./propertystructure/) | प्रॉपर्टी संरचना। |
 | [RawDataStructure](./rawdatastructure/) | कच्चा डेटा संरचना। |
 | [ReferenceStructure](./referencestructure/) | संदर्भ संरचना। |
 | [StringStructure](./stringstructure/) | स्ट्रिंग संरचना। |
-| [UnitArrayStructure](./unitarraystructure/) | UnitArrayStructure क्लास को परिभाषित करता है जो धारण करता हैDouble मान सरणी और उनकी माप इकाई. इसका उपयोग आमतौर पर PSD फ़ाइल संसाधनों में किया जाता है[`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) . |
+| [UnitArrayStructure](./unitarraystructure/) | UnitArrayStructure क्लास को परिभाषित करता है जो Double मानों की एरे और उनके माप इकाई को रखता है। यह PSD फ़ाइल संसाधनों में उपयोग किया जाता है, आमतौर पर [`ObjectArrayStructure`](../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/) द्वारा। |
 | [UnitStructure](./unitstructure/) | इकाई संरचना। |
 | [UnknownStructure](./unknownstructure/) | अज्ञात संरचना। |
-## गणना
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
 | [UnitTypes](./unittypes/) | इकाई प्रकार। |
 

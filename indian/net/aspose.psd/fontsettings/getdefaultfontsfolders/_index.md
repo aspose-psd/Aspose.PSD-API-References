@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. डफ़ल्ट फ़न्ट फ़ल्डर प्रप्त करत है
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings method. डिफ़ॉल्ट फ़ॉन्ट फ़ोल्डरों को प्राप्त करता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 डिफ़ॉल्ट फ़ॉन्ट फ़ोल्डर प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 public static string[] GetDefaultFontsFolders()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सिस्टम फोल्डर लौटाता है
+सिस्टम फ़ोल्डर लौटाता है
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

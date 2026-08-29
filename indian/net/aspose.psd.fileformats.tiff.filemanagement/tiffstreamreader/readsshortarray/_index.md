@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadSShortArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से हस्तक्षरत लघु मनं क एक सरण पढ़त है
+title: "TiffStreamReader.ReadSShortArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader विधि। स्ट्रीम से साइन किए गए शॉर्ट मानों की एक सरणी पढ़ता है"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShortArray method
 
-स्ट्रीम से हस्ताक्षरित लघु मानों की एक सरणी पढ़ता है।
+स्ट्रीम से साइन किए गए शॉर्ट मानों की एक सरणी पढ़ता है।
 
 ```csharp
 public short[] ReadSShortArray(long position, long count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
-| count | Int64 | तत्वों की गिनती होती है। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
+| count | Int64 | तत्वों की गिनती। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-हस्ताक्षरित लघु मानों की सरणी।
+साइन किए गए शॉर्ट मानों की सरणी।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | गिनती; अपेक्षित सकारात्मक संख्या। |
+| ArgumentOutOfRangeException | count;एक सकारात्मक संख्या की अपेक्षा की गई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Frame.Delay
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Frame संपत्त. सेंटसेकंड में फ्रेम वलंब मन प्रप्त य सेट करत है उदहरण के लए 1 सेकंड में 100 सेंटसेकंड हते हैं
+title: "Frame.Delay"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Frame प्रॉपर्टी. फ्रेम देरी मान को सेंटासेकंड में प्राप्त करता है या सेट करता है। उदाहरण के लिए 1 सेकंड में 100 सेंटासेकंड होते हैं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/frame/delay/
 ---
+{{< psd/tize >}}
 ## Frame.Delay property
 
-सेंट-सेकंड में फ्रेम विलंब मान प्राप्त या सेट करता है। उदाहरण के लिए, 1 सेकंड में 100 सेंट-सेकंड होते हैं।
+फ़्रेम देरी मान को सेंटा-सेकंड में प्राप्त करता है या सेट करता है। उदाहरण के लिए, 1 सेकंड में 100 सेंटा-सेकंड होते हैं।
 
 ```csharp
 public int Delay { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Frame](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. ह जत है य सेट करत हैBrush ज इसक वशेषतओं क नर्धरत करत हैPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen के गुणों को निर्धारित करने वाले ब्रश को प्राप्त या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-हो जाता है या सेट करता है`Brush` जो इसकी विशेषताओं को निर्धारित करता है[`Pen`](../) .
+इस [`Pen`](../) के गुणों को निर्धारित करने वाले `Brush` को प्राप्त या सेट करता है।
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए`Brush` जो इसकी विशेषताओं को निर्धारित करता है[`Pen`](../).
+`Brush` जो इस [`Pen`](../) के गुणों को निर्धारित करता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `Brush` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | यह `Brush` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि उन [`Pen`](../) क्लास द्वारा लौटाए गए हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix मैदन. यह स्थरंक कस भ रटेशन फ्लैग बट के लए एक बट मस्क है
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix फ़ील्ड। यह स्थिरांक किसी भी घुमाव फ़्लैग बिट्स के लिए बिट मास्क है।"
 type: docs
 weight: 250
 url: /hi/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-यह स्थिरांक किसी भी रोटेशन फ्लैग बिट के लिए एक बिट मास्क है।
+यह स्थिरांक किसी भी घुमाव फ़्लैग बिट के लिए बिट मास्क है।
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

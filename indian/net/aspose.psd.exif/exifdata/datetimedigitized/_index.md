@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. दनंक समय डजटइज़ ह जत है य सेट करत है
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। डिजिटाइज़्ड दिनांक‑समय को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-दिनांक समय डिजिटाइज़ हो जाता है या सेट करता है।
+डिजिटाइज़्ड डेट टाइम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दिनांक समय डिजिटाइज़ किया गया।
+डिजिटाइज़्ड तिथि और समय।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

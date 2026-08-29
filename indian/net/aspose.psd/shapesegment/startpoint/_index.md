@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ShapeSegment संपत्त. प्ररंभक बंदु प्रप्त करत है
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ShapeSegment प्रॉपर्टी। प्रारंभ बिंदु प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-प्रारंभिक बिंदु प्राप्त करता है।
+प्रारंभ बिंदु प्राप्त करता है।
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रारंभिक बिंदु।
+प्रारंभ बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* नाम स्थान [Aspose.PSD](../../shapesegment/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. धुंधल मन पक्सेल में प्रप्त करत है.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. ब्लर मान को पिक्सेल में प्राप्त करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-धुंधला मान पिक्सेल में प्राप्त करता है.
+पिक्सेल में ब्लर मान प्राप्त करता है।
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 आकार।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड OuterGlowEffect समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड OuterGlowEffect समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

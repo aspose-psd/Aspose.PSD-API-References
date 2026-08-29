@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Xml
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. एक्सएमएल नेमस्पेस.
+title: "Namespaces.Xml"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। Xml नेमस्पेस"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp/namespaces/xml/
 ---
+{{< psd/tize >}}
 ## Namespaces.Xml field
 
-एक्सएमएल नेमस्पेस.
+XML नेमस्पेस।
 
 ```csharp
 public const string Xml;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

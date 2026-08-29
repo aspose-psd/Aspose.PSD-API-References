@@ -1,34 +1,35 @@
 ---
-title: Layer.AddLayerMask
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer तरक. मस्क क वर्तमन परत में जड़त है.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer method. मास्क को वर्तमान लेयर में जोड़ता है"
 type: docs
-weight: 330
+weight: 340
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-मास्क को वर्तमान परत में जोड़ता है.
+वर्तमान लेयर में मास्क जोड़ता है।
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | layerMask | LayerMaskData | लेयर मास्क। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | फुल लेयर मास्क अभी तक सेटिंग के लिए समर्थित नहीं है, कृपया LayerMaskDataShort का उपयोग करें |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | पूर्ण लेयर मास्क अभी सेटिंग के लिए समर्थित नहीं है, कृपया LayerMaskDataShort का उपयोग करें |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

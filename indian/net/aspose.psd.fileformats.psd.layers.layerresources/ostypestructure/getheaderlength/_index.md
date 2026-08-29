@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructure तरक. हेडर क लंबई प्रप्त करत है
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructure मेथड. हेडर लंबाई प्राप्त करता है."
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
 हेडर की लंबाई प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ge
 public virtual int GetHeaderLength()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-हेडर की लंबाई
+हेडर लंबाई
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

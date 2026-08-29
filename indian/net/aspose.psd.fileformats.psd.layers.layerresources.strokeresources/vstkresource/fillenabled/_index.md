@@ -1,23 +1,24 @@
 ---
-title: VstkResource.FillEnabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क क्य स्ट्रक भरण सक्षम है
+title: "VstkResource.FillEnabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि स्ट्रोक फ़िल सक्षम है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.FillEnabled property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या स्ट्रोक भरण सक्षम है।
+स्ट्रोक फ़िल सक्षम है या नहीं दर्शाने वाला मान प्राप्त करता या सेट करता है।
 
 ```csharp
 public bool FillEnabled { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

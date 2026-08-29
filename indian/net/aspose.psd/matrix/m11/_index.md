@@ -1,23 +1,24 @@
 ---
-title: Matrix.M11
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix संपत्त. पहल पंक्त के पहले कलम में मैट्रक्स तत्व प्रप्त करत है एक्स अक्ष के सथ पैमने क प्रतनधत्व करत है
+title: "Matrix.M11"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix प्रॉपर्टी। पहले पंक्ति, पहले स्तंभ में मैट्रिक्स तत्व प्राप्त करता है। X अक्ष के साथ स्केल का प्रतिनिधित्व करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-पहली पंक्ति के पहले कॉलम में मैट्रिक्स तत्व प्राप्त करता है। एक्स अक्ष के साथ पैमाने का प्रतिनिधित्व करता है।
+पहली पंक्ति, पहले कॉलम पर मैट्रिक्स तत्व प्राप्त करता है। X अक्ष के साथ स्केल को दर्शाता है।
 
 ```csharp
 public float M11 { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

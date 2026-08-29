@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage तरक. संसधन नर्मत दनंक जड़त है
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage मेथड। रिसोर्स की बनाई गई तिथि जोड़ता है"
 type: docs
-weight: 30
+weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
-संसाधन निर्मित दिनांक जोड़ता है।
+संसाधन निर्मित तिथि जोड़ता है।
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| createdDate | DateTime | सृजित दिनांक। |
+| createdDate | DateTime | बनाई गई तिथि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetCreatedDate(string) {#setcreateddate_1}
 
-संसाधन निर्मित दिनांक जोड़ता है।
+संसाधन निर्मित तिथि जोड़ता है।
 
 ```csharp
 public void SetCreatedDate(string createdDate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| createdDate | String | सृजित दिनांक। |
+| createdDate | String | बनाई गई तिथि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

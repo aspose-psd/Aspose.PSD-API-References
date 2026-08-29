@@ -1,55 +1,56 @@
 ---
-title: Interface ITextParagraph
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph इंटरफेस. इंटरफ़ेस के सथ कम करने के लए इंटरफ़ेस
+title: "इंटरफ़ेस ITextParagraph"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph इंटरफ़ेस। पैराग्राफ के साथ काम करने के लिए इंटरफ़ेस"
 type: docs
-weight: 3520
+weight: 3940
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-इंटरफ़ेस के साथ काम करने के लिए इंटरफ़ेस
+पैराग्राफ के साथ काम करने के लिए इंटरफ़ेस
 
 ```csharp
 public interface ITextParagraph
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या [स्वचालित हाइफ़नेट]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | स्वत: अग्रणी हो जाता है या सेट करता है। |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`ITextParagraph`बुरासागिरी है. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | लगातार हाइफ़न प्राप्त या सेट करता है। |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | अंतिम इंडेंट प्राप्त करता है या सेट करता है। |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि [प्रत्येक पंक्ति संगीतकार]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | पहली पंक्ति इंडेंट प्राप्त या सेट करता है। |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | ग्लिफ़ रिक्ति प्राप्त या सेट करता है। |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`ITextParagraph` लटका हुआ है. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | हाइफेनेटेड शब्द का आकार प्राप्त या सेट करता है। |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | औचित्य प्राप्त या सेट करता है। |
-| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | किंसोकू क्रम प्राप्त या सेट करता है। |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | अग्रणी के प्रकार को प्राप्त या सेट करता है। |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | अक्षर रिक्ति प्राप्त या सेट करता है। |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | पोस्ट हाइफन प्राप्त या सेट करता है। |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | पूर्व हाइफ़न प्राप्त करता है या सेट करता है. |
-| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | इसके बाद स्पेस प्राप्त या सेट करता है। |
-| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | पहले स्थान प्राप्त या सेट करता है। |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | स्टार्ट इंडेंट प्राप्त करता है या सेट करता है। |
-| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | शब्द रिक्ति प्राप्त या सेट करता है। |
-| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | क्षेत्र हो जाता है या सेट करता है। |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [ऑटोमैटिक हाइफ़नेट] है या नहीं। |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | ऑटोमैटिक लीडिंग प्राप्त करता है या सेट करता है। |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह `ITextParagraph` बुरासागिरी है या नहीं। |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | लगातार हाइफ़न प्राप्त करता है या सेट करता है। |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | एंड इंडेंट प्राप्त करता है या सेट करता है। |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [एवरी लाइन कंपोज़र] है या नहीं। |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | पहली लाइन इंडेंट प्राप्त करता है या सेट करता है। |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | ग्लिफ स्पेसिंग प्राप्त करता है या सेट करता है। |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह `ITextParagraph` हैंगिंग है या नहीं। |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | हाइफ़नेटेड शब्द का आकार प्राप्त करता है या सेट करता है। |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | जस्टिफिकेशन प्राप्त करता है या सेट करता है। |
+| [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | किन्सोकू क्रम प्राप्त करता है या सेट करता है। |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | लीडिंग के प्रकार को प्राप्त करता है या सेट करता है। |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | अक्षर अंतराल को प्राप्त करता है या सेट करता है। |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | पोस्ट हाइफ़न को प्राप्त करता है या सेट करता है। |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | प्रि हाइफ़न को प्राप्त करता है या सेट करता है। |
+| [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | बाद का स्पेस प्राप्त करता है या सेट करता है। |
+| [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | पहले का स्पेस प्राप्त करता है या सेट करता है। |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | शुरूआती इंडेंट को प्राप्त करता है या सेट करता है। |
+| [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | शब्द अंतराल को प्राप्त करता है या सेट करता है। |
+| [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | ज़ोन को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | निर्दिष्ट अनुच्छेद लागू करता है। |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | निर्धारित करता है कि निर्दिष्ट अनुच्छेद बराबर है या नहीं। |
+| [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | निर्दिष्ट पैराग्राफ लागू करता है। |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | निर्धारित करता है कि निर्दिष्ट पैराग्राफ समान है या नहीं। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि दाएँ-से-बाएँ भाषाओं के लिए ITextPortion के माध्यम से पाठ संरेखण ठीक से काम करता है।
+निम्न उदाहरण दर्शाता है कि दाएँ‑से‑बाएँ भाषाओं के लिए ITextPortion के माध्यम से टेक्स्ट अलाइनमेंट सही ढंग से काम करता है।
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्नलिखित कोड उदाहरण संपादन पाठ भागों और उनकी पाठ शैली को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण टेक्स्ट भागों और उनके टेक्स्ट स्टाइल को संपादित करने को दर्शाता है।
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // हर हिस्से का टेक्स्ट चेक करना
+            // प्रत्येक भाग के टेक्स्ट की जाँच कर रहा है
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पैराग्राफ डेटा की जाँच करना
-            // पैराग्राफ का अलग औचित्य है
+            // पैराग्राफ डेटा की जाँच कर रहा है
+            // पैराग्राफों का संरेखण अलग है
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -112,7 +113,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पहले और दूसरे पैराग्राफ के अन्य सभी गुण समान हैं
+            // पहले और दूसरे पैराग्राफ की सभी अन्य गुण समान हैं
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -151,8 +152,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // शैली डेटा की जाँच करना
-            // शैलियों में अलग-अलग रंग और फ़ॉन्ट आकार होते हैं
+            // स्टाइल डेटा की जाँच कर रहा है
+            // स्टाइलों के रंग और फ़ॉन्ट आकार अलग हैं
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -184,33 +185,33 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // पाठ संपादन का उदाहरण
+            // टेक्स्ट संपादन का उदाहरण
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // पाठ के भाग निकालने का उदाहरण
+            // टेक्स्ट भागों को हटाने का उदाहरण
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // नया पाठ भाग जोड़ने का उदाहरण
+            // नया टेक्स्ट भाग जोड़ने का उदाहरण
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // भागों के लिए अनुच्छेद और शैली संपादन का उदाहरण
-            // सही औचित्य सेट करें
+            // भागों के लिए पैराग्राफ और स्टाइल संपादन का उदाहरण
+            // दाएँ संरेखण सेट करें
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // प्रत्येक शैली के लिए अलग-अलग रंग। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // प्रत्येक स्टाइल के लिए अलग-अलग रंग। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // अलग फ़ॉन्ट। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // अलग फ़ॉन्ट। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -225,9 +226,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DisposableObject संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यह उदहरण नपटय गय है
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DisposableObject प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है।
+यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं।
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर निपटाया गया; अन्यथा,`असत्य`.
+`true` यदि डिस्पोज़ किया गया हो; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DisposableObject](../)
-* नाम स्थान [Aspose.PSD](../../disposableobject/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

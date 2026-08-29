@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrushBase संपत्त. एक आयतकर क्षेत्र प्रप्त य सेट करत है ज ग्रेडएंट के शुरुआत और अंत बंदुओं क परभषत करत है
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrushBase प्रॉपर्टी. प्राप्त करता है या सेट करता है एक आयताकार क्षेत्र जो ग्रेडिएंट के प्रारंभिक और समाप्ति बिंदुओं को परिभाषित करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
-एक आयताकार क्षेत्र प्राप्त या सेट करता है जो ग्रेडिएंट के शुरुआती और अंत बिंदुओं को परिभाषित करता है।
+ग्रेडिएंट के प्रारंभ और समाप्ति बिंदुओं को परिभाषित करने वाले आयताकार क्षेत्र को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RectangleF Rectangle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो ढाल के प्रारंभ और समाप्ति बिंदुओं को निर्दिष्ट करती है।
+एक [`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो ग्रेडिएंट के प्रारंभिक और समाप्ति बिंदुओं को निर्दिष्ट करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

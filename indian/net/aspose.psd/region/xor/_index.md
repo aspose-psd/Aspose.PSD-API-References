@@ -1,102 +1,103 @@
 ---
-title: Region.Xor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे अपडेट करत हैRegion नर्दष्ट के सथ स्वयं के प्रतच्छेदन क घटकर संघ कRectangleFसंरचन.
+title: "Region.Xor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region को स्वयं और निर्दिष्ट RectangleF संरचना के साथ प्रतिच्छेदन को घटाकर संघ में अपडेट करता है"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ स्वयं के प्रतिच्छेदन को घटाकर संघ को[`RectangleF`](../../rectanglef/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना के साथ प्रतिच्छेदन को घटाकर संघ में अपडेट करता है।
 
 ```csharp
 public void Xor(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) इसके साथ xor की संरचना[`Region`](../). |
+| rect | RectangleF | यह [`RectangleF`](../../rectanglef/) संरचना इस [`Region`](../) के साथ XOR करने के लिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ स्वयं के प्रतिच्छेदन को घटाकर संघ को[`Rectangle`](../../rectangle/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना के साथ प्रतिच्छेदन को घटाकर संघ में अपडेट करता है।
 
 ```csharp
 public void Xor(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) इसके साथ xor की संरचना[`Region`](../). |
+| rect | Rectangle | यह [`Rectangle`](../../rectangle/) संरचना इस [`Region`](../) के साथ XOR करने के लिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ स्वयं के प्रतिच्छेदन को घटाकर संघ को[`GraphicsPath`](../../graphicspath/) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`GraphicsPath`](../../graphicspath/) के साथ प्रतिच्छेदन को घटाकर संघ में अपडेट करता है।
 
 ```csharp
 public void Xor(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) इसके साथ xor करने के लिए[`Region`](../). |
+| path | GraphicsPath | यह [`GraphicsPath`](../../graphicspath/) इस [`Region`](../) के साथ XOR करने के लिए। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *path* रिक्त है. |
+| ArgumentNullException | *path* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ स्वयं के प्रतिच्छेदन को घटाकर संघ को[`Region`](../) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Region`](../) के साथ प्रतिच्छेदन को घटाकर संघ में अपडेट करता है।
 
 ```csharp
 public void Xor(Region region)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) इसके साथ xor करने के लिए[`Region`](../). |
+| region | Region | यह [`Region`](../) इस [`Region`](../) के साथ XOR करने के लिए। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *region* रिक्त है. |
+| ArgumentNullException | *region* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

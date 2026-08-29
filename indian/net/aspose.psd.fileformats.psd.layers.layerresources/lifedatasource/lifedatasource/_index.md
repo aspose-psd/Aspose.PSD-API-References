@@ -1,48 +1,49 @@
 ---
-title: LiFeDataSource.LiFeDataSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LiFeDataSource नर्मत. क एक नय उदहरण प्ररंभ करत हैLiFeDataSource वर्ग.
+title: "LiFeDataSource.LiFeDataSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LiFeDataSource कंस्ट्रक्टर। LiFeDataSource क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LiFeDataSource`](../) वर्ग.
+`[`LiFeDataSource`](../)` क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public LiFeDataSource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LiFeDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LiFeDataSource(int, Guid, string, string, string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LiFeDataSource`](../) वर्ग.
+`[`LiFeDataSource`](../)` क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public LiFeDataSource(int version, Guid uniqueId, string originalFileName, string fileType, 
     string fileCreator)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| version | Int32 | संस्करण। |
+| संस्करण | Int32 | संस्करण. |
 | uniqueId | Guid | अद्वितीय पहचानकर्ता। |
 | originalFileName | String | मूल फ़ाइल का नाम। |
 | fileType | String | फ़ाइल का प्रकार। |
 | fileCreator | String | फ़ाइल निर्माता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LiFeDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

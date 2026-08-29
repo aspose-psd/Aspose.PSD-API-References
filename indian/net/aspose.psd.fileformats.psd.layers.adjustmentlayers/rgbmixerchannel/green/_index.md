@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Green
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RgbMixerChannel संपत्त. हर ह जत है य सेट ह जत है
+title: "RgbMixerChannel.Green"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RgbMixerChannel प्रॉपर्टी। हरा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Green property
 
-हरा हो जाता है या सेट हो जाता है।
+हरे मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Green { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हरा.
+हरा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RgbMixerChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

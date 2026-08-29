@@ -1,11 +1,12 @@
 ---
-title: Source.GetStreamContainer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Source तरक. स्ट्रम कंटेनर प्रप्त करत है
+title: "Source.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Source मेथड। स्ट्रीम कंटेनर प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/source/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## Source.GetStreamContainer method
 
 स्ट्रीम कंटेनर प्राप्त करता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd/source/getstreamcontainer/
 public abstract StreamContainer GetStreamContainer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 स्ट्रीम कंटेनर।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-सावधानी से प्रयोग करें। पुनर्प्राप्ति के बाद आपको स्ट्रीम कंटेनर का निपटान करना होगा।
+सावधानी से उपयोग करें। प्राप्ति के बाद आपको स्ट्रीम कंटेनर को डिस्पोज़ करना होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* नाम स्थान [Aspose.PSD](../../source/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

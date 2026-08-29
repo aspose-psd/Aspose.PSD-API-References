@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. इसक एमसइज़ प्रप्त करत हैFont द्वर नर्दष्ट इकइयं में मप जत हैUnit संपत्त.
+title: "Font.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font प्रॉपर्टी। इस Font का emsize प्राप्त करता है, जिसे Unit प्रॉपर्टी द्वारा निर्दिष्ट इकाइयों में मापा जाता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-इसका एम-साइज़ प्राप्त करता है[`Font`](../) द्वारा निर्दिष्ट इकाइयों में मापा जाता है[`Unit`](../unit/) संपत्ति.
+इस [`Font`](../) का em-size प्राप्त करता है, जिसे [`Unit`](../unit/) प्रॉपर्टी द्वारा निर्दिष्ट इकाइयों में मापा जाता है।
 
 ```csharp
 public float Size { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका एम-साइज[`Font`](../).
+इस [`Font`](../) का em-size।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

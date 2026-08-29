@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन सम्मश्रण प्रकर वर्ग और अन्य उपयगतओं क संभलत है Aspose.PSD सभ PSD सम्मश्रण मड क समर्थन करत है
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस ब्लेंडिंग टाइप क्लासेस और अन्य उपयोगिताओं को संभालता है। Aspose.PSD सभी PSD ब्लेंडिंग मोड्स को समर्थन देता है।"
 type: docs
-weight: 140
+weight: 150
 url: /hi/net/aspose.psd.fileformats.core.blending/
 ---
-नाम स्थान सम्मिश्रण प्रकार, वर्ग और अन्य उपयोगिताओं को संभालता है। Aspose.PSD सभी PSD सम्मिश्रण मोड का समर्थन करता है।
+{{< psd/tize >}}
+नामस्थान ब्लेंडिंग टाइप्स, क्लासेज़ और अन्य उपयोगिताओं को संभालता है। Aspose.PSD सभी PSD ब्लेंडिंग मोड्स का समर्थन करता है।
 
-## गणना
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [BlendMode](./blendmode/) | लेयर ब्लेंड मोड. |
+| [BlendMode](./blendmode/) | लेयर ब्लेंड मोड। |
 
 

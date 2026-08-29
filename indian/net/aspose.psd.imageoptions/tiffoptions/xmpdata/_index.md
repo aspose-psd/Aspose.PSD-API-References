@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.XmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. एक्सएमप मेटडेट कंटेनर प्रप्त य सेट करत है
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। XMP मेटाडेटा कंटेनर को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 580
+weight: 590
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
-एक्सएमपी मेटाडेटा कंटेनर प्राप्त या सेट करता है।
+XMP मेटाडेटा कंटेनर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-XMP डेटा कंटेनर.
+XMP डेटा कंटेनर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

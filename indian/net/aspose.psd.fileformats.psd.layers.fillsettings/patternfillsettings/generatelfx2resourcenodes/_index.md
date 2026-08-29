@@ -1,41 +1,42 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings तरक. LFX2 संसधन नड उत्पन्न करत है
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings मेथड. LFX2 रिसोर्स नोड्स उत्पन्न करता है"
 type: docs
-weight: 140
+weight: 160
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
-LFX2 संसाधन नोड उत्पन्न करता है।
+LFX2 रिसोर्स नोड्स उत्पन्न करता है।
 
 ```csharp
 public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string pointType, Color color, 
     string patternName, string identifier, double scale, bool linked, PointF offset)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | pointType | String | बिंदु का प्रकार। |
-| color | Color | वो रंग। |
+| रंग | रंग | रंग। |
 | patternName | String | पैटर्न का नाम। |
 | identifier | String | पहचानकर्ता। |
-| scale | Double | पैमाना। |
-| linked | Boolean | अगर सेट है`सत्य` [जुड़े हुए]। |
-| offset | PointF | ऑफसेट। |
+| scale | Double | स्केल। |
+| linked | बूलियन | यदि `true` पर सेट किया गया है [linked]. |
+| offset | PointF | ऑफ़सेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-की सूची[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) की सूची
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

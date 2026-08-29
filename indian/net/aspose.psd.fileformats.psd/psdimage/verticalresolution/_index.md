@@ -1,37 +1,38 @@
 ---
-title: PsdImage.VerticalResolution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. इसमें से पक्सेल प्रत इंच में लंबवत रज़ल्यूशन प्रप्त य सेट करत हैPsdImage .
+title: "PsdImage.VerticalResolution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी. इस PsdImage की लंबवत रिज़ॉल्यूशन को पिक्सेल प्रति इंच में प्राप्त करता है या सेट करता है"
 type: docs
-weight: 260
+weight: 270
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.VerticalResolution property
 
-इसमें से पिक्सेल प्रति इंच में लंबवत रिज़ॉल्यूशन प्राप्त या सेट करता है[`PsdImage`](../) .
+इस [`PsdImage`](../) की लंबवत रिज़ॉल्यूशन को पिक्सेल प्रति इंच में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override double VerticalResolution { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लंबवत रिज़ॉल्यूशन।
+ऊर्ध्वाधर रिज़ॉल्यूशन।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | रेज़ोल्यूशनइन्फो संसाधन नहीं मिला और उचित रिज़ॉल्यूशन सेट नहीं कर सकता |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | ResolutionInfo संसाधन नहीं मिला और सही रिज़ॉल्यूशन सेट नहीं किया जा सकता |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-PSD के लिए डिफ़ॉल्ट मान 72 है, इसलिए यदि[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) नहीं मिला, यह मान दिया गया है.
+PSD के लिए डिफ़ॉल्ट मान 72 है, इसलिए यदि [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) नहीं मिला, तो यह मान लौटाया जाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

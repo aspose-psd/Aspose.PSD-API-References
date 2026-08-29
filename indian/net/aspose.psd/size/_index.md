@@ -1,11 +1,12 @@
 ---
-title: Struct Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Size struct. आकर क प्रतनधत्व करत है
+title: "Struct Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Size struct. आकार का प्रतिनिधित्व करता है"
 type: docs
-weight: 5550
+weight: 6050
 url: /hi/net/aspose.psd/size/
 ---
+{{< psd/tize >}}
 ## Size structure
 
 आकार का प्रतिनिधित्व करता है।
@@ -18,40 +19,40 @@ public struct Size
 
 | नाम | विवरण |
 | --- | --- |
-| [Size](size/#constructor)(Point) | का एक नया उदाहरण प्रारंभ करता है`Size` निर्दिष्ट से संरचना[`Point`](../point/) . |
-| [Size](size/#constructor_1)(int, int) | का एक नया उदाहरण प्रारंभ करता है`Size` निर्दिष्ट आयामों से संरचना। |
+| [Size](size/#constructor)(Point) | निर्दिष्ट [`Point`](../point/) से `Size` संरचना का नया उदाहरण प्रारंभ करता है। |
+| [Size](size/#constructor_1)(int, int) | निर्दिष्ट आयामों से `Size` संरचना का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| static [Empty](../../aspose.psd/size/empty/) { get; } | का एक नया उदाहरण प्राप्त करता है`Size` संरचना जिसमें है[`Width`](./width/) और[`Height`](./height/) मान शून्य पर सेट. |
-| [Height](../../aspose.psd/size/height/) { get; set; } | इसके लंबवत घटक को प्राप्त या सेट करता है`Size` . |
-| [IsEmpty](../../aspose.psd/size/isempty/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह`Size` चौड़ाई और ऊंचाई 0. है |
-| [Width](../../aspose.psd/size/width/) { get; set; } | इसके क्षैतिज घटक को प्राप्त या सेट करता है`Size` . |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [Add](../../aspose.psd/size/add/)(Size, Size) | एक की चौड़ाई और ऊंचाई जोड़ता है`Size` दूसरे की चौड़ाई और ऊंचाई की संरचना`Size`संरचना. |
-| static [Ceiling](../../aspose.psd/size/ceiling/)(SizeF) | निर्दिष्ट को परिवर्तित करता है[`SizeF`](../sizef/) ए के लिए संरचना`Size` के मूल्यों को गोल करके संरचना`Size` अगले उच्च पूर्णांक मानों की संरचना। |
-| static [Round](../../aspose.psd/size/round/)(SizeF) | निर्दिष्ट को परिवर्तित करता है[`SizeF`](../sizef/) ए के लिए संरचना`Size` के मूल्यों को गोल करके संरचना[`SizeF`](../sizef/) निकटतम पूर्णांक मानों की संरचना। |
-| static [Subtract](../../aspose.psd/size/subtract/)(Size, Size) | एक की चौड़ाई और ऊंचाई घटाता है`Size` दूसरे की चौड़ाई और ऊंचाई से संरचना`Size`संरचना. |
-| static [Truncate](../../aspose.psd/size/truncate/)(SizeF) | निर्दिष्ट को परिवर्तित करता है[`SizeF`](../sizef/) ए के लिए संरचना`Size` के मूल्यों को छोटा करके संरचना[`SizeF`](../sizef/) अगले निचले पूर्णांक मानों की संरचना। |
-| override [Equals](../../aspose.psd/size/equals/)(object) | यह देखने के लिए परीक्षण करता है कि निर्दिष्ट वस्तु a है या नहीं`Size` इसके समान आयामों के साथ`Size` . |
-| override [GetHashCode](../../aspose.psd/size/gethashcode/)() | इसके लिए हैश कोड लौटाता है`Size`संरचना. |
-| override [ToString](../../aspose.psd/size/tostring/)() | एक मानव-पठनीय स्ट्रिंग बनाता है जो इसका प्रतिनिधित्व करता है`Size` . |
-| [operator +](../../aspose.psd/size/op_addition/) | एक की चौड़ाई और ऊंचाई जोड़ता है`Size` दूसरे की चौड़ाई और ऊंचाई की संरचना`Size`संरचना. |
-| [operator ==](../../aspose.psd/size/op_equality/) | परीक्षण करता है कि क्या दो हैं`Size` संरचनाएं बराबर हैं. |
-| [explicit operator](../../aspose.psd/size/op_explicit/) | निर्दिष्ट को परिवर्तित करता है`Size` एक के लिए[`Point`](../point/) . |
-| [implicit operator](../../aspose.psd/size/op_implicit/) | निर्दिष्ट को परिवर्तित करता है`Size` एक के लिए[`SizeF`](../sizef/) . |
-| [operator !=](../../aspose.psd/size/op_inequality/) | परीक्षण करता है कि क्या दो हैं`Size` संरचनाएं भिन्न हैं. |
-| [operator -](../../aspose.psd/size/op_subtraction/) | एक की चौड़ाई और ऊंचाई घटाता है`Size` दूसरे की चौड़ाई और ऊंचाई से संरचना`Size`संरचना. |
+| static [Empty](../../aspose.psd/size/empty/) { get; } | `Size` संरचना का नया उदाहरण प्राप्त करता है जिसमें [`Width`](./width/) और [`Height`](./height/) मान शून्य पर सेट होते हैं। |
+| [Height](../../aspose.psd/size/height/) { get; set; } | इस `Size` का लंबवत घटक प्राप्त करता है या सेट करता है। |
+| [IsEmpty](../../aspose.psd/size/isempty/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि इस `Size` की चौड़ाई और ऊँचाई 0 है या नहीं। |
+| [Width](../../aspose.psd/size/width/) { get; set; } | इस `Size` का क्षैतिज घटक प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| static [Add](../../aspose.psd/size/add/)(Size, Size) | एक `Size` संरचना की चौड़ाई और ऊँचाई को दूसरी `Size` संरचना की चौड़ाई और ऊँचाई में जोड़ता है। |
+| static [Ceiling](../../aspose.psd/size/ceiling/)(SizeF) | निर्दिष्ट [`SizeF`](../sizef/) संरचना को `Size` संरचना में परिवर्तित करता है, `Size` संरचना के मानों को अगले बड़े पूर्णांक मान तक गोल करके। |
+| static [Round](../../aspose.psd/size/round/)(SizeF) | निर्दिष्ट [`SizeF`](../sizef/) संरचना को `Size` संरचना में परिवर्तित करता है, [`SizeF`](../sizef/) संरचना के मानों को निकटतम पूर्णांक मान तक गोल करके। |
+| static [Subtract](../../aspose.psd/size/subtract/)(Size, Size) | एक `Size` संरचना की चौड़ाई और ऊँचाई को दूसरी `Size` संरचना की चौड़ाई और ऊँचाई से घटाता है। |
+| static [Truncate](../../aspose.psd/size/truncate/)(SizeF) | निर्दिष्ट [`SizeF`](../sizef/) संरचना को `Size` संरचना में परिवर्तित करता है, [`SizeF`](../sizef/) संरचना के मानों को अगले छोटे पूर्णांक मान तक काटकर। |
+| override [Equals](../../aspose.psd/size/equals/)(object) | जाँचता है कि क्या निर्दिष्ट वस्तु इस `Size` के समान आयामों वाला `Size` है। |
+| override [GetHashCode](../../aspose.psd/size/gethashcode/)() | इस `Size` संरचना के लिए एक हैश कोड लौटाता है। |
+| override [ToString](../../aspose.psd/size/tostring/)() | एक मानव‑पठनीय स्ट्रिंग बनाता है जो इस `Size` का प्रतिनिधित्व करता है। |
+| [operator +](../../aspose.psd/size/op_addition/) | एक `Size` संरचना की चौड़ाई और ऊँचाई को दूसरी `Size` संरचना की चौड़ाई और ऊँचाई में जोड़ता है। |
+| [operator ==](../../aspose.psd/size/op_equality/) | जाँचता है कि दो `Size` संरचनाएँ समान हैं या नहीं। |
+| [explicit operator](../../aspose.psd/size/op_explicit/) | निर्दिष्ट `Size` को [`Point`](../point/) में परिवर्तित करता है। |
+| [implicit operator](../../aspose.psd/size/op_implicit/) | निर्दिष्ट `Size` को [`SizeF`](../sizef/) में परिवर्तित करता है। |
+| [operator !=](../../aspose.psd/size/op_inequality/) | जाँचता है कि दो `Size` संरचनाएँ अलग हैं या नहीं। |
+| [operator -](../../aspose.psd/size/op_subtraction/) | एक `Size` संरचना की चौड़ाई और ऊँचाई को दूसरी `Size` संरचना की चौड़ाई और ऊँचाई से घटाता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

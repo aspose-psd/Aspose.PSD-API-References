@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SharpenFilterOptions संपत्त. सग्म प्रप्त य सेट करत है
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SharpenFilterOptions प्रॉपर्टी। सिग्मा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-सिग्मा प्राप्त या सेट करता है।
+sigma को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सिग्मा.
+सिग्मा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SharpenFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

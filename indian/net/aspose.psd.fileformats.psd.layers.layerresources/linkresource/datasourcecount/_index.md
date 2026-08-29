@@ -1,27 +1,28 @@
 ---
-title: LinkResource.DataSourceCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkResource संपत्त. उन लंक डेट स्रतं क संख्य प्रप्त करत है जन तक अनुक्रमणक द्वर पहुँच ज सकत है
+title: "LinkResource.DataSourceCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkResource प्रॉपर्टी. लिंक डेटा स्रोतों की गिनती प्राप्त करता है जिन्हें इंडेक्सर द्वारा एक्सेस किया जा सकता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/
 ---
+{{< psd/tize >}}
 ## LinkResource.DataSourceCount property
 
-उन लिंक डेटा स्रोतों की संख्या प्राप्त करता है जिन तक अनुक्रमणिका द्वारा पहुँचा जा सकता है।
+इंडेक्सर द्वारा एक्सेस किए जा सकने वाले लिंक डेटा स्रोतों की संख्या प्राप्त करता है।
 
 ```csharp
 public int DataSourceCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेटा स्रोत गणना.
+डेटा स्रोत की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

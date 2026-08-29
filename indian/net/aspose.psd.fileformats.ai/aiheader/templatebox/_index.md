@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TemplateBox
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiHeader संपत्त. टेम्पलेट बक्स प्रप्त य सेट करत है
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiHeader प्रॉपर्टी। प्राप्त करता है या सेट करता है टेम्प्लेट बॉक्स।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
-टेम्पलेट बॉक्स प्राप्त या सेट करता है।
+टेम्प्लेट बॉक्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RectangleF TemplateBox { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टेम्प्लेट बॉक्स.
+टेम्प्लेट बॉक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

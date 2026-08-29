@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. ऑडय क संगत कुंज सेट करत है
+title: "XmpDynamicMediaPackage.SetKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। ऑडियो की संगीत कुंजी सेट करता है।"
 type: docs
 weight: 260
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetKey method
 
-ऑडियो की संगीत कुंजी सेट करता है।
+ऑडियो की संगीत कुंजी को सेट करता है।
 
 ```csharp
 public void SetKey(string key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | ऑडियो की संगीत कुंजी। इनमें से एक: C, C#, D, D#, E, F, F#, G, G#, A, A#, और B। |
+| कुंजी | String | ऑडियो की संगीत कुंजी। निम्न में से एक: C, C#, D, D#, E, F, F#, G, G#, A, A#, और B। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

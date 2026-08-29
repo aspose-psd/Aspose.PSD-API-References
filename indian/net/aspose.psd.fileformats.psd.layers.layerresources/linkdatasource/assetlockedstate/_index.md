@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.AssetLockedState
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क क्य PSD संपत्त लक है
+title: "LinkDataSource.AssetLockedState"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि PSD एसेट लॉक है या नहीं। Adobe Photoshop СС Libraries एसेट्स के लिए एसेट लॉक स्थिति।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetLockedState property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या PSD संपत्ति लॉक है।
+PSD एसेट लॉक है या नहीं यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। Adobe® Photoshop® СС Libraries एसेट्स के लिए एसेट लॉक स्थिति।
 
 ```csharp
 public bool AssetLockedState { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर Adobe® Photoshop® संपत्ति लॉक है; अन्यथा,`असत्य` .
+`true` यदि Adobe® Photoshop® एसेट लॉक है; अन्यथा, `false`।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AssetLockedState प्रॉपर्टी तक नहीं पहुंच सकते, यह केवल संस्करण 7. के साथ liFE या liFE डेटा स्रोत के लिए उपलब्ध है |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AssetLockedState प्रॉपर्टी तक पहुँच नहीं सकते, यह केवल संस्करण 7 वाले liFE या liFE डेटा स्रोत के लिए उपलब्ध है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

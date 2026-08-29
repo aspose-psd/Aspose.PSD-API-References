@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: EnumeratedDescriptorStructure संपत्त. कुंज प्रप्त करत है.
+title: "EnumeratedDescriptorStructure.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "EnumeratedDescriptorStructure प्रॉपर्टी। कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/key/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.Key property
 
-कुंजी प्राप्त करता है.
+कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [EnumeratedDescriptorStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

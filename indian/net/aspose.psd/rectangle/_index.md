@@ -1,14 +1,15 @@
 ---
-title: Struct Rectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Rectangle struct. चर पूर्णंकं क एक सेट संग्रहत करत है ज एक आयत के स्थन और आकर क प्रतनधत्व करत है
+title: "संरचना Rectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Rectangle संरचना। चार पूर्णांकों का सेट संग्रहीत करता है जो एक आयत के स्थान और आकार का प्रतिनिधित्व करते हैं।"
 type: docs
-weight: 5340
+weight: 5840
 url: /hi/net/aspose.psd/rectangle/
 ---
+{{< psd/tize >}}
 ## Rectangle structure
 
-चार पूर्णांकों का एक सेट संग्रहीत करता है जो एक आयत के स्थान और आकार का प्रतिनिधित्व करता है।
+एक आयत के स्थान और आकार को दर्शाने वाले चार पूर्णांकों का सेट संग्रहीत करता है।
 
 ```csharp
 public struct Rectangle
@@ -18,57 +19,57 @@ public struct Rectangle
 
 | नाम | विवरण |
 | --- | --- |
-| [Rectangle](rectangle/#constructor)(Point, Size) | का एक नया उदाहरण प्रारंभ करता है`Rectangle` निर्दिष्ट स्थान और आकार के साथ संरचना. |
-| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | का एक नया उदाहरण प्रारंभ करता है`Rectangle` निर्दिष्ट स्थान और आकार के साथ संरचना. |
+| [Rectangle](rectangle/#constructor)(Point, Size) | निर्दिष्ट स्थान और आकार के साथ `Rectangle` संरचना का नया उदाहरण आरंभ करता है। |
+| [Rectangle](rectangle/#constructor_1)(int, int, int, int) | निर्दिष्ट स्थान और आकार के साथ `Rectangle` संरचना का नया उदाहरण आरंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | का एक नया उदाहरण प्राप्त करता है`Rectangle` संरचना जिसमें है[`X`](./x/) ,[`Y`](./y/) ,[`Width`](./width/) और[`Height`](./height/) मान शून्य पर सेट. |
-| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | वाई-निर्देशांक प्राप्त करता है या सेट करता है जो कि योग है[`Y`](./y/) और[`Height`](./height/) इस के संपत्ति मूल्य`Rectangle`संरचना. |
-| [Height](../../aspose.psd/rectangle/height/) { get; set; } | इसकी ऊंचाई प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या इसके सभी संख्यात्मक गुण हैं`Rectangle` शून्य के मान हैं। |
-| [Left](../../aspose.psd/rectangle/left/) { get; set; } | इसके बाएँ किनारे का x-निर्देशांक प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [Location](../../aspose.psd/rectangle/location/) { get; set; } | इसके ऊपरी-बाएँ कोने के निर्देशांक प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [Right](../../aspose.psd/rectangle/right/) { get; set; } | x-निर्देशांक प्राप्त करता है या सेट करता है जो कि योग है[`X`](./x/) और[`Width`](./width/) इस के संपत्ति मूल्य`Rectangle`संरचना. |
-| [Size](../../aspose.psd/rectangle/size/) { get; set; } | इसका आकार प्राप्त या सेट करता है`Rectangle` . |
-| [Top](../../aspose.psd/rectangle/top/) { get; set; } | इसके शीर्ष किनारे का y-निर्देशांक प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [Width](../../aspose.psd/rectangle/width/) { get; set; } | इसकी चौड़ाई प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [X](../../aspose.psd/rectangle/x/) { get; set; } | इसके ऊपरी-बाएँ कोने का x-निर्देशांक प्राप्त या सेट करता है`Rectangle`संरचना. |
-| [Y](../../aspose.psd/rectangle/y/) { get; set; } | इसके ऊपरी-बाएँ कोने का y-निर्देशांक प्राप्त या सेट करता है`Rectangle`संरचना. |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | निर्दिष्ट को परिवर्तित करता है[`RectangleF`](../rectanglef/) ए के लिए संरचना`Rectangle` गोल करके संरचना[`RectangleF`](../rectanglef/) अगले उच्च पूर्णांक मानों के लिए मान. |
-| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | एक बनाता है`Rectangle` निर्दिष्ट बढ़त स्थानों के साथ संरचना. |
-| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | एक नया बनाता है`Rectangle` निर्दिष्ट दो बिंदुओं से। निर्मित के दो कार्यक्षेत्र`Rectangle` उत्तीर्ण के बराबर होगा*point1* और*point2* . ये विशिष्ट रूप से विपरीत शीर्ष होंगे. |
-| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | निर्दिष्ट की एक बढ़ी हुई प्रति बनाता है और लौटाता है`Rectangle`संरचना। कॉपी निर्दिष्ट राशि से फुलाया जाता है। मूल`Rectangle` संरचना अपरिवर्तित बनी हुई है। |
-| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | एक तिहाई लौटाता है`Rectangle` संरचना जो दो अन्य के प्रतिच्छेदन का प्रतिनिधित्व करती है`Rectangle` संरचनाएं। यदि कोई चौराहा नहीं है, तो एक खाली`Rectangle` वापस आ गया है। |
-| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | निर्दिष्ट को परिवर्तित करता है[`RectangleF`](../rectanglef/) एक के लिए`Rectangle` गोल करके[`RectangleF`](../rectanglef/) मानों को निकटतम पूर्णांक मान. |
-| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | निर्दिष्ट को परिवर्तित करता है[`RectangleF`](../rectanglef/) एक के लिए`Rectangle` काट कर[`RectangleF`](../rectanglef/) मान. |
-| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | हो जाता है`Rectangle` संरचना जिसमें दो का मिलन होता है`Rectangle` संरचनाएं. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | निर्धारित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं`Rectangle`संरचना. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | निर्धारित करता है कि क्या आयताकार क्षेत्र द्वारा दर्शाया गया है*rect* इसी में पूर्णतया निहित है`Rectangle`संरचना. |
-| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | निर्धारित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं`Rectangle`संरचना. |
-| override [Equals](../../aspose.psd/rectangle/equals/)(object) | परीक्षण करता है कि क्या*obj* एक है`Rectangle`इस के समान स्थान और आकार के साथ संरचना`Rectangle`संरचना. |
-| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | इसके लिए हैश कोड लौटाता है`Rectangle`संरचना. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | इसे फुलाता है`Rectangle`निर्दिष्ट राशि से. |
-| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | इसे फुलाता है`Rectangle`निर्दिष्ट राशि से. |
-| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | इसे बदलता है`Rectangle` स्वयं और निर्दिष्ट के प्रतिच्छेदन के साथ`Rectangle` . |
-| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | निर्धारित करता है कि क्या यह आयत किसके साथ प्रतिच्छेद करती है*rect* . |
-| [Normalize](../../aspose.psd/rectangle/normalize/)() | आयत की चौड़ाई और ऊंचाई को सकारात्मक बनाकर, बाएँ को दाएँ से कम और ऊपर को नीचे से कम बनाकर सामान्य करता है। |
-| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | इस आयत के स्थान को निर्दिष्ट राशि से समायोजित करता है। |
-| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | इस आयत के स्थान को निर्दिष्ट राशि से समायोजित करता है। |
-| override [ToString](../../aspose.psd/rectangle/tostring/)() | इसकी विशेषताओं को परिवर्तित करता है`Rectangle` एक मानव-पठनीय स्ट्रिंग के लिए. |
-| [operator ==](../../aspose.psd/rectangle/op_equality/) | परीक्षण करता है कि क्या दो हैं`Rectangle` संरचनाओं का स्थान और आकार समान होता है. |
-| [operator !=](../../aspose.psd/rectangle/op_inequality/) | परीक्षण करता है कि क्या दो हैं`Rectangle` संरचनाएं स्थान या आकार में भिन्न होती हैं। |
+| static [Empty](../../aspose.psd/rectangle/empty/) { get; } | एक नया `Rectangle` संरचना का उदाहरण प्राप्त करता है जिसमें [`X`](./x/), [`Y`](./y/), [`Width`](./width/) और [`Height`](./height/) मान शून्य पर सेट होते हैं। |
+| [Bottom](../../aspose.psd/rectangle/bottom/) { get; set; } | इस `Rectangle` संरचना के [`Y`](./y/) और [`Height`](./height/) गुण मानों के योग वाले y-निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Height](../../aspose.psd/rectangle/height/) { get; set; } | इस `Rectangle` संरचना की ऊँचाई को प्राप्त करता है या सेट करता है। |
+| [IsEmpty](../../aspose.psd/rectangle/isempty/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि इस `Rectangle` की सभी संख्यात्मक गुणों के मान शून्य हैं या नहीं। |
+| [Left](../../aspose.psd/rectangle/left/) { get; set; } | इस `Rectangle` संरचना के बाएँ किनारे के x-निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Location](../../aspose.psd/rectangle/location/) { get; set; } | इस `Rectangle` संरचना के ऊपर-बाएँ कोने के निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Right](../../aspose.psd/rectangle/right/) { get; set; } | इस `Rectangle` संरचना के [`X`](./x/) और [`Width`](./width/) गुण मानों के योग वाले x-निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Size](../../aspose.psd/rectangle/size/) { get; set; } | इस `Rectangle` का आकार प्राप्त करता है या सेट करता है। |
+| [Top](../../aspose.psd/rectangle/top/) { get; set; } | इस `Rectangle` संरचना के शीर्ष किनारे के y-निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Width](../../aspose.psd/rectangle/width/) { get; set; } | इस `Rectangle` संरचना की चौड़ाई को प्राप्त करता है या सेट करता है। |
+| [X](../../aspose.psd/rectangle/x/) { get; set; } | इस `Rectangle` संरचना के ऊपर-बाएँ कोने के x-निर्देशांक को प्राप्त करता है या सेट करता है। |
+| [Y](../../aspose.psd/rectangle/y/) { get; set; } | इस `Rectangle` संरचना के ऊपर-बाएँ कोने के y-निर्देशांक को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| static [Ceiling](../../aspose.psd/rectangle/ceiling/)(RectangleF) | निर्दिष्ट [`RectangleF`](../rectanglef/) संरचना को `Rectangle` संरचना में बदलता है, जहाँ [`RectangleF`](../rectanglef/) मानों को अगले बड़े पूर्णांक मान तक गोल किया जाता है। |
+| static [FromLeftTopRightBottom](../../aspose.psd/rectangle/fromlefttoprightbottom/)(int, int, int, int) | निर्दिष्ट किनारे के स्थानों के साथ एक `Rectangle` संरचना बनाता है। |
+| static [FromPoints](../../aspose.psd/rectangle/frompoints/)(Point, Point) | निर्दिष्ट दो बिंदुओं से एक नया `Rectangle` बनाता है। बनाए गए `Rectangle` की दो ऊर्ध्वाधर रेखाएँ पास किए गए *point1* और *point2* के बराबर होंगी। ये सामान्यतः विपरीत शीर्ष बिंदु होते हैं। |
+| static [Inflate](../../aspose.psd/rectangle/inflate/)(Rectangle, int, int) | निर्दिष्ट `Rectangle` संरचना की एक फुलायी हुई प्रति बनाता है और लौटाता है। प्रति को निर्दिष्ट मात्रा से फुलाया जाता है। मूल `Rectangle` संरचना अपरिवर्तित रहती है। |
+| static [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle, Rectangle) | दो अन्य `Rectangle` संरचनाओं के प्रतिच्छेदन को दर्शाने वाली तीसरी `Rectangle` संरचना लौटाता है। यदि कोई प्रतिच्छेदन नहीं है, तो एक खाली `Rectangle` लौटाया जाता है। |
+| static [Round](../../aspose.psd/rectangle/round/)(RectangleF) | निर्दिष्ट [`RectangleF`](../rectanglef/) को `Rectangle` में बदलता है, जहाँ [`RectangleF`](../rectanglef/) मानों को निकटतम पूर्णांक मान तक गोल किया जाता है। |
+| static [Truncate](../../aspose.psd/rectangle/truncate/)(RectangleF) | निर्दिष्ट [`RectangleF`](../rectanglef/) को `Rectangle` में बदलता है, जहाँ [`RectangleF`](../rectanglef/) मानों को काटकर पूर्णांक बनाया जाता है। |
+| static [Union](../../aspose.psd/rectangle/union/)(Rectangle, Rectangle) | दो `Rectangle` संरचनाओं के संघ को सम्मिलित करने वाली एक `Rectangle` संरचना प्राप्त करता है। |
+| [Contains](../../aspose.psd/rectangle/contains/#contains)(Point) | निर्दिष्ट बिंदु इस `Rectangle` संरचना के भीतर स्थित है या नहीं निर्धारित करता है। |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_1)(Rectangle) | निर्धारित करता है कि *rect* द्वारा दर्शाया गया आयताकार क्षेत्र पूरी तरह से इस `Rectangle` संरचना के भीतर स्थित है या नहीं। |
+| [Contains](../../aspose.psd/rectangle/contains/#contains_2)(int, int) | निर्दिष्ट बिंदु इस `Rectangle` संरचना के भीतर स्थित है या नहीं निर्धारित करता है। |
+| override [Equals](../../aspose.psd/rectangle/equals/)(object) | जाँचता है कि *obj* इस `Rectangle` संरचना के समान स्थान और आकार वाला `Rectangle` संरचना है या नहीं। |
+| override [GetHashCode](../../aspose.psd/rectangle/gethashcode/)() | इस `Rectangle` संरचना के लिए हैश कोड लौटाता है। |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate)(Size) | इस `Rectangle` को निर्दिष्ट मात्रा से फुलाता है। |
+| [Inflate](../../aspose.psd/rectangle/inflate/#inflate_1)(int, int) | इस `Rectangle` को निर्दिष्ट मात्रा से फुलाता है। |
+| [Intersect](../../aspose.psd/rectangle/intersect/)(Rectangle) | इस `Rectangle` को स्वयं और निर्दिष्ट `Rectangle` के प्रतिच्छेदन से बदलता है। |
+| [IntersectsWith](../../aspose.psd/rectangle/intersectswith/)(Rectangle) | निर्धारित करता है कि यह आयत *rect* के साथ प्रतिच्छेद करती है या नहीं। |
+| [Normalize](../../aspose.psd/rectangle/normalize/)() | आयत को सामान्यीकृत करता है, जिससे इसकी चौड़ाई और ऊँचाई सकारात्मक हो जाती है, बायाँ दाएँ से कम और शीर्ष नीचे से कम हो जाता है। |
+| [Offset](../../aspose.psd/rectangle/offset/#offset)(Point) | निर्दिष्ट मात्रा द्वारा इस आयत का स्थान समायोजित करता है। |
+| [Offset](../../aspose.psd/rectangle/offset/#offset_1)(int, int) | निर्दिष्ट मात्रा द्वारा इस आयत का स्थान समायोजित करता है। |
+| override [ToString](../../aspose.psd/rectangle/tostring/)() | इस `Rectangle` के गुणों को मानव-पठनीय स्ट्रिंग में बदलता है। |
+| [operator ==](../../aspose.psd/rectangle/op_equality/) | जाँचता है कि दो `Rectangle` संरचनाओं का स्थान और आकार समान है या नहीं। |
+| [operator !=](../../aspose.psd/rectangle/op_inequality/) | जाँचता है कि दो `Rectangle` संरचनाओं का स्थान या आकार अलग है या नहीं। |
+
+### देखें भी
+
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

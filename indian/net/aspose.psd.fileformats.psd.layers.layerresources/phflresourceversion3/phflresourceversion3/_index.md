@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion3 नर्मत. क एक नय उदहरण प्ररंभ करत हैPhflResourceVersion3 वर्ग.
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion3 constructor. PhflResourceVersion3 क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PhflResourceVersion3`](../) वर्ग.
+[`PhflResourceVersion3`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PhflResourceVersion3()
@@ -16,40 +17,40 @@ public PhflResourceVersion3()
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | समर्थित केवल संस्करण 2 और 3 |
+| ArgumentException | केवल संस्करण 2 और 3 समर्थित हैं |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion3](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PhflResourceVersion3`](../) वर्ग.
+[`PhflResourceVersion3`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य डेटा लंबाई |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion3](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

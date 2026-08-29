@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LoadOptions संपत्त. प्रगत ईवेंट हैंडलर प्रप्त य सेट करत है
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LoadOptions प्रॉपर्टी। प्रोग्रेस इवेंट हैंडलर को प्राप्त या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-प्रगति ईवेंट हैंडलर प्राप्त या सेट करता है।
+प्रोग्रेस इवेंट हैंडलर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रगति ईवेंट हैंडलर.
+प्रोग्रेस इवेंट हैंडलर।
 
-### यह सभी देखें
+### देखें भी
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* नाम स्थान [Aspose.PSD](../../loadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl तरक. तय करत है क ह्यू छट रेंज में है य नहं.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl मेथड. निर्धारित करता है कि ह्यू छोटे रेंज में है या नहीं"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
-तय करता है कि ह्यू छोटी रेंज में है या नहीं.
+निर्धारित करता है कि ह्यू छोटे रेंज में है या नहीं।
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| hue | Double | रंग मान। |
+| ह्यू | Double | ह्यू मान. |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` अगर छोटी रेंज में रंग; अन्यथा,`असत्य` .
+`true` यदि ह्यू छोटे रेंज में है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

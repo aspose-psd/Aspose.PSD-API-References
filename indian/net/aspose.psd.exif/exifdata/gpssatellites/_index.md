@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSatellites
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. मप के लए उपयग कए जने वले जपएस उपग्रहं क प्रप्त य सेट करत है
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData गुण। माप के लिए उपयोग किए गए GPS उपग्रहों को प्राप्त या सेट करता है"
 type: docs
 weight: 590
 url: /hi/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
-माप के लिए उपयोग किए जाने वाले जीपीएस उपग्रहों को प्राप्त या सेट करता है।
+माप के लिए उपयोग किए जाने वाले GPS उपग्रहों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSSatellites { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस उपग्रह माप के लिए उपयोग किया जाता है।
+माप के लिए उपयोग किए गए GPS उपग्रह।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

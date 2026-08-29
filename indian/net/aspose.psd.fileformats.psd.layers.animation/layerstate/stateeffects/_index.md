@@ -1,22 +1,23 @@
 ---
-title: LayerState.StateEffects
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerState संपत्त. परत स्थत प्रभव प्रप्त करत है
+title: "LayerState.StateEffects"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerState प्रॉपर्टी. लेयर स्टेट इफ़ेक्ट्स को प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/
 ---
+{{< psd/tize >}}
 ## LayerState.StateEffects property
 
-परत स्थिति प्रभाव प्राप्त करता है।
+लेयर स्टेट इफ़ेक्ट्स को प्राप्त करता है।
 
 ```csharp
 public LayerStateEffects StateEffects { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड टाइमलाइन फ़्रेम में प्रभावों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड टाइमलाइन फ्रेम्स में इफ़ेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -26,29 +27,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerStateEffects](../../layerstateeffects/)
 * class [LayerState](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

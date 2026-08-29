@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush तरक. रसेट करत हैTransform पहचन के लए संपत्त
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush मेथड। Transform प्रॉपर्टी को पहचान (identity) पर रीसेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-रीसेट करता है[`Transform`](../transform/) पहचान के लिए संपत्ति।
+[`Transform`](../transform/) प्रॉपर्टी को पहचान पर रीसेट करता है।
 
 ```csharp
 public void ResetTransform()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

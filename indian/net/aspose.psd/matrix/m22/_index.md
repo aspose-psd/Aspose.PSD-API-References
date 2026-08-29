@@ -1,23 +1,24 @@
 ---
-title: Matrix.M22
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix संपत्त. दूसर पंक्त के दूसरे कलम में मैट्रक्स तत्व प्रप्त करत है Y अक्ष के सथ पैमने क प्रतनधत्व करत है
+title: "Matrix.M22"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix प्रॉपर्टी। दूसरे पंक्ति, दूसरे स्तंभ में मैट्रिक्स तत्व प्राप्त करता है। Y अक्ष के साथ स्केल का प्रतिनिधित्व करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/matrix/m22/
 ---
+{{< psd/tize >}}
 ## Matrix.M22 property
 
-दूसरी पंक्ति के दूसरे कॉलम में मैट्रिक्स तत्व प्राप्त करता है। Y अक्ष के साथ पैमाने का प्रतिनिधित्व करता है।
+दूसरी पंक्ति, दूसरे कॉलम पर मैट्रिक्स तत्व प्राप्त करता है। Y अक्ष के साथ स्केल को दर्शाता है।
 
 ```csharp
 public float M22 { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

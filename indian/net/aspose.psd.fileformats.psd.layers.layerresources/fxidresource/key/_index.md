@@ -1,23 +1,24 @@
 ---
-title: FXidResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FXidResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "FXidResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FXidResource प्रॉपर्टी। लेयर संसाधन कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/
 ---
+{{< psd/tize >}}
 ## FXidResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FXidResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

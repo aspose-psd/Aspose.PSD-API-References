@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. इंट कलर पक्सल क सरण प्रप्त करत है
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। int रंग पिक्सेल की एरे प्राप्त करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-इंट कलर पिक्सल की सरणी प्राप्त करता है।
+int रंग पिक्सेल की सरणी प्राप्त करता है।
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतर रंग पिक्सेल की सरणी।
+int रंग पिक्सेल की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

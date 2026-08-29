@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.DescriptorVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. डस्क्रप्टर संस्करण प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.DescriptorVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource प्रॉपर्टी। डिस्क्रिप्टर संस्करण को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.DescriptorVersion property
 
-डिस्क्रिप्टर संस्करण प्राप्त या सेट करता है।
+डिस्क्रिप्टर संस्करण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int DescriptorVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्णनकर्ता संस्करण.
+डिस्क्रिप्टर संस्करण.
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

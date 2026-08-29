@@ -1,31 +1,32 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRdfRoot तरक. वशष्ट उपसर्ग द्वर नम स्थन URI प्रप्त करत है उपसर्ग बन xmlns. के प्ररंभ ह सकत है
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRdfRoot विधि. विशिष्ट उपसर्ग द्वारा नेमस्पेस URI प्राप्त करता है। उपसर्ग बिना xmlns के शुरू हो सकता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-विशिष्ट उपसर्ग द्वारा नाम स्थान URI प्राप्त करता है। उपसर्ग बिना xmlns. के प्रारंभ हो सकता है
+विशिष्ट प्रीफ़िक्स द्वारा नेमस्पेस यूआरआई प्राप्त करता है। प्रीफ़िक्स बिना xmlns के शुरू हो सकता है।
 
 ```csharp
 public string GetNamespaceUri(string prefix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| prefix | String | उपसर्ग। |
+| प्रीफ़िक्स | String | प्रीफ़िक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पैकेज स्कीमा URI लौटाता है।
+एक पैकेज स्कीमा URI लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRdfRoot](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmprdfroot/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.GetXmlValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpTrailerPi तरक. xmp मन क xml प्रतनधत्व में कनवर्ट करत है
+title: "XmpTrailerPi.GetXmlValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpTrailerPi मेथड। xmp मान को xml प्रतिनिधित्व में परिवर्तित करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp/xmptrailerpi/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.GetXmlValue method
 
-xmp मान को xml प्रतिनिधित्व में कनवर्ट करता है।
+xmp मान को xml प्रतिनिधित्व में परिवर्तित करता है।
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 XMP का XML प्रतिनिधित्व लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTrailerPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

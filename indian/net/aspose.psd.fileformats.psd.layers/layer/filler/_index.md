@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेयर फलर प्रप्त य सेट करत है
+title: "Layer.Filler"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. लेयर फ़िलर को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-लेयर फिलर प्राप्त या सेट करता है।
+लेयर फ़िलर प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत भराव।
+लेयर फ़िलर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

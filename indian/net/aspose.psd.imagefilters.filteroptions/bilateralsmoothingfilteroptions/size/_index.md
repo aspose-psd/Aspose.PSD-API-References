@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BilateralSmoothingFilterOptions संपत्त. कर्नेल क आकर प्रप्त य सेट करत है
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BilateralSmoothingFilterOptions property. कर्नेल का आकार प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
-कर्नेल का आकार प्राप्त या सेट करता है।
+कर्नेल का आकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 कर्नेल का आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BilateralSmoothingFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

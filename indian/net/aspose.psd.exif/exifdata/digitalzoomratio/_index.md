@@ -1,28 +1,29 @@
 ---
-title: ExifData.DigitalZoomRatio
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. डजटल ज़ूम अनुपत प्रप्त य सेट करत है
+title: "ExifData.DigitalZoomRatio"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। डिजिटल ज़ूम अनुपात प्राप्त करता है या सेट करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.exif/exifdata/digitalzoomratio/
 ---
+{{< psd/tize >}}
 ## ExifData.DigitalZoomRatio property
 
-डिजिटल ज़ूम अनुपात प्राप्त या सेट करता है।
+डिजिटल ज़ूम अनुपात प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational DigitalZoomRatio { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डिजिटल ज़ूम अनुपात.
+डिजिटल ज़ूम अनुपात।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

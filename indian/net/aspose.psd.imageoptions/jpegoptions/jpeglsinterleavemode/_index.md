@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.JpegLsInterleaveMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. जेपईजएलएस इंटरलव मड प्रप्त य सेट करत है
+title: "JpegOptions.JpegLsInterleaveMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। JPEGLS इंटरलीव मोड को प्राप्त या सेट करता है"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsInterleaveMode property
 
-जेपीईजी-एलएस इंटरलीव मोड प्राप्त या सेट करता है।
+JPEG-LS इंटरलीव मोड को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [JpegLsInterleaveMode](../../../aspose.psd.fileformats.jpeg/jpeglsinterleavemode/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

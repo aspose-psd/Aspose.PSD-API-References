@@ -1,23 +1,24 @@
 ---
-title: UnknownResource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownResource संपत्त. बइट्स में परत संसधन लंबई प्रप्त करत है
+title: "UnknownResource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownResource प्रॉपर्टी। लेयर रिसोर्स की लंबाई बाइट्स में प्राप्त करता है।"
 type: docs
-weight: 40
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Length property
 
-बाइट्स में परत संसाधन लंबाई प्राप्त करता है।
+बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnknownResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

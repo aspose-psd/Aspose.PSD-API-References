@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer नर्मत. क एक नय उदहरण प्ररंभ करत हैStreamContainer वर्ग.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer कंस्ट्रक्टर। एक नया इंस्टेंस इनिशियलाइज़ करता है StreamContainer क्लास का"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamContainer`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`StreamContainer`](../) क्लास का।
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
+| stream | Stream | स्ट्रीम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamContainer`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`StreamContainer`](../) क्लास का।
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | stream | Stream | डेटा स्ट्रीम। |
-| disposeStream | Boolean | अगर सेट है`सत्य` जब कंटेनर का निपटारा किया जाता है तो धारा का निपटारा किया जाएगा। |
+| disposeStream | बूलियन | `true` पर सेट होने पर स्ट्रीम को कंटेनर के नष्ट होने पर डिस्पोज़ किया जाएगा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

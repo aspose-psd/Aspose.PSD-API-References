@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrack
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस रसवर आंदलन क दश प्रप्त य सेट करत है
+title: "ExifData.GPSTrack"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS रिसीवर की गति की दिशा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 650
 url: /hi/net/aspose.psd.exif/exifdata/gpstrack/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrack property
 
-जीपीएस रिसीवर आंदोलन की दिशा प्राप्त या सेट करता है।
+GPS रिसीवर की गति की दिशा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSTrack { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-GPS रिसीवर की गति की दिशा.
+GPS रिसीवर की गति की दिशा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

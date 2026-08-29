@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage मैदन. रेटंग अधकतम मन.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage फ़ील्ड। रेटिंग अधिकतम मान"
 type: docs
-weight: 100
+weight: 130
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
-रेटिंग अधिकतम मान.
+रेटिंग अधिकतम मान।
 
 ```csharp
 public const int RatingMax;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform कक्ष. वेक्टर आकर परवर्तन मैट्रक्स वर्ग क परभषत करत है
+title: "क्लास VectorShapeTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeTransform क्लास। वेक्टर आकार परिवर्तन मैट्रिक्स क्लास को परिभाषित करता है।"
 type: docs
-weight: 1460
+weight: 1470
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform class
 
-वेक्टर आकार परिवर्तन मैट्रिक्स वर्ग को परिभाषित करता है
+वेक्टर शैप ट्रांसफ़ॉर्मेशन मैट्रिक्स क्लास को परिभाषित करता है
 
 ```csharp
 public sealed class VectorShapeTransform
@@ -18,22 +19,22 @@ public sealed class VectorShapeTransform
 
 | नाम | विवरण |
 | --- | --- |
-| [VectorShapeTransform](vectorshapetransform/)() | का एक नया उदाहरण प्रारंभ करता है`VectorShapeTransform` वर्ग. |
+| [VectorShapeTransform](vectorshapetransform/)() | `VectorShapeTransform` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Tx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/tx/) { get; set; } | TX मान प्राप्त या सेट करता है। |
-| [Ty](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/ty/) { get; set; } | TY मान प्राप्त या सेट करता है। |
-| [Xx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/xx/) { get; set; } | XX मान प्राप्त या सेट करता है। |
-| [Xy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/xy/) { get; set; } | XY मान प्राप्त या सेट करता है। |
-| [Yx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yx/) { get; set; } | YX मान प्राप्त या सेट करता है। |
-| [Yy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yy/) { get; set; } | YY मान प्राप्त या सेट करता है। |
+| [Tx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/tx/) { get; set; } | TX मान प्राप्त करता है या सेट करता है। |
+| [Ty](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/ty/) { get; set; } | TY मान प्राप्त करता है या सेट करता है। |
+| [Xx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/xx/) { get; set; } | XX मान प्राप्त करता है या सेट करता है। |
+| [Xy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/xy/) { get; set; } | XY मान प्राप्त करता है या सेट करता है। |
+| [Yx](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yx/) { get; set; } | YX मान प्राप्त करता है या सेट करता है। |
+| [Yy](../../aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/yy/) { get; set; } | YY मान प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड वेक्टर पथों वाली आकृति परतों का आकार बदलने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड वेक्टर पाथ्स वाले शेप लेयर्स को रिसाइज़ करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -55,13 +56,13 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-यह उदाहरण दिखाता है कि PSD फ़ाइल में फिललेयर के Vogk संसाधन में शेपऑरिजिन सेटिंग्स के नए ट्रांसफॉर्म और ओरिजिनबॉक्सकॉर्नर गुणों को कैसे प्राप्त और सेट किया जाए।
+यह उदाहरण दिखाता है कि PSD फ़ाइल में FillLayer के Vogt रिसोर्स में ShapeOriginSettings की नई Transform और OriginBoxCorners प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
 
-// यह उदाहरण दिखाता है कि नए Transform और OriginBoxCorners गुणों को कैसे प्राप्त और सेट किया जाए
-// PSD फ़ाइल में फिललेयर के Vogk संसाधन में शेपऑरिगिन सेटिंग्स
+// यह उदाहरण दिखाता है कि नई Transform और OriginBoxCorners प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
+// PSD फ़ाइल में FillLayer के Vogk संसाधन में ShapeOriginSettings का
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
@@ -73,11 +74,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // पढ़ने के बाद जोर दें
+    // पढ़ने के बाद सत्यापित करें
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
     AssertAreEqual(false, setting.IsOriginRadiiRectanglePresent);
@@ -90,7 +91,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(true, setting.IsOriginResolutionPresent);
     AssertAreEqual(300d, setting.OriginResolution);
 
-    // नए गुणों का दावा करें
+    // नई गुणों की पुष्टि करें
     AssertAreEqual(true, setting.IsTransformPresent);
     AssertAreEqual(0d, setting.Transform.Tx);
     AssertAreEqual(0d, setting.Transform.Ty);
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     AssertAreEqual(2.9000000000000004d, setting.OriginBoxCorners[6]);
     AssertAreEqual(22.400000000000002d, setting.OriginBoxCorners[7]);
 
-    // नए गुण सेट करें
+    // नई गुण सेट करें
     originalSetting = resource.ShapeOriginSettings[0];
     originalSetting.Transform.Tx = 0.2d;
     originalSetting.Transform.Ty = 0.3d;
@@ -118,19 +119,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // इस PSD छवि को परिवर्तित गुणों के साथ सहेजें।
+    // इस PSD छवि को बदले हुए गुणों के साथ सहेजें।
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// सहेजी गई PSD छवि को परिवर्तित गुणों के साथ लोड करें।
+// बदले हुए गुणों के साथ सहेजी गई PSD छवि लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // दावा करें कि गुण सहेजे गए हैं और सही तरीके से लोड किए गए हैं 
+    // सुनिश्चित करें कि गुण सही ढंग से सहेजे और लोड किए गए हैं
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -157,7 +158,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -200,9 +201,9 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

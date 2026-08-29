@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataSettings संपत्त. मूल डेट रूपंतरण के लए उपयग करने के लए डइथरंग वध प्रप्त य सेट करत है
+title: "RawDataSettings.DitheringMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataSettings प्रॉपर्टी। रॉ डेटा रूपांतरण के लिए उपयोग किए जाने वाले डिथरिंग मेथड को प्राप्त या सेट करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
-मूल डेटा रूपांतरण के लिए उपयोग करने के लिए डाइथरिंग विधि प्राप्त या सेट करता है
+कच्चे डेटा रूपांतरण के लिए उपयोग किए जाने वाले डिथरिंग विधि को प्राप्त करता या सेट करता है
 
 ```csharp
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कच्चे डेटा रूपांतरण के लिए उपयोग करने के लिए डिथरिंग विधि
+रॉ डेटा रूपांतरण के लिए उपयोग किया जाने वाला डिथरिंग मेथड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* नाम स्थान [Aspose.PSD](../../rawdatasettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

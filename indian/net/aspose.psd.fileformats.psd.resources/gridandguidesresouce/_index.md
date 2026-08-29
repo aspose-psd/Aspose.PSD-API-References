@@ -1,14 +1,15 @@
 ---
-title: Class GridAndGuidesResouce
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.GridAndGuidesResouce कक्ष. ग्रड क प्रतनधत्व करत है और संसधनं क मर्गदर्शन करत है
+title: "क्लास GridAndGuidesResouce"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GridAndGuidesResouce क्लास। ग्रिड और गाइड्स रिसोर्स का प्रतिनिधित्व करता है"
 type: docs
-weight: 3730
+weight: 4200
 url: /hi/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce class
 
-ग्रिड का प्रतिनिधित्व करता है और संसाधनों का मार्गदर्शन करता है।
+ग्रिड और गाइड्स संसाधन का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class GridAndGuidesResouce : ResourceBlock
@@ -18,35 +19,35 @@ public sealed class GridAndGuidesResouce : ResourceBlock
 
 | नाम | विवरण |
 | --- | --- |
-| [GridAndGuidesResouce](gridandguidesresouce/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [GridAndGuidesResouce](gridandguidesresouce/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize/) { get; } | बाइट्स में संसाधन डेटा आकार प्राप्त करता है। |
-| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/) { get; set; } | क्षैतिज ग्रिड चक्र प्राप्त या सेट करता है। डिफ़ॉल्ट 576. है |
-| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/) { get; set; } | लंबवत ग्रिड चक्र प्राप्त या सेट करता है। डिफ़ॉल्ट 576. है |
-| [GuideCount](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/) { get; } | गाइड रिसोर्स ब्लॉक की गिनती करता है। |
-| [Guides](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/) { get; set; } | गाइड प्राप्त करता है या सेट करता है। |
-| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/) { get; set; } | हेडर संस्करण प्राप्त या सेट करता है। यह मान हमेशा 1. होना चाहिए |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता प्राप्त या सेट करता है। |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion/) { get; } | न्यूनतम आवश्यक पीएसडी संस्करण प्राप्त करता है। |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम प्राप्त या सेट करता है। पास्कल स्ट्रिंग, आकार को समान बनाने के लिए गद्देदार (शून्य नाम में 0 के दो बाइट होते हैं). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर प्राप्त करता है। हमेशा '8BIM' होना चाहिए. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | अपने डेटा सहित बाइट्स में संसाधन ब्लॉक आकार प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | संसाधन ब्लॉक को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों की पुष्टि करता है. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/datasize/) { get; } | संसाधन डेटा आकार को बाइट्स में प्राप्त करता है। |
+| [GridCycleX](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/) { get; set; } | हॉरिज़ॉन्टल ग्रिड साइकिल को प्राप्त करता है या सेट करता है। डिफ़ॉल्ट 576 है। |
+| [GridCycleY](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/) { get; set; } | वर्टिकल ग्रिड साइकिल को प्राप्त करता है या सेट करता है। डिफ़ॉल्ट 576 है। |
+| [GuideCount](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/) { get; } | गाइड रिसोर्स ब्लॉक्स की गिनती को प्राप्त करता है। |
+| [Guides](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/) { get; set; } | गाइड्स को प्राप्त करता है या सेट करता है। |
+| [HeaderVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/) { get; set; } | हेडर संस्करण को प्राप्त करता है या सेट करता है। यह मान हमेशा 1 होना चाहिए। |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता को प्राप्त करता है या सेट करता है। |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/gridandguidesresouce/minimalversion/) { get; } | आवश्यक न्यूनतम psd संस्करण को प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम को प्राप्त करता है या सेट करता है। पास्कल स्ट्रिंग, आकार को सम बनाने के लिए पैड किया गया (एक शून्य नाम दो बाइट्स 0 से बना होता है)। |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा '8BIM' होना चाहिए। |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | डेटा सहित संसाधन ब्लॉक आकार को बाइट्स में प्राप्त करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम में संसाधन ब्लॉक को सहेजता है। |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों को मान्य करता है। |
+
+### देखें भी
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

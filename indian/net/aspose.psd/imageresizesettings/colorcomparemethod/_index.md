@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorCompareMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageResizeSettings संपत्त. रंग तुलन वध प्रप्त य सेट करत है
+title: "ImageResizeSettings.ColorCompareMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageResizeSettings प्रॉपर्टी। रंग तुलना विधि प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/imageresizesettings/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorCompareMethod property
 
-रंग तुलना विधि प्राप्त या सेट करता है।
+रंग तुलना विधि प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ColorCompareMethod ColorCompareMethod { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 रंग तुलना विधि।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorCompareMethod](../../colorcomparemethod/)
 * class [ImageResizeSettings](../)
-* नाम स्थान [Aspose.PSD](../../imageresizesettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

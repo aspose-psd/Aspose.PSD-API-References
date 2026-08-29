@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.FontType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextFontInfo संपत्त. फ़न्ट क प्रकर प्रप्त करत है
+title: "TextFontInfo.FontType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextFontInfo प्रॉपर्टी। फ़ॉन्ट का प्रकार प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FontType property
 
 फ़ॉन्ट का प्रकार प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/
 public int FontType { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ॉन्ट का प्रकार.
+फ़ॉन्ट का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

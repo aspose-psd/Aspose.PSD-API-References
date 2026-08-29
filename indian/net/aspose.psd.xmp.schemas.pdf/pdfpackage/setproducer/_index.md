@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetProducer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfPackage तरक. पडएफ बनने वले टूल क नम सेट करत है
+title: "PdfPackage.SetProducer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfPackage मेथड। उस टूल का नाम सेट करता है जिसने PDF बनाया"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetProducer method
 
-पीडीएफ बनाने वाले टूल का नाम सेट करता है।
+Pdf बनाने वाले टूल का नाम सेट करता है।
 
 ```csharp
 public void SetProducer(string producer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| producer | String | निर्माता का नाम। |
+| उत्पादक | String | उत्पादक का नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

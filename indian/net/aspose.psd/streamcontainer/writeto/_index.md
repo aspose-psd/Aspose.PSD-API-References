@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer तरक. नहत डेट क दूसरे में कप करत हैStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer मेथड। संलग्न डेटा को दूसरे StreamContainer में कॉपी करता है"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-निहित डेटा को दूसरे में कॉपी करता है[`StreamContainer`](../) .
+संलग्न डेटा को दूसरे [`StreamContainer`](../) में कॉपी करता है।
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | कॉपी करने के लिए स्ट्रीम कंटेनर। |
+| streamContainer | StreamContainer | जिस स्ट्रीम कंटेनर में कॉपी करना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-निहित डेटा को दूसरे में कॉपी करता है[`StreamContainer`](../) .
+संलग्न डेटा को दूसरे [`StreamContainer`](../) में कॉपी करता है।
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | कॉपी करने के लिए स्ट्रीम कंटेनर। |
-| length | Int64 | बाइट्स लिखने के लिए गिने जाते हैं। |
+| streamContainer | StreamContainer | जिस स्ट्रीम कंटेनर में कॉपी करना है। |
+| लंबाई | Int64 | लिखने के लिए बाइट्स की गिनती। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | प्रतिलिपि कार्रवाई पूर्ण नहीं हो सकती. + गिनती + बाइट नहीं पढ़ सकते। |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | कॉपी ऑपरेशन पूरा नहीं हो सका। पढ़ नहीं सकता + गिनती + बाइट्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

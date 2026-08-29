@@ -1,27 +1,28 @@
 ---
-title: IOrderedShape.IsClosed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IOrderedShape संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क आदेशत आकर बंद है य नहं बंद आदेशत आकर क संसधत करते समय प्ररंभ और समप्त बंदुओं क कई अर्थ नहं हत है
+title: "IOrderedShape.IsClosed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IOrderedShape प्रॉपर्टी। एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि क्रमबद्ध आकार बंद है या नहीं। जब बंद क्रमबद्ध आकार को प्रोसेस किया जाता है, तो प्रारंभ और समाप्ति बिंदुओं का कोई अर्थ नहीं रहता।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/iorderedshape/isclosed/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.IsClosed property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि आदेशित आकार बंद है या नहीं। बंद आदेशित आकार को संसाधित करते समय प्रारंभ और समाप्ति बिंदुओं का कोई अर्थ नहीं होता है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्रमबद्ध आकार बंद है या नहीं। जब बंद क्रमबद्ध आकार को प्रोसेस किया जाता है तो शुरू और अंत बिंदुओं का कोई अर्थ नहीं रहता।
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह आदेशित आकार बंद है; अन्यथा,`असत्य`.
+`True` यदि यह क्रमबद्ध आकार बंद है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IOrderedShape](../)
-* नाम स्थान [Aspose.PSD](../../iorderedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: RasterImage.HorizontalResolution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. इसमें से पक्सल प्रत इंच में हरजन्टल रेजल्यूशन प्रप्त य सेट करत हैRasterImage .
+title: "RasterImage.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। इस RasterImage की क्षैतिज रेज़ोल्यूशन को पिक्सेल प्रति इंच में प्राप्त या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/rasterimage/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.HorizontalResolution property
 
-इसमें से पिक्सल प्रति इंच में हॉरिजॉन्टल रेजोल्यूशन प्राप्त या सेट करता है[`RasterImage`](../) .
+इस [`RasterImage`](../) की क्षैतिज रेज़ोल्यूशन को पिक्सेल प्रति इंच में प्राप्त या सेट करता है।
 
 ```csharp
 public virtual double HorizontalResolution { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्षैतिज संकल्प।
+क्षैतिज रेज़ोल्यूशन।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-नोट डिफ़ॉल्ट रूप से यह मान हमेशा 96 होता है क्योंकि विभिन्न प्लेटफॉर्म स्क्रीन रिज़ॉल्यूशन वापस नहीं कर सकते हैं। आप एकल कॉल में दोनों रिज़ॉल्यूशन मानों को अपडेट करने के लिए SetResolution पद्धति का उपयोग करने पर विचार कर सकते हैं।
+ध्यान दें कि डिफ़ॉल्ट रूप से यह मान हमेशा 96 रहता है क्योंकि विभिन्न प्लेटफ़ॉर्म स्क्रीन रिज़ॉल्यूशन नहीं लौटाते। आप दोनों रिज़ॉल्यूशन मानों को एक ही कॉल में अपडेट करने के लिए SetResolution मेथड का उपयोग करने पर विचार कर सकते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

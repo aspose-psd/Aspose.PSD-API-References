@@ -1,28 +1,29 @@
 ---
-title: LinearMulticolorGradientBrush.InterpolationColors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearMulticolorGradientBrush संपत्त. ह जत है य सेट करत हैColorBlend ज एक बहुरंग रैखक ढल क परभषत करत है
+title: "LinearMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearMulticolorGradientBrush प्रॉपर्टी। एक ColorBlend प्राप्त करता है या सेट करता है जो बहु‑रंगीय रैखिक ग्रेडिएंट को परिभाषित करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-हो जाता है या सेट करता है[`ColorBlend`](../../../aspose.psd/colorblend/) जो एक बहुरंगा रैखिक ढाल को परिभाषित करता है।
+एक [`ColorBlend`](../../../aspose.psd/colorblend/) प्राप्त करता है या सेट करता है जो बहु‑रंगीय रैखिक ग्रेडिएंट को परिभाषित करता है।
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`ColorBlend`](../../../aspose.psd/colorblend/) जो एक बहुरंगा रैखिक ढाल को परिभाषित करता है।
+एक [`ColorBlend`](../../../aspose.psd/colorblend/) जो बहु‑रंगीय रैखिक ग्रेडिएंट को परिभाषित करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [LinearMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

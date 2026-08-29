@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Resize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextLayer तरक. छव क आकर बदलत है डफ़ल्टLeftTopToLeftTopप्रयग कय जत है.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextLayer मेथड। छवि को री-साइज़ करता है। डिफ़ॉल्ट LeftTopToLeftTop उपयोग किया जाता है"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-छवि का आकार बदलता है। डिफ़ॉल्टLeftTopToLeftTopप्रयोग किया जाता है.
+छवि का आकार बदलता है। डिफ़ॉल्ट LeftTopToLeftTop उपयोग किया जाता है।
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newWidth | Int32 | नई चौड़ाई. |
-| newHeight | Int32 | नई ऊंचाई. |
-| resizeType | ResizeType | आकार परिवर्तन का प्रकार[`ResizeType`](../../../aspose.psd/resizetype/) |
+| newWidth | Int32 | नई चौड़ाई। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | री-साइज़ ट्रांसफ़ॉर्मेशन का प्रकार [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड आकार बदलने की प्रक्रिया को चुनने के लिए पैरामीटर के साथ TextLayer.Resize फ़ंक्शन को प्रदर्शित करता है।
+निम्नलिखित कोड TextLayer.Resize फ़ंक्शन को प्रदर्शित करता है जिसमें री-साइज़िंग तंत्र चुनने के लिए पैरामीटर है।
 
 ```csharp
 [C#]
@@ -38,11 +39,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // यह तंत्र को सेट करता है कि आकार बदलने का कार्य परत का आकार कैसे बदलेगा (डिफ़ॉल्ट मान)
+    // यह री-साइज़ फ़ंक्शन लेयर को कैसे री-साइज़ करेगा, उसके तंत्र को सेट करता है (डिफ़ॉल्ट मान)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // पाठ परत के आकार बदलने का नया तंत्र यहाँ का उपयोग कर रहा है
-    // केवल लेयर ही नहीं बल्कि टेक्स्ट लेयर का ट्रांसफॉर्मेशन मैट्रिक्स भी बदला जाएगा
+    // यहाँ उपयोग किए गए टेक्स्ट लेयर के री-साइज़िंग का नया तंत्र
+    // केवल लेयर ही नहीं, बल्कि टेक्स्ट लेयर का ट्रांसफ़ॉर्म मैट्रिक्स भी बदल दिया जाएगा
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

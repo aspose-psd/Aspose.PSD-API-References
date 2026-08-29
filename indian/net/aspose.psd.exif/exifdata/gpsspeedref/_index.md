@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस रसवर क गत क व्यक्त करने के लए उपयग क जने वल इकई क प्रप्त य सेट करत है
+title: "ExifData.GPSSpeedRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS रिसीवर की गति को व्यक्त करने के लिए उपयोग की जाने वाली इकाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 610
 url: /hi/net/aspose.psd.exif/exifdata/gpsspeedref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeedRef property
 
-जीपीएस रिसीवर की गति को व्यक्त करने के लिए उपयोग की जाने वाली इकाई को प्राप्त या सेट करता है।
+GPS रिसीवर की गति व्यक्त करने के लिए उपयोग की जाने वाली इकाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSSpeedRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस रिसीवर की गति को व्यक्त करने के लिए उपयोग की जाने वाली इकाई।
+GPS रिसीवर की गति को व्यक्त करने के लिए उपयोग की जाने वाली इकाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

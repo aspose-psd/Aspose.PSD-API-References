@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsOriginBoxCornersPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. एक मन प्रप्त करत है ज इंगत करत है क इस उदहरण में मूल बक्स कनं क संपत्त है य नहं
+title: "VectorShapeOriginSettings.IsOriginBoxCornersPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस मूल बॉक्स कोनों की प्रॉपर्टी रखता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginBoxCornersPresent property
 
-एक मान प्राप्त करता है जो इंगित करता है कि इस उदाहरण में मूल बॉक्स कोनों की संपत्ति है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि इस इंस्टेंस में मूल बॉक्स कोनों की प्रॉपर्टी है या नहीं।
 
 ```csharp
 public bool IsOriginBoxCornersPresent { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर इस उदाहरण में मूल बॉक्स कोनों की संपत्ति है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस मूल बॉक्स कोनों की प्रॉपर्टी रखता है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड वेक्टर पथों वाली आकृति परतों का आकार बदलने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड वेक्टर पाथ्स वाले शेप लेयर्स को रिसाइज़ करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

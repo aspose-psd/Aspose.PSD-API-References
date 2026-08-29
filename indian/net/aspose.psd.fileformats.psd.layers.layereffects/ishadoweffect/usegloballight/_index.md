@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.UseGlobalLight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IShadowEffect संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क क्य सभ परत प्रभवं में इस कण क उपयग करें.
+title: "IShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IShadowEffect प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्या इस कोण को सभी लेयर इफ़ेक्ट्स में उपयोग किया जाए"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.UseGlobalLight property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या [सभी परत प्रभावों में इस कोण का उपयोग करें].
+एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [use this angle in all of the layer effects]।
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [वैश्विक प्रकाश का उपयोग करें]; अन्यथा,`असत्य` .
+`true` यदि [ग्लोबल लाइट का उपयोग करें]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.VerticalOffset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. वर्टकल ऑफ़सेट प्रप्त य सेट करत है
+title: "PatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी। ऊर्ध्वाधर ऑफसेट प्राप्त करता है या सेट करता है"
 type: docs
-weight: 130
+weight: 150
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.VerticalOffset property
 
-वर्टिकल ऑफ़सेट प्राप्त या सेट करता है।
+ऊर्ध्वाधर ऑफ़सेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लंबवत ऑफ़सेट.
+ऊर्ध्वाधर ऑफसेट।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भरण परत पैटर्न संपादन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड Fill Layer Pattern संपादन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

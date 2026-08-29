@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions तरक. नर्धरत करत है क टैग वकल्पं में मजूद है य नहं
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions मेथड। निर्धारित करता है कि टैग विकल्पों में मौजूद है या नहीं"
 type: docs
-weight: 730
+weight: 740
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
 निर्धारित करता है कि टैग विकल्पों में मौजूद है या नहीं।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 public bool IsTagPresent(TiffTags tag)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tag | TiffTags | जाँचने के लिए टैग आईडी। |
+| टैग | TiffTags | जाँचने के लिए टैग आईडी। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` अगर टैग मौजूद है; अन्यथा,`असत्य` .
+`true` यदि टैग मौजूद है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

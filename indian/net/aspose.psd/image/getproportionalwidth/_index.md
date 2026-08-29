@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. आनुपतक चड़ई प्रप्त करत है
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। अनुपातिक चौड़ाई प्राप्त करता है"
 type: docs
-weight: 290
+weight: 300
 url: /hi/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-आनुपातिक चौड़ाई प्राप्त करता है।
+एक अनुपातिक चौड़ाई प्राप्त करता है।
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Int32 | चौड़ाई। |
-| height | Int32 | ऊंचाई। |
-| newHeight | Int32 | नई ऊंचाई। |
+| चौड़ाई | Int32 | चौड़ाई। |
+| ऊँचाई | Int32 | ऊँचाई। |
+| newHeight | Int32 | नई ऊँचाई। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आनुपातिक चौड़ाई।
+अनुपातिक चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

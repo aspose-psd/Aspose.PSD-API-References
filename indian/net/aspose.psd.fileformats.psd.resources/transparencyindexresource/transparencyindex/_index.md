@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.TransparencyIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransparencyIndexResource संपत्त. परदर्शत रंग सूचकंक प्रप्त य सेट करत है
+title: "TransparencyIndexResource.TransparencyIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransparencyIndexResource प्रॉपर्टी। पारदर्शिता रंग इंडेक्स प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindex/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.TransparencyIndex property
 
-पारदर्शिता रंग सूचकांक प्राप्त या सेट करता है।
+ट्रांसपैरेंसी रंग इंडेक्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short TransparencyIndex { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पारदर्शिता रंग सूचकांक।
+पारदर्शिता रंग इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransparencyIndexResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

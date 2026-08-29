@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericDefault
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. एक समन्य डफ़ल्ट प्रप्त करत हैStringFormat वस्तु.
+title: "StringFormat.GenericDefault"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। एक सामान्य डिफ़ॉल्ट StringFormat ऑब्जेक्ट प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/stringformat/genericdefault/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericDefault property
 
-एक सामान्य डिफ़ॉल्ट प्राप्त करता है[`StringFormat`](../) वस्तु.
+एक सामान्य डिफ़ॉल्ट [`StringFormat`](../) ऑब्जेक्ट प्राप्त करता है।
 
 ```csharp
 public static StringFormat GenericDefault { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सामान्य डिफ़ॉल्ट[`StringFormat`](../) वस्तु।
+सामान्य डिफ़ॉल्ट [`StringFormat`](../) ऑब्जेक्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSStatus
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. छव रकर्ड हने पर GPS रसवर क स्थत प्रप्त य सेट करत है
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। जब छवि रिकॉर्ड की जाती है तब GPS रिसीवर की स्थिति को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 620
 url: /hi/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
-छवि रिकॉर्ड होने पर GPS रिसीवर की स्थिति प्राप्त या सेट करता है।
+छवि रिकॉर्ड होने पर GPS रिसीवर की स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSStatus { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि रिकॉर्ड होने पर GPS रिसीवर की स्थिति।
+जब छवि रिकॉर्ड की जाती है तब GPS रिसीवर की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

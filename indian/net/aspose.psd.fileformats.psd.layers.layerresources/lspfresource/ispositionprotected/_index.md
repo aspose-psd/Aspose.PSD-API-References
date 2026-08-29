@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsPositionProtected
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LspfResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क यह उदहरण स्थत सुरक्षत है य नहं
+title: "LspfResource.IsPositionProtected"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LspfResource प्रॉपर्टी। एक मान प्राप्त या सेट करता है जो दर्शाता है कि यह इंस्टेंस स्थिति संरक्षित है या नहीं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsPositionProtected property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह उदाहरण स्थिति सुरक्षित है या नहीं।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण स्थिति संरक्षित है या नहीं।
 
 ```csharp
 public bool IsPositionProtected { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण स्थिति सुरक्षित है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस स्थिति संरक्षित है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

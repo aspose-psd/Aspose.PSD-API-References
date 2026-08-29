@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. लक्ष्य प्रंटर क प्रप्त य सेट करत है
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। लक्ष्य प्रिंटर को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 500
+weight: 510
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
-लक्ष्य प्रिंटर को प्राप्त या सेट करता है।
+लक्ष्य प्रिंटर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string TargetPrinter { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लक्ष्य प्रिंटर.
+लक्ष्य प्रिंटर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

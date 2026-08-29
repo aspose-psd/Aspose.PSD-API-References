@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Time नर्मत. क एक नय उदहरण प्ररंभ करत हैTime वर्ग.
+title: "Time.Time"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Time constructor. नए Time class का एक नया उदाहरण आरंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`Time`](../) वर्ग.
+एक नए उदाहरण को आरंभ करता है [`Time`](../) क्लास का।
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| scale | Rational | पैमाना। |
-| value | Int32 | मूल्य। |
+| scale | Rational | स्केल। |
+| मान | Int32 | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

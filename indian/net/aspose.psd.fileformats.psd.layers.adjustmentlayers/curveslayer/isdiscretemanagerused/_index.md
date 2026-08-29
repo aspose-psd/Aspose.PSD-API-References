@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsDiscreteManagerUsed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesLayer संपत्त. यह इंगत करने वल मन प्रप्त य सेट करत है क क्य यह उदहरण असतत प्रबंधक क उपयग कय गय है
+title: "CurvesLayer.IsDiscreteManagerUsed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesLayer प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि इस इंस्टेंस में डिस्क्रीट मैनेजर उपयोग किया गया है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/isdiscretemanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsDiscreteManagerUsed property
 
-यह इंगित करने वाला मान प्राप्त या सेट करता है कि क्या यह उदाहरण असतत प्रबंधक का उपयोग किया गया है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस विविक्त प्रबंधक उपयोग में है या नहीं।
 
 ```csharp
 public bool IsDiscreteManagerUsed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण असतत प्रबंधक का उपयोग किया जाता है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में डिस्क्रीट मैनेजर उपयोग किया गया है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

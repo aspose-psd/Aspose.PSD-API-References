@@ -1,34 +1,35 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitArrayStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैUnitArrayStructure वर्ग.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitArrayStructure कंस्ट्रक्टर। UnitArrayStructure क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`UnitArrayStructure`](../) वर्ग.
+[`UnitArrayStructure`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | keyName | ClassID | कुंजी का नाम। |
-| unitType | UnitTypes | इकाई का प्रकार। |
-| values | Double[] | मूल्य। |
+| unitType | UnitTypes | यूनिट का प्रकार। |
+| values | Double[] | वैल्यूज़। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | मान शून्य नहीं होने चाहिए |
+| ArgumentNullException | वैल्यूज़ null नहीं होनी चाहिए |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

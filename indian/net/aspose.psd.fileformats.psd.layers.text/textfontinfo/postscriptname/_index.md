@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.PostScriptName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextFontInfo संपत्त. पस्टस्क्रप्ट नम प्रप्त करत है
+title: "TextFontInfo.PostScriptName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextFontInfo प्रॉपर्टी। पोस्टस्क्रिप्ट नाम प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.PostScriptName property
 
-पोस्टस्क्रिप्ट नाम प्राप्त करता है
+PostScript नाम प्राप्त करता है
 
 ```csharp
 public string PostScriptName { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पोस्टस्क्रिप्ट नाम
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

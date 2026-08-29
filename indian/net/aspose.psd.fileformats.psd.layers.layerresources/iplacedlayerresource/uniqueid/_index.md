@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.UniqueId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. PSD छव में रख गई य स्मर्ट वस्तु क वैश्वक अद्वतय पहचनकर्त क प्रप्त य सेट करत है
+title: "IPlacedLayerResource.UniqueId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी। PSD इमेज में रखी गई लेयर या स्मार्ट ऑब्जेक्ट का ग्लोबल यूनिक आइडेंटिफायर प्राप्त करता है या सेट करता है"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.UniqueId property
 
-PSD छवि में रखी गई या स्मार्ट वस्तु की वैश्विक अद्वितीय पहचानकर्ता को प्राप्त या सेट करता है।
+PSD छवि में स्मार्ट ऑब्जेक्ट प्लेस्ड लेयर का वैश्विक अद्वितीय पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Guid UniqueId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत का विशिष्ट पहचानकर्ता।
+स्थापित लेयर का अद्वितीय पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

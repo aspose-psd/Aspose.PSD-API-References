@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearRemapTable
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए रंगरमैप तलक सफ़ करत है.
+title: "ImageAttributes.ClearRemapTable"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए colorremap टेबल को साफ़ करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/imageattributes/clearremaptable/
 ---
+{{< psd/tize >}}
 ## ClearRemapTable() {#clearremaptable}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग-रीमैप तालिका साफ़ करता है.
+डिफ़ॉल्ट श्रेणी के लिए color-remap टेबल को साफ़ करता है।
 
 ```csharp
 public void ClearRemapTable()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearRemapTable(ColorAdjustType) {#clearremaptable_1}
 
-निर्दिष्ट श्रेणी के लिए रंग-रीमैप तालिका साफ़ करता है.
+निर्दिष्ट श्रेणी के लिए color-remap टेबल को साफ़ करता है।
 
 ```csharp
 public void ClearRemapTable(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रीमैप तालिका साफ़ की गई है। |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) का एक तत्व जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रीमैप टेबल साफ़ की जाती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

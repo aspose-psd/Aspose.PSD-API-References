@@ -1,23 +1,24 @@
 ---
-title: XmpRdfRoot.XmpRdfRoot
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRdfRoot नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "XmpRdfRoot.XmpRdfRoot"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRdfRoot कंस्ट्रक्टर. डिफ़ॉल्ट कंस्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmprdfroot/xmprdfroot/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public XmpRdfRoot()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRdfRoot](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmprdfroot/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

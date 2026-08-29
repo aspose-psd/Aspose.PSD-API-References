@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Vibrance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VibAResource संपत्त. वइब्रेंस वैल्यू प्रप्त य सेट करत है
+title: "VibAResource.Vibrance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VibAResource प्रॉपर्टी। वाइब्रेंस मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibrance/
 ---
+{{< psd/tize >}}
 ## VibAResource.Vibrance property
 
-वाइब्रेंस वैल्यू प्राप्त या सेट करता है
+वाइब्रेंस मान प्राप्त करता है या सेट करता है
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण VibAResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण VibAResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// रनटाइम पर कंपन संसाधन पढ़ने और लिखने के समर्थन का उदाहरण।
+// रनटाइम पर पढ़ने और लिखने वाले Vibration संसाधन के समर्थन का उदाहरण।
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VibAResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

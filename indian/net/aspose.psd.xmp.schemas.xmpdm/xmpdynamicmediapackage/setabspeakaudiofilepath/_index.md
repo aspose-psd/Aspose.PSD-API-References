@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. नरपेक्ष शखर ऑडय फ़इल पथ सेट करत है
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। परिपूर्ण पीक ऑडियो फ़ाइल पथ सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-निरपेक्ष शिखर ऑडियो फ़ाइल पथ सेट करता है।
+एब्सोल्यूट पीक ऑडियो फ़ाइल पाथ सेट करता है।
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| uri | String | फ़ाइल की शीर्ष ऑडियो फ़ाइल का निरपेक्ष पथ। |
+| uri | String | फ़ाइल के पीक ऑडियो फ़ाइल का परिपूर्ण पथ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

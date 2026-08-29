@@ -1,27 +1,28 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. छव अद्वतय पहचनकर्त प्रप्त य सेट करत है
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। छवि का अद्वितीय पहचानकर्ता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 680
 url: /hi/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
-छवि अद्वितीय पहचानकर्ता प्राप्त या सेट करता है।
+छवि का अद्वितीय पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string ImageUniqueID { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि अद्वितीय पहचानकर्ता।
+छवि का अद्वितीय पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

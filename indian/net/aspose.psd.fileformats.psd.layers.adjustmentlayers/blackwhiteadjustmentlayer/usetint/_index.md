@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlackWhiteAdjustmentLayer संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क tint color क उपयग कय गय है
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlackWhiteAdjustmentLayer प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि टिंट रंग उपयोग किया गया है या नहीं"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [tint color] का उपयोग किया गया है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [tint color] उपयोग किया गया है या नहीं।
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर इस्तेमाल किया [टिंट रंग]; अन्यथा,`असत्य` .
+`true` यदि उपयोग किया गया है [tint color]; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में काले सफेद समायोजन परत गुणों में हेरफेर कैसे कर सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में ब्लैक व्हाइट एडजस्टमेंट लेयर प्रॉपर्टीज़ को कैसे नियंत्रित कर सकते हैं।
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlackWhiteAdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

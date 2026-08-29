@@ -1,27 +1,28 @@
 ---
-title: Matrix.GetElements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix तरक. मैट्रक्स तत्वं क प्रत प्रप्त करत है
+title: "Matrix.GetElements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix विधि। मैट्रिक्स तत्वों की प्रतिलिपि प्राप्त करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
-मैट्रिक्स तत्वों की प्रति प्राप्त करता है।
+मैट्रिक्स तत्वों की कॉपी प्राप्त करता है।
 
 ```csharp
 public float[] GetElements()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक मैट्रिक्स तत्व प्रतिलिपि।
+मैट्रिक्स तत्वों की प्रतिलिपि।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

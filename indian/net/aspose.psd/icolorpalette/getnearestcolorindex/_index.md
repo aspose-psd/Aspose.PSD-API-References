@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.GetNearestColorIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IColorPalette तरक. नकटतम 32बट ARGB रंग क सूचकंक प्रप्त करत है
+title: "IColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IColorPalette मेथड। निकटतम 32-बिट ARGB रंग का इंडेक्स प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/icolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 निकटतम 32-बिट ARGB रंग का सूचकांक प्राप्त करता है।
@@ -14,43 +15,43 @@ url: /hi/net/aspose.psd/icolorpalette/getnearestcolorindex/
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argb32Color | Int32 | 32-बिट एआरबीबी रंग। |
+| argb32Color | Int32 | 32-बिट ARGB रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निकटतम रंग का सूचकांक।
+निकटतम रंग का इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../icolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-निकटतम रंग का सूचकांक प्राप्त करता है।
+निकटतम रंग का इंडेक्स प्राप्त करता है।
 
 ```csharp
 public int GetNearestColorIndex(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | वो रंग। |
+| रंग | रंग | रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निकटतम रंग का सूचकांक।
+निकटतम रंग का इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../icolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

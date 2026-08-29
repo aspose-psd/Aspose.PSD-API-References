@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.SmartFilter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilter नर्मत. क एक नय उदहरण प्ररंभ करत हैSmartFilter वर्ग.
+title: "SmartFilter.SmartFilter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilter कंस्ट्रक्टर। SmartFilter क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`SmartFilter`](../) वर्ग.
+[`SmartFilter`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public SmartFilter()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileStreamContainer तरक. एक मजूद फ़इल स्ट्रम खलत है यद फ़इल स्ट्रम मजूद नहं है त उपयुक्त अपवद फेंक दय जत है
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileStreamContainer मेथड। मौजूदा फ़ाइल स्ट्रीम खोलता है। यदि फ़ाइल स्ट्रीम मौजूद नहीं है तो उपयुक्त अपवाद फेंका जाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-एक मौजूदा फ़ाइल स्ट्रीम खोलता है। यदि फ़ाइल स्ट्रीम मौजूद नहीं है तो उपयुक्त अपवाद फेंक दिया जाता है।
+मौजूदा फ़ाइल स्ट्रीम को खोलता है। यदि फ़ाइल स्ट्रीम मौजूद नहीं है तो उपयुक्त अपवाद फेंका जाता है।
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fileLocation | String | फ़ाइल स्थान। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फ़ाइल स्ट्रीम कंटेनर.
+फ़ाइल स्ट्रीम कंटेनर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

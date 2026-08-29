@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.PixelDataFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataSettings संपत्त. पक्सेल डेट प्ररूप प्रप्त य सेट करत है
+title: "RawDataSettings.PixelDataFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataSettings प्रॉपर्टी। पिक्सेल डेटा फॉर्मेट को प्राप्त या सेट करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/rawdatasettings/pixeldataformat/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.PixelDataFormat property
 
-पिक्सेल डेटा प्रारूप प्राप्त या सेट करता है
+पिक्सेल डेटा फ़ॉर्मेट प्राप्त करता या सेट करता है
 
 ```csharp
 public PixelDataFormat PixelDataFormat { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पिक्सेल डेटा स्वरूप
+पिक्सेल डेटा फॉर्मेट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RawDataSettings](../)
-* नाम स्थान [Aspose.PSD](../../rawdatasettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

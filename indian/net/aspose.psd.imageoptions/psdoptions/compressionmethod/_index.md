@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. PSD संपड़न वध प्रप्त य सेट करत है
+title: "PsdOptions.CompressionMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। psd संपीड़न विधि को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-PSD संपीड़न विधि प्राप्त या सेट करता है।
+psd संपीड़न विधि प्राप्त करता है या सेट करता है।
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संपीड़न विधि।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

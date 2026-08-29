@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent संपत्त. सफ़्टवेयर एजेंट क नम प्रप्त य सेट करत है
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent प्रॉपर्टी। सॉफ़्टवेयर एजेंट का नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
-सॉफ़्टवेयर एजेंट का नाम प्राप्त या सेट करता है।
+सॉफ़्टवेयर एजेंट नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string SofwareAgentName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सॉफ़्टवेयर एजेंट का नाम.
+सॉफ़्टवेयर एजेंट का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

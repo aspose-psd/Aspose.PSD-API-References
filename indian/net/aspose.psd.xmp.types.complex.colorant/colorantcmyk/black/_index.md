@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Black
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantCmyk संपत्त. कल घटक मन प्रप्त य सेट करत है
+title: "ColorantCmyk.Black"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantCmyk प्रॉपर्टी। ब्लैक घटक मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/black/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Black property
 
-काला घटक मान प्राप्त या सेट करता है।
+ब्लैक घटक मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Black { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-काला घटक मान।
+काले घटक का मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantCmyk](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

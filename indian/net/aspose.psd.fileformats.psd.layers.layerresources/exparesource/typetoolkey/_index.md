@@ -1,23 +1,24 @@
 ---
-title: ExpaResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExpaResource मैदन. टइप टूल इंफ क.
+title: "ExpaResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExpaResource फ़ील्ड। टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 90
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ExpaResource.TypeToolKey field
 
-टाइप टूल इंफो की.
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

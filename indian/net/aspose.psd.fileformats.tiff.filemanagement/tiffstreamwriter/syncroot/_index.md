@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.SyncRoot
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter संपत्त. एक ऑब्जेक्ट प्रप्त करत है जसक उपयग संक्रनइज़ संसधन तक पहुंच क संक्रनइज़ करने के लए कय ज सकत है
+title: "TiffStreamWriter.SyncRoot"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter प्रॉपर्टी। एक ऑब्जेक्ट प्राप्त करता है जिसका उपयोग समन्वित संसाधन तक पहुँच को समक्रमित करने के लिए किया जा सकता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.SyncRoot property
 
-एक ऑब्जेक्ट प्राप्त करता है जिसका उपयोग सिंक्रनाइज़ संसाधन तक पहुंच को सिंक्रनाइज़ करने के लिए किया जा सकता है।
+सिंक्रनाइज़्ड संसाधन तक पहुँच को समन्वयित करने के लिए उपयोग किया जा सकने वाला ऑब्जेक्ट प्राप्त करता है।
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वह वस्तु जिसका उपयोग सिंक्रोनाइज़्ड रिसोर्स तक पहुँच को सिंक्रोनाइज़ करने के लिए किया जा सकता है।
+सिंक्रनाइज़्ड रिसोर्स तक पहुँच को समन्वयित करने के लिए उपयोग किया जा सकने वाला ऑब्जेक्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

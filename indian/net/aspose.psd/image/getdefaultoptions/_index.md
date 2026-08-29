@@ -1,11 +1,12 @@
 ---
-title: Image.GetDefaultOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. डफ़ल्ट वकल्प प्रप्त करत है
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। डिफ़ॉल्ट विकल्प प्राप्त करता है"
 type: docs
-weight: 170
+weight: 180
 url: /hi/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
 डिफ़ॉल्ट विकल्प प्राप्त करता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd/image/getdefaultoptions/
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| args | Object[] | तर्क। |
+| args | Object[] | आर्ग्युमेंट्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 डिफ़ॉल्ट विकल्प
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

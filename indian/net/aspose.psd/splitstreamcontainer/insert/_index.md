@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer तरक. स्ट्रम कंटेनर क नर्दष्ट स्थत में सम्मलत करत है
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer मेथड। स्ट्रीम कंटेनर को निर्दिष्ट स्थिति में डालता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
 स्ट्रीम कंटेनर को निर्दिष्ट स्थिति में सम्मिलित करता है।
@@ -14,23 +15,23 @@ url: /hi/net/aspose.psd/splitstreamcontainer/insert/
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int32 | डालने की स्थिति। |
+| स्थिति | Int32 | डालने के लिए स्थिति। |
 | stream | StreamContainer | डालने के लिए स्ट्रीम कंटेनर। |
-| disposeStream | Boolean | अगर सेट है`सत्य` धारा का निस्तारण करता है। |
+| disposeStream | बूलियन | यदि `true` पर सेट किया गया तो स्ट्रीम को डिस्पोज़ करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

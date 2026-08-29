@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Angle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MotionWienerFilterOptions संपत्त. ग्रेडस में कण प्रप्त य सेट करत है
+title: "MotionWienerFilterOptions.Angle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MotionWienerFilterOptions प्रॉपर्टी। ग्रेडुस में कोण को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Angle property
 
-ग्रेडस में कोण प्राप्त या सेट करता है।
+ग्रेडुस में कोण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कोण.
+कोण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MotionWienerFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IObjectWithBounds संपत्त. वस्तु क ऊंचई प्रप्त करत है
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IObjectWithBounds property. वस्तु की ऊँचाई प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
-वस्तु की ऊंचाई प्राप्त करता है।
+ऑब्जेक्ट की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की ऊँचाई।
+ऑब्जेक्ट की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IObjectWithBounds](../)
-* नाम स्थान [Aspose.PSD](../../iobjectwithbounds/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

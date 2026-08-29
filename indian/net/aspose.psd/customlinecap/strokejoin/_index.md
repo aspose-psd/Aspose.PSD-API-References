@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustomLineCap संपत्त. ह जत है य सेट करत हैLineJoin गणन ज यह नर्धरत करत है क इसे बनने वल रेखएँ कैसे हैंCustomLineCapऑब्जेक्ट शमल ह गए हैं
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustomLineCap प्रॉपर्टी। LineJoin एनेमरेशन को प्राप्त करता है या सेट करता है जो निर्धारित करता है कि इस CustomLineCap ऑब्जेक्ट को बनाने वाली लाइनों को कैसे जोड़ा जाता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-हो जाता है या सेट करता है[`LineJoin`](../../linejoin/) गणना जो यह निर्धारित करती है कि इसे बनाने वाली रेखाएँ कैसे हैं[`CustomLineCap`](../)ऑब्जेक्ट शामिल हो गए हैं।
+प्राप्त करता है या सेट करता है [`LineJoin`](../../linejoin/) एनेमरेशन जो निर्धारित करता है कि इस [`CustomLineCap`](../) ऑब्जेक्ट को बनाने वाली लाइनों को कैसे जोड़ा जाता है।
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-[`LineJoin`](../../linejoin/) यह गणना[`CustomLineCap`](../) ऑब्जेक्ट लाइनों में शामिल होने के लिए उपयोग करता है।
+यह [`CustomLineCap`](../) ऑब्जेक्ट लाइनों को जोड़ने के लिए जिस [`LineJoin`](../../linejoin/) एनेमरेशन का उपयोग करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* नाम स्थान [Aspose.PSD](../../customlinecap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

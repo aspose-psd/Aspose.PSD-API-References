@@ -1,27 +1,28 @@
 ---
-title: Color.GetBrightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. इसके लए ह्यूसेचुरेशनब्रइटनेस HSB ब्रइटनेस वैल्यू प्रप्त करत हैColorसंरचन.
+title: "Color.GetBrightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color विधि। इस Color संरचना के लिए huesaturationbrightness HSB चमक मान प्राप्त करता है।"
 type: docs
 weight: 1550
 url: /hi/net/aspose.psd/color/getbrightness/
 ---
+{{< psd/tize >}}
 ## Color.GetBrightness method
 
-इसके लिए ह्यू-सेचुरेशन-ब्राइटनेस (HSB) ब्राइटनेस वैल्यू प्राप्त करता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना के लिए hue-saturation-brightness (HSB) चमक मान प्राप्त करता है।
 
 ```csharp
 public float GetBrightness()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इस की चमक[`Color`](../). चमक 0.0 से 1.0 तक होती है, जहां 0.0 काले रंग का प्रतिनिधित्व करता है और 1.0 सफेद का प्रतिनिधित्व करता है।
+इस [`Color`](../) की चमक। चमक 0.0 से 1.0 तक होती है, जहाँ 0.0 काला और 1.0 सफ़ेद दर्शाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

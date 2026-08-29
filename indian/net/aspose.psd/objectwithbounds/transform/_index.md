@@ -1,28 +1,29 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ObjectWithBounds तरक. नर्दष्ट परवर्तन क आकर में लगू करत है
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ObjectWithBounds मेथड। निर्दिष्ट रूपांतरण को आकार पर लागू करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
-निर्दिष्ट परिवर्तन को आकार में लागू करता है।
+निर्दिष्ट परिवर्तन को आकार पर लागू करता है।
 
 ```csharp
 public abstract void Transform(Matrix transform)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| transform | Matrix | लागू करने के लिए परिवर्तन। |
+| transform | Matrix | लागू करने के लिए रूपांतरण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* नाम स्थान [Aspose.PSD](../../objectwithbounds/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

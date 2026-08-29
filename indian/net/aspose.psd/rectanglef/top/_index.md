@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Top
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. इसके शर्ष कनरे क yनर्देशंक प्रप्त य सेट करत हैRectangleFसंरचन.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के शीर्ष किनारे के y‑कोऑर्डिनेट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-इसके शीर्ष किनारे का y-निर्देशांक प्राप्त या सेट करता है[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के शीर्ष किनारे के y‑कोऑर्डिनेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसके शीर्ष किनारे का y-निर्देशांक[`RectangleF`](../) संरचना।
+इस [`RectangleF`](../) संरचना के शीर्ष किनारे का y‑कोऑर्डिनेट।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

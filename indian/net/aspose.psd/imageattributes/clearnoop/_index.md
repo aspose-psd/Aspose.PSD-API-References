@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearNoOp
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए NoOp सेटंग क सफ़ करत है
+title: "ImageAttributes.ClearNoOp"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए NoOp सेटिंग को साफ़ करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/imageattributes/clearnoop/
 ---
+{{< psd/tize >}}
 ## ClearNoOp() {#clearnoop}
 
 डिफ़ॉल्ट श्रेणी के लिए NoOp सेटिंग को साफ़ करता है।
@@ -14,11 +15,11 @@ url: /hi/net/aspose.psd/imageattributes/clearnoop/
 public void ClearNoOp()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ public void ClearNoOp()
 public void ClearNoOp(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए NoOp सेटिंग साफ़ की गई है। |
+| type | ColorAdjustType | एक तत्व [`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए NoOp सेटिंग साफ़ की जाती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

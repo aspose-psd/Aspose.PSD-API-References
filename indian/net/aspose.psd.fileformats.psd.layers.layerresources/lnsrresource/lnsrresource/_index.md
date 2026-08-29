@@ -1,60 +1,61 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LnsrResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLnsrResource वर्ग.
+title: "LnsrResource.LnsrResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LnsrResource कंस्ट्रक्टर। LnsrResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LnsrResource`](../) वर्ग.
+[`LnsrResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | एलएनएसआर का प्रकार। |
+| lnsrResourceType | LnsrResourceType | LNSR का प्रकार। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | आप अज्ञात प्रकार के मान के साथ lnsr नहीं बना सकते |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | आप Unknown प्रकार मान के साथ lnsr नहीं बना सकते |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LnsrResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+एक नई उदाहरण को प्रारंभ करता है [`LnsrResource`](../) क्लास। कस्टम या अज्ञात मान के साथ
 
 ```csharp
 public LnsrResource(byte[] bytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bytes | Byte[] | बाइट्स। |
+| बाइट्स | Byte[] | बाइट्स। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| Exception | अमान्य lnsr संसाधन मान |
+| एक्सेप्शन | अमान्य lnsr Resource मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LnsrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

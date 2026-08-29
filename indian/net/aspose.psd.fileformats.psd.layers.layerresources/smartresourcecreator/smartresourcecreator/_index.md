@@ -1,65 +1,66 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartResourceCreator नर्मत. क एक नय उदहरण प्ररंभ करत हैSmartResourceCreator वर्ग.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartResourceCreator कंस्ट्रक्टर। SmartResourceCreator क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SmartResourceCreator`](../) वर्ग.
+[`SmartResourceCreator`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public SmartResourceCreator()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartResourceCreator](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`SmartResourceCreator`](../) वर्ग.
+[`SmartResourceCreator`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| isCustom | Boolean | अगर सेट है`सत्य` [कस्टम है]। |
-| hasCompInfo | Boolean | अगर सेट है`सत्य` [कंप्यूटर जानकारी है]। |
+| isCustom | बूलियन | `true` पर सेट होने पर [कस्टम है]। |
+| hasCompInfo | बूलियन | `true` पर सेट होने पर [कम्प जानकारी है]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartResourceCreator](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SmartResourceCreator`](../) class दिए गए टेम्पलेट के साथ.
+[`SmartResourceCreator`](../) क्लास का एक नया उदाहरण दिए गए टेम्प्लेट के साथ प्रारंभ करता है।
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| template | PlacedResource | स्मार्ट वस्तु संसाधन टेम्पलेट। |
+| template | PlacedResource | स्मार्ट ऑब्जेक्ट रिसोर्स टेम्प्लेट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

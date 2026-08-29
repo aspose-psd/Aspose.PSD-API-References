@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.GComponent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. ज घटक प्रप्त करत है य सेट करत है
+title: "TypeToolInfoResource.GComponent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। g घटक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/gcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.GComponent property
 
-जी घटक प्राप्त करता है या सेट करता है।
+g घटक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short GComponent { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जी घटक।
+g घटक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,69 +1,70 @@
 ---
-title: InfxResource.InfxResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InfxResource नर्मत. क एक नय उदहरण प्ररंभ करत हैInfxResource वर्ग.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InfxResource कन्स्ट्रक्टर। InfxResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`InfxResource`](../) वर्ग.
+[`InfxResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | अगर सेट है`सत्य` [आंतरिक तत्वों का मिश्रण]। |
+| blendInteriorElements | बूलियन | यदि `true` सेट किया गया है तो [blend interior elements]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [InfxResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`InfxResource`](../) वर्ग.
+[`InfxResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public InfxResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InfxResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`InfxResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+[`InfxResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। कस्टम या अज्ञात मान के साथ
 
 ```csharp
 public InfxResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | अमान्य infx संसाधन मान |
+| ArgumentException | अमान्य infx रिसोर्स मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [InfxResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. परक्षण करत है क क्यobj एक हैRectangleइस के समन स्थन और आकर के सथ संरचनRectangleसंरचन.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle मेथड। परीक्षण करता है कि क्या obj इस Rectangle संरचना के समान स्थान और आकार वाला Rectangle संरचना है"
 type: docs
 weight: 230
 url: /hi/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-परीक्षण करता है कि क्या*obj* एक है[`Rectangle`](../)इस के समान स्थान और आकार के साथ संरचना[`Rectangle`](../)संरचना.
+परीक्षण करता है कि क्या *obj* इस [`Rectangle`](../) संरचना के समान स्थान और आकार वाला [`Rectangle`](../) संरचना है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object परीक्षा करना। |
+| obj | ऑब्जेक्ट | यह Object परीक्षण के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि*obj* एक है[`Rectangle`](../) संरचना और इसकी[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , और[`Height`](../height/) गुण इसके संगत गुणों के बराबर हैं[`Rectangle`](../) संरचना; अन्यथा झूठा।
+यह मेथड true लौटाता है यदि *obj* एक [`Rectangle`](../) संरचना है और उसके [`X`](../x/), [`Y`](../y/), [`Width`](../width/), और [`Height`](../height/) गुण इस [`Rectangle`](../) संरचना के संबंधित गुणों के समान हैं; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

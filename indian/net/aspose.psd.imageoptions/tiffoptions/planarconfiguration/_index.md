@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. प्लनर कन्फ़गरेशन प्रप्त य सेट करत है
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। प्लेनर कॉन्फ़िगरेशन को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 330
+weight: 340
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-प्लानर कॉन्फ़िगरेशन प्राप्त या सेट करता है।
+प्लैनेर कॉन्फ़िगरेशन को प्राप्त या सेट करता है।
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्लानर कॉन्फ़िगरेशन।
+प्लेनर कॉन्फ़िगरेशन।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.AntiAliasPolicy
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PlacedResource संपत्त. PSD छव में रख गई परत क अन्य उपनम नत क प्रप्त य सेट करत है
+title: "PlacedResource.AntiAliasPolicy"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PlacedResource प्रॉपर्टी। PSD इमेज में स्थापित लेयर की एंटीएलियास नीति को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## PlacedResource.AntiAliasPolicy property
 
-PSD छवि में रखी गई परत की अन्य उपनाम नीति को प्राप्त या सेट करता है।
+PSD छवि में रखी गई लेयर की एंटी-एलियास नीति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual int AntiAliasPolicy { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत की अलियास विरोधी नीति।
+स्थापित लेयर की एंटीएलियास नीति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlacedResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

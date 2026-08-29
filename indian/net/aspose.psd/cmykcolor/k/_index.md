@@ -1,27 +1,28 @@
 ---
-title: CmykColor.K
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor संपत्त. इसक कल घटक मन प्रप्त करत हैColorसंरचन.
+title: "CmykColor.K"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor प्रॉपर्टी। इस Color संरचना का काला घटक मान प्राप्त करता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd/cmykcolor/k/
 ---
+{{< psd/tize >}}
 ## CmykColor.K property
 
-इसका काला घटक मान प्राप्त करता है[`Color`](../../color/)संरचना.
+इस [`Color`](../../color/) संरचना का काला घटक मान प्राप्त करता है।
 
 ```csharp
 public byte K { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका काला घटक मान[`Color`](../../color/) .
+इस [`Color`](../../color/) का काला घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

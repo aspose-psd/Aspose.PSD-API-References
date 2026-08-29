@@ -1,27 +1,28 @@
 ---
-title: Color.G
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. इसक हर घटक मन प्रप्त करत हैColorसंरचन.
+title: "Color.G"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। इस Color संरचना का हरा घटक मान प्राप्त करता है।"
 type: docs
 weight: 1480
 url: /hi/net/aspose.psd/color/g/
 ---
+{{< psd/tize >}}
 ## Color.G property
 
-इसका हरा घटक मान प्राप्त करता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना का हरा घटक मान प्राप्त करता है।
 
 ```csharp
 public byte G { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका हरा घटक मूल्य[`Color`](../).
+इस [`Color`](../) का हरा घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

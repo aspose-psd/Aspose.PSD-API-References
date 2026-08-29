@@ -1,41 +1,42 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageLoadersRegistry कक्ष. छव लडर रजस्ट्र क प्रतनधत्व करत है
+title: "क्लास ImageLoadersRegistry"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageLoadersRegistry क्लास। इमेज लोडर्स रजिस्ट्री का प्रतिनिधित्व करता है"
 type: docs
-weight: 4780
+weight: 5270
 url: /hi/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
-छवि लोडर रजिस्ट्री का प्रतिनिधित्व करता है।
+इमेज लोडर्स रजिस्ट्री का प्रतिनिधित्व करता है।
 
 ```csharp
 public static class ImageLoadersRegistry
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | पंजीकृत वर्णनकर्ता प्राप्त करता है। |
-| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | पंजीकृत छवि लोडिंग प्रारूप प्राप्त करता है। |
+| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | पंजीकृत डिस्क्रिप्टर प्राप्त करता है। |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | पंजीकृत इमेज लोडिंग फ़ॉर्मेट्स प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | निर्दिष्ट के लिए उपयुक्त पहला पाया गया लोडर बनाता है*stream* और वैकल्पिक रूप से*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर निर्दिष्ट के लिए उपयुक्त हो जाता है*stream* और वैकल्पिक रूप से*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | इसके प्रकार के नाम से पहला समर्थित फ़ाइल स्वरूप प्राप्त करता है। |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | इसके प्रकार के नाम से पहला समर्थित विवरणक प्राप्त करता है। |
-| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | निर्दिष्ट इमेज लोडर डिस्क्रिप्टर पंजीकृत करता है। |
-| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | लोडर पंजीकृत करता है। |
-| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | लोडर का पंजीकरण रद्द करता है। |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | निर्दिष्ट *stream* के लिए उपयुक्त पहला मिला लोडर बनाता है और वैकल्पिक रूप से *loadOptions* को भी। |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | पहला मिला समर्थित डिस्क्रिप्टर प्राप्त करता है जो निर्दिष्ट *stream* के लिए उपयुक्त है और वैकल्पिक रूप से *loadOptions* को भी। |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | उसके टाइप नाम द्वारा पहला समर्थित फ़ाइल फ़ॉर्मेट प्राप्त करता है। |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | उसके प्रकार नाम द्वारा पहला समर्थित डिस्क्रिप्टर प्राप्त करता है। |
+| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | निर्दिष्ट इमेज लोडर डिस्क्रिप्टर को रजिस्टर करता है। |
+| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | लोडर को रजिस्टर करता है। |
+| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | लोडर को अनरजिस्टर करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

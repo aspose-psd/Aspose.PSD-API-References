@@ -1,14 +1,15 @@
 ---
-title: Class LclrResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource कक्ष. वर्ग LclrResource. इस संसधन में परतं क सूच में परत के रंग के बरे में जनकर PS है यह केवल है
+title: "क्लास LclrResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LclrResource क्लास। क्लास LclrResource। यह रिसोर्स लेयर की सूची में लेयर के रंग के बारे में जानकारी रखता है PS में। यह केवल"
 type: docs
-weight: 2620
+weight: 2930
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource class
 
-वर्ग LclrResource. इस संसाधन में परतों की सूची में परत के रंग के बारे में जानकारी PS है। यह केवल है
+क्लास LclrResource. यह रिसोर्स लेयर्स की सूची में लेयर के रंग के बारे में जानकारी रखता है, जो PS में है। यह केवल
 
 ```csharp
 public class LclrResource : LayerResource
@@ -18,36 +19,36 @@ public class LclrResource : LayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [LclrResource](lclrresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`LclrResource` वर्ग. |
-| [LclrResource](lclrresource/#constructor_2)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`LclrResource` वर्ग. |
-| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | का एक नया उदाहरण प्रारंभ करता है`LclrResource` वर्ग. |
+| [LclrResource](lclrresource/#constructor)() | `LclrResource` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [LclrResource](lclrresource/#constructor_2)(byte[]) | `LclrResource` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [LclrResource](lclrresource/#constructor_1)(SheetColorHighlightEnum) | `LclrResource` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | परत का रंग प्राप्त या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/) { get; set; } | लेयर के रंग को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD (शीट रंग सेटिंग) में शीट रंग हाइलाइट को कैसे बदल सकते हैं
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lclrresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में शीट रंग हाइलाइट (शीट रंग सेटिंग) को कैसे बदल सकते हैं।
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ public class LclrResource : LayerResource
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// फाइल में लेयर्स के हाईलाइटिंग के रंग इसी क्रम में होते हैं
+// फ़ाइल में लेयरों के हाइलाइटिंग के रंग इस क्रम में हैं।
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -67,8 +68,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// लेयर शीट कलर का उपयोग परतों को नेत्रहीन रूप से हाइलाइट करने के लिए किया जाता है। 
-// उदाहरण के लिए आप PSD में कुछ परतों को अपडेट कर सकते हैं और फिर उस परत को रंग से हाइलाइट कर सकते हैं जिसे आप ध्यान आकर्षित करना चाहते हैं।
+// लेयर शीट रंग का उपयोग लेयरों को दृश्य रूप से हाइलाइट करने के लिए किया जाता है।
+// उदाहरण के लिए आप PSD में कुछ लेयरों को अपडेट कर सकते हैं और फिर उस लेयर को रंग से हाइलाइट कर सकते हैं जिसे आप ध्यान आकर्षित करना चाहते हैं।
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -77,7 +78,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // रंग उलटा होना चाहिए
+    // रंगों को उलटा होना चाहिए
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -91,7 +92,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // एलसीआरएल संसाधन हमेशा पीएसडी फ़ाइल संसाधन सूची में प्रस्तुत करता है।
+            // lcrl संसाधन हमेशा PSD फ़ाइल संसाधन सूची में मौजूद रहता है।
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -100,7 +101,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // स्टाइल शीट रंगों का उल्टा। परत रंग हाइलाइट की स्थापना।
+                // स्टाइल शीट रंगों का उलटा। लेयर रंग हाइलाइट की सेटिंग।
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -109,10 +110,10 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

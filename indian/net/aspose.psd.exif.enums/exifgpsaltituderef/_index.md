@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef एनुम. एक्सफ जपएस ऊंचई रेफर एनम
+title: "Enum ExifGPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps altitude ref enum"
 type: docs
-weight: 870
+weight: 880
 url: /hi/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-एक्सिफ जीपीएस ऊंचाई रेफरी एनम।
+exif gps अल्टिट्यूड रेफ़ एनेम.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
@@ -16,14 +17,14 @@ public enum ExifGPSAltitudeRef : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | समुद्र तल से ऊपर। |
-| BelowSeaLevel | `1` | समुद्र तल से नीचे। |
+| AboveSeaLevel | `0` | समुद्र स्तर से ऊपर। |
+| BelowSeaLevel | `1` | समुद्र स्तर से नीचे। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम के लए एक एकल फ़्लट मन लखत है
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter मेथड। स्ट्रीम में एकल फ़्लोट मान लिखता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-स्ट्रीम के लिए एक एकल फ़्लोट मान लिखता है।
+स्ट्रीम में एकल फ़्लोट मान लिखता है।
 
 ```csharp
 public void WriteFloat(float data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Single | लिखने का मूल्य। |
+| डेटा | Single | लिखने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

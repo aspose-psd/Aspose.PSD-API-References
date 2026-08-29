@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क स्ट्रम EXIF डेट बड़ एंडयन है य नहं
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि जिस स्ट्रीम से EXIF डेटा बनाया गया है वह बिग एंडियन है या नहीं"
 type: docs
 weight: 690
 url: /hi/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि स्ट्रीम EXIF डेटा बड़ा एंडियन है या नहीं।
+स्ट्रीम EXIF डेटा जो बनाया गया है, वह बिग एंडियन है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर स्ट्रीम EXIF डेटा से बनाया गया बड़ा एंडियन है; अन्यथा,`असत्य` .
+`true` यदि जिस स्ट्रीम से EXIF डेटा बनाया गया है वह बिग एंडियन है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

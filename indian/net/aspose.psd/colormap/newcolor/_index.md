@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMap संपत्त. नय ह जत है य सेट करत हैColor संरचन जसमें कनवर्ट करन है.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMap प्रॉपर्टी। नई Color स्ट्रक्चर को जहाँ परिवर्तित किया जाना है, प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-नया हो जाता है या सेट करता है[`Color`](../../color/) संरचना जिसमें कनवर्ट करना है.
+नई [`Color`](../../color/) स्ट्रक्चर को जहाँ परिवर्तित किया जाना है, प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-नई[`Color`](../../color/) संरचना जिसमें परिवर्तित करना है।
+परिवर्तित करने के लिए नई [`Color`](../../color/) स्ट्रक्चर।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* नाम स्थान [Aspose.PSD](../../colormap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

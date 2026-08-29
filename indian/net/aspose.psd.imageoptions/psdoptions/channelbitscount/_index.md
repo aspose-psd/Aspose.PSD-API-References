@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. बट कउंट प्रत कलर चैनल प्रप्त य सेट करत है
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। प्रत्येक कलर चैनल के लिए बिट्स काउंट को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-बिट काउंट प्रति कलर चैनल प्राप्त या सेट करता है।
+रंग चैनल प्रति बिट्स की संख्या प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिट्स प्रति कलर चैनल की गिनती करते हैं।
+प्रति कलर चैनल बिट्स काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

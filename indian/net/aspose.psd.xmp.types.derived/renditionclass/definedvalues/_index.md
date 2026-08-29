@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.DefinedValues
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RenditionClass संपत्त. परभषत मन
+title: "RenditionClass.DefinedValues"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RenditionClass प्रॉपर्टी. परिभाषित मान"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.types.derived/renditionclass/definedvalues/
 ---
+{{< psd/tize >}}
 ## RenditionClass.DefinedValues property
 
 परिभाषित मान
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.xmp.types.derived/renditionclass/definedvalues/
 public static string[] DefinedValues { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RenditionClass](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

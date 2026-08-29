@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Predictor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. LZW संपड़न के लए भवष्यवक्त प्रप्त करत है य सेट करत है
+title: "TiffOptions.Predictor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। LZW संपीड़न के लिए प्रेडिक्टर को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 340
+weight: 350
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/predictor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Predictor property
 
-LZW संपीड़न के लिए भविष्यवक्ता प्राप्त करता है या सेट करता है।
+LZW संपीड़न के लिए प्रेडिक्टर को प्राप्त या सेट करता है।
 
 ```csharp
 public TiffPredictor Predictor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-भविष्यवक्ता प्रकार।
+प्रेडिक्टर प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffPredictor](../../../aspose.psd.fileformats.tiff.enums/tiffpredictor/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

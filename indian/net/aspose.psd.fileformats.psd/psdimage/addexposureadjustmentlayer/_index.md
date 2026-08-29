@@ -1,35 +1,36 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. एक्सपजर एडजस्टमेंट लेयर जड़त है
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। एक्सपोज़र एडजस्टमेंट लेयर जोड़ता है"
 type: docs
-weight: 340
+weight: 350
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-एक्सपोजर एडजस्टमेंट लेयर जोड़ता है।
+एक्सपोज़र एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
     float gammaCorrection = 1)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| exposure | Single | जोखिम। |
-| offset | Single | ऑफसेट। |
-| gammaCorrection | Single | गामा सुधार। |
+| एक्सपोज़र | Single | एक्सपोज़र। |
+| offset | Single | ऑफ़सेट। |
+| गामा सुधार | Single | गामा सुधार। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक्सपोजर एडजस्टमेंट लेयर बनाया गया
+एक्सपोज़र एडजस्टमेंट लेयर बनाया गया
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HDpi
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResolutionInfoResource संपत्त. क्षैतज DPI.
+title: "ResolutionInfoResource.HDpi"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResolutionInfoResource प्रॉपर्टी। क्षैतिज DPI"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HDpi property
 
-क्षैतिज DPI.
+हॉरिज़ॉन्टल DPI.
 
 ```csharp
 public FixedPointDecimal HDpi { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्षैतिज डीपीआई.
+क्षैतिज DPI।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

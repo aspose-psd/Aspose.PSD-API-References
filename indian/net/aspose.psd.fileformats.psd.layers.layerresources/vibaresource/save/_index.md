@@ -1,32 +1,33 @@
 ---
-title: VibAResource.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VibAResource तरक. संसधन क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "VibAResource.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VibAResource मेथड। रिसोर्स को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
-संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
+निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है।
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण VibAResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण VibAResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// रनटाइम पर कंपन संसाधन पढ़ने और लिखने के समर्थन का उदाहरण।
+// रनटाइम पर पढ़ने और लिखने वाले Vibration संसाधन के समर्थन का उदाहरण।
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -55,11 +56,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

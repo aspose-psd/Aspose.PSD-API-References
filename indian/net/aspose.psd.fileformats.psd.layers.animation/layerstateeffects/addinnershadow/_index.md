@@ -1,26 +1,27 @@
 ---
-title: LayerStateEffects.AddInnerShadow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerStateEffects तरक. आंतरक छय प्रभव जड़त है
+title: "LayerStateEffects.AddInnerShadow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerStateEffects मेथड। इनर शैडो प्रभाव जोड़ता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addinnershadow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddInnerShadow method
 
-आंतरिक छाया प्रभाव जोड़ता है।
+इंटर शैडो इफ़ेक्ट जोड़ता है।
 
 ```csharp
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-का नया उदाहरण[`InnerShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/) कक्षा।
+[`InnerShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/) क्लास का नया इंस्टेंस।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड टाइमलाइन फ़्रेम में प्रभावों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड टाइमलाइन फ्रेम्स में इफ़ेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/)
 * class [LayerStateEffects](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

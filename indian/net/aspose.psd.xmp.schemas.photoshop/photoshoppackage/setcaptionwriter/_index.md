@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. कैप्शन लेखक सेट करत है.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड. कैप्शन राइटर सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-कैप्शन लेखक सेट करता है.
+कैप्शन लेखक सेट करता है।
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| captionWriter | String | कैप्शन लेखक। |
+| captionWriter | String | कैप्शन राइटर. |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ObjectArrayStructure संपत्त. ऑब्जेक्ट ऐरे क्लस आईड प्रप्त य सेट करत है
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ObjectArrayStructure प्रॉपर्टी। ऑब्जेक्ट एरे क्लास ID को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-ऑब्जेक्ट ऐरे क्लास आईडी प्राप्त या सेट करता है।
+ऑब्जेक्ट एरे क्लास ID को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑब्जेक्ट सरणी वर्ग ID.
+ऑब्जेक्ट एरे क्लास ID।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

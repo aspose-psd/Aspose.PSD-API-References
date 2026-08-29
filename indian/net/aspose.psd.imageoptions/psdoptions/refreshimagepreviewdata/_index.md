@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RefreshImagePreviewData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क छव पूर्ववलकन डेट रफ्रेश करें  अन्य PSD छव दर्शकं के सथ संगतत क अधकतम करने के लए उपयग कय जने वल वकल्प कृपय ध्यन दें अंतम लेआउट के लए पठ परत ड्रइंग कम्पैक्ट फ्रेमवर्क प्लेटफर्म के लए समर्थत नहं है
+title: "PsdOptions.RefreshImagePreviewData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि रिफ्रेश इमेज प्रीव्यू डेटा विकल्प का उपयोग अन्य PSD इमेज व्यूअर्स के साथ अधिकतम संगतता के लिए किया जाता है। कृपया ध्यान दें कि कॉम्पैक्ट फ्रेमवर्क प्लेटफ़ॉर्म के लिए टेक्स्ट लेयर्स को अंतिम लेआउट में ड्रॉ करना समर्थित नहीं है।"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RefreshImagePreviewData property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि [छवि पूर्वावलोकन डेटा रीफ्रेश करें] - अन्य PSD छवि दर्शकों के साथ संगतता को अधिकतम करने के लिए उपयोग किया जाने वाला विकल्प। कृपया ध्यान दें, अंतिम लेआउट के लिए पाठ परत ड्राइंग कॉम्पैक्ट फ्रेमवर्क प्लेटफॉर्म के लिए समर्थित नहीं है
+एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि क्या [refresh image preview data] - विकल्प का उपयोग अन्य PSD इमेज व्यूअर्स के साथ संगतता अधिकतम करने के लिए किया जाता है। कृपया ध्यान दें, कॉम्पैक्ट फ्रेमवर्क प्लेटफ़ॉर्म के लिए अंतिम लेआउट में टेक्स्ट लेयर्स का ड्रॉ करना समर्थित नहीं है।
 
 ```csharp
 public bool RefreshImagePreviewData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [छवि पूर्वावलोकन डेटा ताज़ा करें]; अन्यथा,`असत्य` .
+`true` यदि [refresh image preview data]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

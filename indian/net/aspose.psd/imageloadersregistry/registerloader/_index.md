@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisterLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry तरक. लडर पंजकृत करत है
+title: "ImageLoadersRegistry.RegisterLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry मेथड। लोडर को पंजीकृत करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/imageloadersregistry/registerloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisterLoader method
 
-लोडर पंजीकृत करता है।
+लोडर को रजिस्टर करता है।
 
 ```csharp
 public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | रजिस्टर करने के लिए लोडर डिस्क्रिप्टर। |
+| loaderDescriptor | IImageLoaderDescriptor | पंजीकृत करने के लिए लोडर डिस्क्रिप्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum FrameDisposalMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod एनुम. फ्रेम नपटन वध नर्दष्ट करत है क क्य अगले फ्रेम क प्रदर्शत करने से पहले वर्तमन फ्रेम क त्यगन है आप एनमेशन के लए एक नपटन वध क चयन करते हैं जसमें यह नर्दष्ट करने के लए पृष्ठभूम परदर्शत शमल है क क्य वर्तमन फ्रेम अगले फ्रेम के परदर्श क्षेत्रं के मध्यम से दखई देग
+title: "एन्यूम FrameDisposalMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod एन्यूम। फ्रेम डिस्पोज़ल मेथड यह निर्धारित करता है कि अगला फ्रेम दिखाने से पहले वर्तमान फ्रेम को त्यागना है या नहीं। आप बैकग्राउंड ट्रांसपेरेंसी वाले एनीमेशन के लिए डिस्पोज़ल मेथड चुनते हैं ताकि यह निर्दिष्ट किया जा सके कि वर्तमान फ्रेम अगली फ्रेम के पारदर्शी क्षेत्रों के माध्यम से दिखाई देगा या नहीं।"
 type: docs
-weight: 1850
+weight: 1950
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
+{{< psd/tize >}}
 ## FrameDisposalMethod enumeration
 
-फ्रेम निपटान विधि निर्दिष्ट करती है कि क्या अगले फ्रेम को प्रदर्शित करने से पहले वर्तमान फ्रेम को त्यागना है। आप एनिमेशन के लिए एक निपटान विधि का चयन करते हैं जिसमें यह निर्दिष्ट करने के लिए पृष्ठभूमि पारदर्शिता शामिल है कि क्या वर्तमान फ्रेम अगले फ्रेम के पारदर्शी क्षेत्रों के माध्यम से दिखाई देगा।
+फ़्रेम डिस्पोज़ल मेथड यह निर्धारित करता है कि अगले फ़्रेम को प्रदर्शित करने से पहले वर्तमान फ़्रेम को त्यागा जाए या नहीं। आप उन एनीमेशन के लिए एक डिस्पोज़ल मेथड चुनते हैं जिनमें बैकग्राउंड ट्रांसपेरेंसी शामिल होती है, ताकि यह निर्दिष्ट किया जा सके कि वर्तमान फ़्रेम अगले फ़्रेम के पारदर्शी क्षेत्रों के माध्यम से दिखाई देगा या नहीं।
 
 ```csharp
 public enum FrameDisposalMethod
@@ -16,15 +17,15 @@ public enum FrameDisposalMethod
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Automatic | `0` | स्वचालित रूप से वर्तमान फ्रेम के लिए एक निपटान विधि निर्धारित करता है, यदि अगले फ्रेम में परत पारदर्शिता है तो वर्तमान फ्रेम को छोड़ दें। अधिकांश एनिमेशन के लिए, स्वचालित विकल्प (डिफ़ॉल्ट) वांछित परिणाम देता है। |
-| DoNotDispose | `1` | वर्तमान फ्रेम को संरक्षित करता है क्योंकि अगले फ्रेम को डिस्प्ले में जोड़ा जाता है। वर्तमान फ्रेम (और पूर्ववर्ती फ्रेम) अगले फ्रेम के पारदर्शी क्षेत्रों के माध्यम से दिखाया जा सकता है। |
-| Dispose | `2` | अगला फ्रेम प्रदर्शित होने से पहले प्रदर्शन से वर्तमान फ्रेम को हटा देता है। किसी भी समय केवल एक ही फ्रेम प्रदर्शित होता है (और वर्तमान फ्रेम अगले फ्रेम के पारदर्शी क्षेत्रों के माध्यम से प्रकट नहीं होता है)। |
+| Automatic | `0` | वर्तमान फ्रेम के लिए डिस्पोज़ल मेथड को स्वचालित रूप से निर्धारित करता है, यदि अगला फ्रेम लेयर ट्रांसपेरेंसी रखता है तो वर्तमान फ्रेम को त्याग देता है। अधिकांश एनीमेशन के लिए, ऑटोमैटिक विकल्प (डिफ़ॉल्ट) वांछित परिणाम देता है। |
+| DoNotDispose | `1` | जब अगला फ्रेम डिस्प्ले में जोड़ा जाता है तो वर्तमान फ्रेम को संरक्षित रखता है। वर्तमान फ्रेम (और पूर्ववर्ती फ्रेम) अगले फ्रेम के पारदर्शी क्षेत्रों के माध्यम से दिख सकते हैं। |
+| Dispose | `2` | अगला फ्रेम दिखाने से पहले वर्तमान फ्रेम को डिस्प्ले से हटा देता है। किसी भी समय केवल एक ही फ्रेम दिखाया जाता है (और वर्तमान फ्रेम अगले फ्रेम के पारदर्शी क्षेत्रों के माध्यम से नहीं दिखता)। |
 
-### उदाहरण
+## उदाहरण
 
-TimeLine वर्ग PsdImage की समयरेखा में हेरफेर करने के लिए एक उच्च-स्तरीय क्षमता देता है, जैसे किसी विशिष्ट फ़्रेम पर फ़्रेम विलंब या संपादन परत स्थिति को बदलना।
+Timeline क्लास PsdImage की टाइमलाइन को नियंत्रित करने की उच्च-स्तरीय क्षमता प्रदान करता है, जैसे फ्रेम डिले बदलना या विशिष्ट फ्रेम पर लेयर स्टेट को संपादित करना।
 
 ```csharp
 [C#]
@@ -34,40 +35,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // फ्रेम 1 की निपटान विधि बदलें
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // फ़्रेम 1 की डिस्पोज़ मेथड बदलें
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // फ्रेम 2 की देरी बदलें
-    timeLine.Frames[1].Delay = 15;
+    // फ़्रेम 2 का डिले बदलें
+    timeline.Frames[1].Delay = 15;
 
-    // फ्रेम 2 पर 'लेयर 1' की अपारदर्शिता बदलें
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 2 पर 'Layer 1' की अपारदर्शिता बदलें
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'लेयर 1' को फ्रेम 3 पर बाएँ-निचले कोने में ले जाएँ
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 3 पर 'Layer 1' को बाएँ-नीचे कोने में ले जाएँ
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // नया फ्रेम जोड़ता है
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // फ्रेम 4 पर 'लेयर 1' का ब्लेंडमोड बदलें
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 4 पर 'Layer 1' का blendMode बदलें
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // PsdImage उदाहरण में परिवर्तन वापस लागू करें
-    timeLine.ApplyTo(psdImage);
+    // परिवर्तनों को PsdImage इंस्टेंस पर लागू करें
     psdImage.Save(outputPsd);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

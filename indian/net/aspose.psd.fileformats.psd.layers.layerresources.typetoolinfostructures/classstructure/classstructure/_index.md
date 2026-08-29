@@ -1,30 +1,31 @@
 ---
-title: ClassStructure.ClassStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClassStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैClassStructure वर्ग.
+title: "ClassStructure.ClassStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClassStructure कंस्ट्रक्टर। ClassStructure क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classstructure/
 ---
+{{< psd/tize >}}
 ## ClassStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassStructure`](../) वर्ग.
+[`ClassStructure`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ClassStructure(ClassID keyName, ClassID classID, int structureKey)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | keyName | ClassID | कुंजी का नाम। |
-| classID | ClassID | कक्षा आईडी। |
+| classID | ClassID | क्लास आईडी। |
 | structureKey | Int32 | संरचना कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ClassStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

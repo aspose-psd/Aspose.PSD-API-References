@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. प्रमुख उत्पद संस्करण
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। प्रमुख उत्पाद संस्करण"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
-प्रमुख उत्पाद संस्करण।
+मुख्य उत्पाद संस्करण।
 
 ```csharp
 public static readonly int ProductMajor;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

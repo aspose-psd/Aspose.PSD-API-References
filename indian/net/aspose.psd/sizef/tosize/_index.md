@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. परवर्तत करत है aSizeF एक के लएSize कटे गए आकर के मनं वल संरचन.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। एक SizeF को ट्रंकेटेड आकार मानों के साथ Size संरचना में परिवर्तित करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-परिवर्तित करता है a[`SizeF`](../) एक के लिए[`Size`](../../size/) काटे गए आकार के मानों वाली संरचना.
+`[`SizeF`](../)` को ट्रंकेटेड आकार मानों के साथ `[`Size`](../../size/)` संरचना में परिवर्तित करता है।
 
 ```csharp
 public Size ToSize()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रिटर्न ए[`Size`](../../size/) संरचना।
+`[`Size`](../../size/)` संरचना लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,189 +1,204 @@
 ---
-title: Class SmartObjectLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectLayer कक्ष. उस SmartObjectLayer वर्ग क परभषत करत है जसमें PSD फ़इल में एम्बेड कय गय है य बहर फ़इल में लंक क गई स्मर्ट वस्तु है स्मर्ट वस्तुओं के सथ आप गैरवनशकर रूपंतरण कर सकते हैं मूल छव डेट य गुणवत्त क खए बन आप कस परत क मप सकते हैं घुम सकते हैं तरछ कर सकते हैं बगड़ सकते हैं वकृत कर सकते हैं य कस परत क वकृत कर सकते हैं क्यंक परवर्तन मूल डेट क प्रभवत नहं करते हैं. वेक्टर डेट के सथ कम करें जैसे इलस्ट्रेटर से वेक्टर कलकृत अन्यथ रेखपुंज कय जएग अवनश फ़ल्टरंग करें आप कस भ समय स्मर्ट ऑब्जेक्ट पर लगू कए गए फ़ल्टर क संपदत कर सकते हैं एक स्मर्ट ऑब्जेक्ट क संपदत करें और इसके सभ लंक कए गए इंस्टेंसेस क स्वचलत रूप से अपडेट करें एक लेयर मस्क लगएं ज य त स्मर्ट ऑब्जेक्ट लेयर से लंक य अनलंक है नम्न के सथ वभन्न डज़इन आज़मएं रज़ल्यूशन प्लेसहल्डर छवयं जन्हें आप बद में अंतम संस्करणं के सथ बदल देते हैंhttps//helpx.adobe.com/photoshop/using/createsmartobjects.html एम्बेडेड स्मर्ट ऑब्जेक्ट वल एक परत में स्मर्ट ऑब्जेक्ट गुणं के सथ PlLd और SoLd संसधन शमल हैं Pld संसधन 10. से पुरने PSD संस्करणं के लए अकेल ह सकत है इन संसधनं में एम्बेडेड के सथ वैश्वक Lnk2Resource में LiFdDataSource क UniqueId शमल है filename और अन्य पैरमटर बइट सरण के रूप में मूल स्वरूप में एम्बेड क गई फ़इल समग्र सहत.
+title: "क्लास SmartObjectLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectLayer class. SmartObjectLayer क्लास को परिभाषित करता है जो PSD फ़ाइल में एम्बेडेड या बाहरी फ़ाइल में लिंक्ड स्मार्ट ऑब्जेक्ट को शामिल करता है। स्मार्ट ऑब्जेक्ट्स के साथ आप नॉन-डिस्ट्रक्टिव ट्रांसफ़ॉर्म कर सकते हैं। आप लेयर को स्केल, रोटेट, स्क्यू, डिस्टॉर्ट, पर्सपेक्टिव ट्रांसफ़ॉर्म या वॉर्प कर सकते हैं बिना मूल इमेज डेटा या गुणवत्ता खोए, क्योंकि ट्रांसफ़ॉर्म मूल डेटा को प्रभावित नहीं करते। इल्युस्ट्रेटर से वेक्टर आर्टवर्क जैसे वेक्टर डेटा के साथ काम करें, जो अन्यथा रास्टराइज़ हो जाता। नॉन-डिस्ट्रक्टिव फ़िल्टरिंग करें। आप कभी भी स्मार्ट ऑब्जेक्ट्स पर लागू फ़िल्टर को संपादित कर सकते हैं। एक स्मार्ट ऑब्जेक्ट को संपादित करें और उसके सभी लिंक्ड इंस्टेंस स्वचालित रूप से अपडेट हो जाएँ। लेयर मास्क लागू करें जो स्मार्ट ऑब्जेक्ट लेयर से लिंक्ड या अनलिंक्ड हो। विभिन्न डिज़ाइनों को लो-रेज़ोल्यूशन प्लेसहोल्डर इमेजेज़ के साथ आज़माएँ, जिन्हें आप बाद में अंतिम संस्करणों से बदल सकते हैं। Adobe Photoshop में आप एक इमेज की सामग्री को PSD दस्तावेज़ में एम्बेड कर सकते हैं। अधिक जानकारी यहाँ है https//helpx.adobe.com/photoshop/using/createsmartobjects.html एक एम्बेडेड स्मार्ट ऑब्जेक्ट वाली लेयर में PlLd और SoLd रिसोर्सेज़ होते हैं जिनमें स्मार्ट ऑब्जेक्ट प्रॉपर्टीज़ होती हैं। PSD संस्करण 10 से पुराने के लिए PlLd रिसोर्स अकेला हो सकता है। इन रिसोर्सेज़ में ग्लोबल Lnk2Resource में LiFdDataSource का UniqueId, एम्बेडेड फ़ाइलनाम और अन्य पैरामीटर शामिल होते हैं, जिसमें एम्बेडेड फ़ाइल सामग्री मूल फ़ॉर्मेट में बाइट एरे के रूप में होती है।"
 type: docs
-weight: 3490
+weight: 3910
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer class
 
-उस SmartObjectLayer वर्ग को परिभाषित करता है जिसमें PSD फ़ाइल में एम्बेड किया गया है या बाहरी फ़ाइल में लिंक की गई स्मार्ट वस्तु है। स्मार्ट वस्तुओं के साथ, आप: गैर-विनाशकारी रूपांतरण कर सकते हैं। मूल छवि डेटा या गुणवत्ता को खोए बिना आप किसी परत को माप सकते हैं, घुमा सकते हैं, तिरछा कर सकते हैं, बिगाड़ सकते हैं, विकृत कर सकते हैं या किसी परत को विकृत कर सकते हैं क्योंकि परिवर्तन मूल डेटा को प्रभावित नहीं करते हैं. वेक्टर डेटा के साथ काम करें, जैसे इलस्ट्रेटर से वेक्टर कलाकृति, अन्यथा रेखापुंज किया जाएगा। अविनाशी फ़िल्टरिंग करें। आप किसी भी समय स्मार्ट ऑब्जेक्ट पर लागू किए गए फ़िल्टर को संपादित कर सकते हैं। एक स्मार्ट ऑब्जेक्ट को संपादित करें और इसके सभी लिंक किए गए इंस्टेंसेस को स्वचालित रूप से अपडेट करें। एक लेयर मास्क लगाएं जो या तो स्मार्ट ऑब्जेक्ट लेयर से लिंक या अनलिंक है। निम्न के साथ विभिन्न डिज़ाइन आज़माएं- रिज़ॉल्यूशन प्लेसहोल्डर छवियां जिन्हें आप बाद में अंतिम संस्करणों के साथ बदल देते हैं।[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) एम्बेडेड स्मार्ट ऑब्जेक्ट वाली एक परत में स्मार्ट ऑब्जेक्ट गुणों के साथ (PlLd) और SoLd संसाधन शामिल हैं। Pld संसाधन 10. से पुराने PSD संस्करणों के लिए अकेला हो सकता है। इन संसाधनों में एम्बेडेड के साथ वैश्विक Lnk2Resource में LiFdDataSource का UniqueId शामिल है। filename और अन्य पैरामीटर, बाइट सरणी के रूप में मूल स्वरूप में एम्बेड की गई फ़ाइल सामग्री सहित.
+SmartObjectLayer क्लास को परिभाषित करता है जो PSD फ़ाइल में एम्बेडेड या बाहरी फ़ाइल में लिंक्ड स्मार्ट ऑब्जेक्ट को शामिल करता है। Smart Objects के साथ, आप कर सकते हैं: नॉन-डिस्ट्रक्टिव ट्रांसफ़ॉर्म्स करना। आप लेयर को स्केल, रोटेट, स्क्यू, डिस्टॉर्ट, पर्स्पेक्टिव ट्रांसफ़ॉर्म, या वार्प कर सकते हैं बिना मूल इमेज डेटा या क्वालिटी खोए क्योंकि ट्रांसफ़ॉर्म्स मूल डेटा को प्रभावित नहीं करते। वेक्टर डेटा के साथ काम करें, जैसे Illustrator से वेक्टर आर्टवर्क, जो अन्यथा रास्टराइज़ हो जाता। नॉन-डिस्ट्रक्टिव फ़िल्टरिंग करना। आप किसी भी समय Smart Objects पर लागू फ़िल्टर को एडिट कर सकते हैं। एक Smart Object को एडिट करें और उसके सभी लिंक्ड इंस्टेंस स्वचालित रूप से अपडेट हो जाएँ। लेयर मास्क लागू करें जो Smart Object लेयर से लिंक्ड या अनलिंक्ड हो सकता है। लो-रेज़ोल्यूशन प्लेसहोल्डर इमेजेज़ के साथ विभिन्न डिज़ाइन आज़माएँ जिन्हें आप बाद में अंतिम संस्करणों से बदल सकते हैं। Adobe Photoshop में, आप एक इमेज की सामग्री को PSD दस्तावेज़ में एम्बेड कर सकते हैं। अधिक जानकारी यहाँ है: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) एम्बेडेड स्मार्ट ऑब्जेक्ट वाली लेयर में PlLd और SoLd रिसोर्सेज़ होते हैं जिनमें स्मार्ट ऑब्जेक्ट प्रॉपर्टीज़ होती हैं। PlLd रिसोर्स PSD संस्करण 10 से पुराने के लिए अकेला हो सकता है। ये रिसोर्सेज़ ग्लोबल Lnk2Resource में LiFdDataSource का UniqueId, एम्बेडेड फ़ाइलनाम और अन्य पैरामीटर शामिल करते हैं, जिसमें मूल फ़ॉर्मेट में एम्बेडेड फ़ाइल कंटेंट बाइट एरे के रूप में होता है।
 
 ```csharp
 public class SmartObjectLayer : Layer
 ```
 
-## गुण
+## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि स्वचालित समायोजन पैलेट है या नहीं। |
-| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | पृष्ठभूमि रंग के लिए मान प्राप्त या सेट करता है। |
-| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | छवि बिट्स प्रति पिक्सेल संख्या प्राप्त करता है। |
-| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | सम्मिश्रण विकल्प प्राप्त करता है। |
-| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | ब्लेंड मोड कुंजी प्राप्त या सेट करता है। |
-| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | ब्लेंड मोड सिग्नेचर प्राप्त करता है। |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | निचली परत की स्थिति प्राप्त या सेट करता है। |
-| [Bounds](../../aspose.psd/image/bounds/) { get; } | छवि सीमा प्राप्त करता है। |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
-| [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | चैनल की जानकारी प्राप्त या सेट करता है। |
-| [ChannelsCount](../../aspose.psd.fileformats.psd.layers/layer/channelscount/) { get; } | परत के चैनलों की गिनती करता है. |
-| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | लेयर क्लिपिंग प्राप्त या सेट करता है। 0 = आधार, 1 = गैर-आधार. |
-| [Container](../../aspose.psd/image/container/) { get; } | हो जाता है[`Image`](../../aspose.psd/image/) कंटेनर. |
-| [Contents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/) { get; set; } | स्मार्ट ऑब्जेक्ट परत सामग्री प्राप्त या सेट करता है। एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री एम्बेडेड कच्ची छवि फ़ाइल है:[`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) और इसके गुण। लिंक की गई स्मार्ट ऑब्जेक्ट सामग्री लिंक की गई छवि फ़ाइल की कच्ची सामग्री है यदि यह उपलब्ध है और इसके गुण हैं:[`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . जब हम Adobe�� Photoshop� �� ग्राफ़िक्स लाइब्रेरी से लोड करने का समर्थन नहीं करते हैं[`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) सत्य है. नियमित लिंक फ़ाइलों के लिए, सबसे पहले, हम उपयोग करते हैं[`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) स्रोत छवि पथ के लिए फ़ाइल को अपेक्षाकृत देखने के लिएSourceImagePath , अगर यह उपलब्ध नहीं है तो हम देखते हैं[`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , यदि नहीं तो हम उसी निर्देशिका में लिंक फ़ाइल की तलाश करते हैं जहाँ हमारी छवि है:SourceImagePath . |
-| [ContentsBounds](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/) { get; set; } | स्मार्ट ऑब्जेक्ट सामग्री की सीमा प्राप्त या सेट करता है। |
-| [ContentsSource](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentssource/) { get; set; } | स्मार्ट ऑब्जेक्ट सामग्री के स्रोत को प्राप्त या सेट करता है। |
-| [ContentType](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/) { get; } | स्मार्ट ऑब्जेक्ट परत सामग्री का प्रकार प्राप्त करता है। एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री एम्बेडेड कच्ची छवि फ़ाइल है:[`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . लिंक की गई स्मार्ट ऑब्जेक्ट सामग्री लिंक की गई छवि फ़ाइल की कच्ची सामग्री है यदि यह उपलब्ध है:[`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . जब हम Adobe�� Photoshop� �� ग्राफ़िक्स लाइब्रेरी से लोड करने का समर्थन नहीं करते हैं[`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) सत्य है. नियमित लिंक फ़ाइलों के लिए, सबसे पहले, हम उपयोग करते हैं[`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) स्रोत छवि पथ के लिए फ़ाइल को अपेक्षाकृत देखने के लिएSourceImagePath , अगर यह उपलब्ध नहीं है तो हम देखते हैं[`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , यदि नहीं तो हम उसी निर्देशिका में लिंक फ़ाइल की तलाश करते हैं जहाँ हमारी छवि है:SourceImagePath . |
-| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | ऑब्जेक्ट की डेटा स्ट्रीम प्राप्त करता है। |
-| [DisplayName](../../aspose.psd.fileformats.psd.layers/layer/displayname/) { get; set; } | परत का प्रदर्शन नाम प्राप्त या सेट करता है। |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
-| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | बाइट्स में परत की अतिरिक्त जानकारी लंबाई प्राप्त करता है. |
-| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | फ़ाइल स्वरूप का मान प्राप्त करता है |
-| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | लेयर फिलर प्राप्त या सेट करता है। |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | फिल अपारदर्शिता प्राप्त या सेट करता है। |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | लेयर फ़्लैग्स प्राप्त या सेट करता है। बिट 0 = पारदर्शिता संरक्षित; बिट 1 = दृश्यमान; बिट 2 = अप्रचलित; बिट 3 = 1 फ़ोटोशॉप 5.0 और बाद के लिए, बताता है कि क्या बिट 4 में उपयोगी जानकारी है; बिट 4 = दस्तावेज़ की उपस्थिति के लिए अप्रासंगिक पिक्सेल डेटा। |
-| override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में अल्फ़ा है. |
-| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | एक मान प्राप्त या सेट करता है जो बताता है कि छवि में पृष्ठभूमि का रंग है या नहीं। |
-| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | एक मान प्राप्त करता है जो बताता है कि छवि में पारदर्शी रंग है या नहीं। |
-| override [Height](../../aspose.psd.fileformats.psd.layers/layer/height/) { get; } | छवि ऊंचाई प्राप्त करता है। |
-| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | इसमें से पिक्सल प्रति इंच में हॉरिजॉन्टल रेजोल्यूशन प्राप्त या सेट करता है[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | इस छवि की अस्पष्टता प्राप्त करता है। |
-| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | इंटरप्ट मॉनीटर प्राप्त या सेट करता है। |
-| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि छवि डेटा वर्तमान में कैश किया गया है या नहीं। |
-| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोड हो रहा है या नहीं। |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि परत दृश्यमान है |
-| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण समूह में दिखाई दे रहा है (यदि परत समूह में नहीं है तो इसका अर्थ रूट समूह है)। |
-| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | लेयर ब्लेंडिंग रेंज डेटा प्राप्त या सेट करता है। |
-| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | परत निर्माण तिथि समय प्राप्त या सेट करता है। |
-| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | लेयर लॉक प्राप्त करता है या सेट करता है। ध्यान दें कि यदि लेयरफ्लैग्स.ट्रांसपेरेंसीप्रोटेक्टेड फ्लैग को सेट किया जाता है तो इसे लेयर लॉक फ्लैग द्वारा अधिलेखित कर दिया जाएगा। |
-| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | लेयर मास्क डेटा प्राप्त या सेट करता है। |
-| [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | परत विकल्प प्राप्त करता है। |
-| [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | लेफ्ट लेयर पोजीशन प्राप्त या सेट करता है। |
-| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | बाइट में परत की कुल लंबाई प्राप्त करता है. |
-| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | परत का नाम प्राप्त या सेट करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | लेयर अपारदर्शिता प्राप्त या सेट करता है। 0 = पारदर्शी, 255 = अपारदर्शी. |
-| [Palette](../../aspose.psd/image/palette/) { get; set; } | कलर पैलेट प्राप्त या सेट करता है। रंग पैलेट का उपयोग तब नहीं किया जाता है जब पिक्सेल को सीधे प्रदर्शित किया जाता है. |
-| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए। |
-| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | कस्टम कलर कन्वर्टर प्राप्त या सेट करता है |
-| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | अपरिष्कृत डेटा प्रारूप प्राप्त करता है। |
-| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | वर्तमान अपरिष्कृत डेटा सेटिंग प्राप्त करता है। नोट करें कि इन सेटिंग का उपयोग करते समय डेटा रूपांतरण के बिना लोड होता है. |
-| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | पैलेट इंडेक्स सीमा से बाहर होने पर उपयोग करने के लिए फ़ॉलबैक इंडेक्स प्राप्त या सेट करता है |
-| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | अनुक्रमित रंग कनवर्टर प्राप्त या सेट करता है |
-| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | बाइट्स में कच्ची रेखा का आकार प्राप्त करता है। |
-| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | परत संसाधनों को प्राप्त या सेट करता है। |
-| [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | सही परत स्थिति प्राप्त या सेट करता है। |
-| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | परतों की सूची में सजावटी शीट रंग हाइलाइट प्राप्त या सेट करता है |
+| [SmartObjectLayer](smartobjectlayer/)(Stream) | `SmartObjectLayer` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+
+## प्रॉपर्टीज़
+
+| नाम | विवरण |
+| --- | --- |
+| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | स्वचालित समायोजन पैलेट को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | पृष्ठभूमि रंग के लिए मान प्राप्त करता है या सेट करता है। |
+| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | छवि के बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है। |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers/layer/blendclippedelements/) { get; set; } | क्लिप किए गए तत्व के मिश्रण को प्राप्त करता है या सेट करता है। |
+| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | मिश्रण विकल्प प्राप्त करता है। |
+| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | ब्लेंड मोड कुंजी प्राप्त करता है या सेट करता है। |
+| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | ब्लेंड मोड हस्ताक्षर प्राप्त करता है। |
+| virtual [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | निचले लेयर की स्थिति प्राप्त करता है या सेट करता है। |
+| [Bounds](../../aspose.psd/image/bounds/) { get; } | छवि की सीमाएँ प्राप्त करता है। |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
+| [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | चैनल जानकारी प्राप्त करता है या सेट करता है। |
+| [ChannelsCount](../../aspose.psd.fileformats.psd.layers/layer/channelscount/) { get; } | लेयर के चैनलों की गिनती प्राप्त करता है। |
+| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | लेयर क्लिपिंग प्राप्त करता है या सेट करता है। 0 = बेस, 1 = नॉन-बेस। |
+| [Container](../../aspose.psd/image/container/) { get; } | [`Image`](../../aspose.psd/image/) कंटेनर प्राप्त करता है। |
+| [Contents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/) { get; set; } | स्मार्ट ऑब्जेक्ट लेयर की सामग्री प्राप्त करता है या सेट करता है। एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री एम्बेडेड कच्ची छवि फ़ाइल है: [`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) और उसकी प्रॉपर्टीज़। लिंक्ड स्मार्ट ऑब्जेक्ट सामग्री लिंक्ड छवि फ़ाइल की कच्ची सामग्री है यदि उपलब्ध हो और उसकी प्रॉपर्टीज़: [`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/)। हम Adobe Photoshop ग्राफ़िक्स लाइब्रेरी से लोडिंग का समर्थन नहीं करते जब [`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) सत्य हो। सामान्य लिंक फ़ाइलों के लिए, पहले हम [`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) का उपयोग करके फ़ाइल को स्रोत छवि पथ SourceImagePath के सापेक्ष खोजते हैं, यदि उपलब्ध नहीं है तो हम [`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) देखते हैं, यदि फिर भी नहीं तो हम लिंक फ़ाइल को उसी डायरेक्टरी में देखते हैं जहाँ हमारी छवि है: SourceImagePath। |
+| [ContentsBounds](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentsbounds/) { get; set; } | स्मार्ट ऑब्जेक्ट सामग्री की सीमाएँ प्राप्त करता है या सेट करता है। |
+| [ContentsSource](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contentssource/) { get; set; } | स्मार्ट ऑब्जेक्ट सामग्री का स्रोत प्राप्त करता है या सेट करता है। |
+| [ContentType](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/) { get; } | स्मार्ट ऑब्जेक्ट लेयर सामग्री का प्रकार प्राप्त करता है। एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री एम्बेडेड कच्ची छवि फ़ाइल है: [`Data`](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/)। लिंक्ड स्मार्ट ऑब्जेक्ट सामग्री लिंक्ड छवि फ़ाइल की कच्ची सामग्री है यदि उपलब्ध हो: [`LiFeDataSource`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/)। हम Adobe Photoshop ग्राफ़िक्स लाइब्रेरी से लोडिंग का समर्थन नहीं करते जब [`IsLibraryLink`](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) सत्य हो। सामान्य लिंक फ़ाइलों के लिए, पहले हम [`RelativePath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) का उपयोग करके फ़ाइल को स्रोत छवि पथ SourceImagePath के सापेक्ष खोजते हैं, यदि उपलब्ध नहीं है तो हम [`FullPath`](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) देखते हैं, यदि फिर भी नहीं तो हम लिंक फ़ाइल को उसी डायरेक्टरी में देखते हैं जहाँ हमारी छवि है: SourceImagePath। |
+| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | ऑब्जेक्ट का डेटा स्ट्रीम प्राप्त करता है। |
+| [DisplayName](../../aspose.psd.fileformats.psd.layers/layer/displayname/) { get; set; } | लेयर का डिस्प्ले नाम प्राप्त करता है या सेट करता है। |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
+| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | लेयर की अतिरिक्त जानकारी की लंबाई बाइट्स में प्राप्त करता है। |
+| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है |
+| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | लेयर फ़िलर प्राप्त करता है या सेट करता है। |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | फ़िल अपारदर्शिता प्राप्त करता है या सेट करता है। |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | लेयर फ़्लैग्स को प्राप्त करता है या सेट करता है। बिट 0 = पारदर्शिता संरक्षित; बिट 1 = दृश्यमान; बिट 2 = अप्रचलित; बिट 3 = Photoshop 5.0 और बाद के संस्करणों के लिए 1, बताता है कि बिट 4 में उपयोगी जानकारी है या नहीं; बिट 4 = दस्तावेज़ की उपस्थिति के लिए अप्रासंगिक पिक्सेल डेटा। |
+| override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस अल्फा रखता है या नहीं। |
+| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | छवि में पृष्ठभूमि रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | छवि में पारदर्शी रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| override [Height](../../aspose.psd.fileformats.psd.layers/layer/height/) { get; } | छवि की ऊँचाई प्राप्त करता है। |
+| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | इस [`RasterImage`](../../aspose.psd/rasterimage/) की क्षैतिज रिज़ॉल्यूशन, पिक्सेल प्रति इंच में, प्राप्त करता है या सेट करता है। |
+| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | इस छवि की अपारदर्शिता प्राप्त करता है। |
+| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | इंटरप्ट मॉनिटर को प्राप्त करता है या सेट करता है। |
+| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि वर्तमान में छवि डेटा कैश किया गया है या नहीं। |
+| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोडिंग उपलब्ध है या नहीं। |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | लेयर दृश्यमान है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस समूह में दृश्यमान है या नहीं (यदि लेयर समूह में नहीं है तो इसका अर्थ रूट समूह है)। |
+| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | लेयर ब्लेंडिंग रेंज डेटा को प्राप्त करता है या सेट करता है। |
+| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | लेयर निर्माण तिथि और समय को प्राप्त करता है या सेट करता है। |
+| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | लेयर लॉक को प्राप्त करता है या सेट करता है। ध्यान दें कि यदि फ़्लैग LayerFlags.TransparencyProtected सेट है तो इसे लेयर लॉक फ़्लैग द्वारा अधिलेखित किया जाएगा। LayerFlags.TransparencyProtected फ़्लैग को वापस करने के लिए लेयर विकल्प layer.Flags &#x7C;= LayerFlags.TransparencyProtected लागू करना आवश्यक है। |
+| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | लेयर मास्क डेटा को प्राप्त करता है या सेट करता है। |
+| [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | लेयर विकल्प प्राप्त करता है। |
+| virtual [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | बाएँ लेयर की स्थिति को प्राप्त करता है या सेट करता है। |
+| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | बाइट्स में कुल लेयर लंबाई प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | लेयर नाम को प्राप्त करता है या सेट करता है। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | लेयर अपारदर्शिता को प्राप्त करता है या सेट करता है। 0 = पारदर्शी, 255 = अपारदर्शी। |
+| [Palette](../../aspose.psd/image/palette/) { get; set; } | रंग पैलेट को प्राप्त करता है या सेट करता है। जब पिक्सेल सीधे प्रतिनिधित्व किए जाते हैं तो रंग पैलेट का उपयोग नहीं किया जाता। |
+| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए या नहीं। |
+| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | कस्टम रंग कनवर्टर को प्राप्त करता है या सेट करता है। |
+| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | कच्चा डेटा फ़ॉर्मेट प्राप्त करता है। |
+| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | वर्तमान कच्चा डेटा सेटिंग्स प्राप्त करता है। ध्यान दें कि इन सेटिंग्स का उपयोग करने पर डेटा बिना रूपांतरण के लोड होता है। |
+| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | पैलेट इंडेक्स सीमा से बाहर होने पर उपयोग करने के लिए फॉलबैक इंडेक्स प्राप्त करता है या सेट करता है |
+| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | इंडेक्स्ड कलर कनवर्टर प्राप्त करता है या सेट करता है |
+| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | बाइट्स में कच्ची लाइन आकार प्राप्त करता है। |
+| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | लेयर रिसोर्सेज़ प्राप्त करता है या सेट करता है। |
+| virtual [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | दाएँ लेयर की स्थिति प्राप्त करता है या सेट करता है। |
+| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | लेयर्स की सूची में सजावटी शीट रंग हाइलाइट प्राप्त करता है या सेट करता है |
 | [Size](../../aspose.psd/image/size/) { get; } | छवि का आकार प्राप्त करता है। |
 | [SmartFilters](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartfilters/) { get; } | स्मार्ट फ़िल्टर प्राप्त करता है। |
-| [SmartObjectProvider](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/) { get; } | स्मार्ट ऑब्जेक्ट प्रदाता प्राप्त करता है। |
-| [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | शीर्ष परत स्थिति प्राप्त या सेट करता है। |
-| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | इमेज को पारदर्शी रंग देता है. |
-| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो बताता है कि XMP मेटाडेटा को अपडेट करना है या नहीं। |
-| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो बताता है कि कच्चे डेटा लोड होने पर कच्चे डेटा लोडिंग का उपयोग करना है या नहीं। |
-| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | इसमें से पिक्सेल प्रति इंच में लंबवत रिज़ॉल्यूशन प्राप्त या सेट करता है[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| override [Width](../../aspose.psd.fileformats.psd.layers/layer/width/) { get; } | छवि चौड़ाई प्राप्त करता है। |
-| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | एक्सएमपी मेटाडेटा प्राप्त या सेट करता है। |
+| [SmartObjectProvider](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/smartobjectprovider/) { get; } | स्मार्ट ऑब्जेक्ट प्रोवाइडर प्राप्त करता है। |
+| virtual [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | ऊपर की लेयर की स्थिति प्राप्त करता है या सेट करता है। |
+| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | छवि का पारदर्शी रंग प्राप्त करता है। |
+| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | XMP मेटाडेटा को अपडेट करना है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | छवि पैलेट उपयोग किया गया है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | जब कच्चा डेटा लोडिंग उपलब्ध हो, तो कच्चा डेटा लोडिंग उपयोग करना है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | इस [`RasterImage`](../../aspose.psd/rasterimage/) की लंबवत रेज़ोल्यूशन, पिक्सेल प्रति इंच में, प्राप्त करता है या सेट करता है। |
+| [WarpSettings](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/warpsettings/) { get; set; } | यह संसाधन से सेट या प्राप्त किए गए Warp पैरामीटर प्राप्त करता है या सेट करता है (डिफ़ॉल्ट)। |
+| override [Width](../../aspose.psd.fileformats.psd.layers/layer/width/) { get; } | छवि की चौड़ाई प्राप्त करता है। |
+| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | XMP मेटाडेटा प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | मास्क को वर्तमान परत में जोड़ता है. |
-| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | छवि के लिए चमक समायोजित करें। |
-| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | विषम छवि |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float) | गामा-एक छवि का सुधार। |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float, float, float) | गामा-एक छवि का सुधार। |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन |
-| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | पूर्वनिर्धारित थ्रेसहोल्ड के साथ एक छवि का बिनराइजेशन |
-| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | ओत्सू थ्रेसहोल्डिंग के साथ एक छवि का बाइनराइजेशन |
-| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | डेटा को कैश करता है और यह सुनिश्चित करता है कि अंतर्निहित से कोई अतिरिक्त डेटा लोड नहीं किया जाएगा[`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/) . |
-| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | यह निर्धारित करता है कि छवि को पास किए गए सहेजे गए विकल्पों द्वारा दर्शाए गए निर्दिष्ट फ़ाइल स्वरूप में सहेजा जा सकता है या नहीं। |
-| [ConvertToLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/)(string) | इस एम्बेडेड स्मार्ट ऑब्जेक्ट को लिंक्ड स्मार्ट ऑब्जेक्ट में कनवर्ट करता है। |
-| override [Crop](../../aspose.psd/rastercachedimage/crop/)(Rectangle) | इमेज को क्रॉप किया जा रहा है. |
-| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | बदलाव के साथ छवि क्रॉप करें। |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
+| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | वर्तमान लेयर में मास्क जोड़ता है। |
+| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | छवि की चमक को समायोजित करता है। |
+| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | छवि कंट्रास्टिंग |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float) | छवि का गामा-करेक्शन। |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float, float, float) | छवि का गामा-करेक्शन। |
+| [ApplyLayerMask](../../aspose.psd.fileformats.psd.layers/layer/applylayermask/)() | लेयर पर लेयर मास्क लागू करता है, फिर मास्क को हटाता है। |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | पूर्वनिर्धारित थ्रेशोल्ड के साथ छवि का बाइनरीकरण |
+| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | ओट्सु थ्रेशोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित [`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/) से कोई अतिरिक्त डेटा लोडिंग नहीं की जाएगी। |
+| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | निर्धारित करता है कि क्या छवि को पास किए गए सहेजने विकल्पों द्वारा प्रतिनिधित्व किए गए निर्दिष्ट फ़ाइल फ़ॉर्मेट में सहेजा जा सकता है। |
+| [ConvertToLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/)(string) | इस एम्बेडेड स्मार्ट ऑब्जेक्ट को लिंक्ड स्मार्ट ऑब्जेक्ट में परिवर्तित करता है। |
+| override [Crop](../../aspose.psd/rastercachedimage/crop/)(Rectangle) | छवि को क्रॉप करना। |
+| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | शिफ्ट के साथ छवि को क्रॉप करें। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
 | [Dither](../../aspose.psd/rasterimage/dither/)(DitheringMethod, int) | वर्तमान छवि पर डिथरिंग करता है। |
 | override [Dither](../../aspose.psd/rastercachedimage/dither/)(DitheringMethod, int, IColorPalette) | वर्तमान छवि पर डिथरिंग करता है। |
-| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | परत पर चित्र बनाता है. |
-| [DuplicateLayer](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/)() | इसे कॉपी करके एक नई स्मार्ट ऑब्जेक्ट लेयर बनाता है। ध्यान दें कि एम्बेडेड स्मार्ट ऑब्जेक्ट्स के लिए एम्बेडेड छवि साझा की जाती है। यदि आप एम्बेडेड छवि उपयोग की प्रतिलिपि बनाना चाहते हैं[`NewSmartObjectViaCopy`](./newsmartobjectviacopy/) विधि. |
-| [EmbedLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/embedlinked/)() | लिंक किए गए स्मार्ट ऑब्जेक्ट को इस परत में एम्बेड करता है. |
-| [ExportContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/exportcontents/)(string) | एम्बेडेड या लिंक की गई सामग्री को फ़ाइल में निर्यात करता है। |
+| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | लेयर पर छवि को ड्रॉ करता है। |
+| [DuplicateLayer](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/)() | इसको कॉपी करके एक नया स्मार्ट ऑब्जेक्ट लेयर बनाता है। ध्यान दें कि एम्बेडेड स्मार्ट ऑब्जेक्ट्स के लिए एम्बेडेड छवि साझा की जाती है। यदि आप एम्बेडेड छवि को कॉपी करना चाहते हैं तो [`NewSmartObjectViaCopy`](./newsmartobjectviacopy/) मेथड का उपयोग करें। |
+| [EmbedLinked](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/embedlinked/)() | इस लेयर में लिंक्ड स्मार्ट ऑब्जेक्ट को एम्बेड करता है। |
+| [ExportContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/exportcontents/)(string) | एम्बेडेड या लिंक्ड सामग्री को फ़ाइल में एक्सपोर्ट करता है। |
 | virtual [Filter](../../aspose.psd/rasterimage/filter/)(Rectangle, FilterOptionsBase) | निर्दिष्ट आयत को फ़िल्टर करता है। |
-| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | 32-बिट ARGB पिक्सेल की छवि प्राप्त करता है. |
-| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | डिफ़ॉल्ट 32-बिट ARGB पिक्सेल सरणी प्राप्त करता है. |
+| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | एक छवि का 32-बिट ARGB पिक्सेल प्राप्त करता है। |
+| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | डिफ़ॉल्ट 32-बिट ARGB पिक्सेल एरे प्राप्त करता है। |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | डिफ़ॉल्ट विकल्प प्राप्त करता है। |
-| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट पिक्सेल सरणी प्राप्त करता है। |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | डिफ़ॉल्ट अपरिष्कृत डेटा सरणी प्राप्त करता है। |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट अपरिष्कृत डेटा सरणी प्राप्त करता है। |
+| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट पिक्सेल एरे प्राप्त करता है। |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | डिफ़ॉल्ट रॉ डेटा एरे प्राप्त करता है। |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट रॉ डेटा एरे प्राप्त करता है। |
 | override [GetHashCode](../../aspose.psd.fileformats.psd.layers/layer/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
-| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | वह दिनांक और समय प्राप्त करता है जब संसाधन छवि को अंतिम बार संशोधित किया गया था। |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | मूल फ़ाइल सेटिंग्स के आधार पर विकल्प प्राप्त करता है। यह बिट-डेप्थ और मूल छवि के अन्य मापदंडों को अपरिवर्तित रखने में मददगार हो सकता है। उदाहरण के लिए, यदि हम एक काले-सफेद PNG छवि को 1 बिट प्रति पिक्सेल के साथ लोड करते हैं और फिर इसे का उपयोग करके सहेजें[`Save`](../../aspose.psd/datastreamsupporter/save/) विधि, 8-बिट प्रति पिक्सेल के साथ आउटपुट पीएनजी छवि का उत्पादन किया जाएगा।[`Save`](../../aspose.psd/image/save/)दूसरे पैरामीटर के रूप में विधि। |
-| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | इमेज पिक्सेल प्राप्त करता है. |
-| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | तिरछा कोण प्राप्त करता है। स्कैन करते समय तिरछा कोण निर्धारित करने के लिए यह विधि स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। |
-| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | एक छवि का उसके ग्रेस्केल प्रतिनिधित्व में परिवर्तन |
-| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | 32-बिट ARGB पिक्सेल लोड करता है. |
-| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | 64-बिट ARGB पिक्सेल लोड करता है. |
-| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | पिक्सेल को CMYK प्रारूप में लोड करता है. |
-| [LoadContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/)(LoadOptions) | स्मार्ट ऑब्जेक्ट लेयर की एम्बेडेड या लिंक की गई छवि सामग्री प्राप्त करता है। |
-| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | 32-बिट ARGB पिक्सेल को पैक द्वारा आंशिक रूप से लोड करता है. |
-| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पिक्सेल को आंशिक रूप से पैक द्वारा लोड करता है. |
-| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | पिक्सेल लोड करता है. |
-| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | अपरिष्कृत डेटा लोड करता है. |
-| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | अपरिष्कृत डेटा लोड करता है. |
-| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | परत को निर्दिष्ट परत में मर्ज करता है |
-| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/)() | इसे कॉपी करके एक नया स्मार्ट ऑब्जेक्ट लेयर बनाता है। 'लेयर -&gt; स्मार्ट ऑब्जेक्ट्स -&gt; कॉपी' के माध्यम से नई स्मार्ट ऑब्जेक्ट को Adobe� Photoshop की कार्यक्षमता को पुन: उत्पन्न करता है। ध्यान दें कि यह केवल एम्बेडेड स्मार्ट ऑब्जेक्ट्स के लिए सक्षम है क्योंकि एम्बेडेड छवि भी कॉपी किया जाता है। यदि आप एम्बेडेड छवि उपयोग को साझा करना चाहते हैं[`DuplicateLayer`](./duplicatelayer/) विधि. |
-| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | कोण को सामान्य करता है। यह विधि तिरछी स्कैन से छुटकारा पाने के लिए स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। यह विधि उपयोग करती है[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) और[`Rotate`](../../aspose.psd/rasterimage/rotate/) तरीके. |
-| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | कोण को सामान्य करता है। यह विधि तिरछी स्कैन से छुटकारा पाने के लिए स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। यह विधि उपयोग करती है[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) और[`Rotate`](../../aspose.psd/rasterimage/rotate/) तरीके. |
-| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन को पढ़ता है। |
-| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन को पढ़ता है। |
-| [RelinkToFile](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/)(string) | लिंक किए गए स्मार्ट ऑब्जेक्ट को एक नई फ़ाइल से दोबारा लिंक करता है। बाद में UpdateModifiedContent विधि को कॉल करने की कोई आवश्यकता नहीं है। |
-| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | अनुमत अंतर के साथ एक रंग को दूसरे रंग में बदलता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | अनुमत अंतर के साथ एक रंग को दूसरे रंग में बदलता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents)(Image) | स्मार्ट ऑब्जेक्ट परत में एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री को प्रतिस्थापित करता है। |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_2)(string) | सामग्री को फ़ाइल से बदल देता है. बाद में UpdateModifiedContent विधि को कॉल करने की कोई आवश्यकता नहीं है. |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_1)(Image, ResolutionSetting) | स्मार्ट ऑब्जेक्ट परत में एम्बेडेड स्मार्ट ऑब्जेक्ट सामग्री को प्रतिस्थापित करता है। |
-| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_3)(string, ResolutionSetting) | सामग्री को फ़ाइल से बदल देता है. बाद में UpdateModifiedContent विधि को कॉल करने की कोई आवश्यकता नहीं है. |
-| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | सभी गैर-पारदर्शी रंगों को नए रंग से बदल देता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | सभी गैर-पारदर्शी रंगों को नए रंग से बदल देता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | छवि का आकार बदलता है। डिफ़ॉल्टLeftTopToLeftTopप्रयोग किया जाता है. |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | छवि का आकार बदलता है। |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ResizeType) | छवि का आकार बदलता है। |
-| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | इमेज को बीच में घुमाएं. |
-| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | इमेज को बीच में घुमाएं. |
-| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | छवि को घुमाता है, फ़्लिप करता है या घुमाता है और फ़्लिप करता है. |
-| [Save](../../aspose.psd/image/save/)() | छवि डेटा को अंतर्निहित स्ट्रीम में सहेजता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream) | ऑब्जेक्ट के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| [Save](../../aspose.psd/datastreamsupporter/save/)(string) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
-| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, bool) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase, Rectangle) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है। |
-| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | 32-बिट ARGB पिक्सेल सहेजता है. |
-| [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | पिक्सेल सहेजता है. |
-| [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | पिक्सेल सहेजता है. |
-| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | कच्चे डेटा को सहेजता है। |
-| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | निर्दिष्ट स्थान के लिए एक छवि 32-बिट ARGB पिक्सेल सेट करता है। |
-| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | इमेज पैलेट सेट करता है. |
-| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | निर्दिष्ट स्थान के लिए एक छवि पिक्सेल सेट करता है। |
-| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | इसके लिए संकल्प सेट करता है[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | वर्तमान परत की उथली प्रति बनाता है। कृपया[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) स्पष्टीकरण के लिए. |
-| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | रेखापुंज छवि को बिटमैप में परिवर्तित करता है। |
-| [UpdateModifiedContent](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/)() | संशोधित सामग्री के साथ स्मार्ट ऑब्जेक्ट लेयर इमेज कैश को अपडेट करता है। |
-| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स में लिखता है। |
-| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स में लिखता है। |
+| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | संसाधन छवि के अंतिम संशोधित होने की तिथि और समय प्राप्त करता है। |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | मूल फ़ाइल सेटिंग्स के आधार पर विकल्प प्राप्त करता है। यह मूल छवि की बिट-डेप्थ और अन्य पैरामीटर को अपरिवर्तित रखने में मददगार हो सकता है। उदाहरण के लिए, यदि हम 1 बिट प्रति पिक्सेल वाले ब्लैक-व्हाइट PNG छवि को लोड करते हैं और फिर [`Save`](../../aspose.psd/datastreamsupporter/save/) मेथड का उपयोग करके सहेजते हैं, तो आउटपुट PNG छवि 8-बिट प्रति पिक्सेल के साथ उत्पन्न होगी। इसे रोकने और 1-बिट प्रति पिक्सेल के साथ PNG छवि सहेजने के लिए, इस मेथड का उपयोग करके संबंधित सहेजने विकल्प प्राप्त करें और उन्हें दूसरे पैरामीटर के रूप में [`Save`](../../aspose.psd/image/save/) मेथड को पास करें। |
+| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | एक छवि पिक्सेल प्राप्त करता है। प्रदर्शन चेतावनी: सभी छवि पिक्सेल पर इटररेट करने के लिए इस मेथड का उपयोग करने से बचें क्योंकि इससे महत्वपूर्ण प्रदर्शन समस्याएँ हो सकती हैं। अधिक कुशल पिक्सेल हेरफेर के लिए, पूरे पिक्सेल एरे को एक साथ प्राप्त करने हेतु `LoadArgb32Pixels` मेथड का उपयोग करें। |
+| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | स्क्यू कोण प्राप्त करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होता है, स्कैनिंग के दौरान स्क्यू कोण निर्धारित करने के लिए। |
+| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | छवि को उसके ग्रेस्केल प्रतिनिधित्व में रूपांतरित करना |
+| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | 32-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | 64-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | CMYK फ़ॉर्मेट में पिक्सेल लोड करता है। |
+| [LoadCmykPixels](../../aspose.psd/rasterimage/loadcmykpixels/)(Rectangle) | CMYK फ़ॉर्मेट में पिक्सेल लोड करता है। यह मेथड अप्रचलित है। कृपया अधिक प्रभावी [`LoadCmyk32Pixels`](../../aspose.psd/rasterimage/loadcmyk32pixels/) मेथड का उपयोग करें। |
+| [LoadContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/)(LoadOptions) | स्मार्ट ऑब्जेक्ट लेयर की एम्बेडेड या लिंक्ड इमेज कंटेंट प्राप्त करता है। |
+| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | पैक्स द्वारा आंशिक रूप से 32-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पैक्स द्वारा आंशिक रूप से पिक्सेल लोड करता है। |
+| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | पिक्सेल लोड करता है। |
+| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | कच्चा डेटा लोड करता है। |
+| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | कच्चा डेटा लोड करता है। |
+| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | लेयर को निर्दिष्ट लेयर में मर्ज करता है। |
+| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/)() | इस लेयर की कॉपी करके नया स्मार्ट ऑब्जेक्ट लेयर बनाता है। Adobe Photoshop की `Layer -> Smart Objects -> New Smart Object via Copy` कार्यक्षमता को पुन: उत्पन्न करता है। ध्यान दें कि यह केवल एम्बेडेड स्मार्ट ऑब्जेक्ट्स के लिए सक्षम है क्योंकि एम्बेडेड इमेज भी कॉपी होती है। यदि आप एम्बेडेड इमेज साझा करना चाहते हैं तो [`DuplicateLayer`](./duplicatelayer/) मेथड का उपयोग करें। |
+| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | कोण को सामान्यीकृत करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर विकृत स्कैन को हटाने के लिए लागू होता है। यह मेथड [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) और [`Rotate`](../../aspose.psd/rasterimage/rotate/) मेथड्स का उपयोग करता है। |
+| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | कोण को सामान्यीकृत करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर विकृत स्कैन को हटाने के लिए लागू होता है। यह मेथड [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) और [`Rotate`](../../aspose.psd/rasterimage/rotate/) मेथड्स का उपयोग करता है। |
+| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है। |
+| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है। |
+| [RelinkToFile](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/relinktofile/)(string) | लिंक्ड स्मार्ट ऑब्जेक्ट को नई फ़ाइल से पुनः लिंक करता है। बाद में UpdateModifiedContent मेथड को कॉल करने की आवश्यकता नहीं है। |
+| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | अनुमत अंतर के साथ एक रंग को दूसरे से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। |
+| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | अनुमत अंतर के साथ एक रंग को दूसरे से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents)(Image) | स्मार्ट ऑब्जेक्ट लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट कंटेंट को बदलता है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_2)(string) | कंटेंट को फ़ाइल से बदलता है। बाद में UpdateModifiedContent मेथड को कॉल करने की आवश्यकता नहीं है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_1)(Image, ResolutionSetting) | स्मार्ट ऑब्जेक्ट लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट कंटेंट को बदलता है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_5)(string, bool) | कंटेंट को फ़ाइल से बदलता है। बाद में UpdateModifiedContent मेथड को कॉल करने की आवश्यकता नहीं है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_3)(string, ResolutionSetting) | कंटेंट को फ़ाइल से बदलता है। बाद में UpdateModifiedContent मेथड को कॉल करने की आवश्यकता नहीं है। |
+| [ReplaceContents](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/#replacecontents_4)(string, ResolutionSetting, bool) | कंटेंट को फ़ाइल से बदलता है। बाद में UpdateModifiedContent मेथड को कॉल करने की आवश्यकता नहीं है। |
+| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | सभी गैर-ट्रांसपेरेंट रंगों को नए रंग से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। नोट: यदि आप इसे बिना ट्रांसपेरेंसी वाली इमेज पर उपयोग करते हैं, तो सभी रंग एक ही रंग से बदल दिए जाएंगे। |
+| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | सभी गैर-ट्रांसपेरेंट रंगों को नए रंग से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। नोट: यदि आप इसे बिना ट्रांसपेरेंसी वाली इमेज पर उपयोग करते हैं, तो सभी रंग एक ही रंग से बदल दिए जाएंगे। |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | इमेज का आकार बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है। |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | इमेज का आकार बदलता है। |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ResizeType) | इमेज का आकार बदलता है। |
+| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | चौड़ाई को अनुपातिक रूप से बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है। |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | चौड़ाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | चौड़ाई को अनुपातिक रूप से बदलता है। |
+| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | इमेज को केंद्र के चारों ओर घुमाता है। |
+| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | इमेज को केंद्र के चारों ओर घुमाता है। |
+| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | इमेज को घुमाता है, फ़्लिप करता है, या घुमाकर फ़्लिप करता है। |
+| [Save](../../aspose.psd/image/save/)() | इमेज डेटा को अंतर्निहित स्ट्रीम में सहेजता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream) | ऑब्जेक्ट का डेटा निर्दिष्ट स्ट्रीम में सहेजता है। |
+| [Save](../../aspose.psd/datastreamsupporter/save/)(string) | ऑब्जेक्ट का डेटा निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, bool) | ऑब्जेक्ट का डेटा निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase) | ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase, Rectangle) | ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | 32-बिट ARGB पिक्सेल को सहेजता है। |
+| [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | पिक्सेल को सहेजता है। |
+| [SaveCmykPixels](../../aspose.psd/rasterimage/savecmykpixels/)(Rectangle, CmykColor[]) | पिक्सेल को सहेजता है। यह मेथड अब अप्रचलित है। कृपया अधिक प्रभावी [`SaveCmyk32Pixels`](../../aspose.psd/rasterimage/savecmyk32pixels/) मेथड का उपयोग करें। |
+| [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | पिक्सेल को सहेजता है। |
+| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | कच्चा डेटा सहेजता है। |
+| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | निर्दिष्ट स्थिति के लिए इमेज का 32-बिट ARGB पिक्सेल सेट करता है। |
+| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | इमेज पैलेट सेट करता है। |
+| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | निर्दिष्ट स्थिति के लिए इमेज पिक्सेल सेट करता है। |
+| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | इस [`RasterImage`](../../aspose.psd/rasterimage/) की रिज़ॉल्यूशन सेट करता है। |
+| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | वर्तमान लेयर की शैलो कॉपी बनाता है। व्याख्या के लिए कृपया [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) देखें। |
+| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | रास्टर इमेज को बिटमैप में बदलता है। |
+| [UpdateModifiedContent](../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/)() | स्मार्ट ऑब्जेक्ट लेयर इमेज कैश को संशोधित सामग्री के साथ अपडेट करता है। |
+| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स पर लिखता है। |
+| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स पर लिखता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड एंबेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड एम्बेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -196,7 +211,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// यह उदाहरण दर्शाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत को कैसे बदलना है और स्मार्ट ऑब्जेक्ट मूल एम्बेडेड सामग्री को निर्यात / अपडेट करना है।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर को कैसे बदलें और स्मार्ट ऑब्जेक्ट की मूल एम्बेडेड सामग्री को निर्यात/अपडेट करें।
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -225,10 +240,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // चलिए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को एक्सपोर्ट करते हैं
+        // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को निर्यात करें
         smartObjectLayer.ExportContents(exportPath);
 
-        // आइए देखें कि मूल छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि मूल इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -236,7 +251,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उल्टा करें
+            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उलटें
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -247,23 +262,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // आइए एम्बेडेड स्मार्ट ऑब्जेक्ट छवि को PSD परत में बदलें
+            // आइए PSD लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को बदलें
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // देखते हैं कि अपडेट की गई छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि अपडेटेड इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../../aspose.psd.fileformats.psd/smartobjectprovider/)
 * class [LinkDataSource](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../)
 
 

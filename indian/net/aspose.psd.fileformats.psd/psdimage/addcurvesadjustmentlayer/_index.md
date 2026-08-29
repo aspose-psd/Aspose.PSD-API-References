@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. वक्र समयजन परत जड़त है.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। Curves Adjustment लेयर जोड़ता है"
 type: docs
-weight: 330
+weight: 340
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-वक्र समायोजन परत जोड़ता है.
+कर्व्स एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया था[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) परत
+बनाया गया [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) लेयर
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

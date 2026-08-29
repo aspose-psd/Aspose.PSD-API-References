@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ConvolutionFilterOptions संपत्त. करक प्रप्त करत है य सेट करत है
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ConvolutionFilterOptions प्रॉपर्टी। फैक्टर को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
-कारक प्राप्त करता है या सेट करता है।
+factor को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Factor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कारक।
+फैक्टर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ConvolutionFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

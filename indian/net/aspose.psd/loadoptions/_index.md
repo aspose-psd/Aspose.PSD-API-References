@@ -1,11 +1,12 @@
 ---
-title: Class LoadOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.LoadOptions कक्ष. लडंग वकल्पं क प्रतनधत्व करत है
+title: "क्लास LoadOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.LoadOptions क्लास। लोडिंग विकल्पों का प्रतिनिधित्व करता है"
 type: docs
-weight: 5080
+weight: 5570
 url: /hi/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
 लोडिंग विकल्पों का प्रतिनिधित्व करता है।
@@ -18,21 +19,21 @@ public class LoadOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [LoadOptions](loadoptions/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [LoadOptions](loadoptions/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | हो जाता है या सेट करता है[`Image`](../image/) पृष्ठभूमि[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | डेटा रिकवरी मोड प्राप्त या सेट करता है। |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | प्रगति ईवेंट हैंडलर प्राप्त या सेट करता है। |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | एक मान प्राप्त या सेट करता है जो दर्शाता है कि ICC प्रोफ़ाइल रूपांतरण लागू किया जाना चाहिए या नहीं। |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | [`Image`](../image/) पृष्ठभूमि [`Color`](../color/) को प्राप्त करता है या सेट करता है। |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | डेटा रिकवरी मोड को प्राप्त करता है या सेट करता है। |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | प्रोग्रेस इवेंट हैंडलर को प्राप्त करता है या सेट करता है। |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि ICC प्रोफ़ाइल रूपांतरण लागू किया जाना चाहिए या नहीं। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

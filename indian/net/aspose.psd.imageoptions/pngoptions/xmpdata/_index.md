@@ -1,28 +1,29 @@
 ---
-title: PngOptions.XmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngOptions संपत्त. एक्सएमप मेटडेट कंटेनर प्रप्त य सेट करत है
+title: "PngOptions.XmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngOptions प्रॉपर्टी। प्राप्त करता है या सेट करता है XMP मेटाडाटा कंटेनर।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.imageoptions/pngoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PngOptions.XmpData property
 
-एक्सएमपी मेटाडेटा कंटेनर प्राप्त या सेट करता है।
+XMP मेटाडेटा कंटेनर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-XMP डेटा कंटेनर.
+XMP डेटा कंटेनर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PngOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pngoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. मूल त्रज्य आयत प्रप्त य सेट करत है
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। मूल त्रिज्या आयत को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-मूल त्रिज्या आयत प्राप्त या सेट करता है।
+origin radii rectangle प्राप्त करता है या सेट करता है।
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मूल त्रिज्या आयत.
+मूल त्रिज्या आयत।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

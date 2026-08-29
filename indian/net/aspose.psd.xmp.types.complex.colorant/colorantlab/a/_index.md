@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.A
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantLab संपत्त. ए घटक प्रप्त य सेट करत है
+title: "ColorantLab.A"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantLab प्रॉपर्टी। A घटक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
-ए घटक प्राप्त या सेट करता है।
+A घटक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int A { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए घटक।
+यह A घटक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

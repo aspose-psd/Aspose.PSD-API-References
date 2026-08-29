@@ -1,11 +1,12 @@
 ---
-title: XmpResource.XmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpResource संपत्त. XMP डेट कंटेनर प्रप्त करें य सेट करें
+title: "XmpResource.XmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpResource प्रॉपर्टी। XMP डेटा कंटेनर प्राप्त करें या सेट करें"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpdata/
 ---
+{{< psd/tize >}}
 ## XmpResource.XmpData property
 
 XMP डेटा कंटेनर प्राप्त करें या सेट करें
@@ -14,11 +15,11 @@ XMP डेटा कंटेनर प्राप्त करें या �
 public XmpPacketWrapper XmpData { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [XmpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

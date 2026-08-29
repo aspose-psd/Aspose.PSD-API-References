@@ -1,11 +1,12 @@
 ---
-title: Image.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. छव क आकर प्रप्त करत है
+title: "Image.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। छवि का आकार प्राप्त करता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
 छवि का आकार प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd/image/size/
 public Size Size { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 छवि का आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

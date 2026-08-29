@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.Create
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings तरक. इस उदहरण क बनत है
+title: "RdOptimizerSettings.Create"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings मेथड। इस इंस्टेंस को बनाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.Create method
 
 इस उदाहरण को बनाता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/create/
 public static RdOptimizerSettings Create()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-RDOptimizerSettings क्लास इंस्टेंस लौटाता है
+RDOptimizerSettings क्लास का इंस्टेंस रिटर्न करता है
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

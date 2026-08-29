@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry तरक. इसके प्रकर के नम से पहल समर्थत फ़इल स्वरूप प्रप्त करत है
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry मेथड। उसके टाइप नाम द्वारा पहला समर्थित फ़ाइल फ़ॉर्मेट प्राप्त करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-इसके प्रकार के नाम से पहला समर्थित फ़ाइल स्वरूप प्राप्त करता है।
+उसके टाइप नाम द्वारा पहला समर्थित फ़ाइल फ़ॉर्मेट प्राप्त करता है।
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fileFormat | FileFormat | समर्थित डिस्क्रिप्टर फ़ाइल स्वरूप। |
+| fileFormat | FileFormat | समर्थित डिस्क्रिप्टर फ़ाइल फ़ॉर्मेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पहला पाया गया लोडर डिस्क्रिप्टर या अशक्त यदि ऐसा डिस्क्रिप्टर नहीं मिला है।
+पहला मिला हुआ लोडर डिस्क्रिप्टर या null यदि ऐसा डिस्क्रिप्टर नहीं मिला।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला लोडर डिस्क्रिप्टर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

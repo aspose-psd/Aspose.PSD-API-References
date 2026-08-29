@@ -1,27 +1,28 @@
 ---
-title: CmykColor.C
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor संपत्त. इसक सयन घटक मन प्रप्त करत हैColorसंरचन.
+title: "CmykColor.C"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor प्रॉपर्टी। इस Color संरचना का सियान घटक मान प्राप्त करता है"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd/cmykcolor/c/
 ---
+{{< psd/tize >}}
 ## CmykColor.C property
 
-इसका सियान घटक मान प्राप्त करता है[`Color`](../../color/)संरचना.
+इस [`Color`](../../color/) संरचना का सियान घटक मान प्राप्त करता है।
 
 ```csharp
 public byte C { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका सियान घटक मान[`Color`](../../color/) .
+इस [`Color`](../../color/) का सियान घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

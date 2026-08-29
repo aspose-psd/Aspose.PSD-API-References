@@ -1,28 +1,29 @@
 ---
-title: Color.ToKnownColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. ह जत हैKnownColor इसक मूल्यColorसंरचन.
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color मेथड। इस Color संरचना का KnownColor मान प्राप्त करता है"
 type: docs
 weight: 1600
 url: /hi/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-हो जाता है[`KnownColor`](../../knowncolor/) इसका मूल्य[`Color`](../)संरचना.
+इस [`Color`](../) संरचना का [`KnownColor`](../../knowncolor/) मान प्राप्त करता है।
 
 ```csharp
 public KnownColor ToKnownColor()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-का एक तत्व[`KnownColor`](../../knowncolor/)गणना, यदि[`Color`](../) या तो का उपयोग करके एक पूर्वनिर्धारित रंग से बनाया गया है[`FromName`](../fromname/) विधि या[`FromKnownColor`](../fromknowncolor/) तरीका; अन्यथा, 0.
+`[`KnownColor`](../../knowncolor/)` एनीमरेशन का एक तत्व है, यदि [`Color`](../) को पूर्वनिर्धारित रंग से [`FromName`](../fromname/) मेथड या [`FromKnownColor`](../fromknowncolor/) मेथड का उपयोग करके बनाया गया हो; अन्यथा, 0।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

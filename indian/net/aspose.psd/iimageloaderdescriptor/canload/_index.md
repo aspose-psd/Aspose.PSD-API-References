@@ -1,34 +1,35 @@
 ---
-title: IImageLoaderDescriptor.CanLoad
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageLoaderDescriptor तरक. नर्धरत करत है क छव लडर नर्दष्ट स्ट्रम से एक नई छव पढ़ सकत है और वैकल्पक रूप सेloadOptions .
+title: "IImageLoaderDescriptor.CanLoad"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageLoaderDescriptor विधि। निर्धारित करता है कि इमेज लोडर निर्दिष्ट स्ट्रीम से नई इमेज पढ़ सकता है और वैकल्पिक रूप से loadOptions का उपयोग कर सकता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iimageloaderdescriptor/canload/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CanLoad method
 
-निर्धारित करता है कि छवि लोडर निर्दिष्ट स्ट्रीम से एक नई छवि पढ़ सकता है और वैकल्पिक रूप से*loadOptions* .
+निर्धारित करता है कि इमेज लोडर निर्दिष्ट स्ट्रीम से नई इमेज पढ़ सकता है या नहीं, और वैकल्पिक रूप से *loadOptions* का उपयोग करके।
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
-| loadOptions | LoadOptions | द्वारा निर्दिष्ट फ़ाइल प्रारूप विवरण*loadOptions* .*loadOptions* शून्य हो सकता है। |
+| loadOptions | LoadOptions | फ़ाइल फ़ॉर्मेट विवरण *loadOptions* द्वारा निर्दिष्ट किया गया है। *loadOptions* null हो सकता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` अगर इस डिस्क्रिप्टर द्वारा बनाया गया इमेज लोडर स्ट्रीम से इमेज पढ़ सकता है; अन्यथा,`असत्य` .
+`true` यदि इस डिस्क्रिप्टर द्वारा निर्मित इमेज लोडर स्ट्रीम से इमेज पढ़ सकता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoaderDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimageloaderdescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

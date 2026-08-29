@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. न्यूनतम अनुमत परमणकरण मन प्रप्त करत है
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings property. न्यूनतम अनुमत क्वांटाइज़ेशन मान प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-न्यूनतम अनुमत परिमाणीकरण मान प्राप्त करता है।
+न्यूनतम अनुमत क्वांटाइज़ेशन मान प्राप्त करता है।
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-न्यूनतम न्यूनतम अनुमत परिमाणीकरण मान।
+न्यूनतम न्यूनतम अनुमत क्वांटाइज़ेशन मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

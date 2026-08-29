@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientColorPoint संपत्त. ग्रेडएंट पर बंदु स्थन प्रप्त य सेट करत है
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientColorPoint प्रॉपर्टी। ग्रेडिएंट पर बिंदु स्थान को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-ग्रेडिएंट पर बिंदु स्थान प्राप्त या सेट करता है।
+ग्रेडिएंट पर पॉइंट लोकेशन प्राप्त करता या सेट करता है।
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientColorPoint](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

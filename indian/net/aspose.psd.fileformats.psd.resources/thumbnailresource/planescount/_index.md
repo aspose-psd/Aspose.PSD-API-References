@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.PlanesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ThumbnailResource संपत्त. वमनं क संख्य प्रप्त य सेट करत है
+title: "ThumbnailResource.PlanesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ThumbnailResource प्रॉपर्टी। प्लेन्स काउंट प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailresource/planescount/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.PlanesCount property
 
-विमानों की संख्या प्राप्त या सेट करता है।
+प्लेन की गिनती को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short PlanesCount { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-थंबनेल विमानों की गिनती होती है।
+थंबनेल प्लेन्स काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ThumbnailResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

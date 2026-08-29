@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSVersionID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS संस्करण पहचनकर्त प्रप्त य सेट करत है
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS संस्करण पहचानकर्ता को प्राप्त या सेट करता है"
 type: docs
 weight: 670
 url: /hi/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
-GPS संस्करण पहचानकर्ता प्राप्त या सेट करता है।
+GPS संस्करण पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] GPSVersionID { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस संस्करण पहचानकर्ता।
+GPS संस्करण पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

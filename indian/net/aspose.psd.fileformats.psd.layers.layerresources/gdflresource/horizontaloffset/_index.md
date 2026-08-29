@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.HorizontalOffset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GdFlResource संपत्त. क्षैतज ऑफसेट प्रप्त य सेट करत है
+title: "GdFlResource.HorizontalOffset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GdFlResource प्रॉपर्टी. क्षैतिज ऑफ़सेट प्राप्त करता है या सेट करता है"
 type: docs
-weight: 100
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.HorizontalOffset property
 
-क्षैतिज ऑफसेट प्राप्त या सेट करता है।
+क्षैतिज ऑफ़सेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्षैतिज ऑफ़सेट.
+क्षैतिज ऑफसेट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण GdFlResource संसाधन लोडिंग के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण GdFlResource संसाधन लोडिंग के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // अध्ययन
+                    // पढ़ना
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GdFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisterCreator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreatorsRegistry तरक. नर्मत क पंजकृत करत है
+title: "ImageCreatorsRegistry.RegisterCreator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreatorsRegistry विधि। निर्माता को पंजीकृत करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/imagecreatorsregistry/registercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisterCreator method
 
-निर्माता को पंजीकृत करता है।
+क्रिएटर को रजिस्टर करता है।
 
 ```csharp
 public static void RegisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | रजिस्टर करने के लिए क्रिएटर डिस्क्रिप्टर। |
+| creatorDescriptor | IImageCreatorDescriptor | पंजीकृत करने के लिए निर्माता विवरणकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imagecreatorsregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

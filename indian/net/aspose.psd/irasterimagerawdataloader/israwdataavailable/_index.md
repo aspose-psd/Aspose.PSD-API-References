@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IRasterImageRawDataLoader संपत्त. यह इंगत करने वल मन प्रप्त करत है क अपरष्कृत डेट लड करन समर्थत है य नहं.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IRasterImageRawDataLoader प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि रॉ डेटा लोडिंग समर्थित है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-यह इंगित करने वाला मान प्राप्त करता है कि अपरिष्कृत डेटा लोड करना समर्थित है या नहीं.
+कच्चा डेटा लोडिंग समर्थित है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि अपरिष्कृत डेटा लोडिंग समर्थित है; अन्यथा,`असत्य` .
+`true` यदि कच्चा डेटा लोडिंग समर्थित है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IRasterImageRawDataLoader](../)
-* नाम स्थान [Aspose.PSD](../../irasterimagerawdataloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

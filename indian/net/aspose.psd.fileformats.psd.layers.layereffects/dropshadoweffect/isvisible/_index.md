@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.IsVisible
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DropShadowEffect संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण दृश्यमन है य नहं
+title: "DropShadowEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DropShadowEffect प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस दृश्यमान है या नहीं"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.IsVisible property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं।
+एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं।
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण दिखाई दे रहा है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस दृश्यमान है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड DropShadowEffect के अपारदर्शिता गुण का उपयोग करके प्रदर्शित करता है।
+निम्नलिखित कोड DropShadowEffect की Opacity प्रॉपर्टी के उपयोग को दर्शाता है।
 
 ```csharp
 [C#]
@@ -37,20 +38,20 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // उदाहरण अपारदर्शिता = 20 के साथ
+    // उदाहरण Opacity = 20 के साथ
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // उदाहरण अपारदर्शिता = 20 के साथ0
+    // उदाहरण Opacity = 200 के साथ
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [DropShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

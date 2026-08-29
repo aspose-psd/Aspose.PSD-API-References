@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UrlListResource संपत्त. आईड प्रप्त करत है य सेट करत है
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UrlListResource प्रॉपर्टी। आईडी प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-आईडी प्राप्त करता है या सेट करता है।
+आईडीज़ को प्राप्त या सेट करता है।
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आईडी.
+आईडी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [UrlListResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

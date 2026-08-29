@@ -1,28 +1,29 @@
 ---
-title: Graphics.PageUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. इस Aspose.PSD.Graphics. में पृष्ठ नर्देशंक के लए उपयग क जने वल मप क इकई क प्रप्त य सेट करत है
+title: "Graphics.PageUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। इस Aspose.PSD.Graphics में पृष्ठ निर्देशांक के लिए उपयोग की जाने वाली माप इकाई को प्राप्त या सेट करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/graphics/pageunit/
 ---
+{{< psd/tize >}}
 ## Graphics.PageUnit property
 
-इस Aspose.PSD.Graphics. में पृष्ठ निर्देशांक के लिए उपयोग की जाने वाली माप की इकाई को प्राप्त या सेट करता है
+इस Aspose.PSD.Graphics में पेज कॉर्डिनेट्स के लिए उपयोग की जाने वाली माप इकाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public GraphicsUnit PageUnit { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इस Aspose.PSD.Graphics. में पृष्ठ निर्देशांक के लिए उपयोग की जाने वाली माप की इकाई
+इस Aspose.PSD.Graphics में पृष्ठ निर्देशांक के लिए उपयोग की जाने वाली माप इकाई।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

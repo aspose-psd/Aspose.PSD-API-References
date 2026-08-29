@@ -1,29 +1,30 @@
 ---
-title: MotionWienerFilterOptions.MotionWienerFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MotionWienerFilterOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैMotionWienerFilterOptions वर्ग.
+title: "MotionWienerFilterOptions.MotionWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MotionWienerFilterOptions कंस्ट्रक्टर। MotionWienerFilterOptions क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`MotionWienerFilterOptions`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`MotionWienerFilterOptions`](../) क्लास का।
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| length | Int32 | लंबाई। |
-| smooth | Double | समतल। |
-| angle | Double | ग्रेडस में कोण। |
+| लंबाई | Int32 | लंबाई। |
+| स्मूदता | Double | स्मूदता। |
+| कोण | Double | ग्रेडुस में कोण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [MotionWienerFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

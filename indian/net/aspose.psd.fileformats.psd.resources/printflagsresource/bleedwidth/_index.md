@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PrintFlagsResource संपत्त. ब्लड क चड़ई प्रप्त य सेट करत है
+title: "PrintFlagsResource.BleedWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PrintFlagsResource प्रॉपर्टी। ब्लीड की चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedWidth property
 
-ब्लीड की चौड़ाई प्राप्त या सेट करता है।
+ब्लीड की चौड़ाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int BleedWidth { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ब्लीड की चौड़ाई.
+ब्लीड की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PrintFlagsResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

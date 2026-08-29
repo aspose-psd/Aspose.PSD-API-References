@@ -1,29 +1,30 @@
 ---
-title: Class ColorExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.ColorExtensions कक्ष. दColor वस्तर के तरके
+title: "क्लास ColorExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.ColorExtensions क्लास। Color एक्सटेंशन मेथड्स।"
 type: docs
-weight: 1050
+weight: 1060
 url: /hi/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-द[`Color`](../../aspose.psd/color/) विस्तार के तरीके।
+`[`Color`](../../aspose.psd/color/)` एक्सटेंशन मेथड्स।
 
 ```csharp
 public static class ColorExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | परिवर्तित करता है[`Color`](../../aspose.psd/color/) तकColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | परिवर्तित करता है[`Color`](../../aspose.psd/color/) सरणी के लिएColor सरणी. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | `[`Color`](../../aspose.psd/color/)` को Color में परिवर्तित करता है। |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | `[`Color`](../../aspose.psd/color/)` एरे को Color एरे में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

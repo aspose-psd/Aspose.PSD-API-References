@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहColor संरचन एक नमत रंग य क सदस्य हैKnownColor गणन.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि यह Color संरचना एक नामित रंग है या KnownColor एनेमरेशन का सदस्य है।"
 type: docs
 weight: 1510
 url: /hi/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`Color`](../) संरचना एक नामित रंग या का सदस्य है[`KnownColor`](../../knowncolor/) गणना.
+एक मान प्राप्त करता है जो दर्शाता है कि यह [`Color`](../) संरचना एक नामित रंग है या [`KnownColor`](../../knowncolor/) एनेमरेशन का सदस्य है।
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सच है अगर यह[`Color`](../) का उपयोग करके बनाया गया था[`FromName`](../fromname/) विधि या[`FromKnownColor`](../fromknowncolor/) तरीका; अन्यथा झूठा।
+यदि यह [`Color`](../) [`FromName`](../fromname/) विधि या [`FromKnownColor`](../fromknowncolor/) विधि में से किसी एक का उपयोग करके बनाया गया हो तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

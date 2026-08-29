@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.VDpi
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResolutionInfoResource संपत्त. कर्यक्षेत्र DPI.
+title: "ResolutionInfoResource.VDpi"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResolutionInfoResource प्रॉपर्टी। लंबवत DPI"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/vdpi/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.VDpi property
 
-कार्यक्षेत्र DPI.
+वर्टिकल DPI।
 
 ```csharp
 public FixedPointDecimal VDpi { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लंबवत डीपीआई.
+लंबवत DPI।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../../fixedpointdecimal/)
 * class [ResolutionInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

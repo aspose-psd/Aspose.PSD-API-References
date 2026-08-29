@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस क्षेत्र क जनकर प्रप्त य सेट करत है
+title: "ExifData.GPSAreaInformation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS क्षेत्र जानकारी प्राप्त करता है या सेट करता है"
 type: docs
 weight: 380
 url: /hi/net/aspose.psd.exif/exifdata/gpsareainformation/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAreaInformation property
 
-जीपीएस क्षेत्र की जानकारी प्राप्त या सेट करता है।
+GPS क्षेत्र जानकारी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] GPSAreaInformation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस क्षेत्र की जानकारी।
+GPS क्षेत्र जानकारी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

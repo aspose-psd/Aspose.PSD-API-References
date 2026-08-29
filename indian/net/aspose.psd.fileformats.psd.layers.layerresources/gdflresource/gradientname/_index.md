@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GdFlResource संपत्त. ग्रेडएंट क नम प्रप्त य सेट करत है
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GdFlResource प्रॉपर्टी। ग्रेडिएंट का नाम प्राप्त करता है या सेट करता है"
 type: docs
-weight: 80
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-ग्रेडिएंट का नाम प्राप्त या सेट करता है।
+ग्रेडिएंट का नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 ग्रेडिएंट का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GdFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

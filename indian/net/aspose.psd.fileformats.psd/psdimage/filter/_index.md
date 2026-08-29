@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Filter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. नर्दष्ट आयत क फ़ल्टर करत है
+title: "PsdImage.Filter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage विधि. निर्दिष्ट आयत को फ़िल्टर करता है"
 type: docs
-weight: 530
+weight: 590
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
 निर्दिष्ट आयत को फ़िल्टर करता है।
@@ -14,17 +15,17 @@ url: /hi/net/aspose.psd.fileformats.psd/psdimage/filter/
 public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | आयत। |
-| options | FilterOptionsBase | विकल्प। |
+| आयत | Rectangle | आयत। |
+| विकल्प | FilterOptionsBase | विकल्प। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

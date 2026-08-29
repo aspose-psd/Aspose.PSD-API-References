@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreatorsRegistry संपत्त. पंजकृत छव नर्मण प्ररूप प्रप्त करत है
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreatorsRegistry प्रॉपर्टी। पंजीकृत इमेज निर्माण स्वरूप प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
-पंजीकृत छवि निर्माण प्रारूप प्राप्त करता है।
+पंजीकृत इमेज निर्माण फ़ॉर्मेट प्राप्त करता है।
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंजीकृत छवि निर्माण प्रारूप।
+पंजीकृत इमेज निर्माण स्वरूप।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imagecreatorsregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

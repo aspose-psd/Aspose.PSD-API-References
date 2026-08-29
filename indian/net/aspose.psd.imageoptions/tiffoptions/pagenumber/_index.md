@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.PageNumber
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. पेज नंबर टैग प्रप्त य सेट करत है
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। पेज नंबर टैग को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 300
+weight: 310
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-पेज नंबर टैग प्राप्त या सेट करता है।
+पृष्ठ संख्या टैग को प्राप्त या सेट करता है।
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पृष्ठ संख्या टैग.
+पेज नंबर टैग।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कीमत |
-| ArgumentOutOfRangeException | मान; सरणी में अपेक्षित 2 मान: पृष्ठ संख्या [0] पृष्ठ संख्या है और पृष्ठ संख्या [1] दस्तावेज़ में पृष्ठों की कुल संख्या है। |
+| ArgumentNullException | मान |
+| ArgumentOutOfRangeException | value;एरे में 2 मान अपेक्षित हैं: PageNumber[0] पेज नंबर है और PageNumber[1] दस्तावेज़ में कुल पृष्ठों की संख्या है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

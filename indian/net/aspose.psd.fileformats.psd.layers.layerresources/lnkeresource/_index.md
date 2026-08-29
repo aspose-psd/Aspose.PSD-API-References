@@ -1,14 +1,15 @@
 ---
-title: Class LnkeResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource कक्ष. LnkeResource वर्ग क परभषत करत है जसमें PSD प्ररूप छव में बहर लंक क गई फ़इलं य संपत्तयं के बरे में जनकर हत है लंक संसधन में कई शमल ह सकते हैंLiFeDataSource ऐसे उदहरण जन्हें अनुक्रमणक द्वर एक्सेस कय ज सकत है यह PSD फ़इल स्वरूप हेरफेर एपआई क एक हस्स है ज Adobe Photoshop फ़इलं क प्रग्रमेटक रूप से संशधत करने में मदद करत है
+title: "क्लास LnkeResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource क्लास। यह LnkeResource क्लास को परिभाषित करता है जो PSD फ़ॉर्मेट छवि में बाहरी लिंक्ड फ़ाइलों या एसेट्स की जानकारी रखती है। लिंक रिसोर्स में कई LiFeDataSource इंस्टेंस हो सकते हैं जिन्हें इंडेक्सर द्वारा एक्सेस किया जा सकता है। यह PSD फ़ाइल फ़ॉर्मेट मैनिपुलेशन API का हिस्सा है जो Adobe Photoshop फ़ाइलों को प्रोग्रामेटिक रूप से संशोधित करने में मदद करता है।"
 type: docs
-weight: 2740
+weight: 3050
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-LnkeResource वर्ग को परिभाषित करता है जिसमें PSD प्रारूप छवि में बाहरी लिंक की गई फ़ाइलों या संपत्तियों के बारे में जानकारी होती है। लिंक संसाधन में कई शामिल हो सकते हैं[`LiFeDataSource`](../lifedatasource/) ऐसे उदाहरण जिन्हें अनुक्रमणिका द्वारा एक्सेस किया जा सकता है। यह PSD फ़ाइल स्वरूप हेरफेर एपीआई का एक हिस्सा है जो Adobe® Photoshop® फ़ाइलों को प्रोग्रामेटिक रूप से संशोधित करने में मदद करता है
+LnkeResource क्लास को परिभाषित करता है जो PSD फ़ॉर्मेट छवि में बाहरी लिंक्ड फ़ाइलों या एसेट्स की जानकारी रखती है। लिंक रिसोर्स में कई [`LiFeDataSource`](../lifedatasource/) इंस्टेंस हो सकते हैं जिन्हें इंडेक्सर द्वारा एक्सेस किया जा सकता है। यह PSD फ़ाइल फ़ॉर्मेट मैनिपुलेशन API का हिस्सा है जो Adobe® Photoshop® फ़ाइलों को प्रोग्रामेटिक रूप से संशोधित करने में मदद करता है।
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -18,37 +19,37 @@ public class LnkeResource : LinkResource
 
 | नाम | विवरण |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`LnkeResource` वर्ग. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | का एक नया उदाहरण प्रारंभ करता है`LnkeResource` वर्ग. |
+| [LnkeResource](lnkeresource/#constructor)() | `LnkeResource` क्लास का नया इंस्टेंस प्रारंभ करता है। |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | `LnkeResource` क्लास का नया इंस्टेंस प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | उन लिंक डेटा स्रोतों की संख्या प्राप्त करता है जिन तक अनुक्रमणिका द्वारा पहुँचा जा सकता है। |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि यह लिंक संसाधन उदाहरण खाली है या नहीं। |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | हो जाता है[`LiFeDataSource`](../lifedatasource/) निर्दिष्ट सूचकांक पर। (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Adobe® Photoshop® वैश्विक संसाधन कुंजी प्राप्त करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | बाइट्स में PSD वैश्विक लिंक संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | PSD प्रारूप संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | PSD वैश्विक लिंक संसाधन हस्ताक्षर प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | संसाधन ब्लॉक डेटा सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | इंडेक्सर द्वारा एक्सेस किए जा सकने वाले लिंक डेटा स्रोतों की संख्या प्राप्त करता है। |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | यह दर्शाने वाला मान प्राप्त करता है कि यह लिंक रिसोर्स इंस्टेंस खाली है या नहीं। |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | निर्दिष्ट इंडेक्स पर [`LiFeDataSource`](../lifedatasource/) प्राप्त करता है। (2 इंडेक्सर) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | PSD ग्लोबल लिंक रिसोर्स की लंबाई बाइट्स में प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | रिसोर्स ब्लॉक डेटा को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्न कोड LnkeResource संसाधन के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्न कोड LnkeResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -270,11 +271,11 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

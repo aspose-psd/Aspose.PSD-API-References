@@ -1,24 +1,25 @@
 ---
-title: SmartFilters.Filters
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters संपत्त. स्मर्ट फ़ल्टर प्रप्त य सेट करत है
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters प्रॉपर्टी. स्मार्ट फ़िल्टर प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-स्मार्ट फ़िल्टर प्राप्त या सेट करता है।
+स्मार्ट फ़िल्टर प्राप्त करता है या सेट करता है।
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

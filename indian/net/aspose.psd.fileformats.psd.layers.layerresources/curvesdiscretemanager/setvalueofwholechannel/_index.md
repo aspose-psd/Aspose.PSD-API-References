@@ -1,34 +1,35 @@
 ---
-title: CurvesDiscreteManager.SetValueOfWholeChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesDiscreteManager तरक. पूरे चैनल क मन सेट करत है.
+title: "CurvesDiscreteManager.SetValueOfWholeChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesDiscreteManager मेथड. पूरे चैनल का मान सेट करता है."
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetValueOfWholeChannel method
 
-पूरे चैनल का मान सेट करता है.
+पूरे चैनल का मान सेट करता है।
 
 ```csharp
 public void SetValueOfWholeChannel(int channelIndex, byte[] channelValue)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
-| channelValue | Byte[] | चैनल का मान। |
+| channelValue | Byte[] | चैनल मान. |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | संपूर्ण चैनल मान सेट करने के लिए आपको लंबाई = 256 के साथ बाइट सरणी का उपयोग करना चाहिए |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | पूरे चैनल मान को सेट करने के लिए आपको लंबाई = 256 वाला बाइट एरे उपयोग करना चाहिए. |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesDiscreteManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

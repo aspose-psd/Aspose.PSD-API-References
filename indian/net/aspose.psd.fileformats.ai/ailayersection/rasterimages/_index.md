@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.RasterImages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. रेखपुंज चत्र प्रप्त करत है
+title: "AiLayerSection.RasterImages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। रास्टर इमेजेज़ प्राप्त करता है"
 type: docs
-weight: 120
+weight: 140
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/rasterimages/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.RasterImages property
 
-रेखापुंज चित्र प्राप्त करता है।
+रास्टर इमेज प्राप्त करता है।
 
 ```csharp
 public AiRasterImageSection[] RasterImages { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रेखापुंज छवियां।
+रास्टर इमेजेज़।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड दर्शाता है कि एआई प्रारूप फाइलों में रेखापुंज छवियों की सेटिंग्स को कैसे लोड किया जाए।
+निम्नलिखित कोड दिखाता है कि AI फ़ॉर्मेट फ़ाइलों में रास्टर इमेज की सेटिंग्स कैसे लोड की जाती हैं।
 
 ```csharp
 [C#]
@@ -63,11 +64,11 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,46 +1,53 @@
 ---
-title: Class PixelsData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.PixelsData कक्ष. छव पक्सेल डेट और इसक समओं क संग्रहत करने वल वर्ग
+title: "क्लास PixelsData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.PixelsData क्लास। इमेज पिक्सेल डेटा और उसके बाउंड्स को संग्रहीत करने के लिए क्लास"
 type: docs
-weight: 5250
+weight: 5740
 url: /hi/net/aspose.psd/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData class
 
-छवि पिक्सेल डेटा और इसकी सीमाओं को संग्रहीत करने वाला वर्ग।
+छवि पिक्सेल डेटा और उसकी सीमाओं को संग्रहीत करने के लिए क्लास।
 
 ```csharp
-public sealed class PixelsData
+public sealed class PixelsData : ICloneable
 ```
 
 ## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [PixelsData](pixelsdata/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`PixelsData` वर्ग. |
-| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | का एक नया उदाहरण प्रारंभ करता है`PixelsData` वर्ग. |
+| [PixelsData](pixelsdata/#constructor)() | `PixelsData` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [PixelsData](pixelsdata/#constructor_1)(int[], Rectangle) | `PixelsData` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | पिक्सल डेटा की सीमा प्राप्त या सेट करता है। |
-| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | पिक्सेल डेटा प्राप्त या सेट करता है। |
+| [Bounds](../../aspose.psd/pixelsdata/bounds/) { get; set; } | पिक्सेल डेटा के बाउंड्स को प्राप्त करता है या सेट करता है। |
+| [Pixels](../../aspose.psd/pixelsdata/pixels/) { get; set; } | पिक्सेल डेटा को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-निम्न कोड आपको दिखाता है कि कस्टम रेंडरर वाला कस्टम स्मार्ट फ़िल्टर कैसे बनाया जाए।
+| नाम | विवरण |
+| --- | --- |
+| [Clone](../../aspose.psd/pixelsdata/clone/)() | यह इंस्टेंस की पूरी कॉपी बनाता है। |
+
+## उदाहरण
+
+निम्नलिखित कोड दिखाता है कि कैसे एक कस्टम रेंडरर वाला कस्टम स्मार्ट फ़िल्टर बनाया जाए।
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // इनपुट ऐरे पर असमर्थित 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर शुरू करता है
+    // इनपुट एरे पर असमर्थित 'Crystallize' स्मार्ट फ़िल्टर को इनिट करता है।
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर आईडी।
+        // 'Crystallize' स्मार्ट फ़िल्टर आईडी।
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -70,10 +77,10 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // लेयर मास्क पर फिल्टर लगाएं
+        // लेयर मास्क पर फ़िल्टर लागू करें
         smartFilter.ApplyToMask(maskLayer);
 
-        // परत पर फ़िल्टर लागू करें
+        //लेयर पर फ़िल्टर लागू करें
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -90,7 +97,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'क्रिस्टलाइज़' स्मार्ट फ़िल्टर आईडी।
+        // 'Crystallize' स्मार्ट फ़िल्टर आईडी।
         get { return 1131574132; }
     }
 
@@ -98,7 +105,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // फ़िल्टर संरचना प्राप्त करें
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // क्रिस्टलाइज़ आकार का मान प्राप्त करें
+        // Crystallize आकार का मान प्राप्त करें
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -114,9 +121,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

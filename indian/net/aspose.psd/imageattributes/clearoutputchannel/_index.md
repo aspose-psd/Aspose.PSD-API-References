@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearOutputChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए CMYK सयनमैजेंटयेलब्लैक आउटपुट चैनल सेटंग क सफ़ करत है
+title: "ImageAttributes.ClearOutputChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes विधि। डिफ़ॉल्ट श्रेणी के लिए CMYK सियानमैजेंटाएलेवोयेल्लोब्लैक आउटपुट चैनल सेटिंग को साफ़ करती है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/imageattributes/clearoutputchannel/
 ---
+{{< psd/tize >}}
 ## ClearOutputChannel() {#clearoutputchannel}
 
 डिफ़ॉल्ट श्रेणी के लिए CMYK (सियान-मैजेंटा-येलो-ब्लैक) आउटपुट चैनल सेटिंग को साफ़ करता है।
@@ -14,31 +15,31 @@ url: /hi/net/aspose.psd/imageattributes/clearoutputchannel/
 public void ClearOutputChannel()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearOutputChannel(ColorAdjustType) {#clearoutputchannel_1}
 
-निर्दिष्ट श्रेणी के लिए (सियान-मैजेंटा-पीला-काला) आउटपुट चैनल सेटिंग साफ़ करता है।
+निर्दिष्ट श्रेणी के लिए (सियान-मैजेंटा-येलो-ब्लैक) आउटपुट चैनल सेटिंग को साफ़ करता है।
 
 ```csharp
 public void ClearOutputChannel(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए आउटपुट चैनल सेटिंग साफ़ की जाती है। |
+| type | ColorAdjustType | एक तत्व [`ColorAdjustType`](../../coloradjusttype/) का जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए आउटपुट चैनल सेटिंग साफ़ की जाती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer नर्मत. क एक नय उदहरण प्ररंभ करत हैSplitStreamContainer वर्ग.
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer कन्स्ट्रक्टर। SplitStreamContainer क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SplitStreamContainer`](../) वर्ग.
+[`SplitStreamContainer`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public SplitStreamContainer(Stream stream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
+| stream | Stream | स्ट्रीम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`SplitStreamContainer`](../) वर्ग.
+[`SplitStreamContainer`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | stream | Stream | डेटा स्ट्रीम। |
-| disposeStream | Boolean | अगर सेट है`सत्य` जब कंटेनर का निपटारा किया जाता है तो धारा का निपटारा किया जाएगा। |
+| disposeStream | बूलियन | `true` पर सेट होने पर स्ट्रीम को कंटेनर के नष्ट होने पर डिस्पोज़ किया जाएगा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SplitStreamContainer`](../) वर्ग.
+[`SplitStreamContainer`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | stream | StreamContainer | स्ट्रीम कंटेनर। |
-| disposeStream | Boolean | अगर सेट है`सत्य` धारा का निस्तारण करता है। |
+| disposeStream | बूलियन | यदि `true` पर सेट किया गया तो स्ट्रीम को डिस्पोज़ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

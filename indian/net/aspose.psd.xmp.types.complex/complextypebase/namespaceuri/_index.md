@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ComplexTypeBase संपत्त. डफ़ल्ट नम स्थन URI प्रप्त करत है.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ComplexTypeBase प्रॉपर्टी। डिफ़ॉल्ट नेमस्पेस URI को प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-डिफ़ॉल्ट नाम स्थान URI प्राप्त करता है.
+डिफ़ॉल्ट नेमस्पेस URI को प्राप्त करता है।
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डिफ़ॉल्ट नाम स्थान URI.
+डिफ़ॉल्ट नेमस्पेस URI।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ComplexTypeBase](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

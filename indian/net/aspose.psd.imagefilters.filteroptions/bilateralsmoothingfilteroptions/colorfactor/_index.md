@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorFactor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BilateralSmoothingFilterOptions संपत्त. रंग करक प्रप्त य सेट करत है
+title: "BilateralSmoothingFilterOptions.ColorFactor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BilateralSmoothingFilterOptions property. रंग कारक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorFactor property
 
-रंग कारक प्राप्त या सेट करता है।
+रंग कारक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double ColorFactor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 रंग कारक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BilateralSmoothingFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: Graphics.DrawBeziers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. क एक सरण से बेज़यर स्प्लइन क एक श्रृंखल बनत हैPoint संरचनएं.
+title: "Graphics.DrawBeziers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics विधि। एक एरे में Point संरचनाओं से Bézier स्प्लाइन की श्रृंखला बनाती है।"
 type: docs
-weight: 180
+weight: 190
 url: /hi/net/aspose.psd/graphics/drawbeziers/
 ---
+{{< psd/tize >}}
 ## DrawBeziers(Pen, Point[]) {#drawbeziers_1}
 
-की एक सरणी से बेज़ियर स्प्लाइन की एक श्रृंखला बनाता है[`Point`](../../point/) संरचनाएं.
+एक एरे में [`Point`](../../point/) संरचनाओं से Bézier स्प्लाइन की श्रृंखला बनाता है।
 
 ```csharp
 public void DrawBeziers(Pen pen, Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/)संरचनाएं जो वक्र को निर्धारित करने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो कर्व का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| points | Point[] | `[`Point`](../../point/) संरचनाओं की एरे जो वक्र को निर्धारित करने वाले बिंदुओं को दर्शाती है।` |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawBeziers(Pen, PointF[]) {#drawbeziers}
 
-की एक सरणी से बेज़ियर स्प्लाइन की एक श्रृंखला बनाता है[`PointF`](../../pointf/) संरचनाएं.
+एक एरे में [`PointF`](../../pointf/) संरचनाओं से Bézier स्प्लाइन की श्रृंखला बनाता है।
 
 ```csharp
 public void DrawBeziers(Pen pen, PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो वक्र के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/)संरचनाएं जो वक्र को निर्धारित करने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो कर्व का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| points | PointF[] | `[`PointF`](../../pointf/) संरचनाओं की एरे जो वक्र को निर्धारित करने वाले बिंदुओं को दर्शाती है।` |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

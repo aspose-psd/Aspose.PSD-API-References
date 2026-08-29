@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGainControl
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifGainControl एनुम. एक्सफ गेन कंट्रल एनम.
+title: "Enum ExifGainControl"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. exif गेन कंट्रोल enum"
 type: docs
-weight: 880
+weight: 890
 url: /hi/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-एक्सिफ गेन कंट्रोल एनम.
+exif गेन कंट्रोल एनेम.
 
 ```csharp
 public enum ExifGainControl
@@ -16,17 +17,17 @@ public enum ExifGainControl
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | कोई लाभ नियंत्रण नहीं। |
-| LowGainUp | `1` | कम बढ़त। |
-| HighGainUp | `2` | उच्च लाभ। |
-| LowGainDown | `3` | लो गेन डाउन. |
-| HighGainDown | `4` | उच्च लाभ नीचे। |
+| None | `0` | कोई गेन कंट्रोल नहीं. |
+| LowGainUp | `1` | कम गेन ऊपर। |
+| HighGainUp | `2` | उच्च गेन ऊपर। |
+| LowGainDown | `3` | कम गेन नीचे। |
+| HighGainDown | `4` | उच्च गेन नीचे। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Class Configuration
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.MemoryManagement.Configuration कक्ष. मेमर प्रबंधन वैश्वक कन्फ़गरेशन
+title: "क्लास Configuration"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.MemoryManagement.Configuration क्लास. मेमोरी प्रबंधन वैश्विक कॉन्फ़िगरेशन"
 type: docs
-weight: 5110
+weight: 5600
 url: /hi/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
-मेमोरी प्रबंधन वैश्विक कॉन्फ़िगरेशन
+मेमोरी प्रबंधन की वैश्विक कॉन्फ़िगरेशन
 
 ```csharp
 public static class Configuration
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

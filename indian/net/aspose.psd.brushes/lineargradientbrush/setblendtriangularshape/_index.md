@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrush तरक. बच के रंग के सथ एक रेखय ग्रेडएंट बनत है और दनं सरं पर एक ह रंग के लए एक रैखक फलऑफ़ बनत है
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrush विधि। एक केंद्र रंग और दोनों सिरों पर एकल रंग तक रैखिक फॉलऑफ़ के साथ रैखिक ग्रेडिएंट बनाता है"
 type: docs
-weight: 50
+weight: 70
 url: /hi/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-बीच के रंग के साथ एक रेखीय ग्रेडिएंट बनाता है और दोनों सिरों पर एक ही रंग के लिए एक रैखिक फॉलऑफ़ बनाता है।
+एक रैखिक ग्रेडिएंट बनाता है जिसमें केंद्र रंग होता है और दोनों सिरों पर एकल रंग तक रैखिक गिरावट होती है।
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 का एक मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहां ग्रेडिएंट केवल अंतिम रंग से बना होता है)। |
+| फ़ोकस | Single | 0 से 1 तक का मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहाँ ग्रेडिएंट केवल समाप्ति रंग से बना होता है)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-बीच के रंग के साथ एक रेखीय ग्रेडिएंट बनाता है और दोनों सिरों पर एक ही रंग के लिए एक रैखिक फॉलऑफ़ बनाता है।
+एक रैखिक ग्रेडिएंट बनाता है जिसमें केंद्र रंग होता है और दोनों सिरों पर एकल रंग तक रैखिक गिरावट होती है।
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 का एक मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहां ग्रेडिएंट केवल अंतिम रंग से बना होता है)। |
-| scale | Single | 0 से 1 तक का मान जो निर्दिष्ट करता है कि रंग प्रारंभ रंग से कितनी तेजी से गिरते हैं*focus*(अंतिम रंग) |
+| फ़ोकस | Single | 0 से 1 तक का मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहाँ ग्रेडिएंट केवल समाप्ति रंग से बना होता है)। |
+| scale | Single | 0 से 1 तक का मान जो यह निर्दिष्ट करता है कि रंग प्रारंभिक रंग से *फ़ोकस* (समाप्ति रंग) तक कितनी तेज़ी से फॉलऑफ़ होते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalHeight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. आनुपतक ऊंचई प्रप्त करत है
+title: "Image.GetProportionalHeight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। अनुपातिक ऊँचाई प्राप्त करता है।"
 type: docs
-weight: 280
+weight: 290
 url: /hi/net/aspose.psd/image/getproportionalheight/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalHeight method
 
-आनुपातिक ऊंचाई प्राप्त करता है।
+एक अनुपातिक ऊँचाई प्राप्त करता है।
 
 ```csharp
 public static int GetProportionalHeight(int width, int height, int newWidth)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Int32 | चौड़ाई। |
-| height | Int32 | ऊंचाई। |
+| चौड़ाई | Int32 | चौड़ाई। |
+| ऊँचाई | Int32 | ऊँचाई। |
 | newWidth | Int32 | नई चौड़ाई। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आनुपातिक ऊँचाई।
+अनुपातिक ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

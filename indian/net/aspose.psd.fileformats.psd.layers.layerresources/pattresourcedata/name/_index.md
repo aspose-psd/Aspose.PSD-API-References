@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResourceData संपत्त. नम प्रप्त य सेट करत है
+title: "PattResourceData.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResourceData प्रॉपर्टी। नाम को प्राप्त या सेट करती है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
-नाम प्राप्त या सेट करता है।
+नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

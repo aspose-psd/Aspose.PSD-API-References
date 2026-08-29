@@ -1,28 +1,29 @@
 ---
-title: IObjectWithSizeF.SizeF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IObjectWithSizeF संपत्त. वस्तु क आकर इंच में मलत है
+title: "IObjectWithSizeF.SizeF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IObjectWithSizeF प्रॉपर्टी। वस्तु का आकार इंच में प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.interfaces/iobjectwithsizef/sizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.SizeF property
 
-वस्तु का आकार, इंच में मिलता है।
+इंच में वस्तु का आकार प्राप्त करता है।
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु का आकार, इंच में.
+वस्तु का आकार, इंच में।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * interface [IObjectWithSizeF](../)
-* नाम स्थान [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

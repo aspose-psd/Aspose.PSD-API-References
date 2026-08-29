@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextureBrush संपत्त. ह जत हैImage इससे जुड़ वस्तुTextureBrush वस्तु.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextureBrush प्रॉपर्टी। इस TextureBrush ऑब्जेक्ट से जुड़े Image ऑब्जेक्ट को प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-हो जाता है[`Image`](../../../aspose.psd/image/) इससे जुड़ी वस्तु[`TextureBrush`](../) वस्तु.
+इस [`TextureBrush`](../) ऑब्जेक्ट से जुड़े [`Image`](../../../aspose.psd/image/) ऑब्जेक्ट को प्राप्त करता है।
 
 ```csharp
 public Image Image { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक[`Image`](../../../aspose.psd/image/) वस्तु जो उस छवि का प्रतिनिधित्व करती है जिसके साथ यह[`TextureBrush`](../) वस्तु आकार भरती है।
+एक [`Image`](../../../aspose.psd/image/) ऑब्जेक्ट जो उस छवि का प्रतिनिधित्व करता है जिसका उपयोग यह [`TextureBrush`](../) ऑब्जेक्ट आकारों को भरने के लिए करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../texturebrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

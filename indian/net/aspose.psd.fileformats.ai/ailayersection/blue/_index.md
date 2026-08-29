@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. नले रंग के घटक क प्रप्त य सेट करत है
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। नीले रंग घटक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-नीले रंग के घटक को प्राप्त या सेट करता है।
+नीले रंग घटक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 नीला रंग घटक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorPathRecordFactory नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorPathRecordFactory निर्माता. डिफ़ॉल्ट निर्माता"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public VectorPathRecordFactory()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathRecordFactory](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

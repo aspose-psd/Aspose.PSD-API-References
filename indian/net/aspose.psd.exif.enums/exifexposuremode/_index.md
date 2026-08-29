@@ -1,14 +1,15 @@
 ---
-title: Enum ExifExposureMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifExposureMode एनुम. एक्सफ एक्सपजर मड एनम.
+title: "Enum ExifExposureMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode enum. exif एक्सपोज़र मोड enum"
 type: docs
-weight: 830
+weight: 840
 url: /hi/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
-एक्सिफ एक्सपोजर मोड एनम.
+exif एक्सपोज़र मोड एनेम.
 
 ```csharp
 public enum ExifExposureMode
@@ -16,15 +17,15 @@ public enum ExifExposureMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Auto | `0` | ऑटो एक्सपोजर। |
-| Manual | `1` | मैनुअल एक्सपोजर। |
-| AutoBracket | `2` | ऑटो ब्रैकेट. |
+| Auto | `0` | ऑटो एक्सपोज़र। |
+| Manual | `1` | मैन्युअल एक्सपोज़र। |
+| AutoBracket | `2` | ऑटो ब्रैकेट। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

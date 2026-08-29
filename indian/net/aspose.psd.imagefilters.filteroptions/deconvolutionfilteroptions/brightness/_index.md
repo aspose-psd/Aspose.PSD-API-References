@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Brightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DeconvolutionFilterOptions संपत्त. चमक प्रप्त य सेट करत है अनुशंसत श्रेण 1  1.5 डफ़ल्ट मन  1.15
+title: "DeconvolutionFilterOptions.Brightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DeconvolutionFilterOptions प्रॉपर्टी। चमक को प्राप्त करता है या सेट करता है। अनुशंसित सीमा 1  1.5 डिफ़ॉल्ट मान  1.15"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Brightness property
 
-चमक प्राप्त या सेट करता है। अनुशंसित श्रेणी 1 - 1.5 डिफ़ॉल्ट मान = 1.15
+चमक प्राप्त करता है या सेट करता है। अनुशंसित सीमा 1 - 1.5, डिफ़ॉल्ट मान = 1.15
 
 ```csharp
 public double Brightness { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 चमक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeconvolutionFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

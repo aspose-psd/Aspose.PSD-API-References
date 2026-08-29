@@ -1,27 +1,28 @@
 ---
-title: RasterImage.AdjustBrightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. छव के लए चमक समयजत करें
+title: "RasterImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। इमेज की ब्राइटनेस को एडजस्ट करता है।"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd/rasterimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterImage.AdjustBrightness method
 
-छवि के लिए चमक समायोजित करें।
+छवि की चमक को समायोजित करता है।
 
 ```csharp
 public virtual void AdjustBrightness(int brightness)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightness | Int32 | चमक मूल्य। |
+| उज्ज्वलता | Int32 | चमक मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: BrushExtensions.ToGdiBrush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BrushExtensions तरक. परवर्तत करत हैBrush तकBrush .
+title: "BrushExtensions.ToGdiBrush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BrushExtensions मेथड। Brush को Brush में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
+{{< psd/tize >}}
 ## BrushExtensions.ToGdiBrush method
 
-परिवर्तित करता है[`Brush`](../../../aspose.psd/brush/) तकBrush .
+[`Brush`](../../../aspose.psd/brush/) को Brush में परिवर्तित करता है।
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../../aspose.psd/brush/) रूपान्तरण करने के लिए। |
+| brush | Brush | [`Brush`](../../../aspose.psd/brush/) को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितBrush.
+परिवर्तित Brush।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../brushextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

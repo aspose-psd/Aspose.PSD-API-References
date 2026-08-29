@@ -1,14 +1,15 @@
 ---
-title: Class PsdOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.PsdOptions कक्ष. PSD फ़इल स्वरूप वकल्प बनत है
+title: "क्लास PsdOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.PsdOptions क्लास। PSD फ़ाइल प्रारूप निर्माण विकल्प।"
 type: docs
-weight: 4900
+weight: 5390
 url: /hi/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-PSD फ़ाइल स्वरूप विकल्प बनाता है।
+psd फ़ाइल फ़ॉर्मेट निर्माण विकल्प।
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -18,45 +19,47 @@ public class PsdOptions : ImageOptionsBase
 
 | नाम | विवरण |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`PsdOptions` वर्ग. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | का एक नया उदाहरण प्रारंभ करता है`PsdOptions` वर्ग. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | का एक नया उदाहरण प्रारंभ करता है`PsdOptions` वर्ग. |
+| [PsdOptions](psdoptions/#constructor)() | `PsdOptions` क्लास का एक नया इंस्टेंस प्रारंभ करता है। |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | `PsdOptions` क्लास का एक नया इंस्टेंस प्रारंभ करता है। |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | `PsdOptions` क्लास का एक नया इंस्टेंस प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | बिट काउंट प्रति कलर चैनल प्राप्त या सेट करता है। |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | रंग चैनलों की संख्या प्राप्त या सेट करता है। |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | पीएसडी रंग मोड प्राप्त या सेट करता है। |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | PSD संपीड़न विधि प्राप्त या सेट करता है। |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट प्राप्त करता है या सेट करता है (फ़ॉन्ट जो रेखापुंज में निर्यात करते समय पाठ को आकर्षित करने के लिए उपयोग किया जाएगा, यदि PSD फ़ाइल में मौजूदा परत फ़ॉन्ट सिस्टम में प्रस्तुत नहीं किया गया है)। डिफ़ॉल्ट फ़ॉन्ट का उचित नाम लेने के लिए अगले कोड स्निपेट का उपयोग किया जा सकता है : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | [पूर्ण फ्रेम] . इंगित करने वाला मान प्राप्त करता है या सेट करता है |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | पृष्ठभूमि का रंग प्राप्त करता है या सेट करता है। यह पारदर्शी वस्तुओं के नीचे देखा जा सकता है। |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | रंग चैनल प्रति बिट्स की संख्या प्राप्त करता है या सेट करता है। |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | रंग चैनलों की संख्या प्राप्त करता है या सेट करता है। |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | psd रंग मोड प्राप्त करता है या सेट करता है। |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | psd संपीड़न विधि प्राप्त करता है या सेट करता है। |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट को प्राप्त करता है या सेट करता है (फ़ॉन्ट जो रास्टर में निर्यात करते समय टेक्स्ट ड्रॉ करने के लिए उपयोग किया जाएगा, यदि PSD फ़ाइल में मौजूदा लेयर फ़ॉन्ट सिस्टम में उपलब्ध नहीं है)। डिफ़ॉल्ट फ़ॉन्ट का उचित नाम प्राप्त करने के लिए निम्न कोड स्निपेट का उपयोग किया जा सकता है: `System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });` |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्या [full frame] है। |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | मल्टीपेज विकल्प |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | कलर पैलेट प्राप्त या सेट करता है। |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | प्रगति ईवेंट हैंडलर प्राप्त या सेट करता है। |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | फ़ाइल स्वरूप संस्करण प्राप्त या सेट करता है। यह PSD या PSB. हो सकता है |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि [छवि पूर्वावलोकन डेटा रीफ्रेश करें] - अन्य PSD छवि दर्शकों के साथ संगतता को अधिकतम करने के लिए उपयोग किया जाने वाला विकल्प। कृपया ध्यान दें, अंतिम लेआउट के लिए पाठ परत ड्राइंग कॉम्पैक्ट फ्रेमवर्क प्लेटफॉर्म के लिए समर्थित नहीं है |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि - वैश्विक टेक्स्ट इंजन संसाधन को हटाएं - कुछ टेक्स्ट-लेयर वाली पीएसडी फाइलों के लिए उपयोग किया जाता है, केवल मामले में, जब उन्हें प्रसंस्करण के बाद एडोब फोटोशॉप में नहीं खोला जा सकता है (ज्यादातर अनुपस्थित फोंट टेक्स्ट परतों से संबंधित)। इस विकल्प का उपयोग करने के बाद, उपयोगकर्ता को फ़ोटोशॉप फ़ाइल में अगला बनाना होगा: मेनू "टेक्स्ट" -&gt; "अनुपस्थित फोंट की प्रक्रिया"। उस ऑपरेशन के बाद सभी टेक्स्ट फिर से दिखाई देंगे। कृपया ध्यान दें, इस ऑपरेशन के कारण कुछ अंतिम लेआउट परिवर्तन हो सकते हैं। |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | रिज़ॉल्यूशन सेटिंग्स प्राप्त या सेट करता है। |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | पीएसडी संसाधनों को प्राप्त या सेट करता है। |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | छवि बनाने के लिए स्रोत प्राप्त करता है या सेट करता है. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | वेक्टर रेखांकन विकल्प प्राप्त या सेट करता है। |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | पीएसडी फ़ाइल संस्करण प्राप्त या सेट करता है। |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | रंग पैलेट प्राप्त करता है या सेट करता है। |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | प्रोग्रेस इवेंट हैंडलर को प्राप्त करता है या सेट करता है। |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | फ़ाइल फ़ॉर्मेट संस्करण प्राप्त करता है या सेट करता है। यह PSD या PSB हो सकता है। |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि क्या [refresh image preview data] - विकल्प का उपयोग अन्य PSD इमेज व्यूअर्स के साथ संगतता अधिकतम करने के लिए किया जाता है। कृपया ध्यान दें, कॉम्पैक्ट फ्रेमवर्क प्लेटफ़ॉर्म के लिए अंतिम लेआउट में टेक्स्ट लेयर्स का ड्रॉ करना समर्थित नहीं है। |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि क्या - ग्लोबल टेक्स्ट इंजन रिसोर्स हटाएँ - कुछ टेक्स्ट-लेयर वाले psd फ़ाइलों के लिए उपयोग किया जाता है, केवल तभी जब प्रोसेसिंग के बाद उन्हें Adobe Photoshop में नहीं खोला जा सकता (मुख्यतः अनुपलब्ध फ़ॉन्ट्स वाले टेक्स्ट लेयर्स के कारण)। इस विकल्प का उपयोग करने के बाद, उपयोगकर्ता को Photoshop में खुले फ़ाइल में निम्न करना होगा: मेनू \"Text\" -> \"Process absent fonts\"। उस ऑपरेशन के बाद सभी टेक्स्ट फिर से दिखाई देंगे। कृपया ध्यान दें, यह ऑपरेशन अंतिम लेआउट में कुछ परिवर्तन कर सकता है। |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | रिज़ॉल्यूशन सेटिंग्स प्राप्त करता है या सेट करता है। |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | psd संसाधनों को प्राप्त करता है या सेट करता है। यदि मान: NULL - तो मूल ImageResources सहेजें (डिफ़ॉल्ट व्यवहार) Not Empty - तो इस प्रॉपर्टी में पास किए गए संसाधनों + [required resources] सहेजें। Empty - तो केवल [required resources] सहेजे जाएँ। आवश्यक संसाधन: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | छवि बनाने के स्रोत को प्राप्त करता है या सेट करता है। |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि क्या [update metadata]। यदि मान true है, तो इमेज सहेजते समय मेटाडेटा अपडेट हो जाएगा। |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | वेक्टर रास्टराइज़ेशन विकल्प प्राप्त करता है या सेट करता है। |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | psd फ़ाइल संस्करण प्राप्त करता है या सेट करता है। |
 | override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | XMP डेटा कंटेनर प्राप्त करें या सेट करें |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | इस उदाहरण को क्लोन करता है। |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | इस इंस्टेंस की क्लोन बनाता है। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि कैसे आप AI फ़ाइल को Aspose.PSD में PSD और PNG प्रारूप में निर्यात कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में AI फ़ाइल को PSD और PNG फ़ॉर्मेट में कैसे निर्यात कर सकते हैं।
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-यह उदाहरण PsdOptions उदाहरण के स्रोत गुण द्वारा निर्दिष्ट डिस्क स्थान पर एक नई छवि फ़ाइल बनाता है। वास्तविक छवि बनाने से पहले PsdOptions उदाहरण के लिए कई गुण सेट किए गए हैं। विशेष रूप से स्रोत संपत्ति, जो इस मामले में वास्तविक डिस्क स्थान को संदर्भित करती है।
+यह उदाहरण PsdOptions इंस्टेंस की Source प्रॉपर्टी द्वारा निर्दिष्ट डिस्क स्थान पर एक नई Image फ़ाइल बनाता है। वास्तविक इमेज बनाने से पहले PsdOptions इंस्टेंस की कई प्रॉपर्टी सेट की जाती हैं। विशेष रूप से Source प्रॉपर्टी, जो इस मामले में वास्तविक डिस्क स्थान को दर्शाती है।
 
 ```csharp
 [C#]
 
-// PsdOptions का एक उदाहरण बनाएं और इसके विभिन्न गुणों को सेट करें
+//PsdOptions का एक इंस्टेंस बनाएँ और उसकी विभिन्न प्रॉपर्टी सेट करें।
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-// FileCreateSource का एक उदाहरण बनाएं और इसे PsdOptions के उदाहरण के लिए स्रोत के रूप में असाइन करें
-// दूसरा बूलियन पैरामीटर निर्धारित करता है कि बनाई जाने वाली फ़ाइल टेम्पोरल है या नहीं
+//FileCreateSource का एक इंस्टेंस बनाएँ और उसे PsdOptions इंस्टेंस के लिए Source के रूप में असाइन करें।
+//दूसरा Boolean पैरामीटर निर्धारित करता है कि बनाई जाने वाली फ़ाइल अस्थायी है या नहीं।
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-// इमेज का एक उदाहरण बनाएं और क्रिएट मेथड को कॉल करके PsdOptions के उदाहरण के साथ इसे इनिशियलाइज़ करें
+//Image का एक इंस्टेंस बनाएँ और Create मेथड को कॉल करके उसे PsdOptions के इंस्टेंस से इनिशियलाइज़ करें।
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // कुछ इमेज प्रोसेसिंग करें
+    //कुछ छवि प्रसंस्करण करें।
 
-    // सभी परिवर्तनों को सहेजें
+    // सभी परिवर्तन सहेजें।
     image.Save();
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 16 बिट प्रति चैनल आरजीबी में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 16 बिट प्रति चैनल RGB में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -125,7 +128,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 8 बिट प्रति चैनल ग्रेस्केल में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 8 बिट प्रति चैनल Grayscale में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -158,7 +161,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं।
 
 ```csharp
 [C#]
@@ -243,47 +246,47 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-यह उदाहरण दिखाता है कि कैसे पिक्सेल जानकारी को प्रकार के रंग की एक सरणी में लोड किया जाता है, सरणी में हेरफेर किया जाता है और इसे छवि पर वापस सेट किया जाता है। इन कार्यों को करने के लिए, यह उदाहरण मेमोरीस्ट्रीम ऑब्जेक्ट का उपयोग करके एक नई छवि फ़ाइल (PSD प्रारूप में) बनाता है।
+यह उदाहरण दिखाता है कि कैसे पिक्सेल जानकारी को Color प्रकार की एरे में लोड किया जाता है, एरे को संशोधित किया जाता है और उसे इमेज में वापस सेट किया जाता है। इन ऑपरेशनों को करने के लिए, यह उदाहरण MemoryStream ऑब्जेक्ट का उपयोग करके एक नई Image फ़ाइल (PSD फ़ॉर्मेट में) बनाता है।
 
 ```csharp
 [C#]
 
-// मेमोरीस्ट्रीम का एक उदाहरण बनाएं
+//MemoryStream का एक इंस्टेंस बनाएँ।
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    // PsdOptions का एक उदाहरण बनाएं और स्रोत गुण सहित इसके विभिन्न गुणों को सेट करें
+    //PsdOptions का एक इंस्टेंस बनाएँ और उसकी विभिन्न प्रॉपर्टी, जिसमें Source प्रॉपर्टी भी शामिल है, सेट करें।
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    // छवि का एक उदाहरण बनाएं
+    //Image का एक इंस्टेंस बनाएँ।
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // क्षेत्र को छवि सीमा के रूप में निर्दिष्ट करके छवि के पिक्सेल प्राप्त करें
+        //छवि की सीमा को निर्दिष्ट करके छवि के पिक्सेल प्राप्त करें
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // ऐरे पर लूप करें और एलरेनेटिव इंडेक्स्ड पिक्सेल का रंग सेट करें
+        //ऐरे पर लूप करें और वैकल्पिक अनुक्रमित पिक्सेल का रंग सेट करें
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                // अनुक्रमित पिक्सेल रंग को पीले रंग में सेट करें
+                //अनुक्रमित पिक्सेल का रंग पीला सेट करें
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                // अनुक्रमित पिक्सेल रंग को नीले रंग में सेट करें
+                //अनुक्रमित पिक्सेल का रंग नीला सेट करें
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // छवि में पिक्सेल परिवर्तन लागू करें
+        //पिक्सेल परिवर्तन को छवि पर लागू करें
         image.SavePixels(image.Bounds, pixels);
 
-        // सभी परिवर्तनों को सहेजें।
+        // सभी परिवर्तन सहेजें।
         image.Save();
     }
 
-    // फ़ाइल में मेमोरीस्ट्रीम लिखें
+    //MemoryStream को फ़ाइल में लिखें
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
@@ -350,10 +353,10 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

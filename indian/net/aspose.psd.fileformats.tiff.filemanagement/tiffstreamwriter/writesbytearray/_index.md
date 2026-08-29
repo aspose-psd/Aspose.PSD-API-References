@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम में हस्तक्षरत बइट मनं क एक सरण लखत है
+title: "TiffStreamWriter विधि। स्ट्रीम में साइनड बाइट मानों की एक एरे लिखता है"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter.WriteSByteArray"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
-स्ट्रीम में हस्ताक्षरित बाइट मानों की एक सरणी लिखता है।
+स्ट्रीम में साइन्ड बाइट मानों की एक एरे लिखता है।
 
 ```csharp
 public void WriteSByteArray(sbyte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | SByte[] | लिखने के लिए सरणी। |
+| डेटा | SByte[] | लिखने के लिए एरे। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

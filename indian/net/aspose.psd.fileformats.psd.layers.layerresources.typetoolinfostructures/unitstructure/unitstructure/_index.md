@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैUnitStructure वर्ग.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitStructure कंस्ट्रक्टर। UnitStructure क्लास का नया उदाहरण आरंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`UnitStructure`](../) वर्ग.
+नया उदाहरण आरंभ करता है [`UnitStructure`](../) क्लास का।
 
 ```csharp
 public UnitStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

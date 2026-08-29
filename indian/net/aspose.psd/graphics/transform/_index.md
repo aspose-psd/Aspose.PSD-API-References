@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. इसके लए ज्यमतय वश्व परवर्तन क एक प्रत प्रप्त य सेट करत हैGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics गुण। इस Graphics के लिए ज्यामितीय विश्व रूपांतरण की एक प्रति प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 130
+weight: 140
 url: /hi/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-इसके लिए ज्यामितीय विश्व परिवर्तन की एक प्रति प्राप्त या सेट करता है[`Graphics`](../) .
+इस [`Graphics`](../) के लिए ज्यामितीय विश्व रूपांतरण की एक प्रति प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-की एक प्रति[`Matrix`](../../matrix/) जो इसके लिए ज्यामितीय विश्व परिवर्तन का प्रतिनिधित्व करता है[`Graphics`](../) .
+एक [`Matrix`](../../matrix/) की प्रति, जो इस [`Graphics`](../) के लिए ज्यामितीय विश्व रूपांतरण का प्रतिनिधित्व करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

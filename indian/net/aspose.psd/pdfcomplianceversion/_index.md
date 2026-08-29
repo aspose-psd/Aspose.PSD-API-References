@@ -1,14 +1,15 @@
 ---
-title: Enum PdfComplianceVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.PdfComplianceVersion एनुम. आउटपुट फइल के लए पडएफ अनुपलन स्तर नर्दष्ट करत है
+title: "एनम PdfComplianceVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.PdfComplianceVersion एनम। आउटपुट फ़ाइल के लिए PDF अनुपालन स्तर निर्दिष्ट करता है।"
 type: docs
-weight: 5190
+weight: 5680
 url: /hi/net/aspose.psd/pdfcomplianceversion/
 ---
+{{< psd/tize >}}
 ## PdfComplianceVersion enumeration
 
-आउटपुट फाइल के लिए पीडीएफ अनुपालन स्तर निर्दिष्ट करता है।
+आउटपुट फ़ाइल के लिए PDF अनुपालन स्तर को निर्दिष्ट करता है।
 
 ```csharp
 public enum PdfComplianceVersion
@@ -16,15 +17,15 @@ public enum PdfComplianceVersion
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Pdf15 | `0` | आउटपुट फ़ाइल पीडीएफ 1.5 अनुरूप होगी। |
-| PdfA1a | `1` | आउटपुट फ़ाइल PDF/A-1a अनुरूप होगी। |
-| PdfA1b | `2` | आउटपुट फ़ाइल PDF/A-1b अनुरूप होगी. |
+| Pdf15 | `0` | आउटपुट फ़ाइल PDF 1.5 अनुपालन होगी। |
+| PdfA1a | `1` | आउटपुट फ़ाइल PDF/A-1a अनुपालन होगी। |
+| PdfA1b | `2` | आउटपुट फ़ाइल PDF/A-1b अनुपालन होगी। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

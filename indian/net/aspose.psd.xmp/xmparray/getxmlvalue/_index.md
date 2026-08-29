@@ -1,27 +1,28 @@
 ---
-title: XmpArray.GetXmlValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpArray तरक. XMP मन क XML प्रस्तुतकरण में कनवर्ट करत है.
+title: "XmpArray.GetXmlValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpArray मेथड। XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp/xmparray/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpArray.GetXmlValue method
 
-XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है.
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है।
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक्सएमएल प्रतिनिधित्व में परिवर्तित एक्सएमपी मान लौटाता है।
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करके लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpArray](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparray/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

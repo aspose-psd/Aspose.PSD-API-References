@@ -1,28 +1,29 @@
 ---
-title: AiImage.AddLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage तरक. एआई लेयर सेक्शन जड़त है
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage मेथड। AI लेयर सेक्शन को जोड़ता है"
 type: docs
-weight: 130
+weight: 160
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
-एआई लेयर सेक्शन जोड़ता है।
+AI लेयर सेक्शन जोड़ता है।
 
 ```csharp
 public void AddLayer(AiLayerSection layer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layer | AiLayerSection | एआई परत अनुभाग। |
+| लेयर | AiLayerSection | AI लेयर सेक्शन। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rational संपत्त. फ्लट मन प्रप्त करत है
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rational property. float मान को प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-फ्लोट मान प्राप्त करता है।
+फ़्लोट मान प्राप्त करता है।
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़्लोट मान.
+फ़्लोट मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Rational](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

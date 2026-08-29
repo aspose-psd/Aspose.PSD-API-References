@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiHeader संपत्त. दस्तवेज़ प्र सेट प्रप्त करत है य सेट करत है
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiHeader प्रॉपर्टी। डॉक्यूमेंट प्रोसेस सेट्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-दस्तावेज़ प्रो सेट प्राप्त करता है या सेट करता है।
+दस्तावेज़ प्रोसेस सेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दस्तावेज़ प्रक्रिया सेट करता है।
+डॉक्यूमेंट प्रोसेस सेट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiHeader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

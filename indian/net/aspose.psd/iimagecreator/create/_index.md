@@ -1,38 +1,39 @@
 ---
-title: IImageCreator.Create
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageCreator तरक. के सथ एक नय इमेज इंस्टेंस बनत हैimageOptions .
+title: "IImageCreator.Create"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageCreator विधि। imageOptions के साथ नई इमेज इंस्टेंस बनाता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iimagecreator/create/
 ---
+{{< psd/tize >}}
 ## IImageCreator.Create method
 
-के साथ एक नया इमेज इंस्टेंस बनाता है*imageOptions* .
+*imageOptions* के साथ एक नई इमेज इंस्टेंस बनाता है।
 
 ```csharp
 public Image Create(StreamContainer streamContainer, ImageOptionsBase imageOptions, int width, 
     int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | छवि डेटा बनाने के लिए स्ट्रीम कंटेनर। |
-| imageOptions | ImageOptionsBase | छवि विकल्प। |
-| width | Int32 | नई छवि की चौड़ाई |
-| height | Int32 | नई छवि की ऊंचाई |
+| streamContainer | StreamContainer | इमेज डेटा बनाने के लिए स्ट्रीम कंटेनर। |
+| imageOptions | ImageOptionsBase | इमेज विकल्प। |
+| चौड़ाई | Int32 | नई इमेज की चौड़ाई |
+| ऊँचाई | Int32 | नई इमेज की ऊँचाई |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नई छवि उदाहरण.
+एक नई इमेज इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageCreator](../)
-* नाम स्थान [Aspose.PSD](../../iimagecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

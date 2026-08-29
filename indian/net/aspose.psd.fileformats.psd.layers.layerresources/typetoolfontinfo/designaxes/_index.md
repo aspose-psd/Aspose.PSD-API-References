@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolFontInfo संपत्त. अनुसरण करने के लए डज़इन अक्ष वेक्टर प्रप्त करत है य सेट करत है.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolFontInfo प्रॉपर्टी. अनुसरण करने के लिए डिज़ाइन अक्ष वेक्टर को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-अनुसरण करने के लिए डिज़ाइन अक्ष वेक्टर प्राप्त करता है या सेट करता है.
+डिज़ाइन अक्षों के वेक्टर को प्राप्त करता है या सेट करता है जिसे अनुसरण करना है।
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अनुसरण करने के लिए डिज़ाइन अक्ष वेक्टर.
+अनुसरण करने के लिए डिज़ाइन अक्ष वेक्टर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

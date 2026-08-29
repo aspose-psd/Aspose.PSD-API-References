@@ -1,23 +1,24 @@
 ---
-title: LnkeResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LnkeResource संपत्त. Adobe Photoshop वैश्वक संसधन कुंज प्रप्त करत है
+title: "LnkeResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LnkeResource प्रॉपर्टी। Adobe Photoshop ग्लोबल रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/
 ---
+{{< psd/tize >}}
 ## LnkeResource.Key property
 
-Adobe® Photoshop® वैश्विक संसाधन कुंजी प्राप्त करता है।
+Adobe® Photoshop® ग्लोबल रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LnkeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

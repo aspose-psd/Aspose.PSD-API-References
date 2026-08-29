@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException कक्ष. PSD छव अपवद
+title: "क्लास PsdImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException क्लास। psd इमेज एक्सेप्शन"
 type: docs
 weight: 590
 url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException class
 
-PSD छवि अपवाद।
+psd इमेज एक्सेप्शन।
 
 ```csharp
 public class PsdImageException : ImageException
@@ -18,13 +19,13 @@ public class PsdImageException : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [PsdImageException](psdimageexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`PsdImageException` वर्ग. |
-| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`PsdImageException` वर्ग. |
+| [PsdImageException](psdimageexception/#constructor)(string) | `PsdImageException` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | `PsdImageException` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

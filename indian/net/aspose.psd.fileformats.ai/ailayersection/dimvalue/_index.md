@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. मंद मन क प्रतशत के रूप में प्रप्त य सेट करत है परत में नहत लंक क गई छवयं और बटमैप छवयं क तव्रत क नर्दष्ट प्रतशत तक कम कर देत है
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। प्राप्त करता है या सेट करता है dim मान को प्रतिशत के रूप में। लेयर में शामिल लिंक्ड इमेजेज़ और बिटमैप इमेजेज़ की तीव्रता को निर्दिष्ट प्रतिशत तक कम करता है।"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-मंद मान को प्रतिशत के रूप में प्राप्त या सेट करता है। परत में निहित लिंक की गई छवियों और बिटमैप छवियों की तीव्रता को निर्दिष्ट प्रतिशत तक कम कर देता है।
+डिम मान को प्रतिशत के रूप में प्राप्त करता है या सेट करता है। लेयर में शामिल लिंक्ड इमेज और बिटमैप इमेज की तीव्रता को निर्दिष्ट प्रतिशत तक कम करता है।
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रतिशत के रूप में मंद मान.
+dim मान को प्रतिशत के रूप में।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

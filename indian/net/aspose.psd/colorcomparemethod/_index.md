@@ -1,14 +1,15 @@
 ---
-title: Enum ColorCompareMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ColorCompareMethod एनुम. नकटतम पड़स क समयजत करने के लए रंग तुलन वध
+title: "एनम ColorCompareMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ColorCompareMethod एनम। निकटतम पड़ोसी के अनुसार समायोजित करने के लिए रंग तुलना विधि।"
 type: docs
 weight: 330
 url: /hi/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
-निकटतम पड़ोसी को समायोजित करने के लिए रंग तुलना विधि
+निकटतम पड़ोसी के अनुसार समायोजित करने के लिए रंग तुलना विधि
 
 ```csharp
 public enum ColorCompareMethod
@@ -16,13 +17,13 @@ public enum ColorCompareMethod
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Euclidian | `0` | यूक्लिडियन विधि |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

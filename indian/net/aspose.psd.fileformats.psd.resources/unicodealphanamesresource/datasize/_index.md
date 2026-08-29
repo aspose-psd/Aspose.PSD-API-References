@@ -1,27 +1,28 @@
 ---
-title: UnicodeAlphaNamesResource.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnicodeAlphaNamesResource संपत्त. बइट्स में संसधन डेट आकर प्रप्त करत है
+title: "UnicodeAlphaNamesResource.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnicodeAlphaNamesResource प्रॉपर्टी। संसाधन डेटा आकार बाइट्स में प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/datasize/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.DataSize property
 
-बाइट्स में संसाधन डेटा आकार प्राप्त करता है।
+संसाधन डेटा आकार को बाइट्स में प्राप्त करता है।
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संसाधन डेटा आकार.
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnicodeAlphaNamesResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

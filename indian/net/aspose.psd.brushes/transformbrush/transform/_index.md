@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush संपत्त. कप प्रप्त य सेट करत हैMatrix ज इसके लए एक स्थनय ज्यमतय परवर्तन क परभषत करत हैTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush प्रॉपर्टी। यह एक कॉपी मैट्रिक्स प्राप्त या सेट करता है जो इस TransformBrush के लिए स्थानीय ज्यामितीय रूपांतरण को परिभाषित करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-कॉपी प्राप्त या सेट करता है[`Matrix`](../../../aspose.psd/matrix/) जो इसके लिए एक स्थानीय ज्यामितीय परिवर्तन को परिभाषित करता है[`TransformBrush`](../) .
+इस [`TransformBrush`](../) के लिए स्थानीय ज्यामितीय रूपांतरण को परिभाषित करने वाली कॉपी [`Matrix`](../../../aspose.psd/matrix/) को प्राप्त या सेट करता है।
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-की एक प्रति[`Matrix`](../../../aspose.psd/matrix/) यह एक ज्यामितीय परिवर्तन को परिभाषित करता है जो केवल इसके साथ खींचे गए भरणों पर लागू होता है[`TransformBrush`](../).
+एक कॉपी [`Matrix`](../../../aspose.psd/matrix/) की जो एक ज्यामितीय रूपांतरण को परिभाषित करती है जो केवल इस [`TransformBrush`](../) से बने फ़िल्स पर लागू होती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

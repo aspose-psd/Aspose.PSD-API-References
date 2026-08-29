@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यहPatternFillSettingsजुड़ हुआ है.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह PatternFillSettings लिंक्ड है या नहीं"
 type: docs
-weight: 50
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`PatternFillSettings`](../)जुड़ा हुआ है.
+यह [`PatternFillSettings`](../) लिंक्ड है या नहीं दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर जुड़ा हुआ है; अन्यथा,`असत्य` .
+`true` यदि लिंक्ड है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भरण परत पैटर्न संपादन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड Fill Layer Pattern संपादन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

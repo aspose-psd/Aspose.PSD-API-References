@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. रंग/संतृप्त समयजन परत जड़त है
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। hue/saturation समायोजन लेयर जोड़ता है।"
 type: docs
-weight: 350
+weight: 370
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-रंग/संतृप्ति समायोजन परत जोड़ता है।
+ह्यू/सैचुरेशन एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नव निर्मित रंग/संतृप्ति परत।
+एक नया बनाया गया hue/saturation लेयर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

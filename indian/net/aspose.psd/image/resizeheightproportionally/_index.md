@@ -1,71 +1,72 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. ऊँचई क आनुपतक रूप से बदलत है
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। ऊँचाई को अनुपातिक रूप से बदलता है"
 type: docs
-weight: 200
+weight: 210
 url: /hi/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
-ऊँचाई को आनुपातिक रूप से बदलता है।
+ऊँचाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public void ResizeHeightProportionally(int newHeight)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newHeight | Int32 | नई ऊंचाई। |
+| newHeight | Int32 | नई ऊँचाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-ऊँचाई को आनुपातिक रूप से बदलता है।
+ऊँचाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newHeight | Int32 | नई ऊंचाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | री‑साइज़ का प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
 
-ऊँचाई को आनुपातिक रूप से बदलता है।
+ऊँचाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newHeight | Int32 | नई ऊंचाई। |
-| settings | ImageResizeSettings | छवि का आकार बदलें सेटिंग्स। |
+| newHeight | Int32 | नई ऊँचाई। |
+| सेटिंग्स | ImageResizeSettings | इमेज री‑साइज़ सेटिंग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetY
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. ऑफ़सेट वई प्रप्त करत है
+title: "AiRasterImageSection.OffsetY"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। ऑफ़सेट Y प्राप्त करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/offsety/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetY property
 
-ऑफ़सेट वाई प्राप्त करता है।
+ऑफ़सेट Y प्राप्त करता है।
 
 ```csharp
 public double OffsetY { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑफसेट वाई.
+ऑफ़सेट Y।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

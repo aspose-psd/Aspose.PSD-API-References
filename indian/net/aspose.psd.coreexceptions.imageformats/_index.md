@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में समर्थत फ़इल स्वरूपं में से कस एक द्वर फेंके गए अपवद शमल हैं
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस समर्थित फ़ाइल फ़ॉर्मैट्स में से एक द्वारा फेंके गए एक्सेप्शन को शामिल करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.coreexceptions.imageformats/
 ---
-नामस्थान में समर्थित फ़ाइल स्वरूपों में से किसी एक द्वारा फेंके गए अपवाद शामिल हैं।
+{{< psd/tize >}}
+नामस्थान समर्थित फ़ाइल स्वरूपों में से एक द्वारा उत्पन्न अपवादों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BmpImageException](./bmpimageexception/) | बीएमपी छवि अपवाद। |
-| [GifImageException](./gifimageexception/) | Gif इमेज अपवाद. |
-| [Jpeg2000Exception](./jpeg2000exception/) | जेपीईजी फाइलों के लिए अपवाद |
-| [JpegException](./jpegexception/) | जेपीईजी फाइलों के लिए अपवाद |
-| [JpegLoadException](./jpegloadexception/) | JPEG छवि लोडिंग अपवाद का प्रतिनिधित्व करता है। |
-| [PngImageException](./pngimageexception/) | पीएनजी छवि अपवाद। |
-| [PsdImageArgumentException](./psdimageargumentexception/) | PSD छवि तर्क अपवाद। |
-| [PsdImageException](./psdimageexception/) | PSD छवि अपवाद। |
-| [PsdImageResourceException](./psdimageresourceexception/) | PSD छवि संसाधन अपवाद. |
-| [TiffImageException](./tiffimageexception/) | झगड़ा छवि अपवाद |
+| [BmpImageException](./bmpimageexception/) | bmp इमेज एक्सेप्शन। |
+| [GifImageException](./gifimageexception/) | Gif इमेज एक्सेप्शन। |
+| [Jpeg2000Exception](./jpeg2000exception/) | Jpeg फ़ाइलों के लिए एक्सेप्शन। |
+| [JpegException](./jpegexception/) | Jpeg फ़ाइलों के लिए एक्सेप्शन। |
+| [JpegLoadException](./jpegloadexception/) | JPEG इमेज लोडिंग एक्सेप्शन को दर्शाता है। |
+| [PngImageException](./pngimageexception/) | png इमेज एक्सेप्शन। |
+| [PsdImageArgumentException](./psdimageargumentexception/) | psd इमेज आर्ग्युमेंट एक्सेप्शन। |
+| [PsdImageException](./psdimageexception/) | psd इमेज एक्सेप्शन। |
+| [PsdImageResourceException](./psdimageresourceexception/) | psd इमेज रिसोर्स एक्सेप्शन। |
+| [TiffImageException](./tiffimageexception/) | Tiff इमेज एक्सेप्शन। |
 
 

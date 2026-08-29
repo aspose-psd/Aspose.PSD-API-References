@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolStyleInfo संपत्त. प्रमुख मन प्रप्त य सेट करत है
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolStyleInfo प्रॉपर्टी। लीडिंग मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-प्रमुख मान प्राप्त या सेट करता है।
+लीडिंग मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अग्रणी मूल्य।
+लीडिंग मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolStyleInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

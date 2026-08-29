@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationDenominator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. अवध भजक प्रप्त य सेट करत है
+title: "SmartObjectResource.DurationDenominator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource प्रॉपर्टी। प्राप्त करता है या सेट करता है अवधि का हर"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationDenominator property
 
-अवधि भाजक प्राप्त या सेट करता है।
+अवधि हर (डिनॉमिनेटर) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int DurationDenominator { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अवधि हर.
+अवधि का हर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

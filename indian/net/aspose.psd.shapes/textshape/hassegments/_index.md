@@ -1,27 +1,28 @@
 ---
-title: TextShape.HasSegments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape संपत्त. एक मन प्रप्त करत है ज बतत है क आकर में खंड हैं य नहं
+title: "TextShape.HasSegments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि आकार में खंड हैं या नहीं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.shapes/textshape/hassegments/
 ---
+{{< psd/tize >}}
 ## TextShape.HasSegments property
 
-एक मान प्राप्त करता है जो बताता है कि आकार में खंड हैं या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि आकार में सेगमेंट हैं या नहीं।
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर आकृति में खंड हैं; अन्यथा,`असत्य`.
+`True` यदि आकार में खंड हैं; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परतं क सूच में सजवट शट रंग हइलइट प्रप्त य सेट करत है
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर्स सूची में सजावटी शीट रंग हाइलाइट प्राप्त करता है या सेट करता है"
 type: docs
-weight: 300
+weight: 310
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-परतों की सूची में सजावटी शीट रंग हाइलाइट प्राप्त या सेट करता है
+लेयर्स की सूची में सजावटी शीट रंग हाइलाइट प्राप्त करता है या सेट करता है
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शीट का रंग हाइलाइट.
+शीट रंग हाइलाइट।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Class XmpTypeBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.XmpTypeBase कक्ष. मूल XMP प्रकर के लए आधर वर्ग क प्रतनधत्व करत है
+title: "क्लास XmpTypeBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.XmpTypeBase क्लास। बुनियादी XMP प्रकार के लिए बेस क्लास का प्रतिनिधित्व करता है।"
 type: docs
-weight: 6200
+weight: 6700
 url: /hi/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
-मूल XMP प्रकार के लिए आधार वर्ग का प्रतिनिधित्व करता है।
+बेसिक XMP टाइप के लिए बेस क्लास का प्रतिनिधित्व करता है।
 
 ```csharp
 public abstract class XmpTypeBase : IXmpType
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IXmpType](../ixmptype/)
-* नाम स्थान [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

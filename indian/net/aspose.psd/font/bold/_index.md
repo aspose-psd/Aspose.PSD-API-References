@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहFont बल्ड है.
+title: "Font.Bold"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि यह फ़ॉन्ट बोल्ड है या नहीं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`Font`](../) बोल्ड है.
+एक मान प्राप्त करता है जो दर्शाता है कि यह [`Font`](../) बोल्ड है या नहीं।
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सच है अगर यह[`Font`](../) बोल्ड है; अन्यथा झूठा।
+यदि यह [`Font`](../) बोल्ड है तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

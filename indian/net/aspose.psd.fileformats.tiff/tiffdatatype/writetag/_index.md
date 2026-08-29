@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteTag
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType तरक. टैग डेट लखत है
+title: "TiffDataType.WriteTag"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType method. टैग डेटा लिखता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteTag method
 
 टैग डेटा लिखता है।
@@ -14,22 +15,22 @@ url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | डेटा स्ट्रीम। |
 | additionalDataOffset | Int64 | अतिरिक्त डेटा लिखने के लिए ऑफ़सेट। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | + this.TagType + Message के लिए मान लिखने में असमर्थ: + अपवाद.संदेश |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | मान लिखने में असमर्थ + this.TagType + Message : + exception.Message |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

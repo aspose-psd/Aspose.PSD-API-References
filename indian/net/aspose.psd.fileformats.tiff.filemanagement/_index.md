@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में टफ़ फ़इल प्ररूप स्ट्रम हैंडलंग क्लस शमल हैं
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस Tiff फ़ाइल फ़ॉर्मेट स्ट्रीम हैंडलिंग क्लासेस को शामिल करता है।"
 type: docs
-weight: 390
+weight: 430
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-नामस्थान में टिफ़ फ़ाइल प्रारूप स्ट्रीम हैंडलिंग क्लास शामिल हैं।
+{{< psd/tize >}}
+यह namespace Tiff फ़ाइल फ़ॉर्मेट स्ट्रीम हैंडलिंग क्लासेस को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | छोटी एंडियन टिफ फ़ाइल प्रारूप को संभालने के लिए टिफ़ स्ट्रीम। |
-| [TiffStreamWriter](./tiffstreamwriter/) | टिफ स्ट्रीम राइटर। |
+| [TiffStreamReader](./tiffstreamreader/) | लिटिल एंडियन Tiff फ़ाइल फ़ॉर्मेट को संभालने के लिए Tiff स्ट्रीम। |
+| [TiffStreamWriter](./tiffstreamwriter/) | Tiff स्ट्रीम राइटर। |
 
 

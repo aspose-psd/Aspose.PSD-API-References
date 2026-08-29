@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके सथ खंच गई रेखओं के अंत में उपयग करने के लए कस्टम कैप प्रप्त करत है य सेट करत हैPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen द्वारा खींची गई रेखाओं के अंत में उपयोग करने के लिए एक कस्टम कैप प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-इसके साथ खींची गई रेखाओं के अंत में उपयोग करने के लिए कस्टम कैप प्राप्त करता है या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) द्वारा खींची गई रेखाओं के अंत में उपयोग करने के लिए एक कस्टम कैप प्राप्त करता है या सेट करता है।
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`CustomLineCap`](../../customlinecap/) जो इसके साथ खींची गई रेखाओं के अंत में उपयोग की जाने वाली टोपी का प्रतिनिधित्व करता है[`Pen`](../).
+एक [`CustomLineCap`](../../customlinecap/) जो इस [`Pen`](../) द्वारा खींची गई रेखाओं के अंत में उपयोग किए जाने वाले कैप को दर्शाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `CustomEndCap` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `CustomEndCap` प्रॉपर्टी को एक अपरिवर्तनीय [`Pen`](../) पर सेट किया जाता है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

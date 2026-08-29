@@ -1,28 +1,29 @@
 ---
-title: Cache.CacheType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Cache संपत्त. उपयग क गई कैश यजन प्रप्त य सेट करत है
+title: "Cache.CacheType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Cache property. उपयोग की गई कैश योजना को प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
-उपयोग की गई कैश योजना प्राप्त या सेट करता है।
+उपयोग किए गए कैश स्कीम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public static CacheType CacheType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 उपयोग की गई कैश योजना।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* नाम स्थान [Aspose.PSD](../../cache/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

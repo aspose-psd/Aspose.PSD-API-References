@@ -1,27 +1,28 @@
 ---
-title: ExifData.UserComment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. उपयगकर्त टप्पण प्रप्त य सेट करत है
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। उपयोगकर्ता टिप्पणी को प्राप्त या सेट करता है"
 type: docs
 weight: 1060
 url: /hi/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
-उपयोगकर्ता टिप्पणी प्राप्त या सेट करता है।
+उपयोगकर्ता टिप्पणी को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string UserComment { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उपयोगकर्ता टिप्पणी.
+उपयोगकर्ता टिप्पणी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. XMP फ़न्ट प्रकर.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP फ़ॉन्ट प्रकार"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-XMP फ़ॉन्ट प्रकार.
+XMP फ़ॉन्ट टाइप।
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

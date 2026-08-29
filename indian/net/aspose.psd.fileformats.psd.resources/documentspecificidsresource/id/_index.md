@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DocumentSpecificIdsResource संपत्त. पहचनकर्त क प्रप्त य सेट करत है
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DocumentSpecificIdsResource प्रॉपर्टी। पहचानकर्ता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
-पहचानकर्ता को प्राप्त या सेट करता है।
+पहचान को प्राप्त या सेट करता है।
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पहचानकर्ता.
+पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DocumentSpecificIdsResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

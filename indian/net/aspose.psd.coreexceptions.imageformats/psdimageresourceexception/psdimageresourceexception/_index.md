@@ -1,52 +1,53 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImageResourceException नर्मत. क एक नय उदहरण प्ररंभ करत हैPsdImageResourceException वर्ग.
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImageResourceException कंस्ट्रक्टर। PsdImageResourceException क्लास का नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdImageResourceException`](../) वर्ग.
+[`PsdImageResourceException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| resource | ResourceBlock | संसाधन। |
+| संसाधन | ResourceBlock | यह संसाधन। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdImageResourceException`](../) वर्ग.
+[`PsdImageResourceException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| resource | ResourceBlock | संसाधन। |
-| innerException | Exception | भीतर का अपवाद। |
+| संसाधन | ResourceBlock | यह संसाधन। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

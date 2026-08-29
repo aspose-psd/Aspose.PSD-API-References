@@ -1,27 +1,28 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Configuration संपत्त. बफ़र आकर संकेत प्रप्त य सेट करत है ज सभ आंतरक बफ़र्स के लए अधकतम अनुमत आकर परभषत कय गय है
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Configuration प्रॉपर्टी। बफ़र आकार संकेत प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार को परिभाषित करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
-बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है।
+बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है।
 
 ```csharp
 public static int BufferSizeHint { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मेगाबाइट्स में बफ़र आकार संकेत। गैर-सकारात्मक मान का अर्थ आंतरिक बफ़र्स के लिए कोई स्मृति सीमा नहीं है
+बफ़र साइज हिंट, मेगाबाइट में। गैर-धनात्मक मान का अर्थ है आंतरिक बफ़र्स के लिए कोई मेमोरी सीमा नहीं
 
-### यह सभी देखें
+### देखें भी
 
 * class [Configuration](../)
-* नाम स्थान [Aspose.PSD.MemoryManagement](../../configuration/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResourceData संपत्त. पैटर्न आइडेंटफ़यर प्रप्त य सेट करत है
+title: "PattResourceData.PatternId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResourceData प्रॉपर्टी। पैटर्न पहचानकर्ता को प्राप्त या सेट करती है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternId property
 
-पैटर्न आइडेंटिफ़ायर प्राप्त या सेट करता है।
+पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पैटर्न पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

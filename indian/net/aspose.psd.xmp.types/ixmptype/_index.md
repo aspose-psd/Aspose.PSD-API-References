@@ -1,28 +1,29 @@
 ---
-title: Interface IXmpType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.IXmpType इंटरफेस. एक्सएमप प्रकर के लए बेस इंटरफ़ेस
+title: "इंटरफ़ेस IXmpType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.IXmpType इंटरफ़ेस। XMP प्रकार के लिए बेस इंटरफ़ेस।"
 type: docs
-weight: 6190
+weight: 6690
 url: /hi/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
-एक्सएमपी प्रकार के लिए बेस इंटरफ़ेस।
+XMP टाइप के लिए बेस इंटरफ़ेस।
 
 ```csharp
 public interface IXmpType
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

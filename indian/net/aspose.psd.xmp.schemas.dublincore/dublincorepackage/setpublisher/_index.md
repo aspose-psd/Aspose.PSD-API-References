@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DublinCorePackage तरक. प्रकशक जड़त है
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DublinCorePackage विधि. प्रकाशक जोड़ता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 प्रकाशक जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 public void SetPublisher(string publisher)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| publisher | String | प्रकाशक। |
+| प्रकाशक | String | प्रकाशक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,20 +35,20 @@ public void SetPublisher(string publisher)
 public void SetPublisher(string[] publisher)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| publisher | String[] | प्रकाशक। |
+| प्रकाशक | String[] | प्रकाशक। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | प्रकाशक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

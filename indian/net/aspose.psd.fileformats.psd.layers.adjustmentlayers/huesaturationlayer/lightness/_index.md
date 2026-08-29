@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: HueSaturationLayer संपत्त. हल्कपन प्रप्त य सेट करत है
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "HueSaturationLayer प्रॉपर्टी। प्राप्त करता है या सेट करता है lightness।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
-हल्कापन प्राप्त या सेट करता है।
+लाइटनेस प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हल्कापन।
+यह lightness।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | लपट -100 से +100 की सीमा में होनी चाहिए |
+| ArgumentOutOfRangeException | Lightness -100 से +100 की सीमा में होना चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [HueSaturationLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsValidAtPosition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters संपत्त. स्मर्ट फ़ल्टर क स्थत स्थत पर मन्य है
+title: "SmartFilters.IsValidAtPosition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters प्रॉपर्टी. स्मार्ट फ़िल्टर की स्थिति पर वैध स्थिति प्राप्त करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isvalidatposition/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsValidAtPosition property
 
-स्मार्ट फ़िल्टर की स्थिति स्थिति पर मान्य है।
+स्मार्ट फ़िल्टर की स्थिति पर वैधता स्थिति प्राप्त करता है।
 
 ```csharp
 public bool IsValidAtPosition { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

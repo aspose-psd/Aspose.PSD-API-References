@@ -1,26 +1,27 @@
 ---
-title: TextLayer.GetFonts
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextLayer तरक. पठ परत क फ़न्ट सेट प्रप्त करत है.
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextLayer मेथड। टेक्स्ट लेयर के फ़ॉन्ट सेट को प्राप्त करता है"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-पाठ परत का फ़ॉन्ट सेट प्राप्त करता है.
+टेक्स्ट लेयर के फ़ॉन्ट सेट को प्राप्त करता है।
 
 ```csharp
 public TextFontInfo[] GetFonts()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पाठ परत का फ़ॉन्ट सेट।
+टेक्स्ट लेयर का फ़ॉन्ट सेट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दर्शाता है कि कैसे Aspose.PSD पाठ परत के इनलाइन स्वरूपण के गुण प्राप्त करता है।
+निम्नलिखित कोड दर्शाता है कि Aspose.PSD टेक्स्ट लेयर की इनलाइन फ़ॉर्मेटिंग की प्रॉपर्टीज़ को कैसे प्राप्त करता है।
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // टेक्स्ट लेयर में शामिल फोंट प्राप्त करता है
+        // टेक्स्ट लेयर में मौजूद फ़ॉन्ट्स को प्राप्त करता है
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

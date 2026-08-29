@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.RegisterOpener
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerResourcesRegistry तरक. सलम बल्लेबज क पंजकृत करत है
+title: "LayerResourcesRegistry.RegisterOpener"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerResourcesRegistry मेथड। ओपनर को रजिस्टर करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisterOpener method
 
-सलामी बल्लेबाज को पंजीकृत करता है।
+ओपनर को पंजीकृत करता है।
 
 ```csharp
 public static void RegisterOpener(ILayerResourceLoader openerDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | रजिस्टर करने के लिए ओपनर डिस्क्रिप्टर। |
+| openerDescriptor | ILayerResourceLoader | ओपनर डिस्क्रिप्टर जिसे रजिस्टर करना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

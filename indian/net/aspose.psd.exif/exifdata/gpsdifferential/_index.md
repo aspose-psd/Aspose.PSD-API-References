@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. एक GPS मन प्रप्त य सेट करत है ज इंगत करत है क क्य अंतर सुधर GPS रसवर पर लगू कय गय है
+title: "ExifData.GPSDifferential"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS मान को प्राप्त करता है या सेट करता है जो दर्शाता है कि GPS रिसीवर पर डिफरेंशियल सुधार लागू किया गया है या नहीं"
 type: docs
 weight: 480
 url: /hi/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-एक GPS मान प्राप्त या सेट करता है जो इंगित करता है कि क्या अंतर सुधार GPS रिसीवर पर लागू किया गया है।
+GPS रिसीवर पर डिफरेंशियल सुधार लागू है या नहीं यह दर्शाने वाले GPS मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस मान जो इंगित करता है कि जीपीएस रिसीवर पर अंतर सुधार लागू किया गया है या नहीं।
+GPS मान जो दर्शाता है कि GPS रिसीवर पर डिफरेंशियल सुधार लागू किया गया है या नहीं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FileCreateSource.IsTemporal
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileCreateSource संपत्त. यह इंगत करने वल मन प्रप्त करत है क फ़इल अस्थय हग य नहं
+title: "FileCreateSource.IsTemporal"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileCreateSource प्रॉपर्टी। यह दर्शाता है कि फ़ाइल अस्थायी होगी या नहीं, इसका मान प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.sources/filecreatesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.IsTemporal property
 
-यह इंगित करने वाला मान प्राप्त करता है कि फ़ाइल अस्थायी होगी या नहीं।
+फ़ाइल अस्थायी होगी या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public override bool IsTemporal { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर फ़ाइल अस्थायी होगी; अन्यथा,`असत्य`.
+`true` यदि फ़ाइल टेम्पोरल होगी; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileCreateSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../filecreatesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

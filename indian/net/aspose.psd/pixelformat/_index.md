@@ -1,14 +1,15 @@
 ---
-title: Enum PixelFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.PixelFormat एनुम. पक्सेल डेट प्ररूप वस्तवक अर्थ
+title: "Enum PixelFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.PixelFormat enum. पिक्सेल डेटा फ़ॉर्मेट का वास्तविक अर्थ"
 type: docs
-weight: 5240
+weight: 5730
 url: /hi/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-पिक्सेल डेटा प्रारूप वास्तविक अर्थ।
+पिक्सेल डेटा फ़ॉर्मेट का वास्तविक अर्थ।
 
 ```csharp
 public enum PixelFormat
@@ -16,19 +17,19 @@ public enum PixelFormat
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Grayscale | `0` | ग्रेस्केल कलर स्पेस |
-| Bgr | `1` | बीजीआर कलर स्पेस। |
-| Rgb | `2` | आरजीबी कलर स्पेस. |
-| YCbCr | `3` | YCbCr कलर स्पेस. |
-| Cmyk | `4` | सीएमवाईके कलर स्पेस। |
-| Ycck | `5` | YCCK कलर स्पेस. |
-| CieLab | `6` | सीआईई लैब कलर स्पेस. |
+| Grayscale | `0` | ग्रेस्केल रंग स्थान |
+| Bgr | `1` | BGR रंग स्थान। |
+| Rgb | `2` | RGB रंग स्पेस। |
+| YCbCr | `3` | YCbCr रंग स्थान। |
+| Cmyk | `4` | CMYK रंग स्पेस। |
+| Ycck | `5` | YCCK रंग स्थान। |
+| CieLab | `6` | CIE lab रंग स्थान। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

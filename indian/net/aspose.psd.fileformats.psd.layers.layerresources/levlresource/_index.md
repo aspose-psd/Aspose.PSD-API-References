@@ -1,14 +1,15 @@
 ---
-title: Class LevlResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource कक्ष. क्लस लेवल/Resource. एक्सपजर एडजस्टमेंट लेयर क संसधन
+title: "क्लास LevlResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource क्लास। क्लास LevlResource। एक्सपोज़र एडजस्टमेंट लेयर का रिसोर्स।"
 type: docs
-weight: 2640
+weight: 2950
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
+{{< psd/tize >}}
 ## LevlResource class
 
-क्लास लेवल/Resource. एक्सपोजर एडजस्टमेंट लेयर का संसाधन
+क्लास LevlResource. एक्सपोज़र एडजस्टमेंट लेयर का रिसोर्स।
 
 ```csharp
 public class LevlResource : AdjustmentLayerResource
@@ -18,38 +19,38 @@ public class LevlResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [LevlResource](levlresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`LevlResource` वर्ग. |
-| [LevlResource](levlresource/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`LevlResource` class. ग्रेस्केल, डुओटोन, आरजीबी, सीएमवाईके, लैब रंग मोड में समर्थित 2 बाइट्स - संस्करण (=2) 29 * 10 बाइट्स - 5 छोटे पूर्णांकों के साथ स्तर रिकॉर्ड के सेट 4 बाइट्स - एलवीएलएस हेडर (292 इंडेक्स पर शुरू होता है) 2 बाइट्स - संस्करण (=3) 2 बाइट्स - कुल स्तर रिकॉर्ड की संख्या 10 * (कुल गणना - 29) Lvls संसाधन का शून्य अंत चार के लिए भी होना चाहिए |
+| [LevlResource](levlresource/#constructor)() | `LevlResource` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [LevlResource](levlresource/#constructor_1)(byte[]) | `LevlResource` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। ग्रे स्केल, डुओटोन, RGB, CMYK, लैब कलर मोड्स में समर्थित। 2 बाइट्स - संस्करण (=2) 29 * 10 बाइट्स - 5 शॉर्ट इंटीजर वाले लेवल रिकॉर्ड सेट 4 बाइट्स - Lvls हेडर (इंडेक्स 292 से शुरू) 2 बाइट्स - संस्करण (=3) 2 बाइट्स - कुल लेवल रिकॉर्ड की गिनती 10 * (कुल गिनती - 29) शून्य समाप्ति वाले Lvls रिसोर्स को भी फोल्ड किया जाना चाहिए। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 है |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | वर्ज़न प्राप्त करता है। डिफ़ॉल्ट 2 है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | चैनल प्राप्त करता है। |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | टाइप टूल इंफो की. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

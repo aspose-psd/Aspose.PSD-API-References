@@ -1,43 +1,47 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में PSD फ़इल स्वरूप परतें हैं.
+title: "Aspose.PSD.FileFormats.Psd.Layers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस PSD फ़ाइल फ़ॉर्मेट लेयर्स शामिल करता है"
 type: docs
-weight: 210
+weight: 230
 url: /hi/net/aspose.psd.fileformats.psd.layers/
 ---
-नाम स्थान में PSD फ़ाइल स्वरूप परतें हैं.
+{{< psd/tize >}}
+यह namespace PSD फ़ाइल फ़ॉर्मेट लेयर्स शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
+| [ArtboardLayer](./artboardlayer/) | आर्टबोर्ड लेयर क्लास। |
 | [BlendRange](./blendrange/) | ब्लेंड रेंज। |
-| [ChannelInformation](./channelinformation/) | चैनल की जानकारी। |
-| [GlobalLayerMaskInfo](./globallayermaskinfo/) | ग्लोबल लेयर मास्क सेक्शन. |
-| [Layer](./layer/) | पीएसडी परत. |
-| [LayerBlendingRangesData](./layerblendingrangesdata/) | परत सम्मिश्रण श्रेणी डेटा. |
+| [ChannelInformation](./channelinformation/) | चैनल जानकारी। |
+| [GlobalLayerMaskInfo](./globallayermaskinfo/) | वैश्विक लेयर मास्क अनुभाग। |
+| [Layer](./layer/) | psd लेयर। |
+| [LayerBlendingRangesData](./layerblendingrangesdata/) | लेयर ब्लेंडिंग रेंज डेटा। |
 | [LayerGroup](./layergroup/) | ग्रुप लेयर क्लास |
-| [LayerHashCalculator](./layerhashcalculator/) | PSD परतों के लिए हैश कैलकुलेटर। इसका उपयोग अलग-अलग PSD फ़ाइलों में समान या अलग-अलग परतों को खोजने के लिए किया जा सकता है |
-| [LayerMaskData](./layermaskdata/) | आधार LayerMaskData वर्ग को परिभाषित करता है जिसमें PSD फ़ाइल में लेयर मास्क डेटा के बारे में जानकारी होती है। यह Adobe® Photoshop® फ़ाइलों को प्रोग्रामेटिक रूप से संशोधित करने और PSD प्रारूप संपादन को स्वचालित करने में मदद कर सकता है। यदि परत में केवल एक रेखापुंज मुखौटा है तो ImageData में रेखापुंज होता है मास्क डेटा बाइट्स. यदि लेयर में केवल वेक्टर मास्क है तो ImageData में वेक्टर मास्क रैस्टराइज़्ड (कैश्ड) डेटा बाइट्स होते हैं। यदि लेयर में लेयर और वेक्टर मास्क दोनों हैं तो इमेजडेटा में रैस्टर मास्क और रैस्टराइज़्ड वेक्टर मास्क संयुक्त होते हैं। [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)बाइट्स की लंबाई समान चौड़ाई * की ऊँचाई होनी चाहिए[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) properties. नोटिस, कि सिर्फ LayerMaskData को हटाना/जोड़ना/अपडेट करना सही सेविंग के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं होते हैं; हालांकि यह सही प्रतिपादन प्रदान कर सकता है। द[`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) उसके लिए विधि का उपयोग किया जाना चाहिए। |
-| [LayerMaskDataFull](./layermaskdatafull/) | LayerMaskDataFull क्लास को परिभाषित करता है जिसमें PSD फ़ाइल लेयर में मास्क डेटा के बारे में जानकारी होती है, जब लेयर में लेयर और वेक्टर मास्क दोनों होते हैं। अन्यथा, ए[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) उपयोग किया जाता है। इमेजडाटा में रास्टर मास्क और रास्टराइज्ड वेक्टर मास्क संयुक्त होते हैं। इमेजडाटा बाइट्स की लंबाई मास्करेक्टेंगल के बराबर होनी चाहिए। |
-| [LayerMaskDataShort](./layermaskdatashort/) | LayerMaskDataShort वर्ग को परिभाषित करता है जिसमें PSD फ़ाइल लेयर में मास्क डेटा के बारे में जानकारी होती है जब परत में केवल रेखापुंज या वेक्टर मास्क होता है लेकिन दोनों नहीं। अन्यथा, ए[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) उपयोग किया जाता है। यदि परत में केवल एक रेखापुंज मुखौटा है, तो ImageData में रेखापुंज मुखौटा डेटा बाइट्स शामिल हैं।[`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)बाइट्स की लंबाई समान चौड़ाई * की ऊँचाई होनी चाहिए[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) गुण. |
-| [LayerResource](./layerresource/) | परत जानकारी का प्रतिनिधित्व करता है। |
-| [LayerResourcesRegistry](./layerresourcesregistry/) | PSD फ़ाइलें लोड करने के लिए परत संसाधन रजिस्ट्री को परिभाषित करें। |
-| [LinkedLayersManager](./linkedlayersmanager/) | लिंक्ड लेयर मैनेजर क्लास. |
-| [SectionDividerLayer](./sectiondividerlayer/) | फ़ोल्डर (परत समूह) की सीमाओं को चिह्नित करने के लिए अनुभाग विभाजक परत . |
-| [TextLayer](./textlayer/) | पाठ परत वर्ग |
-## इंटरफेस
+| [LayerHashCalculator](./layerhashcalculator/) | PSD लेयर्स के लिए हैश कैलकुलेटर। इसे विभिन्न PSD फ़ाइलों में समान या अलग लेयर्स खोजने के लिए उपयोग किया जा सकता है। |
+| [LayerMaskData](./layermaskdata/) | PSD फ़ाइल में लेयर मास्क डेटा के बारे में जानकारी रखने वाली बेस LayerMaskData क्लास को परिभाषित करता है। यह प्रोग्रामेटिक रूप से Adobe® Photoshop® फ़ाइलों को संशोधित करने और PSD फ़ॉर्मेट संपादन को स्वचालित करने में मदद कर सकता है। यदि लेयर में केवल रास्टर मास्क है तो ImageData रास्टर मास्क डेटा बाइट्स को रखता है। यदि लेयर में केवल वेक्टर मास्क है तो ImageData वेक्टर मास्क को रास्टराइज़्ड (कैश्ड) डेटा बाइट्स को रखता है। यदि लेयर में दोनों, लेयर और वेक्टर मास्क हैं तो ImageData रास्टर मास्क और रास्टराइज़्ड वेक्टर मास्क को संयुक्त रूप से रखता है। [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) बाइट्स की लंबाई Width * Height के बराबर होनी चाहिए जैसा कि [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) प्रॉपर्टीज़ में है। ध्यान दें, केवल LayerMaskData को हटाना/जोड़ना/अपडेट करना सही सहेजने के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं होते; हालांकि यह सही रेंडरिंग प्रदान कर सकता है। इसके लिए [`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) मेथड का उपयोग किया जाना चाहिए। |
+| [LayerMaskDataFull](./layermaskdatafull/) | PSD फ़ाइल लेयर में जब लेयर में दोनों लेयर और वेक्टर मास्क होते हैं तो मास्क डेटा के बारे में जानकारी रखने वाली LayerMaskDataFull क्लास को परिभाषित करता है। अन्यथा, एक [`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) का उपयोग किया जाता है। ImageData रास्टर मास्क और रास्टराइज़्ड वेक्टर मास्क को संयुक्त रूप से रखता है। ImageData बाइट्स की लंबाई MaskRectangle.Width * MaskRectangle.Height प्रॉपर्टीज़ के बराबर होनी चाहिए। |
+| [LayerMaskDataShort](./layermaskdatashort/) | जब लेयर में केवल रास्टर या वेक्टर मास्क हो लेकिन दोनों नहीं, तब PSD फ़ाइल लेयर में मास्क डेटा के बारे में जानकारी रखने वाली LayerMaskDataShort क्लास को परिभाषित करता है। अन्यथा, एक [`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) का उपयोग किया जाता है। यदि लेयर में केवल रास्टर मास्क है तो ImageData रास्टर मास्क डेटा बाइट्स को रखता है। यदि लेयर में केवल वेक्टर मास्क है तो ImageData वेक्टर मास्क को रास्टराइज़्ड (कैश्ड) डेटा बाइट्स को रखता है। [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) बाइट्स की लंबाई Width * Height के बराबर होनी चाहिए जैसा कि [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) प्रॉपर्टीज़ में है। |
+| [LayerResource](./layerresource/) | लेयर जानकारी का प्रतिनिधित्व करता है। |
+| [LayerResourcesRegistry](./layerresourcesregistry/) | PSD फ़ाइलों के लोडिंग के लिए लेयर रिसोर्सेज रजिस्ट्री को परिभाषित करें। |
+| [LinkedLayersManager](./linkedlayersmanager/) | लिंक्ड लेयर्स मैनेजर क्लास। |
+| [SectionDividerLayer](./sectiondividerlayer/) | फ़ोल्डर (लेयर समूह) की सीमाओं को चिह्नित करने के लिए सेक्शन डिवाइडर लेयर। |
+| [ShapeLayer](./shapelayer/) | शेप लेयर। शेप लेयर और संबंधित रिसोर्सेज के साथ कार्य की लॉजिक को संलग्न करता है। |
+| [TextLayer](./textlayer/) | टेक्स्ट लेयर क्लास |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [IGradientColorPoint](./igradientcolorpoint/) | भरने की सेटिंग के लिए बेस इंटरफ़ेस |
-| [ILayerResourceLoader](./ilayerresourceloader/) | परत संसाधन लोडर. |
-## गणना
+| [IGradientColorPoint](./igradientcolorpoint/) | फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस |
+| [ILayerResourceLoader](./ilayerresourceloader/) | लेयर रिसोर्स लोडर। |
+| [IShapeLayer](./ishapelayer/) | शेप लेयर की प्रॉपर्टीज़ का वर्णन करता है। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [LayerFlags](./layerflags/) | परत फ़्लैग करती है |
-| [LayerMaskFlags](./layermaskflags/) | लेयर मास्क फ़्लैग करता है |
+| [LayerFlags](./layerflags/) | लेयर फ्लैग्स |
+| [LayerMaskFlags](./layermaskflags/) | लेयर मास्क फ्लैग्स |
 
 

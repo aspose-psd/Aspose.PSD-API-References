@@ -1,38 +1,39 @@
 ---
-title: Region.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. परक्षण करत है क क्य यहRegion नर्दष्ट ड्रइंग सतह पर एक खल इंटरयर है
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। परीक्षण करता है कि यह Region निर्दिष्ट ड्राइंग सतह पर खाली आंतरिक भाग रखता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-परीक्षण करता है कि क्या यह[`Region`](../) निर्दिष्ट ड्राइंग सतह पर एक खाली इंटीरियर है।
+परीक्षण करता है कि यह [`Region`](../) निर्दिष्ट ड्राइंग सतह पर खाली आंतरिक भाग रखता है।
 
 ```csharp
 public bool IsEmpty(Graphics g)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| g | Graphics | ए[`Graphics`](../../graphics/) जो एक ड्राइंग सतह का प्रतिनिधित्व करता है। |
+| g | Graphics | एक [`Graphics`](../../graphics/) जो ड्राइंग सतह का प्रतिनिधित्व करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर इसका इंटीरियर[`Region`](../) परिवर्तन से जुड़े होने पर खाली है*g* लागू की गई है; अन्यथा, असत्य.
+सही यदि इस [`Region`](../) का आंतरिक भाग तब खाली हो जब *g* के साथ जुड़ी परिवर्तन लागू की जाती है; अन्यथा, गलत।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *g* रिक्त है. |
+| ArgumentNullException | *g* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Cache संपत्त. आवंटत डस्क बइट गनत प्रप्त करत है
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Cache प्रॉपर्टी। आवंटित डिस्क बाइट्स की संख्या प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-आवंटित डिस्क बाइट गिनती प्राप्त करता है।
+आवंटित डिस्क बाइट्स की गिनती प्राप्त करता है।
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आवंटित डिस्क बाइट गिनती.
+आवंटित डिस्क बाइट्स की संख्या।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Cache](../)
-* नाम स्थान [Aspose.PSD](../../cache/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

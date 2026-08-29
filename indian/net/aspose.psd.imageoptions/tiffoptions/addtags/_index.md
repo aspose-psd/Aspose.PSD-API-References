@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AddTags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions तरक. टैग जड़त है
+title: "TiffOptions.AddTags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions मेथड। टैग्स को जोड़ता है"
 type: docs
-weight: 710
+weight: 720
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/addtags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTags method
 
-टैग जोड़ता है।
+टैग्स जोड़ता है।
 
 ```csharp
 public void AddTags(TiffDataType[] tagsToAdd)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tagsToAdd | TiffDataType[] | जोड़ने के लिए टैग। |
+| tagsToAdd | TiffDataType[] | जोड़ने के लिए टैग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

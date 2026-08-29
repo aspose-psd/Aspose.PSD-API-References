@@ -1,39 +1,40 @@
 ---
-title: TiffDataType.ReadTag
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType तरक. टैग डेट पढ़त है
+title: "TiffDataType.ReadTag"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType मेथड. टैग डेटा पढ़ता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/readtag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ReadTag method
 
-टैग डेटा पढ़ता है।
+टैग डेटा को पढ़ता है।
 
 ```csharp
 public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | dataStream | TiffStreamReader | डेटा स्ट्रीम। |
-| position | Int64 | टैग की स्थिति। |
+| स्थिति | Int64 | टैग स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रीड टैग.
+पढ़ा गया टैग।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | आकड़ों का प्रवाह |
+| ArgumentNullException | dataStream |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

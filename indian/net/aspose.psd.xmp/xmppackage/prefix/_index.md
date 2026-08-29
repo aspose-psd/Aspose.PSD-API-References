@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage संपत्त. उपसर्ग प्रप्त करत है
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage प्रॉपर्टी। उपसर्ग प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-उपसर्ग प्राप्त करता है।
+प्रिफिक्स को प्राप्त करता है।
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उपसर्ग।
+प्रीफ़िक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

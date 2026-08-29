@@ -1,28 +1,29 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageDescriptor संपत्त. समर्थत प्ररूप प्रप्त करत है
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageDescriptor प्रॉपर्टी। समर्थित फ़ॉर्मेट प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
-समर्थित प्रारूप प्राप्त करता है।
+समर्थित फ़ॉर्मेट प्राप्त करता है।
 
 ```csharp
 public FileFormat SupportedFormat { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-समर्थित प्रारूप।
+समर्थित फ़ॉर्मेट।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimagedescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

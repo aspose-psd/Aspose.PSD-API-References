@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेयर ब्लेंडंग रेंज डेट प्रप्त य सेट करत है
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर ब्लेंडिंग रेंज डेटा प्राप्त करता है या सेट करता है"
 type: docs
-weight: 190
+weight: 200
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-लेयर ब्लेंडिंग रेंज डेटा प्राप्त या सेट करता है।
+लेयर ब्लेंडिंग रेंज डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत सम्मिश्रण श्रेणी डेटा.
+लेयर ब्लेंडिंग रेंज डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

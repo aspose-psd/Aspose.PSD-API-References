@@ -1,27 +1,28 @@
 ---
-title: Color.GetHashCode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. इसके लए हैश कड लटत हैColorसंरचन.
+title: "Color.GetHashCode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color विधि। इस Color संरचना के लिए हैश कोड लौटाता है।"
 type: docs
 weight: 1560
 url: /hi/net/aspose.psd/color/gethashcode/
 ---
+{{< psd/tize >}}
 ## Color.GetHashCode method
 
-इसके लिए हैश कोड लौटाता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना के लिए हैश कोड लौटाता है।
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक पूर्णांक मान जो इसके लिए हैश कोड निर्दिष्ट करता है[`Color`](../).
+एक पूर्णांक मान जो इस [`Color`](../) के हैश कोड को निर्दिष्ट करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

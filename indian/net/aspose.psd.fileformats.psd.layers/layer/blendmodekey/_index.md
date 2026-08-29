@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. ब्लेंड मड कुंज प्रप्त य सेट करत है
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. ब्लेंड मोड कुंजी को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-ब्लेंड मोड कुंजी प्राप्त या सेट करता है।
+ब्लेंड मोड कुंजी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ब्लेंड मोड कुंजी.
+ब्लेंड मोड कुंजी।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में PassThrough लेयर ब्लेंड मोड का उपयोग कैसे कर सकते हैं।
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

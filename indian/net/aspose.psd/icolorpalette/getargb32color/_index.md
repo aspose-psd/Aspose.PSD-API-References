@@ -1,37 +1,38 @@
 ---
-title: IColorPalette.GetArgb32Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IColorPalette तरक. अनुक्रमणक द्वर 32बट ARGB पैलेट रंग प्रप्त करत है.
+title: "IColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IColorPalette मेथड। इंडेक्स द्वारा 32-बिट ARGB पैलेट रंग को प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/icolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## IColorPalette.GetArgb32Color method
 
-अनुक्रमणिका द्वारा 32-बिट ARGB पैलेट रंग प्राप्त करता है.
+इंडेक्स द्वारा 32-बिट ARGB पैलेट रंग प्राप्त करता है।
 
 ```csharp
 public int GetArgb32Color(int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | 32-बिट ARGB पैलेट कलर इंडेक्स। |
+| index | Int32 | 32-बिट ARGB पैलेट रंग इंडेक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-द्वारा निर्दिष्ट रंग पैलेट प्रविष्टि*index*.
+इंडेक्स द्वारा निर्दिष्ट रंग पैलेट एंट्री *index*।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | अगर रंग पैलेट*index* निर्दिष्ट पैलेट प्रविष्टि सीमा से बाहर है। |
+| ArgumentOutOfRangeException | यदि निर्दिष्ट रंग पैलेट *index* पैलेट एंट्री की सीमा से बाहर है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../icolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

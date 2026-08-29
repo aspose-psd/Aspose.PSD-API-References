@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownResource नर्मत. क एक नय उदहरण प्ररंभ करत हैUnknownResource वर्ग.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownResource कंस्ट्रक्टर। UnknownResource क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`UnknownResource`](../) वर्ग.
+[`UnknownResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| signature | Int32 | द सिगनेचर। |
-| key | Int32 | संसाधन कुंजी। |
+| हस्ताक्षर | Int32 | हस्ताक्षर। |
+| कुंजी | Int32 | संसाधन कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnknownResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

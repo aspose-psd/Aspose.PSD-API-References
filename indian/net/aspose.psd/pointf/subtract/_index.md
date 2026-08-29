@@ -1,59 +1,60 @@
 ---
-title: PointF.Subtract
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF तरक. अनुवद करत हैPointF एक नर्दष्ट आकर के ऋणत्मक द्वर
+title: "PointF.Subtract"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF विधि। निर्दिष्ट आकार के नकारात्मक द्वारा एक PointF को स्थानांतरित करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/pointf/subtract/
 ---
+{{< psd/tize >}}
 ## Subtract(PointF, Size) {#subtract}
 
-अनुवाद करता है[`PointF`](../) एक निर्दिष्ट आकार के ऋणात्मक द्वारा।
+निर्दिष्ट आकार के नकारात्मक द्वारा एक [`PointF`](../) को स्थानांतरित करता है।
 
 ```csharp
 public static PointF Subtract(PointF point, Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) अनुवाद करने के लिए। |
-| size | Size | [`Size`](../../size/) के निर्देशांक से घटाने के लिए संख्याओं को निर्दिष्ट करता है*point*. |
+| point | PointF | ट्रांसलेट करने के लिए [`PointF`](../)। |
+| size | Size | यह [`Size`](../../size/) जो *point* के निर्देशांक से घटाने के लिए संख्याएँ निर्दिष्ट करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुवादित[`PointF`](../).
+ट्रांसलेट किया गया [`PointF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Subtract(PointF, SizeF) {#subtract_1}
 
-अनुवाद करता है[`PointF`](../) एक निर्दिष्ट आकार के ऋणात्मक द्वारा।
+निर्दिष्ट आकार के नकारात्मक द्वारा एक [`PointF`](../) को स्थानांतरित करता है।
 
 ```csharp
 public static PointF Subtract(PointF point, SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) अनुवाद करने के लिए। |
-| size | SizeF | [`SizeF`](../../sizef/) के निर्देशांक से घटाने के लिए संख्याओं को निर्दिष्ट करता है*point*. |
+| point | PointF | ट्रांसलेट करने के लिए [`PointF`](../)। |
+| size | SizeF | एक [`SizeF`](../../sizef/) जो *point* के निर्देशांक से घटाने के लिए संख्याएँ निर्दिष्ट करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुवादित[`PointF`](../).
+ट्रांसलेट किया गया [`PointF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

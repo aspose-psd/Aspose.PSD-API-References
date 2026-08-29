@@ -1,44 +1,45 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LnkeResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLnkeResource वर्ग.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LnkeResource कंस्ट्रक्टर। LnkeResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LnkeResource`](../) वर्ग.
+[`LnkeResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LnkeResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LnkeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LnkeResource`](../) वर्ग.
+[`LnkeResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | डेटा स्रोत। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

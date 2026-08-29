@@ -1,27 +1,28 @@
 ---
-title: ExifData.FocalLengthIn35MmFilm
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. 35 मम फल्म में फकल लम्बई प्रप्त य सेट करत है
+title: "ExifData.FocalLengthIn35MmFilm"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. 35 मिमी फिल्म में फोकल लंबाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 300
 url: /hi/net/aspose.psd.exif/exifdata/focallengthin35mmfilm/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLengthIn35MmFilm property
 
-35 मिमी फिल्म में फोकल लम्बाई प्राप्त या सेट करता है।
+35 मिमी फ़िल्म में फ़ोकल लंबाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort FocalLengthIn35MmFilm { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-35 मिमी फिल्म में फ़ोकल लंबाई.
+35 मिमी फिल्म में फोकल लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

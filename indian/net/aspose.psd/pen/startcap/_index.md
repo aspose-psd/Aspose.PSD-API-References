@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके सथ खंच गई रेखओं क शुरुआत में उपयग क जने वल कैप शैल क प्रप्त य सेट करत हैPen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen से खींची गई रेखाओं की शुरुआत में उपयोग किए जाने वाले कैप शैली को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-इसके साथ खींची गई रेखाओं की शुरुआत में उपयोग की जाने वाली कैप शैली को प्राप्त या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) से खींची गई रेखाओं की शुरुआत में उपयोग किए जाने वाले कैप शैली को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-निम्न में से एक[`LineCap`](../../linecap/) वे मान जो इसके साथ खींची गई रेखाओं की शुरुआत में उपयोग की जाने वाली कैप शैली का प्रतिनिधित्व करते हैं[`Pen`](../).
+इस [`Pen`](../) से खींची गई रेखाओं की शुरुआत में उपयोग किए जाने वाले कैप शैली को दर्शाने वाले [`LineCap`](../../linecap/) मानों में से एक।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `StartCap` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `StartCap` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

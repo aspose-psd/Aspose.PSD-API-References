@@ -1,28 +1,29 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartResourceCreator तरक. बहर स्मर्ट ऑब्जेक्ट संसधन उत्पन्न करत है
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartResourceCreator मेथड। बाहरी स्मार्ट ऑब्जेक्ट रिसोर्स उत्पन्न करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
-बाहरी स्मार्ट ऑब्जेक्ट संसाधन उत्पन्न करता है।
+एक्सटर्नल स्मार्ट ऑब्जेक्ट रिसोर्स उत्पन्न करता है।
 
 ```csharp
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-उत्पन्न[`SoLeResource`](../../soleresource/) उदाहरण।
+जनरेट किया गया [`SoLeResource`](../../soleresource/) इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

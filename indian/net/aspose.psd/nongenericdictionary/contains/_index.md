@@ -1,31 +1,32 @@
 ---
-title: NonGenericDictionary.Contains
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary तरक. नर्धरत करत है क क्य IDictionary वस्तु में नर्दष्ट कुंज के सथ एक तत्व हत है
+title: "NonGenericDictionary.Contains"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary मेथड। निर्धारित करता है कि IDictionary ऑब्जेक्ट में निर्दिष्ट कुंजी वाला तत्व है या नहीं"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/nongenericdictionary/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Contains method
 
-निर्धारित करता है कि क्या IDictionary वस्तु में निर्दिष्ट कुंजी के साथ एक तत्व होता है।
+निर्धारित करता है कि IDictionary ऑब्जेक्ट में निर्दिष्ट कुंजी वाला तत्व मौजूद है या नहीं।
 
 ```csharp
 public bool Contains(object key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | Object | में पता लगाने की कुंजीIDictionary वस्तु। |
+| कुंजी | ऑब्जेक्ट | IDictionary ऑब्जेक्ट में खोजने के लिए कुंजी। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर IDictionary कुंजी के साथ एक तत्व होता है; अन्यथा, असत्य.
+यदि IDictionary में कुंजी वाला तत्व है तो true; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

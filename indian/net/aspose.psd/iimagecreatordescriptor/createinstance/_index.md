@@ -1,28 +1,29 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageCreatorDescriptor तरक. एक नय नर्मत उदहरण बनत है
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageCreatorDescriptor मेथड। एक नया क्रिएटर इंस्टेंस बनाता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
-एक नया निर्माता उदाहरण बनाता है।
+एक नया क्रिएटर इंस्टेंस बनाता है।
 
 ```csharp
 public IImageCreator CreateInstance()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया निर्माता उदाहरण।
+एक नया क्रिएटर इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimagecreatordescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

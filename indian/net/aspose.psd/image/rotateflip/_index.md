@@ -1,46 +1,47 @@
 ---
-title: Image.RotateFlip
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. छव क घुमत है फ़्लप करत है य घुमत है और फ़्लप करत है.
+title: "Image.RotateFlip"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। इमेज को घुमाता, फ्लिप करता या घुमाकर फ्लिप करता है"
 type: docs
-weight: 220
+weight: 230
 url: /hi/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
-छवि को घुमाता है, फ़्लिप करता है या घुमाता है और फ़्लिप करता है.
+इमेज को घुमाता है, फ़्लिप करता है, या घुमाकर फ़्लिप करता है।
 
 ```csharp
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | रोटेट फ्लिप का प्रकार। |
+| rotateFlipType | RotateFlipType | रोटेट फ़्लिप का प्रकार। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण एक इमेज पर रोटेट ऑपरेशन के उपयोग को प्रदर्शित करता है। उदाहरण किसी डिस्क स्थान से एक मौजूदा छवि फ़ाइल को लोड करता है और Enum Aspose.PSD.RotateFlipType के मान के अनुसार छवि पर घुमाएँ कार्रवाई करता है
+यह उदाहरण इमेज पर Rotate ऑपरेशन के उपयोग को दर्शाता है। उदाहरण कुछ डिस्क स्थान से मौजूदा इमेज फ़ाइल लोड करता है और Enum Aspose.PSD.RotateFlipType के मान के अनुसार इमेज पर Rotate ऑपरेशन लागू करता है
 
 ```csharp
 [C#]
 
-// छवि वर्ग का एक उदाहरण बनाएं और इसे फ़ाइल पथ के माध्यम से मौजूदा छवि फ़ाइल के साथ प्रारंभ करें
+//image क्लास की एक इंस्टेंस बनाएं और फ़ाइल पाथ के माध्यम से मौजूदा इमेज फ़ाइल से इसे इनिशियलाइज़ करें
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // एक्स अक्ष के बारे में छवि को 180 डिग्री पर घुमाएं
+    //इमेज को X अक्ष के बारे में 180 डिग्री घुमाएँ
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    // सभी परिवर्तनों को सहेजें।
+    // सभी परिवर्तन सहेजें।
     image.Save();
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

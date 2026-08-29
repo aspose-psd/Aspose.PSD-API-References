@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.SelectionStart
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. चयन प्ररंभ ह जत है य सेट करत है
+title: "TypeToolInfoResource.SelectionStart"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। चयन प्रारंभ को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 190
+weight: 170
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/selectionstart/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.SelectionStart property
 
-चयन प्रारंभ हो जाता है या सेट करता है।
+सेलेक्शन शुरूआत को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int SelectionStart { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चयन प्रारंभ.
+चयन प्रारंभ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleExtensions तरक. द आयतं क जड़त है
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleExtensions मेथड। दो rectangle को मिलाता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
-दो आयतों को जोड़ता है।
+दो आयतों को मिलाता है।
 
 ```csharp
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | पहला आयत। |
-| otherRectangle | RectangleF | दूसरा चतुर्भुज। |
+| आयत | RectangleF | पहला आयत। |
+| otherRectangle | RectangleF | दूसरा आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-संघ संचालन परिणाम के रूप में नया आयत
+संघ ऑपरेशन के परिणाम के रूप में नया आयत।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../rectangleextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

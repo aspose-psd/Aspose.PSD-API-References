@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Title
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiHeader संपत्त. शर्षक प्रप्त य सेट करत है
+title: "AiHeader.Title"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiHeader प्रॉपर्टी। प्राप्त करता है या सेट करता है शीर्षक।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
-शीर्षक प्राप्त या सेट करता है।
+शीर्षक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शीर्षक.
+शीर्षक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiHeader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

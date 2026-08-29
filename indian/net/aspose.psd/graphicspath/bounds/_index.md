@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath संपत्त. ऑब्जेक्ट क सम प्रप्त य सेट करत है
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath प्रॉपर्टी। ऑब्जेक्ट की सीमाओं को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
-ऑब्जेक्ट की सीमा प्राप्त या सेट करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की सीमा।
+वस्तु की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

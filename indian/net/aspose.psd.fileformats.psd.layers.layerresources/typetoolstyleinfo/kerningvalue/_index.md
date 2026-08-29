@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolStyleInfo संपत्त. कर्नंग मन प्रप्त य सेट करत है
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolStyleInfo प्रॉपर्टी। केरनिंग मान प्राप्त या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
-कर्निंग मान प्राप्त या सेट करता है।
+केरनिंग मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int KerningValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कर्निंग मान।
+केरनिंग मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolStyleInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

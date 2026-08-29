@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.ImageData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. PSD फ़इल में लेयर मस्क डेट य संयुक्त / अंतम मस्क अगर कई वेक्टर मस्क है प्रप्त य सेट करत है
+title: "LayerMaskData.ImageData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। लेयर मास्क डेटा या संयुक्त/अंतिम मास्क को प्राप्त या सेट करता है यदि PSD फ़ाइल में वेक्टर मास्क मौजूद है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.ImageData property
 
-PSD फ़ाइल में लेयर मास्क डेटा (या संयुक्त / अंतिम मास्क अगर कोई वेक्टर मास्क है) प्राप्त या सेट करता है।
+PSD फ़ाइल में लेयर मास्क डेटा (या संयुक्त/अंतिम मास्क यदि वेक्टर मास्क मौजूद है) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] ImageData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-PSD इमेज में लेयर मास्क डेटा.
+PSD छवि में लेयर मास्क डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

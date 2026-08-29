@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions संपत्त. आउटपुट लेयर्स के नम प्रप्त य सेट करत है कर्य करत है यद नर्यत प्ररूप परतं के नमकरण क समर्थन करत है उदहरण के लए Psd के लए
+title: "MultiPageOptions.OutputLayersNames"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions प्रॉपर्टी। आउटपुट लेयर नामों को प्राप्त करता है या सेट करता है। यह निर्यात फ़ॉर्मेट लेयर नामकरण का समर्थन करता है, उदाहरण के लिए Psd के लिए।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.OutputLayersNames property
 
-आउटपुट लेयर्स के नाम प्राप्त या सेट करता है (कार्य करता है यदि निर्यात प्रारूप परतों के नामकरण का समर्थन करता है, उदाहरण के लिए Psd के लिए)
+आउटपुट लेयर नामों को प्राप्त करता है या सेट करता है (यदि एक्सपोर्ट फ़ॉर्मेट लेयर नामकरण का समर्थन करता है, जैसे Psd के लिए)।
 
 ```csharp
 public string[] OutputLayersNames { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आउटपुट परतों के नाम.
+आउटपुट लेयर नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitArrayStructure संपत्त. के मप इकई प्रकर क प्रप्त य सेट करत हैUnitArrayStructure मन.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitArrayStructure प्रॉपर्टी। UnitArrayStructure मानों की माप इकाई प्रकार प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-के माप इकाई प्रकार को प्राप्त या सेट करता है[`UnitArrayStructure`](../) मान.
+[`UnitArrayStructure`](../) मानों की माप इकाई प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-माप इकाई प्रकार।
+यह माप इकाई प्रकार।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

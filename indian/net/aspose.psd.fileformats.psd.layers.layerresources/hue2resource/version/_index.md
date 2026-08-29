@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource संपत्त. संस्करण प्रप्त करत है डफ़ल्ट 2 है
+title: "Hue2Resource.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource प्रॉपर्टी। संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 है"
 type: docs
-weight: 100
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Version property
 
-संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 है
+वर्ज़न प्राप्त करता है। डिफ़ॉल्ट 2 है।
 
 ```csharp
 public short Version { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

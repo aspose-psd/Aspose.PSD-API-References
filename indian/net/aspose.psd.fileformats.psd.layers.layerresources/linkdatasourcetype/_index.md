@@ -1,14 +1,15 @@
 ---
-title: Enum LinkDataSourceType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType एनुम. PSD लंक संसधन में डेट स्रतं के लए LinkDataSourceType गणन क परभषत करत है
+title: "Enum LinkDataSourceType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. PSD लिंक संसाधन में डेटा स्रोतों के लिए LinkDataSourceType एन्यूमरेशन को परिभाषित करता है।"
 type: docs
-weight: 2700
+weight: 3000
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-PSD लिंक संसाधन में डेटा स्रोतों के लिए LinkDataSourceType गणना को परिभाषित करता है।
+PSD लिंक संसाधन में डेटा स्रोतों के लिए LinkDataSourceType एनेमरेशन को परिभाषित करता है।
 
 ```csharp
 public enum LinkDataSourceType
@@ -16,16 +17,16 @@ public enum LinkDataSourceType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | None | `0` | खाली लिंक संसाधन। |
-| liFD | `1` | एम्बेडेड लिंक की गई फ़ाइल data |
-| liFE | `2` | बाहरी लिंक की गई फ़ाइल data |
-| liFA | `3` | लिंक की गई फ़ाइल अन्य नाम data |
+| liFD | `1` | एम्बेडेड लिंक्ड फ़ाइल डेटा |
+| liFE | `2` | बाहरी लिंक्ड फ़ाइल डेटा |
+| liFA | `3` | लिंक्ड फ़ाइल उपनाम डेटा |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड LnkeResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न कोड LnkeResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

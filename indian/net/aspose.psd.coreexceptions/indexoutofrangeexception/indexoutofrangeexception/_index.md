@@ -1,48 +1,49 @@
 ---
-title: IndexOutOFRangeException.IndexOutOFRangeException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IndexOutOFRangeException नर्मत. क एक नय उदहरण प्ररंभ करत हैCompressorException वर्ग.
+title: "IndexOutOFRangeException.IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IndexOutOFRangeException कंस्ट्रक्टर। CompressorException क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`CompressorException`](../../compressorexception/) वर्ग.
+[`CompressorException`](../../compressorexception/) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public IndexOutOFRangeException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IndexOutOFRangeException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`CompressorException`](../../compressorexception/) वर्ग.
+[`CompressorException`](../../compressorexception/) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IndexOutOFRangeException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

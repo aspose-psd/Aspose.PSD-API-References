@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCreatedDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. बनने क तरख तय करत है.
+title: "PhotoshopPackage.SetCreatedDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। निर्मित तिथि सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCreatedDate method
 
-बनने की तारीख तय करता है.
+निर्माण तिथि सेट करता है।
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | createdDate | DateTime | निर्मित तिथि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

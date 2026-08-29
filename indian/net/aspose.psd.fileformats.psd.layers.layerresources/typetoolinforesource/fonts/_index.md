@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. फ़न्ट प्रप्त य सेट करत है
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। फ़ॉन्ट्स प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
-फ़ॉन्ट प्राप्त या सेट करता है।
+फ़ॉन्ट्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ॉन्ट्स.
+फ़ॉन्ट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

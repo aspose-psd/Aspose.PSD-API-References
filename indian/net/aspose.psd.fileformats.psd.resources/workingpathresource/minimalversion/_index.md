@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.MinimalVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: WorkingPathResource संपत्त. न्यूनतम आवश्यक PSD संस्करण प्रप्त करत है
+title: "WorkingPathResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "WorkingPathResource प्रॉपर्टी। न्यूनतम आवश्यक PSD संस्करण प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.resources/workingpathresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.MinimalVersion property
 
-न्यूनतम आवश्यक PSD संस्करण प्राप्त करता है।
+आवश्यक न्यूनतम PSD संस्करण को प्राप्त करता है।
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-न्यूनतम PSD संस्करण।
+न्यूनतम PSD संस्करण.
 
-### यह सभी देखें
+### देखें भी
 
 * class [WorkingPathResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

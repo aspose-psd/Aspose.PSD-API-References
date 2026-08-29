@@ -1,38 +1,39 @@
 ---
-title: TiffStreamReader.ReadFloatArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से फ्लट मनं क एक सरण पढ़त है
+title: "TiffStreamReader.ReadFloatArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। स्ट्रीम से फ़्लोट मानों की एक एरे पढ़ता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloatArray method
 
-स्ट्रीम से फ्लोट मानों की एक सरणी पढ़ता है।
+स्ट्रीम से फ़्लोट मानों की एक सरणी पढ़ता है।
 
 ```csharp
 public float[] ReadFloatArray(long position, long count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
-| count | Int64 | तत्वों की गिनती होती है। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
+| count | Int64 | तत्वों की गिनती। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फ्लोट मानों की सरणी।
+फ़्लोट मानों की एरे।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | गिनती; अपेक्षित सकारात्मक संख्या। |
+| ArgumentOutOfRangeException | count;एक सकारात्मक संख्या की अपेक्षा की गई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

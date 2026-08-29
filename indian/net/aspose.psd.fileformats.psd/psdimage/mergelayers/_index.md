@@ -1,33 +1,34 @@
 ---
-title: PsdImage.MergeLayers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. परतं क मर्ज करत है
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage विधि. परतों को मिलाता है"
 type: docs
-weight: 560
+weight: 620
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
-परतों को मर्ज करता है।
+लेयरों को मिलाता है।
 
 ```csharp
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bottomLayer | Layer | नीचे की परत। |
-| topLayer | Layer | सबसे ऊपर की परत। |
+| bottomLayer | लेयर | निचली परत। |
+| topLayer | लेयर | ऊपरी परत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-मर्ज के बाद नीचे की परत
+मर्ज के बाद निचली परत
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

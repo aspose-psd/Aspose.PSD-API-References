@@ -1,45 +1,46 @@
 ---
-title: SoLeResource.SoLeResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoLeResource नर्मत. क एक नय उदहरण प्ररंभ करत हैSoLeResource वर्ग.
+title: "SoLeResource.SoLeResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoLeResource constructor. SoLeResource क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource(Guid, bool, bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SoLeResource`](../) वर्ग.
+[`SoLeResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public SoLeResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| uniqueId | Guid | रखी गई परत डेटा का विशिष्ट पहचानकर्ता[`PlLdResource`](../../plldresource/). |
-| isCustom | Boolean | अगर सेट है`सत्य` [कस्टम है]। |
-| hasCompInfo | Boolean | अगर सेट है`सत्य` [कंप्यूटर जानकारी है]। |
+| uniqueId | Guid | प्लेस्ड लेयर डेटा [`PlLdResource`](../../plldresource/) की विशिष्ट पहचानकर्ता। |
+| isCustom | बूलियन | `true` पर सेट होने पर [कस्टम है]। |
+| hasCompInfo | बूलियन | `true` पर सेट होने पर [कम्प जानकारी है]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLeResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SoLeResource`](../) वर्ग.
+[`SoLeResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public SoLeResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

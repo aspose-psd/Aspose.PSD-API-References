@@ -1,31 +1,32 @@
 ---
-title: Color.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. परक्षण करत है क नर्दष्ट वस्तु एक है य नहंColor संरचन और इसके बरबर हैColorसंरचन.
+title: "Color.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color विधि। परीक्षण करता है कि निर्दिष्ट वस्तु एक Color संरचना है और यह Color संरचना के बराबर है।"
 type: docs
 weight: 1540
 url: /hi/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-परीक्षण करता है कि निर्दिष्ट वस्तु एक है या नहीं[`Color`](../) संरचना और इसके बराबर है[`Color`](../)संरचना.
+परीक्षण करता है कि निर्दिष्ट वस्तु एक [`Color`](../) संरचना है और यह [`Color`](../) संरचना के बराबर है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | परीक्षण की जाने वाली वस्तु। |
+| obj | ऑब्जेक्ट | परीक्षण करने के लिए वस्तु। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*obj* एक है[`Color`](../) इसके समकक्ष संरचना[`Color`](../) संरचना; अन्यथा झूठा।
+*obj* यदि एक [`Color`](../) संरचना है जो इस [`Color`](../) संरचना के बराबर है तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

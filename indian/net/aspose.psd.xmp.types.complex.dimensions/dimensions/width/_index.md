@@ -1,33 +1,34 @@
 ---
-title: Dimensions.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Dimensions संपत्त. चड़ई प्रप्त य सेट करत है
+title: "Dimensions.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Dimensions प्रॉपर्टी। चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
-चौड़ाई प्राप्त या सेट करता है।
+चौड़ाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चौड़ाई.
+चौड़ाई।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | मान; चौड़ाई शून्य से कम नहीं हो सकती |
+| ArgumentOutOfRangeException | value;चौड़ाई शून्य से कम नहीं हो सकती |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Dimensions](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

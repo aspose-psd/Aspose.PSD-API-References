@@ -1,27 +1,28 @@
 ---
-title: ExifData.PhotographicSensitivity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. फटग्रफक संवेदनशलत प्रप्त य सेट करत है
+title: "ExifData.PhotographicSensitivity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। फोटोग्राफिक संवेदनशीलता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 830
 url: /hi/net/aspose.psd.exif/exifdata/photographicsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.PhotographicSensitivity property
 
-फोटोग्राफिक संवेदनशीलता प्राप्त या सेट करता है।
+फ़ोटोग्राफ़िक संवेदनशीलता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint PhotographicSensitivity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फोटोग्राफिक संवेदनशीलता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

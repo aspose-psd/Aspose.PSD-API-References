@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. धर में अहस्तक्षरत पूर्णंक मनं क एक सरण लखत है
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter मेथड। स्ट्रिम में अनसाइन्ड पूर्णांक मानों की एरे लिखता है"
 type: docs
 weight: 210
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-धारा में अहस्ताक्षरित पूर्णांक मानों की एक सरणी लिखता है।
+स्ट्रीम में अनसाइन्ड इंटीजर मानों की एक सरणी लिखता है।
 
 ```csharp
 public void WriteULongArray(uint[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | UInt32[] | लिखने के लिए सरणी। |
+| डेटा | UInt32[] | लिखने के लिए एरे। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

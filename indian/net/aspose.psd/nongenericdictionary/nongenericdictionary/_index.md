@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary नर्मत. क एक नय उदहरण प्ररंभ करत हैNonGenericDictionary वर्ग.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary कन्स्ट्रक्टर। NonGenericDictionary क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`NonGenericDictionary`](../) वर्ग.
+[`NonGenericDictionary`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dictionary | IDictionary | उपयोग करने के लिए शब्दकोश। |
+| डिक्शनरी | IDictionary | उपयोग करने के लिए डिक्शनरी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

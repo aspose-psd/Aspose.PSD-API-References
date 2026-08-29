@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Magenta
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykMixerChannel संपत्त. मैजेंट प्रप्त करत है य सेट करत है.
+title: "CmykMixerChannel.Magenta"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykMixerChannel प्रॉपर्टी। magenta प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/magenta/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Magenta property
 
-मैजेंटा प्राप्त करता है या सेट करता है.
+मैजेंटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Magenta { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मैजेंटा.
+magenta।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykMixerChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

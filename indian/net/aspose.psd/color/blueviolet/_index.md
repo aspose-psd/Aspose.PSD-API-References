@@ -1,11 +1,12 @@
 ---
-title: Color.BlueViolet
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. सस्टमपरभषत रंग प्रप्त करत है
+title: "Color.BlueViolet"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color गुण। एक सिस्टम-परिभाषित रंग प्राप्त करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/color/blueviolet/
 ---
+{{< psd/tize >}}
 ## Color.BlueViolet property
 
 सिस्टम-परिभाषित रंग प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/color/blueviolet/
 public static Color BlueViolet { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`Color`](../) एक सिस्टम-परिभाषित रंग का प्रतिनिधित्व करना।
+एक [`Color`](../) जो एक सिस्टम-परिभाषित रंग का प्रतिनिधित्व करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

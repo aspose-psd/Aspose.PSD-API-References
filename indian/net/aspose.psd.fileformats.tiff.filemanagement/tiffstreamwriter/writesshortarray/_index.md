@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSShortArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम में छटे मनं क एक सरण लखत है
+title: "TiffStreamWriter.WriteSShortArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter विधि। स्ट्रीम में शॉर्ट मानों की एक एरे लिखता है"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShortArray method
 
-स्ट्रीम में छोटे मानों की एक सरणी लिखता है।
+स्ट्रीम में शॉर्ट मानों की एक सरणी लिखता है।
 
 ```csharp
 public void WriteSShortArray(short[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Int16[] | लिखने के लिए सरणी। |
+| डेटा | Int16[] | लिखने के लिए एरे। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

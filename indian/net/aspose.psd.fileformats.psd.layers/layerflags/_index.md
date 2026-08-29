@@ -1,14 +1,15 @@
 ---
-title: Enum LayerFlags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerFlags एनुम. परत फ़्लैग करत है
+title: "एनम LayerFlags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerFlags एनम। लेयर फ्लैग्स"
 type: docs
-weight: 2210
+weight: 2410
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerflags/
 ---
+{{< psd/tize >}}
 ## LayerFlags enumeration
 
-परत फ़्लैग करती है
+लेयर फ्लैग्स
 
 ```csharp
 [Flags]
@@ -17,18 +18,18 @@ public enum LayerFlags : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| TransparencyProtected | `1` | पारदर्शिता सुरक्षित |
-| Visible | `2` | दृश्य ध्वज |
-| Obsolete | `4` | अप्रचलित ध्वज |
-| HasUsefulInformation | `8` | फोटोशॉप 5.0 और बाद के संस्करण के लिए 1, बताता है कि बिट 4 में उपयोगी जानकारी है |
-| PixelDataIrrelevantToAppearenceInDocument | `10` | पिक्सेल डेटा दस्तावेज़ में उपस्थिति के लिए अप्रासंगिक है |
-| Undocumented | `20` | बिना दस्तावेज वाला झंडा |
+| TransparencyProtected | `1` | पारदर्शिता संरक्षित |
+| Visible | `2` | दृश्यमान फ़्लैग |
+| Obsolete | `4` | अप्रचलित फ़्लैग |
+| HasUsefulInformation | `8` | Photoshop 5.0 और बाद के संस्करणों के लिए 1, बताता है कि बिट 4 में उपयोगी जानकारी है या नहीं |
+| PixelDataIrrelevantToAppearenceInDocument | `10` | दस्तावेज़ में दिखावट से अप्रासंगिक पिक्सेल डेटा |
+| Undocumented | `20` | अप्रलेखित फ़्लैग |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

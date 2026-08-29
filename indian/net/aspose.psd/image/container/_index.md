@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. ह जत हैImage कंटेनर.
+title: "Image.Container"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। इमेज कंटेनर प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-हो जाता है[`Image`](../) कंटेनर.
+[`Image`](../) कंटेनर प्राप्त करता है।
 
 ```csharp
 public Image Container { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`Image`](../) कंटेनर.
+यह [`Image`](../) कंटेनर।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-यदि यह गुण शून्य नहीं है तो यह इंगित करता है कि छवि किसी अन्य छवि में समाहित है।
+यदि यह प्रॉपर्टी null नहीं है तो यह संकेत देता है कि छवि किसी अन्य छवि के भीतर सम्मिलित है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

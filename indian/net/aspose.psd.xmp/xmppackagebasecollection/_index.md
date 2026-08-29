@@ -1,14 +1,15 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection कक्ष. संग्रह क प्रतनधत्व करत हैXmpPackage .
+title: "क्लास XmpPackageBaseCollection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.XmpPackageBaseCollection क्लास। XmpPackage का संग्रह दर्शाता है"
 type: docs
-weight: 6280
+weight: 6780
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-संग्रह का प्रतिनिधित्व करता है[`XmpPackage`](../xmppackage/) .
+[`XmpPackage`](../xmppackage/) का संग्रह दर्शाता है।
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -18,29 +19,29 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpPackageBaseCollection](xmppackagebasecollection/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [XmpPackageBaseCollection](xmppackagebasecollection/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
 | [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | संग्रह में तत्वों की संख्या प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | का नया उदाहरण जोड़ता है[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | सभी साफ़ करें[`XmpPackage`](../xmppackage/) अंदर संग्रह. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | एक गणनाकार देता है जो एक संग्रह के माध्यम से पुनरावृति करता है। |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | हो जाता है[`XmpPackage`](../xmppackage/) इसके नामस्थान द्वारा URI. |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | की सरणी प्राप्त करें[`XmpPackage`](../xmppackage/) . |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | [`XmpPackage`](../xmppackage/) का नया उदाहरण जोड़ता है। |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | संग्रह के भीतर सभी [`XmpPackage`](../xmppackage/) को साफ़ करता है। |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | एक संग्रह के माध्यम से पुनरावृति करने वाला इनेमरेटर लौटाता है। |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | [`XmpPackage`](../xmppackage/) को उसके namespaceURI द्वारा प्राप्त करता है। |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | [`XmpPackage`](../xmppackage/) की एरे प्राप्त करें। |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | निर्दिष्ट XMP पैकेज को हटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../xmppackage/)
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

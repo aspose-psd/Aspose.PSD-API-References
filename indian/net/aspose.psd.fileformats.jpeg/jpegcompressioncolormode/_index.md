@@ -1,14 +1,15 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode एनुम. जेपईज छवयं के लए रंग मड
+title: "Enum JpegCompressionColorMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode enum. JPEG छवियों के लिए रंग मोड।"
 type: docs
-weight: 1490
+weight: 1500
 url: /hi/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
-जेपीईजी छवियों के लिए रंग मोड।
+JPEG छवियों के लिए रंग मोड।
 
 ```csharp
 public enum JpegCompressionColorMode
@@ -16,17 +17,17 @@ public enum JpegCompressionColorMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Grayscale | `0` | ग्रेस्केल छवि। |
-| YCbCr | `1` | YCbCr इमेज, jpeg इमेज के लिए मानक विकल्प. |
-| Cmyk | `2` | 4-घटक सीएमवाईके छवि। |
-| Ycck | `3` | येक रंग जेपीईजी छवि। सहेजने के लिए आईसीसी प्रोफ़ाइल की आवश्यकता है. |
-| Rgb | `4` | आरजीबी कलर मोड. |
+| YCbCr | `1` | YCbCr छवि, JPEG छवियों के लिए मानक विकल्प। |
+| Cmyk | `2` | 4-घटक CMYK छवि। |
+| Ycck | `3` | YCCK रंग JPEG छवि। सहेजने के लिए ICC प्रोफ़ाइल की आवश्यकता है। |
+| Rgb | `4` | RGB रंग मोड। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

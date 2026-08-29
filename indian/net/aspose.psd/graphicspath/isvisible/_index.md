@@ -1,215 +1,216 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. इंगत करत है क नर्दष्ट बंदु इसमें शमल है य नहंGraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath विधि। यह दर्शाता है कि निर्दिष्ट बिंदु इस GraphicsPath के भीतर स्थित है या नहीं।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Single | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
+| x | Single | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Single | परीक्षण बिंदु का y-निर्देशांक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | ए[`PointF`](../../pointf/) जो परीक्षण के बिंदु का प्रतिनिधित्व करता है। |
+| point | PointF | एक [`PointF`](../../pointf/) जो परीक्षण करने वाले बिंदु को दर्शाता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(int x, int y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Int32 | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
+| x | Int32 | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Int32 | परीक्षण बिंदु का y-निर्देशांक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | ए[`Point`](../../point/) जो परीक्षण के बिंदु का प्रतिनिधित्व करता है। |
+| point | Point | एक [`Point`](../../point/) जो परीक्षण करने वाले बिंदु को दर्शाता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) निर्दिष्ट के दृश्य क्लिप क्षेत्र में[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर, निर्दिष्ट [`Graphics`](../../graphics/) के दृश्यमान क्लिप क्षेत्र में स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Single | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| x | Single | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Single | परीक्षण बिंदु का y-निर्देशांक। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pt | PointF | ए[`PointF`](../../pointf/) जो परीक्षण के बिंदु का प्रतिनिधित्व करता है। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| pt | PointF | एक [`PointF`](../../pointf/) जो परीक्षण करने वाले बिंदु को दर्शाता है। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) , निर्दिष्ट का उपयोग कर[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं, निर्दिष्ट [`Graphics`](../../graphics/) का उपयोग करके।
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Int32 | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| x | Int32 | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Int32 | परीक्षण बिंदु का y-निर्देशांक। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-इंगित करता है कि निर्दिष्ट बिंदु इसमें शामिल है या नहीं[`GraphicsPath`](../) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है या नहीं।
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pt | Point | ए[`Point`](../../point/) जो परीक्षण के बिंदु का प्रतिनिधित्व करता है। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| pt | Point | एक [`Point`](../../point/) जो परीक्षण करने वाले बिंदु को दर्शाता है। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इसमें समाहित है[`GraphicsPath`](../) ; अन्यथा, असत्य.
+यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) के भीतर स्थित है तो यह मेथड true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

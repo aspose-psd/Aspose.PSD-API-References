@@ -1,23 +1,24 @@
 ---
-title: Graphics.ResetTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. रसेट करत हैTransform पहचन के लए संपत्त
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। Transform प्रॉपर्टी को आइडेंटिटी पर रीसेट करता है।"
 type: docs
-weight: 430
+weight: 440
 url: /hi/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-रीसेट करता है[`Transform`](../transform/) पहचान के लिए संपत्ति।
+[`Transform`](../transform/) प्रॉपर्टी को पहचान पर रीसेट करता है।
 
 ```csharp
 public void ResetTransform()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

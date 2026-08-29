@@ -1,27 +1,28 @@
 ---
-title: InitialFillRuleRecord.IsFillStartsWithAllPixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InitialFillRuleRecord संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क भरण सभ पक्सेल से शुरू हत है
+title: "InitialFillRuleRecord.IsFillStartsWithAllPixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InitialFillRuleRecord गुण. मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि क्या भराव सभी पिक्सेल से शुरू होता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord.IsFillStartsWithAllPixels property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि भरण सभी पिक्सेल से शुरू होता है।
+क्या फ़िल सभी पिक्सेल से शुरू होता है, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsFillStartsWithAllPixels { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-is फिल सभी पिक्सेल से शुरू होता है।
+फ़िल सभी पिक्सेल से शुरू होता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [InitialFillRuleRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

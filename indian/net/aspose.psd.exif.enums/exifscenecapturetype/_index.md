@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType एनुम. एक्सफ सन कैप्चर टइप एनम.
+title: "Enum ExifSceneCaptureType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. exif दृश्य कैप्चर प्रकार enum"
 type: docs
-weight: 930
+weight: 940
 url: /hi/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-एक्सिफ सीन कैप्चर टाइप एनम.
+exif सीन कैप्चर टाइप एनेम.
 
 ```csharp
 public enum ExifSceneCaptureType
@@ -16,16 +17,16 @@ public enum ExifSceneCaptureType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Standard | `0` | मानक दृश्य। |
-| Landscape | `1` | लैंडस्केप दृश्य। |
+| Landscape | `1` | परिदृश्य दृश्य। |
 | Portrait | `2` | पोर्ट्रेट दृश्य। |
-| NightScene | `3` | रात का दृश्य। |
+| NightScene | `3` | रात्रि दृश्य। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextLayer तरक. टेक्स्ट क अपडेट करत है
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextLayer मेथड। टेक्स्ट को अपडेट करता है"
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 टेक्स्ट को अपडेट करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 public void UpdateText(string text)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public void UpdateText(string text)
 public void UpdateText(string text, float fontSize)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
 | fontSize | Single | फ़ॉन्ट का आकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -55,17 +56,17 @@ public void UpdateText(string text, float fontSize)
 public void UpdateText(string text, Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
-| color | Color | रंग मान। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
+| रंग | रंग | कलर वैल्यू। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,18 +78,18 @@ public void UpdateText(string text, Color color)
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
 | fontSize | Single | फ़ॉन्ट का आकार। |
-| color | Color | रंग मान। |
+| रंग | रंग | कलर वैल्यू। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -100,18 +101,18 @@ public void UpdateText(string text, float fontSize, Color color)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
-| leftTopCoordinate | Point | बाएँ शीर्ष समन्वय। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
+| leftTopCoordinate | बिंदु | बाएँ शीर्ष कोऑर्डिनेट। |
 | fontSize | Single | फ़ॉन्ट का आकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -123,19 +124,19 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
-| leftTopCoordinate | Point | बाएँ शीर्ष समन्वय। |
-| color | Color | रंग मान। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
+| leftTopCoordinate | बिंदु | बाएँ शीर्ष कोऑर्डिनेट। |
+| रंग | रंग | कलर वैल्यू। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -147,17 +148,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
-| leftTopCoordinate | Point | बाएँ शीर्ष समन्वय। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
+| leftTopCoordinate | बिंदु | बाएँ शीर्ष कोऑर्डिनेट। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -169,19 +170,19 @@ public void UpdateText(string text, Point leftTopCoordinate)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | पाठ मान। |
-| leftTopCoordinate | Point | बाएँ शीर्ष समन्वय। |
+| टेक्स्ट | String | टेक्स्ट वैल्यू। |
+| leftTopCoordinate | बिंदु | बाएँ शीर्ष कोऑर्डिनेट। |
 | fontSize | Single | फ़ॉन्ट का आकार। |
-| color | Color | रंग मान। |
+| रंग | रंग | कलर वैल्यू। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

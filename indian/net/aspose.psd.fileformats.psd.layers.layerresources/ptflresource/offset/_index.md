@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PtFlResource संपत्त. ऑफसेट ह जत है य सेट करत है
+title: "PtFlResource.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PtFlResource प्रॉपर्टी. ऑफसेट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
-ऑफसेट हो जाता है या सेट करता है।
+ऑफ़सेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Point Offset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑफसेट.
+ऑफ़सेट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एक PtFlResource संसाधन को लोड करने और संपादित करने के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण PtFlResource संसाधन को लोड करने और संपादित करने के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // अध्ययन
+                    // पढ़ना
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // हमारे पास पैट रिसोर्स में पैटर्न डेटा नहीं है, इसलिए हम इसे जोड़ सकते हैं।
+                    // हमारे पास PattResource में पैटर्न डेटा नहीं है, इसलिए हम इसे जोड़ सकते हैं।
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,11 +87,11 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

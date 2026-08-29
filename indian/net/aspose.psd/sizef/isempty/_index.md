@@ -1,27 +1,28 @@
 ---
-title: SizeF.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहSizeF शून्य चड़ई और ऊंचई है.
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि यह SizeF की चौड़ाई और ऊँचाई शून्य है या नहीं।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`SizeF`](../) शून्य चौड़ाई और ऊंचाई है.
+`[`SizeF`](../)` की चौड़ाई और ऊँचाई शून्य है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह गुण तब सत्य होता है जब यह[`SizeF`](../) शून्य की चौड़ाई और ऊंचाई दोनों है; अन्यथा झूठा।
+जब यह [`SizeF`](../) की चौड़ाई और ऊँचाई दोनों शून्य हों तो यह प्रॉपर्टी true लौटाती है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

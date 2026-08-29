@@ -1,31 +1,32 @@
 ---
-title: Font.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font तरक. इंगत करत है क नर्दष्ट वस्तु एक है य नहंFont और इसके समन गुण मन हैंFont .
+title: "Font.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font मेथड। दर्शाता है कि निर्दिष्ट ऑब्जेक्ट एक फ़ॉन्ट है और इस फ़ॉन्ट के समान प्रॉपर्टी मान रखता है या नहीं।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-इंगित करता है कि निर्दिष्ट वस्तु एक है या नहीं[`Font`](../) और इसके समान गुण मान हैं[`Font`](../) .
+दर्शाता है कि निर्दिष्ट ऑब्जेक्ट एक [`Font`](../) है और इस [`Font`](../) के समान प्रॉपर्टी मान रखता है या नहीं।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | परीक्षण की जाने वाली वस्तु। |
+| obj | ऑब्जेक्ट | परीक्षण करने के लिए वस्तु। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*obj* पैरामीटर एक है[`Font`](../) और इसके समान गुण मान हैं[`Font`](../); अन्यथा झूठा।
+यदि *obj* पैरामीटर एक [`Font`](../) है और इस [`Font`](../) के समान प्रॉपर्टी मान रखता है तो सत्य; अन्यथा, असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Size.op_Equality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. परक्षण करत है क क्य द हैंSize संरचनएं बरबर हैं.
+title: "Size.op_Equality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। दो Size संरचनाएँ समान हैं या नहीं, परीक्षण करता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/size/op_equality/
 ---
+{{< psd/tize >}}
 ## Size Equality operator
 
-परीक्षण करता है कि क्या दो हैं[`Size`](../) संरचनाएं बराबर हैं.
+परीक्षण करता है कि दो [`Size`](../) संरचनाएँ समान हैं या नहीं।
 
 ```csharp
 public static bool operator ==(Size size1, Size size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | Size | [`Size`](../) समानता ऑपरेटर के बाईं ओर संरचना। |
-| size2 | Size | [`Size`](../) समानता ऑपरेटर के अधिकार पर संरचना। |
+| size1 | Size | समानता ऑपरेटर के बाएँ पक्ष में स्थित [`Size`](../) संरचना। |
+| size2 | Size | समानता ऑपरेटर के दाएँ पक्ष में स्थित [`Size`](../) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*size1* और*size2* समान चौड़ाई और ऊंचाई है; अन्यथा झूठा।
+यदि *size1* और *size2* की चौड़ाई और ऊँचाई समान हैं तो सत्य; अन्यथा, असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

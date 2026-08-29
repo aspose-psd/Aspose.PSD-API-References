@@ -1,70 +1,71 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectProvider तरक. परतं क एम्बेडेड स्मर्ट ऑब्जेक्ट में कनवर्ट करत है.
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectProvider मेथड। लेयर्स को एम्बेडेड स्मार्ट ऑब्जेक्ट में परिवर्तित करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
-परतों को एम्बेडेड स्मार्ट ऑब्जेक्ट में कनवर्ट करता है.
+लेयरों को एम्बेडेड स्मार्ट ऑब्जेक्ट में बदलता है।
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layerNumbers | Int32[] | परत संख्या। |
+| layerNumbers | Int32[] | लेयर नंबर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) उदाहरण.
+बनाया गया [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) इंस्टेंस।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | कनवर्ट करने के लिए कोई परत नहीं है. or परत संख्या सीमा से बाहर है. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | कनवर्ट करने के लिए कोई लेयर नहीं। या लेयर नंबर सीमा से बाहर है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ConvertToSmartObject(Layer[]) {#converttosmartobject}
 
-परतों को एम्बेडेड स्मार्ट ऑब्जेक्ट में कनवर्ट करता है.
+लेयरों को एम्बेडेड स्मार्ट ऑब्जेक्ट में बदलता है।
 
 ```csharp
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layers | Layer[] | परतें। |
+| layers | Layer[] | लेयर्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) उदाहरण.
+बनाया गया [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) इंस्टेंस।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | कन्वर्ट करने के लिए कोई परत नहीं। |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | कनवर्ट करने के लिए कोई लेयर नहीं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

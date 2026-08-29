@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क यह उदहरण असतत संग्रहत डेट है य नहं
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvResource प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस डेटा डिस्क्रीट रूप से संग्रहीत है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह उदाहरण असतत संग्रहीत डेटा है या नहीं।
+डेटा अलग-अलग संग्रहीत है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण डेटा संग्रहीत असतत है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस डेटा डिस्क्रीट रूप से संग्रहीत है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

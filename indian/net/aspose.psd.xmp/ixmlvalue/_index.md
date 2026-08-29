@@ -1,28 +1,29 @@
 ---
-title: Interface IXmlValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.IXmlValue इंटरफेस. xmp मनं क XML स्ट्रंग प्रतनधत्व में कनवर्ट करत है
+title: "इंटरफ़ेस IXmlValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.IXmlValue इंटरफ़ेस। xmp मानों को XML स्ट्रिंग प्रतिनिधित्व में परिवर्तित करता है"
 type: docs
-weight: 5750
+weight: 6250
 url: /hi/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
-xmp मानों को XML स्ट्रिंग प्रतिनिधित्व में कनवर्ट करता है।
+xmp मानों को XML स्ट्रिंग प्रतिनिधित्व में परिवर्तित करता है।
 
 ```csharp
 public interface IXmlValue
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है. |
+| [GetXmlValue](../../aspose.psd.xmp/ixmlvalue/getxmlvalue/)() | XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

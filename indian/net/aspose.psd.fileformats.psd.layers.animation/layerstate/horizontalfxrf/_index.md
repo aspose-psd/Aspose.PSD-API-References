@@ -1,23 +1,24 @@
 ---
-title: LayerState.HorizontalFXRf
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerState संपत्त. क्षैतज FXRf मन प्रप्त य सेट करत है
+title: "LayerState.HorizontalFXRf"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerState प्रॉपर्टी. HorizontalFXRf मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/
 ---
+{{< psd/tize >}}
 ## LayerState.HorizontalFXRf property
 
-क्षैतिज FXRf मान प्राप्त या सेट करता है।
+HorizontalFXRf मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double HorizontalFXRf { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerState](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

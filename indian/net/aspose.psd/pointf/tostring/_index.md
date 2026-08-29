@@ -1,27 +1,28 @@
 ---
-title: PointF.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF तरक. इसे परवर्तत करत हैPointF एक मनव पठनय स्ट्रंग के लए.
+title: "PointF.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF मेथड। इस PointF को मानव-पठनीय स्ट्रिंग में परिवर्तित करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-इसे परिवर्तित करता है[`PointF`](../) एक मानव पठनीय स्ट्रिंग के लिए.
+इस [`PointF`](../) को मानव-पठनीय स्ट्रिंग में परिवर्तित करता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक स्ट्रिंग जो इसका प्रतिनिधित्व करती है[`PointF`](../).
+एक स्ट्रिंग जो इस [`PointF`](../) का प्रतिनिधित्व करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

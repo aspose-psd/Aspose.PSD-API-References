@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdColorPalette संपत्त. कच्चे रंग पैलेट प्रवष्टयं क संख्य प्रप्त करत है
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdColorPalette प्रॉपर्टी। कच्ची रंग पैलेट प्रविष्टियों की गिनती प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-कच्चे रंग पैलेट प्रविष्टियों की संख्या प्राप्त करता है।
+रॉ रंग पैलेट प्रविष्टियों की गिनती प्राप्त करता है।
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कच्चे रंग पैलेट प्रविष्टियों की गिनती।
+यह कच्चे रंग पैलेट प्रविष्टियों की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

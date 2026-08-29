@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. सबसे उपयुक्त प्रतस्थपन फ़न्ट प्रप्त करत है यद सभ प्रतस्थपनं क अनुमत नहं है त पहले अनुमत और उपलब्ध फ़न्ट वपस कर दय जएग
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। सबसे उपयुक्त प्रतिस्थापन फ़ॉन्ट प्राप्त करता है। यदि सभी प्रतिस्थापन अनुमत नहीं हैं तो पहला अनुमत और उपलब्ध फ़ॉन्ट वापस किया जाएगा। यदि कोई उपलब्ध फ़ॉन्ट नहीं है तो तर्क से दिया गया फ़ॉन्ट वापस किया जाएगा।"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-सबसे उपयुक्त प्रतिस्थापन फ़ॉन्ट प्राप्त करता है। यदि सभी प्रतिस्थापनों की अनुमति नहीं है तो पहले अनुमत और उपलब्ध फ़ॉन्ट वापस कर दिया जाएगा।
+सबसे उपयुक्त प्रतिस्थापन फ़ॉन्ट प्राप्त करता है। यदि सभी प्रतिस्थापन अनुमत नहीं हैं तो पहला अनुमत और उपलब्ध फ़ॉन्ट लौटाया जाएगा। यदि कोई उपलब्ध फ़ॉन्ट नहीं है तो तर्क से दिया गया फ़ॉन्ट लौटाया जाएगा।
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fontName | String | फ़ॉन्ट का नाम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 प्रतिस्थापित फ़ॉन्ट का नाम
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उपयोग करने वाले फोंट को प्रोग्रामेटिक रूप से सीमित करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड प्रोग्रामेटिक रूप से फ़ॉन्ट को सीमित करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PattResource.TypeToolKey3
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResource मैदन. 32बट्स के लए पैट3 टइप टूल इंफ क.
+title: "PattResource.TypeToolKey3"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResource फ़ील्ड। 32 बिट्स के लिए Pat3 प्रकार टूल जानकारी कुंजी"
 type: docs
-weight: 100
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey3 field
 
-32-बिट्स के लिए 'पैट3' टाइप टूल इंफो की.
+'Pat3' प्रकार टूल इन्फो कुंजी 32-बिट्स के लिए।
 
 ```csharp
 public const int TypeToolKey3;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,40 +1,41 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. परत समूह जड़त है.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। लेयर समूह जोड़ता है"
 type: docs
-weight: 380
+weight: 400
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-परत समूह जोड़ता है.
+लेयर समूह को जोड़ता है।
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | groupName | String | समूह का नाम। |
-| index | Int32 | बाद में डालने के लिए परत का सूचकांक। |
-| startBehaviour | Boolean | अगर सेट है`सत्य` [प्रारंभ व्यवहार] समूह की तुलना में स्टार्ट अप पर खुले राज्य में होगा, अन्यथा न्यूनतम स्थिति में। |
+| index | Int32 | लेयर को उसके बाद सम्मिलित करने के लिए इंडेक्स। |
+| startBehaviour | बूलियन | यदि `true` सेट किया गया है [start behaviour] तो समूह स्टार्टअप पर खुली स्थिति में रहेगा, अन्यथा न्यूनतम स्थिति में रहेगा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ओपनिंग ग्रुप लेयर
+ग्रुप लेयर खोलना
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | अनुक्रमणिका परतों की संख्या की सीमा में होनी चाहिए |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | इंडेक्स लेयर्स की गिनती की सीमा में होना चाहिए |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PngOptions.ColorType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngOptions संपत्त. रंग के प्रकर क प्रप्त य सेट करत है
+title: "PngOptions.ColorType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngOptions प्रॉपर्टी। प्राप्त करता है या सेट करता है रंग का प्रकार।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imageoptions/pngoptions/colortype/
 ---
+{{< psd/tize >}}
 ## PngOptions.ColorType property
 
-रंग के प्रकार को प्राप्त या सेट करता है।
+रंग के प्रकार को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PngColorType ColorType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 रंग का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PngColorType](../../../aspose.psd.fileformats.png/pngcolortype/)
 * class [PngOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pngoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

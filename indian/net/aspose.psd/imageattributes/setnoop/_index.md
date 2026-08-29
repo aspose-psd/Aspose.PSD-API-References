@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए रंग समयजन बंद कर देत है
+title: "ImageAttributes.SetNoOp"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए रंग समायोजन को बंद करता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग समायोजन बंद कर देता है।
+डिफ़ॉल्ट श्रेणी के लिए कलर एडजस्टमेंट को बंद करता है।
 
 ```csharp
 public void SetNoOp()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetNoOp(ColorAdjustType) {#setnoop_1}
 
-निर्दिष्ट श्रेणी के लिए रंग समायोजन बंद कर देता है।
+निर्दिष्ट श्रेणी के लिए कलर एडजस्टमेंट को बंद करता है।
 
 ```csharp
 public void SetNoOp(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग सुधार बंद किया गया है। |
+| type | ColorAdjustType | एक तत्व [`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग सुधार बंद किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

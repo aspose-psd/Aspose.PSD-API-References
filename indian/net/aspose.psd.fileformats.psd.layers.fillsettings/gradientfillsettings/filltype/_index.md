@@ -1,24 +1,25 @@
 ---
-title: GradientFillSettings.FillType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientFillSettings संपत्त. भरण प्रकर
+title: "GradientFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientFillSettings प्रॉपर्टी। भराव प्रकार"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.FillType property
 
-भरण प्रकार
+फ़िल प्रकार।
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillType](../../filltype/)
 * class [GradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

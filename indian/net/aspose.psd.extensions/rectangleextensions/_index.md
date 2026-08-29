@@ -1,30 +1,31 @@
 ---
-title: Class RectangleExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.RectangleExtensions कक्ष. के लए वस्तर वधयँ शमल हैंRectangle .
+title: "क्लास RectangleExtensions।"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.RectangleExtensions क्लास। इसमें Rectangle के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1160
+weight: 1170
 url: /hi/net/aspose.psd.extensions/rectangleextensions/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Rectangle`](../../aspose.psd/rectangle/) .
+[`Rectangle`](../../aspose.psd/rectangle/) के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class RectangleExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | परिवर्तित करता है[`Rectangle`](../../aspose.psd/rectangle/) तकRectangle . |
-| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | परिवर्तित करता है[`RectangleF`](../../aspose.psd/rectanglef/) तकRectangle . |
-| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | दो आयतों को जोड़ता है। |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle)(Rectangle) | [`Rectangle`](../../aspose.psd/rectangle/) को Rectangle में परिवर्तित करता है। |
+| static [ToGdiRectangle](../../aspose.psd.extensions/rectangleextensions/togdirectangle/#togdirectangle_1)(RectangleF) | `[`RectangleF`](../../aspose.psd/rectanglef/)` को Rectangle में परिवर्तित करता है। |
+| static [UnionWith](../../aspose.psd.extensions/rectangleextensions/unionwith/)(RectangleF, RectangleF) | दो आयतों को मिलाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

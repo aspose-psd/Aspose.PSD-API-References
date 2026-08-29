@@ -1,20 +1,21 @@
 ---
-title: Class AudioChannelType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType कक्ष. ऑडय चैनल प्रकर क प्रतनधत्व करत है
+title: "क्लास AudioChannelType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType क्लास। ऑडियो चैनल प्रकार का प्रतिनिधित्व करता है।"
 type: docs
-weight: 5840
+weight: 6340
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
-ऑडियो चैनल प्रकार का प्रतिनिधित्व करता है।
+ऑडियो चैनल प्रकार को दर्शाता है।
 
 ```csharp
 public sealed class AudioChannelType
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
@@ -25,15 +26,15 @@ public sealed class AudioChannelType
 | static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | अन्य चैनल प्राप्त करता है। |
 | static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | स्टीरियो ऑडियो चैनल प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

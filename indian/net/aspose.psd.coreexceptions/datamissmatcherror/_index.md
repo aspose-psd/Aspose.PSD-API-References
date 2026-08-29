@@ -1,14 +1,15 @@
 ---
-title: Class DataMissmatchError
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.DataMissmatchError कक्ष. डेट बेमेल अपवद वर्ग
+title: "क्लास DataMissmatchError"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError क्लास। डेटा मिसमैच अपवाद क्लास"
 type: docs
 weight: 470
 url: /hi/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-डेटा बेमेल अपवाद वर्ग
+डेटा मिसमैच अपवाद क्लास
 
 ```csharp
 public class DataMissmatchError : Exception
@@ -18,11 +19,11 @@ public class DataMissmatchError : Exception
 
 | नाम | विवरण |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | का एक नया उदाहरण प्रारंभ करता है`DataMissmatchError` वर्ग. |
+| [DataMissmatchError](datamissmatcherror/)(string) | `DataMissmatchError` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

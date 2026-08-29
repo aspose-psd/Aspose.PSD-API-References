@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Version संपत्त. संशधक प्रप्त य सेट करत है
+title: "Version.Modifier"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Version प्रॉपर्टी। मॉडिफायर को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-संशोधक प्राप्त या सेट करता है।
+संशोधक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संशोधक।
+मॉडिफायर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Version](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

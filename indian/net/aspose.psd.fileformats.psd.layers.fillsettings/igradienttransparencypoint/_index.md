@@ -1,30 +1,31 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint इंटरफेस. भरने क सेटंग के लए बेस इंटरफ़ेस
+title: "इंटरफ़ेस IGradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint इंटरफ़ेस। फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस"
 type: docs
-weight: 2020
+weight: 2140
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
-भरने की सेटिंग के लिए बेस इंटरफ़ेस
+फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस
 
 ```csharp
 public interface IGradientTransparencyPoint
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | स्थान प्राप्त या सेट करता है। |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | मध्य बिंदु स्थान प्राप्त या सेट करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | अस्पष्टता प्राप्त या सेट करता है। |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | स्थान प्राप्त करता है या सेट करता है। मान सीमा 0-4096। |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | मीडियन पॉइंट स्थान प्राप्त करता है या सेट करता है। मान सीमा 0-4096। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | अपारदर्शिता प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

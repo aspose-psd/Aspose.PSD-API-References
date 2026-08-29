@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से एकल फ़्लट मन पढ़ें.
+title: "TiffStreamReader.ReadFloat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader विधि। स्ट्रीम से एकल फ्लोट मान पढ़ता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-स्ट्रीम से एकल फ़्लोट मान पढ़ें.
+स्ट्रीम से एक एकल फ़्लोट मान पढ़ता है।
 
 ```csharp
 public float ReadFloat(long position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एकल फ़्लोट मान.
+एकल फ्लोट मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

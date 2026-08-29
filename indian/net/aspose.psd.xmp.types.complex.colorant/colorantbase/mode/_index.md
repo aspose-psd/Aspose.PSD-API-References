@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.Mode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantBase संपत्त. ह जत हैColorMode .
+title: "ColorantBase.Mode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantBase प्रॉपर्टी। ColorMode प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantbase/mode/
 ---
+{{< psd/tize >}}
 ## ColorantBase.Mode property
 
-हो जाता है[`ColorMode`](../../colormode/) .
+प्राप्त करता है [`ColorMode`](../../colormode/).
 
 ```csharp
 public ColorMode Mode { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर मोड.
+रंग मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorMode](../../colormode/)
 * class [ColorantBase](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

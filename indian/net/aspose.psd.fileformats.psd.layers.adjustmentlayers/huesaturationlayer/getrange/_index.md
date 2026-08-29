@@ -1,32 +1,33 @@
 ---
-title: HueSaturationLayer.GetRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: HueSaturationLayer तरक. श्रेण प्रप्त करत है
+title: "HueSaturationLayer.GetRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "HueSaturationLayer विधि। रेंज प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/getrange/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.GetRange method
 
-श्रेणी प्राप्त करता है।
+रेंज प्राप्त करता है।
 
 ```csharp
 public ColorRangeHsl GetRange(int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | अनुक्रमणिका। |
+| index | Int32 | इंडेक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रंग रेंज एचएसएल
+रंग रेंज Hsl
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/)
 * class [HueSaturationLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

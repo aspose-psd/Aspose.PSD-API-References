@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. परत नम प्रप्त य सेट करत है आइटम क नम नर्दष्ट करत है जैस क परत पैनल में दखई देत है
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। लेयर नाम को प्राप्त करता है या सेट करता है। आइटम का नाम निर्दिष्ट करता है जैसा कि लेयर्स पैनल में दिखाई देता है"
 type: docs
-weight: 110
+weight: 130
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-परत नाम प्राप्त या सेट करता है। आइटम का नाम निर्दिष्ट करता है जैसा कि परत पैनल में दिखाई देता है।
+लेयर का नाम प्राप्त करता है या सेट करता है। लेयर पैनल में दिखाई देने वाले आइटम का नाम निर्दिष्ट करता है।
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत का नाम.
+लेयर नाम।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

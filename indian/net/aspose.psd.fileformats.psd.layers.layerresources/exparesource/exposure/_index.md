@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Exposure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExpaResource संपत्त. एक्सपजर प्रप्त करत है य सेट करत है
+title: "ExpaResource.Exposure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExpaResource प्रॉपर्टी। एक्सपोज़र प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Exposure property
 
-एक्सपोजर प्राप्त करता है या सेट करता है।
+एक्सपोज़र को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Exposure { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक्सपोजर।
+एक्सपोज़र।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

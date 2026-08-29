@@ -1,34 +1,35 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: WorkingPathResource नर्मत. क एक नय उदहरण प्ररंभ करत हैWorkingPathResource वर्ग.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "WorkingPathResource कंस्ट्रक्टर। WorkingPathResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`WorkingPathResource`](../) वर्ग.
+[`WorkingPathResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dataBytes | Byte[] | वेक्टर पथ का डेटा। |
+| dataBytes | Byte[] | वेक्टर पाथ का डेटा। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण फसल संचालन के सही कार्य के लिए PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को प्रदर्शित करता है।
+यह उदाहरण PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को दर्शाता है ताकि Crop ऑपरेशन सही ढंग से काम करे।
 
 ```csharp
 [C#]
 
-// क्रॉप इमेज और सेव करें।
+// इमेज को क्रॉप करें और सहेजें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,15 +47,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // फसल और बचाओ।
+    // क्रॉप करें और सहेजें।
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// सहेजी गई छवि लोड करें और परिवर्तनों की जांच करें।
+// सहेजी गई इमेज लोड करें और बदलावों की जाँच करें।
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [WorkingPathResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

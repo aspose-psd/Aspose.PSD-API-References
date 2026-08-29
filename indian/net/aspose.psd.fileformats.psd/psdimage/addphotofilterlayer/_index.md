@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. फटफल्टर परत जड़त है
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। PhotoFilter लेयर जोड़ता है।"
 type: docs
-weight: 400
+weight: 420
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
-फोटोफिल्टर परत जोड़ता है।
+फ़ोटोफ़िल्टर लेयर जोड़ता है।
 
 ```csharp
 public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | वो रंग। |
+| रंग | रंग | रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फोटोफिल्टर लेयर बनाया गया
+बनाया गया PhotoFilter लेयर
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

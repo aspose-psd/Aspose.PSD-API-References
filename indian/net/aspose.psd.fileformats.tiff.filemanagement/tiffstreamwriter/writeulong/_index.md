@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteULong
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम के लए एक अहस्तक्षरत पूर्णंक मन लखत है
+title: "TiffStreamWriter.WriteULong"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter विधि। स्ट्रीम में एक अनसाइनड इंटीजर मान लिखता है"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULong method
 
-स्ट्रीम के लिए एक अहस्ताक्षरित पूर्णांक मान लिखता है।
+स्ट्रीम में एक एकल अनसाइन्ड इंटीजर मान लिखता है।
 
 ```csharp
 public void WriteULong(uint data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | UInt32 | लिखने का मूल्य। |
+| डेटा | UInt32 | लिखने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

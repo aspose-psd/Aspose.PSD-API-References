@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF संपत्त. क एक नय उदहरण प्रप्त करत हैSizeF संरचन जसमें हैWidth औरHeight मन शून्य पर सेट.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF प्रॉपर्टी। Width और Height मान शून्य पर सेट किए हुए SizeF संरचना की नई इंस्टेंस प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-का एक नया उदाहरण प्राप्त करता है[`SizeF`](../) संरचना जिसमें है[`Width`](../width/) और[`Height`](../height/) मान शून्य पर सेट.
+एक नई [`SizeF`](../) संरचना की इंस्टेंस प्राप्त करता है, जिसकी [`Width`](../width/) और [`Height`](../height/) मान शून्य पर सेट होते हैं।
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

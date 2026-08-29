@@ -1,28 +1,29 @@
 ---
-title: Figure.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure संपत्त. ऑब्जेक्ट क सम प्रप्त य सेट करत है
+title: "Figure.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure प्रॉपर्टी। ऑब्जेक्ट की सीमाएँ प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/figure/bounds/
 ---
+{{< psd/tize >}}
 ## Figure.Bounds property
 
-ऑब्जेक्ट की सीमा प्राप्त या सेट करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की सीमा।
+वस्तु की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

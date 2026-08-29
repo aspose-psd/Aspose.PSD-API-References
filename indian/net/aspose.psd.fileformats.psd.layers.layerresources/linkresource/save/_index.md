@@ -1,29 +1,30 @@
 ---
-title: LinkResource.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkResource तरक. संसधन ब्लक डेट सहेजत है
+title: "LinkResource.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkResource मेथड. रिसोर्स ब्लॉक डेटा को सहेजता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 ---
+{{< psd/tize >}}
 ## LinkResource.Save method
 
-संसाधन ब्लॉक डेटा सहेजता है।
+रिसोर्स ब्लॉक डेटा को सहेजता है।
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LinkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

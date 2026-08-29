@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage मैदन. अत्यवश्यकत अधकतम मन.
+title: "PhotoshopPackage.UrgencyMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage फ़ील्ड। अत्यावश्यकता अधिकतम मान"
 type: docs
 weight: 210
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMax field
 
-अत्यावश्यकता अधिकतम मान.
+तत्कालता अधिकतम मान।
 
 ```csharp
 public const int UrgencyMax;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

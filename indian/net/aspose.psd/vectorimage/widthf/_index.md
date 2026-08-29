@@ -1,27 +1,28 @@
 ---
-title: VectorImage.WidthF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorImage संपत्त. वस्तु क चड़ई इंच में प्रप्त करत है
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorImage property. वस्तु की चौड़ाई इंच में प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
-वस्तु की चौड़ाई इंच में प्राप्त करता है।
+इंच में वस्तु की चौड़ाई प्राप्त करता है।
 
 ```csharp
 public virtual float WidthF { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑब्जेक्ट की चौड़ाई, इंच में.
+वस्तु की चौड़ाई, इंच में।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorImage](../)
-* नाम स्थान [Aspose.PSD](../../vectorimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

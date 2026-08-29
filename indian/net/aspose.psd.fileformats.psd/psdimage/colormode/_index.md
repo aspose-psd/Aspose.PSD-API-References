@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ColorMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. रंग मड प्रप्त य सेट करत है
+title: "PsdImage.ColorMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। रंग मोड को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/colormode/
 ---
+{{< psd/tize >}}
 ## PsdImage.ColorMode property
 
-रंग मोड प्राप्त या सेट करता है।
+कलर मोड को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर मोड.
+रंग मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorModes](../../colormodes/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

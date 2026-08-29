@@ -1,22 +1,23 @@
 ---
-title: ShmdResource.SubResources
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ShmdResource संपत्त. shmd संसधन के उप संसधन प्रप्त करत है
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ShmdResource प्रॉपर्टी। श्म्ड संसाधन के उप-संसाधन प्राप्त करता है"
 type: docs
-weight: 70
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
-shmd संसाधन के उप संसाधन प्राप्त करता है।
+shmd संसाधन के उप-संसाधनों को प्राप्त करता है।
 
 ```csharp
 public LayerResource[] SubResources { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड MlstResource संसाधन के समर्थन को प्रदर्शित करता है जो लेयर स्टेट्स में हेरफेर करने के लिए एक निम्न-स्तरीय तंत्र देता है।
+निम्न कोड MlstResource रिसोर्स के समर्थन को दर्शाता है जो लेयर स्टेट्स को मैनिपुलेट करने के लिए लो-लेवल मैकेनिज़्म प्रदान करता है।
 
 ```csharp
 [C#]
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // फ़्रेम 1 पर परत 1 को अक्षम करें
+    // फ़्रेम 1 पर लेयर 1 को निष्क्रिय करें
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

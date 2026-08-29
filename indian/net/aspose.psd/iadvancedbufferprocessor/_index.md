@@ -1,30 +1,31 @@
 ---
-title: Interface IAdvancedBufferProcessor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IAdvancedBufferProcessor इंटरफेस. उन्नत बफर प्रसेसर.
+title: "इंटरफ़ेस IAdvancedBufferProcessor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IAdvancedBufferProcessor इंटरफ़ेस। उन्नत बफ़र प्रोसेसर"
 type: docs
-weight: 4360
+weight: 4830
 url: /hi/net/aspose.psd/iadvancedbufferprocessor/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor interface
 
-उन्नत बफर प्रोसेसर.
+उन्नत बफ़र प्रोसेसर।
 
 ```csharp
 public interface IAdvancedBufferProcessor : IBufferProcessor
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [FinishRow](../../aspose.psd/iadvancedbufferprocessor/finishrow/)() | पंक्ति को समाप्त करता है। |
 | [FinishRows](../../aspose.psd/iadvancedbufferprocessor/finishrows/)(int) | पंक्तियों को समाप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IBufferProcessor](../ibufferprocessor/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

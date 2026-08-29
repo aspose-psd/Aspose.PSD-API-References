@@ -1,94 +1,95 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamReadException नर्मत. क एक नय उदहरण प्ररंभ करत हैStreamReadException वर्ग.
+title: "StreamReadException.StreamReadException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamReadException कंस्ट्रक्टर। StreamReadException क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/streamreadexception/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamReadException`](../) वर्ग.
+[`StreamReadException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public StreamReadException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamReadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamReadException`](../) वर्ग.
+[`StreamReadException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public StreamReadException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamReadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception, int, int) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamReadException`](../) वर्ग.
+[`StreamReadException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public StreamReadException(string message, Exception innerException, int expectedReadCount, 
     int actualReadCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
-| expectedReadCount | Int32 | अपेक्षित पठन गणना। |
-| actualReadCount | Int32 | वास्तविक पढ़ने की संख्या। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
+| expectedReadCount | Int32 | अपेक्षित पढ़ने की गिनती। |
+| actualReadCount | Int32 | वास्तविक पढ़ने की गिनती। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamReadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`StreamReadException`](../) वर्ग.
+[`StreamReadException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public StreamReadException(string message, int expectedReadCount, int actualReadCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| expectedReadCount | Int32 | अपेक्षित पठन गणना। |
-| actualReadCount | Int32 | वास्तविक पढ़ने की संख्या। |
+| expectedReadCount | Int32 | अपेक्षित पढ़ने की गिनती। |
+| actualReadCount | Int32 | वास्तविक पढ़ने की गिनती। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamReadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

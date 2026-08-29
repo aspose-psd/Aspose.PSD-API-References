@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. वषय क्षेत्र प्रप्त य सेट करत है
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। विषय क्षेत्र प्राप्त करता है या सेट करता है"
 type: docs
 weight: 990
 url: /hi/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-विषय क्षेत्र प्राप्त या सेट करता है।
+सब्जेक्ट एरिया को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 विषय क्षेत्र।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TypeToolFontInfo.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolFontInfo तरक. सहेजत हैTypeToolFontInfo नर्दष्ट स्ट्रम कंटेनर के लए जनकर
+title: "TypeToolFontInfo.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolFontInfo मेथड। TypeToolFontInfo जानकारी को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Save method
 
-सहेजता है[`TypeToolFontInfo`](../) निर्दिष्ट स्ट्रीम कंटेनर के लिए जानकारी।
+[`TypeToolFontInfo`](../) जानकारी को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

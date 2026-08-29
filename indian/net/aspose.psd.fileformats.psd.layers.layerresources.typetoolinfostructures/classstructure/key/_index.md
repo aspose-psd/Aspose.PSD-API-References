@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClassStructure संपत्त. संरचन कुंज प्रप्त करत है
+title: "ClassStructure.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClassStructure प्रॉपर्टी। संरचना कुंजी प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/key/
 ---
+{{< psd/tize >}}
 ## ClassStructure.Key property
 
 संरचना कुंजी प्राप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

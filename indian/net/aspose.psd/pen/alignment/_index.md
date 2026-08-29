@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके लए संरेखण प्रप्त य सेट करत हैPen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen के लिए संरेखण को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-इसके लिए संरेखण प्राप्त या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) के लिए संरेखण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`PenAlignment`](../../penalignment/) जो इसके लिए संरेखण का प्रतिनिधित्व करता है[`Pen`](../).
+एक [`PenAlignment`](../../penalignment/) जो इस [`Pen`](../) के लिए संरेखण को दर्शाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `Alignment` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `Alignment` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

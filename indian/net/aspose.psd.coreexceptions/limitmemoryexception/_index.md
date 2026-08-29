@@ -1,14 +1,15 @@
 ---
-title: Class LimitMemoryException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.LimitMemoryException कक्ष. सम स्मृत अपवद तब हत है जब स्मृत उपयग कम कय जन चहए
+title: "क्लास LimitMemoryException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException क्लास। सीमित मेमोरी अपवाद। जब मेमोरी उपयोग को कम किया जाना चाहिए तब यह होता है"
 type: docs
 weight: 650
 url: /hi/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-सीमा स्मृति अपवाद। तब होता है जब स्मृति उपयोग कम किया जाना चाहिए।
+सीमित मेमोरी अपवाद। जब मेमोरी उपयोग को कम किया जाना चाहिए तब होता है।
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
@@ -18,20 +19,20 @@ public class LimitMemoryException : OutOfMemoryException
 
 | नाम | विवरण |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`LimitMemoryException` वर्ग. |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`LimitMemoryException` वर्ग. |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | का एक नया उदाहरण प्रारंभ करता है`LimitMemoryException` वर्ग. |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | का एक नया उदाहरण प्रारंभ करता है`LimitMemoryException` वर्ग. |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | `LimitMemoryException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | `LimitMemoryException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | `LimitMemoryException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | `LimitMemoryException` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | कम मेमोरी कारक प्राप्त या सेट करता है। |
+| [ReduceMemoryFactor](../../aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/) { get; set; } | रिड्यूस मेमोरी फैक्टर को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

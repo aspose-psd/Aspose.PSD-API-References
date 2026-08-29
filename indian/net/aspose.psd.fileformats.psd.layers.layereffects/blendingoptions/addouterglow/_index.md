@@ -1,26 +1,27 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions तरक. बहर चमक प्रभव जड़त है
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions मेथड। बाहरी चमक इफ़ेक्ट जोड़ता है"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
-बाहरी चमक प्रभाव जोड़ता है।
+आउटर ग्लो इफ़ेक्ट जोड़ता है।
 
 ```csharp
 public OuterGlowEffect AddOuterGlow()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`OuterGlowEffect`](../../outergloweffect/) वस्तु
+बनाया गया [`OuterGlowEffect`](../../outergloweffect/) ऑब्जेक्ट
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड OuterGlowEffect समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड OuterGlowEffect समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

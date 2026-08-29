@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.Progress
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask संपत्त. अतुल्यकलक कर्य क प्रगत प्रप्त करत है
+title: "IAsyncTask.Progress"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask प्रॉपर्टी। असिंक्रोनस कार्य की प्रगति प्राप्त करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.asynctask/iasynctask/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Progress property
 
-अतुल्यकालिक कार्य की प्रगति प्राप्त करता है।
+असिंक्रोनस टास्क की प्रोग्रेस प्राप्त करता है।
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अतुल्यकालिक कार्य की प्रगति।
+असिंक्रोनस टास्क की प्रगति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IKeyedObject.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IKeyedObject संपत्त. वस्तु कुंज प्रप्त करत है
+title: "IKeyedObject.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IKeyedObject प्रॉपर्टी। ऑब्जेक्ट कुंजी प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/ikeyedobject/key/
 ---
+{{< psd/tize >}}
 ## IKeyedObject.Key property
 
-वस्तु कुंजी प्राप्त करता है।
+ऑब्जेक्ट कुंजी प्राप्त करता है।
 
 ```csharp
 public string Key { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु कुंजी।
+ऑब्जेक्ट कुंजी।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IKeyedObject](../)
-* नाम स्थान [Aspose.PSD](../../ikeyedobject/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

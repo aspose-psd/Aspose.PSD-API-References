@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Unit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BorderInformationResource संपत्त. सम इकइयं क प्रप्त य सेट करत है
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BorderInformationResource प्रॉपर्टी। बॉर्डर इकाइयों को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-सीमा इकाइयों को प्राप्त या सेट करता है।
+बॉर्डर इकाइयों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण BorderInformationResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण BorderInformationResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // अद्यतन सीमा सूचना संसाधन
+    // BorderInformationResource को अपडेट करें
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -45,11 +46,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorPathDataResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण उल्ट है
+title: "VectorPathDataResource.IsInverted"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorPathDataResource प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस उलटा है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण उल्टा है।
+इस इंस्टेंस के उल्टे होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण उलटा है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस उलटा है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathDataResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

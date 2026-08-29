@@ -1,11 +1,12 @@
 ---
-title: FxrpResource.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource तरक. नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "FxrpResource.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource मेथड। निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
-weight: 80
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Save method
 
 निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
@@ -14,16 +15,16 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

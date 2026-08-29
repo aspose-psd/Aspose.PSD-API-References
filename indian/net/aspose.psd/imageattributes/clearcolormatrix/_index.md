@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए रंगसमयजन मैट्रक्स क सफ़ करत है
+title: "ImageAttributes.ClearColorMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स को साफ़ करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/imageattributes/clearcolormatrix/
 ---
+{{< psd/tize >}}
 ## ClearColorMatrix() {#clearcolormatrix}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स को साफ़ करता है।
+डिफ़ॉल्ट श्रेणी के लिए color-adjustment मैट्रिक्स को साफ़ करता है।
 
 ```csharp
 public void ClearColorMatrix()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorMatrix(ColorAdjustType) {#clearcolormatrix_1}
 
-निर्दिष्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स को साफ़ करता है।
+निर्दिष्ट श्रेणी के लिए color-adjustment मैट्रिक्स को साफ़ करता है।
 
 ```csharp
 public void ClearColorMatrix(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग-समायोजन मैट्रिक्स साफ़ किया गया है। |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) का एक तत्व जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग-समायोजन मैट्रिक्स साफ़ किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

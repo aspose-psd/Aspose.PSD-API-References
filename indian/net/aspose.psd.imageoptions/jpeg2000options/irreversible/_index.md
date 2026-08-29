@@ -1,23 +1,24 @@
 ---
-title: Jpeg2000Options.Irreversible
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Jpeg2000Options संपत्त. यह दर्शत है क अपरवर्तनय DWT 97 सह क उपयग करें य दषरहत DWT 53 संपड़न डफ़ल्ट क उपयग करें एक मन प्रप्त करत है य सेट करत है
+title: "Jpeg2000Options.Irreversible"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Jpeg2000Options प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि अपरिवर्तनीय DWT 97 (सही) का उपयोग किया जाए या डिफ़ॉल्ट रूप से लॉसलेस DWT 53 संपीड़न का उपयोग किया जाए।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.imageoptions/jpeg2000options/irreversible/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Irreversible property
 
-यह दर्शाता है कि अपरिवर्तनीय DWT 9-7 (सही) का उपयोग करें या दोषरहित DWT 5-3 संपीड़न (डिफ़ॉल्ट) का उपयोग करें। एक मान प्राप्त करता है या सेट करता है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि अपरिवर्तनीय DWT 9-7 (सही) का उपयोग करना है या लॉसलैस DWT 5-3 संपीड़न (डिफ़ॉल्ट) का उपयोग करना है।
 
 ```csharp
 public bool Irreversible { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Jpeg2000Options](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

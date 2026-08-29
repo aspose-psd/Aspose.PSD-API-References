@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LiFeDataSource संपत्त. Adobe Photoshop CC लइब्रेर के लए उपलब्ध हने पर Adobe स्टक लइसेंस क स्थत प्रप्त करत है
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LiFeDataSource प्रॉपर्टी। Adobe Photoshop CC लाइब्रेरीज़ के लिए उपलब्ध होने पर adobe stock लाइसेंस की स्थिति प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-Adobe® Photoshop® CC लाइब्रेरी के लिए उपलब्ध होने पर Adobe स्टॉक लाइसेंस की स्थिति प्राप्त करता है।
+यदि उपलब्ध हो तो Adobe® Photoshop® CC लाइब्रेरीज़ के लिए Adobe स्टॉक लाइसेंस की स्थिति प्राप्त करता है।
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एडोब स्टॉक लाइसेंस या खाली स्ट्रिंग की स्थिति अगर यह उपलब्ध नहीं है।
+adobe stock लाइसेंस की स्थिति या यदि उपलब्ध नहीं है तो खाली स्ट्रिंग।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड LnkeResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न कोड LnkeResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LiFeDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage संपत्त. नम स्थन URI प्रप्त करत है.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage गुण। नेमस्पेस URI प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-नाम स्थान URI प्राप्त करता है.
+नेमस्पेस URI को प्राप्त करता है।
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-नामस्थान यूआरआई.
+यह नेमस्पेस URI।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

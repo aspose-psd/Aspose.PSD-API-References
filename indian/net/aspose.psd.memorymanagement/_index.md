@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में स्मृत प्रबंधन रूटन शमल हैं
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस मेमोरी मैनेजमेंट रूटीन को शामिल करता है।"
 type: docs
-weight: 450
+weight: 490
 url: /hi/net/aspose.psd.memorymanagement/
 ---
-नामस्थान में स्मृति प्रबंधन रूटीन शामिल हैं।
+{{< psd/tize >}}
+यह namespace मेमोरी मैनेजमेंट रूटीन को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [Configuration](./configuration/) | मेमोरी प्रबंधन वैश्विक कॉन्फ़िगरेशन |
+| [Configuration](./configuration/) | मेमोरी प्रबंधन की वैश्विक कॉन्फ़िगरेशन |
 
 

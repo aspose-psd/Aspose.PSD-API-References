@@ -1,74 +1,75 @@
 ---
-title: FixedPointDecimal.FixedPointDecimal
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FixedPointDecimal नर्मत. क एक नय उदहरण प्ररंभ करत हैFixedPointDecimal वर्ग.
+title: "FixedPointDecimal.FixedPointDecimal"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FixedPointDecimal कंस्ट्रक्टर। FixedPointDecimal क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`FixedPointDecimal`](../) वर्ग.
+[`FixedPointDecimal`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| integer | Int32 | पूर्णांक। |
-| fraction | Int32 | अंश। |
+| पूर्णांक | Int32 | पूर्णांक। |
+| भिन्न | Int32 | भिन्न। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`FixedPointDecimal`](../) कक्षा। 32-बिट पूर्णांक के उच्च और निम्न शब्दों को एक निश्चित-बिंदु संख्या में विभाजित करें।
+[`FixedPointDecimal`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। 32-बिट पूर्णांक के हाई और लो शब्दों को फिक्स्ड-पॉइंट संख्या में विभाजित करता है।
 
 ```csharp
 public FixedPointDecimal(long value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Int64 | मूल्य। |
+| मान | Int64 | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(double) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`FixedPointDecimal`](../) वर्ग.
+[`FixedPointDecimal`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FixedPointDecimal(double value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Double | मूल्य। |
+| मान | Double | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | OverflowException |  |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

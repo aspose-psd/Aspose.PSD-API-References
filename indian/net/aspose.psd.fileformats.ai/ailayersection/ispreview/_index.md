@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. एक मन प्रप्त य सेट करत है ज बतत है क यह परत पूर्ववलकन है य नहं परत में नहत कलकृत क रूपरेख के बजय रंग में प्रदर्शत करत है
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। प्राप्त करता है या सेट करता है वह मान जो दर्शाता है कि यह लेयर प्रीव्यू है या नहीं। लेयर में मौजूद कलाकृति को रूपरेखा के बजाय रंग में प्रदर्शित करता है।"
 type: docs
-weight: 70
+weight: 90
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-एक मान प्राप्त या सेट करता है जो बताता है कि यह परत पूर्वावलोकन है या नहीं। परत में निहित कलाकृति को रूपरेखा के बजाय रंग में प्रदर्शित करता है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर प्रीव्यू है या नहीं। लेयर में मौजूद कलाकृति को रूपरेखा के बजाय रंग में दिखाता है।
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह परत पूर्वावलोकन है; अन्यथा,`असत्य` .
+`true` यदि यह लेयर प्रीव्यू है; अन्यथा, `false`.
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

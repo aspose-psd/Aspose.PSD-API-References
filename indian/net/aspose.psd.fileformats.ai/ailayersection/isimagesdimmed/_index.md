@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. यह इंगत करत है क यह परत मंद है य नहं यह इंगत करत है य सेट करत है परत में नहत लंक क गई छवयं और बटमैप छवयं क तव्रत क कम करत है
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। यह मान प्राप्त या सेट करता है जो दर्शाता है कि यह लेयर डिम्ड है। लेयर में मौजूद लिंक्ड इमेजेज़ और बिटमैप इमेजेज़ की तीव्रता को कम करता है"
 type: docs
-weight: 50
+weight: 70
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-यह इंगित करता है कि यह परत मंद है या नहीं, यह इंगित करता है या सेट करता है। परत में निहित लिंक की गई छवियों और बिटमैप छवियों की तीव्रता को कम करता है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर डिम्ड है या नहीं। लेयर में शामिल लिंक्ड इमेज और बिटमैप इमेज की तीव्रता को कम करता है।
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह परत मंद है; अन्यथा,`असत्य` .
+`true` यदि यह लेयर डिम्ड है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

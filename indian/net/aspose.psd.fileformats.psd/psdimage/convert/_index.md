@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Convert
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. इस इमेज फ़र्मैट क वकल्पं में बतए गए फ़र्मैट में बदलत है.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। इस इमेज फ़ॉर्मेट को विकल्पों में निर्दिष्ट फ़ॉर्मेट में परिवर्तित करता है।"
 type: docs
-weight: 500
+weight: 560
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-इस इमेज फ़ॉर्मैट को विकल्पों में बताए गए फ़ॉर्मैट में बदलता है.
+इस इमेज फ़ॉर्मेट को विकल्पों में निर्दिष्ट फ़ॉर्मेट में परिवर्तित करता है।
 
 ```csharp
 public void Convert(PsdOptions newOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newOptions | PsdOptions | नए विकल्प। |
 
-### उदाहरण
+## उदाहरण
 
-ये उदाहरण PSD छवि प्रारूप के अन्य रंग मोड/बिटडेप्थ में रूपांतरण प्रदर्शित करते हैं।
+ये उदाहरण PSD इमेज फ़ॉर्मेट को अन्य रंग मोड/बिट गहराई में परिवर्तित करने को दर्शाते हैं।
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public void Convert(PsdOptions newOptions)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// ये उदाहरण PSD छवि प्रारूप के अन्य रंग मोड/बिटडेप्थ में रूपांतरण प्रदर्शित करते हैं।
+// ये उदाहरण PSD इमेज फ़ॉर्मेट को अन्य रंग मोड/बिट गहराई में परिवर्तित करने को दर्शाते हैं।
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// PSD में सहेजता है फिर सहेजी गई फ़ाइल को लोड करता है और PNG में सहेजता है।
+// PSD में सहेजता है, फिर सहेफ़ाइल को लोड करता है और PNG में सहेजता है।
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -112,11 +113,11 @@ void SaveToPsdThenLoadAndSaveToPng(
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

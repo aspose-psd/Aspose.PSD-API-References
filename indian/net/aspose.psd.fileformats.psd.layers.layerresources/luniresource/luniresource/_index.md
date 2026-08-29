@@ -1,23 +1,24 @@
 ---
-title: LuniResource.LuniResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LuniResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLuniResource वर्ग.
+title: "LuniResource.LuniResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LuniResource कंस्ट्रक्टर। LuniResource क्लास का नया उदाहरण इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`LuniResource`](../) वर्ग.
+[`LuniResource`](../) क्लास का नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public LuniResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LuniResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.Flash
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. फ़्लैश प्रप्त करत है य सेट करत है
+title: "ExifData.Flash"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। फ्लैश प्राप्त करता है या सेट करता है"
 type: docs
 weight: 250
 url: /hi/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
 फ़्लैश प्राप्त करता है या सेट करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.exif/exifdata/flash/
 public ExifFlash Flash { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़्लैश.
+फ़्लैश।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

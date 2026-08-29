@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiX
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. इस Aspose.PSD.Graphics. क क्षैतज रज़ल्यूशन प्रप्त करत है
+title: "Graphics.DpiX"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। इस Aspose.PSD.Graphics की क्षैतिज रिज़ॉल्यूशन प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/graphics/dpix/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiX property
 
-इस Aspose.PSD.Graphics. का क्षैतिज रिज़ॉल्यूशन प्राप्त करता है
+इस Aspose.PSD.Graphics की क्षैतिज रिज़ॉल्यूशन प्राप्त करता है।
 
 ```csharp
 public float DpiX { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इस Aspose.PSD.Graphics. द्वारा समर्थित क्षैतिज रिज़ॉल्यूशन के लिए डॉट्स प्रति इंच में मान
+इस Aspose.PSD.Graphics द्वारा समर्थित क्षैतिज रिज़ॉल्यूशन के लिए डॉट्स प्रति इंच में मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

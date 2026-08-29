@@ -1,14 +1,15 @@
 ---
-title: Enum PhysicalUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit एनुम. resolutionInfo भतक इकई enum
+title: "एनम PhysicalUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.PhysicalUnit enum. रिज़ॉल्यूशन जानकारी का फिजिकल यूनिट एनम"
 type: docs
-weight: 3860
+weight: 4330
 url: /hi/net/aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/
 ---
+{{< psd/tize >}}
 ## PhysicalUnit enumeration
 
-resolutionInfo भौतिक इकाई enum
+यह resoulutionInfo भौतिक इकाई enum
 
 ```csharp
 public enum PhysicalUnit
@@ -16,17 +17,17 @@ public enum PhysicalUnit
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Inches | `1` | इंच |
-| Centimeters | `2` | सेंटीमीटर |
-| Points | `3` | अंक |
-| Picas | `4` | पिकास इकाई |
-| Columns | `5` | कॉलम |
+| Centimeters | `2` | सेमी |
+| Points | `3` | पॉइंट्स |
+| Picas | `4` | पिका यूनिट |
+| Columns | `5` | कॉलम्स |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

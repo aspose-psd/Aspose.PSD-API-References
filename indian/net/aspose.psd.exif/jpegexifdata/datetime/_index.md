@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.DateTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. दनंक समय प्रप्त य सेट करत है
+title: "JpegExifData.DateTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। तिथि और समय प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.exif/jpegexifdata/datetime/
 ---
+{{< psd/tize >}}
 ## JpegExifData.DateTime property
 
-दिनांक समय प्राप्त या सेट करता है।
+डेट टाइम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दिनांक समय.
+तिथि और समय।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Nominator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffRational संपत्त. नमनेटर प्रप्त करत है
+title: "TiffRational.Nominator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffRational प्रॉपर्टी। नामिनेटर प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Nominator property
 
-नॉमिनेटर प्राप्त करता है।
+हर नॉमिनेटर प्राप्त करता है।
 
 ```csharp
 public uint Nominator { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-नॉमिनेटर.
+नॉमिनेटर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

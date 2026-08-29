@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DisposableObject तरक. वर्तमन उदहरण क नपटन करत है
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DisposableObject मेथड। वर्तमान इंस्टेंस को डिस्पोज़ करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-वर्तमान उदाहरण का निपटान करता है।
+वर्तमान इंस्टेंस को डिस्पोज़ करता है।
 
 ```csharp
 public void Dispose()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [DisposableObject](../)
-* नाम स्थान [Aspose.PSD](../../disposableobject/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

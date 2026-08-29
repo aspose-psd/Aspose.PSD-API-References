@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DublinCorePackage तरक. वषय जड़त है
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DublinCorePackage विधि. विषय जोड़ता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
 विषय जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 public void SetSubject(string subject)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| subject | String | विषय। |
+| विषय | String | विषय। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetSubject(string subject)
 public void SetSubject(string[] subject)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| subject | String[] | विषय। |
+| विषय | String[] | विषय। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

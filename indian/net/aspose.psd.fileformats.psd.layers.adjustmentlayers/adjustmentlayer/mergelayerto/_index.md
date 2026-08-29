@@ -1,28 +1,29 @@
 ---
-title: AdjustmentLayer.MergeLayerTo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AdjustmentLayer तरक. परत क नर्दष्ट परत में मर्ज करत है
+title: "AdjustmentLayer.MergeLayerTo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AdjustmentLayer मेथड। लेयर को निर्दिष्ट लेयर में मर्ज करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/adjustmentlayer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayer.MergeLayerTo method
 
-परत को निर्दिष्ट परत में मर्ज करता है
+लेयर को निर्दिष्ट लेयर में मर्ज करता है।
 
 ```csharp
 public override void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layerToMergeInto | Layer | विलय करने के लिए परत। |
+| layerToMergeInto | लेयर | मर्ज करने के लिए लेयर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [AdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../adjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

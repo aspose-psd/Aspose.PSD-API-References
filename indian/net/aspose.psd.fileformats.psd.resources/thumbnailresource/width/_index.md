@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ThumbnailResource संपत्त. पक्सेल में थंबनेल क चड़ई प्रप्त य सेट करत है
+title: "ThumbnailResource.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ThumbnailResource प्रॉपर्टी। पिक्सेल में थंबनेल की चौड़ाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Width property
 
-पिक्सेल में थंबनेल की चौड़ाई प्राप्त या सेट करता है।
+पिक्सेल में थंबनेल की चौड़ाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 थंबनेल चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ThumbnailResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

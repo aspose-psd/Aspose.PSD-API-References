@@ -1,23 +1,24 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InterruptMonitor तरक. संचलन क बधत करने क अनुरध भेजत है
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InterruptMonitor मेथड। ऑपरेशनों को बाधित करने का अनुरोध भेजता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.Interrupt method
 
-संचालन को बाधित करने का अनुरोध भेजता है।
+ऑपरेशनों को बाधित करने के लिए एक अनुरोध भेजता है।
 
 ```csharp
 public void Interrupt()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InterruptMonitor](../)
-* नाम स्थान [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

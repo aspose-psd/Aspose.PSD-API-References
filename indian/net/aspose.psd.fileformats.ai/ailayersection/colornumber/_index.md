@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. रंग संख्य प्रप्त य सेट करत है 1 लल हरे नले गुणं से कस्टम रंग मन है परत क रंग सेटंग नर्दष्ट करत है
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। रंग संख्या प्राप्त या सेट करता है। 1 रेड ग्रीन ब्लू प्रॉपर्टीज़ से कस्टम रंग मान है। लेयर की रंग सेटिंग निर्दिष्ट करता है"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-रंग संख्या प्राप्त या सेट करता है। -1 लाल, हरे, नीले गुणों से कस्टम रंग मान है। परत की रंग सेटिंग निर्दिष्ट करता है।
+रंग संख्या प्राप्त करता है या सेट करता है। -1 लाल, हरा, नीला गुणों से कस्टम रंग मान है। लेयर की रंग सेटिंग निर्दिष्ट करता है।
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 रंग संख्या।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

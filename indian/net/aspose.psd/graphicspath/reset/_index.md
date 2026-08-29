@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. ग्रफक्स पथ क खल करत है और सेट करत हैFillMode कAlternate .
+title: "GraphicsPath.Reset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। ग्राफ़िक्स पाथ को खाली करता है और FillMode को Alternate पर सेट करता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/graphicspath/reset/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reset method
 
-ग्राफिक्स पथ को खाली करता है और सेट करता है[`FillMode`](../../fillmode/) कोAlternate .
+ग्राफ़िक्स पाथ को खाली करता है और [`FillMode`](../../fillmode/) को Alternate पर सेट करता है।
 
 ```csharp
 public void Reset()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

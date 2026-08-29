@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.InkNames
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. स्यह के नम प्रप्त य सेट करत है
+title: "TiffOptions.InkNames"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इंक नामों को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 220
+weight: 230
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/inknames/
 ---
+{{< psd/tize >}}
 ## TiffOptions.InkNames property
 
-स्याही के नाम प्राप्त या सेट करता है।
+स्याही नामों को प्राप्त या सेट करता है।
 
 ```csharp
 public string InkNames { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्याही के नाम।
+इंक नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

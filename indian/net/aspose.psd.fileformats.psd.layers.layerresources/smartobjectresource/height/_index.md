@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. ऊंचई प्रप्त य सेट करत है
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource प्रॉपर्टी। प्राप्त करता है या सेट करता है ऊँचाई"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
-ऊंचाई प्राप्त या सेट करता है।
+ऊँचाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Height { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊंचाई.
+ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

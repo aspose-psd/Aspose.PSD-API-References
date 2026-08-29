@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResource संपत्त. संस्करण प्रप्त करत है डफ़ल्ट 2 य 3 है
+title: "PhflResource.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResource प्रॉपर्टी। संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 या 3 है"
 type: docs
-weight: 50
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/version/
 ---
+{{< psd/tize >}}
 ## PhflResource.Version property
 
-संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 या 3 है
+संस्करण को प्राप्त करता है। डिफ़ॉल्ट 2 या 3 है।
 
 ```csharp
 public abstract short Version { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

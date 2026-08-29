@@ -1,45 +1,46 @@
 ---
-title: ColorantRgb.ColorantRgb
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantRgb नर्मत. क एक नय उदहरण प्ररंभ करत हैColorantRgb वर्ग.
+title: "ColorantRgb.ColorantRgb"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantRgb कंस्ट्रक्टर। ColorantRgb क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantRgb`](../) वर्ग.
+एक नया उदाहरण बनाता है [`ColorantRgb`](../) क्लास का।
 
 ```csharp
 public ColorantRgb()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantRgb](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantRgb(byte, byte, byte) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantRgb`](../) वर्ग.
+एक नया उदाहरण बनाता है [`ColorantRgb`](../) क्लास का।
 
 ```csharp
 public ColorantRgb(byte red, byte green, byte blue)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| red | Byte | लाल घटक मान। |
-| green | Byte | हरा घटक मूल्य। |
-| blue | Byte | नीला घटक मान। |
+| लाल | बाइट | लाल घटक का मान। |
+| हरा | बाइट | हरा घटक का मान। |
+| नीला | बाइट | ब्लू घटक मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantRgb](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

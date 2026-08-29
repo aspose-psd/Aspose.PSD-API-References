@@ -1,34 +1,35 @@
 ---
-title: MixrResource.SetChannelInfo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MixrResource तरक. चैनल क जनकर सेट करत है
+title: "MixrResource.SetChannelInfo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MixrResource मेथड। चैनल जानकारी को सेट करता है"
 type: docs
-weight: 80
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.SetChannelInfo method
 
-चैनल की जानकारी सेट करता है।
+चैनल जानकारी सेट करता है।
 
 ```csharp
 public void SetChannelInfo(int channelIndex, byte[] value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
-| value | Byte[] | मूल्य। |
+| मान | Byte[] | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | मिक्सर संसाधन में 4 से अधिक चैनल नहीं हैं। प्रथम चैनल का सूचकांक 0 है |
+| ArgumentException | Mixr रिसोर्स में अधिकतम 4 चैनल होते हैं। पहले चैनल का इंडेक्स 0 है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

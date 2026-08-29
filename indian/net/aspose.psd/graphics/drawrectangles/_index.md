@@ -1,107 +1,108 @@
 ---
-title: Graphics.DrawRectangles
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. नर्दष्ट आयतं क एक श्रृंखल बनत हैRectangleF संरचनएं.
+title: "Graphics.DrawRectangles"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics विधि। RectangleF संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला को बनाता है।"
 type: docs
-weight: 310
+weight: 320
 url: /hi/net/aspose.psd/graphics/drawrectangles/
 ---
+{{< psd/tize >}}
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-निर्दिष्ट आयतों की एक श्रृंखला बनाता है[`RectangleF`](../../rectanglef/) संरचनाएं.
+[`RectangleF`](../../rectanglef/) संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला को बनाता है।
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो आयतों की रूपरेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| rects | RectangleF[] | की श्रंखला[`RectangleF`](../../rectanglef/) संरचनाएं जो आकर्षित करने के लिए आयतों का प्रतिनिधित्व करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो आयतों की रूपरेखाओं का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| rects | RectangleF[] | ड्रॉ करने के लिए आयतों का प्रतिनिधित्व करने वाली [`RectangleF`](../../rectanglef/) संरचनाओं की सरणी। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *rects* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-निर्दिष्ट आयतों की एक श्रृंखला बनाता है[`Rectangle`](../../rectangle/) संरचनाएं.
+[`Rectangle`](../../rectangle/) संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला को बनाता है।
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो आयतों की रूपरेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| rects | Rectangle[] | की श्रंखला[`Rectangle`](../../rectangle/) संरचनाएं जो आकर्षित करने के लिए आयतों का प्रतिनिधित्व करती हैं। |
+| pen | Pen | [`Pen`](../../pen/) जो आयतों की रूपरेखाओं का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| rects | Rectangle[] | ड्रॉ करने के लिए आयतों का प्रतिनिधित्व करने वाली [`Rectangle`](../../rectangle/) संरचनाओं की सरणी। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। -या- *rects* शून्य है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण पेन ऑब्जेक्ट्स का निर्माण और उपयोग दिखाता है। उदाहरण एक नई छवि बनाता है और छवि की सतह पर आयत बनाता है।
+यह उदाहरण Pen ऑब्जेक्ट्स के निर्माण और उपयोग को दिखाता है। उदाहरण एक नई Image बनाता है और Image सतह पर Rectangles खींचता है।
 
 ```csharp
 [C#]
 
-// छवि का एक उदाहरण बनाएं
+//Image का एक इंस्टेंस बनाएँ।
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // ग्राफिक्स का एक उदाहरण बनाएं और इसे इमेज ऑब्जेक्ट के साथ इनिशियलाइज़ करें
+    //Graphics का एक उदाहरण बनाएं और इसे Image ऑब्जेक्ट के साथ प्रारंभ करें।
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // ग्राफिक्स सतह को सफेद रंग से साफ करें
+    //Graphics सतह को White Color से साफ़ करें।
     graphics.Clear(Aspose.PSD.Color.White);
 
-    // रंग लाल और चौड़ाई 5 के साथ पेन का एक उदाहरण बनाएं
+    //Pen का एक उदाहरण बनाएं, रंग Red और चौड़ाई 5 के साथ।
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    // हैचब्रश का एक उदाहरण बनाएं और इसके गुण सेट करें
+    //HatchBrush का एक उदाहरण बनाएं और उसकी गुण सेट करें।
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    // पेन का एक उदाहरण बनाएँ
-    // इसे हैचब्रश ऑब्जेक्ट और चौड़ाई के साथ आरंभ करें
+    //Pen का एक उदाहरण बनाएं।
+    //इसे HatchBrush ऑब्जेक्ट और चौड़ाई के साथ प्रारंभ करें।
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // पेन ऑब्जेक्ट निर्दिष्ट करके आयत बनाएं
+    //Pen ऑब्जेक्ट निर्दिष्ट करके Rectangles खींचें।
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // पेन ऑब्जेक्ट निर्दिष्ट करके आयत बनाएं
+    //Pen ऑब्जेक्ट निर्दिष्ट करके Rectangles खींचें।
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
     // निर्यात विकल्प बनाएं और उन्हें प्रारंभ करें।
     Aspose.PSD.ImageOptions.Jpeg2000Options options = new Aspose.PSD.ImageOptions.Jpeg2000Options();
 
-    // सभी परिवर्तनों को सहेजें।
+    // सभी परिवर्तन सहेजें।
     image.Save("c:\\temp\\output.jp2", options);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. इसमें से पक्सेल प्रत इंच में लंबवत रज़ल्यूशन प्रप्त य सेट करत हैRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage property. इस RasterImage की ऊर्ध्वाधर रेज़ोल्यूशन को पिक्सेल प्रति इंच में प्राप्त करता है या सेट करता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-इसमें से पिक्सेल प्रति इंच में लंबवत रिज़ॉल्यूशन प्राप्त या सेट करता है[`RasterImage`](../../../aspose.psd/rasterimage/) .
+इस [`RasterImage`](../../../aspose.psd/rasterimage/) की ऊर्ध्वाधर रेज़ोल्यूशन को पिक्सेल प्रति इंच में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण में अल्फ़ा है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में अल्फा है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

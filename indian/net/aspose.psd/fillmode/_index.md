@@ -1,14 +1,15 @@
 ---
-title: Enum FillMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FillMode एनुम. नर्दष्ट करत है क बंद पथ क आंतरक भग कैसे भर जत है.
+title: "एनम FillMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FillMode एनम। यह निर्दिष्ट करता है कि बंद पथ के आंतरिक भाग को कैसे भरा जाता है।"
 type: docs
-weight: 4260
+weight: 4730
 url: /hi/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
-निर्दिष्ट करता है कि बंद पथ का आंतरिक भाग कैसे भरा जाता है.
+निर्दिष्ट करता है कि बंद पथ के अंदरूनी भाग को कैसे भरा जाता है।
 
 ```csharp
 public enum FillMode
@@ -16,14 +17,14 @@ public enum FillMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Alternate | `0` | वैकल्पिक भरण मोड निर्दिष्ट करता है. |
-| Winding | `1` | वाइंडिंग फिल मोड निर्दिष्ट करता है। |
+| Alternate | `0` | वैकल्पिक भराव मोड को निर्दिष्ट करता है। |
+| Winding | `1` | वाइंडिंग भराव मोड को निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

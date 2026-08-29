@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleOpacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक स्ट्रल अपरदर्शत 0100 प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleOpacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक शैली अपारदर्शिता 0100 प्राप्त करता है या सेट करता है"
 type: docs
-weight: 180
+weight: 160
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleOpacity property
 
-स्ट्रोक स्ट्रील अपारदर्शिता (0-100%) प्राप्त या सेट करता है।
+स्ट्रोक स्टाइल अपारदर्शिता (0-100%) प्राप्त करता या सेट करता है।
 
 ```csharp
 public int StrokeStyleOpacity { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

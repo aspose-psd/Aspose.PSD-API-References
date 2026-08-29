@@ -1,14 +1,15 @@
 ---
-title: Enum TextOrientation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.TextOrientation एनुम. टेक्स्ट ओरएंटेशन मड के लए गणन.
+title: "एनम TextOrientation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.TextOrientation एनम। टेक्स्ट ओरिएंटेशन मोड के लिए एनेमरेशन"
 type: docs
-weight: 4010
+weight: 4480
 url: /hi/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-टेक्स्ट ओरिएंटेशन मोड के लिए गणना.
+टेक्स्ट ओरिएंटेशन मोड के लिए एन्यूमरेशन।
 
 ```csharp
 public enum TextOrientation
@@ -16,14 +17,14 @@ public enum TextOrientation
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Horizontal | `0` | क्षैतिज टेक्स्ट ओरिएंटेशन. |
-| Vertical | `2` | वर्टिकल टेक्स्ट ओरिएंटेशन। |
+| Horizontal | `0` | क्षैतिज टेक्स्ट ओरिएंटेशन। |
+| Vertical | `2` | ऊर्ध्वाधर टेक्स्ट ओरिएंटेशन। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नई टेक्स्टऑरिएंटेशन संपत्ति को संपादित करने की क्षमता प्रदर्शित करता है। यह इस समय रेंडरिंग को प्रभावित नहीं करता है, लेकिन केवल आपको संपत्ति के मूल्य को संपादित करने की अनुमति देता है।
+निम्नलिखित कोड नई TextOrientation प्रॉपर्टी को संपादित करने की क्षमता को दर्शाता है। यह वर्तमान में रेंडरिंग को प्रभावित नहीं करता, बल्कि केवल आपको प्रॉपर्टी मान को संपादित करने की अनुमति देता है।
 
 ```csharp
 [C#]
@@ -63,9 +64,9 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

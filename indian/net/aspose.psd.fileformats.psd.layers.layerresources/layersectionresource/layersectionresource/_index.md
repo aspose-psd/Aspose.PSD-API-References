@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.LayerSectionResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSectionResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLayerSectionResource वर्ग.
+title: "LayerSectionResource.LayerSectionResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSectionResource कंस्ट्रक्टर। LayerSectionResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`LayerSectionResource`](../) वर्ग.
+[`LayerSectionResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LayerSectionResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

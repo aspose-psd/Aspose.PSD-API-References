@@ -1,28 +1,29 @@
 ---
-title: RasterCachedImage.Resize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage तरक. छव क आकर बदलत है
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage मेथड। छवि का आकार बदलता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
-छवि का आकार बदलता है।
+इमेज का आकार बदलता है।
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| newHeight | Int32 | नई ऊंचाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | रिसाइज़ प्रकार। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दर्शाता है कि एक नए SinC आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई SinC रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड दर्शाता है कि एक नए बेल आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई Bell रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड दर्शाता है कि एक नए मिशेल आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई Mitchell रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए CatmullRom आकार प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CatmullRom रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए क्यूबिकबीस्पलाइन आकार बदलने के प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CubicBSpline रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि एक नए क्यूबिक कनवॉल्यूशन आकार बदलने के प्रकार के साथ एक छवि का आकार कैसे बदलना है।
+निम्नलिखित कोड दर्शाता है कि नई CubicConvolution रिसाइज़ प्रकार के साथ छवि का आकार कैसे बदलें।
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -118,34 +119,34 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int, ImageResizeSettings) {#resize_1}
 
-छवि का आकार बदलता है।
+इमेज का आकार बदलता है।
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| newHeight | Int32 | नई ऊंचाई। |
-| settings | ImageResizeSettings | आकार बदलें सेटिंग्स। |
+| newHeight | Int32 | नई ऊँचाई। |
+| सेटिंग्स | ImageResizeSettings | रिसाइज़ सेटिंग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

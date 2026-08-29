@@ -1,11 +1,12 @@
 ---
-title: AiSection.GetData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiSection तरक. स्ट्रंग डेट प्रप्त करत है
+title: "AiSection.GetData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiSection मेथड। स्ट्रिंग डेटा को प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.ai/aisection/getdata/
 ---
+{{< psd/tize >}}
 ## AiSection.GetData method
 
 स्ट्रिंग डेटा प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.ai/aisection/getdata/
 public string GetData()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-खंड का स्ट्रिंग डेटा
+सेक्शन का स्ट्रिंग डेटा
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aisection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

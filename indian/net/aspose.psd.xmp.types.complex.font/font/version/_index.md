@@ -1,31 +1,32 @@
 ---
-title: Font.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. फ़न्ट संस्करण प्रप्त य सेट करत है
+title: "Font.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font property. फ़ॉन्ट संस्करण प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
-फ़ॉन्ट संस्करण प्राप्त या सेट करता है।
+फ़ॉन्ट संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Version { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फ़ॉन्ट संस्करण।
 
-### उदाहरण
+## उदाहरण
 
-/version for Type1 फोंट nameId 5 for Apple True Type और OpenType /CIDFontVersion for CID fonts बिटमैप फोंट के लिए खाली स्ट्रिंग
+/version Type1 फ़ॉन्ट्स के लिए nameId 5 Apple True Type और OpenType के लिए /CIDFontVersion CID फ़ॉन्ट्स के लिए बिटमैप फ़ॉन्ट्स के लिए खाली स्ट्रिंग
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

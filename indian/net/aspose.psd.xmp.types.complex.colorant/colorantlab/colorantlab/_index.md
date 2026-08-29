@@ -1,45 +1,46 @@
 ---
-title: ColorantLab.ColorantLab
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantLab नर्मत. क एक नय उदहरण प्ररंभ करत हैColorantLab वर्ग.
+title: "ColorantLab.ColorantLab"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantLab कंस्ट्रक्टर। ColorantLab क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantlab/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantLab`](../) वर्ग.
+[`ColorantLab`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorantLab()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantLab(int, int, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantLab`](../) वर्ग.
+[`ColorantLab`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorantLab(int a, int b, float l)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| a | Int32 | एक घटक। |
-| b | Int32 | बी घटक। |
-| l | Single | एल घटक। |
+| a | Int32 | A घटक। |
+| b | Int32 | B घटक। |
+| l | Single | L घटक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

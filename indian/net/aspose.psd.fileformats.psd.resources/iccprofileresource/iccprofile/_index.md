@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IccProfileResource संपत्त. ICC प्रफ़इल प्रप्त य सेट करत है.
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IccProfileResource property. ICC प्रोफ़ाइल को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
-ICC प्रोफ़ाइल प्राप्त या सेट करता है.
+ICC प्रोफ़ाइल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आईसीसी प्रोफाइल.
+ICC प्रोफ़ाइल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [IccProfileResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

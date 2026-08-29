@@ -1,27 +1,28 @@
 ---
-title: PhotoFilterLayer.PreserveLuminosity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoFilterLayer संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क चमक क संरक्षत करें
+title: "PhotoFilterLayer.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoFilterLayer प्रॉपर्टी। वह मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि प्रकाशमानता को संरक्षित किया जाए"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.PreserveLuminosity property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि [चमक को संरक्षित करें]।
+एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [preserve luminosity]।
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [चमक को संरक्षित करें]; अन्यथा,`असत्य` .
+`true` यदि [preserve luminosity]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoFilterLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

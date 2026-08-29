@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion2.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion2 संपत्त. संस्करण प्रप्त करत है
+title: "PhflResourceVersion2.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion2 property. संस्करण प्राप्त करता है"
 type: docs
-weight: 90
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Version property
 
-संस्करण प्राप्त करता है।
+संस्करण को प्राप्त करता है।
 
 ```csharp
 public override short Version { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | NotImplementedException |  |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion2](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

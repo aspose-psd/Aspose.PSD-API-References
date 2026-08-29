@@ -1,23 +1,24 @@
 ---
-title: JFIFData.XDensity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JFIFData संपत्त. x घनत्व प्रप्त य सेट करत है
+title: "JFIFData.XDensity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JFIFData प्रॉपर्टी। x डेंसिटी को प्राप्त या सेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.jpeg/jfifdata/xdensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.XDensity property
 
-x घनत्व प्राप्त या सेट करता है।
+x घनत्व को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short XDensity { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JFIFData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

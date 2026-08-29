@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.PaletteHelper
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में छव रंगं और वज़ के वपरत रंग पैलेट के समयजन के लए कक्षएं हैं
+title: "Aspose.PSD.PaletteHelper"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस इमेज रंगों के अनुसार रंग पैलेट को समायोजित करने और इसके विपरीत क्लासेस शामिल करता है।"
 type: docs
-weight: 470
+weight: 510
 url: /hi/net/aspose.psd.palettehelper/
 ---
-नामस्थान में छवि रंगों और वीज़ा के विपरीत रंग पैलेट के समायोजन के लिए कक्षाएं हैं।
+{{< psd/tize >}}
+यह namespace इमेज रंगों के लिए कलर पैलेट को समायोजित करने और इसके विपरीत के लिए क्लासेस शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [AdjustPalette](./adjustpalette/) | कलर पैलेट एडजस्टमेंट क्लास |
+| [AdjustPalette](./adjustpalette/) | रंग पैलेट समायोजन क्लास |
 
 

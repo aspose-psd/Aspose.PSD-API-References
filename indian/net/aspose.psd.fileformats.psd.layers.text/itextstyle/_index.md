@@ -1,67 +1,68 @@
 ---
-title: Interface ITextStyle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle इंटरफेस. टेक्स्ट स्टइल के सथ कम करने के लए इंटरफ़ेस
+title: "इंटरफ़ेस ITextStyle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle इंटरफ़ेस। टेक्स्ट स्टाइल के साथ काम करने के लिए इंटरफ़ेस"
 type: docs
-weight: 3540
+weight: 3960
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-टेक्स्ट स्टाइल के साथ काम करने के लिए इंटरफ़ेस
+टेक्स्ट स्टाइल के साथ काम करने का इंटरफ़ेस
 
 ```csharp
 public interface ITextStyle
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | ऑटो कर्निंग प्राप्त करता है या सेट करता है। |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [स्वचालित अग्रणी]. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | ऑटो कर्निंग को प्राप्त करता है या सेट करता है। |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [automatic leading] है या नहीं। |
 | [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | बेसलाइन शिफ्ट। |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | अक्षरों को एक साथ जोड़ने के लिए प्रयुक्त प्रासंगिक विकल्प। |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | विशेष रूप से स्क्रिप्ट फोंट में अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले विवेकाधीन संयुक्ताक्षर। |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | हो जाता है या गलत बोल्ड सक्षम है सेट करता है। |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | हो जाता है या गलत बोल्ड सक्षम है सेट करता है। |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | फिल का रंग प्राप्त या सेट करता है। |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | फ़ॉन्ट आधार रेखा। |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | फ़ॉन्ट कैप। |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | फॉन्ट इंडेक्स प्राप्त करता है। |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | फ़ॉन्ट नाम प्राप्त या सेट करता है। |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | फ़ॉन्ट का आकार प्राप्त या सेट करता है। |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | भिन्न प्रतीकों को विशेष ग्लिफ़ से बदला जा सकता है। |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | एक मान प्राप्त या सेट करता है जो दर्शाता है कि [हिंदी संख्या]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | क्षैतिज पैमाना। |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | मानक लंबवत रोमन संरेखण प्राप्त या सेट करता है। यह बेसलाइन डायरेक्शन संसाधन मान पर आधारित केवल तभी लागू होता है जब टेक्स्ट ओरिएंटेशन होता हैVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | कर्निंग प्राप्त या सेट करता है। |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | भाषा अनुक्रमणिका प्राप्त करता है. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | अग्रणी हो जाता है या सेट करता है। |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | नो ब्रेक वैल्यू सेट करता है। |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | अक्षरों को एक साथ जोड़ने के लिए उपयोग किए जाने वाले मानक प्रासंगिक संयुक्ताक्षर। |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | [स्ट्राइकथ्रू]. इंगित करने वाला मान प्राप्त करता है या सेट करता है |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | स्ट्रोक का रंग प्राप्त या सेट करता है। |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | ट्रैकिंग प्राप्त या सेट करता है। |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | [अंडरलाइन]. इंगित करने वाला मान प्राप्त करता है या सेट करता है |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | वर्टिकल स्केल. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले कॉन्टेक्स्चुअल ऑल्टरनेट्स। |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले डिस्क्रेशनरी लिगेचर, विशेष रूप से स्क्रिप्ट फ़ॉन्ट्स में। |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | फ़ॉक्स बोल्ड को सक्षम होने के लिए प्राप्त करता है या सेट करता है। |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | फ़ॉक्स बोल्ड को सक्षम होने के लिए प्राप्त करता है या सेट करता है। |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | फ़िल का रंग प्राप्त करता है या सेट करता है। |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | फ़ॉन्ट बेसलाइन। |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | फ़ॉन्ट कैप्स। |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | फ़ॉन्ट इंडेक्स प्राप्त करता है। |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | फ़ॉन्ट नाम को प्राप्त करता है या सेट करता है। |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | फ़ॉन्ट का आकार प्राप्त करता है या सेट करता है। |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | भिन्न संकेतों को विशेष ग्लिफ़ से बदला जा सकता है। |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [hindi numbers] है या नहीं। |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | हॉरिज़ॉन्टल स्केल। |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | मानक वर्टिकल रोमन अलाइनमेंट को प्राप्त करता है या सेट करता है। यह BaselineDirection रिसोर्स वैल्यू पर आधारित है और केवल तब लागू होता है जब टेक्स्ट ओरिएंटेशन वर्टिकल हो। |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | कर्निंग को प्राप्त करता है या सेट करता है। |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | भाषा इंडेक्स प्राप्त करता है। |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | लीडिंग को प्राप्त करता है या सेट करता है। |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | नो ब्रेक मान को प्राप्त करता है या सेट करता है। |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले मानक कॉन्टेक्स्चुअल लिगेचर। |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [strikethrough] है या नहीं। |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | स्ट्रोक का रंग प्राप्त करता है या सेट करता है। |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | ट्रैकिंग को प्राप्त करता है या सेट करता है। |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | प्राप्त करता है या सेट करता है वह मान जो यह दर्शाता है कि [underline]। |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | ऊर्ध्वाधर स्केल। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | निर्दिष्ट शैली लागू करता है। |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | निर्धारित करता है कि निर्दिष्ट शैली बराबर है या नहीं। |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | निर्धारित करता है कि निर्दिष्ट शैली समान है या नहीं। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक पाठ परत में विभिन्न शैलियों को कैसे प्रस्तुत कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक टेक्स्ट लेयर में विभिन्न शैलियों को कैसे रेंडर कर सकते हैं।
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // पाठ शैली संपादित करें "ई = एमसी"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // पाठ शैली संपादित करें "2\r"
-    newPortions[2].Style.FauxBold = true; // पाठ शैली संपादित करें "बोल्ड"
-    newPortions[3].Style.FauxItalic = true; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[3].Style.BaselineShift = -25; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // पाठ शैली संपादित करें "लोअरकेसटेक्स्ट"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड प्रदर्शित करता है कि पाठ परत में किसी पाठ भाग के लिए फ़ॉन्ट आकार कैसे प्राप्त करें।
+निम्न कोड दर्शाता है कि टेक्स्ट लेयर में किसी भी टेक्स्ट भाग के लिए फ़ॉन्ट आकार कैसे प्राप्त किया जाए।
 
 ```csharp
 [C#]
 
-// निकाला गया गलत फ़ॉन्ट आकार 
+// गलत फ़ॉन्ट आकार निकाला गया
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -114,36 +115,36 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // पुराना एपीआई (पहले पैराग्राफ फ़ॉन्ट का उपयोग करके)
+    // पुराना API (पहले पैराग्राफ़ फ़ॉन्ट का उपयोग करते हुए)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // आधार फ़ॉन्ट आकार की जाँच करना
+    // बेस फ़ॉन्ट आकार की जाँच कर रहा है
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // वास्तविक फ़ॉन्ट आकार की जाँच करना
+    // वास्तविक फ़ॉन्ट आकार की जाँच कर रहा है
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // नया एपीआई (एक पाठ परत में फ़ॉन्ट आकार की कितनी भी मात्रा हो सकती है)
+    // नया API (एक टेक्स्ट लेयर में किसी भी मात्रा में फ़ॉन्ट आकार हो सकते हैं)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // आधार भाग फ़ॉन्ट आकार की जाँच करना
+    // बेस भाग के फ़ॉन्ट आकार की जाँच
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // वास्तविक भाग फ़ॉन्ट आकार की जाँच करना
+    // वास्तविक भाग के फ़ॉन्ट आकार की जाँच
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-निम्नलिखित कोड उदाहरण संपादन पाठ भागों और उनकी पाठ शैली को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण टेक्स्ट भागों और उनके टेक्स्ट स्टाइल को संपादित करने को दर्शाता है।
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // हर हिस्से का टेक्स्ट चेक करना
+            // प्रत्येक भाग के टेक्स्ट की जाँच कर रहा है
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -183,8 +184,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पैराग्राफ डेटा की जाँच करना
-            // पैराग्राफ का अलग औचित्य है
+            // पैराग्राफ डेटा की जाँच कर रहा है
+            // पैराग्राफों का संरेखण अलग है
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -194,7 +195,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पहले और दूसरे पैराग्राफ के अन्य सभी गुण समान हैं
+            // पहले और दूसरे पैराग्राफ की सभी अन्य गुण समान हैं
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -233,8 +234,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // शैली डेटा की जाँच करना
-            // शैलियों में अलग-अलग रंग और फ़ॉन्ट आकार होते हैं
+            // स्टाइल डेटा की जाँच कर रहा है
+            // स्टाइलों के रंग और फ़ॉन्ट आकार अलग हैं
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -266,33 +267,33 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // पाठ संपादन का उदाहरण
+            // टेक्स्ट संपादन का उदाहरण
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // पाठ के भाग निकालने का उदाहरण
+            // टेक्स्ट भागों को हटाने का उदाहरण
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // नया पाठ भाग जोड़ने का उदाहरण
+            // नया टेक्स्ट भाग जोड़ने का उदाहरण
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // भागों के लिए अनुच्छेद और शैली संपादन का उदाहरण
-            // सही औचित्य सेट करें
+            // भागों के लिए पैराग्राफ और स्टाइल संपादन का उदाहरण
+            // दाएँ संरेखण सेट करें
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // प्रत्येक शैली के लिए अलग-अलग रंग। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // प्रत्येक स्टाइल के लिए अलग-अलग रंग। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // अलग फ़ॉन्ट। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // अलग फ़ॉन्ट। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

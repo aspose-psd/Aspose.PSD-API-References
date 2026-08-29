@@ -1,69 +1,70 @@
 ---
-title: Image.Load
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. नर्दष्ट फ़इल से एक नई छव लड करत है
+title: "Image.Load"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। निर्दिष्ट फ़ाइल से नई इमेज लोड करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
-निर्दिष्ट फ़ाइल से एक नई छवि लोड करता है।
+निर्दिष्ट फ़ाइल से नई इमेज लोड करता है।
 
 ```csharp
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | छवि को लोड करने के लिए फ़ाइल पथ। |
+| filePath | String | इमेज लोड करने के लिए फ़ाइल पाथ। |
 | loadOptions | LoadOptions | लोड विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई छवि।
+लोड की गई इमेज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(string) {#load_2}
 
-निर्दिष्ट फ़ाइल से एक नई छवि लोड करता है।
+निर्दिष्ट फ़ाइल से नई इमेज लोड करता है।
 
 ```csharp
 public static Image Load(string filePath)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| filePath | String | छवि लोड करने के लिए फ़ाइल पथ. |
+| filePath | String | इमेज लोड करने के लिए फ़ाइल पाथ। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई छवि।
+लोड की गई इमेज।
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण निर्दिष्ट फ़ाइल पथ का उपयोग करके Aspose.PSD.Image के उदाहरण में मौजूदा छवि फ़ाइल को लोड करने का प्रदर्शन करता है
+यह उदाहरण निर्दिष्ट फ़ाइल पाथ का उपयोग करके Aspose.PSD.Image की एक इंस्टेंस में मौजूदा इमेज फ़ाइल को लोड करने को दर्शाता है।
 
 ```csharp
 [C#]
 
-// इमेज इंस्टेंस बनाएं और इसे डिस्क लोकेशन से मौजूदा इमेज फाइल के साथ इनिशियलाइज़ करें
+//इमेज इंस्टेंस बनाएं और डिस्क लोकेशन से मौजूदा इमेज फ़ाइल के साथ इसे इनिशियलाइज़ करें।
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // कुछ इमेज प्रोसेसिंग करें
+    //कुछ छवि प्रसंस्करण करें।
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि दाएँ-से-बाएँ भाषाओं के लिए ITextPortion के माध्यम से पाठ संरेखण ठीक से काम करता है।
+निम्न उदाहरण दर्शाता है कि दाएँ‑से‑बाएँ भाषाओं के लिए ITextPortion के माध्यम से टेक्स्ट अलाइनमेंट सही ढंग से काम करता है।
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 16 बिट प्रति चैनल आरजीबी में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 16 बिट प्रति चैनल RGB में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -116,7 +117,7 @@ using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि ग्रेस्केल 16 बिट PSD फ़ाइलों को 8 बिट प्रति चैनल ग्रेस्केल में पढ़ना और सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
+निम्न उदाहरण दर्शाता है कि Grayscale 16 बिट PSD फ़ाइलों को पढ़ना और 8 बिट प्रति चैनल Grayscale में सहेजना सही ढंग से और बिना किसी अपवाद के काम करता है।
 
 ```csharp
 [C#]
@@ -255,78 +256,78 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream, LoadOptions) {#load_1}
 
-निर्दिष्ट स्ट्रीम से एक नई छवि लोड करता है।
+निर्दिष्ट स्ट्रीम से नई इमेज लोड करता है।
 
 ```csharp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | छवि को लोड करने के लिए स्ट्रीम। |
+| stream | Stream | इमेज लोड करने के लिए स्ट्रीम। |
 | loadOptions | LoadOptions | लोड विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई छवि।
+लोड की गई इमेज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream) {#load}
 
-निर्दिष्ट स्ट्रीम से एक नई छवि लोड करता है।
+निर्दिष्ट स्ट्रीम से नई इमेज लोड करता है।
 
 ```csharp
 public static Image Load(Stream stream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | छवि लोड करने के लिए स्ट्रीम. |
+| stream | Stream | इमेज लोड करने के लिए स्ट्रीम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई छवि।
+लोड की गई इमेज।
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण किसी मौजूदा छवि फ़ाइल को लोड करने के लिए System.IO.Stream ऑब्जेक्ट के उपयोग को प्रदर्शित करता है
+यह उदाहरण मौजूदा इमेज फ़ाइल को लोड करने के लिए System.IO.Stream ऑब्जेक्ट्स के उपयोग को दर्शाता है।
 
 ```csharp
 [C#]
 
-// FileStream का एक उदाहरण बनाएं
+//FileStream की एक इंस्टेंस बनाएं
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    // छवि वर्ग का एक उदाहरण बनाएं और लोड विधि को कॉल करके फ़ाइलस्ट्रीम ऑब्जेक्ट के माध्यम से एक मौजूदा फ़ाइल लोड करें
+    //Image क्लास की एक इंस्टेंस बनाएं और Load मेथड को कॉल करके FileStream ऑब्जेक्ट के माध्यम से मौजूदा फ़ाइल लोड करें
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        // कुछ इमेज प्रोसेसिंग करें।
+        //कुछ इमेज प्रोसेसिंग करें।
     }
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FillLayer तरक. अद्यतन वस्तवक के अनुसर परत पक्सेल डेट भरेंIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FillLayer मेथड। वर्तमान IFillSettings के आधार पर फ़िल लेयर के पिक्सेल डेटा को अपडेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-अद्यतन वास्तविक के अनुसार परत पिक्सेल डेटा भरें[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+वर्तमान [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) के आधार पर फ़िल लेयर के पिक्सेल डेटा को अपडेट करता है।
 
 ```csharp
 public void Update()
@@ -16,18 +17,18 @@ public void Update()
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | अज्ञात प्रकार का फिलटाइप |
+| ArgumentOutOfRangeException | जब कोई अज्ञात FillType मिलता है तो थ्रो किया जाता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भरण परतों के समर्थन को प्रदर्शित करता है: रंग भरण।
+निम्नलिखित कोड Fill लेयर्स के समर्थन को दर्शाता है: Color fill।
 
 ```csharp
 [C#]
 
-// भरण परतों का समर्थन जोड़ें: रंग भरण
+// Fill लेयर्स का समर्थन जोड़ें: Color fill
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-निम्न कोड विभिन्न प्रकार के ढाल के साथ छवियों को सहेजता है और दिखाता है कि कैसे Aspose.PSD ढाल को खींचता है।
+निम्नलिखित कोड विभिन्न प्रकार के ग्रेडिएंट के साथ छवियों को सहेजता है और दिखाता है कि Aspose.PSD ग्रेडिएंट को कैसे ड्रॉ करता है।
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड पैटर्न फिल लेयर के साथ छवियों को सहेजता है और दर्शाता है कि कैसे Aspose.PSD पैटर्न को प्रस्तुत करता है।
+निम्नलिखित कोड पैटर्न फ़िल लेयर के साथ छवियों को सहेजता है और दिखाता है कि Aspose.PSD पैटर्न को कैसे रेंडर करता है।
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FillLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

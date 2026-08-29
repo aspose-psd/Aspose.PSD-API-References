@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClblResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क क्लप कए गए तत्वं क मश्रत करें.
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClblResource प्रॉपर्टी। एक मान प्राप्त या सेट करता है जो दर्शाता है कि ब्लेंड क्लिप्ड एलिमेंट्स हैं या नहीं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि [क्लिप किए गए तत्वों को मिश्रित करें].
+[blend clipped elements] को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [क्लिप किए गए तत्वों को मिलाएं]; अन्यथा,`असत्य` .
+`true` यदि [blend clipped elements]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClblResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

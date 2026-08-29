@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FilterEffectMaskData नर्मत. क एक नय उदहरण प्ररंभ करत हैFilterEffectMaskData वर्ग.
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FilterEffectMaskData कंस्ट्रक्टर। FilterEffectMaskData क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`FilterEffectMaskData`](../) वर्ग.
+[`FilterEffectMaskData`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -16,20 +17,20 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
     ChannelInformation sheetMask)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| guid | String | संसाधन गाइड। |
-| rectangle | Rectangle | चैनल आयताकार। |
+| guid | String | संसाधन guid। |
+| आयत | Rectangle | चैनलों का आयत। |
 | pixelsDepth | Int32 | पिक्सेल गहराई। |
-| maxChannels | Int32 | अधिकतम चैनल मान। |
-| channels | ChannelInformation[] | चैनल। |
-| userMask | ChannelInformation | उपयोगकर्ता का मुखौटा। |
+| maxChannels | Int32 | अधिकतम चैनलों का मान। |
+| channels | ChannelInformation[] | चैनल्स। |
+| userMask | ChannelInformation | उपयोगकर्ता मास्क। |
 | maskRectangle | Rectangle | शीट मास्क आयत। |
-| sheetMask | ChannelInformation | चादर का मुखौटा। |
+| sheetMask | ChannelInformation | शीट मास्क। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि FXidResource संसाधन के गुणों को कैसे प्राप्त और सेट किया जाए।
+यह उदाहरण दिखाता है कि FXidResource संसाधन की गुणों को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// सेव करने के बाद चेक करें
+// सहेजने के बाद जाँच करें
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -74,12 +75,12 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

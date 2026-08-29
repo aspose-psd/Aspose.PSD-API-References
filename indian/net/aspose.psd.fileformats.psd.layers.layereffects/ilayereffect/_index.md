@@ -1,31 +1,38 @@
 ---
-title: Interface ILayerEffect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect इंटरफेस. परत प्रभव के लए इंटरफ़ेस
+title: "इंटरफ़ेस ILayerEffect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ILayerEffect इंटरफ़ेस। लेयर इफ़ेक्ट्स के लिए इंटरफ़ेस"
 type: docs
-weight: 2140
+weight: 2330
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/
 ---
+{{< psd/tize >}}
 ## ILayerEffect interface
 
-परत प्रभाव के लिए इंटरफ़ेस
+लेयर इफ़ेक्ट्स के लिए इंटरफ़ेस
 
 ```csharp
 public interface ILayerEffect
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | ब्लेंड मोड प्राप्त या सेट करता है। |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | एक प्रकार का प्रभाव प्राप्त करता है |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | अस्पष्टता प्राप्त या सेट करता है जहां 255 = 100% |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/) { get; set; } | ब्लेंड मोड को प्राप्त करता है या सेट करता है। |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/effecttype/) { get; } | इफ़ेक्ट का प्रकार प्राप्त करता है। |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/isvisible/) { get; set; } | एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/) { get; set; } | अपेक्षिता को प्राप्त करता है या सेट करता है जहाँ 255 = 100%। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/geteffectbounds/)(Rectangle, int) | इनपुट लेयर पिक्सेल सीमाओं के आधार पर इफ़ेक्ट पिक्सेल की सीमाओं की गणना करता है और प्राप्त करता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

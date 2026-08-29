@@ -1,14 +1,15 @@
 ---
-title: Enum ExifColorSpace
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifColorSpace एनुम. एक्सफ कलर स्पेस एनम.
+title: "Enum ExifColorSpace"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace enum. exif रंग स्थान enum"
 type: docs
-weight: 800
+weight: 810
 url: /hi/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-एक्सिफ कलर स्पेस एनम.
+exif रंग स्थान एनेम.
 
 ```csharp
 public enum ExifColorSpace
@@ -16,15 +17,15 @@ public enum ExifColorSpace
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| SRgb | `1` | SRGB कलर स्पेस. |
-| AdobeRgb | `2` | एडोब आरजीबी कलर स्पेस। |
-| Uncalibrated | `65535` | अनकैलिब्रेटेड कलर स्पेस। |
+| SRgb | `1` | SRGB रंग स्थान। |
+| AdobeRgb | `2` | Adobe rgb रंग स्थान। |
+| Uncalibrated | `65535` | अकैलिब्रेटेड रंग स्थान। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

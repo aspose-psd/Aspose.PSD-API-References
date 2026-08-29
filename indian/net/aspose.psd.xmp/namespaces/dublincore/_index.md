@@ -1,23 +1,24 @@
 ---
-title: Namespaces.DublinCore
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. डबलक कर नेमस्पेस.
+title: "Namespaces.DublinCore"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। Dublic Core नेमस्पेस"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
-डबलिक कोर नेमस्पेस.
+ड्यूप्लिक कोर नेमस्पेस।
 
 ```csharp
 public const string DublinCore;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

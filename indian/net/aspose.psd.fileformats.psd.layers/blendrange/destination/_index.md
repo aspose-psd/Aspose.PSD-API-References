@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendRange संपत्त. डेस्टनेशन ब्लेंड रेंज प्रप्त य सेट करत है
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendRange प्रॉपर्टी। गंतव्य ब्लेंड रेंज को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-डेस्टिनेशन ब्लेंड रेंज प्राप्त या सेट करता है।
+गंतव्य ब्लेंड रेंज प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेस्टिनेशन ब्लेंड रेंज.
+गंतव्य ब्लेंड रेंज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlendRange](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

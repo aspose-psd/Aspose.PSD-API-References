@@ -1,14 +1,15 @@
 ---
-title: Enum LayerSectionType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType एनुम. परत अनुभग प्रकर
+title: "एनम LayerSectionType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType एनम। लेयर सेक्शन प्रकार"
 type: docs
-weight: 2610
+weight: 2920
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-परत अनुभाग प्रकार
+लेयर सेक्शन प्रकार
 
 ```csharp
 public enum LayerSectionType
@@ -16,16 +17,16 @@ public enum LayerSectionType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Layer | `0` | परत। |
+| Layer | `0` | लेयर। |
 | OpenFolder | `1` | खुला फ़ोल्डर। |
 | ClosedFolder | `2` | बंद फ़ोल्डर। |
-| SectionDivider | `3` | सेक्शन डिवाइडर. |
+| SectionDivider | `3` | सेक्शन डिवाइडर। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

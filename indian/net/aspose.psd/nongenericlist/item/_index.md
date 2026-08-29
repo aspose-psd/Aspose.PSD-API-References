@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.Item
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList संपत्त. नर्दष्ट इंडेक्स पर तत्व प्रप्त य सेट करत है
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList प्रॉपर्टी। निर्दिष्ट इंडेक्स पर तत्व को प्राप्त या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-निर्दिष्ट इंडेक्स पर तत्व प्राप्त या सेट करता है।
+निर्दिष्ट अनुक्रमांक पर तत्व को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public object this[int index] { get; set; }
@@ -16,12 +17,12 @@ public object this[int index] { get; set; }
 
 | पैरामीटर | विवरण |
 | --- | --- |
-| index | अनुक्रमणिका। |
+| index | इंडेक्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

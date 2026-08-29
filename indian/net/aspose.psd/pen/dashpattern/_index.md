@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. कस्टम डैश और स्पेस क एक सरण प्रप्त य सेट करत है
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। कस्टम डैश और स्पेस की एक एरे को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-कस्टम डैश और स्पेस की एक सरणी प्राप्त या सेट करता है।
+कस्टम डैश और स्पेसेस की एक एरे को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वास्तविक संख्याओं की एक सरणी जो धराशायी रेखाओं में वैकल्पिक डैश और रिक्त स्थान की लंबाई निर्दिष्ट करती है।
+वास्तविक संख्याओं की एक एरे जो डैश्ड रेखाओं में वैकल्पिक डैश और स्पेस की लंबाई निर्दिष्ट करती है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `DashPattern` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `DashPattern` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

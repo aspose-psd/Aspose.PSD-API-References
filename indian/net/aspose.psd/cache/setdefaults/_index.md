@@ -1,23 +1,24 @@
 ---
-title: Cache.SetDefaults
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Cache तरक. सेट करत हैCache डफ़ल्ट के लए सेटंग.
+title: "Cache.SetDefaults"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Cache method. कैश सेटिंग्स को डिफ़ॉल्ट पर सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/cache/setdefaults/
 ---
+{{< psd/tize >}}
 ## Cache.SetDefaults method
 
-सेट करता है[`Cache`](../) डिफ़ॉल्ट के लिए सेटिंग.
+डिफ़ॉल्ट पर [`Cache`](../) सेटिंग्स सेट करता है।
 
 ```csharp
 public static void SetDefaults()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Cache](../)
-* नाम स्थान [Aspose.PSD](../../cache/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

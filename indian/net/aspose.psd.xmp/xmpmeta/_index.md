@@ -1,14 +1,15 @@
 ---
-title: Class XmpMeta
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.XmpMeta कक्ष. xmpmeta क प्रतनधत्व करत है वैकल्पक. इस तत्व क उद्देश्य समन्य एक्सएमएल टेक्स्ट के भतर एक्सएमप मेटडेट क पहचन करन है जसमें आरडएफ के अन्य गैरएक्सएमप उपयग शमल ह सकते हैं
+title: "क्लास XmpMeta"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.XmpMeta क्लास। xmpmeta का प्रतिनिधित्व करता है। वैकल्पिक। इस तत्व का उद्देश्य सामान्य XML टेक्स्ट में XMP मेटाडेटा की पहचान करना है जिसमें RDF के अन्य nonXMP उपयोग भी हो सकते हैं।"
 type: docs
-weight: 6260
+weight: 6760
 url: /hi/net/aspose.psd.xmp/xmpmeta/
 ---
+{{< psd/tize >}}
 ## XmpMeta class
 
-xmpmeta का प्रतिनिधित्व करता है। वैकल्पिक. इस तत्व का उद्देश्य सामान्य एक्सएमएल टेक्स्ट के भीतर एक्सएमपी मेटाडेटा की पहचान करना है जिसमें आरडीएफ के अन्य गैर-एक्सएमपी उपयोग शामिल हो सकते हैं।
+xmpmeta का प्रतिनिधित्व करता है। वैकल्पिक। इस एलिमेंट का उद्देश्य सामान्य XML टेक्स्ट में XMP मेटाडाटा की पहचान करना है, जिसमें अन्य गैर-XMP RDF उपयोग भी हो सकते हैं।
 
 ```csharp
 public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
@@ -18,33 +19,33 @@ public sealed class XmpMeta : XmpElementBase, IEquatable<XmpMeta>, IXmlValue
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpMeta](xmpmeta/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`XmpMeta` वर्ग. |
-| [XmpMeta](xmpmeta/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpMeta` वर्ग. |
+| [XmpMeta](xmpmeta/#constructor)() | `XmpMeta` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [XmpMeta](xmpmeta/#constructor_1)(string) | `XmpMeta` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [AdobeXmpToolkit](../../aspose.psd.xmp/xmpmeta/adobexmptoolkit/) { get; set; } | Adobe Xmp टूलकिट संस्करण प्राप्त या सेट करता है. |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [AddAttribute](../../aspose.psd.xmp/xmpmeta/addattribute/)(string, string) | विशेषता जोड़ता है। |
-| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | सभी विशेषताओं को हटाता है। |
-| override [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_2)(object) | निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject , इस उदाहरण के बराबर है। |
-| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(XmpElementBase) | इंगित करता है कि क्या वर्तमान वस्तु उसी प्रकार की दूसरी वस्तु के बराबर है। |
-| [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_1)(XmpMeta) | इंगित करता है कि क्या वर्तमान वस्तु उसी प्रकार की दूसरी वस्तु के बराबर है। |
-| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | विशेषता प्राप्त करता है। |
+| [AdobeXmpToolkit](../../aspose.psd.xmp/xmpmeta/adobexmptoolkit/) { get; set; } | Adobe Xmp टूलकिट संस्करण प्राप्त करता है या सेट करता है। |
+
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [AddAttribute](../../aspose.psd.xmp/xmpmeta/addattribute/)(string, string) | ऐट्रिब्यूट जोड़ता है। |
+| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | सभी ऐट्रिब्यूट हटाता है। |
+| override [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_2)(object) | निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं। |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(XmpElementBase) | यह दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं। |
+| [Equals](../../aspose.psd.xmp/xmpmeta/equals/#equals_1)(XmpMeta) | यह दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं। |
+| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | ऐट्रिब्यूट प्राप्त करता है। |
 | override [GetHashCode](../../aspose.psd.xmp/xmpmeta/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
-| [GetXmlValue](../../aspose.psd.xmp/xmpmeta/getxmlvalue/)() | XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है. |
+| [GetXmlValue](../../aspose.psd.xmp/xmpmeta/getxmlvalue/)() | XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpElementBase](../xmpelementbase/)
 * interface [IXmlValue](../ixmlvalue/)
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

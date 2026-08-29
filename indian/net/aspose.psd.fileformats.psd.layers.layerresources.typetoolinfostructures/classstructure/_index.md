@@ -1,14 +1,15 @@
 ---
-title: Class ClassStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ClassStructure कक्ष. वर्ग संरचन
+title: "क्लास ClassStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ClassStructure क्लास। क्लास संरचना"
 type: docs
-weight: 3130
+weight: 3510
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/
 ---
+{{< psd/tize >}}
 ## ClassStructure class
 
-वर्ग संरचना।
+क्लास संरचना।
 
 ```csharp
 public sealed class ClassStructure : OSTypeStructure
@@ -18,27 +19,27 @@ public sealed class ClassStructure : OSTypeStructure
 
 | नाम | विवरण |
 | --- | --- |
-| [ClassStructure](classstructure/)(ClassID, ClassID, int) | का एक नया उदाहरण प्रारंभ करता है`ClassStructure` वर्ग. |
+| [ClassStructure](classstructure/)(ClassID, ClassID, int) | `ClassStructure` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classid/) { get; set; } | क्लास आईडी प्राप्त या सेट करता है। |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/) { get; set; } | वर्ग का नाम प्राप्त या सेट करता है। |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classid/) { get; set; } | क्लास ID को प्राप्त करता है या सेट करता है। |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/) { get; set; } | क्लास का नाम प्राप्त करता है या सेट करता है। |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/key/) { get; } | संरचना कुंजी प्राप्त करता है। |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/) { get; } | हो जाता है[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) की लंबाई बाइट्स में प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | हेडर की लंबाई प्राप्त करता है। |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
@@ -46,10 +47,10 @@ public sealed class ClassStructure : OSTypeStructure
 | const [StructureKeyGlbc](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeyglbc/) | संरचना कुंजी की पहचान करता है। |
 | const [StructureKeyType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeytype/) | संरचना कुंजी की पहचान करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

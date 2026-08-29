@@ -1,23 +1,24 @@
 ---
-title: LspfResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LspfResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "LspfResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LspfResource प्रॉपर्टी। लेयर रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key/
 ---
+{{< psd/tize >}}
 ## LspfResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

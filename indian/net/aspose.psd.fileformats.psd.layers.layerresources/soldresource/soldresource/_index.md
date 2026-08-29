@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoLdResource नर्मत. क एक नय उदहरण प्ररंभ करत हैSoLdResource class. तैयर उदहरण प्रप्त करने के लए आइटम प्रपर्ट सेट करन य InitializeItems क कल करन आवश्यक है यह कन्स्ट्रक्टर उपयग करने के लए डज़इन कय गय हैSmartResourceCreator और इकई परक्षणं में. उपयग करेंSmartResourceCreator SoLdResource क्लसेस बनने के लए.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoLdResource कन्स्ट्रक्टर। SoLdResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। तैयार इंस्टेंस प्राप्त करने के लिए Items प्रॉपर्टी सेट करना या InitializeItems को कॉल करना आवश्यक है। यह कन्स्ट्रक्टर SmartResourceCreator द्वारा उपयोग और यूनिट टेस्ट में उपयोग के लिए डिज़ाइन किया गया है। SoLdResource क्लास बनाने के लिए SmartResourceCreator का उपयोग करें।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SoLdResource`](../) class. तैयार उदाहरण प्राप्त करने के लिए आइटम प्रॉपर्टी सेट करना या InitializeItems() को कॉल करना आवश्यक है। यह कन्स्ट्रक्टर उपयोग करने के लिए डिज़ाइन किया गया है[`SmartResourceCreator`](../../smartresourcecreator/) और इकाई परीक्षणों में. उपयोग करें[`SmartResourceCreator`](../../smartresourcecreator/) SoLdResource क्लासेस बनाने के लिए.
+[`SoLdResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। तैयार इंस्टेंस प्राप्त करने के लिए Items प्रॉपर्टी सेट करना या InitializeItems() को कॉल करना आवश्यक है। यह कन्स्ट्रक्टर [`SmartResourceCreator`](../../smartresourcecreator/) द्वारा उपयोग और यूनिट टेस्ट में उपयोग के लिए डिज़ाइन किया गया है। SoLdResource क्लास बनाने के लिए [`SmartResourceCreator`](../../smartresourcecreator/) का उपयोग करें।
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| uniqueId | Guid | स्मार्ट ऑब्जेक्ट लेयर डेटा का विशिष्ट पहचानकर्ता[`SoLdResource`](../). |
-| isCustom | Boolean | अगर सेट है`सत्य` [कस्टम है]। |
-| hasCompInfo | Boolean | अगर सेट है`सत्य` [कंप्यूटर जानकारी है]। |
+| uniqueId | Guid | स्मार्ट ऑब्जेक्ट लेयर डेटा [`SoLdResource`](../) का अद्वितीय पहचानकर्ता। |
+| isCustom | बूलियन | `true` पर सेट होने पर [कस्टम है]। |
+| hasCompInfo | बूलियन | `true` पर सेट होने पर [कम्प जानकारी है]। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड SoLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLdResource रिसोर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा गुण कैसे प्राप्त करें या सेट करें।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा प्रॉपर्टीज़ को कैसे प्राप्त या सेट किया जाए।
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+                // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,19 +308,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+                // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -331,26 +334,26 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SoLdResource`](../) class. यह डिफ़ॉल्ट कन्स्ट्रक्टर द्वारा उपयोग करने के लिए डिज़ाइन किया गया हैSoLdResourceLoader . उपयोग करें[`SmartResourceCreator`](../../smartresourcecreator/) SoLdResource क्लासेस बनाने के लिए.
+[`SoLdResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। यह डिफ़ॉल्ट कन्स्ट्रक्टर SoLdResourceLoader द्वारा उपयोग के लिए डिज़ाइन किया गया है। SoLdResource क्लास बनाने के लिए [`SmartResourceCreator`](../../smartresourcecreator/) का उपयोग करें।
 
 ```csharp
 public SoLdResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

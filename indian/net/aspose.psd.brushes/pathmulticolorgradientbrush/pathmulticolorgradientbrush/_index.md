@@ -1,116 +1,117 @@
 ---
-title: PathMulticolorGradientBrush.PathMulticolorGradientBrush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathMulticolorGradientBrush नर्मत. क एक नय उदहरण प्ररंभ करत हैPathMulticolorGradientBrush वर्ग नर्दष्ट अंक के सथ.
+title: "PathMulticolorGradientBrush.PathMulticolorGradientBrush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathMulticolorGradientBrush कंस्ट्रक्टर। निर्दिष्ट बिंदुओं के साथ PathMulticolorGradientBrush क्लास का नया इंस्टेंस प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/pathmulticolorgradientbrush/pathmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## PathMulticolorGradientBrush(PointF[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathMulticolorGradientBrush`](../) वर्ग निर्दिष्ट अंक के साथ.
+निर्दिष्ट बिंदुओं के साथ [`PathMulticolorGradientBrush`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | की सरणी[`PointF`](../../../aspose.psd/pointf/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| points | PointF[] | एक एरे जिसमें [`PointF`](../../../aspose.psd/pointf/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(PointF[], WrapMode) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathMulticolorGradientBrush`](../) वर्ग निर्दिष्ट अंक और रैप मोड के साथ .
+निर्दिष्ट बिंदुओं और रैप मोड के साथ [`PathMulticolorGradientBrush`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PathMulticolorGradientBrush(PointF[] points, WrapMode wrapMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | की सरणी[`PointF`](../../../aspose.psd/pointf/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
-| wrapMode | WrapMode | ए[`WrapMode`](../../../aspose.psd/wrapmode/) यह निर्दिष्ट करता है कि इससे कैसे भरा जाता है[`PathMulticolorGradientBrush`](../) टाइल किए गए हैं। |
+| points | PointF[] | एक एरे जिसमें [`PointF`](../../../aspose.psd/pointf/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
+| wrapMode | WrapMode | एक [`WrapMode`](../../../aspose.psd/wrapmode/) जो निर्धारित करता है कि इस [`PathMulticolorGradientBrush`](../) से बनाए गए फ़िल्स कैसे टाइल किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[]) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathMulticolorGradientBrush`](../) वर्ग निर्दिष्ट अंक के साथ.
+निर्दिष्ट बिंदुओं के साथ [`PathMulticolorGradientBrush`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | Point[] | की सरणी[`Point`](../../../aspose.psd/point/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
+| points | Point[] | एक एरे जिसमें [`Point`](../../../aspose.psd/point/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PathMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(Point[], WrapMode) {#constructor_4}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathMulticolorGradientBrush`](../) वर्ग निर्दिष्ट अंक और रैप मोड के साथ .
+निर्दिष्ट बिंदुओं और रैप मोड के साथ [`PathMulticolorGradientBrush`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PathMulticolorGradientBrush(Point[] points, WrapMode wrapMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | Point[] | की सरणी[`Point`](../../../aspose.psd/point/) संरचनाएं जो पथ के शीर्षों को बनाने वाले बिंदुओं का प्रतिनिधित्व करती हैं। |
-| wrapMode | WrapMode | ए[`WrapMode`](../../../aspose.psd/wrapmode/) यह निर्दिष्ट करता है कि इससे कैसे भरा जाता है[`PathMulticolorGradientBrush`](../) टाइल किए गए हैं। |
+| points | Point[] | एक एरे जिसमें [`Point`](../../../aspose.psd/point/) संरचनाएँ हैं, जो पाथ के शीर्ष बिंदुओं को बनाते हुए बिंदुओं को दर्शाती हैं। |
+| wrapMode | WrapMode | एक [`WrapMode`](../../../aspose.psd/wrapmode/) जो निर्धारित करता है कि इस [`PathMulticolorGradientBrush`](../) से बनाए गए फ़िल्स कैसे टाइल किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [PathMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathMulticolorGradientBrush(GraphicsPath) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathMulticolorGradientBrush`](../) वर्ग निर्दिष्ट पथ के साथ.
+निर्दिष्ट पाथ के साथ [`PathMulticolorGradientBrush`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PathMulticolorGradientBrush(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../../aspose.psd/graphicspath/) जो इससे भरे हुए क्षेत्र को परिभाषित करता है[`PathMulticolorGradientBrush`](../). |
+| path | GraphicsPath | यह [`GraphicsPath`](../../../aspose.psd/graphicspath/) है जो इस [`PathMulticolorGradientBrush`](../) द्वारा भरे गए क्षेत्र को परिभाषित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathMulticolorGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathmulticolorgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

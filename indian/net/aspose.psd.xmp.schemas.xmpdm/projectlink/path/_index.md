@@ -1,27 +1,28 @@
 ---
-title: ProjectLink.Path
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ProjectLink संपत्त. प्रजेक्ट के लए पूर्ण पथ प्रप्त करत है य सेट करत है
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ProjectLink property. प्रोजेक्ट के पूर्ण पथ को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
-प्रोजेक्ट के लिए पूर्ण पथ प्राप्त करता है या सेट करता है।
+प्रोजेक्ट के पूर्ण पथ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रोजेक्ट का पूरा पाथ.
+प्रोजेक्ट का पूर्ण पथ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ProjectLink](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

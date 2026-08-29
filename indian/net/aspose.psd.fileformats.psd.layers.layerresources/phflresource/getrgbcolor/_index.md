@@ -1,28 +1,29 @@
 ---
-title: PhflResource.GetRgbColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResource तरक. आरजब क रंग प्रप्त करत है.
+title: "PhflResource.GetRgbColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResource मेथड। RGB का रंग प्राप्त करता है"
 type: docs
-weight: 60
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.GetRgbColor method
 
-आरजीबी का रंग प्राप्त करता है.
+RGB का रंग प्राप्त करता है।
 
 ```csharp
 public abstract Color GetRgbColor()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आरजीबी रंग
+RGB रंग
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Crop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. नर्दष्ट आयत क क्रप करत है
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। निर्दिष्ट आयत को क्रॉप करता है।"
 type: docs
 weight: 240
 url: /hi/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
 निर्दिष्ट आयत को क्रॉप करता है।
@@ -14,18 +15,18 @@ url: /hi/net/aspose.psd/rasterimage/crop/
 public virtual void Crop(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | आयत। |
+| आयत | Rectangle | आयत। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण दिखाता है कि छवि को कैसे क्रॉप करना है और इसे सहेजना है।
+निम्नलिखित कोड उदाहरण दिखाता है कि कैसे एक छवि को क्रॉप और सहेजा जाए।
 
 ```csharp
 [C#]
 
-// PSD फ़ाइलों के लिए सही क्रॉप विधि लागू करें।
+// PSD फ़ाइलों के लिए सही Crop मेथड लागू करें।
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -37,34 +38,34 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Crop(int, int, int, int) {#crop_1}
 
-बदलाव के साथ छवि क्रॉप करें।
+शिफ्ट के साथ छवि को क्रॉप करें।
 
 ```csharp
 public virtual void Crop(int leftShift, int rightShift, int topShift, int bottomShift)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| leftShift | Int32 | बाईं पारी। |
-| rightShift | Int32 | सही पारी। |
-| topShift | Int32 | शीर्ष पारी। |
-| bottomShift | Int32 | नीचे की पारी। |
+| leftShift | Int32 | बायाँ शिफ्ट। |
+| rightShift | Int32 | दायाँ शिफ्ट। |
+| topShift | Int32 | ऊपर शिफ्ट। |
+| bottomShift | Int32 | नीचे शिफ्ट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

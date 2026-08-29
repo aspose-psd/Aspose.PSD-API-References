@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Alignment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. वर्टकल प्लेन पर टेक्स्ट अलइनमेंट जनकर प्रप्त य सेट करत है
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। वर्टिकल प्लेन पर टेक्स्ट एलाइनमेंट जानकारी को प्राप्त या सेट करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
-वर्टिकल प्लेन पर टेक्स्ट अलाइनमेंट जानकारी प्राप्त या सेट करता है।
+ऊर्ध्वाधर तल पर टेक्स्ट संरेखण जानकारी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public StringAlignment Alignment { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`StringAlignment`](../../stringalignment/) गणना जो पाठ संरेखण जानकारी को निर्दिष्ट करती है।
+एक [`StringAlignment`](../../stringalignment/) एन्यूमरेशन जो टेक्स्ट एलाइनमेंट जानकारी निर्दिष्ट करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

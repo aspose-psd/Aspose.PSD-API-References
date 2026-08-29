@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.SaveWithoutKeyName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructure तरक. संरचन क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "OSTypeStructure.SaveWithoutKeyName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructure मेथड। संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.SaveWithoutKeyName method
 
-संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
+निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है।
 
 ```csharp
 public void SaveWithoutKeyName(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [OSTypeStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

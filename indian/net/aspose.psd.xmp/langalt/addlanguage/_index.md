@@ -1,11 +1,12 @@
 ---
-title: LangAlt.AddLanguage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LangAlt तरक. भष जड़त है
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LangAlt मेथड। भाषा जोड़ता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
 भाषा जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp/langalt/addlanguage/
 public virtual void AddLanguage(string language, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| language | String | भाषा। |
-| value | String | भाषा मूल्य। |
+| भाषा | String | भाषा। |
+| मान | String | भाषा का मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LangAlt](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../langalt/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

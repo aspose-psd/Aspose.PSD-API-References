@@ -1,14 +1,15 @@
 ---
-title: Enum NoiseDistribution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution एनुम. शर फल्टर क वतरण
+title: "एनम NoiseDistribution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution एनम। शोर फ़िल्टर का वितरण"
 type: docs
-weight: 3440
+weight: 3850
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
-शोर फिल्टर का वितरण।
+नॉइज़ फ़िल्टर का वितरण।
 
 ```csharp
 public enum NoiseDistribution
@@ -16,14 +17,14 @@ public enum NoiseDistribution
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Uniform | `0` | समान शोर वितरण। |
-| Gaussian | `1` | गाऊसी शोर वितरण। |
+| Gaussian | `1` | गॉसियन शोर वितरण। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को प्रदर्शित करता है।
+यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -43,16 +44,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // स्मार्ट फिल्टर संपादित करें
+    // स्मार्ट फ़िल्टर संपादित करें
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // अद्यतन फ़िल्टर मान
+    // फ़िल्टर मान अपडेट करें
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -93,9 +94,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

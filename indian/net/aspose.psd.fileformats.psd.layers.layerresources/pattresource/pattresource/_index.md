@@ -1,45 +1,46 @@
 ---
-title: PattResource.PattResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResource नर्मत. क एक नय उदहरण प्ररंभ करत हैPattResource वर्ग.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResource कंस्ट्रक्टर। PattResource क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PattResource`](../) वर्ग.
+[`PattResource`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PattResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PattResource`](../) वर्ग.
+[`PattResource`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | Int32 | संसाधन प्रकार कुंजी। |
-| patterns | PattResourceData[] | पैटर्न डेटा। |
+| कुंजी | Int32 | रिसोर्स प्रकार कुंजी। |
+| पैटर्न्स | PattResourceData[] | पैटर्न्स डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegLoadException.Reason
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegLoadException संपत्त. त्रुट क करण प्रप्त य सेट करत है
+title: "JpegLoadException.Reason"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegLoadException प्रॉपर्टी। त्रुटि के कारण को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.Reason property
 
-त्रुटि का कारण प्राप्त या सेट करता है।
+त्रुटि का कारण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ErrorReason Reason { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 त्रुटि का कारण।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

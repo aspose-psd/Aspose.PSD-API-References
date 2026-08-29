@@ -1,28 +1,29 @@
 ---
-title: TextShape.Segments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape संपत्त. आकर खंड प्रप्त करत है
+title: "TextShape.Segments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape प्रॉपर्टी। आकार के खंडों को प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
-आकार खंड प्राप्त करता है।
+आकार के खंडों को प्राप्त करता है।
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकार खंड।
+आकार के खंड।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

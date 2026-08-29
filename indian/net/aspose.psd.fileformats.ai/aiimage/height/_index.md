@@ -1,27 +1,28 @@
 ---
-title: AiImage.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. छव ऊंचई प्रप्त करत है
+title: "AiImage.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। छवि की ऊँचाई प्राप्त करता है।"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
-छवि ऊंचाई प्राप्त करता है।
+छवि की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public override int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि ऊंचाई.
+चित्र की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

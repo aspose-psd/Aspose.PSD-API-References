@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. वचर के लए अधकतम R मन प्रप्त करत है
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings property. विचार के लिए अधिकतम R मान प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-विचार के लिए अधिकतम R मान प्राप्त करता है।
+अधिकतम R मान पर विचार के लिए प्राप्त करता है।
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-विचार के लिए अधिकतम आर मान।
+विचार के लिए अधिकतम R मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class MotionWienerFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.MotionWienerFilterOptions कक्ष. डकनवल्यूशन फ़ल्टर वकल्प डबलर मशन
+title: "क्लास MotionWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MotionWienerFilterOptions क्लास। डीकन्वॉल्यूशन फ़िल्टर विकल्प गति को धुंधला हटाते हैं"
 type: docs
-weight: 4730
+weight: 5200
 url: /hi/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions class
 
-डीकनवोल्यूशन फ़िल्टर विकल्प डिबलर मोशन
+डिकन्वॉल्यूशन फ़िल्टर विकल्प डिब्लर मोशन
 
 ```csharp
 public class MotionWienerFilterOptions : DeconvolutionFilterOptions
@@ -18,24 +19,24 @@ public class MotionWienerFilterOptions : DeconvolutionFilterOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [MotionWienerFilterOptions](motionwienerfilteroptions/)(int, double, double) | का एक नया उदाहरण प्रारंभ करता है`MotionWienerFilterOptions` वर्ग. |
+| [MotionWienerFilterOptions](motionwienerfilteroptions/)(int, double, double) | `MotionWienerFilterOptions` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Angle](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/) { get; set; } | ग्रेडस में कोण प्राप्त या सेट करता है। |
-| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | चमक प्राप्त या सेट करता है। अनुशंसित श्रेणी 1 - 1.5 डिफ़ॉल्ट मान = 1.15 |
-| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`DeconvolutionFilterOptions`](../deconvolutionfilteroptions/) ग्रेस्केल है. ग्रेस्केल मोड या आरजीबी मोड लौटाएं. |
-| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | एक मान प्राप्त करता है जो इंगित करता है कि यह उदाहरण आंशिक रूप से लोड है या नहीं। |
-| [Length](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/) { get; set; } | लंबाई प्राप्त या सेट करता है। |
-| [Smooth](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/) { get; set; } | सुचारू हो जाता है या सेट हो जाता है। |
-| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | एसएनआर (सिग्नल-टू-शोर अनुपात) अनुशंसित सीमा 0.002 - 0.009, डिफ़ॉल्ट मान = 0.007 प्राप्त या सेट करता है |
+| [Angle](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/) { get; set; } | ग्रेडुस में कोण प्राप्त करता है या सेट करता है। |
+| [Brightness](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/) { get; set; } | चमक प्राप्त करता है या सेट करता है। अनुशंसित सीमा 1 - 1.5, डिफ़ॉल्ट मान = 1.15 |
+| [Grayscale](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह [`DeconvolutionFilterOptions`](../deconvolutionfilteroptions/) ग्रेस्केल है या नहीं। ग्रेस्केल मोड या RGB मोड लौटाता है। |
+| [IsPartialLoaded](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि यह उदाहरण आंशिक रूप से लोड है या नहीं। |
+| [Length](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/) { get; set; } | लंबाई प्राप्त करता है या सेट करता है। |
+| [Smooth](../../aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/) { get; set; } | स्मूथ को प्राप्त करता है या सेट करता है। |
+| [Snr](../../aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/) { get; set; } | SNR(signal-to-noise ratio) के अनुशंसित रेंज 0.002 - 0.009 को प्राप्त करता है या सेट करता है, डिफ़ॉल्ट मान = 0.007 |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeconvolutionFilterOptions](../deconvolutionfilteroptions/)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

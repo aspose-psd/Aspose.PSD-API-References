@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. यह इंगत करने वल मन प्रप्त य सेट करत है क क्य इस लंक डेट स्रत में फ़इल ओपन डस्क्रप्टर है CompId और OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि इस लिंक डेटा स्रोत में फ़ाइल ओपन डिस्क्रिप्टर CompId और OriginalCompId है या नहीं।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-यह इंगित करने वाला मान प्राप्त या सेट करता है कि क्या इस लिंक डेटा स्रोत में फ़ाइल ओपन डिस्क्रिप्टर है: CompId और OriginalCompId.
+इस लिंक डेटा स्रोत में फ़ाइल ओपन डिस्क्रिप्टर: CompId और OriginalCompId है या नहीं यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर इस उदाहरण में फाइल ओपन डिस्क्रिप्टर है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में फ़ाइल ओपन डिस्क्रिप्टर है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

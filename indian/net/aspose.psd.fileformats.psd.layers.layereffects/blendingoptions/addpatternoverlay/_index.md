@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions तरक. पैटर्न ओवरले जड़त है.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions मेथड। पैटर्न ओवरले जोड़ता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-पैटर्न ओवरले जोड़ता है.
+पैटर्न ओवरले जोड़ता है।
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`PatternOverlayEffect`](../../patternoverlayeffect/) वस्तु
+निर्मित [`PatternOverlayEffect`](../../patternoverlayeffect/) ऑब्जेक्ट
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

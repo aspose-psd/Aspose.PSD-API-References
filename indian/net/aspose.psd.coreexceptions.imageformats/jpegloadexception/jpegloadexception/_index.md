@@ -1,93 +1,94 @@
 ---
-title: JpegLoadException.JpegLoadException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegLoadException नर्मत. क एक नय उदहरण प्ररंभ करत हैJpegLoadException वर्ग.
+title: "JpegLoadException.JpegLoadException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegLoadException कंस्ट्रक्टर। JpegLoadException क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegLoadException`](../) वर्ग.
+[`JpegLoadException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegLoadException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLoadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegLoadException`](../) वर्ग.
+[`JpegLoadException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegLoadException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLoadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, ErrorReason) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegLoadException`](../) वर्ग.
+[`JpegLoadException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegLoadException(string message, ErrorReason reason)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| reason | ErrorReason | त्रुटि का कारण। |
+| कारण | ErrorReason | त्रुटि का कारण। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception, ErrorReason) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegLoadException`](../) वर्ग.
+[`JpegLoadException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegLoadException(string message, Exception innerException, ErrorReason reason)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
-| reason | ErrorReason | त्रुटि का कारण। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
+| कारण | ErrorReason | त्रुटि का कारण। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

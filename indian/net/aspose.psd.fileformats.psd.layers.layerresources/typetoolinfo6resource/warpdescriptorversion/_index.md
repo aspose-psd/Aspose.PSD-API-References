@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpDescriptorVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. वर्प डस्क्रप्टर संस्करण प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.WarpDescriptorVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource प्रॉपर्टी। वॉर्प डिस्क्रिप्टर संस्करण को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 190
+weight: 160
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpDescriptorVersion property
 
-वार्प डिस्क्रिप्टर संस्करण प्राप्त या सेट करता है।
+वॉर्प डिस्क्रिप्टर संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int WarpDescriptorVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ताना वर्णनकर्ता संस्करण।
+वॉर्प डिस्क्रिप्टर संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

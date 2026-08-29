@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape संपत्त. वस्तु क सम प्रप्त करत है
+title: "PolygonShape.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape प्रॉपर्टी। वस्तु की सीमाएँ प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.shapes/polygonshape/bounds/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Bounds property
 
-वस्तु की सीमा प्राप्त करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है।
 
 ```csharp
 public override RectangleF Bounds { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की सीमा।
+वस्तु की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

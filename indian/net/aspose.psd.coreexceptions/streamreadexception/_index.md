@@ -1,14 +1,15 @@
 ---
-title: Class StreamReadException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.StreamReadException कक्ष. स्ट्रम रडंग अपवद गलत ऑफसेट और बइट कउंट अनुरध के करण स्ट्रम रडंग वफल हने के करण
+title: "क्लास StreamReadException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.StreamReadException क्लास। स्ट्रीम पढ़ने का अपवाद। जब स्ट्रीम पढ़ना गलत ऑफ़सेट और बाइट्स काउंट अनुरोध के कारण विफल हो जाता है, तब यह उत्पन्न होता है।"
 type: docs
 weight: 680
 url: /hi/net/aspose.psd.coreexceptions/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException class
 
-स्ट्रीम रीडिंग अपवाद। गलत ऑफसेट और बाइट काउंट अनुरोध के कारण स्ट्रीम रीडिंग विफल होने के कारण।
+स्ट्रीम पढ़ने का अपवाद। जब गलत ऑफ़सेट और बाइट्स काउंट अनुरोध के कारण स्ट्रीम पढ़ना विफल हो जाता है, तब उत्पन्न होता है।
 
 ```csharp
 public class StreamReadException : FrameworkException
@@ -18,22 +19,22 @@ public class StreamReadException : FrameworkException
 
 | नाम | विवरण |
 | --- | --- |
-| [StreamReadException](streamreadexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`StreamReadException` वर्ग. |
-| [StreamReadException](streamreadexception/#constructor_2)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`StreamReadException` वर्ग. |
-| [StreamReadException](streamreadexception/#constructor_1)(string, int, int) | का एक नया उदाहरण प्रारंभ करता है`StreamReadException` वर्ग. |
-| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | का एक नया उदाहरण प्रारंभ करता है`StreamReadException` वर्ग. |
+| [StreamReadException](streamreadexception/#constructor)(string) | नया `StreamReadException` क्लास का उदाहरण प्रारंभ करता है। |
+| [StreamReadException](streamreadexception/#constructor_2)(string, Exception) | नया `StreamReadException` क्लास का उदाहरण प्रारंभ करता है। |
+| [StreamReadException](streamreadexception/#constructor_1)(string, int, int) | नया `StreamReadException` क्लास का उदाहरण प्रारंभ करता है। |
+| [StreamReadException](streamreadexception/#constructor_3)(string, Exception, int, int) | नया `StreamReadException` क्लास का उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ActualReadCount](../../aspose.psd.coreexceptions/streamreadexception/actualreadcount/) { get; } | वास्तविक रीड बाइट्स काउंट प्राप्त करता है। |
-| [ExpectedReadCount](../../aspose.psd.coreexceptions/streamreadexception/expectedreadcount/) { get; } | अपेक्षित रीड बाइट्स काउंट प्राप्त करता है। |
+| [ActualReadCount](../../aspose.psd.coreexceptions/streamreadexception/actualreadcount/) { get; } | वास्तविक पढ़े गए बाइट्स की संख्या प्राप्त करता है। |
+| [ExpectedReadCount](../../aspose.psd.coreexceptions/streamreadexception/expectedreadcount/) { get; } | अपेक्षित पढ़े गए बाइट्स की संख्या प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FrameworkException](../frameworkexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

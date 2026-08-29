@@ -1,14 +1,15 @@
 ---
-title: Class CurvesContinuousManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager कक्ष. कर्व्स एडजस्टमेंट लेयर के लए मैनेजर ज कर्व्स में हेरफेर करत है
+title: "क्लास CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesContinuousManager क्लास। कर्व्स एडजस्टमेंट लेयर के लिए प्रबंधक जो कर्व्स को नियंत्रित करता है।"
 type: docs
-weight: 2410
+weight: 2670
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager class
 
-कर्व्स एडजस्टमेंट लेयर के लिए मैनेजर जो कर्व्स में हेरफेर करता है
+Curves Adjustment Layer के लिए मैनेजर जो कर्व्स को मैनिपुलेट करता है।
 
 ```csharp
 public sealed class CurvesContinuousManager : CurvesManager
@@ -18,28 +19,28 @@ public sealed class CurvesContinuousManager : CurvesManager
 
 | नाम | विवरण |
 | --- | --- |
-| [CurvesContinuousManager](curvescontinuousmanager/)(int) | का एक नया उदाहरण प्रारंभ करता है`CurvesContinuousManager` वर्ग. |
+| [CurvesContinuousManager](curvescontinuousmanager/)(int) | `CurvesContinuousManager` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | चैनल की अधिकतम संख्या प्राप्त करता है. |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | वक्र बिंदु जोड़ता है। |
-| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | सूचकांक द्वारा वक्र बिंदु प्राप्त करता है। |
-| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | कर्व पॉइंट काउंट प्राप्त करता है। |
-| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | वक्र के बिंदु को हटाता है। |
-| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | वक्र के बिंदु को अपडेट करता है। |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | अधिकतम चैनल गणना प्राप्त करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| [AddCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/)(int, byte, byte) | कर्व का बिंदु जोड़ता है। |
+| [GetCurvePointByIndex](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/)(int, int) | सूचकांक द्वारा कर्व बिंदु प्राप्त करता है। |
+| [GetCurvePointCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/)(int) | कर्व बिंदु गणना प्राप्त करता है। |
+| [RemoveCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/)(int, int) | कर्व का बिंदु हटाता है। |
+| [UpdateCurvePoint](../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/)(int, int, byte, byte) | कर्व बिंदु को अपडेट करता है। |
+
+### देखें भी
 
 * class [CurvesManager](../curvesmanager/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

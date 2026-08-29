@@ -1,23 +1,24 @@
 ---
-title: Matrix.Reset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix तरक. इस मैट्रक्स क पहचन मैट्रक्स के तत्वं के लए रसेट करत है
+title: "Matrix.Reset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix मेथड। इस मैट्रिक्स को पहचान मैट्रिक्स के तत्वों के साथ रीसेट करता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/matrix/reset/
 ---
+{{< psd/tize >}}
 ## Matrix.Reset method
 
-इस मैट्रिक्स को पहचान मैट्रिक्स के तत्वों के लिए रीसेट करता है।
+इस Matrix को पहचान मैट्रिक्स के तत्वों के साथ रीसेट करता है।
 
 ```csharp
 public void Reset()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

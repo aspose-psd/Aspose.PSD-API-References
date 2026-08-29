@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PrintScaleResource संपत्त. वई स्थन प्रप्त य सेट करत है
+title: "PrintScaleResource.YLocation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PrintScaleResource प्रॉपर्टी। y स्थान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
-वाई स्थान प्राप्त या सेट करता है।
+y स्थान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float YLocation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वाई स्थान।
+y स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PrintScaleResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

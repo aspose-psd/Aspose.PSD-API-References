@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegLsPresetCodingParameters संपत्त. उस मन क प्रप्त य सेट करत है जस पर कउंटर A B और N क आध कय जत है
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegLsPresetCodingParameters प्रॉपर्टी। वह मान प्राप्त या सेट करता है जिस पर काउंटर A, B और N को आधा किया जाता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-उस मान को प्राप्त या सेट करता है जिस पर काउंटर A, B और N को आधा किया जाता है।
+काउंटर A, B, और N को आधा करने पर मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int ResetValue { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLsPresetCodingParameters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

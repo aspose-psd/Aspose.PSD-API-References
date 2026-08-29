@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.GetHeaderLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DescriptorStructure तरक. हेडर क लंबई प्रप्त करत है
+title: "DescriptorStructure.GetHeaderLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DescriptorStructure मेथड। हेडर लंबाई प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.GetHeaderLength method
 
 हेडर की लंबाई प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int GetHeaderLength()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-हेडर की लंबाई
+हेडर लंबाई
 
-### यह सभी देखें
+### देखें भी
 
 * class [DescriptorStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rational.Denominator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rational संपत्त. भजक प्रप्त य सेट करत है
+title: "Rational.Denominator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rational property. denominator को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
-भाजक प्राप्त या सेट करता है।
+हर (denominator) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Denominator { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हर.
+हर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Rational](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

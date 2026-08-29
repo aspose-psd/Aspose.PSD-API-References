@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffExifIfd संपत्त. एक मन प्रप्त करत है ज दर्शत है क इस उदहरण क मन है य नहं
+title: "TiffExifIfd.HasValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffExifIfd प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि इस इंस्टेंस में मान है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-एक मान प्राप्त करता है जो दर्शाता है कि इस उदाहरण का मान है या नहीं।
+यह दर्शाने वाला मान प्राप्त करता है कि इस उदाहरण में मान है या नहीं।
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण का मूल्य है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में मान है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffExifIfd](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

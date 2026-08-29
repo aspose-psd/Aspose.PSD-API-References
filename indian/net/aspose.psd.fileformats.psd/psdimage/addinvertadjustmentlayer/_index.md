@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. एक उलट समयजन परत जड़त है
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। एक इनवर्ट एडजस्टमेंट लेयर जोड़ता है"
 type: docs
-weight: 360
+weight: 380
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-एक उलटी समायोजन परत जोड़ता है।
+इनवर्ट एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाई गई उलटी परत
+बनाया गया इनवर्ट लेयर
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड InvertAdjustmentLayer और InvertAdjustmentLayer को जोड़ने के तरीके के लिए समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड InvertAdjustmentLayer के समर्थन और InvertAdjustmentLayer को जोड़ने के तरीके को दर्शाता है।
 
 ```csharp
 [C#]
@@ -34,11 +35,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

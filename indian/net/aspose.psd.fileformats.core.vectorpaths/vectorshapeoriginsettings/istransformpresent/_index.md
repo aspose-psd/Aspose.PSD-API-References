@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य इस उदहरण में रूपंतरण गुण है
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस ट्रांसफ़ॉर्म प्रॉपर्टी रखता है या नहीं"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में रूपांतरण गुण है।
+क्या इस उदाहरण में transform property है, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण में परिवर्तन संपत्ति है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस ट्रांसफ़ॉर्म प्रॉपर्टी रखता है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड वेक्टर पथों वाली आकृति परतों का आकार बदलने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड वेक्टर पाथ्स वाले शेप लेयर्स को रिसाइज़ करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

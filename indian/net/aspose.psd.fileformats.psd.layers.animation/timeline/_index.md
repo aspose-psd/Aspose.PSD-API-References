@@ -1,46 +1,47 @@
 ---
-title: Class TimeLine
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.TimeLine कक्ष. टइम लइन वकल्प मडल
+title: "क्लास Timeline"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.Timeline क्लास। टाइमलाइन विकल्प मॉडल"
 type: docs
-weight: 1880
+weight: 1980
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/timeline/
 ---
-## TimeLine class
+{{< psd/tize >}}
+## Timeline class
 
-टाइम लाइन विकल्प मॉडल।
+टाइमलाइन विकल्प मॉडल।
 
 ```csharp
-public sealed class TimeLine
+public sealed class Timeline
 ```
 
 ## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [TimeLine](timeline/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [Timeline](timeline/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [ActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/) { get; set; } | सक्रिय फ्रेम इंडेक्स प्राप्त या सेट करता है। |
-| [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | AFSt मान प्राप्त या सेट करता है। |
-| [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | फ्रेम की सूची प्राप्त करता है। |
-| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | FsID मान प्राप्त या सेट करता है। |
-| [LayerIds](../../aspose.psd.fileformats.psd.layers.animation/timeline/layerids/) { get; set; } | लेयर आईडी सरणी प्राप्त या सेट करता है। |
-| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | लूप की संख्या प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [InitializeFrom](../../aspose.psd.fileformats.psd.layers.animation/timeline/initializefrom/)(PsdImage) | का नया उदाहरण बनाता है`TimeLine` , इनपुट से आरंभ किया गया[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
-| [ApplyTo](../../aspose.psd.fileformats.psd.layers.animation/timeline/applyto/)(PsdImage) | इनपुट के लिए वर्तमान समय रेखा मान लागू करें[`PsdImage`](../../aspose.psd.fileformats.psd/psdimage/) . |
+| [ActiveFrameIndex](../../aspose.psd.fileformats.psd.layers.animation/timeline/activeframeindex/) { get; } | सक्रिय फ्रेम इंडेक्स प्राप्त करता है। |
+| [AFSt](../../aspose.psd.fileformats.psd.layers.animation/timeline/afst/) { get; set; } | AFSt मान प्राप्त करता है या सेट करता है। |
+| [Frames](../../aspose.psd.fileformats.psd.layers.animation/timeline/frames/) { get; set; } | फ्रेम्स की सूची प्राप्त करता है। |
+| [FsID](../../aspose.psd.fileformats.psd.layers.animation/timeline/fsid/) { get; set; } | FsID मान प्राप्त करता है या सेट करता है। |
+| [LoopesCount](../../aspose.psd.fileformats.psd.layers.animation/timeline/loopescount/) { get; set; } | लूप्स की गिनती प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-TimeLine वर्ग PsdImage की समयरेखा में हेरफेर करने के लिए एक उच्च-स्तरीय क्षमता देता है, जैसे किसी विशिष्ट फ़्रेम पर फ़्रेम विलंब या संपादन परत स्थिति को बदलना।
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save)(Stream, ImageOptionsBase) | सेव विकल्पों के अनुसार निर्दिष्ट फ़ॉर्मेट में निर्दिष्ट स्ट्रीम में PsdImage और Timeline डेटा को सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.animation/timeline/save/#save_1)(string, ImageOptionsBase) | सेव विकल्पों के अनुसार निर्दिष्ट फ़ॉर्मेट में निर्दिष्ट फ़ाइल स्थान में PsdImage और Timeline डेटा को सहेजता है। |
+| [SwitchActiveFrame](../../aspose.psd.fileformats.psd.layers.animation/timeline/switchactiveframe/)(int) | सक्रिय फ्रेम को लक्षित पर स्विच करता है। |
+
+## उदाहरण
+
+Timeline क्लास PsdImage की टाइमलाइन को नियंत्रित करने की उच्च-स्तरीय क्षमता प्रदान करता है, जैसे फ्रेम डिले बदलना या विशिष्ट फ्रेम पर लेयर स्टेट को संपादित करना।
 
 ```csharp
 [C#]
@@ -50,40 +51,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // फ्रेम 1 की निपटान विधि बदलें
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // फ़्रेम 1 की डिस्पोज़ मेथड बदलें
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // फ्रेम 2 की देरी बदलें
-    timeLine.Frames[1].Delay = 15;
+    // फ़्रेम 2 का डिले बदलें
+    timeline.Frames[1].Delay = 15;
 
-    // फ्रेम 2 पर 'लेयर 1' की अपारदर्शिता बदलें
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 2 पर 'Layer 1' की अपारदर्शिता बदलें
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'लेयर 1' को फ्रेम 3 पर बाएँ-निचले कोने में ले जाएँ
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 3 पर 'Layer 1' को बाएँ-नीचे कोने में ले जाएँ
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // नया फ्रेम जोड़ता है
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // फ्रेम 4 पर 'लेयर 1' का ब्लेंडमोड बदलें
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 4 पर 'Layer 1' का blendMode बदलें
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // PsdImage उदाहरण में परिवर्तन वापस लागू करें
-    timeLine.ApplyTo(psdImage);
+    // परिवर्तनों को PsdImage इंस्टेंस पर लागू करें
     psdImage.Save(outputPsd);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

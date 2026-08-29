@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. प्रत पट्ट पंक्तयं क प्रप्त य सेट करत है
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। प्रति स्ट्रिप पंक्तियों को प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 380
+weight: 390
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-प्रति पट्टी पंक्तियों को प्राप्त या सेट करता है।
+प्रति स्ट्रिप पंक्तियों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंक्तियाँ प्रति स्ट्रिप.
+प्रति स्ट्रिप पंक्तियाँ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

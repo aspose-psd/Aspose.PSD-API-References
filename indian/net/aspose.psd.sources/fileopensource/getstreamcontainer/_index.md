@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.GetStreamContainer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileOpenSource तरक. स्ट्रम कंटेनर प्रप्त करत है
+title: "FileOpenSource.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileOpenSource मेथड। स्ट्रीम कंटेनर प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.sources/fileopensource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.GetStreamContainer method
 
 स्ट्रीम कंटेनर प्राप्त करता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd.sources/fileopensource/getstreamcontainer/
 public override StreamContainer GetStreamContainer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 स्ट्रीम कंटेनर।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-सावधानी से प्रयोग करें। पुनर्प्राप्ति के बाद आपको स्ट्रीम कंटेनर का निपटान करना होगा।
+सावधानी से उपयोग करें। प्राप्ति के बाद आपको स्ट्रीम कंटेनर को डिस्पोज़ करना होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileOpenSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../fileopensource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

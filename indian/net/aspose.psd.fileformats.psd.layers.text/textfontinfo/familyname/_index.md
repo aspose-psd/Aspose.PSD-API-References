@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextFontInfo संपत्त. फ़न्ट परवर नम ह जत है
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextFontInfo प्रॉपर्टी। फ़ॉन्ट परिवार का नाम प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-फ़ॉन्ट परिवार नाम हो जाता है
+फ़ॉन्ट परिवार का नाम प्राप्त करता है
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फ़ॉन्ट परिवार का नाम
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

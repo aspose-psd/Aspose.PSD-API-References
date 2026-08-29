@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSByte
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से हस्तक्षरत बइट डेट पढ़त है
+title: "TiffStreamReader.ReadSByte"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। स्ट्रीम से साइन्ड बाइट डेटा पढ़ता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByte method
 
-स्ट्रीम से हस्ताक्षरित बाइट डेटा पढ़ता है।
+स्ट्रीम से साइन किए गए बाइट डेटा पढ़ता है।
 
 ```csharp
 public sbyte ReadSByte(long position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-हस्ताक्षरित बाइट मान.
+साइन्ड बाइट मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

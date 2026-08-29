@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. एक मन प्रप्त करत है य सेट करत है ज बतत है क XMP मेटडेट क अपडेट करन है य नहं
+title: "RasterImage.UpdateXmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। XMP मेटाडेटा को अपडेट करने का संकेत देने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
-एक मान प्राप्त करता है या सेट करता है जो बताता है कि XMP मेटाडेटा को अपडेट करना है या नहीं।
+XMP मेटाडेटा को अपडेट करना है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर XMP मेटाडेटा अपडेट करें; अन्यथा,`असत्य` .
+`true` यदि XMP मेटाडेटा को अपडेट किया जाए; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

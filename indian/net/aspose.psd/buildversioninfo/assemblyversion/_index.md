@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. असेंबल संस्करण
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। असेंबली संस्करण"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
 असेंबली संस्करण।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd/buildversioninfo/assemblyversion/
 public static readonly string AssemblyVersion;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

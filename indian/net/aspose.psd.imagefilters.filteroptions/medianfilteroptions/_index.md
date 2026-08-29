@@ -1,14 +1,15 @@
 ---
-title: Class MedianFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions कक्ष. मध्य फ़ल्टर
+title: "क्लास MedianFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions क्लास। Median filter"
 type: docs
-weight: 4720
+weight: 5190
 url: /hi/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-माध्य फ़िल्टर
+मीडियन फ़िल्टर
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -18,18 +19,18 @@ public class MedianFilterOptions : FilterOptionsBase
 
 | नाम | विवरण |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | का एक नया उदाहरण प्रारंभ करता है`MedianFilterOptions` वर्ग. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | `MedianFilterOptions` क्लास का नया उदाहरण आरंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | आकार प्राप्त या सेट करता है। |
+| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | आकार को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

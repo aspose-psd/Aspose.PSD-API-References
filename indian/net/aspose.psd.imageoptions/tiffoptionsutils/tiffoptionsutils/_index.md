@@ -1,23 +1,24 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptionsUtils नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptionsUtils कन्स्ट्रक्टर। डिफ़ॉल्ट कन्स्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public TiffOptionsUtils()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptionsUtils](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

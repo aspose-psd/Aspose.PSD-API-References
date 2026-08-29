@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMapDatum
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS रसवर द्वर उपयग कए जने वले GPS जयडेटक सर्वेक्षण डेट क प्रप्त य सेट करत है
+title: "ExifData.GPSMapDatum"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS रिसीवर द्वारा उपयोग किए जाने वाले GPS जियोडेटिक सर्वे डेटा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 560
 url: /hi/net/aspose.psd.exif/exifdata/gpsmapdatum/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMapDatum property
 
-GPS रिसीवर द्वारा उपयोग किए जाने वाले GPS जियोडेटिक सर्वेक्षण डेटा को प्राप्त या सेट करता है।
+GPS रिसीवर द्वारा उपयोग किए जाने वाले GPS भूगोल सर्वे डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSMapDatum { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस रिसीवर द्वारा उपयोग किया जाने वाला जीपीएस जियोडेटिक सर्वेक्षण डेटा।
+GPS रिसीवर द्वारा उपयोग किया गया GPS जियोडेटिक सर्वे डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BooleanStructure.BooleanStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BooleanStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैBooleanStructure वर्ग.
+title: "BooleanStructure.BooleanStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BooleanStructure कंस्ट्रक्टर। BooleanStructure क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`BooleanStructure`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`BooleanStructure`](../) क्लास का।
 
 ```csharp
 public BooleanStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [BooleanStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

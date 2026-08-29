@@ -1,70 +1,71 @@
 ---
-title: ArcShape.ArcShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ArcShape नर्मत. क एक नय उदहरण प्ररंभ करत हैArcShape वर्ग.
+title: "ArcShape.ArcShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ArcShape कंस्ट्रक्टर। ArcShape क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/arcshape/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ArcShape`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`ArcShape`](../) क्लास का।
 
 ```csharp
 public ArcShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ArcShape`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`ArcShape`](../) क्लास का।
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
-| startAngle | Single | प्रारंभ कोण। |
-| sweepAngle | Single | स्वीप कोण। |
+| आयत | RectangleF | आयत। |
+| startAngle | Single | स्टार्ट एंगल। |
+| sweepAngle | Single | स्वीप एंगल। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ArcShape(RectangleF, float, float, bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`ArcShape`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`ArcShape`](../) क्लास का।
 
 ```csharp
 public ArcShape(RectangleF rectangle, float startAngle, float sweepAngle, bool isClosed)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
-| startAngle | Single | प्रारंभ कोण। |
-| sweepAngle | Single | स्वीप कोण। |
-| isClosed | Boolean | अगर सेट है`सत्य` चाप बंद है। बंद चाप वास्तव में एक दीर्घवृत्त में पतित होता है। |
+| आयत | RectangleF | आयत। |
+| startAngle | Single | स्टार्ट एंगल। |
+| sweepAngle | Single | स्वीप एंगल। |
+| isClosed | बूलियन | यदि `true` पर सेट किया गया है तो आर्क बंद है। बंद आर्क वास्तव में एक दीर्घवृत्त में बदल जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

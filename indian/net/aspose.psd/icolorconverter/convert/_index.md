@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IColorConverter तरक. पस कए गए डेट क आउटपुट स्वरूप में कनवर्ट करत है
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IColorConverter मेथड। पास किए गए डेटा को आउटपुट फ़ॉर्मेट में परिवर्तित करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-पास किए गए डेटा को आउटपुट स्वरूप में कनवर्ट करता है।
+प्रेषित डेटा को आउटपुट फ़ॉर्मेट में परिवर्तित करता है।
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sourceFormat | PixelDataFormat | स्रोत प्रारूप। |
-| data | Byte[] | स्रोत डेटा। |
-| offset | Int32 | ऑफ़सेट बाइट्स में जहाँ डेटा कॉपी करना शुरू होना चाहिए। |
-| bitStart | Int32 | बिट स्टार्ट। ध्यान दें कि यह मान बाइट संरेखित मान नहीं है बल्कि यह वास्तविक बिट है जहां प्रतिलिपि शुरू होनी चाहिए। |
-| samplesCount | Int32 | नमूने गिने जाते हैं। |
-| linesCount | Int32 | रेखाएँ गिनती हैं। |
-| destFormat | PixelDataFormat | गंतव्य प्रारूप। |
+| sourceFormat | PixelDataFormat | स्रोत फ़ॉर्मेट। |
+| डेटा | Byte[] | स्रोत डेटा। |
+| offset | Int32 | बाइट्स में ऑफ़सेट जहाँ डेटा कॉपी करना शुरू होना चाहिए। |
+| bitStart | Int32 | बिट स्टार्ट। ध्यान दें कि यह मान बाइट-एलाइन्ड नहीं है, बल्कि वह वास्तविक बिट है जहाँ कॉपी शुरू होनी चाहिए। |
+| samplesCount | Int32 | सैंपल्स की गिनती। |
+| linesCount | Int32 | लाइन की गिनती। |
+| destFormat | PixelDataFormat | गंतव्य फ़ॉर्मेट। |
 | outputData | Byte[] | आउटपुट डेटा। |
-| outputOffset | Int32 | आउटपुट ऑफ़सेट जहां डेटा कॉपी करना शुरू होना चाहिए। |
+| outputOffset | Int32 | आउटपुट ऑफ़सेट जहाँ डेटा कॉपी शुरू होना चाहिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रूपांतरित बाइट गिनती.
+परिवर्तित बाइट्स की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* नाम स्थान [Aspose.PSD](../../icolorconverter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

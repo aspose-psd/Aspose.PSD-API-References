@@ -1,61 +1,62 @@
 ---
-title: CurveShape.GetBounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurveShape तरक. वस्तु क सम प्रप्त करत है
+title: "CurveShape.GetBounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurveShape मेथड। ऑब्जेक्ट की सीमाओं को प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.shapes/curveshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-वस्तु की सीमा प्राप्त करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है।
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | सीमा से पहले लागू होने वाले मैट्रिक्स की गणना की जाएगी। |
+| मैट्रिक्स | Matrix | सीमाओं की गणना से पहले लागू करने के लिए मैट्रिक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुमानित वस्तु की सीमा।
+अनुमानित ऑब्जेक्ट की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-वस्तु की सीमा प्राप्त करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है।
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | सीमा से पहले लागू होने वाले मैट्रिक्स की गणना की जाएगी। |
-| pen | Pen | वस्तु के उपयोग के लिए कलम। यह वस्तु की सीमा के आकार को प्रभावित कर सकता है। |
+| मैट्रिक्स | Matrix | सीमाओं की गणना से पहले लागू करने के लिए मैट्रिक्स। |
+| पेन | पेन | ऑब्जेक्ट के लिए उपयोग करने वाला पेन। यह ऑब्जेक्ट की सीमाओं के आकार को प्रभावित कर सकता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुमानित वस्तु की सीमा।
+अनुमानित ऑब्जेक्ट की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [CurveShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../curveshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. इसके बएँ कनरे क xनर्देशंक प्रप्त य सेट करत हैRectangleFसंरचन.
+title: "RectangleF.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के बाएँ किनारे के x‑कोऑर्डिनेट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/rectanglef/left/
 ---
+{{< psd/tize >}}
 ## RectangleF.Left property
 
-इसके बाएँ किनारे का x-निर्देशांक प्राप्त या सेट करता है[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के बाएँ किनारे के x‑कोऑर्डिनेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Left { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसके बाएँ किनारे का x-निर्देशांक[`RectangleF`](../) संरचना।
+इस [`RectangleF`](../) संरचना के बाएँ किनारे का x‑कोऑर्डिनेट।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

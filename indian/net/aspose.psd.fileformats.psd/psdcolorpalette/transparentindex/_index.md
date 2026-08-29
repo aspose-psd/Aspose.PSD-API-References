@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.TransparentIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdColorPalette संपत्त. परदर्श रंग क सूचकंक प्रप्त करत है
+title: "PsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdColorPalette प्रॉपर्टी। पारदर्शी रंग का सूचकांक प्राप्त करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentIndex property
 
 पारदर्शी रंग का सूचकांक प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentindex/
 public short TransparentIndex { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पारदर्शी रंग का सूचकांक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

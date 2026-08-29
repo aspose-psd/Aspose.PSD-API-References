@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.MaxChannels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FilterEffectMaskData संपत्त. चैनलं क अधकतम संख्य प्रप्त करत है
+title: "FilterEffectMaskData.MaxChannels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FilterEffectMaskData property. चैनलों की गिनती का अधिकतम प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maxchannels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaxChannels property
 
-चैनलों की अधिकतम संख्या प्राप्त करता है।
+चैनलों की अधिकतम गिनती प्राप्त करता है।
 
 ```csharp
 public int MaxChannels { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterEffectMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

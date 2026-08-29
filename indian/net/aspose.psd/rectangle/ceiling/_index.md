@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Ceiling
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. नर्दष्ट क परवर्तत करत हैRectangleF ए के लए संरचनRectangle गल करके संरचनRectangleF अगले उच्च पूर्णंक मनं के लए मन.
+title: "Rectangle.Ceiling"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle विधि. निर्दिष्ट RectangleF संरचना को Rectangle संरचना में परिवर्तित करता है, RectangleF मानों को अगले बड़े पूर्णांक मान तक गोल करके।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/rectangle/ceiling/
 ---
+{{< psd/tize >}}
 ## Rectangle.Ceiling method
 
-निर्दिष्ट को परिवर्तित करता है[`RectangleF`](../../rectanglef/) ए के लिए संरचना[`Rectangle`](../) गोल करके संरचना[`RectangleF`](../../rectanglef/) अगले उच्च पूर्णांक मानों के लिए मान.
+निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना को [`Rectangle`](../) संरचना में परिवर्तित करता है, [`RectangleF`](../../rectanglef/) मानों को अगले बड़े पूर्णांक मान तक गोल करके।
 
 ```csharp
 public static Rectangle Ceiling(RectangleF value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | RectangleF | [`RectangleF`](../../rectanglef/) संरचना को परिवर्तित किया जाना है। |
+| value | RectangleF | परिवर्तित की जाने वाली [`RectangleF`](../../rectanglef/) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रिटर्न ए[`Rectangle`](../).
+एक [`Rectangle`](../) लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

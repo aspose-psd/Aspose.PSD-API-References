@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSImgDirectionRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. छव क कैप्चर कए जने पर दश देने के लए GPS संदर्भ प्रप्त य सेट करत है
+title: "ExifData.GPSImgDirectionRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData property. छवि को कैप्चर करने पर उसकी दिशा देने के लिए GPS संदर्भ को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 510
 url: /hi/net/aspose.psd.exif/exifdata/gpsimgdirectionref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSImgDirectionRef property
 
-छवि को कैप्चर किए जाने पर दिशा देने के लिए GPS संदर्भ प्राप्त या सेट करता है।
+छवि को कैप्चर किए जाने पर दिशा देने के लिए GPS रेफ़रेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSImgDirectionRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि को कैप्चर किए जाने पर दिशा देने के लिए GPS संदर्भ.
+छवि को कैप्चर करने पर उसकी दिशा देने के लिए GPS संदर्भ.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

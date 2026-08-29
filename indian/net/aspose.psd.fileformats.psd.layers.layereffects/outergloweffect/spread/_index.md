@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. तव्रत क प्रतशत के रूप में प्रप्त य सेट करत है
+title: "OuterGlowEffect.Spread"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. तीव्रता को प्रतिशत के रूप में प्राप्त करता है या सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
-तीव्रता को प्रतिशत के रूप में प्राप्त या सेट करता है।
+तीव्रता को प्रतिशत के रूप में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फैलाव।
+फ़ैलाव।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड OuterGlowEffect समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड OuterGlowEffect समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

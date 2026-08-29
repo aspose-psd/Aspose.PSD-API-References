@@ -1,23 +1,24 @@
 ---
-title: Hue2Resource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource मैदन. टइप टूल इंफ क.
+title: "Hue2Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource फ़ील्ड। प्रकार टूल जानकारी कुंजी"
 type: docs
-weight: 120
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.TypeToolKey field
 
-टाइप टूल इंफो की.
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

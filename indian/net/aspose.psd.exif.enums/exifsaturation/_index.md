@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSaturation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifSaturation एनुम. एक्ज़फ़ सैचुरेशन एनम.
+title: "Enum ExifSaturation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. exif सैचुरेशन enum"
 type: docs
-weight: 920
+weight: 930
 url: /hi/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-एक्ज़िफ़ सैचुरेशन एनम.
+exif सैचुरेशन एनेम.
 
 ```csharp
 public enum ExifSaturation
@@ -16,15 +17,15 @@ public enum ExifSaturation
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Normal | `0` | सामान्य संतृप्ति। |
-| Low | `1` | कम संतृप्ति। |
-| High | `2` | उच्च संतृप्ति। |
+| Normal | `0` | सामान्य सैचुरेशन. |
+| Low | `1` | कम सैचुरेशन. |
+| High | `2` | उच्च सैचुरेशन. |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

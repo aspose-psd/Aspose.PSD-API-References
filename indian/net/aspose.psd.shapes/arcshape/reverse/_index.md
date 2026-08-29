@@ -1,23 +1,24 @@
 ---
-title: ArcShape.Reverse
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ArcShape तरक. इस आकृत के लए बंदुओं के क्रम क उलट देत है
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ArcShape मेथड। इस आकार के बिंदुओं का क्रम उलटता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
-इस आकृति के लिए बिंदुओं के क्रम को उलट देता है।
+इस आकार के बिंदुओं के क्रम को उलटता है।
 
 ```csharp
 public void Reverse()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ColorSpaceValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. कलर स्पेस मन प्रप्त य सेट करत है
+title: "TypeToolInfoResource.ColorSpaceValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। कलर स्पेस वैल्यू प्राप्त करता या सेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ColorSpaceValue property
 
-कलर स्पेस मान प्राप्त या सेट करता है।
+रंग स्थान मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ColorSpaceValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर स्पेस वैल्यू.
+कलर स्पेस वैल्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Thumbnail संपत्त. छव क बेस64 प्ररूप में प्रप्त य सेट करत है
+title: "Thumbnail.ImageBase64"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Thumbnail प्रॉपर्टी। बेस64 फ़ॉर्मेट में छवि को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
-छवि को बेस64 प्रारूप में प्राप्त या सेट करता है।
+इमेज को base64 फ़ॉर्मेट में प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string ImageBase64 { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बेस64 प्रारूप में छवि।
+बेस64 फ़ॉर्मेट में छवि।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Thumbnail](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

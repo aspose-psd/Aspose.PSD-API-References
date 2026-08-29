@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. ऑडय चैनल प्रकर सेट करत है
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। ऑडियो चैनल प्रकार सेट करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
 ऑडियो चैनल प्रकार सेट करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochannel
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | audioChannelType | AudioChannelType | ऑडियो चैनल प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

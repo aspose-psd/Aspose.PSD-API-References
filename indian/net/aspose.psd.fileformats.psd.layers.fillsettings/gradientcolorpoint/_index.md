@@ -1,14 +1,15 @@
 ---
-title: Class GradientColorPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint कक्ष. ढल रंग बंदु
+title: "क्लास GradientColorPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint क्लास। ग्रेडिएंट कलर पॉइंट"
 type: docs
-weight: 1950
+weight: 2060
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-ढाल रंग बिंदु।
+ग्रेडिएंट रंग बिंदु।
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
@@ -18,21 +19,22 @@ public class GradientColorPoint : IGradientColorPoint
 
 | नाम | विवरण |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`GradientColorPoint` वर्ग. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | का एक नया उदाहरण प्रारंभ करता है`GradientColorPoint` वर्ग. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | `GradientColorPoint` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | `GradientColorPoint` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | ग्रेडिएंट पर बिंदु स्थान प्राप्त या सेट करता है। |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | माध्य ग्रेडिएंट पॉइंट स्थान प्राप्त या सेट करता है। |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | कच्चे का रंग प्राप्त या सेट करता है। |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | रंग के अनुसरण के लिए मोड |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | ग्रेडिएंट पर पॉइंट लोकेशन प्राप्त करता या सेट करता है। |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | मीडियन ग्रेडिएंट पॉइंट लोकेशन प्राप्त करता या सेट करता है। |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | रॉ का रंग प्राप्त करता या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

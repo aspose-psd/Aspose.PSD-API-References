@@ -1,14 +1,15 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord कक्ष. प्ररंभक भरण नयम रकर्ड क्लस
+title: "क्लास InitialFillRuleRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord क्लास। प्रारंभिक भरण नियम रिकॉर्ड क्लास"
 type: docs
-weight: 1360
+weight: 1370
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
-प्रारंभिक भरण नियम रिकॉर्ड क्लास
+Initial Fill Rule Record क्लास
 
 ```csharp
 public class InitialFillRuleRecord : VectorPathRecord
@@ -18,21 +19,21 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 | नाम | विवरण |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`InitialFillRuleRecord` वर्ग. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | का एक नया उदाहरण प्रारंभ करता है`InitialFillRuleRecord` वर्ग. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`InitialFillRuleRecord` वर्ग. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | `InitialFillRuleRecord` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | `InitialFillRuleRecord` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | `InitialFillRuleRecord` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि भरण सभी पिक्सेल से शुरू होता है। |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | क्या फ़िल सभी पिक्सेल से शुरू होता है, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | प्रकार प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

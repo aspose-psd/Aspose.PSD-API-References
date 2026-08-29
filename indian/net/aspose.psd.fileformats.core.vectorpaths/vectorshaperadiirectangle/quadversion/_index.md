@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.QuadVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeRadiiRectangle संपत्त. इकई मन क्वड संस्करण प्रप्त य सेट करत है
+title: "VectorShapeRadiiRectangle.QuadVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeRadiiRectangle प्रॉपर्टी। यूनिट वैल्यू क्वाड वर्ज़न को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.QuadVersion property
 
-इकाई मान क्वाड संस्करण प्राप्त या सेट करता है।
+इकाई मान क्वाड संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्वाड संस्करण।
+क्वाड वर्ज़न।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeRadiiRectangle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

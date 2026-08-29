@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorTransferFunctionsResource संपत्त. कलर ट्रंसफर डेट प्रप्त य सेट करत है
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorTransferFunctionsResource प्रॉपर्टी। रंग ट्रांसफ़र डेटा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
-कलर ट्रांसफर डेटा प्राप्त या सेट करता है।
+कलर ट्रांसफर डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] ColorTransferData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर ट्रांसफर डेटा।
+रंग ट्रांसफ़र डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorTransferFunctionsResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

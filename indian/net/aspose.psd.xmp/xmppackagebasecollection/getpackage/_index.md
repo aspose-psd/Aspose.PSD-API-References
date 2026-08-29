@@ -1,32 +1,33 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackageBaseCollection तरक. ह जत हैXmpPackage इसके नमस्थन द्वर URI.
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackageBaseCollection मेथड। अपने namespaceURI द्वारा XmpPackage प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-हो जाता है[`XmpPackage`](../../xmppackage/) इसके नामस्थान द्वारा URI.
+[`XmpPackage`](../../xmppackage/) को उसके namespaceURI द्वारा प्राप्त करता है।
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| namespaceUri | String | पैकेज प्राप्त करने के लिए नाम स्थान URI। |
+| नेमस्पेसURI | String | पैकेज प्राप्त करने के लिए namespace URI। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्दिष्ट नामस्थान Uri. के लिए XMP पैकेज लौटाता है
+निर्दिष्ट namespace Uri के लिए XMP पैकेज लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

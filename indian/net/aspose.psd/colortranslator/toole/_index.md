@@ -1,32 +1,33 @@
 ---
-title: ColorTranslator.ToOle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorTranslator तरक. OLE रंग क रंग में अनुवद करत है.
+title: "ColorTranslator.ToOle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorTranslator मेथड। OLE रंग को रंग में अनुवादित करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/colortranslator/toole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToOle method
 
-OLE रंग का रंग में अनुवाद करता है.
+OLE रंग को रंग में अनुवादित करता है।
 
 ```csharp
 public static int ToOle(Color c)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| c | Color | वो रंग। |
+| c | रंग | रंग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ओएलई रंग।
+OLE रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* नाम स्थान [Aspose.PSD](../../colortranslator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

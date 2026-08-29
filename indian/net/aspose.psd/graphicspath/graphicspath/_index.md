@@ -1,88 +1,89 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath नर्मत. क एक नय उदहरण प्ररंभ करत हैGraphicsPath वर्ग.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath कन्स्ट्रक्टर। GraphicsPath क्लास का नया इंस्टेंस प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`GraphicsPath`](../) वर्ग.
+`[`GraphicsPath`](../)` क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GraphicsPath()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`GraphicsPath`](../) वर्ग.
+`[`GraphicsPath`](../)` क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GraphicsPath(Figure[] figures)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| figures | Figure[] | से आरंभ करने के लिए आंकड़े। |
+| आकृतियाँ | Figure[] | प्रारंभ करने के लिए आकृतियाँ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`GraphicsPath`](../) वर्ग.
+`[`GraphicsPath`](../)` क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| figures | Figure[] | से आरंभ करने के लिए आंकड़े। |
+| आकृतियाँ | Figure[] | प्रारंभ करने के लिए आकृतियाँ। |
 | fillMode | FillMode | भरण मोड। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`GraphicsPath`](../) वर्ग.
+`[`GraphicsPath`](../)` क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fillMode | FillMode | भरण मोड। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

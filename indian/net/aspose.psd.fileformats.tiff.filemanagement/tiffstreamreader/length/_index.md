@@ -1,27 +1,28 @@
 ---
-title: TiffStreamReader.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader संपत्त. पठक क लंबई प्रप्त करत है
+title: "TiffStreamReader.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader प्रॉपर्टी। रीडर की लंबाई प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.Length property
 
-पाठक की लंबाई प्राप्त करता है।
+रीडर की लंबाई प्राप्त करता है।
 
 ```csharp
 public long Length { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठक की लंबाई।
+रीडर की लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

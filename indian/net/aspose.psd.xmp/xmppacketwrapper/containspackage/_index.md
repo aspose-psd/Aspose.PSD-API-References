@@ -1,31 +1,32 @@
 ---
-title: XmpPacketWrapper.ContainsPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper तरक. नर्धरत करत है क पैकेज xmp आवरण में मजूद है य नहं
+title: "XmpPacketWrapper.ContainsPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper मेथड। निर्धारित करता है कि पैकेज xmp wrapper में मौजूद है या नहीं"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/containspackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ContainsPackage method
 
-निर्धारित करता है कि पैकेज xmp आवरण में मौजूद है या नहीं।
+निर्धारित करता है कि पैकेज XMP रैपर में मौजूद है या नहीं।
 
 ```csharp
 public bool ContainsPackage(string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| namespaceUri | String | पैकेज स्कीमा uri. |
+| नेमस्पेसURI | String | पैकेज स्कीमा यूआरआई। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यदि निर्दिष्ट नामस्थान Uri वाला पैकेज XMP आवरण में मौजूद है, तो सही होता है।
+यदि निर्दिष्ट नेमस्पेस यूआरआई वाला पैकेज XMP रैपर में मौजूद है तो true लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

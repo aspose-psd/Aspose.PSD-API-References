@@ -1,27 +1,28 @@
 ---
-title: CurvesContinuousManager.CurvesContinuousManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesContinuousManager नर्मत. क एक नय उदहरण प्ररंभ करत हैCurvesContinuousManager वर्ग.
+title: "CurvesContinuousManager.CurvesContinuousManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesContinuousManager कंस्ट्रक्टर। CurvesContinuousManager क्लास का नया इंस्टेंस प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/curvescontinuousmanager/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`CurvesContinuousManager`](../) वर्ग.
+[`CurvesContinuousManager`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public CurvesContinuousManager(int maxChannelCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| maxChannelCount | Int32 | अधिकतम चैनल संख्या। |
+| maxChannelCount | Int32 | अधिकतम चैनल गिनती। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesContinuousManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

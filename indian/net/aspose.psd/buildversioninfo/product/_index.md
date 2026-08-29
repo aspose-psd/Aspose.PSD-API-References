@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.Product
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. उत्पद क शर्षक.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। उत्पाद शीर्षक"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
-उत्पाद का शीर्षक.
+उत्पाद शीर्षक।
 
 ```csharp
 public static readonly string Product;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

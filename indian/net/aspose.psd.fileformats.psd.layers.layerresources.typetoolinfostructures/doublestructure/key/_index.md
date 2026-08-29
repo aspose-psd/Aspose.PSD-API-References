@@ -1,11 +1,12 @@
 ---
-title: DoubleStructure.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DoubleStructure संपत्त. संरचन कुंज प्रप्त करत है
+title: "DoubleStructure.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DoubleStructure प्रॉपर्टी। संरचना कुंजी प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Key property
 
 संरचना कुंजी प्राप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [DoubleStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

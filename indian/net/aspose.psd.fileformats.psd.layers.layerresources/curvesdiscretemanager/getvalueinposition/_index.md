@@ -1,32 +1,33 @@
 ---
-title: CurvesDiscreteManager.GetValueInPosition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesDiscreteManager तरक. स्थत में मन प्रप्त करत है
+title: "CurvesDiscreteManager.GetValueInPosition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesDiscreteManager मेथड. स्थिति में मान प्राप्त करता है."
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.GetValueInPosition method
 
-स्थिति में मान प्राप्त करता है।
+स्थिति में मान को प्राप्त करता है।
 
 ```csharp
 public byte GetValueInPosition(int channelIndex, byte position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
-| position | Byte | स्थिति। |
+| स्थिति | बाइट | स्थिति. |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अपनी स्थिति से वक्र का मान
+स्थिति के अनुसार कर्व का मान.
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesDiscreteManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer संपत्त. स्ट्रम के भतर वर्तमन स्थत प्रप्त य सेट करत है यह मन StreamContainer कंस्ट्रक्टर में परत प्ररंभक स्ट्रम स्थत से ऑफसेट क प्रतनधत्व करत है
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer प्रॉपर्टी। स्ट्रीम के भीतर वर्तमान पोजीशन प्राप्त या सेट करती है। यह मान StreamContainer कंस्ट्रक्टर में पास किए गए प्रारंभिक स्ट्रीम पोजीशन से ऑफसेट दर्शाता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-स्ट्रीम के भीतर वर्तमान स्थिति प्राप्त या सेट करता है। यह मान StreamContainer कंस्ट्रक्टर में पारित प्रारंभिक स्ट्रीम स्थिति से ऑफसेट का प्रतिनिधित्व करता है।
+स्ट्रीम के भीतर वर्तमान स्थिति प्राप्त करता है या सेट करता है। यह मान स्ट्रीम कंटेनर कंस्ट्रक्टर में पास की गई प्रारंभिक स्ट्रीम स्थिति से ऑफ़सेट दर्शाता है।
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्तमान धारा स्थिति।
+वर्तमान स्ट्रीम पोजीशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

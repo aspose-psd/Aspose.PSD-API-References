@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IObjectWithSizeF संपत्त. वस्तु क ऊंचई इंच में प्रप्त करत है
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IObjectWithSizeF प्रॉपर्टी। वस्तु की ऊँचाई इंच में प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-वस्तु की ऊंचाई इंच में प्राप्त करता है।
+इंच में वस्तु की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑब्जेक्ट की ऊंचाई, इंच में.
+वस्तु की ऊँचाई, इंच में।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IObjectWithSizeF](../)
-* नाम स्थान [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

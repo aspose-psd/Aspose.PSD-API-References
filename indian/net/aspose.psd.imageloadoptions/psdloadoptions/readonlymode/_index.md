@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.ReadOnlyMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdLoadOptions संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क केवल पढ़ने के लए मड क उपयग करें यह रडओनल मड है ज Adobe Photoshop के सथ समन संगतत के लए समर्थत है जब यह वकल्प सेट कय जत है त परतं के लए लगू कए गए सभ परवर्तन अंतम छव में सहेजे नहं जएंगे सभ डेट क उपयग इमेजडेट सेक्शन से कय जत है इसलए यह फटशप के समन है डफ़ल्ट रूप से सभ लड क गई छवयं Adobe Photoshop संगत के समन नहं हैं
+title: "PsdLoadOptions.ReadOnlyMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdLoadOptions प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि रीड‑ओनली मोड का उपयोग किया जाए या नहीं। यह रीड‑ओनली मोड Adobe Photoshop के साथ समान संगतता के लिए समर्थित है। जब यह विकल्प सेट किया जाता है, तो लेयर्स पर लागू सभी परिवर्तन अंतिम इमेज में सहेजे नहीं जाते। सभी डेटा ImageData सेक्शन से उपयोग किया जाता है, इसलिए यह Photoshop के समान है। डिफ़ॉल्ट रूप से सभी लोड की गई इमेजें Adobe Photoshop के साथ समान संगत नहीं होतीं।"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.imageloadoptions/psdloadoptions/readonlymode/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.ReadOnlyMode property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि [केवल पढ़ने के लिए मोड का उपयोग करें]। यह रीड-ओनली मोड है, जो Adobe Photoshop के साथ समान संगतता के लिए समर्थित है। जब यह विकल्प सेट किया जाता है, तो परतों के लिए लागू किए गए सभी परिवर्तन अंतिम छवि में सहेजे नहीं जाएंगे। सभी डेटा का उपयोग इमेजडेटा सेक्शन से किया जाता है, इसलिए यह फोटोशॉप के समान है। डिफ़ॉल्ट रूप से सभी लोड की गई छवियां Adobe Photoshop संगत के समान नहीं हैं।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [रीड‑ओनली मोड का उपयोग करें]। यह रीड‑ओनली मोड है, जो Adobe Photoshop के साथ समान संगतता के लिए समर्थित है। जब यह विकल्प सेट किया जाता है, तो लेयर्स पर लागू सभी परिवर्तन अंतिम इमेज में सहेजे नहीं जाते। सभी डेटा ImageData सेक्शन से उपयोग किया जाता है, इसलिए यह Photoshop के समान है। डिफ़ॉल्ट रूप से सभी लोड की गई इमेजेज Adobe Photoshop के साथ संगत नहीं होतीं।
 
 ```csharp
 public bool ReadOnlyMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [फ़ोटोशॉप संगतता मोड का उपयोग करें]; अन्यथा,`असत्य` .
+`true` यदि [use photoshop compatibility mode]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdLoadOptions](../)
-* नाम स्थान [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

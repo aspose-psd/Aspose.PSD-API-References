@@ -1,14 +1,15 @@
 ---
-title: LinkResource.Item
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkResource संपत्त. ह जत हैLinkDataSource नर्दष्ट इंडेक्स पर ज लंक डेट स्रत अद्वतय पहचनकर्त है..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkResource प्रॉपर्टी. निर्दिष्ट इंडेक्स पर LinkDataSource प्राप्त करता है जो लिंक डेटा स्रोत का अद्वितीय पहचानकर्ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-हो जाता है[`LinkDataSource`](../../linkdatasource/) निर्दिष्ट इंडेक्स पर जो लिंक डेटा स्रोत अद्वितीय पहचानकर्ता है..
+निर्दिष्ट इंडेक्स पर [`LinkDataSource`](../../linkdatasource/) प्राप्त करता है जो लिंक डेटा स्रोत का अद्वितीय पहचानकर्ता है।
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -16,19 +17,19 @@ public LinkDataSource this[Guid index] { get; }
 
 | पैरामीटर | विवरण |
 | --- | --- |
-| index | लिंक डेटा स्रोत अद्वितीय पहचानकर्ता के रूप में सूचकांक। |
+| index | इंडेक्स को लिंक डेटा स्रोत के अद्वितीय पहचानकर्ता के रूप में। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-द[`LinkDataSource`](../../linkdatasource/) उदाहरण.
+यह [`LinkDataSource`](../../linkdatasource/) इंस्टेंस।
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`LinkDataSource`](../../linkdatasource/) .
+यह [`LinkDataSource`](../../linkdatasource/)।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड एंबेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड एम्बेडेड स्मार्ट ऑब्जेक्ट्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// यह उदाहरण दर्शाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत को कैसे बदलना है और स्मार्ट ऑब्जेक्ट मूल एम्बेडेड सामग्री को निर्यात / अपडेट करना है।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर को कैसे बदलें और स्मार्ट ऑब्जेक्ट की मूल एम्बेडेड सामग्री को निर्यात/अपडेट करें।
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // चलिए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को एक्सपोर्ट करते हैं
+        // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को निर्यात करें
         smartObjectLayer.ExportContents(exportPath);
 
-        // आइए देखें कि मूल छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि मूल इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उल्टा करें
+            // आइए मूल स्मार्ट ऑब्जेक्ट इमेज को उलटें
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,22 +93,22 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // आइए एम्बेडेड स्मार्ट ऑब्जेक्ट छवि को PSD परत में बदलें
+            // आइए PSD लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को बदलें
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // देखते हैं कि अपडेट की गई छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि अपडेटेड इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

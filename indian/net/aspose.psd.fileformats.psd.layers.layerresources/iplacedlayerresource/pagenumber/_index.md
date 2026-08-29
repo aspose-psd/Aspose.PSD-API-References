@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PageNumber
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. PSD फ़इल में रख गई परत क पृष्ठ संख्य प्रप्त य सेट करत है
+title: "IPlacedLayerResource.PageNumber"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी। प्राप्त करता है या सेट करता है PSD फ़ाइल में रखी गई लेयर का पृष्ठ संख्या"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PageNumber property
 
-PSD फ़ाइल में रखी गई परत की पृष्ठ संख्या प्राप्त या सेट करता है।
+PSD फ़ाइल में रखी गई लेयर का पृष्ठ संख्या प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत की पृष्ठ संख्या।
+स्थापित लेयर का पेज नंबर।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

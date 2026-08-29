@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.ReadByte
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer तरक. स्ट्रम से एक बइट पढ़त है और स्ट्रम के भतर स्थत क एक बइट से आगे बढ़त है य स्ट्रम के अंत में 1 लटत है
+title: "StreamContainer.ReadByte"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer method. स्ट्रीम से एक बाइट पढ़ता है और स्ट्रीम में स्थिति को एक बाइट से आगे बढ़ाता है, या यदि स्ट्रीम के अंत में हो तो 1 लौटाता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/streamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadByte method
 
-स्ट्रीम से एक बाइट पढ़ता है और स्ट्रीम के भीतर स्थिति को एक बाइट से आगे बढ़ाता है, या स्ट्रीम के अंत में -1 लौटाता है।
+स्ट्रीम से एक बाइट पढ़ता है और स्ट्रीम में स्थिति को एक बाइट से आगे बढ़ाता है, या यदि स्ट्रीम के अंत में हो तो -1 लौटाता है।
 
 ```csharp
 public virtual int ReadByte()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अहस्ताक्षरित बाइट एक Int32 में डाली जाती है, या -1 यदि स्ट्रीम के अंत में है।
+एक अनसाइन्ड बाइट जिसे Int32 में कास्ट किया गया है, या यदि स्ट्रीम के अंत में हो तो -1।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

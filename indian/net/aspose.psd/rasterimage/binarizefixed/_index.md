@@ -1,27 +1,28 @@
 ---
-title: RasterImage.BinarizeFixed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. पूर्वनर्धरत थ्रेसहल्ड के सथ एक छव क बनरइजेशन
+title: "RasterImage.BinarizeFixed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। पूर्वनिर्धारित थ्रेशोल्ड के साथ छवि का बाइनरीकरण"
 type: docs
 weight: 220
 url: /hi/net/aspose.psd/rasterimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeFixed method
 
-पूर्वनिर्धारित थ्रेसहोल्ड के साथ एक छवि का बिनराइजेशन
+पूर्वनिर्धारित थ्रेशोल्ड के साथ छवि का बाइनरीकरण
 
 ```csharp
 public virtual void BinarizeFixed(byte threshold)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| threshold | Byte | सीमा मूल्य। यदि किसी पिक्सेल का संबंधित ग्रे मान थ्रेशोल्ड से अधिक है, तो उसे 255 का मान दिया जाएगा, अन्यथा 0। |
+| थ्रेशोल्ड | बाइट | थ्रेशोल्ड मान। यदि पिक्सेल का संबंधित ग्रे मान थ्रेशोल्ड से अधिक है, तो उसे 255 मान दिया जाएगा, अन्यथा 0। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

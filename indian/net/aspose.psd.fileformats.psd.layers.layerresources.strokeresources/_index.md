@@ -1,23 +1,31 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में PSD फ़इल स्वरूप प्रकर उपकरण संसधन नकय शमल हैं.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में PSD फ़ाइल फ़ॉर्मेट टाइप टूल रिसोर्स एंटिटीज़ शामिल हैं"
 type: docs
-weight: 290
+weight: 310
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/
 ---
-नामस्थान में PSD फ़ाइल स्वरूप प्रकार उपकरण संसाधन निकाय शामिल हैं.
+{{< psd/tize >}}
+यह namespace PSD फ़ाइल फ़ॉर्मेट टाइप टूल रिसोर्स इकाइयों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [VstkResource](./vstkresource/) | संसाधन वर्ग VstkResource. वेक्टर स्ट्रोक डेटा के बारे में जानकारी शामिल है। |
-## गणना
+| [StrokeSettings](./strokesettings/) | शेप्स के स्ट्रोक सेटिंग्स। |
+| [VscgResource](./vscgresource/) | वेक्टर स्ट्रोक कंटेंट डेटा रिसोर्स। |
+| [VstkResource](./vstkresource/) | रिसोर्स क्लास VstkResource। यह वेक्टर स्ट्रोक डेटा के बारे में जानकारी रखता है। रिसोर्स को या तो ResourceLoader से AssignItems मेथड द्वारा, या क्लास की प्रॉपर्टीज़ को वैल्यू असाइन करके इनिशियलाइज़ किया जाना चाहिए। |
+## इंटरफ़ेस
 
-| गणना | विवरण |
+| इंटरफ़ेस | विवरण |
+| --- | --- |
+| [IStrokeSettings](./istrokesettings/) | शेप्स के स्ट्रोक सेटिंग्स। |
+## एन्यूमरेशन
+
+| एन्यूमरेशन | विवरण |
 | --- | --- |
 | [LineCapType](./linecaptype/) | लाइन कैप प्रकार। |
-| [LineJoinType](./linejointype/) | लाइन ज्वाइन प्रकार। |
+| [LineJoinType](./linejointype/) | लाइन जॉइन प्रकार। |
 
 

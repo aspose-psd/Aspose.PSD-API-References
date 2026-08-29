@@ -1,23 +1,24 @@
 ---
-title: PdfPackage.PdfPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfPackage नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "PdfPackage.PdfPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfPackage कन्स्ट्रक्टर। डिफ़ॉल्ट कन्स्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.pdf/pdfpackage/pdfpackage/
 ---
+{{< psd/tize >}}
 ## PdfPackage constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public PdfPackage()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

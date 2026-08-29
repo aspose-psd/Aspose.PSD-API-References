@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Photoshop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. एडब फटशप नेमस्पेस.
+title: "Namespaces.Photoshop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। एडोब फ़ोटोशॉप नेमस्पेस"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/namespaces/photoshop/
 ---
+{{< psd/tize >}}
 ## Namespaces.Photoshop field
 
-एडोब फोटोशॉप नेमस्पेस.
+Adobe Photoshop नेमस्पेस।
 
 ```csharp
 public const string Photoshop;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

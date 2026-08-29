@@ -1,38 +1,39 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry तरक. नर्दष्ट के लए उपयुक्त पहल पय गय लडर बनत हैstream और वैकल्पक रूप सेloadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry विधि। निर्दिष्ट stream के लिए उपयुक्त पहला मिला लोडर बनाता है और वैकल्पिक रूप से loadOptions।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-निर्दिष्ट के लिए उपयुक्त पहला पाया गया लोडर बनाता है*stream* और वैकल्पिक रूप से*loadOptions* .
+निर्दिष्ट *stream* के लिए उपयुक्त पहला मिला लोडर बनाता है और वैकल्पिक रूप से *loadOptions* को भी।
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
+| stream | Stream | स्ट्रीम। |
 | loadOptions | LoadOptions | लोड विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-लोडर जो निर्दिष्ट का समर्थन करता है*stream* और*loadOptions* या शून्य यदि ऐसा कोई लोडर नहीं मिला है।
+निर्दिष्ट *stream* और *loadOptions* को समर्थन करने वाला लोडर, या यदि ऐसा कोई लोडर नहीं मिला तो null।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला लोडर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

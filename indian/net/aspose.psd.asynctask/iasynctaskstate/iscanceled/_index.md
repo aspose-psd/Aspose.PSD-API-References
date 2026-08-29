@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.IsCanceled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTaskState संपत्त. एक मन प्रप्त करत है ज इंगत करत है क एसंक्रनस कर्य रद्द कर दय गय है
+title: "IAsyncTaskState.IsCanceled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTaskState प्रॉपर्टी। यह दर्शाता है कि असिंक्रोनस टास्क रद्द किया गया है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.asynctask/iasynctaskstate/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.IsCanceled property
 
-एक मान प्राप्त करता है जो इंगित करता है कि एसिंक्रोनस कार्य रद्द कर दिया गया है।
+एक मान प्राप्त करता है जो दर्शाता है कि असिंक्रोनस टास्क रद्द किया गया है या नहीं।
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि अतुल्यकालिक कार्य रद्द कर दिया गया है; अन्यथा,`असत्य` .
+`true` यदि असिंक्रोनस टास्क रद्द किया गया है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTaskState](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

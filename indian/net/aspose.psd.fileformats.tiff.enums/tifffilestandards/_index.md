@@ -1,14 +1,15 @@
 ---
-title: Enum TiffFileStandards
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards एनुम. TIFF फ़इल स्वरूप मनकं क नर्दष्ट करत है
+title: "Enum TiffFileStandards"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. TIFF फ़ाइल फ़ॉर्मेट मानकों को निर्दिष्ट करता है"
 type: docs
-weight: 4080
+weight: 4550
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
-TIFF फ़ाइल स्वरूप मानकों को निर्दिष्ट करता है।
+TIFF फ़ाइल फ़ॉर्मेट मानकों को निर्दिष्ट करता है।
 
 ```csharp
 public enum TiffFileStandards : ushort
@@ -16,14 +17,14 @@ public enum TiffFileStandards : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Baseline | `0` | बेसलाइन TIFF 6.0 फ़ाइल मानक। इस मानक को औपचारिक रूप से TIFF 6.0, भाग 1 के रूप में जाना जाता है: बेसलाइन TIFF. |
-| Extended | `1` | विस्तारित TIFF 6.0 फ़ाइल मानक। इस मानक को औपचारिक रूप से विस्तारित TIFF 6.0, भाग 2 के रूप में जाना जाता है: TIFF एक्सटेंशन. |
+| Baseline | `0` | Baseline TIFF 6.0 फ़ाइल मानक. यह मानक औपचारिक रूप से TIFF 6.0, भाग 1: Baseline TIFF के रूप में जाना जाता है. |
+| Extended | `1` | Extended TIFF 6.0 फ़ाइल मानक. यह मानक औपचारिक रूप से Extended TIFF 6.0, भाग 2: TIFF Extensions के रूप में जाना जाता है. |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

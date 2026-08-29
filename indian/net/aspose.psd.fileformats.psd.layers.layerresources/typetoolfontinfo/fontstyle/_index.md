@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontStyle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolFontInfo संपत्त. फ़न्ट शैल क नम प्रप्त य सेट करत है
+title: "TypeToolFontInfo.FontStyle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolFontInfo प्रॉपर्टी। फ़ॉन्ट शैली नाम को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontStyle property
 
-फ़ॉन्ट शैली का नाम प्राप्त या सेट करता है।
+फ़ॉन्ट शैली नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string FontStyle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ॉन्ट शैली का नाम.
+फ़ॉन्ट शैली नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolFontInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

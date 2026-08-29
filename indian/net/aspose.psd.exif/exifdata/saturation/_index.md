@@ -1,28 +1,29 @@
 ---
-title: ExifData.Saturation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. संतृप्त प्रप्त य सेट करत है
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। संतृप्ति को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 890
 url: /hi/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-संतृप्ति प्राप्त या सेट करता है।
+सैचुरेशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संतृप्ति।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

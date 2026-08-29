@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत क प्रदर्शन नम प्रप्त य सेट करत है
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. लेयर के डिस्प्ले नाम को प्राप्त या सेट करता है"
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-परत का प्रदर्शन नाम प्राप्त या सेट करता है।
+लेयर का डिस्प्ले नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत का प्रदर्शन नाम.
+लेयर का डिस्प्ले नाम।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण DisplayName मान को सेट करने की क्षमता प्रदर्शित करता है, जिसमें परत का नाम सही प्रदर्शित होता है।
+निम्न उदाहरण दिखाता है कि कैसे DisplayName मान को सेट किया जा सकता है, जिससे लेयर नाम सही ढंग से प्रदर्शित हो।
 
 ```csharp
 [C#]
 
-// लेयर के नाम में बदलाव करें और इसे सेव करें
+// लेयर नामों में परिवर्तन करें और इसे सहेजें
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

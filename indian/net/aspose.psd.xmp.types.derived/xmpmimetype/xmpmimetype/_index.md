@@ -1,27 +1,28 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpMimeType नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpMimeType वर्ग.
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpMimeType constructor. XmpMimeType class की नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpMimeType`](../) वर्ग.
+[`XmpMimeType`](../) class की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpMimeType(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMimeType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffExifIfd नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffExifIfd वर्ग.
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffExifIfd कन्स्ट्रक्टर। TiffExifIfd क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffExifIfd`](../) वर्ग.
+[`TiffExifIfd`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffExifIfd()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffExifIfd](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffExifIfd`](../) वर्ग.
+[`TiffExifIfd`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ifdOffset | UInt32 | Exif IFD के लिए एक संकेतक। |
+| ifdOffset | UInt32 | Exif IFD का पॉइंटर। |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-इंटरऑपरेबिलिटी, Exif IFD की वही संरचना है जो TIFF में निर्दिष्ट IFD की है। आमतौर पर, हालांकि, इसमें छवि डेटा नहीं होता है जैसा कि TIFF. के मामले में होता है
+इंटरऑपरेबिलिटी, Exif IFD का संरचना TIFF में निर्दिष्ट IFD के समान है। सामान्यतः, हालांकि, इसमें TIFF के मामले की तरह इमेज डेटा नहीं होता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffExifIfd](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

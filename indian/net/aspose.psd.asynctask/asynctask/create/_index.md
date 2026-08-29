@@ -1,59 +1,60 @@
 ---
-title: AsyncTask.Create
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AsyncTask तरक. बन कस परणम के अतुल्यकलक कर्य बनत है
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AsyncTask मेथड। कोई परिणाम नहीं वाला असिंक्रोनस टास्क बनाता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
-बिना किसी परिणाम के अतुल्यकालिक कार्य बनाता है।
+कोई परिणाम बिना असिंक्रोनस टास्क बनाता है।
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| taskAction | AsyncTaskAction | कार्य क्रिया। |
+| taskAction | AsyncTaskAction | टास्क एक्शन। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अतुल्यकालिक कार्य
+असिंक्रोनस टास्क
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../asynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-सामान्य प्रकार के परिणाम के साथ अतुल्यकालिक कार्य बनाता है।
+जनरिक टाइप परिणाम के साथ असिंक्रोनस टास्क बनाता है।
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| taskFunc | AsyncTaskFunc | टास्क फंक्शन। |
+| taskFunc | AsyncTaskFunc | यह टास्क फ़ंक्शन। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अतुल्यकालिक कार्य
+असिंक्रोनस टास्क
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../asynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

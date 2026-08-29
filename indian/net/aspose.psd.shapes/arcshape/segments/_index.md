@@ -1,28 +1,29 @@
 ---
-title: ArcShape.Segments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ArcShape संपत्त. आकर खंड प्रप्त करत है
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ArcShape प्रॉपर्टी। आकार के सेगमेंट प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-आकार खंड प्राप्त करता है।
+आकार के खंडों को प्राप्त करता है।
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकार खंड।
+आकार के खंड।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

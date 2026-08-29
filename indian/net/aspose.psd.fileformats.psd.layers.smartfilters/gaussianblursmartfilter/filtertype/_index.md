@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurSmartFilter.FilterType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GaussianBlurSmartFilter मैदन. वर्तमन स्मर्ट फ़ल्टर क पहचनकर्त
+title: "GaussianBlurSmartFilter.FilterType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GaussianBlurSmartFilter फ़ील्ड. वर्तमान स्मार्ट फ़िल्टर का पहचानकर्ता"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterType field
 
 वर्तमान स्मार्ट फ़िल्टर का पहचानकर्ता।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfil
 public const int FilterType;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

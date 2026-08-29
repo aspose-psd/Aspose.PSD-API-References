@@ -1,32 +1,33 @@
 ---
-title: Size.op_Addition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. एक क चड़ई और ऊंचई जड़त हैSize दूसरे क चड़ई और ऊंचई क संरचनSizeसंरचन.
+title: "Size.op_Addition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। एक Size संरचना की चौड़ाई और ऊँचाई को दूसरी Size संरचना की चौड़ाई और ऊँचाई में जोड़ता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-एक की चौड़ाई और ऊंचाई जोड़ता है[`Size`](../) दूसरे की चौड़ाई और ऊंचाई की संरचना[`Size`](../)संरचना.
+एक [`Size`](../) संरचना की चौड़ाई और ऊँचाई को दूसरी [`Size`](../) संरचना की चौड़ाई और ऊँचाई में जोड़ता है।
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | Size | पहला[`Size`](../) जमा करना। |
-| size2 | Size | दूसरा[`Size`](../) जमा करना। |
+| size1 | Size | जोड़ने के लिए पहला [`Size`](../)। |
+| size2 | Size | जोड़ने के लिए दूसरा [`Size`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`Size`](../) संरचना जो अतिरिक्त ऑपरेशन का परिणाम है।
+एक [`Size`](../) संरचना जो जोड़ संचालन का परिणाम है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

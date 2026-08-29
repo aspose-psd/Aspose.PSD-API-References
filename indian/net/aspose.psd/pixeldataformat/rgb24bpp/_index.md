@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb24Bpp
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. ह जत हैPixelDataFormat 24 बट्स प्रत पक्सेल के लए परभषत कय गय है प्रत्येक अल्फ लल हरे और नले रंग के लए 8 बट्स के सथ अल्फ परभषत नहं है
+title: "PixelDataFormat.Rgb24Bpp"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। 24 बिट प्रति पिक्सेल के लिए परिभाषित PixelDataFormat प्राप्त करता है, जिसमें अल्फा, लाल, हरा और नीला प्रत्येक के लिए 8 बिट होते हैं, अल्फा परिभाषित नहीं है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/pixeldataformat/rgb24bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb24Bpp property
 
-हो जाता है[`PixelDataFormat`](../) 24 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है, प्रत्येक अल्फा, लाल, हरे और नीले रंग के लिए 8 बिट्स के साथ, अल्फा परिभाषित नहीं है।
+[`PixelDataFormat`](../) को प्राप्त करता है, जो 24 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें अल्फा, लाल, हरा और नीला प्रत्येक के लिए 8 बिट होते हैं, अल्फा परिभाषित नहीं है।
 
 ```csharp
 public static PixelDataFormat Rgb24Bpp { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`PixelDataFormat`](../) 24 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है, प्रत्येक अल्फा, लाल, हरे और नीले रंग के लिए 8 बिट्स के साथ, अल्फा परिभाषित नहीं है।
+यह [`PixelDataFormat`](../) 24 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें अल्फा, लाल, हरा और नीला प्रत्येक के लिए 8 बिट होते हैं, अल्फा परिभाषित नहीं है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

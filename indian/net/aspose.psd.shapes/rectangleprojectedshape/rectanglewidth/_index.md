@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleProjectedShape संपत्त. आयत क चड़ई प्रप्त करत है
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleProjectedShape प्रॉपर्टी। आयत की चौड़ाई प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
-आयत की चौड़ाई प्राप्त करता है।
+आयत की चौड़ाई को प्राप्त करता है।
 
 ```csharp
 public double RectangleWidth { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 आयत की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RectangleProjectedShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

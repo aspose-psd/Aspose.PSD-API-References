@@ -1,24 +1,25 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DitheringMode संपत्त. डइथरंग के लए कस्टम पैलेट.
+title: "DitheringMode.CustomPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DitheringMode प्रॉपर्टी। डिथरिंग के लिए कस्टम पैलेट"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
-डाइथरिंग के लिए कस्टम पैलेट.
+डिथरिंग के लिए कस्टम पैलेट।
 
 ```csharp
 public IColorPalette CustomPalette { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* नाम स्थान [Aspose.PSD.Dithering](../../ditheringmode/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

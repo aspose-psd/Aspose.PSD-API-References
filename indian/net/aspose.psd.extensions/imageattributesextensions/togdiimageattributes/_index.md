@@ -1,32 +1,33 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributesExtensions तरक. परवर्तत करत हैImageAttributes तकImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributesExtensions मेथड। ImageAttributes को ImageAttributes में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-परिवर्तित करता है[`ImageAttributes`](../../../aspose.psd/imageattributes/) तकImageAttributes .
+[`ImageAttributes`](../../../aspose.psd/imageattributes/) को ImageAttributes में परिवर्तित करता है।
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | [`ImageAttributes`](../../../aspose.psd/imageattributes/) रूपान्तरण करने के लिए। |
+| imageAttributes | ImageAttributes | परिवर्तित करने के लिए [`ImageAttributes`](../../../aspose.psd/imageattributes/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितImageAttributes.
+परिवर्तित ImageAttributes।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

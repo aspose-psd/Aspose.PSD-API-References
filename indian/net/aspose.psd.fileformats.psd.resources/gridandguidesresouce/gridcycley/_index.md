@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleY
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GridAndGuidesResouce संपत्त. लंबवत ग्रड चक्र प्रप्त य सेट करत है डफ़ल्ट 576. है
+title: "GridAndGuidesResouce.GridCycleY"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GridAndGuidesResouce प्रॉपर्टी। लंबवत ग्रिड साइकिल को प्राप्त करता है या सेट करता है। डिफ़ॉल्ट 576 है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcycley/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleY property
 
-लंबवत ग्रिड चक्र प्राप्त या सेट करता है। डिफ़ॉल्ट 576. है
+वर्टिकल ग्रिड साइकिल को प्राप्त करता है या सेट करता है। डिफ़ॉल्ट 576 है।
 
 ```csharp
 public int GridCycleY { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊर्ध्वाधर ग्रिड चक्र।
+लंबवत ग्रिड साइकिल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GridAndGuidesResouce](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

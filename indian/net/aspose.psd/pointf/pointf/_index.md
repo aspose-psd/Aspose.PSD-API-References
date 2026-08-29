@@ -1,28 +1,29 @@
 ---
-title: PointF.PointF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF नर्मत. क एक नय उदहरण प्ररंभ करत हैPointF नर्दष्ट नर्देशंक के सथ संरचन.
+title: "PointF.PointF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF कंस्ट्रक्टर। निर्दिष्ट निर्देशांक के साथ PointF संरचना का नया इंस्टेंस प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`PointF`](../) निर्दिष्ट निर्देशांक के साथ संरचना.
+निर्दिष्ट निर्देशांक के साथ [`PointF`](../) संरचना का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | x | Single | बिंदु की क्षैतिज स्थिति। |
-| y | Single | बिंदु की ऊर्ध्वाधर स्थिति। |
+| y | Single | बिंदु की लंबवत स्थिति। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

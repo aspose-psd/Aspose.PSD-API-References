@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions तरक. मन्य टैग संख्य प्रप्त करत है
+title: "TiffOptions.GetValidTagsCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions मेथड। वैध टैग्स की गिनती प्राप्त करता है"
 type: docs
-weight: 760
+weight: 770
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetValidTagsCount method
 
-मान्य टैग संख्या प्राप्त करता है।
+वैध टैग्स की गिनती प्राप्त करता है।
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tags | TiffDataType[] | मान्य करने के लिए टैग। |
+| टैग्स | TiffDataType[] | मान्य करने के लिए टैग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-मान्य टैग गिने जाते हैं।
+वैध टैगों की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

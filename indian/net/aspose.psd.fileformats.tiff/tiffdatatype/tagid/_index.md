@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType संपत्त. टैग आईड प्रप्त करत है
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType प्रॉपर्टी. टैग आईडी प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
 टैग आईडी प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 public TiffTags TagId { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टैग आईडी.
+टैग आईडी।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: Image.FileFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. फ़इल स्वरूप क मन प्रप्त करत है
+title: "Image.FileFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-फ़ाइल स्वरूप का मान प्राप्त करता है
+फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

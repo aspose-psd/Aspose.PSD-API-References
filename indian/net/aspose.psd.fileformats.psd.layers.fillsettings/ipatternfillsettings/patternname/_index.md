@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPatternFillSettings संपत्त. पैटर्न क नम प्रप्त य सेट करत है
+title: "IPatternFillSettings.PatternName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPatternFillSettings प्रॉपर्टी। पैटर्न का नाम प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternName property
 
-पैटर्न का नाम प्राप्त या सेट करता है।
+पैटर्न का नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पैटर्न का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

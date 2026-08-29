@@ -1,22 +1,23 @@
 ---
-title: VogkResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VogkResource संपत्त. परत संसधन के लए आवश्यक न्यूनतम PSD संस्करण प्रप्त करत है 0 कई प्रतबंध नहं दर्शत है
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VogkResource प्रॉपर्टी। लेयर रिसोर्स के लिए आवश्यक न्यूनतम psd संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-परत संसाधन के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है।
+लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण VogkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न उदाहरण VogkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // अध्ययन
+    // पढ़ना
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VogkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpHeaderPi नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpHeaderPi वर्ग.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpHeaderPi कंस्ट्रक्टर। XmpHeaderPi क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpHeaderPi`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`XmpHeaderPi`](../) क्लास का।
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpHeaderPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpHeaderPi`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`XmpHeaderPi`](../) क्लास का।
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | guid | String | अद्वितीय पहचानकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpHeaderPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Interface IImageLoaderDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IImageLoaderDescriptor इंटरफेस. लडर गुणं क नर्दष्ट करने वल इमेज लडर डस्क्रप्टर लडर डस्क्रप्टर क उपयग मेमर और मल्टथ्रेडंग मुद्दं में प्रत्येक छव लडर उदहरण क समहत करने क आवश्यकत क दूर करने के लए कय जत है
+title: "इंटरफ़ेस IImageLoaderDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IImageLoaderDescriptor इंटरफ़ेस। इमेज लोडर डिस्क्रिप्टर जो लोडर प्रॉपर्टीज़ को निर्दिष्ट करता है। लोडर डिस्क्रिप्टर का उपयोग प्रत्येक इमेज लोडर इंस्टेंस को मेमोरी में रखने की आवश्यकता और मल्टीथ्रेडिंग समस्याओं को दूर करने के लिए किया जाता है।"
 type: docs
-weight: 4460
+weight: 4930
 url: /hi/net/aspose.psd/iimageloaderdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor interface
 
-लोडर गुणों को निर्दिष्ट करने वाला इमेज लोडर डिस्क्रिप्टर। लोडर डिस्क्रिप्टर का उपयोग मेमोरी और मल्टीथ्रेडिंग मुद्दों में प्रत्येक छवि लोडर उदाहरण को समाहित करने की आवश्यकता को दूर करने के लिए किया जाता है।
+छवि लोडर विवरणकर्ता जो लोडर गुणों को निर्दिष्ट करता है। लोडर विवरणकर्ता का उपयोग प्रत्येक छवि लोडर इंस्टेंस को मेमोरी में रखने की आवश्यकता और मल्टीथ्रेडिंग समस्याओं को दूर करने के लिए किया जाता है।
 
 ```csharp
 public interface IImageLoaderDescriptor : IImageDescriptor
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | निर्धारित करता है कि छवि लोडर निर्दिष्ट स्ट्रीम से एक नई छवि पढ़ सकता है और वैकल्पिक रूप से*loadOptions* . |
-| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | एक नया लोडर उदाहरण बनाता है। |
+| [CanLoad](../../aspose.psd/iimageloaderdescriptor/canload/)(StreamContainer, LoadOptions) | निर्धारित करता है कि इमेज लोडर निर्दिष्ट स्ट्रीम से नई इमेज पढ़ सकता है या नहीं, और वैकल्पिक रूप से *loadOptions* का उपयोग करके। |
+| [CreateInstance](../../aspose.psd/iimageloaderdescriptor/createinstance/)() | एक नया लोडर इंस्टेंस बनाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

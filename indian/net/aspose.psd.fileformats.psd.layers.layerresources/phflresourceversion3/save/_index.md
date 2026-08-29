@@ -1,29 +1,30 @@
 ---
-title: PhflResourceVersion3.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion3 तरक. संसधन क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "PhflResourceVersion3.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion3 विधि। संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
-weight: 110
+weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/save/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Save method
 
-संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
+निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है।
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PhflResourceVersion3](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

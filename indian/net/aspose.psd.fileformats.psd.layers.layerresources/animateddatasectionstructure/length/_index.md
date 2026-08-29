@@ -1,23 +1,24 @@
 ---
-title: AnimatedDataSectionStructure.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AnimatedDataSectionStructure संपत्त. ह जत हैOSTypeStructure बइट्स में लंबई.
+title: "AnimatedDataSectionStructure.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AnimatedDataSectionStructure प्रॉपर्टी। यह OSTypeStructure की लंबाई बाइट्स में प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Length property
 
-हो जाता है[`OSTypeStructure`](../../ostypestructure/) बाइट्स में लंबाई.
+[`OSTypeStructure`](../../ostypestructure/) की लंबाई बाइट्स में प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AnimatedDataSectionStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

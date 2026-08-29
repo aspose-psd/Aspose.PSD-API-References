@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Texts
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UrlListResource संपत्त. टेक्स्ट प्रप्त करत है य सेट करत है.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UrlListResource प्रॉपर्टी। टेक्स्ट्स प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
-टेक्स्ट प्राप्त करता है या सेट करता है.
+टेक्स्ट्स को प्राप्त या सेट करता है।
 
 ```csharp
 public string[] Texts { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ग्रंथ।
+टेक्स्ट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [UrlListResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

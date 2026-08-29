@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. नर्धरत करत है क क्य फ़न्ट क अनुमत है नर्दष्ट फ़न्ट नम.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। निर्धारित करता है कि निर्दिष्ट फ़ॉन्ट नाम के लिए फ़ॉन्ट अनुमति है या नहीं"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-निर्धारित करता है कि क्या [फ़ॉन्ट की अनुमति है] [निर्दिष्ट फ़ॉन्ट नाम].
+निर्धारित करता है कि क्या [is font allowed] [निर्दिष्ट फ़ॉन्ट नाम]।
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fontName | String | फ़ॉन्ट का नाम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` अगर [फ़ॉन्ट की अनुमति है] [निर्दिष्ट फ़ॉन्ट नाम]; अन्यथा,`असत्य` .
+`true` यदि [is font allowed] [the specified font name]; अन्यथा, `false`.
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उपयोग करने वाले फोंट को प्रोग्रामेटिक रूप से सीमित करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड प्रोग्रामेटिक रूप से फ़ॉन्ट को सीमित करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

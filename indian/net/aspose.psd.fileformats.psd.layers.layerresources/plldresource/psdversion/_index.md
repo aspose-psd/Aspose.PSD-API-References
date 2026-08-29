@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PlLdResource संपत्त. पएलड संसधन के लए आवश्यक न्यूनतम पएसड संस्करण प्रप्त करत है 0 कई प्रतबंध नहं दर्शत है
+title: "PlLdResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PlLdResource प्रॉपर्टी। PlLd संसाधन के लिए आवश्यक न्यूनतम psd संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/
 ---
+{{< psd/tize >}}
 ## PlLdResource.PsdVersion property
 
-पीएलडी संसाधन के लिए आवश्यक न्यूनतम पीएसडी संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है।
+PlLd संसाधन के लिए आवश्यक न्यूनतम psd संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlLdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

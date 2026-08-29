@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. अक्षरं क एक सथ जड़ने के लए उपयग कए जने वले मनक प्रसंगक संयुक्तक्षर
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle property. अक्षरों को जोड़ने के लिए उपयोग की जाने वाली मानक संदर्भात्मक लिगेचर"
 type: docs
 weight: 220
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-अक्षरों को एक साथ जोड़ने के लिए उपयोग किए जाने वाले मानक प्रासंगिक संयुक्ताक्षर।
+अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले मानक कॉन्टेक्स्चुअल लिगेचर।
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नए ITextStyle गुणों के समर्थन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए ITextStyle गुणों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// मूल्यों की जाँच करें
+// मान जांचें
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

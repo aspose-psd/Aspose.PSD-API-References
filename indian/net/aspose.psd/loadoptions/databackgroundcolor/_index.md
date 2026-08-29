@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LoadOptions संपत्त. ह जत है य सेट करत हैImage पृष्ठभूमColor .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LoadOptions प्रॉपर्टी। Image पृष्ठभूमि Color को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-हो जाता है या सेट करता है[`Image`](../../image/) पृष्ठभूमि[`Color`](../../color/) .
+[`Image`](../../image/) पृष्ठभूमि [`Color`](../../color/) को प्राप्त या सेट करता है।
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पृष्ठभूमि का रंग।
+पृष्ठभूमि रंग।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-आमतौर पर पृष्ठभूमि का रंग तब सेट किया जाता है जब डेटा भ्रष्टाचार के कारण पिक्सेल मान पुनर्प्राप्त नहीं किया जा सकता है।
+आमतौर पर पृष्ठभूमि रंग सेट किया जाता है जब भी पिक्सेल मान डेटा भ्रष्टाचार के कारण पुनर्प्राप्त नहीं किया जा सकता।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* नाम स्थान [Aspose.PSD](../../loadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

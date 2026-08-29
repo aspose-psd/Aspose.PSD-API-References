@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidatedPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य इस उदहरण में एक आकृत अमन्य संपत्त सेट है
+title: "VectorShapeOriginSettings.IsShapeInvalidatedPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि इस इंस्टेंस में शेप इनवैलिडेटेड प्रॉपर्टी सेट है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidatedPresent property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में एक आकृति अमान्य संपत्ति सेट है।
+क्या इस उदाहरण में shape invalidated property सेट है, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsShapeInvalidatedPresent { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण में एक आकृति अमान्य संपत्ति सेट है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में शेप इनवैलिडेटेड प्रॉपर्टी सेट है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

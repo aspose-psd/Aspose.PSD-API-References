@@ -1,23 +1,24 @@
 ---
-title: FXidResource.FEidTypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FXidResource मैदन. प्रकर उपकरण जनकर कुंज FEid.
+title: "FXidResource.FEidTypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FXidResource फ़ील्ड। टाइप टूल जानकारी कुंजी FEid।"
 type: docs
-weight: 90
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/
 ---
+{{< psd/tize >}}
 ## FXidResource.FEidTypeToolKey field
 
-प्रकार उपकरण जानकारी कुंजी FEid.
+टाइप टूल जानकारी कुंजी FEid।
 
 ```csharp
 public const int FEidTypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FXidResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

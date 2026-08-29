@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.RemoveFigures
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. आंकड़े नकलत है
+title: "GraphicsPath.RemoveFigures"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। आकृतियों को हटाता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/graphicspath/removefigures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.RemoveFigures method
 
-आंकड़े निकालता है।
+आकृतियों को हटाता है।
 
 ```csharp
 public void RemoveFigures(Figure[] figures)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| figures | Figure[] | निकालने के आंकड़े। |
+| आकृतियाँ | Figure[] | हटाने के लिए आकृतियाँ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Empty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle संपत्त. क एक नय उदहरण प्रप्त करत हैRectangle संरचन जसमें हैX Y Width औरHeight मन शून्य पर सेट.
+title: "Rectangle.Empty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle प्रॉपर्टी। X, Y, Width और Height मान शून्य पर सेट वाली Rectangle संरचना की नई इंस्टेंस प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/rectangle/empty/
 ---
+{{< psd/tize >}}
 ## Rectangle.Empty property
 
-का एक नया उदाहरण प्राप्त करता है[`Rectangle`](../) संरचना जिसमें है[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) और[`Height`](../height/) मान शून्य पर सेट.
+शून्य पर सेट किए गए [`X`](../x/), [`Y`](../y/), [`Width`](../width/) और [`Height`](../height/) मानों वाली नई [`Rectangle`](../) संरचना प्राप्त करता है।
 
 ```csharp
 public static Rectangle Empty { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

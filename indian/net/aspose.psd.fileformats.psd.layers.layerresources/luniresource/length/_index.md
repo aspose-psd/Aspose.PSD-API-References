@@ -1,23 +1,24 @@
 ---
-title: LuniResource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LuniResource संपत्त. बइट्स में परत संसधन लंबई प्रप्त करत है
+title: "LuniResource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LuniResource प्रॉपर्टी। बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है"
 type: docs
-weight: 30
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/length/
 ---
+{{< psd/tize >}}
 ## LuniResource.Length property
 
-बाइट्स में परत संसाधन लंबाई प्राप्त करता है।
+बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LuniResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

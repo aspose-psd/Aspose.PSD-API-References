@@ -1,26 +1,27 @@
 ---
-title: PathStructure.Path
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathStructure संपत्त. पथ प्रप्त य सेट करत है
+title: "PathStructure.Path"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathStructure प्रॉपर्टी। पाथ प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/
 ---
+{{< psd/tize >}}
 ## PathStructure.Path property
 
-पथ प्राप्त या सेट करता है।
+पथ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पूरा पथ.
+पूरा पथ।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड पथ संरचना संरचना के साथ फ़ाइल लोड करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड PathStructure संरचना के साथ फ़ाइल लोड करने की क्षमता को दर्शाता है।
 
 ```csharp
 [C#]
@@ -34,10 +35,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PathStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

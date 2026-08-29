@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix40
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix संपत्त. तत्व क चथ पंक्त और 0 शून्य कलम पर प्रप्त य सेट करत हैColorMatrix .
+title: "ColorMatrix.Matrix40"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix प्रॉपर्टी। इस ColorMatrix की चौथी पंक्ति और 0 शून्य कॉलम में तत्व को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 230
 url: /hi/net/aspose.psd/colormatrix/matrix40/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix40 property
 
-तत्व को चौथी पंक्ति और 0 (शून्य) कॉलम पर प्राप्त या सेट करता है[`ColorMatrix`](../) .
+इस [`ColorMatrix`](../) की चौथी पंक्ति और 0 (शून्य) कॉलम में तत्व को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Matrix40 { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चौथी पंक्ति में तत्व और इसका 0 स्तंभ[`ColorMatrix`](../).
+इस [`ColorMatrix`](../) की चौथी पंक्ति और 0 कॉलम में तत्व।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

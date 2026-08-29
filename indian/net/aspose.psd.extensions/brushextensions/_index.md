@@ -1,28 +1,29 @@
 ---
-title: Class BrushExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.BrushExtensions कक्ष. के लए वस्तर वधयँ शमल हैंBrush औरBrush .
+title: "क्लास BrushExtensions।"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.BrushExtensions क्लास। इसमें Brush और Brush के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1030
+weight: 1040
 url: /hi/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Brush`](../../aspose.psd/brush/) औरBrush .
+[`Brush`](../../aspose.psd/brush/) और Brush के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class BrushExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | परिवर्तित करता है[`Brush`](../../aspose.psd/brush/) तकBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | [`Brush`](../../aspose.psd/brush/) को Brush में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

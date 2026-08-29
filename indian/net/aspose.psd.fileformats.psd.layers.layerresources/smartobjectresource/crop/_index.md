@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. PSD इमेज में स्मर्ट ऑब्जेक्ट लेयर डेट क क्रप प्रप्त य सेट करत है
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource property. प्राप्त करता है या सेट करता है PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर डेटा का क्रॉप"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर डेटा का क्रॉप प्राप्त या सेट करता है।
+PSD छवि में स्मार्ट ऑब्जेक्ट लेयर डेटा की क्रॉप को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत जानकारी का क्रॉप मान.
+प्लेस्ड लेयर जानकारी का क्रॉप वैल्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. फ़इल संस्करण.
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। फ़ाइल संस्करण"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
-फ़ाइल संस्करण.
+फ़ाइल संस्करण।
 
 ```csharp
 public static readonly string FileVersion;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

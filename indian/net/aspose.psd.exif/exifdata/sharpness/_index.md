@@ -1,27 +1,28 @@
 ---
-title: ExifData.Sharpness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. तखेपन क प्रप्त य सेट करत है
+title: "ExifData.Sharpness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। तीक्ष्णता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 940
 url: /hi/net/aspose.psd.exif/exifdata/sharpness/
 ---
+{{< psd/tize >}}
 ## ExifData.Sharpness property
 
-तीखेपन को प्राप्त या सेट करता है।
+तीक्ष्णता को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort Sharpness { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कुशाग्रता.
+तीक्ष्णता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

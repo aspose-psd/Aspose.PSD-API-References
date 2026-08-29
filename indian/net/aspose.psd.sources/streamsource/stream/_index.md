@@ -1,11 +1,12 @@
 ---
-title: StreamSource.Stream
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamSource संपत्त. स्ट्रम प्रप्त करत है
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamSource प्रॉपर्टी। स्ट्रीम प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
 स्ट्रीम प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.sources/streamsource/stream/
 public Stream Stream { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्रोत धारा।
+स्रोत स्ट्रीम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../streamsource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

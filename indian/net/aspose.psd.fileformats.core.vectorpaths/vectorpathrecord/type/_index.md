@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecord.Type
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorPathRecord संपत्त. प्रकर प्रप्त करत है
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorPathRecord प्रॉपर्टी। प्रकार प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
 प्रकार प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 public abstract VectorPathType Type { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वेक्टर पथ प्रकार.
+वेक्टर पाथ प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

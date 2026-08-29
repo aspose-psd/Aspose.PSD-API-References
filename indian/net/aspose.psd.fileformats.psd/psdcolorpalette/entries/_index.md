@@ -1,32 +1,33 @@
 ---
-title: PsdColorPalette.Entries
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdColorPalette संपत्त. क एक सरण प्रप्त करत हैColor संरचनएं.
+title: "PsdColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdColorPalette प्रॉपर्टी। Color संरचनाओं की एक एरे प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Entries property
 
-की एक सरणी प्राप्त करता है[`Color`](../../../aspose.psd/color/) संरचनाएं.
+[`Color`](../../../aspose.psd/color/) संरचनाओं की एक एरे प्राप्त करता है।
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-की सरणी[`Color`](../../../aspose.psd/color/) संरचना जो इसे बनाती है[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+यह [`ColorPalette`](../../../aspose.psd/colorpalette/) बनाते हुए [`Color`](../../../aspose.psd/color/) संरचनाओं की एरे है।
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियाँ।
+एंट्रीज़।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

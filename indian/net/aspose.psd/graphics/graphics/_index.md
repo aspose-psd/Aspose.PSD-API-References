@@ -1,28 +1,29 @@
 ---
-title: Graphics.Graphics
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics नर्मत. क एक नय उदहरण प्ररंभ करत हैGraphics वर्ग.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics कंस्ट्रक्टर। Graphics क्लास का एक नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`Graphics`](../) वर्ग.
+[`Graphics`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Graphics(Image sourceImage)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sourceImage | Image | स्रोत छवि। |
+| sourceImage | छवि | स्रोत छवि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

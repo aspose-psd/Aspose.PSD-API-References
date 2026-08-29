@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. अधकतम पक्सेल मन प्रप्त करत है.
+title: "RdOptimizerSettings.MaxPixelValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings प्रॉपर्टी। अधिकतम पिक्सेल वैल्यू प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxPixelValue property
 
-अधिकतम पिक्सेल मान प्राप्त करता है.
+अधिकतम पिक्सेल मान प्राप्त करता है।
 
 ```csharp
 public int MaxPixelValue { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अधिकतम अधिकतम पिक्सेल मान.
+अधिकतम अधिकतम पिक्सेल वैल्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

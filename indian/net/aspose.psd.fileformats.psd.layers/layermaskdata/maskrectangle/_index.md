@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. मस्क प्रप्त करत है य सेट करत हैRectanglePSD फ़इल में लेयर मस्क क यह बएँ दएँ ऊपर और नचे के गुणं क लेत है और बनत हैRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। PSD फ़ाइल में लेयर मास्क के मास्क Rectangle को प्राप्त करता है या सेट करता है। यह बाएँ, दाएँ, ऊपर और नीचे की प्रॉपर्टीज़ लेता है और Rectangle बनाता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-मास्क प्राप्त करता है या सेट करता है[`Rectangle`](../../../aspose.psd/rectangle/)PSD फ़ाइल में लेयर मास्क का। यह बाएँ, दाएँ, ऊपर और नीचे के गुणों को लेता है और बनाता है[`Rectangle`](../../../aspose.psd/rectangle/)
+मास्क [`Rectangle`](../../../aspose.psd/rectangle/) को प्राप्त करता है या सेट करता है, जो PSD फ़ाइल में लेयर मास्क का है। यह बाएँ, दाएँ, ऊपर और नीचे की प्रॉपर्टीज़ लेता है और [`Rectangle`](../../../aspose.psd/rectangle/) बनाता है
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मुखौटा आयत।
+मास्क Rectangle।
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दिखाता है कि Adobe® Photoshop® फ़ाइल में प्रोग्रामेटिक रूप से रास्टर लेयर मास्क कैसे प्राप्त करें, अपडेट करें, निकालें और जोड़ें।
+यह उदाहरण दिखाता है कि Adobe® Photoshop® फ़ाइल में रास्टर लेयर मास्क को प्रोग्रामेटिक रूप से कैसे प्राप्त करें, अपडेट करें, हटाएँ और जोड़ें।
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// बिग-एंडियन बाइट्स ऑर्डर में परिवर्तित इंट वैल्यू प्राप्त करें।
+// int मान को बिग-एंडियन बाइट क्रम में परिवर्तित करके प्राप्त करता है।
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// बड़े एंडियन से Int32 में परिवर्तित मान प्राप्त करें।
+// बिग-एंडियन से Int32 में परिवर्तित मान को प्राप्त करता है।
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// एक PSD छवि की परत से एक रेखापुंज मुखौटा प्राप्त करता है और इसे एक फ़ाइल में सहेजता है
+// PSD इमेज की लेयर से रास्टर मास्क प्राप्त करता है और उसे फ़ाइल में सहेजता है
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// फाइल से लेयर में एक रैस्टर मास्क जोड़ता है और इसे PSD फॉर्मेट इमेज सेव करता है
+// फ़ाइल से रास्टर मास्क को लेयर में जोड़ता है और उसे PSD फ़ॉर्मेट इमेज में सहेजता है
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // सिर्फ LayerMaskData जोड़ना सही बचत के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं होते हैं;
-    // लेयर। लेयरमास्कडाटा = मास्क; // यह मास्क चैनल नहीं जोड़ता है
+    // केवल LayerMaskData जोड़ना सही सहेजने के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं किए गए हैं;
+    // layer.LayerMaskData = mask; // यह मास्क चैनल नहीं जोड़ता है
 
-    // मास्क जोड़ें (या अपडेट करें)।
-    layer.AddLayerMask(maskData); // लेकिन यह मास्क और चैनल दोनों को जोड़ता/अपडेट करता है!
+    // मास्क जोड़ें (या अपडेट करें)
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// यह उदाहरण दिखाता है कि Adobe® Photoshop® फ़ाइल में प्रोग्रामेटिक रूप से रास्टर लेयर मास्क कैसे प्राप्त करें, अपडेट करें, निकालें और जोड़ें।
+// यह उदाहरण दिखाता है कि Adobe® Photoshop® फ़ाइल में रास्टर लेयर मास्क को प्रोग्रामेटिक रूप से कैसे प्राप्त करें, अपडेट करें, हटाएँ और जोड़ें।
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // परत से रास्टर मास्क प्राप्त करें और इसे फ़ाइल में सहेजें
+    // लेयर से रास्टर मास्क प्राप्त करें और उसे फ़ाइल में सहेजें
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // लेयर मास्क (इनवर्ट) बदलें और इमेज को सेव करें
+    // लेयर मास्क बदलें (इनवर्ट) और इमेज सहेजें
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,33 +126,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // सिर्फ LayerMaskData को बदलना रेंडरिंग को प्रभावित करने के लिए पर्याप्त है
+    // केवल LayerMaskData बदलना रेंडरिंग पर प्रभाव डालने के लिए पर्याप्त है
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // लेकिन सिर्फ LayerMaskData को बदलना सही बचत के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं होते हैं;
-    layer.LayerMaskData = mask; // यह या तो काम नहीं करता है
-    layer.AddLayerMask(mask); // लेकिन यह मास्क और चैनल दोनों को अपडेट करता है!
+    // लेकिन केवल LayerMaskData बदलना सही सहेजने के लिए पर्याप्त नहीं है क्योंकि चैनल अपडेट नहीं किए गए हैं;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // लेयर से रास्टर मास्क निकालें और इमेज को सेव करें
-    layer.LayerMaskData = null; // केवल LayerMaskData को हटाना रेंडरिंग को प्रभावित करने के लिए पर्याप्त है, लेकिन PSD प्रारूप में सहेजने के लिए नहीं
+    // लेयर से रास्टर मास्क हटाएँ और इमेज सहेजें
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // लेकिन यह मास्क और मास्क चैनल दोनों को हटा देता है!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // फाइल से लेयर में रैस्टर मास्क जोड़ें और इमेज को सेव करें
+    // फ़ाइल से रास्टर मास्क को लेयर में जोड़ें और इमेज सहेजें
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

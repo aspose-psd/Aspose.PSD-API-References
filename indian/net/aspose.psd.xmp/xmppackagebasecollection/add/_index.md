@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackageBaseCollection तरक. क नय उदहरण जड़त हैXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackageBaseCollection मेथड। XmpPackage का नया इंस्टेंस जोड़ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-का नया उदाहरण जोड़ता है[`XmpPackage`](../../xmppackage/) .
+नया इंस्टेंस जोड़ता है [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| package | XmpPackage | जोड़ने के लिए XMP पैकेज। |
+| पैकेज | XmpPackage | जोड़ने के लिए XMP पैकेज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSensingMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod एनुम. एक्सफ सेंसंग मेथड एनम.
+title: "Enum ExifSensingMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod enum. exif सेंसिंग विधि enum"
 type: docs
-weight: 940
+weight: 950
 url: /hi/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-एक्सिफ सेंसिंग मेथड एनम.
+exif सेंसिंग मेथड एनेम.
 
 ```csharp
 public enum ExifSensingMethod
@@ -16,19 +17,19 @@ public enum ExifSensingMethod
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Notdefined | `1` | परिभाषित नहीं है। |
 | OneChipColorArea | `2` | एक चिप रंग क्षेत्र। |
 | TwoChipColorArea | `3` | दो चिप रंग क्षेत्र। |
 | ThreeChipColorArea | `4` | तीन चिप रंग क्षेत्र। |
-| Colorsequentialarea | `5` | रंग अनुक्रमिक क्षेत्र। |
-| Trilinearsensor | `7` | ट्रिलिनियर सेंसर. |
-| Colorsequentiallinear | `8` | रंग अनुक्रमिक रैखिक सेंसर। |
+| Colorsequentialarea | `5` | रंग क्रमिक क्षेत्र। |
+| Trilinearsensor | `7` | त्रिलीनियर सेंसर। |
+| Colorsequentiallinear | `8` | रंग क्रमिक रैखिक सेंसर। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

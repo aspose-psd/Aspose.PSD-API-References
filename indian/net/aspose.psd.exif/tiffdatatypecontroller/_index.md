@@ -1,14 +1,15 @@
 ---
-title: Class TiffDataTypeController
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.TiffDataTypeController कक्ष. टफ डेट प्रकरं के सथ कम करने के लए समन्य वर्ग क प्रतनधत्व करत है
+title: "क्लास TiffDataTypeController"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.TiffDataTypeController क्लास। TIFF डेटा प्रकारों के साथ काम करने के लिए सामान्य क्लास का प्रतिनिधित्व करता है।"
 type: docs
-weight: 1020
+weight: 1030
 url: /hi/net/aspose.psd.exif/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController class
 
-टिफ डेटा प्रकारों के साथ काम करने के लिए सामान्य वर्ग का प्रतिनिधित्व करता है।
+TIFF डेटा प्रकारों के साथ काम करने के लिए सामान्य क्लास का प्रतिनिधित्व करता है।
 
 ```csharp
 public class TiffDataTypeController
@@ -18,11 +19,11 @@ public class TiffDataTypeController
 
 | नाम | विवरण |
 | --- | --- |
-| [TiffDataTypeController](tiffdatatypecontroller/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [TiffDataTypeController](tiffdatatypecontroller/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif](../../aspose.psd.exif/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif](../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../)
 
 

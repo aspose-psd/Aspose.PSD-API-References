@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. एक्सपजर इंडेक्स प्रप्त य सेट करत है
+title: "ExifData.ExposureIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। एक्सपोजर इंडेक्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd.exif/exifdata/exposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureIndex property
 
-एक्सपोजर इंडेक्स प्राप्त या सेट करता है।
+एक्सपोज़र इंडेक्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational ExposureIndex { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक्सपोजर का सूचकांक।
+एक्सपोजर का इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. धर के लए एक पूर्णंक मन लखत है
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter मेथड। स्ट्रीम में एकल पूर्णांक मान लिखता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-धारा के लिए एक पूर्णांक मान लिखता है।
+स्ट्रीम में एकल इंटीजर मान लिखता है।
 
 ```csharp
 public void WriteSlong(int data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Int32 | लिखने का मूल्य। |
+| डेटा | Int32 | लिखने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum WarpMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.WarpMode एनुम. लगू तन परवर्तन के प्रकर क नर्दष्ट करत है
+title: "एनम WarpMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.WarpMode एनम। लागू किए गए वार्प ट्रांसफ़ॉर्मेशन के प्रकार को निर्दिष्ट करता है"
 type: docs
-weight: 5730
+weight: 6230
 url: /hi/net/aspose.psd/warpmode/
 ---
+{{< psd/tize >}}
 ## WarpMode enumeration
 
-लागू ताना परिवर्तन के प्रकार को निर्दिष्ट करता है।
+लागू किए गए वार्प ट्रांसफ़ॉर्मेशन के प्रकार को निर्दिष्ट करता है।
 
 ```csharp
 public enum WarpMode
@@ -16,14 +17,14 @@ public enum WarpMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Perspective | `0` | एक परिप्रेक्ष्य ताना निर्दिष्ट करता है। |
-| Bilinear | `1` | एक द्विरेखीय ताना निर्दिष्ट करता है. |
+| Perspective | `0` | एक परिप्रेक्ष्य वार्प को निर्दिष्ट करता है। |
+| Bilinear | `1` | एक द्विरैखिक वार्प को निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

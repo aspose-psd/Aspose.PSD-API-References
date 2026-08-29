@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopRight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeRadiiRectangle संपत्त. शर्ष दईं ओर जत है य सेट करत है
+title: "VectorShapeRadiiRectangle.TopRight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeRadiiRectangle प्रॉपर्टी। ऊपर दाएँ को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopRight property
 
-शीर्ष दाईं ओर जाता है या सेट करता है।
+ऊपरी दायाँ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double TopRight { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊपर दाईं ओर.
+ऊपर दाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeRadiiRectangle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

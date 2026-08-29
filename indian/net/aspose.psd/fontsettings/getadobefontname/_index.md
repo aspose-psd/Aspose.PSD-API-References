@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. फ़न्ट परवर के नम से एडब फ़न्ट नम प्रप्त करत है
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। फ़ॉन्ट परिवार नाम द्वारा एडोब फ़ॉन्ट नाम प्राप्त करता है"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-फ़ॉन्ट परिवार के नाम से एडोब फ़ॉन्ट नाम प्राप्त करता है।
+फ़ॉन्ट परिवार नाम के आधार पर Adobe फ़ॉन्ट नाम प्राप्त करता है।
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fontFamilyName | String | फ़ॉन्ट परिवार का नाम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फ़ॉन्ट परिवार के नाम से एडोब फ़ॉन्ट नाम।
+फ़ॉन्ट परिवार नाम द्वारा एडोब फ़ॉन्ट नाम।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भाग शैली में फ़ॉन्ट नाम बदलने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड भाग शैली में फ़ॉन्ट नाम बदलने की क्षमता को दर्शाता है।
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResourceData संपत्त. ऊंचई प्रप्त करत है
+title: "PattResourceData.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResourceData प्रॉपर्टी। ऊँचाई प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
-ऊंचाई प्राप्त करता है।
+ऊँचाई को प्राप्त करता है।
 
 ```csharp
 public short Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊंचाई।
+ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

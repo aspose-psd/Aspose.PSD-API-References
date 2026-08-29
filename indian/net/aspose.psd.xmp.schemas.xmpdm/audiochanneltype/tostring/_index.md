@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType तरक. रटर्न एString ज इस उदहरण क प्रतनधत्व करत है
+title: "AudioChannelType.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType मेथड। एक स्ट्रिंग लौटाता है जो इस इंस्टेंस का प्रतिनिधित्व करती है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.ToString method
 
-रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है।
+इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एString जो इस उदाहरण का प्रतिनिधित्व करता है।
+इस इंस्टेंस को दर्शाने वाली स्ट्रिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpElementBase तरक. वशेषत जड़त है
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpElementBase मेथड। एट्रिब्यूट जोड़ता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
-विशेषता जोड़ता है।
+ऐट्रिब्यूट जोड़ता है।
 
 ```csharp
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| attribute | String | विशेषता। |
-| value | String | मूल्य। |
+| विशेषता | String | विशेषता। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpElementBase](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpelementbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

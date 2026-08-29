@@ -1,28 +1,29 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.ColorMatrixExtensions कक्ष. दColorMatrix वस्तर के तरके
+title: "क्लास ColorMatrixExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions क्लास। ColorMatrix एक्सटेंशन मेथड्स।"
 type: docs
-weight: 1070
+weight: 1080
 url: /hi/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-द[`ColorMatrix`](../../aspose.psd/colormatrix/) विस्तार के तरीके।
+`[`ColorMatrix`](../../aspose.psd/colormatrix/)` एक्सटेंशन मेथड्स।
 
 ```csharp
 public static class ColorMatrixExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | परिवर्तित करता है[`ColorMatrix`](../../aspose.psd/colormatrix/) तकColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | `[`ColorMatrix`](../../aspose.psd/colormatrix/)` को ColorMatrix में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

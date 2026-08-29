@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PlacedResource संपत्त. PSD फ़इल में रख गई परत के बएं स्थन क प्रप्त य सेट करत है
+title: "PlacedResource.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PlacedResource प्रॉपर्टी। PSD फ़ाइल में स्थापित लेयर के बाएँ स्थान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Left property
 
-PSD फ़ाइल में रखी गई परत के बाएं स्थान को प्राप्त या सेट करता है।
+PSD फ़ाइल में रखी गई लेयर के बाएँ स्थान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत का बायाँ स्थान।
+स्थापित लेयर का बाएँ स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlacedResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

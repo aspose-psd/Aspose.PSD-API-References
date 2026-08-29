@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantCmyk संपत्त. मैजेंट घटक मन प्रप्त य सेट करत है
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantCmyk प्रॉपर्टी। मैजेंटा घटक मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-मैजेंटा घटक मान प्राप्त या सेट करता है।
+मैजेंटा घटक मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मैजेंटा घटक मान.
+मैजेंटा घटक का मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantCmyk](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

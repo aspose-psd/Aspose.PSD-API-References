@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffStreamWriter वर्ग.
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter कंस्ट्रक्टर। TiffStreamWriter क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffStreamWriter`](../) वर्ग.
+[`TiffStreamWriter`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| writer | StreamContainer | धारा लेखक। |
+| लेखक | StreamContainer | स्ट्रीम लेखक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

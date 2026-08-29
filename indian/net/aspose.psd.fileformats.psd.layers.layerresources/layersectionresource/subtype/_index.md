@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSectionResource संपत्त. उपप्रकर प्रप्त य सेट करत है
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSectionResource प्रॉपर्टी। उपप्रकार को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 80
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
-उपप्रकार प्राप्त या सेट करता है।
+सबटाइप को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public LayerSectionSubtype Subtype { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

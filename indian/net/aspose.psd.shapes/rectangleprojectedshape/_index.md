@@ -1,14 +1,15 @@
 ---
-title: Class RectangleProjectedShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Shapes.RectangleProjectedShape कक्ष. एक आकृत क प्रतनधत्व करत है ज आयत पर प्रक्षेपत हत है जसे एक वशेष अभवन्यस में बदल दय जत है चर बंदुओं द्वर नर्दष्ट कय जत है जसे कनरं क समन लंबई और आसन्न कनरं के बच 90 डग्र बनए रखते हुए अंतरक्ष में घुमय ज सकत है
+title: "क्लास RectangleProjectedShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Shapes.RectangleProjectedShape क्लास। एक आकार का प्रतिनिधित्व करता है जो आयत पर प्रोजेक्ट किया जाता है और विशेष अभिविन्यास में घुमाया जाता है। यह चार बिंदुओं द्वारा निर्दिष्ट होता है जिन्हें स्थान में घुमाया जा सकता है, समान किनारे की लंबाई और सन्निहित किनारों के बीच 90 डिग्री बनाए रखते हुए।"
 type: docs
-weight: 5520
+weight: 6020
 url: /hi/net/aspose.psd.shapes/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape class
 
-एक आकृति का प्रतिनिधित्व करता है जो आयत पर प्रक्षेपित होता है जिसे एक विशेष अभिविन्यास में बदल दिया जाता है। चार बिंदुओं द्वारा निर्दिष्ट किया जाता है जिसे किनारों की समान लंबाई और आसन्न किनारों के बीच 90 डिग्री बनाए रखते हुए अंतरिक्ष में घुमाया जा सकता है।
+एक ऐसा आकार दर्शाता है जो एक आयत पर प्रोजेक्ट किया गया है और विशेष अभिविन्यास में घुमाया गया है। यह चार बिंदुओं द्वारा निर्दिष्ट होता है जिन्हें स्थान में घुमाया जा सकता है, जबकि किनारों की लंबाई समान रहती है और क्रमागत किनारों के बीच 90 डिग्री का कोण बना रहता है।
 
 ```csharp
 public abstract class RectangleProjectedShape : Shape
@@ -18,36 +19,36 @@ public abstract class RectangleProjectedShape : Shape
 
 | नाम | विवरण |
 | --- | --- |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`RectangleProjectedShape` वर्ग. |
-| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | का एक नया उदाहरण प्रारंभ करता है`RectangleProjectedShape` वर्ग. |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor)() | `RectangleProjectedShape` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [RectangleProjectedShape](rectangleprojectedshape/#constructor_1)(RectangleF) | `RectangleProjectedShape` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | वस्तु की सीमा प्राप्त करता है। |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | आकार का केंद्र प्राप्त करता है। |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | एक मान प्राप्त करता है जो बताता है कि आकार में खंड हैं या नहीं। |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | बाएँ तल का आयत बिंदु प्राप्त करता है। |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | बाएं शीर्ष आयत बिंदु प्राप्त करता है। |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | आयत ऊंचाई प्राप्त करता है। |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | आयत की चौड़ाई प्राप्त करता है। |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | दाएं तल का आयत बिंदु प्राप्त करता है। |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | दाहिने शीर्ष आयत बिंदु प्राप्त करता है। |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | आकार खंड प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds)(Matrix) | वस्तु की सीमा प्राप्त करता है। |
-| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds_1)(Matrix, Pen) | वस्तु की सीमा प्राप्त करता है। |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार में लागू करता है। |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | आकार के केंद्र को प्राप्त करता है। |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि आकार में सेगमेंट हैं या नहीं। |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | बाएँ निचले आयत बिंदु को प्राप्त करता है। |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | बाएँ ऊपर के आयत बिंदु को प्राप्त करता है। |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | आयत की ऊँचाई को प्राप्त करता है। |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | आयत की चौड़ाई को प्राप्त करता है। |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | दाएँ निचले आयत बिंदु को प्राप्त करता है। |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | दाएँ ऊपर के आयत बिंदु को प्राप्त करता है। |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | आकार के खंडों को प्राप्त करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds)(Matrix) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| override [GetBounds](../../aspose.psd.shapes/rectangleprojectedshape/getbounds/#getbounds_1)(Matrix, Pen) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार पर लागू करता है। |
+
+### देखें भी
 
 * class [Shape](../../aspose.psd/shape/)
-* नाम स्थान [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

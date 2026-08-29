@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage संपत्त. एक मन प्रप्त करत है ज दर्शत है क छव डेट वर्तमन में कैश कय गय है य नहं
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage प्रॉपर्टी। वर्तमान में इमेज डेटा कैश किया गया है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-एक मान प्राप्त करता है जो दर्शाता है कि छवि डेटा वर्तमान में कैश किया गया है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि वर्तमान में छवि डेटा कैश किया गया है या नहीं।
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर छवि डेटा कैश किया गया है; अन्यथा,`असत्य` .
+`true` यदि इमेज डेटा कैश किया गया है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

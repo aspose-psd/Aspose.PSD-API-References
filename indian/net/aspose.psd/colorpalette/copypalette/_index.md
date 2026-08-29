@@ -1,58 +1,59 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPalette तरक. पैलेट कप करत है
+title: "ColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPalette मेथड। पैलेट की प्रतिलिपि बनाता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
-पैलेट कॉपी करता है।
+पैलेट की कॉपी बनाता है।
 
 ```csharp
 public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | colorPalette | IColorPalette | रंग पैलेट। |
-| useCompactPalette | Boolean | यह दर्शाता है कि क्या कॉम्पैक्ट पैलेट। |
+| useCompactPalette | बूलियन | संकेत करता है कि कॉम्पैक्ट पैलेट है या नहीं। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नव निर्मित और कॉपी किए गए पैलेट या नल अगर नल पैलेट पास हो गए।
+यदि null पैलेट पास किया गया हो तो नया बनाया गया और कॉपी किया गया पैलेट या null।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CopyPalette(IColorPalette) {#copypalette}
 
-पैलेट कॉपी करता है।
+पैलेट की कॉपी बनाता है।
 
 ```csharp
 public static ColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | colorPalette | IColorPalette | रंग पैलेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नव निर्मित और कॉपी किए गए पैलेट या नल अगर नल पैलेट पास हो गए।
+यदि null पैलेट पास किया गया हो तो नया बनाया गया और कॉपी किया गया पैलेट या null।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

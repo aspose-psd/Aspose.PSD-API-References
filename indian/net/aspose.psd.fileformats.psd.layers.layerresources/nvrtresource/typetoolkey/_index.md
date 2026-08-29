@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NvrtResource मैदन. प्रकर उपकरण जनकर कुंज
+title: "NvrtResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NvrtResource field. टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 60
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## NvrtResource.TypeToolKey field
 
-प्रकार उपकरण जानकारी कुंजी।
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NvrtResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

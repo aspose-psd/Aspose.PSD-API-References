@@ -1,28 +1,29 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.OpenTypeFontsCache कक्ष. सस्टम में स्थपत ओपन टइप फ़न्ट के लए कैश
+title: "क्लास OpenTypeFontsCache"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.OpenTypeFontsCache क्लास। सिस्टम में इंस्टॉल किए गए OpenType फ़ॉन्ट्स के लिए कैश।"
 type: docs
-weight: 5170
+weight: 5660
 url: /hi/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
-सिस्टम में स्थापित ओपन टाइप फ़ॉन्ट के लिए कैश।
+सिस्टम में स्थापित OpenType फ़ॉन्ट्स के लिए कैश।
 
 ```csharp
 public static class OpenTypeFontsCache
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

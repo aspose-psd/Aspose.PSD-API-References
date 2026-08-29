@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. फइनलइज सेक्शन प्रप्त करत है
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। फाइनलाइज़ सेक्शन प्राप्त करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-फाइनलाइज सेक्शन प्राप्त करता है।
+फ़ाइनलाइज़ सेक्शन प्राप्त करता है।
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम खंड।
+फ़ाइनलाइज़ सेक्शन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

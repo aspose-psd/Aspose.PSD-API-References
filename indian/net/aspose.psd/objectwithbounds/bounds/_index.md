@@ -1,28 +1,29 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ObjectWithBounds संपत्त. वस्तु क सम प्रप्त करत है
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ObjectWithBounds प्रॉपर्टी। ऑब्जेक्ट के बाउंड्स प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
-वस्तु की सीमा प्राप्त करता है।
+ऑब्जेक्ट की सीमाएँ प्राप्त करता है।
 
 ```csharp
 public abstract RectangleF Bounds { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की सीमा।
+वस्तु की सीमाएँ।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* नाम स्थान [Aspose.PSD](../../objectwithbounds/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

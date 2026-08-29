@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. अल्फ स्टरेज वकल्प प्रप्त य सेट करत है के अलव अन्य वकल्पUnspecified क उपयग तब कय जत है जब 3 से अधक हंSamplesPerPixel परभषत.
+title: "TiffOptions.AlphaStorage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। अल्फा स्टोरेज विकल्प को प्राप्त करता है या सेट करता है। Unspecified के अलावा विकल्प तब उपयोग किए जाते हैं जब 3 से अधिक SamplesPerPixel परिभाषित हों।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-अल्फा स्टोरेज विकल्प प्राप्त या सेट करता है। के अलावा अन्य विकल्पUnspecified का उपयोग तब किया जाता है जब 3 से अधिक हों[`SamplesPerPixel`](../samplesperpixel/) परिभाषित.
+अल्फा स्टोरेज विकल्प को प्राप्त करता है या सेट करता है। Unspecified के अलावा विकल्प तब उपयोग किए जाते हैं जब 3 से अधिक [`SamplesPerPixel`](../samplesperpixel/) परिभाषित हों।
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अल्फ़ा संग्रहण विकल्प.
+अल्फा स्टोरेज विकल्प।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

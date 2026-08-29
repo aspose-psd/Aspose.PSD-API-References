@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure संपत्त. पूरे आंकड़े खंड प्रप्त करत है
+title: "Figure.Segments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure प्रॉपर्टी। पूरे फ़िगर सेगमेंट्स प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-पूरे आंकड़े खंड प्राप्त करता है।
+पूरे फ़िगर सेगमेंट प्राप्त करता है।
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आंकड़ा खंड।
+फ़िगर सेगमेंट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

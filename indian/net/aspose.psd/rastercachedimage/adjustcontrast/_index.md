@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.AdjustContrast
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage तरक. वषम छव
+title: "RasterCachedImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage मेथड। इमेज कंट्रास्टिंग"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/rastercachedimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustContrast method
 
-विषम छवि
+छवि कंट्रास्टिंग
 
 ```csharp
 public override void AdjustContrast(float contrast)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| contrast | Single | कंट्रास्ट वैल्यू (रेंज में [-100; 100]) |
+| विरोध | Single | कंट्रास्ट मान (रेंज [-100; 100] में) |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

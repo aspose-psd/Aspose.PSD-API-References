@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetProgressCallback
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask तरक. प्रगत कलबैक प्रतनध सेट करत है
+title: "IAsyncTask.SetProgressCallback"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask मेथड। प्रगति कॉलबैक डेलीगेट सेट करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.asynctask/iasynctask/setprogresscallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetProgressCallback method
 
-प्रगति कॉलबैक प्रतिनिधि सेट करता है।
+प्रगति कॉलबैक डेलीगेट सेट करता है।
 
 ```csharp
 public void SetProgressCallback(ProgressCallback progressCallback)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | progressCallback | ProgressCallback | प्रगति कॉलबैक। |
 
-### यह सभी देखें
+### देखें भी
 
 * delegate [ProgressCallback](../../progresscallback/)
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

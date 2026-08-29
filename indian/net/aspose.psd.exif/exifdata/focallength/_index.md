@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. फकल लम्बई प्रप्त य सेट करत है
+title: "ExifData.FocalLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। फोकल लंबाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 290
 url: /hi/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
-फोकल लम्बाई प्राप्त या सेट करता है।
+फ़ोकल लंबाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational FocalLength { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ोकल की लंबाई.
+फोकल की लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

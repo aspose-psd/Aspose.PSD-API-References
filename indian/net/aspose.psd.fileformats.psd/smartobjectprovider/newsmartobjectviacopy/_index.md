@@ -1,36 +1,37 @@
 ---
-title: SmartObjectProvider.NewSmartObjectViaCopy
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectProvider तरक. स्रत क कप करके एक नई स्मर्ट ऑब्जेक्ट परत बनत है
+title: "SmartObjectProvider.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectProvider मेथड। स्रोत लेयर की कॉपी करके नया स्मार्ट ऑब्जेक्ट लेयर बनाता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.NewSmartObjectViaCopy method
 
-स्रोत को कॉपी करके एक नई स्मार्ट ऑब्जेक्ट परत बनाता है।
+स्रोत लेयर की कॉपी करके नया स्मार्ट ऑब्जेक्ट लेयर बनाता है।
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sourceLayer | SmartObjectLayer | स्रोत परत। |
+| sourceLayer | SmartObjectLayer | स्रोत लेयर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-क्लोन किया गया[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) उदाहरण.
+क्लोन किया गया [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) इंस्टेंस।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप केवल एम्बेडेड स्मार्ट ऑब्जेक्ट को बदल सकते हैं। |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप केवल एक एम्बेडेड स्मार्ट ऑब्जेक्ट को बदल सकते हैं। |
 
-### उदाहरण
+## उदाहरण
 
-ये उदाहरण प्रदर्शित करते हैं कि PSD छवि में स्मार्ट ऑब्जेक्ट परतों की प्रतिलिपि कैसे बनाई जाए।
+ये उदाहरण दर्शाते हैं कि PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर्स को कैसे कॉपी किया जाता है।
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ public SmartObjectLayer NewSmartObjectViaCopy(SmartObjectLayer sourceLayer)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// ये उदाहरण प्रदर्शित करते हैं कि PSD छवि में स्मार्ट ऑब्जेक्ट परतों की प्रतिलिपि कैसे बनाई जाए।
+// ये उदाहरण दर्शाते हैं कि PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर्स को कैसे कॉपी किया जाता है।
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -46,7 +47,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // कॉपी करने के लिए परत संख्या
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -67,17 +68,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को उल्टा करते हैं (आंतरिक PSD छवि के लिए हम केवल इसकी पहली परत को उल्टा करते हैं)
+            // चलिए एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को उलटते हैं (एक आंतरिक PSD इमेज के लिए हम केवल उसकी पहली लेयर को उलटते हैं)।
             InvertImage(innerImage);
 
-            // आइए एम्बेडेड स्मार्ट ऑब्जेक्ट छवि को PSD परत में बदलें
+            // आइए PSD लेयर में एम्बेडेड स्मार्ट ऑब्जेक्ट इमेज को बदलें
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // डुप्लीकेट लेयर अपनी एम्बेडेड छवि को मूल स्मार्ट ऑब्जेक्ट के साथ साझा करती है
-        // और इसे स्पष्ट रूप से अपडेट किया जाना चाहिए अन्यथा इसका रेंडरिंग कैश अपरिवर्तित रहता है।
-        // हम यह सुनिश्चित करने के लिए प्रत्येक स्मार्ट ऑब्जेक्ट को अपडेट करते हैं कि NewSmartObjectViaCopy द्वारा बनाई गई नई परत
-        // एम्बेडेड छवि को दूसरों के साथ साझा नहीं करता है।
+        // डुप्लिकेट की गई लेयर अपनी एम्बेडेड इमेज को मूल स्मार्ट ऑब्जेक्ट के साथ साझा करती है
+        // और इसे स्पष्ट रूप से अपडेट किया जाना चाहिए, अन्यथा इसका रेंडरिंग कैश अपरिवर्तित रहेगा।
+        // हम हर स्मार्ट ऑब्जेक्ट को अपडेट करते हैं ताकि यह सुनिश्चित हो सके कि NewSmartObjectViaCopy द्वारा बनाई गई नई लेयर
+        // दूसरों के साथ एम्बेडेड इमेज साझा न करे।
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -85,7 +86,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// PSD छवि सहित रेखापुंज छवि को उलट देता है।
+// रास्टर इमेज को उलटता है, जिसमें PSD इमेज भी शामिल है।
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -99,7 +100,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// रेखापुंज छवि को उलट देता है।
+// रास्टर छवि को उलटता है।
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -122,11 +123,11 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

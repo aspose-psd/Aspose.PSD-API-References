@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsCyanRedBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlncResource संपत्त. शैड सयन रेड बैलेंस प्रप्त य सेट करत है
+title: "BlncResource.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlncResource प्रॉपर्टी। शैडोज़ स्यान रेड बैलेंस प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsCyanRedBalance property
 
-शैडो सियान रेड बैलेंस प्राप्त या सेट करता है।
+शैडोज़ सियान रेड बैलेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द शैडो सियान रेड बैलेंस।
+यह Shadows Cyan Red Balance।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlncResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

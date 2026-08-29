@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FixedPointDecimal संपत्त. पूर्णंक प्रप्त करत है य सेट करत है
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FixedPointDecimal प्रॉपर्टी। पूर्णांक प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-पूर्णांक प्राप्त करता है या सेट करता है।
+पूर्णांक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पूर्णांक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

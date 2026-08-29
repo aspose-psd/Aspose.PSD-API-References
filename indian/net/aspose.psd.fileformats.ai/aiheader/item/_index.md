@@ -1,14 +1,15 @@
 ---
-title: AiHeader.Item
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiHeader संपत्त. ह जत है य सेट करत हैString नर्दष्ट संपत्त नम के सथ
+title: "AiHeader.Item"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiHeader प्रॉपर्टी। निर्दिष्ट प्रॉपर्टी नाम के साथ String को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-हो जाता है या सेट करता हैString निर्दिष्ट संपत्ति नाम के साथ।
+निर्दिष्ट प्रॉपर्टी नाम के साथ स्ट्रिंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -16,16 +17,16 @@ public string this[string propertyName] { get; set; }
 
 | पैरामीटर | विवरण |
 | --- | --- |
-| propertyName | संपत्ति का नाम। |
+| propertyName | प्रॉपर्टी का नाम। |
 
-### संपत्ति मूल्य
+### Property Value
 
-दString .
+वह String।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiHeader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

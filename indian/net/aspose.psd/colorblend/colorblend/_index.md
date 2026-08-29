@@ -1,43 +1,44 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorBlend नर्मत. क एक नय उदहरण प्ररंभ करत हैColorBlend वर्ग.
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorBlend कंस्ट्रक्टर। ColorBlend क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorBlend`](../) वर्ग.
+[`ColorBlend`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ColorBlend()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBlend](../)
-* नाम स्थान [Aspose.PSD](../../colorblend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorBlend`](../) रंग और स्थिति की निर्दिष्ट संख्या के साथ वर्ग।
+[`ColorBlend`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है, जिसमें निर्दिष्ट संख्या में रंग और स्थितियाँ होती हैं।
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| count | Int32 | इसमें रंगों की संख्या और स्थिति[`ColorBlend`](../). |
+| count | Int32 | इस [`ColorBlend`](../) में रंगों और स्थितियों की संख्या। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBlend](../)
-* नाम स्थान [Aspose.PSD](../../colorblend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

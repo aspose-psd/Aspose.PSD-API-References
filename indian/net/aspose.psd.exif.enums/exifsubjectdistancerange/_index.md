@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange एनुम. exif सब्जेक्ट डस्टेंस रेंज एनम.
+title: "एनम ExifSubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange एनम। exif सब्जेक्ट डिस्टेंस रेंज एनम"
 type: docs
-weight: 950
+weight: 960
 url: /hi/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-exif सब्जेक्ट डिस्टेंस रेंज एनम.
+exif सब्जेक्ट डिस्टेंस रेंज एनेम.
 
 ```csharp
 public enum ExifSubjectDistanceRange
@@ -16,16 +17,16 @@ public enum ExifSubjectDistanceRange
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Unknown | `0` | अज्ञात विषय दूरी सीमा |
+| Unknown | `0` | अज्ञात सब्जेक्ट दूरी रेंज |
 | Macro | `1` | मैक्रो रेंज |
-| CloseView | `2` | करीब का दृश्य। |
-| DistantView | `3` | दूर का दृश्य। |
+| CloseView | `2` | निकट दृश्य। |
+| DistantView | `3` | दूरस्थ दृश्य। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBoolean संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यहXmpBoolean मन है.
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBoolean प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह XmpBoolean मान है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`XmpBoolean`](../) मान है.
+यह [`XmpBoolean`](../) मान है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर मूल्य; अन्यथा,`असत्य` .
+`true` यदि मान; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBoolean](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

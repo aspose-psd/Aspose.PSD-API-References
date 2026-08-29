@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. बएँ नचे क ओर शफ्ट ह जत है
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। बाएँ नीचे शिफ्ट प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-बाएँ नीचे की ओर शिफ्ट हो जाता है।
+बाएँ नीचे शिफ्ट को प्राप्त करता है।
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बायां निचला बदलाव।
+बाएँ नीचे शिफ्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

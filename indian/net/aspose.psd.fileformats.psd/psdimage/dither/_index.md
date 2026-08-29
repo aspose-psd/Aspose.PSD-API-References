@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Dither
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. वर्तमन छव पर डथरंग करत है
+title: "PsdImage.Dither"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। वर्तमान छवि पर डिथरिंग करता है"
 type: docs
-weight: 520
+weight: 580
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
+{{< psd/tize >}}
 ## PsdImage.Dither method
 
 वर्तमान छवि पर डिथरिंग करता है।
@@ -15,18 +16,18 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
     IColorPalette customPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | डीथरिंग विधि। |
-| bitsCount | Int32 | अंतिम बिट्स डिथरिंग के लिए गिने जाते हैं। |
+| ditheringMethod | DitheringMethod | डिथरिंग विधि। |
+| bitsCount | Int32 | डिथरिंग के लिए अंतिम बिट्स गिनती। |
 | customPalette | IColorPalette | डिथरिंग के लिए कस्टम पैलेट। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

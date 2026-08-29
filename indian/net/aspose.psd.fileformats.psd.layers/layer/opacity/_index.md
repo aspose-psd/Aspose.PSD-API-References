@@ -1,27 +1,28 @@
 ---
-title: Layer.Opacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेयर अपरदर्शत प्रप्त य सेट करत है 0  परदर्श 255  अपरदर्श.
+title: "Layer.Opacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर अपारदर्शिता को प्राप्त करता है या सेट करता है। 0  पारदर्शी 255  अपारदर्शी"
 type: docs
-weight: 270
+weight: 280
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/opacity/
 ---
+{{< psd/tize >}}
 ## Layer.Opacity property
 
-लेयर अपारदर्शिता प्राप्त या सेट करता है। 0 = पारदर्शी, 255 = अपारदर्शी.
+लेयर अपारदर्शिता को प्राप्त करता है या सेट करता है। 0 = पारदर्शी, 255 = अपारदर्शी।
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत अपारदर्शिता.
+लेयर अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

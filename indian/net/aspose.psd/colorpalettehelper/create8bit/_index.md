@@ -1,28 +1,29 @@
 ---
-title: ColorPaletteHelper.Create8Bit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPaletteHelper तरक. 8 बट कलर पैलेट बनत है
+title: "ColorPaletteHelper.Create8Bit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPaletteHelper मेथड। 8 बिट रंग पैलेट बनाता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/colorpalettehelper/create8bit/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create8Bit method
 
-8 बिट कलर पैलेट बनाता है।
+8 बिट रंग पैलेट बनाता है।
 
 ```csharp
 public static IColorPalette Create8Bit()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 8 बिट रंग पैलेट।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* नाम स्थान [Aspose.PSD](../../colorpalettehelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
