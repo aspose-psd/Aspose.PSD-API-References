@@ -1,46 +1,54 @@
 ---
-title: Class PatternFillSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings クラス. パターン塗りつぶし効果設定
+title: "クラス PatternFillSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings クラス。パターン塗り効果の設定"
 type: docs
-weight: 2040
+weight: 2170
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
-パターン塗りつぶし効果設定
+パターン塗り効果設定
 
 ```csharp
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## コンストラクター
+
+| 名前 | 説明 |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | デフォルトコンストラクタです。 |
+
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | [レイヤーとリンク]するかどうかを示す値を取得または設定します. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | 取得または設定します。[link with layer] があるかどうかを示す値。 |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | 取得または設定します。角度。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | 色を取得または設定します。 |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | 塗りつぶしタイプ |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | 水平オフセットを取得または設定します。 |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | これが`PatternFillSettings`リンクされています. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | パターン データを取得または設定します。 |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | パターンの高さを取得または設定します。 |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | パターン識別子を取得または設定します。 |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | パターンの名前を取得または設定します。 |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | パターンの幅を取得または設定します。 |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | ポイントのタイプを取得または設定します。 |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | 塗りタイプ |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | 取得または設定します。水平オフセット。 |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | 取得または設定します。この `PatternFillSettings` がリンクされているかどうかを示す値。 |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | 取得または設定します。パターンデータ。 |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | 取得または設定します。パターンの高さ。 |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | 取得または設定します。パターン識別子。 |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | 取得または設定します。パターンの名前。 |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | 取得または設定します。パターンの幅。 |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | 取得または設定します。ポイントのタイプ。 |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | スケールを取得または設定します。 |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | 垂直オフセットを取得または設定します。 |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | 取得または設定します。垂直オフセット。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | LFX2 リソース ノードを生成します。 |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | LFX2 リソースノードを生成します。 |
 
-### 例
+## 例
 
-次のコードは、塗りつぶしレイヤー パターン編集のサポートを示しています。
+以下のコードは、塗りレイヤーパターン編集のサポートを示しています。
 
 ```csharp
 [C#]
@@ -72,7 +80,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // 編集中 
+            // 編集 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-次のコードは、塗りつぶしタイプ - パターンを使用したストローク エフェクト レイヤーのサポートを示しています。
+以下のコードは、塗りタイプがパターンのストローク効果レイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -129,7 +137,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// 新しいデータの準備
+// 新しいデータを準備中
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -193,7 +201,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // パターンデータをチェック
+    // パターンデータを確認する
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -212,7 +220,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

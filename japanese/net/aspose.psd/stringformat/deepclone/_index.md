@@ -1,14 +1,15 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 方法. これのディープ クローンを作成しますStringFormatobject.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat メソッド。この StringFormat オブジェクトのディープクローンを作成します。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-これのディープ クローンを作成します[`StringFormat`](../)object.
+この [`StringFormat`](../) オブジェクトのディープクローンを作成します。
 
 ```csharp
 public StringFormat DeepClone()
@@ -16,12 +17,12 @@ public StringFormat DeepClone()
 
 ### 戻り値
 
-現在のディープ クローン[`StringFormat`](../) .
+現在の [`StringFormat`](../) のディープクローンです。
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

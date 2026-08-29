@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiRasterImageSection 財産. 高さを取得します
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiRasterImageSection プロパティ。高さを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
 高さを取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 public double Height { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-高さ。
+高さです。
 
 ### 関連項目
 
 * class [AiRasterImageSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

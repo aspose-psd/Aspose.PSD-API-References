@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.DescriptorVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfo6Resource 財産. 記述子のバージョンを取得または設定します
+title: "TypeToolInfo6Resource.DescriptorVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfo6Resource プロパティ。記述子バージョンを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.DescriptorVersion property
 
-記述子のバージョンを取得または設定します。
+記述子バージョンを取得または設定します。
 
 ```csharp
 public int DescriptorVersion { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-記述子のバージョン。
+ディスクリプタのバージョンです。
 
 ### 関連項目
 
 * class [TypeToolInfo6Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD for .NET API リファレンス
-description: FileStreamContainer 財産. ストリームが一時的かどうかを示す値を取得または設定します
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FileStreamContainer プロパティ。ストリームが一時的かどうかを示す値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
 ストリームが一時的かどうかを示す値を取得または設定します。
@@ -14,18 +15,18 @@ url: /ja/net/aspose.psd/filestreamcontainer/istemporal/
 public bool IsTemporal { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ストリームが一時的な場合。さもないと、`間違い` .
+ストリームが一時的な場合は `true`、それ以外の場合は `false`。
 
-### 備考
+## 備考
 
-一時的なストリームは、破棄されると自分自身を削除します。ストリームがメモリ ベースの場合、このプロパティは無効です。 明示的に作成された場合、ストリームは一時的または永続的としてマークできます。それ以外の場合は、適切な例外がスローされます。
+一時的なストリームは破棄時に自身を削除します。ストリームがメモリベースの場合、このプロパティは影響しません。ストリームは明示的に作成された場合に一時的または永続的としてマークできますが、そうでない場合は適切な例外がスローされます。
 
 ### 関連項目
 
 * class [FileStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../filestreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: IntRange 方法. 指定された index から 1 つのアイテム配列を返します
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IntRange メソッド。指定されたインデックスから 1 アイテムの配列を返します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-指定された index から 1 つのアイテム配列を返します
+指定されたインデックスから 1 要素の配列を返します。
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | 範囲インデックス。 |
+| インデックス | Int32 | 範囲インデックスです。 |
 
 ### 戻り値
 
-の配列Int32
+Int32 の配列
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | ArgumentException | インデックスが範囲外です |
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーがプレビューかどうかを示す値を取得または設定します レイヤーに含まれるアートワークをアウトラインではなくカラーで表示します
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。レイヤーがプレビューかどうかを示す値を取得または設定します。レイヤーに含まれるアートワークをアウトラインではなくカラーで表示します"
 type: docs
-weight: 70
+weight: 90
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-このレイヤーがプレビューかどうかを示す値を取得または設定します。 レイヤーに含まれるアートワークをアウトラインではなくカラーで表示します。
+このレイヤーがプレビューかどうかを示す値を取得または設定します。レイヤーに含まれるアートワークを輪郭ではなくカラーで表示します。
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーがプレビューの場合。さもないと、`間違い` .
+`true` このレイヤーがプレビューの場合; それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

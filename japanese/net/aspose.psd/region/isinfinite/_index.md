@@ -1,38 +1,39 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これがRegion指定された描画面に無限の内部があります.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された描画面上でこの Region が無限の内部を持つかテストします。"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-これが[`Region`](../)指定された描画面に無限の内部があります.
+指定された描画面上でこの [`Region`](../) が無限の内部を持つかテストします。
 
 ```csharp
 public bool IsInfinite(Graphics g)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| g | Graphics | あ[`Graphics`](../../graphics/)描画面を表します。 |
+| g | Graphics | 描画サーフェスを表す [`Graphics`](../../graphics/) です。 |
 
 ### 戻り値
 
-この内部の場合は true[`Region`](../)に関連付けられた変換が無限大である場合*g*適用されます。それ以外の場合は false.
+*g* に関連付けられた変換が適用されたとき、この [`Region`](../) の内部が無限である場合は true、そうでない場合は false。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *g*null. です |
+| ArgumentNullException | *g* は null です。 |
 
 ### 関連項目
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

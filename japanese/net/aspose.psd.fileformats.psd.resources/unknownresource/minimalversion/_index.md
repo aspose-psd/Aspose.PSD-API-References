@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.MinimalVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnknownResource 財産. 必要最小限の psd バージョンを取得します
+title: "UnknownResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnknownResource プロパティ。必要最小の PSD バージョンを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## UnknownResource.MinimalVersion property
 
-必要最小限の psd バージョンを取得します。
+必要最小限の PSD バージョンを取得します。
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最小限の psd バージョン。
+最低限の psd バージョンです。
 
 ### 関連項目
 
 * class [UnknownResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

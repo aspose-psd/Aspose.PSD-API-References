@@ -1,11 +1,12 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Aspose.PSD for .NET API リファレンス
-description: VibranceLayer 財産. 彩度を取得または設定します
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VibranceLayer プロパティ。彩度を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
 彩度を取得または設定します。
@@ -14,19 +15,19 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/sa
 public int Saturation { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-彩度.
+彩度。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 彩度は -100 から +100 の範囲でなければなりません |
+| ArgumentOutOfRangeException | 彩度は -100 から +100 の範囲である必要があります |
 
-### 例
+## 例
 
-次のコード例は、VibranceLayer レイヤーのサポートと、この調整を編集する機能を示しています。
+以下のコード例は VibranceLayer レイヤーのサポートと、この調整を編集する機能を示しています。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // 新しい VibranceLayer を作成する
+    // 新しい VibranceLayer の作成
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### 関連項目
 
 * class [VibranceLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

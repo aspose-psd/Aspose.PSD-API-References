@@ -1,31 +1,32 @@
 ---
-title: Font.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. フォント バージョンを取得または設定します
+title: "Font.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。フォントバージョンを取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.xmp.types.complex.font/font/version/
 ---
+{{< psd/tize >}}
 ## Font.Version property
 
-フォント バージョンを取得または設定します。
+フォントのバージョンを取得または設定します。
 
 ```csharp
 public string Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントのバージョン。
+フォントバージョンです。
 
-### 例
+## 例
 
-/version for Type1 fonts nameId 5 for Apple True Type and OpenType /CIDFontVersion for CID fonts bitmap fonts の空文字列
+/version は Type1 フォント用、nameId 5 は Apple True Type と OpenType 用、/CIDFontVersion は CID フォント用、ビットマップフォントの場合は空文字列です
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

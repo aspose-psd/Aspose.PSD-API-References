@@ -1,31 +1,32 @@
 ---
-title: Metered.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: Metered 方法. 指定されたObjectこのインスタンスと等しい.
+title: "Metered.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Metered メソッド。指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-指定されたObject、このインスタンスと等しい.
+指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | Object | このインスタンスと比較する Object。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+`true`：指定された Object がこのインスタンスと等しい場合。そうでなければ `false`。
 
 ### 関連項目
 
 * class [Metered](../)
-* 名前空間 [Aspose.PSD](../../metered/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

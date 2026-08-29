@@ -1,11 +1,12 @@
 ---
-title: Interface IXmlValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.IXmlValue インターフェース. xmp 値を XML 文字列表現に変換します
+title: "インターフェイス IXmlValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.IXmlValue インターフェイス。xmp 値を XML 文字列表現に変換します。"
 type: docs
-weight: 5750
+weight: 6250
 url: /ja/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
 xmp 値を XML 文字列表現に変換します。
@@ -22,7 +23,7 @@ public interface IXmlValue
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

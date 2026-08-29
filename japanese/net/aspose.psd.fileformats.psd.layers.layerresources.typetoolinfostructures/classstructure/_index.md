@@ -1,14 +1,15 @@
 ---
-title: Class ClassStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ClassStructure クラス. クラス構造.
+title: "クラス ClassStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ClassStructure クラス。クラス構造です。"
 type: docs
-weight: 3130
+weight: 3510
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/
 ---
+{{< psd/tize >}}
 ## ClassStructure class
 
-クラス構造.
+クラス構造です。
 
 ```csharp
 public sealed class ClassStructure : OSTypeStructure
@@ -18,7 +19,7 @@ public sealed class ClassStructure : OSTypeStructure
 
 | 名前 | 説明 |
 | --- | --- |
-| [ClassStructure](classstructure/)(ClassID, ClassID, int) | の新しいインスタンスを初期化します`ClassStructure`class. |
+| [ClassStructure](classstructure/)(ClassID, ClassID, int) | `ClassStructure` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -28,17 +29,17 @@ public sealed class ClassStructure : OSTypeStructure
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/) { get; set; } | クラス名を取得または設定します。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/key/) { get; } | 構造キーを取得します。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | キー名を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/) { get; } | を取得します[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)バイト単位の長さ. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/length/) { get; } | バイト単位で[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) の長さを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダー長を取得します。 |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダーの長さを取得します。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
@@ -49,7 +50,7 @@ public sealed class ClassStructure : OSTypeStructure
 ### 関連項目
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

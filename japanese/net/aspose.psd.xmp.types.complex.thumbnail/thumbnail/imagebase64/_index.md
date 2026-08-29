@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.ImageBase64
-second_title: Aspose.PSD for .NET API リファレンス
-description: Thumbnail 財産. base64 形式の画像を取得または設定します
+title: "Thumbnail.ImageBase64"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Thumbnail プロパティ。画像を base64 形式で取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/
 ---
+{{< psd/tize >}}
 ## Thumbnail.ImageBase64 property
 
-base64 形式の画像を取得または設定します。
+画像を base64 形式で取得または設定します。
 
 ```csharp
 public string ImageBase64 { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-base64 形式の画像。
+base64 形式の画像です。
 
 ### 関連項目
 
 * class [Thumbnail](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

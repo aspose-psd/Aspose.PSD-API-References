@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: Aspose.PSD for .NET API リファレンス
-description: IGradientFillSettings 財産. カラー ポイントを取得します
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IGradientFillSettings プロパティ。色ポイントを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
-カラー ポイントを取得します。
+カラーポイントを取得します。
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カラーポイント.
+色ポイントです。
 
-### 例
+## 例
 
-次の例は、Gradient FillLayer のサポートと IGradientFillSettings 編集オプションを示しています。
+次の例は、グラデーション FillLayer のサポートと IGradientFillSettings の編集オプションを示しています。
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -94,7 +96,7 @@ using (im)
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

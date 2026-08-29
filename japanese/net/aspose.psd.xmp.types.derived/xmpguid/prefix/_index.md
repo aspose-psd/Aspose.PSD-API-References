@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Prefix
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpGuid 財産. uuid. などのプレフィックスを取得または設定します
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpGuid プロパティ。プレフィックス（例: uuid）を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
-uuid. などのプレフィックスを取得または設定します
+uuid のようなプレフィックスを取得または設定します。
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-uuid. のようなプレフィックス
+プレフィックス（例: uuid）。
 
 ### 関連項目
 
 * class [XmpGuid](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

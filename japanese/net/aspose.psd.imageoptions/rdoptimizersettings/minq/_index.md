@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD for .NET API リファレンス
-description: RdOptimizerSettings 財産. 最小許容量子化値を取得します
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RdOptimizerSettings プロパティ。 許容される最小量子化値を取得します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-最小許容量子化値を取得します。
+許容される最小量子化値を取得します。
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最小最小許容量子化値.
+最小の最小許容量子化値です。
 
 ### 関連項目
 
 * class [RdOptimizerSettings](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

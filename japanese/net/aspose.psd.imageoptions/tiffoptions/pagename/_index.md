@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. ページ名を取得または設定します
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。ページ名を取得または設定します"
 type: docs
-weight: 290
+weight: 300
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
 ページ名を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/pagename/
 public string PageName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ページ名.
+ページ名。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

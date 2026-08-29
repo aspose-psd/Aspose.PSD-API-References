@@ -1,14 +1,15 @@
 ---
-title: Matrix.M22
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 財産. 2 行 2 列目の行列要素を取得します Y 軸に沿ったスケールを表します
+title: "Matrix.M22"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix プロパティ。第2行第2列の行列要素を取得します。Y 軸方向のスケールを表します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/matrix/m22/
 ---
+{{< psd/tize >}}
 ## Matrix.M22 property
 
-2 行 2 列目の行列要素を取得します。 Y 軸に沿ったスケールを表します。
+2 行目・2 列目の行列要素を取得します。Y 軸方向のスケールを表します。
 
 ```csharp
 public float M22 { get; }
@@ -17,7 +18,7 @@ public float M22 { get; }
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Color.GetHue
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. この色相彩度明るさ HSB の色相値を度で取得しますColor構造体.
+title: "Color.GetHue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。 この Color 構造体の HSB (色相・彩度・明度) の色相値を度で取得します。"
 type: docs
 weight: 1570
 url: /ja/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-この色相、彩度、明るさ (HSB) の色相値を度で取得します。[`Color`](../)構造体.
+この [`Color`](../) 構造体の色相・彩度・明度 (HSB) の色相値を度で取得します。
 
 ```csharp
 public float GetHue()
@@ -16,12 +17,12 @@ public float GetHue()
 
 ### 戻り値
 
-これの色相（度）[`Color`](../).色相は、HSB 色空間で 0.0 ～ 360.0 の範囲の度数で測定されます。
+この [`Color`](../) の色相（度単位）。色相は度で測定され、HSB カラースペースで 0.0 から 360.0 までの範囲です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

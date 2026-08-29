@@ -1,30 +1,31 @@
 ---
-title: PsdImage.Filter
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 指定された四角形をフィルタリングします
+title: "PsdImage.Filter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。指定された矩形をフィルタリングします"
 type: docs
-weight: 530
+weight: 590
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/filter/
 ---
+{{< psd/tize >}}
 ## PsdImage.Filter method
 
-指定された四角形をフィルタリングします。
+指定された矩形をフィルタリングします。
 
 ```csharp
 public override void Filter(Rectangle rectangle, FilterOptionsBase options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 長方形。 |
-| options | FilterOptionsBase | オプション。 |
+| 矩形 | Rectangle | 矩形です。 |
+| オプション | FilterOptionsBase | オプションです。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterOptionsBase](../../../aspose.psd.imagefilters.filteroptions/filteroptionsbase/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

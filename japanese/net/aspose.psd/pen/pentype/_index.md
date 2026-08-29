@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描かれた線のスタイルを取得しますPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen で描画される線のスタイルを取得します。"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-これで描かれた線のスタイルを取得します[`Pen`](../) .
+この [`Pen`](../) で描画される線のスタイルを取得します。
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ`PenType`これで描画される線のスタイルを指定する列挙[`Pen`](../).
+`PenType` 列挙体。この [`Pen`](../) で描画される線のスタイルを指定します。
 
 ### 関連項目
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmlsResource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmlsResource 財産. 層リソースの長さをバイト単位で取得します
+title: "CmlsResource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmlsResource プロパティ。レイヤーリソースの長さ（バイト単位）を取得します"
 type: docs
-weight: 30
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/
 ---
+{{< psd/tize >}}
 ## CmlsResource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [CmlsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

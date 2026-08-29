@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.UniqueId
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. スマート オブジェクト レイヤー データのグローバル一意識別子を取得または設定しますSmartObjectResourcePSD 画像で.
+title: "SmartObjectResource.UniqueId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。PSD 画像内のスマートオブジェクトレイヤーデータ SmartObjectResource のグローバル一意識別子を取得または設定します。"
 type: docs
-weight: 240
+weight: 220
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.UniqueId property
 
-スマート オブジェクト レイヤー データのグローバル一意識別子を取得または設定します[`SmartObjectResource`](../)PSD 画像で.
+PSD 画像内のスマートオブジェクトレイヤーデータ [`SmartObjectResource`](../) のグローバル一意識別子を取得または設定します。
 
 ```csharp
 public override Guid UniqueId { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スマート オブジェクト レイヤー データのグローバル一意識別子[`SmartObjectResource`](../) .
+スマートオブジェクトレイヤーデータ [`SmartObjectResource`](../) のグローバル一意識別子です。
 
-### 例
+## 例
 
-次のコードは、SoLEResource、SmartObjectResource、および PlacedResource リソースのサポートを示しています。
+以下のコードは SoLEResource、SmartObjectResource、PlacedResource のサポートを示しています。
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // この値はリソースでは変更しません
+    // この値はリソース内で変更しません。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-    // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+    // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+    // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // この一意の ID は、参照があれば変更する必要があります
+    // このユニーク ID は、参照がある場合は変更する必要があります。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 一部のパラメータには注意してください: 保存された画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+    // いくつかのパラメータに注意してください：保存された画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-    // または、下線付きのスマート オブジェクトをベクター型に変更します
+    // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+    // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+    // このユニーク ID を持つ有効な PlLdResource が必要です。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -326,7 +328,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ListStructure.ListStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: ListStructure コンストラクタ. の新しいインスタンスを初期化しますListStructureclass.
+title: "ListStructure.ListStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ListStructure コンストラクタ。ListStructure クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure constructor
 
-の新しいインスタンスを初期化します[`ListStructure`](../)class.
+[`ListStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ListStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,7 +23,7 @@ public ListStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ListStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloat
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamWriter 方法. 単一の float 値をストリームに書き込みます
+title: "TiffStreamWriter.WriteFloat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamWriter メソッド。単一の float 値を書き込みます"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloat method
 
-単一の float 値をストリームに書き込みます。
+ストリームに単一の float 値を書き込みます。
 
 ```csharp
 public void WriteFloat(float data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Single | 書き込む値。 |
+| データ | シングル | 書き込む値です。 |
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

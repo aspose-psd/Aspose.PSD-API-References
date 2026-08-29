@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Artist
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegExifData 財産. アーティストを取得または設定します
+title: "JpegExifData.Artist"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegExifData プロパティ。アーティスト情報を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
 アーティストを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.exif/jpegexifdata/artist/
 public string Artist { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-アーティスト.
+アーティスト。
 
 ### 関連項目
 
 * class [JpegExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

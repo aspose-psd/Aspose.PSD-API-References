@@ -1,14 +1,15 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font コンストラクタ. の新しいインスタンスを初期化しますFontclass.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font コンストラクタ。Font クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-の新しいインスタンスを初期化します[`Font`](../)class.
+[`Font`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Font()
@@ -17,27 +18,27 @@ public Font()
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Font`](../)class.
+[`Font`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontFamily | String | フォントファミリー。 |
+| fontFamily | 文字列 | フォントファミリです。 |
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

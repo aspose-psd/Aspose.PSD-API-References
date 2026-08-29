@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IPartialRawDataLoader インターフェース. 部分的なデータ ローダー
+title: "インターフェイス IPartialRawDataLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IPartialRawDataLoader インターフェイス。部分データローダー"
 type: docs
-weight: 4540
+weight: 5010
 url: /ja/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-部分的なデータ ローダー。
+部分データローダー。
 
 ```csharp
 public interface IPartialRawDataLoader
@@ -18,12 +19,12 @@ public interface IPartialRawDataLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | 読み込んだデータを処理します。 |
-| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | 読み込んだデータを処理します。 |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | ロードされたデータを処理します。 |
+| [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | ロードされたデータを処理します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

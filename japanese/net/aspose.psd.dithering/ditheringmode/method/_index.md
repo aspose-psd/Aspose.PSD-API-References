@@ -1,14 +1,15 @@
 ---
-title: DitheringMode.Method
-second_title: Aspose.PSD for .NET API リファレンス
-description: DitheringMode 財産. ディザリング アルゴリズムの選択
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DitheringMode プロパティ。 ディザリングアルゴリズムの選択"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
-ディザリング アルゴリズムの選択。
+ディザアルゴリズムの選択。
 
 ```csharp
 public DitheringMethod Method { get; set; }
@@ -18,7 +19,7 @@ public DitheringMethod Method { get; set; }
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* 名前空間 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

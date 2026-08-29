@@ -1,28 +1,29 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. データ部を取得します
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。データセクションを取得します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
-データ部を取得します。
+データ セクションを取得します。
 
 ```csharp
 public AiDataSection DataSection { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-データセクション.
+データセクションです。
 
 ### 関連項目
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

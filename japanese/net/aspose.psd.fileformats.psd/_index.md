@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.FileFormats.Psd
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はPsd ファイル形式の処理を処理します
+title: "Aspose.PSD.FileFormats.Psd"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は PSD ファイル形式の処理を扱います。"
 type: docs
-weight: 200
+weight: 210
 url: /ja/net/aspose.psd.fileformats.psd/
 ---
-名前空間は、Psd ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は PSD ファイル形式の処理を行います。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [PsdColorPalette](./psdcolorpalette/) | PSD カラー パレット。 |
-| [PsdImage](./psdimage/) | PSD ファイルの読み込み、編集、保存、 プロパティの更新、透かしの追加、グラフィックス操作の実行、ファイル形式の変換を行う機能を提供する PsdImage クラスを定義します。 Aspose.PSD は、レイヤーとしてのインポートと、次の形式: Png、Jpeg、Jpeg2000、Gif、Bmp、Tiff、Psd、Psb、および選択可能な text を使用した Pdf へのエクスポート |
-| [ResourceBlock](./resourceblock/) | リソースブロック. |
-| [SmartObjectProvider](./smartobjectprovider/) | PSD ファイルとそのコンテンツのグローバル リンク リソースからのデータ ソースの取得/設定を提供するスマート オブジェクト プロバイダーを定義します。 |
+| [PsdColorPalette](./psdcolorpalette/) | PSD カラーパレットです。 |
+| [PsdImage](./psdimage/) | PsdImage クラスは、PSD ファイルの読み込み、編集、保存に加えてプロパティの更新、透かしの追加、グラフィック操作の実行、またはファイル形式を別の形式に変換する機能を提供します。Aspose.PSD はレイヤーとしてのインポートをサポートし、次の形式へのエクスポートが可能です：Png、Jpeg、Jpeg2000、Gif、Bmp、Tiff、Psd、Psb、さらに選択可能なテキストを含む Pdf へのエクスポートもサポートします。 |
+| [ResourceBlock](./resourceblock/) | リソースブロックです。 |
+| [SmartObjectProvider](./smartobjectprovider/) | PSD ファイルのグローバルリンクリソースとその内容からデータソースの取得/設定を提供するスマートオブジェクトプロバイダーを定義します。 |
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [AutoKerning](./autokerning/) | Photoshop 自動カーニング モード (シンボル間の距離). |
-| [ColorModes](./colormodes/) | psd ファイル形式のカラー モードを表します。 |
-| [CompressionMethod](./compressionmethod/) | 画像データに使用される圧縮方法を定義します。 |
+| [AutoKerning](./autokerning/) | Photoshop の自動カーニングモード（シンボル間の距離）。 |
+| [ColorModes](./colormodes/) | psd ファイル形式のカラーモードを表します。 |
+| [CompressionMethod](./compressionmethod/) | 画像データに使用される圧縮方式を定義します。 |
 | [FontBaseline](./fontbaseline/) | これはフォントのベースラインです。 |
 | [FontCaps](./fontcaps/) | これはフォントのベースラインです。 |
-| [JustificationMode](./justificationmode/) | テキスト配置モード. |
-| [LeadingType](./leadingtype/) | Photoshop の先頭のタイプ (線間の距離のタイプ). |
-| [PsdVersion](./psdversion/) | ファイル形式 version |
-| [TextOrientation](./textorientation/) | テキスト方向モードの列挙。 |
+| [JustificationMode](./justificationmode/) | テキスト配置モードです。 |
+| [LeadingType](./leadingtype/) | Photoshop のリーディングタイプ（行間の距離の種類）。 |
+| [PsdVersion](./psdversion/) | ファイル形式バージョン |
+| [TextOrientation](./textorientation/) | テキスト方向モードの列挙体です。 |
 
 

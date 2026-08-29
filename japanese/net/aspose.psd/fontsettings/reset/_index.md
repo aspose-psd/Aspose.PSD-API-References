@@ -1,14 +1,15 @@
 ---
-title: FontSettings.Reset
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontSettings 方法. フォント フォルダとデフォルトのフォント名をシステムのデフォルトにリセットします
+title: "FontSettings.Reset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontSettings メソッド。フォントフォルダーとデフォルトフォント名をシステムのデフォルトにリセットします。"
 type: docs
-weight: 90
+weight: 110
 url: /ja/net/aspose.psd/fontsettings/reset/
 ---
+{{< psd/tize >}}
 ## FontSettings.Reset method
 
-フォント フォルダとデフォルトのフォント名をシステムのデフォルトにリセットします。
+フォントフォルダーとデフォルトフォント名をシステム既定にリセットします。
 
 ```csharp
 public static void Reset()
@@ -17,7 +18,7 @@ public static void Reset()
 ### 関連項目
 
 * class [FontSettings](../)
-* 名前空間 [Aspose.PSD](../../fontsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

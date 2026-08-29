@@ -1,76 +1,77 @@
 ---
-title: Graphics.DrawRectangles
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. で指定された一連の長方形を描画しますRectangleF構造物.
+title: "Graphics.DrawRectangles"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。RectangleF 構造体で指定された矩形の系列を描画します。"
 type: docs
-weight: 310
+weight: 320
 url: /ja/net/aspose.psd/graphics/drawrectangles/
 ---
+{{< psd/tize >}}
 ## DrawRectangles(Pen, RectangleF[]) {#drawrectangles}
 
-で指定された一連の長方形を描画します[`RectangleF`](../../rectanglef/)構造物.
+[`RectangleF`](../../rectanglef/) 構造体で指定された矩形の系列を描画します。
 
 ```csharp
 public void DrawRectangles(Pen pen, RectangleF[] rects)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)長方形のアウトラインの色、幅、およびスタイルを決定します。 |
-| rects | RectangleF[] | の配列[`RectangleF`](../../rectanglef/)描画する四角形を表す構造体。 |
+| pen | Pen | [`Pen`](../../pen/) は、矩形の輪郭の色、幅、スタイルを決定します。 |
+| rects | RectangleF[] | 描画する矩形を表す [`RectangleF`](../../rectanglef/) 構造体の配列です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen* null です。 -または- *rects*無効である。 |
+| ArgumentNullException | *pen* が null です。-or- *rects* が null です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangles(Pen, Rectangle[]) {#drawrectangles_1}
 
-で指定された一連の長方形を描画します[`Rectangle`](../../rectangle/)構造物.
+[`Rectangle`](../../rectangle/) 構造体で指定された矩形の系列を描画します。
 
 ```csharp
 public void DrawRectangles(Pen pen, Rectangle[] rects)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)長方形のアウトラインの色、幅、およびスタイルを決定します。 |
-| rects | Rectangle[] | の配列[`Rectangle`](../../rectangle/)描画する四角形を表す構造体。 |
+| pen | Pen | [`Pen`](../../pen/) は、矩形の輪郭の色、幅、スタイルを決定します。 |
+| rects | Rectangle[] | 描画する矩形を表す [`Rectangle`](../../rectangle/) 構造体の配列です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen* null です。 -または- *rects*無効である。 |
+| ArgumentNullException | *pen* が null です。-or- *rects* が null です。 |
 
-### 例
+## 例
 
-この例は、Pen オブジェクトの作成と使用を示しています。この例では、新しい Image を作成し、Image 表面に Rectangles を描画します。
+この例は Pen オブジェクトの作成と使用方法を示しています。例では新しい Image を作成し、Image の表面に矩形を描画します。
 
 ```csharp
 [C#]
 
-//Image のインスタンスを作成する
+//Image のインスタンスを作成します。
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // Graphics のインスタンスを作成し、Image オブジェクトで初期化します
+    //Graphics のインスタンスを作成し、Image オブジェクトで初期化します
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Graphics sutface を白色でクリアする
+    //Graphics のサーフェスを白色でクリアします
     graphics.Clear(Aspose.PSD.Color.White);
 
-    // 色が赤で幅が 5 の Pen のインスタンスを作成する
+    //Pen のインスタンスを作成し、色を Red、幅を 5 に設定します
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
     //HatchBrush のインスタンスを作成し、そのプロパティを設定します
@@ -78,17 +79,17 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    // Pen のインスタンスを作成する
-    //HatchBrush オブジェクトと幅で初期化します
+    //Pen のインスタンスを作成します
+    //それを HatchBrush オブジェクトと幅で初期化します
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    //ペンオブジェクトを指定して長方形を描画
+    //Pen オブジェクトを指定して矩形を描画します
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    //ペンオブジェクトを指定して長方形を描画
+    //Pen オブジェクトを指定して矩形を描画します
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
-    // エクスポート オプションを作成して初期化します。
+    // エクスポート オプションを作成し、初期化します。
     Aspose.PSD.ImageOptions.Jpeg2000Options options = new Aspose.PSD.ImageOptions.Jpeg2000Options();
 
     // すべての変更を保存します。
@@ -101,7 +102,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RefreshImagePreviewData
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. 画像プレビュー データの更新  別の PSD 画像ビューアとの互換性を最大化するために使用されるオプションかどうかを示す値を取得または設定します
+title: "PsdOptions.RefreshImagePreviewData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。画像プレビュー データのリフレッシュ オプションを使用して、他の PSD 画像ビューアとの互換性を最大化するかどうかを示す値を取得または設定します。Compact Framework プラットフォームでは、テキストレイヤーの最終レイアウトへの描画はサポートされていないことに注意してください。"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RefreshImagePreviewData property
 
-[画像プレビュー データの更新] - 別の PSD 画像ビューアとの互換性を最大化するために使用されるオプションかどうかを示す値を取得または設定します。
+画像プレビュー データの [refresh image preview data] を更新するかどうかを示す値を取得または設定します。これは他の PSD 画像ビューアとの互換性を最大化するためのオプションです。Compact Framework プラットフォームでは、テキストレイヤーの最終レイアウトへの描画はサポートされていないことに注意してください。
 
 ```csharp
 public bool RefreshImagePreviewData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [画像プレビュー データを更新];さもないと、`間違い` .
+`true` は [refresh image preview data] の場合; それ以外は `false`。
 
 ### 関連項目
 
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

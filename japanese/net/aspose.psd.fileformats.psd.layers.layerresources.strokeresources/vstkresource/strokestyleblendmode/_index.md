@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: VstkResource 財産. ストローク ブレンド モードを取得または設定します
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VstkResource プロパティ。ストロークのブレンドモードを取得または設定します"
 type: docs
-weight: 80
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-ストローク ブレンド モードを取得または設定します。
+Stroke ブレンドモードを取得または設定します。
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode StrokeStyleBlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

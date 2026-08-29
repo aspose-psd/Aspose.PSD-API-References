@@ -1,31 +1,32 @@
 ---
-title: ImageOptionsBase.DefaultReplacementFont
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageOptionsBase 財産. デフォルトの置換フォントを取得または設定します PSD ファイル内の既存のレイヤー フォントがシステムに表示されない場合ラスターにエクスポートするときにテキストの描画に使用されるフォント デフォルト フォントの適切な名前を取得するには次のコード スニペットを使用できます  System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily ファミリー  col.Families 文字列 defaultFontName  ファミリー0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
+title: "ImageOptionsBase.DefaultReplacementFont"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageOptionsBase プロパティ。ラスタへエクスポートする際に、PSD ファイル内の既存レイヤーフォントがシステムに存在しない場合にテキスト描画に使用されるデフォルト置換フォントを取得または設定します。デフォルトフォントの正しい名前を取得するには、次のコードスニペットを使用できます System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily families  col.Families string defaultFontName  families0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/imageoptionsbase/defaultreplacementfont/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.DefaultReplacementFont property
 
-デフォルトの置換フォントを取得または設定します (PSD ファイル内の既存のレイヤー フォントがシステムに表示されない場合、ラスターにエクスポートするときにテキストの描画に使用されるフォント)。 デフォルト フォントの適切な名前を取得するには、次のコード スニペットを使用できます。 : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] ファミリー = col.Families; 文字列 defaultFontName = ファミリー[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
+デフォルトの置換フォントを取得または設定します（PSD ファイルの既存レイヤーフォントがシステムに存在しない場合に、ラスタにエクスポートするときにテキスト描画に使用されるフォント）。デフォルトフォント名を取得するには、次のコードスニペットを使用できます: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
 
 ```csharp
 public virtual string DefaultReplacementFont { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-デフォルトの代替フォント。
+デフォルト置換フォントです。
 
-### 例
+## 例
 
-次の例は、DefaultReplacementFont プロパティを使用して既定の置換フォントを変更する方法を示しています。
+次の例は DefaultReplacementFont プロパティを使用してデフォルト置換フォントを変更する方法を示しています。
 
 ```csharp
 [C#]
 
-// このテストは、インストールされていないフォントを置き換える必要があるため、Konstanting Font をインストールしないでください。
+// Konstanting フォントはインストールしないでください。このテストはインストールされていないフォントを置換する必要があります。
 string sourceFileName = "sample_konstanting.psd";
 
 string[] outputs = new string[]
@@ -35,9 +36,9 @@ string[] outputs = new string[]
     "replacedfont2.jpg"
 };
 
-using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions()))
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
 {
-    // このようにして、出力ごとに異なるフォントを使用できます 
+    // この方法で、出力ごとに異なるフォントを使用できます。
     image.Save(outputs[0], new TiffOptions(TiffExpectedFormat.TiffJpegRgb) { DefaultReplacementFont = "Arial" });
     image.Save(outputs[1], new PngOptions { DefaultReplacementFont = "Verdana" });
     image.Save(outputs[2], new JpegOptions { DefaultReplacementFont = "Times New Roman" });
@@ -47,7 +48,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 ### 関連項目
 
 * class [ImageOptionsBase](../)
-* 名前空間 [Aspose.PSD](../../imageoptionsbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

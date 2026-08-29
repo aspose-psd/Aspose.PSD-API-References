@@ -1,11 +1,12 @@
 ---
-title: Layer.FillOpacity
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. 塗りつぶしの不透明度を取得または設定します
+title: "Layer.FillOpacity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。塗りつぶしの不透明度を取得または設定します。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
 塗りつぶしの不透明度を取得または設定します。
@@ -14,20 +15,20 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 public int FillOpacity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-0 から 100 までの塗りつぶしの不透明度
+不透明度は 0 から 100 の範囲です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 塗りつぶしの不透明度は 0 から 100 の範囲でのみ指定できます |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 塗りつぶしの不透明度は0から100の範囲でのみ指定できます |
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

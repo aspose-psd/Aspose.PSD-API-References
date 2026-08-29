@@ -1,27 +1,28 @@
 ---
-title: ExifData.SensitivityType
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 機密タイプを取得または設定します
+title: "ExifData.SensitivityType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。感度タイプを取得または設定します"
 type: docs
 weight: 930
 url: /ja/net/aspose.psd.exif/exifdata/sensitivitytype/
 ---
+{{< psd/tize >}}
 ## ExifData.SensitivityType property
 
-機密タイプを取得または設定します。
+感度タイプを取得または設定します。
 
 ```csharp
 public ushort SensitivityType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-感度のタイプ。
+感度の種類です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

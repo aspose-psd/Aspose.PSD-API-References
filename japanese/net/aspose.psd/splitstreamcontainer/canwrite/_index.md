@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: Aspose.PSD for .NET API リファレンス
-description: SplitStreamContainer 財産. ストリームが書き込みをサポートしているかどうかを示す値を取得します
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SplitStreamContainer プロパティ。ストリームが書き込みをサポートしているかどうかを示す値を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
 ストリームが書き込みをサポートしているかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/splitstreamcontainer/canwrite/
 public override bool CanWrite { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ストリームが書き込みをサポートしている場合。さもないと、`間違い`.
+ストリームが書き込みをサポートしている場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [SplitStreamContainer](../)
-* 名前空間 [Aspose.PSD](../../splitstreamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

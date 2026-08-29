@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamSource 財産. コンテナーが破棄されるたびにストリームを破棄する必要があるかどうかを示す値を取得します
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamSource プロパティ。コンテナが破棄されるたびにストリームを破棄すべきかどうかを示す値を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-コンテナーが破棄されるたびにストリームを破棄する必要があるかどうかを示す値を取得します。
+コンテナが破棄されるたびにストリームを破棄すべきかどうかを示す値を取得します。
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ストリームを破棄する必要がある場合。さもないと、`間違い`.
+`true` はストリームを破棄すべき場合、`false` はそれ以外の場合です。
 
 ### 関連項目
 
 * class [StreamSource](../)
-* 名前空間 [Aspose.PSD.Sources](../../streamsource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

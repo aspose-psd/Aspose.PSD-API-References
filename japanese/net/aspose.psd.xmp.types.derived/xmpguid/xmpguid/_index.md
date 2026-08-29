@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpGuid コンストラクタ. の新しいインスタンスを初期化しますXmpGuidclass.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpGuid コンストラクタ。XmpGuid クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpGuid`](../)class.
+[`XmpGuid`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 値がヌルです。 |
-| ArgumentException | GUID 値が無効です。値 |
+| ArgumentNullException | 値が null です。 |
+| ArgumentException | 無効な guid 値;value |
 
 ### 関連項目
 
 * class [XmpGuid](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-の新しいインスタンスを初期化します[`XmpGuid`](../)class.
+[`XmpGuid`](../) クラスの新しいインスタンスを初期化します
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | Guid | 一意の識別子。 |
+| guid | Guid | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpGuid](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

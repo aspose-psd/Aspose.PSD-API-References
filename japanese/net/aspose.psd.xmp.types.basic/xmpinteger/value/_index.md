@@ -1,11 +1,12 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpInteger 財産. 値を取得または設定します
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpInteger プロパティ。値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
 値を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 public long Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-値.
+値です。
 
 ### 関連項目
 
 * class [XmpInteger](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: PropertyStructure.PropertyStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: PropertyStructure コンストラクタ. の新しいインスタンスを初期化しますPropertyStructureclass.
+title: "PropertyStructure.PropertyStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PropertyStructure コンストラクタ。PropertyStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure constructor
 
-の新しいインスタンスを初期化します[`PropertyStructure`](../)class.
+[`PropertyStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キーの名前。 |
-| classID | ClassID | クラス ID。 |
-| keyID | ClassID | キー ID。 |
+| classID | ClassID | クラス IDです。 |
+| keyID | ClassID | キー IDです。 |
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

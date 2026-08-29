@@ -1,14 +1,15 @@
 ---
-title: Hue2Resource.Hue2Resource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Hue2Resource コンストラクタ. の新しいインスタンスを初期化しますHue2Resourceclass.
+title: "Hue2Resource.Hue2Resource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Hue2Resource コンストラクタ。Hue2Resource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource() {#constructor}
 
-の新しいインスタンスを初期化します[`Hue2Resource`](../)class.
+[`Hue2Resource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Hue2Resource()
@@ -17,33 +18,33 @@ public Hue2Resource()
 ### 関連項目
 
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Hue2Resource(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Hue2Resource`](../)class.
+[`Hue2Resource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Hue2Resource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソースのデータ。 |
+| データ | Byte[] | そのリソースのデータです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Hue2 リソース データが無効です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な Hue2 Resource データ |
 
 ### 関連項目
 
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

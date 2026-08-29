@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.EntriesCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdColorPalette 財産. エントリ数を取得します
+title: "PsdColorPalette.EntriesCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdColorPalette プロパティ。エントリ数を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.EntriesCount property
 
 エントリ数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/entriescount/
 public int EntriesCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-エントリ数。
+エントリ数です。
 
 ### 関連項目
 
 * class [PsdColorPalette](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

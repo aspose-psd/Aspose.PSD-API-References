@@ -1,35 +1,36 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPackage 財産. を取得または設定しますObject指定されたキーで.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPackage プロパティ。指定されたキーでオブジェクトを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-を取得または設定しますObject指定されたキーで.
+指定されたキーに対応するオブジェクトを取得または設定します。
 
 ```csharp
 public virtual object this[string key] { get; set; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| key | 値を識別するキー。 |
+| key | 値を識別するキーです。 |
 
 ### 戻り値
 
-を返しますObject指定されたキーで。
+指定されたキーの Object を返します。
 
-### プロパティ値
+### Property Value
 
-Object .
+Object。
 
 ### 関連項目
 
 * class [XmpPackage](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

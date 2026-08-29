@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPTitle
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. Windows エクスプローラーで使用されるイメージに関する情報を取得または設定します
+title: "TiffOptions.XPTitle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。Windows Explorer で使用される画像に関する情報を取得または設定します。"
 type: docs
-weight: 640
+weight: 650
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/xptitle/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPTitle property
 
-Windows エクスプローラーで使用されるイメージに関する情報を取得または設定します。
+Windows Explorer で使用される画像に関する情報を取得または設定します。
 
 ```csharp
 public string XPTitle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-Windows エクスプローラで使用される画像に関する情報。`XPTitle`場合、Windows エクスプローラーによって無視されます。[`ImageDescription`](../imagedescription/)タグが存在します.
+画像に関する情報で、Windows Explorer が使用します。 `XPTitle` は、[`ImageDescription`](../imagedescription/) タグが存在する場合、Windows Explorer によって無視されます。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

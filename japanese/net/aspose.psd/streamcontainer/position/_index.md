@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamContainer 財産. ストリーム内の現在の位置を取得または設定しますこの値はStreamContainer コンストラクターで渡された開始ストリーム位置からのオフセットを表します
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamContainer プロパティ。ストリーム内の現在位置を取得または設定します。この値は、StreamContainer コンストラクタで渡された開始ストリーム位置からのオフセットを表します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-ストリーム内の現在の位置を取得または設定します。この値は、StreamContainer コンストラクターで渡された開始ストリーム位置からのオフセットを表します。
+ストリーム内の現在位置を取得または設定します。この値は、StreamContainer コンストラクタで渡された開始ストリーム位置からのオフセットを表します。
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-現在のストリーム位置。
+現在のストリーム位置です。
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

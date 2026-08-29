@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorTranslator 方法. 色から HTML カラーを作成します
+title: "ColorTranslator.ToHtml"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorTranslator メソッド。カラーから HTML カラーを作成します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/colortranslator/tohtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToHtml method
 
 色から HTML カラーを作成します。
@@ -14,19 +15,19 @@ url: /ja/net/aspose.psd/colortranslator/tohtml/
 public static string ToHtml(Color c)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| c | Color | カラークラス。 |
+| c | 色 | カラー クラスです。 |
 
 ### 戻り値
 
-HTML 文字列の色。
+HTML 文字列カラーです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* 名前空間 [Aspose.PSD](../../colortranslator/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

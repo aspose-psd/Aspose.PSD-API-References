@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffExifIfd 財産. EXIF IFD へのポインターを取得または設定します
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffExifIfd プロパティ。EXIF IFD へのポインタを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-EXIF IFD へのポインターを取得または設定します。
+EXIF IFD へのポインタを取得または設定します。
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-EXIF IFD へのポインター。
+EXIF IFD へのポインタです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | EXIF IFD へのポインターはありません。 |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | EXIF IFD へのポインタはありません。 |
 
 ### 関連項目
 
 * class [TiffExifIfd](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LimitMemoryException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.LimitMemoryException クラス. 制限メモリ例外メモリ使用量を減らす必要があるときに発生します.
+title: "クラス LimitMemoryException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.LimitMemoryException クラス。メモリ使用量を削減すべきときに発生するリミットメモリ例外です。"
 type: docs
 weight: 650
 url: /ja/net/aspose.psd.coreexceptions/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException class
 
-制限メモリ例外。メモリ使用量を減らす必要があるときに発生します.
+メモリ制限例外です。メモリ使用量を削減すべきときに発生します。
 
 ```csharp
 public class LimitMemoryException : OutOfMemoryException
@@ -18,10 +19,10 @@ public class LimitMemoryException : OutOfMemoryException
 
 | 名前 | 説明 |
 | --- | --- |
-| [LimitMemoryException](limitmemoryexception/#constructor)(string) | の新しいインスタンスを初期化します`LimitMemoryException`class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | の新しいインスタンスを初期化します`LimitMemoryException`class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | の新しいインスタンスを初期化します`LimitMemoryException`class. |
-| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | の新しいインスタンスを初期化します`LimitMemoryException`class. |
+| [LimitMemoryException](limitmemoryexception/#constructor)(string) | `LimitMemoryException` クラスの新しいインスタンスを初期化します。 |
+| [LimitMemoryException](limitmemoryexception/#constructor_2)(string, Exception) | `LimitMemoryException` クラスの新しいインスタンスを初期化します。 |
+| [LimitMemoryException](limitmemoryexception/#constructor_1)(string, long) | `LimitMemoryException` クラスの新しいインスタンスを初期化します。 |
+| [LimitMemoryException](limitmemoryexception/#constructor_3)(string, Exception, int) | `LimitMemoryException` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -31,7 +32,7 @@ public class LimitMemoryException : OutOfMemoryException
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

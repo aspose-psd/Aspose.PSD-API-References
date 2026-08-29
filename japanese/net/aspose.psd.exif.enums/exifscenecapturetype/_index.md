@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType 列挙. exif シーン キャプチャ タイプ enum.
+title: "列挙型 ExifSceneCaptureType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType 列挙型。exif シーンキャプチャタイプ 列挙型"
 type: docs
-weight: 930
+weight: 940
 url: /ja/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-exif シーン キャプチャ タイプ enum.
+exif シーン撮影タイプ列挙。
 
 ```csharp
 public enum ExifSceneCaptureType
@@ -16,16 +17,16 @@ public enum ExifSceneCaptureType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Standard | `0` | 標準シーン. |
-| Landscape | `1` | 風景シーン. |
-| Portrait | `2` | ポートレートシーン. |
-| NightScene | `3` | 夜景. |
+| Standard | `0` | 標準シーン。 |
+| Landscape | `1` | 風景シーン。 |
+| Portrait | `2` | ポートレートシーン。 |
+| NightScene | `3` | 夜間シーン。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

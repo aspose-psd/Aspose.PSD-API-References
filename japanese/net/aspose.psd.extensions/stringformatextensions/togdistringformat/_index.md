@@ -1,32 +1,33 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormatExtensions 方法. はStringFormatにStringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormatExtensions メソッド。StringFormat を StringFormat に変換します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-は[`StringFormat`](../../../aspose.psd/stringformat/)にStringFormat .
+[`StringFormat`](../../../aspose.psd/stringformat/) を StringFormat に変換します。
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stringFormat | StringFormat | の[`StringFormat`](../../../aspose.psd/stringformat/)変換する。 |
+| stringFormat | StringFormat | 変換対象の [`StringFormat`](../../../aspose.psd/stringformat/)。 |
 
 ### 戻り値
 
-変換されたStringFormat.
+変換された StringFormat。
 
 ### 関連項目
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../stringformatextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

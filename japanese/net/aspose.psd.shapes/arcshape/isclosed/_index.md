@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Aspose.PSD for .NET API リファレンス
-description: ArcShape 財産. 順序付けられた形状が閉じているかどうかを示す値を取得または設定します閉じた順序付けられた形状を処理する場合開始点と終了点は意味を持ちません.
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ArcShape プロパティ。順序付けられたシェイプが閉じているかどうかを示す値を取得または設定します。閉じた順序付けシェイプを処理する場合、開始点と終了点は意味を持ちません"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-順序付けられた形状が閉じているかどうかを示す値を取得または設定します。閉じた順序付けられた形状を処理する場合、開始点と終了点は意味を持ちません.
+順序付けられたシェイプが閉じているかどうかを示す値を取得または設定します。閉じた順序付けシェイプを処理する場合、開始点と終了点に意味はありません。
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`この順序付けられた形状が閉じている場合。さもないと、`間違い` .
+この順序付けシェイプが閉じている場合は `True`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [ArcShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../arcshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

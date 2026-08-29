@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlackWhiteAdjustmentLayer 財産. 白黒プリセット ファイル名を取得または設定します
+title: "BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlackWhiteAdjustmentLayer プロパティ。黒白プリセットファイル名を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BlackAndWhitePresetFileName property
 
-白黒プリセット ファイル名を取得または設定します。
+白黒プリセットファイル名を取得または設定します。
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-白黒プリセットファイル名.
+黒白プリセットファイル名です。
 
-### 例
+## 例
 
-次の例は、Aspose.PSD で白黒調整レイヤー プロパティを操作する方法を示しています。
+次の例は、Aspose.PSD で黒白調整レイヤーのプロパティを操作できる方法を示しています
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

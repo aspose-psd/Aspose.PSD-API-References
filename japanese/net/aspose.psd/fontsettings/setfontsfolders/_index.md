@@ -1,28 +1,29 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD for .NET API リファレンス
-description: FontSettings 方法. TrueType フォントが読み込まれるフォルダを設定し読み込まれたすべてのフォントをクリアします. フォント フォルダに対して実行されるチェックはありません.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FontSettings メソッド。TrueType フォントが読み込まれるフォルダーを設定し、すべての読み込まれたフォントをクリアします。フォントフォルダーに対するチェックは行われません。"
 type: docs
-weight: 130
+weight: 150
 url: /ja/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-TrueType フォントが読み込まれるフォルダを設定し、読み込まれたすべてのフォントをクリアします. フォント フォルダに対して実行されるチェックはありません.
+TrueType フォントが読み込まれるフォルダーを設定し、すべての読み込まれたフォントをクリアします。フォントフォルダーに対するチェックは行われません。
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fontsFolders | String[] | フォントフォルダー。 |
-| recursive | Boolean | に設定した場合`真実` [再帰的]。 |
+| fontsFolders | String[] | フォントフォルダーです。 |
+| recursive | Boolean | `true` に設定された場合は [recursive]。 |
 
 ### 関連項目
 
 * class [FontSettings](../)
-* 名前空間 [Aspose.PSD](../../fontsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: WatermarkResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: WatermarkResource 財産. リソース データ サイズをバイト単位で取得します
+title: "WatermarkResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "WatermarkResource プロパティ。リソースデータサイズ（バイト単位）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/watermarkresource/datasize/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [WatermarkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.UseDiskForLoadEffectsResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdLoadOptions 財産. エフェクト リソースのロードにディスクを使用する デフォルトではエフェクト リソースのロードにディスクを使用しますがこの値を false に設定することで十分な場合はメモリを使用できます かどうかを示す値を取得または設定します
+title: "PsdLoadOptions.UseDiskForLoadEffectsResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdLoadOptions プロパティ。エフェクトリソースの読み込みにディスクを使用するかどうかを示す値を取得または設定します。デフォルトではディスクを使用してエフェクトリソースを読み込みますが、この値を false に設定すればメモリを使用することも可能です。"
 type: docs
-weight: 70
+weight: 90
 url: /ja/net/aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.UseDiskForLoadEffectsResource property
 
-[エフェクト リソースのロードにディスクを使用する] (デフォルトではエフェクト リソースのロードにディスクを使用しますが、この値を false に設定することで十分な場合はメモリを使用できます) かどうかを示す値を取得または設定します。
+取得または設定するのは、[エフェクトリソースのロードにディスクを使用する]かどうかを示す値です（デフォルトではディスクが使用されますが、この値を false に設定すればメモリを使用できます）。
 
 ```csharp
 public bool UseDiskForLoadEffectsResource { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [負荷効果リソースにディスクを使用];さもないと、`間違い` .
+`true` は [use disk for load effects resource] の場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [PsdLoadOptions](../)
-* 名前空間 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Aspose.PSD for .NET API リファレンス
-description: ComplexTypeBase 財産. デフォルトの名前空間 URI を取得します
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ComplexTypeBase プロパティ。デフォルトの名前空間 URI を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-デフォルトの名前空間 URI を取得します。
+デフォルト名前空間の URI を取得します。
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-デフォルトのネームスペース URI.
+デフォルトの名前空間 URI です。
 
 ### 関連項目
 
 * class [ComplexTypeBase](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

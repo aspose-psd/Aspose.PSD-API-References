@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.ClassID
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClassStructure 財産. クラス ID を取得または設定します
+title: "ClassStructure.ClassID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClassStructure プロパティ。クラス ID を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classid/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassID property
 
 クラス ID を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID ClassID { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-クラス ID.
+クラス IDです。
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ClassStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

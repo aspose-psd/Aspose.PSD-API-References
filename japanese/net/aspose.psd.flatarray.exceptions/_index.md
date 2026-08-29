@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はPsd ファイル形式の処理を処理します
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は PSD ファイル形式の処理を扱います。"
 type: docs
-weight: 400
+weight: 440
 url: /ja/net/aspose.psd.flatarray.exceptions/
 ---
-名前空間は、Psd ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は PSD ファイル形式の処理を行います。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | の特別な例外FlatArrayclass. |
+| [FlatArrayException](./flatarrayexception/) | FlatArray クラス用の特別な例外です。 |
 
 

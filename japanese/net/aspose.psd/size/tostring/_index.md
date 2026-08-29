@@ -1,14 +1,15 @@
 ---
-title: Size.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 方法. これを表す人間が読める文字列を作成しますSize .
+title: "Size.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size メソッド。この Size を表す人間が読みやすい文字列を作成します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-これを表す人間が読める文字列を作成します[`Size`](../) .
+この [`Size`](../) を表す人間が読みやすい文字列を作成します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-これを表す文字列[`Size`](../).
+この [`Size`](../) を表す文字列。
 
 ### 関連項目
 
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

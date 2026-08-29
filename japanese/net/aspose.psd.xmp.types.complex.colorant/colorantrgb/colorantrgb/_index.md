@@ -1,14 +1,15 @@
 ---
-title: ColorantRgb.ColorantRgb
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantRgb コンストラクタ. の新しいインスタンスを初期化しますColorantRgbclass.
+title: "ColorantRgb.ColorantRgb"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantRgb コンストラクタ。ColorantRgb クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb() {#constructor}
 
-の新しいインスタンスを初期化します[`ColorantRgb`](../)class.
+[`ColorantRgb`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorantRgb()
@@ -17,29 +18,29 @@ public ColorantRgb()
 ### 関連項目
 
 * class [ColorantRgb](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantRgb(byte, byte, byte) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ColorantRgb`](../)class.
+[`ColorantRgb`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorantRgb(byte red, byte green, byte blue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| red | Byte | 赤のコンポーネント値。 |
-| green | Byte | 緑の成分値。 |
-| blue | Byte | 青の成分値。 |
+| 赤 | バイト | 赤色成分の値。 |
+| 緑 | バイト | 緑色成分の値。 |
+| 青 | バイト | 青色成分の値。 |
 
 ### 関連項目
 
 * class [ColorantRgb](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

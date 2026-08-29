@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.VerticalMeshPointUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: PlacedResource 財産. 垂直メッシュ ポイントの測定単位を取得または設定します
+title: "PlacedResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PlacedResource property. 垂直メッシュポイントの測定単位を取得または設定します。"
 type: docs
-weight: 230
+weight: 220
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPointUnit property
 
-垂直メッシュ ポイントの測定単位を取得または設定します。
+垂直メッシュポイントの測定単位を取得または設定します。
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-垂直メッシュ ポイントの測定単位.
+垂直メッシュポイントの測定単位です。
 
 ### 関連項目
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PixelAspectRatioResource.PixelAspectRatioResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelAspectRatioResource コンストラクタ. デフォルトのコンストラクター
+title: "PixelAspectRatioResource.PixelAspectRatioResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelAspectRatioResource コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/pixelaspectratioresource/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PixelAspectRatioResource()
@@ -17,7 +18,7 @@ public PixelAspectRatioResource()
 ### 関連項目
 
 * class [PixelAspectRatioResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

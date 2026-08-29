@@ -1,11 +1,12 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 財産. 補間モードを取得または設定します
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics プロパティ。補間モードを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
 補間モードを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/graphics/interpolationmode/
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-補間モード。
+補間モードです。
 
 ### 関連項目
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

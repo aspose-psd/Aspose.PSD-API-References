@@ -1,14 +1,15 @@
 ---
-title: ColorMap.ColorMap
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMap コンストラクタ. デフォルトのコンストラクター
+title: "ColorMap.ColorMap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMap コンストラクタ。 デフォルトコンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/colormap/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ColorMap()
@@ -17,7 +18,7 @@ public ColorMap()
 ### 関連項目
 
 * class [ColorMap](../)
-* 名前空間 [Aspose.PSD](../../colormap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.Data
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataStructure 財産. データを取得または設定します
+title: "RawDataStructure.Data"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataStructure プロパティ。データを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/data/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.Data property
 
 データを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public byte[] Data { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ.
+データです。
 
 ### 関連項目
 
 * class [RawDataStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. を返しますStringこのインスタンスを表す.
+title: "Matrix.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表すStringを返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

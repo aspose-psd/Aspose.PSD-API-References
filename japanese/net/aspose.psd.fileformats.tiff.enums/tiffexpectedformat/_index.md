@@ -1,14 +1,15 @@
 ---
-title: Enum TiffExpectedFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat 列挙. 予想される tiff ファイル形式
+title: "列挙体 TiffExpectedFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat 列挙体。期待される TIFF ファイル形式"
 type: docs
-weight: 4070
+weight: 4540
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tiffexpectedformat/
 ---
+{{< psd/tize >}}
 ## TiffExpectedFormat enumeration
 
-予想される tiff ファイル形式。
+期待される TIFF ファイル形式です。
 
 ```csharp
 public enum TiffExpectedFormat
@@ -16,28 +17,28 @@ public enum TiffExpectedFormat
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | デフォルトの tiff 形式は圧縮なしで、白黒 1 ビット/ピクセルのみの形式です。この設定を使用して、空のオプションを取得し、タグまたはその他の設定で初期化することもできます. |
-| TiffLzwBw | `1` | LZW 圧縮と B/W 1 ビット/ピクセルのみの形式の tiff。 |
-| TiffLzwRgb | `2` | LZW 圧縮と RGB カラー形式の tiff。 |
-| TiffLzwRgba | `3` | LZW 圧縮の tiff と透明色の RGBA 形式。 |
-| TiffLzwCmyk | `4` | tiff LZW cmyk |
-| TiffCcittFax3 | `5` | tiff CCITT FAX3 エンコーディング。白黒 1 ビット/ピクセルは、そのスキームでのみサポートされます。 |
-| TiffCcittFax4 | `6` | tiff CCITT FAX4 エンコーディング。白黒 1 ビット/ピクセルは、そのスキームでのみサポートされます。 |
-| TiffDeflateBw | `7` | deflate 圧縮と B/W 1 ビット/ピクセルのみのフォーマットを持つ tiff. |
-| TiffDeflateRgb | `8` | deflate 圧縮と RGB カラー形式を持つ tiff。 |
-| TiffDeflateRgba | `9` | deflate 圧縮と RGBA カラー形式を持つ tiff。 |
-| TiffCcitRle | `10` | tiff CCITT RLE エンコーディング。白黒 1 ビット/ピクセルは、そのスキームでのみサポートされます。 |
-| TiffJpegRgb | `11` | JPEG 圧縮と RGB カラー形式の tiff。 |
-| TiffJpegYCbCr | `12` | JPEG 圧縮と YCBCR カラー形式の tiff。 |
-| TiffNoCompressionBw | `13` | 圧縮されていない tiff と B/W 1 ビット/ピクセルのみの形式。 |
-| TiffNoCompressionRgb | `14` | 非圧縮 tiff および RGB カラー形式。 |
-| TiffNoCompressionRgba | `15` | 圧縮されていない tiff と透明色の RGBA 形式. |
+| Default | `0` | デフォルトの TIFF 形式は、圧縮なしで白黒 1 ビット/ピクセルのみの形式です。この設定を使用して空のオプションを取得し、タグやその他の設定で初期化することもできます。 |
+| TiffLzwBw | `1` | LZW 圧縮で白黒 1 ビット/ピクセルのみの形式の TIFF。 |
+| TiffLzwRgb | `2` | LZW 圧縮で RGB カラー形式の TIFF。 |
+| TiffLzwRgba | `3` | LZW 圧縮で透過カラーを持つ RGBA 形式の TIFF。 |
+| TiffLzwCmyk | `4` | LZW CMYK の TIFF |
+| TiffCcittFax3 | `5` | CCITT FAX3 エンコーディングの TIFF。その方式では白黒 1 ビット/ピクセルのみがサポートされます。 |
+| TiffCcittFax4 | `6` | CCITT FAX4 エンコーディングの TIFF。その方式では白黒 1 ビット/ピクセルのみがサポートされます。 |
+| TiffDeflateBw | `7` | Deflate 圧縮で白黒 1 ビット/ピクセルのみの形式の TIFF。 |
+| TiffDeflateRgb | `8` | Deflate 圧縮と RGB カラー形式を持つ TIFFです。 |
+| TiffDeflateRgba | `9` | Deflate 圧縮と RGBA カラー形式を持つ TIFFです。 |
+| TiffCcitRle | `10` | CCITT RLE エンコーディングの TIFFです。その方式では 1 ピクセルあたり 1 ビットの白黒のみがサポートされます。 |
+| TiffJpegRgb | `11` | JPEG 圧縮と RGB カラー形式を持つ TIFFです。 |
+| TiffJpegYCbCr | `12` | JPEG 圧縮と YCBCR カラー形式を持つ TIFFです。 |
+| TiffNoCompressionBw | `13` | 圧縮されていない TIFF で、1 ピクセルあたり 1 ビットの白黒形式のみです。 |
+| TiffNoCompressionRgb | `14` | 圧縮されていない TIFF で、RGB カラー形式です。 |
+| TiffNoCompressionRgba | `15` | 圧縮されていない TIFF で、透過付き RGBA カラー形式です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

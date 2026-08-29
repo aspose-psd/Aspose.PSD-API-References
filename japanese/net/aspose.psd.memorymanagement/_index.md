@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはメモリ管理ルーチンが含まれています.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間にはメモリ管理ルーチンが含まれています。"
 type: docs
-weight: 450
+weight: 490
 url: /ja/net/aspose.psd.memorymanagement/
 ---
-名前空間にはメモリ管理ルーチンが含まれています.
+{{< psd/tize >}}
+この名前空間にはメモリ管理ルーチンが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [Configuration](./configuration/) | メモリ管理グローバル構成 |
+| [Configuration](./configuration/) | メモリ管理のグローバル構成 |
 
 

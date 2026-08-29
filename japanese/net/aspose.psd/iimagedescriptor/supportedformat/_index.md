@@ -1,11 +1,12 @@
 ---
-title: IImageDescriptor.SupportedFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: IImageDescriptor 財産. サポートされている形式を取得します
+title: "IImageDescriptor.SupportedFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IImageDescriptor プロパティ。サポートされている形式を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/iimagedescriptor/supportedformat/
 ---
+{{< psd/tize >}}
 ## IImageDescriptor.SupportedFormat property
 
 サポートされている形式を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/iimagedescriptor/supportedformat/
 public FileFormat SupportedFormat { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-サポートされている形式。
+サポートされている形式です。
 
 ### 関連項目
 
 * enum [FileFormat](../../fileformat/)
 * interface [IImageDescriptor](../)
-* 名前空間 [Aspose.PSD](../../iimagedescriptor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

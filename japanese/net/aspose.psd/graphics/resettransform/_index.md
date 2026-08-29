@@ -1,14 +1,15 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. をリセットしますTransformプロパティからidentity.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。Transform プロパティを単位行列にリセットします"
 type: docs
-weight: 430
+weight: 440
 url: /ja/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-をリセットします[`Transform`](../transform/)プロパティからidentity.
+[`Transform`](../transform/) プロパティを単位行列にリセットします。
 
 ```csharp
 public void ResetTransform()
@@ -17,7 +18,7 @@ public void ResetTransform()
 ### 関連項目
 
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

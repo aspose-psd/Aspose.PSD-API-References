@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. 数字置換に使用する方法を取得または設定します
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。数字置換に使用されるメソッドを取得または設定します。"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-数字置換に使用する方法を取得または設定します。
+数字置換に使用される方法を取得または設定します。
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`StringDigitSubstitute`](../../stringdigitsubstitute/)現在のフォントでサポートされていないために表示できない文字列内の文字を置き換える方法を指定する列挙値。
+[`StringDigitSubstitute`](../../stringdigitsubstitute/) 列挙値で、現在のフォントでサポートされていないため表示できない文字を文字列内で置換する方法を指定します。
 
-### 備考
+## 備考
 
-セッターは廃止されたメソッド SetDigitSubstitution に導入されました。
+廃止されたメソッド SetDigitSubstitution 用にセッターが導入されました。
 
 ### 関連項目
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

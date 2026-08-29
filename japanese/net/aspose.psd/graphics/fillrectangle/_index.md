@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillRectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. によって指定された長方形の内部を塗りつぶしますRectangle構造体.
+title: "Graphics.FillRectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。Rectangle 構造体で指定された矩形の内部を塗りつぶします。"
 type: docs
-weight: 390
+weight: 400
 url: /ja/net/aspose.psd/graphics/fillrectangle/
 ---
+{{< psd/tize >}}
 ## FillRectangle(Brush, Rectangle) {#fillrectangle}
 
-によって指定された長方形の内部を塗りつぶします。[`Rectangle`](../../rectangle/)構造体.
+[`Rectangle`](../../rectangle/)構造体で指定された矩形の内部を塗りつぶします。
 
 ```csharp
 public void FillRectangle(Brush brush, Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)塗りつぶす四角形を表す構造体。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| rect | Rectangle | [`Rectangle`](../../rectangle/)構造体は、塗りつぶす矩形を表します。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, RectangleF) {#fillrectangle_1}
 
-によって指定された長方形の内部を塗りつぶします。[`RectangleF`](../../rectanglef/)構造体.
+[`RectangleF`](../../rectanglef/)構造体で指定された矩形の内部を塗りつぶします。
 
 ```csharp
 public void FillRectangle(Brush brush, RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)塗りつぶす四角形を表す構造体。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/)構造体は、塗りつぶす矩形を表します。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, float, float, float, float) {#fillrectangle_3}
 
-座標のペア、幅と高さで指定された長方形の内部を塗りつぶします。
+座標のペア、幅、および高さで指定された矩形の内部を塗りつぶします。
 
 ```csharp
 public void FillRectangle(Brush brush, float x, float y, float width, float height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| x | Single | 塗りつぶす四角形の左上隅の x 座標。 |
-| y | Single | 塗りつぶす四角形の左上隅の y 座標。 |
-| width | Single | 塗りつぶす四角形の幅。 |
-| height | Single | 塗りつぶす四角形の高さ。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| x | シングル | 塗りつぶす矩形の左上隅のx座標。 |
+| y | シングル | 塗りつぶす矩形の左上隅のy座標。 |
+| width | シングル | 塗りつぶす矩形の幅。 |
+| height | シングル | 塗りつぶす矩形の高さ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangle(Brush, int, int, int, int) {#fillrectangle_2}
 
-座標のペア、幅と高さで指定された長方形の内部を塗りつぶします。
+座標のペア、幅、および高さで指定された矩形の内部を塗りつぶします。
 
 ```csharp
 public void FillRectangle(Brush brush, int x, int y, int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)塗りつぶしの特性を決定します。 |
-| x | Int32 | 塗りつぶす四角形の左上隅の x 座標。 |
-| y | Int32 | 塗りつぶす四角形の左上隅の y 座標。 |
-| width | Int32 | 塗りつぶす四角形の幅。 |
-| height | Int32 | 塗りつぶす四角形の高さ。 |
+| brush | Brush | [`Brush`](../../brush/) は塗りの特性を決定します。 |
+| x | Int32 | 塗りつぶす矩形の左上隅のx座標。 |
+| y | Int32 | 塗りつぶす矩形の左上隅のy座標。 |
+| width | Int32 | 塗りつぶす矩形の幅。 |
+| height | Int32 | 塗りつぶす矩形の高さ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*無効である。 |
+| ArgumentNullException | *brush* が null です。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlncResource 財産. これがBlncResource光度を保持します.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlncResource プロパティ。この BlncResource が輝度を保持するかどうかを示す値を取得または設定します"
 type: docs
-weight: 100
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-これが[`BlncResource`](../)光度を保持します.
+この [`BlncResource`](../) が輝度を保持するかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`光度を維持する場合。さもないと、`間違い` .
+`true` は輝度を保持する場合です。そうでなければ `false` です。
 
 ### 関連項目
 
 * class [BlncResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

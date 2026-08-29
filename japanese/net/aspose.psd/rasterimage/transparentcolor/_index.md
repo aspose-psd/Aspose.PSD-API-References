@@ -1,14 +1,15 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 財産. 画像の透明色を取得します.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage プロパティ。画像の透過色を取得します"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-画像の透明色を取得します.
+画像の透過色を取得します。
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
@@ -18,7 +19,7 @@ public virtual Color TransparentColor { get; set; }
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

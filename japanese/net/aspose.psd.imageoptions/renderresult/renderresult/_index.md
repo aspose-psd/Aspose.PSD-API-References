@@ -1,14 +1,15 @@
 ---
-title: RenderResult.RenderResult
-second_title: Aspose.PSD for .NET API リファレンス
-description: RenderResult コンストラクタ. デフォルトのコンストラクター
+title: "RenderResult.RenderResult"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RenderResult コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public RenderResult()
@@ -17,7 +18,7 @@ public RenderResult()
 ### 関連項目
 
 * class [RenderResult](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../renderresult/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

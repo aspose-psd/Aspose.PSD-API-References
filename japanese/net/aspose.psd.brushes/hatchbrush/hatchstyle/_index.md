@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Aspose.PSD for .NET API リファレンス
-description: HatchBrush 財産. このブラシのハッチ スタイルを取得または設定します
+title: "HatchBrush.HatchStyle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "HatchBrush プロパティ。このブラシのハッチスタイルを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-このブラシのハッチ スタイルを取得または設定します。
+このブラシのハッチスタイルを取得または設定します。
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
@@ -18,7 +19,7 @@ public HatchStyle HatchStyle { get; set; }
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../hatchbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

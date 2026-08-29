@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerSectionResource 財産. サブタイプを取得または設定します
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerSectionResource プロパティ。サブタイプを取得または設定します"
 type: docs
-weight: 80
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
 サブタイプを取得または設定します。
@@ -18,7 +19,7 @@ public LayerSectionSubtype Subtype { get; set; }
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

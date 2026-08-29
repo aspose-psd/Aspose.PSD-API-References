@@ -1,14 +1,15 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode 列挙. exif 測光モード enum.
+title: "列挙型 ExifMeteringMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode 列挙型。exif 測光モード 列挙型"
 type: docs
-weight: 900
+weight: 910
 url: /ja/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-exif 測光モード enum.
+exif 測光モード列挙。
 
 ```csharp
 public enum ExifMeteringMode
@@ -16,20 +17,20 @@ public enum ExifMeteringMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Unknown | `0` | 未定義モード |
-| Average | `1` | 平均計測 |
-| Centerweightedaverage | `2` | 中央加重平均. |
+| Average | `1` | 平均測光 |
+| Centerweightedaverage | `2` | 中心重点平均です。 |
 | Spot | `3` | スポット測光 |
 | MultiSpot | `4` | マルチスポット測光 |
-| MultiSegment | `5` | マルチセグメント計測. |
-| Partial | `6` | 部分計測。 |
-| Other | `255` | その他のモード用. |
+| MultiSegment | `5` | マルチセグメント測光です。 |
+| Partial | `6` | 部分測光です。 |
+| Other | `255` | 他のモード用です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

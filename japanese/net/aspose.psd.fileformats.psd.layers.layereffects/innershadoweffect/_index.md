@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect クラス. インナー シャドウ レイヤー effect
+title: "クラス InnerShadowEffect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect クラス。インナーレイヤーシャドウ効果"
 type: docs
-weight: 2160
+weight: 2350
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-インナー シャドウ レイヤー effect
+インナーシャドウレイヤー効果
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -18,21 +19,27 @@ public class InnerShadowEffect : IShadowEffect
 
 | 名前 | 説明 |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | 度単位の角度を取得または設定します. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | ブレンド モードを取得または設定します。 |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | 角度（度）を取得または設定します。 |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | ブレンドモードを取得または設定します。 |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | 色を取得または設定します。 |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | 距離をピクセル単位で取得または設定します。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | エフェクトのタイプを取得します |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | このインスタンスが表示されるかどうかを示す値を取得または設定します. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | 距離（ピクセル）を取得または設定します。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | エフェクトのタイプを取得します。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | このインスタンスが表示されているかどうかを示す値を取得または設定します。 |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | ノイズを取得または設定します。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | 不透明度を取得または設定します。 |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | ピクセル単位のぼかし値を取得または設定します。 |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | スプレッド (チョーク) をパーセンテージで取得または設定します。 |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | [すべてのレイヤー効果でこの角度を使用する]かどうかを示す値を取得または設定します. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | ぼかし値（ピクセル）を取得または設定します。 |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | 拡散（チョーク）をパーセンテージで取得または設定します。 |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | すべてのレイヤー効果でこの角度を使用するかどうかを示す値を取得または設定します。 |
 
-### 例
+## メソッド
 
-次のコードは、インナー シャドウ レイヤー効果の設定を変更する方法を示しています。
+| 名前 | 説明 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | 入力レイヤーのピクセル境界に基づいてエフェクトピクセルの境界を計算し、取得します。 |
+
+## 例
+
+以下のコードは、インナーレイヤーシャドウ効果の設定を変更する方法を示しています。
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ public class InnerShadowEffect : IShadowEffect
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -64,7 +71,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 ### 関連項目
 
 * interface [IShadowEffect](../ishadoweffect/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

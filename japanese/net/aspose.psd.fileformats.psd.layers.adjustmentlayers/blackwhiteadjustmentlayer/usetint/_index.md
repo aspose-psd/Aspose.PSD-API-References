@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlackWhiteAdjustmentLayer 財産. 色合い を使用するかどうかを示す値を取得または設定します
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlackWhiteAdjustmentLayer プロパティ。ティントカラーが使用されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-[色合い] を使用するかどうかを示す値を取得または設定します。
+[tint color] が使用されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [ティントカラー]を使用した場合;さもないと、`間違い` .
+`true` は使用された場合 [tint color]；それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、Aspose.PSD で白黒調整レイヤー プロパティを操作する方法を示しています。
+次の例は、Aspose.PSD で黒白調整レイヤーのプロパティを操作できる方法を示しています
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

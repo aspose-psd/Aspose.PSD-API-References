@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorRangeHsl 方法. 色相が大きな範囲にあるかどうかを判断します
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorRangeHsl メソッド。色相が大きな範囲にあるかどうかを判定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-色相が大きな範囲にあるかどうかを判断します。
+色相が大きい範囲にあるかどうかを判定します。
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| hue | Double | 色相値。 |
+| 色相 | Double | 色相の値です。 |
 
 ### 戻り値
 
-`真実`色相が大きな範囲にある場合。さもないと、`間違い` .
+`true` は色相が大きな範囲にある場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

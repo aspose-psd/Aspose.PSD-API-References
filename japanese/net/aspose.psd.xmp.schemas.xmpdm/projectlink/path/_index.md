@@ -1,27 +1,28 @@
 ---
-title: ProjectLink.Path
-second_title: Aspose.PSD for .NET API リファレンス
-description: ProjectLink 財産. プロジェクトへのフル パスを取得または設定します
+title: "ProjectLink.Path"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ProjectLink プロパティ。プロジェクトへの完全パスを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/projectlink/path/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Path property
 
-プロジェクトへのフル パスを取得または設定します。
+プロジェクトへのフルパスを取得または設定します。
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-プロジェクトへのフル パス。
+プロジェクトへの完全パスです。
 
 ### 関連項目
 
 * class [ProjectLink](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

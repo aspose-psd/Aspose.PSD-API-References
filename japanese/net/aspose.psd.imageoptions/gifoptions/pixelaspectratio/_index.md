@@ -1,31 +1,32 @@
 ---
-title: GifOptions.PixelAspectRatio
-second_title: Aspose.PSD for .NET API リファレンス
-description: GifOptions 財産. GIF ピクセルの縦横比を取得または設定します
+title: "GifOptions.PixelAspectRatio"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GifOptions プロパティ。GIF のピクセルアスペクト比を取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.imageoptions/gifoptions/pixelaspectratio/
 ---
+{{< psd/tize >}}
 ## GifOptions.PixelAspectRatio property
 
-GIF ピクセルの縦横比を取得または設定します。
+GIF のピクセルアスペクト比を取得または設定します。
 
 ```csharp
 public byte PixelAspectRatio { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GIF ピクセルのアスペクト比。
+GIF のピクセルアスペクト比です。
 
-### 備考
+## 備考
 
-ピクセル アスペクト比 - 元の画像のピクセルのアスペクト比の近似 を計算するために使用される係数。フィールドの 値が0でない場合、アスペクト比 のこの近似値は、次の式に基づいて計算されます: アスペクト比=(ピクセルアスペクト比+15)/64 ピクセルアスペクト比は、ピクセルの商として定義されます。 s 幅がその高さを超えています。このフィールドの値の範囲では、 の最大幅のピクセルから 4:1 の最大ピクセルまでを 1:4 の最大ピクセルまで、1/64 単位で指定できます。計算で使用される値。
+ピクセルアスペクト比 - 元画像のピクセルのアスペクト比の近似を計算するために使用される係数です。フィールドの値が 0 でない場合、このアスペクト比の近似は次の式に基づいて計算されます: アスペクト比 = (Pixel Aspect Ratio + 15) / 64 ピクセルアスペクト比はピクセルの幅を高さで割った商として定義されます。このフィールドの値範囲は、最も幅の広いピクセル 4:1 から最も高さの高いピクセル 1:4 までを 1/64 刻みで指定できます。値: 0 - アスペクト比情報が提供されていません。1..255 - 計算に使用される値。
 
 ### 関連項目
 
 * class [GifOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

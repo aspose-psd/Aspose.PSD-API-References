@@ -1,20 +1,21 @@
 ---
-title: StringStructure.StringStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringStructure コンストラクタ. の新しいインスタンスを初期化しますStringStructureclass.
+title: "StringStructure.StringStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringStructure コンストラクタ。StringStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure(ClassID) {#constructor}
 
-の新しいインスタンスを初期化します[`StringStructure`](../)class.
+[`StringStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StringStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,27 +23,27 @@ public StringStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`StringStructure`](../)value. を持つクラス
+値を指定して [`StringStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
-### 例
+## 例
 
-この例では、Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+この例は Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、外部リンク ファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
+// この例は外部リンクファイルに関する情報を含む Psd LnkE リソースのプロパティを取得および設定する方法を示します。
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -133,7 +134,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// この例では、外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク JPEG ファイルに関する情報を含む Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -152,7 +153,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// この例では、外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -171,7 +172,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// この例では、外部リンクされた 2 つの PNG および PSD ファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク PNG と PSD の 2 つのファイルに関する情報を含む PSD LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -190,7 +191,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// この例では、外部リンクされた CC ライブラリ アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
+// この例は外部リンク CC Libraries アセットに関する情報を含む Photoshop Psd LnkeResource のプロパティを取得および設定する方法を示します。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -214,7 +215,7 @@ ExampleOfLnkEResourceSupport(
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

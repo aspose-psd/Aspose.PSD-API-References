@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.Progress
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 財産. 非同期タスクの進行状況を取得します
+title: "IAsyncTask.Progress"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask プロパティ。非同期タスクの進捗を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.asynctask/iasynctask/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Progress property
 
-非同期タスクの進行状況を取得します。
+非同期タスクの進捗を取得します。
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-非同期タスクの進行状況.
+非同期タスクの進捗。
 
 ### 関連項目
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

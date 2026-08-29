@@ -1,14 +1,15 @@
 ---
-title: LayerStateInformationResource.LayerStateInformationResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerStateInformationResource コンストラクタ. デフォルトのコンストラクター
+title: "LayerStateInformationResource.LayerStateInformationResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerStateInformationResource コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerstateinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public LayerStateInformationResource()
@@ -17,7 +18,7 @@ public LayerStateInformationResource()
 ### 関連項目
 
 * class [LayerStateInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

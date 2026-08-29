@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はBmp ファイル形式の処理を処理します
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は Bmp ファイル形式の処理を扱います"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd.fileformats.bmp/
 ---
-名前空間は、Bmp ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は BMP ファイル形式の処理を扱います。
 
 ## 列挙
 

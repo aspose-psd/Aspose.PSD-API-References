@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternId
-second_title: Aspose.PSD for .NET API リファレンス
-description: PatternFillSettings 財産. パターン識別子を取得または設定します
+title: "PatternFillSettings.PatternId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PatternFillSettings プロパティ。パターン識別子を取得または設定します"
 type: docs
-weight: 80
+weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternId property
 
-パターン識別子を取得または設定します。
+取得または設定します。パターン識別子。
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パターン識別子.
+パターン識別子です。
 
-### 例
+## 例
 
-次のコードは、塗りつぶしレイヤー パターン編集のサポートを示しています。
+以下のコードは、塗りレイヤーパターン編集のサポートを示しています。
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // 編集中 
+            // 編集 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -78,7 +79,7 @@ using (im)
 ### 関連項目
 
 * class [PatternFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

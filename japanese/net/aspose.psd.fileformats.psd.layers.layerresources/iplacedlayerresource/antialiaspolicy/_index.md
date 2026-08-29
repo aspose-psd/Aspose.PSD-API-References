@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.AntiAliasPolicy
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPlacedLayerResource 財産. PSD 画像に配置されたレイヤーのアンチエイリアス ポリシーを取得または設定します
+title: "IPlacedLayerResource.AntiAliasPolicy"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPlacedLayerResource プロパティ。PSD 画像内の配置されたレイヤーのアンチエイリアス ポリシーを取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.AntiAliasPolicy property
 
-PSD 画像に配置されたレイヤーのアンチエイリアス ポリシーを取得または設定します。
+PSD 画像内の配置レイヤーのアンチエイリアスポリシーを取得または設定します。
 
 ```csharp
 public int AntiAliasPolicy { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤーのアンチエイリアス ポリシー.
+配置レイヤーのアンチエイリアス ポリシー。
 
 ### 関連項目
 
 * interface [IPlacedLayerResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

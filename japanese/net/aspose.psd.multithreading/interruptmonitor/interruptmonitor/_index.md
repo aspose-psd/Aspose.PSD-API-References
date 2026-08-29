@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PSD for .NET API リファレンス
-description: InterruptMonitor コンストラクタ. デフォルトのコンストラクター
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "InterruptMonitor コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.multithreading/interruptmonitor/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public InterruptMonitor()
@@ -17,7 +18,7 @@ public InterruptMonitor()
 ### 関連項目
 
 * class [InterruptMonitor](../)
-* 名前空間 [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResourceVersion3 財産. 色空間を取得します
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResourceVersion3 プロパティ。カラースペースを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
-色空間を取得します。
+カラースペースを取得します。
 
 ```csharp
 public short ColorSpace { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-色空間.
+カラースペースです。
 
 ### 関連項目
 
 * class [PhflResourceVersion3](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. カーブ調整レイヤーを追加します
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。カーブ調整レイヤーを追加します"
 type: docs
-weight: 330
+weight: 340
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
 カーブ調整レイヤーを追加します。
@@ -16,13 +17,13 @@ public CurvesLayer AddCurvesAdjustmentLayer()
 
 ### 戻り値
 
-作成した[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)層
+作成された [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) レイヤー
 
 ### 関連項目
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

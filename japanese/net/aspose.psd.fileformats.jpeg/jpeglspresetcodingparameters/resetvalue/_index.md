@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.ResetValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegLsPresetCodingParameters 財産. カウンター ABおよび N が半分になる値を取得または設定します
+title: "JpegLsPresetCodingParameters.ResetValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegLsPresetCodingParameters プロパティ。カウンタ A、B、N が半分になる値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.ResetValue property
 
-カウンター A、B、および N が半分になる値を取得または設定します。
+カウンタ A、B、N が半分になる値を取得または設定します。
 
 ```csharp
 public int ResetValue { get; set; }
@@ -17,7 +18,7 @@ public int ResetValue { get; set; }
 ### 関連項目
 
 * class [JpegLsPresetCodingParameters](../)
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

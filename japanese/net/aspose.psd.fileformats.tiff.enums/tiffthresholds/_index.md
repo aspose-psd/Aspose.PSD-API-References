@@ -1,14 +1,15 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds 列挙. データで使用されるしきい値
+title: "列挙体 TiffThresholds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds 列挙体。データに使用されるしきい値処理。"
 type: docs
-weight: 4180
+weight: 4650
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-データで使用されるしきい値。
+データに使用されるしきい値処理です。
 
 ```csharp
 public enum TiffThresholds : ushort
@@ -16,15 +17,15 @@ public enum TiffThresholds : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| NoDithering | `1` | ディザリングは実行されません。 |
-| HalfTone | `2` | ディザスキャン. |
-| ErrorDiffuse | `3` | 通常は Floyd-Steinberg. |
+| NoDithering | `1` | ディザリングは行われません。 |
+| HalfTone | `2` | ディザリングされたスキャン。 |
+| ErrorDiffuse | `3` | 通常は Floyd-Steinberg 法です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

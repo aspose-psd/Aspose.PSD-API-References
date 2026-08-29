@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 財産. オブジェクトの境界を取得または設定します
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath プロパティ。オブジェクトの境界を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
 オブジェクトの境界を取得または設定します。
@@ -14,7 +15,7 @@ url: /ja/net/aspose.psd/graphicspath/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### プロパティ値
+### Property Value
 
 オブジェクトの境界。
 
@@ -22,7 +23,7 @@ public override RectangleF Bounds { get; }
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

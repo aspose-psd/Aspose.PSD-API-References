@@ -1,14 +1,15 @@
 ---
-title: LinkResource.PsdVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinkResource 財産. PSD 形式のバージョンを取得します
+title: "LinkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinkResource プロパティ。PSD フォーマットのバージョンを取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LinkResource.PsdVersion property
 
-PSD 形式のバージョンを取得します。
+PSD フォーマット バージョンを取得します。
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### 関連項目
 
 * class [LinkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

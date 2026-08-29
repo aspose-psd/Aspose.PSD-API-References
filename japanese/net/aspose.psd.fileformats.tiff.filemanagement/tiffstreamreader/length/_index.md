@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamReader 財産. リーダーの長さを取得します
+title: "TiffStreamReader.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamReader プロパティ。リーダーの長さを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.Length property
 
 リーダーの長さを取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 public long Length { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リーダーの長さ.
+リーダーの長さです。
 
 ### 関連項目
 
 * class [TiffStreamReader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

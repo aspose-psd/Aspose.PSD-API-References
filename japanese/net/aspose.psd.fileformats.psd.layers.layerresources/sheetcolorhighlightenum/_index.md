@@ -1,14 +1,15 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum 列挙. シートカラー設定可能色 PS のレイヤー一覧にあるレイヤーのUI装飾色です
+title: "列挙型 SheetColorHighlightEnum"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum 列挙型。シートカラー設定の可能な色です。Photoshop のレイヤーリストでレイヤーの UI 装飾色として使用されます"
 type: docs
-weight: 2970
+weight: 3320
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-シートカラー設定可能色 PS のレイヤー一覧にあるレイヤーのUI装飾色です
+シートカラー設定の可能な色です。PS のレイヤーリスト内のレイヤーの UI 装飾色です。
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -16,20 +17,20 @@ public enum SheetColorHighlightEnum : short
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | NoColor | `0` | 色が指定されていません。 |
-| Red | `1` | 赤い色. |
-| Orange | `2` | オレンジ色. |
+| Red | `1` | 赤色。 |
+| Orange | `2` | オレンジ色。 |
 | Yellow | `3` | 黄色。 |
 | Green | `4` | 緑色。 |
-| Blue | `5` | 青い色. |
-| Violet | `6` | 紫の色. |
+| Blue | `5` | 青色。 |
+| Violet | `6` | 紫色。 |
 | Gray | `7` | 灰色。 |
 
-### 例
+## 例
 
-次の例は、Aspose.PSD (シート カラー設定) でシート カラー ハイライトを変更する方法を示しています。
+以下の例は Aspose.PSD でシートカラーのハイライトを変更する方法を示しています（シートカラー設定）。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ public enum SheetColorHighlightEnum : short
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// ファイルでは、レイヤーのハイライトの色はこの順序になっています
+// ファイル内ではレイヤーのハイライト色はこの順序です。
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color は、レイヤを視覚的に強調するために使用されます。 
-// たとえば、PSD のいくつかのレイヤーを更新してから、注目を集めたいレイヤーを色で強調表示できます。
+// レイヤーシートカラーはレイヤーを視覚的にハイライトするために使用されます。
+// 例えば、PSD のいくつかのレイヤーを更新し、注目させたいレイヤーを色でハイライトすることができます。
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // 色を反転する必要があります
+    // 色は逆順にする必要があります。
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl リソースは常に psd ファイル リソース リストに表示されます。
+            // lcrl リソースは常に PSD ファイルのリソースリストに存在します。
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // スタイルシートの色を反転。レイヤーカラーハイライトの設定。
+                // スタイルシートの色を逆転させます。レイヤーのカラー ハイライトを設定します。
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -93,7 +94,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

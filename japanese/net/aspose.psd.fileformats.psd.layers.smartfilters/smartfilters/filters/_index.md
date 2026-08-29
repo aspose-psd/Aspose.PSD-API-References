@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.Filters
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartFilters 財産. スマート フィルターを取得または設定します
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartFilters プロパティ。スマート フィルタを取得または設定します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-スマート フィルターを取得または設定します。
+スマートフィルタを取得または設定します。
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
@@ -18,7 +19,7 @@ public SmartFilter[] Filters { get; set; }
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

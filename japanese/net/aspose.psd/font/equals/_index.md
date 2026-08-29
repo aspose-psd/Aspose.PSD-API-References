@@ -1,31 +1,32 @@
 ---
-title: Font.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 方法. 指定されたオブジェクトがFontこれと同じプロパティ値を持っていますFont .
+title: "Font.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font メソッド。指定されたオブジェクトが Font であり、この Font と同じプロパティ値を持つかどうかを示します。"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd/font/equals/
 ---
+{{< psd/tize >}}
 ## Font.Equals method
 
-指定されたオブジェクトが[`Font`](../)これと同じプロパティ値を持っています[`Font`](../) .
+指定されたオブジェクトが[`Font`](../)であり、この[`Font`](../)と同じプロパティ値を持つかどうかを示します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | テストするオブジェクト。 |
+| obj | Object | テスト対象のオブジェクトです。 |
 
 ### 戻り値
 
-真の場合*obj*パラメータは[`Font`](../)これと同じプロパティ値を持っています[`Font`](../);それ以外の場合は false。
+*obj* パラメーターが[`Font`](../)であり、この[`Font`](../)と同じプロパティ値を持つ場合は true、そうでなければ false。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

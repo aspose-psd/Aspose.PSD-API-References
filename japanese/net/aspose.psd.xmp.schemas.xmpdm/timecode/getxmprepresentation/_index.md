@@ -1,14 +1,15 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API リファレンス
-description: Timecode 方法. 文字列に含まれる値を XMP 形式で返します
+title: "Timecode.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Timecode メソッド。XMP 形式で含まれる文字列値を返します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
-文字列に含まれる値を XMP 形式で返します。
+XMP 形式で含まれる文字列値を返します。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 戻り値
 
-文字列に含まれる値を XMP 形式で返します。
+XMP 形式で含まれる文字列値を返します。
 
 ### 関連項目
 
 * class [Timecode](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

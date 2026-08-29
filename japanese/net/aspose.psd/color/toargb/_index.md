@@ -1,14 +1,15 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. この 32 ビット ARGB 値を取得しますColor構造体.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。この Color 構造体の 32 ビット ARGB 値を取得します"
 type: docs
 weight: 1590
 url: /ja/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-この 32 ビット ARGB 値を取得します[`Color`](../)構造体.
+この [`Color`](../) 構造体の 32 ビット ARGB 値を取得します。
 
 ```csharp
 public int ToArgb()
@@ -16,12 +17,12 @@ public int ToArgb()
 
 ### 戻り値
 
-この 32 ビット ARGB 値[`Color`](../).
+この [`Color`](../) の 32 ビット ARGB 値です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

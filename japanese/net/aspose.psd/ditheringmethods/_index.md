@@ -1,14 +1,15 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.DitheringMethods 列挙. 色変換の制御に使用されるディザリング方法
+title: "列挙型 DitheringMethods"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.DitheringMethods 列挙型。カラー変換を制御するために使用されるディザリング手法です"
 type: docs
-weight: 780
+weight: 790
 url: /ja/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
-色変換の制御に使用されるディザリング方法。
+カラー変換を制御するために使用されるディザリング手法です。
 
 ```csharp
 public enum DitheringMethods
@@ -16,15 +17,15 @@ public enum DitheringMethods
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | PaletteIgnore | `0` | パレットは無視されます |
-| PaletteConversion | `1` | パレットは無視されず、適切な色変換を適用する必要があります. |
-| CustomConverter | `2` | カスタム コンバーター. |
+| PaletteConversion | `1` | パレットは無視されず、適切なカラー変換を適用すべきです |
+| CustomConverter | `2` | カスタムコンバータです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

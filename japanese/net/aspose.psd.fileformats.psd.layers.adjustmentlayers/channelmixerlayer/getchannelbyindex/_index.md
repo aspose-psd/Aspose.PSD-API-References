@@ -1,22 +1,23 @@
 ---
-title: ChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: ChannelMixerLayer 方法. によってチャネルのインデックスを取得します RgbMixerChannel または CmykMixerChannel を返すことができます
+title: "ChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ChannelMixerLayer メソッド。チャンネルのインデックスを取得します。RgbMixerChannel または CmykMixerChannel を返すことがあります"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.GetChannelByIndex method
 
-によってチャネルのインデックスを取得します。 RgbMixerChannel または CmykMixerChannel を返すことができます
+チャンネルのインデックスを取得します。RgbMixerChannel または CmykMixerChannel を返すことができます。
 
 ```csharp
 public abstract MixerChannel GetChannelByIndex(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | インデックス。 |
+| インデックス | Int32 | インデックス。 |
 
 ### 戻り値
 
@@ -26,7 +27,7 @@ public abstract MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [ChannelMixerLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

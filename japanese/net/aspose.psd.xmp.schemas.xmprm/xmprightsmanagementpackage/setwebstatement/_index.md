@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpRightsManagementPackage 方法. Web ステートメントを設定します
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpRightsManagementPackage メソッド。Web ステートメントを設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
 Web ステートメントを設定します。
@@ -14,14 +15,14 @@ Web ステートメントを設定します。
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| webStatementUrl | String | Web ステートメントの URL。 |
+| webStatementUrl | 文字列 | Web ステートメント URLです。 |
 
 ### 関連項目
 
 * class [XmpRightsManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Font.GetHashCode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 方法. このハッシュコードを取得しますFont .
+title: "Font.GetHashCode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font メソッド。この Font のハッシュコードを取得します。"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/font/gethashcode/
 ---
+{{< psd/tize >}}
 ## Font.GetHashCode method
 
-このハッシュコードを取得します[`Font`](../) .
+この[`Font`](../)のハッシュコードを取得します。
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### 戻り値
 
-これのハッシュコード[`Font`](../).
+この[`Font`](../)のハッシュコードです。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

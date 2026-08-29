@@ -1,14 +1,15 @@
 ---
-title: Dimensions.Dimensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Dimensions コンストラクタ. の新しいインスタンスを初期化しますDimensionsclass.
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Dimensions コンストラクタ。Dimensions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-の新しいインスタンスを初期化します[`Dimensions`](../)class.
+[`Dimensions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Dimensions()
@@ -17,28 +18,28 @@ public Dimensions()
 ### 関連項目
 
 * class [Dimensions](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Dimensions`](../)class.
+[`Dimensions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public Dimensions(float width, float height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Single | 幅。 |
-| height | Single | 高さ。 |
+| width | シングル | 幅です。 |
+| height | シングル | 高さです。 |
 
 ### 関連項目
 
 * class [Dimensions](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

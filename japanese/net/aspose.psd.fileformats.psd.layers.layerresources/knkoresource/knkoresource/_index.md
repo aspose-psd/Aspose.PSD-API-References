@@ -1,34 +1,35 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: KnkoResource コンストラクタ. の新しいインスタンスを初期化しますKnkoResourceclass.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "KnkoResource コンストラクタ。KnkoResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`KnkoResource`](../)class.
+[`KnkoResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| knockout | Boolean | に設定した場合`真実` 【インテリア要素をブレンド】。 |
+| ノックアウト | Boolean | `true` に設定された場合、[blend interior elements]。 |
 
 ### 関連項目
 
 * class [KnkoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-の新しいインスタンスを初期化します[`KnkoResource`](../)class.
+[`KnkoResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public KnkoResource()
@@ -37,33 +38,33 @@ public KnkoResource()
 ### 関連項目
 
 * class [KnkoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`KnkoResource`](../) class. カスタムまたは不明な値を使用
+[`KnkoResource`](../) クラスの新しいインスタンスを初期化します。カスタムまたは不明な値で
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソース データ。 |
+| データ | Byte[] | リソース データ。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | 無効な Knko リソース値 |
+| ArgumentException | 無効な Knko Resource 値 |
 
 ### 関連項目
 
 * class [KnkoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

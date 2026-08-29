@@ -1,28 +1,29 @@
 ---
-title: PsdImage.RgbColorProfile
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. CMYK PSD 画像の RGB カラー プロファイルを取得または設定します正しい色変換を行うにはCmykColorProfile とペアにする必要があります
+title: "PsdImage.RgbColorProfile"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。CMYK PSD 画像用の RGB カラープロファイルを取得または設定します。正しい色変換のために CmykColorProfile とペアで使用する必要があります"
 type: docs
 weight: 230
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/rgbcolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.RgbColorProfile property
 
-CMYK PSD 画像の RGB カラー プロファイルを取得または設定します。正しい色変換を行うには、CmykColorProfile とペアにする必要があります。
+CMYK PSD 画像の RGB カラープロファイルを取得または設定します。正しい色変換のために CmykColorProfile とペアで使用する必要があります。
 
 ```csharp
 public StreamSource RgbColorProfile { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-RGB カラー プロファイル。
+RGB カラープロファイルです。
 
 ### 関連項目
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

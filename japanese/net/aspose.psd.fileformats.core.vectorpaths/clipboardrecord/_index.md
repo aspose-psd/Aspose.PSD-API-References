@@ -1,14 +1,15 @@
 ---
-title: Class ClipboardRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord クラス. クリップボード レコード Class
+title: "クラス ClipboardRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord クラス。Clipboard Record クラス"
 type: docs
-weight: 1340
+weight: 1350
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord class
 
-クリップボード レコード Class
+Clipboard Record クラス
 
 ```csharp
 public class ClipboardRecord : VectorPathRecord
@@ -18,21 +19,21 @@ public class ClipboardRecord : VectorPathRecord
 
 | 名前 | 説明 |
 | --- | --- |
-| [ClipboardRecord](clipboardrecord/#constructor)() | の新しいインスタンスを初期化します`ClipboardRecord`class. |
-| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | の新しいインスタンスを初期化します`ClipboardRecord`class. |
+| [ClipboardRecord](clipboardrecord/#constructor)() | 新しい `ClipboardRecord` クラスのインスタンスを初期化します。 |
+| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | 新しい `ClipboardRecord` クラスのインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | 境界矩形を取得または設定します。 |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | バウンディング矩形を取得または設定します。 |
 | [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | 解像度を取得または設定します。 |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | 型を取得します. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | 型を取得します。 |
 
 ### 関連項目
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

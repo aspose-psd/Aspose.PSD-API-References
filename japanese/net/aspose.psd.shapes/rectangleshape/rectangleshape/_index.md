@@ -1,14 +1,15 @@
 ---
-title: RectangleShape.RectangleShape
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleShape コンストラクタ. の新しいインスタンスを初期化しますRectangleShapeclass.
+title: "RectangleShape.RectangleShape"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleShape コンストラクタ。RectangleShape クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.shapes/rectangleshape/rectangleshape/
 ---
+{{< psd/tize >}}
 ## RectangleShape() {#constructor}
 
-の新しいインスタンスを初期化します[`RectangleShape`](../)class.
+[`RectangleShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RectangleShape()
@@ -17,28 +18,28 @@ public RectangleShape()
 ### 関連項目
 
 * class [RectangleShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../rectangleshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleShape(RectangleF) {#constructor_1}
 
-の新しいインスタンスを初期化します[`RectangleShape`](../)class.
+[`RectangleShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RectangleShape(RectangleF rectangle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | RectangleF | 長方形。 |
+| 矩形 | RectangleF | 矩形です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../rectangleshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

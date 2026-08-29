@@ -1,14 +1,15 @@
 ---
-title: TypeToolFontInfo.TypeToolFontInfo
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolFontInfo コンストラクタ. デフォルトのコンストラクター
+title: "TypeToolFontInfo.TypeToolFontInfo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolFontInfo コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public TypeToolFontInfo()
@@ -17,7 +18,7 @@ public TypeToolFontInfo()
 ### 関連項目
 
 * class [TypeToolFontInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

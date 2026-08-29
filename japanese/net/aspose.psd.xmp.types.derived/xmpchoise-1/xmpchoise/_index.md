@@ -1,14 +1,15 @@
 ---
-title: XmpChoise1.XmpChoise
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpChoise コンストラクタ. デフォルトのコンストラクター
+title: "XmpChoise1.XmpChoise"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpChoise コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.derived/xmpchoise-1/xmpchoise/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public XmpChoise()
@@ -17,7 +18,7 @@ public XmpChoise()
 ### 関連項目
 
 * class [XmpChoise&lt;T&gt;](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

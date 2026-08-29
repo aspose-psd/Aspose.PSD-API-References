@@ -1,11 +1,12 @@
 ---
-title: AiImage.AddLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 方法. AI レイヤー セクションを追加します
+title: "AiImage.AddLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage メソッド。AI レイヤー セクションを追加します"
 type: docs
-weight: 130
+weight: 160
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/addlayer/
 ---
+{{< psd/tize >}}
 ## AiImage.AddLayer method
 
 AI レイヤー セクションを追加します。
@@ -14,15 +15,15 @@ AI レイヤー セクションを追加します。
 public void AddLayer(AiLayerSection layer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| layer | AiLayerSection | AIレイヤーセクション。 |
+| レイヤー | AiLayerSection | AI レイヤー セクションです。 |
 
 ### 関連項目
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

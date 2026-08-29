@@ -1,35 +1,36 @@
 ---
-title: Lr16Resource.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: Lr16Resource 方法. レイヤ レコードを保存します
+title: "Lr16Resource.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Lr16Resource メソッド。レイヤーレコードを保存します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/save/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Save method
 
-レイヤ レコードを保存します。
+レイヤーレコードを保存します。
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | ストリーム コンテナー。 |
-| psdVersion | Int32 | psd版です。 |
+| streamContainer | StreamContainer | ストリームコンテナ。 |
+| psdVersion | Int32 | psd バージョンです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| NotImplementedException | 32 ビット チャネルの保存は実装されていません |
+| NotImplementedException | 32 ビットチャンネルの保存は実装されていません |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lr16Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

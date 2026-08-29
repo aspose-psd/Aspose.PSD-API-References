@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD for .NET API リファレンス
-description: FileOpenSource 財産. 開くファイルパスを取得します
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FileOpenSource プロパティ。開くファイルのパスを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
-開くファイルパスを取得します。
+開くファイルのパスを取得します。
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-開くファイル パス。
+開くファイルパスです。
 
 ### 関連項目
 
 * class [FileOpenSource](../)
-* 名前空間 [Aspose.PSD.Sources](../../fileopensource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

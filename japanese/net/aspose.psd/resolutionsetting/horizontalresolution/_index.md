@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResolutionSetting 財産. 水平解像度を取得または設定します
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResolutionSetting プロパティ。水平解像度を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
 水平解像度を取得または設定します。
@@ -17,7 +18,7 @@ public double HorizontalResolution { get; set; }
 ### 関連項目
 
 * class [ResolutionSetting](../)
-* 名前空間 [Aspose.PSD](../../resolutionsetting/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

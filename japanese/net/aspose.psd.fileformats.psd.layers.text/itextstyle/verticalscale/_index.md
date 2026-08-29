@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.VerticalScale
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. 垂直スケール
+title: "ITextStyle.VerticalScale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。垂直スケール"
 type: docs
 weight: 270
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.VerticalScale property
 
 垂直スケール。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 public double VerticalScale { get; set; }
 ```
 
-### 例
+## 例
 
-次のコードは、新しい ITextStyle プロパティのサポートのサポートを示しています。
+次のコードは、新しい ITextStyle プロパティのサポートを示します。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// 値をチェック
+// 値を確認する
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

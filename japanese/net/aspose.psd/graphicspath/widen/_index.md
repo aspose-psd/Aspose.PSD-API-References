@@ -1,75 +1,76 @@
 ---
-title: GraphicsPath.Widen
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 方法. パスにアウトラインを追加します
+title: "GraphicsPath.Widen"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath メソッド。パスに追加のアウトラインを加えます"
 type: docs
 weight: 190
 url: /ja/net/aspose.psd/graphicspath/widen/
 ---
+{{< psd/tize >}}
 ## Widen(Pen) {#widen}
 
-パスにアウトラインを追加します。
+パスに追加の輪郭を加えます。
 
 ```csharp
 public void Widen(Pen pen)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | あ[`Pen`](../../pen/)パスの元のアウトラインとこのメソッドが作成する新しいアウトラインの間の幅を指定します。 |
+| pen | Pen | [`Pen`](../../pen/) がパスの元のアウトラインとこのメソッドが作成する新しいアウトライン間の幅を指定します。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix) {#widen_1}
 
-に追加のアウトラインを追加します[`GraphicsPath`](../) .
+[`GraphicsPath`](../) に追加のアウトラインを加えます。
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | あ[`Pen`](../../pen/)パスの元のアウトラインとこのメソッドが作成する新しいアウトラインの間の幅を指定します。 |
-| matrix | Matrix | あ[`Matrix`](../../matrix/)拡大する前にパスに適用する変換を指定します。 |
+| pen | Pen | [`Pen`](../../pen/) がパスの元のアウトラインとこのメソッドが作成する新しいアウトライン間の幅を指定します。 |
+| matrix | Matrix | 拡張する前にパスに適用する変換を指定する [`Matrix`](../../matrix/) です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Widen(Pen, Matrix, float) {#widen_2}
 
-これを置き換えます[`GraphicsPath`](../)このパスが指定されたペンで描かれたときに塗りつぶされる領域を囲む曲線で.
+指定されたペンでこのパスが描画されたときに塗りつぶされる領域を囲む曲線で、この [`GraphicsPath`](../) を置き換えます。
 
 ```csharp
 public void Widen(Pen pen, Matrix matrix, float flatness)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | あ[`Pen`](../../pen/)パスの元のアウトラインとこのメソッドが作成する新しいアウトラインの間の幅を指定します。 |
-| matrix | Matrix | あ[`Matrix`](../../matrix/)拡大する前にパスに適用する変換を指定します。 |
-| flatness | Single | 曲線の平坦度を指定する値。 |
+| pen | Pen | [`Pen`](../../pen/) がパスの元のアウトラインとこのメソッドが作成する新しいアウトライン間の幅を指定します。 |
+| matrix | Matrix | 拡張する前にパスに適用する変換を指定する [`Matrix`](../../matrix/) です。 |
+| 平滑度 | シングル | 曲線の平滑度を指定する値です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

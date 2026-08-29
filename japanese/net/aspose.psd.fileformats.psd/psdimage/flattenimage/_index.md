@@ -1,14 +1,15 @@
 ---
-title: PsdImage.FlattenImage
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. すべてのレイヤーを平坦化します
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。すべてのレイヤーをフラット化します"
 type: docs
-weight: 540
+weight: 600
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-すべてのレイヤーを平坦化します。
+すべてのレイヤーを統合します。
 
 ```csharp
 public void FlattenImage()
@@ -17,7 +18,7 @@ public void FlattenImage()
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

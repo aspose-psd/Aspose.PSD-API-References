@@ -1,27 +1,28 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 画像の一意の識別子を取得または設定します
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。画像のユニーク識別子を取得または設定します"
 type: docs
 weight: 680
 url: /ja/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
-画像の一意の識別子を取得または設定します。
+画像のユニーク識別子を取得または設定します。
 
 ```csharp
 public string ImageUniqueID { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の一意の識別子.
+画像のユニーク識別子です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

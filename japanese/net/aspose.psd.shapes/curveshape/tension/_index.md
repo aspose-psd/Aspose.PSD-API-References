@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurveShape 財産. 曲線の張力を取得または設定します
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurveShape プロパティ。曲線のテンションを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-曲線の張力を取得または設定します。
+曲線のテンションを取得または設定します。
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カーブのテンション。
+曲線のテンションです。
 
 ### 関連項目
 
 * class [CurveShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../curveshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

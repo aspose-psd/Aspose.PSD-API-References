@@ -1,49 +1,50 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 画像のガンマ補正.
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。画像のガンマ補正"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-画像のガンマ補正.
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| gammaRed | Single | 赤チャネル係数のガンマ |
-| gammaGreen | Single | 緑のチャネル係数のガンマ |
-| gammaBlue | Single | 青チャネル係数のガンマ |
-
-### 関連項目
-
-* class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-画像のガンマ補正.
+画像のガンマ補正。
 
 ```csharp
 public virtual void AdjustGamma(float gamma)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| gamma | Single | 赤、緑、青のチャネル係数のガンマ |
+| ガンマ | シングル | 赤、緑、青チャンネルのガンマ係数 |
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+画像のガンマ補正。
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| gammaRed | シングル | 赤チャンネルのガンマ係数 |
+| gammaGreen | シングル | 緑チャンネルのガンマ係数 |
+| gammaBlue | シングル | 青チャンネルのガンマ係数 |
+
+### 関連項目
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

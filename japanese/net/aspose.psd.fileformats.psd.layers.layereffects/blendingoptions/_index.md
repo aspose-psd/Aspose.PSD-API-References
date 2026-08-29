@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions クラス. ブレンド オプションレイヤーeffects のAPIを提供するLfx2Resourceのラッパーです
+title: "クラス BlendingOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions クラス。BlendingOptions。これは BaseFxResource のラッパーで、レイヤー効果の API を提供します。"
 type: docs
-weight: 2100
+weight: 2290
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-ブレンド オプション。レイヤーeffects のAPIを提供するLfx2Resourceのラッパーです。
+BlendingOptions。これは BaseFxResource のラッパーで、レイヤー効果の API を提供します。
 
 ```csharp
 public class BlendingOptions
@@ -18,23 +19,24 @@ public class BlendingOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | エフェクトを取得します。 |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | すべてのレイヤー効果の可視性を取得または設定します。 |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | エフェクトを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | カラー オーバーレイを追加します。 |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | ドロップ シャドウ効果を追加します。 |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | グラデーション オーバーレイを追加します。 |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | インナー シャドウ効果を追加します。 |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | カラーオーバーレイを追加します。 |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | ドロップシャドウ効果を追加します。 |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | グラデーションオーバーレイを追加します。 |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | インナーレイヤーシャドウ効果を追加します。 |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | 外側のグロー効果を追加します。 |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | パターン オーバーレイを追加します。 |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | パターンオーバーレイを追加します。 |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | ストローク効果を追加します。 |
 
-### 例
+## 例
 
-次のコードは、インナー シャドウ レイヤー効果の設定を変更する方法を示しています。
+以下のコードは、インナーレイヤーシャドウ効果の設定を変更する方法を示しています。
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -65,7 +67,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

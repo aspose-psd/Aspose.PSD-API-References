@@ -1,14 +1,15 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: RdOptimizerSettings コンストラクタ. デフォルトのコンストラクター
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RdOptimizerSettings コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public RdOptimizerSettings()
@@ -17,7 +18,7 @@ public RdOptimizerSettings()
 ### 関連項目
 
 * class [RdOptimizerSettings](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

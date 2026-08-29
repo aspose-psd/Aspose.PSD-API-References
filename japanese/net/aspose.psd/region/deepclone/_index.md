@@ -1,14 +1,15 @@
 ---
-title: Region.DeepClone
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これの正確なディープ コピーを作成しますRegion .
+title: "Region.DeepClone"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。この Region の正確なディープコピーを作成します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/region/deepclone/
 ---
+{{< psd/tize >}}
 ## Region.DeepClone method
 
-これの正確なディープ コピーを作成します[`Region`](../) .
+この [`Region`](../) の正確なディープコピーを作成します。
 
 ```csharp
 public Region DeepClone()
@@ -16,12 +17,12 @@ public Region DeepClone()
 
 ### 戻り値
 
-の[`Region`](../)このメソッドが作成するもの。
+このメソッドが作成する [`Region`](../) です。
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

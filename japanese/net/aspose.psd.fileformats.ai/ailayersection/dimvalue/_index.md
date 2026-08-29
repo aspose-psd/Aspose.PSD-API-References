@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. 薄暗い値をパーセンテージで取得または設定します
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。ディム値をパーセンテージで取得または設定します。レイヤーに含まれるリンク画像およびビットマップ画像の強度を指定されたパーセンテージに減少させます"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-薄暗い値をパーセンテージで取得または設定します。
+ディム値をパーセンテージで取得または設定します。レイヤーに含まれるリンク画像およびビットマップ画像の強度を指定されたパーセンテージに減少させます。
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-パーセンテージとしての薄暗い値.
+ディム値（パーセンテージ）。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlwhResource 分野. タイプツール情報キー
+title: "BlwhResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlwhResource フィールド。タイプツール情報キー"
 type: docs
-weight: 160
+weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-タイプツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [BlwhResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

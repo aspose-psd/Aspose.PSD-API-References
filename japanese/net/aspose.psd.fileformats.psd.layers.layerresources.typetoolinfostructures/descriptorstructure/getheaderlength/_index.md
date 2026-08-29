@@ -1,14 +1,15 @@
 ---
-title: DescriptorStructure.GetHeaderLength
-second_title: Aspose.PSD for .NET API リファレンス
-description: DescriptorStructure 方法. ヘッダー長を取得します
+title: "DescriptorStructure.GetHeaderLength"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DescriptorStructure メソッド。ヘッダーの長さを取得します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.GetHeaderLength method
 
-ヘッダー長を取得します。
+ヘッダーの長さを取得します。
 
 ```csharp
 public override int GetHeaderLength()
@@ -21,7 +22,7 @@ public override int GetHeaderLength()
 ### 関連項目
 
 * class [DescriptorStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

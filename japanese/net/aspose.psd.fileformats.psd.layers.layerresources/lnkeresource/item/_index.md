@@ -1,36 +1,37 @@
 ---
-title: LnkeResource.Item
-second_title: Aspose.PSD for .NET API リファレンス
-description: LnkeResource 財産. を取得しますLiFeDataSource指定されたインデックスで.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LnkeResource プロパティ。指定されたインデックスの LiFeDataSource を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-を取得します[`LiFeDataSource`](../../lifedatasource/)指定されたインデックスで.
+指定されたインデックスの [`LiFeDataSource`](../../lifedatasource/) を取得します。
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 戻り値
 
-[`LiFeDataSource`](../../lifedatasource/)インスタンス.
+[`LiFeDataSource`](../../lifedatasource/) のインスタンス。
 
-### プロパティ値
+### Property Value
 
-[`LiFeDataSource`](../../lifedatasource/) .
+[`LiFeDataSource`](../../lifedatasource/)。
 
 ### 関連項目
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

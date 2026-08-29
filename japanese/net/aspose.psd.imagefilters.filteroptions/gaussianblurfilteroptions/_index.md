@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions クラス. ガウスぼかし
+title: "クラス GaussianBlurFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions クラス。ガウスぼかし"
 type: docs
-weight: 4710
+weight: 5180
 url: /ja/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-ガウスぼかし
+ガウスぼかしです。
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
@@ -18,8 +19,8 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | の新しいインスタンスを初期化します`GaussianBlurFilterOptions` class. デフォルト設定で. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | の新しいインスタンスを初期化します`GaussianBlurFilterOptions`class. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | `GaussianBlurFilterOptions` クラスの新しいインスタンスを初期化します。デフォルト設定で。 |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | `GaussianBlurFilterOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -33,7 +34,7 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 ### 関連項目
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

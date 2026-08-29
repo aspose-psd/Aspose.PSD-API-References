@@ -1,14 +1,15 @@
 ---
-title: Class LzwCompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException クラス. lzw コンプレッサの例外
+title: "クラス LzwCompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException クラス。LZW 圧縮例外"
 type: docs
 weight: 450
 url: /ja/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
-lzw コンプレッサの例外。
+lzw 圧縮器の例外です。
 
 ```csharp
 public class LzwCompressorException : CompressorException
@@ -18,13 +19,13 @@ public class LzwCompressorException : CompressorException
 
 | 名前 | 説明 |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | の新しいインスタンスを初期化します`LzwCompressorException`class. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`LzwCompressorException`class. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | `LzwCompressorException` クラスの新しいインスタンスを初期化します。 |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | `LzwCompressorException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

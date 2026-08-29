@@ -1,14 +1,15 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions クラス. 小さい長方形フィルター options
+title: "クラス SmallRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions クラス。小さな矩形フィルタオプション"
 type: docs
-weight: 4750
+weight: 5220
 url: /ja/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
-小さい長方形フィルター options
+小さな長方形フィルターオプション
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase
@@ -18,12 +19,12 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | デフォルトのコンストラクター。 |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | デフォルトコンストラクタです。 |
 
 ### 関連項目
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

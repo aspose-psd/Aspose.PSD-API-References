@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: LengthRecord 財産. レイヤー内の現在のパス形状のインデックスを取得または設定します.
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LengthRecord プロパティ。レイヤー内の現在のパスシェイプのインデックスを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-レイヤー内の現在のパス形状のインデックスを取得または設定します.
+レイヤー内の現在のパスシェイプのインデックスを取得または設定します。
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### 例
+## 例
 
-次のコード例は、新しい LengthRecord プロパティ、PathOperations (ブール演算)、ShapeIndex、および BezierKnotRecordsCount のサポートを示しています。
+以下のコード例は、新しい LengthRecord プロパティ、PathOperations（ブール演算）、ShapeIndex および BezierKnotRecordsCount のサポートを示しています。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // ここで、シェイプ間の結合方法を変更します。
+    // ここでは形状の組み合わせ方法を変更しています。
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -52,7 +53,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [LengthRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

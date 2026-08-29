@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceBlock 財産. リソース データ サイズをバイト単位で取得します
+title: "ResourceBlock.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceBlock プロパティ。リソース データのサイズ（バイト単位）を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd/resourceblock/datasize/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public abstract int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータ サイズ。
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [ResourceBlock](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

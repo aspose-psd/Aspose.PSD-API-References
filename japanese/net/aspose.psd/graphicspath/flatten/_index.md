@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Flatten
-second_title: Aspose.PSD for .NET API リファレンス
-description: GraphicsPath 方法. このパスの各曲線を一連の接続された線分に変換します
+title: "GraphicsPath.Flatten"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GraphicsPath メソッド。このパス内の各曲線を連続した線分のシーケンスに変換します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/graphicspath/flatten/
 ---
+{{< psd/tize >}}
 ## Flatten() {#flatten}
 
-このパスの各曲線を一連の接続された線分に変換します。
+このパス内の各曲線を連続した線分のシーケンスに変換します。
 
 ```csharp
 public void Flatten()
@@ -17,50 +18,50 @@ public void Flatten()
 ### 関連項目
 
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix) {#flatten_1}
 
-指定された変換を適用してから、この中の各曲線を変換します[`GraphicsPath`](../)一連の接続された線分に変換します。
+指定された変換を適用し、次にこの [`GraphicsPath`](../) の各曲線を連続した線分のシーケンスに変換します。
 
 ```csharp
 public void Flatten(Matrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | あ[`Matrix`](../../matrix/)これを変換する方法[`GraphicsPath`](../)平らにする前。 |
+| matrix | Matrix | 平坦化する前にこの [`GraphicsPath`](../) を変換するための [`Matrix`](../../matrix/)。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Flatten(Matrix, float) {#flatten_2}
 
-この中の各曲線を変換します[`GraphicsPath`](../)一連の接続された線分に変換します。
+この [`GraphicsPath`](../) の各曲線を連続した線分のシーケンスに変換します。
 
 ```csharp
 public void Flatten(Matrix matrix, float flatness)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | あ[`Matrix`](../../matrix/)これを変換する方法[`GraphicsPath`](../)平らにする前。 |
-| flatness | Single | 曲線とその平坦化された近似値との間の最大許容誤差を指定します。デフォルト値は 0.25 です。平坦度の値を下げると、近似の線分の数が増えます。 |
+| matrix | Matrix | 平坦化する前にこの [`GraphicsPath`](../) を変換するための [`Matrix`](../../matrix/)。 |
+| 平滑度 | シングル | 曲線とその平坦化近似との間の許容最大誤差を指定します。デフォルト値は 0.25 です。フラットネス値を小さくすると、近似における線分の数が増加します。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* 名前空間 [Aspose.PSD](../../graphicspath/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

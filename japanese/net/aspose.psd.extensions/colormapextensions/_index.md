@@ -1,14 +1,15 @@
 ---
-title: Class ColorMapExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.ColorMapExtensions クラス. ColorMap拡張メソッド.
+title: "クラス ColorMapExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.ColorMapExtensions クラス。ColorMap の拡張メソッドです。"
 type: docs
-weight: 1060
+weight: 1070
 url: /ja/net/aspose.psd.extensions/colormapextensions/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions class
 
-[`ColorMap`](../../aspose.psd/colormap/)拡張メソッド.
+[`ColorMap`](../../aspose.psd/colormap/) の拡張メソッドです。
 
 ```csharp
 public static class ColorMapExtensions
@@ -18,12 +19,12 @@ public static class ColorMapExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | は[`ColorMap`](../../aspose.psd/colormap/)にColorMap . |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | は[`ColorMap`](../../aspose.psd/colormap/)への配列ColorMap配列. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | [`ColorMap`](../../aspose.psd/colormap/) を ColorMap に変換します。 |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | [`ColorMap`](../../aspose.psd/colormap/) 配列を ColorMap 配列に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

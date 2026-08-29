@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadSRational
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamReader 方法. ストリームから 1 つの符号付き有理数の値を読み取ります
+title: "TiffStreamReader.ReadSRational"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamReader メソッド。ストリームから単一の符号付き有理数値を読み取ります。"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRational method
 
-ストリームから 1 つの符号付き有理数の値を読み取ります。
+ストリームから単一の符号付き有理数値を読み取ります。
 
 ```csharp
 public TiffSRational ReadSRational(long position)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| position | Int64 | 読み取る位置。 |
+| 位置 | Int64 | 読み取り位置です。 |
 
 ### 戻り値
 
-符号付き有理数.
+符号付き有理数です。
 
 ### 関連項目
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

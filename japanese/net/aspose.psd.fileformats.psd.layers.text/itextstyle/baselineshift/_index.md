@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. ベースライン シフト
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。ベースラインシフト"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-ベースライン シフト。
+ベースラインシフトです。
 
 ```csharp
 public double BaselineShift { get; set; }
@@ -17,7 +18,7 @@ public double BaselineShift { get; set; }
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.Action
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceEvent 財産. アクションを取得または設定します
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceEvent プロパティ。アクションを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
 アクションを取得または設定します。
@@ -14,18 +15,18 @@ url: /ja/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 public string Action { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-アクション.
+アクションです。
 
-### 例
+## 例
 
-定義された値は次のとおりです: 変換、コピー、作成、トリミング、編集、フィルター処理、フォーマット済み、バージョン_更新、印刷、公開、管理、生成、サイズ変更、保存. 新しい値は動詞の過去形にする必要があります.
+定義された値は次のとおりです: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved. 新しい値は過去形の動詞である必要があります。
 
 ### 関連項目
 
 * class [ResourceEvent](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

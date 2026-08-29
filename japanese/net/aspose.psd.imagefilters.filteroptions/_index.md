@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はフィルター オプションを処理します
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "名前空間はフィルターオプションを処理します"
 type: docs
-weight: 410
+weight: 450
 url: /ja/net/aspose.psd.imagefilters.filteroptions/
 ---
-名前空間はフィルター オプションを処理します。
+{{< psd/tize >}}
+この名前空間はフィルターオプションを処理します。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | 大きな長方形フィルター オプション |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | バイラテラル スムージング フィルター オプション. |
-| [ConvolutionFilterOptions](./convolutionfilteroptions/) | 畳み込みフィルター. |
-| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | デコンボリューション フィルター オプション、abstract class |
-| [FilterOptionsBase](./filteroptionsbase/) | フィルター オプション 基本、抽象 class |
-| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | ガウスぼかし |
-| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | ガウス ウィーナー フィルター オプション ブレ除去 gauss |
+| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | 大きな長方形フィルターオプション |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | 双方向平滑化フィルターオプションです。 |
+| [ConvolutionFilterOptions](./convolutionfilteroptions/) | 畳み込みフィルターです。 |
+| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | デコンボリューションフィルターオプション、抽象クラス |
+| [FilterOptionsBase](./filteroptionsbase/) | フィルターオプションベース、抽象クラス |
+| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | ガウスぼかしです。 |
+| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | ガウスウィナーフィルターオプション デブラー ガウス |
 | [MedianFilterOptions](./medianfilteroptions/) | メディアンフィルター |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | デコンボリューション フィルター options deblur motion |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | シャープ フィルター オプション |
-| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | 小さい長方形フィルター options |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | デコンボリューションフィルターオプション デブラー モーション |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | シャープフィルターオプションです。 |
+| [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | 小さな長方形フィルターオプション |
 
 

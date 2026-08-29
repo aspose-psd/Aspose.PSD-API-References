@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD for .NET API リファレンス
-description: ConvolutionFilterOptions 財産. バイアスを取得または設定します
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ConvolutionFilterOptions プロパティ。バイアスを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
 バイアスを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias
 public int Bias { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バイアス.
+バイアスです。
 
 ### 関連項目
 
 * class [ConvolutionFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

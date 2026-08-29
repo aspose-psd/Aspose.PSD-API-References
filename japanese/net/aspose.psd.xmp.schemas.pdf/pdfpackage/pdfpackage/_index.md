@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.PdfPackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfPackage コンストラクタ. デフォルトのコンストラクター
+title: "PdfPackage.PdfPackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfPackage コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.pdf/pdfpackage/pdfpackage/
 ---
+{{< psd/tize >}}
 ## PdfPackage constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PdfPackage()
@@ -17,7 +18,7 @@ public PdfPackage()
 ### 関連項目
 
 * class [PdfPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

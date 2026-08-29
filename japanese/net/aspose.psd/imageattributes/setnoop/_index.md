@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. デフォルト カテゴリの色調整をオフにします
+title: "ImageAttributes.SetNoOp"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。デフォルトカテゴリのカラー調整をオフにします。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
-デフォルト カテゴリの色調整をオフにします。
+デフォルトカテゴリのカラー調整をオフにします。
 
 ```csharp
 public void SetNoOp()
@@ -17,28 +18,28 @@ public void SetNoOp()
 ### 関連項目
 
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetNoOp(ColorAdjustType) {#setnoop_1}
 
-指定したカテゴリの色調整をオフにします。
+指定されたカテゴリのカラー調整をオフにします。
 
 ```csharp
 public void SetNoOp(ColorAdjustType type)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| type | ColorAdjustType | の要素[`ColorAdjustType`](../../coloradjusttype/)色補正をオフにするカテゴリを指定します。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) の要素で、カラー補正がオフになるカテゴリを指定します。 |
 
 ### 関連項目
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

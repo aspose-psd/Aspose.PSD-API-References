@@ -1,14 +1,15 @@
 ---
-title: GradientFillSettings.AddColorPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 方法. カラーポイントを追加します
+title: "GradientFillSettings.AddColorPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings メソッド。カラー ポイントを追加します"
 type: docs
-weight: 150
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddColorPoint method
 
-カラーポイントを追加します。
+カラー ポイントを追加します。
 
 ```csharp
 public GradientColorPoint AddColorPoint()
@@ -16,13 +17,13 @@ public GradientColorPoint AddColorPoint()
 
 ### 戻り値
 
-作成されたカラー ポイント
+作成されたカラー点
 
 ### 関連項目
 
 * class [GradientColorPoint](../../gradientcolorpoint/)
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

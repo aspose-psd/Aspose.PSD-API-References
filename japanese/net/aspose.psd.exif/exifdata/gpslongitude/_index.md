@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSLongitude
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 経度を取得または設定します
+title: "ExifData.GPSLongitude"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS経度を取得または設定します"
 type: docs
 weight: 540
 url: /ja/net/aspose.psd.exif/exifdata/gpslongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitude property
 
 GPS 経度を取得または設定します。
@@ -14,15 +15,15 @@ GPS 経度を取得または設定します。
 public TiffRational[] GPSLongitude { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GPS 経度.
+GPS経度。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

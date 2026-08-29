@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpText コンストラクタ. の新しいインスタンスを初期化しますXmpTextclass.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpText コンストラクタ。XmpText クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-の新しいインスタンスを初期化します[`XmpText`](../)class.
+[`XmpText`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpText(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 関連項目
 
 * class [XmpText](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

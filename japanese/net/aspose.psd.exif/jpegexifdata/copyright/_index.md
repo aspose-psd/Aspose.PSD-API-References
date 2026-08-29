@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegExifData 財産. 著作権を取得または設定します
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegExifData プロパティ。著作権情報を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-著作権を取得または設定します。
+著作権情報を取得または設定します。
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-著作権.
+著作権。
 
 ### 関連項目
 
 * class [JpegExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

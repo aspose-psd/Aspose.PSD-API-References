@@ -1,71 +1,72 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. 幅を比例してサイズ変更します
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。幅を比例的にリサイズします。デフォルトの NearestNeighbourResample が使用されます。"
 type: docs
-weight: 210
+weight: 220
 url: /ja/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-幅を比例してサイズ変更します。
+幅を比例的にリサイズします。デフォルトの NearestNeighbourResample が使用されます。
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
+| newWidth | Int32 | 新しい幅です。 |
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-幅を比例してサイズ変更します。
+幅を比例的にリサイズします。
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
-| resizeType | ResizeType | サイズ変更のタイプ。 |
+| newWidth | Int32 | 新しい幅です。 |
+| resizeType | ResizeType | リサイズの種類です。 |
 
 ### 関連項目
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-幅を比例してサイズ変更します。
+幅を比例的にリサイズします。
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newWidth | Int32 | 新しい幅。 |
-| settings | ImageResizeSettings | 画像のリサイズ設定。 |
+| newWidth | Int32 | 新しい幅です。 |
+| 設定 | ImageResizeSettings | 画像リサイズの設定です。 |
 
 ### 関連項目
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

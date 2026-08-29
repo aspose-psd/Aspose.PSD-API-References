@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: LoadOptions 財産. データ復旧モードを取得または設定します
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LoadOptions プロパティ。データ復旧モードを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
-データ復旧モードを取得または設定します。
+取得または設定するのは、データ復旧モードです。
 
 ```csharp
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ復旧モード.
+データ復旧モードです。
 
 ### 関連項目
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* 名前空間 [Aspose.PSD](../../loadoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

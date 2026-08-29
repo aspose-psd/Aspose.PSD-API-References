@@ -1,14 +1,15 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferFunctionsResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorTransferFunctionsResource コンストラクタ. デフォルトのコンストラクター
+title: "ColorTransferFunctionsResource.ColorTransferFunctionsResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorTransferFunctionsResource コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferfunctionsresource/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ColorTransferFunctionsResource()
@@ -17,7 +18,7 @@ public ColorTransferFunctionsResource()
 ### 関連項目
 
 * class [ColorTransferFunctionsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

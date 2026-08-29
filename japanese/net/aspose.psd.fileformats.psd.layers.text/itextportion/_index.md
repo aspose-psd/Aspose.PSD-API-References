@@ -1,14 +1,15 @@
 ---
-title: Interface ITextPortion
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion インターフェース. テキスト部分を操作するためのインターフェイス
+title: "インターフェイス ITextPortion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextPortion インターフェイス。テキスト部分を操作するためのインターフェイス"
 type: docs
-weight: 3530
+weight: 3950
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextportion/
 ---
+{{< psd/tize >}}
 ## ITextPortion interface
 
-テキスト部分を操作するためのインターフェイス
+テキスト部分を操作するインターフェイス
 
 ```csharp
 public interface ITextPortion
@@ -22,9 +23,9 @@ public interface ITextPortion
 | [Style](../../aspose.psd.fileformats.psd.layers.text/itextportion/style/) { get; } | スタイルを取得します。 |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itextportion/text/) { get; set; } | テキストを取得または設定します。 |
 
-### 例
+## 例
 
-次の例は、右から左へ記述する言語の ITextPortion によるテキストの配置が正しく機能することを示しています。
+次の例は、右から左への言語に対して ITextPortion を使用したテキスト配置が正しく機能することを示しています。
 
 ```csharp
 [C#]
@@ -44,13 +45,13 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-次の例は、Aspose.PSD の 1 つのテキスト レイヤーでさまざまなスタイルをレンダリングする方法を示しています。
+次の例は、Aspose.PSD のテキストレイヤーで異なるスタイルをレンダリングする方法を示しています。
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -73,12 +74,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // テキストスタイル「E=mc」を編集
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // テキスト スタイル "2\r" を編集
-    newPortions[2].Style.FauxBold = true; // テキストスタイル「太字」を編集
-    newPortions[3].Style.FauxItalic = true; // テキスト スタイル "Italic\r" を編集します
-    newPortions[3].Style.BaselineShift = -25; // テキスト スタイル "Italic\r" を編集します
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // テキスト スタイル "Lowercasetext" を編集します
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -90,12 +91,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-次のコードは、テキスト レイヤー内の任意のテキスト部分のフォント サイズを取得する方法を示しています。
+次のコードは、テキストレイヤー内の任意のテキスト部分のフォントサイズを取得する方法を示しています。
 
 ```csharp
 [C#]
 
-// 間違ったフォント サイズを抽出しました 
+// 誤ったフォントサイズが抽出されました
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -103,36 +104,36 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // 古い API (最初の段落のフォントを使用)
+    // 旧 API（最初の段落フォントを使用）
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // ベースフォントサイズのチェック
+    // 基本フォントサイズを確認しています
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 実際のフォントサイズをチェック
+    // 実際のフォントサイズを確認しています
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // 新しい API (1 つのテキスト レイヤーに任意の数のフォント サイズを含めることができます)
+    // 新 API（1 つのテキストレイヤーは任意の数のフォントサイズを含むことができます）
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // ベース部分のフォントサイズチェック
+    // 基本部分のフォントサイズを確認しています
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 実部フォントサイズチェック
+    // 実際の部分のフォントサイズを確認しています
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -140,7 +141,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-次のコード例は、テキスト部分の編集とそのテキスト スタイルを示しています。
+以下のコード例は、テキスト部分とそのテキストスタイルの編集を示しています。
 
 ```csharp
 [C#]
@@ -163,7 +164,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // すべての部分のテキストをチェック
+            // 各部分のテキストをチェックしています
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -172,8 +173,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 段落データのチェック
-            // 段落ごとに正当性が異なります
+            // 段落データをチェックしています
+            // 段落の配置が異なります
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -183,7 +184,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 最初と 2 番目の段落の他のすべてのプロパティは等しい
+            // 最初と2番目の段落の他のすべてのプロパティは等しいです
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -207,7 +208,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -222,8 +223,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // スタイルデータのチェック
-            // スタイルによって色とフォント サイズが異なります
+            // スタイルデータをチェックしています
+            // スタイルの色とフォントサイズが異なります
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -270,18 +271,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // 部分の段落とスタイルの編集の例
-            // 右揃えを設定
+            // 部分に対する段落とスタイルの編集例
+            // 右揃えに設定する
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // スタイルごとに異なる色。は変更されますが、レンダリングは完全にはサポートされていません
+            // 各スタイルの色が異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 別のフォント。は変更されますが、レンダリングは完全にはサポートされていません
+            // フォントが異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -298,7 +299,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

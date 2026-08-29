@@ -1,48 +1,43 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: LengthRecord コンストラクタ. の新しいインスタンスを初期化しますLengthRecordclass.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LengthRecord コンストラクタ。LengthRecord クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LengthRecord`](../)class.
+[`LengthRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 記録データです。 |
-
-### 例外
-
-| 例外 | 調子 |
-| --- | --- |
-| !:PsdImageArgumentException | LengthRecord 作成のための不正なデータ |
+| データ | Byte[] | レコードデータです。 |
 
 ### 関連項目
 
 * class [LengthRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-の新しいインスタンスを初期化します[`LengthRecord`](../)class.
+[`LengthRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LengthRecord()
 ```
 
-### 例
+## 例
 
-次のコード例は、新しい LengthRecord プロパティ、PathOperations (ブール演算)、ShapeIndex、および BezierKnotRecordsCount のサポートを示しています。
+以下のコード例は、新しい LengthRecord プロパティ、PathOperations（ブール演算）、ShapeIndex および BezierKnotRecordsCount のサポートを示しています。
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // ここで、シェイプ間の結合方法を変更します。
+    // ここでは形状の組み合わせ方法を変更しています。
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -78,7 +73,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [LengthRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

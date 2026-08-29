@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorTransferFunctionsResource 財産. 色転送データを取得または設定します
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorTransferFunctionsResource プロパティ。カラートランスファ データを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
-色転送データを取得または設定します。
+カラートランスファー データを取得または設定します。
 
 ```csharp
 public byte[] ColorTransferData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カラー転送データ.
+カラートランスファ データです。
 
 ### 関連項目
 
 * class [ColorTransferFunctionsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

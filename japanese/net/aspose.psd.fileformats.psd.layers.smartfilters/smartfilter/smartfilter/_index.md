@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.SmartFilter
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartFilter コンストラクタ. の新しいインスタンスを初期化しますSmartFilterclass.
+title: "SmartFilter.SmartFilter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartFilter コンストラクタ。SmartFilter クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter constructor
 
-の新しいインスタンスを初期化します[`SmartFilter`](../)class.
+[`SmartFilter`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SmartFilter()
@@ -17,7 +18,7 @@ public SmartFilter()
 ### 関連項目
 
 * class [SmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

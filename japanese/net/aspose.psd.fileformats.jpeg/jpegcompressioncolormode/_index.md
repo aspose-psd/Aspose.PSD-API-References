@@ -1,14 +1,15 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode 列挙. jpeg 画像のカラー モード
+title: "列挙体 JpegCompressionColorMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode 列挙体。jpeg 画像のカラーモードです。"
 type: docs
-weight: 1490
+weight: 1500
 url: /ja/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
-jpeg 画像のカラー モード。
+jpeg 画像のカラーモードです。
 
 ```csharp
 public enum JpegCompressionColorMode
@@ -16,17 +17,17 @@ public enum JpegCompressionColorMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Grayscale | `0` | グレースケール イメージ。 |
-| YCbCr | `1` | YCbCr 画像、jpeg 画像の標準オプション。 |
-| Cmyk | `2` | 4 成分 CMYK 画像. |
-| Ycck | `3` | ycck カラーの jpeg 画像。保存には ICC プロファイルが必要です。 |
-| Rgb | `4` | RGB カラー モード。 |
+| Grayscale | `0` | グレースケール画像です。 |
+| YCbCr | `1` | YCbCr 画像、jpeg 画像の標準オプションです。 |
+| Cmyk | `2` | 4 コンポーネント CMYK 画像です。 |
+| Ycck | `3` | この ycck カラー JPEG 画像です。保存するには ICC プロファイルが必要です。 |
+| Rgb | `4` | RGB カラーモードです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

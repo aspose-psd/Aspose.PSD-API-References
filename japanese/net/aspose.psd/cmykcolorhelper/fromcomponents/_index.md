@@ -1,34 +1,35 @@
 ---
-title: CmykColorHelper.FromComponents
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColorHelper 方法. 32 ビットのシアンマゼンタイエローおよびブラックの値から CMYK を作成します
+title: "CmykColorHelper.FromComponents"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColorHelper method. 32 ビットのシアン、マゼンタ、イエロー、ブラック値から CMYK を作成します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/cmykcolorhelper/fromcomponents/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.FromComponents method
 
-32 ビットのシアン、マゼンタ、イエロー、およびブラックの値から CMYK を作成します。
+32 ビットのシアン、マゼンタ、イエロー、ブラックの値から CMYK を作成します。
 
 ```csharp
 public static int FromComponents(int cyan, int magenta, int yellow, int black)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cyan | Int32 | シアン成分。有効な値は 0 ～ 255 です。 |
-| magenta | Int32 | マゼンタ コンポーネント。有効な値は 0 ～ 255 です。 |
-| yellow | Int32 | 黄色のコンポーネント。有効な値は 0 ～ 255 です。 |
-| black | Int32 | 黒のコンポーネント。有効な値は 0 ～ 255 です。 |
+| シアン | Int32 | シアン成分です。 有効な値は 0 から 255 です。 |
+| マゼンタ | Int32 | マゼンタ成分です。 有効な値は 0 から 255 です。 |
+| イエロー | Int32 | 黄色コンポーネントです。 有効な値は0から255です。 |
+| 黒 | Int32 | 黒色コンポーネントです。 有効な値は0から255です。 |
 
 ### 戻り値
 
-32 ビット整数値で表される CMYK カラー。
+CMYK カラーは 32 ビット整数値として表されます。
 
 ### 関連項目
 
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

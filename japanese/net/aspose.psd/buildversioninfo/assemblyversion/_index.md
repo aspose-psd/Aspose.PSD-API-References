@@ -1,14 +1,15 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: BuildVersionInfo 分野. アセンブリ バージョン
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BuildVersionInfo フィールド。アセンブリ バージョン"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
-アセンブリ バージョン。
+アセンブリ バージョンです。
 
 ```csharp
 public static readonly string AssemblyVersion;
@@ -17,7 +18,7 @@ public static readonly string AssemblyVersion;
 ### 関連項目
 
 * class [BuildVersionInfo](../)
-* 名前空間 [Aspose.PSD](../../buildversioninfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

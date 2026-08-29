@@ -1,14 +1,15 @@
 ---
-title: LnsrResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: LnsrResource 分野. タイプ ツール情報キー
+title: "LnsrResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LnsrResource フィールド。タイプツール情報キー"
 type: docs
-weight: 90
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnsrResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [LnsrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

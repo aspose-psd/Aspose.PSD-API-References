@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーが淡色表示されているかどうかを示す値を取得または設定します リンクされた画像とレイヤーに含まれるビットマップ画像の強度を下げます
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。このレイヤーが暗くされているかどうかを示す値を取得または設定します。レイヤーに含まれるリンク画像やビットマップ画像の強度を低減します"
 type: docs
-weight: 50
+weight: 70
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-このレイヤーが淡色表示されているかどうかを示す値を取得または設定します。 リンクされた画像とレイヤーに含まれるビットマップ画像の強度を下げます。
+このレイヤーが暗くなるかどうかを示す値を取得または設定します。レイヤーに含まれるリンク画像およびビットマップ画像の強度を減少させます。
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーが淡色表示されている場合。さもないと、`間違い` .
+`true` このレイヤーが暗くされている場合。そうでなければ `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

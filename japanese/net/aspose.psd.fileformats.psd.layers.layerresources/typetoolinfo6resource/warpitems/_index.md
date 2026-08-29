@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfo6Resource 財産. ワープアイテムを取得または設定します.
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfo6Resource プロパティ。ワープ項目を取得または設定します"
 type: docs
-weight: 200
+weight: 170
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-ワープアイテムを取得または設定します.
+ワープ項目を取得または設定します。
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ワープアイテム.
+ワープ項目です。
 
 ### 関連項目
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

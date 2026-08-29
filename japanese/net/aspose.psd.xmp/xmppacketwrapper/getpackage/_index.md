@@ -1,22 +1,23 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 方法. 名前空間 URI でパッケージを取得します
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper メソッド。 名前空間 URI によるパッケージを取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-名前空間 URI でパッケージを取得します。
+名前空間 URI によるパッケージを取得します。
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| namespaceUri | String | パッケージ スキーマ URI。 |
+| namespaceUri | 文字列 | パッケージ スキーマの URI。 |
 
 ### 戻り値
 
@@ -24,7 +25,7 @@ public XmpPackage GetPackage(string namespaceUri)
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | ArgumentNullException | namespaceUri |
 
@@ -32,7 +33,7 @@ public XmpPackage GetPackage(string namespaceUri)
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

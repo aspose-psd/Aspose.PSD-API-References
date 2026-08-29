@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PointType
-second_title: Aspose.PSD for .NET API リファレンス
-description: PatternFillSettings 財産. ポイントのタイプを取得または設定します
+title: "PatternFillSettings.PointType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PatternFillSettings プロパティ。ポイントのタイプを取得または設定します"
 type: docs
-weight: 110
+weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PointType property
 
-ポイントのタイプを取得または設定します。
+取得または設定します。ポイントのタイプ。
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 ポイントのタイプ。
 
 ### 関連項目
 
 * class [PatternFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

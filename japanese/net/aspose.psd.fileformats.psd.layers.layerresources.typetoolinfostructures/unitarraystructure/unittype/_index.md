@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnitArrayStructure 財産. の測定単位タイプを取得または設定しますUnitArrayStructure値.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnitArrayStructure プロパティ。UnitArrayStructure の値の測定単位タイプを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-の測定単位タイプを取得または設定します[`UnitArrayStructure`](../)値.
+[`UnitArrayStructure`](../) の値の測定単位タイプを取得または設定します。
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-計測単位の種類.
+測定単位タイプです。
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

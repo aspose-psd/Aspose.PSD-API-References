@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.SaveWithoutKeyName
-second_title: Aspose.PSD for .NET API リファレンス
-description: OSTypeStructure 方法. 指定したストリーム コンテナーに構造体を保存します
+title: "OSTypeStructure.SaveWithoutKeyName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OSTypeStructure メソッド。構造を指定されたストリームコンテナに保存します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.SaveWithoutKeyName method
 
-指定したストリーム コンテナーに構造体を保存します。
+構造体を指定されたストリーム コンテナに保存します。
 
 ```csharp
 public void SaveWithoutKeyName(StreamContainer streamContainer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | ストリーム コンテナー。 |
+| streamContainer | StreamContainer | ストリームコンテナ。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [OSTypeStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

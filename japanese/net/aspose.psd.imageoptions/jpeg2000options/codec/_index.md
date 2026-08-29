@@ -1,11 +1,12 @@
 ---
-title: Jpeg2000Options.Codec
-second_title: Aspose.PSD for .NET API リファレンス
-description: Jpeg2000Options 財産. JPEG2000 コーデックを取得または設定します
+title: "Jpeg2000Options.Codec"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Jpeg2000Options プロパティ。JPEG2000 コーデックを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imageoptions/jpeg2000options/codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Codec property
 
 JPEG2000 コーデックを取得または設定します
@@ -14,7 +15,7 @@ JPEG2000 コーデックを取得または設定します
 public Jpeg2000Codec Codec { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 JPEG2000 コーデック
 
@@ -22,7 +23,7 @@ JPEG2000 コーデック
 
 * enum [Jpeg2000Codec](../../../aspose.psd.fileformats.jpeg2000/jpeg2000codec/)
 * class [Jpeg2000Options](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

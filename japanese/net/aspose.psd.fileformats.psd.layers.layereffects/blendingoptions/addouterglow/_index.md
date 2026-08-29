@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 方法. 外側のグロー効果を追加します
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions メソッド。外側の光彩効果を追加します"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
 外側のグロー効果を追加します。
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### 戻り値
 
-作成済み[`OuterGlowEffect`](../../outergloweffect/)object
+作成された [`OuterGlowEffect`](../../outergloweffect/) オブジェクト
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

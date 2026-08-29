@@ -1,20 +1,21 @@
 ---
-title: AiLayerSection.AddRasterImage
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 方法. ラスター イメージを追加します
+title: "AiLayerSection.AddRasterImage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection メソッド。ラスター画像を追加します"
 type: docs
-weight: 140
+weight: 160
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/addrasterimage/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.AddRasterImage method
 
-ラスター イメージを追加します。
+ラスタ画像を追加します。
 
 ```csharp
 public void AddRasterImage(AiRasterImageSection rasterImage)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | rasterImage | AiRasterImageSection | ラスター画像。 |
 
@@ -22,7 +23,7 @@ public void AddRasterImage(AiRasterImageSection rasterImage)
 
 * class [AiRasterImageSection](../../airasterimagesection/)
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

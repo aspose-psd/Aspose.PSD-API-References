@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: SoLdResource コンストラクタ. の新しいインスタンスを初期化しますSoLdResource class. 準備が整ったインスタンスを取得するにはItems プロパティを設定するかInitializeItems を呼び出す必要があります このコンストラクターはSmartResourceCreator および単体テストで. 使用SmartResourceCreatorSoLdResource クラスの作成用.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SoLdResource コンストラクタ。SoLdResource クラスの新しいインスタンスを初期化します。利用可能なインスタンスを取得するには Items プロパティを設定するか InitializeItems を呼び出す必要があります。このコンストラクタは SmartResourceCreator とユニットテストでの使用を想定しています。SoLdResource クラスの作成には SmartResourceCreator を使用してください。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SoLdResource`](../) class. 準備が整ったインスタンスを取得するには、Items プロパティを設定するか、InitializeItems() を呼び出す必要があります。 このコンストラクターは、[`SmartResourceCreator`](../../smartresourcecreator/) および単体テストで. 使用[`SmartResourceCreator`](../../smartresourcecreator/)SoLdResource クラスの作成用.
+[`SoLdResource`](../) クラスの新しいインスタンスを初期化します。利用可能なインスタンスを取得するには Items プロパティを設定するか InitializeItems() を呼び出す必要があります。このコンストラクタは [`SmartResourceCreator`](../../smartresourcecreator/) とユニットテストでの使用を想定しています。[`SmartResourceCreator`](../../smartresourcecreator/) を使用して SoLdResource クラスを作成してください。
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| uniqueId | Guid | スマート オブジェクト レイヤー データの一意の識別子[`SoLdResource`](../). |
-| isCustom | Boolean | に設定した場合`真実` 【カスタムです】。 |
-| hasCompInfo | Boolean | に設定した場合`真実` [コンプ情報あり]。 |
+| uniqueId | Guid | スマートオブジェクトレイヤーデータ [`SoLdResource`](../) の一意の識別子です。 |
+| isCustom | Boolean | `true` に設定された場合 [カスタムです]。 |
+| hasCompInfo | Boolean | `true` に設定された場合、[has comp information]。 |
 
-### 例
+## 例
 
-次のコードは、SoLdResource リソースのサポートを示しています。
+以下のコードは SoLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤー データ プロパティを取得または設定する方法を示します。
+// この例は PSD ファイルのスマートオブジェクトレイヤーデータプロパティを取得または設定する方法を示しています。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-                // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+                // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+                // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,18 +308,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // この一意の ID は、参照があれば変更する必要があります
+                // このユニーク ID は、参照がある場合は変更する必要があります。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -334,14 +336,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [SoLdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-の新しいインスタンスを初期化します[`SoLdResource`](../)class. このデフォルト コンストラクタは、SoLdResourceLoader . 使用[`SmartResourceCreator`](../../smartresourcecreator/)SoLdResource クラスの作成用.
+[`SoLdResource`](../) クラスの新しいインスタンスを初期化します。このデフォルトコンストラクタは SoLdResourceLoader 用に設計されています。SoLdResource クラスの作成には [`SmartResourceCreator`](../../smartresourcecreator/) を使用してください。
 
 ```csharp
 public SoLdResource()
@@ -350,7 +352,7 @@ public SoLdResource()
 ### 関連項目
 
 * class [SoLdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

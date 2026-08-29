@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.MinimalVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransparencyIndexResource 財産. 必要最小限の psd バージョンを取得します
+title: "TransparencyIndexResource.MinimalVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransparencyIndexResource プロパティ。必要最小の psd バージョンを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.MinimalVersion property
 
-必要最小限の psd バージョンを取得します。
+必要最小限の PSD バージョンを取得します。
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-最小限の psd バージョン。
+最低限の psd バージョンです。
 
 ### 関連項目
 
 * class [TransparencyIndexResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

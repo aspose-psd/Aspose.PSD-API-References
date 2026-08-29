@@ -1,14 +1,15 @@
 ---
-title: Interface IVectorPathData
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData インターフェース. ベクター パス データにアクセスするためのインターフェイス
+title: "インターフェイス IVectorPathData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData インターフェイス。ベクトルパスデータへのアクセス用インターフェイスです。"
 type: docs
-weight: 1350
+weight: 1360
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-ベクター パス データにアクセスするためのインターフェイス。
+ベクトルパスデータへのアクセス用インターフェイスです。
 
 ```csharp
 public interface IVectorPathData
@@ -19,19 +20,19 @@ public interface IVectorPathData
 | 名前 | 説明 |
 | --- | --- |
 | [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | このインスタンスが無効かどうかを示す値を取得または設定します。 |
-| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | このインスタンスが反転されているかどうかを示す値を取得または設定します. |
+| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | このインスタンスが反転しているかどうかを示す値を取得または設定します。 |
 | [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | このインスタンスがリンクされていないかどうかを示す値を取得または設定します。 |
 | [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | パス レコードを取得または設定します。 |
 | [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | バージョンを取得または設定します。 |
 
-### 例
+## 例
 
-この例では、Crop 操作を正しく機能させるために、PsdImage.ImageResources 内の「WorkingPathResource」リソースのサポートを示しています。
+この例は、Crop 操作の正しい動作のために PsdImage.ImageResources で 'WorkingPathResource' リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// 画像をトリミングして保存します。
+// 画像を切り取り、保存します。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -52,12 +53,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // トリミングして保存します。
+    // 切り取り、保存します。
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// 保存した画像を読み込み、変更を確認します。
+// 保存された画像を読み込み、変更を確認します。
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -82,7 +83,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

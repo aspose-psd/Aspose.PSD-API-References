@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamWriter 財産. ストリーム位置を取得または設定します
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamWriter プロパティ。ストリーム位置を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
 ストリーム位置を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/positio
 public long Position { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ストリーム位置.
+ストリーム位置です。
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

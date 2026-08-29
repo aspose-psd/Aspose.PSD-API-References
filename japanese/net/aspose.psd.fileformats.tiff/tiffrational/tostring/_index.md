@@ -1,14 +1,15 @@
 ---
-title: TiffRational.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffRational 方法. を返しますStringこのインスタンスを表す.
+title: "TiffRational.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffRational メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.tiff/tiffrational/tostring/
 ---
+{{< psd/tize >}}
 ## TiffRational.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表すStringを返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
 ### 関連項目
 
 * class [TiffRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

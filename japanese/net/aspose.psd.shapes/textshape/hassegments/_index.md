@@ -1,11 +1,12 @@
 ---
-title: TextShape.HasSegments
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextShape 財産. 形状にセグメントがあるかどうかを示す値を取得します
+title: "TextShape.HasSegments"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextShape プロパティ。シェイプにセグメントがあるかどうかを示す値を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.shapes/textshape/hassegments/
 ---
+{{< psd/tize >}}
 ## TextShape.HasSegments property
 
 形状にセグメントがあるかどうかを示す値を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.shapes/textshape/hassegments/
 public override bool HasSegments { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`形状にセグメントがある場合。さもないと、`間違い`.
+`True` シェイプにセグメントがある場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [TextShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../textshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

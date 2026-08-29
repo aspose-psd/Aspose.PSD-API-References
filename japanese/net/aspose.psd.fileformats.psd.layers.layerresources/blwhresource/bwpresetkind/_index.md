@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BwPresetKind
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlwhResource 財産. 白黒プリセット種別値を取得または設定します
+title: "BlwhResource.BwPresetKind"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlwhResource プロパティ。白黒プリセット種別の値を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BwPresetKind property
 
-白黒プリセット種別値を取得または設定します。
+白黒プリセット種別の値を取得または設定します。
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-白黒のプリセットの種類の値。
+黒白プリセット種別の値です。
 
-### 例
+## 例
 
-次の例は、BlwhResource を編集する方法を示しています。
+以下の例は、BlwhResource を編集する方法を示しています。
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### 関連項目
 
 * class [BlwhResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

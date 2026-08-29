@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCity
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. 都市を設定します
+title: "PhotoshopPackage.SetCity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。都市を設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCity method
 
 都市を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 public void SetCity(string city)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| city | String | 都市名。 |
+| 都市 | 文字列 | 都市名です。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

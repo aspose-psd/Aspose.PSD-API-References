@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.XmpData
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegOptions 財産. XMP メタデータ コンテナーを取得または設定します
+title: "JpegOptions.XmpData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegOptions プロパティ。XMP メタデータ コンテナを取得または設定します"
 type: docs
-weight: 210
+weight: 220
 url: /ja/net/aspose.psd.imageoptions/jpegoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.XmpData property
 
-XMP メタデータ コンテナーを取得または設定します。
+XMP メタデータ コンテナを取得または設定します。
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-XMP データ コンテナー。
+XMP データ コンテナです。
 
 ### 関連項目
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [JpegOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

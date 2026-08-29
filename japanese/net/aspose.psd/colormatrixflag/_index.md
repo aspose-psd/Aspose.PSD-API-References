@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ColorMatrixFlag 列挙. の色とグレースケールの調整設定によって影響を受ける画像と色の種類を指定しますImageAttributes .
+title: "列挙体 ColorMatrixFlag"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ColorMatrixFlag 列挙体。ImageAttributes のカラーおよびグレースケール調整設定の影響を受ける画像とカラーのタイプを指定します。"
 type: docs
 weight: 360
 url: /ja/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-の色とグレースケールの調整設定によって影響を受ける画像と色の種類を指定します。[`ImageAttributes`](../imageattributes/) .
+[`ImageAttributes`](../imageattributes/) のカラーおよびグレースケール調整設定の影響を受ける画像とカラーのタイプを指定します。
 
 ```csharp
 public enum ColorMatrixFlag
@@ -16,15 +17,15 @@ public enum ColorMatrixFlag
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | 灰色の色合いを含むすべての色の値は、同じ色調整マトリックスによって調整されます. |
-| SkipGrays | `1` | すべての色が調整されますが、灰色の色合いは調整されません。灰色の色合いは、赤、緑、青の成分が同じ値を持つ任意の色です。 |
-| AltGrays | `2` | グレーの色合いのみが調整されます. |
+| Default | `0` | 灰色のシェードを含むすべてのカラー値は、同じカラー調整行列で調整されます。 |
+| SkipGrays | `1` | すべてのカラーは調整されますが、灰色のシェードは調整されません。灰色のシェードとは、赤、緑、青の各成分の値が同じである任意のカラーを指します。 |
+| AltGrays | `2` | グレイの階調のみが調整されます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

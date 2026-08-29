@@ -1,11 +1,12 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD for .NET API リファレンス
-description: IntRange 財産. 範囲を取得または設定します
+title: "IntRange.Range"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IntRange プロパティ。範囲を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
 範囲を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/intrange/range/
 public int[] Range { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-範囲.
+範囲です。
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiImage.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. 画像の高さを取得します.
+title: "AiImage.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。画像の高さを取得します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/height/
 ---
+{{< psd/tize >}}
 ## AiImage.Height property
 
-画像の高さを取得します.
+画像の高さを取得します。
 
 ```csharp
 public override int Height { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の高さ.
+画像の高さです。
 
 ### 関連項目
 
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

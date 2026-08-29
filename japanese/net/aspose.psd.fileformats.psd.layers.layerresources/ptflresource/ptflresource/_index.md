@@ -1,28 +1,45 @@
 ---
-title: PtFlResource.PtFlResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PtFlResource コンストラクタ. の新しいインスタンスを初期化しますPtFlResourceclass.
+title: "PtFlResource.PtFlResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PtFlResource コンストラクタ。PtFlResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/ptflresource/
 ---
-## PtFlResource constructor
+{{< psd/tize >}}
+## PtFlResource() {#constructor}
 
-の新しいインスタンスを初期化します[`PtFlResource`](../)class.
+[`PtFlResource`](../) クラスの新しいインスタンスを初期化します。
+
+```csharp
+public PtFlResource()
+```
+
+### 関連項目
+
+* class [PtFlResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## PtFlResource(string, string) {#constructor_1}
+
+[`PtFlResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PtFlResource(string patternName, string patternId)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| patternName | String | パターンの名前。 |
-| patternId | String | パターン識別子。 |
+| patternName | 文字列 | パターンの名前。 |
+| patternId | 文字列 | パターン識別子です。 |
 
 ### 関連項目
 
 * class [PtFlResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

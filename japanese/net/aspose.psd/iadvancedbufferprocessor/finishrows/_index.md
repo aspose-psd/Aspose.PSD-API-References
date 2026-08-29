@@ -1,11 +1,12 @@
 ---
-title: IAdvancedBufferProcessor.FinishRows
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAdvancedBufferProcessor 方法. 行を終了します
+title: "IAdvancedBufferProcessor.FinishRows"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAdvancedBufferProcessor メソッド。行を終了します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/iadvancedbufferprocessor/finishrows/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRows method
 
 行を終了します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/iadvancedbufferprocessor/finishrows/
 public void FinishRows(int rowsCount)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rowsCount | Int32 | 行がカウントされます。 |
+| rowsCount | Int32 | 行数です。 |
 
 ### 関連項目
 
 * interface [IAdvancedBufferProcessor](../)
-* 名前空間 [Aspose.PSD](../../iadvancedbufferprocessor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClblResource 財産. クリップされた要素をブレンドするかどうかを示す値を取得または設定します
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClblResource プロパティ。ブレンドクリップ要素かどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-[クリップされた要素をブレンドする]かどうかを示す値を取得または設定します。
+取得または設定する値は、[blend clipped elements] かどうかを示します。
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [クリップされた要素をブレンドする];さもないと、`間違い` .
+`true` は [blend clipped elements] の場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [ClblResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: IVectorPathData.IsInverted
-second_title: Aspose.PSD for .NET API リファレンス
-description: IVectorPathData 財産. このインスタンスが反転されているかどうかを示す値を取得または設定します.
+title: "IVectorPathData.IsInverted"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IVectorPathData プロパティ。 このインスタンスが反転しているかどうかを示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsInverted property
 
-このインスタンスが反転されているかどうかを示す値を取得または設定します.
+このインスタンスが反転しているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが反転されている場合。さもないと、`間違い` .
+`true` このインスタンスが反転している場合。そうでなければ `false`。
 
-### 例
+## 例
 
-この例では、Crop 操作を正しく機能させるために、PsdImage.ImageResources 内の「WorkingPathResource」リソースのサポートを示しています。
+この例は、Crop 操作の正しい動作のために PsdImage.ImageResources で 'WorkingPathResource' リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// 画像をトリミングして保存します。
+// 画像を切り取り、保存します。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // トリミングして保存します。
+    // 切り取り、保存します。
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// 保存した画像を読み込み、変更を確認します。
+// 保存された画像を読み込み、変更を確認します。
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### 関連項目
 
 * interface [IVectorPathData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.IsBigEndian
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. から作成されたストリーム EXIF データがビッグ エンディアンかどうかを示す値を取得または設定します
+title: "ExifData.IsBigEndian"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。ストリームから作成された EXIF データがビッグエンディアンかどうかを示す値を取得または設定します"
 type: docs
 weight: 690
 url: /ja/net/aspose.psd.exif/exifdata/isbigendian/
 ---
+{{< psd/tize >}}
 ## ExifData.IsBigEndian property
 
-から作成されたストリーム EXIF データがビッグ エンディアンかどうかを示す値を取得または設定します。
+作成元のストリーム EXIF データがビッグエンディアンかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsBigEndian { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`作成されたストリーム EXIF データがビッグ エンディアンの場合。さもないと、`間違い` .
+`true` はストリームから作成された EXIF データがビッグエンディアンの場合です。そうでない場合は `false` です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

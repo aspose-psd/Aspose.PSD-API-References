@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResource 財産. 密度を取得または設定します
+title: "PhflResource.Density"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResource プロパティ。密度を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 密度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/densi
 public int Density { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-密度.
+密度。
 
 ### 関連項目
 
 * class [PhflResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

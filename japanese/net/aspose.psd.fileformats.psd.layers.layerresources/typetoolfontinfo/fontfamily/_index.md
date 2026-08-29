@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolFontInfo 財産. フォント ファミリを取得または設定します
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolFontInfo プロパティ。フォントファミリを取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
-フォント ファミリを取得または設定します。
+フォントファミリーを取得または設定します。
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントファミリー.
+フォントファミリです。
 
 ### 関連項目
 
 * class [TypeToolFontInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: DropShadowEffect.EffectType
-second_title: Aspose.PSD for .NET API リファレンス
-description: DropShadowEffect 財産. エフェクトのタイプを取得します
+title: "DropShadowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DropShadowEffect プロパティ。エフェクトのタイプを取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.EffectType property
 
-エフェクトのタイプを取得します
+エフェクトのタイプを取得します。
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### 例
+## 例
 
-次のコードは、DropShadowEffect の Opacity プロパティの使用を示しています。
+以下のコードは、DropShadowEffect の Opacity プロパティの使用例を示しています。
 
 ```csharp
 [C#]
@@ -33,17 +34,17 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // 不透明度 = 20 の例
+    // Opacity = 20 の例
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // 不透明度 = 20 の例0
+    // Opacity = 200 の例
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-次のコードは、ILayerEffect.EffectType プロパティのサポートを示しています。
+以下のコードは ILayerEffect.EffectType プロパティのサポートを示しています。
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // キャッチした
+            // 捕捉されました
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -76,9 +77,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### 関連項目
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [DropShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

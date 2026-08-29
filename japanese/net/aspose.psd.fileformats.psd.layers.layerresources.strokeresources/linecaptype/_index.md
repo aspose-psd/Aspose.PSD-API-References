@@ -1,14 +1,15 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType 列挙. ラインキャップタイプ.
+title: "列挙型 LineCapType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType 列挙型。ラインキャップの種類"
 type: docs
-weight: 3040
+weight: 3400
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-ラインキャップタイプ.
+ラインキャップのタイプ。
 
 ```csharp
 public enum LineCapType : short
@@ -16,15 +17,15 @@ public enum LineCapType : short
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| RoundCap | `0` | ラウンドキャップタイプ. |
-| SquareCap | `1` | スクエアキャップタイプ. |
-| ButtCap | `2` | バットキャップタイプ. |
+| RoundCap | `0` | 丸形キャップの種類。 |
+| SquareCap | `1` | 四角形キャップの種類。 |
+| ButtCap | `2` | バットキャップの種類。 |
 
-### 例
+## 例
 
-次のコードは、VstkResource リソースのサポートを示しています。
+次のコードは VstkResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

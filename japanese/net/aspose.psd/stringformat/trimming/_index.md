@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. を取得または設定しますStringTrimmingこの列挙StringFormatobject.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。この StringFormat オブジェクトの StringTrimming 列挙体を取得または設定します。"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-を取得または設定します[`StringTrimming`](../../stringtrimming/)この列挙[`StringFormat`](../)object.
+この [`StringFormat`](../) オブジェクトの [`StringTrimming`](../../stringtrimming/) 列挙体を取得または設定します。
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`StringTrimming`](../../stringtrimming/)これでテキストがどのように描画されるかを示す列挙[`StringFormat`](../)オブジェクトがレイアウト長方形の端を超えるとトリミングされます。
+この [`StringFormat`](../) オブジェクトで描画されたテキストがレイアウト矩形の端を超えたときに、どのようにトリミングされるかを示す [`StringTrimming`](../../stringtrimming/) 列挙体です。
 
 ### 関連項目
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

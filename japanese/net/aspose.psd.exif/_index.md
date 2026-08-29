@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはEXIF 関連のヘルパー クラスとメソッドが含まれています
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、EXIF に関連するヘルパークラスとメソッドが含まれています"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd.exif/
 ---
-名前空間には、EXIF 関連のヘルパー クラスとメソッドが含まれています。
+{{< psd/tize >}}
+この名前空間には EXIF 関連のヘルパークラスとメソッドが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [ExifData](./exifdata/) | EXIF データ コンテナ. |
-| [JpegExifData](./jpegexifdata/) | jpeg ファイルの EXIF データ コンテナー。 |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | tiff データ型を操作するための一般的なクラスを表します。 |
+| [ExifData](./exifdata/) | EXIF データコンテナです。 |
+| [JpegExifData](./jpegexifdata/) | JPEG ファイル用の EXIF データコンテナです。 |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | TIFF データ型を扱うための汎用クラスを表します。 |
 ## 列挙
 
 | 列挙 | 説明 |

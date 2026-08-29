@@ -1,27 +1,28 @@
 ---
-title: StrokeEffect.IsVisible
-second_title: Aspose.PSD for .NET API リファレンス
-description: StrokeEffect 財産. このインスタンスが表示されるかどうかを示す値を取得または設定します.
+title: "StrokeEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StrokeEffect プロパティ。このインスタンスが表示されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.IsVisible property
 
-このインスタンスが表示されるかどうかを示す値を取得または設定します.
+このインスタンスが表示されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが表示されている場合。さもないと、`間違い` .
+このインスタンスが表示されている場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [StrokeEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

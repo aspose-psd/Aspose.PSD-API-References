@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD for .NET API リファレンス
-description: AddNoiseSmartFilter 財産. ノイズ値の量を取得または設定します
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AddNoiseSmartFilter プロパティ。ノイズ値の量を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-ノイズ値の量を取得または設定します。
+ノイズの値量を取得または設定します。
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### 例
+## 例
 
-この例は、スマート フィルター インターフェイスのサポートを示しています。
+この例はスマートフィルタインターフェイスのサポートを示しています。
 
 ```csharp
 [C#]
@@ -36,16 +37,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // スマート フィルターを編集します
+    // スマートフィルタを編集
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // フィルタ値をチェック
+    // フィルタ値を確認
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // フィルター値を更新します
+    // フィルタ値を更新
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // フィルタ値をチェック
+    // フィルタ値を確認
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### 関連項目
 
 * class [AddNoiseSmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

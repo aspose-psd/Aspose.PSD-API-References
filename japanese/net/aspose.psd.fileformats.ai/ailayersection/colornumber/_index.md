@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. 色番号を取得または設定します 1 は赤緑青のプロパティからのカスタム カラー値です レイヤーの色設定を指定します
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。カラー番号を取得または設定します。1 は赤・緑・青プロパティからのカスタムカラー値です。レイヤーのカラー設定を指定します"
 type: docs
-weight: 20
+weight: 30
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-色番号を取得または設定します。 -1 は、赤、緑、青のプロパティからのカスタム カラー値です。 レイヤーの色設定を指定します。
+カラー番号を取得または設定します。-1 は、赤、緑、青プロパティからのカスタムカラー値です。レイヤーのカラー設定を指定します。
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色番号.
+カラー番号です。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

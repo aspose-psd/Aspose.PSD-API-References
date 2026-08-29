@@ -1,14 +1,15 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffSRational コンストラクタ. の新しいインスタンスを初期化しますTiffSRationalclass.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffSRational コンストラクタ。TiffSRational クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-の新しいインスタンスを初期化します[`TiffSRational`](../)class.
+[`TiffSRational`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffSRational()
@@ -17,52 +18,52 @@ public TiffSRational()
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`TiffRational`](../../tiffrational/)class.
+[`TiffRational`](../../tiffrational/) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffSRational(int value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Int32 | 指名値。 |
+| 値 | Int32 | 分子の値です。 |
 
-### 備考
+## 備考
 
 分子は指定された値として使用され、分母は 1 になります。
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-の新しいインスタンスを初期化します[`TiffSRational`](../)class.
+[`TiffSRational`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| nominator | Int32 | 指名者。 |
-| denominator | Int32 | 分母。 |
+| 分子 | Int32 | 分子です。 |
+| 分母 | Int32 | 分母です。 |
 
 ### 関連項目
 
 * class [TiffSRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

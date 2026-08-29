@@ -1,28 +1,29 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: ObjectArrayStructure コンストラクタ. の新しいインスタンスを初期化しますObjectArrayStructureclass.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ObjectArrayStructure コンストラクタ。ObjectArrayStructure クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ObjectArrayStructure`](../)class.
+[`ObjectArrayStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| keyName | String | キーの名前。 |
-| classIdName | String | クラス識別子の名前。 |
-| structures | OSTypeStructure[] | 構造。 |
+| keyName | 文字列 | キーの名前。 |
+| classIdName | 文字列 | クラス識別子の名前。 |
+| 構造体 | OSTypeStructure[] | 構造体です。 |
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -78,37 +79,37 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-の新しいインスタンスを初期化します[`ObjectArrayStructure`](../)class.
+[`ObjectArrayStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| key | Int32 | 整数キー。 |
+| key | Int32 | 整数キーです。 |
 | keyName | ClassID | キー名。 |
-| classID | ClassID | クラス識別子。 |
-| className | String | クラスの名前。 |
-| structures | OSTypeStructure[] | 構造。 |
+| classID | ClassID | クラス識別子です。 |
+| className | 文字列 | クラスの名前。 |
+| 構造体 | OSTypeStructure[] | 構造体です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | クラス ID がヌルです |
+| ArgumentNullException | classID が null です |
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -165,7 +166,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

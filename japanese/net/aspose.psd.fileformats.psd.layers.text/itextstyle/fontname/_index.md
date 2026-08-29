@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. フォント名を取得または設定します
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。フォント名を取得または設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 フォント名を取得または設定します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 public string FontName { get; set; }
 ```
 
-### 例
+## 例
 
-次のコードは、部分スタイルでフォント名を変更する機能を示しています。
+以下のコードは、部分スタイルでフォント名を変更する機能を示しています。
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -72,7 +73,7 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

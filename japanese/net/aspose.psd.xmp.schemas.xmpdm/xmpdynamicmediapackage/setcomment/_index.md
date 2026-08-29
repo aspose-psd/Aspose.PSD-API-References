@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. コメントを設定します
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。コメントを設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
 コメントを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 public void SetComment(string comment)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| comment | String | コメント。 |
+| comment | 文字列 | コメント。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

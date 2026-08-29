@@ -1,81 +1,82 @@
 ---
-title: Rectangle.Contains
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. 指定したポイントがこの範囲内に含まれているかどうかを判断しますRectangle構造体.
+title: "Rectangle.Contains"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。指定された点がこの Rectangle 構造体に含まれているか判定します。"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd/rectangle/contains/
 ---
+{{< psd/tize >}}
 ## Contains(int, int) {#contains_2}
 
-指定したポイントがこの範囲内に含まれているかどうかを判断します[`Rectangle`](../)構造体.
+指定された点がこの[`Rectangle`](../)構造体に含まれているか判定します。
 
 ```csharp
 public bool Contains(int x, int y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| x | Int32 | テストする点の x 座標。 |
-| y | Int32 | テストするポイントの y 座標。 |
+| x | Int32 | テストする点の x 座標です。 |
+| y | Int32 | テストする点の y 座標です。 |
 
 ### 戻り値
 
-によって定義されたポイントの場合、このメソッドは true を返します。*x*と*y*この中に含まれています[`Rectangle`](../)構造;それ以外の場合は false。
+このメソッドは、*x* と *y* で定義された点がこの[`Rectangle`](../)構造体に含まれている場合に true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Point) {#contains}
 
-指定したポイントがこの範囲内に含まれているかどうかを判断します[`Rectangle`](../)構造体.
+指定された点がこの[`Rectangle`](../)構造体に含まれているか判定します。
 
 ```csharp
 public bool Contains(Point point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../../point/)テストする。 |
+| point | Point | テスト対象の[`Point`](../../point/)。 |
 
 ### 戻り値
 
-このメソッドは、次の点で表される場合に true を返します。*point*この中に含まれています[`Rectangle`](../)構造;それ以外の場合は false。
+このメソッドは、*point* で表される点がこの[`Rectangle`](../)構造体に含まれている場合に true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(Rectangle) {#contains_1}
 
-で表される長方形の領域が*rect*この中に完全に含まれています[`Rectangle`](../)構造体.
+*rect* で表される矩形領域がこの[`Rectangle`](../)構造体に完全に含まれているか判定します。
 
 ```csharp
 public bool Contains(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../)テストする。 |
+| rect | Rectangle | テスト対象の[`Rectangle`](../)。 |
 
 ### 戻り値
 
-このメソッドは、次の長方形領域が*rect*この中に完全に含まれています[`Rectangle`](../)構造;それ以外の場合は false。
+このメソッドは、*rect* で表される矩形領域がこの[`Rectangle`](../)構造体に完全に含まれている場合に true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamContainer 財産. ストリームの長さをバイト単位で取得または設定しますこの値はLengthStreamContainer コンストラクターで渡されたストリームの開始位置
+title: "StreamContainer.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamContainer プロパティ。ストリームの長さ（バイト単位）を取得または設定します。この値は、StreamContainer コンストラクタに渡された開始ストリーム位置分だけ Length より小さくなります。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/streamcontainer/length/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Length property
 
-ストリームの長さをバイト単位で取得または設定します。この値はLengthStreamContainer コンストラクターで渡されたストリームの開始位置。
+ストリームの長さ（バイト単位）を取得または設定します。この値は、StreamContainer コンストラクタで渡された開始ストリーム位置分だけ Length より小さくなります。
 
 ```csharp
 public virtual long Length { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ストリームの長さ。
+ストリームの長さです。
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

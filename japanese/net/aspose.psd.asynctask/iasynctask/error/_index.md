@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 財産. タスクの完了後に利用可能なタスク エラーを取得します
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask プロパティ。タスクが完了した後に利用可能なタスクエラーを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-タスクの完了後に利用可能なタスク エラーを取得します。
+タスクが完了した後に利用可能なタスクエラーを取得します。
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タスクエラー.
+このタスクエラーです。
 
 ### 関連項目
 
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

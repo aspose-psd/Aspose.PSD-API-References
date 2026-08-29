@@ -1,31 +1,32 @@
 ---
-title: CurvesContinuousManager.GetCurvePointCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvesContinuousManager 方法. カーブポイント数を取得します
+title: "CurvesContinuousManager.GetCurvePointCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvesContinuousManager メソッド。曲線のポイント数を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointCount method
 
-カーブポイント数を取得します。
+曲線ポイントの数を取得します。
 
 ```csharp
 public int GetCurvePointCount(int channelIndex)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
 
 ### 戻り値
 
-チャネル内のカーブ ポイントの数
+チャネル内の曲線ポイントの数
 
 ### 関連項目
 
 * class [CurvesContinuousManager](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

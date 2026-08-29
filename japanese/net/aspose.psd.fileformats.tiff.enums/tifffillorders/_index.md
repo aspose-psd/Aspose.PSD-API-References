@@ -1,14 +1,15 @@
 ---
-title: Enum TiffFillOrders
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders 列挙. バイト内のデータ順序 FILLORDER タグの可能な値.
+title: "列挙型 TiffFillOrders"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFillOrders 列挙型。バイト内のデータ順序。FILLORDER タグの可能な値。"
 type: docs
-weight: 4090
+weight: 4560
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tifffillorders/
 ---
+{{< psd/tize >}}
 ## TiffFillOrders enumeration
 
-バイト内のデータ順序。 FILLORDER タグの可能な値.
+バイト内のデータ順序。FILLORDER タグの可能な値。
 
 ```csharp
 public enum TiffFillOrders : ushort
@@ -16,14 +17,14 @@ public enum TiffFillOrders : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Msb2Lsb | `1` | 最上位 -&gt; 最下位. |
-| Lsb2Msb | `2` | 最下位 -&gt; 最上位. |
+| Msb2Lsb | `1` | 最上位ビット -&gt; 最下位ビット。 |
+| Lsb2Msb | `2` | 最下位ビット -&gt; 最上位ビット。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

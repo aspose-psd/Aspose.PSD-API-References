@@ -1,28 +1,29 @@
 ---
-title: ArcShape.Segments
-second_title: Aspose.PSD for .NET API リファレンス
-description: ArcShape 財産. 形状セグメントを取得します
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ArcShape プロパティ。シェイプのセグメントを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-形状セグメントを取得します。
+シェイプのセグメントを取得します。
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプ セグメント。
+シェイプのセグメントです。
 
 ### 関連項目
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../arcshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

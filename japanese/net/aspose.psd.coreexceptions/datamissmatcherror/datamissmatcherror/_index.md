@@ -1,27 +1,28 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.PSD for .NET API リファレンス
-description: DataMissmatchError コンストラクタ. の新しいインスタンスを初期化しますDataMissmatchErrorclass.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DataMissmatchError コンストラクタ。DataMissmatchError クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-の新しいインスタンスを初期化します[`DataMissmatchError`](../)class.
+[`DataMissmatchError`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public DataMissmatchError(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | エラーを説明するメッセージ。 |
+| メッセージ | 文字列 | エラーを説明するメッセージ。 |
 
 ### 関連項目
 
 * class [DataMissmatchError](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

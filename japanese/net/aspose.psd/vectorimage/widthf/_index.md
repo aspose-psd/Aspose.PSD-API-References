@@ -1,27 +1,28 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorImage 財産. オブジェクトの幅をインチで取得します
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorImage プロパティ。オブジェクトの幅（インチ）を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
-オブジェクトの幅をインチで取得します。
+オブジェクトの幅をインチ単位で取得します。
 
 ```csharp
 public virtual float WidthF { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクトの幅 (インチ単位)。
+オブジェクトの幅（インチ）。
 
 ### 関連項目
 
 * class [VectorImage](../)
-* 名前空間 [Aspose.PSD](../../vectorimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

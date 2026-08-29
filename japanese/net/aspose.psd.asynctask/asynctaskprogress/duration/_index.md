@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: Aspose.PSD for .NET API リファレンス
-description: AsyncTaskProgress 分野. 非同期タスクの期間.
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AsyncTaskProgress フィールド。非同期タスクの期間です"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
-非同期タスクの期間.
+非同期タスクの期間です。
 
 ```csharp
 public readonly TimeSpan Duration;
@@ -17,7 +18,7 @@ public readonly TimeSpan Duration;
 ### 関連項目
 
 * class [AsyncTaskProgress](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

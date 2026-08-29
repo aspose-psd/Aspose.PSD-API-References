@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD for .NET API リファレンス
-description: Progress イベントハンドラ関数 reference
+title: "デリゲート ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "進捗イベントハンドラ関数の参照"
 type: docs
-weight: 5280
+weight: 5780
 url: /ja/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Progress イベントハンドラ関数 reference
+進捗イベントハンドラ関数の参照
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | 進行状況イベント ハンドラー データ。 |
+| 情報 | ProgressEventHandlerInfo | プログレスイベントハンドラのデータです。 |
 
-### 例
+## 例
 
-次の例は、ドキュメント変換の進行状況が例外なく正しく機能することを示しています。
+次の例は、ドキュメント変換の進行状況が正しく例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### 関連項目
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

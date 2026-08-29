@@ -1,14 +1,15 @@
 ---
-title: Class RotateFlipExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.RotateFlipExtensions クラス. を変換するための拡張メソッドが含まれていますRotateFlipTypeそしてそのRotateFlipTypeクラス.
+title: "クラス RotateFlipExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.RotateFlipExtensions クラス。RotateFlipType と RotateFlipType クラスの変換用拡張メソッドを含みます"
 type: docs
-weight: 1180
+weight: 1190
 url: /ja/net/aspose.psd.extensions/rotateflipextensions/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions class
 
-を変換するための拡張メソッドが含まれています。RotateFlipTypeそしてその[`RotateFlipType`](../../aspose.psd/rotatefliptype/)クラス.
+RotateFlipType と [`RotateFlipType`](../../aspose.psd/rotatefliptype/) クラスの変換用拡張メソッドを含みます。
 
 ```csharp
 public static class RotateFlipExtensions
@@ -18,11 +19,11 @@ public static class RotateFlipExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Aspose.PSD.RotateFlipType を System.Drawing.RotateFlipType. に変換します。 |
+| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Aspose.PSD.RotateFlipType を System.Drawing.RotateFlipType に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

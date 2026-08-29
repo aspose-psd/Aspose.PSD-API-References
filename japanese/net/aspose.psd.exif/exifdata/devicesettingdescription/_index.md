@@ -1,27 +1,28 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. デバイス設定を取得または設定します description
+title: "ExifData.DeviceSettingDescription"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。 デバイス設定の説明を取得または設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
-デバイス設定を取得または設定します description
+デバイス設定の説明を取得または設定します
 
 ```csharp
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-デバイス設定の説明.
+デバイス設定の説明です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

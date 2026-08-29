@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD for .NET API リファレンス
-description: ObjectArrayStructure 財産. 構造体の配列のコピーを取得または設定します
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ObjectArrayStructure プロパティ。構造体配列のコピーを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-構造体の配列のコピーを取得または設定します。
+構造体配列のコピーを取得または設定します。
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクト配列構造体のサブ構造体.
+オブジェクト配列構造内のサブ構造です。
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

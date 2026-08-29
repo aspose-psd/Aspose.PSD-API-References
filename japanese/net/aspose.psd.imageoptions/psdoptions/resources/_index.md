@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.Resources
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdOptions 財産. psd リソースを取得または設定します
+title: "PsdOptions.Resources"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdOptions プロパティ。psd リソースを取得または設定します。値が NULL の場合は元の ImageResources を保存します（デフォルトの動作）。値が Not Empty の場合は、このプロパティに渡されたリソースを保存します。required resources が Empty の場合は、必要なリソースのみが保存されます。必要なリソース: ResolutionInfoResource, XmpResource"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd.imageoptions/psdoptions/resources/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Resources property
 
-psd リソースを取得または設定します。
+PSD リソースを取得または設定します。値が NULL の場合は元の ImageResources を保存します（既定の動作）。空でない場合は、このプロパティに渡されたリソースと [required resources] を保存します。空の場合は、[required resources] のみが保存されます。必須リソース: ResolutionInfoResource、XmpResource
 
 ```csharp
 public ResourceBlock[] Resources { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-psd リソース。
+psd リソースです。
 
 ### 関連項目
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

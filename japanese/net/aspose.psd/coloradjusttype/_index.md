@@ -1,14 +1,15 @@
 ---
-title: Enum ColorAdjustType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ColorAdjustType 列挙. 色調整情報を使用するオブジェクトを指定します
+title: "列挙体 ColorAdjustType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ColorAdjustType 列挙体。どのオブジェクトがカラー調整情報を使用するかを指定します"
 type: docs
 weight: 300
 url: /ja/net/aspose.psd/coloradjusttype/
 ---
+{{< psd/tize >}}
 ## ColorAdjustType enumeration
 
-色調整情報を使用するオブジェクトを指定します。
+どのオブジェクトがカラー調整情報を使用するかを指定します。
 
 ```csharp
 public enum ColorAdjustType
@@ -16,19 +17,19 @@ public enum ColorAdjustType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Default | `0` | 独自の色調整情報を持たないすべての GDI+ オブジェクトによって使用される色調整情報. |
-| Bitmap | `1` | Bitmap オブジェクトの色調整情報. |
-| Brush | `2` | Brush オブジェクトの色調整情報. |
-| Pen | `3` | Pen オブジェクトの色調整情報. |
-| Text | `4` | テキストの色調整情報. |
-| Count | `5` | 指定された型の数. |
-| Any | `6` | 指定された型の数. |
+| Default | `0` | 独自のカラー調整情報を持たないすべての GDI+ オブジェクトで使用されるカラー調整情報です。 |
+| Bitmap | `1` | Bitmap オブジェクト用のカラー調整情報です。 |
+| Brush | `2` | Brush オブジェクト用のカラー調整情報です。 |
+| Pen | `3` | Pen オブジェクト用のカラー調整情報です。 |
+| Text | `4` | テキスト用のカラー調整情報です。 |
+| Count | `5` | 指定されたタイプ数です。 |
+| Any | `6` | 指定されたタイプ数です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

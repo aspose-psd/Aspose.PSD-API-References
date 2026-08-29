@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. 画像の幅を取得または設定します
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。画像の幅を取得または設定します"
 type: docs
-weight: 210
+weight: 220
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
 画像の幅を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 public uint ImageWidth { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の幅.
+画像の幅です。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IImageLoader.Load
-second_title: Aspose.PSD for .NET API リファレンス
-description: IImageLoader 方法. で新しい画像を開きますloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IImageLoader メソッド。loadOptions を使用して新しい画像を開きます"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-で新しい画像を開きます*loadOptions* .
+*loadOptions* を使用して新しい画像を開きます。
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | ストリーム コンテナー。 |
-| loadOptions | LoadOptions | 読み込みオプション。 |
+| streamContainer | StreamContainer | ストリームコンテナ。 |
+| loadOptions | LoadOptions | ロードオプション。 |
 
 ### 戻り値
 
-新しく開いたイメージ インスタンス。
+新しく開いた画像インスタンス。
 
 ### 関連項目
 
@@ -29,7 +30,7 @@ public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* 名前空間 [Aspose.PSD](../../iimageloader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

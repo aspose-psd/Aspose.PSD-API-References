@@ -1,14 +1,15 @@
 ---
-title: Class ResolutionSetting
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ResolutionSetting クラス. 画像保存オプションの解像度設定
+title: "クラス ResolutionSetting"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ResolutionSetting クラス。画像保存オプションの解像度設定です。"
 type: docs
-weight: 5380
+weight: 5880
 url: /ja/net/aspose.psd/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting class
 
-画像保存オプションの解像度設定。
+画像保存オプションの解像度設定です。
 
 ```csharp
 public class ResolutionSetting
@@ -18,8 +19,8 @@ public class ResolutionSetting
 
 | 名前 | 説明 |
 | --- | --- |
-| [ResolutionSetting](resolutionsetting/#constructor)() | の新しいインスタンスを初期化します`ResolutionSetting`class. |
-| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | の新しいインスタンスを初期化します`ResolutionSetting`class. |
+| [ResolutionSetting](resolutionsetting/#constructor)() | `ResolutionSetting` クラスの新しいインスタンスを初期化します。 |
+| [ResolutionSetting](resolutionsetting/#constructor_1)(double, double) | `ResolutionSetting` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,7 +31,7 @@ public class ResolutionSetting
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

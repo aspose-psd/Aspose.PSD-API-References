@@ -1,27 +1,28 @@
 ---
-title: TransparencySupporter.Opacity
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransparencySupporter 財産. オブジェクトの不透明度を取得または設定します値は 0 から 1 の間である必要があります値 0 はオブジェクトが完全に表示されることを意味し値 1 はオブジェクトが完全に不透明であることを意味します
+title: "TransparencySupporter.Opacity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransparencySupporter プロパティ。 オブジェクトの不透明度を取得または設定します。 値は 0 から 1 の間である必要があります。 0 の値はオブジェクトが完全に可視であることを意味し、1 の値はオブジェクトが完全に不透明であることを意味します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/transparencysupporter/opacity/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter.Opacity property
 
-オブジェクトの不透明度を取得または設定します。値は 0 から 1 の間である必要があります。値 0 はオブジェクトが完全に表示されることを意味し、値 1 はオブジェクトが完全に不透明であることを意味します。
+オブジェクトの不透明度を取得または設定します。値は 0 から 1 の間である必要があります。0 の値はオブジェクトが完全に可視であることを意味し、1 の値はオブジェクトが完全に不透明であることを意味します。
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-不透明度の値。
+不透明度の値です。
 
 ### 関連項目
 
 * class [TransparencySupporter](../)
-* 名前空間 [Aspose.PSD](../../transparencysupporter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

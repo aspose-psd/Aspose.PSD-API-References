@@ -1,14 +1,15 @@
 ---
-title: Matrix.M31
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 財産. 3 行 1 列目の行列要素を取得します X 軸に沿った移動を表します
+title: "Matrix.M31"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix プロパティ。第3行第1列の行列要素を取得します。X 軸方向の平行移動を表します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/matrix/m31/
 ---
+{{< psd/tize >}}
 ## Matrix.M31 property
 
-3 行 1 列目の行列要素を取得します。 X 軸に沿った移動を表します。
+3 行目・最初の列の行列要素を取得します。X 軸方向の平行移動を表します。
 
 ```csharp
 public float M31 { get; }
@@ -17,7 +18,7 @@ public float M31 { get; }
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

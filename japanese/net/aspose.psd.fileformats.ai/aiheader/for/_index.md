@@ -1,27 +1,28 @@
 ---
-title: AiHeader.For
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. . を取得または設定します
+title: "AiHeader.For"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。for を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
+{{< psd/tize >}}
 ## AiHeader.For property
 
-. を取得または設定します
+取得または設定します。
 
 ```csharp
 public string For { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-For.
+Forです。
 
 ### 関連項目
 
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

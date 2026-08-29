@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.SetRgbColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResourceVersion2 方法. RGB カラーを設定します
+title: "PhflResourceVersion2.SetRgbColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResourceVersion2 メソッド。RGB カラーを設定します"
 type: docs
-weight: 120
+weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.SetRgbColor method
 
 RGB カラーを設定します。
@@ -14,15 +15,15 @@ RGB カラーを設定します。
 public override void SetRgbColor(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | 色。 |
+| 色 | 色 | 色です。 |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion2](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

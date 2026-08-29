@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginIndexPresent
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeOriginSettings 財産. このインスタンスがオリジン インデックス プロパティを持っているかどうかを示す値を取得します
+title: "VectorShapeOriginSettings.IsOriginIndexPresent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeOriginSettings プロパティ。 このインスタンスが原点インデックスプロパティを持つかどうかを示す値を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginIndexPresent property
 
-このインスタンスがオリジン インデックス プロパティを持っているかどうかを示す値を取得します。
+このインスタンスが origin index プロパティを持つかどうかを示す値を取得します。
 
 ```csharp
 public bool IsOriginIndexPresent { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが起点インデックス プロパティを持っている場合。さもないと、`間違い` .
+`true` このインスタンスが原点インデックスプロパティを持つ場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [VectorShapeOriginSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

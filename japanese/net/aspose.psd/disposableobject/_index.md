@@ -1,14 +1,15 @@
 ---
-title: Class DisposableObject
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.DisposableObject クラス. 使い捨てオブジェクトを表します.
+title: "クラス DisposableObject"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.DisposableObject クラス。破棄可能オブジェクトを表します"
 type: docs
-weight: 750
+weight: 760
 url: /ja/net/aspose.psd/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject class
 
-使い捨てオブジェクトを表します.
+破棄可能なオブジェクトを表します。
 
 ```csharp
 public class DisposableObject : IDisposable
@@ -18,7 +19,7 @@ public class DisposableObject : IDisposable
 
 | 名前 | 説明 |
 | --- | --- |
-| [DisposableObject](disposableobject/)() | デフォルトのコンストラクター。 |
+| [DisposableObject](disposableobject/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
@@ -34,7 +35,7 @@ public class DisposableObject : IDisposable
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

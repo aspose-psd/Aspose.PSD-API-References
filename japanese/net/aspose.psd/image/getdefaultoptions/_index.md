@@ -1,32 +1,33 @@
 ---
-title: Image.GetDefaultOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. デフォルトのオプションを取得します
+title: "Image.GetDefaultOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。デフォルトオプションを取得します"
 type: docs
-weight: 170
+weight: 180
 url: /ja/net/aspose.psd/image/getdefaultoptions/
 ---
+{{< psd/tize >}}
 ## Image.GetDefaultOptions method
 
-デフォルトのオプションを取得します。
+デフォルトオプションを取得します。
 
 ```csharp
 public virtual ImageOptionsBase GetDefaultOptions(object[] args)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | args | Object[] | 引数。 |
 
 ### 戻り値
 
-デフォルトのオプション
+デフォルトオプション
 
 ### 関連項目
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

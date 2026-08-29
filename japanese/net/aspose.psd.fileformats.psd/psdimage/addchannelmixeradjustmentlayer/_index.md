@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. チャンネル ミキサー調整レイヤーをデフォルト パラメーターで追加します
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。デフォルトパラメータでチャンネルミキサー調整レイヤーを追加します"
 type: docs
-weight: 310
+weight: 320
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-チャンネル ミキサー調整レイヤーをデフォルト パラメーターで追加します
+デフォルト パラメータでチャンネルミキサー調整レイヤーを追加します。
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
@@ -16,13 +17,13 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### 戻り値
 
-追加されたチャンネル ミキサー レイヤー
+チャンネルミキサーレイヤーが追加されました
 
 ### 関連項目
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

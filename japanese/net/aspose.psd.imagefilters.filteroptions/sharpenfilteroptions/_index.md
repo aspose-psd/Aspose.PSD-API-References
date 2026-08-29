@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions クラス. シャープ フィルター オプション
+title: "クラス SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions クラス。Sharpen filter options"
 type: docs
-weight: 4740
+weight: 5210
 url: /ja/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-シャープ フィルター オプション
+シャープフィルターオプションです。
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -18,8 +19,8 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | 名前 | 説明 |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | の新しいインスタンスを初期化します`SharpenFilterOptions` class. デフォルト設定で. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | の新しいインスタンスを初期化します`SharpenFilterOptions`class. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | `SharpenFilterOptions` クラスの新しいインスタンスを初期化します。デフォルト設定です。 |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | `SharpenFilterOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -33,7 +34,7 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 ### 関連項目
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

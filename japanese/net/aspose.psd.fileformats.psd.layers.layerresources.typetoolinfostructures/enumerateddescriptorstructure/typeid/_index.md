@@ -1,11 +1,12 @@
 ---
-title: EnumeratedDescriptorStructure.TypeID
-second_title: Aspose.PSD for .NET API リファレンス
-description: EnumeratedDescriptorStructure 財産. タイプ ID を取得または設定します
+title: "EnumeratedDescriptorStructure.TypeID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "EnumeratedDescriptorStructure プロパティ。タイプ ID を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.TypeID property
 
 タイプ ID を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID TypeID { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-タイプ ID.
+type IDです。
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

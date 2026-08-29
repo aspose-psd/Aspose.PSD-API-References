@@ -1,14 +1,15 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.PaletteHelper.AdjustPalette クラス. カラーパレット調整 class
+title: "クラス AdjustPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette クラス。カラーパレット調整クラス"
 type: docs
-weight: 5180
+weight: 5670
 url: /ja/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-カラーパレット調整 class
+カラーパレット調整クラス
 
 ```csharp
 public class AdjustPalette
@@ -18,11 +19,11 @@ public class AdjustPalette
 
 | 名前 | 説明 |
 | --- | --- |
-| [AdjustPalette](adjustpalette/)() | デフォルトのコンストラクター。 |
+| [AdjustPalette](adjustpalette/)() | デフォルトコンストラクタです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

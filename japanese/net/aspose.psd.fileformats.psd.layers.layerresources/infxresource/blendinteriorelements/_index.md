@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: Aspose.PSD for .NET API リファレンス
-description: InfxResource 財産. 内部要素をブレンドするかどうかを示す値を取得または設定します
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "InfxResource プロパティ。blend interior elements を示す値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-[内部要素をブレンド]するかどうかを示す値を取得または設定します。
+[blend interior elements] かどうかを示す値を取得または設定します。
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [インテリア要素をブレンド];さもないと、`間違い` .
+`true` は [blend interior elements] の場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [InfxResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

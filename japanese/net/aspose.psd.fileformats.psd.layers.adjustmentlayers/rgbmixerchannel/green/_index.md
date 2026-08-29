@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Green
-second_title: Aspose.PSD for .NET API リファレンス
-description: RgbMixerChannel 財産. 緑を取得または設定します
+title: "RgbMixerChannel.Green"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RgbMixerChannel プロパティ。緑を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Green property
 
-緑を取得または設定します。
+緑色を取得または設定します。
 
 ```csharp
 public short Green { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-緑.
+緑です。
 
 ### 関連項目
 
 * class [RgbMixerChannel](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

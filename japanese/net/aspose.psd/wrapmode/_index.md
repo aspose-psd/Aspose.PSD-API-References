@@ -1,14 +1,15 @@
 ---
-title: Enum WrapMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.WrapMode 列挙. テクスチャまたはグラデーションが塗りつぶされる領域よりも小さい場合にタイルを張る方法を指定します.
+title: "列挙体 WrapMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.WrapMode 列挙体。テクスチャまたはグラデーションが塗りつぶす領域より小さい場合のタイル配置方法を指定します。"
 type: docs
-weight: 5740
+weight: 6240
 url: /ja/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-テクスチャまたはグラデーションが塗りつぶされる領域よりも小さい場合にタイルを張る方法を指定します.
+テクスチャまたはグラデーションが塗りつぶし領域より小さい場合のタイル配置方法を指定します。
 
 ```csharp
 public enum WrapMode
@@ -16,17 +17,17 @@ public enum WrapMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Tile | `0` | グラデーションまたはテクスチャを並べて表示します。 |
-| TileFlipX | `1` | テクスチャまたはグラデーションを水平方向に反転し、テクスチャまたはグラデーションを並べて表示します。 |
-| TileFlipY | `2` | テクスチャまたはグラデーションを垂直方向に反転し、テクスチャまたはグラデーションを並べて表示します。 |
-| TileFlipXY | `3` | テクスチャまたはグラデーションを水平方向および垂直方向に反転し、テクスチャまたはグラデーションを並べて表示します。 |
-| Clamp | `4` | テクスチャまたはグラデーションがタイル化されていません。 |
+| Tile | `0` | グラデーションまたはテクスチャをタイル状に配置します。 |
+| TileFlipX | `1` | テクスチャまたはグラデーションを水平方向に反転し、次にタイル状に配置します。 |
+| TileFlipY | `2` | テクスチャまたはグラデーションを垂直方向に反転し、次にタイル状に配置します。 |
+| TileFlipXY | `3` | テクスチャまたはグラデーションを水平方向および垂直方向に反転し、次にタイル状に配置します。 |
+| Clamp | `4` | テクスチャまたはグラデーションはタイル状に配置されません。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

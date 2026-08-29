@@ -1,28 +1,29 @@
 ---
-title: VectorImage.SizeF
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorImage 財産. オブジェクトのサイズをインチで取得します.
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorImage プロパティ。オブジェクトのサイズ（インチ）を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
-オブジェクトのサイズをインチで取得します.
+オブジェクトのサイズをインチ単位で取得します。
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-インチ単位のオブジェクト サイズ。
+オブジェクトのサイズ（インチ）。
 
 ### 関連項目
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* 名前空間 [Aspose.PSD](../../vectorimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

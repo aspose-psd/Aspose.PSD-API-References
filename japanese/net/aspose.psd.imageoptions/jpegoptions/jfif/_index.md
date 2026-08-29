@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.Jfif
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegOptions 財産. jfif を取得または設定します
+title: "JpegOptions.Jfif"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegOptions プロパティ。jfif を取得または設定します"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd.imageoptions/jpegoptions/jfif/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Jfif property
 
 jfif を取得または設定します。
@@ -18,7 +19,7 @@ public JFIFData Jfif { get; set; }
 
 * class [JFIFData](../../../aspose.psd.fileformats.jpeg/jfifdata/)
 * class [JpegOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

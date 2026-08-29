@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetDirector
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. ディレクターを設定します
+title: "XmpDynamicMediaPackage.SetDirector"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。ディレクターを設定します"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirector/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirector method
 
-ディレクターを設定します。
+監督を設定します。
 
 ```csharp
 public void SetDirector(string director)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| director | String | ディレクター。 |
+| director | 文字列 | ディレクター。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

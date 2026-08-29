@@ -1,26 +1,27 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: BackgroundColorResource 財産. リソース データ サイズをバイト単位で取得します
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BackgroundColorResource プロパティ。リソース データサイズ（バイト）を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
-### 例
+## 例
 
-次の例は、BackgroundColorResource リソースのサポートを示しています。
+次の例は BackgroundColorResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BackgroundColorResource を更新します
+    // BackgroundColorResource を更新する
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
@@ -51,7 +52,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [BackgroundColorResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadRawData
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 生データを読み込みます
+title: "RasterImage.LoadRawData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。生データをロードします。"
 type: docs
-weight: 410
+weight: 420
 url: /ja/net/aspose.psd/rasterimage/loadrawdata/
 ---
+{{< psd/tize >}}
 ## LoadRawData(Rectangle, RawDataSettings, IPartialRawDataLoader) {#loadrawdata}
 
 生データを読み込みます。
@@ -15,10 +16,10 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
     IPartialRawDataLoader rawDataLoader)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 生データを読み込む四角形。 |
-| rawDataSettings | RawDataSettings | ロードされたデータに使用する生データ設定。データが指定された形式でない場合、データ変換が実行されることに注意してください。 |
+| 矩形 | Rectangle | 生データをロードする矩形。 |
+| rawDataSettings | RawDataSettings | ロードされたデータに使用する生データ設定です。指定された形式でないデータは変換が行われますのでご注意ください。 |
 | rawDataLoader | IPartialRawDataLoader | 生データローダー。 |
 
 ### 関連項目
@@ -27,8 +28,8 @@ public void LoadRawData(Rectangle rectangle, RawDataSettings rawDataSettings,
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,11 +42,11 @@ public void LoadRawData(Rectangle rectangle, Rectangle destImageBounds,
     RawDataSettings rawDataSettings, IPartialRawDataLoader rawDataLoader)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 生データを読み込む四角形。 |
-| destImageBounds | Rectangle | dest イメージの境界。 |
-| rawDataSettings | RawDataSettings | ロードされたデータに使用する生データ設定。データが指定された形式でない場合、データ変換が実行されることに注意してください。 |
+| 矩形 | Rectangle | 生データをロードする矩形。 |
+| destImageBounds | Rectangle | 対象画像の境界。 |
+| rawDataSettings | RawDataSettings | ロードされたデータに使用する生データ設定です。指定された形式でないデータは変換が行われますのでご注意ください。 |
 | rawDataLoader | IPartialRawDataLoader | 生データローダー。 |
 
 ### 関連項目
@@ -54,7 +55,7 @@ public void LoadRawData(Rectangle rectangle, Rectangle destImageBounds,
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

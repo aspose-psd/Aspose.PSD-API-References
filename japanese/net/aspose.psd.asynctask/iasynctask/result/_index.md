@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTask 財産. このタスクの結果を取得します
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTask プロパティ。このタスクの結果を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 このタスクの結果を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.asynctask/iasynctask/result/
 public object Result { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-このタスクの結果。
+このタスクの結果です。
 
 ### 関連項目
 
 * interface [IAsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

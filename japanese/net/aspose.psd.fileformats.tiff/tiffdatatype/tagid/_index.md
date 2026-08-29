@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffDataType 財産. タグ ID を取得します
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffDataType プロパティ。タグ ID を取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
 タグ ID を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 public TiffTags TagId { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タグ ID.
+タグ ID です。
 
 ### 関連項目
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

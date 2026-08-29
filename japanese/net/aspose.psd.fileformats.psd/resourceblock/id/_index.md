@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.ID
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceBlock 財産. リソースの一意の識別子を取得または設定します
+title: "ResourceBlock.ID"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceBlock プロパティ。リソースの一意の識別子を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd/resourceblock/id/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ID property
 
-リソースの一意の識別子を取得または設定します。
+リソースの一意識別子を取得または設定します。
 
 ```csharp
 public short ID { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースの一意の識別子。
+リソースの一意の識別子です。
 
 ### 関連項目
 
 * class [ResourceBlock](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

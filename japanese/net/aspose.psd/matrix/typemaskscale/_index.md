@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 分野. この定数は任意のスケール フラグ ビットのビット マスクです
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix フィールド。この定数はスケールフラグビットのいずれかのビットマスクです。"
 type: docs
 weight: 260
 url: /ja/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-この定数は、任意のスケール フラグ ビットのビット マスクです。
+この定数は、スケールフラグビットのいずれかに対するビットマスクです。
 
 ```csharp
 public const int TypeMaskScale;
@@ -17,7 +18,7 @@ public const int TypeMaskScale;
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

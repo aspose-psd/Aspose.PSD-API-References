@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: IObjectWithBounds 財産. オブジェクトのサイズを取得します
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IObjectWithBounds プロパティ。オブジェクトのサイズを取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-オブジェクトのサイズを取得します。
+オブジェクトの幅を取得します。
 
 ```csharp
 public Size Size { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-オブジェクトのサイズ。
+オブジェクトのサイズです。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* 名前空間 [Aspose.PSD](../../iobjectwithbounds/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

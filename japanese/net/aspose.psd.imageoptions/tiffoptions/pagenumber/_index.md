@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. ページ番号タグを取得または設定します
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。ページ番号タグを取得または設定します。"
 type: docs
-weight: 300
+weight: 310
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
 ページ番号タグを取得または設定します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 public ushort[] PageNumber { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ページ番号タグ.
+ページ番号タグです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 価値 |
-| ArgumentOutOfRangeException | 値; 配列には 2 つの値が必要です: PageNumber[0] はページ番号、PageNumber[1] はドキュメント内の総ページ数です。 |
+| ArgumentNullException | 値 |
+| ArgumentOutOfRangeException | value;配列には 2 つの値が必要です: PageNumber[0] はページ番号で、PageNumber[1] はドキュメント内の総ページ数です。 |
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum XmpArrayType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.XmpArrayType 列挙. の配列タイプを表しますXmpArray .
+title: "列挙型 XmpArrayType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.XmpArrayType 列挙型。XmpArray の配列タイプを表します"
 type: docs
-weight: 6230
+weight: 6730
 url: /ja/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-の配列タイプを表します[`XmpArray`](../xmparray/) .
+[`XmpArray`](../xmparray/) の配列タイプを表します。
 
 ```csharp
 public enum XmpArrayType
@@ -16,15 +17,15 @@ public enum XmpArrayType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| UNORDERED | `0` | 順不同の配列。 |
-| ORDERED | `1` | 順序付けられた配列。 |
-| ALTERNATIVE | `2` | 代替配列. |
+| UNORDERED | `0` | 順序なし配列です。 |
+| ORDERED | `1` | 順序付き配列です。 |
+| ALTERNATIVE | `2` | 代替配列です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

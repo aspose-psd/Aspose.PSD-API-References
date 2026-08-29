@@ -1,14 +1,15 @@
 ---
-title: ListStructure.ItemsCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: ListStructure 財産. アイテム数を取得します
+title: "ListStructure.ItemsCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ListStructure プロパティ。項目数を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/
 ---
+{{< psd/tize >}}
 ## ListStructure.ItemsCount property
 
-アイテム数を取得します。
+項目数を取得します。
 
 ```csharp
 public int ItemsCount { get; }
@@ -17,7 +18,7 @@ public int ItemsCount { get; }
 ### 関連項目
 
 * class [ListStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

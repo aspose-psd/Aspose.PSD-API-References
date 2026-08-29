@@ -1,14 +1,15 @@
 ---
-title: Class DataStreamSupporter
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.DataStreamSupporter クラス. データ ストリーム コンテナー
+title: "クラス DataStreamSupporter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.DataStreamSupporter クラス。データ ストリーム コンテナ"
 type: docs
-weight: 740
+weight: 750
 url: /ja/net/aspose.psd/datastreamsupporter/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter class
 
-データ ストリーム コンテナー。
+データストリームコンテナ。
 
 ```csharp
 public abstract class DataStreamSupporter : DisposableObject
@@ -18,25 +19,25 @@ public abstract class DataStreamSupporter : DisposableObject
 
 | 名前 | 説明 |
 | --- | --- |
-| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | オブジェクトのデータ ストリームを取得します。 |
+| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | オブジェクトのデータストリームを取得します。 |
 | [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | このインスタンスが破棄されているかどうかを示す値を取得します。 |
-| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | オブジェクトのデータが現在キャッシュされており、データの読み取りが不要かどうかを示す値を取得します。 |
+| abstract [IsCached](../../aspose.psd/datastreamsupporter/iscached/) { get; } | オブジェクトのデータが現在キャッシュされており、データ読み取りが不要であるかどうかを示す値を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | データをキャッシュし、基盤から追加のデータ読み込みが実行されないようにします[`DataStreamContainer`](./datastreamcontainer/) . |
+| abstract [CacheData](../../aspose.psd/datastreamsupporter/cachedata/)() | データをキャッシュし、基礎となる [`DataStreamContainer`](./datastreamcontainer/) から追加のデータ読み込みが行われないことを保証します。 |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | 現在のインスタンスを破棄します。 |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | オブジェクトのデータを現在の`DataStreamSupporter` . |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save)() | オブジェクトのデータを現在の `DataStreamSupporter` に保存します。 |
 | virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_1)(Stream) | オブジェクトのデータを指定されたストリームに保存します。 |
-| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | オブジェクトのデータを指定されたファイルの場所に保存します。 |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | オブジェクトのデータを指定されたファイルの場所に保存します。 |
+| [Save](../../aspose.psd/datastreamsupporter/save/#save_2)(string) | オブジェクトのデータを指定されたファイル位置に保存します。 |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/#save_3)(string, bool) | オブジェクトのデータを指定されたファイル位置に保存します。 |
 
 ### 関連項目
 
 * class [DisposableObject](../disposableobject/)
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

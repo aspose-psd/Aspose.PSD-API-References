@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: Aspose.PSD for .NET API リファレンス
-description: AddNoiseSmartFilter 財産. 単色の値を取得または設定します
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AddNoiseSmartFilter プロパティ。モノクロマティックの値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
 単色の値を取得または設定します。
@@ -17,7 +18,7 @@ public bool IsMonochromatic { get; set; }
 ### 関連項目
 
 * class [AddNoiseSmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

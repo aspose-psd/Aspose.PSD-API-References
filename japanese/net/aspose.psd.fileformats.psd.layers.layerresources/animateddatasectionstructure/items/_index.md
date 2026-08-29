@@ -1,20 +1,21 @@
 ---
-title: AnimatedDataSectionStructure.Items
-second_title: Aspose.PSD for .NET API リファレンス
-description: AnimatedDataSectionStructure 財産. アニメーション データ セクション構造を取得または設定します
+title: "AnimatedDataSectionStructure.Items"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AnimatedDataSectionStructure プロパティ。アニメーションデータセクション構造体を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Items property
 
-アニメーション データ セクション構造を取得または設定します。
+アニメーションデータ セクション構造体を取得または設定します。
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### 例
+## 例
 
 次のコードは、アニメーション データのタイムライン フレームで遅延時間を設定/更新する方法を示しています。
 
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1 秒に等しい値 100 センチ秒のフレーム遅延レコードを作成します。
+            // 1 秒に相当する 100 センチ秒のフレーム遅延レコードを作成します。
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 時間をセンチ秒単位で設定します。
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [AnimatedDataSectionStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

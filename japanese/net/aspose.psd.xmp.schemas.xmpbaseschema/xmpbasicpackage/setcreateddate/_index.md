@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 方法. リソースの作成日を追加します
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage メソッド。リソースの作成日を追加します"
 type: docs
-weight: 30
+weight: 50
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
-リソースの作成日を追加します。
+リソース作成日を追加します。
 
 ```csharp
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | createdDate | DateTime | 作成日。 |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetCreatedDate(string) {#setcreateddate_1}
 
-リソースの作成日を追加します。
+リソース作成日を追加します。
 
 ```csharp
 public void SetCreatedDate(string createdDate)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| createdDate | String | 作成日。 |
+| createdDate | 文字列 | 作成日。 |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleRate
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. オーディオ サンプル レートを設定します
+title: "XmpDynamicMediaPackage.SetAudioSampleRate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。オーディオ サンプルレートを設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosamplerate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleRate method
 
-オーディオ サンプル レートを設定します。
+オーディオサンプルレートを設定します。
 
 ```csharp
 public void SetAudioSampleRate(int rate)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rate | Int32 | オーディオのサンプルレート。 |
+| レート | Int32 | オーディオ サンプルレートです。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

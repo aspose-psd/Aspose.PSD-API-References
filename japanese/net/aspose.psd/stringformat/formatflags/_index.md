@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. を取得または設定しますStringFormatFlagsフォーマット情報を含む列挙.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。書式情報を含む StringFormatFlags 列挙体を取得または設定します。"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-を取得または設定します[`StringFormatFlags`](../../stringformatflags/)フォーマット情報を含む列挙.
+[`StringFormatFlags`](../../stringformatflags/) 列挙体を取得または設定します。書式情報を含みます。
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ[`StringFormatFlags`](../../stringformatflags/)書式設定情報を含む列挙。
+[`StringFormatFlags`](../../stringformatflags/) 列挙体で、書式情報を含みます。
 
 ### 関連項目
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: HatchBrush 財産. ハッチ線の間のスペースの色を取得または設定します
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "HatchBrush プロパティ。ハッチ線間のスペースの色を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-ハッチ線の間のスペースの色を取得または設定します。
+ハッチ線間のスペースの色を取得または設定します。
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ハッチ線の間のスペースの色。
+ハッチ線間のスペースの色です。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../hatchbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

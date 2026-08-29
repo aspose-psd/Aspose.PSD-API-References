@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. 線の始点から破線パターンの始点までの距離を取得または設定します
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 線の開始点からダッシュパターンの開始点までの距離を取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-線の始点から破線パターンの始点までの距離を取得または設定します。
+線の開始点からダッシュパターンの開始までの距離を取得または設定します。
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-線の始点から破線パターンの始点までの距離。
+線の開始点からダッシュパターンの開始点までの距離。
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

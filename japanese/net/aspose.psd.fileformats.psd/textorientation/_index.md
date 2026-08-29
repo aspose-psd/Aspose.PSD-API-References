@@ -1,14 +1,15 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.TextOrientation 列挙. テキスト方向モードの列挙
+title: "Enum TextOrientation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.TextOrientation enum. テキスト方向モードの列挙体"
 type: docs
-weight: 4010
+weight: 4480
 url: /ja/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-テキスト方向モードの列挙。
+テキスト方向モードの列挙体です。
 
 ```csharp
 public enum TextOrientation
@@ -16,14 +17,14 @@ public enum TextOrientation
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Horizontal | `0` | テキストの水平方向。 |
-| Vertical | `2` | テキストの縦方向。 |
+| Horizontal | `0` | 水平テキスト方向。 |
+| Vertical | `2` | 垂直テキスト方向。 |
 
-### 例
+## 例
 
-次のコードは、新しい TextOrientation プロパティを編集する機能を示しています。これは現時点ではレンダリングには影響しませんが、プロパティ値の編集のみ可能です。
+以下のコードは、新しい TextOrientation プロパティを編集できることを示しています。これは現在のレンダリングには影響せず、プロパティ値を編集できるだけです。
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // 正しい読み方
+        // 正しい読み取り
     }
     else
     {
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // 正しい読み方
+        // 正しい読み取り
     }
     else
     {
@@ -65,7 +66,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

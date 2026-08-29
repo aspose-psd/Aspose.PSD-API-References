@@ -1,49 +1,50 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffStreamWriter 方法. 指定したデータを書き込みます
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffStreamWriter メソッド。指定されたデータを書き込みます。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
-指定したデータを書き込みます。
+指定されたデータを書き込みます。
 
 ```csharp
 public void Write(byte[] data, int offset, int dataLength)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 書き込むデータ。 |
-| offset | Int32 | データオフセット。 |
-| dataLength | Int32 | ライターへのデータの長さ。 |
+| データ | Byte[] | 書き込むデータ。 |
+| offset | Int32 | データのオフセット。 |
+| dataLength | Int32 | 書き込むデータの長さ。 |
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[]) {#write}
 
-指定したデータを書き込みます。
+指定されたデータを書き込みます。
 
 ```csharp
 public void Write(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 書き込むデータ。 |
+| データ | Byte[] | 書き込むデータ。 |
 
 ### 関連項目
 
 * class [TiffStreamWriter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

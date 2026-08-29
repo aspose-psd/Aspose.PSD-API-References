@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.SheetMask
-second_title: Aspose.PSD for .NET API リファレンス
-description: FilterEffectMaskData 財産. シート マスクを取得します
+title: "FilterEffectMaskData.SheetMask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FilterEffectMaskData プロパティ。シートマスクを取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/sheetmask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SheetMask property
 
-シート マスクを取得します。
+シートマスクを取得します。
 
 ```csharp
 public ChannelInformation SheetMask { get; }
@@ -18,7 +19,7 @@ public ChannelInformation SheetMask { get; }
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class XmpMimeType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType クラス. MIME タイプを表します
+title: "クラス XmpMimeType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpMimeType クラス。MIME タイプを表します。"
 type: docs
-weight: 6180
+weight: 6680
 url: /ja/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
 MIME タイプを表します。
@@ -18,7 +19,7 @@ public sealed class XmpMimeType : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | の新しいインスタンスを初期化します`XmpMimeType`class. |
+| [XmpMimeType](xmpmimetype/)(string) | `XmpMimeType` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,16 +31,16 @@ public sealed class XmpMimeType : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
-### 備考
+## 備考
 
-IETF RFC 2046 で定義されている MIME タイプ。
+IETF RFC 2046 で定義された MIME タイプです。
 
 ### 関連項目
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

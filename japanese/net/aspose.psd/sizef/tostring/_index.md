@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: SizeF 方法. これを表す人間が読める文字列を作成しますSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SizeF メソッド。 この SizeF を表す人間が読みやすい文字列を作成します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-これを表す人間が読める文字列を作成します[`SizeF`](../) .
+この [`SizeF`](../) を表す人間が読みやすい文字列を作成します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-これを表す文字列[`SizeF`](../).
+この [`SizeF`](../) を表す文字列です。
 
 ### 関連項目
 
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

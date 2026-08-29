@@ -1,14 +1,15 @@
 ---
-title: Enum TextRenderingHint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.TextRenderingHint 列挙. テキスト レンダリングの品質を指定します
+title: "列挙体 TextRenderingHint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.TextRenderingHint 列挙体。テキストレンダリングの品質を指定します。"
 type: docs
-weight: 5700
+weight: 6200
 url: /ja/net/aspose.psd/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## TextRenderingHint enumeration
 
-テキスト レンダリングの品質を指定します。
+テキストレンダリングの品質を指定します。
 
 ```csharp
 public enum TextRenderingHint
@@ -16,18 +17,18 @@ public enum TextRenderingHint
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| SystemDefault | `0` | 各文字は、システムのデフォルトのレンダリング ヒントを使用してグリフ ビットマップを使用して描画されます。テキストは、ユーザーがシステムに対して選択したフォント スムージング設定を使用して描画されます. |
-| SingleBitPerPixelGridFit | `1` | 各文字はグリフ ビットマップを使用して描画されます。ヒンティングは、ステムと曲率の文字の外観を改善するために使用されます. |
-| SingleBitPerPixel | `2` | 各文字はグリフ ビットマップを使用して描画されます。ヒンティングは使用されません. |
-| AntiAliasGridFit | `3` | 各文字は、アンチエイリアス処理されたグリフ ビットマップとヒントを使用して描画されます。アンチエイリアシングにより品質が大幅に向上しますが、パフォーマンス コストが高くなります. |
-| AntiAlias | `4` | 各文字は、ヒントなしでアンチエイリアス処理されたグリフ ビットマップを使用して描画されます。アンチエイリアシングによるより良い品質。ヒンティングがオフになっているため、ステム幅の違いが目立つ場合があります。 |
-| ClearTypeGridFit | `5` | 各文字は、ヒント付きのグリフ ClearType ビットマップを使用して描画されます。最高品質の設定。 ClearType フォント機能を利用するために使用されます。 |
+| SystemDefault | `0` | 各文字はそのグリフビットマップを使用して描画され、システム既定のレンダリングヒントが適用されます。テキストは、ユーザーがシステムで選択したフォントスムージング設定に従って描画されます。 |
+| SingleBitPerPixelGridFit | `1` | 各文字はそのグリフビットマップを使用して描画されます。ヒンティングは、ステムや曲線上の文字の外観を向上させるために使用されます。 |
+| SingleBitPerPixel | `2` | 各文字はそのグリフビットマップを使用して描画されます。ヒンティングは使用されません。 |
+| AntiAliasGridFit | `3` | 各文字はヒンティング付きのアンチエイリアスされたグリフビットマップを使用して描画されます。アンチエイリアスにより品質は大幅に向上しますが、パフォーマンスコストが高くなります。 |
+| AntiAlias | `4` | 各文字はヒンティングなしのアンチエイリアスされたグリフビットマップを使用して描画されます。アンチエイリアスにより品質が向上しますが、ヒンティングがオフのためステム幅の違いが目立つことがあります。 |
+| ClearTypeGridFit | `5` | 各文字はヒンティング付きの ClearType グリフビットマップを使用して描画されます。最高品質の設定です。ClearType フォント機能を活用するために使用されます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

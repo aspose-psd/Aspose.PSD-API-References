@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.Data
-second_title: Aspose.PSD for .NET API リファレンス
-description: Txt2Resource 財産. データを取得または設定します
+title: "Txt2Resource.Data"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Txt2Resource プロパティ。データを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Data property
 
 データを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 public byte[] Data { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-データ.
+データです。
 
 ### 関連項目
 
 * class [Txt2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

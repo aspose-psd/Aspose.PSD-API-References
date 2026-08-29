@@ -1,14 +1,15 @@
 ---
-title: Lr16Resource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: Lr16Resource 分野. タイプ ツール情報キー
+title: "Lr16Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Lr16Resource フィールド。タイプツール情報キーです"
 type: docs
-weight: 80
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [Lr16Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

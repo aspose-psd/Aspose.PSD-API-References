@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: Aspose.PSD for .NET API リファレンス
-description: MultiPageOptions 財産. 出力レイヤー名を取得または設定します エクスポート形式が Psd などのレイヤー命名をサポートしている場合に機能します
+title: "MultiPageOptions.OutputLayersNames"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MultiPageOptions プロパティ。出力レイヤー名を取得または設定します。エクスポート形式がレイヤー命名をサポートしている場合に機能します（例：Psd）。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.OutputLayersNames property
 
-出力レイヤー名を取得または設定します (エクスポート形式が Psd などのレイヤー命名をサポートしている場合に機能します)
+出力レイヤー名を取得または設定します（エクスポート形式がレイヤー命名をサポートしている場合に機能します。例: Psd）。
 
 ```csharp
 public string[] OutputLayersNames { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-出力レイヤー名.
+出力レイヤー名です。
 
 ### 関連項目
 
 * class [MultiPageOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

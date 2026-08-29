@@ -1,14 +1,15 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo クラス. このクラスは画像のロード/保存/エクスポート操作の進行状況に関する情報を表します. 外部アプリケーションで使用して変換の進行状況をエンド ユーザーに表示できます
+title: "クラス ProgressEventHandlerInfo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo クラス。このクラスは、画像のロード/保存/エクスポート操作の進行状況に関する情報を表し、外部アプリケーションで変換進行状況をエンドユーザーに表示するために使用できます。"
 type: docs
-weight: 5300
+weight: 5800
 url: /ja/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-このクラスは、画像のロード/保存/エクスポート操作の進行状況に関する情報を表します. 外部アプリケーションで使用して、変換の進行状況をエンド ユーザーに表示できます
+このクラスは、画像の読み込み/保存/エクスポート操作の進行状況に関する情報を表し、外部アプリケーションで変換の進行状況をエンドユーザーに表示するために使用できます
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -20,12 +21,12 @@ public class ProgressEventHandlerInfo
 | --- | --- |
 | [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | イベントの説明を取得します |
 | [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | イベントのタイプを取得します。 |
-| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 進捗値の上限を取得します。 |
-| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | 現在の進捗値を取得します。 |
+| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 上限の進行値を取得します。 |
+| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | 現在の進行値を取得します。 |
 
-### 例
+## 例
 
-次の例は、ドキュメント変換の進行状況が例外なく正しく機能することを示しています。
+次の例は、ドキュメント変換の進行状況が正しく例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

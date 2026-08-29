@@ -1,14 +1,15 @@
 ---
-title: ClipboardRecord.ClipboardRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClipboardRecord コンストラクタ. の新しいインスタンスを初期化しますClipboardRecordclass.
+title: "ClipboardRecord.ClipboardRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClipboardRecord コンストラクタ。ClipboardRecord クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord() {#constructor}
 
-の新しいインスタンスを初期化します[`ClipboardRecord`](../)class.
+[`ClipboardRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClipboardRecord()
@@ -17,27 +18,27 @@ public ClipboardRecord()
 ### 関連項目
 
 * class [ClipboardRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClipboardRecord(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ClipboardRecord`](../)class.
+[`ClipboardRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ClipboardRecord(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 記録データです。 |
+| データ | Byte[] | レコードデータです。 |
 
 ### 関連項目
 
 * class [ClipboardRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageAttributes 方法. このブラシ カラー リマップ テーブルをクリアしますImageAttributesobject.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageAttributes メソッド。この ImageAttributes オブジェクトのブラシカラーリマップテーブルをクリアします。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-このブラシ カラー リマップ テーブルをクリアします[`ImageAttributes`](../)object.
+この [`ImageAttributes`](../) オブジェクトのブラシカラーリマップテーブルをクリアします。
 
 ```csharp
 public void ClearBrushRemapTable()
@@ -17,7 +18,7 @@ public void ClearBrushRemapTable()
 ### 関連項目
 
 * class [ImageAttributes](../)
-* 名前空間 [Aspose.PSD](../../imageattributes/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. 絶対ピーク オーディオ ファイル パスを設定します
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。絶対ピーク音声ファイルパスを設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-絶対ピーク オーディオ ファイル パスを設定します。
+絶対ピーク音声ファイルパスを設定します。
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| uri | String | ファイルのピーク オーディオ ファイルへの絶対パス。 |
+| uri | 文字列 | ファイルのピーク音声ファイルへの絶対パスです。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

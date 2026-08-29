@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBalanceAdjustmentLayer 財産. ハイライト マゼンタ グリーン バランスを取得または設定します
+title: "ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBalanceAdjustmentLayer プロパティ。Highlights Magenta Green バランスを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsMagentaGreenBalance property
 
-ハイライト マゼンタ グリーン バランスを取得または設定します。
+Highlights Magenta Green Balance の値を取得または設定します。
 
 ```csharp
 public short HighlightsMagentaGreenBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ハイライト マゼンタ グリーン バランス.
+Highlights Magenta Green バランスです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | ハイライト マゼンタ グリーン バランスは -100 から +100 の範囲内でなければなりません. |
+| ArgumentOutOfRangeException | Highlights Magenta Green バランスは -100 から +100 の範囲でなければなりません。 |
 
-### 例
+## 例
 
-次のコードは、ColorBalanceAdjustmentLayer のサポートを示しています。
+以下のコードは ColorBalanceAdjustmentLayer のサポートを示しています。
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### 関連項目
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

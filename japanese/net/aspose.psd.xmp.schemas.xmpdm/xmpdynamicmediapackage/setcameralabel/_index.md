@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraLabel
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. カメラのラベルを設定します
+title: "XmpDynamicMediaPackage.SetCameraLabel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。カメラ ラベルを設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameralabel/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraLabel method
 
-カメラのラベルを設定します。
+カメララベルを設定します。
 
 ```csharp
 public void SetCameraLabel(string cameraLabel)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| cameraLabel | String | カメラのラベル。 |
+| cameraLabel | 文字列 | カメラ ラベルです。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

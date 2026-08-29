@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceEvent 財産. ソフトウェア エージェント名を取得または設定します
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceEvent プロパティ。ソフトウェアエージェント名を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
-ソフトウェア エージェント名を取得または設定します。
+ソフトウェアエージェント名を取得または設定します。
 
 ```csharp
 public string SofwareAgentName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ソフトウェア エージェント名.
+ソフトウェアエージェント名です。
 
 ### 関連項目
 
 * class [ResourceEvent](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolStyleInfo 財産. カーニング値を取得または設定します
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolStyleInfo プロパティ。カーニング値を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
 カーニング値を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public int KerningValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カーニング値.
+カーニング値です。
 
 ### 関連項目
 
 * class [TypeToolStyleInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

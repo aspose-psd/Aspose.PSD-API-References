@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporter
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IImageExporter インターフェース. 画像エクスポーター内部 Aspose.PSD フォーマットから指定されたデータ フォーマットにデータをエクスポートできます
+title: "インターフェイス IImageExporter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IImageExporter インターフェイス。画像エクスポーター。内部の Aspose.PSD フォーマットから指定されたデータフォーマットへデータをエクスポートできます。"
 type: docs
-weight: 4430
+weight: 4900
 url: /ja/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
-画像エクスポーター。内部 Aspose.PSD フォーマットから指定されたデータ フォーマットにデータをエクスポートできます。
+画像エクスポーターです。内部の Aspose.PSD フォーマットから指定されたデータ形式へデータをエクスポートできます。
 
 ```csharp
 public interface IImageExporter
@@ -18,12 +19,12 @@ public interface IImageExporter
 
 | 名前 | 説明 |
 | --- | --- |
-| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | 指定された画像データを指定されたデータ形式にエクスポートします。 |
-| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | 指定された画像データを指定されたデータ形式にエクスポートします。 |
+| [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | 指定された画像データを指定されたデータフォーマットにエクスポートします。 |
+| [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | 指定された画像データを指定されたデータフォーマットにエクスポートします。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

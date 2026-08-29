@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo クラス. タイプ ツール ライン情報.
+title: "クラス TypeToolLineInfo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo クラス。タイプツールライン情報です。"
 type: docs
-weight: 3310
+weight: 3700
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-タイプ ツール ライン情報.
+タイプツールのライン情報。
 
 ```csharp
 public class TypeToolLineInfo
@@ -18,23 +19,23 @@ public class TypeToolLineInfo
 
 | 名前 | 説明 |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | デフォルトのコンストラクター。 |
+| [TypeToolLineInfo](typetoollineinfo/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | char. を取得または設定します |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | 文字を取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | は`TypeToolLineInfo`指定されたストリーム コンテナーへの情報。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | 指定されたストリームコンテナに `TypeToolLineInfo` 情報を保存します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

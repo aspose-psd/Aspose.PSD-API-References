@@ -1,28 +1,29 @@
 ---
-title: PieShape.Segments
-second_title: Aspose.PSD for .NET API リファレンス
-description: PieShape 財産. 形状セグメントを取得します
+title: "PieShape.Segments"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PieShape プロパティ。シェイプのセグメントを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
-形状セグメントを取得します。
+シェイプのセグメントを取得します。
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプ セグメント。
+シェイプのセグメントです。
 
 ### 関連項目
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../pieshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

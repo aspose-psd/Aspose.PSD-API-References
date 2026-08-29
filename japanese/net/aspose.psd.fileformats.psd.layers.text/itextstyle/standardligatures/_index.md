@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD for .NET API リファレンス
-description: ITextStyle 財産. 文字同士を接続するために使用される標準的な文脈上の合字.
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ITextStyle プロパティ。文字を結合するために使用される標準的な文脈リガチャ。"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-文字同士を接続するために使用される標準的な文脈上の合字.
+文字を結合するために使用される標準の文脈依存リガチャです。
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### 例
+## 例
 
-次のコードは、新しい ITextStyle プロパティのサポートのサポートを示しています。
+次のコードは、新しい ITextStyle プロパティのサポートを示します。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// 値をチェック
+// 値を確認する
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### 関連項目
 
 * interface [ITextStyle](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

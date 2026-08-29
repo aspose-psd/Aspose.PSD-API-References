@@ -1,31 +1,32 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. を取得または設定しますString指定されたプロパティ名で.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。指定されたプロパティ名を持つ文字列を取得または設定します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-を取得または設定しますString指定されたプロパティ名で.
+指定されたプロパティ名を持つ文字列を取得または設定します。
 
 ```csharp
 public string this[string propertyName] { get; set; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| propertyName | プロパティの名前。 |
+| propertyName | プロパティの名前です。 |
 
-### プロパティ値
+### Property Value
 
-String .
+文字列です。
 
 ### 関連項目
 
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

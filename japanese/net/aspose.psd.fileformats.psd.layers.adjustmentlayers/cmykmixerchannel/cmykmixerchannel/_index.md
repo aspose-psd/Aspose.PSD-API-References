@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykMixerChannel コンストラクタ. の新しいインスタンスを初期化しますCmykMixerChannelclass.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykMixerChannel コンストラクタ。CmykMixerChannel クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-の新しいインスタンスを初期化します[`CmykMixerChannel`](../)class.
+`[`CmykMixerChannel`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CmykMixerChannel(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソースのデータ。 |
+| データ | Byte[] | そのリソースのデータです。 |
 
 ### 関連項目
 
 * class [CmykMixerChannel](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

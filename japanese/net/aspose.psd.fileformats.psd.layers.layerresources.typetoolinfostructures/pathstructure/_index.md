@@ -1,14 +1,15 @@
 ---
-title: Class PathStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PathStructure クラス. パス構造
+title: "PathStructure クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.PathStructure クラス。パス構造です。"
 type: docs
-weight: 3220
+weight: 3610
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure class
 
-パス構造。
+パス構造です。
 
 ```csharp
 public sealed class PathStructure : OSTypeStructure
@@ -18,7 +19,7 @@ public sealed class PathStructure : OSTypeStructure
 
 | 名前 | 説明 |
 | --- | --- |
-| [PathStructure](pathstructure/)(ClassID) | の新しいインスタンスを初期化します`PathStructure`class. |
+| [PathStructure](pathstructure/)(ClassID) | `PathStructure` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -26,27 +27,27 @@ public sealed class PathStructure : OSTypeStructure
 | --- | --- |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key/) { get; } | 構造キーを取得します。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | キー名を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/) { get; } | を取得します[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)バイト単位の長さ. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/) { get; } | バイト単位で[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) の長さを取得します。 |
 | [Path](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/) { get; set; } | パスを取得または設定します。 |
-| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/) { get; set; } | パスのプレフィックスを取得または設定します。 |
+| [Prefix](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/) { get; set; } | パスプレフィックスを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダー長を取得します。 |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダーの長さを取得します。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/) | 構造キーを識別します。 |
 
-### 例
+## 例
 
-次のコードは、PathStructure 構造を持つファイルをロードする機能を示しています。
+次のコードは PathStructure 構造を使用してファイルをロードする機能を示しています。
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### 関連項目
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

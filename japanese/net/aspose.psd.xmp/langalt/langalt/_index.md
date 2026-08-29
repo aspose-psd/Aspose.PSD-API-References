@@ -1,34 +1,35 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD for .NET API リファレンス
-description: LangAlt コンストラクタ. の新しいインスタンスを初期化しますLangAltclass.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LangAlt コンストラクタ。LangAlt クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LangAlt`](../)class.
+[`LangAlt`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| defaultValue | String | デフォルト値。 |
+| defaultValue | 文字列 | 既定の値。 |
 
 ### 関連項目
 
 * class [LangAlt](../)
-* 名前空間 [Aspose.PSD.Xmp](../../langalt/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-の新しいインスタンスを初期化します[`LangAlt`](../)class.
+[`LangAlt`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LangAlt()
@@ -37,7 +38,7 @@ public LangAlt()
 ### 関連項目
 
 * class [LangAlt](../)
-* 名前空間 [Aspose.PSD.Xmp](../../langalt/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

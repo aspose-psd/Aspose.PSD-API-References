@@ -1,14 +1,15 @@
 ---
-title: Enum PositioningTypes
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageOptions.PositioningTypes 列挙. グラフィックス シーンの配置とサイズの種類.
+title: "列挙型 PositioningTypes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageOptions.PositioningTypes 列挙型。グラフィックスシーンの位置付けとサイズのタイプです。"
 type: docs
-weight: 4890
+weight: 5380
 url: /ja/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
-グラフィックス シーンの配置とサイズの種類.
+グラフィックシーンの配置とサイズのタイプです。
 
 ```csharp
 public enum PositioningTypes
@@ -16,15 +17,15 @@ public enum PositioningTypes
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| DefinedByDocument | `0` | ドキュメント ページ設定によって定義されるページ上の絶対位置。 |
-| DefinedByOptions | `1` | オプション ページ設定で定義されるページ上の絶対配置。 |
-| Relative | `2` | 相対的な位置とサイズ。すべてのグラフィック オブジェクトの境界によって決定されます。 |
+| DefinedByDocument | `0` | ドキュメントページ設定で定義されたページ上の絶対位置付けです。 |
+| DefinedByOptions | `1` | オプションページ設定で定義されたページ上の絶対位置です。 |
+| Relative | `2` | 相対的な位置とサイズです。すべてのグラフィックオブジェクトの境界によって決定されます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

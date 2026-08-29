@@ -1,14 +1,15 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution 列挙. ノイズフィルターの分布.
+title: "列挙型 NoiseDistribution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. ノイズフィルタの分布"
 type: docs
-weight: 3440
+weight: 3850
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
-ノイズフィルターの分布.
+ノイズフィルターの分布です。
 
 ```csharp
 public enum NoiseDistribution
@@ -16,14 +17,14 @@ public enum NoiseDistribution
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Uniform | `0` | 一様なノイズ分布. |
-| Gaussian | `1` | ガウス ノイズ分布。 |
+| Uniform | `0` | 一様ノイズ分布。 |
+| Gaussian | `1` | ガウスノイズ分布。 |
 
-### 例
+## 例
 
-この例は、スマート フィルター インターフェイスのサポートを示しています。
+この例はスマートフィルタインターフェイスのサポートを示しています。
 
 ```csharp
 [C#]
@@ -43,16 +44,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // スマート フィルターを編集します
+    // スマートフィルタを編集
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // フィルタ値をチェック
+    // フィルタ値を確認
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // フィルター値を更新します
+    // フィルタ値を更新
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // フィルタ値をチェック
+    // フィルタ値を確認
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -95,7 +96,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

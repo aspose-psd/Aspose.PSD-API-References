@@ -1,14 +1,15 @@
 ---
-title: Interface IImageLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IImageLoader インターフェース. 画像ローダー.
+title: "インターフェイス IImageLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IImageLoader インターフェイス。画像ローダー"
 type: docs
-weight: 4450
+weight: 4920
 url: /ja/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-画像ローダー.
+画像ローダー。
 
 ```csharp
 public interface IImageLoader
@@ -18,11 +19,11 @@ public interface IImageLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | で新しい画像を開きます*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | *loadOptions* を使用して新しい画像を開きます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

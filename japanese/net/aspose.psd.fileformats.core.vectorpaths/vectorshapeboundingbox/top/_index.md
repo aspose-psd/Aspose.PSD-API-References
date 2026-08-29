@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeBoundingBox 財産. 上部を取得または設定します
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeBoundingBox プロパティ。上端を取得または設定します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-上部を取得または設定します。
+上側を取得または設定します。
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-トップ.
+上端です。
 
 ### 関連項目
 
 * class [VectorShapeBoundingBox](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

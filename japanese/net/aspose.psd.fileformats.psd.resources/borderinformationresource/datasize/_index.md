@@ -1,26 +1,27 @@
 ---
-title: BorderInformationResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: BorderInformationResource 財産. リソース データ サイズをバイト単位で取得します
+title: "BorderInformationResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BorderInformationResource プロパティ。リソース データ サイズ（バイト）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
-### 例
+## 例
 
-次の例は、BorderInformationResource リソースのサポートを示しています。
+次の例は BorderInformationResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // BorderInformationResource を更新します
+    // BorderInformationResource を更新する
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [BorderInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

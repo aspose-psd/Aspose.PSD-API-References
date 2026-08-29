@@ -1,40 +1,41 @@
 ---
-title: ISmartFilterRenderer.Render
-second_title: Aspose.PSD for .NET API リファレンス
-description: ISmartFilterRenderer 方法. ピクセル データに現在のスマート フィルターをレンダリングします
+title: "ISmartFilterRenderer.Render"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ISmartFilterRenderer メソッド。現在のスマートフィルタをピクセルデータにレンダリングします"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer.Render method
 
-ピクセル データに現在のスマート フィルターをレンダリングします。
+現在のスマートフィルターをピクセルデータにレンダリングします。
 
 ```csharp
 public PixelsData Render(PixelsData pixelsData)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pixelsData | PixelsData | ピクセルデータ。 |
+| pixelsData | PixelsData | ピクセルデータです。 |
 
 ### 戻り値
 
-処理されたピクセル データを返します。
+処理されたピクセルデータを返します。
 
-### 例
+## 例
 
-次のコードは、カスタム レンダラーを持つカスタム スマート フィルターを作成する方法を示しています。
+以下のコードは、カスタムレンダラーを持つカスタムスマートフィルターの作成方法を示しています。
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // 入力配列でサポートされていない 'Crystallize' スマート フィルターを初期化します
+    // 入力配列でサポートされていない「Crystallize」スマートフィルターを初期化します
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'Crystallize' スマート フィルター ID。
+        // 「Crystallize」スマートフィルターの ID。
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -60,14 +61,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // SmartObject にフィルタを適用します
+        // SmartObject にフィルターを適用する
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // レイヤーマスクにフィルターを適用
+        // レイヤーマスクにフィルターを適用する
         smartFilter.ApplyToMask(maskLayer);
 
-        //レイヤーにフィルターを適用
+        //レイヤーにフィルターを適用する
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -84,15 +85,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'Crystallize' スマート フィルター ID。
+        // 「Crystallize」スマートフィルターの ID。
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // フィルタ構造を取得
+        // フィルター構造を取得する
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Crystallize Size の値を取得
+        // Crystallize サイズの値を取得する
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -112,7 +113,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 * class [PixelsData](../../../aspose.psd/pixelsdata/)
 * interface [ISmartFilterRenderer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../ismartfilterrenderer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../../)
 
 

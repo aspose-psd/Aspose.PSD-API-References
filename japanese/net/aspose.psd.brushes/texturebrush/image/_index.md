@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextureBrush 財産. を取得しますImageこれに関連付けられたオブジェクトTextureBrushobject.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextureBrush プロパティ。 この TextureBrush オブジェクトに関連付けられた Image オブジェクトを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-を取得します[`Image`](../../../aspose.psd/image/)これに関連付けられたオブジェクト[`TextureBrush`](../)object.
+この [`TextureBrush`](../) オブジェクトに関連付けられた [`Image`](../../../aspose.psd/image/) オブジェクトを取得します。
 
 ```csharp
 public Image Image { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-アン[`Image`](../../../aspose.psd/image/)この画像を表すオブジェクト[`TextureBrush`](../)オブジェクトは図形を塗りつぶします。
+この [`TextureBrush`](../) オブジェクトが形状を塗りつぶす際に使用する画像を表す [`Image`](../../../aspose.psd/image/) オブジェクトです。
 
 ### 関連項目
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../texturebrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

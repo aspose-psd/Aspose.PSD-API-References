@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. この幅を取得または設定しますPen描画に使用される Graphics オブジェクトの単位
+title: "Pen.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen の幅を、描画に使用される Graphics オブジェクトの単位で取得または設定します。"
 type: docs
 weight: 180
 url: /ja/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-この幅を取得または設定します[`Pen`](../)、描画に使用される Graphics オブジェクトの単位。
+この [`Pen`](../) の幅を、描画に使用される Graphics オブジェクトの単位で取得または設定します。
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-これの幅[`Pen`](../).
+この [`Pen`](../) の幅です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`Width`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `Width` プロパティは、不変の [`Pen`](../) に設定されます。たとえば、[`Pen`](../) クラスが返すものです。 |
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: OffsetStructure.OffsetStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: OffsetStructure コンストラクタ. の新しいインスタンスを初期化しますOffsetStructureclass.
+title: "OffsetStructure.OffsetStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OffsetStructure コンストラクタ。OffsetStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure constructor
 
-の新しいインスタンスを初期化します[`OffsetStructure`](../)class.
+[`OffsetStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public OffsetStructure(ClassID keyName, ClassID classID)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
-| classID | ClassID | クラス ID。 |
+| classID | ClassID | クラス IDです。 |
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OffsetStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

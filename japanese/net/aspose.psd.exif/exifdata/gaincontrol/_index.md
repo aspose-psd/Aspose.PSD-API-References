@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 全体的な画像のゲイン調整の程度を取得または設定します
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。全体的な画像ゲイン調整の度合いを取得または設定します"
 type: docs
 weight: 340
 url: /ja/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-全体的な画像のゲイン調整の程度を取得または設定します。
+全体画像ゲイン調整の度合いを取得または設定します。
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-全体的な画像のゲイン調整の程度.
+全体的な画像ゲイン調整の度合いです。
 
 ### 関連項目
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator クラス. PSD レイヤーのハッシュ計算機異なるPSDファイルで等しいレイヤーまたは異なるレイヤーを見つけるために使用できます
+title: "クラス LayerHashCalculator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator クラス。 PSD レイヤー用ハッシュ計算機。異なる PSD ファイル間で同一または異なるレイヤーを見つけるために使用できます。"
 type: docs
-weight: 2230
+weight: 2430
 url: /ja/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-PSD レイヤーのハッシュ計算機。異なるPSDファイルで等しいレイヤーまたは異なるレイヤーを見つけるために使用できます
+PSDレイヤー用ハッシュ計算機です。異なるPSDファイル間で同一または異なるレイヤーを見つけるために使用できます。
 
 ```csharp
 public class LayerHashCalculator
@@ -18,25 +19,25 @@ public class LayerHashCalculator
 
 | 名前 | 説明 |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | の新しいインスタンスを初期化します`LayerHashCalculator`class. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | `LayerHashCalculator` クラスの新しいインスタンスを初期化します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | ブレンディング ハッシュを取得します。 |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | チャネルのハッシュを取得します。 |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | コンテンツ ハッシュを取得します。 |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | ブレンドハッシュを取得します。 |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | チャンネルハッシュを取得します。 |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | コンテンツハッシュを取得します。 |
 
-### 例
+## 例
 
-次のコードは、異なるファイル内の同様のレイヤーの一意のハッシュを取得するための API を示しています。
+次のコードは、異なるファイル内の類似レイヤーのユニークハッシュを取得するための API を示しています。
 
 ```csharp
 [C#]
 
 /// <summary>
-/// によってレイヤーの名前を取得します。
+/// レイヤーの名前を取得します。
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="image">画像。</param>
@@ -57,12 +58,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// アレスは等しくありません。
+/// Ares が等しくないことを確認します。
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">予想される.</param>
-/// <param name="actual">実際の.</param>
-/// <exception cref="System.Exception">引数は同じであってはなりません</exception>
+/// <param name="expected">期待値。</param>
+/// <param name="actual">実際の値。</param>
+/// <exception cref="System.Exception">引数は等しくてはいけません</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,11 +73,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// アレスは等しい。
+/// Ares が等しいことを確認します。
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="expected">予想される.</param>
-/// <param name="actual">実際の.</param>
+/// <param name="expected">期待値。</param>
+/// <param name="actual">実際の値。</param>
 /// <exception cref="System.Exception">引数は等しくなければなりません</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -87,9 +88,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// レイヤ コンテンツ ハッシュ テストを定期的に実行します。
+/// Regulars がレイヤーコンテンツハッシュテストを実行します。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -109,17 +110,17 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // これらのレイヤーのハッシュは等しい
+        // これらのレイヤーのハッシュは等しいです
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // ブレンド モードのハッシュを確認する 
+        // ブレンドモードハッシュを確認してください
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // しかし、ポインターは異なります
+        // しかしポインタは異なります
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,9 +128,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// レイヤ コンテンツ ハッシュ テストを埋めます。
+/// Fills がレイヤーコンテンツハッシュテストを実行します。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // 同様のレイヤーは常に 1 つのインデックスに含まれます
+            // 類似したレイヤーは常に同じインデックスにあります
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,9 +163,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// オブジェクト レイヤーのコンテンツ ハッシュ テストをスマート化します。
+/// Smarts がオブジェクトレイヤーコンテンツハッシュテストを実行します。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // チャネル データは、それらの Smart Objects からの Layer と Createad で同じです。
+        // レイヤーとそれらから作成されたスマートオブジェクトのチャンネルデータは等しいです
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // スマート オブジェクトは他のデータをコンテンツとして使用するため、コンテンツ ハッシュは異なります
+        // コンテンツハッシュは異なります。スマートオブジェクトは別のデータをコンテンツとして使用するためです
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // しかし、ブレンド ハッシュは似ています。両方のレイヤー - スマートとレギュラーのノーマル ブレンド モードと不透明度 255
+        // しかしブレンドハッシュは似ています。スマートレイヤーとレギュラーレイヤーはどちらもノーマルブレンドモードで不透明度255です
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // チャネル データは、それらの Smart Objects からの Layer と Createad で同じです。
+        // レイヤーとそれらから作成されたスマートオブジェクトのチャンネルデータは等しいです
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // スマート オブジェクトは他のデータをコンテンツとして使用するため、コンテンツ ハッシュは異なります
+        // コンテンツハッシュは異なります。スマートオブジェクトは別のデータをコンテンツとして使用するためです
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // しかし、ブレンド ハッシュは似ています。両方のレイヤー - スマートとレギュラーのノーマル ブレンド モードと不透明度 255
+        // しかしブレンドハッシュは似ています。スマートレイヤーとレギュラーレイヤーはどちらもノーマルブレンドモードで不透明度255です
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,9 +215,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// レイヤ コンテンツ ハッシュ テストを調整します。
+/// Adjustments がレイヤーコンテンツハッシュテストを実行します。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -258,9 +259,9 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// レイヤ コンテンツ ハッシュ テストをテキストで送信します。
+/// テキストはレイヤーのコンテンツハッシュテストです。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -302,20 +303,20 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // 変換行列はハッシュ計算に使用されません。さらに確認する必要があります
+        // ハッシュ計算では変換行列は使用されません。追加で確認する必要があります。
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // この場合、行列に回転があります
+        // この場合、行列に回転があります。
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // この場合、翻訳のみが行われます (下にシフトされたテキスト レイヤー)
+        // この場合、平行移動のみです（テキストレイヤーが下にシフトされています）。
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// レイヤ コンテンツ ハッシュ テストをグループ化します。
+/// グループはレイヤーコンテンツのハッシュテストです。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -333,16 +334,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // グループ レイヤー ハッシュは、その中のレイヤーから計算されます
+        // グループレイヤーハッシュは、その内部のレイヤーから計算されます。
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// さまざまなファイルのハッシュ テストからレイヤ コンテンツを正規化します。
+/// レギュラーは異なるファイルからのレイヤーコンテンツのハッシュテストです。
 /// </summary>
-/// <param name="fileName">ファイル名</param>
+/// <param name="fileName">ファイル名。</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -361,10 +362,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // レイヤーには異なるポインターがあります
+                // レイヤーは異なるポインタを持っています。
                 AreNotEqual(layer, layer_copied);
 
-                // しかしレイヤーのハッシュは等しい
+                // しかし、レイヤーのハッシュは等しいです。
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -377,7 +378,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

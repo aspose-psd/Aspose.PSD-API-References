@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorExtensions 方法. はColorにColor .
+title: "ColorExtensions.ToGdiColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorExtensions メソッド。Color を Color に変換します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColor method
 
-は[`Color`](../../../aspose.psd/color/)にColor .
+[`Color`](../../../aspose.psd/color/) を Color に変換します。
 
 ```csharp
 public static Color ToGdiColor(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | の[`Color`](../../../aspose.psd/color/)変換する。 |
+| color | Color | 変換する[`Color`](../../../aspose.psd/color/)。 |
 
 ### 戻り値
 
-変換されたColor.
+変換された Color。
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../colorextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

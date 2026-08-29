@@ -1,14 +1,15 @@
 ---
-title: LuniResource.LuniResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LuniResource コンストラクタ. の新しいインスタンスを初期化しますLuniResourceclass.
+title: "LuniResource.LuniResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LuniResource コンストラクタ。LuniResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource constructor
 
-の新しいインスタンスを初期化します[`LuniResource`](../)class.
+新しいインスタンスを初期化します [`LuniResource`](../) クラス。
 
 ```csharp
 public LuniResource()
@@ -17,7 +18,7 @@ public LuniResource()
 ### 関連項目
 
 * class [LuniResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

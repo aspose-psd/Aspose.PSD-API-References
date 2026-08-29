@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfPackage 方法. キーワードを設定します
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfPackage メソッド。キーワードを設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
 キーワードを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 public void SetKeywords(string keywords)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| keywords | String | キーワード。 |
+| キーワード | 文字列 | キーワードです。 |
 
 ### 関連項目
 
 * class [PdfPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

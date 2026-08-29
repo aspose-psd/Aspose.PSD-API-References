@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer コンストラクタ. の新しいインスタンスを初期化しますLayerクラス遅延初期化のコンストラクター.
+title: "Layer.Layer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer コンストラクタ。Layer クラスの新しいインスタンスを初期化します。遅延初期化用のコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-の新しいインスタンスを初期化します[`Layer`](../)クラス。遅延初期化のコンストラクター.
+[`Layer`](../) クラスの新しいインスタンスを初期化します。遅延初期化用のコンストラクタ。
 
 ```csharp
 public Layer()
 ```
 
-### 例
+## 例
 
-次の例は、単純なコンストラクター バージョンが Aspose.PSD で使用されている場合に、新しく作成されたレイヤーに描画する方法を示しています。
+以下の例は、Aspose.PSD でシンプルコンストラクタ バージョンを使用した場合に、新しく作成されたレイヤーに描画できる方法を示しています
 
 ```csharp
 [C#]
@@ -35,10 +36,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // ペンツールで長方形を描く
+    // ペンツールで矩形を描く
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // 青色のソリッド ブラシで別の四角形を描画します
+    // Solid Brush を使用して青色で別の長方形を描画する
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -48,27 +49,27 @@ using (var image = new PsdImage(width, height))
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Layer`](../)class.
+新しい [`Layer`](../) クラスのインスタンスを初期化します。
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | RasterImage | 画像。 |
-| disposeImage | Boolean | に設定した場合`真実` 【処分画像】。 |
+| image | RasterImage | 画像です。 |
+| disposeImage | Boolean | `true` に設定した場合は [dispose image]。 |
 
-### 例
+## 例
 
-次のコードは、直接ロードせずに JPEG/PNG/etc 画像ファイルを PsdImage にロードする機能を示しています。
+以下のコードは、JPEG/PNG/その他の画像ファイルを直接読み込むことなく PsdImage にロードする機能を示しています。
 
 ```csharp
 [C#]
@@ -104,26 +105,26 @@ using (var image = new PsdImage(200, 200))
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-の新しいインスタンスを初期化します[`Layer`](../)class.
+新しい [`Layer`](../) クラスのインスタンスを初期化します。
 
 ```csharp
 public Layer(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | 画像ストリーム |
+| ストリーム | ストリーム | 画像ストリーム |
 
-### 例
+## 例
 
-次の例は、Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 画像をレイヤーとして PsdImage に追加する方法を示しています。
+次の例は、Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 画像をレイヤーとして PsdImage に追加できる方法を示しています
 
 ```csharp
 [C#]
@@ -173,38 +174,38 @@ using (var image = new PsdImage(200, 200))
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-の新しいインスタンスを初期化します[`Layer`](../)バイト配列からのクラス.
+バイト配列から新しい [`Layer`](../) クラスのインスタンスを初期化します。
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | bounds | Rectangle | レイヤーの境界。 |
-| redBytes | Byte[] | 赤いバイト。 |
-| greenBytes | Byte[] | 緑のバイト。 |
-| blueBytes | Byte[] | ブルーバイト。 |
-| name | String | レイヤー名。 |
+| redBytes | Byte[] | 赤バイトです。 |
+| greenBytes | Byte[] | 緑バイトです。 |
+| blueBytes | Byte[] | 青バイトです。 |
+| name | 文字列 | レイヤー名です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | バイト配列を空にすることはできません または バイト配列の長さは境界次元 (bounds.Width * bounds.Height) と等しくなければなりません |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | バイト配列は空であってはならず、バイト配列の長さは bounds の寸法 (bounds.Width * bounds.Height) と等しくなければなりません。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

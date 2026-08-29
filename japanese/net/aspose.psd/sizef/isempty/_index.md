@@ -1,14 +1,15 @@
 ---
-title: SizeF.IsEmpty
-second_title: Aspose.PSD for .NET API リファレンス
-description: SizeF 財産. かどうかを示す値を取得しますSizeF幅と高さがゼロです
+title: "SizeF.IsEmpty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SizeF プロパティ。この SizeF の幅と高さがゼロかどうかを示す値を取得します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/sizef/isempty/
 ---
+{{< psd/tize >}}
 ## SizeF.IsEmpty property
 
-かどうかを示す値を取得します。[`SizeF`](../)幅と高さがゼロです。
+この [`SizeF`](../) の幅と高さがゼロかどうかを示す値を取得します。
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### 戻り値
 
-このプロパティは、次の場合に true を返します。[`SizeF`](../)幅と高さの両方がゼロです。それ以外の場合は false。
+このプロパティは、この [`SizeF`](../) の幅と高さがともにゼロのとき true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [SizeF](../)
-* 名前空間 [Aspose.PSD](../../sizef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

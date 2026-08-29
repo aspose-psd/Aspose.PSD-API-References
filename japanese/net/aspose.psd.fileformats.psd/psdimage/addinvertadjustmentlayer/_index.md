@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 反転調整レイヤーを追加します
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。反転調整レイヤーを追加します。"
 type: docs
-weight: 360
+weight: 380
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
 反転調整レイヤーを追加します。
@@ -16,11 +17,11 @@ public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 
 ### 戻り値
 
-作成した反転レイヤー
+作成された反転レイヤー
 
-### 例
+## 例
 
-次のコードは、InvertAdjustmentLayer のサポートと、InvertAdjustmentLayer を追加する方法を示しています。
+以下のコードは InvertAdjustmentLayer のサポートと InvertAdjustmentLayer の追加方法を示しています。
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

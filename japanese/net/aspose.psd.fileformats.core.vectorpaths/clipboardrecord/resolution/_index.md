@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClipboardRecord 財産. 解像度を取得または設定します
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClipboardRecord プロパティ。解像度を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
 解像度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 public float Resolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-解像度.
+解像度です。
 
 ### 関連項目
 
 * class [ClipboardRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

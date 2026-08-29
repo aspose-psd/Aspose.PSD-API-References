@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokePath
-second_title: Aspose.PSD for .NET API リファレンス
-description: CustomLineCap 財産. カスタム キャップのアウトラインを定義するオブジェクトを取得または設定します
+title: "CustomLineCap.StrokePath"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CustomLineCap プロパティ。 カスタムキャップの輪郭を定義するオブジェクトを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/customlinecap/strokepath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokePath property
 
-カスタム キャップのアウトラインを定義するオブジェクトを取得または設定します。
+カスタムキャップのアウトラインを定義するオブジェクトを取得または設定します。
 
 ```csharp
 public GraphicsPath StrokePath { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カスタム キャップのアウトラインを定義するオブジェクト。
+カスタムキャップの輪郭を定義するオブジェクトです。
 
 ### 関連項目
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* 名前空間 [Aspose.PSD](../../customlinecap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

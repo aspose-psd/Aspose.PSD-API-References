@@ -1,14 +1,15 @@
 ---
-title: AddNoiseSmartFilter.FilterType
-second_title: Aspose.PSD for .NET API リファレンス
-description: AddNoiseSmartFilter 分野. 現在のスマートフィルターの識別子.
+title: "AddNoiseSmartFilter.FilterType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AddNoiseSmartFilter フィールド。現在のスマートフィルタの識別子"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/filtertype/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.FilterType field
 
-現在のスマートフィルターの識別子.
+現在のスマートフィルタの識別子です。
 
 ```csharp
 public const int FilterType;
@@ -17,7 +18,7 @@ public const int FilterType;
 ### 関連項目
 
 * class [AddNoiseSmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

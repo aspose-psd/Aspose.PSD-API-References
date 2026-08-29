@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.CopyTo
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 方法. の要素をコピーしますICollectionにArray特定のArrayindex.
+title: "NonGenericList.CopyTo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList メソッド。ICollection の要素を特定の配列インデックスから始まる配列にコピーします"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/nongenericlist/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericList.CopyTo method
 
-の要素をコピーしますICollectionにArray、特定のArrayindex.
+ICollection の要素を特定の配列インデックスから開始して Array にコピーします。
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| array | Array | 一次元Arrayそれはコピーされた要素の宛先ですICollection.のArrayゼロベースのインデックスが必要です。 |
-| index | Int32 | のゼロから始まるインデックス*array*コピーを開始する場所。 |
+| array | Array | ICollection からコピーされた要素の宛先となる一次元の Array です。Array はゼロベースのインデックスを持つ必要があります。 |
+| インデックス | Int32 | コピーが開始される *array* のゼロベースインデックスです。 |
 
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

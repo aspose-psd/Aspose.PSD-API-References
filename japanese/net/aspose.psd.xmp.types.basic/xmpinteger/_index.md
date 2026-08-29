@@ -1,14 +1,15 @@
 ---
-title: Class XmpInteger
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger クラス. XMP 整数の基本型を表します
+title: "クラス XmpInteger"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpInteger クラス。XMP Integer 基本型を表します"
 type: docs
-weight: 5960
+weight: 6460
 url: /ja/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
-XMP 整数の基本型を表します。
+XMP Integer の基本型を表します。
 
 ```csharp
 public sealed class XmpInteger : XmpTypeBase
@@ -18,9 +19,9 @@ public sealed class XmpInteger : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | の新しいインスタンスを初期化します`XmpInteger`class. |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | の新しいインスタンスを初期化します`XmpInteger`class. |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | の新しいインスタンスを初期化します`XmpInteger`class. |
+| [XmpInteger](xmpinteger/#constructor)(int) | `XmpInteger` クラスの新しいインスタンスを初期化します。 |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | `XmpInteger` クラスの新しいインスタンスを初期化します。 |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | `XmpInteger` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -32,12 +33,12 @@ public sealed class XmpInteger : XmpTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

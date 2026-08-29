@@ -1,28 +1,29 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 財産. スムージング モードを取得または設定します
+title: "Graphics.SmoothingMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics プロパティ。スムージングモードを取得または設定します。"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
-スムージング モードを取得または設定します。
+スムージングモードを取得または設定します。
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スムージング モード。
+スムージングモードです。
 
 ### 関連項目
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

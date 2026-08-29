@@ -1,11 +1,12 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤーの表示名を取得または設定します
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーの表示名を取得または設定します"
 type: docs
-weight: 100
+weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
 レイヤーの表示名を取得または設定します。
@@ -14,18 +15,18 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 public string DisplayName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーの表示名。
+レイヤーの表示名です。
 
-### 例
+## 例
 
-次の例は、レイヤー名が正しく表示されるように、DisplayName 値を設定する機能を示しています。
+以下の例は、DisplayName の値を設定する機能を示し、レイヤー名が正しく表示されることを示します。
 
 ```csharp
 [C#]
 
-// レイヤー名を変更して保存
+// レイヤー名を変更して保存します
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // 新しい値を DisplayName プロパティに設定します
+        // DisplayName プロパティに新しい値を設定する
         layer.DisplayName += "_changed";
     }
 
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

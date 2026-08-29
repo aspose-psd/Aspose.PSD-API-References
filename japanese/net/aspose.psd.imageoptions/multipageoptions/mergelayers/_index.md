@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD for .NET API リファレンス
-description: MultiPageOptions 財産. メレゲレイヤーかどうかを示す値を取得または設定します.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MultiPageOptions プロパティ。merege layers を示すかどうかの値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-[メレゲレイヤー]かどうかを示す値を取得または設定します.
+レイヤーを [merege layers] するかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` if [レイヤーを結合];さもないと、`間違い` .
+`true` は [merege layers] の場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [MultiPageOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

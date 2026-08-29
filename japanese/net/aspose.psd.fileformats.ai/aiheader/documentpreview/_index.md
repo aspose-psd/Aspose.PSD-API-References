@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. ドキュメントのプレビューを取得または設定します
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。ドキュメントプレビューを取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
-ドキュメントのプレビューを取得または設定します。
+ドキュメントプレビューを取得または設定します。
 
 ```csharp
 public string DocumentPreview { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメントのプレビュー。
+ドキュメントプレビュー。
 
 ### 関連項目
 
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

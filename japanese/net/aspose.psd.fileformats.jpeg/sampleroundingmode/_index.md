@@ -1,14 +1,15 @@
 ---
-title: Enum SampleRoundingMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode 列挙. n ビット値を 8 ビット値に変換する方法を定義します
+title: "列挙体 SampleRoundingMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode 列挙体。nビット値を8ビット値に変換する方法を定義します。"
 type: docs
-weight: 1530
+weight: 1540
 url: /ja/net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## SampleRoundingMode enumeration
 
-n ビット値を 8 ビット値に変換する方法を定義します。
+nビット値が8ビット値に変換される方法を定義します。
 
 ```csharp
 public enum SampleRoundingMode
@@ -16,14 +17,14 @@ public enum SampleRoundingMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Extrapolate | `0` | 8 ビット値を外挿して n ビットに適合させます。ここで、1 &lt; n &lt; 8. 可能なすべての 8 ビット値の数は 1 &lt;&lt; 8 = 256 で、0 から 255 までです。 すべての可能な値の数n ビット値は 1 &lt;&lt; n、0 から (1 &lt;&lt; n) - 1. 8 ビット値 V8 に対応する最も妥当な n ビット値 Vn は、Vn = V8 &gt;&gt; (8 - n)。 |
-| Truncate | `1` | 8 ビット値を切り捨てて n ビットに合わせます。ここで、1 &lt; n &lt; 8. 可能なすべての n ビット値の数は、0 から (1 &lt;&lt; n) - 1 までの 1 &lt;&lt; n です。 8 ビット値 V8 に対応する最も妥当な n ビット値 Vn は、Vn = V8 &amp; ((1 &lt;&lt; n) - 1). と等しくなります。 |
+| Extrapolate | `0` | 8ビット値を n ビットに合わせて外挿します（1 < n < 8）。可能なすべての8ビット値の数は 1 << 8 = 256 で、0 から 255 です。可能なすべての n ビット値の数は 1 << n で、0 から (1 << n) - 1 です。ある8ビット値 V8 に対応する最も妥当な n ビット値 Vn は Vn = V8 >> (8 - n) と等しくなります。 |
+| Truncate | `1` | 8ビット値を n ビットに合わせて切り捨てます（1 < n < 8）。可能なすべての n ビット値の数は 1 << n で、0 から (1 << n) - 1 です。ある8ビット値 V8 に対応する最も妥当な n ビット値 Vn は Vn = V8 & ((1 << n) - 1) と等しくなります。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

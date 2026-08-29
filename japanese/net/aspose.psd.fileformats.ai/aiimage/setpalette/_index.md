@@ -1,27 +1,28 @@
 ---
-title: AiImage.SetPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 方法. 画像パレットを設定します
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage メソッド。画像のパレットを設定します"
 type: docs
-weight: 170
+weight: 200
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
-画像パレットを設定します。
+画像のパレットを設定します。
 
 ```csharp
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| palette | IColorPalette | 設定するパレット。 |
-| updateColors | Boolean | に設定した場合`真実`色は新しいパレットに従って更新されます。それ以外の場合、カラー インデックスは変更されません。一部のインデックスに対応するパレット エントリがない場合、インデックスを変更しないと、読み込み時にイメージがクラッシュする可能性があることに注意してください。 |
+| パレット | IColorPalette | 設定するパレットです。 |
+| updateColors | Boolean | `true` に設定した場合、色は新しいパレットに従って更新されます；それ以外の場合、カラーインデックスは変更されません。注意: 変更されないインデックスは、対応するパレットエントリがない場合、画像のロード時にクラッシュする可能性があります。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | NotImplementedException | 未実装 |
 
@@ -29,7 +30,7 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

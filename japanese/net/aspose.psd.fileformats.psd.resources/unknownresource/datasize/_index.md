@@ -1,27 +1,28 @@
 ---
-title: UnknownResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnknownResource 財産. リソース データ サイズをバイト単位で取得します
+title: "UnknownResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnknownResource プロパティ。リソース データ サイズ（バイト単位）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/unknownresource/datasize/
 ---
+{{< psd/tize >}}
 ## UnknownResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータ サイズ。
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [UnknownResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

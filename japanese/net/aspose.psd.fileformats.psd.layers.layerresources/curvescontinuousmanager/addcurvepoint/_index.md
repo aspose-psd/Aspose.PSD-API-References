@@ -1,35 +1,36 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvesContinuousManager 方法. 曲線の点を追加します
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvesContinuousManager メソッド。曲線のポイントを追加します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
-曲線の点を追加します。
+曲線のポイントを追加します。
 
 ```csharp
 public void AddCurvePoint(int channelIndex, byte x, byte y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
-| x | Byte | x の場所。 |
-| y | Byte | y の位置。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
+| x | バイト | x 位置です。 |
+| y | バイト | y 位置です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 追加しようとしているポイントは既に存在します |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 追加しようとしているポイントはすでに存在します |
 
 ### 関連項目
 
 * class [CurvesContinuousManager](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

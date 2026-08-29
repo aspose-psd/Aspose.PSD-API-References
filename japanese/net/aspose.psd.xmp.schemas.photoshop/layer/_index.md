@@ -1,14 +1,15 @@
 ---
-title: Class Layer
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer クラス. Photoshop テキスト レイヤーを表します
+title: "クラス Layer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.Layer クラス。Photoshop のテキストレイヤーを表します。"
 type: docs
-weight: 5810
+weight: 6310
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
+{{< psd/tize >}}
 ## Layer class
 
-Photoshop テキスト レイヤーを表します。
+Photoshopのテキストレイヤーを表します。
 
 ```csharp
 public class Layer : XmpTypeBase, IEquatable<Layer>
@@ -18,29 +19,29 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 
 | 名前 | 説明 |
 | --- | --- |
-| [Layer](layer/#constructor)() | の新しいインスタンスを初期化します`Layer`class. |
-| [Layer](layer/#constructor_1)(string, string) | の新しいインスタンスを初期化します`Layer`class. |
+| [Layer](layer/#constructor)() | `Layer` クラスの新しいインスタンスを初期化します。 |
+| [Layer](layer/#constructor_1)(string, string) | `Layer` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | テキストレイヤーの名前を取得または設定します. |
-| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | レイヤーのテキスト コンテンツを取得または設定します。 |
+| [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | テキストレイヤーの名前を取得または設定します。 |
+| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | レイヤーのテキストコンテンツを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | 現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します. |
-| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | 指定されたObject、このインスタンスと等しい. |
-| override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | このインスタンスのハッシュ コードを返します。 |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で返します。 |
+| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | 現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。 |
+| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | 指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。 |
+| override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | このインスタンスのハッシュコードを返します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | XMP 形式で含まれる文字列値を返します。 |
 
 ### 関連項目
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

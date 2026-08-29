@@ -1,11 +1,12 @@
 ---
-title: TextShape.TextFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextShape 財産. テキスト形式を取得または設定します
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextShape プロパティ。テキストの書式設定を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
 テキスト形式を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.shapes/textshape/textformat/
 public StringFormat TextFormat { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキスト形式。
+テキストの書式設定。
 
 ### 関連項目
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../textshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

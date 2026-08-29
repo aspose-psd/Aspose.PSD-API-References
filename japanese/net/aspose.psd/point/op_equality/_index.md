@@ -1,32 +1,33 @@
 ---
-title: Point.op_Equality
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. 2 つの比較Pointオブジェクト結果はXとY二つの性質Pointオブジェクトは等しい.
+title: "Point.op_Equality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。2 つの Point オブジェクトを比較します。結果は、2 つの Point オブジェクトの X と Y プロパティの値が等しいかどうかを示します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/point/op_equality/
 ---
+{{< psd/tize >}}
 ## Point Equality operator
 
-2 つの比較[`Point`](../)オブジェクト。結果は、[`X`](../x/)と[`Y`](../y/)二つの性質[`Point`](../)オブジェクトは等しい.
+2 つの [`Point`](../) オブジェクトを比較します。結果は、2 つの [`Point`](../) オブジェクトの [`X`](../x/) と [`Y`](../y/) プロパティの値が等しいかどうかを示します。
 
 ```csharp
 public static bool operator ==(Point point1, Point point2)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point1 | Point | 最初の[`Point`](../)比べる。 |
-| point2 | Point | 2番目[`Point`](../)比べる。 |
+| point1 | Point | 比較対象の最初の [`Point`](../)。 |
+| point2 | Point | 比較対象の2番目の [`Point`](../)。 |
 
 ### 戻り値
 
-真の場合[`X`](../x/)と[`Y`](../y/)の値*point1*と*point2*は同じ;それ以外の場合は false。
+*point1* と *point2* の [`X`](../x/) と [`Y`](../y/) の値が等しい場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

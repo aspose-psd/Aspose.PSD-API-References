@@ -1,26 +1,27 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterCachedImage 方法. 画像をトリミングしています
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterCachedImage メソッド。画像の切り取り"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
-画像をトリミングしています。
+画像のトリミング。
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rectangle | Rectangle | 長方形。 |
+| 矩形 | Rectangle | 矩形です。 |
 
-### 例
+## 例
 
-次のコードは、特定の四角形で画像をトリミングする機能を示しています。
+以下のコードは、特定の矩形で画像を切り抜く機能を示しています。
 
 ```csharp
 [C#]
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* 名前空間 [Aspose.PSD](../../rastercachedimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

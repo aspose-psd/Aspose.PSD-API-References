@@ -1,27 +1,28 @@
 ---
-title: ExifData.MakerNoteRawData
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. メーカー ノートの生データを取得または設定します
+title: "ExifData.MakerNoteRawData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。メーカー注記の生データを取得または設定します"
 type: docs
 weight: 790
 url: /ja/net/aspose.psd.exif/exifdata/makernoterawdata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteRawData property
 
-メーカー ノートの生データを取得または設定します。
+メーカー注記の生データを取得または設定します。
 
 ```csharp
 public byte[] MakerNoteRawData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-メーカーノート生データ.
+メーカー注記の生データです。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

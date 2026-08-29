@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. バイト ビットのフィル順序を取得または設定します
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。バイトビットのフィル順序を取得または設定します"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-バイト ビットのフィル順序を取得または設定します。
+バイトビットのフィル順序を取得または設定します。
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バイト ビット フィル オーダー.
+バイトビットのフィル順序。
 
 ### 関連項目
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

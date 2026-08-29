@@ -1,11 +1,12 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. レイヤー セクションを取得します
+title: "AiImage.Layers"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。レイヤーセクションを取得します"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
 レイヤー セクションを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.ai/aiimage/layers/
 public AiLayerSection[] Layers { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-層セクション。
+レイヤーセクションです。
 
 ### 関連項目
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

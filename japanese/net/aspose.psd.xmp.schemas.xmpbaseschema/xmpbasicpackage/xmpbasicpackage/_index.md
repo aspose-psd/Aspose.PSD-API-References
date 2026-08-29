@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage コンストラクタ. の新しいインスタンスを初期化しますXmpBasicPackageclass.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage コンストラクタ。XmpBasicPackage クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-の新しいインスタンスを初期化します[`XmpBasicPackage`](../)class.
+[`XmpBasicPackage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpBasicPackage()
@@ -17,28 +18,28 @@ public XmpBasicPackage()
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpBasicPackage`](../)class.
+[`XmpBasicPackage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| prefix | String | プレフィックス。 |
-| namespaceUri | String | 名前空間 URI。 |
+| プレフィックス | 文字列 | プレフィックスです。 |
+| namespaceUri | 文字列 | 名前空間 URIです。 |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

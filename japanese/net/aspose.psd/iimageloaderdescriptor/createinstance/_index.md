@@ -1,14 +1,15 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API リファレンス
-description: IImageLoaderDescriptor 方法. 新しいローダー インスタンスを作成します
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IImageLoaderDescriptor メソッド。新しいローダーインスタンスを作成します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
-新しいローダー インスタンスを作成します。
+新しいローダーインスタンスを作成します。
 
 ```csharp
 public IImageLoader CreateInstance()
@@ -16,13 +17,13 @@ public IImageLoader CreateInstance()
 
 ### 戻り値
 
-新しいローダー インスタンス。
+新しいローダーインスタンス。
 
 ### 関連項目
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* 名前空間 [Aspose.PSD](../../iimageloaderdescriptor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

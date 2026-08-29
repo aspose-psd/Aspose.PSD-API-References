@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. ドキュメントの祖先を設定します
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。ドキュメントの祖先を設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
 ドキュメントの祖先を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancest
 public void SetDocumentAncestors(string[] ancestors)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| ancestors | String[] | 祖先。 |
+| 祖先 | String[] | この祖先です。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

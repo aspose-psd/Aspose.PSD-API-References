@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 方法. データをキャッシュし基盤から追加のデータ読み込みが実行されないようにしますDataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage メソッド。データをキャッシュし、基礎となる DataStreamContainer から追加のデータ読み込みが行われないことを保証します"
 type: docs
-weight: 140
+weight: 170
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-データをキャッシュし、基盤から追加のデータ読み込みが実行されないようにします[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+データをキャッシュし、基礎となる [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) から追加のデータ読み込みが行われないことを保証します。
 
 ```csharp
 public override void CacheData()
@@ -16,14 +17,14 @@ public override void CacheData()
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | NotImplementedException | 未実装 |
 
 ### 関連項目
 
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

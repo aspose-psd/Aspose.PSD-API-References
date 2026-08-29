@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix10
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMatrix 財産. この要素の最初の行と 0 ゼロ 列の要素を取得または設定しますColorMatrix .
+title: "ColorMatrix.Matrix10"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMatrix プロパティ。この ColorMatrix の最初の行と0（ゼロ）列の要素を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/colormatrix/matrix10/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix10 property
 
-この要素の最初の行と 0 (ゼロ) 列の要素を取得または設定します[`ColorMatrix`](../) .
+この [`ColorMatrix`](../) の最初の行と0（ゼロ）列の要素を取得または設定します。
 
 ```csharp
 public float Matrix10 { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-この1行0列目の要素[`ColorMatrix`](../).
+この [`ColorMatrix`](../) の最初の行と0列の要素です。
 
 ### 関連項目
 
 * class [ColorMatrix](../)
-* 名前空間 [Aspose.PSD](../../colormatrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

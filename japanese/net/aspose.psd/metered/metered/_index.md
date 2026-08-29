@@ -1,14 +1,15 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PSD for .NET API リファレンス
-description: Metered コンストラクタ. デフォルトのコンストラクター
+title: "Metered.Metered"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Metered コンストラクタ。デフォルトコンストラクタです。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/metered/metered/
 ---
+{{< psd/tize >}}
 ## Metered constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public Metered()
@@ -17,7 +18,7 @@ public Metered()
 ### 関連項目
 
 * class [Metered](../)
-* 名前空間 [Aspose.PSD](../../metered/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

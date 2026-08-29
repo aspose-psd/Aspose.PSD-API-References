@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Aspose.PSD for .NET API リファレンス
-description: FillLayer 財産. 塗りつぶしのタイプを取得します
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FillLayer プロパティ。塗りのタイプを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-塗りつぶしのタイプを取得します。
+塗りのタイプを取得します。
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-塗りつぶしのタイプ.
+塗りの種類です。
 
 ### 関連項目
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

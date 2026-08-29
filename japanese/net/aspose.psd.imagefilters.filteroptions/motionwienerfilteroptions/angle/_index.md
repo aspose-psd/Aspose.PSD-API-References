@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Angle
-second_title: Aspose.PSD for .NET API リファレンス
-description: MotionWienerFilterOptions 財産. gradus の角度を取得または設定します
+title: "MotionWienerFilterOptions.Angle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MotionWienerFilterOptions プロパティ。gradus の角度を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Angle property
 
-gradus の角度を取得または設定します。
+角度（度）を取得または設定します。
 
 ```csharp
 public double Angle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-角度.
+角度です。
 
 ### 関連項目
 
 * class [MotionWienerFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

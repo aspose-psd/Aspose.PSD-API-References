@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 方法. パターン オーバーレイを追加します
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions メソッド。パターン オーバーレイを追加します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-パターン オーバーレイを追加します。
+パターンオーバーレイを追加します。
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
@@ -16,13 +17,13 @@ public PatternOverlayEffect AddPatternOverlay()
 
 ### 戻り値
 
-作成済み[`PatternOverlayEffect`](../../patternoverlayeffect/)object
+作成された [`PatternOverlayEffect`](../../patternoverlayeffect/) オブジェクト
 
 ### 関連項目
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

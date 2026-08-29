@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerSelectionIdsResource 財産. リソース データ サイズをバイト単位で取得します
+title: "LayerSelectionIdsResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerSelectionIdsResource プロパティ。リソース データ サイズ（バイト）を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [LayerSelectionIdsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

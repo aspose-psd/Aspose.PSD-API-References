@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdColorPalette 財産. 生のカラー パレット エントリ数を取得します
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdColorPalette プロパティ。生のカラーパレットエントリ数を取得します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-生のカラー パレット エントリ数を取得します。
+生のカラーパレットエントリー数を取得します。
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-未加工のカラー パレット エントリがカウントされます。
+生のカラーパレットエントリ数です。
 
 ### 関連項目
 
 * class [PsdColorPalette](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlwhResource 財産. 色合い を使用するかどうかを示す値を取得または設定します
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlwhResource プロパティ。色合いの使用有無を示す値を取得または設定します"
 type: docs
-weight: 130
+weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
-[色合い] を使用するかどうかを示す値を取得または設定します。
+[tint color] が使用されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実` [ティントカラー]を使用した場合;さもないと、`間違い` .
+`true` は使用された場合 [tint color]；それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、BlwhResource を編集する方法を示しています。
+以下の例は、BlwhResource を編集する方法を示しています。
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### 関連項目
 
 * class [BlwhResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

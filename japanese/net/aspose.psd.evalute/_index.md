@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間 DIB ヘッダー処理.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "名前空間 DIB ヘッダー処理"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd.evalute/
 ---
-名前空間 DIB ヘッダー処理.
+{{< psd/tize >}}
+この名前空間は DIB ヘッダーの処理を行います。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [EvalException](./evalexception/) | 評価エラーのカスタム例外 |
+| [EvalException](./evalexception/) | 評価エラー用のカスタム例外 |
 
 

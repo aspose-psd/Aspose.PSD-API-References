@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Blue
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. 青色コンポーネントを取得または設定します
+title: "AiLayerSection.Blue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。青色成分を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/blue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Blue property
 
-青色コンポーネントを取得または設定します。
+青色成分を取得または設定します。
 
 ```csharp
 public int Blue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-青の色成分.
+青色成分。
 
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

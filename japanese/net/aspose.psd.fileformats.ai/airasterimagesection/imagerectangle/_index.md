@@ -1,28 +1,29 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiRasterImageSection 財産. 画像の四角形を取得します
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiRasterImageSection プロパティ。画像矩形を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
-画像の四角形を取得します。
+画像の矩形を取得します。
 
 ```csharp
 public Rectangle ImageRectangle { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の長方形。
+画像矩形です。
 
 ### 関連項目
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

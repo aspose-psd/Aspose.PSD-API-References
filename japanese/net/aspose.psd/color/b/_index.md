@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. この青成分値を取得しますColor構造体.
+title: "Color.B"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。この Color 構造体の青色成分の値を取得します"
 type: docs
 weight: 1470
 url: /ja/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-この青成分値を取得します[`Color`](../)構造体.
+この [`Color`](../) 構造体の青色成分の値を取得します。
 
 ```csharp
 public byte B { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これの青成分値[`Color`](../).
+この [`Color`](../) の青色成分の値です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: PrintFlagsResource 財産. バージョンを取得または設定します
+title: "PrintFlagsResource.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PrintFlagsResource プロパティ。バージョンを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.resources/printflagsresource/version/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.Version property
 
 バージョンを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/printflagsresource/version/
 public short Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バージョン.
+バージョンです。
 
 ### 関連項目
 
 * class [PrintFlagsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

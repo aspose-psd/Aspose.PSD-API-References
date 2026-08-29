@@ -1,14 +1,15 @@
 ---
-title: Font.DeepClone
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 方法. これの正確なディープ コピーを作成しますFont .
+title: "Font.DeepClone"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font メソッド。 この Font の正確なディープコピーを作成します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/font/deepclone/
 ---
+{{< psd/tize >}}
 ## Font.DeepClone method
 
-これの正確なディープ コピーを作成します[`Font`](../) .
+この[`Font`](../)の正確なディープコピーを作成します。
 
 ```csharp
 public Font DeepClone()
@@ -16,12 +17,12 @@ public Font DeepClone()
 
 ### 戻り値
 
-の[`Font`](../)このメソッドは作成します。
+このメソッドが作成する[`Font`](../)です。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

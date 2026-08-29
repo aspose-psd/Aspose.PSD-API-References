@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: PolygonShape 財産. 形状の終了点を取得します
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PolygonShape プロパティ。シェイプの終了ポイントを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-形状の終了点を取得します。
+シェイプの終了点を取得します。
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-形状の終点。
+シェイプの終了ポイントです。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../polygonshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

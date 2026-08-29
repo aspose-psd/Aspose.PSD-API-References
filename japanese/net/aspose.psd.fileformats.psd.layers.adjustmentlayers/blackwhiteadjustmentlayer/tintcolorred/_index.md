@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlackWhiteAdjustmentLayer 財産. 赤の色合いの double 値を取得または設定します
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlackWhiteAdjustmentLayer プロパティ。赤色ティントカラーの double 値を取得または設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-赤の色合いの double 値を取得または設定します。
+Red Tint Color の double 値を取得または設定します。
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-赤の色合いの double 値。
+赤色ティントカラーの double 値です。
 
-### 例
+## 例
 
-次の例は、Aspose.PSD で白黒調整レイヤー プロパティを操作する方法を示しています。
+次の例は、Aspose.PSD で黒白調整レイヤーのプロパティを操作できる方法を示しています
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-次の例は、BlwhResource を編集する方法を示しています。
+以下の例は、BlwhResource を編集する方法を示しています。
 
 ```csharp
 [C#]
@@ -154,7 +155,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### 関連項目
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

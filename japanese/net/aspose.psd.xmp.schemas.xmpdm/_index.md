@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはAdobe ダイナミック メディア グループで使用される XMP 関連のヘルパー クラス定数およびメソッドが含まれます
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、Adobe ダイナミック メディア グループで使用される XMP 関連のヘルパークラス、定数、およびメソッドが含まれています。"
 type: docs
-weight: 570
+weight: 610
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-名前空間には、Adobe ダイナミック メディア グループで使用される XMP 関連のヘルパー クラス、定数、およびメソッドが含まれます。
+{{< psd/tize >}}
+名前空間には、Adobe Dynamic Media グループで使用される XMP 関連のヘルパークラス、定数、メソッドが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [AudioChannelType](./audiochanneltype/) | オーディオ チャネルの種類を表します。 |
-| [AudioSampleType](./audiosampletype/) | のオーディオ サンプル タイプを表します[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [AudioChannelType](./audiochanneltype/) | オーディオチャンネルタイプを表します。 |
+| [AudioSampleType](./audiosampletype/) | [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) 内のオーディオサンプルタイプを表します。 |
 | [ProjectLink](./projectlink/) | プロジェクトのパスを表します。 |
-| [Time](./time/) | 秒単位の時間値の表現。 |
-| [Timecode](./timecode/) | ビデオのタイムコード値を表します。 |
-| [TimeFormat](./timeformat/) | の時刻形式を表します[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
+| [Time](./time/) | 秒単位の時間値の表現です。 |
+| [Timecode](./timecode/) | ビデオ内のタイムコード値を表します。 |
+| [TimeFormat](./timeformat/) | [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) における時間形式を表します。 |
 | [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | XMP Dynamic Media 名前空間を表します。 |
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [ProjectType](./projecttype/) | のプロジェクト タイプを表します[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) におけるプロジェクトタイプを表します。 |
 
 

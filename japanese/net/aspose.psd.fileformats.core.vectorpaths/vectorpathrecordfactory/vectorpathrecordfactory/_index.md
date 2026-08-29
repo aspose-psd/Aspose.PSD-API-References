@@ -1,14 +1,15 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorPathRecordFactory コンストラクタ. デフォルトのコンストラクター
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorPathRecordFactory コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public VectorPathRecordFactory()
@@ -17,7 +18,7 @@ public VectorPathRecordFactory()
 ### 関連項目
 
 * class [VectorPathRecordFactory](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VsmsResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: VsmsResource 分野. タイプ ツール情報キー
+title: "VsmsResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VsmsResource フィールド。タイプツール情報キー"
 type: docs
-weight: 30
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VsmsResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [VsmsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

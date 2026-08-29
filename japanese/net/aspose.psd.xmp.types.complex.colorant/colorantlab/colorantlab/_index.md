@@ -1,14 +1,15 @@
 ---
-title: ColorantLab.ColorantLab
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantLab コンストラクタ. の新しいインスタンスを初期化しますColorantLabclass.
+title: "ColorantLab.ColorantLab"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantLab コンストラクタ。ColorantLab クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantlab/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab() {#constructor}
 
-の新しいインスタンスを初期化します[`ColorantLab`](../)class.
+[`ColorantLab`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorantLab()
@@ -17,29 +18,29 @@ public ColorantLab()
 ### 関連項目
 
 * class [ColorantLab](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantLab(int, int, float) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ColorantLab`](../)class.
+[`ColorantLab`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorantLab(int a, int b, float l)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| a | Int32 | コンポーネント。 |
-| b | Int32 | B成分。 |
-| l | Single | L成分。 |
+| a | Int32 | A コンポーネントです。 |
+| b | Int32 | B コンポーネントです。 |
+| l | シングル | L コンポーネントです。 |
 
 ### 関連項目
 
 * class [ColorantLab](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

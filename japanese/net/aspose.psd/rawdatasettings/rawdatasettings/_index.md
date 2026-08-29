@@ -1,14 +1,15 @@
 ---
-title: RawDataSettings.RawDataSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataSettings コンストラクタ. デフォルトのコンストラクター
+title: "RawDataSettings.RawDataSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataSettings コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/rawdatasettings/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public RawDataSettings()
@@ -17,7 +18,7 @@ public RawDataSettings()
 ### 関連項目
 
 * class [RawDataSettings](../)
-* 名前空間 [Aspose.PSD](../../rawdatasettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

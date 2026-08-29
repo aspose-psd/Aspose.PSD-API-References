@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. 指定された減算の結果を返しますSize指定からPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。指定された Point から指定された Size を減算した結果を返します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-指定された減算の結果を返します[`Size`](../../size/)指定から[`Point`](../) .
+指定された [`Point`](../) から指定された [`Size`](../../size/) を減算した結果を返します。
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../)から差し引かれます。 |
-| size | Size | の[`Size`](../../size/)から差し引く*point*. |
+| point | Point | 減算される対象の [`Point`](../)。 |
+| size | Size | *point* から減算される [`Size`](../../size/)。 |
 
 ### 戻り値
 
-の[`Point`](../)それが引き算の結果です。
+減算操作の結果となる [`Point`](../)。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

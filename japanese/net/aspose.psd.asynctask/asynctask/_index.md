@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTask
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.AsyncTask.AsyncTask クラス. 非同期タスクを作成するための静的ファクトリ クラス
+title: "クラス AsyncTask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.AsyncTask.AsyncTask クラス。非同期タスクを作成するための静的ファクトリークラスです。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.asynctask/asynctask/
 ---
+{{< psd/tize >}}
 ## AsyncTask class
 
-非同期タスクを作成するための静的ファクトリ クラス
+非同期タスクを作成するための静的ファクトリクラスです。
 
 ```csharp
 public static class AsyncTask
@@ -23,7 +24,7 @@ public static class AsyncTask
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

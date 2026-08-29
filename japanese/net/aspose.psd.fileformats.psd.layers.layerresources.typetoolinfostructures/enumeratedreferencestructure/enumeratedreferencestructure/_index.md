@@ -1,32 +1,33 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedReferenceStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: EnumeratedReferenceStructure コンストラクタ. の新しいインスタンスを初期化しますEnumeratedReferenceStructureclass.
+title: "EnumeratedReferenceStructure.EnumeratedReferenceStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "EnumeratedReferenceStructure コンストラクタ。EnumeratedReferenceStructure クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure constructor
 
-の新しいインスタンスを初期化します[`EnumeratedReferenceStructure`](../)class.
+[`EnumeratedReferenceStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
     ClassID enumName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
-| classID | ClassID | クラス ID。 |
-| typeID | ClassID | タイプ ID。 |
-| enumName | ClassID | 列挙名。 |
+| classID | ClassID | クラス IDです。 |
+| typeID | ClassID | type IDです。 |
+| enumName | ClassID | enum nameです。 |
 
 ### 関連項目
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

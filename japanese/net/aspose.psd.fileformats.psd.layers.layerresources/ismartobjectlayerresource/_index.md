@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource インターフェース. PSD ファイル内のスマート オブジェクト レイヤー リソースに関する情報を含む ISmartObjectLayerResource インターフェイスを定義します はAdobe Photoshop 画像内の Sold リソースと Sole リソースの両方を指定するために使用されるマークアップ インターフェイスでもあります
+title: "インターフェイス ISmartObjectLayerResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource インターフェイス。PSD ファイル内のスマートオブジェクトレイヤーリソースに関する情報を含む ISmartObjectLayerResource インターフェイスを定義します。また、Adobe Photoshop 画像内の Sold および Sole リソースの両方を指定するために使用されるマークアップインターフェイスでもあります。"
 type: docs
-weight: 2540
+weight: 2830
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-PSD ファイル内のスマート オブジェクト レイヤー リソースに関する情報を含む ISmartObjectLayerResource インターフェイスを定義します。 は、Adobe® Photoshop® 画像内の Sold リソースと Sole リソースの両方を指定するために使用されるマークアップ インターフェイスでもあります。
+ISmartObjectLayerResource インターフェイスを定義し、PSD ファイル内のスマートオブジェクトレイヤーリソースに関する情報を含みます。Adobe® Photoshop® 画像で Sold と Sole の両方のリソースを指定するために使用されるマークアップインターフェイスでもあります。
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -18,11 +19,11 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | PSD 画像内のこのスマート オブジェクト レイヤー データの一意の識別子を取得または設定します。 |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | PSD 画像内のこのスマートオブジェクトレイヤーデータの一意識別子を取得または設定します。 |
 
-### 例
+## 例
 
-次のコードは、埋め込みスマート オブジェクトのサポートを示しています。
+以下のコードは埋め込みスマートオブジェクトのサポートを示しています。
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤーを変更し、スマート オブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
+// この例は、PSD ファイル内のスマートオブジェクトレイヤーを変更し、スマートオブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 埋め込まれたスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーからエクスポートしましょう
+        // PSD のスマートオブジェクトレイヤーから埋め込みスマートオブジェクト画像をエクスポートしましょう
         smartObjectLayer.ExportContents(exportPath);
 
-        // 元の画像が正しく保存されているか確認してみましょう
+        // 元の画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 元のスマートオブジェクトの画像を反転させましょう
+            // 元のスマートオブジェクト画像を反転させましょう
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,11 +87,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // PSD レイヤーに埋め込まれたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内の埋め込みスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 更新された画像が正しく保存されているか確認してみましょう
+        // 更新された画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -100,7 +101,7 @@ foreach (FileFormat format in formats)
 ### 関連項目
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

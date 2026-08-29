@@ -1,14 +1,15 @@
 ---
-title: JpegExifData.SerializeExifData
-second_title: Aspose.PSD for .NET API リファレンス
-description: JpegExifData 方法. EXIF データをシリアル化しますタグの値と内容を書き込みます最も影響力のあるサイズ タグはThumbnail タグの content. です
+title: "JpegExifData.SerializeExifData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JpegExifData メソッド。EXIF データをシリアライズします。タグの値と内容を書き込みます。サイズに最も影響を与えるタグはサムネイルタグの内容です"
 type: docs
 weight: 270
 url: /ja/net/aspose.psd.exif/jpegexifdata/serializeexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SerializeExifData method
 
-EXIF データをシリアル化します。タグの値と内容を書き込みます。最も影響力のあるサイズ タグは、Thumbnail タグの content. です。
+EXIF データをシリアライズします。タグの値と内容を書き込みます。サイズに最も影響を与えるタグはサムネイルタグの内容です。
 
 ```csharp
 public byte[] SerializeExifData()
@@ -16,16 +17,16 @@ public byte[] SerializeExifData()
 
 ### 戻り値
 
-シリアル化された EXIF データ。
+シリアライズされた EXIF データです。
 
-### 備考
+## 備考
 
-正しい jpeg 画像を生成するには、セグメント全体のサイズを MaxExifSegmentSize バイト以下にする必要があります。 ヒント: EXIF セクションのサイズが大きすぎる場合は、サムネイルのサイズを小さくするか、圧縮を変更してください。
+正しい JPEG 画像を生成するためには、全体のセグメントサイズが MaxExifSegmentSize バイト以下である必要があります。ヒント: サムネイルサイズを縮小するか、圧縮率を変更して、EXIF セクションのサイズが大きすぎる場合に対処してください。
 
 ### 関連項目
 
 * class [JpegExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

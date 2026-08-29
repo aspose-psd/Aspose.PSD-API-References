@@ -1,14 +1,15 @@
 ---
-title: GlobalAltitudeResource.GlobalAltitudeResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalAltitudeResource コンストラクタ. デフォルトのコンストラクター
+title: "GlobalAltitudeResource.GlobalAltitudeResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalAltitudeResource コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public GlobalAltitudeResource()
@@ -17,7 +18,7 @@ public GlobalAltitudeResource()
 ### 関連項目
 
 * class [GlobalAltitudeResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

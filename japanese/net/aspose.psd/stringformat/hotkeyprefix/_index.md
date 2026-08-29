@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. を取得または設定しますHotkeyPrefixこのオブジェクトStringFormatobject.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。 この StringFormat オブジェクトの HotkeyPrefix オブジェクトを取得または設定します"
 type: docs
-weight: 90
+weight: 100
 url: /ja/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-を取得または設定します[`HotkeyPrefix`](../../hotkeyprefix/)このオブジェクト[`StringFormat`](../)object.
+この [`StringFormat`](../) オブジェクトの [`HotkeyPrefix`](../../hotkeyprefix/) オブジェクトを取得または設定します。
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-の[`HotkeyPrefix`](../../hotkeyprefix/)このオブジェクト[`StringFormat`](../)オブジェクト、デフォルトはNone.
+この [`StringFormat`](../) オブジェクトの [`HotkeyPrefix`](../../hotkeyprefix/) オブジェクトです。デフォルトは None です。
 
 ### 関連項目
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. 平面構成を取得または設定します
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。平面構成を取得または設定します"
 type: docs
-weight: 330
+weight: 340
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
 平面構成を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-平面構成。
+平面構成です。
 
 ### 関連項目
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

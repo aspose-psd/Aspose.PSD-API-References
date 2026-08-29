@@ -1,14 +1,15 @@
 ---
-title: Enum LayerMaskFlags
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags 列挙. レイヤーマスク flags
+title: "列挙型 LayerMaskFlags"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerMaskFlags 列挙型。レイヤーマスク フラグ"
 type: docs
-weight: 2270
+weight: 2470
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskFlags enumeration
 
-レイヤーマスク flags
+レイヤーマスクフラグです。
 
 ```csharp
 [Flags]
@@ -17,17 +18,18 @@ public enum LayerMaskFlags : byte
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `0` | フラグが定義されていません。 |
-| RelativeToLayer | `1` | 位置はレイヤーに相対的です. |
-| Disabled | `2` | レイヤーマスクは無効です. |
-| InvertedWhenBlending | `4` | ブレンド時にレイヤーマスクを反転. |
-| UserMaskFromRenderingOtherData | `8` | ユーザー マスクが実際に他の data のレンダリングに由来することを示します |
+| None | `0` | フラグは定義されていません。 |
+| RelativeToLayer | `1` | 位置はレイヤーに対して相対的です。 |
+| Disabled | `2` | レイヤーマスクは無効です。 |
+| InvertedWhenBlending | `4` | ブレンド時にレイヤーマスクを反転します。 |
+| UserMaskFromRenderingOtherData | `8` | ユーザーマスクが実際に他のデータのレンダリングから生成されたことを示します。 |
+| UserOrVectorMasksHaveParameters | `10` | ユーザーおよび/またはベクトルマスクにパラメータが適用されていることを示します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

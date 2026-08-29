@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.Item
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 財産. 指定したインデックスの要素を取得または設定します
+title: "NonGenericList.Item"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList プロパティ。指定されたインデックスの要素を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/nongenericlist/item/
 ---
+{{< psd/tize >}}
 ## NonGenericList indexer
 
-指定したインデックスの要素を取得または設定します。
+指定されたインデックスの要素を取得または設定します。
 
 ```csharp
 public object this[int index] { get; set; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| index | インデックス。 |
+| インデックス | インデックス。 |
 
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

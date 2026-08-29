@@ -1,14 +1,15 @@
 ---
-title: Matrix.M12
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 財産. 1 行 2 列目の行列要素を取得します Y 軸に沿ったせん断を表します
+title: "Matrix.M12"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix プロパティ。第1行第2列の行列要素を取得します。Y 軸方向のせん断を表します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/matrix/m12/
 ---
+{{< psd/tize >}}
 ## Matrix.M12 property
 
-1 行 2 列目の行列要素を取得します。 Y 軸に沿ったせん断を表します。
+最初の行・2 番目の列の行列要素を取得します。Y 軸方向のせん断を表します。
 
 ```csharp
 public float M12 { get; }
@@ -17,7 +18,7 @@ public float M12 { get; }
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

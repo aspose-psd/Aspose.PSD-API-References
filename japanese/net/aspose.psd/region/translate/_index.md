@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. この座標をオフセットしますRegion指定された量によって.
+title: "Region.Translate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。指定された量だけこの Region の座標をオフセットします。"
 type: docs
-weight: 130
+weight: 140
 url: /ja/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-この座標をオフセットします[`Region`](../)指定された量によって.
+指定された量だけこの[`Region`](../)の座標をオフセットします。
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dx | Single | これを相殺する金額[`Region`](../)水平に。 |
-| dy | Single | これを相殺する金額[`Region`](../)垂直に。 |
+| dx | Single | この[`Region`](../)を水平方向にオフセットする量。 |
+| dy | Single | この[`Region`](../)を垂直方向にオフセットする量。 |
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-この座標をオフセットします[`Region`](../)指定された量によって.
+指定された量だけこの[`Region`](../)の座標をオフセットします。
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dx | Int32 | これを相殺する金額[`Region`](../)水平に。 |
-| dy | Int32 | これを相殺する金額[`Region`](../)垂直に。 |
+| dx | Int32 | この[`Region`](../)を水平方向にオフセットする量。 |
+| dy | Int32 | この[`Region`](../)を垂直方向にオフセットする量。 |
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

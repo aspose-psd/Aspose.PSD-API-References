@@ -1,14 +1,15 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText インターフェース. テキストレイヤーのテキスト編集用インターフェース
+title: "インターフェイス IText"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.IText インターフェイス。テキストレイヤーのテキスト編集用インターフェイスです"
 type: docs
-weight: 3510
+weight: 3930
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
-テキストレイヤーのテキスト編集用インターフェース
+テキストレイヤー用テキスト編集インターフェイス
 
 ```csharp
 public interface IText
@@ -18,7 +19,7 @@ public interface IText
 
 | 名前 | 説明 |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | アイテムを取得します。 |
+| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | 項目を取得します。 |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | テキストを取得します。 |
 | [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | テキストの向きを取得または設定します。 |
 
@@ -26,16 +27,16 @@ public interface IText
 
 | 名前 | 説明 |
 | --- | --- |
-| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | テキストの一部を end に追加します |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | 挿入します[`ITextPortion`](../itextportion/)指定位置へ |
-| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | デフォルトのパラメーターで新しい部分を生成します |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | 入力パラメータまたはデフォルト パラメータを使用して新しい部分を生成します。 |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | 指定された index の部分を削除します |
-| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | レイヤ データを更新します。 |
+| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | テキストの部分を末尾に追加します |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | 指定した位置に [`ITextPortion`](../itextportion/) を挿入します |
+| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | デフォルトパラメータで新しい部分を生成します |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | 入力またはデフォルトパラメータで新しい部分を生成します。 |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | 指定されたインデックスの部分を削除します |
+| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | レイヤーデータを更新します。 |
 
-### 例
+## 例
 
-次のコード例は、テキスト部分の編集とそのテキスト スタイルを示しています。
+以下のコード例は、テキスト部分とそのテキストスタイルの編集を示しています。
 
 ```csharp
 [C#]
@@ -58,7 +59,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // すべての部分のテキストをチェック
+            // 各部分のテキストをチェックしています
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -67,8 +68,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 段落データのチェック
-            // 段落ごとに正当性が異なります
+            // 段落データをチェックしています
+            // 段落の配置が異なります
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -78,7 +79,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 最初と 2 番目の段落の他のすべてのプロパティは等しい
+            // 最初と2番目の段落の他のすべてのプロパティは等しいです
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -117,8 +118,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // スタイルデータのチェック
-            // スタイルによって色とフォント サイズが異なります
+            // スタイルデータをチェックしています
+            // スタイルの色とフォントサイズが異なります
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -165,18 +166,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // 部分の段落とスタイルの編集の例
-            // 右揃えを設定
+            // 部分に対する段落とスタイルの編集例
+            // 右揃えに設定する
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // スタイルごとに異なる色。は変更されますが、レンダリングは完全にはサポートされていません
+            // 各スタイルの色が異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 別のフォント。は変更されますが、レンダリングは完全にはサポートされていません
+            // フォントが異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -193,7 +194,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

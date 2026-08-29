@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeOriginSettings 財産. 元の半径の四角形を取得または設定します
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeOriginSettings プロパティ。 原点半径矩形を取得または設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
-元の半径の四角形を取得または設定します。
+origin radii rectangle を取得または設定します。
 
 ```csharp
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-元の半径の長方形。
+原点半径矩形です。
 
 ### 関連項目
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

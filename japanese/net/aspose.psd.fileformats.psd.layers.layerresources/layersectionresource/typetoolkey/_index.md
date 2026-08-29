@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerSectionResource 分野. タイプ ツール情報キー
+title: "LayerSectionResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerSectionResource フィールド。タイプツール情報キー"
 type: docs
-weight: 100
+weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [LayerSectionResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: ConvolutionFilterOptions コンストラクタ. の新しいインスタンスを初期化しますConvolutionFilterOptionsclass.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ConvolutionFilterOptions コンストラクタ。ConvolutionFilterOptions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-の新しいインスタンスを初期化します[`ConvolutionFilterOptions`](../)class.
+[`ConvolutionFilterOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ConvolutionFilterOptions()
@@ -17,7 +18,7 @@ public ConvolutionFilterOptions()
 ### 関連項目
 
 * class [ConvolutionFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

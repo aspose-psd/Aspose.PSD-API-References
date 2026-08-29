@@ -1,14 +1,15 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.LineCap 列挙. 使用可能なキャップ スタイルを指定しますPenオブジェクトは行を終了できます.
+title: "列挙型 LineCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.LineCap 列挙型。Pen オブジェクトが線を終端させる際に使用できる利用可能なキャップスタイルを指定します。"
 type: docs
-weight: 5060
+weight: 5550
 url: /ja/net/aspose.psd/linecap/
 ---
+{{< psd/tize >}}
 ## LineCap enumeration
 
-使用可能なキャップ スタイルを指定します。[`Pen`](../pen/)オブジェクトは行を終了できます.
+[`Pen`](../pen/) オブジェクトが線を終端させる際に使用できる利用可能なキャップスタイルを指定します。
 
 ```csharp
 public enum LineCap
@@ -16,23 +17,23 @@ public enum LineCap
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Flat | `0` | フラット ライン キャップを指定します。 |
-| Square | `1` | 四角い線のキャップを指定します。 |
-| Round | `2` | ラウンド ライン キャップを指定します。 |
-| Triangle | `3` | 三角線キャップを指定します。 |
+| Flat | `0` | フラットなラインキャップを指定します。 |
+| Square | `1` | スクエアなラインキャップを指定します。 |
+| Round | `2` | ラウンドなラインキャップを指定します。 |
+| Triangle | `3` | 三角形のラインキャップを指定します。 |
 | NoAnchor | `16` | アンカーなしを指定します。 |
-| SquareAnchor | `17` | 正方形のアンカー ライン キャップを指定します。 |
-| RoundAnchor | `18` | 丸いアンカー キャップを指定します。 |
-| DiamondAnchor | `19` | ダイヤモンド アンカー キャップを指定します。 |
-| ArrowAnchor | `20` | 矢印形のアンカー キャップを指定します。 |
-| AnchorMask | `240` | カスタム ライン キャップを指定します。 |
-| Custom | `255` | ライン キャップがアンカー キャップかどうかをチェックするために使用するマスクを指定します。 |
+| SquareAnchor | `17` | スクエアアンカーのラインキャップを指定します。 |
+| RoundAnchor | `18` | ラウンドアンカーのキャップを指定します。 |
+| DiamondAnchor | `19` | ダイヤモンドアンカーのキャップを指定します。 |
+| ArrowAnchor | `20` | 矢印形状のアンカーキャップを指定します。 |
+| AnchorMask | `240` | カスタムラインキャップを指定します。 |
+| Custom | `255` | ラインキャップがアンカーキャップかどうかを確認するために使用されるマスクを指定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifUnit 列挙. exif ユニット列挙型.
+title: "列挙型 ExifUnit"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifUnit 列挙型。exif ユニット 列挙型"
 type: docs
-weight: 960
+weight: 970
 url: /ja/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-exif ユニット列挙型.
+exif 単位列挙。
 
 ```csharp
 public enum ExifUnit
@@ -16,15 +17,15 @@ public enum ExifUnit
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| None | `1` | 未定義の単位 |
-| Inch | `2` | インチ単位 |
-| Cm | `3` | メートル法センチメートル単位 |
+| None | `1` | 未定義ユニット |
+| Inch | `2` | インチユニット |
+| Cm | `3` | メートル法センチメートルユニット |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

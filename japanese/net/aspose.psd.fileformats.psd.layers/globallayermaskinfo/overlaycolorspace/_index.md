@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalLayerMaskInfo 財産. オーバーレイの色空間を取得または設定します 文書化されていない値.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalLayerMaskInfo プロパティ。 オーバーレイ カラースペースの未文書化値を取得または設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-オーバーレイの色空間を取得または設定します (文書化されていない値).
+オーバーレイのカラースペースを取得または設定します（未文書化の値）。
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-オーバーレイの色空間。
+オーバーレイ カラースペース。
 
 ### 関連項目
 
 * class [GlobalLayerMaskInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

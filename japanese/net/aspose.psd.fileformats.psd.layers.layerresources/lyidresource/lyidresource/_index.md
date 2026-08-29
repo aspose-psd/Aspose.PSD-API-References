@@ -1,53 +1,54 @@
 ---
-title: LyidResource.LyidResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LyidResource コンストラクタ. の新しいインスタンスを初期化しますLyidResourceclass.
+title: "LyidResource.LyidResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LyidResource コンストラクタ。LyidResource クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource(int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`LyidResource`](../)class.
+[`LyidResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public LyidResource(int id)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| id | Int32 | レイヤーの識別子。 |
+| id | Int32 | レイヤーの識別子です。 |
 
 ### 関連項目
 
 * class [LyidResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LyidResource(byte[]) {#constructor}
 
-の新しいインスタンスを初期化します[`LyidResource`](../) class. カスタムまたは不明な値を使用
+[`LyidResource`](../) クラスの新しいインスタンスを初期化します。カスタムまたは不明な値を使用します。
 
 ```csharp
 public LyidResource(byte[] bytes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| bytes | Byte[] | バイト。 |
+| バイト | Byte[] | バイトです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | lyid リソース値が無効です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な lyid Resource 値 |
 
 ### 関連項目
 
 * class [LyidResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PointF.Empty
-second_title: Aspose.PSD for .NET API リファレンス
-description: PointF 財産. の新しいインスタンスを取得しますPointF持つ構造XとYゼロに設定された値.
+title: "PointF.Empty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PointF プロパティ。X と Y の値が 0 に設定された PointF 構造体の新しいインスタンスを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/pointf/empty/
 ---
+{{< psd/tize >}}
 ## PointF.Empty property
 
-の新しいインスタンスを取得します[`PointF`](../)持つ構造[`X`](../x/)と[`Y`](../y/)ゼロに設定された値.
+[`PointF`](../)構造体の新しいインスタンスを取得します。[`X`](../x/) と [`Y`](../y/) の値は 0 に設定されています。
 
 ```csharp
 public static PointF Empty { get; }
@@ -17,7 +18,7 @@ public static PointF Empty { get; }
 ### 関連項目
 
 * struct [PointF](../)
-* 名前空間 [Aspose.PSD](../../pointf/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

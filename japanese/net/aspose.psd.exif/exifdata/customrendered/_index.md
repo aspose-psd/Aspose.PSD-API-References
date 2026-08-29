@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. カスタム レンダリングを取得または設定します
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。カスタムレンダリングを取得または設定します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-カスタム レンダリングを取得または設定します。
+カスタムレンダリングを取得または設定します。
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-カスタム レンダリング。
+カスタムレンダリングです。
 
 ### 関連項目
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

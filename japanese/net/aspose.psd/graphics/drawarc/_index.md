@@ -1,136 +1,137 @@
 ---
-title: Graphics.DrawArc
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. 座標幅および高さのペアで指定された楕円の一部を表す円弧を描画します
+title: "Graphics.DrawArc"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。座標のペアと幅と高さで指定された楕円の一部を表す弧を描画します。"
 type: docs
-weight: 160
+weight: 170
 url: /ja/net/aspose.psd/graphics/drawarc/
 ---
+{{< psd/tize >}}
 ## DrawArc(Pen, float, float, float, float, float, float) {#drawarc_3}
 
-座標、幅、および高さのペアで指定された楕円の一部を表す円弧を描画します。
+座標のペア、幅、および高さで指定された楕円の一部を表す弧を描画します。
 
 ```csharp
 public void DrawArc(Pen pen, float x, float y, float width, float height, float startAngle, 
     float sweepAngle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)円弧の色、幅、およびスタイルを決定します。 |
-| x | Single | 楕円を定義する四角形の左上隅の x 座標。 |
-| y | Single | 楕円を定義する四角形の左上隅の y 座標。 |
-| width | Single | 楕円を定義する長方形の幅。 |
-| height | Single | 楕円を定義する長方形の高さ。 |
-| startAngle | Single | X 軸から円弧の始点まで時計回りに測定した角度 (度単位)。 |
-| sweepAngle | Single | から時計回りに測定した度単位の角度*startAngle*パラメータを円弧の終点に移動します。 |
+| pen | Pen | 弧の色、幅、スタイルを決定する[`Pen`](../../pen/)です。 |
+| x | シングル | 楕円を定義する矩形の左上隅の x 座標です。 |
+| y | シングル | 楕円を定義する矩形の左上隅の y 座標です。 |
+| width | シングル | 楕円を定義する矩形の幅です。 |
+| height | シングル | 楕円を定義する矩形の高さです。 |
+| startAngle | シングル | 弧の開始点まで、x 軸から時計回りに測定した角度（度）です。 |
+| sweepAngle | シングル | *startAngle* パラメータから弧の終了点まで、時計回りに測定した角度（度）です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*無効である。 |
+| ArgumentNullException | *pen* は null です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-で指定された楕円の一部を表す円弧を描画します[`RectangleF`](../../rectanglef/)構造体.
+[`RectangleF`](../../rectanglef/) 構造体で指定された楕円の一部を表す弧を描画します。
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)円弧の色、幅、およびスタイルを決定します。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)楕円の境界を定義する構造。 |
-| startAngle | Single | X 軸から円弧の始点まで時計回りに測定した角度 (度単位)。 |
-| sweepAngle | Single | から時計回りに測定した度単位の角度*startAngle*パラメータを円弧の終点に移動します。 |
+| pen | Pen | 弧の色、幅、スタイルを決定する[`Pen`](../../pen/)です。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 構造体は楕円の境界を定義します。 |
+| startAngle | シングル | 弧の開始点まで、x 軸から時計回りに測定した角度（度）です。 |
+| sweepAngle | シングル | *startAngle* パラメータから弧の終了点まで、時計回りに測定した角度（度）です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*無効である |
+| ArgumentNullException | *pen* が null です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, int, int, int, int, int, int) {#drawarc_2}
 
-座標、幅、および高さのペアで指定された楕円の一部を表す円弧を描画します。
+座標のペア、幅、および高さで指定された楕円の一部を表す弧を描画します。
 
 ```csharp
 public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)円弧の色、幅、およびスタイルを決定します。 |
-| x | Int32 | 楕円を定義する四角形の左上隅の x 座標。 |
-| y | Int32 | 楕円を定義する四角形の左上隅の y 座標。 |
-| width | Int32 | 楕円を定義する長方形の幅。 |
-| height | Int32 | 楕円を定義する長方形の高さ。 |
-| startAngle | Int32 | X 軸から円弧の始点まで時計回りに測定した角度 (度単位)。 |
-| sweepAngle | Int32 | から時計回りに測定した度単位の角度*startAngle*パラメータを円弧の終点に移動します。 |
+| pen | Pen | 弧の色、幅、スタイルを決定する[`Pen`](../../pen/)です。 |
+| x | Int32 | 楕円を定義する矩形の左上隅の x 座標です。 |
+| y | Int32 | 楕円を定義する矩形の左上隅の y 座標です。 |
+| width | Int32 | 楕円を定義する矩形の幅です。 |
+| height | Int32 | 楕円を定義する矩形の高さです。 |
+| startAngle | Int32 | 弧の開始点まで、x 軸から時計回りに測定した角度（度）です。 |
+| sweepAngle | Int32 | *startAngle* パラメータから弧の終了点まで、時計回りに測定した角度（度）です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*無効である。 |
+| ArgumentNullException | *pen* は null です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-で指定された楕円の一部を表す円弧を描画します[`Rectangle`](../../rectangle/)構造体.
+[`Rectangle`](../../rectangle/) 構造体で指定された楕円の一部を表す弧を描画します。
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)円弧の色、幅、およびスタイルを決定します。 |
-| rect | Rectangle | [`RectangleF`](../../rectanglef/)楕円の境界を定義する構造。 |
-| startAngle | Single | X 軸から円弧の始点まで時計回りに測定した角度 (度単位)。 |
-| sweepAngle | Single | から時計回りに測定した度単位の角度*startAngle*パラメータを円弧の終点に移動します。 |
+| pen | Pen | 弧の色、幅、スタイルを決定する[`Pen`](../../pen/)です。 |
+| rect | Rectangle | [`RectangleF`](../../rectanglef/) 構造体は楕円の境界を定義します。 |
+| startAngle | シングル | 弧の開始点まで、x 軸から時計回りに測定した角度（度）です。 |
+| sweepAngle | シングル | *startAngle* パラメータから弧の終了点まで、時計回りに測定した角度（度）です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*無効である。 |
+| ArgumentNullException | *pen* は null です。 |
 
 ### 関連項目
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

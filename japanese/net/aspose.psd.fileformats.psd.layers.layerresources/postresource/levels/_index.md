@@ -1,14 +1,15 @@
 ---
-title: PostResource.Levels
-second_title: Aspose.PSD for .NET API リファレンス
-description: PostResource 財産. ポスタライズ レイヤーのレベル.
+title: "PostResource.Levels"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PostResource プロパティ。ポスタライズレイヤーのレベル"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/
 ---
+{{< psd/tize >}}
 ## PostResource.Levels property
 
-ポスタライズ レイヤーのレベル.
+Posterize レイヤーのレベル。
 
 ```csharp
 public short Levels { get; set; }
@@ -16,12 +17,39 @@ public short Levels { get; set; }
 
 ### 戻り値
 
-レベル int 値
+Levels 整数値
+
+## 例
+
+以下のコードは PostResource の操作機能を示しています。
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
 
 ### 関連項目
 
 * class [PostResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurFilterOptions.Radius
-second_title: Aspose.PSD for .NET API リファレンス
-description: GaussianBlurFilterOptions 財産. 半径を取得または設定します
+title: "GaussianBlurFilterOptions.Radius"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GaussianBlurFilterOptions プロパティ。半径を取得または設定します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Radius property
 
 半径を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/rad
 public int Radius { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-半径.
+半径です。
 
 ### 関連項目
 
 * class [GaussianBlurFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

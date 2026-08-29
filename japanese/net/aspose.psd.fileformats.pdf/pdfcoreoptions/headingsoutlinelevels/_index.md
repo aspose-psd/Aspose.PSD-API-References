@@ -1,14 +1,15 @@
 ---
-title: PdfCoreOptions.HeadingsOutlineLevels
-second_title: Aspose.PSD for .NET API リファレンス
-description: PdfCoreOptions 財産. ドキュメントのアウトラインに含めるアウトライン アイテムのレベル数を指定します 0  アウトラインなし1  アウトライン レベル 1 など デフォルトは 0.
+title: "PdfCoreOptions.HeadingsOutlineLevels"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PdfCoreOptions プロパティ。ドキュメントアウトラインに含めるアウトライン項目のレベル数を指定します。0 はアウトラインなし、1 は1レベルのアウトライン、以降同様です。デフォルトは 0 です。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.HeadingsOutlineLevels property
 
-ドキュメントのアウトラインに含めるアウトライン アイテムのレベル数を指定します。 0 - アウトラインなし、1 - アウトライン レベル 1 など。 デフォルトは 0.
+ドキュメントアウトラインに含めるアウトライン項目のレベル数を指定します。0 - アウトラインなし、1 - 1 レベルのアウトライン、以降同様。デフォルトは 0 です。
 
 ```csharp
 public int HeadingsOutlineLevels { get; set; }
@@ -17,7 +18,7 @@ public int HeadingsOutlineLevels { get; set; }
 ### 関連項目
 
 * class [PdfCoreOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

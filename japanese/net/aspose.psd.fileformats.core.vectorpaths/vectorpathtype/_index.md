@@ -1,14 +1,15 @@
 ---
-title: Enum VectorPathType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType 列挙. PSD フォーマット仕様に基づくベクター パス タイプ
+title: "列挙体 VectorPathType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType 列挙体。PSD フォーマット仕様に基づくベクトルパスタイプです。"
 type: docs
-weight: 1420
+weight: 1430
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-PSD フォーマット仕様に基づくベクター パス タイプ
+PSD フォーマット仕様に基づくベクトルパスタイプ
 
 ```csharp
 public enum VectorPathType : short
@@ -16,21 +17,21 @@ public enum VectorPathType : short
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | 閉じたサブパスの長さ record |
-| ClosedSubpathBezierKnotLinked | `1` | 閉じたサブパス ベジエ ノット linked |
-| ClosedSubpathBezierKnotUnlinked | `2` | 閉じたサブパス ベジエ ノット unlinked |
-| OpenSubpathLengthRecord | `3` | 開いているサブパスの長さ record |
-| OpenSubpathBezierKnotLinked | `4` | オープン サブパス ベジエ ノット linked |
-| OpenSubpathBezierKnotUnlinked | `5` | オープン サブパス ベジエ ノット unlinked |
-| PathFillRuleRecord | `6` | パス フィル ルール record |
-| ClipboardRecord | `7` | クリップボード レコード |
-| InitialFillRuleRecord | `8` | 初期フィル ルール レコード |
+| ClosedSubpathLengthRecord | `0` | 閉じたサブパスの長さレコード |
+| ClosedSubpathBezierKnotLinked | `1` | 閉じたサブパスのベジェノット（リンクあり） |
+| ClosedSubpathBezierKnotUnlinked | `2` | 閉じたサブパスのベジェノット（リンクなし） |
+| OpenSubpathLengthRecord | `3` | 開いたサブパスの長さレコード |
+| OpenSubpathBezierKnotLinked | `4` | 開いたサブパスのベジェノット（リンクあり） |
+| OpenSubpathBezierKnotUnlinked | `5` | 開いたサブパスのベジェノット（リンクなし） |
+| PathFillRuleRecord | `6` | パス塗りつぶし規則レコード |
+| ClipboardRecord | `7` | クリップボードレコード |
+| InitialFillRuleRecord | `8` | 初期塗りつぶし規則レコード |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

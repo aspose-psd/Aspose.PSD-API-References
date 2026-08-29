@@ -1,14 +1,15 @@
 ---
-title: Class XmpElementBase
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.XmpElementBase クラス. 基本 xmp 要素に属性が含まれていることを表します
+title: "クラス XmpElementBase"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.XmpElementBase クラス。ベースの xmp 要素を表し、属性を含みます"
 type: docs
-weight: 6240
+weight: 6740
 url: /ja/net/aspose.psd.xmp/xmpelementbase/
 ---
+{{< psd/tize >}}
 ## XmpElementBase class
 
-基本 xmp 要素に属性が含まれていることを表します。
+属性を含む基本 xmp 要素を表します。
 
 ```csharp
 public abstract class XmpElementBase : IEquatable<XmpElementBase>
@@ -20,14 +21,14 @@ public abstract class XmpElementBase : IEquatable<XmpElementBase>
 | --- | --- |
 | virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute/)(string, string) | 属性を追加します。 |
 | virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | すべての属性を削除します。 |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals_1)(object) | 指定されたObject、このインスタンスと等しい. |
-| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals)(XmpElementBase) | 現在のオブジェクトが同じタイプの別のオブジェクトと等しいかどうかを示します. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals_1)(object) | 指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。 |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/#equals)(XmpElementBase) | 現在のオブジェクトが同じ型の別のオブジェクトと等しいかどうかを示します。 |
 | virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | 属性を取得します。 |
-| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | このインスタンスのハッシュ コードを返します。 |
+| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | このインスタンスのハッシュコードを返します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

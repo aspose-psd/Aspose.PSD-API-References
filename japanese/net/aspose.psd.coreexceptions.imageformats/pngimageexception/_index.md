@@ -1,14 +1,15 @@
 ---
-title: Class PngImageException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException クラス. png 画像の例外
+title: "クラス PngImageException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PngImageException クラス。png 画像例外です。"
 type: docs
 weight: 570
 url: /ja/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-png 画像の例外。
+png 画像例外です。
 
 ```csharp
 public class PngImageException : Exception
@@ -18,12 +19,12 @@ public class PngImageException : Exception
 
 | 名前 | 説明 |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | の新しいインスタンスを初期化します`PngImageException`class. |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`PngImageException`class. |
+| [PngImageException](pngimageexception/#constructor)(string) | `PngImageException` クラスの新しいインスタンスを初期化します。 |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | `PngImageException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

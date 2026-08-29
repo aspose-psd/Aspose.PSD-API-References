@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: ShmdResource コンストラクタ. の新しいインスタンスを初期化しますShmdResourceclass.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ShmdResource コンストラクタ。ShmdResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-の新しいインスタンスを初期化します[`ShmdResource`](../)class.
+[`ShmdResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ShmdResource()
@@ -17,27 +18,27 @@ public ShmdResource()
 ### 関連項目
 
 * class [ShmdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ShmdResource`](../)class.
+[`ShmdResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソースのデータ。 |
+| データ | Byte[] | そのリソースのデータです。 |
 
 ### 関連項目
 
 * class [ShmdResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

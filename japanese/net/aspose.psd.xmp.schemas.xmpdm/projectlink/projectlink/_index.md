@@ -1,14 +1,15 @@
 ---
-title: ProjectLink.ProjectLink
-second_title: Aspose.PSD for .NET API リファレンス
-description: ProjectLink コンストラクタ. デフォルトのコンストラクター
+title: "ProjectLink.ProjectLink"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ProjectLink コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/projectlink/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public ProjectLink()
@@ -17,7 +18,7 @@ public ProjectLink()
 ### 関連項目
 
 * class [ProjectLink](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

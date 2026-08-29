@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.TransparencyPoints
-second_title: Aspose.PSD for .NET API リファレンス
-description: IGradientFillSettings 財産. 透過ポイントを取得します
+title: "IGradientFillSettings.TransparencyPoints"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IGradientFillSettings プロパティ。透明度ポイントを取得します"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.TransparencyPoints property
 
 透過ポイントを取得します。
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientTransparencyPoint[] TransparencyPoints { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-透明度ポイント.
+透明度ポイントです。
 
-### 例
+## 例
 
-次の例は、Gradient FillLayer のサポートと IGradientFillSettings 編集オプションを示しています。
+次の例は、グラデーション FillLayer のサポートと IGradientFillSettings の編集オプションを示しています。
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -94,7 +96,7 @@ using (im)
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * interface [IGradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

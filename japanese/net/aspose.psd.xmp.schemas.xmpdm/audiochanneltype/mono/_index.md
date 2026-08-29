@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Mono
-second_title: Aspose.PSD for .NET API リファレンス
-description: AudioChannelType 財産. モノラル オーディオ チャネルを取得します
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AudioChannelType プロパティ。 mono オーディオチャンネルを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
-モノラル オーディオ チャネルを取得します。
+モノラルオーディオチャンネルを取得します。
 
 ```csharp
 public static AudioChannelType Mono { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-モノラル オーディオ チャンネル。
+このmonoオーディオチャンネルです。
 
 ### 関連項目
 
 * class [AudioChannelType](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

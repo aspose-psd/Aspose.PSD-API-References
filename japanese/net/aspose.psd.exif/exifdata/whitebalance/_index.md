@@ -1,11 +1,12 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. ホワイトバランスを取得または設定します
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。ホワイトバランスを取得または設定します"
 type: docs
 weight: 1070
 url: /ja/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
 ホワイトバランスを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.exif/exifdata/whitebalance/
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ホワイトバランス.
+ホワイトバランスです。
 
 ### 関連項目
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.BitsPerPixel
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. ピクセルあたりのビット数を取得します
+title: "PixelDataFormat.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。ピクセルあたりのビット数を取得します"
 type: docs
 weight: 300
 url: /ja/net/aspose.psd/pixeldataformat/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.BitsPerPixel property
 
 ピクセルあたりのビット数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/pixeldataformat/bitsperpixel/
 public int BitsPerPixel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ピクセルあたりのビット数。
+ビット/ピクセルです。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

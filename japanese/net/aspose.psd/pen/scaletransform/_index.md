@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 方法. 指定された係数でローカル ジオメトリック トランスフォームをスケーリングしますこのメソッドはスケーリング マトリックスを変換の先頭に追加します
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen メソッド。指定された係数でローカルの幾何変換を拡大縮小します。このメソッドは拡大縮小行列を変換の先頭に追加します。"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-指定された係数でローカル ジオメトリック トランスフォームをスケーリングします。このメソッドは、スケーリング マトリックスを変換の先頭に追加します。
+ローカルの幾何変換を指定された係数で拡大縮小します。このメソッドは拡大縮小行列を変換の先頭に追加します。
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sx | Single | x 軸方向の変換をスケーリングする係数。 |
-| sy | Single | 軸方向の変換をスケーリングする係数。 |
+| sx | シングル | x 軸方向に変換を拡大縮小する係数です。 |
+| sy | シングル | y 軸方向に変換を拡大縮小する係数です。 |
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-指定された順序で、指定された係数によってローカル ジオメトリック変換をスケーリングします。
+ローカルの幾何変換を指定された係数で、指定された順序で拡大縮小します。
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sx | Single | x 軸方向の変換をスケーリングする係数。 |
-| sy | Single | 軸方向の変換をスケーリングする係数。 |
-| order | MatrixOrder | あ[`MatrixOrder`](../../matrixorder/)スケーリング行列を追加するか先頭に追加するかを指定します。 |
+| sx | シングル | x 軸方向に変換を拡大縮小する係数です。 |
+| sy | シングル | y 軸方向に変換を拡大縮小する係数です。 |
+| order | MatrixOrder | 拡大縮小行列を追加するか先頭に付加するかを指定する [`MatrixOrder`](../../matrixorder/) です。 |
 
 ### 関連項目
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

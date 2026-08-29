@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ScaleFactor
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfoResource 財産. 倍率を取得または設定します
+title: "TypeToolInfoResource.ScaleFactor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfoResource プロパティ。スケールファクターを取得または設定します"
 type: docs
-weight: 170
+weight: 150
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ScaleFactor property
 
-倍率を取得または設定します。
+スケール係数を取得または設定します。
 
 ```csharp
 public int ScaleFactor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-倍率。
+スケールファクターです。
 
 ### 関連項目
 
 * class [TypeToolInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

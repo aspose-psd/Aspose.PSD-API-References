@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: OuterGlowEffect 財産. ぼかし値をピクセル単位で取得します
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OuterGlowEffect プロパティ。ピクセル単位のぼかし値を取得します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-ぼかし値をピクセル単位で取得します。
+ぼかし値（ピクセル単位）を取得します。
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-サイズ.
+サイズです。
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### 関連項目
 
 * class [OuterGlowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: TextLayer.TextData
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextLayer 財産. テキスト部分を取得します
+title: "TextLayer.TextData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextLayer プロパティ。 テキストの部分を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextData property
 
-テキスト部分を取得します。
+テキストの部分を取得します。
 
 ```csharp
 public IText TextData { get; }
 ```
 
-### 例
+## 例
 
-次のコードは、Aspose.PSD がテキスト レイヤーのインライン フォーマットのプロパティを取得する方法を示しています。
+以下のコードは、Aspose.PSD がテキストレイヤーのインライン書式設定のプロパティを取得する方法を示しています。
 
 ```csharp
 [C#]
@@ -26,7 +27,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// 既存の画像を PsdImage クラスのインスタンスにロードします
+// 既存の画像を PsdImage クラスのインスタンスにロードします。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -70,7 +71,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-次のコード例は、テキスト部分の編集とそのテキスト スタイルを示しています。
+以下のコード例は、テキスト部分とそのテキストスタイルの編集を示しています。
 
 ```csharp
 [C#]
@@ -93,7 +94,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // すべての部分のテキストをチェック
+            // 各部分のテキストをチェックしています
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -102,8 +103,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 段落データのチェック
-            // 段落ごとに正当性が異なります
+            // 段落データをチェックしています
+            // 段落の配置が異なります
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -113,7 +114,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 最初と 2 番目の段落の他のすべてのプロパティは等しい
+            // 最初と2番目の段落の他のすべてのプロパティは等しいです
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -137,7 +138,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,8 +153,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // スタイルデータのチェック
-            // スタイルによって色とフォント サイズが異なります
+            // スタイルデータをチェックしています
+            // スタイルの色とフォントサイズが異なります
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -200,18 +201,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // 部分の段落とスタイルの編集の例
-            // 右揃えを設定
+            // 部分に対する段落とスタイルの編集例
+            // 右揃えに設定する
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // スタイルごとに異なる色。は変更されますが、レンダリングは完全にはサポートされていません
+            // 各スタイルの色が異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 別のフォント。は変更されますが、レンダリングは完全にはサポートされていません
+            // フォントが異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -230,7 +231,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [IText](../../../aspose.psd.fileformats.psd.layers.text/itext/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

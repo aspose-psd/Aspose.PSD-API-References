@@ -1,14 +1,15 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartResourceCreator コンストラクタ. の新しいインスタンスを初期化しますSmartResourceCreatorclass.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartResourceCreator コンストラクタ。SmartResourceCreator クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-の新しいインスタンスを初期化します[`SmartResourceCreator`](../)class.
+[`SmartResourceCreator`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SmartResourceCreator()
@@ -17,49 +18,49 @@ public SmartResourceCreator()
 ### 関連項目
 
 * class [SmartResourceCreator](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-の新しいインスタンスを初期化します[`SmartResourceCreator`](../)class.
+[`SmartResourceCreator`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| isCustom | Boolean | に設定した場合`真実` 【カスタムです】。 |
-| hasCompInfo | Boolean | に設定した場合`真実` [コンプ情報あり]。 |
+| isCustom | Boolean | `true` に設定された場合 [カスタムです]。 |
+| hasCompInfo | Boolean | `true` に設定された場合、[has comp information]。 |
 
 ### 関連項目
 
 * class [SmartResourceCreator](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-の新しいインスタンスを初期化します[`SmartResourceCreator`](../)指定された template. の class
+指定されたテンプレートを使用して、[`SmartResourceCreator`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| template | PlacedResource | スマート オブジェクト リソース テンプレート。 |
+| template | PlacedResource | スマートオブジェクトリソーステンプレートです。 |
 
 ### 関連項目
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

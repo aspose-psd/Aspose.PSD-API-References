@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Reds
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlackWhiteAdjustmentLayer 財産. 赤の値を取得または設定します
+title: "BlackWhiteAdjustmentLayer.Reds"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlackWhiteAdjustmentLayer プロパティ。赤の値を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/reds/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Reds property
 
-赤の値を取得または設定します。
+レッドの値を取得または設定します。
 
 ```csharp
 public int Reds { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-赤の値.
+赤の値です。
 
-### 例
+## 例
 
-次の例は、実行時に Aspose.PSD で白黒調整レイヤーを追加する方法を示しています。
+以下の例は、Aspose.PSD で実行時に black white adjustment layer を追加できる方法を示しています。
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-次の例は、Aspose.PSD で白黒調整レイヤー プロパティを操作する方法を示しています。
+次の例は、Aspose.PSD で黒白調整レイヤーのプロパティを操作できる方法を示しています
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

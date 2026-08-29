@@ -1,11 +1,12 @@
 ---
-title: TiffRational.Denominator
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffRational 財産. 分母を取得します
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffRational プロパティ。分母を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
 分母を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 public uint Denominator { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-分母.
+分母です。
 
 ### 関連項目
 
 * class [TiffRational](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

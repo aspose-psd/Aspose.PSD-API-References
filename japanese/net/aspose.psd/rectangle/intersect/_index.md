@@ -1,52 +1,53 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. 3 番目を返しますRectangle他の 2 つの交差点を表す構造Rectangle構造交点がない場合は空Rectangle返されます.
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。2 つの別の Rectangle 構造体の交差部分を表す 3 番目の Rectangle 構造体を返します。交差がない場合は空の Rectangle が返されます。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-3 番目を返します[`Rectangle`](../)他の 2 つの交差点を表す構造[`Rectangle`](../)構造。交点がない場合は空[`Rectangle`](../)返されます.
+2 つの別の [`Rectangle`](../) 構造体の交差部分を表す 3 番目の [`Rectangle`](../) 構造体を返します。交差がない場合は、空の [`Rectangle`](../) が返されます。
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| a | Rectangle | 交差する最初の四角形。 |
-| b | Rectangle | 交差する 2 番目の四角形。 |
+| a | Rectangle | 交差させる最初の rectangleです。 |
+| b | Rectangle | 交差させる 2 番目の rectangleです。 |
 
 ### 戻り値
 
-あ[`Rectangle`](../)の交点を表す*a*と*b*.
+*a* と *b* の交差部分を表す [`Rectangle`](../) です。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-これを置き換えます[`Rectangle`](../)それ自体と指定された[`Rectangle`](../) .
+この [`Rectangle`](../) を自身と指定された [`Rectangle`](../) の交差部分に置き換えます。
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../)交差するもの。 |
+| rect | Rectangle | 交差させる対象の [`Rectangle`](../) です。 |
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

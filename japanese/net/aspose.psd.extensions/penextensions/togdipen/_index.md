@@ -1,32 +1,33 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Aspose.PSD for .NET API リファレンス
-description: PenExtensions 方法. はPenにPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PenExtensions メソッド。Pen を Pen に変換します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-は[`Pen`](../../../aspose.psd/pen/)にPen .
+[`Pen`](../../../aspose.psd/pen/) を Pen に変換します。
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pen | Pen | の[`Pen`](../../../aspose.psd/pen/)変換する。 |
+| pen | Pen | 変換する [`Pen`](../../../aspose.psd/pen/) |
 
 ### 戻り値
 
-変換されたPen.
+変換された Pen。
 
 ### 関連項目
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* 名前空間 [Aspose.PSD.Extensions](../../penextensions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

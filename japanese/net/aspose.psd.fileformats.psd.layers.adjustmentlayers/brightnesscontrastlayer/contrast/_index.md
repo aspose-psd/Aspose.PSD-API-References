@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Contrast
-second_title: Aspose.PSD for .NET API リファレンス
-description: BrightnessContrastLayer 財産. コントラストを取得または設定します PS の場合コントラストの範囲は 50 から 100 ですしかしこれは無視します.
+title: "BrightnessContrastLayer.Contrast"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BrightnessContrastLayer プロパティ。contrast を取得または設定します。PS の contrast の範囲は 50 から 100 です。ただし、これを無視します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/contrast/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Contrast property
 
-コントラストを取得または設定します。 PS の場合、コントラストの範囲は -50 から +100 です。しかし、これは無視します.
+コントラストを取得または設定します。PS におけるコントラストの範囲は -50 から +100 です。ただし、これらは無視します。
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-コントラスト.
+その contrast。
 
 ### 関連項目
 
 * class [BrightnessContrastLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

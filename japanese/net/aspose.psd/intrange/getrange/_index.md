@@ -1,24 +1,25 @@
 ---
-title: IntRange.GetRange
-second_title: Aspose.PSD for .NET API リファレンス
-description: IntRange 方法. start から始まる int 要素のカウント範囲を取得します
+title: "IntRange.GetRange"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IntRange メソッド。start から開始する int 要素のカウント範囲を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/intrange/getrange/
 ---
+{{< psd/tize >}}
 ## IntRange.GetRange method
 
-start から始まる int 要素のカウント範囲を取得します
+開始位置からの int 要素のカウント範囲を取得します。
 
 ```csharp
 public static IEnumerable<int> GetRange(int start, int count, int delta)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| start | Int32 | 開始。 |
-| count | Int32 | カウント。 |
-| delta | Int32 | デルタ。 |
+| 開始 | Int32 | 開始です。 |
+| カウント | Int32 | カウント。 |
+| デルタ | Int32 | デルタです。 |
 
 ### 戻り値
 
@@ -26,14 +27,14 @@ public static IEnumerable<int> GetRange(int start, int count, int delta)
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | カウントは 1 or より恋人にできません |
+| ArgumentException | カウントは 1 未満、または {D255958A-8513-4226-94B9-080D98F904A1} ではいけません。開始ページは 0 未満にできません。 |
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

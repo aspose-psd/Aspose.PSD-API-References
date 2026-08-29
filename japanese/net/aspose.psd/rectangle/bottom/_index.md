@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 財産. の合計である y 座標を取得または設定しますYとHeightこれのプロパティ値Rectangle構造体.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle プロパティ。この Rectangle 構造体の Y と Height プロパティ値の合計である y 座標を取得または設定します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-の合計である y 座標を取得または設定します[`Y`](../y/)と[`Height`](../height/)これのプロパティ値[`Rectangle`](../)構造体.
+この [`Rectangle`](../) 構造体の [`Y`](../y/) と [`Height`](../height/) プロパティ値の合計である y 座標を取得または設定します。
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-の合計である y 座標[`Y`](../y/)と[`Height`](../height/)これの[`Rectangle`](../) .
+この [`Rectangle`](../) の [`Y`](../y/) と [`Height`](../height/) の合計である y 座標。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

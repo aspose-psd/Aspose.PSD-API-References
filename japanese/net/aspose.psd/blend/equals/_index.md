@@ -1,31 +1,32 @@
 ---
-title: Blend.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: Blend 方法. 指定されたオブジェクトがBlendクラスでありこれと同等ですBlendclass.
+title: "Blend.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Blend メソッド。指定されたオブジェクトが Blend クラスであり、この Blend クラスと等価かどうかをテストします。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-指定されたオブジェクトが[`Blend`](../)クラスであり、これと同等です[`Blend`](../)class.
+指定されたオブジェクトが [`Blend`](../) クラスであり、この [`Blend`](../) クラスと等価かどうかをテストします。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | テストするオブジェクト。 |
+| obj | Object | テスト対象のオブジェクトです。 |
 
 ### 戻り値
 
-真の場合*obj*です[`Blend`](../)これと同等のクラス[`Blend`](../)クラス;それ以外の場合は false。
+*obj* がこの [`Blend`](../) クラスと等価な [`Blend`](../) クラスである場合は true、それ以外の場合は false です。
 
 ### 関連項目
 
 * class [Blend](../)
-* 名前空間 [Aspose.PSD](../../blend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

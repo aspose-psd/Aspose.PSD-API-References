@@ -1,11 +1,12 @@
 ---
-title: ExifData.Contrast
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. コントラストを取得または設定します
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。コントラストを取得または設定します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
 コントラストを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.exif/exifdata/contrast/
 public ExifContrast Contrast { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-コントラスト.
+その contrast。
 
 ### 関連項目
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

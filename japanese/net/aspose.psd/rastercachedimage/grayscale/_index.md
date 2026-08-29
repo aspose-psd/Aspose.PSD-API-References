@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Grayscale
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterCachedImage 方法. グレースケール表現への画像の変換
+title: "RasterCachedImage.Grayscale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterCachedImage method. 画像をグレースケール表現に変換します。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd/rastercachedimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Grayscale method
 
-グレースケール表現への画像の変換
+画像をグレースケール表現に変換する
 
 ```csharp
 public override void Grayscale()
@@ -17,7 +18,7 @@ public override void Grayscale()
 ### 関連項目
 
 * class [RasterCachedImage](../)
-* 名前空間 [Aspose.PSD](../../rastercachedimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

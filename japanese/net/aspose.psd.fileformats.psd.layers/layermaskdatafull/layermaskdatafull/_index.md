@@ -1,14 +1,15 @@
 ---
-title: LayerMaskDataFull.LayerMaskDataFull
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskDataFull コンストラクタ. デフォルトのコンストラクター
+title: "LayerMaskDataFull.LayerMaskDataFull"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskDataFull コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/layermaskdatafull/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public LayerMaskDataFull()
@@ -17,7 +18,7 @@ public LayerMaskDataFull()
 ### 関連項目
 
 * class [LayerMaskDataFull](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

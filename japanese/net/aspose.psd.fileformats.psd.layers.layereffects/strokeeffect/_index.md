@@ -1,14 +1,15 @@
 ---
-title: Class StrokeEffect
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect クラス. PSD レイヤーの Adobe Photoshop ストローク効果
+title: "クラス StrokeEffect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect クラス。PSD レイヤー用の Adobe Photoshop ストローク効果"
 type: docs
-weight: 2190
+weight: 2390
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
-PSD レイヤーの Adobe® Photoshop® ストローク効果。
+PSD レイヤー用の Adobe® Photoshop® ストローク効果です。
 
 ```csharp
 public class StrokeEffect : ILayerEffect
@@ -18,23 +19,29 @@ public class StrokeEffect : ILayerEffect
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | ブレンド モードを取得または設定します。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | エフェクトのタイプを取得します |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | 塗りつぶし設定を取得または設定します。 |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | このインスタンスが表示されるかどうかを示す値を取得または設定します. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | ブレンドモードを取得または設定します。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | エフェクトのタイプを取得します。 |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | フィル設定を取得または設定します。 |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | このインスタンスが表示されているかどうかを示す値を取得または設定します。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | 不透明度を取得または設定します。 |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | これが`StrokeEffect`現在のレイヤーの内容に対してストロークをブレンドします. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | ストローク エフェクトの位置を取得または設定して、PSD レイヤー コンテンツに対するストロークの位置合わせを制御します。 値は次のとおりです。Inside PSD レイヤー コンテンツ内にストロークを描画するには、 またはOutsidePSD レイヤー コンテンツの周りにストロークを描画するには、 とCenter内側と外側の両方にストロークを描く. |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | この `StrokeEffect` が現在のレイヤー内容に対してストロークをブレンドするかどうかを示す値を取得または設定します。 |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | ストローク効果の位置を取得または設定し、ストロークを PSD レイヤー内容に合わせて配置します。値は Inside（PSD レイヤー内容の内部にストロークを描画）、Outside（PSD レイヤー内容の周囲にストロークを描画）、Center（内部と外部の両方にストロークを描画）のいずれかに設定できます。 |
 | [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | ストローク効果の幅を取得または設定します。 |
 
-### 例
+## メソッド
 
-次のコード例は、塗りつぶしを使用したストローク効果のレンダリングを示しています。
+| 名前 | 説明 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | 入力レイヤーのピクセル境界に基づいてエフェクトピクセルの境界を計算し、取得します。 |
+
+## 例
+
+以下のコード例は、カラー塗りつぶしを使用した Stroke 効果のレンダリングを示しています。
 
 ```csharp
 [C#]
 
-// エクスポート用に塗りつぶしを使用してストローク効果のレンダリングを実装します
+// エクスポート用にカラー塗りつぶしを使用した Stroke 効果のレンダリングを実装します
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-次のコードは、塗りつぶしタイプ - カラーを使用したストローク エフェクト レイヤーのサポートを示しています。
+次のコードは、塗りタイプが Color のストローク効果レイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-次のコードは、塗りつぶしタイプ - パターンを使用したストローク エフェクト レイヤーのサポートを示しています。
+以下のコードは、塗りタイプがパターンのストローク効果レイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -150,7 +157,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// 新しいデータの準備
+// 新しいデータを準備中
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -214,7 +221,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // パターンデータをチェック
+    // パターンデータを確認する
     AssertAreEqual(newPattern, resource.Patterns[0].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[0].Width, resource.Patterns[0].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[0].PatternId);
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-次のコードは、塗りつぶしタイプ - グラデーションを使用したストローク エフェクト レイヤーのサポートを示しています。
+次のコードは、塗りタイプがグラデーションのストローク効果レイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -277,7 +283,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // カラーポイント
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -289,7 +296,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // 透明度ポイント
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -300,9 +307,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // テスト編集
-    fillSettings.Color = Color.Green;
-
+    // 編集テスト
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -315,22 +320,22 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.Reverse = true;
 
     // 新しいカラーポイントを追加
-    var colorPoint = fillSettings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // 前のポイントの位置を変更
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
-    // 新しい透過ポイントを追加
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    // 新しい透明度ポイントを追加
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
-    // 前の透過ポイントの位置を変更
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    // 前の透明度ポイントの位置を変更
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
@@ -345,41 +350,41 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
-    // カラーポイントをチェック
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    // カラーポイントを確認
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
-    // 透過ポイントをチェック
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    // 透明度ポイントを確認
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
@@ -389,7 +394,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### 関連項目
 
 * interface [ILayerEffect](../ilayereffect/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

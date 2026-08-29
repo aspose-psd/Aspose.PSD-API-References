@@ -1,14 +1,15 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType 列挙. 線結合タイプ.
+title: "列挙型 LineJoinType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType 列挙型。ライン結合タイプ"
 type: docs
-weight: 3050
+weight: 3410
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-線結合タイプ.
+ラインジョインのタイプ。
 
 ```csharp
 public enum LineJoinType : short
@@ -16,15 +17,15 @@ public enum LineJoinType : short
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| BevelJoin | `0` | ベベル結合タイプ. |
-| RoundJoin | `1` | 丸め結合タイプ. |
-| MiterJoin | `2` | マイター結合タイプ. |
+| BevelJoin | `0` | ベベル結合タイプ。 |
+| RoundJoin | `1` | ラウンド結合タイプ。 |
+| MiterJoin | `2` | ミタージョインタイプ。 |
 
-### 例
+## 例
 
-次のコードは、VstkResource リソースのサポートを示しています。
+次のコードは VstkResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

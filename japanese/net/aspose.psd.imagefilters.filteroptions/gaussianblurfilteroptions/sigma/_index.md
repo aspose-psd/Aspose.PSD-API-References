@@ -1,11 +1,12 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: Aspose.PSD for .NET API リファレンス
-description: GaussianBlurFilterOptions 財産. シグマを取得または設定します
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GaussianBlurFilterOptions プロパティ。シグマを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
 シグマを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sig
 public double Sigma { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-シグマ.
+シグマです。
 
 ### 関連項目
 
 * class [GaussianBlurFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

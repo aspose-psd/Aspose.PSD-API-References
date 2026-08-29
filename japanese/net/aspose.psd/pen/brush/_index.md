@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. を取得または設定しますBrushこれの属性を決定するPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 この Pen の属性を決定する Brush を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-を取得または設定します`Brush`これの属性を決定する[`Pen`](../) .
+この [`Pen`](../) の属性を決定する `Brush` を取得または設定します。
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-あ`Brush`これの属性を決定する[`Pen`](../).
+この [`Pen`](../) の属性を決定する `Brush`。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`Brush`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `Brush` プロパティは、不変の [`Pen`](../) に設定されます。たとえば、[`Pen`](../) クラスが返すものです。 |
 
 ### 関連項目
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

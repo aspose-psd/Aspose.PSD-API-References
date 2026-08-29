@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResourceData 方法. パターンデータを保存します
+title: "PattResourceData.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResourceData メソッド。パターン データを保存します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
 パターンデータを保存します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/s
 public void Save(StreamContainer streamContainer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

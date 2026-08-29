@@ -1,14 +1,15 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings インターフェース. 塗りつぶし設定のベース インターフェイス
+title: "インターフェイス IColorFillSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings インターフェイス。塗り設定の基本インターフェイス"
 type: docs
-weight: 1990
+weight: 2110
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-塗りつぶし設定のベース インターフェイス
+塗り設定の基本インターフェイス
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
@@ -23,7 +24,7 @@ public interface IColorFillSettings : IFillSettings
 ### 関連項目
 
 * interface [IFillSettings](../ifillsettings/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

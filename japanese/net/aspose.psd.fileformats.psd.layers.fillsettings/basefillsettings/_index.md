@@ -1,14 +1,15 @@
 ---
-title: Class BaseFillSettings
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings クラス. ベースフィル効果設定
+title: "クラス BaseFillSettings"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.BaseFillSettings クラス。ベースの塗り効果設定"
 type: docs
-weight: 1920
+weight: 2030
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings class
 
-ベースフィル効果設定
+基本的な塗り効果設定
 
 ```csharp
 public abstract class BaseFillSettings : IFillSettings
@@ -18,12 +19,12 @@ public abstract class BaseFillSettings : IFillSettings
 
 | 名前 | 説明 |
 | --- | --- |
-| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | 塗りつぶしのタイプを取得します。 |
+| abstract [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/) { get; } | 塗りのタイプを取得します。 |
 
 ### 関連項目
 
 * interface [IFillSettings](../ifillsettings/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

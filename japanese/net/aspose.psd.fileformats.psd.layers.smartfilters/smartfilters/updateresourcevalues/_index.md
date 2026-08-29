@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartFilters 方法. スマート フィルター データをSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartFilters メソッド。スマート フィルタ データを SmartObjectResource に更新します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-スマート フィルター データを[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+スマート フィルタ データを [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) に更新します。
 
 ```csharp
 public void UpdateResourceValues()
@@ -17,7 +18,7 @@ public void UpdateResourceValues()
 ### 関連項目
 
 * class [SmartFilters](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

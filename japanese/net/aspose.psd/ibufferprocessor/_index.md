@@ -1,14 +1,15 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IBufferProcessor インターフェース. バッファ プロセッサ
+title: "インターフェイス IBufferProcessor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.IBufferProcessor インターフェイス。バッファプロセッサです"
 type: docs
-weight: 4370
+weight: 4840
 url: /ja/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-バッファ プロセッサ。
+バッファプロセッサ。
 
 ```csharp
 public interface IBufferProcessor
@@ -22,7 +23,7 @@ public interface IBufferProcessor
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

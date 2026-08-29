@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: IColorPalette 方法. 最も近い 32 ビット ARGB カラーのインデックスを取得します
+title: "IColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IColorPalette メソッド。最も近い 32 ビット ARGB カラーのインデックスを取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/icolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 最も近い 32 ビット ARGB カラーのインデックスを取得します。
@@ -14,19 +15,19 @@ url: /ja/net/aspose.psd/icolorpalette/getnearestcolorindex/
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| argb32Color | Int32 | 32 ビット ARGB カラー。 |
+| argb32Color | Int32 | 32 ビット ARGB カラーです。 |
 
 ### 戻り値
 
-最も近い色のインデックス。
+最も近い色のインデックスです。
 
 ### 関連項目
 
 * interface [IColorPalette](../)
-* 名前空間 [Aspose.PSD](../../icolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ public int GetNearestColorIndex(int argb32Color)
 public int GetNearestColorIndex(Color color)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| color | Color | 色。 |
+| 色 | 色 | 色です。 |
 
 ### 戻り値
 
-最も近い色のインデックス。
+最も近い色のインデックスです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* 名前空間 [Aspose.PSD](../../icolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

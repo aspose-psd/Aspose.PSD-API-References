@@ -1,14 +1,15 @@
 ---
-title: Class LevlResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource クラス. クラスのレベル リソース露出調整レイヤーのリソース
+title: "クラス LevlResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevlResource クラス。クラス LevlResource。露光調整レイヤーのリソースです。"
 type: docs
-weight: 2640
+weight: 2950
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/
 ---
+{{< psd/tize >}}
 ## LevlResource class
 
-クラスのレベル リソース。露出調整レイヤーのリソース
+クラス LevlResource。露光調整レイヤーのリソース。
 
 ```csharp
 public class LevlResource : AdjustmentLayerResource
@@ -18,38 +19,38 @@ public class LevlResource : AdjustmentLayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [LevlResource](levlresource/#constructor)() | の新しいインスタンスを初期化します`LevlResource`class. |
-| [LevlResource](levlresource/#constructor_1)(byte[]) | の新しいインスタンスを初期化します`LevlResource` class. グレースケール、デュオトーン、RGB、CMYK、Lab カラー モードでサポート 2 バイト - バージョン (=2) 29 * 10 バイト - 5 つの短い整数を含むレベル レコードのセット 4 バイト - Lvls ヘッダー (292 インデックスで開始) 2 バイト - バージョン (=3) 2 バイト - 合計レベル レコードのカウント 10 * (合計カウント - 29) |
+| [LevlResource](levlresource/#constructor)() | `LevlResource` クラスの新しいインスタンスを初期化します。 |
+| [LevlResource](levlresource/#constructor_1)(byte[]) | `LevlResource` クラスの新しいインスタンスを初期化します。GrayScale、Duotone、RGB、CMYK、Lab カラーモードでサポートされます。2 バイト - バージョン (=2) 29 * 10 バイト - 5 つのショート整数で構成されるレベルレコードのセット 4 バイト - Lvls ヘッダー（インデックス 292 から開始） 2 バイト - バージョン (=3) 2 バイト - 総レベルレコード数 10 * (総数 - 29) Lvls リソースのゼロ終端は 4 バイトに合わせて折りたたむ必要があります。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/psdversion/) { get; } | psd バージョンを取得します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | 署名を取得します。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | バージョンを取得します。デフォルトは 2 です |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/) { get; } | バージョンを取得します。デフォルトは 2 です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | チャネルを取得します。 |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | 指定したストリーム コンテナーにリソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| [GetChannel](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/getchannel/)(int) | チャンネルを取得します。 |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | リソースを指定されたストリームコンテナに保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | タイプ ツール情報キー。 |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/) | タイプツール情報キーです。 |
 
 ### 関連項目
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

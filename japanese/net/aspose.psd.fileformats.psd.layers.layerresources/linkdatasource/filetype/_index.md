@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.FileType
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinkDataSource 財産. Adobe Photoshop Lnk2 / LnkE リソースに含まれるまたはリンクされる埋め込みファイルまたは外部ファイルのタイプを取得または設定します
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinkDataSource プロパティ。埋め込みまたは外部ファイルのタイプを取得または設定します。このファイルは Adobe Photoshop Lnk2 / LnkE リソースが含むまたはリンクするものです。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-Adobe® Photoshop® Lnk2 / LnkE リソースに含まれる、またはリンクされる埋め込みファイルまたは外部ファイルのタイプを取得または設定します。
+取得または設定します Adobe® Photoshop® Lnk2 / LnkE リソースが含むまたはリンクする埋め込みまたは外部ファイルのタイプを取得または設定します。
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-埋め込みファイルまたは外部リンク ファイルのタイプ。
+埋め込みまたは外部リンクされたファイルのタイプです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | FileType プロパティにアクセスできません。 |
 
 ### 関連項目
 
 * class [LinkDataSource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

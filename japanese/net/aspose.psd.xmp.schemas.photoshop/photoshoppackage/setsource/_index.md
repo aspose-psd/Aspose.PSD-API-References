@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. ソースを設定します
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。ソースを設定します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
 ソースを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 public void SetSource(string source)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| source | String | 起源。 |
+| ソース | 文字列 | このソースです。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

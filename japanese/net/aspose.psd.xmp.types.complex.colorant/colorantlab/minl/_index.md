@@ -1,14 +1,15 @@
 ---
-title: ColorantLab.MinL
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantLab 分野. L成分の最小値
+title: "ColorantLab.MinL"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantLab フィールド。L 成分の最小値。"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minl/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinL field
 
-L成分の最小値
+L コンポーネントの最小値
 
 ```csharp
 public const float MinL;
@@ -17,7 +18,7 @@ public const float MinL;
 ### 関連項目
 
 * class [ColorantLab](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

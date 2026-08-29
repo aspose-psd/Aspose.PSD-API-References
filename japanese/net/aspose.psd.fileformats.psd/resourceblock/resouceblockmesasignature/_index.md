@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceBlock 分野. ImageReady. のリソース署名
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceBlock フィールド。ImageReady のリソース署名です。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-ImageReady. のリソース署名
+ImageReady のリソースシグネチャです。
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### 例
+## 例
 
-次のコード例は、MeSa 署名付きのリソースを使用して PSD ファイルの読み込みと保存を修正する機能を示しています。
+次のコード例は、MeSa 署名を持つリソースを含む PSD ファイルを正しく読み込みおよび保存できることを示しています。
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -43,7 +44,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 ### 関連項目
 
 * class [ResourceBlock](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

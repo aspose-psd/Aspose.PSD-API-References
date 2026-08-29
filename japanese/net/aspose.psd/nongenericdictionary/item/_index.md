@@ -1,22 +1,23 @@
 ---
-title: NonGenericDictionary.Item
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 財産. 指定されたキーを持つ要素を取得または設定します
+title: "NonGenericDictionary.Item"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary プロパティ。指定されたキーを持つ要素を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/nongenericdictionary/item/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary indexer
 
-指定されたキーを持つ要素を取得または設定します。
+指定されたキーの要素を取得または設定します。
 
 ```csharp
 public object this[object key] { get; set; }
 ```
 
-| パラメータ | 説明 |
+| パラメーター | 説明 |
 | --- | --- |
-| key | 要素キー。 |
+| key | 要素のキー。 |
 
 ### 戻り値
 
@@ -25,7 +26,7 @@ public object this[object key] { get; set; }
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

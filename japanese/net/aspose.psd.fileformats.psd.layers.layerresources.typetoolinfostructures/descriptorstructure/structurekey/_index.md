@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.StructureKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: DescriptorStructure 分野. 構造キーを識別します
+title: "DescriptorStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DescriptorStructure フィールド。構造体のキーを識別します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.StructureKey field
 
 構造キーを識別します。
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### 関連項目
 
 * class [DescriptorStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

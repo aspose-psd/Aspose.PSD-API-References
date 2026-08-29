@@ -1,27 +1,28 @@
 ---
-title: HueSaturationLayer.Colorize
-second_title: Aspose.PSD for .NET API リファレンス
-description: HueSaturationLayer 財産. これがHueSaturationLayercolorize. です
+title: "HueSaturationLayer.Colorize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "HueSaturationLayer プロパティ。この HueSaturationLayer がカラー化されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Colorize property
 
-これが[`HueSaturationLayer`](../)colorize. です
+この [`HueSaturationLayer`](../) がカラー化されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`色付けする場合;さもないと、`間違い` .
+`true` はカラー化されている場合です。そうでなければ `false` です。
 
 ### 関連項目
 
 * class [HueSaturationLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

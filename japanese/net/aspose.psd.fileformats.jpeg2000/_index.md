@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はJpeg2000 ファイル形式の処理を処理します
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は Jpeg2000 ファイル形式の処理を担当します"
 type: docs
-weight: 170
+weight: 180
 url: /ja/net/aspose.psd.fileformats.jpeg2000/
 ---
-名前空間は、Jpeg2000 ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は JPEG2000 ファイル形式の処理を扱います。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg コード生成例外 |
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg コードが生成した例外 |
 ## 列挙
 
 | 列挙 | 説明 |

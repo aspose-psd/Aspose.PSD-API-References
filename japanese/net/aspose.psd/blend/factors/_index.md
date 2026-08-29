@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD for .NET API リファレンス
-description: Blend 財産. グラデーションのブレンド係数の配列を取得または設定します
+title: "Blend.Factors"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Blend プロパティ。グラデーションのブレンド係数の配列を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-グラデーションのブレンド係数の配列を取得または設定します。
+グラデーションの blend factor 配列を取得または設定します。
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-対応する位置で使用される開始色と終了色のパーセンテージを指定するブレンド係数の配列。
+対応する位置で使用される開始色と終了色の割合を指定するブレンド係数の配列です。
 
 ### 関連項目
 
 * class [Blend](../)
-* 名前空間 [Aspose.PSD](../../blend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

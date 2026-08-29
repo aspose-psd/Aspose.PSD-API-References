@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size コンストラクタ. の新しいインスタンスを初期化しますSize指定された構造Point .
+title: "Size.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size コンストラクタ。指定された Point から新しい Size 構造体のインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-の新しいインスタンスを初期化します[`Size`](../)指定された構造[`Point`](../../point/) .
+指定された [`Point`](../../point/) から新しい [`Size`](../) 構造体のインスタンスを初期化します。
 
 ```csharp
 public Size(Point point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../../point/)これを初期化する元[`Size`](../). |
+| point | Point | この [`Size`](../) を初期化するための [`Point`](../../point/) です。 |
 
 ### 関連項目
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`Size`](../)指定された次元からの構造.
+指定された寸法から新しい [`Size`](../) 構造体のインスタンスを初期化します。
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| width | Int32 | 新しいの幅コンポーネント[`Size`](../). |
-| height | Int32 | 新しいの高さコンポーネント[`Size`](../). |
+| width | Int32 | 新しい [`Size`](../) の幅コンポーネントです。 |
+| height | Int32 | 新しい [`Size`](../) の高さコンポーネントです。 |
 
 ### 関連項目
 
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

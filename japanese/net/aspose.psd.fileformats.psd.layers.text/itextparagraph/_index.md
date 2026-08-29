@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph インターフェース. paragraph で動作するインターフェイス
+title: "インターフェイス ITextParagraph"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph インターフェイス。段落を操作するためのインターフェイスです。"
 type: docs
-weight: 3520
+weight: 3940
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-paragraph で動作するインターフェイス
+段落を操作するためのインターフェイス
 
 ```csharp
 public interface ITextParagraph
@@ -18,22 +19,22 @@ public interface ITextParagraph
 
 | 名前 | 説明 |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | [自動ハイフン] かどうかを示す値を取得または設定します。 |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | 自動行送りを取得または設定します。 |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | これが`ITextParagraph`ブラサギリです. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | 連続するハイフンを取得または設定します。 |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | 終了インデントを取得または設定します。 |
-| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | [すべての行コンポーザー] かどうかを示す値を取得または設定します。 |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | 最初の行のインデントを取得または設定します。 |
-| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | グリフの間隔を取得または設定します。 |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | これが`ITextParagraph`ぶら下がっています. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | ハイフンでつながれた単語のサイズを取得または設定します。 |
-| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | 位置合わせを取得または設定します。 |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | 自動ハイフネーションかどうかを示す値を取得または設定します。[automatic hyphenate]。 |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | 自動リーディングを取得または設定します。 |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | この `ITextParagraph` がぶらさぎかどうかを示す値を取得または設定します。 |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | 連続ハイフンを取得または設定します。 |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | 行末インデントを取得または設定します。 |
+| [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | すべての行コンポーザーかどうかを示す値を取得または設定します。[every line composer]。 |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | 最初の行インデントを取得または設定します。 |
+| [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | グリフ間隔を取得または設定します。 |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | この `ITextParagraph` がハンギングかどうかを示す値を取得または設定します。 |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | ハイフン付き単語のサイズを取得または設定します。 |
+| [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | 行揃えを取得または設定します。 |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | 禁則順序を取得または設定します。 |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | 先頭のタイプを取得または設定します。 |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | リーディングのタイプを取得または設定します。 |
 | [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | 文字間隔を取得または設定します。 |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | ポスト ハイフンを取得または設定します。 |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | プレハイフンを取得または設定します。 |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | 後置ハイフンを取得または設定します。 |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | 前置ハイフンを取得または設定します。 |
 | [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | 後のスペースを取得または設定します。 |
 | [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | 前のスペースを取得または設定します。 |
 | [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | 開始インデントを取得または設定します。 |
@@ -47,9 +48,9 @@ public interface ITextParagraph
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | 指定された段落を適用します。 |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | 指定された段落が等しいかどうかを判断します。 |
 
-### 例
+## 例
 
-次の例は、右から左へ記述する言語の ITextPortion によるテキストの配置が正しく機能することを示しています。
+次の例は、右から左への言語に対して ITextPortion を使用したテキスト配置が正しく機能することを示しています。
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-次のコード例は、テキスト部分の編集とそのテキスト スタイルを示しています。
+以下のコード例は、テキスト部分とそのテキストスタイルの編集を示しています。
 
 ```csharp
 [C#]
@@ -92,7 +93,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // すべての部分のテキストをチェック
+            // 各部分のテキストをチェックしています
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -101,8 +102,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 段落データのチェック
-            // 段落ごとに正当性が異なります
+            // 段落データをチェックしています
+            // 段落の配置が異なります
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -112,7 +113,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 最初と 2 番目の段落の他のすべてのプロパティは等しい
+            // 最初と2番目の段落の他のすべてのプロパティは等しいです
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -151,8 +152,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // スタイルデータのチェック
-            // スタイルによって色とフォント サイズが異なります
+            // スタイルデータをチェックしています
+            // スタイルの色とフォントサイズが異なります
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -199,18 +200,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // 部分の段落とスタイルの編集の例
-            // 右揃えを設定
+            // 部分に対する段落とスタイルの編集例
+            // 右揃えに設定する
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // スタイルごとに異なる色。は変更されますが、レンダリングは完全にはサポートされていません
+            // 各スタイルの色が異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 別のフォント。は変更されますが、レンダリングは完全にはサポートされていません
+            // フォントが異なります。変更は可能ですが、レンダリングは完全にサポートされていません
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -227,7 +228,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

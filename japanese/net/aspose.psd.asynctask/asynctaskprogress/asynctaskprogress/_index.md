@@ -1,28 +1,29 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Aspose.PSD for .NET API リファレンス
-description: AsyncTaskProgress コンストラクタ. の新しいインスタンスを初期化しますAsyncTaskProgressclass.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AsyncTaskProgress コンストラクター。AsyncTaskProgress クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-の新しいインスタンスを初期化します[`AsyncTaskProgress`](../)class.
+[`AsyncTaskProgress`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| progressPercentage | Int32 | 進捗率。 |
-| duration | TimeSpan | デュレーション。 |
+| progressPercentage | Int32 | 進捗率です。 |
+| 期間 | TimeSpan | 期間です。 |
 
 ### 関連項目
 
 * class [AsyncTaskProgress](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

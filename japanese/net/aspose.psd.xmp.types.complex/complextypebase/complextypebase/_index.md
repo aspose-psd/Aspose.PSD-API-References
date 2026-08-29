@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD for .NET API リファレンス
-description: ComplexTypeBase コンストラクタ. の新しいインスタンスを初期化しますComplexTypeBaseclass.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ComplexTypeBase コンストラクタ。ComplexTypeBase クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-の新しいインスタンスを初期化します[`ComplexTypeBase`](../)class.
+[`ComplexTypeBase`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| prefix | String | プレフィックス。 |
-| namespaceUri | String | 名前空間 URI。 |
+| プレフィックス | 文字列 | プレフィックスです。 |
+| namespaceUri | 文字列 | 名前空間 URIです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | プレフィックスは null または です namespaceUri は null です |
+| ArgumentNullException | prefix が null か namespaceUri が null です |
 
 ### 関連項目
 
 * class [ComplexTypeBase](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

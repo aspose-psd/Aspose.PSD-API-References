@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: Aspose.PSD for .NET API リファレンス
-description: PrintScaleResource 財産. y 位置を取得または設定します
+title: "PrintScaleResource.YLocation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PrintScaleResource プロパティ。y 位置を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
-y 位置を取得または設定します。
+Y 位置を取得または設定します。
 
 ```csharp
 public float YLocation { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-y 位置。
+y 位置です。
 
 ### 関連項目
 
 * class [PrintScaleResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

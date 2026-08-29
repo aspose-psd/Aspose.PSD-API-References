@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.ProgressEventHandler
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageOptionsBase 財産. 進行状況イベント ハンドラーを取得または設定します
+title: "ImageOptionsBase.ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageOptionsBase プロパティ。プログレスイベントハンドラを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/imageoptionsbase/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ProgressEventHandler property
 
-進行状況イベント ハンドラーを取得または設定します。
+取得または設定するのは、進行状況イベント ハンドラーです。
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-進捗イベント ハンドラ。
+プログレスイベントハンドラです。
 
 ### 関連項目
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [ImageOptionsBase](../)
-* 名前空間 [Aspose.PSD](../../imageoptionsbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

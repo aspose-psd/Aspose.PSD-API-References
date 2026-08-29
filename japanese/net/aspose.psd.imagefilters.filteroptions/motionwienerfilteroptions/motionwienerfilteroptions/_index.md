@@ -1,29 +1,30 @@
 ---
-title: MotionWienerFilterOptions.MotionWienerFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: MotionWienerFilterOptions コンストラクタ. の新しいインスタンスを初期化しますMotionWienerFilterOptionsclass.
+title: "MotionWienerFilterOptions.MotionWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MotionWienerFilterOptions コンストラクター。MotionWienerFilterOptions クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions constructor
 
-の新しいインスタンスを初期化します[`MotionWienerFilterOptions`](../)class.
+[`MotionWienerFilterOptions`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| length | Int32 | 長さ。 |
-| smooth | Double | スムーズ。 |
-| angle | Double | 勾配の角度。 |
+| 長さ | Int32 | 長さです。 |
+| 滑らかさ | Double | 滑らかさです。 |
+| 角度 | Double | gradus の角度です。 |
 
 ### 関連項目
 
 * class [MotionWienerFilterOptions](../)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 分野. 評価の最小値.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage フィールド。評価の最小値"
 type: docs
-weight: 110
+weight: 140
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-評価の最小値.
+評価の最小値。
 
 ```csharp
 public const int RatingMin;
@@ -17,7 +18,7 @@ public const int RatingMin;
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

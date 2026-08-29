@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Aspose.PSD for .NET API リファレンス
-description: AudioChannelType 財産. ステレオ オーディオ チャネルを取得します
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AudioChannelType プロパティ。 stereo オーディオチャンネルを取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
-ステレオ オーディオ チャネルを取得します。
+ステレオオーディオチャンネルを取得します。
 
 ```csharp
 public static AudioChannelType Stereo { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ステレオ オーディオ チャネル。
+このstereoオーディオチャンネルです。
 
 ### 関連項目
 
 * class [AudioChannelType](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

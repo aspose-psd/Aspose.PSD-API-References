@@ -1,14 +1,15 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes 列挙. レイヤーブレンド効果.
+title: "列挙型 LayerEffectsTypes"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes 列挙型。レイヤーのブレンド効果"
 type: docs
-weight: 2660
+weight: 2900
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
-レイヤーブレンド効果.
+レイヤーのブレンド効果。
 
 ```csharp
 public enum LayerEffectsTypes
@@ -16,22 +17,22 @@ public enum LayerEffectsTypes
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| DropShadow | `0` | ドロップ シャドウ。 |
-| OuterGlow | `1` | 外側のグロー. |
-| PatternOverlay | `2` | パターンオーバーレイ. |
-| GradientOverlay | `3` | グラデーション オーバーレイ。 |
-| ColorOverlay | `4` | カラーオーバーレイ. |
-| Satin | `5` | サテン効果タイプ. |
-| InnerGlow | `6` | 内側の輝き. |
-| InnerShadow | `7` | 内側の影。 |
-| Stroke | `8` | ストローク. |
-| BevelEmboss | `9` | ベベルエンボス. |
+| DropShadow | `0` | ドロップシャドウ。 |
+| OuterGlow | `1` | 外側の光。 |
+| PatternOverlay | `2` | パターンオーバーレイ。 |
+| GradientOverlay | `3` | グラデーションオーバーレイ。 |
+| ColorOverlay | `4` | カラーオーバーレイ。 |
+| Satin | `5` | サテン効果タイプ。 |
+| InnerGlow | `6` | 内部グロー。 |
+| InnerShadow | `7` | 内部シャドウ。 |
+| Stroke | `8` | ストローク。 |
+| BevelEmboss | `9` | ベベルエンボス。 |
 
-### 例
+## 例
 
-次のコードは、ILayerEffect.EffectType プロパティのサポートを示しています。
+以下のコードは ILayerEffect.EffectType プロパティのサポートを示しています。
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // キャッチした
+            // 捕捉されました
             psdImage.Save(outputWith, new PngOptions());
         }
     }
@@ -64,7 +65,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

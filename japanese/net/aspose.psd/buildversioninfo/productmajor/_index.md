@@ -1,14 +1,15 @@
 ---
-title: BuildVersionInfo.ProductMajor
-second_title: Aspose.PSD for .NET API リファレンス
-description: BuildVersionInfo 分野. メジャー製品バージョン.
+title: "BuildVersionInfo.ProductMajor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BuildVersionInfo フィールド。主要な製品バージョン"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/buildversioninfo/productmajor/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ProductMajor field
 
-メジャー製品バージョン.
+製品のメジャーバージョンです。
 
 ```csharp
 public static readonly int ProductMajor;
@@ -17,7 +18,7 @@ public static readonly int ProductMajor;
 ### 関連項目
 
 * class [BuildVersionInfo](../)
-* 名前空間 [Aspose.PSD](../../buildversioninfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

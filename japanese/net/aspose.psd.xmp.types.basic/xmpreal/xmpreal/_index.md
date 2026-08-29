@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpReal コンストラクタ. の新しいインスタンスを初期化しますXmpRealclass.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpReal コンストラクタ。XmpReal クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-の新しいインスタンスを初期化します[`XmpReal`](../)class.
+[`XmpReal`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Single | 浮動小数点値。 |
+| 値 | シングル | 浮動小数点値です。 |
 
 ### 関連項目
 
 * class [XmpReal](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-の新しいインスタンスを初期化します[`XmpReal`](../)class.
+[`XmpReal`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 値がヌルです。 |
-| ArgumentException | 値が無効です。フロートする必要があります。 |
+| ArgumentNullException | 値が null です。 |
+| ArgumentException | 無効な値です。float である必要があります。 |
 
 ### 関連項目
 
 * class [XmpReal](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

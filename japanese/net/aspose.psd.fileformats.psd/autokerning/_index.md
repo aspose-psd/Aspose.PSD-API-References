@@ -1,14 +1,15 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.AutoKerning 列挙. Photoshop 自動カーニング モード シンボル間の距離.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Photoshop の自動カーニングモード（シンボル間の距離）"
 type: docs
-weight: 1600
+weight: 1610
 url: /ja/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Photoshop 自動カーニング モード (シンボル間の距離).
+Photoshop の自動カーニングモード（シンボル間の距離）。
 
 ```csharp
 public enum AutoKerning
@@ -16,15 +17,15 @@ public enum AutoKerning
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Manual | `0` | 手動カーニング値. |
-| Metric | `1` | メトリクス カーニングは、ほとんどのフォントに含まれているカーニング ペアを使用します (デザイナーによる)。 |
-| Optical | `2` | オプティカル カーニングは、形状に基づいて隣接する文字間の間隔を調整します。 |
+| Manual | `0` | 手動カーニング値。 |
+| Metric | `1` | メトリックカーニングは、ほとんどのフォントに含まれるカーンペア（デザイナー提供）を使用します。 |
+| Optical | `2` | 光学カーニングは、隣接文字の形状に基づいて間隔を調整します。 |
 
-### 例
+## 例
 
-次のコードは、新しい ITextStyle プロパティのサポートのサポートを示しています。
+次のコードは、新しい ITextStyle プロパティのサポートを示します。
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// 値をチェック
+// 値を確認する
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -78,7 +79,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

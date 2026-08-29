@@ -1,14 +1,15 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 財産. ファイル形式の値を取得
+title: "Image.FileFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image プロパティ。ファイル形式の値を取得します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-ファイル形式の値を取得
+ファイル形式の値を取得します。
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
@@ -18,7 +19,7 @@ public virtual FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

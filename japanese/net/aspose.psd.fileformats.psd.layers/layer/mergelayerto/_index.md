@@ -1,27 +1,28 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 方法. レイヤーを指定したレイヤーに結合します
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer メソッド。レイヤーを指定されたレイヤーにマージします"
 type: docs
-weight: 360
+weight: 380
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-レイヤーを指定したレイヤーに結合します
+レイヤーを指定されたレイヤーにマージします。
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| layerToMergeInto | Layer | マージ先のレイヤー。 |
+| layerToMergeInto | レイヤー | マージ先のレイヤー。 |
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 方法. を乗算しますMatrixこれはこの局所的な幾何学的変換を表しますGraphics指定されたMatrix指定されたMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics メソッド。指定された Matrix を前置して、この Graphics のローカル幾何変換を表す Matrix を乗算します。"
 type: docs
-weight: 420
+weight: 430
 url: /ja/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-を乗算します。[`Matrix`](../../matrix/)これは、この局所的な幾何学的変換を表します[`Graphics`](../)指定された[`Matrix`](../../matrix/)指定された[`Matrix`](../../matrix/) .
+この [`Graphics`](../) のローカル幾何変換を表す [`Matrix`](../../matrix/) を、指定された [`Matrix`](../../matrix/) を前置して乗算します。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | の[`Matrix`](../../matrix/)幾何学的変換に掛ける値。 |
+| matrix | Matrix | 幾何変換を乗算するための [`Matrix`](../../matrix/) です。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-を乗算します。[`Matrix`](../../matrix/)これは、この局所的な幾何学的変換を表します[`Graphics`](../)指定された[`Matrix`](../../matrix/)指定された順序で.
+この [`Graphics`](../) のローカル幾何変換を表す [`Matrix`](../../matrix/) を、指定された順序で指定された [`Matrix`](../../matrix/) と乗算します。
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| matrix | Matrix | の[`Matrix`](../../matrix/)幾何学的変換に掛ける値。 |
-| order | MatrixOrder | あ[`MatrixOrder`](../../matrixorder/) つの行列を乗算する順序を指定します。 |
+| matrix | Matrix | 幾何変換を乗算するための [`Matrix`](../../matrix/) です。 |
+| order | MatrixOrder | 二つの行列を乗算する順序を指定する [`MatrixOrder`](../../matrixorder/) です。 |
 
 ### 関連項目
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

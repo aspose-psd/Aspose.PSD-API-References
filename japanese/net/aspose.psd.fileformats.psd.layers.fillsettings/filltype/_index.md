@@ -1,14 +1,15 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType 列挙. 塗りつぶしタイプ
+title: "列挙型 FillType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType 列挙型。塗りタイプ"
 type: docs
-weight: 1940
+weight: 2050
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
-塗りつぶしタイプ
+塗りタイプ
 
 ```csharp
 public enum FillType
@@ -16,15 +17,15 @@ public enum FillType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Color | `0` | カラー塗りつぶしタイプ |
-| Gradient | `1` | グラデーション塗りつぶしタイプ |
-| Pattern | `2` | パターン塗りつぶしタイプ |
+| Color | `0` | カラー塗りタイプ |
+| Gradient | `1` | グラデーション塗りタイプ |
+| Pattern | `2` | パターン塗りタイプ |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

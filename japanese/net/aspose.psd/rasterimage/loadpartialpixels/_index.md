@@ -1,30 +1,31 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. パック単位で部分的にピクセルを読み込みます
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。パック単位でピクセルを部分的にロードします。"
 type: docs
-weight: 390
+weight: 400
 url: /ja/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
-パック単位で部分的にピクセルを読み込みます。
+ピクセルをパック単位で部分的に読み込みます。
 
 ```csharp
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| desiredRectangle | Rectangle | 目的の長方形。 |
-| pixelLoader | IPartialPixelLoader | ピクセルローダー。 |
+| desiredRectangle | Rectangle | 目的の矩形です。 |
+| pixelLoader | IPartialPixelLoader | ピクセルローダーです。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

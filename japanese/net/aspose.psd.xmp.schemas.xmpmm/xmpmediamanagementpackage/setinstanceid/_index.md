@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpMediaManagementPackage 方法. インスタンス ID を設定します
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpMediaManagementPackage メソッド。インスタンス ID を設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
 インスタンス ID を設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstancei
 public void SetInstanceId(Guid guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | Guid | 一意の識別子。 |
+| guid | Guid | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpMediaManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ public void SetInstanceId(Guid guid)
 public void SetInstanceId(string guid)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | String | 一意の識別子。 |
+| guid | 文字列 | 一意の識別子です。 |
 
 ### 関連項目
 
 * class [XmpMediaManagementPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

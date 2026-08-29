@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Aspose.PSD for .NET API リファレンス
-description: ResourceRef 財産. ドキュメント URI を取得または設定します
+title: "ResourceRef.DocumentUri"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ResourceRef プロパティ。ドキュメント URI を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
-ドキュメント URI を取得または設定します。
+ドキュメントの URI を取得または設定します。
 
 ```csharp
 public string DocumentUri { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント URI.
+ドキュメント URI です。
 
 ### 関連項目
 
 * class [ResourceRef](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

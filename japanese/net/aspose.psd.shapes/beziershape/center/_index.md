@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Center
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierShape 財産. 形状の中心を取得します
+title: "BezierShape.Center"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierShape プロパティ。シェイプの中心を取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.shapes/beziershape/center/
 ---
+{{< psd/tize >}}
 ## BezierShape.Center property
 
 形状の中心を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.shapes/beziershape/center/
 public override PointF Center { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプの中心。
+シェイプの中心です。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

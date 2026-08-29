@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternName
-second_title: Aspose.PSD for .NET API リファレンス
-description: IPatternFillSettings 財産. パターンの名前を取得または設定します
+title: "IPatternFillSettings.PatternName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IPatternFillSettings プロパティ。パターンの名前を取得または設定します"
 type: docs
-weight: 60
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternName property
 
-パターンの名前を取得または設定します。
+取得または設定します。パターンの名前。
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 パターンの名前。
 
 ### 関連項目
 
 * interface [IPatternFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: OSTypeStructure 財産. を取得しますOSTypeStructureバイト単位の長さ.
+title: "OSTypeStructure.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OSTypeStructure プロパティ。OSTypeStructure の長さ（バイト単位）を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Length property
 
-を取得します[`OSTypeStructure`](../)バイト単位の長さ.
+[`OSTypeStructure`](../) の長さ（バイト単位）を取得します。
 
 ```csharp
 public abstract int Length { get; }
@@ -17,7 +18,7 @@ public abstract int Length { get; }
 ### 関連項目
 
 * class [OSTypeStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

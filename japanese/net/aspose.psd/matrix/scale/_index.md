@@ -1,51 +1,52 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. 指定されたスケール ベクトル scaleX および scaleY をこれに適用しますMatrix指定された order. を使用して
+title: "Matrix.Scale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。 指定されたスケールベクトル scaleX と scaleY を、指定された順序でこの Matrix に適用します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-指定されたスケール ベクトル (scaleX および scaleY) をこれに適用します[`Matrix`](../)指定された order. を使用して
+指定されたスケールベクトル (scaleX と scaleY) を、指定された順序でこの [`Matrix`](../) に適用します。
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| scaleX | Single | スケールX。 |
-| scaleY | Single | スケール Y. |
-| order | MatrixOrder | オーダー。 |
+| scaleX | シングル | スケール X。 |
+| scaleY | シングル | スケール Y。 |
+| order | MatrixOrder | 順序。 |
 
 ### 関連項目
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-(デフォルト) Prepend order. を使用して、指定されたスケール ベクトル (scaleX および scaleY) をこの Matrix に適用します。
+この Matrix に対して、（デフォルト）Prepend 順序で、指定されたスケールベクトル（scaleX と scaleY）を適用します。
 
 ```csharp
 public void Scale(float sx, float sy)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| sx | Single | sx. sx. sx. |
-| sy | Single | sy。 sy。 sy。 |
+| sx | シングル | sxです。 sxです。 sxです。 |
+| sy | シングル | syです。 syです。 syです。 |
 
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

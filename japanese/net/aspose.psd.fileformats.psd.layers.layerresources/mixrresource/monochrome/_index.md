@@ -1,27 +1,28 @@
 ---
-title: MixrResource.Monochrome
-second_title: Aspose.PSD for .NET API リファレンス
-description: MixrResource 財産. これがMixrResourceモノクロです.
+title: "MixrResource.Monochrome"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MixrResource プロパティ。この MixrResource がモノクロかどうかを示す値を取得または設定します"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/
 ---
+{{< psd/tize >}}
 ## MixrResource.Monochrome property
 
-これが[`MixrResource`](../)モノクロです.
+この [`MixrResource`](../) がモノクロかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`モノクロの場合。さもないと、`間違い` .
+`true` はモノクロの場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [MixrResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

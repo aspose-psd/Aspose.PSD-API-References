@@ -1,14 +1,15 @@
 ---
-title: Figure.Figure
-second_title: Aspose.PSD for .NET API リファレンス
-description: Figure コンストラクタ. デフォルトのコンストラクター
+title: "Figure.Figure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Figure コンストラクタ。デフォルトコンストラクタ。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public Figure()
@@ -17,7 +18,7 @@ public Figure()
 ### 関連項目
 
 * class [Figure](../)
-* 名前空間 [Aspose.PSD](../../figure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

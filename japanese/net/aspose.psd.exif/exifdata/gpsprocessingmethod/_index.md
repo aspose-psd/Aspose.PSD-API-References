@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSProcessingMethod
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 位置検出に使用される方法の名前を記録する GPS 文字列を取得または設定します
+title: "ExifData.GPSProcessingMethod"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。位置特定に使用される方法の名前を記録する GPS 文字列を取得または設定します"
 type: docs
 weight: 580
 url: /ja/net/aspose.psd.exif/exifdata/gpsprocessingmethod/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSProcessingMethod property
 
-位置検出に使用される方法の名前を記録する GPS 文字列を取得または設定します。
+位置特定に使用された方法の名前を記録する GPS 文字列を取得または設定します。
 
 ```csharp
 public byte[] GPSProcessingMethod { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-測位方法名を記録したGPS文字列。
+位置特定に使用される方法の名前を記録する GPS 文字列。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

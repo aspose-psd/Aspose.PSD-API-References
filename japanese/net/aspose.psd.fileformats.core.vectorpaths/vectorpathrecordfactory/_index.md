@@ -1,34 +1,29 @@
 ---
-title: Class VectorPathRecordFactory
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory クラス. ベクトル パス レコード ファクトリ Class
+title: "クラス VectorPathRecordFactory"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecordFactory クラス。ベクトルパスレコードファクトリクラス"
 type: docs
-weight: 1410
+weight: 1420
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory class
 
-ベクトル パス レコード ファクトリ Class
+Vector Path Record Factory クラス。
 
 ```csharp
-public class VectorPathRecordFactory
+public static class VectorPathRecordFactory
 ```
-
-## コンストラクター
-
-| 名前 | 説明 |
-| --- | --- |
-| [VectorPathRecordFactory](vectorpathrecordfactory/)() | デフォルトのコンストラクター。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | パス レコードを生成します。 |
+| static [ProducePathRecord](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/)(byte[]) | パスレコードを生成します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

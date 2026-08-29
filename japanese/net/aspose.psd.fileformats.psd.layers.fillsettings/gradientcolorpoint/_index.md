@@ -1,14 +1,15 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint クラス. グラデーション カラー ポイント
+title: "クラス GradientColorPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint クラス。グラデーション カラーポイント"
 type: docs
-weight: 1950
+weight: 2060
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-グラデーション カラー ポイント。
+グラデーション カラーポイント。
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
@@ -18,21 +19,22 @@ public class GradientColorPoint : IGradientColorPoint
 
 | 名前 | 説明 |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | の新しいインスタンスを初期化します`GradientColorPoint`class. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | の新しいインスタンスを初期化します`GradientColorPoint`class. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | `GradientColorPoint` クラスの新しいインスタンスを初期化します。 |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | `GradientColorPoint` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | グラデーション上のポイントの位置を取得または設定します。 |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | 中央グラデーション ポイントの位置を取得または設定します。 |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | raw の色を取得または設定します。 |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | 色が従うモード |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | グラデーション上のポイント位置を取得または設定します。 |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | 中央値のグラデーションポイント位置を取得または設定します。 |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | 生の色を取得または設定します。 |
 
 ### 関連項目
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

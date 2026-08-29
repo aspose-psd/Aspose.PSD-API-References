@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. 指定された順序でこの Matrix の原点 ゼロの x および y 座標 を中心に角度パラメーターで指定された量の時計回りの回転を適用します
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。指定された角度パラメータの量だけ、原点 (x と y のゼロ座標) を中心にこの Matrix を指定された順序で時計回りに回転させます。"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-指定された順序で、この Matrix の原点 (ゼロの x および y 座標) を中心に、角度パラメーターで指定された量の時計回りの回転を適用します。
+この Matrix に対して、指定された順序で、原点（x と y が 0 の座標）を中心に、angle パラメーターで指定された量だけ時計回りに回転させます。
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 回転角度。 |
-| order | MatrixOrder | 行列の順序。 |
+| 角度 | シングル | 回転角度です。 |
+| order | MatrixOrder | 行列の順序です。 |
 
 ### 関連項目
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-角度パラメーターで指定された量の時計回りの回転を、この Matrix の原点 (x 座標と y 座標がゼロ) の周りに、デフォルト (プリペンド) の順序で適用します。
+この Matrix に対して、デフォルト（Prepend）順序で、原点（x と y が 0 の座標）を中心に、angle パラメーターで指定された量だけ時計回りに回転させます。
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 回転角度。 |
+| 角度 | シングル | 回転角度です。 |
 
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

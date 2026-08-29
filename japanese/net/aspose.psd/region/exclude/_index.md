@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを更新しますRegion指定されたものと交差しない内部の部分のみを含むRectangleF構造体.
+title: "Region.Exclude"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。この Region の内部で、指定された RectangleF 構造体と交差しない部分だけを保持するように更新します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-これを更新します[`Region`](../)指定されたものと交差しない内部の部分のみを含む[`RectangleF`](../../rectanglef/)構造体.
+この [`Region`](../) を、指定された [`RectangleF`](../../rectanglef/) 構造体と交差しない内部の部分だけを保持するように更新します。
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | の[`RectangleF`](../../rectanglef/)これから除外する構造[`Region`](../). |
+| rect | RectangleF | この [`Region`](../) から除外するための [`RectangleF`](../../rectanglef/) 構造体です。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-これを更新します[`Region`](../)指定されたものと交差しない内部の部分のみを含む[`Rectangle`](../../rectangle/)構造体.
+この [`Region`](../) を更新し、指定された [`Rectangle`](../../rectangle/) 構造体と交差しない内部の部分だけを含むようにします。
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../../rectangle/)これから除外する構造[`Region`](../). |
+| rect | Rectangle | この [`Region`](../) から除外する [`Rectangle`](../../rectangle/) 構造体。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-これを更新します[`Region`](../)指定されたものと交差しない内部の部分のみを含む[`GraphicsPath`](../../graphicspath/) .
+この [`Region`](../) を更新し、指定された [`GraphicsPath`](../../graphicspath/) と交差しない内部の部分だけを含むようにします。
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| path | GraphicsPath | の[`GraphicsPath`](../../graphicspath/)これから除外する[`Region`](../). |
+| path | GraphicsPath | この [`Region`](../) から除外する [`GraphicsPath`](../../graphicspath/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*null. です |
+| ArgumentNullException | *path* は null です。 |
 
 ### 関連項目
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-これを更新します[`Region`](../)指定されたものと交差しない内部の部分のみを含む[`Region`](../) .
+この [`Region`](../) を更新し、指定された [`Region`](../) と交差しない内部の部分だけを含むようにします。
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| region | Region | の[`Region`](../)これから除外する[`Region`](../). |
+| region | Region | この [`Region`](../) から除外する [`Region`](../)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*null. です |
+| ArgumentNullException | *region* は null です。 |
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

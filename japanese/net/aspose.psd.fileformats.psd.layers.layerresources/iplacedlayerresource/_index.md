@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource インターフェース. PSD ファイルに配置されたレイヤーに関する情報を含む IPlacedLayerResource インターフェイスを定義します はAdobe Photoshop 画像で PlLdSoldおよび Sole リソースを指定するために使用されるマークアップ インターフェイスです はスマート オブジェクト レイヤーをサポートするために使用されます Adobe Photoshop 画像.
+title: "インターフェイス IPlacedLayerResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource インターフェイス。PSD ファイル内の配置レイヤーに関する情報を含む IPlacedLayerResource インターフェイスを定義します。Adobe Photoshop 画像で PlLd Sold と Sole リソースを指定するために使用されるマークアップインターフェイスです。Adobe Photoshop 画像でスマートオブジェクトレイヤーをサポートするために使用されます。"
 type: docs
-weight: 2530
+weight: 2820
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-PSD ファイルに配置されたレイヤーに関する情報を含む IPlacedLayerResource インターフェイスを定義します。 は、Adobe® Photoshop® 画像で PlLd、Sold、および Sole リソースを指定するために使用されるマークアップ インターフェイスです。 は、スマート オブジェクト レイヤーをサポートするために使用されます。 Adobe® Photoshop® 画像.
+IPlacedLayerResource インターフェイスを定義し、PSD ファイル内の配置レイヤーに関する情報を含みます。Adobe® Photoshop® 画像で PlLd、Sold、Sole リソースを指定するために使用されるマークアップインターフェイスです。Adobe® Photoshop® 画像でスマートオブジェクトレイヤーをサポートするために使用されます。
 
 ```csharp
 public interface IPlacedLayerResource
@@ -18,38 +19,38 @@ public interface IPlacedLayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | PSD 画像に配置されたレイヤーのアンチエイリアス ポリシーを取得または設定します。 |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | PSD 画像に配置されたレイヤーの下部の位置を取得または設定します。 |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | PSD ファイルに配置されたレイヤーの境界を取得または設定します。 |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュ ポイントの計測単位を取得または設定します。 |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | このインスタンス ワープ スタイルがカスタムかどうかを示す値を取得または設定します。 true の場合、メッシュ ポイントが含まれます。 false に設定すると、メッシュ ポイントが消去されます。 |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | ワープアイテムを取得または設定します. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | PSD ファイルに配置されたレイヤーの左の位置を取得または設定します。 |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | PSD ファイルに配置されたレイヤーのページ番号を取得または設定します。 |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | PSD ファイルに配置されたレイヤーの遠近値を取得または設定します。 |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | PSD ファイルに配置されたレイヤーのパースペクティブその他の値を取得または設定します。 |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | PSD ファイルに配置されたレイヤーのタイプを取得または設定します。 |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | PSD ファイルに配置されたレイヤーの正しい位置を取得または設定します。 |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | PSD 画像に配置されたレイヤーの最上部の位置を取得または設定します。 |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | PSD ファイルに配置されたレイヤーの総ページ数を取得または設定します。 |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | PSD ファイルに配置されたレイヤーの変換行列を取得または設定します。 |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | PSD 画像内のスマート オブジェクト配置レイヤーのグローバル一意識別子を取得または設定します。 |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | PSD ファイルに配置されたレイヤーの U オーダー値を取得または設定します。 |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | PSD 画像に配置されたレイヤーのワープ値を取得または設定します。 |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | PSD ファイルに配置されたレイヤーのバージョンを取得します。通常は 3 ～ 5 です。 |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | PSD ファイルに配置されたレイヤーの水平メッシュ ポイントを取得または設定します。 |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュ ポイントの測定単位を取得または設定します。 |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | PSD ファイルに配置されたレイヤーの V オーダー値を取得または設定します。 |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | PSD 画像内の配置レイヤーのアンチエイリアスポリシーを取得または設定します。 |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | PSD 画像内の配置レイヤーの下部位置を取得または設定します。 |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | PSD ファイル内の配置レイヤーの境界を取得または設定します。 |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | 水平メッシュポイントの測定単位を取得または設定します。 |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | このインスタンスのワープスタイルがカスタムかどうかを示す値を取得または設定します。true の場合、メッシュポイントが含まれます。false に設定すると、メッシュポイントが消去されます。 |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | ワープ項目を取得または設定します。 |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | PSD ファイル内の配置レイヤーの左位置を取得または設定します。 |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | PSD ファイル内の配置レイヤーのページ番号を取得または設定します。 |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | PSD ファイル内の配置レイヤーの遠近値を取得または設定します。 |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | PSD ファイル内の配置レイヤーのその他の遠近値を取得または設定します。 |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | PSD ファイル内の配置レイヤーのタイプを取得または設定します。 |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | PSD ファイル内の配置レイヤーの右位置を取得または設定します。 |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | PSD 画像内の配置レイヤーの上部位置を取得または設定します。 |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | PSD ファイル内の配置レイヤーの総ページ数を取得または設定します。 |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | PSD ファイル内の配置レイヤーの変換行列を取得または設定します。 |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | PSD 画像内の配置された smart object レイヤーのグローバル一意識別子を取得または設定します。 |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける U 順序値を取得または設定します。 |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | 配置されたレイヤーの PSD 画像におけるワープ値を取得または設定します。 |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | 配置されたレイヤーのバージョンを取得します（通常は3〜5）。 |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | PSD ファイル内の配置レイヤーの水平メッシュポイントを取得または設定します。 |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | 垂直メッシュポイントの測定単位を取得または設定します。 |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | 配置されたレイヤーの PSD ファイルにおける V 順序値を取得または設定します。 |
 
-### 例
+## 例
 
-次のコードは、SoLdResource リソースのサポートを示しています。
+以下のコードは SoLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤー データ プロパティを取得または設定する方法を示します。
+// この例は PSD ファイルのスマートオブジェクトレイヤーデータプロパティを取得または設定する方法を示しています。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-                // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+                // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+                // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,18 +330,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // この一意の ID は、参照があれば変更する必要があります
+                // このユニーク ID は、参照がある場合は変更する必要があります。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -355,7 +357,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

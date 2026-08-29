@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendRange 財産. ソース ブレンド範囲を取得または設定します
+title: "BlendRange.Source"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendRange プロパティ。ソースのブレンド範囲を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-ソース ブレンド範囲を取得または設定します。
+ソースのブレンド範囲を取得または設定します。
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ソースブレンド範囲.
+ソースのブレンド範囲です。
 
 ### 関連項目
 
 * class [BlendRange](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

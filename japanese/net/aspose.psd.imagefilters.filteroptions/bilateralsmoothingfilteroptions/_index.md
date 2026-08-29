@@ -1,14 +1,15 @@
 ---
-title: Class BilateralSmoothingFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions クラス. バイラテラル スムージング フィルター オプション.
+title: "クラス BilateralSmoothingFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BilateralSmoothingFilterOptions クラス。Bilateral Smoothing Filter Options"
 type: docs
-weight: 4660
+weight: 5130
 url: /ja/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions class
 
-バイラテラル スムージング フィルター オプション.
+双方向平滑化フィルターオプションです。
 
 ```csharp
 public class BilateralSmoothingFilterOptions : FilterOptionsBase
@@ -18,23 +19,23 @@ public class BilateralSmoothingFilterOptions : FilterOptionsBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | の新しいインスタンスを初期化します`BilateralSmoothingFilterOptions`class. |
-| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | の新しいインスタンスを初期化します`BilateralSmoothingFilterOptions`class. |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor)() | `BilateralSmoothingFilterOptions` クラスの新しいインスタンスを初期化します。 |
+| [BilateralSmoothingFilterOptions](bilateralsmoothingfilteroptions/#constructor_1)(int) | `BilateralSmoothingFilterOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | 色係数を取得または設定します。 |
-| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | 色度を取得または設定します。 |
+| [ColorFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorfactor/) { get; set; } | カラー係数を取得または設定します。 |
+| [ColorPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/) { get; set; } | カラー パワーを取得または設定します。 |
 | [Size](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/) { get; set; } | カーネルのサイズを取得または設定します。 |
-| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | 空間ファクターを取得または設定します。 |
+| [SpatialFactor](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/) { get; set; } | 空間係数を取得または設定します。 |
 | [SpatialPower](../../aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/) { get; set; } | 空間パワーを取得または設定します。 |
 
 ### 関連項目
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpLocale コンストラクタ. の新しいインスタンスを初期化しますXmpLocaleclass.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpLocale コンストラクタ。XmpLocale クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-の新しいインスタンスを初期化します[`XmpLocale`](../)class.
+[`XmpLocale`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public XmpLocale(string value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | String | 値。 |
+| 値 | 文字列 | 値です。 |
 
 ### 関連項目
 
 * class [XmpLocale](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD for .NET API リファレンス
-description: PngOptions 財産. これがPngOptionsプログレッシブです.
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PngOptions プロパティ。 この PngOptions がプログレッシブかどうかを示す値を取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-これが[`PngOptions`](../)プログレッシブです.
+この [`PngOptions`](../) がプログレッシブかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`プログレッシブの場合;さもないと、`間違い` .
+`true` はプログレッシブの場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [PngOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

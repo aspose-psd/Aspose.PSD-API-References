@@ -1,27 +1,28 @@
 ---
-title: IAsyncTaskState.SetProgress
-second_title: Aspose.PSD for .NET API リファレンス
-description: IAsyncTaskState 方法. 非同期タスクの進行状況を設定します
+title: "IAsyncTaskState.SetProgress"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IAsyncTaskState メソッド。非同期タスクの進捗を設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.asynctask/iasynctaskstate/setprogress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.SetProgress method
 
-非同期タスクの進行状況を設定します。
+非同期タスクの進捗を設定します。
 
 ```csharp
 public void SetProgress(int progressPercentage)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| progressPercentage | Int32 | 進捗率。 |
+| progressPercentage | Int32 | 進捗率です。 |
 
 ### 関連項目
 
 * interface [IAsyncTaskState](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

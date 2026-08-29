@@ -1,20 +1,21 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: OSTypeStructure コンストラクタ. の新しいインスタンスを初期化しますOSTypeStructureclass.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OSTypeStructure コンストラクタ。OSTypeStructure クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-の新しいインスタンスを初期化します[`OSTypeStructure`](../)class.
+[`OSTypeStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キー名。 |
 
@@ -22,7 +23,7 @@ public OSTypeStructure(ClassID keyName)
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

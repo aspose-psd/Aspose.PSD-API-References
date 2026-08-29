@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Value
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDate 財産. 日付値を取得または設定します
+title: "XmpDate.Value"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDate プロパティ。日付値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
 日付値を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.types.basic/xmpdate/value/
 public DateTime Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-日付の値。
+日付値です。
 
 ### 関連項目
 
 * class [XmpDate](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

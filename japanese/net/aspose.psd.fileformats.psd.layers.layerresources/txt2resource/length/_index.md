@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: Txt2Resource 財産. 層リソースの長さをバイト単位で取得します
+title: "Txt2Resource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Txt2Resource プロパティ。レイヤーリソースの長さ（バイト単位）を取得します"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [Txt2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

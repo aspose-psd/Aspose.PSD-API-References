@@ -1,11 +1,12 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rational 財産. float 値を取得します
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rational プロパティ。浮動小数点値を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
 float 値を取得します。
@@ -14,14 +15,14 @@ float 値を取得します。
 public float FloatValue { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-float 値。
+浮動小数点値です。
 
 ### 関連項目
 
 * class [Rational](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

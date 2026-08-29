@@ -1,28 +1,29 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD for .NET API リファレンス
-description: ProjectLink 財産. ファイルの種類を取得または設定します
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ProjectLink プロパティ。ファイルタイプを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
-ファイルの種類を取得または設定します。
+ファイルタイプを取得または設定します。
 
 ```csharp
 public ProjectType Type { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ファイルの種類.
+ファイルタイプです。
 
 ### 関連項目
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

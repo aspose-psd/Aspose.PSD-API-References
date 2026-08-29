@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeOriginSettings 財産. このインスタンスが変換プロパティを持っているかどうかを示す値を取得します.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeOriginSettings プロパティ。 このインスタンスが変換 プロパティを持つかどうかを示す値を取得します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-このインスタンスが変換プロパティを持っているかどうかを示す値を取得します.
+このインスタンスが transform プロパティを持つかどうかを示す値を取得します。
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスに変換プロパティがある場合。さもないと、`間違い` .
+`true` このインスタンスが変換 プロパティを持つ場合; それ以外の場合は `false`。
 
-### 例
+## 例
 
-次のコードは、ベクター パスを含むシェイプ レイヤーのサイズを変更する機能を示しています。
+以下のコードは、ベクトルパスを含むシェイプレイヤーのサイズ変更機能を示します。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 ### 関連項目
 
 * class [VectorShapeOriginSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

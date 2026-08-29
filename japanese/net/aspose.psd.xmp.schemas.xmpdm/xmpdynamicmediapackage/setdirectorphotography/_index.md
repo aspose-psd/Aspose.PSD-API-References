@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDirectorPhotography
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. 撮影監督を設定します
+title: "XmpDynamicMediaPackage.SetDirectorPhotography"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。撮影監督を設定します"
 type: docs
 weight: 180
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphotography/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDirectorPhotography method
 
 撮影監督を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setdirectorphot
 public void SetDirectorPhotography(string directorPhotography)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| directorPhotography | String | 撮影監督。 |
+| directorPhotography | 文字列 | 撮影監督です。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

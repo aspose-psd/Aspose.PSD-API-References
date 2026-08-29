@@ -1,14 +1,15 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: GuideResource 分野. ガイド リソース ブロック サイズ.
+title: "GuideResource.GuideResourceSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GuideResource フィールド。ガイドリソースブロックのサイズです"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
-ガイド リソース ブロック サイズ.
+ガイドリソースブロックのサイズです。
 
 ```csharp
 public const int GuideResourceSize;
@@ -17,7 +18,7 @@ public const int GuideResourceSize;
 ### 関連項目
 
 * class [GuideResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

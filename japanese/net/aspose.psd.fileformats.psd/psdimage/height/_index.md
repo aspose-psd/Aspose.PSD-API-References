@@ -1,27 +1,28 @@
 ---
-title: PsdImage.Height
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. 画像の高さを取得します.
+title: "PsdImage.Height"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。画像の高さを取得します"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/height/
 ---
+{{< psd/tize >}}
 ## PsdImage.Height property
 
-画像の高さを取得します.
+画像の高さを取得します。
 
 ```csharp
 public override int Height { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像の高さ。
+画像の高さです。
 
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

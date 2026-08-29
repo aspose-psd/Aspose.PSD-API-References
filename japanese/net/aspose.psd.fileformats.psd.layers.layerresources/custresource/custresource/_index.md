@@ -1,14 +1,15 @@
 ---
-title: CustResource.CustResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: CustResource コンストラクタ. の新しいインスタンスを初期化しますCustResourceclass.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CustResource コンストラクタ。CustResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-の新しいインスタンスを初期化します[`CustResource`](../)class.
+[`CustResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CustResource()
@@ -17,27 +18,27 @@ public CustResource()
 ### 関連項目
 
 * class [CustResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`CustResource`](../)class.
+[`CustResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public CustResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | リソースのデータ。 |
+| データ | Byte[] | そのリソースのデータです。 |
 
 ### 関連項目
 
 * class [CustResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

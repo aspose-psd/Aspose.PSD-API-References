@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Empty
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 財産. の新しいインスタンスを取得しますRectangleF持つ構造X Y WidthとHeightゼロに設定された値.
+title: "RectangleF.Empty"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF プロパティ。X、Y、幅、そして高さの値がすべて 0 に設定された新しい RectangleF 構造体のインスタンスを取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/rectanglef/empty/
 ---
+{{< psd/tize >}}
 ## RectangleF.Empty property
 
-の新しいインスタンスを取得します[`RectangleF`](../)持つ構造[`X`](../x/) 、[`Y`](../y/) 、[`Width`](../width/)と[`Height`](../height/)ゼロに設定された値.
+[`RectangleF`](../) 構造体の新しいインスタンスを取得します。このインスタンスは [`X`](../x/)、[`Y`](../y/)、[`Width`](../width/) および [`Height`](../height/) の値が 0 に設定されています。
 
 ```csharp
 public static RectangleF Empty { get; }
@@ -17,7 +18,7 @@ public static RectangleF Empty { get; }
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: UrlListResource.UrlListResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: UrlListResource コンストラクタ. デフォルトのコンストラクター
+title: "UrlListResource.UrlListResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UrlListResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/urllistresource/urllistresource/
 ---
+{{< psd/tize >}}
 ## UrlListResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public UrlListResource()
@@ -17,7 +18,7 @@ public UrlListResource()
 ### 関連項目
 
 * class [UrlListResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

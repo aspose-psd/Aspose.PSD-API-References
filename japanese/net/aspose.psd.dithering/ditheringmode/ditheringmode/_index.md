@@ -1,14 +1,15 @@
 ---
-title: DitheringMode.DitheringMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: DitheringMode コンストラクタ. デフォルトのコンストラクター
+title: "DitheringMode.DitheringMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DitheringMode コンストラクタ。 デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.dithering/ditheringmode/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public DitheringMode()
@@ -17,7 +18,7 @@ public DitheringMode()
 ### 関連項目
 
 * class [DitheringMode](../)
-* 名前空間 [Aspose.PSD.Dithering](../../ditheringmode/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

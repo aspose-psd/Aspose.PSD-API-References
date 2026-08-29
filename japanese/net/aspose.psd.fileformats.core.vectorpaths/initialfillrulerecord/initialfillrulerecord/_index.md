@@ -1,14 +1,15 @@
 ---
-title: InitialFillRuleRecord.InitialFillRuleRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: InitialFillRuleRecord コンストラクタ. の新しいインスタンスを初期化しますInitialFillRuleRecordclass.
+title: "InitialFillRuleRecord.InitialFillRuleRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "InitialFillRuleRecord コンストラクタ。InitialFillRuleRecord クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord() {#constructor}
 
-の新しいインスタンスを初期化します[`InitialFillRuleRecord`](../)class.
+[`InitialFillRuleRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InitialFillRuleRecord()
@@ -17,26 +18,26 @@ public InitialFillRuleRecord()
 ### 関連項目
 
 * class [InitialFillRuleRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(bool) {#constructor_1}
 
-の新しいインスタンスを初期化します[`InitialFillRuleRecord`](../)class.
+[`InitialFillRuleRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InitialFillRuleRecord(bool isFillStartsWithAllPixels)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| isFillStartsWithAllPixels | Boolean | 塗りつぶしはすべてのピクセルから始まります。 |
+| isFillStartsWithAllPixels | Boolean | fill がすべてのピクセルから開始します。 |
 
-### 例
+## 例
 
-次のコード例は、ベクター パス オブジェクトを操作するためのクラスを提供し、それらのクラスの使用方法を示しています。
+以下のコード例はベクトルパスオブジェクトを操作するクラスを提供し、これらのクラスの使用方法を示します。
 
 ```csharp
 [C#]
@@ -64,15 +65,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// <see cref="Layer"/> 間の作業を提供するクラス。および <cref="VectorPath"/> を参照してください。
+/// クラスは <see cref=\"Layer\"/> と <see cref=\"VectorPath\"/> の間の作業を提供します。
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// <see cref="VectorPath"/> を作成します。入力層からのリソースに基づくインスタンス。
+    /// 入力レイヤーのリソースに基づいて <see cref=\"VectorPath\"/> インスタンスを作成します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <returns>入力レイヤーのリソースに基づく <see cref=\"VectorPath\"/> インスタンス。</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -91,11 +92,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPath"/> からの入力レイヤー リソースを更新します。インスタンス、または新しいパスリソースと更新で置き換えます。
+    /// <see cref=\"VectorPath\"/> インスタンスから入力レイヤーのリソースを更新するか、新しいパスリソースに置き換えて更新します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <param name="vectorPath">ベクター パス。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <param name=\"vectorPath\">ベクトルパス。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -111,9 +112,9 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// 入力レイヤーからベクター パス データを削除します。
+    /// 入力レイヤーからベクトルパスデータを削除します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -136,13 +137,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPath"/> のリソース データを更新します。実例。
+    /// <see cref=\"VectorPath\"/> インスタンスからリソースデータを更新します。
     /// </summary>
-    /// <param name="pathResource">パス リソース。</param>
-    /// <param name="vogkResource">ベクター生成データ リソース</param>
-    /// <param name="socoResource">無地のリソースです。</param>
-    /// <param name="vectorPath">ベクター パス。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name=\"pathResource\">パスリソース。</param>
+    /// <param name=\"vogkResource\">ベクトル起点データリソース。</param>
+    /// <param name=\"socoResource\">単色リソース。</param>
+    /// <param name=\"vectorPath\">ベクトルパス。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -169,12 +170,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// レイヤ内のリソースを更新または新しいリソースに置き換えます。
+    /// レイヤー内のリソースを更新されたものまたは新しいものに置き換えます。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <param name="pathResource">パス リソース。</param>
-    /// <param name="vogkResource">ベクター生成データ リソース</param>
-    /// <param name="socoResource">無地のリソースです。</param>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <param name=\"pathResource\">パスリソース。</param>
+    /// <param name=\"vogkResource\">ベクトル起点データリソース。</param>
+    /// <param name=\"socoResource\">単色リソース。</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -221,11 +222,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VectorPathDataResource"/> を検索します。入力層リソースのリソース。
+    /// 入力レイヤーのリソースから <see cref=\"VectorPathDataResource\"/> リソースを検索します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <param name="createIfNotExist">リソースが存在しない場合は、<see cref="true"/>新しいリソースを作成します。それ以外の場合は <see cref="null"/>.</param> を返します。
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <param name=\"createIfNotExist\">リソースが存在しない場合、<see cref=\"true\"/> のときは新しいリソースを作成し、そうでなければ <see cref=\"null\"/> を返します。</param>
+    /// <returns><see cref=\"VectorPathDataResource\"/> リソース。</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -247,11 +248,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="VogkResource"/> を検索します。入力層リソースのリソース。
+    /// 入力レイヤーのリソースから <see cref=\"VogkResource\"/> リソースを検索します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <param name="createIfNotExist">リソースが存在しない場合は、<see cref="true"/>新しいリソースを作成します。それ以外の場合は <see cref="null"/>.</param> を返します。
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <param name=\"createIfNotExist\">リソースが存在しない場合、<see cref=\"true\"/> のときは新しいリソースを作成し、そうでなければ <see cref=\"null\"/> を返します。</param>
+    /// <returns>この <see cref=\"VogkResource\"/> リソース。</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -273,11 +274,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <see cref="SoCoResource"/> を検索します。入力層リソースのリソース。
+    /// 入力レイヤーリソース内の <see cref=\"SoCoResource\"/> リソースを検索します。
     /// </summary>
-    /// <param name="psdLayer">psd レイヤー</param>
-    /// <param name="createIfNotExist">リソースが存在しない場合は、<see cref="true"/>新しいリソースを作成します。それ以外の場合は <see cref="null"/>.</param> を返します。
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name=\"psdLayer\">psd レイヤー。</param>
+    /// <param name=\"createIfNotExist\">リソースが存在しない場合、<see cref=\"true\"/> のときは新しいリソースを作成し、そうでなければ <see cref=\"null\"/> を返します。</param>
+    /// <returns>この <see cref=\"SoCoResource\"/> リソース。</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -299,10 +300,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// レイヤーが動作することを確認します <see cref="VectorDataProvider"/>クラス。
+    /// レイヤーが <see cref=\"VectorDataProvider\"/> クラスと連携できるか検証します。
     /// </summary>
-    /// <param name="レイヤー"></param>
-    /// <例外 cref="ArgumentNullException"></例外>
+    /// <param name=\"layer\"></param>
+    /// <exception cref=\"ArgumentNullException\"></exception>
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -318,22 +319,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// ベジエ カーブ ノット。1 つのアンカー ポイントと 2 つのコントロール ポイントが含まれます。
+/// Bezier 曲線のノットで、1 つのアンカーポイントと 2 つの制御ポイントを含みます。
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// 画像とパス ポイントの比率。
+    /// 画像とパスポイントの比率。
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// <see cref="BezierKnot" /> の新しいインスタンスを初期化します。クラス。
+    /// 新しい <see cref=\"BezierKnot\" /> クラスのインスタンスを初期化します。
     /// </summary>
-    /// <param name="anchorPoint">アンカーポイント。</param>
-    /// <param name="controlPoint1">最初のコントロール ポイント。</param>
-    /// <param name="controlPoint2">2 番目のコントロール ポイント。</param>
-    /// <param name="isLinked">このノットがリンクされているかどうかを示す値。</param>
+    /// <param name=\"anchorPoint\">アンカーポイント。</param>
+    /// <param name=\"controlPoint1\">最初の制御ポイント。</param>
+    /// <param name=\"controlPoint2\">2 番目の制御ポイント。</param>
+    /// <param name=\"isLinked\">このノットがリンクされているかどうかを示す値。</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -343,10 +344,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <see cref="BezierKnot" /> の新しいインスタンスを初期化します。 <see cref="BezierKnotRecord"/> に基づくクラス。
+    /// 新しい <see cref=\"BezierKnot\" /> クラスのインスタンスを <see cref=\"BezierKnotRecord\"/> に基づいて初期化します。
     /// </summary>
-    /// <param name="bezierKnotRecord"> <see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name=\"bezierKnotRecord\">対象の <see cref=\"BezierKnotRecord\"/>。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -356,10 +357,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <see cref="BezierKnot" /> の新しいインスタンスを初期化します。クラス。
+    /// 新しい <see cref=\"BezierKnot\" /> クラスのインスタンスを初期化します。
     /// </summary>
-    /// <param name="anchorPoint">アンカーポイントとコントロールポイントになるポイント</param>
-    /// <param name="isLinked">このノットがリンクされているかどうかを示す値。</param>
+    /// <param name=\"anchorPoint\">アンカーおよび制御ポイントになる点。</param>
+    /// <param name=\"isLinked\">このノットがリンクされているかどうかを示す値。</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
@@ -371,26 +372,26 @@ public class BezierKnot
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// 最初のコントロール ポイントを取得または設定します。
+    /// 最初の制御ポイントを取得または設定します。
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// アンカー ポイントを取得または設定します。
+    /// アンカーポイントを取得または設定します。
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// 2 番目のコントロール ポイントを取得または設定します。
+    /// 2 番目の制御ポイントを取得または設定します。
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// <see cref="BezierKnotRecord"/> のインスタンスを作成します。このインスタンスに基づいています。
+    /// このインスタンスに基づいて <see cref=\"BezierKnotRecord\"/> のインスタンスを作成します。
     /// </summary>
-    /// <param name="isClosed">この結び目が閉じているかどうかを示します。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name=\"isClosed\">このノットが閉じた形状かどうかを示す。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
+    /// <returns>このインスタンスに基づく <see cref=\"BezierKnotRecord\"/> のインスタンス。</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -407,10 +408,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// このノット ポイントを入力値だけシフトします。
+    /// 入力値でこのノットのポイントをシフトします。
     /// </summary>
-    /// <param name="xOffset">x オフセット。</param>
-    /// <param name="yOffset">Y オフセット。</param>
+    /// <param name=\"xOffset\">x オフセット。</param>
+    /// <param name="yOffset">y オフセット。</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -419,22 +420,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// ポイント値をリソースから通常に変換します。
+    /// リソースから通常へのポイント値を変換します。
     /// </summary>
     /// <param name="point">リソースからの値を持つポイント。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
+    /// <returns>通常に変換されたポイント。</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// 通常のポイント値をリソース ポイントに変換します。
+    /// 通常のポイント値をリソースポイントに変換します。
     /// </summary>
     /// <param name="point">ポイント。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
+    /// <returns>リソース用の値を持つポイント。</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -442,12 +443,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// ベジエ曲線の結び目からの図。
+/// ベジェ曲線のノットから得られる図形。
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// <see cref="PathShape" /> の新しいインスタンスを初期化します。クラス。
+    /// 新しい <see cref="PathShape" /> クラスのインスタンスを初期化します。
     /// </summary>
     public PathShape()
     {
@@ -456,11 +457,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// <see cref="PathShape" /> の新しいインスタンスを初期化します。 <see cref="VectorPathRecord"/> に基づくクラス。
+    /// <see cref="VectorPathRecord"/> に基づく新しい <see cref="PathShape" /> クラスのインスタンスを初期化します。
     /// </summary>
     /// <param name="lengthRecord">長さレコード。</param>
-    /// <param name="bezierKnotRecords">ベジエ ノット レコード。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name="bezierKnotRecords">ベジェノットレコード。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -473,31 +474,31 @@ public class PathShape
     /// <summary>
     /// このインスタンスが閉じているかどうかを示す値を取得または設定します。
     /// </summary>
-    /// <値>;
-    /// <c>真</c>このインスタンスが閉じている場合。それ以外の場合は <c>false</c>。
-    /// </値>
+    /// <value>
+    ///   <c>true</c> このインスタンスが閉じている場合; それ以外は <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// パス操作 (ブール演算) を取得または設定します。
+    /// パス操作（ブール演算）を取得または設定します。
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// レイヤー内の現在のパス形状のインデックスを取得または設定します。
+    /// レイヤー内の現在のパスシェイプのインデックスを取得または設定します。
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// ベジエ曲線のポイントを取得します。
+    /// ベジェ曲線のポイントを取得します。
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// <see cref="VectorPathRecord"/> を作成します。このインスタンスに基づくレコード。
+    /// このインスタンスに基づいて <see cref="VectorPathRecord"/> レコードを作成します。
     /// </summary>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
+    /// <returns>このインスタンスの各ポイントに対して、1つの <see cref="LengthRecord"/> と <see cref="BezierKnotRecord"/> を返します。</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -520,8 +521,8 @@ public class PathShape
     /// <summary>
     /// 入力レコードに基づいて値を初期化します。
     /// </summary>
-    /// <param name="bezierKnotRecords">ベジエ ノット レコード。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name="bezierKnotRecords">ベジェノットレコード。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -536,26 +537,26 @@ public class PathShape
 }
 
 /// <summary>
-/// ベクター パスを含むクラス。
+/// ベクトルパスを含むクラスです。
 /// </summary>
 public class VectorPath
 {
     /// <summary>
-    /// <see cref="VectorPath" /> の新しいインスタンスを初期化します。 <see cref="VectorPathDataResource"/> に基づくクラス。
+    /// <see cref="VectorPathDataResource"/> に基づく新しい <see cref="VectorPath" /> クラスのインスタンスを初期化します。
     /// </summary>
-    /// <param name="vectorPathDataResource">ベクター パス データ リソース。</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name="vectorPathDataResource">ベクトルパスデータリソース。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// 塗りつぶしがすべてのピクセルで始まるかどうかを示す値を取得または設定します。
+    /// 値を取得または設定します。この値は塗りがすべてのピクセルから開始するかどうかを示します。
     /// </summary>
-    /// <値>;
-    /// 塗りつぶしはすべてのピクセルで始まります。
-    /// </値>
+    /// <value>
+    /// 塗りがすべてのピクセルから開始します。
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
@@ -564,47 +565,47 @@ public class VectorPath
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// ベクター パスの塗りつぶしの色を取得または設定します。
+    /// ベクトルパスの塗り色を取得または設定します。
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
     /// バージョンを取得または設定します。
     /// </summary>
-    /// <値>;
-    /// バージョン。
-    /// </値>
+    /// <value>
+    /// バージョンです。
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
     /// このインスタンスが無効かどうかを示す値を取得または設定します。
     /// </summary>
-    /// <値>;
-    /// <c>真</c>このインスタンスが無効になっている場合。それ以外の場合は <c>false</c>。
-    /// </値>
+    /// <value>
+    ///   <c>true</c> このインスタンスが無効な場合; それ以外は <c>false</c>。
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
     /// このインスタンスがリンクされていないかどうかを示す値を取得または設定します。
     /// </summary>
-    /// <値>;
-    /// <c>真</c>このインスタンスがリンクされていない場合。それ以外の場合は <c>false</c>。
-    /// </値>
+    /// <value>
+    ///   <c>true</c> このインスタンスがリンクされていない場合; それ以外は <c>false</c>。
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// このインスタンスが反転されているかどうかを示す値を取得または設定します。
+    /// このインスタンスが反転しているかどうかを示す値を取得または設定します。
     /// </summary>
-    /// <値>;
-    /// <c>真</c>このインスタンスが反転されている場合。それ以外の場合は <c>false</c>。
-    /// </値>
+    /// <value>
+    ///   <c>true</c> このインスタンスが反転している場合; それ以外は <c>false</c>。
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// 入力に基づいて値を初期化 <see cref="VectorPathDataResource"/>リソース。
+    /// 入力 <see cref="VectorPathDataResource"/> リソースに基づいて値を初期化します。
     /// </summary>
-    /// <param name="resource">ベクター パス データ リソース</param>
-    /// <param name="imageSize">変換点座標を補正するための画像サイズ</param>
+    /// <param name="resource">ベクトルパスデータリソース。</param>
+    /// <param name=\"imageSize\">ポイント座標変換を補正するための画像サイズ。</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -658,27 +659,27 @@ public class VectorPath
 ### 関連項目
 
 * class [InitialFillRuleRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InitialFillRuleRecord(byte[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`InitialFillRuleRecord`](../)class.
+[`InitialFillRuleRecord`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public InitialFillRuleRecord(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 記録データです。 |
+| データ | Byte[] | レコードデータです。 |
 
 ### 関連項目
 
 * class [InitialFillRuleRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

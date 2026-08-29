@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerGroup 財産. ブレンド モード キーを取得または設定します
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerGroup プロパティ。ブレンドモードキーを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-ブレンド モード キーを取得または設定します。
+ブレンドモードキーを取得または設定します。
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ブレンドモードキー.
+ブレンドモードキーです。
 
 ### 関連項目
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

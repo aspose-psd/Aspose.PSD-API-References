@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalLayerMaskInfo 財産. 赤マスクを取得または設定します
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalLayerMaskInfo プロパティ。赤マスクを取得または設定します。"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
 赤マスクを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 public short RedMask { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-赤マスク.
+赤マスク。
 
 ### 関連項目
 
 * class [GlobalLayerMaskInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

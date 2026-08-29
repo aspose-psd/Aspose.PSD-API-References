@@ -1,14 +1,15 @@
 ---
-title: Class License
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.License クラス. コンポーネントのライセンスを取得する方法を提供します
+title: "クラス License"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.License クラス。コンポーネントのライセンス付与メソッドを提供します。"
 type: docs
-weight: 5050
+weight: 5540
 url: /ja/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
-コンポーネントのライセンスを取得する方法を提供します。
+コンポーネントのライセンスを付与するメソッドを提供します。
 
 ```csharp
 public class License
@@ -24,12 +25,12 @@ public class License
 
 | 名前 | 説明 |
 | --- | --- |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | コンポーネントのライセンスを取得します。 |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | コンポーネントのライセンスを取得します。 |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | コンポーネントにライセンスを付与します。 |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | コンポーネントにライセンスを付与します。 |
 
-### 例
+## 例
 
-この例では、 コンポーネントを含むフォルダー、呼び出しアセンブリを含むフォルダー、エントリ アセンブリのフォルダー内の 、そして次に呼び出し元アセンブリの埋め込みリソース.
+この例では、コンポーネントが含まれるフォルダー、呼び出しアセンブリが含まれるフォルダー、エントリアセンブリのフォルダー、そして呼び出しアセンブリの埋め込みリソース内で、MyLicense.lic という名前のライセンスファイルを検索しようとします。
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ License.SetLicense("MyLicense.lic")
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

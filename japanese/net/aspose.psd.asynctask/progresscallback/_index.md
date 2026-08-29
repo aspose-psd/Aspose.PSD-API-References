@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD for .NET API リファレンス
-description: タスク進捗変更イベントを受け取るコールバック関数.
+title: "デリゲート ProgressCallback"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "タスクの進捗変更イベントを受け取るコールバック関数"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-タスク進捗変更イベントを受け取るコールバック関数.
+タスクの進捗変更イベントを受け取るコールバック関数。
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| progressPercentage | Int32 | 進捗率。 |
+| progressPercentage | Int32 | 進捗率です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

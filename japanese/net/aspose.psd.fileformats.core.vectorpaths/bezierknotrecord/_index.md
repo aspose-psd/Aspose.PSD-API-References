@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord クラス. ベジエ ノット レコード Class
+title: "クラス BezierKnotRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord クラス。リソースからベジエノットデータの読み書きに使用される Bezier Knot Record クラス"
 type: docs
-weight: 1330
+weight: 1340
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-ベジエ ノット レコード Class
+Bezier Knot Record クラス。リソースから Bezier ノットデータを読み書きするために使用されます。
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -18,8 +19,8 @@ public class BezierKnotRecord : VectorPathRecord
 
 | 名前 | 説明 |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | の新しいインスタンスを初期化します`BezierKnotRecord`class. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | の新しいインスタンスを初期化します`BezierKnotRecord`class. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | `BezierKnotRecord` クラスの新しいインスタンスを初期化します。 |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | `BezierKnotRecord` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -27,14 +28,14 @@ public class BezierKnotRecord : VectorPathRecord
 | --- | --- |
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | このインスタンスが閉じているかどうかを示す値を取得または設定します。 |
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | このインスタンスがリンクされているかどうかを示す値を取得または設定します。 |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | このインスタンスが開いているかどうかを示す値を取得または設定します。 |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | パス ポイントを取得または設定します。 |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | このインスタンスが開かれているかどうかを示す値を取得または設定します。 |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | パスポイントを取得または設定します。 |
 | [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | ポイントを取得または設定します。 |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | 型を取得します. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | 型を取得します。 |
 
-### 例
+## 例
 
-次の例は、VmskResource リソースの読み込みのサポートを示しています。パスの編集方法。
+次の例は VmskResource リソースのロードのサポートを示しています。パスの編集がどのように機能するか。
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // 読む
+        // 読み取り
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // パス塗りつぶしルールには追加情報は含まれていません
+        // パスの塗りルールには追加情報が含まれていません
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -76,7 +77,7 @@ public void TestPsdNet106()
         {
             throw new Exception("VmskResource paths were read wrong");
         }
-        // 編集中
+        // 編集
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-次の例は、VsmsResource リソースの読み込みのサポートを示しています。パスの編集方法。
+次の例は VsmsResource のリソース読み込みのサポートを示します。パスの編集がどのように機能するかを説明します。
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ public void TestPsdNet140()
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // 読む
+        // 読み取り
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // パス塗りつぶしルールには追加情報は含まれていません
+        // パスの塗りルールには追加情報が含まれていません
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -157,7 +158,7 @@ public void TestPsdNet140()
             throw new Exception("VsmsResource paths were read wrong");
         }
 
-        // 編集中
+        // 編集
         resource.IsDisabled = true;
         resource.IsInverted = true;
         resource.IsNotLinked = true;
@@ -195,7 +196,7 @@ private VsmsResource GetVsmsResource(PsdImage image)
 ### 関連項目
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

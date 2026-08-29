@@ -1,14 +1,15 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions クラス. 畳み込みフィルター.
+title: "クラス ConvolutionFilterOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions クラス。畳み込みフィルター"
 type: docs
-weight: 4670
+weight: 5140
 url: /ja/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
-畳み込みフィルター.
+畳み込みフィルターです。
 
 ```csharp
 public abstract class ConvolutionFilterOptions : FilterOptionsBase
@@ -18,7 +19,7 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | の新しいインスタンスを初期化します`ConvolutionFilterOptions`class. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | `ConvolutionFilterOptions` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,7 +31,7 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 ### 関連項目
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 名前空間 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

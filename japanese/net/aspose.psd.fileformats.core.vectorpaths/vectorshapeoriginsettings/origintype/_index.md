@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeOriginSettings 財産. 原点のタイプを取得または設定します
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeOriginSettings プロパティ。原点のタイプを取得または設定します"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
-原点のタイプを取得または設定します。
+origin のタイプを取得または設定します。
 
 ```csharp
 public int OriginType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-原点のタイプ.
+原点のタイプです。
 
 ### 関連項目
 
 * class [VectorShapeOriginSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

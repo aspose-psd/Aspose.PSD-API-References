@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. acmyk を取得します
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。acmyk を取得します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
 acmyk を取得します。
@@ -14,14 +15,14 @@ acmyk を取得します。
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`PixelDataFormat`](../)ピクセルあたり 40 ビット、アルファ、シアン、マゼンタ、イエロー、ブラックのそれぞれに 8 ビットが定義されています。
+40 ビット/ピクセルで、アルファ、シアン、マゼンタ、イエロー、ブラックそれぞれに 8 ビットが割り当てられた [`PixelDataFormat`](../) が定義されています。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

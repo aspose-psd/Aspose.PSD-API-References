@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Left
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskData 財産. 左レイヤー マスクの位置を取得または設定します
+title: "LayerMaskData.Left"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskData プロパティ。左側のレイヤーマスク位置を取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdata/left/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Left property
 
-左レイヤー マスクの位置を取得または設定します。
+左側レイヤーマスクの位置を取得または設定します。
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-左レイヤーマスク位置.
+左側のレイヤーマスク位置です。
 
 ### 関連項目
 
 * class [LayerMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

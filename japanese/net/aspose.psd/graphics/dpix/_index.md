@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiX
-second_title: Aspose.PSD for .NET API リファレンス
-description: Graphics 財産. この Aspose.PSD.Graphics. の水平解像度を取得します
+title: "Graphics.DpiX"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Graphics プロパティ。 この Aspose.PSD.Graphics の水平解像度を取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/graphics/dpix/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiX property
 
-この Aspose.PSD.Graphics. の水平解像度を取得します。
+この Aspose.PSD.Graphics の水平解像度を取得します。
 
 ```csharp
 public float DpiX { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この Aspose.PSD.Graphics. がサポートする水平解像度の値 (インチあたりのドット数)
+この Aspose.PSD.Graphics がサポートする水平解像度の値（dpi）です。
 
 ### 関連項目
 
 * class [Graphics](../)
-* 名前空間 [Aspose.PSD](../../graphics/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LayerMaskDataFull.RealFlags
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerMaskDataFull 財産. ユーザー/ラスター マスクに使用されるレイヤー マスク フラグを取得または設定しますベクトル マスクの場合Flags プロパティが使用されます
+title: "LayerMaskDataFull.RealFlags"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerMaskDataFull プロパティ。ユーザー/ラスターマスクに使用されるレイヤーマスクフラグを取得または設定します。ベクトルマスクの場合は Flags プロパティが使用されます"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/realflags/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.RealFlags property
 
-ユーザー/ラスター マスクに使用されるレイヤー マスク フラグを取得または設定します。ベクトル マスクの場合、Flags プロパティが使用されます。
+ユーザー/ラスターマスクに使用されるレイヤーマスクのフラグを取得または設定します。ベクターマスクの場合は Flags プロパティが使用されます。
 
 ```csharp
 public LayerMaskFlags RealFlags { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-リアルレイヤーマスクフラグ.
+実際のレイヤーマスクフラグです。
 
 ### 関連項目
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskDataFull](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

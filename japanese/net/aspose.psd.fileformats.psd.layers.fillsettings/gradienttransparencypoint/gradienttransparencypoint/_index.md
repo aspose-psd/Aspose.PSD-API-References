@@ -1,14 +1,15 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientTransparencyPoint コンストラクタ. の新しいインスタンスを初期化しますGradientTransparencyPointclass.
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientTransparencyPoint コンストラクタ。GradientTransparencyPoint クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-の新しいインスタンスを初期化します[`GradientTransparencyPoint`](../)class.
+[`GradientTransparencyPoint`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public GradientTransparencyPoint()
@@ -17,7 +18,7 @@ public GradientTransparencyPoint()
 ### 関連項目
 
 * class [GradientTransparencyPoint](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

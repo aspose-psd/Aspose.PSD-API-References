@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.ColorExtensions クラス. Color拡張メソッド.
+title: "クラス ColorExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.ColorExtensions クラス。Color の拡張メソッドです。"
 type: docs
-weight: 1050
+weight: 1060
 url: /ja/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-[`Color`](../../aspose.psd/color/)拡張メソッド.
+[`Color`](../../aspose.psd/color/) の拡張メソッドです。
 
 ```csharp
 public static class ColorExtensions
@@ -18,12 +19,12 @@ public static class ColorExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | は[`Color`](../../aspose.psd/color/)にColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | は[`Color`](../../aspose.psd/color/)への配列Color配列. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | [`Color`](../../aspose.psd/color/) を Color に変換します。 |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | [`Color`](../../aspose.psd/color/) 配列を Color 配列に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.NonAffineTransformMatrix
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. PSD ファイル内のスマート オブジェクト レイヤー データの非アフィン変換行列を取得または設定します
+title: "SmartObjectResource.NonAffineTransformMatrix"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。PSD ファイル内のスマートオブジェクトレイヤーデータの非アフィン変換行列を取得または設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.NonAffineTransformMatrix property
 
-PSD ファイル内のスマート オブジェクト レイヤー データの非アフィン変換行列を取得または設定します。
+PSD ファイル内のスマートオブジェクトレイヤーデータの非アフィン変換行列を取得または設定します。
 
 ```csharp
 public double[] NonAffineTransformMatrix { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スマートオブジェクトレイヤーの非アフィン変換行列.
+スマートオブジェクトレイヤーの非アフィン変換行列です。
 
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

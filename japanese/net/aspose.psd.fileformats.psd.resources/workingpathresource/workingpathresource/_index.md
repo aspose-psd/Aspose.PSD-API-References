@@ -1,31 +1,32 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: WorkingPathResource コンストラクタ. の新しいインスタンスを初期化しますWorkingPathResourceclass.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "WorkingPathResource コンストラクタ。WorkingPathResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-の新しいインスタンスを初期化します[`WorkingPathResource`](../)class.
+[`WorkingPathResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| dataBytes | Byte[] | ベクターパスのデータ。 |
+| dataBytes | Byte[] | ベクトルパスのデータです。 |
 
-### 例
+## 例
 
-この例では、Crop 操作を正しく機能させるために、PsdImage.ImageResources 内の「WorkingPathResource」リソースのサポートを示しています。
+この例は、Crop 操作の正しい動作のために PsdImage.ImageResources で 'WorkingPathResource' リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// 画像をトリミングして保存します。
+// 画像を切り取り、保存します。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // トリミングして保存します。
+    // 切り取り、保存します。
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// 保存した画像を読み込み、変更を確認します。
+// 保存された画像を読み込み、変更を確認します。
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // WorkingPathResource リソースを検索します。
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 ### 関連項目
 
 * class [WorkingPathResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

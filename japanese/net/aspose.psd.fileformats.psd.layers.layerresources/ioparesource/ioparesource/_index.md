@@ -1,14 +1,15 @@
 ---
-title: IopaResource.IopaResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: IopaResource コンストラクタ. の新しいインスタンスを初期化しますIopaResourceclass.
+title: "IopaResource.IopaResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IopaResource コンストラクタ。IopaResource クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource() {#constructor}
 
-の新しいインスタンスを初期化します[`IopaResource`](../)class.
+[`IopaResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IopaResource()
@@ -17,33 +18,33 @@ public IopaResource()
 ### 関連項目
 
 * class [IopaResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IopaResource(byte[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`IopaResource`](../)class.
+[`IopaResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IopaResource(byte[] data)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 生のバイトデータ。 |
+| データ | Byte[] | 生のバイトデータです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | iOpa リソース データが無効です。 iOpaResource の予想される長さは 4 です |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 無効な iOpa Resource データです。iOpaResource の期待長さは 4 です。 |
 
 ### 関連項目
 
 * class [IopaResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

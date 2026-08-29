@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureIndex
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 露出インデックスを取得または設定します
+title: "ExifData.ExposureIndex"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。露出インデックスを取得または設定します"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd.exif/exifdata/exposureindex/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureIndex property
 
 露出インデックスを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.exif/exifdata/exposureindex/
 public TiffRational ExposureIndex { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-露出のインデックス.
+露出のインデックスです。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

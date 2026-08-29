@@ -1,14 +1,15 @@
 ---
-title: PrintFlagsResource.PrintFlagsResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PrintFlagsResource コンストラクタ. デフォルトのコンストラクター
+title: "PrintFlagsResource.PrintFlagsResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PrintFlagsResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/printflagsresource/printflagsresource/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PrintFlagsResource()
@@ -17,7 +18,7 @@ public PrintFlagsResource()
 ### 関連項目
 
 * class [PrintFlagsResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

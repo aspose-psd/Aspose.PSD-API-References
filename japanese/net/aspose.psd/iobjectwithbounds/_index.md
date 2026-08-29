@@ -1,11 +1,12 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.IObjectWithBounds インターフェース. 境界を持つオブジェクトを表します
+title: "Aspose.PSD.IObjectWithBounds インターフェイス。境界を持つオブジェクトを表します"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "オブジェクトの境界を取得します。"
 type: docs
-weight: 4490
+weight: 4960
 url: /ja/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
 境界を持つオブジェクトを表します。
@@ -18,14 +19,14 @@ public interface IObjectWithBounds
 
 | 名前 | 説明 |
 | --- | --- |
-| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | オブジェクトの境界を取得します。 |
-| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | オブジェクトの高さを取得します。 |
-| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | オブジェクトのサイズを取得します。 |
-| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | オブジェクトの幅を取得します。 |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | オブジェクトの高さを取得します。 |
+| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | オブジェクトのサイズを取得します。 |
+| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | オブジェクトの幅を取得します。 |
+| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | 列挙体 KnownColor |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

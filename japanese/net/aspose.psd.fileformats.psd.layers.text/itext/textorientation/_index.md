@@ -1,11 +1,12 @@
 ---
-title: IText.TextOrientation
-second_title: Aspose.PSD for .NET API リファレンス
-description: IText 財産. テキストの向きを取得または設定します
+title: "IText.TextOrientation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IText プロパティ。テキストの向きを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 ---
+{{< psd/tize >}}
 ## IText.TextOrientation property
 
 テキストの向きを取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.text/itext/textorientation/
 public TextOrientation TextOrientation { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキストの向き。
+テキストの向きです。
 
-### 例
+## 例
 
-次のコードは、新しい TextOrientation プロパティを編集する機能を示しています。これは現時点ではレンダリングには影響しませんが、プロパティ値の編集のみ可能です。
+以下のコードは、新しい TextOrientation プロパティを編集できることを示しています。これは現在のレンダリングには影響せず、プロパティ値を編集できるだけです。
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // 正しい読み方
+        // 正しい読み取り
     }
     else
     {
@@ -51,7 +52,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // 正しい読み方
+        // 正しい読み取り
     }
     else
     {
@@ -64,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 * enum [TextOrientation](../../../aspose.psd.fileformats.psd/textorientation/)
 * interface [IText](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LinkResource.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: LinkResource 方法. リソースブロックデータを保存します
+title: "LinkResource.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LinkResource メソッド。リソースブロックデータを保存します。"
 type: docs
-weight: 70
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 ---
+{{< psd/tize >}}
 ## LinkResource.Save method
 
 リソースブロックデータを保存します。
@@ -14,16 +15,16 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | 保存先のストリーム コンテナー。 |
-| psdVersion | Int32 | PSD版です。 |
+| streamContainer | StreamContainer | 保存先のストリームコンテナです。 |
+| psdVersion | Int32 | PSD バージョンです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LinkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

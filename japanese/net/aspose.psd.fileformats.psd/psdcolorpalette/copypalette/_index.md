@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdColorPalette 方法. パレットをコピーします
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdColorPalette メソッド。パレットをコピーします"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 パレットをコピーします。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | カラーパレット。 |
+| colorPalette | IColorPalette | カラーパレットです。 |
 | useCompactPalette | Boolean | コンパクトパレットかどうかを示します。 |
 
 ### 戻り値
 
-新しく作成およびコピーされたパレット、または null パレットが渡された場合は null。
+新しく作成されコピーされたパレット、またはパレットが null の場合は null が返されます。
 
 ### 関連項目
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | カラーパレット。 |
+| colorPalette | IColorPalette | カラーパレットです。 |
 
 ### 戻り値
 
-新しく作成およびコピーされたパレット、または null パレットが渡された場合は null。
+新しく作成されコピーされたパレット、またはパレットが null の場合は null が返されます。
 
 ### 関連項目
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

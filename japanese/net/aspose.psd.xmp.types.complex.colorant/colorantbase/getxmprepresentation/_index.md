@@ -1,14 +1,15 @@
 ---
-title: ColorantBase.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantBase 方法. 文字列に含まれる値を XMP 形式で取得します
+title: "ColorantBase.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantBase メソッド。XMP 形式の文字列含有値を取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantBase.GetXmpRepresentation method
 
-文字列に含まれる値を XMP 形式で取得します。
+XMP 形式で含まれる文字列値を取得します。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 戻り値
 
-文字列に含まれる値を XMP 形式で返します。
+XMP 形式で含まれる文字列値を返します。
 
 ### 関連項目
 
 * class [ColorantBase](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

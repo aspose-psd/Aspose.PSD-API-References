@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. ドキュメント プロシージャ セットを取得または設定します
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。ドキュメント proc セットを取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-ドキュメント プロシージャ セットを取得または設定します。
+ドキュメントの proc 設定を取得または設定します。
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドキュメント プロシージャ セット.
+ドキュメント proc セットです。
 
 ### 関連項目
 
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

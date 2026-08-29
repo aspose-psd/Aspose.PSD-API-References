@@ -1,14 +1,15 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure クラス. アニメーションデータのあるセクション.
+title: "クラス AnimatedDataSectionStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure クラス。アニメーションデータを含むセクションです。"
 type: docs
-weight: 2300
+weight: 2510
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
-アニメーションデータのあるセクション.
+アニメーションデータを含むセクションです。
 
 ```csharp
 public class AnimatedDataSectionStructure : OSTypeStructure
@@ -18,26 +19,26 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 | 名前 | 説明 |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | アニメーション データ セクション構造を取得または設定します。 |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | アニメーションデータ セクション構造体を取得または設定します。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | 構造キーを取得します。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | キー名を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | を取得します[`OSTypeStructure`](../ostypestructure/)バイト単位の長さ. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | バイト単位で [`OSTypeStructure`](../ostypestructure/) の長さを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダー長を取得します。 |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダーの長さを取得します。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs. の構造キーを識別します。 |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs の構造キーを識別します。 |
 
-### 例
+## 例
 
 次のコードは、アニメーション データのタイムライン フレームで遅延時間を設定/更新する方法を示しています。
 
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 1 秒に等しい値 100 センチ秒のフレーム遅延レコードを作成します。
+            // 1 秒に相当する 100 センチ秒のフレーム遅延レコードを作成します。
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // 時間をセンチ秒単位で設定します。
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### 関連項目
 
 * class [OSTypeStructure](../ostypestructure/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

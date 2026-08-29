@@ -1,14 +1,15 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.PsdVersion 列挙. ファイル形式 version
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. ファイル形式のバージョン"
 type: docs
-weight: 3600
+weight: 4060
 url: /ja/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
-ファイル形式 version
+ファイル形式バージョン
 
 ```csharp
 public enum PsdVersion : byte
@@ -16,14 +17,14 @@ public enum PsdVersion : byte
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Psd | `1` | デフォルトの PSD バージョン。 |
-| Psb | `2` | PSB バージョン。 |
+| Psd | `1` | デフォルトの PSD バージョンです。 |
+| Psb | `2` | PSB バージョンです。 |
 
-### 例
+## 例
 
-次の例は、PSD ファイルを PSB に、またはその逆に変換する機能を示しています。
+以下の例は、PSD ファイルを PSB に、またはその逆に変換できることを示しています。
 
 ```csharp
 [C#]
@@ -47,7 +48,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

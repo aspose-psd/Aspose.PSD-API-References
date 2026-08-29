@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 経度を取得または設定します東経または西経です
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 経度が東経または西経かを取得または設定します"
 type: docs
 weight: 550
 url: /ja/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-GPS 経度を取得または設定します。東経または西経です。
+GPS 経度が東経か西経かを取得または設定します。
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 GPS 経度は東経または西経です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

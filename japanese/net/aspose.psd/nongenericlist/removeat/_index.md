@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 方法. を削除しますIList指定されたインデックスのアイテム.
+title: "NonGenericList.RemoveAt"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList メソッド。指定されたインデックスの IList 項目を削除します"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/nongenericlist/removeat/
 ---
+{{< psd/tize >}}
 ## NonGenericList.RemoveAt method
 
-を削除しますIList指定されたインデックスのアイテム.
+指定されたインデックスの IList 項目を削除します。
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| index | Int32 | 削除する項目のゼロから始まるインデックス。 |
+| インデックス | Int32 | 削除する項目のゼロベースインデックス。 |
 
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

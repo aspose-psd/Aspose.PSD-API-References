@@ -1,14 +1,15 @@
 ---
-title: Class UnknownSmartFilter
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter クラス. 不明なスマート フィルター データを保持するクラス
+title: "UnknownSmartFilter クラス"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.UnknownSmartFilter クラス。未知のスマートフィルタデータを保持するクラスです"
 type: docs
-weight: 3480
+weight: 3900
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter class
 
-不明なスマート フィルター データを保持するクラス。
+不明なスマートフィルターデータを保持するクラスです。
 
 ```csharp
 public sealed class UnknownSmartFilter : SmartFilter
@@ -18,25 +19,25 @@ public sealed class UnknownSmartFilter : SmartFilter
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | ブレンド モードを取得または設定します。 |
-| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | スマート フィルター タイプ識別子を取得します。 |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | スマート フィルターの有効な状態を取得または設定します。 |
-| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | スマートフィルター名を取得します. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | スマート フィルターの不透明度の値を取得または設定します。 |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | スマート フィルター データを含むソース記述子構造。 |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | ブレンドモードを取得または設定します。 |
+| override [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/) { get; } | スマートフィルタタイプ識別子を取得します。 |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | スマートフィルタの有効状態を取得または設定します。 |
+| override [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/) { get; } | スマートフィルタ名を取得します。 |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | スマートフィルタの不透明度値を取得または設定します。 |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | スマートフィルタデータを含むソース記述子構造体です。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | 現在のフィルターを入力に適用します[`RasterImage`](../../aspose.psd/rasterimage/)image. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | 現在のフィルターを入力に適用します[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/)マスクデータ. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | 型の現在のインスタンスのメンバー単位のクローンを作成します。 |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | 現在のフィルタを入力[`RasterImage`](../../aspose.psd/rasterimage/)画像に適用します。 |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | 現在のフィルタを入力[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/)マスクデータに適用します。 |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | この型の現在のインスタンスのメンバ単位クローンを作成します。 |
 
 ### 関連項目
 
 * class [SmartFilter](../smartfilter/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 方法. タグを削除します
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions メソッド。タグを削除します"
 type: docs
-weight: 740
+weight: 750
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
 タグを削除します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/removetag/
 public bool RemoveTag(TiffTags tag)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| tag | TiffTags | 削除するタグ。 |
+| タグ | TiffTags | 削除するタグ。 |
 
 ### 戻り値
 
@@ -26,7 +27,7 @@ public bool RemoveTag(TiffTags tag)
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

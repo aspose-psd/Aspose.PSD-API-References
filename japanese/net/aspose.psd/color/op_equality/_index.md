@@ -1,32 +1,33 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. 2 つが指定されているかどうかをテストしますColor構造は同等です.
+title: "Color.op_Equality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。指定された 2 つの Color 構造体が等しいかどうかをテストします"
 type: docs
-weight: 1620
+weight: 1640
 url: /ja/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-2 つが指定されているかどうかをテストします[`Color`](../)構造は同等です.
+指定された [`Color`](../) 構造体が等しいかどうかをテストします。
 
 ```csharp
 public static bool operator ==(Color left, Color right)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| left | Color | の[`Color`](../)つまり、等値演算子の左側にあります。 |
-| right | Color | の[`Color`](../)つまり、等値演算子の右側にあります。 |
+| left | Color | 等価演算子の左側にある [`Color`](../)です。 |
+| right | Color | 等価演算子の右側にある [`Color`](../)です。 |
 
 ### 戻り値
 
-2 つの場合は true[`Color`](../)構造は等しいです。それ以外の場合は false。
+2 つの [`Color`](../) 構造体が等しい場合は true、そうでない場合は false。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

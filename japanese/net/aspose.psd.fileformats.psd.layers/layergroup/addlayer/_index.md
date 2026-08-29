@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerGroup 方法. レイヤーをレイヤー グループに追加します
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerGroup メソッド。レイヤーをレイヤー グループに追加します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
 レイヤーをレイヤー グループに追加します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 public void AddLayer(Layer layer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| layer | Layer | 層。 |
+| レイヤー | レイヤー | レイヤーです。 |
 
-### 例
+## 例
 
-次の例は、Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 画像をレイヤーとして PsdImage に追加する方法を示しています。
+次の例は、Bmp、Jpeg、Jpeg2000、Png、Psd、Tiff、Gif 画像をレイヤーとして PsdImage に追加できる方法を示しています
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var image = new PsdImage(200, 200))
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

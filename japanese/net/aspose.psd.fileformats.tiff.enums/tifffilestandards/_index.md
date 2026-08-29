@@ -1,14 +1,15 @@
 ---
-title: Enum TiffFileStandards
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards 列挙. TIFF ファイル形式の規格を指定します
+title: "列挙型 TiffFileStandards"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards 列挙型。TIFF ファイル形式の標準を指定します。"
 type: docs
-weight: 4080
+weight: 4550
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
-TIFF ファイル形式の規格を指定します。
+TIFF ファイル形式の標準を指定します。
 
 ```csharp
 public enum TiffFileStandards : ushort
@@ -16,14 +17,14 @@ public enum TiffFileStandards : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Baseline | `0` | Baseline TIFF 6.0 ファイル規格。この標準は、正式には TIFF 6.0、パート 1: ベースライン TIFF. として知られています。 |
-| Extended | `1` | 拡張 TIFF 6.0 ファイル規格。この標準は、正式には Extended TIFF 6.0、Part 2: TIFF Extensions. として知られています。 |
+| Baseline | `0` | ベースライン TIFF 6.0 ファイル標準。この標準は正式に TIFF 6.0、パート 1: ベースライン TIFF と呼ばれます。 |
+| Extended | `1` | 拡張 TIFF 6.0 ファイル標準。この標準は正式に Extended TIFF 6.0、パート 2: TIFF Extensions と呼ばれます。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

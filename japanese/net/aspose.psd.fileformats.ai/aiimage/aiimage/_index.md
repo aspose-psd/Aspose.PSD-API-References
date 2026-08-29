@@ -1,14 +1,15 @@
 ---
-title: AiImage.AiImage
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage コンストラクタ. デフォルトのコンストラクター
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage コンストラクタ。AiImage クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-デフォルトのコンストラクター。
+[`AiImage`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public AiImage()
@@ -17,7 +18,7 @@ public AiImage()
 ### 関連項目
 
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

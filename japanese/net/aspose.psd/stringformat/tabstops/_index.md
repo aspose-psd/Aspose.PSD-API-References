@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 財産. で指定された単位でタブ ストップ間の距離の配列を取得しますPageUnitプロパティ.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat プロパティ。PageUnit プロパティで指定された単位でのタブ位置間の距離の配列を取得します。"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-で指定された単位でタブ ストップ間の距離の配列を取得します。[`PageUnit`](../../graphics/pageunit/)プロパティ.
+[`PageUnit`](../../graphics/pageunit/) プロパティで指定された単位でのタブ位置間の距離の配列を取得します。
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-タブが停止します。
+タブ位置です。
 
-### 備考
+## 備考
 
-このプロパティは、削除されたメソッド GetTabStops に導入されています。
+このプロパティは削除されたメソッド GetTabStops 用に導入されました。
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerState コンストラクタ. の新しいインスタンスを初期化しますLayerStateclass.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerState コンストラクタ。 デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-の新しいインスタンスを初期化します[`LayerState`](../)class.
+デフォルトコンストラクタです。
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| layerId | Int32 | 関連するレイヤーの状態を識別する ID。 |
 
 ### 関連項目
 
 * class [LayerState](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

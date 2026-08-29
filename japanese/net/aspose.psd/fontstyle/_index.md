@@ -1,11 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FontStyle 列挙. テキストに適用されるスタイル情報を指定します
+title: "列挙体 FontStyle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FontStyle 列挙体。テキストに適用されるスタイル情報を指定します。"
 type: docs
-weight: 4300
+weight: 4770
 url: /ja/net/aspose.psd/fontstyle/
 ---
+{{< psd/tize >}}
 ## FontStyle enumeration
 
 テキストに適用されるスタイル情報を指定します。
@@ -17,17 +18,17 @@ public enum FontStyle
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Regular | `0` | 通常のテキスト. |
-| Bold | `1` | 太字テキスト. |
-| Italic | `2` | 斜体テキスト. |
-| Underline | `4` | 下線付きテキスト. |
-| Strikeout | `8` | 真ん中に線があるテキスト. |
+| Regular | `0` | 標準テキスト。 |
+| Bold | `1` | 太字テキスト。 |
+| Italic | `2` | 斜体テキスト。 |
+| Underline | `4` | 下線付きテキスト。 |
+| Strikeout | `8` | 中央に取り消し線が入ったテキスト。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

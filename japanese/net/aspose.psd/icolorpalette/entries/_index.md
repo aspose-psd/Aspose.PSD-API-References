@@ -1,14 +1,15 @@
 ---
-title: IColorPalette.Entries
-second_title: Aspose.PSD for .NET API リファレンス
-description: IColorPalette 財産. の配列を取得しますColor構造物.
+title: "IColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IColorPalette プロパティ。Color 構造体の配列を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/icolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Entries property
 
-の配列を取得します[`Color`](../../color/)構造物.
+[`Color`](../../color/) 構造体の配列を取得します。
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,17 +17,17 @@ public Color[] Entries { get; }
 
 ### 戻り値
 
-の配列[`Color`](../../color/)これを構成する構造[`ColorPalette`](../../colorpalette/) .
+この [`ColorPalette`](../../colorpalette/) を構成する [`Color`](../../color/) 構造体の配列です。
 
-### プロパティ値
+### Property Value
 
-エントリ。
+エントリです。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* 名前空間 [Aspose.PSD](../../icolorpalette/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Location
-second_title: Aspose.PSD for .NET API リファレンス
-description: IGradientTransparencyPoint 財産. 場所を取得または設定します
+title: "IGradientTransparencyPoint.Location"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IGradientTransparencyPoint プロパティ。位置を取得または設定します。値の範囲 04096"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Location property
 
-場所を取得または設定します。
+位置を取得または設定します。値の範囲は 0〜4096 です。
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-場所.
+位置です。
 
 ### 関連項目
 
 * interface [IGradientTransparencyPoint](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

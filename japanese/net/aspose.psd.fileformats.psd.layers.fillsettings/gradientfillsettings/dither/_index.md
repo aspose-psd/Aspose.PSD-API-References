@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD for .NET API リファレンス
-description: GradientFillSettings 財産. これがGradientFillSettingsディザです
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GradientFillSettings プロパティ。 この GradientFillSettings がディザリングかどうかを示す値を取得または設定します"
 type: docs
-weight: 60
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-これが[`GradientFillSettings`](../)ディザです。
+この [`GradientFillSettings`](../) がディザリングかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`ディザリングの場合;さもないと、`間違い` .
+`true` はディザの場合、そうでなければ `false`。
 
 ### 関連項目
 
 * class [GradientFillSettings](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

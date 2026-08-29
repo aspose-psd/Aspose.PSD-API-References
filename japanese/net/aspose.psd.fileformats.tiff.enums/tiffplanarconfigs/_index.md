@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs 列挙. ストレージ編成 PLANARCONFIG タグの可能な値
+title: "列挙型 TiffPlanarConfigs"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs 列挙型。ストレージ構成。PLANARCONFIG タグの可能な値。"
 type: docs
-weight: 4130
+weight: 4600
 url: /ja/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
-ストレージ編成。 PLANARCONFIG タグの可能な値。
+ストレージ構成。PLANARCONFIG タグの可能な値。
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
@@ -16,14 +17,14 @@ public enum TiffPlanarConfigs : ushort
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Contiguous | `1` | 単一イメージ プレーン。 |
-| Separate | `2` | データのプレーンを分離します。 |
+| Contiguous | `1` | 単一画像平面です。 |
+| Separate | `2` | データの個別平面です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

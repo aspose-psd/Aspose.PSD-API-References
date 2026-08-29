@@ -1,14 +1,15 @@
 ---
-title: Class TiffDataTypeController
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.TiffDataTypeController クラス. tiff データ型を操作するための一般的なクラスを表します
+title: "クラス TiffDataTypeController"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.TiffDataTypeController クラス。TIFF データ型を扱うための汎用クラスを表します。"
 type: docs
-weight: 1020
+weight: 1030
 url: /ja/net/aspose.psd.exif/tiffdatatypecontroller/
 ---
+{{< psd/tize >}}
 ## TiffDataTypeController class
 
-tiff データ型を操作するための一般的なクラスを表します。
+TIFF データ型を扱うための汎用クラスを表します。
 
 ```csharp
 public class TiffDataTypeController
@@ -18,11 +19,11 @@ public class TiffDataTypeController
 
 | 名前 | 説明 |
 | --- | --- |
-| [TiffDataTypeController](tiffdatatypecontroller/)() | デフォルトのコンストラクター。 |
+| [TiffDataTypeController](tiffdatatypecontroller/)() | デフォルトコンストラクタです。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif](../../aspose.psd.exif/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif](../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../)
 
 

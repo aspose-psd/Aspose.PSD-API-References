@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. 指定されたSize指定されたPoint .
+title: "Point.Add"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。指定された Size を指定された Point に加算します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-指定された[`Size`](../../size/)指定された[`Point`](../) .
+指定された [`Size`](../../size/) を指定された [`Point`](../) に加算します。
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | Point | の[`Point`](../)に追加します。 |
-| size | Size | の[`Size`](../../size/)に追加する*point*. |
+| point | Point | 加算対象の [`Point`](../)です。 |
+| size | Size | *point* に加算する [`Size`](../../size/)です。 |
 
 ### 戻り値
 
-の[`Point`](../)それが足し算の結果です。
+加算操作の結果となる [`Point`](../)です。
 
 ### 関連項目
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

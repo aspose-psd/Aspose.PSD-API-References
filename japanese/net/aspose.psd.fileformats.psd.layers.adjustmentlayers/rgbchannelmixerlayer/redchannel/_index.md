@@ -1,11 +1,12 @@
 ---
-title: RgbChannelMixerLayer.RedChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: RgbChannelMixerLayer 財産. 赤チャンネルを取得します
+title: "RgbChannelMixerLayer.RedChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RgbChannelMixerLayer プロパティ。赤チャンネルを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/redchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.RedChannel property
 
 赤チャンネルを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerl
 public RgbMixerChannel RedChannel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-赤チャンネル.
+赤チャンネル。
 
 ### 関連項目
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

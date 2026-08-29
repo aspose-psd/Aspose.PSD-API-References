@@ -1,14 +1,15 @@
 ---
-title: Enum InterpolationMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.InterpolationMode 列挙. InterpolationMode列挙型は画像がスケーリングまたは回転されるときに使用されるアルゴリズムを指定します.
+title: "列挙体 InterpolationMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.InterpolationMode 列挙体。InterpolationMode 列挙体は、画像が拡大または回転されるときに使用されるアルゴリズムを指定します。"
 type: docs
-weight: 5030
+weight: 5520
 url: /ja/net/aspose.psd/interpolationmode/
 ---
+{{< psd/tize >}}
 ## InterpolationMode enumeration
 
-`InterpolationMode`列挙型は、画像がスケーリングまたは回転されるときに使用されるアルゴリズムを指定します.
+`InterpolationMode` 列挙体は、画像が拡大または回転されるときに使用されるアルゴリズムを指定します。
 
 ```csharp
 public enum InterpolationMode
@@ -16,21 +17,21 @@ public enum InterpolationMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Invalid | `-1` | 無効な補間モードです。 |
-| Default | `0` | デフォルト モードを指定します。 |
+| Default | `0` | デフォルトモードを指定します。 |
 | Low | `1` | 低品質の補間を指定します。 |
-| High | `2` | 高品質補間を指定します。 |
-| Bilinear | `3` | バイリニア補間を指定します。事前フィルタリングは行われません。このモードは、画像を元のサイズの 50% 未満に縮小するのには適していません. |
-| Bicubic | `4` | バイキュービック補間を指定します。事前フィルタリングは行われません。このモードは、画像を元のサイズの 25% 未満に縮小するのには適していません. |
+| High | `2` | 高品質の補間を指定します。 |
+| Bilinear | `3` | 双一次補間を指定します。事前フィルタリングは行われません。このモードは画像を元のサイズの 50% 未満に縮小する場合には適していません。 |
+| Bicubic | `4` | 双三次補間を指定します。事前フィルタリングは行われません。このモードは画像を元のサイズの 25% 未満に縮小する場合には適していません。 |
 | NearestNeighbor | `5` | 最近傍補間を指定します。 |
-| HighQualityBilinear | `6` | 高品質の双一次補間を指定します。高品質の縮小を保証するために、事前フィルタリングが実行されます。 |
-| HighQualityBicubic | `7` | 高品質のバイキュービック補間を指定します。高品質の縮小を保証するために、プレフィルタリングが実行されます。このモードは、最高品質の変換された画像を生成します. |
+| HighQualityBilinear | `6` | 高品質な双一次補間を指定します。高品質な縮小を保証するために事前フィルタリングが実行されます。 |
+| HighQualityBicubic | `7` | 高品質な双三次補間を指定します。高品質な縮小を保証するために事前フィルタリングが実行されます。このモードは最高品質の変換画像を生成します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

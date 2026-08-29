@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. これのアルファ成分値を取得しますColor構造体.
+title: "Color.A"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。 この Color 構造体のアルファ成分の値を取得します"
 type: docs
 weight: 1460
 url: /ja/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-これのアルファ成分値を取得します[`Color`](../)構造体.
+この [`Color`](../) 構造体のアルファ成分の値を取得します。
 
 ```csharp
 public byte A { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これのアルファ成分値[`Color`](../).
+この [`Color`](../) のアルファ成分の値。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

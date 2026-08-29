@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TextColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextLayer 財産. テキストの色を取得します
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextLayer プロパティ。テキストの色を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
 テキストの色を取得します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 public Color TextColor { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキストの色。
+テキストの色です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 色成分データの解析中にエラーが発生しました |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | カラーコンポーネントデータの解析エラー |
 
 ### 関連項目
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

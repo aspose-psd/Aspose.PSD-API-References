@@ -1,14 +1,15 @@
 ---
-title: Class MatrixExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.MatrixExtensions クラス. が含まれていますMatrixクラス拡張機能.
+title: "クラス MatrixExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.MatrixExtensions クラス。Matrix クラスの拡張機能を含みます"
 type: docs
-weight: 1130
+weight: 1140
 url: /ja/net/aspose.psd.extensions/matrixextensions/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions class
 
-が含まれています[`Matrix`](../../aspose.psd/matrix/)クラス拡張機能.
+[`Matrix`](../../aspose.psd/matrix/) クラスの拡張機能を含みます。
 
 ```csharp
 public static class MatrixExtensions
@@ -18,11 +19,11 @@ public static class MatrixExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | は[`Matrix`](../../aspose.psd/matrix/)にMatrix . |
+| static [ToGdiMatrix](../../aspose.psd.extensions/matrixextensions/togdimatrix/)(Matrix) | [`Matrix`](../../aspose.psd/matrix/) を Matrix に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. カスタム ダッシュとスペースの配列を取得または設定します
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。カスタムのダッシュとスペースの配列を取得または設定します。"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-カスタム ダッシュとスペースの配列を取得または設定します。
+カスタムダッシュとスペースの配列を取得または設定します。
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-破線内の交互のダッシュとスペースの長さを指定する実数の配列。
+破線における交互のダッシュとスペースの長さを指定する実数の配列です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`DashPattern`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | 不変の[`Pen`](../)（たとえば [`Pen`](../) クラスが返すもの）に設定される `DashPattern` プロパティです。 |
 
 ### 関連項目
 
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

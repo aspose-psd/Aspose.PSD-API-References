@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontTypeData
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolFontInfo 財産. フォント タイプ データを取得または設定します
+title: "TypeToolFontInfo.FontTypeData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolFontInfo プロパティ。フォントタイプデータを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontTypeData property
 
-フォント タイプ データを取得または設定します。
+フォントタイプデータを取得または設定します。
 
 ```csharp
 public int FontTypeData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-フォントタイプデータ.
+フォントタイプデータです。
 
 ### 関連項目
 
 * class [TypeToolFontInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

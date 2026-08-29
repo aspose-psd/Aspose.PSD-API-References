@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion2.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhflResourceVersion2 財産. 層リソースの長さをバイト単位で取得します
+title: "PhflResourceVersion2.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhflResourceVersion2 プロパティ。レイヤーリソースの長さ（バイト）を取得します。"
 type: docs
-weight: 70
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/length/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [PhflResourceVersion2](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

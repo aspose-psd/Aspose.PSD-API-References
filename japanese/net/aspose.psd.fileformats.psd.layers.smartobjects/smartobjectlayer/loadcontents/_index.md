@@ -1,30 +1,31 @@
 ---
-title: SmartObjectLayer.LoadContents
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectLayer 方法. スマート オブジェクト レイヤーの埋め込みまたはリンクされた画像コンテンツを取得します
+title: "SmartObjectLayer.LoadContents"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectLayer メソッド。スマート オブジェクト レイヤーの埋め込みまたはリンクされた画像コンテンツを取得します。"
 type: docs
-weight: 110
+weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.LoadContents method
 
-スマート オブジェクト レイヤーの埋め込みまたはリンクされた画像コンテンツを取得します。
+スマートオブジェクトレイヤーの埋め込みまたはリンクされた画像コンテンツを取得します。
 
 ```csharp
 public Image LoadContents(LoadOptions options)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| options | LoadOptions | オプション。 |
+| オプション | LoadOptions | オプションです。 |
 
 ### 戻り値
 
-ロードされた[`Image`](../../../aspose.psd/image/)スマート オブジェクト インスタンス。
+ロードされた [`Image`](../../../aspose.psd/image/) スマート オブジェクト インスタンスです。
 
-### 例
+## 例
 
-次のコードは、埋め込みスマート オブジェクトのサポートを示しています。
+以下のコードは埋め込みスマートオブジェクトのサポートを示しています。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤーを変更し、スマート オブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
+// この例は、PSD ファイル内のスマートオブジェクトレイヤーを変更し、スマートオブジェクトの元の埋め込みコンテンツをエクスポート/更新する方法を示します。
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -66,10 +67,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // 埋め込まれたスマート オブジェクト イメージを PSD スマート オブジェクト レイヤーからエクスポートしましょう
+        // PSD のスマートオブジェクトレイヤーから埋め込みスマートオブジェクト画像をエクスポートしましょう
         smartObjectLayer.ExportContents(exportPath);
 
-        // 元の画像が正しく保存されているか確認してみましょう
+        // 元の画像が正しく保存されているか確認しましょう
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -77,7 +78,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // 元のスマートオブジェクトの画像を反転させましょう
+            // 元のスマートオブジェクト画像を反転させましょう
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -88,11 +89,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // PSD レイヤーに埋め込まれたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内の埋め込みスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 更新された画像が正しく保存されているか確認してみましょう
+        // 更新された画像が正しく保存されているか確認しましょう
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -104,7 +105,7 @@ foreach (FileFormat format in formats)
 * class [Image](../../../aspose.psd/image/)
 * class [LoadOptions](../../../aspose.psd/loadoptions/)
 * class [SmartObjectLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

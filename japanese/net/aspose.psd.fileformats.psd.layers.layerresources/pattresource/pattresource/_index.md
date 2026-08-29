@@ -1,14 +1,15 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResource コンストラクタ. の新しいインスタンスを初期化しますPattResourceclass.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResource コンストラクタ。PattResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-の新しいインスタンスを初期化します[`PattResource`](../)class.
+[`PattResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PattResource()
@@ -17,29 +18,29 @@ public PattResource()
 ### 関連項目
 
 * class [PattResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PattResource`](../)class.
+[`PattResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| key | Int32 | リソース タイプ キー。 |
-| patterns | PattResourceData[] | パターンデータ。 |
+| key | Int32 | リソースタイプキー。 |
+| パターン | PattResourceData[] | パターンデータです。 |
 
 ### 関連項目
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

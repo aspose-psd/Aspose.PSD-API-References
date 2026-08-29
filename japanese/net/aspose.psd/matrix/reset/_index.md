@@ -1,14 +1,15 @@
 ---
-title: Matrix.Reset
-second_title: Aspose.PSD for .NET API リファレンス
-description: Matrix 方法. 単位行列の要素を持つようにこの行列をリセットします
+title: "Matrix.Reset"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Matrix メソッド。この行列を単位行列の要素にリセットします。"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd/matrix/reset/
 ---
+{{< psd/tize >}}
 ## Matrix.Reset method
 
-単位行列の要素を持つようにこの行列をリセットします。
+この Matrix を単位行列の要素にリセットします。
 
 ```csharp
 public void Reset()
@@ -17,7 +18,7 @@ public void Reset()
 ### 関連項目
 
 * class [Matrix](../)
-* 名前空間 [Aspose.PSD](../../matrix/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

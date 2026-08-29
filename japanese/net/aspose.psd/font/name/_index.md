@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. この面の名前を取得しますFont .
+title: "Font.Name"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 このフォントのフェイス名を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-この面の名前を取得します[`Font`](../) .
+この [`Font`](../) のフェイス名を取得します。
 
 ```csharp
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-この顔の名前の文字列表現[`Font`](../).
+この [`Font`](../) のフェイス名の文字列表現です。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

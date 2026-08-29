@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageExportersRegistry 方法. エクスポーターを登録します
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageExportersRegistry メソッド。エクスポーターを登録します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
 エクスポーターを登録します。
@@ -14,7 +15,7 @@ url: /ja/net/aspose.psd/imageexportersregistry/registerexporter/
 public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | exporterDescriptor | IImageExporterDescriptor | 登録するエクスポーター記述子。 |
 
@@ -22,7 +23,7 @@ public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* 名前空間 [Aspose.PSD](../../imageexportersregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

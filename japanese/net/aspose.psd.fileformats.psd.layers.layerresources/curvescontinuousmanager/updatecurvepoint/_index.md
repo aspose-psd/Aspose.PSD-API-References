@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.UpdateCurvePoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: CurvesContinuousManager 方法. 曲線のポイントを更新します
+title: "CurvesContinuousManager.UpdateCurvePoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CurvesContinuousManager メソッド。曲線のポイントを更新します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.UpdateCurvePoint method
 
 曲線のポイントを更新します。
@@ -14,17 +15,17 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousma
 public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| channelIndex | Int32 | チャネルのインデックス。 |
-| pointIndex | Int32 | ポイントのインデックス。 |
-| x | Byte | x の場所。 |
-| y | Byte | y の位置。 |
+| channelIndex | Int32 | チャネルのインデックスです。 |
+| pointIndex | Int32 | ポイントのインデックスです。 |
+| x | バイト | x 位置です。 |
+| y | バイト | y 位置です。 |
 
 ### 関連項目
 
 * class [CurvesContinuousManager](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

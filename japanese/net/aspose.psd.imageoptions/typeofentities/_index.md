@@ -1,14 +1,15 @@
 ---
-title: Enum TypeOfEntities
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageOptions.TypeOfEntities 列挙. レンダリングするエンティティのタイプを表します
+title: "列挙型 TypeOfEntities"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities 列挙型。レンダリングするエンティティのタイプを表します"
 type: docs
-weight: 4970
+weight: 5460
 url: /ja/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-レンダリングするエンティティのタイプを表します
+レンダリング対象エンティティのタイプを表します
 
 ```csharp
 public enum TypeOfEntities
@@ -16,14 +17,14 @@ public enum TypeOfEntities
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Entities2D | `0` | 2D エンティティのレンダリング |
-| Entities3D | `1` | 3D エンティティのレンダリング |
+| Entities2D | `0` | 2D エンティティをレンダリングします |
+| Entities3D | `1` | 3D エンティティをレンダリングします |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

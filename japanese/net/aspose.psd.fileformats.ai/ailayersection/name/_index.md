@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. レイヤー名を取得または設定します レイヤー パネルに表示されるアイテムの名前を指定します
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。レイヤー名を取得または設定します。レイヤーパネルに表示されるアイテムの名前を指定します"
 type: docs
-weight: 110
+weight: 130
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-レイヤー名を取得または設定します。 レイヤー パネルに表示されるアイテムの名前を指定します。
+レイヤー名を取得または設定します。レイヤーパネルに表示されるアイテムの名前を指定します。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤー名.
+レイヤー名です。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

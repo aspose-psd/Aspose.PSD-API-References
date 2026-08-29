@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. この名前を取得しますColor .
+title: "Color.Name"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。 この Color の名前を取得します。"
 type: docs
 weight: 1520
 url: /ja/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-この名前を取得します[`Color`](../) .
+この [`Color`](../) の名前を取得します。
 
 ```csharp
 public string Name { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これの名前[`Color`](../).
+この [`Color`](../) の名前です。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

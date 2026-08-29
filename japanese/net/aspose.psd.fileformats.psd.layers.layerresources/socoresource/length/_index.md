@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: SoCoResource 財産. 層リソースの長さをバイト単位で取得します
+title: "SoCoResource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SoCoResource プロパティ。レイヤーリソースの長さ（バイト）を取得します"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/length/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [SoCoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

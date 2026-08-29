@@ -1,28 +1,29 @@
 ---
-title: RasterImage.Rotate
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 画像を中心に回転します
+title: "RasterImage.Rotate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。画像を中心の周りに回転させます"
 type: docs
-weight: 480
+weight: 490
 url: /ja/net/aspose.psd/rasterimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, bool, Color) {#rotate_1}
 
-画像を中心に回転します。
+画像を中心を基準に回転させます。
 
 ```csharp
 public virtual void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 度単位の回転角度。正の値は時計回りに回転します。 |
-| resizeProportionally | Boolean | に設定した場合`真実`回転した四角形 (コーナー ポイント) の投影に従って画像サイズが変更されます。それ以外の場合は、寸法は変更されず、内部の画像コンテンツのみが回転します。 |
-| backgroundColor | Color | 背景の色。 |
+| 角度 | シングル | 回転角度（度単位）。正の値は時計回りに回転します。 |
+| resizeProportionally | Boolean | `true` に設定すると、回転した矩形（角点）の投影に従って画像サイズが変更されます。`false` の場合はサイズはそのままで、内部の画像内容のみが回転します。 |
+| backgroundColor | 色 | 背景の色。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
 | NotImplementedException |  |
 
@@ -30,27 +31,27 @@ public virtual void Rotate(float angle, bool resizeProportionally, Color backgro
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-画像を中心に回転します。
+画像を中心を基準に回転させます。
 
 ```csharp
 public virtual void Rotate(float angle)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| angle | Single | 度単位の回転角度。正の値は時計回りに回転します。 |
+| 角度 | シングル | 回転角度（度単位）。正の値は時計回りに回転します。 |
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

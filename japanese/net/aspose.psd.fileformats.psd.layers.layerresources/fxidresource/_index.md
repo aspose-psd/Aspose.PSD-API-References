@@ -1,14 +1,15 @@
 ---
-title: Class FXidResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource クラス. Filter Effects リソースにはスマート フィルター用のチャネルユーザー マスクおよびシート マスクが含まれています
+title: "クラス FXidResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource クラス。フィルターエフェクトリソースは、スマートフィルター用のチャンネル、ユーザーマスク、シートマスクを含みます。"
 type: docs
-weight: 2460
+weight: 2720
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource class
 
-Filter Effects リソースには、スマート フィルター用のチャネル、ユーザー マスク、およびシート マスクが含まれています。
+フィルターエフェクトリソースには、チャンネル、ユーザーマスク、スマートフィルタ用のシートマスクが含まれます。
 
 ```csharp
 public sealed class FXidResource : LayerResource
@@ -18,36 +19,36 @@ public sealed class FXidResource : LayerResource
 
 | 名前 | 説明 |
 | --- | --- |
-| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | の新しいインスタンスを初期化します`FXidResource`class. |
+| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | `FXidResource` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | フィルター効果マスクを取得します。 |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/) { get; } | レイヤ リソース キーを取得します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | 層リソースの長さをバイト単位で取得します。 |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion/) { get; } | レイヤー リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。 |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature/) { get; } | 層リソース署名を取得します。 |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | フィルターエフェクトマスクを取得します。 |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | レイヤーリソースキーを取得します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | レイヤーリソースの長さ（バイト単位）を取得します。 |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。 |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | 署名を取得します。 |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/) { get; } | バージョンを取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/)(StreamContainer, int) | 指定したストリーム コンテナーにリソースを保存します。 |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | を返しますStringこのインスタンスを表す. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/)(StreamContainer, int) | リソースを指定されたストリームコンテナに保存します。 |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | このインスタンスを表すStringを返します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
-| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | タイプ ツール情報キー FEid. |
-| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/) | タイプ ツール情報キー FXid. |
+| const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | タイプツール情報キー FEid。 |
+| const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/) | タイプツール情報キー FXid。 |
 
-### 例
+## 例
 
-この例では、FXidResource リソースのプロパティを取得および設定する方法を示します。
+この例は、FXidResource リソースのプロパティを取得および設定する方法を示しています。
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// 保存後にチェック
+// 保存後に確認してください
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -95,7 +96,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 ### 関連項目
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

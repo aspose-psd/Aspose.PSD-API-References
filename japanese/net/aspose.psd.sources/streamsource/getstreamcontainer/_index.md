@@ -1,14 +1,15 @@
 ---
-title: StreamSource.GetStreamContainer
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamSource 方法. ストリーム コンテナーを取得します
+title: "StreamSource.GetStreamContainer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamSource メソッド。ストリームコンテナを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.sources/streamsource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamSource.GetStreamContainer method
 
-ストリーム コンテナーを取得します。
+ストリーム コンテナを取得します。
 
 ```csharp
 public override StreamContainer GetStreamContainer()
@@ -16,17 +17,17 @@ public override StreamContainer GetStreamContainer()
 
 ### 戻り値
 
-ストリーム コンテナ。
+ストリームコンテナです。
 
-### 備考
+## 備考
 
-注意して使用してください。取得後、ストリーム コンテナーを破棄する必要があります。
+注意して使用してください。取得後にストリームコンテナを破棄する必要があります。
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [StreamSource](../)
-* 名前空間 [Aspose.PSD.Sources](../../streamsource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

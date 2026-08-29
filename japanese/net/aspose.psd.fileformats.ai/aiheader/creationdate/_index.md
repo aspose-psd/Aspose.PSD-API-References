@@ -1,11 +1,12 @@
 ---
-title: AiHeader.CreationDate
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiHeader 財産. 作成日を取得または設定します
+title: "AiHeader.CreationDate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiHeader プロパティ。作成日を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 ---
+{{< psd/tize >}}
 ## AiHeader.CreationDate property
 
 作成日を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 public string CreationDate { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-作成日.
+作成日。
 
 ### 関連項目
 
 * class [AiHeader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

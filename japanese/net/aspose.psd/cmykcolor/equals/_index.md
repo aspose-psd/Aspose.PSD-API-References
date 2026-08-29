@@ -1,31 +1,32 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColor 方法. 指定されたObjectこのインスタンスと等しい.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColor メソッド。指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します"
 type: docs
-weight: 70
+weight: 80
 url: /ja/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-指定されたObject、このインスタンスと等しい.
+指定されたオブジェクトがこのインスタンスと等しいかどうかを判断します。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectこのインスタンスと比較します。 |
+| obj | Object | このインスタンスと比較する Object。 |
 
 ### 戻り値
 
-`真実`指定された場合Objectこのインスタンスと同じです。さもないと、`間違い` .
+`true`：指定された Object がこのインスタンスと等しい場合。そうでなければ `false`。
 
 ### 関連項目
 
 * struct [CmykColor](../)
-* 名前空間 [Aspose.PSD](../../cmykcolor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

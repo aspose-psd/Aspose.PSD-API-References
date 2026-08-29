@@ -1,14 +1,15 @@
 ---
-title: BezierShape.BezierShape
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierShape コンストラクタ. の新しいインスタンスを初期化しますBezierShapeclass.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierShape コンストラクタ。BezierShape クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-の新しいインスタンスを初期化します[`BezierShape`](../)class.
+[`BezierShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BezierShape()
@@ -17,50 +18,50 @@ public BezierShape()
 ### 関連項目
 
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-の新しいインスタンスを初期化します[`BezierShape`](../)class.
+[`BezierShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| points | PointF[] | ポイント配列。 |
+| ポイント | PointF[] | ポイント配列です。 |
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-の新しいインスタンスを初期化します[`BezierShape`](../)class.
+[`BezierShape`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| points | PointF[] | ポイント配列。 |
-| isClosed | Boolean | に設定した場合`真実`ベジェ スプラインは閉じています。 |
+| ポイント | PointF[] | ポイント配列です。 |
+| isClosed | Boolean | `true` に設定すると、ベジエスプラインは閉じられます。 |
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../beziershape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

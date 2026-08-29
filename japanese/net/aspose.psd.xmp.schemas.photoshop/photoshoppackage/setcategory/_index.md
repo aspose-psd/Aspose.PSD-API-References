@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. カテゴリを設定します
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。カテゴリを設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 カテゴリを設定します。
@@ -14,20 +15,20 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 public void SetCategory(string category)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| category | String | カテゴリ。 |
+| カテゴリ | 文字列 | このカテゴリです。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | カテゴリ; カテゴリは 3 文字に制限されています |
+| ArgumentOutOfRangeException | カテゴリ;カテゴリは3文字に制限されています |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

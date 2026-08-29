@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: Aspose.PSD for .NET API リファレンス
-description: IntRange コンストラクタ. の新しいインスタンスを初期化しますIntRangeclass.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IntRange コンストラクタ。IntRange クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-の新しいインスタンスを初期化します[`IntRange`](../)class.
+[`IntRange`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| start | Int32 | 開始。 |
-| count | Int32 | カウント。 |
+| 開始 | Int32 | 開始です。 |
+| カウント | Int32 | カウント。 |
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`IntRange`](../)class.
+[`IntRange`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| start | Int32 | 開始。 |
-| count | Int32 | カウント。 |
-| delta | Int32 | デルタ。 |
+| 開始 | Int32 | 開始です。 |
+| カウント | Int32 | カウント。 |
+| デルタ | Int32 | デルタです。 |
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-の新しいインスタンスを初期化します[`IntRange`](../)class.
+[`IntRange`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| range | Int32[] | 範囲。 |
+| 範囲 | Int32[] | 範囲です。 |
 
 ### 関連項目
 
 * class [IntRange](../)
-* 名前空間 [Aspose.PSD](../../intrange/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

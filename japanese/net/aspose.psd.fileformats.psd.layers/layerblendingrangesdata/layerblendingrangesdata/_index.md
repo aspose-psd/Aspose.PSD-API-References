@@ -1,14 +1,15 @@
 ---
-title: LayerBlendingRangesData.LayerBlendingRangesData
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerBlendingRangesData コンストラクタ. デフォルトのコンストラクター
+title: "LayerBlendingRangesData.LayerBlendingRangesData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerBlendingRangesData コンストラクタ。デフォルト コンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public LayerBlendingRangesData()
@@ -17,7 +18,7 @@ public LayerBlendingRangesData()
 ### 関連項目
 
 * class [LayerBlendingRangesData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

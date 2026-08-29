@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 方法. 2 つのRectangle構造体の位置とサイズは同じです.
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle メソッド。2つの Rectangle 構造体が位置とサイズが等しいかテストします。"
 type: docs
 weight: 290
 url: /ja/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-2 つの[`Rectangle`](../)構造体の位置とサイズは同じです.
+2つの[`Rectangle`](../)構造体が位置とサイズが等しいかテストします。
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| left | Rectangle | の[`Rectangle`](../)等値演算子の左側にある構造。 |
-| right | Rectangle | の[`Rectangle`](../)等値演算子の右側にある構造。 |
+| left | Rectangle | 等価演算子の左側にある[`Rectangle`](../)構造体。 |
+| right | Rectangle | 等価演算子の右側にある[`Rectangle`](../)構造体。 |
 
 ### 戻り値
 
-この演算子は、2 つの場合に true を返します。[`Rectangle`](../)構造は等しい[`X`](../x/) 、[`Y`](../y/) 、[`Width`](../width/)、 と[`Height`](../height/)プロパティ。
+この演算子は、2つの[`Rectangle`](../)構造体が [`X`](../x/)、[`Y`](../y/)、[`Width`](../width/)、[`Height`](../height/) プロパティが等しい場合に true を返します。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

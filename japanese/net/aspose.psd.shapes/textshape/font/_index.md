@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD for .NET API リファレンス
-description: TextShape 財産. テキストの描画に使用されるフォントを取得または設定します
+title: "TextShape.Font"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TextShape プロパティ。テキストの描画に使用されるフォントを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 テキストの描画に使用されるフォントを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.shapes/textshape/font/
 public Font Font { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-テキストの描画に使用されるフォント。
+テキストの描画に使用されるフォントです。
 
 ### 関連項目
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* 名前空間 [Aspose.PSD.Shapes](../../textshape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 方法. タイプ別にタグのインスタンスを取得します
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions メソッド。タイプでタグのインスタンスを取得します"
 type: docs
-weight: 720
+weight: 730
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-タイプ別にタグのインスタンスを取得します。
+タイプでタグのインスタンスを取得します。
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| tagKey | TiffTags | タグキー。 |
+| tagKey | TiffTags | タグキーです。 |
 
 ### 戻り値
 
-存在する場合はタグのインスタンス、そうでない場合は null.
+タグが存在する場合はそのインスタンス、存在しない場合は null。
 
 ### 関連項目
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

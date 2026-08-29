@@ -1,29 +1,30 @@
 ---
-title: Txt2Resource.Save
-second_title: Aspose.PSD for .NET API リファレンス
-description: Txt2Resource 方法. 指定したストリーム コンテナを保存します
+title: "Txt2Resource.Save"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Txt2Resource メソッド。指定されたストリームコンテナを保存します"
 type: docs
-weight: 90
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Save method
 
-指定したストリーム コンテナを保存します。
+指定されたストリームコンテナを保存します。
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | ストリーム コンテナー。 |
-| psdVersion | Int32 | PSD版です。 |
+| streamContainer | StreamContainer | ストリームコンテナ。 |
+| psdVersion | Int32 | PSD バージョンです。 |
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Txt2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描画される線の始点で使用されるキャップ スタイルを取得または設定しますPen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。この Pen で描画された線の開始部で使用されるキャップスタイルを取得または設定します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-これで描画される線の始点で使用されるキャップ スタイルを取得または設定します[`Pen`](../) .
+この[`Pen`](../)で描画された線の開始部で使用されるキャップスタイルを取得または設定します。
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-一つ[`LineCap`](../../linecap/)これで描画された線の先頭に使用されるキャップ スタイルを表す値[`Pen`](../).
+この[`Pen`](../)で描画された線の開始部で使用されるキャップスタイルを表す [`LineCap`](../../linecap/) のいずれかの値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`StartCap`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | 不変の[`Pen`](../)（たとえば [`Pen`](../) クラスが返すもの）に設定される `StartCap` プロパティです。 |
 
 ### 関連項目
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

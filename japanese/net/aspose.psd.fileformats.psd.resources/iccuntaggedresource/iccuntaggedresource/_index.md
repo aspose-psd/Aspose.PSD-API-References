@@ -1,14 +1,15 @@
 ---
-title: IccUntaggedResource.IccUntaggedResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: IccUntaggedResource コンストラクタ. デフォルトのコンストラクター
+title: "IccUntaggedResource.IccUntaggedResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IccUntaggedResource コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/iccuntaggedresource/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public IccUntaggedResource()
@@ -17,7 +18,7 @@ public IccUntaggedResource()
 ### 関連項目
 
 * class [IccUntaggedResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

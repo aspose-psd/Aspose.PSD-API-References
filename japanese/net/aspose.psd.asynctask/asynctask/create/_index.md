@@ -1,11 +1,12 @@
 ---
-title: AsyncTask.Create
-second_title: Aspose.PSD for .NET API リファレンス
-description: AsyncTask 方法. 結果なしで非同期タスクを作成します
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AsyncTask メソッド。結果なしで非同期タスクを作成します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
 結果なしで非同期タスクを作成します。
@@ -14,9 +15,9 @@ url: /ja/net/aspose.psd.asynctask/asynctask/create/
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| taskAction | AsyncTaskAction | タスク アクション。 |
+| taskAction | AsyncTaskAction | タスクアクション。 |
 
 ### 戻り値
 
@@ -27,8 +28,8 @@ public static IAsyncTask Create(AsyncTaskAction taskAction)
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../asynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,7 +41,7 @@ public static IAsyncTask Create(AsyncTaskAction taskAction)
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | taskFunc | AsyncTaskFunc | タスク関数。 |
 
@@ -53,7 +54,7 @@ public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../asynctask/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

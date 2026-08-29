@@ -1,14 +1,15 @@
 ---
-title: Class Jpeg2000Exception
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception クラス. JPEG ファイルの例外
+title: "クラス Jpeg2000Exception"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.Jpeg2000Exception クラス。Jpeg ファイルの例外です。"
 type: docs
 weight: 530
 url: /ja/net/aspose.psd.coreexceptions.imageformats/jpeg2000exception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Exception class
 
-JPEG ファイルの例外
+Jpeg ファイルの例外
 
 ```csharp
 public class Jpeg2000Exception : ImageException
@@ -18,13 +19,13 @@ public class Jpeg2000Exception : ImageException
 
 | 名前 | 説明 |
 | --- | --- |
-| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | の新しいインスタンスを初期化します`Jpeg2000Exception`class. |
-| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`Jpeg2000Exception`class. |
+| [Jpeg2000Exception](jpeg2000exception/#constructor)(string) | `Jpeg2000Exception` クラスの新しいインスタンスを初期化します。 |
+| [Jpeg2000Exception](jpeg2000exception/#constructor_1)(string, Exception) | `Jpeg2000Exception` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

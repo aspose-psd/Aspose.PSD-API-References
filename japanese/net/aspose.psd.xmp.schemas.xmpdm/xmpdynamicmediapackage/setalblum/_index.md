@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAlblum
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. アルバムを設定します
+title: "XmpDynamicMediaPackage.SetAlblum"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。アルバムを設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAlblum method
 
 アルバムを設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalblum/
 public void SetAlblum(string album)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| album | String | アルバム。 |
+| アルバム | 文字列 | アルバムです。 |
 
 ### 関連項目
 
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

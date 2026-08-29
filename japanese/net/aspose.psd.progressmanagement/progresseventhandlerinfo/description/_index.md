@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: Aspose.PSD for .NET API リファレンス
-description: ProgressEventHandlerInfo 財産. イベントの説明を取得します
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ProgressEventHandlerInfo プロパティ。イベントの説明を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
 イベントの説明を取得します
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 public string Description { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-説明.
+説明です。
 
 ### 関連項目
 
 * class [ProgressEventHandlerInfo](../)
-* 名前空間 [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

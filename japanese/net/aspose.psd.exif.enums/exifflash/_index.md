@@ -1,14 +1,15 @@
 ---
-title: Enum ExifFlash
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Exif.Enums.ExifFlash 列挙. フラッシュモード.
+title: "列挙型 ExifFlash"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Exif.Enums.ExifFlash 列挙型。フラッシュモード"
 type: docs
-weight: 860
+weight: 870
 url: /ja/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
-フラッシュモード.
+フラッシュモード。
 
 ```csharp
 public enum ExifFlash
@@ -16,26 +17,26 @@ public enum ExifFlash
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
 | Noflash | `0` | フラッシュが発光しませんでした。 |
-| Fired | `1` | フラッシュが発射されました。 |
-| FiredReturnLightNotDetected | `5` | フラッシュが発射されましたが、戻り光が検出されませんでした. |
-| FiredReturnLightDetected | `7` | フラッシュが発射され、戻り光が検出されました。 |
-| YesCompulsory | `9` | フラッシュ発光、強制フラッシュモード. |
-| YesCompulsoryReturnLightNotDetected | `13` | フラッシュ発光、強制モード、戻り光が検出されない. |
-| YesCompulsoryReturnLightDetected | `15` | フラッシュ発光、強制モード、戻り光検出. |
-| NoCompulsory | `16` | フラッシュが発光しませんでした。強制フラッシュ モードです。 |
-| NoDidNotFireReturnLightNotDetected | `20` | フラッシュが発光せず、戻り光が検出されませんでした。 |
-| NoAuto | `24` | フラッシュが発光しませんでした。自動モードです。 |
-| YesAuto | `25` | フラッシュ発光自動モード. |
-| YesAutoReturnLightNotDetected | `29` | フラッシュ発光、自動モード、戻り光が検出されない. |
-| YesAutoReturnLightDetected | `31` | フラッシュ発光、自動モード、戻り光検出. |
-| NoFlashFunction | `32` | フラッシュ機能なし. |
+| Fired | `1` | フラッシュが発光しました。 |
+| FiredReturnLightNotDetected | `5` | フラッシュが発光し、帰還光が検出されませんでした。 |
+| FiredReturnLightDetected | `7` | フラッシュが発光し、帰還光が検出されました。 |
+| YesCompulsory | `9` | フラッシュが発光し、強制フラッシュモードです。 |
+| YesCompulsoryReturnLightNotDetected | `13` | フラッシュが発光し、強制モード、帰還光が検出されませんでした。 |
+| YesCompulsoryReturnLightDetected | `15` | フラッシュが発光し、強制モード、帰還光が検出されました。 |
+| NoCompulsory | `16` | フラッシュが発光せず、強制フラッシュモードです。 |
+| NoDidNotFireReturnLightNotDetected | `20` | フラッシュが発光せず、帰還光が検出されませんでした。 |
+| NoAuto | `24` | フラッシュが発光せず、自動モードです。 |
+| YesAuto | `25` | フラッシュが発光し、自動モードです。 |
+| YesAutoReturnLightNotDetected | `29` | フラッシュが発光し、自動モード、帰還光が検出されませんでした。 |
+| YesAutoReturnLightDetected | `31` | フラッシュが発光し、自動モード、帰還光が検出されました。 |
+| NoFlashFunction | `32` | フラッシュ機能がありません。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

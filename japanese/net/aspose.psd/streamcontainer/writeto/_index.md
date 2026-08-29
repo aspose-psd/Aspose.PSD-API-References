@@ -1,54 +1,55 @@
 ---
-title: StreamContainer.WriteTo
-second_title: Aspose.PSD for .NET API リファレンス
-description: StreamContainer 方法. 含まれているデータを別のデータにコピーしますStreamContainer .
+title: "StreamContainer.WriteTo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StreamContainer メソッド。含まれるデータを別の StreamContainer にコピーします。"
 type: docs
 weight: 190
 url: /ja/net/aspose.psd/streamcontainer/writeto/
 ---
+{{< psd/tize >}}
 ## WriteTo(StreamContainer) {#writeto}
 
-含まれているデータを別のデータにコピーします[`StreamContainer`](../) .
+含まれるデータを別の[`StreamContainer`](../) にコピーします。
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | コピー先のストリーム コンテナー。 |
+| streamContainer | StreamContainer | コピー先のストリームコンテナ。 |
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## WriteTo(StreamContainer, long) {#writeto_1}
 
-含まれているデータを別のデータにコピーします[`StreamContainer`](../) .
+含まれるデータを別の[`StreamContainer`](../) にコピーします。
 
 ```csharp
 public virtual void WriteTo(StreamContainer streamContainer, long length)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | コピー先のストリーム コンテナー。 |
-| length | Int64 | 書き込むバイト数。 |
+| streamContainer | StreamContainer | コピー先のストリームコンテナ。 |
+| 長さ | Int64 | 書き込むバイト数。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | コピー操作を完了できません。 + カウント + バイトを読み取ることができません。 |
+| [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) | コピー操作を完了できません。読み取り + カウント + バイトができません。 |
 
 ### 関連項目
 
 * class [StreamContainer](../)
-* 名前空間 [Aspose.PSD](../../streamcontainer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

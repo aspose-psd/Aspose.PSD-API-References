@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.BitsPerPixel
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. ピクセルあたりのビット数を取得します
+title: "TiffOptions.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。ビット/ピクセルを取得します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerPixel property
 
 ピクセルあたりのビット数を取得します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 public int BitsPerPixel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ピクセルあたりのビット数。
+ビット/ピクセルです。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

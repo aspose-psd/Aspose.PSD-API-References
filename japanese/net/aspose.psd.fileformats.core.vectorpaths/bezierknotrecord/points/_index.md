@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.Points
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierKnotRecord 財産. ポイントを取得または設定します
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierKnotRecord プロパティ。ポイントを取得または設定します。"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
 ポイントを取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 public Point[] Points { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ポイント.
+ポイントです。
 
 ### 関連項目
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

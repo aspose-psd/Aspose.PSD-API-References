@@ -1,20 +1,21 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: Aspose.PSD for .NET API リファレンス
-description: RawDataSettings 財産. 生データ変換に使用するディザリング方法を取得または設定します
+title: "RawDataSettings.DitheringMethod"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RawDataSettings プロパティ。生データ変換に使用するディザリング手法を取得または設定します。"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
-生データ変換に使用するディザリング方法を取得または設定します
+生データ変換に使用するディザリング方式を取得または設定します
 
 ```csharp
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 生データ変換に使用するディザリング方法
 
@@ -22,7 +23,7 @@ public DitheringMethods DitheringMethod { get; set; }
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* 名前空間 [Aspose.PSD](../../rawdatasettings/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 財産. このインスタンスがアルファを持っているかどうかを示す値を取得します.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage プロパティ。このインスタンスがアルファを持つかどうかを示す値を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-このインスタンスがアルファを持っているかどうかを示す値を取得します.
+このインスタンスがアルファを持つかどうかを示す値を取得します。
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスにアルファがある場合。さもないと、`間違い` .
+`true` このインスタンスがアルファを持つ場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

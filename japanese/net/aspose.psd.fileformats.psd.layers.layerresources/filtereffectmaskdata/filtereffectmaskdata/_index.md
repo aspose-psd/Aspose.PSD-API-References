@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: Aspose.PSD for .NET API リファレンス
-description: FilterEffectMaskData コンストラクタ. の新しいインスタンスを初期化しますFilterEffectMaskDataclass.
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "FilterEffectMaskData コンストラクタ。FilterEffectMaskData クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-の新しいインスタンスを初期化します[`FilterEffectMaskData`](../)class.
+[`FilterEffectMaskData`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -16,20 +17,20 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
     ChannelInformation sheetMask)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| guid | String | リソース GUID。 |
-| rectangle | Rectangle | チャネルの長方形。 |
-| pixelsDepth | Int32 | ピクセル深度。 |
-| maxChannels | Int32 | 最大チャネル値。 |
-| channels | ChannelInformation[] | チャネル。 |
+| guid | 文字列 | リソース GUIDです。 |
+| 矩形 | Rectangle | チャンネル矩形です。 |
+| pixelsDepth | Int32 | ピクセル深度です。 |
+| maxChannels | Int32 | 最大チャンネル数の値です。 |
+| channels | ChannelInformation[] | チャンネル。 |
 | userMask | ChannelInformation | ユーザーマスク。 |
-| maskRectangle | Rectangle | シート マスクの四角形。 |
-| sheetMask | ChannelInformation | シートマスクです。 |
+| maskRectangle | Rectangle | シートマスクの矩形。 |
+| sheetMask | ChannelInformation | シートマスク。 |
 
-### 例
+## 例
 
-この例では、FXidResource リソースのプロパティを取得および設定する方法を示します。
+この例は、FXidResource リソースのプロパティを取得および設定する方法を示しています。
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// 保存後にチェック
+// 保存後に確認してください
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

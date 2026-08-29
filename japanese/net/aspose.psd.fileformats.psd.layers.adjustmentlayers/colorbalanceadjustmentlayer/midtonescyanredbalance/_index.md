@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBalanceAdjustmentLayer 財産. ミッドトーン シアン レッド バランスを取得または設定します
+title: "ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBalanceAdjustmentLayer プロパティ。Midtones Cyan Red Balance を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesCyanRedBalance property
 
-ミッドトーン シアン レッド バランスを取得または設定します。
+Midtones Cyan Red Balance の値を取得または設定します。
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ミッドトーン シアン レッド バランス.
+Midtones Cyan Red Balanceです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | ミッドトーン シアン レッド バランスは -100 から +100 の範囲内である必要があります。 |
+| ArgumentOutOfRangeException | Midtones Cyan Red Balance は -100 から +100 の範囲である必要があります。 |
 
-### 例
+## 例
 
-次のコードは、ColorBalanceAdjustmentLayer のサポートを示しています。
+以下のコードは ColorBalanceAdjustmentLayer のサポートを示しています。
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### 関連項目
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Struct Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Color 構造体. ピクセルの色
+title: "Color 構造体"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Color 構造体。ピクセルの色です。"
 type: docs
 weight: 290
 url: /ja/net/aspose.psd/color/
 ---
+{{< psd/tize >}}
 ## Color structure
 
-ピクセルの色。
+ピクセルの色です。
 
 ```csharp
 public struct Color
@@ -60,7 +61,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue/) { get; } | システム定義の色を取得します。 |
 | static [DimGray](../../aspose.psd/color/dimgray/) { get; } | システム定義の色を取得します。 |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue/) { get; } | システム定義の色を取得します。 |
-| static [Empty](../../aspose.psd/color/empty/) { get; } | 空を取得します`Color` . |
+| static [Empty](../../aspose.psd/color/empty/) { get; } | 空の `Color` を取得します。 |
 | static [Firebrick](../../aspose.psd/color/firebrick/) { get; } | システム定義の色を取得します。 |
 | static [FloralWhite](../../aspose.psd/color/floralwhite/) { get; } | システム定義の色を取得します。 |
 | static [ForestGreen](../../aspose.psd/color/forestgreen/) { get; } | システム定義の色を取得します。 |
@@ -160,39 +161,45 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke/) { get; } | システム定義の色を取得します。 |
 | static [Yellow](../../aspose.psd/color/yellow/) { get; } | システム定義の色を取得します。 |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen/) { get; } | システム定義の色を取得します。 |
-| [A](../../aspose.psd/color/a/) { get; } | これのアルファ成分値を取得します`Color`構造体. |
-| [B](../../aspose.psd/color/b/) { get; } | この青成分値を取得します`Color`構造体. |
-| [G](../../aspose.psd/color/g/) { get; } | この緑成分値を取得します`Color`構造体. |
-| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | かどうかを示す値を取得します。`Color`構造体が初期化されていません. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | かどうかを示す値を取得します。`Color`構造は事前定義された色です。定義済みの色は、[`KnownColor`](../knowncolor/)列挙. |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | かどうかを示す値を取得します。`Color`構造体は、名前付きの色またはのメンバーです[`KnownColor`](../knowncolor/)列挙. |
-| [Name](../../aspose.psd/color/name/) { get; } | この名前を取得します`Color` . |
-| [R](../../aspose.psd/color/r/) { get; } | この赤成分値を取得します`Color`構造体. |
+| [A](../../aspose.psd/color/a/) { get; } | この `Color` 構造体のアルファ成分の値を取得します。 |
+| [B](../../aspose.psd/color/b/) { get; } | この `Color` 構造体の青成分の値を取得します。 |
+| [G](../../aspose.psd/color/g/) { get; } | この `Color` 構造体の緑成分の値を取得します。 |
+| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | この `Color` 構造体が未初期化かどうかを示す値を取得します。 |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | この `Color` 構造体が事前定義された色かどうかを示す値を取得します。事前定義された色は [`KnownColor`](../knowncolor/) 列挙体の要素で表されます。 |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | この `Color` 構造体が名前付きの色か、[`KnownColor`](../knowncolor/) 列挙体のメンバーかを示す値を取得します。 |
+| [Name](../../aspose.psd/color/name/) { get; } | この `Color` の名前を取得します。 |
+| [R](../../aspose.psd/color/r/) { get; } | この `Color` 構造体の赤成分の値を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | を作成します`Color` 32 ビット ARGB 値からの構造体. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | を作成します`Color`指定された構造`Color`構造ですが、新しく指定されたアルファ値があります。このメソッドでは、アルファ値として 32 ビット値を渡すことができますが、値は 8 ビットに制限されています。 |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | を作成します`Color`指定された 8 ビットのカラー値 (赤、緑、青) からの構造体。アルファ値は暗黙的に 255 (完全に不透明) です。このメソッドでは、各色コンポーネントに 32 ビット値を渡すことができますが、各コンポーネントの値は 8 ビットに制限されています。 |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | を作成します`Color` 4 つの ARGB コンポーネント (アルファ、赤、緑、青) 値からの構造。このメソッドでは各コンポーネントに 32 ビットの値を渡すことができますが、各コンポーネントの値は 8 ビットに制限されています。 |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | を作成します`Color`指定された事前定義された color. からの構造 |
-| static [FromName](../../aspose.psd/color/fromname/)(string) | を作成します`Color`定義済みの色の指定された名前からの構造体. |
-| override [Equals](../../aspose.psd/color/equals/)(object) | 指定されたオブジェクトが`Color`構造であり、これと同等です`Color`構造体. |
-| [GetBrightness](../../aspose.psd/color/getbrightness/)() | この色相彩度輝度 (HSB) 輝度値を取得します`Color`構造体. |
-| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | このハッシュコードを返します`Color`構造体. |
-| [GetHue](../../aspose.psd/color/gethue/)() | この色相、彩度、明るさ (HSB) の色相値を度で取得します。`Color`構造体. |
-| [GetSaturation](../../aspose.psd/color/getsaturation/)() | この色相彩度明度 (HSB) 彩度値を取得します`Color`構造体. |
-| [ToArgb](../../aspose.psd/color/toargb/)() | この 32 ビット ARGB 値を取得します`Color`構造体. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | を取得します[`KnownColor`](../knowncolor/)これの価値`Color`構造体. |
-| override [ToString](../../aspose.psd/color/tostring/)() | これを変換`Color`人間が読める文字列への構造. |
-| [operator ==](../../aspose.psd/color/op_equality/) | 2 つが指定されているかどうかをテストします`Color`構造は同等です. |
-| [operator !=](../../aspose.psd/color/op_inequality/) | 2 つが指定されているかどうかをテストします`Color`構造が異なります. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | `Color` 構造体を 32 ビット ARGB 値から作成します。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | 指定された `Color` 構造体から新しいアルファ値を指定して `Color` 構造体を作成します。このメソッドはアルファ値に 32 ビットの値を渡すことを許可しますが、値は 8 ビットに制限されます。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | 指定された 8 ビットのカラー値（赤、緑、青）から `Color` 構造体を作成します。アルファ値は暗黙的に 255（完全に不透明）です。このメソッドは各カラー成分に 32 ビットの値を渡すことを許可しますが、各成分の値は 8 ビットに制限されます。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | 4 つの ARGB 成分（アルファ、赤、緑、青）の値から `Color` 構造体を作成します。このメソッドは各成分に 32 ビットの値を渡すことを許可しますが、各成分の値は 8 ビットに制限されます。 |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | 指定された既定のカラーから `Color` 構造体を作成します。 |
+| static [FromName](../../aspose.psd/color/fromname/)(string) | 指定された既定のカラー名から `Color` 構造体を作成します。 |
+| override [Equals](../../aspose.psd/color/equals/)(object) | 指定されたオブジェクトが `Color` 構造体であり、この `Color` 構造体と等価かどうかをテストします。 |
+| [GetBrightness](../../aspose.psd/color/getbrightness/)() | この `Color` 構造体の色相-彩度-明度 (HSB) の明度値を取得します。 |
+| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | この `Color` 構造体のハッシュコードを返します。 |
+| [GetHue](../../aspose.psd/color/gethue/)() | この `Color` 構造体の色相-彩度-明度 (HSB) の色相値（度）を取得します。 |
+| [GetSaturation](../../aspose.psd/color/getsaturation/)() | この `Color` 構造体の色相-彩度-明度 (HSB) の彩度値を取得します。 |
+| [ToArgb](../../aspose.psd/color/toargb/)() | この `Color` 構造体の 32 ビット ARGB 値を取得します。 |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | この `Color` 構造体の [`KnownColor`](../knowncolor/) 値を取得します。 |
+| override [ToString](../../aspose.psd/color/tostring/)() | この `Color` 構造体を人間が読みやすい文字列に変換します。 |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk)(Color) | Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmyk`](../cmykcolorhelper/tocmyk/) を使用してください。 |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk_1)(Color[]) | Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmyk`](../cmykcolorhelper/tocmyk/) を使用してください。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc)(Color) | デフォルトプロファイルを使用した ICC 変換による Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) を使用してください。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_2)(Color[]) | デフォルトプロファイルを使用した ICC 変換による Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) を使用してください。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | デフォルトプロファイルを使用した ICC 変換による Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) を使用してください。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | ICC 変換を使用した Color から CMYKColor への変換。このメソッドは非推奨です。より効果的な [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) を使用してください。 |
+| [operator ==](../../aspose.psd/color/op_equality/) | 指定された 2 つの `Color` 構造体が等価かどうかをテストします。 |
+| [operator !=](../../aspose.psd/color/op_inequality/) | 指定された 2 つの `Color` 構造体が異なるかどうかをテストします。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

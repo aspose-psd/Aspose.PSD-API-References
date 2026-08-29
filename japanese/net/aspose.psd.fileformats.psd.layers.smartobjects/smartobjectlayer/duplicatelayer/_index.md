@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectLayer 方法. これをコピーして新しいスマート オブジェクト レイヤーを作成しますNewSmartObjectViaCopymethod.
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectLayer メソッド。このレイヤーをコピーして新しいスマートオブジェクトレイヤーを作成します。埋め込みスマートオブジェクトの場合、埋め込まれた画像は共有されることに注意してください。埋め込まれた画像をコピーしたい場合は NewSmartObjectViaCopy メソッドを使用してください。"
 type: docs
-weight: 80
+weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-これをコピーして、新しいスマート オブジェクト レイヤーを作成します。[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/)method.
+このレイヤーをコピーして新しいスマートオブジェクトレイヤーを作成します。埋め込みスマートオブジェクトの場合、埋め込まれた画像は共有されます。埋め込まれた画像をコピーしたい場合は [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) メソッドを使用してください。
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
@@ -16,11 +17,11 @@ public SmartObjectLayer DuplicateLayer()
 
 ### 戻り値
 
-クローン[`SmartObjectLayer`](../)インスタンス.
+クローンされた [`SmartObjectLayer`](../) インスタンスです。
 
-### 例
+## 例
 
-これらの例は、PSD 画像でスマート オブジェクト レイヤーをコピーする方法を示しています。
+これらの例は、PSD 画像内でスマートオブジェクトレイヤーをコピーする方法を示しています。
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SmartObjectLayer DuplicateLayer()
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// これらの例は、PSD 画像でスマート オブジェクト レイヤーをコピーする方法を示しています。
+// これらの例は、PSD 画像内でスマートオブジェクトレイヤーをコピーする方法を示しています。
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // コピーするレイヤー番号
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // 埋め込まれたスマートオブジェクト画像を反転させましょう (内側の PSD 画像の場合、最初のレイヤーのみを反転させます)
+            // 埋め込みスマートオブジェクト画像を反転させましょう（内部 PSD 画像の場合は最初のレイヤーのみを反転します）
             InvertImage(innerImage);
 
-            // PSD レイヤーに埋め込まれたスマート オブジェクト画像を置き換えましょう
+            // PSD レイヤー内の埋め込みスマートオブジェクト画像を置き換えましょう
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 複製されたレイヤーは、埋め込まれた画像を元のスマート オブジェクトと共有します
-        // 明示的に更新する必要があります。そうしないと、レンダリング キャッシュは変更されません。
-        // すべてのスマート オブジェクトを更新して、NewSmartObjectViaCopy によって作成された新しいレイヤーが
-        // 埋め込まれた画像を他のユーザーと共有しません。
+        // 複製されたレイヤーは、元のスマートオブジェクトと埋め込まれた画像を共有します。
+        // そして、明示的に更新しなければ、レンダリングキャッシュは変更されません。
+        // NewSmartObjectViaCopy によって作成された新しいレイヤーを確実にするため、すべてのスマートオブジェクトを更新します。
+        // 他のものと埋め込まれた画像を共有しません。
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// PSD 画像を含むラスター画像を反転します。
+// PSD 画像を含むラスタ画像を反転させます。
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -89,7 +90,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// ラスター画像を反転します。
+// ラスタ画像を反転します。
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -115,7 +116,7 @@ void AssertIsTrue(bool condition)
 ### 関連項目
 
 * class [SmartObjectLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

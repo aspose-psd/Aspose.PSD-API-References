@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: Aspose.PSD for .NET API リファレンス
-description: TimeFormat 財産. ドロップ タイムコードを取得します2997.
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TimeFormat プロパティ。drop timecode2997 を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-ドロップ タイムコードを取得します2997.
+ドロップ timecode2997 を取得します。
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ドロップタイムコード2997.
+drop timecode2997 です。
 
 ### 関連項目
 
 * class [TimeFormat](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

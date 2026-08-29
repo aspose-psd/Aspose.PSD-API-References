@@ -1,48 +1,49 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImageException コンストラクタ. の新しいインスタンスを初期化しますPsdImageExceptionclass.
+title: "PsdImageException.PsdImageException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImageException コンストラクタ。PsdImageException クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`PsdImageException`](../)class.
+[`PsdImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImageException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [PsdImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`PsdImageException`](../)class.
+[`PsdImageException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [PsdImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

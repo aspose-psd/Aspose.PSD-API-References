@@ -1,14 +1,15 @@
 ---
-title: Font.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 方法. これの人間が読める文字列表現を返しますFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font メソッド。 このフォントの人間が読める文字列表現を返します"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-これの人間が読める文字列表現を返します[`Font`](../) .
+この [`Font`](../) の人間が読める文字列表現を返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-これを表す文字列[`Font`](../).
+この [`Font`](../) を表す文字列です。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 元の日時を取得または設定します
+title: "ExifData.DateTimeOriginal"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。元の日時を取得または設定します"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd.exif/exifdata/datetimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeOriginal property
 
 元の日時を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.exif/exifdata/datetimeoriginal/
 public string DateTimeOriginal { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-元の日時。
+元の日時です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

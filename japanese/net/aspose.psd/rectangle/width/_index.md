@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PSD for .NET API リファレンス
-description: Rectangle 財産. この幅を取得または設定しますRectangle構造体.
+title: "Rectangle.Width"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Rectangle プロパティ。この Rectangle 構造体の幅を取得または設定します。"
 type: docs
 weight: 190
 url: /ja/net/aspose.psd/rectangle/width/
 ---
+{{< psd/tize >}}
 ## Rectangle.Width property
 
-この幅を取得または設定します[`Rectangle`](../)構造体.
+この [`Rectangle`](../) 構造体の幅を取得または設定します。
 
 ```csharp
 public int Width { get; set; }
@@ -16,12 +17,12 @@ public int Width { get; set; }
 
 ### 戻り値
 
-これの幅[`Rectangle`](../)構造。
+この [`Rectangle`](../) 構造体の幅です。
 
 ### 関連項目
 
 * struct [Rectangle](../)
-* 名前空間 [Aspose.PSD](../../rectangle/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

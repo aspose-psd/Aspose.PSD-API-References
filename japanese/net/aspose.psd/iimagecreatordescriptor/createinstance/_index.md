@@ -1,11 +1,12 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Aspose.PSD for .NET API リファレンス
-description: IImageCreatorDescriptor 方法. 新しい作成者インスタンスを作成します
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IImageCreatorDescriptor メソッド。新しいクリエイター インスタンスを作成します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
 新しい作成者インスタンスを作成します。
@@ -16,13 +17,13 @@ public IImageCreator CreateInstance()
 
 ### 戻り値
 
-新しい作成者インスタンス。
+新しいクリエイター インスタンス。
 
 ### 関連項目
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* 名前空間 [Aspose.PSD](../../iimagecreatordescriptor/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

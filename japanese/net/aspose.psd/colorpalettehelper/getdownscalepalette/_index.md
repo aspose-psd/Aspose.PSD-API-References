@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorPaletteHelper 方法. 初期画像カラー値の上位ビットから構成される 256 カラー パレットを取得します
+title: "ColorPaletteHelper.GetDownscalePalette"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorPaletteHelper メソッド。初期画像の色値の上位ビットから構成された 256 カラー パレットを取得します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/colorpalettehelper/getdownscalepalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetDownscalePalette method
 
-初期画像カラー値の上位ビットから構成される 256 カラー パレットを取得します。
+初期画像のカラー値の上位ビットから構成された256色パレットを取得します。
 
 ```csharp
 public static ColorPalette GetDownscalePalette(RasterImage image)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| image | RasterImage | 画像. |
+| image | RasterImage | 画像です。 |
 
 ### 戻り値
 
-[`ColorPalette`](../../colorpalette/) .
+[`ColorPalette`](../../colorpalette/)です。
 
 ### 関連項目
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* 名前空間 [Aspose.PSD](../../colorpalettehelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

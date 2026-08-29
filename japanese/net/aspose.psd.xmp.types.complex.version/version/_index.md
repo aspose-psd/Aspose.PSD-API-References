@@ -1,14 +1,15 @@
 ---
-title: Class Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Complex.Version.Version クラス. ドキュメントの 1 つのバージョンについて説明します
+title: "クラス Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Complex.Version.Version クラス。ドキュメントのバージョンを表します。"
 type: docs
-weight: 6110
+weight: 6610
 url: /ja/net/aspose.psd.xmp.types.complex.version/version/
 ---
+{{< psd/tize >}}
 ## Version class
 
-ドキュメントの 1 つのバージョンについて説明します。
+ドキュメントのあるバージョンを記述します。
 
 ```csharp
 public sealed class Version : ComplexTypeBase
@@ -18,30 +19,30 @@ public sealed class Version : ComplexTypeBase
 
 | 名前 | 説明 |
 | --- | --- |
-| [Version](version/)() | デフォルトのコンストラクター。 |
+| [Version](version/)() | デフォルトコンストラクタです。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
 | [Comments](../../aspose.psd.xmp.types.complex.version/version/comments/) { get; set; } | コメントを取得または設定します。 |
-| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | 変更日を取得または設定します。 |
-| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | 修飾子を取得または設定します。 |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | デフォルトの名前空間 URI を取得します。 |
+| [ModifiedDate](../../aspose.psd.xmp.types.complex.version/version/modifieddate/) { get; set; } | 変更日付を取得または設定します。 |
+| [Modifier](../../aspose.psd.xmp.types.complex.version/version/modifier/) { get; set; } | 修正者を取得または設定します。 |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | デフォルト名前空間の URI を取得します。 |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | プレフィックスを取得します。 |
-| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | を取得または設定します[`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) . |
-| [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext/) { get; set; } | バージョン テキストを取得または設定します。 |
+| [VersionEvent](../../aspose.psd.xmp.types.complex.version/version/versionevent/) { get; set; } | この [`ResourceEvent`](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) を取得または設定します。 |
+| [VersionText](../../aspose.psd.xmp.types.complex.version/version/versiontext/) { get; set; } | バージョンテキストを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.version/version/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
 ### 関連項目
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../)
 
 

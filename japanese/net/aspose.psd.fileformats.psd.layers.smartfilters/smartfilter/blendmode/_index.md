@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.BlendMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartFilter 財産. ブレンド モードを取得または設定します
+title: "SmartFilter.BlendMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartFilter プロパティ。ブレンドモードを取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
-ブレンド モードを取得または設定します。
+ブレンドモードを取得または設定します。
 
 ```csharp
 public BlendMode BlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode BlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

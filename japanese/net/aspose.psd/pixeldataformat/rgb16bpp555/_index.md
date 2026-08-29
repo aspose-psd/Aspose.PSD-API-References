@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp555
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. を取得しますPixelDataFormat赤緑青のそれぞれに 5 ビットを使用してピクセルあたり 16 ビットで定義されていますアルファは定義されていません
+title: "PixelDataFormat.Rgb16Bpp555"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。赤・緑・青それぞれに5ビット、アルファは未定義の、16ビット/ピクセルで定義された PixelDataFormat を取得します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/pixeldataformat/rgb16bpp555/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp555 property
 
-を取得します[`PixelDataFormat`](../)赤、緑、青のそれぞれに 5 ビットを使用してピクセルあたり 16 ビットで定義されています。アルファは定義されていません。
+[`PixelDataFormat`](../) を取得します。これは、赤・緑・青それぞれに5ビット、アルファが未定義の 16 ビット/ピクセルで定義されたものです。
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp555 { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`PixelDataFormat`](../)赤、緑、青のそれぞれに 5 ビットを使用してピクセルあたり 16 ビットで定義されています。アルファは定義されていません。
+赤・緑・青それぞれに5ビット、アルファが未定義の、16 ビット/ピクセルで定義された [`PixelDataFormat`](../)です。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

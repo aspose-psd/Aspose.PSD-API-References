@@ -1,28 +1,29 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffImageException 財産. tiff オプション エラーを取得します
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffImageException プロパティ。tiff オプションエラーを取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
-tiff オプション エラーを取得します。
+tiff オプションのエラーを取得します。
 
 ```csharp
 public TiffOptionsError OptionsError { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-tiff オプション エラーです。
+tiff オプションエラーです。
 
 ### 関連項目
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

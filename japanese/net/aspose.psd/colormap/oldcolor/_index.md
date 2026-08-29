@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorMap 財産. 既存のColor変換する構造.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorMap プロパティ。 変換対象の既存の Color 構造体を取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-既存の[`Color`](../../color/)変換する構造.
+変換対象の既存の [`Color`](../../color/) 構造体を取得または設定します。
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-既存の[`Color`](../../color/)変換する構造。
+変換対象の既存の [`Color`](../../color/) 構造体。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* 名前空間 [Aspose.PSD](../../colormap/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

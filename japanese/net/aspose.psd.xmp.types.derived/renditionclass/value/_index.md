@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Value
-second_title: Aspose.PSD for .NET API リファレンス
-description: RenditionClass 財産. 値を取得または設定します
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RenditionClass プロパティ。値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
 値を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.types.derived/renditionclass/value/
 public string Value { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-値.
+値です。
 
 ### 関連項目
 
 * class [RenditionClass](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

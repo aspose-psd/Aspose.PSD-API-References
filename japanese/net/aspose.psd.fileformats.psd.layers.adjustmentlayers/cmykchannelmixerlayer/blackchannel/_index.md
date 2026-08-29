@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.BlackChannel
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykChannelMixerLayer 財産. ブラック チャネルを取得します
+title: "CmykChannelMixerLayer.BlackChannel"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykChannelMixerLayer プロパティ。ブラックチャンネルを取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/blackchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.BlackChannel property
 
-ブラック チャネルを取得します。
+黒チャンネルを取得します。
 
 ```csharp
 public CmykMixerChannel BlackChannel { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-黒チャンネル.
+ブラックチャンネルです。
 
 ### 関連項目
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

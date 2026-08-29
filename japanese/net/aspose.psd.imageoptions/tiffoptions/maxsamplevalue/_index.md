@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. 最大サンプル値を取得または設定します
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。最大サンプル値を取得または設定します。"
 type: docs
-weight: 260
+weight: 270
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
 最大サンプル値を取得または設定します。
@@ -14,21 +15,21 @@ url: /ja/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-最大サンプル値.
+最大サンプル値です。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 価値 |
-| ArgumentOutOfRangeException | 値;配列の長さは、ピクセル数ごとのサンプル数に対応する必要があります。 |
+| ArgumentNullException | 値 |
+| ArgumentOutOfRangeException | value;配列の長さはピクセルあたりのサンプル数に対応している必要があります。 |
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

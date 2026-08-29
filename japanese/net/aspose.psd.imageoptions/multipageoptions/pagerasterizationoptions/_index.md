@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.PageRasterizationOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: MultiPageOptions 財産. ページのラスタライズ オプションを取得または設定します
+title: "MultiPageOptions.PageRasterizationOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MultiPageOptions プロパティ。ページラスタライズオプションを取得または設定します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageRasterizationOptions property
 
-ページのラスタライズ オプションを取得または設定します。
+ページのラスター化オプションを取得または設定します。
 
 ```csharp
 public VectorRasterizationOptions[] PageRasterizationOptions { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ページのラスタライズ オプション。
+ページラスタライズオプションです。
 
 ### 関連項目
 
 * class [VectorRasterizationOptions](../../vectorrasterizationoptions/)
 * class [MultiPageOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

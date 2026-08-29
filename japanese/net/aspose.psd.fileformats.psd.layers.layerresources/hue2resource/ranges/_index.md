@@ -1,28 +1,29 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Aspose.PSD for .NET API リファレンス
-description: Hue2Resource 財産. 色相彩度調整レイヤーの範囲を取得します
+title: "Hue2Resource.Ranges"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Hue2Resource プロパティ。Hue/サチュレーション調整レイヤーの範囲を取得します。PS では範囲が変更されると名前が変わる可能性があるため、インデックスで処理する必要があります。"
 type: docs
-weight: 80
+weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-色相・彩度調整レイヤーの範囲を取得します。
+Hue/Saturation 調整レイヤーの範囲を取得します。PS では範囲が変更されると名前が変わることがあるため、インデックスで操作する必要があります。
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-範囲.
+範囲です。
 
 ### 関連項目
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

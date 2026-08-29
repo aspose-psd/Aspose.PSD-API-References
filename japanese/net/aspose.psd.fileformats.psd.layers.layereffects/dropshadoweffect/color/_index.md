@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Color
-second_title: Aspose.PSD for .NET API リファレンス
-description: DropShadowEffect 財産. 色を取得または設定します
+title: "DropShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DropShadowEffect プロパティ。色を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
 色を取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/col
 public Color Color { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-色.
+色です。
 
-### 例
+## 例
 
-次のコードは、DropShadowEffect の Opacity プロパティの使用を示しています。
+以下のコードは、DropShadowEffect の Opacity プロパティの使用例を示しています。
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // 不透明度 = 20 の例
+    // Opacity = 20 の例
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // 不透明度 = 20 の例0
+    // Opacity = 200 の例
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -51,7 +52,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

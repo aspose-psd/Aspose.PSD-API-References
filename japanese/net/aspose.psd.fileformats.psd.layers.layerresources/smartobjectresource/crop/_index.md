@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. PSD 画像のスマート オブジェクト レイヤー データのクロップを取得または設定します
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。PSD 画像内のスマートオブジェクトレイヤーデータのクロップを取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-PSD 画像のスマート オブジェクト レイヤー データのクロップを取得または設定します。
+PSD 画像内のスマートオブジェクトレイヤーデータのクロップを取得または設定します。
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-配置されたレイヤー情報のクロップ値.
+配置されたレイヤー情報のクロップ値です。
 
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

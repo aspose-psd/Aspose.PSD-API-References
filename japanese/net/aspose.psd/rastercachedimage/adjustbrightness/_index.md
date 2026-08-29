@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterCachedImage 方法. 画像の明るさを調整します
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterCachedImage メソッド。画像の明るさを調整します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
 画像の明るさを調整します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd/rastercachedimage/adjustbrightness/
 public override void AdjustBrightness(int brightness)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| brightness | Int32 | 明るさの値。 |
+| 明るさ | Int32 | 明るさの値。 |
 
 ### 関連項目
 
 * class [RasterCachedImage](../)
-* 名前空間 [Aspose.PSD](../../rastercachedimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

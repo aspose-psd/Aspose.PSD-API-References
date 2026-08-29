@@ -1,34 +1,35 @@
 ---
-title: Image.RotateFlip
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. 画像を回転反転または回転して反転します
+title: "Image.RotateFlip"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。画像を回転・反転、または回転と反転を行います。"
 type: docs
-weight: 220
+weight: 230
 url: /ja/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
-画像を回転、反転、または回転して反転します。
+画像を回転、フリップ、または回転とフリップを行います。
 
 ```csharp
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | 回転フリップのタイプ. |
+| rotateFlipType | RotateFlipType | rotate flip の型。 |
 
-### 例
+## 例
 
-この例では、画像に対する回転操作の使用方法を示しています。この例では、既存のイメージ ファイルをディスクの場所からロードし、Enum Aspose.PSD.RotateFlipType の値に従って、イメージに対して Rotate 操作を実行します。
+この例は、画像に対する Rotate 操作の使用方法を示しています。例では、ディスク上の既存の画像ファイルをロードし、Enum Aspose.PSD.RotateFlipType の値に従って画像に Rotate 操作を実行します。
 
 ```csharp
 [C#]
 
-//画像クラスのインスタンスを作成し、ファイル パスを介して既存の画像ファイルで初期化します
+//Image クラスのインスタンスを作成し、ファイルパスを通じて既存の画像ファイルで初期化します。
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // X 軸を中心に画像を 180 度回転
+    //画像を X 軸周りに 180 度回転させます。
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
     // すべての変更を保存します。
@@ -40,7 +41,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiImage 財産. セットアップセクションを取得します
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiImage プロパティ。セットアップ セクションを取得します"
 type: docs
-weight: 100
+weight: 120
 url: /ja/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
-セットアップセクションを取得します。
+セットアップ セクションを取得します。
 
 ```csharp
 public AiSetupSection SetupSection { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-セットアップセクション.
+セットアップ セクションです。
 
 ### 関連項目
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

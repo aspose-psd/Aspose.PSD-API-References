@@ -1,14 +1,15 @@
 ---
-title: Class AiDataSection
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Ai.AiDataSection クラス. Ai 形式のデータ セクション
+title: "クラス AiDataSection"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Ai.AiDataSection クラス。AI 形式のデータセクションです。"
 type: docs
-weight: 1220
+weight: 1230
 url: /ja/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-Ai 形式のデータ セクション
+Ai フォーマットのデータセクション
 
 ```csharp
 public class AiDataSection : DisposableObject
@@ -30,7 +31,7 @@ public class AiDataSection : DisposableObject
 ### 関連項目
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

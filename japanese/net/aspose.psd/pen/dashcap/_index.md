@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Aspose.PSD for .NET API リファレンス
-description: Pen 財産. これで描画される破線を構成する破線の端で使用されるキャップ スタイルを取得または設定しますPen .
+title: "Pen.DashCap"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Pen プロパティ。 この Pen で描画される破線を構成するダッシュの末端で使用されるキャップスタイルを取得または設定します。"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-これで描画される破線を構成する破線の端で使用されるキャップ スタイルを取得または設定します[`Pen`](../) .
+この [`Pen`](../) で描画される破線を構成するダッシュの末端で使用されるキャップスタイルを取得または設定します。
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-一つ`DashCap`これで描かれた破線を構成する破線の最初と最後に使用されるキャップ スタイルを表す値[`Pen`](../).
+`DashCap` の値の一つで、 この [`Pen`](../) で描画される破線を構成するダッシュの開始と終了で使用されるキャップスタイルを表します。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentException | の`DashCap`プロパティは不変に設定されています[`Pen`](../)によって返されたものなど[`Pen`](../)クラス。 |
+| ArgumentException | `DashCap` プロパティは、[`Pen`](../) クラスが返すような不変の [`Pen`](../) に設定されます。 |
 
 ### 関連項目
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* 名前空間 [Aspose.PSD](../../pen/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

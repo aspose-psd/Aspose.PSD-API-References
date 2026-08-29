@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.ClassName
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClassStructure 財産. クラス名を取得または設定します
+title: "ClassStructure.ClassName"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClassStructure プロパティ。クラス名を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassName property
 
 クラス名を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string ClassName { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-クラス名.
+クラス名です。
 
 ### 関連項目
 
 * class [ClassStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerGroupsEnabledResource.LayerGroupsEnabledResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerGroupsEnabledResource コンストラクタ. デフォルトのコンストラクター
+title: "LayerGroupsEnabledResource.LayerGroupsEnabledResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerGroupsEnabledResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/layergroupsenabledresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public LayerGroupsEnabledResource()
@@ -17,7 +18,7 @@ public LayerGroupsEnabledResource()
 ### 関連項目
 
 * class [LayerGroupsEnabledResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

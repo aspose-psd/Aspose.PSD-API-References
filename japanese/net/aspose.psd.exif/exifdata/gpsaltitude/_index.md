@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitude
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. GPS 高度を取得または設定します
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。GPS 高度を取得または設定します"
 type: docs
 weight: 360
 url: /ja/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
-GPS 高度を取得または設定します。
+GPS高度を取得または設定します。
 
 ```csharp
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-GPS 高度.
+GPS 高度です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

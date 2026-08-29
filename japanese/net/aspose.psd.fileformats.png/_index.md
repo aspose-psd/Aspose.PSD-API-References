@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はPng ファイル形式の処理を処理します
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は PNG ファイル形式の処理を担当します"
 type: docs
-weight: 190
+weight: 200
 url: /ja/net/aspose.psd.fileformats.png/
 ---
-名前空間は、Png ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は PNG ファイル形式の処理を行います。
 
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [PngColorType](./pngcolortype/) | PNG 画像の色の種類を表します。 |
-| [PngFilterType](./pngfiltertype/) | png フィルターの種類. |
+| [PngColorType](./pngcolortype/) | PNG 画像のカラ―タイプを表します。 |
+| [PngFilterType](./pngfiltertype/) | PNG フィルタタイプ。 |
 
 

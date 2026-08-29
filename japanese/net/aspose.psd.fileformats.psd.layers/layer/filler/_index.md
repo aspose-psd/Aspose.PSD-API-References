@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤー フィラーを取得または設定します
+title: "Layer.Filler"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤーのフィラーを取得または設定します"
 type: docs
-weight: 120
+weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-レイヤー フィラーを取得または設定します。
+レイヤーのフィラーを取得または設定します。
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーフィラー.
+レイヤーのフィラーです。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

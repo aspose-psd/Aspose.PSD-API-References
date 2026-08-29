@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Aspose.PSD for .NET API リファレンス
-description: Font 財産. この全角サイズを取得しますFontで指定された単位で測定されますUnitプロパティ.
+title: "Font.Size"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Font プロパティ。 このフォントの em サイズを Unit プロパティで指定された単位で取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-この全角サイズを取得します[`Font`](../)で指定された単位で測定されます。[`Unit`](../unit/)プロパティ.
+この [`Font`](../) の em サイズを [`Unit`](../unit/) プロパティで指定された単位で取得します。
 
 ```csharp
 public float Size { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これの em サイズ[`Font`](../).
+この [`Font`](../) の em サイズです。
 
 ### 関連項目
 
 * class [Font](../)
-* 名前空間 [Aspose.PSD](../../font/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

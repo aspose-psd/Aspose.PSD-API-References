@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Extensions.GraphicsPathExtensions クラス. が含まれていますGraphicsPath拡張メソッド.
+title: "クラス GraphicsPathExtensions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Extensions.GraphicsPathExtensions クラス。GraphicsPath の拡張メソッドを含みます"
 type: docs
-weight: 1100
+weight: 1110
 url: /ja/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-が含まれています[`GraphicsPath`](../../aspose.psd/graphicspath/)拡張メソッド.
+[`GraphicsPath`](../../aspose.psd/graphicspath/) の拡張メソッドを含みます。
 
 ```csharp
 public static class GraphicsPathExtensions
@@ -18,11 +19,11 @@ public static class GraphicsPathExtensions
 
 | 名前 | 説明 |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | は[`GraphicsPath`](../../aspose.psd/graphicspath/)にGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | [`GraphicsPath`](../../aspose.psd/graphicspath/) を GraphicsPath に変換します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

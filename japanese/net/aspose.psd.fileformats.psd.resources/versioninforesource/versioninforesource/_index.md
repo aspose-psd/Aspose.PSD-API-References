@@ -1,14 +1,15 @@
 ---
-title: VersionInfoResource.VersionInfoResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: VersionInfoResource コンストラクタ. デフォルトのコンストラクター
+title: "VersionInfoResource.VersionInfoResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VersionInfoResource コンストラクタ。デフォルトコンストラクタです"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/versioninforesource/versioninforesource/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public VersionInfoResource()
@@ -17,7 +18,7 @@ public VersionInfoResource()
 ### 関連項目
 
 * class [VersionInfoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

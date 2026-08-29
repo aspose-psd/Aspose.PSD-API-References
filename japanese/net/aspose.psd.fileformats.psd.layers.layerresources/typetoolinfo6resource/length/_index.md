@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfo6Resource.Length
-second_title: Aspose.PSD for .NET API リファレンス
-description: TypeToolInfo6Resource 財産. 層リソースの長さをバイト単位で取得します
+title: "TypeToolInfo6Resource.Length"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TypeToolInfo6Resource プロパティ。レイヤーリソースの長さ（バイト単位）を取得します"
 type: docs
-weight: 90
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/length/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Length property
 
-層リソースの長さをバイト単位で取得します。
+レイヤーリソースの長さ（バイト単位）を取得します。
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### 関連項目
 
 * class [TypeToolInfo6Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

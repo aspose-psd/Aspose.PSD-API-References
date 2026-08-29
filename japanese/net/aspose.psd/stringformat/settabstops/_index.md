@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD for .NET API リファレンス
-description: StringFormat 方法. これにタブストップを設定しますStringFormatobject.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "StringFormat メソッド。この StringFormat オブジェクトのタブ位置を設定します。"
 type: docs
-weight: 140
+weight: 170
 url: /ja/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-これにタブストップを設定します[`StringFormat`](../)object.
+この [`StringFormat`](../) オブジェクトのタブ位置を設定します。
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| firstTabOffset | Single | テキスト行の先頭と最初のタブ ストップの間のスペースの数。 |
-| tabStops | Single[] | によって指定された単位でのタブストップ間の距離の配列[`PageUnit`](../../graphics/pageunit/)財産。 |
+| firstTabOffset | シングル | テキスト行の先頭と最初のタブ位置との間のスペース数。 |
+| tabStops | Single[] | タブ位置間の距離を、[`PageUnit`](../../graphics/pageunit/) プロパティで指定された単位で表した配列。 |
 
 ### 関連項目
 
 * class [StringFormat](../)
-* 名前空間 [Aspose.PSD](../../stringformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

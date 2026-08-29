@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.InitPages
-second_title: Aspose.PSD for .NET API リファレンス
-description: MultiPageOptions 方法. 範囲からページを初期化します array
+title: "MultiPageOptions.InitPages"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "MultiPageOptions メソッド。範囲配列からページを初期化します"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd.imageoptions/multipageoptions/initpages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.InitPages method
 
-範囲からページを初期化します array
+範囲配列からページを初期化します。
 
 ```csharp
 public void InitPages(IntRange[] ranges)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| ranges | IntRange[] | 範囲。 |
+| 範囲 | IntRange[] | 範囲です。 |
 
 ### 関連項目
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.StructureKeyGlbc
-second_title: Aspose.PSD for .NET API リファレンス
-description: ClassStructure 分野. 構造キーを識別します
+title: "ClassStructure.StructureKeyGlbc"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ClassStructure フィールド。構造キーを識別します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/structurekeyglbc/
 ---
+{{< psd/tize >}}
 ## ClassStructure.StructureKeyGlbc field
 
 構造キーを識別します。
@@ -17,7 +18,7 @@ public const int StructureKeyGlbc;
 ### 関連項目
 
 * class [ClassStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

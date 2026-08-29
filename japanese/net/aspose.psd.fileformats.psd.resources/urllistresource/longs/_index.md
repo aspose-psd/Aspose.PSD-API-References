@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Longs
-second_title: Aspose.PSD for .NET API リファレンス
-description: UrlListResource 財産. long を取得または設定します
+title: "UrlListResource.Longs"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UrlListResource プロパティ。longs を取得または設定します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Longs property
 
-long を取得または設定します。
+長整数を取得または設定します。
 
 ```csharp
 public int[] Longs { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ロング.
+longs。
 
 ### 関連項目
 
 * class [UrlListResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

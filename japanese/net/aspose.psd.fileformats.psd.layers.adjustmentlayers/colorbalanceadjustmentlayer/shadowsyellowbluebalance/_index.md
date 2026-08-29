@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBalanceAdjustmentLayer 財産. シャドウのイエローブルー バランスを取得または設定します
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBalanceAdjustmentLayer プロパティ。Shadows YellowBlue バランスを取得または設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
-シャドウのイエローブルー バランスを取得または設定します。
+Shadows YellowBlue Balance の値を取得または設定します。
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-The Shadows Yellow Blue Balance.
+Shadows Yellow Blue バランスです。
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 影 黄 青 バランスは -100 から +100 の範囲内でなければなりません. |
+| ArgumentOutOfRangeException | Shadows Yellow Blue バランスは -100 から +100 の範囲でなければなりません。 |
 
-### 例
+## 例
 
-次のコードは、ColorBalanceAdjustmentLayer のサポートを示しています。
+以下のコードは ColorBalanceAdjustmentLayer のサポートを示しています。
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### 関連項目
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

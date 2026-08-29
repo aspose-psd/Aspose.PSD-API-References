@@ -1,14 +1,15 @@
 ---
-title: KnkoResource.TypeToolKey
-second_title: Aspose.PSD for .NET API リファレンス
-description: KnkoResource 分野. タイプ ツール情報キー
+title: "KnkoResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "KnkoResource フィールド。タイプ ツール情報キーです"
 type: docs
-weight: 40
+weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## KnkoResource.TypeToolKey field
 
-タイプ ツール情報キー。
+タイプツール情報キーです。
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### 関連項目
 
 * class [KnkoResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

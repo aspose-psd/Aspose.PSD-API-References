@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpBasicPackage 方法. 識別子を設定します
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpBasicPackage メソッド。識別子を設定します"
 type: docs
-weight: 50
+weight: 70
 url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
 識別子を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 public void SetIdentifier(string[] idenfifier)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| idenfifier | String[] | 識別子。 |
+| idenfifier | String[] | 識別子です。 |
 
 ### 関連項目
 
 * class [XmpBasicPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

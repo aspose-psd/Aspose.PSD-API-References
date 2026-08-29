@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーが印刷されるかどうかを示す値を取得または設定します true の場合レイヤーに含まれるアートワークを印刷可能にします
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。このレイヤーが印刷されるかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるアートワークを印刷可能にします"
 type: docs
-weight: 80
+weight: 100
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-このレイヤーが印刷されるかどうかを示す値を取得または設定します。 true の場合、レイヤーに含まれるアートワークを印刷可能にします。
+このレイヤーが印刷されるかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるアートワークを印刷可能にします。
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーが印刷されている場合。さもないと、`間違い` .
+`true` このレイヤーが印刷されている場合; それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

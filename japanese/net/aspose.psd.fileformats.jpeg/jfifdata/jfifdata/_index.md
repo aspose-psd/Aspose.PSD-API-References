@@ -1,14 +1,15 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD for .NET API リファレンス
-description: JFIFData コンストラクタ. の新しいインスタンスを初期化しますJFIFDataclass.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "JFIFData コンストラクタ。JFIFData クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-の新しいインスタンスを初期化します[`JFIFData`](../)class.
+`[`JFIFData`](../)` クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public JFIFData()
@@ -17,7 +18,7 @@ public JFIFData()
 ### 関連項目
 
 * class [JFIFData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

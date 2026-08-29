@@ -1,26 +1,27 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBalanceAdjustmentLayer 財産. これがBlncResource光度を保持します.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBalanceAdjustmentLayer プロパティ。この BlncResource が輝度を保持するかどうかを示す値を取得または設定します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-これが[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/)光度を保持します.
+この [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) が輝度を保持するかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`光度を維持する場合。さもないと、`間違い` .
+`true` は輝度を保持する場合です。そうでなければ `false` です。
 
-### 例
+## 例
 
-次のコードは、ColorBalanceAdjustmentLayer のサポートを示しています。
+以下のコードは ColorBalanceAdjustmentLayer のサポートを示しています。
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### 関連項目
 
 * class [ColorBalanceAdjustmentLayer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

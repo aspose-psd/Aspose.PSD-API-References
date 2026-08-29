@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.DataSize
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerStateInformationResource 財産. リソース データ サイズをバイト単位で取得します
+title: "LayerStateInformationResource.DataSize"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerStateInformationResource プロパティ。リソース データ サイズ（バイト単位）を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.DataSize property
 
-リソース データ サイズをバイト単位で取得します。
+リソースデータのサイズ（バイト）を取得します。
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-リソースのデータサイズ.
+リソースデータサイズです。
 
 ### 関連項目
 
 * class [LayerStateInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

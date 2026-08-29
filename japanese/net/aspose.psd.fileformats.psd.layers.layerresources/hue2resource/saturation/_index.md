@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD for .NET API リファレンス
-description: Hue2Resource 財産. マスター彩度を取得または設定します
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Hue2Resource プロパティ。マスター彩度を取得または設定します"
 type: docs
-weight: 90
+weight: 70
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-マスター彩度を取得または設定します。
+マスターサチュレーションを取得または設定します。
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-マスター彩度.
+マスター彩度です。
 
 ### 関連項目
 
 * class [Hue2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

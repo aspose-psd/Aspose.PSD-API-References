@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを更新しますRegionそれ自体と指定されたものの結合にRectangleF構造体.
+title: "Region.Union"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。 この Region を自身と指定された RectangleF 構造体の合成に更新します"
 type: docs
-weight: 140
+weight: 150
 url: /ja/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-これを更新します[`Region`](../)それ自体と指定されたものの結合に[`RectangleF`](../../rectanglef/)構造体.
+この [`Region`](../) を自身と指定された [`RectangleF`](../../rectanglef/) 構造体の合成に更新します。
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | RectangleF | の[`RectangleF`](../../rectanglef/)これと一体化する構造[`Region`](../). |
+| rect | RectangleF | この [`Region`](../) と結合するための [`RectangleF`](../../rectanglef/) 構造体。 |
 
 ### 関連項目
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-これを更新します[`Region`](../)それ自体と指定されたものの結合に[`Rectangle`](../../rectangle/)構造体.
+この [`Region`](../) を自身と指定された [`Rectangle`](../../rectangle/) 構造体の合成に更新します。
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| rect | Rectangle | の[`Rectangle`](../../rectangle/)これと一体化する構造[`Region`](../). |
+| rect | Rectangle | この [`Region`](../) と結合するための [`Rectangle`](../../rectangle/) 構造体。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-これを更新します[`Region`](../)それ自体と指定されたものの結合に[`GraphicsPath`](../../graphicspath/) .
+この [`Region`](../) を自身と指定された [`GraphicsPath`](../../graphicspath/) の合成に更新します。
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| path | GraphicsPath | の[`GraphicsPath`](../../graphicspath/)これと合体する[`Region`](../). |
+| path | GraphicsPath | この [`Region`](../) と結合するための [`GraphicsPath`](../../graphicspath/)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*無効である。 |
+| ArgumentNullException | *path* は null です。 |
 
 ### 関連項目
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-これを更新します[`Region`](../)それ自体と指定されたものの結合に[`Region`](../) .
+この [`Region`](../) を自身と指定された [`Region`](../) の合成に更新します。
 
 ```csharp
 public void Union(Region region)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| region | Region | の[`Region`](../)これと合体する[`Region`](../). |
+| region | Region | この [`Region`](../) と結合するための [`Region`](../)。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*無効である。 |
+| ArgumentNullException | *region* は null です。 |
 
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

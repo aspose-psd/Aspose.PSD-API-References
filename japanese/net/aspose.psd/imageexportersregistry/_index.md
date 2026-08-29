@@ -1,14 +1,15 @@
 ---
-title: Class ImageExportersRegistry
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.ImageExportersRegistry クラス. イメージ エクスポータ レジストリを表します
+title: "クラス ImageExportersRegistry"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.ImageExportersRegistry クラス。画像エクスポーターのレジストリを表します。"
 type: docs
-weight: 4630
+weight: 5100
 url: /ja/net/aspose.psd/imageexportersregistry/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry class
 
-イメージ エクスポータ レジストリを表します。
+画像エクスポーター レジストリを表します。
 
 ```csharp
 public static class ImageExportersRegistry
@@ -18,22 +19,22 @@ public static class ImageExportersRegistry
 
 | 名前 | 説明 |
 | --- | --- |
-| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | 登録済みのエクスポーター記述子を取得します。 |
-| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | 登録されているエクスポート形式を取得します。 |
+| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | 登録されたエクスポーター記述子を取得します。 |
+| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | 登録されたエクスポート形式を取得します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | 指定された保存オプションとイメージに適した最初に見つかったエクスポーターを作成します。 |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | 指定された保存オプションとイメージに適した最初に見つかったサポートされている記述子を取得します。 |
-| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | 指定されたイメージ エクスポーター記述子を登録します。 |
+| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | 指定された保存オプションと画像に適した最初に見つかったエクスポーターを作成します。 |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | 指定された保存オプションと画像に適した最初に見つかったサポートされている記述子を取得します。 |
+| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | 指定された画像エクスポーター記述子を登録します。 |
 | static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | エクスポーターを登録します。 |
-| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | エクスポーターを登録解除します。 |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | エクスポーターの登録を解除します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.JpegOptions
-second_title: Aspose.PSD for .NET API リファレンス
-description: ThumbnailResource 財産. JPEG オプションを取得または設定しますサムネイル リソースが JPEG ファイル形式のみで保存される場合に適していますこのオプションはRAW 形式が定義されている場合は効果がありません
+title: "ThumbnailResource.JpegOptions"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ThumbnailResource プロパティ。JPEG オプションを取得または設定します。サムネイルリソースが JPEG ファイル形式でのみ保存される場合に適しています。このオプションは RAW 形式が定義されている場合には効果がありません"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.JpegOptions property
 
-JPEG オプションを取得または設定します。サムネイル リソースが JPEG ファイル形式のみで保存される場合に適しています。このオプションは、RAW 形式が定義されている場合は効果がありません。
+JPEG オプションを取得または設定します。サムネイルリソースが JPEG ファイル形式でのみ保存される場合に適しています。このオプションは RAW 形式が定義されている場合は効果がありません。
 
 ```csharp
 public JpegOptions JpegOptions { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-JPEG オプション。
+JPEG オプションです。
 
 ### 関連項目
 
 * class [JpegOptions](../../../aspose.psd.imageoptions/jpegoptions/)
 * class [ThumbnailResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

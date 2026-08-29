@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericList 方法. に項目を追加しますIList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericList メソッド。IList に項目を追加します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-に項目を追加しますIList .
+IList に項目を追加します。
 
 ```csharp
 public int Add(object value)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| value | Object | のObjectに追加するIList. |
+| 値 | Object | IList に追加するオブジェクト。 |
 
 ### 戻り値
 
-新しい要素が挿入された位置.
+新しい要素が挿入された位置。
 
 ### 関連項目
 
 * class [NonGenericList](../)
-* 名前空間 [Aspose.PSD](../../nongenericlist/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

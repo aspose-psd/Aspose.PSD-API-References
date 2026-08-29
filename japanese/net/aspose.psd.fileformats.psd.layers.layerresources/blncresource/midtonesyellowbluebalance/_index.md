@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesYellowBlueBalance
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlncResource 財産. ミッドトーン イエロー ブルー バランスを取得または設定します
+title: "BlncResource.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlncResource プロパティ。ミッドトーンの黄青バランスを取得または設定します"
 type: docs
-weight: 90
+weight: 80
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesYellowBlueBalance property
 
-ミッドトーン イエロー ブルー バランスを取得または設定します。
+Midtones Yellow Blue Balance の値を取得または設定します。
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ミッドトーンイエローブルーバランス。
+Midtones Yellow Blue Balanceです。
 
 ### 関連項目
 
 * class [BlncResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

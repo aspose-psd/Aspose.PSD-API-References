@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.BlueMask
-second_title: Aspose.PSD for .NET API リファレンス
-description: GlobalLayerMaskInfo 財産. 青いマスクを取得または設定します
+title: "GlobalLayerMaskInfo.BlueMask"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "GlobalLayerMaskInfo プロパティ。青マスクを取得または設定します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/bluemask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.BlueMask property
 
-青いマスクを取得または設定します。
+ブルーマスクを取得または設定します。
 
 ```csharp
 public short BlueMask { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-青いマスク.
+青いマスク。
 
 ### 関連項目
 
 * class [GlobalLayerMaskInfo](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

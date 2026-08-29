@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorBlend コンストラクタ. の新しいインスタンスを初期化しますColorBlendclass.
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorBlend コンストラクタ。ColorBlend クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-の新しいインスタンスを初期化します[`ColorBlend`](../)class.
+[`ColorBlend`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public ColorBlend()
@@ -17,27 +18,27 @@ public ColorBlend()
 ### 関連項目
 
 * class [ColorBlend](../)
-* 名前空間 [Aspose.PSD](../../colorblend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-の新しいインスタンスを初期化します[`ColorBlend`](../)指定された数の色と位置を持つクラス.
+[`ColorBlend`](../) クラスの新しいインスタンスを、指定された色数と位置数で初期化します。
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| count | Int32 | この中の色と位置の数[`ColorBlend`](../). |
+| count | Int32 | この [`ColorBlend`](../) の色数と位置数。 |
 
 ### 関連項目
 
 * class [ColorBlend](../)
-* 名前空間 [Aspose.PSD](../../colorblend/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

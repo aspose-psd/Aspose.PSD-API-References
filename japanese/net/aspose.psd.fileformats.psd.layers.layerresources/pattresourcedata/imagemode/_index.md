@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.ImageMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResourceData 財産. 画像モードを取得します
+title: "PattResourceData.ImageMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResourceData プロパティ。画像モードを取得します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/
 ---
+{{< psd/tize >}}
 ## PattResourceData.ImageMode property
 
 画像モードを取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/i
 public ColorModes ImageMode { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-画像モード。
+画像モードです。
 
 ### 関連項目
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PattResourceData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

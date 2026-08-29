@@ -1,11 +1,12 @@
 ---
-title: Layer.Name
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤー名を取得または設定します
+title: "Layer.Name"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤー名を取得または設定します"
 type: docs
-weight: 260
+weight: 270
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
 レイヤー名を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers/layer/name/
 public string Name { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤー名.
+レイヤー名です。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

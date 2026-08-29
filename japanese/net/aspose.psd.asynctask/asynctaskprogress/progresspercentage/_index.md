@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskProgress.ProgressPercentage
-second_title: Aspose.PSD for .NET API リファレンス
-description: AsyncTaskProgress 分野. 非同期タスクの進行状況 パーセント.
+title: "AsyncTaskProgress.ProgressPercentage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AsyncTaskProgress フィールド。非同期タスクの進捗率（パーセント）です"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.asynctask/asynctaskprogress/progresspercentage/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.ProgressPercentage field
 
-非同期タスクの進行状況 (パーセント).
+非同期タスクの進捗率（パーセント）です。
 
 ```csharp
 public readonly int ProgressPercentage;
@@ -17,7 +18,7 @@ public readonly int ProgressPercentage;
 ### 関連項目
 
 * class [AsyncTaskProgress](../)
-* 名前空間 [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

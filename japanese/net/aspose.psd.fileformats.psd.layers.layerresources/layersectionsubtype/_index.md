@@ -1,14 +1,15 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype 列挙. セクション subtype
+title: "列挙型 LayerSectionSubtype"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype 列挙型。セクションサブタイプ"
 type: docs
-weight: 2600
+weight: 2910
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
-セクション subtype
+セクションサブタイプ
 
 ```csharp
 public enum LayerSectionSubtype
@@ -16,15 +17,15 @@ public enum LayerSectionSubtype
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| NotUsed | `-1` | 未使用 |
-| Normal | `0` | 通常の |
-| SceneGroup | `1` | シーン グループ |
+| NotUsed | `-1` | 使用されていません |
+| Normal | `0` | 通常 |
+| SceneGroup | `1` | シーングループ |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

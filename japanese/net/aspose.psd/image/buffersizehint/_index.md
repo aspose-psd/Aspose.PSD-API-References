@@ -1,27 +1,28 @@
 ---
-title: Image.BufferSizeHint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 財産. すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します
+title: "Image.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image プロパティ。内部バッファ全体の最大許容サイズとして定義されたバッファサイズヒントを取得または設定します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/image/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Image.BufferSizeHint property
 
-すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します。
+すべての内部バッファに対して定義された最大許容サイズであるバッファサイズヒントを取得または設定します。
 
 ```csharp
 public int BufferSizeHint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-メガバイト単位のバッファ サイズのヒント。 正でない値は、内部バッファのメモリ制限がないことを意味します
+バッファサイズヒント（メガバイト単位）。0 以下の値は内部バッファに対するメモリ制限がないことを意味します。
 
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

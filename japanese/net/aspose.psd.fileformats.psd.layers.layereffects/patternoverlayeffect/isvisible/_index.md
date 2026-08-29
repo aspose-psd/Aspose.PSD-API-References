@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.IsVisible
-second_title: Aspose.PSD for .NET API リファレンス
-description: PatternOverlayEffect 財産. このインスタンスが表示されるかどうかを示す値を取得または設定します.
+title: "PatternOverlayEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PatternOverlayEffect プロパティ。このインスタンスが表示されているかどうかを示す値を取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.IsVisible property
 
-このインスタンスが表示されるかどうかを示す値を取得または設定します.
+このインスタンスが表示されているかどうかを示す値を取得または設定します。
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスが表示されている場合。さもないと、`間違い` .
+このインスタンスが表示されている場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [PatternOverlayEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

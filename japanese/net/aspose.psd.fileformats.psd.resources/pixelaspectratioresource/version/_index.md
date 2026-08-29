@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.Version
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelAspectRatioResource 財産. バージョンを取得または設定します
+title: "PixelAspectRatioResource.Version"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelAspectRatioResource プロパティ。バージョンを取得または設定します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/version/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.Version property
 
 バージョンを取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/versi
 public int Version { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-バージョン.
+バージョンです。
 
 ### 関連項目
 
 * class [PixelAspectRatioResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: IOSTypeStructureLoader.CanLoad
-second_title: Aspose.PSD for .NET API リファレンス
-description: IOSTypeStructureLoader 方法. かどうかを決定しますOSTypeStructureリソースは指定された場所からロードできますStreamContainer .
+title: "IOSTypeStructureLoader.CanLoad"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IOSTypeStructureLoader メソッド。指定された StreamContainer から OSTypeStructure リソースをロードできるかどうかを判断します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.CanLoad method
 
-かどうかを決定します[`OSTypeStructure`](../../ostypestructure/)リソースは指定された場所からロードできます[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+`[`OSTypeStructure`](../../ostypestructure/)` リソースが指定された [`StreamContainer`](../../../aspose.psd/streamcontainer/) からロードできるかどうかを判断します。
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| streamContainer | StreamContainer | ストリーム コンテナー。 |
+| streamContainer | StreamContainer | ストリームコンテナ。 |
 
 ### 戻り値
 
-`真実`もしも[`OSTypeStructure`](../../ostypestructure/)リソースは指定された場所からロードできます[`StreamContainer`](../../../aspose.psd/streamcontainer/);さもないと、`間違い` .
+`true` は、指定された [`OSTypeStructure`](../../ostypestructure/) リソースを、[`StreamContainer`](../../../aspose.psd/streamcontainer/) からロードできる場合です。そうでない場合は `false` です。
 
 ### 関連項目
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Aspose.PSD for .NET API リファレンス
-description: Txt2Resource 方法. テキスト レコードをリソースに追加しテキスト レコードの ID を返します
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Txt2Resource メソッド。テキストレコードをリソースに追加し、テキストレコードの ID を返します"
 type: docs
-weight: 70
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-テキスト レコードをリソースに追加し、テキスト レコードの ID を返します。
+テキストレコードをリソースに追加し、テキストレコードの ID を返します。
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| text | String | レコードのテキスト。 |
-| bounds | RectangleF | 境界。 |
+| text | 文字列 | レコードテキストです。 |
+| bounds | RectangleF | 境界です。 |
 
 ### 戻り値
 
-resource のテキスト レコードの ID を返します
+リソースのテキストレコードのIDを返します
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Txt2 リソースのバージョンが不明です。 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 不明な Txt2 リソース バージョンです。 |
 
-### 例
+## 例
 
-次のコードは、新しい ITextStyle プロパティのサポートのサポートを示しています。
+次のコードは、新しい ITextStyle プロパティのサポートを示します。
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// 値をチェック
+// 値を確認する
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -87,7 +88,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

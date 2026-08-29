@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD for .NET API リファレンス
-description: AiLayerSection 財産. このレイヤーが表示されているかどうかを示す値を取得または設定します true の場合レイヤーに含まれるすべてのアートワークをアートボードに表示します
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "AiLayerSection プロパティ。このレイヤーが表示されているかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるすべてのアートワークをアートボードに表示します"
 type: docs
-weight: 90
+weight: 110
 url: /ja/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-このレイヤーが表示されているかどうかを示す値を取得または設定します。 true の場合、レイヤーに含まれるすべてのアートワークをアートボードに表示します。
+このレイヤーが表示されるかどうかを示す値を取得または設定します。true の場合、レイヤーに含まれるすべてのアートワークをアートボードに表示します。
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このレイヤーが表示されている場合。さもないと、`間違い` .
+`true` このレイヤーが表示されている場合; それ以外は `false`。
 
-### 例
+## 例
 
-次の例は、AI 形式ファイルでのレイヤーのサポートを示しています。
+次の例は AI フォーマットファイルでのレイヤーのサポートを示しています。
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [AiLayerSection](../)
-* 名前空間 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

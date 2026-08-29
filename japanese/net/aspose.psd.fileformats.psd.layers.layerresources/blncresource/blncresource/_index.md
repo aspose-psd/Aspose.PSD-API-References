@@ -1,14 +1,15 @@
 ---
-title: BlncResource.BlncResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlncResource コンストラクタ. の新しいインスタンスを初期化しますBlncResourceclass.
+title: "BlncResource.BlncResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlncResource コンストラクタ。BlncResource クラスの新しいインスタンスを初期化します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource constructor
 
-の新しいインスタンスを初期化します[`BlncResource`](../)class.
+[`BlncResource`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public BlncResource()
@@ -17,7 +18,7 @@ public BlncResource()
 ### 関連項目
 
 * class [BlncResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

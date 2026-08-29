@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddStroke
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 方法. ストローク効果を追加します
+title: "BlendingOptions.AddStroke"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions メソッド。ストローク効果を追加します"
 type: docs
-weight: 80
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddStroke method
 
 ストローク効果を追加します。
@@ -14,17 +15,17 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adds
 public StrokeEffect AddStroke(FillType fillType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| fillType | FillType | ストロークを塗りつぶす塗りつぶしのタイプ。 |
+| fillType | FillType | ストロークを塗りつぶすための塗りの種類です。 |
 
 ### 戻り値
 
-作成済み[`StrokeEffect`](../../strokeeffect/)object.
+作成された [`StrokeEffect`](../../strokeeffect/) オブジェクト。
 
-### 例
+## 例
 
-この例では、色、グラデーション、パターンなどのさまざまな種類の塗りつぶしでストローク効果を追加する機能を示しています。
+この例は、Color、Gradient、Pattern などの異なる塗りタイプでストローク効果を追加できることを示しています。
 
 ```csharp
 [C#]
@@ -36,28 +37,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. 内側の位置に塗りつぶしを追加します
+    // 1. Color 塗りを追加、位置は Inside
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. 外側の位置に塗りつぶしを追加します
+    // 2. Color 塗りを追加、位置は Outside
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. 中央の位置に塗りつぶしを追加します
+    // 3. Color 塗りを追加、位置は Center
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. 内側の位置にグラデーション塗りつぶしを追加します
+    // 4. Gradient 塗りを追加、位置は Inside
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. 外側の位置にグラデーション塗りつぶしを追加します
+    // 5. Gradient 塗りを追加、位置は Outside
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. 中央の位置にグラデーション塗りつぶしを追加します
+    // 6. Gradient 塗りを追加、位置は Center
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -81,21 +82,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. 内側の位置にパターン塗りつぶしを追加します
+    // 7. Pattern 塗りを追加、位置は Inside
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. 外側の位置にパターン塗りつぶしを追加します
+    // 8. Pattern 塗りを追加、位置は Outside
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. 中央の位置にパターン塗りつぶしを追加します
+    // 9. Pattern 塗りを追加、位置は Center
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -111,7 +112,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 * class [StrokeEffect](../../strokeeffect/)
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

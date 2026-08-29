@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.HeaderPi
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 財産. ヘッダー処理命令を取得します
+title: "XmpPacketWrapper.HeaderPi"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper プロパティ。 ヘッダー処理指示を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/headerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.HeaderPi property
 
-ヘッダー処理命令を取得します。
+ヘッダー処理指示を取得します。
 
 ```csharp
 public XmpHeaderPi HeaderPi { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-ヘッダー処理命令.
+ヘッダー処理指示です。
 
 ### 関連項目
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

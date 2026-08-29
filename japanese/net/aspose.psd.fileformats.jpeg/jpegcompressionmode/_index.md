@@ -1,14 +1,15 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode 列挙. jpeg 画像の圧縮モード
+title: "列挙型 JpegCompressionMode"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode 列挙型。JPEG 画像の圧縮モードです。"
 type: docs
-weight: 1500
+weight: 1510
 url: /ja/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
-jpeg 画像の圧縮モード。
+jpeg 画像の圧縮モードです。
 
 ```csharp
 public enum JpegCompressionMode
@@ -16,16 +17,16 @@ public enum JpegCompressionMode
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Baseline | `0` | ベースラインの圧縮。 |
-| Progressive | `1` | プログレッシブ圧縮。 |
-| Lossless | `2` | 可逆圧縮。 |
-| JpegLs | `3` | JPEG-LS 圧縮。 |
+| Baseline | `0` | ベースライン圧縮です。 |
+| Progressive | `1` | プログレッシブ圧縮です。 |
+| Lossless | `2` | ロスレス圧縮です。 |
+| JpegLs | `3` | JPEG-LS 圧縮です。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

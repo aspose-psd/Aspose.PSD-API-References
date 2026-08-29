@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Aspose.PSD for .NET API リファレンス
-description: ImageCreatorsRegistry 方法. 作成者を登録解除します
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ImageCreatorsRegistry メソッド。クリエイターの登録を解除します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
-作成者を登録解除します。
+クリエイターの登録を解除します。
 
 ```csharp
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| creatorDescriptor | IImageCreatorDescriptor | 作成者記述子。 |
+| creatorDescriptor | IImageCreatorDescriptor | クリエイターディスクリプタです。 |
 
 ### 関連項目
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* 名前空間 [Aspose.PSD](../../imagecreatorsregistry/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

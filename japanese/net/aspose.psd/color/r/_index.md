@@ -1,27 +1,28 @@
 ---
-title: Color.R
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 財産. この赤成分値を取得しますColor構造体.
+title: "Color.R"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color プロパティ。 この Color 構造体の赤成分の値を取得します"
 type: docs
 weight: 1530
 url: /ja/net/aspose.psd/color/r/
 ---
+{{< psd/tize >}}
 ## Color.R property
 
-この赤成分値を取得します[`Color`](../)構造体.
+この [`Color`](../) 構造体の赤成分の値を取得します。
 
 ```csharp
 public byte R { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-これの赤成分値[`Color`](../).
+この [`Color`](../) の赤成分の値。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

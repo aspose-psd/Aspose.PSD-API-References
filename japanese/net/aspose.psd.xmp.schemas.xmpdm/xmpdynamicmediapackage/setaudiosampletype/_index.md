@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleType
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpDynamicMediaPackage 方法. オーディオ サンプル タイプを設定します
+title: "XmpDynamicMediaPackage.SetAudioSampleType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpDynamicMediaPackage メソッド。オーディオ サンプルタイプを設定します"
 type: docs
 weight: 100
 url: /ja/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleType method
 
-オーディオ サンプル タイプを設定します。
+オーディオサンプルタイプを設定します。
 
 ```csharp
 public void SetAudioSampleType(AudioSampleType audioSampleType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| audioSampleType | AudioSampleType | オーディオ サンプルの種類。 |
+| audioSampleType | AudioSampleType | オーディオ サンプルタイプです。 |
 
 ### 関連項目
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

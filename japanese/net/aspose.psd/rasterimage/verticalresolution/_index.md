@@ -1,31 +1,32 @@
 ---
-title: RasterImage.VerticalResolution
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 財産. この解像度の垂直方向の解像度 1 インチあたりのピクセル数 を取得または設定しますRasterImage .
+title: "RasterImage.VerticalResolution"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage プロパティ。この RasterImage の垂直解像度（ピクセル/インチ）を取得または設定します。"
 type: docs
 weight: 160
 url: /ja/net/aspose.psd/rasterimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.VerticalResolution property
 
-この解像度の垂直方向の解像度 (1 インチあたりのピクセル数) を取得または設定します[`RasterImage`](../) .
+この [`RasterImage`](../) の垂直解像度（ピクセル/インチ）を取得または設定します。
 
 ```csharp
 public virtual double VerticalResolution { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-垂直解像度。
+垂直解像度です。
 
-### 備考
+## 備考
 
-異なるプラットフォームでは画面解像度を返すことができないため、デフォルトではこの値は常に 96 です。 1 回の呼び出しで両方の解像度値を更新するには、SetResolution メソッドの使用を検討してください。
+注: デフォルトではこの値は常に 96 です。異なるプラットフォームでは画面解像度を取得できないためです。両方の解像度値を一度の呼び出しで更新するには SetResolution メソッドの使用を検討してください。
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 方法. XMP パッケージを削除します
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper メソッド。 XMP パッケージを削除します"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
 XMP パッケージを削除します。
@@ -14,15 +15,15 @@ XMP パッケージを削除します。
 public void RemovePackage(XmpPackage package)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| package | XmpPackage | その包み。 |
+| パッケージ | XmpPackage | パッケージです。 |
 
 ### 関連項目
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

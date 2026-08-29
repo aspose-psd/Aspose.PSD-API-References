@@ -1,11 +1,12 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.OpenTypeFontsCache クラス. システムにインストールされている OpenType フォントのキャッシュ
+title: "クラス OpenTypeFontsCache"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.OpenTypeFontsCache クラス。システムにインストールされている OpenType フォントのキャッシュです。"
 type: docs
-weight: 5170
+weight: 5660
 url: /ja/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
 システムにインストールされている OpenType フォントのキャッシュ。
@@ -22,7 +23,7 @@ public static class OpenTypeFontsCache
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD](../../aspose.psd/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

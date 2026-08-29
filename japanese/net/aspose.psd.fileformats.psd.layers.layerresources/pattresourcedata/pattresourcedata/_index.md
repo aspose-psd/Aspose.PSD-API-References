@@ -1,14 +1,15 @@
 ---
-title: PattResourceData.PattResourceData
-second_title: Aspose.PSD for .NET API リファレンス
-description: PattResourceData コンストラクタ. デフォルトのコンストラクター
+title: "PattResourceData.PattResourceData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PattResourceData コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public PattResourceData()
@@ -17,7 +18,7 @@ public PattResourceData()
 ### 関連項目
 
 * class [PattResourceData](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

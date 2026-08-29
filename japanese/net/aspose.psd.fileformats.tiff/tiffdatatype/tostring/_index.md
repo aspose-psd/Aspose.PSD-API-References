@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.ToString
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffDataType 方法. を返しますStringこのインスタンスを表す.
+title: "TiffDataType.ToString"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffDataType メソッド。このインスタンスを表す文字列を返します"
 type: docs
 weight: 120
 url: /ja/net/aspose.psd.fileformats.tiff/tiffdatatype/tostring/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ToString method
 
-を返しますStringこのインスタンスを表す.
+このインスタンスを表すStringを返します。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 戻り値
 
-AStringこのインスタンスを表す.
+このインスタンスを表す文字列です。
 
 ### 関連項目
 
 * class [TiffDataType](../)
-* 名前空間 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

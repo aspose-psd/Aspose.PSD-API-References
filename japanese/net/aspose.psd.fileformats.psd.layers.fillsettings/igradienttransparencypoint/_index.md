@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientTransparencyPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint インターフェース. 塗りつぶし設定のベース インターフェイス
+title: "インターフェイス IGradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientTransparencyPoint インターフェイス。塗り設定の基本インターフェイス"
 type: docs
-weight: 2020
+weight: 2140
 url: /ja/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint interface
 
-塗りつぶし設定のベース インターフェイス
+塗り設定の基本インターフェイス
 
 ```csharp
 public interface IGradientTransparencyPoint
@@ -18,13 +19,13 @@ public interface IGradientTransparencyPoint
 
 | 名前 | 説明 |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | 場所を取得または設定します。 |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | 中点の位置を取得または設定します。 |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/) { get; set; } | 位置を取得または設定します。値の範囲は 0〜4096 です。 |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/) { get; set; } | 中央値の位置を取得または設定します。値の範囲は 0〜4096 です。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/) { get; set; } | 不透明度を取得または設定します。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

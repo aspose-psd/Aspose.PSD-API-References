@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.Transform
-second_title: Aspose.PSD for .NET API リファレンス
-description: TransformBrush 財産. コピーを取得または設定しますMatrixこのための局所的な幾何学的変換を定義するTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TransformBrush プロパティ。コピーされた Matrix を取得または設定し、この TransformBrush に対してローカルな幾何変換を定義します。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-コピーを取得または設定します[`Matrix`](../../../aspose.psd/matrix/)このための局所的な幾何学的変換を定義する[`TransformBrush`](../) .
+コピーされた [`Matrix`](../../../aspose.psd/matrix/) を取得または設定し、この [`TransformBrush`](../) に対してローカルな幾何変換を定義します。
 
 ```csharp
 public Matrix Transform { get; set; }
@@ -16,13 +17,13 @@ public Matrix Transform { get; set; }
 
 ### 戻り値
 
-のコピー[`Matrix`](../../../aspose.psd/matrix/)これで描画された塗りつぶしにのみ適用される幾何学的変換を定義します[`TransformBrush`](../).
+この [`TransformBrush`](../) で描画された塗りにのみ適用される幾何変換を定義する [`Matrix`](../../../aspose.psd/matrix/) のコピーです。
 
 ### 関連項目
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* 名前空間 [Aspose.PSD.Brushes](../../transformbrush/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

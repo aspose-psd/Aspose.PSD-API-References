@@ -1,48 +1,49 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Aspose.PSD for .NET API リファレンス
-description: DublinCorePackage 方法. ダブリン コアのタイトルを追加します
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "DublinCorePackage メソッド。Dublin Core タイトルを追加します"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
-ダブリン コアのタイトルを追加します。
+Dublin Core タイトルを追加します。
 
 ```csharp
 public void SetTitle(string title)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| title | String | タイトル。 |
+| タイトル | 文字列 | タイトル。 |
 
 ### 関連項目
 
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetTitle(LangAlt) {#settitle}
 
-さまざまな言語のダブリン コア タイトルを追加します。
+異なる言語の Dublin Core タイトルを追加します。
 
 ```csharp
 public void SetTitle(LangAlt title)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| title | LangAlt | のインスタンス[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | [`LangAlt`](../../../aspose.psd.xmp/langalt/) のインスタンスです。 |
 
 ### 関連項目
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

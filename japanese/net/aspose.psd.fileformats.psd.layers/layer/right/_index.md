@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. 正しいレイヤー位置を取得または設定します
+title: "Layer.Right"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。右側レイヤーの位置を取得または設定します"
 type: docs
-weight: 290
+weight: 300
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-正しいレイヤー位置を取得または設定します。
+右側のレイヤー位置を取得または設定します。
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-右レイヤー位置.
+右側レイヤーの位置です。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

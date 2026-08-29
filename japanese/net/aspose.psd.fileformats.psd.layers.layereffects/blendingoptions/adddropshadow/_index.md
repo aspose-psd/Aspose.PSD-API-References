@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 方法. ドロップ シャドウ効果を追加します
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions メソッド。ドロップシャドウ効果を追加します"
 type: docs
-weight: 30
+weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-ドロップ シャドウ効果を追加します。
+ドロップシャドウ効果を追加します。
 
 ```csharp
 public DropShadowEffect AddDropShadow()
@@ -16,13 +17,13 @@ public DropShadowEffect AddDropShadow()
 
 ### 戻り値
 
-作成済み[`DropShadowEffect`](../../dropshadoweffect/)object
+作成された [`DropShadowEffect`](../../dropshadoweffect/) オブジェクト
 
 ### 関連項目
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

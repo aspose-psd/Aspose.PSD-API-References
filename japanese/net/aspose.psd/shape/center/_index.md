@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD for .NET API リファレンス
-description: Shape 財産. 形状の中心を取得します
+title: "Shape.Center"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Shape プロパティ。シェイプの中心を取得します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 形状の中心を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd/shape/center/
 public abstract PointF Center { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-シェイプの中心。
+シェイプの中心です。
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* 名前空間 [Aspose.PSD](../../shape/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

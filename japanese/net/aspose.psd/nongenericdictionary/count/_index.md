@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.PSD for .NET API リファレンス
-description: NonGenericDictionary 財産. に含まれる要素の数を取得しますICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "NonGenericDictionary プロパティ。ICollection に含まれる要素数を取得します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-に含まれる要素の数を取得しますICollection .
+ICollection に含まれる要素数を取得します。
 
 ```csharp
 public int Count { get; }
@@ -16,12 +17,12 @@ public int Count { get; }
 
 ### 戻り値
 
-に含まれる要素の数ICollection.
+ICollection に含まれる要素の数です。
 
 ### 関連項目
 
 * class [NonGenericDictionary](../)
-* 名前空間 [Aspose.PSD](../../nongenericdictionary/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

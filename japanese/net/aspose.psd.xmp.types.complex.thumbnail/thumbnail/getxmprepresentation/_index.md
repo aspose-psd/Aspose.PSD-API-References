@@ -1,14 +1,15 @@
 ---
-title: Thumbnail.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API リファレンス
-description: Thumbnail 方法. 文字列に含まれる値を XMP 形式で取得します
+title: "Thumbnail.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Thumbnail メソッド。XMP 形式で含まれる文字列値を取得します"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Thumbnail.GetXmpRepresentation method
 
-文字列に含まれる値を XMP 形式で取得します。
+XMP 形式で含まれる文字列値を取得します。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 戻り値
 
-文字列に含まれる値を XMP 形式で返します。
+XMP 形式で含まれる文字列値を返します。
 
 ### 関連項目
 
 * class [Thumbnail](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect クラス. パターンレイヤー効果
+title: "クラス PatternOverlayEffect"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect クラス。パターンレイヤー効果"
 type: docs
-weight: 2180
+weight: 2380
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
 パターンレイヤー効果
@@ -18,15 +19,21 @@ public class PatternOverlayEffect : ILayerEffect
 
 | 名前 | 説明 |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | ブレンド モードを取得または設定します。 |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | エフェクトの種類を取得 type |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | このインスタンスが表示されるかどうかを示す値を取得または設定します. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | ブレンドモードを取得または設定します。 |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | 効果タイプの種類を取得します |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | このインスタンスが表示されているかどうかを示す値を取得または設定します。 |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | 不透明度を取得または設定します。 |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | 設定を取得または設定します。 |
 
-### 例
+## メソッド
 
-次のコードは、パターン オーバーレイ効果のサポートを示しています。
+| 名前 | 説明 |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | 入力レイヤーのピクセル境界に基づいてエフェクトピクセルの境界を計算し、取得します。 |
+
+## 例
+
+以下のコードは、パターンオーバーレイ効果のサポートを示しています。
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // テスト編集
+    // 編集テスト
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -141,7 +148,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
         throw new Exception("PattResource not found");
     }
 
-    // パターンデータをチェック
+    // パターンデータを確認する
     AssertAreEqual(newPattern, resource.Patterns[1].PatternData);
     AssertAreEqual(newPatternBounds, new Rectangle(0, 0, resource.Patterns[1].Width, resource.Patterns[1].Height));
     AssertAreEqual(guid.ToString().ToUpperInvariant(), resource.Patterns[1].PatternId);
@@ -152,7 +159,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 ### 関連項目
 
 * interface [ILayerEffect](../ilayereffect/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

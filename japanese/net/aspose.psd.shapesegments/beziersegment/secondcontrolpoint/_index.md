@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD for .NET API リファレンス
-description: BezierSegment 財産. ベジェ スプラインの 2 番目の制御点を取得します
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BezierSegment プロパティ。ベジエスプラインの第2制御点を取得します。"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-ベジェ スプラインの 2 番目の制御点を取得します。
+ベジエスプラインの2番目の制御点を取得します。
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-2 番目のコントロール ポイント。
+第2制御点です。
 
 ### 関連項目
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* 名前空間 [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

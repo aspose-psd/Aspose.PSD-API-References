@@ -1,14 +1,15 @@
 ---
-title: LayerGroupInformationResource.LayerGroupInformationResource
-second_title: Aspose.PSD for .NET API リファレンス
-description: LayerGroupInformationResource コンストラクタ. デフォルトのコンストラクター
+title: "LayerGroupInformationResource.LayerGroupInformationResource"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "LayerGroupInformationResource コンストラクタ。デフォルトコンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public LayerGroupInformationResource()
@@ -17,7 +18,7 @@ public LayerGroupInformationResource()
 ### 関連項目
 
 * class [LayerGroupInformationResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

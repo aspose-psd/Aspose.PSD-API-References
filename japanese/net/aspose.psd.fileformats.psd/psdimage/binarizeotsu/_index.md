@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeOtsu
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 大津閾値処理による画像の二値化
+title: "PsdImage.BinarizeOtsu"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。大津の閾値処理による画像の2値化"
 type: docs
-weight: 490
+weight: 550
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeOtsu method
 
-大津閾値処理による画像の二値化
+Otsuしきい値処理による画像の二値化
 
 ```csharp
 public override void BinarizeOtsu()
@@ -17,7 +18,7 @@ public override void BinarizeOtsu()
 ### 関連項目
 
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

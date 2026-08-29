@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. 高さを比例してサイズ変更します
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。高さを比例的にリサイズします"
 type: docs
-weight: 590
+weight: 650
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-高さを比例してサイズ変更します。
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| パラメータ | タイプ | 説明 |
-| --- | --- | --- |
-| newHeight | Int32 | 新しい高さ。 |
-| settings | ImageResizeSettings | 画像のリサイズ設定。 |
-
-### 関連項目
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-高さを比例してサイズ変更します。
+高さを比例的にリサイズします。
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| newHeight | Int32 | 新しい高さ。 |
-| resizeType | ResizeType | サイズ変更のタイプ。 |
+| newHeight | Int32 | 新しい高さです。 |
+| resizeType | ResizeType | リサイズの種類です。 |
 
 ### 関連項目
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+高さを比例的にリサイズします。
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| パラメーター | 型 | 説明 |
+| --- | --- | --- |
+| newHeight | Int32 | 新しい高さです。 |
+| 設定 | ImageResizeSettings | 画像リサイズの設定です。 |
+
+### 関連項目
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. ピクセルの x 次元を取得または設定します
+title: "ExifData.PixelXDimension"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。ピクセルの X 次元を取得または設定します"
 type: docs
 weight: 840
 url: /ja/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
-ピクセルの x 次元を取得または設定します。
+ピクセルのX次元を取得または設定します。
 
 ```csharp
 public uint PixelXDimension { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ピクセルの x 次元。
+ピクセルの X 次元です。
 
 ### 関連項目
 
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

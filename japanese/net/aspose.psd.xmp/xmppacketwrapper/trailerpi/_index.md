@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.TrailerPi
-second_title: Aspose.PSD for .NET API リファレンス
-description: XmpPacketWrapper 財産. トレーラ処理命令を取得します
+title: "XmpPacketWrapper.TrailerPi"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "XmpPacketWrapper プロパティ。 トレーラ処理指示を取得します"
 type: docs
 weight: 60
 url: /ja/net/aspose.psd.xmp/xmppacketwrapper/trailerpi/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.TrailerPi property
 
-トレーラ処理命令を取得します。
+トレーラー処理指示を取得します。
 
 ```csharp
 public XmpTrailerPi TrailerPi { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-トレーラ処理命令.
+トレーラ処理指示。
 
 ### 関連項目
 
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpPacketWrapper](../)
-* 名前空間 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

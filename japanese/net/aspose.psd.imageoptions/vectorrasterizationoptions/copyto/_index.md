@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.CopyTo
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorRasterizationOptions 方法. コピー先.
+title: "VectorRasterizationOptions.CopyTo"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorRasterizationOptions メソッド。コピーします"
 type: docs
 weight: 110
 url: /ja/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CopyTo method
 
-コピー先.
+コピー先。
 
 ```csharp
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| vectorRasterizationOptions | VectorRasterizationOptions | ベクター ラスター化オプション。 |
+| vectorRasterizationOptions | VectorRasterizationOptions | ベクトル ラスタライズ オプションです。 |
 
 ### 関連項目
 
 * class [VectorRasterizationOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

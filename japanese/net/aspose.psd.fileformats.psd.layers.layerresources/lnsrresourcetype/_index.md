@@ -1,14 +1,15 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType 列挙. 可能性のある Lnsr リソース タイプを検出しました
+title: "列挙型 LnsrResourceType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType 列挙型。可能な Lnsr リソースタイプが検出されました。"
 type: docs
-weight: 2760
+weight: 3070
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-可能性のある Lnsr リソース タイプを検出しました
+可能な Lnsr リソースタイプを検出しました
 
 ```csharp
 public enum LnsrResourceType
@@ -16,17 +17,17 @@ public enum LnsrResourceType
 
 ### 値
 
-| 名前 | 価値 | 説明 |
+| 名前 | 値 | 説明 |
 | --- | --- | --- |
-| Rend | `0` | text のレンド |
-| Cont | `1` | example の塗りつぶしレイヤーの内容 |
-| Bgnd | `2` | 背景レイヤーの背景 |
-| Layr | `3` | 通常の画像用レイヤー |
-| Unknown | `4` | Unknown は、enum を記述しなかった場合の状況です。 |
+| Rend | `0` | テキスト用の rend |
+| Cont | `1` | 例として、塗りつぶしレイヤー用の cont |
+| Bgnd | `2` | 背景レイヤー用の Bgnd |
+| Layr | `3` | 通常の画像レイヤー用の layr |
+| Unknown | `4` | Unknown は、列挙型が記述されていない状況を表します |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

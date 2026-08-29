@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD for .NET API リファレンス
-description: Point 方法. 指定されたPointFにPointオブジェクトを丸めてPoint最も近い整数への値.
+title: "Point.Round"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Point メソッド。指定された PointF を、Point の値を最も近い整数に丸めて Point オブジェクトに変換します。"
 type: docs
 weight: 50
 url: /ja/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-指定された[`PointF`](../../pointf/)に[`Point`](../)オブジェクトを丸めて[`Point`](../)最も近い整数への値.
+指定された [`PointF`](../../pointf/) を、[`Point`](../) の値を最も近い整数に丸めて [`Point`](../) オブジェクトに変換します。
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| point | PointF | の[`PointF`](../../pointf/)変換する。 |
+| point | PointF | 変換する [`PointF`](../../pointf/)。 |
 
 ### 戻り値
 
-の[`Point`](../)このメソッドはに変換します。
+このメソッドが変換する先の [`Point`](../)。
 
 ### 関連項目
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* 名前空間 [Aspose.PSD](../../point/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

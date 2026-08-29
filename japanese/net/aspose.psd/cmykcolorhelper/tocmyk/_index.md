@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: Aspose.PSD for .NET API リファレンス
-description: CmykColorHelper 方法. ARGB カラーから CMYK カラーへの変換
+title: "CmykColorHelper.ToCmyk"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "CmykColorHelper メソッド。ARGB カラーから CMYK カラーへの変換"
 type: docs
 weight: 90
 url: /ja/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
 ARGB カラーから CMYK カラーへの変換。
@@ -14,68 +15,68 @@ ARGB カラーから CMYK カラーへの変換。
 public static int[] ToCmyk(int[] argbPixels)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| argbPixels | Int32[] | 32 ビット整数値として表される ARGB カラー。 |
+| argbPixels | Int32[] | ARGB カラーは 32 ビット整数値として表されます。 |
 
 ### 戻り値
 
-32 ビット整数値として表される CMYK カラー。
+CMYK カラーは 32 ビット整数値として表されます。
 
 ### 関連項目
 
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmyk(int) {#tocmyk_1}
 
-ARGB カラーから CMYK カラーへの変換.
+ARGB カラーから CMYK カラーへの変換。
 
 ```csharp
 public static int ToCmyk(int argbPixel)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| argbPixel | Int32 | 32 ビット整数値として表される ARGB カラー。 |
+| argbPixel | Int32 | ARGB カラーは 32 ビット整数値として表されます。 |
 
 ### 戻り値
 
-32 ビット整数値で表される CMYK カラー。
+CMYK カラーは 32 ビット整数値として表されます。
 
 ### 関連項目
 
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToCmyk(Color) {#tocmyk}
 
-ARGB カラーから CMYK カラーへの変換.
+ARGB カラーから CMYK カラーへの変換。
 
 ```csharp
 public static int ToCmyk(Color pixel)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pixel | Color | ARGB カラー。 |
+| pixel | 色 | ARGB カラーです。 |
 
 ### 戻り値
 
-32 ビット整数値で表される CMYK カラー。
+CMYK カラーは 32 ビット整数値として表されます。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -87,19 +88,19 @@ ARGB カラーから CMYK カラーへの変換。
 public static int[] ToCmyk(Color[] pixels)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| pixels | Color[] | ARGB カラー。 |
+| ピクセル | Color[] | ARGB カラーです。 |
 
 ### 戻り値
 
-32 ビット整数値として表される CMYK カラー。
+CMYK カラーは 32 ビット整数値として表されます。
 
 ### 関連項目
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* 名前空間 [Aspose.PSD](../../cmykcolorhelper/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

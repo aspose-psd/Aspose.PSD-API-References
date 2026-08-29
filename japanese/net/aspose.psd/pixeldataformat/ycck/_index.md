@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Aspose.PSD for .NET API リファレンス
-description: PixelDataFormat 財産. を取得しますPixelDataFormatルマ青差赤差および黒彩度コンポーネントのそれぞれに 8 ビットを使用して1 ピクセルあたり 32 ビットで定義されます
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PixelDataFormat プロパティ。輝度（luma）、青差分（blue-difference）、赤差分（red-difference）、黒色差（black chroma）それぞれに8ビットを持つ、ピクセルあたり32ビットで定義された PixelDataFormat を取得します。"
 type: docs
 weight: 170
 url: /ja/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-を取得します[`PixelDataFormat`](../)ルマ、青差、赤差、および黒彩度コンポーネントのそれぞれに 8 ビットを使用して、1 ピクセルあたり 32 ビットで定義されます。
+[`PixelDataFormat`](../)は、輝度（luma）、青差分（blue-difference）、赤差分（red-difference）、黒色差（black chroma）それぞれに8ビットを持つ、ピクセルあたり32ビットで定義されています。
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-[`PixelDataFormat`](../)ルマ、青差、赤差、および黒彩度コンポーネントのそれぞれに 8 ビットを使用して、1 ピクセルあたり 32 ビットで定義されます。
+32ビット/ピクセルで、輝度、青差、赤差、黒色クロマ成分それぞれに8ビットを持つ [`PixelDataFormat`](../) が定義されています。
 
 ### 関連項目
 
 * class [PixelDataFormat](../)
-* 名前空間 [Aspose.PSD](../../pixeldataformat/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

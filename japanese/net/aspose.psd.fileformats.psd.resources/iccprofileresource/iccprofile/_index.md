@@ -1,11 +1,12 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD for .NET API リファレンス
-description: IccProfileResource 財産. ICC プロファイルを取得または設定します
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IccProfileResource プロパティ。ICC プロファイルを取得または設定します"
 type: docs
 weight: 30
 url: /ja/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
 ICC プロファイルを取得または設定します。
@@ -14,14 +15,14 @@ ICC プロファイルを取得または設定します。
 public MemoryStream IccProfile { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
 ICC プロファイル。
 
 ### 関連項目
 
 * class [IccProfileResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

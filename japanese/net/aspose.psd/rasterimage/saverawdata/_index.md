@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 方法. 生データを保存します
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage メソッド。生データを保存します。"
 type: docs
-weight: 530
+weight: 550
 url: /ja/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 生データを保存します。
@@ -15,19 +16,19 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
     RawDataSettings rawDataSettings)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| data | Byte[] | 生データ。 |
-| dataOffset | Int32 | 生データの開始オフセット。 |
-| rectangle | Rectangle | 生データの四角形。 |
-| rawDataSettings | RawDataSettings | データが含まれる生データ設定。 |
+| データ | Byte[] | 生データ。 |
+| dataOffset | Int32 | 開始の生データオフセットです。 |
+| 矩形 | Rectangle | 生データの矩形です。 |
+| rawDataSettings | RawDataSettings | データが存在する生データ設定です。 |
 
 ### 関連項目
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD for .NET API リファレンス
-description: BlendingOptions 方法. グラデーション オーバーレイを追加します
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "BlendingOptions メソッド。グラデーション オーバーレイを追加します"
 type: docs
-weight: 40
+weight: 50
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
-グラデーション オーバーレイを追加します。
+グラデーションオーバーレイを追加します。
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,13 +17,13 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### 戻り値
 
-作成済み[`GradientOverlayEffect`](../../gradientoverlayeffect/)object
+作成された [`GradientOverlayEffect`](../../gradientoverlayeffect/) オブジェクト
 
 ### 関連項目
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

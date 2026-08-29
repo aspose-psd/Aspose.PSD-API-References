@@ -1,14 +1,15 @@
 ---
-title: Class ImageSaveException
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.CoreExceptions.ImageSaveException クラス. 画像保存例外画像の保存中に発生します.
+title: "クラス ImageSaveException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.CoreExceptions.ImageSaveException クラス。画像保存例外。画像の保存中に発生します。"
 type: docs
 weight: 630
 url: /ja/net/aspose.psd.coreexceptions/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException class
 
-画像保存例外。画像の保存中に発生します.
+画像保存例外です。画像の保存中に発生します。
 
 ```csharp
 public class ImageSaveException : ImageException
@@ -18,13 +19,13 @@ public class ImageSaveException : ImageException
 
 | 名前 | 説明 |
 | --- | --- |
-| [ImageSaveException](imagesaveexception/#constructor)(string) | の新しいインスタンスを初期化します`ImageSaveException`class. |
-| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | の新しいインスタンスを初期化します`ImageSaveException`class. |
+| [ImageSaveException](imagesaveexception/#constructor)(string) | `ImageSaveException` クラスの新しいインスタンスを初期化します。 |
+| [ImageSaveException](imagesaveexception/#constructor_1)(string, Exception) | `ImageSaveException` クラスの新しいインスタンスを初期化します。 |
 
 ### 関連項目
 
 * class [ImageException](../imageexception/)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

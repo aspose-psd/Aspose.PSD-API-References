@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorRangeHsl 財産. 明度を取得または設定します
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorRangeHsl プロパティ。明度を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
 明度を取得または設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ligh
 public short Lightness { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-明るさ.
+明度です。
 
 ### 関連項目
 
 * class [ColorRangeHsl](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

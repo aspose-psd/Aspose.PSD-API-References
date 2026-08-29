@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.PSD for .NET API リファレンス
-description: IRasterImageRawDataLoader 財産. 生データの読み込みがサポートされているかどうかを示す値を取得します
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "IRasterImageRawDataLoader プロパティ。 生データのロードがサポートされているかどうかを示す値を取得します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-生データの読み込みがサポートされているかどうかを示す値を取得します。
+生データのロードがサポートされているかどうかを示す値を取得します。
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`生データの読み込みがサポートされている場合。さもないと、`間違い` .
+`true` は生データのロードがサポートされている場合です。そうでなければ `false`。
 
 ### 関連項目
 
 * interface [IRasterImageRawDataLoader](../)
-* 名前空間 [Aspose.PSD](../../irasterimagerawdataloader/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

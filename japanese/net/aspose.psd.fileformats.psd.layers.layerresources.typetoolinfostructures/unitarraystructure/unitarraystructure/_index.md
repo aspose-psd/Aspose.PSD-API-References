@@ -1,34 +1,35 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: UnitArrayStructure コンストラクタ. の新しいインスタンスを初期化しますUnitArrayStructureclass.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "UnitArrayStructure コンストラクタ。UnitArrayStructure クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-の新しいインスタンスを初期化します[`UnitArrayStructure`](../)class.
+[`UnitArrayStructure`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
 | keyName | ClassID | キーの名前。 |
-| unitType | UnitTypes | ユニットのタイプ。 |
-| values | Double[] | その価値。 |
+| unitType | UnitTypes | 単位のタイプです。 |
+| values | Double[] | 値です。 |
 
 ### 例外
 
-| 例外 | 調子 |
+| 例外 | 条件 |
 | --- | --- |
-| ArgumentNullException | 値を null にすることはできません |
+| ArgumentNullException | 値は null であってはなりません。 |
 
-### 例
+## 例
 
-次のコードは、ObAr および UnFl 署名のサポートを示しています。
+次のコードは ObAr と UnFl のシグネチャのサポートを示しています。
 
 ```csharp
 [C#]
@@ -85,7 +86,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

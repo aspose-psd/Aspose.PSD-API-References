@@ -1,14 +1,15 @@
 ---
-title: Class ListStructure
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ListStructure クラス. リスト構造
+title: "クラス ListStructure"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ListStructure クラス。リスト構造"
 type: docs
-weight: 3190
+weight: 3570
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/
 ---
+{{< psd/tize >}}
 ## ListStructure class
 
-リスト構造。
+リスト構造です。
 
 ```csharp
 public sealed class ListStructure : OSTypeStructure
@@ -18,27 +19,27 @@ public sealed class ListStructure : OSTypeStructure
 
 | 名前 | 説明 |
 | --- | --- |
-| [ListStructure](liststructure/)(ClassID) | の新しいインスタンスを初期化します`ListStructure`class. |
+| [ListStructure](liststructure/)(ClassID) | `ListStructure` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
 | 名前 | 説明 |
 | --- | --- |
-| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/) { get; } | アイテム数を取得します。 |
+| [ItemsCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/) { get; } | 項目数を取得します。 |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/key/) { get; } | 構造キーを取得します。 |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | キー名を取得または設定します。 |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length/) { get; } | を取得します[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)バイト単位の長さ. |
-| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/) { get; set; } | 構造体の配列のコピーを取得または設定します。 |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/length/) { get; } | バイト単位で[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) の長さを取得します。 |
+| [Types](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/) { get; set; } | 構造体配列のコピーを取得または設定します。 |
 
 ## メソッド
 
 | 名前 | 説明 |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダー長を取得します。 |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 指定したストリーム コンテナーに構造体を保存します。 |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | ヘッダーの長さを取得します。 |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | 構造体を指定されたストリーム コンテナに保存します。 |
 
-## 田畑
+## フィールド
 
 | 名前 | 説明 |
 | --- | --- |
@@ -47,7 +48,7 @@ public sealed class ListStructure : OSTypeStructure
 ### 関連項目
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

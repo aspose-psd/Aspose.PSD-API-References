@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UseRawData
-second_title: Aspose.PSD for .NET API リファレンス
-description: RasterImage 財産. 生データの読み込みが可能な場合に生データの読み込みを使用するかどうかを示す値を取得または設定します
+title: "RasterImage.UseRawData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RasterImage プロパティ。生データのロードが利用可能な場合に生データのロードを使用するかどうかを示す値を取得または設定します"
 type: docs
 weight: 150
 url: /ja/net/aspose.psd/rasterimage/userawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UseRawData property
 
-生データの読み込みが可能な場合に、生データの読み込みを使用するかどうかを示す値を取得または設定します。
+生データロードが利用可能な場合に、生データロードを使用するかどうかを示す値を取得または設定します。
 
 ```csharp
 public virtual bool UseRawData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`生データの読み込みが可能なときに生データの読み込みを使用する場合。さもないと、`間違い` .
+`true` 生データのロードが利用可能な場合に生データのロードを使用する場合; それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [RasterImage](../)
-* 名前空間 [Aspose.PSD](../../rasterimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

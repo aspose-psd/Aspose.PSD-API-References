@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: Aspose.PSD for .NET API リファレンス
-description: VstkResource 財産. ストローク スタイルのライン キャップのタイプを取得または設定します
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VstkResource プロパティ。ストロークスタイルラインキャップのタイプを取得または設定します"
 type: docs
-weight: 110
+weight: 90
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-ストローク スタイルのライン キャップのタイプを取得または設定します。
+ストロークスタイルのラインキャップのタイプを取得または設定します。
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-ストローク スタイル ライン キャップのタイプ。
+ストロークスタイルラインキャップのタイプです。
 
 ### 関連項目
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

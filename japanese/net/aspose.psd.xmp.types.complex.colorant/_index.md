@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間にはドキュメントで使用される着色剤 スウォッチ の特性を含む構造を表すクラスが含まれます
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間には、ドキュメントで使用されるカラントスウォッチの特性を含む構造体を表すクラスが含まれています。"
 type: docs
-weight: 630
+weight: 670
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/
 ---
-名前空間には、ドキュメントで使用される着色剤 (スウォッチ) の特性を含む構造を表すクラスが含まれます。
+{{< psd/tize >}}
+名前空間には、ドキュメントで使用される着色剤（スウォッチ）の特性を含む構造を表すクラスが含まれています。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [ColorantBase](./colorantbase/) | XMP Colorant タイプを表します。 |
-| [ColorantCmyk](./colorantcmyk/) | CMYK 着色剤を表します。 |
-| [ColorantLab](./colorantlab/) | LAB 着色剤を表します。 |
-| [ColorantRgb](./colorantrgb/) | RGB 着色剤を表します。 |
+| [ColorantBase](./colorantbase/) | XMP カラント型を表します。 |
+| [ColorantCmyk](./colorantcmyk/) | CMYK カラントを表します。 |
+| [ColorantLab](./colorantlab/) | LAB カラントを表します。 |
+| [ColorantRgb](./colorantrgb/) | RGB カラントを表します。 |
 ## 列挙
 
 | 列挙 | 説明 |
 | --- | --- |
-| [ColorMode](./colormode/) | カラーモードを表します. |
-| [ColorType](./colortype/) | 色の種類. |
+| [ColorMode](./colormode/) | カラーモードを表します。 |
+| [ColorType](./colortype/) | 色のタイプです。 |
 
 

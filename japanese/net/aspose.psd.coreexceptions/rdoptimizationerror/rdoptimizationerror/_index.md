@@ -1,27 +1,28 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Aspose.PSD for .NET API リファレンス
-description: RdOptimizationError コンストラクタ. の新しいインスタンスを初期化しますRdOptimizationErrorclass.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RdOptimizationError コンストラクタ。RdOptimizationError クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-の新しいインスタンスを初期化します[`RdOptimizationError`](../)class.
+[`RdOptimizationError`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RdOptimizationError(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | エラーを説明するメッセージ。 |
+| メッセージ | 文字列 | エラーを説明するメッセージ。 |
 
 ### 関連項目
 
 * class [RdOptimizationError](../)
-* 名前空間 [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

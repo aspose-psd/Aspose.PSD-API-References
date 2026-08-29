@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はTiff ファイル形式の処理を処理します
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は TIFF ファイル形式の処理を担当します"
 type: docs
-weight: 440
+weight: 480
 url: /ja/net/aspose.psd.interfaces/
 ---
-名前空間は、Tiff ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は TIFF ファイル形式の処理を行います。
 
-## インターフェース
+## インターフェイス
 
-| インターフェース | 説明 |
+| インターフェイス | 説明 |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | 実数 (インチ単位) で表されるサイズのオブジェクトを表します。 |
+| [IObjectWithSizeF](./iobjectwithsizef/) | サイズが実数（インチ）で表されるオブジェクトを表します。 |
 
 

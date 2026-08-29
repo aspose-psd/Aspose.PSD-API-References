@@ -1,27 +1,28 @@
 ---
-title: Layer.IsVisibleInGroup
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. このインスタンスがグループ内で可視かどうかを示す値を取得します レイヤーがグループ内にない場合はルート グループを意味します
+title: "Layer.IsVisibleInGroup"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。このインスタンスがグループ内で可視かどうかを示す値を取得します。レイヤーがグループに属していない場合はルートグループを意味します。"
 type: docs
-weight: 180
+weight: 190
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisibleInGroup property
 
-このインスタンスがグループ内で可視かどうかを示す値を取得します (レイヤーがグループ内にない場合は、ルート グループを意味します)。
+このインスタンスがグループ内で表示されているかどうかを示す値を取得します（レイヤーがグループに属していない場合はルートグループを意味します）。
 
 ```csharp
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-`真実`このインスタンスがグループで表示されている場合。さもないと、`間違い` .
+このインスタンスがグループ内で可視の場合は `true`、それ以外の場合は `false`。
 
 ### 関連項目
 
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

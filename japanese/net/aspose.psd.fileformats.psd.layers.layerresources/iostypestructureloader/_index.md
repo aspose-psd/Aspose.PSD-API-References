@@ -1,14 +1,15 @@
 ---
-title: Interface IOSTypeStructureLoader
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader インターフェース. OSTypeStructureリソースローダー.
+title: "インターフェイス IOSTypeStructureLoader"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IOSTypeStructureLoader インターフェイス。OSTypeStructure リソースローダー"
 type: docs
-weight: 2520
+weight: 2790
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader interface
 
-[`OSTypeStructure`](../ostypestructure/)リソースローダー.
+[`OSTypeStructure`](../ostypestructure/) リソースローダーです。
 
 ```csharp
 public interface IOSTypeStructureLoader
@@ -18,12 +19,12 @@ public interface IOSTypeStructureLoader
 
 | 名前 | 説明 |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | かどうかを決定します[`OSTypeStructure`](../ostypestructure/)リソースは指定された場所からロードできます[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | ロード[`OSTypeStructure`](../ostypestructure/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/)(StreamContainer) | 指定された [`StreamContainer`](../../aspose.psd/streamcontainer/) から [`OSTypeStructure`](../ostypestructure/) リソースをロードできるかどうかを判断します。 |
+| [Load](../../aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/)(StreamContainer) | [`OSTypeStructure`](../ostypestructure/) をロードします。 |
 
 ### 関連項目
 
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD for .NET API リファレンス
-description: ExifData 財産. 絞り値を取得または設定します
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ExifData プロパティ。絞り値を取得または設定します"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
 絞り値を取得または設定します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.exif/exifdata/aperturevalue/
 public TiffRational ApertureValue { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-絞り値.
+絞り値です。
 
 ### 関連項目
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 名前空間 [Aspose.PSD.Exif](../../exifdata/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

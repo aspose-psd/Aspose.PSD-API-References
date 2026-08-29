@@ -1,11 +1,12 @@
 ---
-title: PsdImage.MergeLayers
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 方法. レイヤーを結合します
+title: "PsdImage.MergeLayers"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage メソッド。レイヤーをマージします"
 type: docs
-weight: 560
+weight: 620
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 ---
+{{< psd/tize >}}
 ## PsdImage.MergeLayers method
 
 レイヤーを結合します。
@@ -14,20 +15,20 @@ url: /ja/net/aspose.psd.fileformats.psd/psdimage/mergelayers/
 public Layer MergeLayers(Layer bottomLayer, Layer topLayer)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| bottomLayer | Layer | 最下層。 |
-| topLayer | Layer | 最上層。 |
+| bottomLayer | レイヤー | 下部レイヤーです。 |
+| topLayer | レイヤー | 上部レイヤーです。 |
 
 ### 戻り値
 
-マージ後の最下層
+マージ後の下部レイヤー
 
 ### 関連項目
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

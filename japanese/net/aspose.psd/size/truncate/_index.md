@@ -1,32 +1,33 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD for .NET API リファレンス
-description: Size 方法. 指定されたSizeFへの構造Sizeの値を切り捨てて構造化するSizeF構造体を次に低い整数値に変換します.
+title: "Size.Truncate"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Size メソッド。 指定された SizeF 構造体の値を次の小さい整数に切り捨てて、Size 構造体に変換します。"
 type: docs
 weight: 70
 url: /ja/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-指定された[`SizeF`](../../sizef/)への構造[`Size`](../)の値を切り捨てて構造化する[`SizeF`](../../sizef/)構造体を次に低い整数値に変換します.
+指定された [`SizeF`](../../sizef/) 構造体の値を次の小さい整数に切り捨てて、[`Size`](../) 構造体に変換します。
 
 ```csharp
 public static Size Truncate(SizeF size)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| size | SizeF | の[`SizeF`](../../sizef/)変換する構造。 |
+| size | SizeF | 変換する [`SizeF`](../../sizef/) 構造体。 |
 
 ### 戻り値
 
-の[`Size`](../)このメソッドが変換する構造。
+このメソッドが変換する [`Size`](../) 構造体です。
 
 ### 関連項目
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* 名前空間 [Aspose.PSD](../../size/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

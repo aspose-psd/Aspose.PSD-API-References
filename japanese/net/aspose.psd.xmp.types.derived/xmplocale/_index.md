@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD for .NET API リファレンス
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale クラス. 言語コードを表します
+title: "クラス XmpLocale"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale クラス。言語コードを表します。"
 type: docs
-weight: 6170
+weight: 6670
 url: /ja/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 言語コードを表します。
@@ -18,7 +19,7 @@ public sealed class XmpLocale : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | の新しいインスタンスを初期化します`XmpLocale`class. |
+| [XmpLocale](xmplocale/)(string) | `XmpLocale` クラスの新しいインスタンスを初期化します。 |
 
 ## プロパティ
 
@@ -30,16 +31,16 @@ public sealed class XmpLocale : XmpText
 
 | 名前 | 説明 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | 文字列に含まれる値を XMP 形式で取得します。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | XMP 形式で含まれる文字列値を取得します。 |
 
-### 備考
+## 備考
 
 IETF RFC 3066 を参照してください。
 
 ### 関連項目
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* 名前空間 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 組み立て [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

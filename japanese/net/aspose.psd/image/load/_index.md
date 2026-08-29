@@ -1,69 +1,70 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD for .NET API リファレンス
-description: Image 方法. 指定したファイルから新しい画像を読み込みます
+title: "Image.Load"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Image メソッド。指定されたファイルから新しい画像をロードします。"
 type: docs
 weight: 20
 url: /ja/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
-指定したファイルから新しい画像を読み込みます。
+指定されたファイルから新しい画像を読み込みます。
 
 ```csharp
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | 画像の読み込み元のファイル パス。 |
-| loadOptions | LoadOptions | 読み込みオプション。 |
+| filePath | 文字列 | 画像をロードするファイルパスです。 |
+| loadOptions | LoadOptions | ロードオプション。 |
 
 ### 戻り値
 
-読み込まれた画像。
+ロードされた画像です。
 
 ### 関連項目
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(string) {#load_2}
 
-指定したファイルから新しい画像を読み込みます。
+指定されたファイルから新しい画像を読み込みます。
 
 ```csharp
 public static Image Load(string filePath)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| filePath | String | 画像を読み込むファイル パス。 |
+| filePath | 文字列 | 画像をロードするファイルパスです。 |
 
 ### 戻り値
 
-読み込まれた画像。
+ロードされた画像です。
 
-### 例
+## 例
 
-この例では、指定されたファイル パスを使用して既存のイメージ ファイルを Aspose.PSD.Image のインスタンスにロードする方法を示します。
+この例は、指定されたファイルパスを使用して既存の Image ファイルを Aspose.PSD.Image のインスタンスにロードする方法を示しています。
 
 ```csharp
 [C#]
 
-// Image インスタンスを作成し、ディスクの場所にある既存のイメージ ファイルで初期化します
+//Image インスタンスを作成し、ディスク上の既存の画像ファイルで初期化します。
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    // 画像処理を行います
+    //画像処理を行います。
 }
 ```
 
-次の例は、右から左へ記述する言語の ITextPortion によるテキストの配置が正しく機能することを示しています。
+次の例は、右から左への言語に対して ITextPortion を使用したテキスト配置が正しく機能することを示しています。
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルを読み込んでチャンネル RGB ごとに 16 ビットに保存すると、例外なく正しく動作することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルをチャンネルごとに 16 ビットの RGB に読み込み保存することが正しく例外なく動作することを示しています。
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // ここも例外ではありません。
+    // ここでは例外は発生しないはずです。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルの読み取りと、チャネルあたり 8 ビットのグレースケールへの保存が例外なく正しく機能することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルをチャンネルごとに 8 ビットのグレースケールに読み込み保存することが正しく例外なく動作することを示しています。
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // ここも例外ではありません。
+    // ここでは例外は発生しないはずです。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-次の例は、ドキュメント変換の進行状況が例外なく正しく機能することを示しています。
+次の例は、ドキュメント変換の進行状況が正しく例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-次の例は、グレースケール 16 ビット PSD ファイルの読み取りと保存が例外なく正しく機能することを示しています。
+次の例は、グレースケール 16 ビット PSD ファイルの読み取りと保存が正しく、例外なしで動作することを示しています。
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // ここも例外ではありません。
+        // ここでは例外は発生しないはずです。
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -258,8 +259,8 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -271,21 +272,21 @@ SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, Comp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | 画像を読み込むストリーム。 |
-| loadOptions | LoadOptions | 読み込みオプション。 |
+| ストリーム | ストリーム | 画像をロードするためのストリームです。 |
+| loadOptions | LoadOptions | ロードオプション。 |
 
 ### 戻り値
 
-読み込まれた画像。
+ロードされた画像です。
 
 ### 関連項目
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -297,25 +298,25 @@ public static Image Load(Stream stream, LoadOptions loadOptions)
 public static Image Load(Stream stream)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| stream | Stream | 画像をロードするストリーム。 |
+| ストリーム | ストリーム | 画像をロードするためのストリームです。 |
 
 ### 戻り値
 
-読み込まれた画像。
+ロードされた画像です。
 
-### 例
+## 例
 
-この例では、System.IO.Stream オブジェクトを使用して既存のイメージ ファイルをロードする方法を示します。
+この例は、System.IO.Stream オブジェクトを使用して既存の Image ファイルをロードする方法を示しています。
 
 ```csharp
 [C#]
 
-// FileStream のインスタンスを作成します
+//FileStream のインスタンスを作成します。
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    // Image クラスのインスタンスを作成し、Load メソッドを呼び出して FileStream オブジェクトを介して既存のファイルをロードします
+    //Image クラスのインスタンスを作成し、FileStream オブジェクトを介して Load メソッドを呼び出すことで既存のファイルをロードします。
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
         //画像処理を行います。
@@ -326,7 +327,7 @@ using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.ps
 ### 関連項目
 
 * class [Image](../)
-* 名前空間 [Aspose.PSD](../../image/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

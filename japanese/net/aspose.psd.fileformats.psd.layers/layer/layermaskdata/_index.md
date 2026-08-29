@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD for .NET API リファレンス
-description: Layer 財産. レイヤー マスク データを取得または設定します
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Layer プロパティ。レイヤー マスク データを取得または設定します"
 type: docs
-weight: 220
+weight: 230
 url: /ja/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-レイヤー マスク データを取得または設定します。
+レイヤーマスクデータを取得または設定します。
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-レイヤーマスクデータ.
+レイヤー マスク データです。
 
 ### 関連項目
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

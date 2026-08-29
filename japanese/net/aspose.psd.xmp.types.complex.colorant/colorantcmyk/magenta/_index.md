@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD for .NET API リファレンス
-description: ColorantCmyk 財産. マゼンタ コンポーネントの値を取得または設定します
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "ColorantCmyk プロパティ。マゼンタコンポーネントの値を取得または設定します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-マゼンタ コンポーネントの値を取得または設定します。
+マゼンタコンポーネントの値を取得または設定します。
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-マゼンタ コンポーネントの値。
+マゼンタ成分の値。
 
 ### 関連項目
 
 * class [ColorantCmyk](../)
-* 名前空間 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

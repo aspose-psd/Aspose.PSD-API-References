@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCountry
-second_title: Aspose.PSD for .NET API リファレンス
-description: PhotoshopPackage 方法. 国を設定します
+title: "PhotoshopPackage.SetCountry"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PhotoshopPackage メソッド。国を設定します"
 type: docs
 weight: 80
 url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCountry method
 
 国を設定します。
@@ -14,14 +15,14 @@ url: /ja/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/
 public void SetCountry(string country)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| country | String | 国。 |
+| 国 | 文字列 | 国です。 |
 
 ### 関連項目
 
 * class [PhotoshopPackage](../)
-* 名前空間 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

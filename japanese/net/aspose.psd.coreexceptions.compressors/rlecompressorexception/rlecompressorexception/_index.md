@@ -1,48 +1,49 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Aspose.PSD for .NET API リファレンス
-description: RleCompressorException コンストラクタ. の新しいインスタンスを初期化しますRleCompressorExceptionclass.
+title: "RleCompressorException.RleCompressorException"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RleCompressorException コンストラクタ。RleCompressorException クラスの新しいインスタンスを初期化します。"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException(string) {#constructor}
 
-の新しいインスタンスを初期化します[`RleCompressorException`](../)class.
+[`RleCompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RleCompressorException(string message)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
 
 ### 関連項目
 
 * class [RleCompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RleCompressorException(string, Exception) {#constructor_1}
 
-の新しいインスタンスを初期化します[`RleCompressorException`](../)class.
+[`RleCompressorException`](../) クラスの新しいインスタンスを初期化します。
 
 ```csharp
 public RleCompressorException(string message, Exception innerException)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| message | String | 例外メッセージ。 |
-| innerException | Exception | 内部例外。 |
+| メッセージ | 文字列 | 例外メッセージです。 |
+| innerException | Exception | 内部例外です。 |
 
 ### 関連項目
 
 * class [RleCompressorException](../)
-* 名前空間 [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

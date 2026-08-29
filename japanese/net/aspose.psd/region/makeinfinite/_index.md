@@ -1,14 +1,15 @@
 ---
-title: Region.MakeInfinite
-second_title: Aspose.PSD for .NET API リファレンス
-description: Region 方法. これを初期化しますRegion無限の内部へのオブジェクト.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Region メソッド。 この Region オブジェクトを無限の内部に初期化します。"
 type: docs
-weight: 110
+weight: 120
 url: /ja/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-これを初期化します[`Region`](../)無限の内部へのオブジェクト.
+この [`Region`](../) オブジェクトを無限の内部に初期化します。
 
 ```csharp
 public void MakeInfinite()
@@ -17,7 +18,7 @@ public void MakeInfinite()
 ### 関連項目
 
 * class [Region](../)
-* 名前空間 [Aspose.PSD](../../region/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: OuterGlowEffect.Spread
-second_title: Aspose.PSD for .NET API リファレンス
-description: OuterGlowEffect 財産. 強度をパーセントで取得または設定します
+title: "OuterGlowEffect.Spread"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "OuterGlowEffect プロパティ。強度をパーセントで取得または設定します"
 type: docs
 weight: 130
 url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Spread property
 
 強度をパーセントで取得または設定します。
@@ -14,13 +15,13 @@ url: /ja/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spre
 public int Spread { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スプレッド.
+拡散です。
 
-### 例
+## 例
 
-次のコードは、OuterGlowEffect のサポートを示しています。
+以下のコードは、OuterGlowEffect のサポートを示しています。
 
 ```csharp
 [C#]
@@ -44,7 +45,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### 関連項目
 
 * class [OuterGlowEffect](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

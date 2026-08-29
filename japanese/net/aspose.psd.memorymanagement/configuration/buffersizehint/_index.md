@@ -1,27 +1,28 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: Aspose.PSD for .NET API リファレンス
-description: Configuration 財産. すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Configuration プロパティ。すべての内部バッファに対して定義された最大許容サイズであるバッファサイズヒントを取得または設定します"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
-すべての内部バッファーの最大許容サイズが定義されているバッファー サイズのヒントを取得または設定します。
+すべての内部バッファに対して定義された最大許容サイズであるバッファサイズヒントを取得または設定します。
 
 ```csharp
 public static int BufferSizeHint { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-メガバイト単位のバッファ サイズのヒント。 正でない値は、内部バッファのメモリ制限がないことを意味します
+バッファサイズヒント（メガバイト単位）。0 以下の値は内部バッファに対するメモリ制限がないことを意味します。
 
 ### 関連項目
 
 * class [Configuration](../)
-* 名前空間 [Aspose.PSD.MemoryManagement](../../configuration/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

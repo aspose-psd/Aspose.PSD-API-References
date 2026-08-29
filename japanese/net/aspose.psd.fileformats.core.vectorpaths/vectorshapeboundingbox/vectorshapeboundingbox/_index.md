@@ -1,14 +1,15 @@
 ---
-title: VectorShapeBoundingBox.VectorShapeBoundingBox
-second_title: Aspose.PSD for .NET API リファレンス
-description: VectorShapeBoundingBox コンストラクタ. デフォルトのコンストラクター
+title: "VectorShapeBoundingBox.VectorShapeBoundingBox"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VectorShapeBoundingBox コンストラクタ。デフォルト コンストラクタ"
 type: docs
 weight: 10
 url: /ja/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox constructor
 
-デフォルトのコンストラクター。
+デフォルトコンストラクタです。
 
 ```csharp
 public VectorShapeBoundingBox()
@@ -17,7 +18,7 @@ public VectorShapeBoundingBox()
 ### 関連項目
 
 * class [VectorShapeBoundingBox](../)
-* 名前空間 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

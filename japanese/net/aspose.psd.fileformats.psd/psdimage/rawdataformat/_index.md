@@ -1,11 +1,12 @@
 ---
-title: PsdImage.RawDataFormat
-second_title: Aspose.PSD for .NET API リファレンス
-description: PsdImage 財産. 生データ形式を取得します
+title: "PsdImage.RawDataFormat"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "PsdImage プロパティ。生データ形式を取得します"
 type: docs
 weight: 220
 url: /ja/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.RawDataFormat property
 
 生データ形式を取得します。
@@ -14,15 +15,15 @@ url: /ja/net/aspose.psd.fileformats.psd/psdimage/rawdataformat/
 public override PixelDataFormat RawDataFormat { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-生データ形式.
+生データ形式です。
 
 ### 関連項目
 
 * class [PixelDataFormat](../../../aspose.psd/pixeldataformat/)
 * class [PsdImage](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

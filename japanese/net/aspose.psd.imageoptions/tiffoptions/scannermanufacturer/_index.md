@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD for .NET API リファレンス
-description: TiffOptions 財産. スキャナーの製造元を取得または設定します
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "TiffOptions プロパティ。スキャナーメーカーを取得または設定します"
 type: docs
-weight: 410
+weight: 420
 url: /ja/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
-スキャナーの製造元を取得または設定します。
+スキャナの製造元を取得または設定します。
 
 ```csharp
 public string ScannerManufacturer { get; set; }
 ```
 
-### プロパティ値
+### Property Value
 
-スキャナの製造元。
+スキャナーメーカー。
 
 ### 関連項目
 
 * class [TiffOptions](../)
-* 名前空間 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

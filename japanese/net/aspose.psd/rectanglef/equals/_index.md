@@ -1,31 +1,32 @@
 ---
-title: RectangleF.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: RectangleF 方法. かどうかをテストしますobjですRectangleFこれと同じ位置とサイズでRectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "RectangleF メソッド。obj がこの RectangleF と同じ位置とサイズを持つ RectangleF かどうかをテストします。"
 type: docs
 weight: 200
 url: /ja/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-かどうかをテストします*obj*です[`RectangleF`](../)これと同じ位置とサイズで[`RectangleF`](../) .
+*obj* がこの [`RectangleF`](../) と同じ位置とサイズを持つ [`RectangleF`](../) かどうかをテストします。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | のObjectテストする。 |
+| obj | Object | テストするオブジェクトです。 |
 
 ### 戻り値
 
-このメソッドは、次の場合に true を返します。*obj*です[`RectangleF`](../)その X、Y、Width、および Height プロパティは、これの対応するプロパティと同じです。[`RectangleF`](../);それ以外の場合は false。
+このメソッドは、*obj* が [`RectangleF`](../) であり、その X、Y、Width、Height プロパティがこの [`RectangleF`](../) の対応するプロパティと等しい場合に true を返し、そうでない場合は false を返します。
 
 ### 関連項目
 
 * struct [RectangleF](../)
-* 名前空間 [Aspose.PSD](../../rectanglef/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

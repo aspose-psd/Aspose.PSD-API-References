@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Aspose.PSD for .NET API リファレンス
-description: 名前空間はTiff ファイル形式の処理を処理します
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "この名前空間は TIFF ファイル形式の処理を担当します"
 type: docs
-weight: 370
+weight: 410
 url: /ja/net/aspose.psd.fileformats.tiff/
 ---
-名前空間は、Tiff ファイル形式の処理を処理します。
+{{< psd/tize >}}
+この名前空間は TIFF ファイル形式の処理を行います。
 
 ## クラス
 
 | クラス | 説明 |
 | --- | --- |
-| [TiffDataType](./tiffdatatype/) | tiff データ型. |
-| [TiffExifIfd](./tiffexififd/) | TIFF Exif 画像ファイル ディレクトリ クラス. |
-| [TiffRational](./tiffrational/) | tiff 有理型。 |
-| [TiffSRational](./tiffsrational/) | tiff 有理型。 |
+| [TiffDataType](./tiffdatatype/) | TIFF データ型。 |
+| [TiffExifIfd](./tiffexififd/) | TIFF Exif 画像ファイルディレクトリクラス。 |
+| [TiffRational](./tiffrational/) | TIFF ラショナル型。 |
+| [TiffSRational](./tiffsrational/) | TIFF ラショナル型。 |
 
 

@@ -1,31 +1,32 @@
 ---
-title: Color.Equals
-second_title: Aspose.PSD for .NET API リファレンス
-description: Color 方法. 指定されたオブジェクトがColor構造でありこれと同等ですColor構造体.
+title: "Color.Equals"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "Color メソッド。指定されたオブジェクトが Color 構造体であり、この Color 構造体と等価かどうかをテストします。"
 type: docs
 weight: 1540
 url: /ja/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-指定されたオブジェクトが[`Color`](../)構造であり、これと同等です[`Color`](../)構造体.
+指定されたオブジェクトが [`Color`](../) 構造体であり、この [`Color`](../) 構造体と等価かどうかをテストします。
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| パラメータ | タイプ | 説明 |
+| パラメーター | 型 | 説明 |
 | --- | --- | --- |
-| obj | Object | テストするオブジェクト。 |
+| obj | Object | テスト対象のオブジェクトです。 |
 
 ### 戻り値
 
-真の場合*obj*です[`Color`](../)これと等価な構造[`Color`](../)構造;それ以外の場合は false。
+*obj* がこの [`Color`](../) 構造体と等価な [`Color`](../) 構造体である場合は true、そうでなければ false。
 
 ### 関連項目
 
 * struct [Color](../)
-* 名前空間 [Aspose.PSD](../../color/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

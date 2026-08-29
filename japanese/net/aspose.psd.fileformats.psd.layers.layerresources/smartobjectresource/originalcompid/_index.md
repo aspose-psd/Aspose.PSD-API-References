@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.OriginalCompId
-second_title: Aspose.PSD for .NET API リファレンス
-description: SmartObjectResource 財産. 子ドキュメントの現在選択されている Comp の元の ID を取得します何も選択されていない場合は 1 になります このプロパティはPSD ファイル内のスマート オブジェクト レイヤーの元のレイヤー Comp 選択識別子を取得します スマートオブジェクトのレイヤーカンプ
+title: "SmartObjectResource.OriginalCompId"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "SmartObjectResource プロパティ。子ドキュメントで現在選択されているコンプの元の ID を取得します。選択されていない場合は 1 になります。このプロパティは PSD ファイル内のスマートオブジェクトレイヤーの元のレイヤーコンプ選択識別子を取得します。スマートオブジェクトのレイヤーコンプ"
 type: docs
 weight: 140
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.OriginalCompId property
 
-子ドキュメントの現在選択されている Comp の元の ID を取得します。何も選択されていない場合は -1 になります。 このプロパティは、PSD ファイル内のスマート オブジェクト レイヤーの元のレイヤー Comp 選択識別子を取得します。 [スマートオブジェクトのレイヤーカンプ](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+子ドキュメントの現在選択されている Comp の元の ID を取得します。選択されていない場合は -1 になります。このプロパティは、PSD ファイル内のスマートオブジェクトレイヤーの元のレイヤー Comp 選択識別子を取得します。 [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### プロパティ値
+### Property Value
 
-PSD 画像内の子ドキュメントの現在選択されているカンプの元の ID。何も選択されていない場合は -1 になります。
+PSD 画像内の子ドキュメントで現在選択されているコンプの元の ID です。選択されていない場合は -1 になります。
 
-### 例
+## 例
 
-次のコードは、SoLEResource、SmartObjectResource、および PlacedResource リソースのサポートを示しています。
+以下のコードは SoLEResource、SmartObjectResource、PlacedResource のサポートを示しています。
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // この値はリソースでは変更しません
+    // この値はリソース内で変更しません。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-    // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+    // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+    // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // この一意の ID は、参照があれば変更する必要があります
+    // このユニーク ID は、参照がある場合は変更する必要があります。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 一部のパラメータには注意してください: 保存された画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+    // いくつかのパラメータに注意してください：保存された画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-    // または、下線付きのスマート オブジェクトをベクター型に変更します
+    // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+    // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+    // このユニーク ID を持つ有効な PlLdResource が必要です。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -323,12 +325,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-次のコードは、SoLdResource リソースのサポートを示しています。
+以下のコードは SoLdResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// この例では、PSD ファイルのスマート オブジェクト レイヤー データ プロパティを取得または設定する方法を示します。
+// この例は PSD ファイルのスマートオブジェクトレイヤーデータプロパティを取得または設定する方法を示しています。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +564,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // この値は、PlLdResource でも (UniqueId を指定して) 変更する必要があります
-                // そして、それらのいくつかは、LinkDataSource の下にあるスマート オブジェクトと一致している必要があります
+                // この値は PlLdResource（指定された UniqueId を持つ）でも変更する必要があります。
+                // また、それらの一部は LinkDataSource 内の基になるスマートオブジェクトと一致している必要があります。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,18 +610,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // この一意の ID は、参照があれば変更する必要があります
+                // このユニーク ID は、参照がある場合は変更する必要があります。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 一部のパラメータには注意してください: 画像は Adobe® Photoshop® で読み取れなくなる可能性があります
+                // いくつかのパラメータには注意してください: 画像が Adobe® Photoshop® で読み取れなくなる可能性があります。
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // これを変更しないでください。そうしないと、自由な変換を使用できなくなります
-                // または、下線付きのスマート オブジェクトをベクター型に変更します
+                // これを変更しないでください。そうしないと、
+自由変形を使用できなくなります。
+                // または、基になるスマートオブジェクトをベクトルタイプに変更してください。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // この一意の ID を持つ有効な PlLdResource が存在する必要があります
+                // このユニーク ID を持つ有効な PlLdResource が必要です。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -635,7 +638,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [SmartObjectResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

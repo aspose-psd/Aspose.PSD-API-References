@@ -1,22 +1,23 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: VogkResource 財産. レイヤー リソースに必要な最小限の psd バージョンを取得します 0 は制限なしを示します
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VogkResource プロパティ。レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限がないことを示します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-レイヤー リソースに必要な最小限の psd バージョンを取得します。 0 は制限なしを示します。
+レイヤーリソースに必要な最小 PSD バージョンを取得します。0 は制限なしを示します。
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### 例
+## 例
 
-次の例は、VogkResource リソースのサポートを示しています。
+次の例は VogkResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 読む
+    // 読み取り
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // 編集中
+    // 編集
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### 関連項目
 
 * class [VogkResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

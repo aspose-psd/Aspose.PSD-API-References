@@ -1,11 +1,12 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD for .NET API リファレンス
-description: VibAResource 財産. psd バージョンを取得します
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API Reference"
+description: "VibAResource プロパティ。psd バージョンを取得します"
 type: docs
 weight: 40
 url: /ja/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
 psd バージョンを取得します。
@@ -14,14 +15,14 @@ psd バージョンを取得します。
 public override int PsdVersion { get; }
 ```
 
-### 例
+## 例
 
 次のコード例は、VibAResource リソースのサポートを示しています。
 
 ```csharp
 [C#]
 
-// 実行時のバイブレーション リソースの読み取りと書き込みのサポートの例。
+// 実行時に Vibration リソースの読み取りと書き込みをサポートする例です。
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### 関連項目
 
 * class [VibAResource](../)
-* 名前空間 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* 組み立て [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 
